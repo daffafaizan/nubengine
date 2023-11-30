@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>{% block title %} Search Engine {% endblock %} </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdn.tailwindcss.com"></script>
+
+        <script>
+            tailwind.config = {
+                theme: {
+                    extend: {
+                        colors: {
+                            emerald: {
+                                50: "#f1fcf1",
+                                100: "#ddfbde",
+                                200: "#bdf5c1",
+                                300: "#8aeb91",
+                                400: "#4cd757",
+                                500: "#29be35",
+                                600: "#1c9d27",
+                                700: "#197c22",
+                                800: "#196220",
+                                900: "#17501e",
+                                950: "#072c0b",
+                            },
+                        },
+                    },
+                },
+            };
+        </script>
+
+        {% block meta %} {% endblock meta %}
+    </head>
+    <body>
+        <div class="min-h-screen flex flex-col justify-center items-center">
+            {% block content %}
+            <h1>Test</h1>
+            {% endblock content %}
+        </div>
+    </body>
+</html>
