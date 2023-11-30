@@ -39,13 +39,34 @@
       <div class="flex flex-row justify-center items-center gap-4">
         <h1>Gugel</h1>
         <form method="POST" action="{% url 'website:show_home' %}">
-            {% csrf_token %}
-          <input type="text" id="query" name="query" class="border-2 rounded-md" />
+          {% csrf_token %}
+          <input
+            type="text"
+            id="queries"
+            name="queries"
+            class="border-2 rounded-md"
+          />
           <button type="submit">Search</button>
         </form>
       </div>
       <div class="flex flex-row justify-center items-center mt-10">
-        {{ query }}
+        {% if queries %}
+        <h2>Queries</h2>
+        <ul>
+          {% for query in queries %}
+          <li>{{ query }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %} {% if query_results %}
+        <h2>Results</h2>
+        {% for result in query_results %}
+        <h3>{{ result.query }}</h3>
+        <ul>
+          {% for item in result.results %}
+          <li>{{ item.doc }} - {{ item.score }}</li>
+          {% endfor %}
+        </ul>
+        {% endfor %} {% endif %}
       </div>
       {% endblock content %}
     </div>

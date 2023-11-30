@@ -1,3 +1,8 @@
 asgiref==3.7.2
 Django==4.2.7
+Levenshtein==0.23.0
+mpstemmer @ git+https://github.com/ariaghora/mpstemmer.git@25a5fd923af163a7eac3a5ec976984156ca8fa8b
+PySastrawi==1.2.0
+rapidfuzz==3.5.2
 sqlparse==0.4.4
+tqdm==4.66.1
