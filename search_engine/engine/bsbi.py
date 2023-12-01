@@ -14,6 +14,9 @@ from mpstemmer import MPStemmer
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 from operator import itemgetter
+import nltk
+from nltk.stem.porter import *
+from nltk.corpus import stopwords, words
 
 
 class BSBIIndex:
@@ -31,6 +34,7 @@ class BSBIIndex:
     """
 
     def __init__(self, data_dir, output_dir, postings_encoding, index_name="main_index"):
+        nltk.download('stopwords')
         self.term_id_map = IdMap()
         self.doc_id_map = IdMap()
         self.base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -108,12 +112,11 @@ class BSBIIndex:
         termIDs dan docIDs. Dua variable ini harus 'persist' untuk semua pemanggilan
         parsing_block(...).
         """
-        # TODO
-        stop_factory = StopWordRemoverFactory()
-        stop_words_list = stop_factory.get_stop_words()
+        stemmer = PorterStemmer()
+
+        stop_words_list = stopwords.words('english')
         stop_words_set = set(stop_words_list)
         tokenizer_pattern = r'\w+'
-        stemmer = MPStemmer()
 
         term_doc_pair = []
         block_dir = os.path.join(self.data_dir, block_path)
@@ -124,7 +127,8 @@ class BSBIIndex:
 
                 with open(file_path, 'r', encoding='utf-8') as file:
                     file_content = file.read()
-                    tokens = re.findall(tokenizer_pattern, file_content.lower())
+                    tokens = re.findall(tokenizer_pattern,
+                                        file_content.lower())
 
                     for token in tokens:
                         stemmed_token = stemmer.stem(token)
@@ -159,9 +163,8 @@ class BSBIIndex:
         index: InvertedIndexWriter
             Inverted index pada disk (file) yang terkait dengan suatu "block"
         """
-        # TODO
         term_dict = {}
-        
+
         for term_id, doc_id in td_pairs:
             if term_id not in term_dict:
                 term_dict[term_id] = {}
@@ -169,7 +172,8 @@ class BSBIIndex:
         for term_id in sorted(term_dict.keys()):
             unsorted_dict = term_dict[term_id]
             sorted_dict = dict(sorted(unsorted_dict.items()))
-            index.append(term_id, list(sorted_dict.keys()), list(sorted_dict.values()))
+            index.append(term_id, list(sorted_dict.keys()),
+                         list(sorted_dict.values()))
 
     def merge_index(self, indices, merged_index):
         """
@@ -243,12 +247,12 @@ class BSBIIndex:
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
 
         """
-        # TODO
-        stop_factory = StopWordRemoverFactory()
-        stop_words_list = stop_factory.get_stop_words()
+        stemmer = PorterStemmer()
+
+        stop_words_list = stopwords.words('english')
         stop_words_set = set(stop_words_list)
+
         tokenizer_pattern = r'\w+'
-        stemmer = MPStemmer()
         preprocessed_tokens = []
         doc_score = {}
 
@@ -266,8 +270,9 @@ class BSBIIndex:
             for token in preprocessed_tokens:
                 if token in self.term_id_map:
                     term_id = self.term_id_map[token]
-                    postings_list, tf_list = reader.get_postings_list(term=term_id)
-                    
+                    postings_list, tf_list = reader.get_postings_list(
+                        term=term_id)
+
                     df = len(postings_list)
                     idf = math.log(N / df, 10)
 
@@ -277,7 +282,8 @@ class BSBIIndex:
 
                         doc_score[doc_id] = doc_score.get(doc_id, 0) + score
 
-        sorted_postings_lists = sorted([(doc_score[doc_id], self.doc_id_map[doc_id]) for doc_id in doc_score], reverse=True)
+        sorted_postings_lists = sorted(
+            [(doc_score[doc_id], self.doc_id_map[doc_id]) for doc_id in doc_score], reverse=True)
         top_k_results = sorted_postings_lists[:k]
 
         return top_k_results
@@ -303,12 +309,13 @@ class BSBIIndex:
             Daftar Top-K dokumen terurut mengecil BERDASARKAN SKOR.
 
         """
-        # TODO
-        stop_factory = StopWordRemoverFactory()
-        stop_words_list = stop_factory.get_stop_words()
+        stemmer = PorterStemmer()
+
+        stop_words_list = stopwords.words('english')
         stop_words_set = set(stop_words_list)
+
         tokenizer_pattern = r'\w+'
-        stemmer = MPStemmer()
+
         preprocessed_tokens = []
         doc_score = {}
 
@@ -327,17 +334,20 @@ class BSBIIndex:
             for token in preprocessed_tokens:
                 if token in self.term_id_map:
                     term_id = self.term_id_map[token]
-                    postings_list, tf_list = reader.get_postings_list(term=term_id)
-                    
+                    postings_list, tf_list = reader.get_postings_list(
+                        term=term_id)
+
                     df = len(postings_list)
 
                     for doc_id, tf in zip(postings_list, tf_list):
                         dl = reader.doc_length[doc_id]
-                        score = math.log(N / df, 10) * ((k1 + 1) * tf) / (k1 * ((1 - b) + b * dl/avdl) + tf)
+                        score = math.log(N / df, 10) * ((k1 + 1) * tf) / \
+                            (k1 * ((1 - b) + b * dl/avdl) + tf)
 
                         doc_score[doc_id] = doc_score.get(doc_id, 0) + score
 
-        sorted_postings_lists = sorted([(doc_score[doc_id], self.doc_id_map[doc_id]) for doc_id in doc_score], reverse=True)
+        sorted_postings_lists = sorted(
+            [(doc_score[doc_id], self.doc_id_map[doc_id]) for doc_id in doc_score], reverse=True)
         top_k_results = sorted_postings_lists[:k]
 
         return top_k_results

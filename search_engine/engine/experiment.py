@@ -1,9 +1,11 @@
+from collections import defaultdict
+import math
 import re
-import os
 from bsbi import BSBIIndex
 from compression import VBEPostings
 from tqdm import tqdm
-import math
+
+from letor import Letor
 
 # >>>>> 3 IR metrics: RBP p = 0.8, DCG, dan AP
 
@@ -26,12 +28,10 @@ def rbp(ranking, p=0.8):
         Float
           score RBP
     """
-    score = 0
-
+    score = 0.
     for i in range(1, len(ranking) + 1):
         pos = i - 1
         score += ranking[pos] * (p ** (i - 1))
-
     return (1 - p) * score
 
 
@@ -53,12 +53,11 @@ def dcg(ranking):
         Float
           score DCG
     """
-    # TODO
-    score = 0
-
+    score = 0.
     for i in range(1, len(ranking) + 1):
-        score += ranking[i - 1] / math.log(i + 1, 2)
-
+        pos = i - 1
+        p = 1 / math.log(i+1, 2)
+        score += p * ranking[pos]
     return score
 
 
@@ -84,10 +83,13 @@ def prec(ranking, k):
           score Prec@K
     """
     # TODO
-    k = min(k, len(ranking))
-    score = sum(ranking[:k]) / k
-
-    return score
+    if k == None:
+        k = len(ranking)
+    score = 0.
+    for i in range(1, k + 1):
+        pos = i - 1
+        score += ranking[pos]
+    return score/k
 
 
 def ap(ranking):
@@ -109,24 +111,22 @@ def ap(ranking):
           score AP
     """
     # TODO
-    rsum = 0
-    result = 0
-
-    for i in range(1, len(ranking) + 1):
-        if ranking[i - 1]:
-            rsum += 1
-            result += rsum / i
-    approxR = sum(ranking)
-    if(approxR == 0):
+    R = 0
+    for i in range(len(ranking)):
+        R += ranking[i]
+    if R == 0:
         return 0
-    score = result / approxR
-    
-    return score
+    score = 0.
+    for i in range(len(ranking)):
+        prec_score = prec(ranking, i+1)
+        score += prec_score * ranking[i]
+    return score/R
+
 
 # >>>>> memuat qrels
 
 
-def load_qrels(qrel_file="qrels.txt"):
+def load_qrels(qrel_file="nfcorpus/test.3-2-1.qrel"):
     """ 
         memuat query relevance judgment (qrels) 
         dalam format dictionary of dictionary qrels[query id][document id],
@@ -134,27 +134,21 @@ def load_qrels(qrel_file="qrels.txt"):
         sementara dokumen yang tidak relevan (nilai 0) tidak perlu disimpan,
         misal {"Q1": {500:1, 502:1}, "Q2": {150:1}}
     """
-    with open(qrel_file) as file:
-        content = file.readlines()
 
-    qrels_sparse = {}
+    qrels = defaultdict(lambda: defaultdict(lambda: 0))
+    with open(qrel_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            parts = line.strip().split()
+            qid = parts[0]
+            did = int(parts[1])
+            qrels[qid][did] = 1
+    return qrels
 
-    for line in content:
-        parts = line.strip().split()
-        qid = parts[0]
-        did = int(parts[1])
-        if not (qid in qrels_sparse):
-            qrels_sparse[qid] = {}
-        if not (did in qrels_sparse[qid]):
-            qrels_sparse[qid][did] = 0
-        qrels_sparse[qid][did] = 1
-        
-    return qrels_sparse
 
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="queries.txt", k=1000):
+def eval_retrieval(qrels, query_file="nfcorpus/test.all.queries", k=100):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
@@ -163,10 +157,9 @@ def eval_retrieval(qrels, query_file="queries.txt", k=1000):
     BSBI_instance = BSBIIndex(data_dir='collections',
                               postings_encoding=VBEPostings,
                               output_dir='index')
-    
     BSBI_instance.load()
 
-    with open(query_file) as file:
+    with open(query_file, 'r', encoding='utf-8') as file:
         rbp_scores_tfidf = []
         dcg_scores_tfidf = []
         ap_scores_tfidf = []
@@ -175,6 +168,15 @@ def eval_retrieval(qrels, query_file="queries.txt", k=1000):
         dcg_scores_bm25 = []
         ap_scores_bm25 = []
 
+        rbp_scores_tfidf_ltr = []
+        dcg_scores_tfidf_ltr = []
+        ap_scores_tfidf_ltr = []
+
+        rbp_scores_bm25_ltr = []
+        dcg_scores_bm25_ltr = []
+        ap_scores_bm25_ltr = []
+
+        ltr = Letor()
         for qline in tqdm(file):
             parts = qline.strip().split()
             qid = parts[0]
@@ -183,55 +185,95 @@ def eval_retrieval(qrels, query_file="queries.txt", k=1000):
             """
             Evaluasi TF-IDF
             """
+            result_tfidf = BSBI_instance.retrieve_tfidf(query, k=k)
+
             ranking_tfidf = []
-            for (score, doc) in BSBI_instance.retrieve_tfidf(query, k=k):
-                did = int(os.path.splitext(os.path.basename(doc))[0])
-                # Alternatif lain:
-                # 1. did = int(doc.split("\\")[-1].split(".")[0])
-                # 2. did = int(re.search(r'\/.*\/.*\/(.*)\.txt', doc).group(1))
-                # 3. disesuaikan dengan path Anda
-                if (did in qrels[qid]):
-                    ranking_tfidf.append(1)
-                else:
-                    ranking_tfidf.append(0)
+
+            for (score, doc) in result_tfidf:
+                did = int(re.split(r'[\\/\.]', doc)[-2])
+                print(did)
+                ranking_tfidf.append(qrels[qid][did])
+
             rbp_scores_tfidf.append(rbp(ranking_tfidf))
             dcg_scores_tfidf.append(dcg(ranking_tfidf))
             ap_scores_tfidf.append(ap(ranking_tfidf))
 
             """
+            Evaluasi TF-IDF DAN LETOR
+            """
+            docs_tfidf = []
+            ranking_tfidf_ltr = []
+            for doc in [x[1] for x in result_tfidf]:
+                with open(doc, encoding="utf-8") as file:
+                    text = file.read()
+                docs_tfidf.append((doc, text))
+            scores = ltr.predict(docs_tfidf, query)
+            sorted_did_scores = ltr.evaluate(docs_tfidf, scores)
+
+            for doc, score in sorted_did_scores:
+                did = int(re.split(r'[\\/\.]', doc)[-2])
+                ranking_tfidf_ltr.append(qrels[qid][did])
+
+            rbp_scores_tfidf_ltr.append(rbp(ranking_tfidf_ltr))
+            dcg_scores_tfidf_ltr.append(dcg(ranking_tfidf_ltr))
+            ap_scores_tfidf_ltr.append(ap(ranking_tfidf_ltr))
+
+            """
             Evaluasi BM25
             """
+            result_bm25 = BSBI_instance.retrieve_bm25(query, k=k)
+
             ranking_bm25 = []
-            # nilai k1 dan b dapat diganti-ganti
-            for (score, doc) in BSBI_instance.retrieve_bm25(query, k=k):
-                did = int(os.path.splitext(os.path.basename(doc))[0])
-                # Alternatif lain:
-                # 1. did = int(doc.split("\\")[-1].split(".")[0])
-                # 2. did = int(re.search(r'\/.*\/.*\/(.*)\.txt', doc).group(1))
-                # 3. disesuaikan dengan path Anda
-                if (did in qrels[qid]):
-                    ranking_bm25.append(1)
-                else:
-                    ranking_bm25.append(0)
+            for (score, doc) in result_bm25:
+                did = int(re.split(r'[\\/\.]', doc)[-2])
+                ranking_bm25.append(qrels[qid][did])
+
             rbp_scores_bm25.append(rbp(ranking_bm25))
             dcg_scores_bm25.append(dcg(ranking_bm25))
             ap_scores_bm25.append(ap(ranking_bm25))
+
+            """
+            Evaluasi BM-25 DAN LETOR
+            """
+            docs_bm25 = []
+            ranking_bm25_ltr = []
+            for doc in [x[1] for x in result_bm25]:
+                with open(doc, encoding="utf-8") as file:
+                    text = file.read()
+                docs_bm25.append((doc, text))
+            scores = ltr.predict(docs_bm25, query)
+            sorted_did_scores = ltr.evaluate(docs_bm25, scores)
+
+            for doc, score in sorted_did_scores:
+                did = int(re.split(r'[\\/\.]', doc)[-2])
+                ranking_bm25_ltr.append(qrels[qid][did])
+
+            rbp_scores_bm25_ltr.append(rbp(ranking_bm25_ltr))
+            dcg_scores_bm25_ltr.append(dcg(ranking_bm25_ltr))
+            ap_scores_bm25_ltr.append(ap(ranking_bm25_ltr))
 
     print("Hasil evaluasi TF-IDF terhadap 150 queries")
     print("RBP score =", sum(rbp_scores_tfidf) / len(rbp_scores_tfidf))
     print("DCG score =", sum(dcg_scores_tfidf) / len(dcg_scores_tfidf))
     print("AP score  =", sum(ap_scores_tfidf) / len(ap_scores_tfidf))
 
+    print("Hasil evaluasi TF-IDF DAN LETOR terhadap 150 queries")
+    print("RBP score =", sum(rbp_scores_tfidf_ltr) / len(rbp_scores_tfidf_ltr))
+    print("DCG score =", sum(dcg_scores_tfidf_ltr) / len(dcg_scores_tfidf_ltr))
+    print("AP score  =", sum(ap_scores_tfidf_ltr) / len(ap_scores_tfidf_ltr))
+
     print("Hasil evaluasi BM25 terhadap 150 queries")
     print("RBP score =", sum(rbp_scores_bm25) / len(rbp_scores_bm25))
     print("DCG score =", sum(dcg_scores_bm25) / len(dcg_scores_bm25))
     print("AP score  =", sum(ap_scores_bm25) / len(ap_scores_bm25))
 
+    print("Hasil evaluasi BM25 DAN LETOR terhadap 150 queries")
+    print("RBP score =", sum(rbp_scores_bm25_ltr) / len(rbp_scores_bm25_ltr))
+    print("DCG score =", sum(dcg_scores_bm25_ltr) / len(dcg_scores_bm25_ltr))
+    print("AP score  =", sum(ap_scores_bm25_ltr) / len(ap_scores_bm25_ltr))
+
 
 if __name__ == '__main__':
     qrels = load_qrels()
-
-    assert qrels["Q1002252"][5599474] == 1, "qrels salah"
-    assert not (6998091 in qrels["Q1007972"]), "qrels salah"
 
     eval_retrieval(qrels)

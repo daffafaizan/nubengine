@@ -1,5 +1,6 @@
 import pickle
 import os
+from compression import VBEPostings
 
 
 class InvertedIndex:
@@ -234,8 +235,6 @@ class InvertedIndexWriter(InvertedIndex):
 
 
 if __name__ == "__main__":
-
-    from test import VBEPostings
 
     with InvertedIndexWriter('test', postings_encoding=VBEPostings, directory='./tmp/') as index:
         index.append(1, [2, 3, 4, 8, 10], [2, 4, 2, 3, 30])
