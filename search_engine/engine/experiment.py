@@ -140,8 +140,9 @@ def load_qrels(qrel_file="nfcorpus/test.3-2-1.qrel"):
         for line in file:
             parts = line.strip().split()
             qid = parts[0]
-            did = int(parts[1])
+            did = parts[2]
             qrels[qid][did] = 1
+    print(qrels)
     return qrels
 
 
@@ -176,7 +177,7 @@ def eval_retrieval(qrels, query_file="nfcorpus/test.all.queries", k=100):
         dcg_scores_bm25_ltr = []
         ap_scores_bm25_ltr = []
 
-        ltr = Letor()
+        # ltr = Letor()
         for qline in tqdm(file):
             parts = qline.strip().split()
             qid = parts[0]
@@ -186,13 +187,12 @@ def eval_retrieval(qrels, query_file="nfcorpus/test.all.queries", k=100):
             Evaluasi TF-IDF
             """
             result_tfidf = BSBI_instance.retrieve_tfidf(query, k=k)
-
             ranking_tfidf = []
 
             for (score, doc) in result_tfidf:
-                did = int(re.split(r'[\\/\.]', doc)[-2])
-                print(did)
+                did = (re.split(r'[\\/\.]', doc)[-2])
                 ranking_tfidf.append(qrels[qid][did])
+            print(ranking_tfidf)
 
             rbp_scores_tfidf.append(rbp(ranking_tfidf))
             dcg_scores_tfidf.append(dcg(ranking_tfidf))
@@ -201,76 +201,76 @@ def eval_retrieval(qrels, query_file="nfcorpus/test.all.queries", k=100):
             """
             Evaluasi TF-IDF DAN LETOR
             """
-            docs_tfidf = []
-            ranking_tfidf_ltr = []
-            for doc in [x[1] for x in result_tfidf]:
-                with open(doc, encoding="utf-8") as file:
-                    text = file.read()
-                docs_tfidf.append((doc, text))
-            scores = ltr.predict(docs_tfidf, query)
-            sorted_did_scores = ltr.evaluate(docs_tfidf, scores)
+            # docs_tfidf = []
+            # ranking_tfidf_ltr = []
+            # for doc in [x[1] for x in result_tfidf]:
+            #     with open(doc, encoding="utf-8") as file:
+            #         text = file.read()
+            #     docs_tfidf.append((doc, text))
+            # scores = ltr.predict(docs_tfidf, query)
+            # sorted_did_scores = ltr.evaluate(docs_tfidf, scores)
 
-            for doc, score in sorted_did_scores:
-                did = int(re.split(r'[\\/\.]', doc)[-2])
-                ranking_tfidf_ltr.append(qrels[qid][did])
+            # for doc, score in sorted_did_scores:
+            #     did = int(re.split(r'[\\/\.]', doc)[-2])
+            #     ranking_tfidf_ltr.append(qrels[qid][did])
 
-            rbp_scores_tfidf_ltr.append(rbp(ranking_tfidf_ltr))
-            dcg_scores_tfidf_ltr.append(dcg(ranking_tfidf_ltr))
-            ap_scores_tfidf_ltr.append(ap(ranking_tfidf_ltr))
+            # rbp_scores_tfidf_ltr.append(rbp(ranking_tfidf_ltr))
+            # dcg_scores_tfidf_ltr.append(dcg(ranking_tfidf_ltr))
+            # ap_scores_tfidf_ltr.append(ap(ranking_tfidf_ltr))
 
             """
             Evaluasi BM25
             """
-            result_bm25 = BSBI_instance.retrieve_bm25(query, k=k)
+            # result_bm25 = BSBI_instance.retrieve_bm25(query, k=k)
 
-            ranking_bm25 = []
-            for (score, doc) in result_bm25:
-                did = int(re.split(r'[\\/\.]', doc)[-2])
-                ranking_bm25.append(qrels[qid][did])
+            # ranking_bm25 = []
+            # for (score, doc) in result_bm25:
+            #     did = int(re.split(r'[\\/\.]', doc)[-2])
+            #     ranking_bm25.append(qrels[qid][did])
 
-            rbp_scores_bm25.append(rbp(ranking_bm25))
-            dcg_scores_bm25.append(dcg(ranking_bm25))
-            ap_scores_bm25.append(ap(ranking_bm25))
+            # rbp_scores_bm25.append(rbp(ranking_bm25))
+            # dcg_scores_bm25.append(dcg(ranking_bm25))
+            # ap_scores_bm25.append(ap(ranking_bm25))
 
             """
             Evaluasi BM-25 DAN LETOR
             """
-            docs_bm25 = []
-            ranking_bm25_ltr = []
-            for doc in [x[1] for x in result_bm25]:
-                with open(doc, encoding="utf-8") as file:
-                    text = file.read()
-                docs_bm25.append((doc, text))
-            scores = ltr.predict(docs_bm25, query)
-            sorted_did_scores = ltr.evaluate(docs_bm25, scores)
+            # docs_bm25 = []
+            # ranking_bm25_ltr = []
+            # for doc in [x[1] for x in result_bm25]:
+            #     with open(doc, encoding="utf-8") as file:
+            #         text = file.read()
+            #     docs_bm25.append((doc, text))
+            # scores = ltr.predict(docs_bm25, query)
+            # sorted_did_scores = ltr.evaluate(docs_bm25, scores)
 
-            for doc, score in sorted_did_scores:
-                did = int(re.split(r'[\\/\.]', doc)[-2])
-                ranking_bm25_ltr.append(qrels[qid][did])
+            # for doc, score in sorted_did_scores:
+            #     did = int(re.split(r'[\\/\.]', doc)[-2])
+            #     ranking_bm25_ltr.append(qrels[qid][did])
 
-            rbp_scores_bm25_ltr.append(rbp(ranking_bm25_ltr))
-            dcg_scores_bm25_ltr.append(dcg(ranking_bm25_ltr))
-            ap_scores_bm25_ltr.append(ap(ranking_bm25_ltr))
+            # rbp_scores_bm25_ltr.append(rbp(ranking_bm25_ltr))
+            # dcg_scores_bm25_ltr.append(dcg(ranking_bm25_ltr))
+            # ap_scores_bm25_ltr.append(ap(ranking_bm25_ltr))
 
     print("Hasil evaluasi TF-IDF terhadap 150 queries")
     print("RBP score =", sum(rbp_scores_tfidf) / len(rbp_scores_tfidf))
     print("DCG score =", sum(dcg_scores_tfidf) / len(dcg_scores_tfidf))
     print("AP score  =", sum(ap_scores_tfidf) / len(ap_scores_tfidf))
 
-    print("Hasil evaluasi TF-IDF DAN LETOR terhadap 150 queries")
-    print("RBP score =", sum(rbp_scores_tfidf_ltr) / len(rbp_scores_tfidf_ltr))
-    print("DCG score =", sum(dcg_scores_tfidf_ltr) / len(dcg_scores_tfidf_ltr))
-    print("AP score  =", sum(ap_scores_tfidf_ltr) / len(ap_scores_tfidf_ltr))
+    # print("Hasil evaluasi TF-IDF DAN LETOR terhadap 150 queries")
+    # print("RBP score =", sum(rbp_scores_tfidf_ltr) / len(rbp_scores_tfidf_ltr))
+    # print("DCG score =", sum(dcg_scores_tfidf_ltr) / len(dcg_scores_tfidf_ltr))
+    # print("AP score  =", sum(ap_scores_tfidf_ltr) / len(ap_scores_tfidf_ltr))
 
-    print("Hasil evaluasi BM25 terhadap 150 queries")
-    print("RBP score =", sum(rbp_scores_bm25) / len(rbp_scores_bm25))
-    print("DCG score =", sum(dcg_scores_bm25) / len(dcg_scores_bm25))
-    print("AP score  =", sum(ap_scores_bm25) / len(ap_scores_bm25))
+    # print("Hasil evaluasi BM25 terhadap 150 queries")
+    # print("RBP score =", sum(rbp_scores_bm25) / len(rbp_scores_bm25))
+    # print("DCG score =", sum(dcg_scores_bm25) / len(dcg_scores_bm25))
+    # print("AP score  =", sum(ap_scores_bm25) / len(ap_scores_bm25))
 
-    print("Hasil evaluasi BM25 DAN LETOR terhadap 150 queries")
-    print("RBP score =", sum(rbp_scores_bm25_ltr) / len(rbp_scores_bm25_ltr))
-    print("DCG score =", sum(dcg_scores_bm25_ltr) / len(dcg_scores_bm25_ltr))
-    print("AP score  =", sum(ap_scores_bm25_ltr) / len(ap_scores_bm25_ltr))
+    # print("Hasil evaluasi BM25 DAN LETOR terhadap 150 queries")
+    # print("RBP score =", sum(rbp_scores_bm25_ltr) / len(rbp_scores_bm25_ltr))
+    # print("DCG score =", sum(dcg_scores_bm25_ltr) / len(dcg_scores_bm25_ltr))
+    # print("AP score  =", sum(ap_scores_bm25_ltr) / len(ap_scores_bm25_ltr))
 
 
 if __name__ == '__main__':

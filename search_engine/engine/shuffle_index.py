@@ -12,7 +12,7 @@ all_files = os.listdir(data_folder)
 # shuffle the files
 random.shuffle(all_files)
 
-files_per_block = 100
+files_per_block = 800
 
 for i in range(0, len(all_files), files_per_block):
     # extract block of files
