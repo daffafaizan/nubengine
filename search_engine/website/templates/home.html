@@ -9,66 +9,74 @@
 
     <script>
       tailwind.config = {
-        theme: {
-          extend: {
-            colors: {
-              emerald: {
-                50: "#f1fcf1",
-                100: "#ddfbde",
-                200: "#bdf5c1",
-                300: "#8aeb91",
-                400: "#4cd757",
-                500: "#29be35",
-                600: "#1c9d27",
-                700: "#197c22",
-                800: "#196220",
-                900: "#17501e",
-                950: "#072c0b",
-              },
-            },
-          },
-        },
       };
     </script>
 
     {% block meta %} {% endblock meta %}
   </head>
+  {% block content %}
   <body>
-    <div class="min-h-screen flex flex-col justify-center items-center">
-      {% block content %}
-      <div class="flex flex-row justify-center items-center gap-4">
-        <h1>Gugel</h1>
-        <form method="POST" action="{% url 'website:show_home' %}">
-          {% csrf_token %}
-          <input
-            type="text"
-            id="queries"
-            name="queries"
-            class="border-2 rounded-md"
-          />
-          <button type="submit">Search</button>
-        </form>
+    {% if query_results %}
+    <div class="min-h-screen min-w-screen flex flex-col p-4 md:p-8">
+      <div class="flex flex-col gap-4">
+        <div>
+          <span>Nub Engine</span>
+        </div>
+        <div>
+          <form method="POST" action="{% url 'website:show_home' %}">
+            {% csrf_token %}
+            <input
+              type="text"
+              id="queries"
+              name="queries"
+              class="border-2 rounded-md"
+            />
+            <button type="submit">Search</button>
+          </form>
+        </div>
       </div>
-      <div class="flex flex-row justify-center items-center mt-10">
+      <div class="flex flex-col mt-10">
         {% if queries %}
-        <h2>Queries</h2>
-        <ul>
+        <div>
+          <span>Result for: </span>
           {% for query in queries %}
-          <li>{{ query }}</li>
+          <span>{{ query }}</span>
           {% endfor %}
-        </ul>
-        {% endif %} {% if query_results %}
-        <h2>Results</h2>
+        </div>
+        {% endif %}
+        
         {% for result in query_results %}
-        <h3>{{ result.query }}</h3>
         <ul>
           {% for item in result.results %}
           <li>{{ item.doc }} - {{ item.score }}</li>
           {% endfor %}
         </ul>
-        {% endfor %} {% endif %}
+        {% endfor %}
       </div>
-      {% endblock content %}
     </div>
+    {% endif %}
+
+    {% if not query_results %}
+    <div class="min-h-screen min-w-screen flex flex-col justify-center items-center p-4 md:p-8">
+      <div class="flex flex-col justify-center items-center gap-4">
+        <div>
+          <span>Nub Engine</span>
+        </div>
+        <div>
+          <form method="POST" action="{% url 'website:show_home' %}">
+            {% csrf_token %}
+            <input
+              type="text"
+              id="queries"
+              name="queries"
+              class="border-2 rounded-md"
+            />
+            <button type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    {% endif %}
   </body>
+  {% endblock content %}
 </html>
