@@ -133,7 +133,7 @@ class Letor:
         )
         self.ranker.fit(X, Y, group=self.group_qid_count)
 
-    def predict(self, docs, query):
+    def predict(self, query, docs):
         if not docs:
             return []
 
@@ -142,16 +142,16 @@ class Letor:
 
         for doc in docs:
             with open(doc, "r", encoding="utf-8") as file:
-                X_unseen.append(self.features(query.split(), doc.split()))
+                X_unseen.append(self.features(self.preprocess(query), self.preprocess(file.readline())))
 
         X_unseen = np.array(X_unseen)
         self.scores = self.ranker.predict(X_unseen)
 
         return self.scores
 
-    def rerank(self, docs, query):
-        scores = self.predict(docs, query)
-        did_scores = [x for x in zip(scores, self.docs)]
+    def rerank(self, query, docs):
+        scores = self.predict(query, docs)
+        did_scores = [x for x in zip(scores, docs)]
         sorted_did_scores = sorted(
             did_scores, key=lambda tup: tup[0], reverse=True)
         

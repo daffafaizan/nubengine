@@ -1,6 +1,7 @@
 import os
 import math
 
+from collections import defaultdict
 from bsbi import BSBIIndex
 from compression import VBEPostings
 from tqdm import tqdm
@@ -135,27 +136,21 @@ def load_qrels(qrel_file="engine/training/tp/test_qrels.txt"):
     """
     qrel_file = os.path.join(os.getcwd(), qrel_file)
 
+    qrels = defaultdict(lambda: defaultdict(lambda: 0))
+
     with open(qrel_file) as file:
-        content = file.readlines()
+        for line in file:
+            parts = line.strip().split()
+            qid = parts[0]
+            did = int(parts[1])
+            qrels[qid][did] = 1
 
-    qrels_sparse = {}
-
-    for line in content:
-        parts = line.strip().split()
-        qid = parts[0]
-        did = int(parts[1])
-        if not (qid in qrels_sparse):
-            qrels_sparse[qid] = {}
-        if not (did in qrels_sparse[qid]):
-            qrels_sparse[qid][did] = 0
-        qrels_sparse[qid][did] = 1
-        
-    return qrels_sparse
+    return qrels
 
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="engine/training/tp/test_queries.txt", k=100, use_letor=False):
+def eval_retrieval(qrels, query_file="engine/training/tp/test_queries.txt", k=2, use_letor=False):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
