@@ -53,7 +53,6 @@ def dcg(ranking):
         Float
           score DCG
     """
-    # TODO
     score = 0
 
     for i in range(1, len(ranking) + 1):
@@ -83,7 +82,6 @@ def prec(ranking, k):
         Float
           score Prec@K
     """
-    # TODO
     k = min(k, len(ranking))
     score = sum(ranking[:k]) / k
 
@@ -108,7 +106,6 @@ def ap(ranking):
         Float
           score AP
     """
-    # TODO
     rsum = 0
     result = 0
 
@@ -126,7 +123,7 @@ def ap(ranking):
 # >>>>> memuat qrels
 
 
-def load_qrels(qrel_file="qrels.txt"):
+def load_qrels(qrel_file="search_engine/engine/experiments/retrieval/qrels.txt"):
     """ 
         memuat query relevance judgment (qrels) 
         dalam format dictionary of dictionary qrels[query id][document id],
@@ -134,6 +131,8 @@ def load_qrels(qrel_file="qrels.txt"):
         sementara dokumen yang tidak relevan (nilai 0) tidak perlu disimpan,
         misal {"Q1": {500:1, 502:1}, "Q2": {150:1}}
     """
+    qrel_file = os.path.join(os.getcwd(), qrel_file)
+
     with open(qrel_file) as file:
         content = file.readlines()
 
@@ -154,7 +153,7 @@ def load_qrels(qrel_file="qrels.txt"):
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="queries.txt", k=1000):
+def eval_retrieval(qrels, query_file="search_engine/engine/experiments/retrieval/queries.txt", k=1000):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
@@ -165,6 +164,8 @@ def eval_retrieval(qrels, query_file="queries.txt", k=1000):
                               output_dir='index')
     
     BSBI_instance.load()
+
+    query_file = os.path.join(os.getcwd(), query_file)
 
     with open(query_file) as file:
         rbp_scores_tfidf = []
