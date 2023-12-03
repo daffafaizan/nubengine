@@ -1,8 +1,12 @@
 import os
+import re
 import random
 
 import lightgbm as lgb
 import numpy as np
+
+from mpstemmer import MPStemmer
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 from gensim.models import TfidfModel
 from gensim.models import LsiModel
 from gensim.corpora import Dictionary
@@ -15,20 +19,29 @@ class Letor:
         self.queries = {}
         self.dataset = []
 
-        self.load_data()
+        self.stemmer = MPStemmer()
+        self.stop_word_remover = StopWordRemoverFactory().create_stop_word_remover()
+
+        self.load_train_data()
         self.create_dataset()
         self.build_model()
         self.train()
 
-    def load_data(self):
+    def preprocess(self, line: str) -> list[str]:
+        stemmed_line: str = self.stemmer.stem_kalimat(line)
+        preprocessed_line: str = self.stop_word_remover.remove(stemmed_line)
+
+        return re.findall(r'\w+', preprocessed_line)
+
+    def load_train_data(self):
         with open("nfcorpus/train.docs") as file:
             for line in file:
                 doc_id, content = line.split("\t")
-                self.documents[doc_id] = content.split()
+                self.documents[doc_id] = self.preprocess(content)
         with open("nfcorpus/train.vid-desc.queries", encoding="utf-8") as file:
             for line in file:
                 q_id, content = line.split("\t")
-                self.queries[q_id] = content.split()
+                self.queries[q_id] = self.preprocess(content)
 
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
@@ -67,6 +80,7 @@ class Letor:
 
         rep = [topic_value for (_, topic_value)
                in self.model[self.dict.doc2bow(text)]]
+        
         return rep if len(rep) == NUM_LATENT_TOPICS else [0.] * NUM_LATENT_TOPICS
 
     def features(self, query, doc):
@@ -76,6 +90,7 @@ class Letor:
         d = set(doc)
         cosine_dist = cosine(v_q, v_d)
         jaccard = len(q & d) / len(q | d)
+
         return v_q + v_d + [jaccard] + [cosine_dist]
 
     def formatting(self):
@@ -89,6 +104,7 @@ class Letor:
         # ubah X dan Y ke format numpy array
         X = np.array(X)
         Y = np.array(Y)
+
         return X, Y
 
     def train(self):
@@ -101,7 +117,8 @@ class Letor:
             metric="ndcg",
             num_leaves=40,
             learning_rate=0.02,
-            max_depth=-1)
+            max_depth=-1
+        )
         self.ranker.fit(X, Y, group=self.group_qid_count)
 
     def predict(self, docs, query):
@@ -111,15 +128,19 @@ class Letor:
         # bentuk ke format numpy array
         X_unseen = []
 
-        for doc_id, doc in docs:
-            X_unseen.append(self.features(query.split(), doc.split()))
+        for doc in docs:
+            with open(doc, "r", encoding="utf-8") as file:
+                X_unseen.append(self.features(query.split(), doc.split()))
 
         X_unseen = np.array(X_unseen)
         self.scores = self.ranker.predict(X_unseen)
+
         return self.scores
 
-    def evaluate(self, docs, scores):
-        did_scores = [x for x in zip([did for (did, _) in docs], scores)]
+    def rerank(self, docs, query):
+        scores = self.predict(docs, query)
+        did_scores = [x for x in zip(scores, self.docs)]
         sorted_did_scores = sorted(
-            did_scores, key=lambda tup: tup[1], reverse=True)
+            did_scores, key=lambda tup: tup[0], reverse=True)
+        
         return sorted_did_scores

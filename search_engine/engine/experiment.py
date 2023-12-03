@@ -1,9 +1,10 @@
-import re
 import os
+import math
+
 from bsbi import BSBIIndex
 from compression import VBEPostings
 from tqdm import tqdm
-import math
+from letor import Letor
 
 # >>>>> 3 IR metrics: RBP p = 0.8, DCG, dan AP
 
@@ -153,7 +154,7 @@ def load_qrels(qrel_file="engine/training/nfcorpus/test.3-2-1.qrel"):
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries", k=1000):
+def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries", k=100, use_letor=False):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
@@ -172,9 +173,24 @@ def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries"
         dcg_scores_tfidf = []
         ap_scores_tfidf = []
 
-        rbp_scores_bm25 = []
-        dcg_scores_bm25 = []
-        ap_scores_bm25 = []
+        bm25_parameters = [
+            (1.2, 0.75),
+            (1.1, 0.75),
+            (1.3, 0.75),
+            (1.2, 0.9),
+            (1.1, 0.9),
+            (1.3, 0.9),
+            (1.2, 0.6),
+            (1.1, 0.6),
+            (1.3, 0.6),
+        ]
+
+        rbp_scores_bm25 = [[] for _ in range(len(bm25_parameters))]
+        dcg_scores_bm25 = [[] for _ in range(len(bm25_parameters))]
+        ap_scores_bm25 = [[] for _ in range(len(bm25_parameters))]
+
+        if use_letor:
+            letor = Letor()
 
         for qline in tqdm(file):
             parts = qline.strip().split()
@@ -185,16 +201,18 @@ def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries"
             Evaluasi TF-IDF
             """
             ranking_tfidf = []
-            for (score, doc) in BSBI_instance.retrieve_tfidf(query, k=k):
+            tf_idf_result = BSBI_instance.retrieve_tfidf(query, k = k)
+
+            if use_letor:
+                tf_idf_result = letor.rerank(query, [t[1] for t in tf_idf_result])
+
+            for (score, doc) in tf_idf_result:
                 did = int(os.path.splitext(os.path.basename(doc))[0])
-                # Alternatif lain:
-                # 1. did = int(doc.split("\\")[-1].split(".")[0])
-                # 2. did = int(re.search(r'\/.*\/.*\/(.*)\.txt', doc).group(1))
-                # 3. disesuaikan dengan path Anda
                 if (did in qrels[qid]):
                     ranking_tfidf.append(1)
                 else:
                     ranking_tfidf.append(0)
+
             rbp_scores_tfidf.append(rbp(ranking_tfidf))
             dcg_scores_tfidf.append(dcg(ranking_tfidf))
             ap_scores_tfidf.append(ap(ranking_tfidf))
@@ -202,34 +220,41 @@ def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries"
             """
             Evaluasi BM25
             """
-            ranking_bm25 = []
-            # nilai k1 dan b dapat diganti-ganti
-            for (score, doc) in BSBI_instance.retrieve_bm25(query, k=k):
-                did = int(os.path.splitext(os.path.basename(doc))[0])
-                # Alternatif lain:
-                # 1. did = int(doc.split("\\")[-1].split(".")[0])
-                # 2. did = int(re.search(r'\/.*\/.*\/(.*)\.txt', doc).group(1))
-                # 3. disesuaikan dengan path Anda
-                if (did in qrels[qid]):
-                    ranking_bm25.append(1)
-                else:
-                    ranking_bm25.append(0)
-            rbp_scores_bm25.append(rbp(ranking_bm25))
-            dcg_scores_bm25.append(dcg(ranking_bm25))
-            ap_scores_bm25.append(ap(ranking_bm25))
+            for i, (k1, b) in enumerate(bm25_parameters):
+                ranking_bm25 = []
+                bm_25_result = BSBI_instance.retrieve_bm25(query, k=k, k1=k1, b=b)
+                if use_letor:
+                    bm_25_result = letor.rerank(query, [t[1] for t in bm_25_result])
+                for (score, doc) in bm_25_result:
+                    did = int(os.path.splitext(os.path.basename(doc))[0])
+                    if (did in qrels[qid]):
+                        ranking_bm25.append(1)
+                    else:
+                        ranking_bm25.append(0)
+
+                rbp_scores_bm25[i].append(rbp(ranking_bm25))
+                dcg_scores_bm25[i].append(dcg(ranking_bm25))
+                ap_scores_bm25[i].append(ap(ranking_bm25))
 
     print("Hasil evaluasi TF-IDF terhadap 150 queries")
-    print("RBP score =", sum(rbp_scores_tfidf) / len(rbp_scores_tfidf))
-    print("DCG score =", sum(dcg_scores_tfidf) / len(dcg_scores_tfidf))
-    print("AP score  =", sum(ap_scores_tfidf) / len(ap_scores_tfidf))
+    print(f"RBP score = {sum(rbp_scores_bm25[i]) / len(rbp_scores_bm25[i]):>.4f}")
+    print(f"DCG score = {sum(dcg_scores_bm25[i]) / len(dcg_scores_bm25[i]):>.4f}")
+    print(f"AP score  = {sum(ap_scores_bm25[i]) / len(ap_scores_bm25[i]):>.4f}")
+    print("")
 
-    print("Hasil evaluasi BM25 terhadap 150 queries")
-    print("RBP score =", sum(rbp_scores_bm25) / len(rbp_scores_bm25))
-    print("DCG score =", sum(dcg_scores_bm25) / len(dcg_scores_bm25))
-    print("AP score  =", sum(ap_scores_bm25) / len(ap_scores_bm25))
+    for i, (k1, b) in enumerate(bm25_parameters):
+        print(f"Hasil evaluasi BM25 (k1={k1}, b={b}) terhadap 150 queries")
+        print(f"RBP score = {sum(rbp_scores_bm25[i]) / len(rbp_scores_bm25[i]):>.4f}")
+        print(f"DCG score = {sum(dcg_scores_bm25[i]) / len(dcg_scores_bm25[i]):>.4f}")
+        print(f"AP score  = {sum(ap_scores_bm25[i]) / len(ap_scores_bm25[i]):>.4f}")
+        print()
 
 
 if __name__ == '__main__':
     qrels = load_qrels()
 
+    print("Sebelum Letor")
     eval_retrieval(qrels)
+    
+    print("Setelah Letor (LambdaMart)")
+    eval_retrieval(qrels, use_letor = True)
