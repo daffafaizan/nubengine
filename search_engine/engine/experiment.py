@@ -123,7 +123,7 @@ def ap(ranking):
 # >>>>> memuat qrels
 
 
-def load_qrels(qrel_file="search_engine/engine/experiments/retrieval/qrels.txt"):
+def load_qrels(qrel_file="engine/training/nfcorpus/test.3-2-1.qrel"):
     """ 
         memuat query relevance judgment (qrels) 
         dalam format dictionary of dictionary qrels[query id][document id],
@@ -153,7 +153,7 @@ def load_qrels(qrel_file="search_engine/engine/experiments/retrieval/qrels.txt")
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="search_engine/engine/experiments/retrieval/queries.txt", k=1000):
+def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries", k=1000):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
@@ -231,8 +231,5 @@ def eval_retrieval(qrels, query_file="search_engine/engine/experiments/retrieval
 
 if __name__ == '__main__':
     qrels = load_qrels()
-
-    assert qrels["Q1002252"][5599474] == 1, "qrels salah"
-    assert not (6998091 in qrels["Q1007972"]), "qrels salah"
 
     eval_retrieval(qrels)

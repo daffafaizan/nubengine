@@ -108,7 +108,7 @@ class BSBIIndex:
         termIDs dan docIDs. Dua variable ini harus 'persist' untuk semua pemanggilan
         parsing_block(...).
         """
-        # TODO
+        
         stop_factory = StopWordRemoverFactory()
         stop_words_list = stop_factory.get_stop_words()
         stop_words_set = set(stop_words_list)
@@ -159,7 +159,7 @@ class BSBIIndex:
         index: InvertedIndexWriter
             Inverted index pada disk (file) yang terkait dengan suatu "block"
         """
-        # TODO
+        
         term_dict = {}
         
         for term_id, doc_id in td_pairs:
@@ -243,7 +243,7 @@ class BSBIIndex:
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
 
         """
-        # TODO
+        
         stop_factory = StopWordRemoverFactory()
         stop_words_list = stop_factory.get_stop_words()
         stop_words_set = set(stop_words_list)
@@ -303,7 +303,7 @@ class BSBIIndex:
             Daftar Top-K dokumen terurut mengecil BERDASARKAN SKOR.
 
         """
-        # TODO
+        
         stop_factory = StopWordRemoverFactory()
         stop_words_list = stop_factory.get_stop_words()
         stop_words_set = set(stop_words_list)
