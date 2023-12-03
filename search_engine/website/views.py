@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from engine.bsbi import BSBIIndex
 from engine.compression import VBEPostings
+from engine.letor import Letor
 
 def show_home(request):
     context = {}
@@ -8,6 +9,7 @@ def show_home(request):
                             postings_encoding=VBEPostings,
                             output_dir='../engine/index')
     BSBI_instance.load()
+    letor = Letor()
 
     if request.method == 'POST':
         queries_str = request.POST.get('queries')
@@ -18,7 +20,9 @@ def show_home(request):
 
             for query in queries:
                 query_results = []
-                for (score, doc) in BSBI_instance.retrieve_tfidf(query, k=10):
+                tf_idf_result = BSBI_instance.retrieve_tfidf(query, k=10)
+                tf_idf_result = letor.rerank(query, [t[1] for t in tf_idf_result])
+                for (score, doc) in tf_idf_result:
                     query_results.append({'doc': doc, 'score': score})
 
                 results.append({'query': query, 'results': query_results})
