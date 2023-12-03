@@ -34,21 +34,33 @@ class Letor:
         return re.findall(r'\w+', preprocessed_line)
 
     def load_train_data(self):
-        with open("nfcorpus/train.docs") as file:
+        # docs_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.docs")
+        # query_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.vid-desc.queries")
+        docs_file = os.path.join(os.getcwd(), "engine/experiments/letor/train_docs.txt")
+        query_file = os.path.join(os.getcwd(), "engine/experiments/letor/train_queries.txt")
+
+        with open(docs_file) as file:
             for line in file:
-                doc_id, content = line.split("\t")
+                #doc_id, content = line.split("\t") #nfcorpus
+                doc_id, content = line.strip().split(maxsplit=1)
                 self.documents[doc_id] = self.preprocess(content)
-        with open("nfcorpus/train.vid-desc.queries", encoding="utf-8") as file:
+        with open(query_file, encoding="utf-8") as file:
             for line in file:
-                q_id, content = line.split("\t")
+                #q_id, content = line.split("\t") #nfcorpus
+                q_id, content = line.strip().split(maxsplit=1)
                 self.queries[q_id] = self.preprocess(content)
 
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
+        # qrels_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.3-2-1.qrel")
+        qrels_file = os.path.join(os.getcwd(), "engine/experiments/letor/train_qrels.txt")
+
         q_docs_rel = {}
-        with open("nfcorpus/train.3-2-1.qrel") as file:
+
+        with open(qrels_file) as file:
             for line in file:
-                q_id, _, doc_id, rel = line.split("\t")
+                #q_id, _, doc_id, rel = line.split("\t") #nfcorpus
+                q_id, doc_id, rel = line.split()
                 if (q_id in self.queries) and (doc_id in self.documents):
                     if q_id not in q_docs_rel:
                         q_docs_rel[q_id] = []
