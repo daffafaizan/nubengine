@@ -125,14 +125,13 @@ def ap(ranking):
 # >>>>> memuat qrels
 
 
-def load_qrels(qrel_file="engine/training/tp/test_qrels.txt"):
+def load_qrels(qrel_file="search_engine/engine/training/nfcorpus/test.3-2-1.qrel"):
     """ 
         memuat query relevance judgment (qrels) 
         dalam format dictionary of dictionary qrels[query id][document id],
         dimana hanya dokumen yang relevan (nilai 1) yang disimpan,
         sementara dokumen yang tidak relevan (nilai 0) tidak perlu disimpan,
         misal {"Q1": {500:1, 502:1}, "Q2": {150:1}}
-        engine/training/nfcorpus/test.3-2-1.qrel
     """
     qrel_file = os.path.join(os.getcwd(), qrel_file)
 
@@ -150,12 +149,11 @@ def load_qrels(qrel_file="engine/training/tp/test_qrels.txt"):
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="engine/training/tp/test_queries.txt", k=2, use_letor=False):
+def eval_retrieval(qrels, query_file="search_engine/engine/training/nfcorpus/test.all.queries", k=100, use_letor=False):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
       untuk setiap query, kembalikan top-1000 documents
-      engine/training/nfcorpus/test.all.queries
     """
     BSBI_instance = BSBIIndex(data_dir='collections',
                               postings_encoding=VBEPostings,
