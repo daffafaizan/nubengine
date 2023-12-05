@@ -12,6 +12,8 @@ from scipy.spatial.distance import cosine
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 
+import ir_datasets
+
 class Letor:
     _instance = None
 
@@ -29,6 +31,8 @@ class Letor:
         self.documents = {}
         self.queries = {}
         self.dataset = []
+
+        self.clinical_dataset = ir_datasets.load("clinicaltrials/2021/trec-ct-2021")
 
         self.stemmer = PorterStemmer()
         self.stop_words = set(stopwords.words('english'))
@@ -58,6 +62,12 @@ class Letor:
                 q_id, content = line.split("\t") #nfcorpus
                 self.queries[q_id] = self.preprocess(content)
 
+        for doc in self.dataset.docs_iter()[:1/5]:
+            self.documents[doc.doc_id] = self.preprocess(doc.summary)
+
+        for query in self.dataset.queries_iter():
+            self.queries[query.query_id] = self.preprocess(query.content)
+
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
         # English
@@ -72,6 +82,13 @@ class Letor:
                     if q_id not in q_docs_rel:
                         q_docs_rel[q_id] = []
                     q_docs_rel[q_id].append((doc_id, int(rel)))
+
+        for qrel in self.dataset.qrels_iter():
+            if (qrel.query_id in self.queries) and (qrel.doc_id in self.documents):
+                if qrel.query_id not in q_docs_rel:
+                    q_docs_rel[qrel.query_id] = []
+                q_docs_rel[qrel.query_id].append((qrel.doc_id, int(rel)))
+            
 
         # group_qid_count untuk model LGBMRanker
         self.group_qid_count = []

@@ -1,5 +1,6 @@
 import os
 import math
+import re
 
 from collections import defaultdict
 from bsbi import BSBIIndex
@@ -125,7 +126,7 @@ def ap(ranking):
 # >>>>> memuat qrels
 
 
-def load_qrels(qrel_file="search_engine/engine/training/nfcorpus/test.3-2-1.qrel"):
+def load_qrels(qrel_file="engine/training/nfcorpus/test.3-2-1.qrel"):
     """ 
         memuat query relevance judgment (qrels) 
         dalam format dictionary of dictionary qrels[query id][document id],
@@ -137,11 +138,11 @@ def load_qrels(qrel_file="search_engine/engine/training/nfcorpus/test.3-2-1.qrel
 
     qrels = defaultdict(lambda: defaultdict(lambda: 0))
 
-    with open(qrel_file) as file:
+    with open(qrel_file, encoding="utf-8") as file:
         for line in file:
             parts = line.strip().split()
             qid = parts[0]
-            did = int(parts[1])
+            did = parts[2]
             qrels[qid][did] = 1
 
     return qrels
@@ -149,7 +150,7 @@ def load_qrels(qrel_file="search_engine/engine/training/nfcorpus/test.3-2-1.qrel
 # >>>>> EVALUASI !
 
 
-def eval_retrieval(qrels, query_file="search_engine/engine/training/nfcorpus/test.all.queries", k=100, use_letor=False):
+def eval_retrieval(qrels, query_file="engine/training/nfcorpus/test.all.queries", k=1, use_letor=False):
     """ 
       loop ke semua query, hitung score di setiap query,
       lalu hitung MEAN SCORE-nya.
@@ -163,21 +164,13 @@ def eval_retrieval(qrels, query_file="search_engine/engine/training/nfcorpus/tes
 
     query_file = os.path.join(os.getcwd(), query_file)
 
-    with open(query_file) as file:
+    with open(query_file, encoding="utf-8") as file:
         rbp_scores_tfidf = []
         dcg_scores_tfidf = []
         ap_scores_tfidf = []
 
         bm25_parameters = [
-            (1.2, 0.75),
-            (1.1, 0.75),
-            (1.3, 0.75),
             (1.2, 0.9),
-            (1.1, 0.9),
-            (1.3, 0.9),
-            (1.2, 0.6),
-            (1.1, 0.6),
-            (1.3, 0.6),
         ]
 
         rbp_scores_bm25 = [[] for _ in range(len(bm25_parameters))]
@@ -188,9 +181,7 @@ def eval_retrieval(qrels, query_file="search_engine/engine/training/nfcorpus/tes
             letor = Letor()
 
         for qline in tqdm(file):
-            parts = qline.strip().split()
-            qid = parts[0]
-            query = " ".join(parts[1:])
+            qid, query = qline.split("\t")
 
             """
             Evaluasi TF-IDF
@@ -202,7 +193,7 @@ def eval_retrieval(qrels, query_file="search_engine/engine/training/nfcorpus/tes
                 tf_idf_result = letor.rerank(query, [t[1] for t in tf_idf_result])
 
             for (score, doc) in tf_idf_result:
-                did = int(os.path.splitext(os.path.basename(doc))[0])
+                did = (re.split(r'[\\/\.]', doc)[-2])
                 if (did in qrels[qid]):
                     ranking_tfidf.append(1)
                 else:
@@ -221,7 +212,7 @@ def eval_retrieval(qrels, query_file="search_engine/engine/training/nfcorpus/tes
                 if use_letor:
                     bm_25_result = letor.rerank(query, [t[1] for t in bm_25_result])
                 for (score, doc) in bm_25_result:
-                    did = int(os.path.splitext(os.path.basename(doc))[0])
+                    did = (re.split(r'[\\/\.]', doc)[-2])
                     if (did in qrels[qid]):
                         ranking_bm25.append(1)
                     else:

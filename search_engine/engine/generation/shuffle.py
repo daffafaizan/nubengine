@@ -2,11 +2,11 @@ import os
 import random
 import shutil
 
-output_folder = "search_engine/engine/collections"
+output_folder = "engine/collections"
 os.makedirs(output_folder, exist_ok=True)
 
 # read all files in data_folder
-data_folder = "search_engine/engine/generation/data"
+data_folder = "engine/generation/data"
 all_files = os.listdir(data_folder)
 
 # shuffle the files
@@ -19,7 +19,7 @@ for i in range(0, len(all_files), files_per_block):
     block_files = all_files[i: i+files_per_block]
     
     # create new block folder
-    block_folder = os.path.join(output_folder, f"{i//files_per_block+9}")
+    block_folder = os.path.join(output_folder, f"{i//files_per_block+1}")
     os.makedirs(block_folder, exist_ok=True)
     
     # move file to new block folder
