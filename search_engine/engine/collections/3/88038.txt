@@ -1,0 +1,1 @@
+Jika atribut multi-nilai (seperti array), tidak ada batasan jumlah entri (kecuali panjang masing-masing). Jika atribut bernilai tunggal, maka properti rangeUpper dari atribut menentukan jumlah karakter maksimum. Misalnya, atribut cn (nama umum) dibatasi hingga 64 karakter.

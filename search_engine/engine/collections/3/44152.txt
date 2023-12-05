@@ -1,0 +1,1 @@
+1 Setoran akan dihitung dalam urutan prioritas. Contoh: Jika jumlah dolar tetap harus disetorkan terlebih dahulu dan saldo bersih akan masuk ke rekening terpisah, maka aktivitas dolar tetap harus diprioritaskan 1 dan aktivitas pembayaran bersih saldo harus diprioritaskan 2.

@@ -1,0 +1,1 @@
+Fungsi ISNA Excel. Kesalahan Excel #N/A dihasilkan saat nilai tidak tersedia untuk rumus Anda. Misalnya, jika fungsi Vlookup diminta untuk mencari nilai '10' di kolom spreadsheet, tetapi tidak ada sel yang berisi nilai 10, fungsi tersebut akan mengembalikan kesalahan #N/A.

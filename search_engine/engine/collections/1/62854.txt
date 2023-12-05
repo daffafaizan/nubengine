@@ -1,0 +1,1 @@
+Jika kita mempertimbangkan jaringan APPN yang disederhanakan, dengan satu simpul akhir terhubung ke simpul jaringan, berikut ini akan menjelaskan urutan kejadian: 1 Setiap simpul menunjukkan kemampuan APPN dan mendefinisikan jenis simpulnya. 2 Node jaringan menanyakan node akhir apakah memerlukan server node jaringan, yang menangani permintaan untuk lokasi LU.

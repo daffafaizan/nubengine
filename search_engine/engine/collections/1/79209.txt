@@ -1,0 +1,1 @@
+Jika Anda perlu menghitung total karakter dalam sel, Anda dapat melakukannya menggunakan fungsi LEN. Dalam bentuk umum rumus di atas, a1 mewakili sel yang berisi teks. Dalam contoh, rumus dalam sel aktif adalah: =LEN(B3) Fungsi LEN hanya menghitung semua karakter yang muncul dalam sel. Semua karakter dihitung, termasuk karakter spasi.

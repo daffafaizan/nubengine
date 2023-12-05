@@ -1,0 +1,1 @@
+menggali vs nslookup. dig menggunakan pustaka resolver OS. nslookup menggunakan adalah yang internal sendiri. Itulah mengapa ISC telah mencoba untuk membuat orang berhenti menggunakan nslookup untuk beberapa waktu sekarang. Ini menyebabkan kebingungan.

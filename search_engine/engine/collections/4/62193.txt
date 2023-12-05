@@ -1,0 +1,1 @@
+Persamaan: Baik StringBuilder dan StringBuffer bisa berubah. Itu berarti Anda dapat mengubah kontennya, dengan lokasi yang sama. Perbedaan: StringBuffer bisa berubah dan disinkronkan juga. Sedangkan StringBuilder bisa berubah tetapi tidak disinkronkan secara default.

@@ -1,0 +1,1 @@
+Tentukan link database ke Oracle Database jarak jauh di mana tabel atau tampilan berada. Anda dapat mengunci tabel dan tampilan pada database jarak jauh hanya jika Anda menggunakan fungsionalitas terdistribusi Oracle. Semua tabel yang dikunci oleh pernyataan LOCK TABLE harus berada di database yang sama.

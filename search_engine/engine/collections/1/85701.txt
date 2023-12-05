@@ -1,0 +1,1 @@
+GRUB adalah implementasi referensi dari Spesifikasi Multiboot Free Software Foundation, yang memberikan pilihan kepada pengguna untuk mem-boot salah satu dari beberapa sistem operasi yang diinstal pada komputer atau memilih konfigurasi kernel tertentu yang tersedia pada partisi sistem operasi tertentu.

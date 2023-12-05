@@ -1,0 +1,1 @@
+Bagaimana seseorang membandingkan antara bilangan bulat yang ditandatangani dan tidak ditandatangani di C? Misalnya: penghitung int yang tidak ditandatangani; for (counter = 2; counter > 0; counter--) {/* do something here*/} Apakah itu keluar dari loop setelah counter mencapai 0? Saya tidak berpikir itu akan keluar karena penghitung dinyatakan tidak ditandatangani.

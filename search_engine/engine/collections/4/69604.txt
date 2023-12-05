@@ -1,0 +1,1 @@
+Profil pengguna super-wajib mirip dengan profil wajib biasa, dengan pengecualian bahwa pengguna yang memiliki profil super-wajib tidak dapat masuk ketika server yang menyimpan profil wajib tidak tersedia. Pengguna dengan profil wajib yang normal dapat masuk dengan salinan profil wajib yang di-cache secara lokal.

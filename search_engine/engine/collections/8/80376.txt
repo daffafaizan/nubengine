@@ -1,0 +1,1 @@
+Parameter. 1 src -- Ini adalah larik sumber. 2 srcPos -- Ini adalah posisi awal dalam larik sumber. 3 dest -- Ini adalah larik tujuan. destPos -- Ini adalah posisi awal dalam data tujuan 1. panjang -- Ini adalah jumlah elemen larik yang akan disalin.

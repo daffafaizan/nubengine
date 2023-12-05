@@ -1,0 +1,1 @@
+Penantian EksplisitÃƒâ€šÃ‚Â¶. Menunggu eksplisit adalah kode yang Anda tetapkan untuk menunggu kondisi tertentu terjadi sebelum melanjutkan lebih jauh dalam kode. Kasus terburuknya adalah Thread.sleep(), yang menetapkan kondisi ke periode waktu yang tepat untuk menunggu.

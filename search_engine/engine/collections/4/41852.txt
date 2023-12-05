@@ -1,0 +1,1 @@
+Maksimal 15 karakter yang dimaksud adalah panjang maksimum nama NetBIOS sebuah komputer. sAMAccountName akan menjadi nama NetBIOS dengan karakter $ di belakangnya, jadi sAMAccountName maksimal adalah 16 karakter. Nama umum (nilai atribut cn) dapat berisi hingga 64 karakter.

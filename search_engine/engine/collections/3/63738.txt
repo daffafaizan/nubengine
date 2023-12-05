@@ -1,0 +1,1 @@
+Pengguna default untuk aplikasi phpMyAdmin adalah root dan kata sandinya sama dengan yang Anda atur selama instalasi. Jika Anda menggunakan Virtual Appliance atau AMI, Anda dapat mengaktifkan phpMyAdmin dengan mengikuti panduan ini dan kata sandi defaultnya adalah bitnami.

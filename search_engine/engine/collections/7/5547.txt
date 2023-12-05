@@ -1,0 +1,1 @@
+Seperti file STL lainnya, AMF terdiri dari segitiga. Namun, dalam bentuk terkompresi, file AMF adalah kumpulan segitiga yang disederhanakan dengan serangkaian skrip yang mendefinisikan kurva tepi dan detail bentuk. AMF 1.1 dirilis pada awal April dan upaya sekarang sedang dilakukan untuk mengurangi ukuran file dengan tambahan 1000 kali.

@@ -1,0 +1,1 @@
+/Semua. Menghapus semua salinan bayangan untuk volume yang ditentukan. Menghapus salinan bayangan yang ditentukan oleh ShadowID. Untuk mendapatkan ID salinan bayangan, gunakan perintah vssadmin list shadows.

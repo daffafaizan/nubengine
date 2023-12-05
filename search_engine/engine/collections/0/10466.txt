@@ -1,0 +1,1 @@
+Bisa jadi sistem yang dicadangkan dicadangkan untuk boot, tetapi drive apa yang Anda masukkan? Merek baru atau bekas? Partisi 100MB adalah partisi sistem dan berisi file boot. Disk Manager tidak akan mengizinkan Anda untuk menghapus partisi ini karena menghapus partisi ini dapat menyebabkan sistem tidak bisa boot.

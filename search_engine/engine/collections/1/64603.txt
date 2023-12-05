@@ -1,0 +1,1 @@
+Prioritas ini dicadangkan untuk lalu lintas yang memerlukan tindakan cepat oleh penerima atau untuk melakukan operasi yang sedang berlangsung ketika prioritas RUTIN tidak akan cukup. Pesan prioritas PRIORITAS diproses, dikirim, dan dikirim dalam urutan yang diterima dan mendahului semua pesan prioritas ROUTINE.

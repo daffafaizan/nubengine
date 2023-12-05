@@ -1,0 +1,1 @@
+Ada dua jenis variabel lingkungan: variabel lingkungan pengguna (ditetapkan untuk setiap pengguna) dan variabel lingkungan sistem (ditetapkan untuk semua orang). Proses anak mewarisi variabel lingkungan dari proses induknya secara default.

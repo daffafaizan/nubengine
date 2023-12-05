@@ -1,0 +1,1 @@
+Saat Anda membangun aplikasi ASP.NET Core dan berencana menjalankannya di IIS, Anda akan menemukan bahwa aplikasi .NET Core di IIS bekerja sangat berbeda dari versi ASP.NET sebelumnya. Dalam posting ini saya akan menjelaskan bagaimana ASP.NET Core berjalan dalam konteks IIS dan bagaimana Anda dapat menyebarkan aplikasi ASP.NET Core Anda ke IIS.

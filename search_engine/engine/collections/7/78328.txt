@@ -1,0 +1,1 @@
+Artinya kode tersebut harus segera diganti! Gabung gaya ini seharusnya menjadi gabungan yang benar. Sayangnya terkadang akan diartikan sebagai cross join, sehingga hasil dari penggunaan join ini mungkin tidak benar. Juga, sintaks ini tidak digunakan lagi dan tidak dapat digunakan pada versi berikutnya dari server SQl.

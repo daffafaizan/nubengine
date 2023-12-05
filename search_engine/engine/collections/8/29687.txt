@@ -1,0 +1,1 @@
+Hitung sel yang berisi teks tertentu. Penjelasan. Untuk menghitung jumlah sel yang berisi teks (yaitu bukan angka, bukan kesalahan, tidak kosong), gunakan fungsi COUNTIF dan karakter pengganti. Dalam bentuk umum rumus (di atas), rng adalah rentang sel, dan * adalah karakter pengganti yang cocok dengan sejumlah karakter.

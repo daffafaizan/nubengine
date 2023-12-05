@@ -1,0 +1,1 @@
+Layanan Lapisan OSI. Dalam konteks ini, pengguna layanan adalah lapisan OSI yang meminta layanan dari lapisan OSI yang berdekatan. Penyedia layanan adalah lapisan OSI yang menyediakan layanan kepada pengguna layanan. Lapisan OSI dapat menyediakan layanan ke beberapa pengguna layanan.

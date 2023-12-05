@@ -1,0 +1,1 @@
+Emacs Lisp. Emacs Lisp adalah dialek bahasa pemrograman Lisp yang digunakan sebagai bahasa skrip oleh Emacs (keluarga editor teks yang paling sering dikaitkan dengan GNU Emacs dan XEmacs). Ini digunakan untuk mengimplementasikan sebagian besar fungsi pengeditan yang dibangun ke dalam Emacs, sisanya ditulis dalam C (seperti juga penerjemah Lisp itu sendiri).

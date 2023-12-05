@@ -1,0 +1,1 @@
+Masalahnya adalah Anda tidak dapat meluncurkan file DLL langsung dari Windows dengan cara yang sama seperti file yang dapat dieksekusi. Sebagai gantinya, shell yang dimuat dari file yang dapat dieksekusi digunakan untuk meng-host layanan DLL ini. Dan proses Host Layanan (svchost.exe) lahir. Mengapa Ada Begitu Banyak Proses Host Layanan yang Berjalan?

@@ -1,0 +1,1 @@
+Pengambilan sampel berdasarkan pilihan adalah salah satu strategi pengambilan sampel bertingkat. Dalam choice-based sampling, data distratifikasi pada target dan sampel diambil dari setiap strata sehingga kelas target langka akan lebih terwakili dalam sampel. Model kemudian dibangun di atas sampel yang bias ini.

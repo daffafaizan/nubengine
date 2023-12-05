@@ -1,0 +1,1 @@
+PROTOTYPE: Prototipe hanyalah nama lain untuk deklarasi suatu fungsi. DEFINISI: Definisi sepenuhnya menentukan entitas. Definisi adalah tempat penciptaan aktual entitas dalam memori terjadi. Semua definisi juga merupakan deklarasi, tetapi tidak semua deklarasi adalah definisi.

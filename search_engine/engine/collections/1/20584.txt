@@ -1,0 +1,1 @@
+Dalam hal ini, subskrip memberi tahu Anda suku mana dari barisan yang Anda lihat: $F_n$ adalah suku ke-$n$ dari barisan tersebut. Barisan khusus ini adalah barisan Fibonacci, yang didefinisikan dengan menetapkan $F_0=0$ dan $F_1=1$, dengan demikian membentuk suku ke-nol dan suku pertama, dan mendefinisikan sisanya secara rekursif.

@@ -1,0 +1,1 @@
+StringBuffer : Saat Anda membutuhkan string, yang dapat dimodifikasi, dan banyak utas mengakses dan memodifikasinya. Catatan: Jangan gunakan StringBuffer secara tidak perlu. Artinya, jangan gunakan jika hanya satu utas yang memodifikasi dan mengaksesnya. Karena memiliki banyak kode penguncian dan pembukaan kunci untuk sinkronisasi yang tidak akan memakan waktu CPU.

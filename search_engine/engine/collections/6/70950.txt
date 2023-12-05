@@ -1,0 +1,1 @@
+Setelah kardinalitas hubungan diidentifikasi, penting bahwa kelas objek ditugaskan ke peran yang benar (asal atau tujuan) dalam hubungan. Dalam hubungan sederhana dan komposit, objek tujuan dimodifikasi ketika objek asal dihapus.

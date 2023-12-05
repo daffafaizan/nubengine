@@ -1,0 +1,1 @@
+Pindahkan kursor ke antara 2 set tanda kurung, dan ketik SQRT. Tekan masuk. Kesalahan standar rata-rata sekarang harus ditampilkan di sel. Rumus Anda di bilah rumus akan terlihat seperti ini, =(STDEV(A1:A2))/(SQRT(COUNT(A1:A2))) .

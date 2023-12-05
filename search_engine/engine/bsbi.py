@@ -4,6 +4,7 @@ import contextlib
 import heapq
 import math
 import re
+import nltk
 
 from index import InvertedIndexReader, InvertedIndexWriter
 from util import IdMap, merge_and_sort_posts_and_tfs
@@ -40,6 +41,7 @@ class BSBIIndex:
         self.output_dir = os.path.join(self.base_dir, output_dir)
         self.index_name = index_name
         self.postings_encoding = postings_encoding
+        nltk.download('stopwords')
 
         # Untuk menyimpan nama-nama file dari semua intermediate inverted index
         self.intermediate_indices = []

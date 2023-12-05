@@ -1,0 +1,1 @@
+Jenis fungsi ini khusus karena mengembalikan tabel yang dapat Anda kueri hasilnya dan digabungkan dengan tabel lain. Di SQL Server 2005, nilai bidang dari tabel lain dapat diteruskan ke fungsi selama operasi gabungan untuk mengembalikan hasil berbasis rekaman.

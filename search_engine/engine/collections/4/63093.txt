@@ -1,0 +1,1 @@
+Berikut ini adalah contoh definisi tugas sederhana yang berisi satu wadah yang menjalankan server web NGINX menggunakan jenis peluncuran Fargate. Untuk contoh yang lebih luas yang menunjukkan penggunaan beberapa wadah dalam definisi tugas, lihat Contoh Definisi Tugas.

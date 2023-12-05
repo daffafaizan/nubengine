@@ -1,0 +1,1 @@
+Jaringan ini merupakan jaringan aktivitas pada node (AON). tambahkan panah dari (aktivitas) simpul i ke (aktivitas) simpul j jika aktivitas i harus selesai sebelum aktivitas j dapat dimulai (aktivitas i mendahului aktivitas j). Perhatikan di sini bahwa semua busur memiliki panah yang melekat padanya (menunjukkan arah aliran proyek).

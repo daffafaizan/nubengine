@@ -1,0 +1,1 @@
+Toolkit DJGPP adalah port dari beberapa utilitas GNU dasar ke MS-DOS, menggunakan perluasan sistem DPMI 32-bit, yang dibuat oleh DJ Delorie. Ini termasuk versi GCC, binutils, dan EMACS. Ini juga mencakup beberapa utilitas khusus DOS dan Windows.

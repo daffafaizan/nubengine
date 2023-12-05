@@ -1,0 +1,1 @@
+Hal terakhir yang mungkin Anda perhatikan, adalah bagaimana ruang dibagi. Misalnya, tombol Atas tidak mendapatkan semua ruang atas, karena tombol Kiri mengambil sebagian darinya. DockPanel memutuskan kontrol mana yang disukai dengan melihat posisi mereka di markup.

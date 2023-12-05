@@ -1,0 +1,1 @@
+Penggabungan string diimplementasikan melalui kelas StringBuilder(atau StringBuffer) dan metode appendnya. Konversi string diimplementasikan melalui metode toString, yang didefinisikan oleh Object dan diwarisi oleh semua kelas di Java.

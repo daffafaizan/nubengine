@@ -1,0 +1,1 @@
+Objek dalam MIB didefinisikan menggunakan subset dari Abstract Syntax Notation One (ASN.1) yang disebut Structure of Management Information Version 2 (SMIv2) RFC 2578. Perangkat lunak yang melakukan parsing adalah kompiler MIB. kumpulan informasi manajemen yang tersedia pada suatu entitas, sering digunakan untuk merujuk ke subset tertentu, lebih tepat disebut sebagai modul-MIB.

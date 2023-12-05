@@ -1,0 +1,1 @@
+Mencapai definisi. Dalam teori kompiler, definisi pencapaian untuk instruksi yang diberikan adalah instruksi sebelumnya yang variabel targetnya dapat mencapai (ditugaskan ke) yang diberikan tanpa penugasan intervensi. Misalnya, dalam kode berikut: d1 adalah definisi jangkauan untuk d2.

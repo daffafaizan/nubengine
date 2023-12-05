@@ -1,0 +1,1 @@
+Ditawarkan berarti jumlah panggilan yang melewati jenis panggilan dalam interval pelaporan. Ditangani berarti jumlah panggilan yang melewati jenis panggilan yang ditangani dalam interval pelaporan - tetapi hati-hati, ini mungkin termasuk panggilan yang melewati jenis panggilan sebelum interval pelaporan dimulai. Hal yang sama berlaku untuk kolom lainnya.

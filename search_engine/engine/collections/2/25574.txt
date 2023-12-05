@@ -1,0 +1,1 @@
+Skema Definisi Layanan Azure (File .csdef) File definisi layanan menentukan model layanan untuk aplikasi. File tersebut berisi definisi untuk peran yang tersedia untuk layanan cloud, menentukan titik akhir layanan, dan menetapkan pengaturan konfigurasi untuk layanan tersebut.

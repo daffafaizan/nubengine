@@ -1,0 +1,1 @@
+Ketika beberapa pengurangan biaya prosedur berlaku, kode prosedur dengan jumlah jadwal biaya tertinggi dianggap sebagai prosedur utama, terlepas dari urutan kode prosedur yang ditagihkan pada klaim dan terlepas dari kode prosedur mana yang memiliki biaya tagihan tertinggi.

@@ -1,0 +1,1 @@
+Pencadangan tambahan menawarkan alternatif untuk pencadangan penuh dengan mencadangkan hanya data yang telah berubah sejak pencadangan penuh terakhir. Kekurangannya adalah bahwa pemulihan penuh membutuhkan waktu lebih lama jika salinan cadangan data berbasis inkremental digunakan untuk pemulihan. Data salinan cadangan diferensial berubah sejak pencadangan penuh terakhir

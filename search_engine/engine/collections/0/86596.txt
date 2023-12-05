@@ -1,0 +1,1 @@
+Fungsi digamma dan trigamma mengembalikan turunan pertama dan kedua dari logaritma fungsi gamma. psigamma(x, deriv) (deriv >= 0) lebih umum menghitung turunan turunan dari psi(x). Fungsi memilih dan memilih kembali koefisien binomial dan logaritmanya.

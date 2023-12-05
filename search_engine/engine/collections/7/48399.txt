@@ -1,0 +1,1 @@
+Seperti bahasa skrip lainnya, Windows PowerShell memungkinkan Anda membuat fungsi yang dapat Anda rujuk dalam pernyataan PowerShell. Fungsi pada dasarnya adalah blok kode yang diberi nama. Saat Anda memanggil nama fungsi, blok skrip di dalam fungsi itu berjalan.

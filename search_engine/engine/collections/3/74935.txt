@@ -1,0 +1,1 @@
+Menunggu ImplisitÃƒâ€šÃ‚Â¶ Penantian implisit adalah memberi tahu WebDriver untuk melakukan polling DOM selama jangka waktu tertentu ketika mencoba menemukan elemen atau elemen jika tidak segera tersedia. Pengaturan default adalah 0. Setelah disetel, penantian implisit disetel untuk masa pakai instance objek WebDriver.

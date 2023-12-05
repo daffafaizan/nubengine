@@ -1,0 +1,1 @@
+Pembingkaian Ethernet II (juga dikenal sebagai DIX Ethernet, dinamai DEC, Intel dan Xerox, peserta utama dalam desainnya), mendefinisikan bidang EtherType dua oktet dalam bingkai Ethernet, didahului oleh alamat MAC tujuan dan sumber, yang mengidentifikasi protokol lapisan yang mengenkapsulasi data bingkai.

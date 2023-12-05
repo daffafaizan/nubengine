@@ -1,0 +1,1 @@
+Setiap file konfigurasi PAM berisi beberapa baris, dengan setiap baris mendefinisikan beberapa aspek dari proses otentikasi PAM. Gambar 11 menunjukkan isi file konfigurasi PAM untuk GDM. Gambar 11 File konfigurasi PAM untuk Gnome Desktop Manager (Klik gambar untuk tampilan lebih besar)

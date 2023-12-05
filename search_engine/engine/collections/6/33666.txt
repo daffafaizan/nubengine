@@ -1,0 +1,1 @@
+SQL Ekspres. LocalDB bukan pengganti SQL Server Express -- ini adalah tambahan untuk jajaran SQL Server Express. Sementara LocalDB ditujukan untuk pengembang, SQL Server Express reguler akan terus ada sebagai edisi SQL Server gratis, sepenuhnya kompatibel dengan dan dengan mudah dapat ditingkatkan ke edisi SQL Server yang lebih tinggi. Contoh Pengguna SQL Express

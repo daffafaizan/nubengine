@@ -1,0 +1,1 @@
+Buat login dengan kata sandi =<>. Yang akan membuat login untuk sql server sehingga pengguna dapat menggunakan kredensial ini untuk menghubungkan server sql. Pengguna: Pengguna adalah pengguna DB yang akan memiliki izin untuk izin database tertentu atau lebih. Kami dapat memetakan database untuk pengguna tertentu di properti pengguna.

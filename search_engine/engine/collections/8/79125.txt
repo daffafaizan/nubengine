@@ -1,0 +1,1 @@
+Reflektor Recco bukan pengganti avalanche beacon. Sinyal Recco tidak mengganggu beacon. Bahkan, detektor Recco saat ini juga memiliki penerima avalanche beacon (457 kHz) sehingga satu penyelamat dapat mencari sinyal Recco dan sinyal beacon secara bersamaan.

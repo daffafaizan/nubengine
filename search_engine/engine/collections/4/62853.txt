@@ -1,0 +1,1 @@
+Setiap router APPN memelihara peta lengkap topologi jaringan yang mencakup semua NN (router) dan tautan. Ini memungkinkan setiap router untuk memilih jalur terbaik melalui jaringan kapan saja, berdasarkan CoS.

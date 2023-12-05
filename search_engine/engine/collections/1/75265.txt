@@ -1,0 +1,1 @@
+Jadi untuk melindungi DB Keepass saya, saya menggunakan tiga lapisan: 1 Basis data memiliki frasa sandi yang kuat (bukan hanya kata sandi). Saya tidak menggunakan file kunci karena, bagi saya, risiko kehilangan file kunci lebih besar daripada manfaat keamanannya. 2 Basis data disimpan pada sistem file terenkripsi (saya menggunakan encfs.

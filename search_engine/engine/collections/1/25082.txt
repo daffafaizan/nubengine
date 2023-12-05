@@ -1,0 +1,1 @@
+Keduanya dapat digunakan untuk mengunduh file menggunakan FTP dan HTTP(s). Anda juga dapat mengirim permintaan HTTP POST menggunakan curl dan wget. Namun curl menyediakan API yang dapat digunakan oleh programmer di dalam kode mereka sendiri. curl menggunakan libcurl yang merupakan perpustakaan lintas platform. wget hanyalah alat baris perintah tanpa API apa pun.

@@ -1,0 +1,1 @@
+Bagaimana mendeteksi apakah mouse melayang di Elemen GUI (Unity 4.6 GUI) Halo, saya perlu memeriksa apakah mouse melayang di elemen GUI apa pun. Saya menggunakan GUI Unity terbaru dari Unity 4.6. Perhatikan bahwa di NGUI dimungkinkan dengan memeriksa variabel UICamera.hoveredObject (jika nol maka tidak ada objek melayang). Bersulang.

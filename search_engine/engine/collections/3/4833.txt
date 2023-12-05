@@ -1,0 +1,1 @@
+ASIO4ALL adalah driver ASIO latensi rendah yang independen terhadap perangkat keras untuk perangkat audio WDM. Ia menggunakan WDM Kernel-Streaming dan terkadang metode yang lebih canggih untuk mencapai tujuannya. Versi yang paling banyak digunakan adalah 2.10, dengan lebih dari 98% dari semua instalasi saat ini menggunakan versi ini.

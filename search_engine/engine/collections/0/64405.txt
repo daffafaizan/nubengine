@@ -1,0 +1,1 @@
+XInput 1.3: XInput 1.3 dikirimkan sebagai komponen yang dapat didistribusikan ulang di DirectX SDK dengan dukungan untuk Windows Vista, Windows 7, dan Windows 8. Gunakan versi ini jika aplikasi desktop Anda dimaksudkan untuk berjalan pada versi Windows ini dan Anda memerlukan fungsionalitas yang tidak didukung oleh XInput 9.1.0.

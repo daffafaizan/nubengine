@@ -1,0 +1,1 @@
+Nilai setiap piksel adalah digital: ia mengambil nilai tertentu. Dalam kualitas gambar yang lebih tinggi, setiap piksel dapat mengambil lebih banyak variasi nilai. Nilai setiap piksel dikodekan sebagai sejumlah bit. Bit adalah datum dengan nilai 0 atau 1. Semakin banyak nilai yang dapat diambil oleh piksel, semakin banyak bit yang harus digunakan untuk mewakili nilainya.

@@ -1,0 +1,1 @@
+Untuk mengganti nama komputer yang menghosting instance SQL Server yang berdiri sendiri. 1 Untuk komputer berganti nama yang menjadi tuan rumah contoh default SQL Server, jalankan prosedur berikut: sp_dropserver <old_name>; GO sp_addserver <nama_baru>, lokal; GO Mulai ulang instance SQL Server.

@@ -1,0 +1,1 @@
+Untuk memilih rentang sel, gunakan metode Pilih. Untuk membuat satu sel menjadi sel aktif, gunakan metode Aktifkan. Anda dapat menggunakan properti Offset untuk memindahkan sel yang aktif. Prosedur berikut menyisipkan teks ke dalam sel aktif dalam rentang yang dipilih lalu memindahkan sel aktif satu sel ke kanan tanpa mengubah pilihan.

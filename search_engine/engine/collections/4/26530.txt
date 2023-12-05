@@ -1,0 +1,1 @@
+Terpusat: Dalam skenario ini, semua manajemen Panorama dan. fungsi logging dikonsolidasikan ke dalam satu perangkat (dengan opsi ketersediaan tinggi). Terdistribusi: Anda dapat memisahkan manajemen dan logging. fungsi di beberapa perangkat, memisahkan fungsi. antara manajer dan pengumpul log.

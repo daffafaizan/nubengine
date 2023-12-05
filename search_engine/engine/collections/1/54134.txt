@@ -1,0 +1,1 @@
+Rentang dinamis ADC dipengaruhi oleh banyak faktor, termasuk resolusi (jumlah level output yang dapat dikuantisasi sinyalnya), linearitas dan akurasi (seberapa baik level kuantisasi cocok dengan sinyal analog sebenarnya) dan jitter (kesalahan waktu kecil yang menimbulkan kebisingan tambahan).

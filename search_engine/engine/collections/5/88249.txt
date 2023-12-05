@@ -1,0 +1,1 @@
+Jika Anda menghapus DoEvents dari kode Anda, formulir Anda tidak akan dicat ulang sampai event handler klik tombol selesai dieksekusi. Untuk informasi selengkapnya tentang perpesanan, lihat Input Pengguna di Formulir Windows. Tidak seperti Visual Basic 6.0, metode DoEvents tidak memanggil metode Thread.Sleep.

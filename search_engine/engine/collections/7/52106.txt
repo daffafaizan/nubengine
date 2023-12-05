@@ -1,0 +1,1 @@
+Setelah menerima frame beacon, setiap stasiun menunggu interval beacon dan kemudian mengirimkan beacon jika tidak ada stasiun lain yang melakukannya setelah waktu tunda acak. Ini memastikan bahwa setidaknya satu stasiun akan mengirim beacon, dan penundaan acak merotasi tanggung jawab untuk mengirim beacon.

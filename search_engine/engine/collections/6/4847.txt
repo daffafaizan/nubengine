@@ -1,0 +1,1 @@
+Konfigurasikan Batas Ukuran Cache Maksimum (IIS 7) Atur ukuran cache keluaran maksimum saat Anda ingin membatasi jumlah memori yang digunakan IIS untuk cache keluaran. Ukuran cache maksimum adalah ukuran maksimum, dalam megabita, dari cache keluaran. Ketika nilai default 0 diatur, IIS secara otomatis mengelola ukuran memori cache.

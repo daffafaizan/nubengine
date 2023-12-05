@@ -1,0 +1,1 @@
+Jika Anda dapat melakukan ping ke alamat loopback dan alamat IP Anda sendiri, langkah selanjutnya adalah menghapus cache ARP dan memuatnya kembali. Ini dapat dilakukan dengan menggunakan utilitas Arp, pertama untuk menampilkan entri cache dengan arp-a atau arp-g. Hapus entri dengan alamat IP arp-d.

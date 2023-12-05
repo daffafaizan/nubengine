@@ -1,0 +1,1 @@
+Untuk membatasi jumlah kabel yang diperlukan antara dua yang terlibat dalam pertukaran panggilan suara, sebuah sistem dibangun di mana beberapa DS0 dimultipleks bersama pada sirkuit berkapasitas lebih tinggi. Dalam sistem ini, dua puluh empat (24) DS0 dimultipleks menjadi sinyal DS1. Dua puluh delapan (28) DS1 dimultipleks menjadi DS3.

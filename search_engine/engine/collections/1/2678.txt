@@ -1,0 +1,1 @@
+Paling umum, regresi linier mengacu pada model di mana rata-rata kondisional y yang diberikan nilai X adalah fungsi affine dari X. Lebih jarang, regresi linier bisa merujuk ke model di mana median, atau kuantil lain dari kondisional distribusi y yang diberikan X dinyatakan sebagai fungsi linier dari X.

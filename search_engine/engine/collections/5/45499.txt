@@ -1,0 +1,1 @@
+Acara yang Diperpanjang dapat menggantikan SQL Profiler, dan lebih kuat dengan dampak kinerja yang lebih sedikit daripada SQL Profiler. Extended Events telah diperkenalkan di dunia SQL Server dari SQL2008, dan di SQL2012, telah diintegrasikan ke dalam SQL Server Management Studio (SSMS), lihat gambar di bawah ini:

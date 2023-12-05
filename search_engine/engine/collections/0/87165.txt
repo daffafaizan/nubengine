@@ -1,0 +1,1 @@
+Adaptasi POSIX RTOS. Dimulai sebagai sarana untuk menstandarisasi antarmuka Unix POSIX berkembang dengan antarmuka dan threading waktu nyata. Standar POSIX standar internasional telah diadopsi oleh hampir semua sistem operasi yang digunakan dan sebagian besar sistem operasi waktu nyata termasuk: ThreadX. QNX, VxWorks, Integritas, LynxOS dan Unison OS.

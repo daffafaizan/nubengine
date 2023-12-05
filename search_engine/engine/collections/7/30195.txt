@@ -1,0 +1,1 @@
+Driver SQL Server ODBC menyediakan akses ODBC ke SQL Server untuk aplikasi Linux dan UNIX, dan menggunakan TDS untuk berkomunikasi dengan SQL Server. Jika Anda ingin menggunakan SQL Server, tetapi tidak memiliki mesin Windows di situs Anda, Anda dapat menggunakan SQL Azure sebagai gantinya.

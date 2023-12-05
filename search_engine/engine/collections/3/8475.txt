@@ -1,0 +1,1 @@
+AF_INET adalah keluarga alamat yang digunakan untuk menentukan jenis alamat yang dapat berkomunikasi dengan soket Anda (dalam hal ini, alamat Protokol Internet v4). Saat Anda membuat soket, Anda harus menentukan keluarga alamatnya, dan kemudian Anda hanya dapat menggunakan alamat jenis itu dengan soket.

@@ -1,0 +1,1 @@
+CWE-119: Buffer Errors: Perangkat lunak melakukan operasi pada buffer memori, tetapi dapat membaca dari atau menulis ke lokasi memori yang berada di luar batas buffer yang diinginkan. CWE-417: Channel and Path Errors: Kelemahan dalam kategori ini terkait dengan penanganan saluran komunikasi dan jalur akses yang tidak tepat. CWE-171

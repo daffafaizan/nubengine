@@ -1,0 +1,1 @@
+SQLite adalah C-library yang berjalan di ruang alamat yang sama dengan aplikasi yang dilayaninya. Itu berarti bahwa penunjuk nyasar, buffer overruns, kerusakan heap, atau malfungsi lainnya dalam aplikasi dapat merusak struktur data SQLite internal dan pada akhirnya menghasilkan file database yang rusak.

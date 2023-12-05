@@ -1,0 +1,1 @@
+Masukkan nama domain untuk melihat semua catatan dns umum (A, AAAA, CNAME, MX, TXT, SRV, DMARC). Masukkan alamat ip untuk melakukan pencarian reverse dns (PTR). Mendukung IPv4, IPv6, dan FCrDNS. Buat kueri server nama tertentu dengan menambahkan @server nama (mis. www.example.com@ns1.misk.com).

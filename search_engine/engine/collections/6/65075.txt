@@ -1,0 +1,1 @@
+Algoritma: 1 Tetapkan maks ke 0. 2 Untuk setiap angka x dalam daftar L, bandingkan dengan maks. Jika x lebih besar, setel maks ke x. 3 max sekarang diatur ke angka terbesar dalam daftar.

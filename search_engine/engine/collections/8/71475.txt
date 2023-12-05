@@ -1,0 +1,1 @@
+1 Misalkan Anda sedang mengunduh, ketika Wget terputus. Sekarang Anda tidak ingin merusak file yang sudah ada. Itu akan menjadi: wget -nc -r http://www.gnu.ai.mit.edu/. Jika Anda ingin menyandikan nama pengguna dan kata sandi Anda sendiri ke HTTP atau FTP, gunakan sintaks URL yang sesuai (Lihat bagian Format URL).

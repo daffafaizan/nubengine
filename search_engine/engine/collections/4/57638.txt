@@ -1,0 +1,1 @@
+Mengembalikan teks kumpulan SQL yang diidentifikasi oleh sql_handle yang ditentukan. Fungsi bernilai tabel ini menggantikan fungsi sistem fn_get_sql. Berlaku untuk: SQL Server (SQL Server 2008 hingga versi saat ini), Azure SQL Database.

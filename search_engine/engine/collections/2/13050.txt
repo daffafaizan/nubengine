@@ -1,0 +1,1 @@
+Kategori aset, buku, dan tanggal yang ditempatkan dalam layanan menentukan aturan penyusutan default yang digunakan Oracle Assets. Jika kategori aset yang Anda masukkan diatur untuk lebih dari satu tanggal yang ditempatkan dalam rentang layanan untuk buku ini, tanggal yang ditempatkan dalam layanan menentukan aturan mana yang akan digunakan.

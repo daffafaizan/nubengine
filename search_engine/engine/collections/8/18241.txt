@@ -1,0 +1,1 @@
+Daemon adalah proses yang berjalan sebagai proses latar belakang, daripada berada di bawah kendali langsung dari pengguna interaktif. Contoh: inetd, sshd, dll. Semua proses bukan daemon, tetapi semua daemon adalah proses. Penjelasan yang bagus diberikan di wiki tentang istilah 'daemon' Istilah ini diciptakan oleh pemrogram Project MAC MIT.

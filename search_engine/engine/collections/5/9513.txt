@@ -1,0 +1,1 @@
+Menggunakan File Sumber Daya di C#. Mungkin ada kasus di mana kita perlu mengakses kamus sumber daya yang telah kita definisikan dalam proyek kita, dari kode C#. Jika kita telah menggabungkan kamus sumber daya kita di XAML, mudah untuk mengakses sumber daya dalam menggunakan control.FindResource(KeyWillGoHere); metode.

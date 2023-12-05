@@ -1,0 +1,1 @@
+Setelah kami memproses halaman saat ini, mari cari tautan ke halaman lain dan tambahkan ke antrian url kami (inilah yang dimaksud dengan perayapan). Di sini saya menggunakan perpustakaan BeautifulSoup untuk mem-parsing halaman html: 1. 2. # membuat sup cantik untuk dokumen html. sup = BeautifulSoup (respon.

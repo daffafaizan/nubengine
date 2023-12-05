@@ -1,0 +1,1 @@
+Dynamic ARP Inspection DAI memeriksa permintaan dan tanggapan ARP pada LAN dan memvalidasi paket ARP. Sakelar memotong paket ARP dari port akses dan memvalidasinya terhadap database pengintaian DHCP.

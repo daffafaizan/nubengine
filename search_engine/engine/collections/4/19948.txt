@@ -1,0 +1,1 @@
+Fungsi HARI Excel. Fungsi Excel DAY mengembalikan hari dalam sebulan sebagai angka antara 1 hingga 31 saat diberi tanggal. Anda dapat menggunakan fungsi DAY untuk mengekstrak nomor hari dari tanggal ke dalam sel. Anda juga dapat menggunakan fungsi DAY untuk memasukkan nilai hari ke rumus lain, seperti fungsi DATE.

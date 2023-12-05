@@ -1,0 +1,1 @@
+Baik pengambilan HTTP dan FTP dapat diberi stempel waktu, sehingga Wget dapat melihat apakah file jarak jauh telah berubah sejak pengambilan terakhir dan secara otomatis mengambil versi baru jika ada. Wget mendukung server proxy, yang dapat meringankan beban jaringan, mempercepat pengambilan dan menyediakan akses di belakang firewall.

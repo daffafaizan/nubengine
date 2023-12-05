@@ -1,0 +1,1 @@
+AMF dapat disimpan baik sebagai teks biasa atau sebagai teks terkompresi. Jika dikompresi, kompresi dalam format arsip ZIP. File AMF terkompresi biasanya berukuran sekitar setengah ukuran file STL biner terkompresi yang setara.

@@ -1,0 +1,1 @@
+VMware vSphere 5.0 Hypervisor mengemulasi NIC (juga disebut sebagai perangkat emulasi back-end) untuk mereplikasi perangkat keras yang divirtualisasikannya untuk mesin virtual tamu e. Perangkat yang diemulasi menyajikan deskriptor, untuk membaca dan menulis, dan menginterupsi ke mesin virtual tamu seperti halnya perangkat NIC perangkat keras nyata.

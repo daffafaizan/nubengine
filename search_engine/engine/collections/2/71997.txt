@@ -1,0 +1,1 @@
+Hitung jumlah total karakter dalam beberapa sel. Cara paling jelas untuk mendapatkan jumlah total karakter dalam beberapa sel adalah dengan menjumlahkan beberapa fungsi LEN, misalnya: =LEN(A2)+LEN(A3)+LEN(A4) Atau, gunakan fungsi SUM untuk menjumlahkan karakter jumlah yang dikembalikan oleh rumus LEN:

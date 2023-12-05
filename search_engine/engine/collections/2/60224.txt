@@ -1,0 +1,1 @@
+Fungsi Today() digunakan untuk mengembalikan nomor seri tanggal saat ini. Dengan memformat sel tempat rumus digunakan, itu akan mengembalikan Bulan, Hari dan Tahun hari ini. Salah satu fungsi yang paling mudah digunakan di Excel, berikut adalah rumusnya: =Today() Karena hari ini tanggal 5 Juni 2007, rumus akan kembali 6/5/07 karena secara otomatis diformat dalam format tanggal.

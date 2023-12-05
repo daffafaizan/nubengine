@@ -1,0 +1,1 @@
+Penggunaan Serial dengan GUI. 1 Jangan gunakan pendekatan ini untuk pekerjaan yang berjalan lebih dari beberapa menit - alih-alih serahkan ke penjadwal dan lihat hasilnya di gui (lihat bagian di bawah). 2 Setelah memuat modul VTune, jalankan gui dari baris perintah: amplxe-gui.

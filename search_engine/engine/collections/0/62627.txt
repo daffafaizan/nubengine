@@ -1,0 +1,1 @@
+Ini mendefinisikan satu cermin yang akan digunakan ketika Maven ingin mengambil ketergantungan dari Maven Central. 1 Katakanlah Anda memiliki 2 repositori saat ini, yaitu Maven Central dan repo kustom A. Apa yang terjadi adalah sebagai berikut: 2 Anda mendeklarasikan ketergantungan pada artefak;

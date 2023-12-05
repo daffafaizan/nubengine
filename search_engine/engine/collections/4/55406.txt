@@ -1,0 +1,1 @@
+- Buku Kerja Pengantar Perl untuk Siswa Biologi. Tujuan dari program ini adalah untuk menghitung panjang sekuens DNA yang diberikan dan untuk mengetahui jumlah total sekuens dinukleotida yaitu GCs dan ATs dalam DNA. Pada awalnya kami menetapkan nilai DNA ke variabel skalar yang disebut $DNA.

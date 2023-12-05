@@ -1,0 +1,1 @@
+Jika ada kode dasar untuk dokumen XAML Anda, kode tersebut disimpan dalam file dengan nama yang sama, dengan ekstensi tambahan .cs atau .vb. Misalnya, jika dokumen XAML Anda bernama Window1.xaml, file di belakang kode akan disebut Window1.xaml.cs jika bahasa pemrograman kodenya adalah C#.

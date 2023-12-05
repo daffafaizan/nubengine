@@ -1,0 +1,1 @@
+Apa itu smsvchost.exe? Windows Communication Foundation (WCF) menyediakan protokol jaringan berbasis TCP baru (net.tcp://) untuk komunikasi kinerja tinggi. WCF juga memperkenalkan komponen sistem baru, Layanan Berbagi Port Net.TCP yang memungkinkan port net.tcp untuk dibagikan di beberapa proses pengguna.

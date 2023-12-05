@@ -1,0 +1,1 @@
+Untuk menjalankan Tor Browser, klik pada Tor Browser atau ikon Pengaturan Tor Browser atau jalankan file start-tor-browser.desktop di terminal: ./start-tor-browser.desktop. Ini akan meluncurkan Tor Launcher dan setelah terhubung ke Tor, itu akan meluncurkan Firefox. Jangan membongkar atau menjalankan TBB sebagai root.

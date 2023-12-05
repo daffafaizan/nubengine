@@ -1,0 +1,1 @@
+Fitur baru yang ditambahkan di PowerShell V2 adalah: 1 Bahasa Data: Ini adalah subset dari bahasa skrip PowerShell. 2 PowerShell Remoting: Ini memanggil cmdlet dan skrip pada mesin jarak jauh menggunakan manajemen stasiun kerja. 3 Script Debugging: Ini memungkinkan breakpoint pada skrip dan fungsi untuk memudahkan lokasi perintah.

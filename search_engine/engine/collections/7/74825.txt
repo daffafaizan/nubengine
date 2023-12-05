@@ -1,0 +1,1 @@
+Jenis soket ini menggunakan User Datagram Protocol (UDP) untuk keluarga alamat Internet (AF_INET atau AF_INET6). Jenis soket yang menyediakan soket mentah yang memungkinkan aplikasi untuk memanipulasi header protokol lapisan atas berikutnya. Untuk memanipulasi header IPv4, opsi soket IP_HDRINCL harus diatur pada soket.

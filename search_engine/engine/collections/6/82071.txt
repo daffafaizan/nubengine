@@ -1,0 +1,1 @@
+Jika Anda ingin mengaktifkan trunking dan tidak mengirim sinyal DTP apa pun, gunakan opsi nonegosiasi untuk sakelar yang mendukung fungsi itu. Jika Anda ingin menonaktifkan trunking sepenuhnya, gunakan opsi off untuk sakelar COS atau perintah trunk mode no switchport pada sakelar IOS. Tabel 6-2 menunjukkan pensinyalan DTP dan karakteristik masing-masing mode.

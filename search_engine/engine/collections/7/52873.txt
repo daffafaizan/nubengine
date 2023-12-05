@@ -1,0 +1,1 @@
+Ketika menemukan drive yang tepat yang memiliki boot loader, itu memuatnya ke dalam memori sehingga program boot loader kemudian dapat memuat sistem operasi ke dalam memori, begitulah cara Anda menggunakan OS yang diinstal ke drive. Di versi Windows yang lebih baru, BOOTMGR adalah boot manager yang digunakan.

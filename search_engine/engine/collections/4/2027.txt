@@ -1,0 +1,1 @@
+SERVOSTAR memiliki kemampuan untuk mengeksekusi profil gerakan absolut. Jenis gerak ini selalu mengacu pada titik acuan mutlak. Titik referensi ini, yang didefinisikan secara internal ke drive, adalah di mana PFB = 0 (PFB adalah posisi motor absolut aktual dalam hitungan kumulatif). Berikut ini membahas dua cara untuk memerintahkan gerakan absolut:

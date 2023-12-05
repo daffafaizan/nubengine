@@ -1,0 +1,1 @@
+Seperti yang telah Anda lihat, untuk melakukan uji rasio kemungkinan, seseorang harus memperkirakan kedua model yang ingin dibandingkan. Keuntungan dari tes pengganda (atau skor) Wald dan Lagrange adalah bahwa tes tersebut mendekati tes lr, tetapi hanya membutuhkan satu model yang diestimasi.

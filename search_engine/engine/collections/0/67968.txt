@@ -1,0 +1,1 @@
+Jika Anda menggunakan fungsi Anova(), cara melakukan tes Tukey sedikit berbeda. Di sini, kami menggunakan contoh ANOVA dua arah yang sama, tetapi nilai untuk Waktu sedikit diubah (untuk menghilangkan efek interaksi). Dengan uji anova, Anda akan menemukan efek utama.

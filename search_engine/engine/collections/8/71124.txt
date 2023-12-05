@@ -1,0 +1,1 @@
+Perangkat di bus FireWire dapat berkomunikasi dengan akses memori langsung (DMA), di mana perangkat dapat menggunakan perangkat keras untuk memetakan memori internal ke Ruang Memori Fisik FireWire. SBP-2 (Serial Bus Protocol 2) yang digunakan oleh drive disk FireWire menggunakan kemampuan ini untuk meminimalkan interupsi dan buffer salinan.

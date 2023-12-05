@@ -1,0 +1,1 @@
+Lapisan - Fungsi - Perangkat. Lapisan aplikasi. Lapisan aplikasi model OSI adalah lapisan yang paling dekat dengan pengguna. Alih-alih memberikan layanan ke lapisan OSI lainnya, ia menyediakan layanan untuk program aplikasi di luar cakupan model OSI. Layanannya sering menjadi bagian dari proses aplikasi.

@@ -1,0 +1,1 @@
+Kriteria untuk memilih antara String, StringBuffer dan StringBuilder - Jika teks Anda tidak akan berubah, gunakan Kelas string karena objek String tidak dapat diubah. Jika teks Anda dapat berubah dan hanya akan diakses dari satu utas, gunakan StringBuilder karena StringBuilder lebih cepat daripada StringBuffer.

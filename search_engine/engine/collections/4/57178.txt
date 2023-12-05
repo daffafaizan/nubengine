@@ -1,0 +1,1 @@
+Protokol PPP dan OSI berbagi lapisan fisik yang sama, tetapi PPP mendistribusikan fungsi LCP dan NCP secara berbeda. PPP beroperasi di semua antarmuka DTE/DCE. Satu-satunya persyaratan yang dikenakan oleh PPP adalah sirkuit dupleks, baik yang didedikasikan atau diaktifkan, yang dapat beroperasi di salah satu:

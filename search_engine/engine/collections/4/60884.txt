@@ -1,0 +1,1 @@
+Untuk memastikan bahwa alur kerja dan fungsi bersarang memiliki akses ke nilai parameter alur kerja dan nilai variabel yang dibuat dalam cakupan alur kerja, tentukan parameter pada fungsi atau alur kerja bersarang. Kemudian, saat memanggil fungsi atau alur kerja bersarang, teruskan nilai parameter.

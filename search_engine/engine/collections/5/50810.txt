@@ -1,0 +1,1 @@
+Menetapkan ukuran maksimum celah yang dapat diabaikan saat objek digunakan sebagai batas palka. Nilai default, 0, menentukan bahwa objek harus menyertakan area tanpa celah. Setiap celah yang sama dengan atau lebih kecil dari nilai yang Anda tentukan dalam toleransi celah diabaikan, dan batas diperlakukan sebagai tertutup.

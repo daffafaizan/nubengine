@@ -1,0 +1,1 @@
+= sin(x) lim (-sin(d)) * lim sin(d)/d * lim 1/(cos(d)+1) + cos(x) lim sin(d)/d = sin(x) * 0 * 1 * 1/2 + cos(x) * 1 = cos(x) QED Bukti cos(x): dari turunan sinus

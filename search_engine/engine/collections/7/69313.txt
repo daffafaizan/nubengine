@@ -1,0 +1,1 @@
+Bagaimana dan Mengapa Bekerja. ISNA adalah fungsi pertama dalam rumus kami, yang hanya melakukan satu hal dalam hidup: memeriksa apakah suatu nilai adalah #N/A (nilai kesalahan yang digunakan Excel untuk mengatakan Â¢Ã‚â‚¬Ã‚Å“tidak ada nilai yang tersediaÃƒÂ¢ â). Jika nilai adalah #N/A dalam rumus ISNA, nilai tersebut akan menampilkan TRUE.

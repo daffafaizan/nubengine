@@ -1,0 +1,1 @@
+(Perhatikan bahwa sebelum AIR 2.6, adalah properti hanya-baca dan hanya dapat diatur dalam deskriptor aplikasi.). Jika Anda menentukan rasio aspek lanskap atau potret dan juga mengaktifkan orientasi otomatis, AIR membatasi orientasi otomatis ke rasio aspek yang ditentukan.

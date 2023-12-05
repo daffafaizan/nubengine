@@ -1,0 +1,1 @@
+Hitung jumlah karakter dalam sel di Excel. Pelajaran ini memperkenalkan fungsi LEN(), yang memungkinkan Anda menghitung jumlah karakter dalam sel. Rumus ini berguna sendiri, atau dapat digabungkan dengan fungsi teks lain seperti RIGHT(), LEFT(), MID() dan FIND().

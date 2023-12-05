@@ -1,0 +1,1 @@
+Akses antarmuka web router AP menggunakan komputer yang terhubung ke salah satu port LAN router NETGEAR. Catatan: Jika alamat IP router utama diatur ke 192.168.1.1, router AP akan secara otomatis mengubah alamat IP-nya menjadi 10.0.0.1. Klik Lanjutkan.

@@ -1,0 +1,1 @@
+plot q-q untuk data normal. Definisi plot q-q dapat diperluas ke kepadatan kontinu apa pun. Plot q-q akan mendekati garis lurus jika kerapatan yang diasumsikan benar. Karena fungsi distribusi kumulatif dari kerapatan seragam adalah garis lurus, plot q-q sangat mudah dibuat.

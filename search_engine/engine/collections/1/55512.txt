@@ -1,0 +1,1 @@
+Jika VLOOKUP pertama TIDAK mengembalikan kesalahan, Anda kemudian memaksa Excel untuk mengulangi VLOOKUP. Jika Anda melakukan VLOOKUP hanya sekali dalam satu sel, kemudian lakukan IF(ISNA(... di sel berikutnya dan arahkan ke sel yang berisi hasil VLOOKUP, maka Anda hanya pernah melakukan VLOOKUP sekali.

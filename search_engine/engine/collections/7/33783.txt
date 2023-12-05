@@ -1,0 +1,1 @@
+Pengembalian tertimbang uang = pengembalian tertimbang waktu untuk satu periode di mana arus kas diterima di akhir. Jika periodenya adalah kerangka waktu selain satu tahun, ambil (1 + hasilnya), dipangkatkan 1/Y dan kurangi 1 untuk menemukan pengembalian tahunan.

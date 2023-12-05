@@ -1,0 +1,1 @@
+Protokol Debug Kode VS. Karena Visual Studio Code mengimplementasikan UI debug agnostik bahasa, ia tidak berkomunikasi langsung dengan debugger nyata tetapi sebaliknya berbicara dengan apa yang disebut adaptor debug melalui protokol kawat abstrak, Protokol Debug Kode VS. Ekstensibilitas komponen debug VS Code saat ini terbatas pada penambahan adaptor debug baru.

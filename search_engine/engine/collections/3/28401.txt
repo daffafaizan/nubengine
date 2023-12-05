@@ -1,0 +1,1 @@
+Konfigurasikan semua pengguna domain untuk menelusuri Laporan SSRS. Setiap kali saya mengonfigurasi struktur dan keamanan folder SSRS, satu tugas umum yang saya konfigurasikan adalah menambahkan semua pengguna domain ke folder SSRS, sumber data, model, atau item laporan.

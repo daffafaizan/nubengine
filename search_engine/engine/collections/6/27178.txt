@@ -1,0 +1,1 @@
+Namun, ada beberapa batasan seperti yang ditunjukkan di bawah ini: 1 Sebuah transaksi dapat berisi beberapa pernyataan DML Oracle paralel yang mengubah tabel yang berbeda, tetapi setelah pernyataan DML paralel mengubah tabel, tidak ada pernyataan serial atau paralel berikutnya (DML atau kueri) yang dapat mengakses tabel yang sama lagi dalam transaksi itu.

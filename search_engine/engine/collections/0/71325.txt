@@ -1,0 +1,1 @@
+Referensi sel absolut Excel (dengan tanda $) Referensi absolut di Excel adalah referensi sel dengan tanda $, seperti $A$1. Tanda dolar memperbaiki referensi ke sel tertentu, sehingga tetap statis di mana pun rumusnya bergerak. Dengan kata lain, menggunakan $ dalam referensi sel memungkinkan Anda menyalin rumus di Excel tanpa mengubah referensi.

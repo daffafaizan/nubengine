@@ -1,0 +1,1 @@
+C# dikompilasi ke dalam Common Intermediate Language, yang kemudian dijalankan oleh Common Language Runtime bagian dari .NET framework, lingkungan yang mendukung kompilasi just-in-time. Kecepatan C# dan Java hampir secepat bahasa kompilasi yang sebenarnya. Sejauh kecepatan berjalan, C, C++ dan C# semuanya cukup cepat untuk game dan sistem operasi.

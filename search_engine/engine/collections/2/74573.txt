@@ -1,0 +1,1 @@
+Jalur pada klien harus benar. Webpack akan menghasilkan bundel untuk setiap file yang diimpor secara dinamis dan memuat file bundel tersebut saat runtime, bukan yang ada di direktori sumber Anda. Misalnya, file JS entri Anda adalah src/index.js tetapi file output (bundel) Anda adalah dist/application.js.

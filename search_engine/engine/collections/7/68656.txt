@@ -1,0 +1,1 @@
+Re: Log peristiwa BMC penuh. Pesan tersebut pada dasarnya diberikan oleh BCH. BCH berinteraksi dengan BMC untuk mendapatkan status log dan portnya karena tidak ada MP dalam sistem. Antarmuka BMC dapat diakses langsung melalui port serial juga. Saya kira ada ruang yang ditentukan yang dialokasikan di papan BMC untuk menyimpan entri log peristiwanya.

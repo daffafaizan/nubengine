@@ -1,0 +1,1 @@
+Titik akhir (soket) ditentukan oleh kombinasi alamat jaringan dan pengidentifikasi port. Perhatikan bahwa alamat/port tidak sepenuhnya mengidentifikasi soket (lebih lanjut tentang ini nanti). Tujuan dari port adalah untuk membedakan beberapa titik akhir pada alamat jaringan yang diberikan. Anda dapat mengatakan bahwa port adalah titik akhir yang tervirtualisasi.

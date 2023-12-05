@@ -1,0 +1,1 @@
+Jika blok hanya terisi sebagian maka area antara ujung file dengan ujung container disebut sebagai slack space. Linux menulis nol di ruang kendur. Ini berarti menemukan data di ruang kendur pada sistem Linux jarang terjadi. Namun, bukan tidak mungkin. Hari ini, saya akan menunjukkan cara menyembunyikan data di ruang slack menggunakan alat yang disebut bmap.

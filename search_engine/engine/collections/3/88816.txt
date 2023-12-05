@@ -1,0 +1,1 @@
+Saat Anda menyalin laporan, Anda menyalin semuanya dari Dev ke QA termasuk koneksi DB. Itu sebabnya Anda harus mengarahkan kembali koneksi DB ke lingkungan baru untuk FR tidak tahu. koneksi yang tepat untuk digunakan di lingkungan QA.

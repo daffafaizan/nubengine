@@ -1,0 +1,1 @@
+Dan saya diberitahu oleh seseorang bahwa file semacam ini mirip dengan file kepala di C++ tetapi hanya untuk JS. Tetapi saya tidak dapat mengonversi file JS murni ke file *.d.ts kecuali saya secara paksa mengubah *.js menjadi *.ts. Jadi saya punya tiga file: file JS, file TS dan file *.d.ts. Apa hubungan di antara mereka?

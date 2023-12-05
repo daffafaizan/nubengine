@@ -1,0 +1,1 @@
+Instal Android SDK di komputer Anda. Setelah perangkat Anda di-root, Anda dapat menggunakan alat Android Debug Bridge (ADB) yang disertakan dalam Android SDK untuk menghapus instalan aplikasi melalui baris perintah. Anda dapat mengunduh SDK Android secara gratis di sini. Anda hanya memerlukan paket SDK Tools saja, bukan seluruh lingkungan pengembangan.

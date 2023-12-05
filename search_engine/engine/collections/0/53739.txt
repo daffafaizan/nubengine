@@ -1,0 +1,1 @@
+Kelas manajer tata letak. Kelas manajer tata letak terletak di paket java.awt seperti kelas yang digunakan untuk menampilkan komponen grafis. Jadi tidak perlu mengimpor paket tambahan apa pun saat Anda menggunakan pengelola tata letak.

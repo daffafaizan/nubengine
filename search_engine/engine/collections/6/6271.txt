@@ -1,0 +1,1 @@
+Azure App Service mendukung dua jenis koneksi SSL: Koneksi SSL Indikasi Nama Server (SNI) dan Koneksi SSL Alamat IP. SSL berbasis SNI berfungsi di browser modern sementara SSL berbasis IP berfungsi di semua browser. Tidak ada biaya untuk menggunakan SSL berbasis SNI.

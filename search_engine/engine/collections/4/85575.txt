@@ -1,0 +1,1 @@
+Saat Gradle menemukan bahwa input atau output tugas telah berubah di antara proses build, tugas akan dieksekusi lagi. Tugas dapat menggunakan API inkremental untuk mempelajari file apa yang sebenarnya telah berubah. Dengan informasi ini tugas mungkin tidak perlu membangun kembali semuanya.

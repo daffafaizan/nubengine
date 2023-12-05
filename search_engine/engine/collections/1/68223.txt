@@ -1,0 +1,1 @@
+Menghitung Rata-rata Geometris dengan beberapa nilai negatif Saya mencoba mencari cara menghitung rata-rata geometrik dari serangkaian nilai, beberapa di antaranya negatif, mis. pengembalian investasi selama beberapa tahun dengan beberapa negatif. Fungsi Geomean tidak berfungsi karena hanya menggunakan bilangan positif.

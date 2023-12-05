@@ -1,0 +1,1 @@
+Setiap proses memiliki blok lingkungan yang berisi sekumpulan variabel lingkungan dan nilainya. Ada dua jenis variabel lingkungan: variabel lingkungan pengguna (ditetapkan untuk setiap pengguna) dan variabel lingkungan sistem (ditetapkan untuk semua orang).

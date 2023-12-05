@@ -1,0 +1,1 @@
+Lingkungan pementasan: Lingkungan tempat pengembang bekerja dan melakukan pengujian unit. Lingkungan QA: Lingkungan tempat build di-deploy sehingga QA dapat menguji aplikasi, mencatat bug, dan menguji ulang bug yang diperbaiki.

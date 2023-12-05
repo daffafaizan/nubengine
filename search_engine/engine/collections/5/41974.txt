@@ -1,0 +1,1 @@
+Kondisi awal: t1 = 19 (lihat awal) Rumus rekursif: tn = tn-1 - 5 ( setiap suku lebih kecil 5 dari suku sebelumnya!) Catatan: Rumus pada bagian sebelumnya dimana rumus eksplisit! Tentukan suku ke-3, ke-4, dan ke-5 dari setiap barisan. Berikan definisi rekursif untuk setiap urutan. 4) 5, 8, 11, 14, . . .

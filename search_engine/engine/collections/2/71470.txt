@@ -1,0 +1,1 @@
+Sekarang biarkan Wget bekerja di latar belakang, dan tulis kemajuannya ke file log `log'. Sangat melelahkan mengetik `--tries', jadi kita akan menggunakan `-t'. wget -t 45 -o log http://fly.cc.fer.hr/jpg/flyweb.jpg & Ampersand di akhir baris memastikan bahwa Wget berfungsi di latar belakang.

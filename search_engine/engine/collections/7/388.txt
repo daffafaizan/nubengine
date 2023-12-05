@@ -1,0 +1,1 @@
+Border Gateway Protocol (BGP) memungkinkan agregasi rute tertentu menjadi satu rute dengan menggunakan topeng alamat alamat agregat [as-set] [summary-only] [suppress-map map-name] [advertise-map map-name] Perintah [attribute-map map-name].

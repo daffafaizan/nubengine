@@ -1,0 +1,1 @@
+Beranda/Penjelajah Kode VBA/Aplikasi/Metode/Tunggu. Metode Aplikasi Tunggu di VBA digunakan untuk menjeda atau menghentikan makro yang sedang berjalan hingga waktu yang ditentukan atau disebutkan. Ini mengembalikan nilai Boolean baik benar atau salah. Jika waktu yang ditentukan tiba, ia mengembalikan true jika tidak, ia mengembalikan False.

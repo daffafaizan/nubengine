@@ -1,0 +1,1 @@
+Format umum adalah: 1 8 bit per piksel Kadang-kadang mode palet, di mana setiap nilai adalah indeks dalam tabel dengan nilai warna nyata yang ditentukan dalam salah satu format lainnya. 2 16 bit per piksel Biasanya bit dialokasikan sebagai lima bit untuk merah, enam bit untuk hijau, dan lima bit untuk biru.

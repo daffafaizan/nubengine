@@ -1,0 +1,1 @@
+Titik koma harus berada di kolom pertama baris pertama setelah kata kunci RECORD_FORMAT. 2. Titik koma di kolom 1 di luar definisi bidang mendefinisikan awal komentar. Baris komentar hanya bisa ada sebelum atau setelah definisi bidang. Baris komentar tidak dapat ditempatkan di dalam area definisi bidang.

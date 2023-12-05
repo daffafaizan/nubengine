@@ -1,0 +1,1 @@
+Mendefinisikan APPN. APPN menyediakan jaringan peer-to-peer; itu secara dinamis menempatkan dan mendefinisikan sumber daya dan rute. Sesi dapat dibuat antara dua unit logis dalam jaringan, tanpa keterlibatan mainframe. Layanan direktori didistribusikan. Network Node (NN) hanya perlu mengingat sumber daya yang menggunakan layanannya.

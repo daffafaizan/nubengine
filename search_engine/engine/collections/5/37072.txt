@@ -1,0 +1,1 @@
+Dalam arti itulah MPLS memungkinkan Anda untuk melakukannya. Anda dapat memiliki dua router tepi yang menjalankan umpan BGP penuh ke Internet. Mereka juga dapat bertukar rute satu sama lain. Beberapa paket Anda ingin keluar dari Router-A dan yang lainnya Router-B.

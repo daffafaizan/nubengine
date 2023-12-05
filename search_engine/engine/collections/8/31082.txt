@@ -1,0 +1,1 @@
+Dengan kata lain, Anda mendefinisikan elemen container (tempat Anda menempatkan direktif), menempatkan ekspresi pada atribut on=... (atau atribut ng-switch=...), mendefinisikan elemen dalam di dalam direktif dan tempatkan atribut when per elemen.

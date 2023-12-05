@@ -1,0 +1,1 @@
+Redux #. Baik Relay dan Redux menyediakan integrasi React yang sangat baik. Redux kurang bergantung pada React dan dapat digunakan dengan framework lain tanpa masalah. Relay saat ini hanya dapat digunakan dengan React (atau React Native). Namun, pekerjaan sedang dilakukan untuk mengekstrak lapisan komponen dari Relay, sehingga dapat digunakan di luar React.

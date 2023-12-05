@@ -1,0 +1,1 @@
+Rangkaian program ini memberikan contoh bagaimana satu program COBOL jalur utama mengakses kumpulan data VSAM. Program COBOL ditulis menggunakan dialek COBOL/2 tetapi juga bekerja dengan COBOL untuk MVS, COBOL/370 dan COBOL untuk 390.

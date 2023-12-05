@@ -1,0 +1,1 @@
+Sebuah sistem yang gagal-aman berarti tidak bahwa kegagalan tidak mungkin atau tidak mungkin, melainkan bahwa desain sistem mencegah atau mengurangi konsekuensi yang tidak aman dari kegagalan sistem. Artinya, jika dan ketika sistem gagal-aman gagal, itu aman atau setidaknya tidak kurang aman daripada ketika beroperasi dengan benar.

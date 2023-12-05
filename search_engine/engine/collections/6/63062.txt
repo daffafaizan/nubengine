@@ -1,0 +1,1 @@
+<DockPanel> <Button DockPanel.Dock=Top>dock 2.1</Button> <Button DockPanel.Dock=Top>dock 2.2</Button> <Button DockPanel.Dock=Left>dock 2.3</Button> <Button DockPanel.Dock =Right>dock 2.4</Button> <Button DockPanel.Dock=Bottom>dock 2.5</Button> <Button DockPanel.Dock=Bottom>dock 2.6</Button> </DockPanel>

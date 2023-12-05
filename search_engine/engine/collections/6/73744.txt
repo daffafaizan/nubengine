@@ -1,0 +1,1 @@
+Sementara DJGPP berjalan dalam mode terproteksi 32-bit, rintisan dan pustakanya sangat bergantung pada banyak panggilan DOS dan BIOS 16-bit. Karena Windows versi x86-64 kurang mendukung program 16-bit, tidak ada NTVDM, dan aplikasi DJGPP tidak dapat dijalankan.

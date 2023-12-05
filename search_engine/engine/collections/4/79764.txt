@@ -1,0 +1,1 @@
+libavcodec adalah perpustakaan yang berisi semua encoder dan decoder audio/video FFmpeg asli. Sebagian besar codec dikembangkan dari awal untuk memastikan kinerja terbaik dan penggunaan kembali kode yang tinggi. libavformat (Lavf) adalah perpustakaan yang berisi demuxer dan muxer untuk format wadah audio/video.

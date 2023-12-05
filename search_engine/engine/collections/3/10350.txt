@@ -1,0 +1,1 @@
+Pemformatan mengubah nilai suatu tipe menjadi representasi string. Parsing adalah kebalikan dari format. Operasi parsing membuat instance tipe data dari representasi stringnya. Untuk informasi tentang mengonversi string ke tipe data lain, lihat Mengurai String di .NET Framework.

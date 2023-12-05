@@ -1,0 +1,1 @@
+Perintah applet Panel Kontrol sebenarnya hanya menjalankan perintah untuk Panel Kontrol (kontrol) dengan parameter yang menginstruksikan Windows untuk membuka applet Panel Kontrol tertentu. Misalnya, menjalankan kontrol /nama Microsoft.DateAndTime membuka applet Tanggal dan Waktu di Panel Kontrol secara langsung.

@@ -1,0 +1,1 @@
+Salah satu cara untuk menghindari masalah implementasi antarmuka eksplisit adalah dengan menggunakan pengetikan dinamis untuk melakukan resolusi kelebihan waktu eksekusi untuk menemukan metode yang paling spesifik-yang kemudian menggunakan pengetikan statis sebagai gantinya.

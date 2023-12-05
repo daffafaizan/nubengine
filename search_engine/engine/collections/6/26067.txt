@@ -1,0 +1,1 @@
+Tidak, MIFARE SDK tidak mengemulasi kartu apa pun, sampai sekarang MIFARE SDK dimaksudkan untuk berkomunikasi dengan kartu NXP.orum / MIFARE SDK / emulasi Mifare. 17. September 2014 pukul 11:50. fsurleau. Hai, Akankah Mifare SDK mengaktifkan emulasi klasik Mifare di Android? Jika ya, apa prasyaratnya?

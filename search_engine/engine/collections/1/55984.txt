@@ -1,0 +1,1 @@
+1 Ketik defrag karena Anda jelas akan mendefrag disk. 2 Ketik huruf drive atau titik pemasangan yang ingin Anda defrag. 3 Misalnya: defrag c:. 4 Ketik parameter -v jika Anda ingin melihat data tambahan. 5 Ketik -a jika Anda hanya ingin datanya. 6 Catatan: -a-v akan mencetak data yang lebih detail.

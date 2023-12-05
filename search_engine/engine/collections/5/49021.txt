@@ -1,0 +1,1 @@
+Jika utas itu menjalankan metode pemblokiran interupsi tingkat rendah seperti Thread.sleep() , Thread.join() , atau Object.wait() , ia membuka blokir dan melempar InterruptedException. Jika tidak, interupsi() hanya menetapkan status interupsi utas.

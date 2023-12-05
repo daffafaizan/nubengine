@@ -1,0 +1,1 @@
+Menambahkan Opsi#getTimeouts() untuk mengambil batas waktu sesi yang saat ini dikonfigurasi (yaitu menunggu implisit). Metode ini hanya akan bekerja dengan implementasi WebDriver yang kompatibel dengan W3C. Menghentikan kelas Timeout dan mendukung Options#setTimeouts(), yang mendukung pengaturan beberapa timeout sekaligus.

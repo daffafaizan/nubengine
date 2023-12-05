@@ -1,0 +1,1 @@
+1 Pustaka objek bersama yang ditautkan secara dinamis (.so): Hanya ada satu bentuk pustaka ini tetapi dapat digunakan dalam dua cara. 2 Ditautkan secara dinamis pada waktu proses tetapi sadar secara statis. 3 Pustaka harus tersedia selama fase kompilasi/tautan.

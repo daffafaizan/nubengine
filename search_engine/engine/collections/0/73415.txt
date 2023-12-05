@@ -1,0 +1,1 @@
+Entitas bernama, juga dikenal sebagai entitas internal dalam spesifikasi XML, adalah apa yang biasanya Anda rujuk saat berbicara tentang entitas. Anda mendeklarasikannya baik dalam DTD atau subset internal (yaitu, sebagai bagian dari pernyataan <!DOCTYPE> dalam dokumen Anda) dan menggunakannya dalam dokumen Anda sebagai referensi.

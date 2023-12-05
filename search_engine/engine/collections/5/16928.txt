@@ -1,0 +1,1 @@
+Kabel USB OTG (USB On-The-Go) adalah apa yang digunakan untuk memberi tahu perangkat Anda untuk bertindak sebagai host, ini seperti kabel USB biasa tetapi memiliki salah satu pin internal yang terhubung ke Ground di salah satu ujungnya untuk membiarkannya perangkat tahu bahwa itu harus bertindak sebagai tuan rumah (secara teknis pin 4 & 5 disingkat ke ground dalam kabel OTG).

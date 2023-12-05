@@ -1,0 +1,1 @@
+if(defined ('DEBUG'))){ echo 'Bukan mode debugging yang sebenarnya';}?> Anda juga ingin memeriksa konstanta seperti pada <?php define ('DEBUG', true); if(defined ('DEBUG') && DEBUG){ echo 'Benarkah ini mode debug';}?> Yang dilakukan hanyalah memverifikasi keberadaan konstanta, bukan nilainya.

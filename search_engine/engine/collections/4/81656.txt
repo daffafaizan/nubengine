@@ -1,0 +1,1 @@
+SUPERC dapat digunakan secara interaktif (dalam ISPF/PDF di TSO) atau melalui batch z/OS (OS/390). Dokumen ini menjelaskan cara menggunakan pernyataan SRCHFOR dari SUPERC dalam kumpulan z/OS (OS/390) untuk mencari kemunculan string teks dalam satu atau beberapa kumpulan data. Itu tidak mencakup cara menggunakan SUPERC secara interaktif. SUPERC dapat memproses:

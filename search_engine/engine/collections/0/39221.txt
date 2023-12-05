@@ -1,0 +1,1 @@
+Setiap program mencoba menggunakan waktu prosesor sebanyak yang dibutuhkan sekaligus, tetapi program satu prosesor hanya dapat menggunakan kecepatan CPU dari satu prosesor, jadi meskipun Anda memiliki tujuh prosesor atau inti prosesor lain di komputer Anda, program masih hanya akan berjalan pada kecepatan maksimum satu prosesor.

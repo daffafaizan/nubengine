@@ -1,0 +1,1 @@
+Membuat Variabel Lingkungan. Untuk membuat variabel lingkungan baru, skrip Anda harus memulai dengan langkah pertama yang sama yang diperlukan untuk mengambil nilai variabel lingkungan: Ini harus mendapatkan referensi ke kumpulan variabel lingkungan dari salah satu dari empat jenis (pengguna, sistem, proses, atau lincah).

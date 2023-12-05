@@ -1,0 +1,1 @@
+Seperti yang Anda lihat pada contoh di atas, Protokol Resolusi Alamat ARP digunakan untuk menerjemahkan alamat IP ke alamat MAC. Ada dua jenis pesan ARP - permintaan ARP yang disiarkan ke semua sistem di segmen LAN dan balasan ARP yang unicast ke stasiun yang meminta saja. Pesan ARP berisi alamat IP sumber dan tujuan & alamat MAC (jika tersedia), di antara informasi lainnya.

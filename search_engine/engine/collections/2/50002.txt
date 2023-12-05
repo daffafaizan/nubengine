@@ -1,0 +1,1 @@
+Referensi sel relatif Excel (tanpa tanda $) Referensi relatif di Excel adalah referensi sel tanpa tanda $, seperti A1. Dengan menggunakan referensi sel relatif dalam rumus, Anda memberi tahu Excel untuk menyesuaikan referensi itu tergantung di mana Anda menyalin rumus. Lebih tepatnya, referensi relatif Excel berubah berdasarkan posisi relatif baris dan kolom.

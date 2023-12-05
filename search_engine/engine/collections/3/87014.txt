@@ -1,0 +1,1 @@
+Nilai yang dikembalikan dari isi pernyataan spmd dikonversi ke objek Komposit pada klien MATLAB. Objek Komposit berisi referensi ke nilai yang disimpan pada pekerja MATLAB jarak jauh, dan nilai tersebut dapat diambil menggunakan pengindeksan array sel.

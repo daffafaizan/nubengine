@@ -1,0 +1,1 @@
+Nslookup menggunakan metode devolusi nama domain. Jika Anda mengetikkan nama host dan menekan ENTER, Nslookup menambahkan akhiran domain komputer (seperti cswatcp.reskit.com) ke nama host sebelum menanyakan DNS.

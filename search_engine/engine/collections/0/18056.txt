@@ -1,0 +1,1 @@
+Microsoft Excel memiliki fungsi bawaan untuk menghitung logaritma suatu bilangan dengan basis tertentu, logaritma dengan basis 10, dan logaritma natural. Untuk menghitung log invers suatu bilangan dalam dua kasus pertama, naikkan basis ke pangkat dari nilai yang dikembalikan oleh fungsi logaritma tertentu yang digunakan. Untuk menemukan log natural terbalik, gunakan fungsi EXP.

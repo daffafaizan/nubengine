@@ -1,0 +1,1 @@
+MDI/MDIX adalah jenis koneksi port Ethernet menggunakan kabel twisted pair. MDI (untuk antarmuka yang bergantung pada media) adalah komponen unit lampiran media (MAU) yang menyediakan koneksi fisik dan listrik ke media kabel. MDIX (untuk crossover MDI) adalah versi MDI yang memungkinkan koneksi antara perangkat sejenis.

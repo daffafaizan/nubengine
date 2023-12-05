@@ -1,0 +1,1 @@
+Parsing adalah proses yang memakan waktu, jadi untuk menghindari parsing untuk setiap pernyataan SQL, Oracle datang dengan konsep variabel bind. Contoh Berikut adalah pernyataan SQL tanpa variabel bind: Pilih emp_name dari employee dimana emp_id = 10; Pilih emp_name dari karyawan di mana emp_id = 20.

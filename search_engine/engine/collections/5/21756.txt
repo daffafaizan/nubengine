@@ -1,0 +1,1 @@
+Satu-satunya tujuan adalah untuk mencegah browser beralih ke apa yang disebut ÃƒÂ¢Ã‚â‚¬Ã‚Å“mode keanehanÃƒÂ¢Ã‚â saat merender dokumen; yaitu, !DOCTYPE html doctype memastikan bahwa browser melakukan upaya terbaik untuk mengikuti spesifikasi yang relevan, daripada menggunakan mode rendering berbeda yang tidak kompatibel dengan beberapa spesifikasi.

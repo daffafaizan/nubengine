@@ -1,0 +1,1 @@
+Cukup gunakan sintaks ini untuk menghapus kesalahan #N/A Excel dalam kode VBA. Gunakan rumus IsNA atau IFERROR yang sama. Tapi kali ini, gunakan bersama dengan Application.Worksheetfunction sebelum setiap perintah Lookup. Nah, Anda menguasai seni menangani #n/a dalam rumus Excel atau Vlookup.

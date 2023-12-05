@@ -1,0 +1,1 @@
+Jangkauan luas, sensor suhu daya rendah menghasilkan tegangan analog yang sebanding dengan suhu sekitar. Untuk menggunakannya, sambungkan pin 1 (kiri) ke daya (antara 2,7 dan 5,5V), pin 3 (kanan) ke ground, dan pin 2 ke analog di mikrokontroler Anda. Tegangan keluar adalah 0V pada -50Ãƒâ€šÃ‚Â°C dan 1,75V pada 125Ãƒâ€šÃ‚Â°C.

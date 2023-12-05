@@ -1,0 +1,1 @@
+Digit cek untuk VIN diperoleh melalui sejumlah langkah matematika. Setiap huruf yang digunakan dalam VIN memiliki nilai angka yang sesuai, sedangkan angka tetap sama. Oleh karena itu, VIN menjadi string 17 angka (dengan spasi di posisi kesembilan, di mana digit cek berada). Setiap posisi dalam VIN memiliki bobot -- berapa kali digit tersebut dikalikan.

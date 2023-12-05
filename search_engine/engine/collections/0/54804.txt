@@ -1,0 +1,1 @@
+VDA memverifikasi file lisensi dengan DDC. DDC meminta Server Lisensi Citrix untuk memverifikasi bahwa pengguna memiliki tiket yang valid. DDC meneruskan kebijakan sesi ke VDA, yang kemudian menerapkan kebijakan tersebut ke desktop virtual. Manajemen profil menerapkan pengaturan profil pengguna ke desktop virtual.

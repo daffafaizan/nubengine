@@ -1,0 +1,1 @@
+Definisi Data (Bangunan MIB): Buat definisi ASN.1 MIB untuk objek menggunakan alat Editor MIB di Toolkit Agen WebNMS. Antarmuka wizard Agent Toolkit menyembunyikan detail yang tidak penting dari aturan sintaks MIB, klausa, dll. sehingga perancang MIB dapat berkonsentrasi pada hal-hal penting lainnya.

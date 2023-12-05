@@ -1,0 +1,1 @@
+Dalam grafik seperti #acos(bx)#, amplitudonya adalah a dan periodenya adalah #(2pi)/b#. Pikirkan seperti ini. Dalam #cosx# normal, f(0) hingga f(#2pi#) adalah satu periode. Tetapi dalam #cos(2x)#, x=0 -> f(0) x=#pi# -> f(2pi) Jadi untuk #pi# Anda mendapatkan nilai f #2pi# dalam fungsi aslinya, artinya periode baru adalah #pi#.

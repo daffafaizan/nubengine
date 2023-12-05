@@ -1,0 +1,1 @@
+Monster spawner memunculkan monster di area 8*8*3 di sekitarnya ketika pemain berada dalam jarak 16 blok dari spawner, asalkan lokasi spawning yang cocok untuk tipe monster blok dapat ditemukan di area tersebut.

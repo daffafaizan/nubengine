@@ -1,0 +1,1 @@
+Dalam hal ini, Wget akan mencoba mendapatkan file sampai mendapatkan keseluruhannya, atau melebihi jumlah percobaan ulang default (ini adalah 20). Sangat mudah untuk mengubah jumlah percobaan menjadi 45, untuk memastikan bahwa seluruh file akan tiba dengan selamat: wget --tries=45 http://fly.cc.fer.hr/jpg/flyweb.jpg.

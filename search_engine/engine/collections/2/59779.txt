@@ -1,0 +1,1 @@
+Perangkat lunak klien FEP dapat dikonfigurasi untuk memeriksa berbagi file untuk pembaruan definisi. Untuk memeriksa pembaruan, akun komputer klien harus memiliki akses baca ke berbagi file tempat Anda menyimpan file definisi. Pembaruan definisi diterbitkan dalam dua jenis: pembaruan mesin dan definisi lengkap, dan pembaruan definisi delta.

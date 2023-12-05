@@ -1,0 +1,1 @@
+Fungsi STANDARDIZE Excel. Deskripsi Dasar. Fungsi Excel Standardize mengembalikan nilai distribusi yang dinormalisasi yang dicirikan oleh mean yang disediakan dan standar deviasi. Sintaks fungsinya adalah: STANDARDIZE( x, mean, standard_dev ) Dimana argumen fungsi adalah:

@@ -1,0 +1,1 @@
+DeltaV PK Controller dirancang sejak awal dengan mempertimbangkan konektivitas, terutama ke IIoT. Pengontrol yang dapat diskalakan memanfaatkan berbagai protokol komunikasi, termasuk pengontrol Emerson pertama dengan server OPC UA bawaan.

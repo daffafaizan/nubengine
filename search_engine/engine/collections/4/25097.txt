@@ -1,0 +1,1 @@
+Di Windows XP, file thumbnail tersembunyi yaitu thumbs.db ditempatkan di lokasi yang sama dengan gambar tetapi di Windows Vista/7, file thumbnail disimpan di folder pengguna tetapi masih akan menghasilkan thumbs.db ketika Anda mengakses folder jaringan bersama.

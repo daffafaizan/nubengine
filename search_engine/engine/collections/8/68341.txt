@@ -1,0 +1,1 @@
+Menghitung Mean Geometris di Excel. Untuk menghitung rata-rata geometrik di Excel, Anda dapat menggunakan fungsi GEOMEAN, yang mengembalikan tingkat pertumbuhan rata-rata, dengan efek peracikan. Anda dapat menggunakan GEOMEAN untuk menghitung rata-rata geometrik hingga 255 angka, nama yang ditentukan, array, atau referensi sel yang berisi angka.

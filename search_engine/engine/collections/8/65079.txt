@@ -1,0 +1,1 @@
+Ini mengarah ke sejumlah besar perbedaan halus dan sangat penting antara Java dan C++. Seperti C++, Java memungkinkan Anda untuk membebani fungsi. Namun, argumen default tidak didukung oleh Java. Tidak seperti C++, Java tidak mendukung template. Dengan demikian, tidak ada fungsi atau kelas generik.

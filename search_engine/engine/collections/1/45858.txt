@@ -1,0 +1,1 @@
+Dalam bentuk yang paling sederhana, kredensial pengguna dapat berupa pasangan nama pengguna/kata sandi. UsernamePasswordCredentials mewakili satu set kredensial yang terdiri dari prinsip keamanan dan kata sandi dalam teks yang jelas. Implementasi ini cukup untuk skema otentikasi standar yang ditentukan oleh spesifikasi standar HTTP.

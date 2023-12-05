@@ -1,0 +1,1 @@
+Singkatnya, meskipun Maven dan ANT adalah alat build tetapi perbedaan utamanya adalah bahwa maven juga menyediakan manajemen ketergantungan, tata letak proyek standar, dan manajemen proyek. Pada perbedaan antara Maven, ANT dan Jenkins, nanti adalah alat integrasi berkelanjutan yang lebih dari sekadar alat build.

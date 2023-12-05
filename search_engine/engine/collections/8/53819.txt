@@ -1,0 +1,1 @@
+Untuk menghindari kejadian ini: 1 Jangan menerima atau menggunakan nomor ABA pada cek. Biasanya nomor cabang internal dan akan ditolak. 2 Kawat juga akan ditolak jika nomor ABA berhubungan dengan bank penerima yang tidak ada di sistem FEDLINE. Dalam keadaan ini, informasi lebih lanjut diperlukan.

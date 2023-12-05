@@ -1,0 +1,1 @@
+Hal pertama yang perlu Anda pahami tentang NSLOOKUP adalah ketika Anda menggunakan perintah NSLOOKUP, perintah tersebut mengasumsikan bahwa Anda menanyakan domain lokal di jaringan pribadi Anda. Anda dapat menanyakan domain eksternal, tetapi NSLOOKUP akan mencoba mencari domain secara internal terlebih dahulu. Misalnya, domain brienposey.com berada di luar jaringan saya.

@@ -1,0 +1,1 @@
+SQL Dinamis adalah alat yang hebat untuk melakukan kueri ad hoc, tetapi menggabungkan SQL dinamis dengan input pengguna menciptakan eksposur yang memungkinkan serangan injeksi SQL. Mengganti SQL dinamis dengan SQL yang disiapkan atau prosedur tersimpan layak dilakukan di sebagian besar aplikasi.

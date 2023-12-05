@@ -1,0 +1,1 @@
+Fungsi VBA dalam proyek MS Excel saya gagal ketika Buku Kerja Excel dalam Mode Bersama / MultiUserEdting. Karena dalam Mode Bersama, saya tidak dapat men-debug VBA untuk menentukan apa yang gagal. Jika membantu, pesan kesalahan yang saya dapatkan adalah Run-time error - '1004'; Kesalahan yang ditentukan aplikasi atau yang ditentukan objek.

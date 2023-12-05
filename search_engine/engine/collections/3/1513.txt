@@ -1,0 +1,1 @@
+Selectutorial - pemilih CSS. Selektor turunan. Selektor turunan digunakan untuk memilih elemen yang merupakan turunan dari elemen lain di pohon dokumen. Misalnya, Anda mungkin ingin menargetkan elemen <strong> tertentu pada laman, tetapi tidak semua elemen <strong>. Namun, jika Anda menggunakan pemilih turunan, Anda dapat menyaring elemen <strong> yang Anda pilih.

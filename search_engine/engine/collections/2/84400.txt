@@ -1,0 +1,1 @@
+Ketika file Lockbox diposting ke SAP, file. posting awal (seluruh jumlah setoran) diposting ke Bank. Akun G/L dan akun kliring Lockbox. Ini. transaksi diikuti oleh transaksi antarmuka kedua. menggunakan tipe dokumen DI.

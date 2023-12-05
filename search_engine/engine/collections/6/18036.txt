@@ -1,0 +1,1 @@
+Sebuah keuntungan utama dari zonasi WWN adalah kemampuan untuk recable kain tanpa harus mengulang informasi zona. Zonasi WWN rentan terhadap akses yang tidak sah, karena zona tersebut dapat dilewati jika penyerang dapat memalsukan World Wide Name dari HBA resmi.

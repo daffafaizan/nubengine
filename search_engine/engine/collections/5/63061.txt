@@ -1,0 +1,1 @@
+Seperti yang telah disebutkan, perilaku default adalah bahwa anak terakhir dari DockPanel mengambil sisa ruang, tetapi ini dapat dinonaktifkan menggunakan LastChildFill. Berikut adalah contoh di mana kami menonaktifkannya, dan pada saat yang sama kami akan menunjukkan kemampuan untuk memasang lebih dari satu kontrol ke sisi yang sama:

@@ -1,0 +1,1 @@
+Jika Anda menonaktifkan pengaturan kebijakan ini, folder sementara per sesi selalu dibuat, bahkan jika Anda menentukan sebaliknya di alat Konfigurasi Layanan Terminal. Jika Anda tidak mengonfigurasi pengaturan kebijakan ini, folder sementara per sesi akan dibuat kecuali jika Anda menentukan sebaliknya di alat Konfigurasi Layanan Terminal.

@@ -1,0 +1,1 @@
+transform.forward hanyalah sebuah vektor untuk memberi tahu Anda ke arah mana wajah gameObject Anda, itu tergantung pada transform.rotation.ransform.forward hanyalah sebuah vektor untuk memberi tahu Anda ke arah mana wajah gameObject Anda, itu tergantung pada transform.rotation.

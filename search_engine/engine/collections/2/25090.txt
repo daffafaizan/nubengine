@@ -1,0 +1,1 @@
+Logika VMware adalah vCenter digunakan untuk mengelola begitu banyak aplikasi Tier 1 dan itu membuat vCenter sendiri menjadi aplikasi Tier 1. Kita semua tahu bahwa aplikasi Tingkat 1 harus sangat tersedia. Jadi, jika logika VMware benar, maka vCenter juga harus sangat tersedia. Di situlah vCenter Heartbeat masuk.

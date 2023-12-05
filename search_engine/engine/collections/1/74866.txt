@@ -1,0 +1,1 @@
+Jaringan ATM terdiri dari switch ATM dan titik akhir ATM. Sebuah switch ATM bertanggung jawab untuk transit sel melalui jaringan ATM. Pekerjaan switch ATM didefinisikan dengan baik: Ia menerima sel yang masuk dari titik akhir ATM atau switch ATM lainnya.

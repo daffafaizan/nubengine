@@ -1,0 +1,1 @@
+WinRM dengan SCVMM menggunakan Kerberos untuk otentikasi, dan tidak mendukung fall-back ke NTLM. Akan ada kesalahan sebagai gantinya. Jika tidak ada kredensial yang ditentukan, maka kredensial masuk digunakan untuk mengautentikasi terhadap mesin jarak jauh. Ini memungkinkan pengalaman masuk tunggal.

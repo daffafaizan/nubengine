@@ -1,0 +1,1 @@
+Hentikan pesan DEBUG dan INFO agar tidak masuk ke file log. Izinkan pesan tingkat INFO dari subsistem HTTP dipublikasikan ke file log, tetapi tidak ke standar keluar. Tentukan bahwa penangan menerbitkan pesan yang tingkat keparahan PERINGATAN atau lebih tinggi.

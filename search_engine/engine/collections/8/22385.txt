@@ -1,0 +1,1 @@
+VNC bekerja pada model klien/server: Penampil VNC (atau klien) diinstal pada komputer lokal dan terhubung ke komponen server, yang harus diinstal pada komputer jarak jauh. Server mengirimkan duplikat layar tampilan komputer jarak jauh ke penampil.

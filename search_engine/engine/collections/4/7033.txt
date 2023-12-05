@@ -1,0 +1,1 @@
+Pertama buat tabel dengan bidang hyperlink lalu impor data Anda dari Excel ke tabel itu. Keajaibannya adalah ketika Anda membuat bidang Memo dan mengatur atributnya menjadi hyperlink : Anda dapat menyalin apa pun dari Excel ke bidang itu sambil mempertahankan hyperlink: Ini hanyalah sebuah contoh.

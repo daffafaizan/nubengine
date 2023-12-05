@@ -1,0 +1,1 @@
+Format String Koneksi StandarÃƒâ€šÃ‚Â¶. Bagian ini menjelaskan format standar URI koneksi MongoDB yang digunakan untuk menyambung ke server database MongoDB. Formatnya sama untuk semua driver MongoDB resmi. Untuk daftar driver dan tautan ke dokumentasi driver, lihat Driver MongoDB dan Pustaka Klien. mongodb://.

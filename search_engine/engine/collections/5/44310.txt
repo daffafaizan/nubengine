@@ -1,0 +1,1 @@
+Properti text-overflow di CSS berkaitan dengan situasi di mana teks terpotong saat melebihi kotak elemen. Itu dapat dipotong (yaitu dipotong, disembunyikan), menampilkan elipsis ('ÃƒÂ¢Ã‚âÂ¦', Nilai Rentang Unicode U+2026) atau menampilkan string yang ditentukan penulis (tidak ada dukungan browser saat ini untuk string yang ditentukan penulis).

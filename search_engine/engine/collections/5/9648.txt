@@ -1,0 +1,1 @@
+Cara mengekstrak nama bulan dari tanggal di Excel. Jika Anda ingin mendapatkan nama bulan daripada angka, Anda menggunakan fungsi TEXT lagi, tetapi dengan kode tanggal yang berbeda: = 1 TEXT(A2, mmm) - mengembalikan nama bulan yang disingkat, seperti Jan - Des. = TEXT (A2,mmmm) - mengembalikan nama bulan penuh, seperti Januari - Desember.

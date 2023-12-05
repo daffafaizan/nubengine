@@ -1,0 +1,1 @@
+Namun, objek komposit sudah ada jauh sebelum Java dan GoF, dan itu bukan satu-satunya cara untuk membuat objek komposit dalam JavaScript. Kekeliruan Tikus Coklat Beberapa orang berpendapat bahwa bentuk komposisi objek yang berbeda tidak dapat menjadi komposisi objek karena mereka tidak membuat struktur objek di mana komponen menjadi properti anak mandiri.

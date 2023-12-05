@@ -1,0 +1,1 @@
+berikut adalah beberapa perbedaan utama antara c++ dan java :-C++ menggunakan pointer; Pembuatan dan penggunaan pointer di Java tidak diizinkan. Alokasi memori dan dealokasi harus diurus oleh programmer di C++. Tugas ini akan ditangani oleh JVM di Jawa. C++ terdiri dari pernyataan goto. Java tidak terdiri dari pernyataan goto.

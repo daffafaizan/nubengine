@@ -1,0 +1,1 @@
+Anda akan menemukan jalur terbaik untuk bermigrasi dari database yang kompatibel dengan SQL Server 2008 ke SQL Azure. Ini berarti bahwa jika Anda ingin memigrasi database SQL Server 2000 atau 2005 ke SQL Azure, Anda dapat melalui pemutakhiran lokal ke SQL Server 2008 sebelum Anda bermigrasi ke SQL Azure.

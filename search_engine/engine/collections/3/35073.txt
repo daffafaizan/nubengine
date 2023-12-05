@@ -1,0 +1,1 @@
+Pertimbangan Penting Saat Membuat Mesin Virtual Hyper-V. Pertimbangkan hal berikut saat membuat mesin virtual Hyper-V baru: 1 Untuk mengaktifkan mesin virtual Hyper-V untuk berbagi gambar ISO yang disimpan di pustaka VMM, akun layanan VMM harus berupa akun domain.

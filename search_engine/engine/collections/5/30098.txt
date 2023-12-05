@@ -1,0 +1,1 @@
+Ikhtisar Cmdlet. Cmdlet adalah perintah ringan yang digunakan di lingkungan Windows PowerShell. Runtime Windows PowerShell memanggil cmdlet ini dalam konteks skrip otomatisasi yang disediakan di baris perintah. Runtime Windows PowerShell juga memanggilnya secara terprogram melalui Windows PowerShell API.

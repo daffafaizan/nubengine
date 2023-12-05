@@ -1,0 +1,1 @@
+Impor file data XML sebagai tabel XML. Klik Pengembang > Impor. Jika Anda tidak melihat tab Pengembang, lihat Menampilkan tab Pengembang. Dalam kotak dialog Impor XML, temukan dan pilih file data XML (.xml) yang ingin Anda impor, lalu klik Impor. Jika file data XML tidak merujuk ke skema, Excel menyimpulkan skema dari file data XML.

@@ -1,0 +1,1 @@
+Saya memiliki skenario peti bahan paket yang dapat dikembalikan. jadi ketika saya menambahkan bahan kemasan ini sebagai item baris dalam pesanan penjualan dan melakukan pengiriman, stok bahan yang dapat dikembalikan berkurang dalam persediaan. sedangkan jika dilakukan dalam pengiriman sebagai paket dan memasukkan bahan di layar atas stok tidak berkurang setelah pengiriman.

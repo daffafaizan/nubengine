@@ -1,0 +1,1 @@
+SQL Server: Fungsi GANTI. Tutorial SQL Server ini menjelaskan cara menggunakan fungsi REPLACE di SQL Server (Transact-SQL) dengan sintaks dan contoh. Di SQL Server (Transact-SQL), fungsi REPLACE menggantikan urutan karakter dalam string dengan kumpulan karakter lain, tidak peka huruf besar-kecil. Sintaks Sintaks untuk fungsi REPLACE di SQL Server (Transact-SQL) adalah:

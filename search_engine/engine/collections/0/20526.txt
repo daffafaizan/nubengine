@@ -1,0 +1,1 @@
+1.2 Program C++ yang paling sederhana Setiap program C++ yang valid harus \memberi tahu kompiler di mana rangkaian instruksinya dimulai dan diakhiri. Oleh karena itu, setiap program C++ harus berisi fungsi, lihat x3, yang berisi setiap instruksi yang akan dilakukan oleh program.

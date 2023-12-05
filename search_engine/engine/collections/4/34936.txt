@@ -1,0 +1,1 @@
+Misalkan P adalah keliling persegi panjang dan A adalah luasnya. Misalkan W dan L masing-masing adalah lebar dan panjang persegi panjang. Temukan W dan L dalam hal P dan A. P = 2 * W + 2 * L (1). dan. A = W * L (2). selesaikan persamaan (1) untuk W: W = P / 2 - L. dan W dengan P / 2 - L di A = W * L untuk mendapatkan. A = L * (P / 2 - L).

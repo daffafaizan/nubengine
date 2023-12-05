@@ -1,0 +1,1 @@
+Ruang kosong yang dialokasikan hanya tersedia untuk segmen dalam tablespace. Jika, seiring waktu, segmen dalam tablespace tidak menggunakan ruang kosong ini, ruang kosong yang dialokasikan tidak digunakan. Metrik ini menghitung ruang yang dialokasikan untuk setiap tablespace. Hal ini tidak dimaksudkan untuk menghasilkan peringatan.

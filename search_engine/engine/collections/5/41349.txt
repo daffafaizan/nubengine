@@ -1,0 +1,1 @@
+Kelas invarian adalah kondisi yang mendefinisikan semua status yang valid untuk suatu objek. Ini adalah kondisi logis untuk memastikan kerja kelas yang benar. Invarian kelas harus berlaku saat objek dibuat, dan harus dipertahankan di bawah semua operasi kelas. Secara khusus semua invarian kelas adalah prasyarat dan kondisi pasca untuk semua operasi atau fungsi anggota kelas.

@@ -1,0 +1,1 @@
+Sakelar memotong paket ARP dari port akses dan memvalidasinya terhadap database pengintaian DHCP. Jika tidak ada entri IP-MAC dalam database yang sesuai dengan informasi dalam paket ARP, DAI menjatuhkan paket ARP dan cache ARP lokal tidak diperbarui dengan informasi dalam paket tersebut.

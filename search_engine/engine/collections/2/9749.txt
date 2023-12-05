@@ -1,0 +1,1 @@
+Berbagai metode ada untuk membuat objek XAML Silverlight. Banyak dari metode ini secara dinamis membuat XAML. Masalah yang muncul adalah XAML ini tidak bisa diedit dengan desainer seperti Expression Blend.

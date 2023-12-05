@@ -1,0 +1,1 @@
+Maven - Kelola Dependensi. Salah satu fitur inti dari Maven adalah Manajemen Ketergantungan. Mengelola dependensi menjadi tugas yang sulit setelah kita berurusan dengan proyek multi-modul (terdiri dari ratusan modul/sub-proyek). Maven memberikan kontrol tingkat tinggi untuk mengelola skenario seperti itu.

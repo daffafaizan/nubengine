@@ -1,0 +1,1 @@
+Batasan yang tersedia dalam SQL adalah Kunci Asing, Tidak Null, Unik, Periksa. Batasan dapat didefinisikan dalam dua cara. 1) Batasan dapat ditentukan segera setelah definisi kolom. Ini disebut definisi tingkat kolom. 2) Batasan dapat ditentukan setelah semua kolom didefinisikan.

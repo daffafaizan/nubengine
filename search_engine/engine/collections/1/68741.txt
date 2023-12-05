@@ -1,0 +1,1 @@
+Variabel lingkungan dikelilingi oleh tanda persen (%), seperti dalam %temp%, untuk membedakannya dari teks biasa. Ada dua jenis variabel lingkungan, variabel lingkungan pengguna dan variabel lingkungan sistem, keduanya dapat Anda baca selengkapnya di bawah ini: Variabel lingkungan pengguna, seperti namanya, adalah variabel lingkungan yang spesifik untuk setiap akun pengguna.

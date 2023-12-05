@@ -1,0 +1,1 @@
+SQL > SQL NULL > NVL Function Fungsi NVL() tersedia di Oracle, dan tidak di MySQL atau SQL Server. Fungsi ini digunakan untuk mengganti nilai NULL dengan nilai lain.

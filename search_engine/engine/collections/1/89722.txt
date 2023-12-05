@@ -1,0 +1,1 @@
+Selama parsing tidak perlu menggunakan DTD atau Skema untuk parsing dokumen. Ini adalah proses pemeriksaan dokumen yang diberikan terhadap DTD atau Skema yang sesuai untuk dokumen ini. Jadi pada saat memvalidasi kedua sumber daya diperlukan - file XML dan DTD atau Skema. Ini adalah repositori lokal untuk DTD, Skema dan entitas lain yang digunakan dalam dokumen XML.

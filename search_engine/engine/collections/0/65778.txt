@@ -1,0 +1,1 @@
+Sumbu nilai dalam bagan menampilkan deskriptif untuk titik data. ValueAxis adalah kelas yang menampilkan sumbu nilai untuk bagan. Bagan dapat memiliki sejumlah sumbu nilai. Untuk bagan Serial, satu sumbu nilai dibuat secara otomatis. Untuk Bagan XY, dua sumbu nilai dibuat secara otomatis.

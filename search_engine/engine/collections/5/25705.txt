@@ -1,0 +1,1 @@
+Misalnya, mean sampel {2, 3, 4, 5, 6} adalah 4, sedangkan mean {2, 3, 4, 5, 60} adalah 14,4. Munculnya 60 sepenuhnya mendistorsi mean dalam sampel kedua. Beberapa statistik, seperti median, lebih tahan terhadap outlier tersebut. Faktanya, median untuk kedua sampel adalah 4.

@@ -1,0 +1,1 @@
+Cara kerja rumus Dalam contoh, rumus di sel D6... Dapatkan bulan dari tanggal. Jika Anda perlu mengekstrak bulan dari tanggal, Anda dapat menggunakan fungsi MONTH. Dalam bentuk umum rumus di atas, tanggal harus dalam bentuk yang dikenali Excel sebagai tanggal yang valid.

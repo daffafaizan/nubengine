@@ -1,0 +1,1 @@
+Jawa berbeda. Java menyediakan semantik yang jauh lebih ketat dan tidak terlalu bergantung pada pelaksana. Tidak seperti C dan C++, Java telah mendefinisikan ukuran dan endianisme untuk tipe atom, serta perilaku floating-point yang ditentukan. Selain itu, Java mendefinisikan lebih banyak perilaku daripada C dan C++.

@@ -1,0 +1,1 @@
+Dalam jaringan dua lapis yang paling sederhana, satu akan memiliki satu neuron input, atau node, dengan aktivasi x, satu node tersembunyi, dengan aktivasi y, dan node output dengan aktivasi z, di mana output adalah fungsi dari node tersembunyi aktivasi, yang pada gilirannya merupakan fungsi dari aktivasi input.

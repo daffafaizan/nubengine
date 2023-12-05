@@ -1,0 +1,1 @@
+Secara default, database KeePass disimpan pada sistem file lokal (berlawanan dengan penyimpanan cloud). KeePass mendukung sejumlah plugin. Ini memiliki generator kata sandi dan fungsi sinkronisasi, mendukung otentikasi dua faktor, dan memiliki mode Desktop Aman.

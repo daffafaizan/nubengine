@@ -1,0 +1,1 @@
+KeePass mengenkripsi DB karena file yang tetap aman tidak diharapkan menjadi jaminan. Memang lebih baik file DB tidak masuk ke alam liar, tetapi jika keamanan Anda bergantung pada file terenkripsi yang tetap rahasia, maka Anda memiliki masalah yang lebih besar daripada apakah akan menggunakan penyimpanan cloud atau tidak.

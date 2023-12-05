@@ -1,0 +1,1 @@
+Apa itu SNI? Indikasi Nama Server adalah komponen penting dari SSL yang seringkali tidak terdeteksi. SNI adalah apa yang memungkinkan beberapa situs web ada di alamat IP yang sama. Tanpa SNI, setiap nama host akan memerlukan alamat IP sendiri agar sertifikat SSL dapat diinstal. Namun, SNI memecahkan masalah ini. Sekarang, apa artinya semua itu?

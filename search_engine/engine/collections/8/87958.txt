@@ -1,0 +1,1 @@
+Secara default, bagan hanya akan menampilkan label sumbu untuk titik data dalam kumpulan data yang berisi nilai yang valid. Misalnya, jika Anda memiliki nilai 1, 2, dan 6 pada sumbu kategori, bagan hanya akan memperlihatkan kategori 1, 2, dan 6. Untuk mempertahankan skala nilai kategori, Anda dapat menentukan bagan untuk menggunakan sumbu skalar .

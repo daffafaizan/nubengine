@@ -1,0 +1,1 @@
+Langkah selanjutnya adalah menambahkan ekstraktor CSS/jQuery ke skrip JMeter. Klik kanan pada Home Page Request -> Add -> Post Processor -> CSS/jQuery Extractor. Berikut adalah daftar parameter untuk ekstraktor ini: Nama - nama yang akan ditampilkan di pohon Grup Utas. Terapkan ke - parameter ini dapat berguna jika sampler Anda memiliki sub-sampel yang berbeda.

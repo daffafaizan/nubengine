@@ -1,0 +1,1 @@
+Sementara spesifikasi mengamanatkan antarmuka C dan Fortran, bahasa yang digunakan untuk mengimplementasikan MPI tidak dibatasi untuk mencocokkan bahasa atau bahasa yang ingin didukungnya saat runtime. Sebagian besar implementasi menggabungkan C, C++ dan bahasa assembly, dan pemrogram C, C++, dan Fortran target.

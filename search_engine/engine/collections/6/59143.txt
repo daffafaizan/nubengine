@@ -1,0 +1,1 @@
+Entitas rekan. dua (atau lebih) contoh dari lapisan yang sama. Protokol dan PDU: aturan operasi yang diikuti oleh entitas rekan. data yang dipertukarkan disebut PDU (Protocol Data Unit) ada satu protokol (atau lebih) di setiap lapisan. Contoh protokol adalah: TCP; UDP; IP; Ethernet.

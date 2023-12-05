@@ -1,0 +1,1 @@
+Salah satu bentuk deteksi tumbukan yang lebih sederhana adalah antara dua persegi panjang yang sejajar sumbu Â¢Ã‚â‚¬Ã‚â€ artinya tidak ada rotasi. Algoritma bekerja dengan memastikan tidak ada celah antara salah satu dari 4 sisi persegi panjang. Setiap celah berarti tabrakan tidak ada.

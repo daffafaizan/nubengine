@@ -1,0 +1,1 @@
+Entitas asosiatif mengasosiasikan entitas (atau elemen) dalam satu set entitas. Kunci entitas: Mengacu pada atribut yang secara unik mendefinisikan entitas dalam kumpulan entitas. Kunci entitas dapat berupa super, kandidat, atau primer. Super key: Satu set atribut (satu atau lebih) yang bersama-sama mendefinisikan suatu entitas dalam satu set entitas.

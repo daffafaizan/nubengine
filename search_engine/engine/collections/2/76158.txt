@@ -1,0 +1,1 @@
+Lampirkan karakter literal dalam tanda kutip tunggal. Jika trim-karakter tidak ditentukan, fungsi TRIM memangkas semua spasi kosong, bukan hanya satu karakter.

@@ -1,0 +1,1 @@
+UNTUK memeriksa, Anda menjalankan SE14 -> masukkan nama tabel (pastikan tombol radio untuk tabel dipilih) -> Ekstra(menu) -> objek basis data -> centang. Gambar 7 dan Gambar 8 adalah dua layar sampel yang menunjukkan dua skenario tidak konsisten yang khas - indeks di SAP tetapi tidak di database dan indeks di database tetapi tidak di SAP.

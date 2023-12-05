@@ -1,0 +1,1 @@
+Node akar pohon XML dapat berupa node dokumen anonim, tanpa tipe dan tanpa URL. Node dokumen seperti itu direpresentasikan dalam dokumen dengan tidak adanya ekspresi `<!doctype>'. Dengan kata lain, jika ekspresi pertama dalam dokumen bukan `<!doctype...>', dokumen tersebut memiliki akar anonim.

@@ -1,0 +1,1 @@
+Robert 2015-04-09 17:23:40. Ada kesalahan kecil dalam melaporkan Zona UTM, dimana N dan S ditransposisikan. Lokasi di Eropa menunjukkan zona UTM S, sedangkan lokasi di Afrika langsung ke selatan dari lokasi Eropa menunjukkan UTM N. Aplikasi yang sangat bagus selain itu.

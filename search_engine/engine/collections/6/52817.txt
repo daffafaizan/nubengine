@@ -1,0 +1,1 @@
+L1 dan L2 Cache. Beberapa cache memori dibangun ke dalam arsitektur mikroprosesor. Mikroprosesor Intel 80486, misalnya, berisi cache memori 8K, dan Pentium memiliki cache 16K. Cache internal seperti ini sering disebut cache Level 1 (L1).

@@ -1,0 +1,1 @@
+CEC (Kontrol Elektronik Konsumen) melalui HDMI. Perangkat keras Raspberry Pi (Broadcom BCM2835 SoC) memiliki dukungan terintegrasi untuk CEC (Kontrol Elektronik Konsumen) melalui port HDMI. CEC (Kontrol Elektronik Konsumen) adalah protokol kontrol yang ditemukan di HDMI.

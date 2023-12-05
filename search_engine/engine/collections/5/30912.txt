@@ -1,0 +1,1 @@
+Ketika kontrol ditransfer dari program ini ke program lain, yang dipanggil oleh program ini, maka program ini menyebut program lain itu sebagai sub-program. Sub=program berisi jenis konten RPG lainnya seperti definisi file, input output, dll. Sub-program tidak perlu mengakses file apa pun.

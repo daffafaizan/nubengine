@@ -1,0 +1,1 @@
+Sampai sekarang, Anda melihat vSphere Replication menangani semua operasi pemulihan. Tetapi untuk beberapa alasan, vCenter sedang down dan Anda ingin memulihkan mesin virtual kritis. Jika vCenter tidak aktif, Anda tidak dapat mengelola Replikasi vSphere Anda. Kemudian dalam hal ini, kami akan melakukan pemulihan manual.

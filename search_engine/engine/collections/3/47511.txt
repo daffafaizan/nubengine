@@ -1,0 +1,1 @@
+Opsi konfigurasi NSLOOKUP menentukan operasi dan hasil kueri server nama Anda. Opsi ini dapat ditentukan dalam kueri mode perintah, kueri mode interaktif, atau dalam kumpulan data user_id.NSLOOKUP.ENV. Saat Anda menyertakan opsi NSLOOKUP dengan perintah NSLOOKUP awal, operan (-) harus segera mendahului opsi.

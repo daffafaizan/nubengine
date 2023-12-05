@@ -1,0 +1,1 @@
+Dalam menyiapkan aplikasi JDK dan Java, Anda akan menemukan variabel lingkungan ini: PATH, CLASSPATH, JAVA_HOME dan JRE_HOME. Singkatnya: PATH: memelihara daftar direktori. OS mencari entri PATH untuk program yang dapat dieksekusi, seperti Java Compiler (javac) dan Java Runtime (java).

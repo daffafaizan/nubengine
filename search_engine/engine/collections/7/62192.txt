@@ -1,0 +1,1 @@
+Karena String tidak dapat diubah, setiap operasi kecil yang Anda lakukan dengannya menciptakan satu atau lebih string baru yang memengaruhi kinerja. Seseorang dapat menggunakan StringBuilder atau StringBuffer untuk memanipulasi string sebagai gantinya dan kemudian mengubahnya ketika perubahan/penambahan selesai..

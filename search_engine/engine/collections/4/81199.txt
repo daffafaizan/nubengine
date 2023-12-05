@@ -1,0 +1,1 @@
+Fitur protokol CIFS yang didukung meliputi: 1 Akses file: Mendukung operasi file dasar seperti membuka, menutup, membaca, menulis, dan mencari. 2 Penguncian file dan rekaman: Mendukung akses file yang tidak terkunci dan fitur-fitur seperti penguncian file dan rekaman.

@@ -1,0 +1,1 @@
+Penamaan Paket. Dengan programmer di seluruh dunia menulis kelas dan antarmuka menggunakan bahasa pemrograman Java, kemungkinan banyak programmer akan menggunakan nama yang sama untuk tipe yang berbeda. Faktanya, contoh sebelumnya melakukan hal itu: Ini mendefinisikan kelas Rectangle ketika sudah ada kelas Rectangle dalam paket java.awt.

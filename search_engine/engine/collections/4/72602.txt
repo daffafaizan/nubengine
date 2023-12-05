@@ -1,0 +1,1 @@
+1 Jika transaksi memiliki kurang dari satu konfirmasi dari jaringan Bitcoin, transaksi tersebut akan ditandai sebagai tertunda. Dompet tempat transaksi tersebut menetapkan biaya rendah pada transaksi dan belum diterima oleh jaringan Bitcoin.

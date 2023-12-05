@@ -1,0 +1,1 @@
+Jika sebuah benda bergerak dalam lingkaran, kita dapat menggambarkan geraknya dengan variabel biasa untuk posisi, kecepatan, dan percepatan, tetapi itu akan menjadi rumit karena arah benda selalu berubah. Lebih mudah untuk mendefinisikan variabel baru untuk menggambarkan gerak melingkar dalam satuan sudut.

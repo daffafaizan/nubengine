@@ -1,0 +1,1 @@
+Bukti Turunan dari Fungsi Trigonometri. Diketahui: lim(d->0) sin(d)/d = 1. Selesaikan: sin(x) = lim(d->0) ( sin(x+d) - sin(x) ) / d. = lim ( sin(x)cos(d) + cos(x)sin(d) - sin(x) ) / d. = lim ( sin(x)cos(d) - sin(x) )/d + lim cos(x)sin(d)/d. = sin(x) lim ( cos(d) - 1 )/d + cos(x) lim sin(d)/d.

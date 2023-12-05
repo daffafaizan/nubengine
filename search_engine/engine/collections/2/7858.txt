@@ -1,0 +1,1 @@
+perintah stop-limit. Sebuah pesanan khusus di mana limit order dan stop order digabungkan. Setelah harga stop yang ditentukan telah tercapai atau terlampaui, stop-limit order menjadi limit order. Stop-limit order berbeda dari stop order, yang menjadi market order ketika harga stop telah tercapai atau terlampaui.

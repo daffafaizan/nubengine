@@ -1,0 +1,1 @@
+Aplikasi Jaringan yang menggunakan rangkaian TCP/IP menggunakan soket untuk berkomunikasi satu sama lain. Soket adalah kombinasi dari alamat IP dan port. Anda dapat membayangkan soket seperti ilustrasi berikut: Jadi, di satu sisi Anda memiliki alamat IP, katakanlah 10.1.1.1 dan port layanan seperti 25 untuk SMTP.

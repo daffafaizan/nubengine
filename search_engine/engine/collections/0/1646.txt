@@ -1,0 +1,1 @@
+CATATAN: Di jendela tata letak CUE Sheets dan CD EAC, format waktunya adalah Menit:Seconds:Frames, di mana 1 frame adalah 1/75 detik, bukan 1/100 detik. Jadi, celah yang ditampilkan 00:00:50 dalam lembar CUE tidak berarti celah setengah detik, melainkan celah dua pertiga detik (seperti 0,66 atau 0,67 dalam notasi desimal).

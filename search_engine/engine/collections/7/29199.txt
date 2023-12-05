@@ -1,0 +1,1 @@
+1 Impor semua driver x86 yang diperlukan ke dalam folder WinPE 5.0 x86, dan semua driver x64 yang diperlukan ke dalam folder WinPE 5.0 x64. 2 Catatan: Anda hanya boleh menggunakan driver Windows 8.1 untuk gambar boot, bahkan jika Anda berencana untuk menggunakan Windows 7 SP1 dengan MDT 2013 Lite Touch. 3 driver WinPE diimpor.

@@ -1,0 +1,1 @@
+Java (bahasa pemrograman) Jika saya, saya akan menggunakan metode library (seperti String.valueOf(number)) atau salah satu metode Integer. Saya berasumsi maksud Anda mengubah bilangan bulat menjadi representasi string desimal. Jika Anda BENAR-BENAR perlu melakukan ini sendiri (tugas kelas?) maka saya akan, kurang lebih, menggunakan metode modulus dari jawaban lain.

@@ -1,0 +1,1 @@
+Meskipun secretKey juga disediakan untuk Anda bersama dengan kunci publikasi dan berlangganan Anda di portal admin, itu tidak diperlukan untuk publikasi dan berlangganan lama. Anda hanya memerlukan secretKey jika Anda menggunakan fungsionalitas PAM, yang akan kita bahas lebih lanjut di Tutorial Fitur PAM.

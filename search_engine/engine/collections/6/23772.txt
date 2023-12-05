@@ -1,0 +1,1 @@
+Komponen tampilan dari Swing JComponent adalah objek yang digunakan untuk secara grafis mewakili kontrol GUI konseptual. Perbedaan Swing, sebagai kerangka kerja GUI, adalah dalam ketergantungannya pada kontrol GUI yang diberikan secara terprogram (sebagai lawan dari penggunaan kontrol GUI OS host asli).

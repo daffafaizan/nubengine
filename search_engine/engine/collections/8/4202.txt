@@ -1,0 +1,1 @@
+Argumen dummy dari fungsi pernyataan tidak boleh didefinisikan ulang atau menjadi tidak terdefinisi melalui referensi subprogram fungsi dalam ekspresi fungsi pernyataan. Nama simbolis dari fungsi pernyataan tidak dapat berupa argumen aktual dan tidak boleh muncul dalam pernyataan EKSTERNAL.

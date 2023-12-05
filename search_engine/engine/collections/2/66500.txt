@@ -1,0 +1,1 @@
+Masukkan tanggal mulai, akhir, atau spesifik yang diizinkan. Anda juga dapat memasukkan rumus yang mengembalikan tanggal. Misalnya, untuk menetapkan kerangka waktu antara tanggal hari ini dan 3 hari dari tanggal hari ini, pilih antara di kotak Data, masukkan =HARI INI() di kotak Tanggal mulai, dan masukkan =HARI INI()+3 di kotak Tanggal akhir.

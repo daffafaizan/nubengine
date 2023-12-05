@@ -1,0 +1,1 @@
+Total uang dalam akun keuangan. Hitung sebagai: semua setoran ke setoran awal dihitung dikurangi semua pengeluaran dan pembayaran yang dilakukan. Jika uang tersedia, saldo kas bersih positif. Jika rekening telah ditarik, saldo kas bersih negatif.

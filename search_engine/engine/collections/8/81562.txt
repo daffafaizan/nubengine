@@ -1,0 +1,1 @@
+switch(config)# arp-protect trust 51-52. Kemudian lindungi VLAN tertentu yang perlu dilindungi. switch(config)# arp-protect vlan 2222. Ini adalah ikhtisar yang sangat mendasar tentang perlindungan ARP dinamis. Berikut adalah beberapa diagram untuk membantu menjelaskan apa itu keracunan arp, dan apa yang dilakukan perlindungan arp untuk melindunginya. Navigasi pos

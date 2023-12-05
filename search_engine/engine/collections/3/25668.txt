@@ -1,0 +1,1 @@
+Sebelum suatu aktivitas dapat dimulai, semua aktivitas pendahulunya harus diselesaikan. Model jaringan proyek mewakili aktivitas dan tonggak sejarah dengan busur dan simpul. PERT awalnya adalah aktivitas pada jaringan busur, di mana aktivitas direpresentasikan pada garis dan tonggak pada node.

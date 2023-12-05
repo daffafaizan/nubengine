@@ -1,0 +1,1 @@
+Tentu saja, mengganti SQL dinamis dengan prosedur tersimpan tidak akan membantu Anda jika Anda menggunakan input pengguna untuk membuat pernyataan SQL dinamis dalam prosedur tersimpan Anda. Dalam hal ini, SQL dinamis yang dibuat oleh input pengguna akan tetap rusak, dan database Anda akan tetap berada dalam bahaya serangan injeksi SQL.

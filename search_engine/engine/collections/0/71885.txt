@@ -1,0 +1,1 @@
+Contoh berikut menunjukkan cara menulis input pengguna secara asinkron ke file teks di aplikasi Windows 8.x Store. Karena pertimbangan keamanan, membuka file dari aplikasi Windows 8.x Store biasanya memerlukan penggunaan kontrol FileOpenPicker. Dalam contoh ini, FileOpenPicker difilter untuk menampilkan file teks. XAML.

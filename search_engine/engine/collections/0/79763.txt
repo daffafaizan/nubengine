@@ -1,0 +1,1 @@
+FFmpeg adalah proyek perangkat lunak gratis yang menghasilkan perpustakaan dan program untuk menangani data multimedia. FFmpeg mencakup libavcodec, perpustakaan codec audio/video yang digunakan oleh beberapa proyek lain, libavformat (Lavf), perpustakaan mux dan demux wadah audio/video, dan program baris perintah ffmpeg untuk mentranskode file multimedia.

@@ -1,0 +1,1 @@
+`root(n)(a^n)=(root(n)a)^n``=root(n)((a^n))=a`. Item ke-2 dalam persamaan di atas berarti: ambil akar ke-n terlebih dahulu, lalu naikkan hasilnya ke pangkat n. Item ke-3 berarti: naikkan a ke pangkat n kemudian temukan akar ke-n dari hasilnya. Kedua langkah mengarah kembali ke a yang kita mulai.

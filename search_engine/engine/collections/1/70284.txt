@@ -1,0 +1,1 @@
+Efek senyum volatilitas, misalnya, diperhitungkan oleh konstruksi. 1 Tentu saja, harga swap varians dan volatilitas juga dapat dihitung dalam model dinamika harga aset, dan FINCAD juga menyediakan fungsionalitas untuk menentukan harga swap tersebut menggunakan model volatilitas stokastik Heston.

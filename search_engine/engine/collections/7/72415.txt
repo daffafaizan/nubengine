@@ -1,0 +1,1 @@
+Sebagai pemilik jadwal, Anda melakukan tugas berikut: 1 Tentukan jadwal default. Ini adalah jadwal yang digunakan jika tidak ada jadwal yang ditentukan di tingkat sumber data. 2 Tentukan kredensial yang digunakan untuk menjalankan penyegaran data. 3 Pilih sumber data mana yang akan disertakan dalam operasi refresh.

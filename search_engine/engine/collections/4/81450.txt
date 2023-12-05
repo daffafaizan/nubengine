@@ -1,0 +1,1 @@
+NOMOR ROUTING - 264179900 - CREDIT UNION SUMBER DAYA KARYAWAN. Kode yang menunjukkan nomor ABA yang akan digunakan untuk mengarahkan atau mengirim item ACH ke RFI. 0 = Institusi adalah Bank Federal Reserve. 1 = Kirim item ke nomor perutean pelanggan. 2 = Kirim item ke pelanggan menggunakan kolom nomor perutean baru.

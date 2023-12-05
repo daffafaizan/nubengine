@@ -1,0 +1,1 @@
+Saya memiliki rumus IF excel berikut: =IF(ISNA(VLOOKUP(M3,com,23,0))=TRUE,VLOOKUP(E3,ach,6,0),VLOOKUP(M3,com,23,0)) rumus berfungsi dengan baik tetapi jika bagian kedua dari vlookup adalah NA, saya ingin itu mengembalikan yang kosong daripada NA.

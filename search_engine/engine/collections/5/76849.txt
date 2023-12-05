@@ -1,0 +1,1 @@
+Jenis OSPF LSA Dijelaskan. OSPF menggunakan LSDB (link state database) dan mengisinya dengan LSA (link state advertising). Alih-alih menggunakan 1 paket LSA, OSPF memiliki banyak jenis LSA yang berbeda dan dalam tutorial ini saya akan menunjukkan semuanya kepada Anda. Bagi banyak orang, memvisualisasikan hal-hal untuk dipahami dan diingat membantu.

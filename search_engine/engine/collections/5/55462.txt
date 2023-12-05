@@ -1,0 +1,1 @@
+Tingkat agregasi sebagai penyedia bagian dalam Penyedia Komposit. Saya sekarang mencoba untuk membangun skenario perencanaan menggunakan Penyedia Komposit khusus HANA dan saya mengalami masalah berikut: ketika saya mencoba menambahkan tingkat agregasi sebagai penyedia bagian untuk penyedia komposit, HANA Studio mengeluarkan pesan berikut: ' objek tidak didukung'.

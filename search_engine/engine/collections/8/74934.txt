@@ -1,0 +1,1 @@
+Jadi misalnya jika kita telah menyebutkan waktu berlalu maksimum 10 detik dan kondisi kita terpenuhi pada 7 detik maka skrip tidak akan menunggu 3 detik lagi untuk memulai eksekusi. Dalam hal ini, 3 detik waktu disimpan. Ini adalah keuntungan utama menggunakan jenis penantian eksplisit ini daripada thread.sleep().

@@ -1,0 +1,1 @@
+Jalur migrasi tersebut dimungkinkan dengan fitur CS Fallback (CSFB). CSFB diperkenalkan di 3GPP Rel-8 untuk memungkinkan UE di EPS untuk menggunakan kembali layanan domain CS dengan mendefinisikan bagaimana UE dapat mengalihkan radionya dari akses EUTRAN ke RAT lain (misalnya akses GERAN/UTRAN/1xRTT) yang dapat mendukung layanan domain CS.

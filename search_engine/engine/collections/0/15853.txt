@@ -1,0 +1,1 @@
+J: Wireshark mendapatkan stempel waktu dari libpcap/WinPcap, dan libpcap/WinPcap mendapatkannya dari kernel OS, jadi Wireshark - dan program lain yang menggunakan libpcap, seperti tcpdump - bergantung pada kode stempel waktu di OS untuk waktu perangko.

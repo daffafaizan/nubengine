@@ -1,0 +1,1 @@
+Ketergantungan dalam maven adalah paket kelas tempat proyek kita bergantung. Ini bisa berupa toples, perang, dll. Ketergantungan diperlukan untuk mengkompilasi atau menguji unit kode sumber. Ketergantungan normal seperti artefak yang digunakan dalam aplikasi seperti perpustakaan.

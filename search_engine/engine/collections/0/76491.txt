@@ -1,0 +1,1 @@
+WDM mirip dengan frequency-division multiplexing (FDM). Tapi alih-alih terjadi pada frekuensi radio (RF), WDM dilakukan di bagian IR dari spektrum elektromagnetik. Setiap saluran IR membawa beberapa sinyal RF yang digabungkan melalui FDM atau time-division multiplexing (TDM).

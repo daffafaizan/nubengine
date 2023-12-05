@@ -1,0 +1,1 @@
+PERTANYAAN NO: 1. Pelanggan mencoba untuk mem-boot sistem operasi yang diinstal pada eUSB pada server blade Cisco UCS BSeries; namun, boot gagal. Apa penyebab kegagalan ini? A. Disk lokal harus menjadi perangkat pertama dalam urutan boot. B. eUSB bukan perangkat boot yang didukung.

@@ -1,0 +1,1 @@
+Setiap zona berisi catatan sumber daya Mulai Otoritas (SOA) di awal zona. Catatan sumber daya SOA mencakup bidang berikut: Bidang Pemilik , TTL , Kelas , dan Jenis, seperti yang dijelaskan dalam Format Catatan Sumber Daya di awal bab ini.

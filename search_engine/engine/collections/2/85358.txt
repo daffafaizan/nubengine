@@ -1,0 +1,1 @@
+Jenis init terakhir yang didukung melalui iOS adalah metode pabrik (metode kelas). Ini adalah pesan satu langkah yang menangani alokasi memori dan inisialisasi untuk Anda. Semua metode pabrik diberi nama dengan format objecttypeWithArgument: (argumen) Berikut adalah contoh nyata lainnya: Metode kelas (atau pabrik) membuat pesan sedikit lebih jelas.

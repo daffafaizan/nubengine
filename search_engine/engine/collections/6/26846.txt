@@ -1,0 +1,1 @@
+Saya pikir OP tahu untuk apa SPF. Catatan SPF dapat disimpan sebagai catatan DNS SPF atau TXT. Formatnya identik, hanya memiliki tipe record yang berbeda, seperti record A dan CNAME adalah tipe yang berbeda. Data TXT dapat menampung teks arbitrer apa pun, sehingga dapat digunakan untuk SPF, tetapi data SPF HANYA boleh berisi data SPF.

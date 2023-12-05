@@ -1,0 +1,1 @@
+Di mana teks adalah nilai teks yang ingin Anda hitung jumlah karakternya, atau referensi ke sel yang berisi nilai teks. Perhatikan bahwa fungsi LEN() akan menghitung jumlah karakter dalam sel terlepas dari apakah nilai dalam sel tersebut adalah teks atau angka, atau kombinasi keduanya.

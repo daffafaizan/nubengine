@@ -49,8 +49,8 @@ class Letor:
         return re.findall(r'\w+', stemmed_line)
     
     def preprocess_indo(self, line: str) -> list[str]:
-        stemmed_line: str = self.stemmer.stem_kalimat(line)
-        preprocessed_line: str = self.stop_word_remover.remove(stemmed_line)
+        stemmed_line: str = self.stemmer_indo.stem_kalimat(line)
+        preprocessed_line: str = self.stop_word_remover_indo.remove(stemmed_line)
 
         return re.findall(r'\w+', preprocessed_line)
 
@@ -69,7 +69,7 @@ class Letor:
         with open(docs_file_indo) as file:
             for line in file:
                 doc_id, content = line.strip().split(maxsplit=1)
-                self.documents[doc_id] = self.preprocess(content)
+                self.documents[doc_id] = self.preprocess_indo(content)
 
         with open(query_file_eng, encoding="utf-8") as file:
             for line in file:
@@ -78,7 +78,7 @@ class Letor:
         with open(query_file_indo, encoding="utf-8") as file:
             for line in file:
                 q_id, content = line.strip().split(maxsplit=1)
-                self.queries[q_id] = self.preprocess(content)
+                self.queries[q_id] = self.preprocess_indo(content)
 
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first

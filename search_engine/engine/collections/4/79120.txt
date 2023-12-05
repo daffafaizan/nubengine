@@ -1,0 +1,1 @@
+Bangun alamat soket lokal. Untuk mendengarkan datagram UDP, perlu untuk memilih nomor port dan, opsional, alamat IP lokal untuk mendengarkan. Kombinasi dari dua nilai ini diperlakukan sebagai satu kesatuan yang disebut alamat soket, yang diwakili oleh struct sockaddr_in untuk IPv4 atau struct sockaddr_in6 untuk IPv6.

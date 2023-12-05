@@ -1,0 +1,1 @@
+Ruang yang Disediakan adalah ukuran total yang dialokasikan untuk VM. Ruang Kosong adalah ruang yang belum digunakan oleh VM. Oleh karena itu, dengan penyediaan tipis, Anda dapat menyediakan lebih banyak ruang ke VM berdasarkan Ruang Kosong pada saat itu.

@@ -1,0 +1,1 @@
+suara naik 8 suara turun diterima. BASH adalah variabel lokal yang valid di shell (bash) saat ini saja. Variabel lingkungan seperti SHELL berlaku di seluruh sistem. Dalam Bash saat ini, shell BASH menunjuk ke jalur eksekusi bash, sedangkan SHELL menunjuk ke shell yang didefinisikan sebagai default (yang mungkin memiliki nilai yang sama).

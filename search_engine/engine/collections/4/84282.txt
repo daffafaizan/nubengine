@@ -1,0 +1,1 @@
+Microsoft, pembuat Pencadangan dan Pemulihan, mendefinisikan pencadangan inkremental dan pencadangan diferensial sebagai berikut: Inkremental: Cadangan inkremental menyediakan cadangan file yang telah berubah atau baru sejak pencadangan inkremental terakhir.... Diferensial: Cadangan diferensial menyediakan pencadangan file yang telah berubah sejak pencadangan penuh dilakukan.

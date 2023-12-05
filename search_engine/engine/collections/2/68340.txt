@@ -1,0 +1,1 @@
+Di B34, hitung simpangan baku dari angka yang dicatat yaitu =STDEV(B3:B33). Dalam tipe A34 =EXP(B34) Ini adalah simpangan baku geometrik Anda!! Anda dapat memeriksa metode ini dengan ref. ke fungsi GEOMEAN. Ambil rata-rata kolom B. yaitu di sel B35 tipe = rata-rata(B3:B33). Di sel A34 ketik =EXP(B34).

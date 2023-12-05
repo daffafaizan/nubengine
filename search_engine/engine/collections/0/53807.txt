@@ -1,0 +1,1 @@
+Fungsi INDIRECT Excel. Fungsi Excel Indirect mengonversi string teks menjadi referensi sel. Jika Anda mengetik referensi B1 dalam rumus Excel, Excel memahami bahwa ini merujuk ke sel B1. Namun, Excel tidak memahami string teks B1 untuk menjadi referensi.

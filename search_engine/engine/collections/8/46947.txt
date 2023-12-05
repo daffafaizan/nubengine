@@ -1,0 +1,1 @@
+Pernyataan PROC SURVEYSELECT memanggil prosedur. Opsi DATA= menamai kumpulan data SAS Pelanggan sebagai kumpulan data input untuk memilih sampel. Opsi METHOD=SRS menentukan pengambilan sampel acak sederhana sebagai metode pemilihan sampel. Dalam pengambilan sampel acak sederhana, setiap unit memiliki probabilitas pemilihan yang sama, dan pengambilan sampel tanpa pengembalian.

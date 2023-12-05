@@ -1,0 +1,1 @@
+Layanan Buka Blokir ID Penelepon. CallUnblock dapat mengungkapkan nomor telepon seseorang yang menelepon dengan nomor yang diblokir. Saat ada panggilan masuk dengan ID Penelepon yang diblokir, cukup tolak panggilan atau jangan jawab. Ini akan mengirim panggilan ke CallUnblock untuk pengambilan ID pemanggil. Panggilan akan segera dikirim kembali kepada Anda.

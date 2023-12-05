@@ -1,0 +1,1 @@
+Panjang bilah kesalahan dalam arah negatif, ditentukan sebagai vektor atau matriks dengan ukuran yang sama dengan y atau sebagai larik kosong 1 []. Untuk bilah kesalahan vertikal, neg menyetel panjang bilah kesalahan di bawah titik data. 2 Untuk bilah kesalahan horizontal, neg mengatur panjang bilah kesalahan di sebelah kiri titik data.

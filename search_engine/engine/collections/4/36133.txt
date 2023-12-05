@@ -1,0 +1,1 @@
+Mulai. Vi adalah aplikasi terminal, jadi Anda harus memulainya dari jendela terminal. Gunakan perintah vi /path/to/file untuk membuka file yang ada dengan Vi. Perintah vi /path/to/file juga berfungsi jika file belum ada; Vi akan membuat file baru dan menulisnya ke lokasi yang ditentukan saat Anda menyimpan.

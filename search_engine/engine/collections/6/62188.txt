@@ -1,0 +1,1 @@
+Secara umum, jika sb merujuk ke turunan StringBuffer, maka sb.append(x) memiliki efek yang sama seperti sb.insert(sb.length(), x). Setiap kali operasi terjadi yang melibatkan urutan sumber (seperti menambahkan atau menyisipkan dari urutan sumber) kelas ini hanya menyinkronkan pada buffer string yang melakukan operasi, bukan pada sumbernya.

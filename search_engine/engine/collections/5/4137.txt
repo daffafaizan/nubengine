@@ -1,0 +1,1 @@
+Kita perlu memperbaiki alamat IP dengan mengedit file /etc/network/interfaces menggunakan editor vi atau pico (saya akan untuk artikel ini menganggap Anda tahu vi atau pico) - jadi segera edit file menggunakan vi atau pico -Saya oldskool jadi saya menggunakan vi. ~$ sudo vi /etc/network/interfaces.

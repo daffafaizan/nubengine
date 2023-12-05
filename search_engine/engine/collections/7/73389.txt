@@ -1,0 +1,1 @@
+Memformat untuk Lokal. Untuk memformat angka untuk Lokal saat ini, gunakan salah satu metode pabrik statis untuk membuat format, lalu panggil metode format untuk memformatnya. Untuk memformat angka untuk Lokal yang berbeda, tentukan Lokal dalam panggilan ke createInstance().

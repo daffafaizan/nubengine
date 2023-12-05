@@ -1,0 +1,1 @@
+Mungkin lebih baik untuk berjalan melalui pertukaran sertifikat SSL/TLS dengan server Web yang menggunakan sertifikat yang ditandatangani sendiri: 1 Saya membuka browser Web saya dan mengetikkan URL https://www.mpkselfsign.com. Server web mpkselfsign.com mengirimkan sertifikat yang ditandatangani sendiri untuk www.mpkselfsign.com kembali ke browser Web saya.

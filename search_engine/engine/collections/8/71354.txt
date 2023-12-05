@@ -1,0 +1,1 @@
+Tanggal dalam contoh di bawah ini selalu merupakan data yang sama (yaitu, tidak diubah oleh pendefinisian ulang), tetapi Anda dapat merujuk ke seluruh tanggal dengan merujuk pada bidang EXPIRATION-DATE, atau Anda dapat melakukan perhitungan hanya pada tahun, bulan, atau hari dengan menggunakan bidang yang didefinisikan ulang (perhatikan yang didefinisikan ulang adalah numerik).

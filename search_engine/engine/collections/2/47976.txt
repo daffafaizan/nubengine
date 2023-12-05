@@ -1,0 +1,1 @@
+Aliran Panggilan ke Nomor Telepon Porting. Ketika panggilan dilakukan ke nomor telepon yang di-porting, switch penyedia layanan yang memulai meluncurkan kueri ke database perutean panggilan LNP untuk menentukan apakah nomor telepon telah di-porting. Jika ya, respons basis data menyediakan sakelar dengan LRN yang diperlukan untuk merutekan panggilan dengan benar.

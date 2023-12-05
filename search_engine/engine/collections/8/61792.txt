@@ -1,0 +1,1 @@
+Parsing digunakan untuk mengonversi nilai dari satu tipe data ke nilai tipe data lainnya. Sebagai contoh, String testString = 449; int i = Integer.parseInt( testString ); Di sisi lain, kompiler Java mem-parsing kode sumber file .java dan membuat token yang cocok dengan tata bahasa java.

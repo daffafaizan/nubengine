@@ -1,0 +1,1 @@
+UNION vs. UNION ALL di SQL Server. Masalah. Terkadang ada kebutuhan untuk menggabungkan data dari beberapa tabel atau tampilan menjadi satu kumpulan data yang komprehensif. Ini mungkin untuk tabel dengan data serupa dalam database yang sama atau mungkin ada kebutuhan untuk menggabungkan data serupa di seluruh database atau bahkan di seluruh server.

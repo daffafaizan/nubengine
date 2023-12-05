@@ -1,0 +1,1 @@
+Derivasi Exif dari struktur file TIFF menggunakan pointer offset dalam file berarti bahwa data dapat tersebar di mana saja di dalam file, yang berarti bahwa perangkat lunak cenderung merusak pointer atau data terkait yang tidak didekode/dikodekan.

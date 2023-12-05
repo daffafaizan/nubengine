@@ -1,0 +1,1 @@
+Banyak fungsi bawaan Excel (SUM, SUMIF) menghitung seluruh referensi kolom secara efisien karena mereka secara otomatis mengenali baris yang terakhir digunakan dalam kolom. Namun, fungsi penghitungan array seperti SUMPRODUCT tidak dapat menangani seluruh referensi kolom atau menghitung semua sel dalam kolom.

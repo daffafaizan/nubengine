@@ -1,0 +1,1 @@
+Dalam bahasa seperti C# dan Java, kelas digunakan untuk membuat objek. Modul Kelas adalah VBA yang setara dengan kelas-kelas ini. Perbedaan utama adalah bahwa Modul Kelas VBA memiliki jenis Warisan* yang sangat terbatas dibandingkan dengan kelas dalam bahasa lain. Di VBA, Inheritance bekerja dengan cara yang mirip dengan Interfaces** di C#\Java.

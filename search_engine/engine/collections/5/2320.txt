@@ -1,0 +1,1 @@
+Metode main() dalam bahasa Java mirip dengan fungsi main() di C dan C++. Saat Anda menjalankan program C atau C++, sistem runtime memulai program Anda dengan memanggil fungsi main() terlebih dahulu. Fungsi main() kemudian memanggil semua fungsi lain yang diperlukan untuk menjalankan program Anda.

@@ -1,0 +1,1 @@
+Namun disini kita juga menggunakan konsep IFNA dalam VLookUp yang artinya jika terjadi error maka ganti dengan pesan string. Kita tahu bahwa fungsi VLookUp digunakan untuk mencari nilai berdasarkan pengenal unik. Mari kita lihat langkah-langkah berikut. Langkah 1. Buka Excel 2013.

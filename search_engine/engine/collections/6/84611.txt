@@ -1,0 +1,1 @@
+Selain membersihkan cache ARP, arp-cache yang jelas menyebabkan perangkat tertentu mengirim balasan ARP gratis mengenai alamatnya sendiri - dapat digunakan jika karena alasan apa pun, alamat MAC perangkat berubah. Ip arp yang jelas tidak mengirim ARP serampangan. Salam,

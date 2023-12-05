@@ -1,0 +1,1 @@
+Shapefile adalah format penyimpanan data vektor Esri untuk menyimpan lokasi, bentuk, dan atribut fitur geografis. Itu disimpan sebagai satu set file terkait dan berisi satu kelas fitur. Shapefile sering berisi fitur besar dengan banyak data terkait dan secara historis telah digunakan dalam aplikasi desktop GIS seperti ArcGIS untuk Desktop dan ArcGIS Explorer Desktop.

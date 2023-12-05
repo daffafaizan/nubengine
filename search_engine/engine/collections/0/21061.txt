@@ -1,0 +1,1 @@
+Catatan CNAME harus selalu diarahkan ke nama domain lain, tidak pernah ke alamat IP. Alias ​​​​yang ditentukan dalam catatan CNAME tidak boleh memiliki catatan sumber daya lain dari jenis lain (MX, A, dll.). Catatan CNAME yang mengarah ke catatan CNAME lain harus dihindari karena kurangnya efisiensi, tetapi bukan merupakan kesalahan.

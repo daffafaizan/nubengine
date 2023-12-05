@@ -1,0 +1,1 @@
+PowerShell: memanggil fungsi dengan parameter. Saya baru saja mulai dengan PowerShell untuk melakukan beberapa skrip yang rumit. Sebagai pemula dalam bahasa baru ini, saya mungkin akan mengalami semua keanehan yang dimiliki bahasa tersebut, tetapi itulah kesenangan mempelajari sesuatu yang baru. Kekhasan pertama: memanggil fungsi dengan parameter. fungsi f([string]$a, [string]$b)

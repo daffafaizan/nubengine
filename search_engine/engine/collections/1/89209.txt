@@ -1,0 +1,1 @@
+Manajer program tidak boleh melakukan mikro, tetapi harus menyerahkan manajemen proyek kepada manajer proyek. Namun, manajemen program mungkin perlu menangani saling ketergantungan, konflik, dan berbagi sumber daya atau pengetahuan di antara proyek-proyek yang dikelolanya.

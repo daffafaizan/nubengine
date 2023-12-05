@@ -1,0 +1,1 @@
+Soket didefinisikan oleh protokol dan alamat pada host. Format alamat khusus untuk setiap protokol. Dalam TCP/IP, alamat adalah kombinasi dari alamat IP dan port. Dua soket, satu untuk setiap ujung sambungan, membentuk jalur komunikasi dua arah.

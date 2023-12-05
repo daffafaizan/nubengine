@@ -1,0 +1,1 @@
+Tidak seperti graf 1-planar, graf luar-1-planar memiliki karakterisasi dalam bentuk graf minor: sebuah graf terluar-1-planar jika dan hanya jika graf tersebut menghindari masing-masing himpunan dari lima minor terlarang. Grafik 1-planar telah digeneralisasikan ke grafik k-planar, grafik yang setiap sisinya dilintasi paling banyak k kali.

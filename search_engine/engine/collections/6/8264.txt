@@ -1,0 +1,1 @@
+- Kesalahan EVAP Purge dan Vent Valve. ECM memonitor sensor Fuel Tank Pressure untuk mengetahui tingkat kevakuman/tekanan pada sistem EVAP. ECM memerintahkan EVAP Purge Solenoid dan EVAP Vent Valve ON ketika kondisi terpenuhi untuk menerapkan vakum mesin ke sistem EVAP.

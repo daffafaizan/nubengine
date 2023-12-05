@@ -1,0 +1,1 @@
+Ketik - nslookup & Tekan Enter. Anda akan berada di nslookup Prompt, Seperti ini :- >. Pada nslookup prompt ketik -> set type=all. Anda akan kembali ke nslookup Prompt lagi, lalu jalankan perintah di bawah ini untuk menemukan server LDAP & prioritasnya & nomor portnya.

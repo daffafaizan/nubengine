@@ -1,0 +1,1 @@
+File AMF juga dapat menentukan bahan dan warna setiap volume, serta warna setiap segitiga di mesh. File AMF dikompres menggunakan format kompresi zip, tetapi ekstensi file .amf dipertahankan. Implementasi pembaca AMF minimal harus dapat mendekompresi file AMF dan mengimpor setidaknya informasi geometri (mengabaikan kelengkungan).

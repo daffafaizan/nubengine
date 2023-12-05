@@ -1,0 +1,1 @@
+Saya ingin menggunakan Powershell v1.0 untuk menghapus semua file thumbs.db di jaringan berbagi. Saya menggunakan yang berikut ini dengan the-WhatIf. Dapatkan-ChildItem-Path. -Sertakan Thumbs.db-Recurse-Name-Force | Hapus-Item-Force-WhatIf. Dan saya mendapatkan hasil yang diinginkan.

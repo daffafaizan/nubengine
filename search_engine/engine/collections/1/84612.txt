@@ -1,0 +1,1 @@
+++ Clear arp & clear ip arp menghapus masing-masing output dari show arp & show ip arp. jelas ip arp. ++ Secara default, batas waktu arp adalah 4 jam dan batas waktu tabel alamat mac adalah 300 detik. ++ ketika Anda mengeluarkan clear arp-cache/clear arp/clear ip arp, output tabel arp yang relevan harus dihapus.

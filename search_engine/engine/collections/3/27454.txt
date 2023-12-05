@@ -1,0 +1,1 @@
+VIX dihitung sebagai akar kuadrat dari nilai tukar par varians untuk jangka waktu 30 hari yang dimulai hari ini. Perhatikan bahwa VIX adalah volatilitas dari varians swap dan bukan dari volatilitas swap (volatilitas menjadi akar kuadrat dari varians, atau standar deviasi).

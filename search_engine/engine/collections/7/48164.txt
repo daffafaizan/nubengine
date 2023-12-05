@@ -1,0 +1,1 @@
+Rumus Resistansi Dioda. Resistansi dioda sama dengan rumus di bawah ini: Resistansi dioda sama dengan tegangan termal, VT, dibagi dengan arus, Id, yang melewati dioda. Tegangan termal dioda kira-kira 25mV pada 300K, yang merupakan suhu yang sangat dekat dengan suhu kamar. Rumus yang tepat untuk menghitung tegangan termal adalah: VT= kT/q.

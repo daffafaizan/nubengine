@@ -1,0 +1,1 @@
+Mendefinisikan NAT Di Dalam dan di Luar Antarmuka. Langkah pertama untuk menyebarkan NAT adalah mendefinisikan NAT di dalam dan di luar antarmuka. Anda mungkin merasa paling mudah untuk mendefinisikan jaringan internal Anda sebagai di dalam, dan jaringan eksternal sebagai di luar. Namun, istilah internal dan eksternal juga tunduk pada arbitrase.

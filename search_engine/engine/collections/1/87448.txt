@@ -1,0 +1,1 @@
+Kami mengkodekan BMI jika didokumentasikan bahkan jika BMI <40 dan diagnosis obesitas atau obesitas morbid didokumentasikan. Encoder kami akan menanyakan BMI jika Anda memasukkan Obesitas morbid atau obesitas sebagai diagnosis. Namun, itu tidak akan menanyakan diagnosis jika Anda hanya memasukkan BMI.

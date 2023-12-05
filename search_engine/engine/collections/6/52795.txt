@@ -1,0 +1,1 @@
+Saya telah memutakhirkan dari Windows Server 2008 R2 Standard ke Enterprise untuk memanfaatkan lebih banyak RAM. Server sebelumnya memiliki RAM 32GB. Pemutakhiran dari Standar ke Perusahaan, menggunakan DISM, tampaknya berjalan dengan baik, jadi saya mematikan dan memasang RAM.

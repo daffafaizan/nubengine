@@ -1,0 +1,1 @@
+Panggil atau Panggil skrip untuk menjalankannya. Cara paling umum (default) untuk menjalankan skrip adalah dengan memanggilnya: PS C:\> & C:\Batch\My first Script.ps1. PS C:\> & cscript /nologo C:\Batch\another.vbs. Jika jalur tidak mengandung spasi, Anda dapat menghilangkan tanda kutip dan operator '&'. PS C:\> C:\Batch\Myscript.ps1.

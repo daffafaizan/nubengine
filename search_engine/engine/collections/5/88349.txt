@@ -1,0 +1,1 @@
+Saat mem-boot perangkat boot, seperti hard drive, BIOS menjalankan kode program yang terdapat dalam MBR perangkat (program ini disebut 'kode boot' MBR). Mempartisi ulang hard drive Anda, memformat partisi, atau memulihkan partisi dari cadangan TIDAK akan mengubah atau memulihkan kode boot MBR.

@@ -1,0 +1,1 @@
+Menambahkan Parameter Masukan. Salah satu cara Anda dapat menggunakan parameter input dalam suatu fungsi adalah dengan memanfaatkan variabel bawaan $args. Saat Anda memanggil fungsi di PowerShell, Anda bisa menyertakan nilai parameter dengan nama fungsi.

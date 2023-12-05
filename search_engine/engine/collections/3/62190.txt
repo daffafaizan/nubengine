@@ -1,0 +1,1 @@
+StringBuffer memiliki metode yang sama dengan StringBuilder , tetapi setiap metode di StringBuffer disinkronkan yaitu StringBuffer adalah thread safe . append(), insert(), delete(), deleteCharAt() dan reverse().

@@ -1,0 +1,1 @@
+Panggilan dialihkan berdasarkan enam digit pertama (NPA-NXX) nomor telepon. NPA-NXX adalah alamat sakelar yang melayani nomor telepon. Saat nomor porting, 10 digit LRN dikaitkan dengan nomor porting. Panggilan ke nomor porting malah dialihkan berdasarkan NPA-NXX dari 10 digit LRN.

@@ -1,0 +1,1 @@
+Referensi Cepat Batas Waktu IIS. IIS 6.0. Layanan informasi Internet (IIS) memiliki beberapa nilai batas waktu yang ditetapkan secara default saat Anda menginstal Windows Server 2003. Nilai batas waktu memungkinkan server untuk menentukan berapa lama sumber daya server dialokasikan untuk tugas atau klien tertentu. Pengaturan waktu habis juga dapat dikonfigurasi dari IIS Manager.

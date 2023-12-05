@@ -1,0 +1,1 @@
+Pada dasarnya folder CONFIG.MSI berisi cadangan file yang sedang diinstal atau diperbarui selama instalasi program. Setelah berhasil diselesaikan, folder dan file ini akan dihapus secara otomatis. Namun, terkadang program penginstal gagal menghapus file-file ini.

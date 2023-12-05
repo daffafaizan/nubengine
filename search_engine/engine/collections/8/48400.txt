@@ -1,0 +1,1 @@
+Saat Anda memanggil fungsi di PowerShell, Anda bisa menyertakan nilai parameter dengan nama fungsi. Jika nilai tersebut tidak terkait dengan parameter bernama, nilai tersebut secara otomatis disimpan ke array $args.

@@ -1,0 +1,1 @@
+>> Mengatasi IIS 6 File Unggah/Unduh Batas Ukuran File. Sebelum Anda dapat mengedit file metabase.xml, Anda harus memberi tahu IIS untuk mengizinkan Anda mengedit file. Di IIS, klik kanan nama server dan pilih properti.

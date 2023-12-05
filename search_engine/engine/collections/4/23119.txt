@@ -1,0 +1,1 @@
+Metafile adalah file yang berisi informasi yang menjelaskan atau menentukan file lain. Microsoft menggunakan istilah ini untuk format Windows Metafile (WMF). File WMF berisi urutan panggilan fungsi antarmuka perangkat grafis (GDI) (perintah ke sistem operasi Windows) yang menghasilkan presentasi gambar grafis.

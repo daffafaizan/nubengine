@@ -1,0 +1,1 @@
+Eksekusi dapat dilakukan menggunakan alat otomatisasi secara langsung atau melalui alat Manajemen Tes yang akan memanggil alat otomatisasi. Contoh: Pusat kualitas adalah alat Manajemen Tes yang pada gilirannya akan memanggil QTP untuk eksekusi skrip otomatisasi.

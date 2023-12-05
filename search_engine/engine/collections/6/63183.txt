@@ -1,0 +1,1 @@
+Layanan Detak Jantung Hyper-V Layanan Detak Jantung hiper-V menyediakan metode untuk partisi induk untuk memverifikasi jika sistem operasi tamu yang berjalan di partisi anak menjadi tidak responsif. Partisi induk mengirimkan permintaan detak jantung reguler ke partisi anak dan mencatat peristiwa jika respons tidak diterima dalam batas waktu yang ditentukan.

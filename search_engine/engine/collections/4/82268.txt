@@ -1,0 +1,1 @@
+Bagaimana cara kerja VMware vCenter Server dan apa kelebihannya dibandingkan klien vsphere. vCenter Server pada dasarnya adalah alat manajemen yang memungkinkan Anda mengelola VM di beberapa host VMware sekaligus. Anda akan terhubung ke Server vCenter dengan klien vSphere dan alih-alih satu host, Anda akan melihat beberapa host sekaligus.

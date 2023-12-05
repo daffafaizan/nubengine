@@ -1,0 +1,1 @@
+Tinjauan singkat struktur memori Java : 1. Ukuran Heap Java. Tempat menyimpan objek yang dibuat oleh aplikasi Java Anda, di sinilah Garbage Collection berlangsung, memori yang digunakan oleh aplikasi Java Anda. Untuk proses Java yang berat, ukuran Heap yang tidak mencukupi akan menyebabkan java.lang.OutOfMemoryError: Java heap space yang populer.

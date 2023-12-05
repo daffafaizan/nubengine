@@ -1,0 +1,1 @@
+Menulis ekstensi C di Ruby lebih mudah daripada di Perl atau Python, dengan API yang sangat elegan untuk memanggil Ruby dari C. Ini termasuk panggilan untuk menyematkan Ruby dalam perangkat lunak, untuk digunakan sebagai bahasa skrip. Antarmuka SWIG juga tersedia. Ruby dapat memuat pustaka ekstensi secara dinamis jika OS mengizinkan.

@@ -1,0 +1,1 @@
+Dalam contoh, http adalah pengidentifikasi protokol dan //java.sun.com/ adalah nama sumber daya. Pengidentifikasi protokol menunjukkan nama protokol yang akan digunakan untuk mengambil sumber daya. Contoh menggunakan Hyper Text Transfer Protocol (HTTP), yang biasanya digunakan untuk menyajikan dokumen hypertext.

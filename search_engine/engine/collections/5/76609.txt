@@ -1,0 +1,1 @@
+Driver OPC UA Client berpasangan dengan antarmuka UA Server dari implementasi KEPServerEX untuk mentransfer data dengan aman dan andal. Solusi tunneling menggunakan arsitektur klien/server untuk tunneling data real-time yang aman dan andal melalui firewall dan di internet, WAN, atau LAN.

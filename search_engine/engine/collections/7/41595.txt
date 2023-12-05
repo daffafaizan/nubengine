@@ -1,0 +1,1 @@
+Menghasilkan Perangkap. Agar Agen SNMP menghasilkan Perangkap/Pemberitahuan, masing-masing MIB harus memiliki definisi untuk Perangkap/Pemberitahuan tersebut. Untuk mendefinisikan Konstruksi Tipe Perangkap (dalam Modul SNMPv1 MIB) atau Konstruksi Tipe Pemberitahuan (dalam Modul SNMPv2c) menggunakan Editor MIB, silakan merujuk ke bagian Mendefinisikan MIB.

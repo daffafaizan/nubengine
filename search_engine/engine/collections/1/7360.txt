@@ -1,0 +1,1 @@
+Windows versi 32 bit umumnya hanya akan melihat MBR pelindung pada disk GPT. Atau tentu saja, yang sedang berkata, saya telah melihat produsen drive eksternal menggabungkan pemuat GPT dengan drive mereka yang akan memungkinkan Windows XP x86 I/O pada drive yang lebih besar dari 2TB, ini mungkin terjadi dalam situasi Anda. Pemuat GPT yang saya temui disebut pemuat Paragon GPT.

@@ -1,0 +1,1 @@
+NPIV adalah fasilitas Fibre Channel yang memungkinkan satu adaptor Fibre Channel memiliki banyak N Port ID. Setiap N Port memiliki identitas unik (port WWN dan node WWN) pada SAN dan dapat digunakan untuk zoning dan LUN masking.

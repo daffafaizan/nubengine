@@ -1,0 +1,1 @@
+Namun, mereka dapat melihat dan menghapus partisi gambar pemulihan dengan menggunakan alat manajemen disk. Jika Anda ingin mencegah pengguna akhir menghapus partisi dengan menggunakan alat manajemen disk, Anda dapat menambahkan perintah DiskPart berikut ke skrip saat Anda membuat partisi.

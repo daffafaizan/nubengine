@@ -1,0 +1,1 @@
+Cara Menggunakan nslookup di Windows. Untuk menggunakan nslookup versi Windows, buka Command Prompt dan ketik nslookup untuk mendapatkan hasil yang mirip dengan ini tetapi dengan entri untuk server DNS dan alamat IP yang digunakan komputer Anda: C:\> nslookup Server: resolver1.opendns.com Alamat: 208.67.222.222 >

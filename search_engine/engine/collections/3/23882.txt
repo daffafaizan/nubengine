@@ -1,0 +1,1 @@
+Untuk membuat model Caffe, Anda perlu mendefinisikan arsitektur model dalam file definisi buffer protokol (prototxt). Lapisan caffe dan parameternya ditentukan dalam definisi buffer protokol untuk proyek di caffe.proto.

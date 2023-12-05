@@ -1,0 +1,1 @@
+Ikuti persyaratan untuk mengganti nama tabel di Oracle. 1 Salah satu prasyarat utama adalah tabel harus dalam skema Anda sendiri. 2 Ada juga jenis sinonim tertentu yang tidak dapat Anda ganti namanya di Oracle. 3 Ini termasuk sinonim publik serta tipe dengan tabel dependen.

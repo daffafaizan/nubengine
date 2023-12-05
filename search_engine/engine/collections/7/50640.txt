@@ -1,0 +1,1 @@
+Daftar tertaut adalah salah satu struktur data utama Lisp, dan kode sumber Lisp terbuat dari daftar. Dengan demikian, program Lisp dapat memanipulasi kode sumber sebagai struktur data, sehingga memunculkan sistem makro yang memungkinkan pemrogram untuk membuat sintaks baru atau bahasa khusus domain baru yang tertanam di Lisp.
