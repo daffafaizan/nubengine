@@ -11,7 +11,8 @@ from scipy.spatial.distance import cosine
 
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
-
+from mpstemmer import MPStemmer
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 class Letor:
     _instance = None
@@ -31,41 +32,74 @@ class Letor:
         self.queries = {}
         self.dataset = []
 
-        self.stemmer = PorterStemmer()
-        self.stop_words = set(stopwords.words('english'))
+        self.stemmer_eng = PorterStemmer()
+        self.stop_words_eng = set(stopwords.words('english'))
+
+        self.stemmer_indo = MPStemmer()
+        self.stop_word_remover_indo = StopWordRemoverFactory().create_stop_word_remover()
 
         self.load_train_data()
         self.create_dataset()
         self.build_model()
         self.train()
 
-    def preprocess(self, line: str) -> list[str]:
-        stemmed_line = " ".join([self.stemmer.stem(word) for word in re.findall(r'\w+', line) if word.lower() not in self.stop_words])
+    def preprocess_eng(self, line: str) -> list[str]:
+        stemmed_line = " ".join([self.stemmer_eng.stem(word) for word in re.findall(r'\w+', line) if word.lower() not in self.stop_words_eng])
 
         return re.findall(r'\w+', stemmed_line)
+    
+    def preprocess_indo(self, line: str) -> list[str]:
+        stemmed_line: str = self.stemmer.stem_kalimat(line)
+        preprocessed_line: str = self.stop_word_remover.remove(stemmed_line)
+
+        return re.findall(r'\w+', preprocessed_line)
 
     def load_train_data(self):
-        docs_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.docs")
-        query_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.vid-desc.queries")
+        # English
+        docs_file_eng = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.docs")
+        query_file_eng = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.vid-desc.queries")
+        # Indo
+        docs_file_indo = os.path.join(os.getcwd(), "engine/experiments/letor/train_docs.txt")
+        query_file_indo = os.path.join(os.getcwd(), "engine/experiments/letor/train_queries.txt")
 
-        with open(docs_file) as file:
+        with open(docs_file_eng) as file:
             for line in file:
                 doc_id, content = line.split("\t") #nfcorpus
+                self.documents[doc_id] = self.preprocess_eng(content)
+        with open(docs_file_indo) as file:
+            for line in file:
+                doc_id, content = line.strip().split(maxsplit=1)
                 self.documents[doc_id] = self.preprocess(content)
-        with open(query_file, encoding="utf-8") as file:
+
+        with open(query_file_eng, encoding="utf-8") as file:
             for line in file:
                 q_id, content = line.split("\t") #nfcorpus
+                self.queries[q_id] = self.preprocess_eng(content)
+        with open(query_file_indo, encoding="utf-8") as file:
+            for line in file:
+                q_id, content = line.strip().split(maxsplit=1)
                 self.queries[q_id] = self.preprocess(content)
 
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
-        qrels_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.3-2-1.qrel")
+        # English
+        qrels_file_eng = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.3-2-1.qrel")
+        # Indo
+        qrels_file_indo = os.path.join(os.getcwd(), "engine/experiments/letor/train_qrels.txt")
 
         q_docs_rel = {}
 
-        with open(qrels_file) as file:
+        with open(qrels_file_eng) as file:
             for line in file:
                 q_id, _, doc_id, rel = line.split("\t") #nfcorpus
+                if (q_id in self.queries) and (doc_id in self.documents):
+                    if q_id not in q_docs_rel:
+                        q_docs_rel[q_id] = []
+                    q_docs_rel[q_id].append((doc_id, int(rel)))
+
+        with open(qrels_file_indo) as file:
+            for line in file:
+                q_id, doc_id, rel = line.split()
                 if (q_id in self.queries) and (doc_id in self.documents):
                     if q_id not in q_docs_rel:
                         q_docs_rel[q_id] = []
@@ -147,7 +181,7 @@ class Letor:
 
         for doc in docs:
             with open(doc, "r", encoding="utf-8") as file:
-                X_unseen.append(self.features(self.preprocess(query), self.preprocess(file.readline())))
+                X_unseen.append(self.features(self.preprocess_eng(query), self.preprocess_eng(file.readline())))
 
         X_unseen = np.array(X_unseen)
         self.scores = self.ranker.predict(X_unseen)
