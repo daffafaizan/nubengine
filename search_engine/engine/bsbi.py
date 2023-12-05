@@ -13,6 +13,9 @@ from tqdm import tqdm
 from nltk.stem.porter import *
 from nltk.corpus import stopwords
 
+from mpstemmer import MPStemmer
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+
 
 
 class BSBIIndex:
@@ -95,10 +98,15 @@ class BSBIIndex:
         termIDs dan docIDs. Dua variable ini harus 'persist' untuk semua pemanggilan
         parsing_block(...).
         """
-        stemmer = PorterStemmer()
-        
-        stop_words_list = stopwords.words('english')
-        stop_words_set = set(stop_words_list)
+        stemmer_eng = PorterStemmer()
+        stop_words_list_eng = stopwords.words('english')
+        stop_words_set_eng = set(stop_words_list_eng)
+
+        stemmer_indo = MPStemmer()
+        stop_factory = StopWordRemoverFactory()
+        stop_words_list_indo = stop_factory.get_stop_words()
+        stop_words_set_indo = set(stop_words_list_indo)
+
         tokenizer_pattern = r'\w+'
 
         term_doc_pair = []
@@ -113,11 +121,11 @@ class BSBIIndex:
                     tokens = re.findall(tokenizer_pattern, file_content.lower())
 
                     for token in tokens:
-                        stemmed_token = stemmer.stem(token)
+                        stemmed_token_eng = stemmer_eng.stem(token)
+                        stemmed_token_indo = stemmer_indo.stem(token)
 
-                        if stemmed_token not in stop_words_set:
-
-                            term_id = self.term_id_map[stemmed_token]
+                        if stemmed_token_eng not in stop_words_set_eng and stemmed_token_indo not in stop_words_set_indo:
+                            term_id = self.term_id_map[stemmed_token_eng]
                             doc_id = self.doc_id_map[file_path]
                             term_doc_pair.append((term_id, doc_id))
 
@@ -229,11 +237,15 @@ class BSBIIndex:
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
 
         """
+        stemmer_eng = PorterStemmer()
+        stop_words_list_eng = stopwords.words('english')
+        stop_words_set_eng = set(stop_words_list_eng)
 
-        stemmer = PorterStemmer()
-        
-        stop_words_list = stopwords.words('english')
-        stop_words_set = set(stop_words_list)
+        stemmer_indo = MPStemmer()
+        stop_factory = StopWordRemoverFactory()
+        stop_words_list_indo = stop_factory.get_stop_words()
+        stop_words_set_indo = set(stop_words_list_indo)
+
         tokenizer_pattern = r'\w+'
 
         preprocessed_tokens = []
@@ -242,10 +254,11 @@ class BSBIIndex:
         tokens = re.findall(tokenizer_pattern, query.lower())
 
         for token in tokens:
-            stemmed_token = stemmer.stem(token)
+            stemmed_token_eng = stemmer_eng.stem(token)
+            stemmed_token_indo = stemmer_indo.stem(token)
 
-            if stemmed_token not in stop_words_set:
-                preprocessed_tokens.append(stemmed_token)
+            if stemmed_token_eng not in stop_words_set_eng and stemmed_token_indo not in stop_words_set_indo:
+                preprocessed_tokens.append(stemmed_token_eng)
 
         with InvertedIndexReader(self.index_name, self.postings_encoding, self.output_dir) as reader:
             N = len(reader.doc_length)
@@ -290,10 +303,15 @@ class BSBIIndex:
             Daftar Top-K dokumen terurut mengecil BERDASARKAN SKOR.
 
         """
-        stemmer = PorterStemmer()
-        
-        stop_words_list = stopwords.words('english')
-        stop_words_set = set(stop_words_list)
+        stemmer_eng = PorterStemmer()
+        stop_words_list_eng = stopwords.words('english')
+        stop_words_set_eng = set(stop_words_list_eng)
+
+        stemmer_indo = MPStemmer()
+        stop_factory = StopWordRemoverFactory()
+        stop_words_list_indo = stop_factory.get_stop_words()
+        stop_words_set_indo = set(stop_words_list_indo)
+
         tokenizer_pattern = r'\w+'
 
         preprocessed_tokens = []
@@ -302,10 +320,11 @@ class BSBIIndex:
         tokens = re.findall(tokenizer_pattern, query.lower())
 
         for token in tokens:
-            stemmed_token = stemmer.stem(token)
+            stemmed_token_eng = stemmer_eng.stem(token)
+            stemmed_token_indo = stemmer_indo.stem(token)
 
-            if stemmed_token not in stop_words_set:
-                preprocessed_tokens.append(stemmed_token)
+            if stemmed_token_eng not in stop_words_set_eng and stemmed_token_indo not in stop_words_set_indo:
+                preprocessed_tokens.append(stemmed_token_eng)
 
         with InvertedIndexReader(self.index_name, self.postings_encoding, self.output_dir) as reader:
             N = len(reader.doc_length)
