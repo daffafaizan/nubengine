@@ -21,11 +21,11 @@ class Letor:
         self.train()
 
     def load_data(self):
-        with open("nfcorpus/train.docs") as file:
+        with open("engine/nfcorpus/train.docs") as file:
             for line in file:
                 doc_id, content = line.split("\t")
                 self.documents[doc_id] = content.split()
-        with open("nfcorpus/train.vid-desc.queries", encoding="utf-8") as file:
+        with open("engine/nfcorpus/train.vid-desc.queries", encoding="utf-8") as file:
             for line in file:
                 q_id, content = line.split("\t")
                 self.queries[q_id] = content.split()
@@ -33,7 +33,7 @@ class Letor:
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
         q_docs_rel = {}
-        with open("nfcorpus/train.3-2-1.qrel") as file:
+        with open("engine/nfcorpus/train.3-2-1.qrel") as file:
             for line in file:
                 q_id, _, doc_id, rel = line.split("\t")
                 if (q_id in self.queries) and (doc_id in self.documents):
