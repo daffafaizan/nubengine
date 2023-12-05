@@ -5,12 +5,12 @@ import random
 import lightgbm as lgb
 import numpy as np
 
-from mpstemmer import MPStemmer
-from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
-from gensim.models import TfidfModel
 from gensim.models import LsiModel
 from gensim.corpora import Dictionary
 from scipy.spatial.distance import cosine
+
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
 
 
 class Letor:
@@ -31,8 +31,8 @@ class Letor:
         self.queries = {}
         self.dataset = []
 
-        self.stemmer = MPStemmer()
-        self.stop_word_remover = StopWordRemoverFactory().create_stop_word_remover()
+        self.stemmer = PorterStemmer()
+        self.stop_words = set(stopwords.words('english'))
 
         self.load_train_data()
         self.create_dataset()
@@ -40,10 +40,9 @@ class Letor:
         self.train()
 
     def preprocess(self, line: str) -> list[str]:
-        stemmed_line: str = self.stemmer.stem_kalimat(line)
-        preprocessed_line: str = self.stop_word_remover.remove(stemmed_line)
+        stemmed_line = " ".join([self.stemmer.stem(word) for word in re.findall(r'\w+', line) if word.lower() not in self.stop_words])
 
-        return re.findall(r'\w+', preprocessed_line)
+        return re.findall(r'\w+', stemmed_line)
 
     def load_train_data(self):
         docs_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.docs")
