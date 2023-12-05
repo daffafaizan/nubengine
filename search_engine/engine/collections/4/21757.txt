@@ -1,1 +1,0 @@
-Awalnya, deklarasi Doctype digunakan dalam HTML ketika didefinisikan sebagai bahasa berdasarkan SGML, dan kemudian, pada XML. Karena kehadiran deklarasi itu secara umum merupakan sinyal bahwa pembuat dokumen mengikuti praktik standar, deklarasi itu digunakan dalam HTML5 untuk membedakan antara mode parsing yang sesuai standar dan apa yang disebut mode parsing quirks.

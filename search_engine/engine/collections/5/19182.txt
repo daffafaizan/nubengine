@@ -1,1 +1,0 @@
-%%agelimit - Batas usia yang ingin Anda tetapkan. Setiap tanggapan yang diterima dengan batas usia di bawah usia ini (dalam tahun) akan didiskualifikasi. Misalnya, jika Anda tidak ingin siapa pun yang berusia di bawah 30 tahun untuk mengisi survei Anda, Anda dapat menggunakan: %%agelimit = 30.

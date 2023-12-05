@@ -1,1 +1,0 @@
-Cukup sederhana untuk menghasilkan file ELF dengan DJGPP. Yang Anda perlukan adalah instalasi DJGPP yang baik, Anda memerlukan sed, bison, flex, bash, dll. Anda juga perlu melakukannya dari dosbox di dalam Windows95/98 dll sehingga Anda dapat menggunakan nama file yang panjang.

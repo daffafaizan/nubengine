@@ -1,1 +1,0 @@
-DTD dikaitkan dengan dokumen XML atau SGML melalui deklarasi tipe dokumen (DOCTYPE). DOCTYPE muncul di fragmen sintaksis doctypedecl di dekat awal dokumen XML. Deklarasi menetapkan bahwa dokumen adalah turunan dari tipe yang ditentukan oleh DTD yang direferensikan.

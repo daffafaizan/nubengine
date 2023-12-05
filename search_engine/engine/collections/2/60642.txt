@@ -1,1 +1,0 @@
-Font TTF dengan Java AWT Graphics. Coba dengan: font = font.deriveFont(24F); Dan: fontSmall = fontSmall.deriveFont (16F);

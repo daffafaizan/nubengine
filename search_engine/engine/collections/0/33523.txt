@@ -1,1 +1,0 @@
-Alamat lokal soket sudah digunakan dan soket tidak ditandai untuk mengizinkan penggunaan kembali alamat dengan SO_REUSEADDR. Kesalahan ini biasanya terjadi saat menjalankan pengikatan, tetapi dapat ditunda hingga fungsi sambungkan jika pengikatan ke alamat wildcard (INADDR_ANY atau in6addr_any) untuk alamat IP lokal.

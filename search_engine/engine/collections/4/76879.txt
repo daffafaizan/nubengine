@@ -1,1 +1,0 @@
-pengganti yang tidak digunakan lagi ========== ============== - arp ip n (ip tetangga) - ifconfig ip a (ip addr), ip link, ip -s (ip -stats) - iptunnel ip tunnel - iwconfig iw - nameif ip link, ifrename - netstat ss, ip route (untuk netstat-r), ip -s link (untuk netstat -i), ip maddr (untuk netstat- g) - rute ip r (rute ip)

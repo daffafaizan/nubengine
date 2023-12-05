@@ -1,1 +1,0 @@
-Fungsi STDEV. Memperkirakan simpangan baku berdasarkan sampel nilai atau entri database yang dipilih. Standar deviasi adalah ukuran seberapa luas nilai tersebar dari nilai rata-rata (mean). Sintaksis. STDEV.S(angka1,[angka2],...) Nomor1.

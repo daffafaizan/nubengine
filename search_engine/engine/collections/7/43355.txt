@@ -1,1 +1,0 @@
-Dua di antaranya digunakan untuk menghubungkan ke IN-Card Reader dan OUT-Card Reader. Port lainnya adalah untuk menghubungkan ke Master Controller (atau HUB). DCU memiliki satu input tombol pelepas untuk tombol keluar. Gunakan sakelar manual kontak kering dan sambungkan dua terminal ke pin. DCU memiliki output relai untuk kunci Pintu.

@@ -1,1 +1,0 @@
-Berdasarkan contoh-contoh yang telah kita lihat sejauh ini, tampaknya ada sebuah pola dalam pembuatan grafik fungsi nilai absolut. Bila Anda memiliki fungsi dalam bentuk y = |x + h| grafik akan bergerak h unit ke kiri. Bila Anda memiliki fungsi dalam bentuk y = |x - h| grafik akan bergerak h unit ke kanan.

@@ -1,1 +1,0 @@
-Definisi VTAM. Setiap sistem jarak jauh harus didefinisikan ke VTAM dalam tabel Network Addressable Units, (NAUs), menggunakan definisi unit logis (LU). Jika parameter LOGAPPL ditentukan pada definisi LU yang menamai sistem CICS, CICS akan mencoba membuat sesi ke LU tersebut setiap kali menjadi aktif.

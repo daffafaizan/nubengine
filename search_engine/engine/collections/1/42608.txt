@@ -1,1 +1,0 @@
-Jumlah warna berbeda yang dapat diwakili oleh piksel tergantung pada jumlah bit per piksel (bpp). 1 Gambar 1 bpp menggunakan 1-bit untuk setiap piksel, sehingga setiap piksel dapat aktif atau tidak aktif. Setiap bit tambahan menggandakan jumlah warna yang tersedia, sehingga gambar 2 bpp dapat memiliki 4 warna, dan gambar 3 bpp dapat memiliki 8 warna:

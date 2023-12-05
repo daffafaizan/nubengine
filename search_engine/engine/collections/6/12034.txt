@@ -1,1 +1,0 @@
-Setiap alamat perangkat keras antarmuka adalah nilai yang diberi label alamat Ethernet, alamat MAC, atau alamat Perangkat Keras (MAC). Ini berlaku bahkan jika perangkat sebenarnya adalah antarmuka nirkabel. (Ini bukan item berlabel RouterHardwareAddress atau item berlabel ARResolvedHardwareAddress.

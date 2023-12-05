@@ -1,1 +1,0 @@
-Deklarasi doctype harus menjadi hal pertama dalam dokumen HTML, sebelum tag <html>. Deklarasi doctype bukan tag HTML; ini adalah instruksi ke browser web tentang versi bahasa markup yang digunakan untuk menulis halaman. Deklarasi doctype mengacu pada Definisi Jenis Dokumen (DTD).

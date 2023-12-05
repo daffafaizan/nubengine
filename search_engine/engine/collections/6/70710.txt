@@ -1,1 +1,0 @@
-sudo /bin/bash Ini berarti Anda memanggil sudo dengan perintah /bin/bash. /bin/bash dimulai sebagai shell non-login sehingga semua file titik tidak dieksekusi, tetapi bash sendiri membaca .bashrc dari pengguna yang memanggil. Lingkungan Anda tetap sama. Rumah Anda tidak akan menjadi rumah root.

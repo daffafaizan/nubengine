@@ -1,1 +1,0 @@
-PAM di bawah Red Hat menyimpan file konfigurasinya di direktori /etc/pam.d, yang akan berisi file teks untuk setiap aplikasi yang menggunakan PAM untuk otentikasi. Misalnya, file /etc/pam.d/gdm berisi informasi konfigurasi PAM untuk Gnome Desktop Manager (GDM), lingkungan windowing default untuk Red Hat.

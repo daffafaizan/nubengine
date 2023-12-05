@@ -1,1 +1,0 @@
-Artikel ini akan menjelaskan cara mengubah tampilan kontrol datagrid silverlight default. Dalam contoh ini saya telah membuat proyek aplikasi silverlight baru dan menambahkan kontrol datagrid dalam file xaml. Saya juga telah membuat kelas kecil bernama Person untuk mengisi data uji. Orang kelas publik. {.

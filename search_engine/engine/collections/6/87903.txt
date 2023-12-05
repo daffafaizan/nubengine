@@ -1,1 +1,0 @@
-Mesin Database menggunakan kunci maksud untuk melindungi penempatan kunci bersama (S) atau kunci eksklusif (X) pada sumber daya yang lebih rendah dalam hierarki kunci. Kunci maksud diberi nama kunci maksud karena diperoleh sebelum kunci di tingkat yang lebih rendah, dan oleh karena itu memberi sinyal maksud untuk menempatkan kunci di tingkat yang lebih rendah.

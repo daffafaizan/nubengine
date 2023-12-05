@@ -1,1 +1,0 @@
-Jika pembayar tidak terdaftar di clearinghouse yang sama dengan provider, klaim dikirim ke clearinghouse tempat pembayar terdaftar. Lihatlah beberapa contoh. Contoh 1: Penyedia Smith menggunakan perangkat lunak penagihan ABC. Penyedia Smith kemudian mendaftar dengan clearinghouse XYZ. Perangkat lunak ABC mengirimkan klaim yang dimasukkan ke dalam clearinghouse XYZ.

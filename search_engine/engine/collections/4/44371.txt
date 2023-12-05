@@ -1,1 +1,0 @@
-Kunci dalam skenario ini adalah variabel. Mereka dapat menjadi salah satu dari dua jenis, variabel lingkungan atau variabel shell. Variabel lingkungan adalah variabel yang didefinisikan untuk shell saat ini dan diwarisi oleh shell atau proses anak.

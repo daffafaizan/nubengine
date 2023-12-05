@@ -1,1 +1,0 @@
-Namun, jika prosesor tidak menemukan lokasi memori di cache, cache miss telah terjadi. Dalam kasus cache hit, prosesor segera membaca atau menulis data di baris cache. Untuk cache miss, cache mengalokasikan entri baru dan menyalin data dari memori utama, kemudian permintaan dipenuhi dari isi cache.

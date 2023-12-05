@@ -1,1 +1,0 @@
-Siapkan Database Oracle di Host Linux. Jika database Oracle berada di host Linux dan Anda tidak dapat terhubung ke host dari komputer Windows, Anda. dapat menjalankan skrip shell pada host Linux untuk mempersiapkan database Oracle untuk menyimpan Manajer Operasi vCenter. data.

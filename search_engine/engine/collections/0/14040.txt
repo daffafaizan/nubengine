@@ -1,1 +1,0 @@
-Jika nilai variabel yang ditentukan meluas ke beberapa baris (menggunakan karakter kelanjutan perintah SQL*Plus), SQL*Plus mengganti setiap karakter kelanjutan dan carriage return dengan spasi. Misalnya, SQL*Plus menafsirkan.

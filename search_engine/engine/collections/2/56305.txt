@@ -1,1 +1,0 @@
-C, UNIX dan Perpustakaan Standar. Ada hubungan yang sangat erat antara C dan sebagian besar sistem operasi yang menjalankan program C kami. Hampir seluruh sistem operasi UNIX ditulis dalam C. Bab ini akan melihat bagaimana C dan antarmuka UNIX bersama-sama. Kita harus menggunakan UNIX untuk menjaga ruang file kita, mengedit, mengkompilasi dan menjalankan program dll.

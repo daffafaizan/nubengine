@@ -1,1 +1,0 @@
-Jika Anda menggunakan label kustom, area bagan tidak menampilkan label sumbu dari titik data. Saat menggunakan objek CustomLabel, Anda harus menyetel properti ToPosition dan FromPosition dari setiap objek CustomLabel, dan properti ini harus menentukan lebar area teks label.
