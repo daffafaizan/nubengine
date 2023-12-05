@@ -10,10 +10,9 @@ from util import IdMap, merge_and_sort_posts_and_tfs
 from compression import VBEPostings
 from tqdm import tqdm
 
-from mpstemmer import MPStemmer
-from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+from nltk.stem.porter import *
+from nltk.corpus import stopwords
 
-from operator import itemgetter
 
 
 class BSBIIndex:
@@ -58,18 +57,6 @@ class BSBIIndex:
         with open(os.path.join(self.output_dir, 'docs.dict'), 'rb') as f:
             self.doc_id_map = pickle.load(f)
 
-    def pre_processing_text(self, content):
-        """
-        Melakukan preprocessing pada text, yakni stemming dan removing stopwords
-        """
-        # https://github.com/ariaghora/mpstemmer/tree/master/mpstemmer
-
-        stemmer = MPStemmer()
-        stemmed = stemmer.stem(content)
-        remover = StopWordRemoverFactory().create_stop_word_remover()
-
-        return remover.remove(stemmed)
-
     def parsing_block(self, block_path):
         """
         Lakukan parsing terhadap text file sehingga menjadi sequence of
@@ -108,12 +95,11 @@ class BSBIIndex:
         termIDs dan docIDs. Dua variable ini harus 'persist' untuk semua pemanggilan
         parsing_block(...).
         """
+        stemmer = PorterStemmer()
         
-        stop_factory = StopWordRemoverFactory()
-        stop_words_list = stop_factory.get_stop_words()
+        stop_words_list = stopwords.words('english')
         stop_words_set = set(stop_words_list)
         tokenizer_pattern = r'\w+'
-        stemmer = MPStemmer()
 
         term_doc_pair = []
         block_dir = os.path.join(self.data_dir, block_path)
@@ -243,12 +229,13 @@ class BSBIIndex:
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
 
         """
+
+        stemmer = PorterStemmer()
         
-        stop_factory = StopWordRemoverFactory()
-        stop_words_list = stop_factory.get_stop_words()
+        stop_words_list = stopwords.words('english')
         stop_words_set = set(stop_words_list)
         tokenizer_pattern = r'\w+'
-        stemmer = MPStemmer()
+
         preprocessed_tokens = []
         doc_score = {}
 
@@ -303,12 +290,12 @@ class BSBIIndex:
             Daftar Top-K dokumen terurut mengecil BERDASARKAN SKOR.
 
         """
+        stemmer = PorterStemmer()
         
-        stop_factory = StopWordRemoverFactory()
-        stop_words_list = stop_factory.get_stop_words()
+        stop_words_list = stopwords.words('english')
         stop_words_set = set(stop_words_list)
         tokenizer_pattern = r'\w+'
-        stemmer = MPStemmer()
+
         preprocessed_tokens = []
         doc_score = {}
 

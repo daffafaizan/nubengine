@@ -48,8 +48,6 @@ class Letor:
     def load_train_data(self):
         docs_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.docs")
         query_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.vid-desc.queries")
-        # docs_file = os.path.join(os.getcwd(), "engine/experiments/letor/train_docs.txt")
-        # query_file = os.path.join(os.getcwd(), "engine/experiments/letor/train_queries.txt")
 
         with open(docs_file) as file:
             for line in file:
@@ -63,7 +61,6 @@ class Letor:
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
         qrels_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.3-2-1.qrel")
-        # qrels_file = os.path.join(os.getcwd(), "engine/experiments/letor/train_qrels.txt")
 
         q_docs_rel = {}
 
