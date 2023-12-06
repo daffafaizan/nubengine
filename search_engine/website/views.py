@@ -12,7 +12,7 @@ def show_home(request):
                             postings_encoding=VBEPostings,
                             output_dir='../engine/index')
     BSBI_instance.load()
-    # letor = Letor()
+    letor = Letor()
 
     if request.method == 'POST':
         queries_str = request.POST.get('queries')
@@ -23,8 +23,8 @@ def show_home(request):
 
             for query in queries:
                 query_results = []
-                tf_idf_result = BSBI_instance.retrieve_tfidf(query, k=10)
-                # tf_idf_result = letor.rerank(query, [t[1] for t in tf_idf_result])
+                tf_idf_result = BSBI_instance.retrieve_tfidf(query, k=20)
+                tf_idf_result = letor.rerank(query, [t[1] for t in tf_idf_result])
                 for (score, doc) in tf_idf_result:
                     did = (re.split(r'[\\/\.]', doc)[-2])
                     bid = (re.split(r'[\\/\.]', doc)[-3])
@@ -33,19 +33,45 @@ def show_home(request):
 
                     with open(summary_path, 'r', encoding='utf-8') as file:
                         content = file.read()
-
+                        content = ''.join(content)
+                        content = content.lower()
                         summary = ""
                         summary_id = content.find(queries_str)
 
                         if summary_id == -1:
-                            i = 0
-                            while content.find(query.split()[i]) == -1:
-                                i += 1
+                            idx = -1
+                            for i in range(len(query.split())):
+                                idx = content.find(query.split()[i].lower())
+                                if idx != -1:
+                                    break
                             
-                            summary = content[content.find(query.split()[i]) - 20:content.find(query.split()[i]) + len(query) + 20]
+                            if idx == -1:
+                                summary = content[ : 60]
+                                last = summary.rfind(" ")
+                                summary = summary[:last]
+                                
+                            else:
+                                i = idx
+                                if i- 60 < 0:
+                                    summary = content[: i + len(query) + 60]
+                                    last = summary.rfind(" ")
+                                    summary = summary[:last]
+                                else:
+                                    summary = content[i-60: i + len(query) + 60]
+                                    begin = summary.find(" ")
+                                    last = summary.rfind(" ")
+                                    summary = summary[begin: last]
 
                         else:
-                            summary = content[summary_id - 20:summary_id + len(queries) + 20]
+                            if summary_id - 60 < 0:
+                                summary = content[ :summary_id + len(queries) + 60]
+                                last = summary.rfind(" ")
+                                summary = summary[:last]
+                            else:
+                                summary = content[summary_id - 60:summary_id + len(queries) + 60]
+                                begin = summary.find(" ")
+                                last = summary.rfind(" ")
+                                summary = summary[begin: last]
 
                     title_path = os.path.abspath('./engine/generation/title/' + f'{did}.txt')
 
