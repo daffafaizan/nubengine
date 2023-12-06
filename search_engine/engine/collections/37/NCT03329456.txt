@@ -1,8 +1,0 @@
-
-    
-      The MEV for a successful block in 50% of the participants will be determined by using the
-      staircase up-and-down method introduced by Dixon and Massey. Logistic regression and probit
-      transformation will be applied to estimate the MEV for a successful block in 95% of the
-      participants.
-    
-  

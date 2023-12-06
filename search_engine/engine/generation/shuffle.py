@@ -19,7 +19,7 @@ for i in range(0, len(all_files), files_per_block):
     block_files = all_files[i: i+files_per_block]
     
     # create new block folder
-    block_folder = os.path.join(output_folder, f"{i//files_per_block+4}")
+    block_folder = os.path.join(output_folder, f"{i//files_per_block+1}")
     os.makedirs(block_folder, exist_ok=True)
     
     # move file to new block folder

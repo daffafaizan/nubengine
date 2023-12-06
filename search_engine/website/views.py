@@ -15,79 +15,77 @@ def show_home(request):
     letor = Letor()
 
     if request.method == 'POST':
-        queries_str = request.POST.get('queries')
+        queries = request.POST.get('queries')
 
-        if queries_str:
-            queries = [query.strip() for query in queries_str.split('\n') if query.strip()]
+        if queries:
             results = []
 
-            for query in queries:
-                query_results = []
-                tf_idf_result = BSBI_instance.retrieve_tfidf(query, k=20)
-                tf_idf_result = letor.rerank(query, [t[1] for t in tf_idf_result])
-                for (score, doc) in tf_idf_result:
-                    did = (re.split(r'[\\/\.]', doc)[-2])
-                    bid = (re.split(r'[\\/\.]', doc)[-3])
+            query_results = []
+            tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=100)
+            tf_idf_result = letor.rerank(queries, [t[1] for t in tf_idf_result])
+            for (score, doc) in tf_idf_result:
+                did = (re.split(r'[\\/\.]', doc)[-2])
+                bid = (re.split(r'[\\/\.]', doc)[-3])
 
-                    summary_path = os.path.abspath('./engine/collections/' + f'{bid}/{did}.txt')
+                summary_path = os.path.abspath('./engine/collections/' + f'{bid}/{did}.txt')
 
-                    with open(summary_path, 'r', encoding='utf-8') as file:
-                        content = file.read()
-                        content = ''.join(content)
-                        content = content.lower()
-                        summary = ""
-                        summary_id = content.find(queries_str)
+                with open(summary_path, 'r', encoding='utf-8') as file:
+                    content = file.read()
+                    content = ''.join(content)
+                    content = content.lower()
+                    summary = ""
+                    summary_id = content.find(queries)
 
-                        if summary_id == -1:
-                            idx = -1
-                            for i in range(len(query.split())):
-                                idx = content.find(query.split()[i].lower())
-                                if idx != -1:
-                                    break
+                    if summary_id == -1:
+                        idx = -1
+                        for i in range(len(queries.split())):
+                            idx = content.find(queries.split()[i].lower())
+                            if idx != -1:
+                                break
+                        
+                        if idx == -1:
+                            summary = content[ : 60]
+                            last = summary.rfind(" ")
+                            summary = summary[:last]
                             
-                            if idx == -1:
-                                summary = content[ : 60]
-                                last = summary.rfind(" ")
-                                summary = summary[:last]
-                                
-                            else:
-                                i = idx
-                                if i- 60 < 0:
-                                    summary = content[: i + len(query) + 60]
-                                    last = summary.rfind(" ")
-                                    summary = summary[:last]
-                                else:
-                                    summary = content[i-60: i + len(query) + 60]
-                                    begin = summary.find(" ")
-                                    last = summary.rfind(" ")
-                                    summary = summary[begin: last]
-
                         else:
-                            if summary_id - 60 < 0:
-                                summary = content[ :summary_id + len(queries) + 60]
+                            i = idx
+                            if i- 60 < 0:
+                                summary = content[: i + len(queries) + 60]
                                 last = summary.rfind(" ")
                                 summary = summary[:last]
                             else:
-                                summary = content[summary_id - 60:summary_id + len(queries) + 60]
+                                summary = content[ i-60 : i + len(queries) + 60]
                                 begin = summary.find(" ")
                                 last = summary.rfind(" ")
                                 summary = summary[begin: last]
 
-                    title_path = os.path.abspath('./engine/generation/title/' + f'{did}.txt')
+                    else:
+                        if summary_id - 60 < 0:
+                            summary = content[ :summary_id + len(queries) + 60]
+                            last = summary.rfind(" ")
+                            summary = summary[:last]
+                        else:
+                            summary = content[summary_id - 60:summary_id + len(queries) + 60]
+                            begin = summary.find(" ")
+                            last = summary.rfind(" ")
+                            summary = summary[begin: last]
 
-                    with open(title_path, 'r', encoding='utf-8') as file:
-                        title = file.read()
+                title_path = os.path.abspath('./engine/generation/title/' + f'{did}.txt')
 
-                    query_results.append({'doc': did, 'block': bid, 'score': score, 'summary': summary, 'title': title})
+                with open(title_path, 'r', encoding='utf-8') as file:
+                    title = file.read()
 
-                results.append({'query': query, 'results': query_results,})
+                query_results.append({'doc': did, 'block': bid, 'score': score, 'summary': summary, 'title': title})
 
-            context['queries'] = queries
-            context['query_results'] = results
+            results.append({'query': queries, 'results': query_results,})
+
+        context['queries'] = queries
+        context['query_results'] = results
 
 
 
-            return render(request, 'home.html', context)
+        return render(request, 'home.html', context)
 
     return render(request, 'home.html', context)
 

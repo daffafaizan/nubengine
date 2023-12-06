@@ -1,9 +1,0 @@
-
-    
-      Develop adverse event prediction and plaque phenotype classification models using plaque
-      morphology and composition assessment of CTA which has been validated by histology, applied
-      to representative cohort of patients. Generalizability of models is enhanced by using
-      validated rather than only raw image inputs. Demographic, clinical, and outcome data is
-      collected for enrolled patients as well as information on events and interventions.
-    
-  

@@ -1,9 +1,0 @@
-
-    
-      This HSI-camera provides hyperspectral images with a high spectral resolution (5 nm) in the
-      visible and near infrared range (500-1000 nm). A RGB image and 4 false color images that
-      represent physiologic parameters are intraoperatively provided by an analysis software. But
-      after the procedure all spectral datasets could be investigated. To analyse and differentiate
-      the different tissues, a catalog database is needed of all tissues including Tumors.
-    
-  

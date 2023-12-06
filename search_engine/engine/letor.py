@@ -33,7 +33,7 @@ class Letor:
         self.dataset = []
 
         self.clinical_dataset = ir_datasets.load("clinicaltrials/2021/trec-ct-2021")
-        
+
         self.stemmer = PorterStemmer()
         self.stop_words = set(stopwords.words('english'))
 
@@ -49,18 +49,6 @@ class Letor:
 
     def load_train_data(self):
         # English
-        docs_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.docs")
-        query_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.vid-desc.queries")
-
-        with open(docs_file) as file:
-            for line in file:
-                doc_id, content = line.split("\t") #nfcorpus
-                self.documents[doc_id] = self.preprocess(content)
-
-        with open(query_file, encoding="utf-8") as file:
-            for line in file:
-                q_id, content = line.split("\t") #nfcorpus
-                self.queries[q_id] = self.preprocess(content)
 
         for doc in self.clinical_dataset.docs_iter()[:1/5]:
             self.documents[doc.doc_id] = self.preprocess(doc.summary)
@@ -71,23 +59,13 @@ class Letor:
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
         # English
-        qrels_file = os.path.join(os.getcwd(), "engine/training/nfcorpus/train.3-2-1.qrel")
-
         q_docs_rel = {}
-
-        with open(qrels_file) as file:
-            for line in file:
-                q_id, _, doc_id, rel = line.split("\t") #nfcorpus
-                if (q_id in self.queries) and (doc_id in self.documents):
-                    if q_id not in q_docs_rel:
-                        q_docs_rel[q_id] = []
-                    q_docs_rel[q_id].append((doc_id, int(rel)))
 
         for qrel in self.clinical_dataset.qrels_iter():
             if (qrel.query_id in self.queries) and (qrel.doc_id in self.documents):
                 if qrel.query_id not in q_docs_rel:
                     q_docs_rel[qrel.query_id] = []
-                q_docs_rel[qrel.query_id].append((qrel.doc_id, int(rel)))
+                q_docs_rel[qrel.query_id].append((qrel.doc_id, int(qrel.relevance)))
             
 
         # group_qid_count untuk model LGBMRanker
