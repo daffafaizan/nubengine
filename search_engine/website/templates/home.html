@@ -78,9 +78,7 @@
         {% if queries %}
         <div class="py-2 dark:text-white text-lg">
           <span>Results for: </span>
-          {% for query in queries %}
-          <span>{{query}}</span>
-          {% endfor %}
+          <span>{{ queries }}</span>
         </div>
         {% endif %} {% for result in query_results %}
         <ul>
