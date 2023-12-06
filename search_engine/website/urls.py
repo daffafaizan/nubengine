@@ -5,5 +5,5 @@ app_name = 'website'
 
 urlpatterns = [
     path('', show_home, name='show_home'),
-    path('files/<str:block_id>/<str:file_name>', show_docs, name='show_docs'),
+    path('result/<str:block_id>/<str:file_name>', show_docs, name='show_docs'),
 ]
