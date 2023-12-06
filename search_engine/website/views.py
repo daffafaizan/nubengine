@@ -78,7 +78,7 @@ def show_home(request):
 
                 query_results.append({'doc': did, 'block': bid, 'score': score, 'summary': summary, 'title': title})
 
-            results.append({'query': queries, 'results': query_results,})
+            results.append({'results': query_results,})
 
         context['queries'] = queries
         context['query_results'] = results
