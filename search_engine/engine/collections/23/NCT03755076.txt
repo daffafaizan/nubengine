@@ -1,0 +1,82 @@
+
+    
+      Overall materials and methods: The proposed experiments will follow the general pattern we
+      have used in previous behavioral psychophysical studies in individuals with and without
+      stroke. A controlled virtual environment that records kinematics of the arm and allows
+      real-time movement interaction with a virtual motor task will be used. A program integrating
+      motion capture system (Acsention Technology TrakSTAR) and MATLAB-based GUI-gaming environment
+      allows tracking of the two arms, experimenter-control for specific manipulation such as
+      position of the virtual brick, target gap, relative contribution of the arms and mapping of
+      each arm movement to the movement of the virtual brick to provide real-time and post-response
+      feedback. Participants will be seated in an adjustable chair facing a computer monitor with
+      their trunk constrained to the chair. Their arms will be completely supported on a low
+      friction table top and free to move in the horizontal (X-Y) plane with minimal resistance. An
+      opaque screen will occlude participants' direct vision of their arms. Magnetic markers will
+      be secured to their hands just proximal to the wrist joint and the position of the markers
+      mapped to a virtual brick shown on the computer screen. The motor task is to move the virtual
+      brick(s) to a virtual target gap(s) on the computer screen by moving both arms in 2D (X-Y)
+      plane on the low-friction table. While real-time visual feedback of the brick is available,
+      the brick cannot be felt haptically. From a perceptual perspective, in independent goal
+      condition, each arm moves its own virtual brick to the target gap. In common-goal condition,
+      a common brick was moved on the computer screen to a target window by predetermined weighting
+      of each arm movement.
+
+      Prior to beginning the experiments, participants will reach with the paretic arm in three
+      different directions (135º, 90º and 45º relative to the horizontal) to record the maximum
+      reaching distance for two trials in each direction. The minimum reach distance across the
+      three directions will be used to calibrate the start and end position of the target gaps. The
+      target window position will be placed at 70 and 90% of the maximum reach distance, oriented
+      at 45º, 90º and 135º relative to the horizontal. From a motor execution perspective, bimanual
+      reaching to the 90º target will require mirror movements of the two arms in a forward
+      direction. Reaching to 45º and 135º targets will require parallel movements of the two arms
+      in those directions. Mirror and parallel movements have been shown to require distinct motor
+      control strategies, as well as different levels of transcallosal inhibition, hence have been
+      included in this study.
+
+      Procedures: Participants will come to the laboratory for a baseline evaluation to determine
+      eligibility to participate in the experimental protocol. During this baseline evaluation, we
+      will perform the following tests: (1) Fugl-Meyer Examination, (2) Mini-mental scale, (3)
+      Tests for hemineglect using a line-bisection test, (4) Western Aphasia Battery for patients
+      with Aphasia (5) TMS safety questionnaire, (6) MRI safety questionnaire, (7) Box and Block
+      test as well as (8) Penn Neurocognitive assessment.
+
+      Once the patients qualify for the study, they will come to the lab for three separate
+      sessions. The first two sessions will be behavioral sessions while the third session will be
+      a neuroimaging session.
+
+      During the first behavioral session, participants will be tested for bimanual coordination in
+      two different tasks- virtual-reality (VR) based task and real-world tasks. In the VR-based
+      task, we will test a total of 240 trials under different conditions to obtain a baseline
+      performance data. We will also have participants perform a battery of bimanual real-world
+      tasks. During the second session, we will test the effect of two different perceptual cues on
+      bimanual coordination. During Aim 2 experiments, participants will be instructed to "move" a
+      common virtual brick with both arms to the target windows in three directions (mirror- 90º;
+      parallel- 45º and135º) without tilting the brick within a target MT of 800 milliseconds- 1.2
+      seconds. Participants will complete four 60-trial blocks a pseudorandom order. Each block
+      will consist of a distinct task conditiondepending upon the nature of perceptual cues
+      provided.
+
+      Condition 1 will be similar to the common-goal bimanual condition in Aim 1 where they will
+      transport a common virtual block fixed in a horizontal position to three targets in
+      pseudorandom order. The movement of the bar will be an unweighted average of the two arm
+      movements; i.e., each arm will contribute to 50% of the virtual bar movement (50-50
+      weighting). For Condition 2, the weighting coefficients of the two arms will be equal (i.e.
+      50-50); and the virtual brick will tilt in the direction of the lagging arm proportional to
+      the relative time-lag between arms.Operational definition of relative time-lag: Relative
+      time-lag is different than absolute time lag. Relative time-lagis the time-lag between the
+      relative timing of each arm within its trajectory. To illustrate, if the left and right arm
+      are contributing to 70 and 30% of the brick movement, relative time-lag at mid-movement will
+      be zero if the left and right arm have covered half of their respective trajectories.
+      Therefore, relative time-lag is influenced by temporal as well as spatial component of the
+      movement of each arm. Concurrent and post-response feedback about the tilt and path of the
+      virtual brick will be provided after each trial.
+
+      Condition 3 will be similar to block 1 (block fixed in horizontal position), but the arm
+      weighting will be 70-30. Condition 4: In addition to the "tilt" feedback about the relative
+      time-lag, each arm will be differentially weighted- i.e., the paretic arm will have a higher
+      weighting coefficient compared to the nonparetic arm. Specifically, the paretic arm will
+      contribute to 70% of the virtual brick movement while the nonparetic arm will contribute to
+      30% of the virtual brick movement. 20 trials of bimanual reaching in each direction (90º; 45º
+      and 135º) will be completed in pseudorandom order.
+    
+  

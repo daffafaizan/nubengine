@@ -1,0 +1,110 @@
+
+    
+      Background:
+
+      Operations in the retina and removal of the vitreous body (vitrectomy) is a procedure that is
+      in rapid growth. Demographic mix and a rapidly increasing incidence of lifestyle-related
+      diseases such as diabetes mellitus leads to increased operational need [1]. Causes of
+      vitrectomy include bleeding in the vitreous of the eye, retinal detachment, a hole in the
+      macula of the retina (macular hole) and removal of connective tissue (epiretinal membrane) at
+      the macula.
+
+      Vitrectomy was previously associated with high risks and were therefore only performed in
+      special cases, but in recent years the operational results have been markedly better - not
+      least due to the introduction of technological advances such as smaller and better
+      instruments. Nevertheless, it is a type of operation that the surgeon requires a long
+      training and an increased risk of operative complications in the early stage. For this
+      reason, virtual surgery is suited to help training and maintaining operational skills [2, 3].
+
+      Research Unit of Ophthalmology at Odense University and Southern University received in 2007
+      a grant from the Velux Foundation for obtaining a EyeSi (eye surgical simulator) Surgical
+      Simulator (VRMagic Gesellschaft mit beschränkter Haftung (GmbH), Mannheim, Germany). This
+      surgical eye simulator has subsequently been a great joy for eye surgeons from across the
+      country who have used the machine to train and maintain operating procedures.
+
+      The machine can be used both to train cataract operations, as well as responses in the eye's
+      posterior section (vitreoretinal surgery) surgery of the vitreous body and retina. There is
+      an increasing research activity within EYESI-based virtual eye surgery [4-6], but so far this
+      reserved for training in cataract operations. The investigators have, for example, previously
+      could demonstrate that repetitive training in cataract surgery promotes the surgical learning
+      and enhance the qualifications of future eye surgeons [7]. Subsequently, another Danish group
+      published proposals for specific simulation pass requirements [8], and simulation training is
+      subsequently introduced as part of the training of future cataract surgeons in the country.
+
+      There are no previously published research in virtual vitreoretinal surgery, but this is
+      nevertheless vital to better surgical training. The vitreoretinal training modules include
+      exercises in varying degrees of difficulty in numerous areas such as Navigation Training,
+      Forceps Training, Anti-Tremor-Training, bimanual Training, bimanual Scissors Training, Laser
+      Coagulation, Posterior Hyaloid Training, Epiretinal Membrane Peeling, Internal Limiting
+      Membrane (ILM) Training and Retinal Detachment. Due to the many potential exercises it is
+      important to develop a vitreoretinal training program which includes relevant modules at the
+      right level of difficulty.
+
+      One of the main requirements for such a program is that it should exhibit high construction
+      validity [9]. Meaning that the program must be able to measure the wanted, which in this case
+      is surgical skills in groups with different levels of competence. It must, in other words, be
+      possible to differentiate trained vitreoretinal surgeons from untrained surgeons. From this
+      it will be possible to develop reference scores, and the program can be implemented in
+      surgical training course.
+
+      Many surgical disorders - such as retinal detachment - progresses with time, and it is often
+      not known when to ideally operate [10]. On the one hand, it may be best to operate early and
+      thereby reduce the risk of disease progression before surgery. On the other hand, it is also
+      important to take into account factors such as the presence of the correct operational
+      expertise as well as the surgeon's fatigue and stress levels.
+
+      Conditions as last-mentioned clearly is difficult to test clinically and virtual surgery thus
+      allows to design studies that safely allows for testing conditions as sleep deprivation and
+      other operational distractions.
+
+      Purpose:
+
+      The purpose of this study is 1) to facilitate the training of future vitreoretinal surgeons
+      by introducing a virtual training program with high construction validity, and 2) to clarify
+      which external conditions affects the performance of trained operator using the virtual
+      training program.
+
+      Substudy A:
+
+      From the training sessions, simulation manuals and guidance from vitreoretinal surgeons,
+      proposals for a virtual vitreoretinal training program is composed including relevant modules
+      in appropriate degree of difficulty.
+
+      This program is tested following three groups:
+
+        1. Group with trained vitreoretinal surgeons (n = 5).
+
+        2. Group with future ophthalmologists in training (n = 10).
+
+        3. Group of medicine students with limited knowledge of the anatomy and pathology (n = 20).
+
+      Each group should go through the program twice with one to two weeks apart, and the results
+      from the second training session is determined. Subsequently the individual modules construct
+      validity is evaluated, assuming that a given module exhibits high construction validity, if
+      the median score for group 1 is higher than that of group 2, which is in turn higher than
+      that of Group 3 (tested by Cuzicks test for trend).
+
+      Modules with high construction validity is then included in the final model.
+
+      Substudy B:
+
+      Based on the constructed program in substudy A, five subjects goes through an intensive
+      training program, which terminated when they achieve the same target score as Group 1 in
+      substudy A. The target score is now used as reference for subsequent exercises.
+
+      The subjects then conducts the training program under the influence of the following
+      operational challenges:
+
+        1. Operation with non-dominant hand.
+
+        2. Operation with auditory distraction.
+
+        3. Operation during nighttime sleep.
+
+        4. Operation after 12 hours of fasting for solid food.
+
+        5. Operation after 24 hours of sleep deprivation. It is then calculated which of the five
+           programs, which results in a modified test score compared to score target (tested by
+           Wilcoxon matched signed rank sum test).
+    
+  

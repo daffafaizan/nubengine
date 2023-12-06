@@ -1,0 +1,144 @@
+
+    
+      1. BACKGROUND AND SETTING
+
+           1.1. INTRODUCTION
+
+           Concurrent (chemo-) radiotherapy (CRT) is the current standard of care for patients with
+           locally advanced head and neck squamous cell carcinoma (HNSCC). The proximity of
+           important functional structures with the tumour makes treatment however highly complex.
+           Treatment related toxicity can be severe with xerostomia and dysphagia gravely
+           complicating the patient's quality of life. The use of altered fractionation schedules
+           and/or concurrent chemotherapy has resulted in substantial gains in loco-regional
+           control, leading to significant improvements in overall survival. Although the prognosis
+           of patients treated with RT for locally advanced HNSCC is continually improving, there
+           are still a high number of locoregional failures.
+
+           Using highly conformal radiotherapy the investigators can increase the therapeutic index
+           by giving higher doses to the more radio-resistant parts of the tumour while maintaining
+           or even reducing dose to the surrounding tissues. Functional imaging can help us to
+           define these radio-resistant subvolumes and help us to delineate the gross tumour volume
+           (GTV) better in the future. Positron emission tomography (PET), Diffusion weighted
+           magnetic resonance imaging (DWI) and Dynamic contrast enhanced MRI (DCE-MRI) can give us
+           further insight in the tumour's underlaying biological and microstructural
+           characteristics. However, at the moment the investigators are not sure how to interpret
+           the different imaging parameters obtained from these functional imaging modalities.
+           Therefore, the investigators want to correlate the imaging parameters with the
+           pathological characteristics of the tumour. On the other hand the investigators want to
+           correlate the GTV defined on the functional imaging modalities with the pathological
+           GTV, and see if these modalities can help us to delineate the GTV more accurately in the
+           future.
+
+           1.2. IMAGING MODALITIES
+
+           1.2.1. FDG-Positron Emission Tomography (FDG-PET)
+
+           Increased glucose metabolism is a fundamental characteristic of many malignant tumours,
+           including HNSCC. Positron emission tomography (PET) after injection of radioactively
+           labeled 2' fluorodeoxyglucose (18F-FDG) can help us measure and quantify this metabolism
+           in tumours, using the standardized uptake value (SUV). Several studies have correlated
+           high SUV prior to treatment with significantly worse outcome in HNSCC. Furthermore it
+           appears that most local recurrences occur within the FDG-PET defined GTV. The molecular
+           base for this is not completely understood.
+
+           Proliferating tumour cells consume glucose at a high rate and release lactate and not
+           CO2. This way they omit the mitochondria driven oxidative phosphorylation of glucose
+           from the production of ATP (=Warburg-effect). Several molecular parameters have been
+           associated with this glycolytic switch, such as activation of the hypoxia induced HIF1α
+           and the increased presence of GLUT glucose transport proteins. So far no clear
+           correlation was found between the presence of hypoxia and FDG-uptake.
+
+           1.2.2. Diffusion-weighted Magnetic resonance imaging (DWI)
+
+           Diffusion weighted magnetic resonance imaging (DWI) can characterize tissues based on
+           the random displacement of water molecules. In biological tissues this displacement is
+           limited by underlying tissue-specific barriers and this difference can be quantified and
+           visualized using apparent diffusion coefficient (ADC) values. A study on 165 patients in
+           our centre with HNSCC demonstrated that the pre-treatment ADC value is a strong and
+           independent prognostic factor for outcome. Patients with a high ADC value respond worse
+           to ionizing radiation than patients with a lower ADC value. There is currently no clear
+           explanation why tumours with a higher cellular density are more radiosensitive than
+           tumours with a low density. A number of microscopic features effect water diffusivity in
+           tissue (presence of necrosis, cellular density, inflammation, integrity of cellular
+           membranes). Many of these also affect the radio- and chemosensitivity of the tumours.
+
+           1.2.3. Dynamic contrast enhanced Magnetic resonance imaging (DCE-MRI)
+
+           Dynamic contrast enhanced MRI (DCE-MRI) is a non-invasive imaging modality which has
+           been developed and evaluated for the characterization of vascular properties of tissues.
+           Adequate oxygen supply is essential for the effectivity if ionizing radiation. However
+           tumor angiogenesis is far from perfect and newly formed vessels display permeability,
+           tortuosity and a generally poor functionality. These vascular properties could provide
+           us insight in the aggressiveness and radiosensitivity of the tumor. Dynamic computed
+           tomography (CT) has demonstrated that perfusion measurements can predict outcome in head
+           and neck cancer after radiotherapy. Similarly quantitative assessment of DCE-MRI has
+           also been correlated with response to ionizing radiation in patients with HNSCC. A
+           recent trial on a limited number of patients correlated certain DCE-MRI parameters with
+           intratumoural hypoxia. However, so far no spatial correlation has been done.
+
+        2. STUDY OBJECTIVES
+
+           2.1. PRIMARY OBJECTIVES
+
+           The main objective of this study is to correlate DWI, DCE-MRI and FDG-PET with the
+           spatial distribution of hypoxia in patients with head and neck cancer.
+
+           2.2. SECONDARY OBJECTIVES
+
+           A. To correlate findings on functional imaging with intrinsic molecular parameters
+           depicting proliferation, hypoxia and glucose metabolism.
+
+           B. To validate the use of the hypoxia markers and the 15-gene hypoxia gene expression
+           classifier.
+
+           C. To compare tumour volume as derived from pathology with the volumes delineated on the
+           several anatomical and functional imaging modalities.
+
+        3. STUDY DESIGN
+
+           The target group for this trial is patients with a histologically proven squamous cell
+           carcinoma of the larynx, eligible for surgery, staged T3-4. Prior to treatment patients
+           will undergo an FDG-PET/CT and MRI with DW and DCE, dedicated for optimal visualization
+           of the primary tumor and analysis. The imaging modalities will be performed as close to
+           the surgery as possible (PET/CT one week before surgery; MRI one day before surgery).
+
+           Prior to treatment, three slices on the imaging modalities will be selected by a
+           radiologist based on their visual quality and heterogeneity of functional parameters.
+           These regions of interest will be compared to different histopathological parameters on
+           the resection specimen. The radiologist will also select regions, based on DWI and DCE
+           parameters, who are suspect to be hypoxic. From these regions a biopsy will be taken.
+
+           After total laryngectomy, the resection specimen will be oriented, and biopsy material
+           will be obtained from the regions in the tumour that have been selected on the imaging
+           modalities The rest of the specimen will be fixed in formaldehyde. To account for the
+           shrinkage of the tumour due to fixation, the resection specimen will be placed in a
+           cardboard box with an agarose solution and scanned with an MRI with T1w/T2 images. From
+           this a shrinkage factor will be calculated comparing the delineated T1 and T2 weighted
+           images.
+
+           After fixation the tumour will be cut up into macroslices with a thickness of about 5mm.
+           On each macroslice tumour volume will be delineated. Using this, the pathological tumour
+           volume will be determined taking into account the previously determined shrinkage
+           factor. This pathological volume will be compared to the tumour volume delineated on the
+           imaging modalities. On the different pre-surgery functional imaging modalities, 4
+           separate observers will delineate the GTV. The different volumes will be compared and
+           overlap will be calculated after 3D specimen reconstruction and registration.
+
+           The GTV obtained from the functional imaging will be correlated with the pathological
+           tumor volume of the resection specimen. This information will give us more insight into
+           the true power of the investigated functional imaging techniques in determining tumour
+           volume. This is important to assess the role of functional imaging modalities in
+           treatment planning in the future.
+
+           At the three levels, chosen by the radiologist on the imaging modalities, 4µm thick
+           slices will be taken. On each level an immunohistochemical staining will be carried out
+           (GLUT-1, CA-IX, HIF-1α, VEGF and KI 67 staining will be performed ).
+
+           IHC will be scored according to a semiquantitative scoring system using a field analysis
+           where each field will be assigend a score of 1-4 according to the approximate area of
+           immunostaining (0:0%, 1:1-5%, 2: 5-15%, 3: 15-30% and 4: >30%.
+
+        4. SAMPLE SIZE Twenty patients with squamous cell carcinoma of the larynx, planned to
+           undergo total laryngectomy, will be included.
+    
+  

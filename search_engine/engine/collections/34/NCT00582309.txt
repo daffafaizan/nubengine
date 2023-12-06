@@ -1,0 +1,136 @@
+
+    
+      I. RESEARCH OBJECTIVES AND SPECIFIC AIMS
+
+      A. Introduction:
+
+      Increasing evidence from observational studies in hospitalized patients with and without
+      diabetes indicates that hyperglycemia is a predictor of poor outcome. Over the short-term,
+      hyperglycemia can adversely affects fluid balance (through glycosuria and dehydration),
+      impairs immunologic response to infection, and promotes inflammation and endothelial
+      dysfunction. Blood glucose control with intensive insulin therapy in patients with acute
+      critical illness reduces the risk of multiorgan failure and systemic infections, and
+      decreases short- and long-term mortality .
+
+      The use of intravenous insulin infusion is the preferred route of insulin administration for
+      the management of diabetic subjects with diabetic ketoacidosis and nonketotic hyperosmolar
+      state, intraoperative and postoperative care, the postoperative period following heart
+      surgery and organ transplantation, acute myocardial infarction, stroke, and critical care
+      illness. Some of these settings may be characterized by, or associated with, severe or
+      rapidly changing insulin requirements, generalized patient edema, impaired perfusion of
+      subcutaneous sites, requirement for pressor support, and/or use of total parenteral
+      nutrition. In these settings, the intravenous route for insulin administration has been
+      considered superior to the subcutaneous injection of split-mixed regimen of intermediate and
+      regular insulin with respect to rapidity of effect in controlling hyperglycemia, overall
+      ability to achieve glycemic control, and most importantly, preventing hypoglycemic episodes.
+      Recently, several insulin infusion protocols have been reported in the literature . In
+      general, orders to "titrate drip" are given to achieve a target blood glucose range using an
+      established algorithm or by the application of mathematical rules by nursing staff. These
+      algorithms and formulas, however, may be confusing and difficult to follow and may increase
+      the risk of dosing errors. To facilitate patient care, insulin algorithms could be placed on
+      a computer and used at the patient bedside to direct the nursing staff administering the
+      intravenous insulin. The Glucommander is one such computer-derived insulin infusion protocol
+      which has been used successfully in over 5,802 patients with diabetes between 1984 and 1998.
+
+      B. Hypotheses: we hypothesize that management of inpatient hyperglycemia with a
+      computer-guided intravenous infusion protocol (Glucommander) will facilitate a smoother
+      glycemic control with a lower rate of hypoglycemic events than treatment following a standard
+      insulin infusion algorithm or a simple calculated infusion protocol in critically ill
+      patients in the medical and surgical ICU.
+
+      C. Specific Aim: to determine differences in glycemic control between treatment with
+      computer-guided intravenous infusion protocol (Glucommander), a standard insulin infusion
+      algorithm and a simple calculated infusion protocol in critically ill patients in the medical
+      and surgical ICU.
+
+      II. BACKGROUND AND CURRENT STATUS OF WORK IN THE FIELD.
+
+      The result of several observational and interventional studies indicate that hyperglycemia is
+      associated with poor hospital outcomes including prolonged hospital stay, infections,
+      disability after hospital discharge, and death , and that improvement in outcomes can be
+      achieved with improved glycemic control in patients with critical and surgical illness.
+      Although there are still no proven mechanisms to explain the detrimental effects of
+      hyperglycemia, there are increasing efforts worldwide to improve and maintain strict glycemic
+      control in subjects with critical illness.
+
+      In 2001, a large prospective, randomized controlled trial from Leuven, showed that near
+      normalization of blood glucose levels using an intensive insulin protocol improved clinical
+      outcomes in patients admitted to a surgical intensive care area . In that study, insulin
+      administration to maintain blood glucose levels between 80-110 mg/dl, reduced ICU mortality
+      by 34%, and reduced the risk of multiorgan failure, systemic infection, incidence of acute
+      renal failure, and the need for blood transfusions and prolonged mechanical ventilatory
+      support. Interventional studies in the setting of acute coronary events have shown that
+      intensive insulin therapy resulted in decreased short- and long-term mortality. Similarly,
+      attainment of targeted glucose control in the setting of cardiac surgery is associated with
+      reduced mortality and with a significant reduction in deep sternal wound infections.
+      Similarly, in the setting of acute neurological illness, stroke, and head injury extensive
+      observational and interventional studies indicates that hyperglycemia is associated with
+      increased mortality and with diminished neurological recovery . Based in these observational
+      and interventional studies, aggressive control of blood glucose is recommended in patients
+      with critical illness. A recent position statement of the American Association of Clinical
+      Endocrinologists recommended glycemic targets for hospitalized patients in the intensive care
+      unit between 80 - 110 mg/dL.
+
+      The American College of Endocrinology position statement supports the following indications
+      for intravenous insulin therapy in hospitalized patients with diabetes:
+
+        -  Prolonged fasting (> 12 hours) in type 1 diabetes
+
+        -  Critical illness
+
+        -  Before major surgical procedures
+
+        -  After organ transplantation
+
+        -  Diabetic ketoacidosis
+
+        -  Total parenteral nutrition therapy
+
+        -  Labor and delivery
+
+        -  Myocardial infarction
+
+        -  Other illnesses requiring prompt glucose control.
+
+      Institutions around the world use a variety of insulin infusion algorithms that can be
+      implemented by nursing staff. These algorithms facilitate communication between physicians
+      and nurses, achieve correction of hyperglycemia in a timely manner, provide a method to
+      determine the insulin infusion rate required to maintain blood sugars within a defined target
+      range, include a rule for making temporary corrective increments or decrements of insulin
+      infusion rate without under- or overcompensation, and allow for adjustment of the maintenance
+      rate as patient insulin sensitivity or carbohydrate intake changes. In most insulin infusion
+      protocols, orders to "titrate drip" are given to achieve a target blood glucose range using
+      an established algorithm or by the application of mathematical rules by nursing staff. These
+      algorithms may be confusing and difficult to follow which may increase the risk of errors.
+
+      To facilitate patient care, Drs. Davidson and Steed developed the Glucommander in 1984, a
+      computer based system for glycemic control in hospitalized patients. This computer-guided
+      insulin infusion system directs the administration of intravenous insulin in response to
+      blood glucose measurement at the patient's bedside. Prior to starting the insulin infusion,
+      the physician must specify the following parameters: the low end and high end of the target
+      range for blood glucose, an initial factor or multiplier, and the maximum time interval
+      between blood glucose measurements. During the infusion, the nurse enters blood glucose
+      levels and the computer recommends the insulin infusion rate and a time to check the next
+      blood glucose testing. The starting insulin infusion follows the formula: insulin / hour =
+      multiplier x (BG - 60). The "multiplier" is a parameter that is automatically adjusted based
+      on the glucose pattern and response to insulin. For most adults, the initial multiplier is
+      0.02. The Glucommander is programmed to adjust the multiplier upwards or downwards if blood
+      glucose levels are above or below target levels.
+
+      This study will compare three methods of comparing how glucose is regulated with IV insulin.
+      The first method uses a sliding scale of insulin based on glucoses drawn at set intervals.
+      The second method uses an algorithm that uses the glucose drawn at a set interval and also
+      how much that glucose changed from the last time the glucose was drawn to adjust the amount
+      of insulin to be given. The algorithm takes into count how fast the glucose is changing and
+      also how far the glucose is from the expected values to improve the accuracy of the amount of
+      insulin to be given. The glucocommander is a handheld based algorithm that again takes in how
+      fast the glucose has changed and how far the glucose is from where you want to be and adds
+      another layer in that it tells the nurse when to draw the next glucose so that if the glucose
+      is very far away from the expected value drawing glucose in a shorter time period will help
+      get to the expected glucose faster. The comparison is does the method reach the expected
+      glucose faster and how often is the glucose going to be to low. Methods that improve the way
+      to get the glucose to the expected value are not better for the patient if they increase the
+      chance of hypoglycemia. This study will compare three methods of regulating glucose with
+      insulin.
+    
+  

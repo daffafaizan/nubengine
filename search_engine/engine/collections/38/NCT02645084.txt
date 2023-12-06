@@ -1,0 +1,107 @@
+
+    
+      Design: This is a multicenter prospective comparative cohort study, using a stepped-wedge
+      design. All clusters (hospitals) start with the control strategy and switch, one by one, to
+      the intervention strategy. Every 9 weeks a hospital will start implementing the questionnaire
+      after a short training period of 1 week. As a referral to a clinical geneticist can take up
+      to several months, we allow at least 6 months for the collection of the results of the
+      genetic tests.
+
+      Control strategy: Each hospital starts with the control strategy. Just before the start of
+      this study, all hospitals will be sent a list with the clinical genetics referral criteria
+      that will be used for this study. Each hospital can decide on how to use these criteria.
+
+      Intervention strategy: Before the start of the study, all hospitals will be informed when the
+      use of the online questionnaire will be implemented. They will also receive a manual on how
+      to use the online CRF and questionnaire. The online CRF will be used to send out invitations
+      for the questionnaire, to report baseline characteristics (age, sex, nationality, educational
+      level, native language), reasons for non-participation, the number of changes that need to be
+      made when verifying completed questionnaires and to calculate referral advice. In the
+      training week, a researcher from the AMC will present the study to all involved persons and
+      he will facilitate the implementation of the online CRF and questionnaire. All nurses and
+      doctors participating in this study will be provided with their own login codes for the
+      online CRF. Patients included in the training week will not be included in the analysis. All
+      consecutive patients with CRC that have a first appointment at the outpatient clinic will be
+      invited to complete the online questionnaire and they receive a record number. In case
+      patients decline to complete the questionnaire, this will be reported by a nurse or
+      gastroenterologist in the online CRF. If the patient consents, an email will be sent to the
+      patient with a link to the questionnaire and the question to complete it before the next
+      visit to the outpatient clinic. The online CRF will automatically result in a check for
+      indications for referral to a clinical geneticist. The nurse or gastroenterologist can report
+      this advice in the patient file and can decide on referring the patient.
+
+      Checking referrals to a clinical geneticist: Every two months, all patients included in the
+      study will be tracked by searching for reports on clinical genetics consultation in their
+      medical files and a check with local genetic centers will be done.
+
+      Statistical analysis of the primary outcome measure: The difference between the control group
+      and intervention group in the proportion of patients who receive surveillance advice by a
+      clinical geneticist will be calculated. A nonlinear mixed model will be used for testing the
+      hypothesis of no difference. We will model the probability of receiving surveillance advice
+      as a linear function, after a logit transformation, with as explanatory variables the
+      hospital, the time interval, and the questionnaire effect: Logit(pijk)=μ+αi+βj+Χijθ, Where
+      Logit(pijk) is the natural logarithm of the odds of a referral to a clinical geneticist for
+      individuals (k) in cluster i at time j. μ is the overall mean, αi is a random effect for
+      hospital i, βj is a fixed effect corresponding to time interval j, and Χij is an indicator
+      variable for implementation of the questionnaire in hospital i at time j and θ is the
+      questionnaire effect. Time effects will be analyzed in a discrete way (season, month) in case
+      a primary effect is found. If no time effect is present, time function will be excluded from
+      the model. For the primary outcome measures, we will use the intention-to-treat principle,
+      including all eligible patients in the analysis.
+
+      Statistical analysis of the secondary outcome measures: for each secondary outcome measure,
+      differences between the control and intervention group will be calculated using relative
+      risks with corresponding 95% confidence intervals. Secondary outcome measures to be
+      calculated in the intervention group only, will be reported using descriptive statistics.
+
+      Sample size calculation: For the sample size calculation, a two-group chi-squared test of
+      equal proportions was used as a starting point for comparing proportions in referrals in the
+      control group versus the intervention group. Significance level was set at 5% (two sided)
+      with a power of 80%. Of all CRC cases, approximately 20% are related to familial or
+      hereditary factors. In the literature the reported proportion of CRC patients with an
+      increased familial risk of CRC that is appropriately referred to a clinical geneticist ranges
+      from 8% to 67%, with most studies reporting proportions between 10% and 30%. We estimate that
+      20% of patients at risk are referred, resulting in a referral rate of 4% of all CRC patients.
+      We anticipate that the implementation of the questionnaire can increase this proportion up to
+      15%.To detect this difference we would need a sample size of 111 patients per treatment
+      group. For the stepped wedge design the total sample size (111x2) needs to be multiplied by a
+      design effect, that can be calculated using the following formula, where k is the number of
+      steps, b is the number of baseline measurements, n is the number of patients per cluster, t
+      is the number of measurements after each step and ρ is the intracluster correlation (ICC),
+      which compares the within-group variance with the between-group variance:
+
+      DEsw= ((1+ρ(ktn+bn-1))/(1+ρ (0.5ktn+bn-1))) . ((3(1-ρ))/(2t(k-1/k)))
+
+      The ICC was estimated at 0.10 as no previously reported ICC for this topic was available.
+
+      As there are five participating hospitals, a total number of five steps (k) will be possible.
+      As the study duration will be one year, each step will take 2 months. After randomization,
+      each hospital starts with a training period of one week that will be added to these two
+      months. We expect two to eight eligible patients per week per hospital, which results in 16
+      to 64 patients per hospital per step. With this information, a DEsw can be calculated.
+      Assuming 16 patients per step, DEsw is 0.45. Assuming 64 patients per step, DEsw is 0.47.
+      This corresponds with a required total sample size of 100 and 104 patients, respectively.
+      When divided by the total number of patients per cluster, 6.2 and 1.6 clusters are needed for
+      the minimum and maximum number of included patients respectively. We therefore believe that
+      our number of five clusters would be sufficient.
+
+      Institutional review board: This study was approved by the institutional review board (IRB)
+      of the Academic Medical Center (AMC) in Amsterdam, the Netherlands. This IRB decided that the
+      study did not meet the requirements of the Medical Research Involving Human Subjects Act
+      (WMO). All local ethics committees confirmed the local practicability of this study.
+
+      Consent: According to the requirements of the AMC Research Code, digital approval will be
+      asked from the patients for making use of personal data for this study in the intervention
+      group. This means that questionnaires start with a question about the willingness to
+      participate in this study. They can answer this question by indicating 'yes' or 'no'. If 'no'
+      is answered, results will be removed from the database. Use of the digital questionnaire is
+      considered safe as all answers are collected anonymously and could only be linked to a
+      patient with a secured key document. This study will be carried out in accordance with the
+      Helsinki Declaration. No approval for data use will be asked from patients in the control
+      group, as this would increase awareness and would therefore bias results. Moreover, data from
+      these patients will only be collected anonymously.
+
+      Monitoring and quality assurance: The AMC researcher will monitor all centers every month.
+      Each site that is randomized will be visited for a training week.
+    
+  

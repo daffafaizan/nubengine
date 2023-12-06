@@ -1,0 +1,55 @@
+
+    
+      Physical therapy approaches are the de facto rehabilitation for stroke, which involve human
+      therapists to assist stroke patients in recovering their motor ability. Modern rehabilitation
+      technologies include robotics, functional electrical stimulation, transcranial magnetic
+      stimulation and virtual reality. Robotic rehabilitation alleviates the labor-intensive
+      aspects of physical rehabilitation by human therapists and could potentially improve the
+      productivity of stroke rehabilitation. However, it is fundamentally based on movement
+      repetition with visual feedback that helps stroke patients improve motor ability in their
+      weak stroke-affected arms and legs. However, the robot is still able to move the weak part of
+      the patient even if the patient is not attentive towards the training and thus the robotic
+      training becomes a passive activity. In contrast, BCI-based robotic training works by
+      ensuring active engagement by the hemiparetic patients in making a volitional movement. In
+      addition, hemiplegic or locked-in stroke patients who do not have any motor power on the
+      affected limbs are then able to engage and perform a volitional movement on these affected
+      limbs.
+
+      BCI-based robotic rehabilitation fills this gap by detecting the motor intent of hemiplegic
+      patients from the Electroencephalogram (EEG) signals to drive the robotic rehabilitation.
+      This BCI-based robotic rehabilitation for stroke research project was jointly conducted by
+      Tan Tock Seng Hospital (TTSH), National Neuroscience Institute (NNI) and Institute for
+      Infocomm Research (I2R). Preliminary clinical trials performed at TTSH have shown that stroke
+      patients can operate the BCI as effective as healthy subjects.
+
+      Specifically, this research project will address the following gaps in the area of
+      rehabilitation for stroke:
+
+        1. Single-modal BCI - The current system employs a single modal non-invasive EEG-based BCI
+           that detects motor intent using at least 2.5 seconds of EEG data. Hence, the research of
+           an advanced multi-modal BCI such as synergizing near-infrared spectroscopy with EEG to
+           yield a more responsive and effective BCI-based robotic rehabilitation system is
+           proposed.
+
+        2. Standard therapy - The current system employs a standard therapy for all the stroke
+           patients. However, physiotherapists and occupational therapists usually adopt a more
+           individualized therapy for each stroke patients. Hence, research on an individualized
+           therapy for each stroke patient according to his or her learning rate and neurological
+           insult is proposed.
+
+        3. Only physiological rehabilitation - The current system only performs physiological
+           rehabilitation of motor functions of stroke patients. Currently some validated scales
+           for post-stroke depression such as Beck depression inventory, CES-D, Zung scale, State
+           trait, HADS etc are difficult to administer in stroke patients who cannot participate
+           with assessment due to impaired language or cognitive abilities. Hence an advanced
+           BCI-based rehabilitation system that also detects the mental state of the stroke patient
+           is proposed to cover both physiological and psychological rehabilitation.
+
+        4. Upper Limb rehabilitation - The current system which uses the clinically-proven MIT
+           Manus robotic rehabilitation system, only performs upper limb rehabilitation for stroke
+           patients in gross reach patterns. Human hand skills, in contrast, consist of more
+           complex manipulation movement patterns which can be intervened by BCI-based robotic
+           rehabilitation. Hence, an advanced BCI-based rehabilitation system that covers the hand
+           function is proposed to cover the rehabilitation of the entire upper extremity.
+    
+  

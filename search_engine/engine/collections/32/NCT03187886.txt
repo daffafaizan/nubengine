@@ -1,0 +1,68 @@
+
+    
+      We retrospectively reviewed the clinical, radiological and biological data of 28 consecutive
+      patients with a diagnosis of CAA-ri between 2004 and 2016, in 6 different neurological
+      centers from Occitanie in the south of France (Montpellier, Toulouse, Nimes, Narbonne,
+      Bezier, Perpignan). Inclusion criteria were the following: 1) pathological diagnosis assessed
+      by both CNS Aß vascular deposition and transmural of perivascular inflammation or 2) a
+      probable or possible CAA-ri according to the recently criteria proposed by Auriel et al.
+      (Auriel, JAMA 2016). CAA diagnosis before onset was done retrospectively according to Boston
+      Criteria (Knudsen, Neurology, 2001) (Smith, Cardiovascular disease and stroke, 2003).
+
+        1. Clinical data For each patient, the following demographic and clinical data were
+           systematically recorded: age, gender, neurological medical history, independence,
+           neurological symptoms, initial evolution at discharge, treatment type and duration and
+           follow-up data. Onset of the disease was defined as acute (<48h), sub acute (>48h and
+           <4weeks) or chronic (>4weeks) depending on the time elapsed between the manifestation of
+           the first symptoms and time of referral to the treating center. Response to treatment
+           was assessed according to the treating neurologist global opinion. Relapse was defined
+           as a recurrence of symptoms and new/enlarging lesions on cerebral MRI. Disability at the
+           end of follow-up was defined using the modified Rankin scale (mRS) through a review of
+           the last medical record by two neurologists (SC, XA). Outcome was dichotomized into good
+           outcome (mRS 0 to 2) and poor outcome (3 to 6).
+
+        2. Laboratory data Laboratory data included ApoE genotype in n=20 patients and
+           cerebrospinal fluid (CSF) analysis (n=25 patients). In addition to the standard test,
+           CSF analysis included Alzheimer's disease (AD) biomarkers study: results were compared
+           with series of patients with AD, CAA and control patients (Charamidou, JAD 2016)
+           (Renard, JAD, 2016). Cerebral biopsy was performed in 6 patients.
+
+        3. Neuroimaging data MRI examinations were performed either at 1.5 or 3 Tesla for all the
+           patients upon routine clinical care. Sequences included T1-weighted pre and post
+           contrast, T2, Flair, diffusion, T2-Gradient Echo sequencing (T2-GRE). SWI was performed
+           in only 5 patients and was thus not included in the analysis. Imagings of all patients
+           were reviewed by two neurologists (SC, XA) and a neuroradiologist (NM). On the first MRI
+           performed at diagnosis, confluent T2/FLAIR white matter hyperintensity (WMH) Figure 1A,
+           size was characterized using a qualitative score as follow: small (<50% of one lobe),
+           medium (>50% of one lobe and less than an entire lobe) and large (the volume of
+           confluent WMH uni or multifocal exceeding one lobe), and mass effect was classified as
+           mild (sulcal effacement), moderate (mass effect on the lateral ventricle) or severe
+           (subfalcine herniation).
+
+           The presence and number of lobar intracerebral macrohemorrhage (ICH), cerebral
+           microbleeds (CMBs) and cortical superficial siderosis (cSS) were evaluated on T2-GRE.
+           The distribution and severity of cSS was classified as focal (restricted to ≤3 sulci) or
+           disseminated (≥4 sulci) (Roongpiboonsopit, Neurology, 2016).
+
+           Localization and number of Dwi-positive cerebral infarcts as well as the presence of
+           contrast enhancement were noticed. Almost all the patients (96%) had at least one
+           follow-up MRI enabling analysis of the evolution of the main lesion, occurrence of
+           infarcts, ICH, the raise CMBs' number and the contrast enhancement Figure 1.
+
+           This series comprises only routinely collected clinical, biological and radiological
+           data and was judged not to require formal ethical committee approval.
+
+        4. Statistical analysis Data were summarized for continuous variables as mean ±SD (Max,
+           Min) and number (%) for categorical variables. Statistical comparisons were performed by
+           Fisher exact test for categorical variables and non-parametric Wilcoxon rank sum test
+           for continuous variables. Comparison of continuous variables between groups was
+           performed using non-parametric. Survival was estimated with the Kaplan-Meier method. The
+           relationship between categorical parameters and outcome measures was assessed by
+           non-parametric log-rank test. Finally we use an ANOVA test to compare biomarkers between
+           CAA-ri, Alzheimer's Disease (AD) and controls. For all analyses, a two-tailed p-value
+           <0.05 was used as the criterion for statistical significance. Statistical analyses were
+           performed using R version 3.0.1 (The R Foundation for Statistical Computing). To test
+           the association between MCB's number and clinical outcome we categorized the number of
+           microbleeds in 3 categories: 0 to 99 CMB, 100 to 199 and more than 200 per patient.
+    
+  

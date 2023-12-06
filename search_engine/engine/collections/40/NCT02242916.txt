@@ -1,0 +1,60 @@
+
+    
+      The CTV to PTV margin will be determined by the individual institutes according to the
+      treatment technique and treatment modality. For all treatment plans, modified ICRU 50 will be
+      applied. The ICRU 50 recommendation is that 100% of the target volume (PTV) receives at least
+      95% of the prescribed dose. In this work, participants agree that D98 > = 95%, D2 < = 107%,
+      cold (< 95%) and hot (> 107%) spots should be avoided in general, and that no hot spots will
+      be allowed outside the PTV. The same overall treatment time (OTT) and an equal number of
+      fractions will be used for all treatment modalities.
+
+      Treatment plans will be carried out using either photons, protons and C-ions for dose
+      calculation for the indication H&N re-irradiation. A multicentric patient dataset, which can
+      be found on a secured website5,6, will be used. The output databases with matrices including
+      3D delineation, the deliverable physical dose, RBE map, and BED/ EQD2 will be made available.
+      To guarantee a similar set-up between the three treatments, similar dose distributions will
+      be used. For C-ion treatment planning, a 20% uncertainty in the RBE values will be taken into
+      account.
+
+      All treatment plans will be performed in centers that are already operating and have
+      experience in treatment planning. Photon treatment plans will be carried out in Nijmegen en
+      Maastricht, proton treatment plans at the University of Pennsylvania (UPENN) and the C-ion
+      treatment plans at the University Hospital Marburg (UHM). For photons, all primary treatment
+      plans were performed according to the planning procedure of each individual participating
+      center by selecting the best available technique. The secondary photon treatment plan will be
+      performed according predefined fractionation schedule and tumor dose. The proton treatment
+      plans for H&N tumors will be planned with active beam delivery using IMPT and/or passive 4D
+      beam delivery (PSPT). The C-ion treatment plans will be planned using a raster-scanning
+      technique (IMIT).
+
+      All relevant OAR are delineated in the primary and secondary study set. GTV/CTV will be used
+      accordingly to the actual treatment. New DVH's will be calculated for the added OAR. The
+      secondary plan (i.e. re-irradiation plan) will be calculated again for the best currently
+      available options for Photon, proton and C-ions. Between primary and secondary treatment
+      there is a period of 1 to 5 years for all patients. To be on the save site a 30 % recovery of
+      brainstem and spinal cord is assumed. There will not be a correction for fraction size. For
+      practical reasons the location of the Dmax in the brainstem or spinal cord will not be taken
+      into account. A maximal cumulative dose of 120 Gy will be accepted in the mandibular.
+
+      If the mandibular is part of the CTV in the first as well as in the second treatment, a
+      higher dose will be accepted. A cumulative dose of max 120 Gy will also be accepted for the
+      larynx , for the arytenoid is this 100Gy, unless the larynx is within the CTV for the first
+      and second treatment than a higher dose will be accepted.
+
+      This means that for a total study population of 25 patients per tumor site and group at least
+      100 treatment plans will be carried out. All dose maps will be saved on the secure website as
+      part of the database mentioned above.
+
+      Photon, proton and C-ion treatments will be compared based on dosimetric parameters on normal
+      tissues such as mean parotic dose, etc. In addition, the NTCP for a fixed tumor dose or the
+      same expected TCP will be determined. Cobalt Gy equivalent doses will be used when reporting
+      the proton and C-ion dose. In the case of protons, a constant RBE value of 1.1 will be used
+      for both the tumor and the normal tissues. The RBE of C-ions will be calculated based on the
+      models used by the participating centers. The GSI in-house treatment planning system uses RBE
+      values calculated on the basis of the local effect model (LEM). The LEM I (alpha/beta=2) is
+      based on the radial dose distribution of each charged particle crossing into a cell nucleus,
+      as well as on the radiosensitivity and repair capacity of the tissue. The TPSs used by UHM is
+      also based on the LEM model. The model used at NIRS utilizes fixed RBE values that are
+      dependent on the depth in the body, but independent of dose level or tumor type.
+    
+  

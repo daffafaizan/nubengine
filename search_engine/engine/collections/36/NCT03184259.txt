@@ -1,0 +1,77 @@
+
+    
+      Stroke is caused by intracranial haemorrhage or thrombosis, which cuts off arterial supply to
+      brain tissue and usually damages the motor pathway of the central nervous system affecting
+      one side of the body. Reduced descending neural drive to the affected side could lead to
+      hemiplegia, which significantly influences the activity of daily living (ADL) of stroke
+      survivors (Singam, Ytterberg, Tham & von Koch, 2015). While the upper-limb motor impairment
+      could be compensated using the contralateral side for picking up or manipulating objects, the
+      loss of motor functionality on the lower limb would substantially limit the mobility and body
+      balance. Many stroke survivors are dependent on walking aids or manual support from
+      caregivers for standing and walking, otherwise they would have great risk of falling with
+      serious consequences (Tasseel-Ponche, Yelnik & Bonan, 2015).
+
+      Recent studies suggest stroke patients could relearn walking ability by developing
+      alternative neural circuitries through long-term adaptation process, known as
+      neuroplasticity. High-intensity, repetitive, and task-specific gait training is the key to
+      enhance gait recovery of hemiplegic stroke patients (Kreisei, Hennerici & Bäzner, 2007; Kleim
+      & Jones, 2008). The development of robot-assisted lower-limb exoskeleton devices has great
+      clinical potential in stroke rehabilitation. Many lower-limb exoskeleton robots are
+      clinically-available for non-ambulatory stroke patients to practice walking with passive
+      assistance on body-weight-supported treadmill training (BWSTT) (Morone, et al., 2017).
+
+      Existing robot-assisted gait training (RAGT) such as Lokomat and electromechanical Gait
+      Trainer provide automatic, rhythmic, and repetitive powered assistance to major lower-limb
+      joints at hips and knees bilaterally (Poli, Morone, Rosati & Masiero, 2013). Large-scale
+      randomized controlled trials (RCT) of these RAGT in combination with conventional therapies
+      show significantly more chronic stroke patients improved functional gait independency and ADL
+      than receiving conventional therapies alone (Pohl, et al., 2007; Schwartz, et al., 2009;
+      Hidler, et al., 2009; Mehrholz, et al., 2013). However, Hesse, Schmidt, Werner & Bardeleben
+      (2003) suggest the integration of robots into gait rehabilitation could merely be an
+      auxiliary tool for therapists to enhance training intensity and safety without increasing
+      their workload. Most clinically-available RAGT are bounded to treadmill with passive
+      assistance (van Peppen, et al., 2004; Morone, et al., 2017), but researches show
+      task-variations and active participation in gait training could improve retention of
+      newly-learnt skills and could promote generalization of training effects (Salbach, et al.,
+      2004; Kwon, Woo, Lee & Kim, 2015). Portable RAGT that allows active over-ground gait training
+      would be more promising especially for ambulatory stroke patients.
+
+      Robot-assisted ankle foot orthosis (AFO) and knee brace are good candidates of portable
+      exoskeleton devices for RAGT of hemiplegic stroke patients (Duerinck, et al., 2012; Zhang,
+      Davies & Xie, 2013; Mehrholz, et al., 2017). Conventional AFO is mainly designed for treating
+      foot drop gait abnormality with passive support in ankle dorsiflexion for foot clearance in
+      swing phase and shock absorption in loading response. Conventional knee brace is mainly
+      designed for body support in stance phase. The integration of robot assistance in the
+      affected ankle and/or knee joint could provide active power assistance that synchronises to
+      patients' voluntary residual ankle and/or knee movement. Long-term active power assistance
+      might stimulate experience-driven gait recovery or develop compensatory gait pattern to
+      facilitate gait (Kleim & Jones, 2008).
+
+      In order to translate robotic rehabilitation research into clinical application,
+      evidence-based clinical research should be carried out to test the safety and effectiveness
+      of the new devices or interventions on stroke patients (Backus, Winchester & Tefertiller,
+      2010). Many designs of robot-assisted AFO and knee braces have been proposed by different
+      research groups, but most of them reported only the results of feasibility tests, mainly on
+      healthy subjects with small sample sizes (Dollar & Herr, 2008; Shorter, et al., 2013; Alam,
+      Choudhury & Bin Mamat, 2014). Majority of previous studies concerned about the immediate
+      effects of wearing the robot-assisted AFOs and knee braces during walking, but few studies
+      investigated the long-term therapeutic effects of wearing the devices for RAGT of stroke
+      patients (Lo, 2012). In particular, systematic review by Mehrholz, et al. (2017) shows only
+      one RCT has evaluated the efficacy of ankle training using robot-assisted AFO but in seated
+      position, no RCT evaluated gait training using robot-assisted AFO on both over-ground walking
+      and stair ambulation.
+
+      In this study, the Exoskeleton Ankle Robot and Knee Robot have been proposed and evaluated as
+      a robot-assisted AFO and knee brace for gait training of stroke patients with foot drop gait
+      abnormality. Clinical application of robot-assisted AFO and knee brace on stroke patients has
+      to overcome some important challenges, such as to reduce weight loading on the leg, and to
+      achieve portability and adaptability to various walking environments. The Exoskeleton Ankle
+      Robot and Knee Brace aims: (1) to provide synchronised active ankle and/or knee power
+      assistance to facilitate walking, (2) to develop accurate and reliable method to classify
+      user walking intention in over-ground walking and stair ambulation, (3) to deliver training
+      protocol for RAGT of stroke patients with foot drop gait abnormality. The feasibility tests
+      and RCT of the Exoskeleton Ankle Robot and Knee Brace could validate the clinical value of
+      this new rehabilitation robot, and could potentially establish a new intervention of gait
+      rehabilitation for stroke patients.
+    
+  

@@ -1,0 +1,88 @@
+
+    
+      Elastography is a method of imaging tissue stiffness. It is based on shear wave velocity
+      information that can be mapped to create an image of the stiffness in the region of interest.
+
+      Sonoelastography is used to differentiate benign from malignant lesions since malignant
+      lesions alter tissue elasticity.
+
+      Adding Shear Wave elastographic features to BI-RADS® feature analysis- especially in lesions
+      scored BI-RADS® 3 and 4a- improved specificity of breast US mass assessment without loss of
+      sensitivity.
+
+      The BI-RADS® categories are defined by the risk for a malignant lesion varying from benign
+      BI-RADS® 2 lesions, up to a 2% malignancy rate in BI-RADS® 3 and 2- 95% in BI-RADS® 4 (4a
+      2-10%; 4b 10-50%; 4c 50-95%). Based on these probabilities, biopsies are recommended for
+      BI-RADS® 4 and 5 lesions and short-term follow-up examinations for BI-RADS® 3. Consequently,
+      up to 2% of the in Ultrasound visible breast cancers are not directly detected as such and
+      put into the BI-RADS® 3 category. In contrast, in the BI-RADS® 4a category more than 90% of
+      the biopsies are unnecessary.
+
+      The main aim of the confirmatory study is to use Virtual Touch Tissue Imaging Quantification
+      in order to reduce unnecessary benign biopsies without a reduction of the number of detected
+      cancers.
+
+      This multi-center study is planned to involve 12 sites in 7 countries. Recruitment started at
+      the first sites in February 2016. Recruitment takes place in the course of the patient's
+      routine visit at a certified breast unit. All study participants will receive VTIQ in
+      addition to standard ultrasound.
+
+      Enrollment goal is a total of 1000 cases, split into groups of a minimum of n= 300 BI-RADS®
+      3, n= 400 BI-RADS® 4a, n= 100 BI-RADS® 4b, n= 100 BI-RADS® 4c. All patients will be
+      documented in a screening list. Monitoring will be performed by the Coordination Center for
+      Clinical Trials (KKS Heidelberg). Completeness, validity and plausibility of data will be
+      checked in time of data entry (edit-checks) and using validating programs, which will
+      generate queries. The investigator or the designated representatives are obliged to clarify
+      or explain the queries. If no further corrections are to be made in the database it will be
+      closed and used for statistical analysis. All data management procedures will be carried out
+      on validated systems and according to the current Standard Operating Procedures (SOPs) of the
+      Institute of Medical Biometry and Informatics.
+
+      The standard BI-RADS® Ultrasound (US) category (BI-RADS® 3-4c) and VTIQ values will be
+      correlated with the histological result. Additionally, local (BI-RADS® given at each site)
+      and central expert BI-RADS® assessment will be compared (BI-RADS® assessment and assessment
+      of the variables leading to the BI-RADS® value separately) to assess the inter-rater
+      reliability. In addition, the BI-RADS® assessments will be compared with the histological
+      results.
+
+      The variable "measurement lesion (in m/s)" is derived from three VTIQ measurements as
+      follows:
+
+      I. For confirmatory analysis of primary objectives an algorithm was established,
+
+        1. using the first measurement for analysis if the value is smaller than 2.5 m/s or if the
+           value is larger than 4.5 m/s. If the first measurement is smaller than 2.5 m/s, the
+           lesion can be considered benign and no further diagnostics is needed. If the lesion is
+           larger than 4.5 m/s the lesion should be considered suspicious and further diagnostics
+           is required.
+
+        2. requiring two additional measurements (in total three measurements) if the first
+           measurement is in the range of ≥ 2.5 m/s to ≤ 4.5 m/s. In this case the average of all
+           three measurements is used for analysis.
+
+      II. For descriptive analysis other options for derivation of this variable from the three
+      VTIQ measurements will be calculated for discussion:
+
+        1. First measurement only
+
+        2. Average of all three measurements
+
+        3. Median of all three measurements
+
+        4. Maximum of all three measurements
+
+      In conjunction with the maximum VTIQ shear wave velocity the quality display will be used to
+      aid in the classification of lesions as malignant or benign as follows:
+
+        1. If the shear wave velocity ≥ the cut-off value (3.5 m/s), the lesion is considered
+           potentially malignant, regardless of the outcome of the quality factor
+
+        2. If a lesion or lesion rim has a completely high quality factor (all green) and a shear
+           wave velocity < the cut-off value (3.5 m/s), the lesion is considered benign.
+
+        3. If a lesion or lesion rim has mixed high and low quality factors (there are areas with
+           low quality within the mass) and the only area of high quality (green) has a shear wave
+           velocity < the cut-off value (3.5 m/s), then the lesion is indeterminate and malignancy
+           cannot be excluded.
+    
+  

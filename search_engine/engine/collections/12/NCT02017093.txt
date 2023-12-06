@@ -1,0 +1,13 @@
+
+    
+      The wrist of the subject is connected to the robotic arm by a strip which supports the arm
+      but allows free movements of the wrist. This configuration allows subjects with impaired
+      grasping ability to use the system. A bio-feedback system enables the subject to perform
+      various functional motor tasks that are presented on the screen in front of him. The system's
+      sensors detect motor errors or deviations from an optimal/proper movement trajectory or
+      velocity profile. Any deviation in direction, velocity, acceleration or necessary force from
+      the optimal trajectory results in applied robotic forces that enhance such errors/deviations.
+      The sensors and the applied forces all work and compute in real time, so that the force
+      measurements and the applied force are updated to the executed movement.
+    
+  

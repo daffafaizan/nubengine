@@ -1,0 +1,122 @@
+
+    
+      Background and Rationale
+
+      Acute respiratory infections (ARI) cause considerable disease burden globally and can affect
+      both the upper and lower respiratory tract. A majority of ARI are caused by viruses, like the
+      influenza virus, while bacteria are only implicated in approximately 10% of cases . The
+      symptomology across various viral ARI are broadly similar, but two viruses, namely influenza
+      and respiratory syncytial virus (RSV) are associated with considerable morbidity and
+      mortality among adults and children. More immediate virus identification would improve
+      patient health management by triaging appropriate and timely treatment and infection-control
+      measures to mitigate health costs, additional health complications, and total days of symptom
+      expression.
+
+      Despite viral infections causing the majority of ARIs, 61% of those with acute respiratory
+      symptoms receive an antibiotic treatment. Due to the rise of antibiotic resistance, the
+      inappropriate and over-prescription of antibiotics has become a severe health risk and is
+      contributing to greater health complications and increased mortality rates. As a result, the
+      correct diagnosis of the various infections associated with ARIs has become even more
+      imperative to not cause undue harm. The abundance, accessibility, and rapidly advancing
+      technology in wearable devices contributes to the progress some studies have demonstrated in
+      using the devices as a potential mechanism to more rapidly identify various diseases. Though
+      limited research has explored this new perspective specifically in illnesses associated with
+      ARI, recent findings were able to demonstrate influenza signals at a population level using
+      step, sleep, and heart rate data collected from consumer wearable devices.
+
+      Influenza virus is important to diagnose correctly because, despite annual vaccinations, it
+      has been associated with higher morbidity and mortality than most other ARI viruses and has
+      been associated with greater individual symptom severity. During the 2017-2018 flu season in
+      the United States, it was estimated that 48.8 million people became sick with influenza,
+      959,000 were hospitalized, and there were 79,400 deaths recorded due to influenza.
+      Additionally, more vulnerable populations, like young children, those experiencing chronic
+      illness, and older adults, disproportionately represent the hospitalization and death totals
+      reported. Older adults represented 70% of influenza related hospitalizations in the 2017-2018
+      flu season and 90% of influenza related deaths.
+
+      The rapid diagnosis of influenza is also of particular importance due to the effectiveness of
+      influenza antiviral medication that is largely limited to initiation within 48 hours of
+      symptom onset. Additionally, rapid diagnosis also has the potential to enact infection
+      control measures to attenuate viral spread, particularly among vulnerable populations, using
+      behavioral interventions or other non-pharmaceutical approaches. Diagnosis of influenza
+      infection in centralized laboratories has largely progressed from traditional viral culture
+      to the use of reverse transcription-polymerase chain reaction (RT-PCR) methods .
+      Alternatively, influenza infection can be detected within a medical office or pharmacy using
+      commercially-available rapid diagnostic tests (RDTs) of varying complexity, cost and
+      accuracy.
+
+      There is now interest to expand RDTs to self-conducted tests that individuals can complete at
+      home to further reduce the period between the onset of illness and effective treatment.
+      Audere, a digital health non-profit, developed a mobile device app, the flu@home app, to
+      guide individuals to perform an influenza RDT themselves without being in a clinical setting.
+      The flu@home test uses a mixture of images and written directions prompted through the
+      flu@home app to walk individuals through an influenza RDT process. The flu@home test also
+      includes modified influenza RDT test material from an FDA 510(k) cleared RDT and includes an
+      optional in-app automated influenza RDT test result interpretation system to eventually help
+      inform health decisions and behaviors. Though no research has been published on the efficacy
+      of the flu@home system, it has been implemented, and is being investigated, in two large
+      prospective observational clinical studies during the 2019-2020 flu season, with
+      collaborators at the University of Washington, Seattle and University of Adelaide, Australia.
+
+      Expanding on the previous research and development that has been done, the aim of this study
+      is to develop a methodology to better classify and detect RVI cases, including influenza,
+      through the use of behavioral data and patient-reported outcomes, using RVI confirmation
+      through laboratory testing as a reference. This study also aims to assess the accuracy of the
+      flu@home RDT self-test, the in-app automated RDT test result interpretation, and a data
+      enhanced RDT test interpretation, compared to the interpretation provided by a trained
+      professional RDT reader, the PCR test result, and a reference influenza test
+      interpretations/analysis.
+
+      Device Description
+
+      The flu@home test kit is an at-home self-administered modified influenza RDT that is
+      completed with the assistance of a mobile device app. The flu@home app feature was developed
+      by Audere, a digital health non-profit based in Seattle. The flu@home test consists of the
+      instructional app experience that guides participants through the influenza RDT procedure and
+      the physical material of the RDT influenza test kit modified from the Quidel QuickVue
+      Influenza A+B test. The flu@home app will solely be utilized as an instructional guide and
+      research data collection tool for this study.
+
+      The flu@home test kit's instructional app features are available on iOS and Android
+      platforms. The instructional app features include multiple pages of text and imagery content
+      guiding participants through the entirety of the influenza RDT process, from completing a
+      nasal swab to adding solution into a test tube to run a lateral flow immunoassay. The
+      instructional app also includes an in-app questionnaire for participants to complete during a
+      10-minute participant wait period while their immunoassay processes. The flu@home test kit
+      also guides participants through the viral collection and appropriate transport procedure of
+      study samples for additional RVI analysis to be completed at an accredited laboratory.
+
+      The physical material of the flu@home test kit consists of components from an existing
+      commercial influenza RDT, with additional material to collect and return a reference sample
+      for laboratory testing. The complete flu@home test kit includes two foam-tipped nasal swabs,
+      a small tube with dried reagent, a saline vial, a lateral-flow immunoassay test strip, and a
+      tube with liquid reagent for the PCR test. RDT testing material is utilized from the
+      CLIA-waived Quidel QuickVue Influenza A+B Test. All physical testing material will be
+      assembled and mailed to participants through a 3rd party vendor, Molecular Testing Lab (MTL).
+      The flu@home test kit also includes mailing material for participants to return the RDT test
+      remnant and strip to be discarded by MTL and the reference nasal swab for laboratory testing
+      through PCR procedures at MTL's accredited facility.
+
+      The flu@home test kit's interpretation features will not be shared with participants within
+      the parameters of this study.
+
+      Regulatory Status
+
+      The flu@home test kit is considered a non-significant investigational device that is being
+      used for data collection purposes and will be labeled as an investigational device. The test
+      kit contains foam-tipped nasal swabs, a small tube with dried reagent, a saline vial and test
+      strip from the CLIA-waived Quidel QuickVue Influenza A+B Test, and a tube with liquid reagent
+      for the PCR test.
+
+      Explanation of choice comparator
+
+      PCR (RT-PCR for RNA viruses including influenza) is a reliable reference test for influenza
+      and other respiratory viruses. RT-PCR was identified as the comparator for the modified
+      at-home self-administered influenza RDT. Though RDTs can produce results in a much shorter
+      period of time than RT-PCRs, RT-PCRs have been found to have more sensitivity to the
+      influenza viruses than do RDTs. PCR or RT-PCR is often used as the reference test in research
+      studies and studies designed for FDA submission (e.g., influenza RT-PCR was used as a
+      reference test in the FDA 510(k) submission for the Quidel QuickVue Influenza A+B Test;
+      Quidel, 2018).
+    
+  

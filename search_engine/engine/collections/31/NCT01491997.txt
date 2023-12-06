@@ -1,0 +1,46 @@
+
+    
+      Statistical Analysis. The investigator will use the biopsychomarkers identified as the
+      highest prediction value to determine the relative accuracy to predict response to the
+      Mindful Intervention (i.e., disease outcome). For response to the mindful intervention, the
+      investigator will use the use the combination of markers to study whether they correctly
+      predict the response to the intervention. The investigator will study the accuracy of the
+      markers using area under the curve (AUC) summary index for ROC curves.181 If the
+      classification accuracy of the markers is high then the area under the curve will be close to
+      1. If the predictive accuracy of the combined set of markers were poor then the (AUC) will be
+      close to 0.5.
+
+      Power Estimates UC disease flare-up was quite common in this sample, occurring in well over
+      half of subjects in the samples collected in the discovery phase. The power analyses,
+      assuming α = 0.05 for all tests indicated that for models involving analyses of correlational
+      data, there will be sufficient power at even small effect sizes for the smallest possible
+      sample with full data across all data points and virtually all variables. For the most
+      conservative estimate, the investigator base their calculations on having 50 participants
+      with data with full integrity. With an effect size of r = 0.15 and n = 50, power is 80 or
+      greater to detect effect sizes of r = 0.20. Effect sizes below this threshold would likely
+      not be clinically significant or substantively interpretable, as they would explain less than
+      2% in the variance of the dependent variable. Thus, most effect sizes that would be
+      reasonably and substantially interpretable will have good power. Each factor that is
+      suspected of varying between groups can be examined with the chi-square test based on 1
+      degrees of freedom, by setting it invariant in one model and then allowing it to be freely
+      estimated in the other. Such a chi-square test provides a power of 0.80 with effect size
+      difference of 0.15.
+
+      For binary categorical measures, such as responsiveness to MSRB, the investigator conducted
+      separate power analyses.
+
+      The power for adjusted analyses of primary predictors of interest will be evaluated as a
+      function of the risk of outcome when all ancillary variables are set to their mean value, the
+      predictor is set to the mean value, and proportion of variance in predictor explained by the
+      ancillary variables, and the odds ratio of outcome variable from increasing the predictor by
+      an amount equal to one of its standard deviation. The range in probabilities of outcome
+      variables can be anywhere from 20% for less likely events and 50% for more likely events, the
+      investigator will provide power calculations over a wide range of probabilities. The
+      investigator believe that the amount of variation of our typical model ranges from about 20%
+      to 50%. The table (below) represents the minimum odds ratio than can be detected with 80%
+      power, which indicate good power for expected outcome.
+
+      Proportions R2 =.20 R2=.50 0.10 1.64 1.87 0.20 1.46 1.63 0.30 1.39 1.53 0.40 1.35 1.48 0.50
+      1.32 1.43
+    
+  

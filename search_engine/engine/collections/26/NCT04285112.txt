@@ -1,0 +1,42 @@
+
+    
+      Up to 5% of adolescents (~3.5 million in the US alone) suffer from high impact chronic
+      musculoskeletal (MSK) pain, affecting all life domains and posing a significant economic
+      burden. Current treatments for chronic MSK pain are suboptimal and have been tied to the
+      opioid crisis. Only ~50% of adolescents with chronic MSK pain who present for
+      multidisciplinary pain treatment recover, as measured by clinical endpoints of pain severity
+      and functional disability. Discovery of robust markers of the recovery vs. persistence of
+      pain and disability is essential to develop more resourceful and patient-specific treatment
+      strategies and to conceive novel approaches that benefit patients who are refractory. Given
+      that chronic pain is a biopsychosocial process, the discovery and validation of a prognostic
+      and robust signature for pain recovery vs. persistence requires measurements across multiple
+      dimensions in the same patient cohort in combination with a suitable 'big data' computational
+      analysis pipeline for the extraction of reliable and cross-validated results from a
+      multilayered and complex dataset. The research team is well positioned to execute the study
+      aims with: (1) A highly skilled and experienced team of scientists and clinicians from
+      Stanford University, University of Toronto/Hospital for Sick Children, and Cincinnati
+      Children's Hospital Medical Center; (2) A standardized specimen collection, processing,
+      storage, and distribution system, leveraging Stanford Biobank's platform, BioCatalyst, to
+      aggregate the sample inventory with clinical annotations for an accessible, virtual biobank,
+      within the Signature of Pain Recovery IN Teens (SPRINT) Biobank and Analysis Core (SBAC); (3)
+      Cutting-edge preliminary data implicating novel candidates for neuroimaging, immune,
+      quantitative sensory, and psychological markers for discovery; and (4) Expertise in machine
+      learning approaches to extract reliable and prognostic bio-signatures from a large and
+      complex data set. The research team expects that the results from this project will
+      facilitate risk stratification in patients with chronic MSK, a more resourceful selection of
+      patients who are likely to respond for undergoing current multidisciplinary pain treatment
+      approaches, and new insight into biological and behavioral processes that may be exploited to
+      develop novel strategies profiting those who are refractory.
+
+      For the R61/Discovery Phase Aim individuals will be thoroughly characterized via biological
+      (i.e. brain structure and function, immune, sensory profiles), psychological state, and
+      clinical endpoint (i.e., pain intensity, disability) data. Unbiased machine learning
+      algorithms will identify a multivariate model comprised of the most prognostic biological,
+      psychological, and clinical endpoints. The model will classify adolescents with and without
+      resolving chronic MSK pain after a state-of-the art multidisciplinary pain treatment
+      intervention. R33/Validation Phase Aim will validate the biological signature derived in the
+      R61 study. This signature will be useful for a range of adolescent-based clinical trials in
+      which identification of the highest risk individuals is necessary, providing a clinically
+      actionable intervention algorithm.
+    
+  

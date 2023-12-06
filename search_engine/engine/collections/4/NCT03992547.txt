@@ -1,0 +1,34 @@
+
+    
+      Gait enables individuals to move forward and is considered a natural skill. However, gait
+      disturbances are very common in patients with burn injury. Major causes of functional
+      impairment are pain and joint contractures. Contractures at the lower extremities such as the
+      hip, knee, and ankle significantly limit gait. Recent studies focused on the application of
+      robot-assisted gait training (RAGT).
+
+      This single-blinded, randomized, controlled trial involved 40 patients with lower extremity
+      burns. Patients were randomized into a RAGT or a CON group.
+
+      SUBAR® (CRETEM, Korea) is a wearable robot with a footplate that assists patients to perform
+      voluntary muscle movements. RAGT enables training of automatically programmed normal gait
+      pattern. Patients underwent 30 min of RAGT using SUBAR® and conventional exercise
+      rehabilitation each for 30 min once a day for 5 days a week for 12 weeks. The CON group
+      focused on gait training such as passive ROM exercise, weight bearing training, manual
+      lymphatic drainage, and hypertrophic scar care for 60 min once a day for 5 days a week for 12
+      weeks.
+
+      A wearable functional near-infrared spectroscopy (fNIRS) device has been developed for
+      studying cortical hemodynamics. Changes in cortical activity has not previously been
+      documented in patients with burn injury. Cortical activity was measured by evaluating
+      relative changes in oxyhemoglobin level. The NIRST Analysis Tool v2.1 was utilized to analyze
+      fNIRS data in a MATLAB environment. Functional scores of functional ambulation category
+      (FAC), 6-minute walking test (6MWT) distances, and numeric rating scale (NRS) scores of pain
+      before and after 12 weeks RAGT were measured. Numeric rating scale (NRS) was used to rate the
+      degree of subjective pain during gait movement: 0 points were assigned when no pain was
+      noted, and unbearable pain was assigned 10 points. To evaluate functional recovery, FAC
+      scores and 6-minute walking test (6MWT) distances were measured. FAC was evaluated based on
+      six scales. Scale 0 means that the patient cannot walk or can only walk with assistance of
+      two people. Scale 5 means that the patient can walk independently. We measured
+      walking-related cortical activity using an fNIRS device before and after 12 weeks RAGT.
+    
+  

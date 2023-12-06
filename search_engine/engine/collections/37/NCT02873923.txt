@@ -1,0 +1,71 @@
+
+    
+      Background: In randomized phase III cancer clinical trials, the validated and most
+      objectively defined evaluation criterion is overall survival (OS). Therapeutic progress,
+      which in certain contexts has significantly reduced overall mortality, the development of new
+      types of cytostatic treatments (as opposed to cytotoxic treatments), the current context of
+      strategic trials and the multiplication of lines of treatment have resulted in the necessity
+      of creating new evaluation criteria measuring treatment efficacy sooner and more precisely:
+      for example, progression-free survival in second line treatment, duration of local control,
+      and time until treatment failure. These types of surrogate endpoints are commonly used in
+      phase II trials but are increasingly being used to replace overall survival in phase III
+      trials. Their development is strongly influenced by the necessity of reducing clinical trial
+      duration, cost and number of patients.
+
+      However while these survival endpoints are frequently used, they are often poorly defined and
+      when they are, the definition can vary between trials. The lack of standardized definitions
+      constitutes a clear limitation to their use as primary endpoints. Furthermore, this
+      variability of definitions can have an important impact on trials' results by affecting power
+      and estimation.
+
+      The ongoing DATECAN-1 project is aimed at providing guidelines for the definitions of
+      survival endpoints in cancer trials (2009-2011 grant from the French League Against Cancer).
+      Standardized recommendations will be available for survival endpoints commonly used for
+      various cancer sites including pancreas, sarcomas and GIST (gastro-intestinal stromal
+      tumors), breast, stomach.
+
+      Objectives: Following these guidelines, one can wonder how sensitive are these definitions?
+      Or similarly, how do survival endpoints' definitions impact the conclusions of clinical
+      trials? The objective of the DATECAN-2 study is to assess the impact of survival endpoints'
+      definitions, as defined by the consensus guidelines, on trials' results and conclusions. The
+      second objective is to study the surrogate properties for OS of these survival endpoints.
+
+      Methods: The evaluation of the impact of the variability of the definitions of survival
+      endpoints on the results of clinical trials will be evaluated using individual data from
+      datasets collected in the context of published (academic) clinical trials, as well as
+      simulated datasets.
+
+      After approval by the sponsors, data will be analyzed using various endpoints' definitions
+      including (i) the definition provided in the publication and (ii) the definition provided by
+      the guidelines. We will identify which survival endpoint, as defined by the guidelines, was
+      reported in the publication. Next, realistic data sets will be simulated that mimic data that
+      could be observed in randomized cancer trials. We will generate data sets with varying
+      proportions of events (number of deaths, progression, etc) depending on the survival
+      endpoints of interest. Survival endpoints will be compared across treatment arms using the
+      definition provided by the guidelines, and based on various scenarios (different proportions
+      of events, length of follow-up, etc).
+
+      Using data from published data sets, we will evaluate survival endpoints in terms of
+      surrogate candidates for OS. A hierarchy of the survival endpoints will be proposed according
+      to their surrogate properties based on two criteria: the Fleming classification and the R2
+      value for validated surrogates. Depending on the number of clinical trials, single-trial or
+      multiple-trials method will be employed. Single-trial methodology relies on Prentice criteria
+      and Freedman's proportion of treatment effect (PTE) explained by the surrogate. In case of
+      multiple trials, and when meta-analysis of clinical trials is feasible, surrogacy of
+      candidate endpoints for OS will also be explored using weighted linear regression, which
+      jointly estimates the level of association between endpoints and the trial-level association
+      (R²) between treatment effects on the candidate surrogate and the final endpoint. Based on
+      these results (R² and PTE), survival endpoints will be ranked according to their surrogate
+      capabilities for OS.
+
+      Expected results: Analysis of the sensitivity of clinical trials' results to the survival
+      endpoints' definitions and surrogacy properties are key features when designing and
+      conducting clinical trials. Based on our results, we will be able to anticipate the expected
+      impact of the definitions on effect size, sample size and power. We will be able to estimate
+      these parameters more precisely and as such provide more efficient estimations. Similarly our
+      assessment of the surrogate properties of the survival endpoints should help us for the
+      selection of the best surrogate marker for OS, and thus limit biases. Overall, by producing
+      less biased results and more efficient designs, our project should have an important role in
+      the design and conduct of future randomized trials.
+    
+  

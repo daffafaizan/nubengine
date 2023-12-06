@@ -1,0 +1,91 @@
+
+    
+      1. Intro Pain recently was defined as distressing experience associated with actual or
+           potential tissue damage with sensory, cognitive, emotional, and social components. Pain
+           can be seen as perceptual marker within physical exercise. Individuals can report on a
+           number of perceptual markers such as the changes in exertive pain which was shown to be
+           a distinct source of information than reports of PE during cycling for instance. The
+           perceptual markers of pain are still little investigated within exercise settings.
+
+           From another side, to best understand exertive pain, one needs to consider several
+           dimensions of pain including the sensory-discriminative, affective-motivational, and the
+           cognitive-evaluative dimensions. Several number of studies within the exercise science
+           have focused on the sensory-discriminative dimension of pain. Results from these have
+           suggested a linear relationship between pain perception and the power output in diverse
+           effort settings including cycling, static and dynamic handgrip squeezing, and
+           incremental treadmill running. Indeed, the comparison of ratio of leg pain to arm pain
+           during cycling and running has also demonstrated that the ratio of leg to arm pain
+           increases across higher intensities.
+
+           Most of the extant work however centred on pain and PE from a group-based standpoint to
+           lead to group-based conclusions. Traditionally, within exercise science, variables are
+           measured at distinct, low-frequency time points, and then are either averaged over the
+           course of the trial or reported at the measured time. In turn, such practices make it
+           difficult to measure dynamic feed-forward and feedback control mechanisms inherent in
+           these variables. Taken these together, studying pain and discomfort from an individual,
+           case-by-case standpoint, in a high-frequency time points setting, may present unique
+           benefits. Considering that the physiological and psychological variables (e.g., PE)
+           present fluctuations during heavy constant-power cycling when reporting at a measurement
+           frequency of 15s it seems plausible to assume that pain locations can also fluctuate.
+           Consequently, it may be useful to distinguish amongst differential types of
+           spatiotemporal pain fluctuations patterns during exercise. Mapping these dynamics can
+           help predict individual-specific fatigue in the course of exercise. The functional role
+           of fluctuating dynamics has already been studied in psychological (e.g., volitional
+           states, thought processes) and kinematic variables during constant-power exercise
+           performed until volitional exhaustion. These approaches are important in that the
+           suppression of the intra- individual variability performed by a statistical averaging
+           may hide the properties of individual systems.
+
+           In this vein, we tend to study and delineate individualized pain and discomfort patterns
+           in exercise. The purpose of this study will be to study the individual spatiotemporal
+           structure and dynamics of topologically defined areas of perceived body discomfort and
+           pain during exercise.
+
+        2. Methods 2.1 Participants To determine the sample size for this study a power analysis
+           was conducted using G*Power 3.1. In studies of thought processes larger effect sizes
+           have been reported. Thus, using an effect size of d = 1.0, α < 0.05, power (1 - β) =
+           0.80, a sample size of n = 11 emerged. Caucasian physical education students (age range:
+           18 - 30 years) undergoing regular aerobic exercise will be recruited to participate
+           voluntarily in the study. Students will receive oral and written information regarding
+           the study. They will be additionally encouraged to ask questions if there would still
+           any ambiguities.
+
+      2.2 Materials and procedure Completion of this study will took a total of three sessions,
+      separated by one-week intervals, and each of approximately 30 minutes. At week one,
+      participants will complete a baseline incremental cycling and running tests to determine the
+      workload and velocity values corresponding to their RPE (6-20 Borg's scale) = 15 (i.e.,
+      heavy). At this time, participants also will be familiarized with the use of body maps and
+      reporting procedures. At week two and three, participants will complete the constant-power
+      cycling and constant velocity running tasks, respectively, in a counter-balanced assigned
+      order.
+
+      2.2.1. Monitoring for Discomfort and Pain Every 15s during exercise, upon the researcher's
+      prompts, participants will report bodily locations with discomfort and pain on a body map
+      scale.
+
+      2.2.2. Constant-power Cycling Task The task will include an incremental warm-up session and a
+      constant-power cycling which will be performed up to volitional exhaustion. The
+      constant-power cycling will begin when participants will report RPE = 15 during the
+      incremental warm-up and the cycling task will last up to volitional exhaustion. The end will
+      be set when participants won't be able to cycle longer at the fixed cadence for five
+      consecutive seconds at the sitting position.
+
+      2.2.3. Constant-velocity Running Task The task will include an incremental warm-up (identical
+      to the running baseline test) and a constant velocity run which will be performed up to
+      volitional exhaustion. The constant velocity run will start when participants will achieve
+      and report RPE = 15 during the incremental warm-up and will last up to volitional exhaustion
+      when they could no longer be able to maintain the imposed velocity.
+
+      2.2.4. Commitment check Upon the completion of all testing procedures participants will
+      answer questions about complete commitment to measure their commitment levels to the
+      reporting tasks (a) and commitment to task (b), on an 11-point Likert-type scale with anchors
+      ranging from 0 (not at all) to 10 (greatly).
+
+      2.3 Data collection and analysis All the locations for each participant will be transformed
+      to binary vectors. Investigators will analyse the effects of the time steps using repeated
+      measures ANOVAs. Principal component analysis (PCA) will be used to reduce the dimensionality
+      of the local discomfort and/or pain data (that will be obtained from the 50-item pain map).
+      The data and time of each testing session will be reported in a list. All data can be
+      reconstructed for each participants.
+    
+  

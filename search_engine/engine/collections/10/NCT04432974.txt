@@ -1,0 +1,74 @@
+
+    
+      This clinical study consists of the application of the ACTIVA control software for the
+      infusion of intravenous drugs during general anesthesia according to the principle of
+      closed-loop anesthesia.
+
+      The objective of the experimentation is to evaluate the reliability, safety and applicability
+      of the infusion system for anesthetic drugs controlled by the ACTIVA software and to carry
+      out the clinical evaluation of the automatic control system during the induction and
+      maintenance of general intravenous anesthesia. The benefits for enrolled patients could be
+      linked to greater stability of anesthesia in the induction and maintenance phases. Constant
+      closed-loop control of infusions and the level of hypnosis could also reduce the hemodynamic
+      impact that general anesthesia has on the patient, by reducing the onset of hypotension
+      episodes.
+
+      Enrolled patients will undergo closed-loop anesthesia under the constant supervision of the
+      investigator. The anesthetic drugs used are those recommended for general intravenous
+      anesthesia: propofol and remifentanil.
+
+      Identification and description of the medical device:
+
+      The medical device object of the clinical investigation consists of the ACTIVA control
+      software developed to control the infusion of anesthetic drugs during general intravenous
+      anesthesia. ACTIVA software has been developed to optimize the infusion of anesthetic drugs
+      according to a closed-loop system that allows the induction and maintenance of a constant and
+      optimal level of anesthesia on the patient. ACTIVA control software is installed on a
+      personal computer (PC).
+
+      The level of anesthesia is measured according to the Bispectral Index (BIS) which measures
+      the depth of hypnosis. Through the measurement of the BIS, the administration of anesthetic
+      drugs is automatically regulated by the ACTIVA software and constantly supervised by the
+      anesthesiologist through the graphic interface integrated in the software.
+
+      The population for which the device is intended is made up of patients to undergo surgery for
+      which general anesthesia is required, and intravenous anesthesia may be advantageous.
+
+      During its operation, the ACTIVA software maintains the desired BIS level, selected by the
+      anesthesiologist through the graphical user interface, communicating the appropriate infusion
+      rate of the propofol and remifentanil anesthetic drugs to the syringe pumps. ACTIVA software
+      communicates with the pumps and the BIS monitoring system with serial connections. These
+      connections are native to the instrumentation used; therefore, no type of modification or
+      manipulation has been made on the medical devices used.
+
+      Closed-loop anesthesia:
+
+      A closed-loop system can be defined as an automatic control system that bases its operation
+      on the principle of feedback. Its key elements are a system to be controlled, a measuring
+      device (sensor), a controller and an actuator. The sensor measures the controlled variable
+      (system output), which is compared with the desired set-point. The difference between the
+      latter and the output, defined as an error, is used to calculate the value of the control
+      variable (system input).
+
+      In the case of closed-loop anesthesia, the system to be controlled identifies with the
+      patient, the actuator is represented by the syringe pump, the controlled variable corresponds
+      to the BIS and the control variable is represented by the rate of infusion of the drugs.
+
+      The controller used is a proportional-integral-derivative (PID) it relates the error signal
+      and the control variable by means of three constants (Kp, Ti and Td) allowing a correct
+      infusion of the drugs considering the present value of the error ( proportional action), the
+      past values of the error (integral action) and the advance of the future values of the error
+      (derivative action). These three constants, if properly calibrated, allow to obtain a
+      controller with good performance and robustness. For the ACTIVA system the calibration of
+      these constants was carried out by means of optimization methods performed in simulation.
+
+      The anesthesiologist has at his disposal a PC with a graphical user interface through which
+      he can control the start and end of the drug infusion and on which there are the commands
+      through which it is possible to interact with the system. The graphical interface also
+      reports indicators concerning the correct functioning of the control system. In case of
+      malfunction of the ACTIVA software, the patient monitoring systems are never altered or
+      damaged and the infusive pumps continue to operate in manual mode. Switching to manual
+      control is always possible if the anesthesiologist considers it appropriate, even without the
+      presence of system malfunctions.
+    
+  

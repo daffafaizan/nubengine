@@ -1,0 +1,28 @@
+
+    
+      Elevated Blood Pressure (BP) is a chronic medical condition with a prevalence of about 45% in
+      the middle-aged population.
+
+      The particular interest of this project is given to the diagnosis and treatment of so-called
+      nocturnal hypertension. Unfortunately, current monitoring practice relies on the use of
+      occlusive pneumatic cuffs inflated around the arm to assess BP. Based on oscillometric
+      technique, occlusive cuffs perform intermittent BP measurements every 20 minutes, thus
+      providing only a limited view of the BP regulation landscape. In addition, oscillometric
+      measurement performs a full occlusion of the measured arm inducing awakening reactions, and
+      leading to non-representative overestimated BP values. The non-occlusive measurement of BP is
+      thus an unsolved problem of modern medicine.
+
+      The aim of the NAMBP (Night Ambulatory Monitoring of Blood Pressure) project is to develop,
+      implement and test in clinical trials a first-ever non-occlusive BP sensor to be used during
+      sleep.
+
+      A novel technology for the non-occlusive measurement of BP from photoplethysmographic
+      (optical) signals, known as Pulse Wave Analysis (PWA), has been investigated for the past
+      decade by the Centre Suisse d'Electronique et de Microtechnique (CSEM, Neuchâtel,
+      Switzerland). The herein proposed system - the CSEM Pulse Watch - consists in a single sensor
+      (watch-like device) attached at the wrist that measures photoplethysmographic waveforms
+      induced by the pulsatility of the skin arteries of the wrist. These waveforms are then
+      post-processed via PWA: The system will detect features in the measured waveforms that
+      correlate, through the phenomenon of wave reflections, to the underlying BP of the patient.
+    
+  

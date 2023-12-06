@@ -1,0 +1,135 @@
+
+    
+      Research Statement SIGNIFICANCE Memory impairments are common to several neurological and
+      psychiatric disorders, including Alzheimer's disease and depression, and these impose a heavy
+      burden on patients, families and society (Dickerson and Eichenbaum, 2007). Novel treatment
+      and diagnostic strategies are needed, and these may arise from a deeper understanding of the
+      brain basis of episodic memory (Tulving, 1983).
+
+      Group-averaged neuroimaging studies have revealed that a distributed network, known as the
+      'default network' (DN), increases activity during the recollection of past events (Buckner et
+      al. 2008). This network occupies regions including posteromedial cortex (PMC), posterior
+      parietal cortex (PPC), and the medial temporal lobe (MTL), as well as lateral temporal and
+      lateral and medial prefrontal cortices. Building on recent advances in functional magnetic
+      resonance imaging (fMRI; Poldrack et al., 2015; Laumann et al., 2015), recent evidence has
+      shown that when functional anatomy is defined in individuals, the DN comprises at least two
+      juxtaposed networks, named DN-A and DN-B for convenience (Figure 1). This finding forces us
+      to reconsider the role of the DN in episodic processes (see also: Dastjerdi et al., 2011;
+      Andrews-Hanna et al., 2010). Here we propose experiments to deepen our understanding of these
+      networks using a multimodal approach that provides high spatiotemporal resolution and
+      whole-brain network definition. We will combine within-individual fMRI mapping with
+      intracranial electroencephalography (iEEG) and electrical brain stimulation (EBS). We will
+      directly record local field potentials from precisely mapped network regions, and apply
+      electrical stimulation with millimeter precision. This will provide novel information
+      regarding episodic memory in two domains that cannot be gathered by fMRI alone: i)
+      characterizing fast temporal dynamics of network recruitment during episodic recollection,
+      and ii) establishing causal interactions between brain regions during recollection.
+
+      INNOVATION Methodologically, this project will provide proof of principle that precision fMRI
+      mapping can be performed in a clinical population and successfully combined with invasive
+      recordings and stimulation. Theoretical innovation will be obtained through a deeper
+      understanding of the task-response dynamics, coupling, and causal relationships between
+      regions of distributed networks, including how neural engagement changes during memory
+      recollection. Finally, this proposal provides translational innovation by directly testing
+      whether precision-fMRI guided intracranial stimulation can be used modulate memory
+      performance.
+
+      APPROACH General methods: Participants in the proposed experiments will be neurosurgical
+      patients with presumed focal epilepsy that are to undergo implantation with intracranial
+      electrodes for localizing seizure foci. The proposal will be carried out at the Northwestern
+      University Feinberg School of Medicine. Patients scheduled for intracranial seizure
+      monitoring will be invited to enroll in the study and will undergo 1 to 4 sessions of fMRI
+      prior to surgical implantation of electrodes. After surgery, patients are typically monitored
+      for ~7 days in the Northwestern Memorial Hospital Comprehensive Epilepsy Centre (CEC), during
+      which they will be invited to participate in the proposed experiments. All subjects must
+      provide informed consent before participating.
+
+      Enrollment: A minimum of 40-50 patients are expected to be monitored at the CEC over the next
+      3 years. Electrode locations are determined by the clinical needs of the patient. 60-70% of
+      patients are typically implanted with dense coverage of the medial temporal lobes achieved
+      through depth electrodes with trajectories that allow sampling of lateral temporal cortices.
+      A small number of electrodes are also typically implanted in posterior cingulate, lateral
+      inferior parietal and ventromedial prefrontal cortex. Due to the distributed nature of the
+      networks under investigation, which contain regions in multiple cortical zones, it is likely
+      that we will have coverage over relevant brain regions in many cases. Some patients are also
+      likely to be implanted with broader cortical coverage using subdural grids. Preliminary
+      results have shown that even when a patient is implanted only with depth electrodes, which
+      are not placed on the cortical surface but penetrate into the brain, coverage of different
+      candidate network regions was often achieved along the electrode trajectory. With
+      conservative estimates, 20-30 subjects will be good candidates for the project aims outlined
+      below. Given the high signal-to-noise ratio of iEEG (usually a 200-300% task-evoked increase
+      in signal from baseline; Parvizi and Kastner, 2017), reliable effects can typically be found
+      within individuals. All proposed analyses will be carried out within individuals, hence
+      multiple subjects are required to generalize the findings, not increase statistical power.
+      Therefore, a small number of subjects (as low as n = 12) would be sufficient (e.g. Braga and
+      Buckner, 2017; Foster et al., 2013).
+
+      Neuroimaging acquisition: MR scans will be collected in 1-4 sessions from each patient.
+      Preliminary data has shown that in this clinical population 2-3 MRI sessions are desirable to
+      allow exclusion of non-compliant runs (e.g. those containing excess head motion). We will
+      collect 6-8 runs of fMRI data per session, resulting in between 42 - 224 mins of fMRI data
+      per patient. This will allow robust and reliable estimates of network topography. Subject
+      sleepiness will be monitored through an in-scanner eye-tracking camera. Compliance may be
+      improved by allowing patients to watch movies inside the scanner when needed, with pilot
+      analyses showing comparable maps are obtained using movie and visual fixation task data.
+      Hence both tasks will be administered to improve compliance.
+
+      Network definition within individuals: Networks will be defined within individuals using two
+      methods to ensure robustness. MRI preprocessing will be performed using a custom pipeline
+      'iProc' that optimizes within-subject alignment and minimizes blurring. Individual seed
+      regions will be hand-selected and correlation maps will be thresholded at r > 0.2 to remove
+      regions of low certainty. The networks of interest, DN-A and DN-B, will be targeted and
+      identified using the expected anatomical distribution of each network (described in detail in
+      Braga and Buckner, 2017). Once candidate seed regions are selected, definition of networks
+      will be performed again in each individual using data-driven clustering, which reduces
+      potential experimenter bias. Networks from the clustering analysis that most closely match up
+      with the networks defined by hand will be selected and labelled as DN-A and DN-B. Network
+      maps will be used to label electrode contacts (each 'electrode' can have multiple 'contacts'
+      along its shaft or grid) by their approximate location within or near each network.
+
+      Electrode localization: Electrode locations will be determined using a computerized
+      tomography (CT) scan. Estimates of the center of each contact in CT space will be obtained
+      using BioImage Suite. The CT image will be registered to the anatomical T1 image (containing
+      brain tissue locations) using a linear transform, allowing coordinates of each contact to be
+      projected to the T1 space. Preliminary data has shown that the inter-rater error in this
+      localization process is typically ~1mm. A 2-mm radius sphere will be generated centered on
+      each contact coordinate to approximate the sampling volume of each contact, which is extended
+      due to tissue conductance. Contacts that are predominantly sampling white matter will be
+      removed by excluding contacts whose sphere does not overlap with the gray matter ribbon
+      (estimated using FreeSurfer). The overlap between spheres and gray matter will be used for
+      surface-based and volume-based functional connectivity (FC) analyses. FC maps will be created
+      for each contact, and the resulting maps will be visualized. If a contact fails to produce a
+      FC map with distant regions of high correlation (indicating that the contact is sampling a
+      distributed network), the contact will be excluded. If the contact's FC map resembles DN-A
+      and DN-B, as defined using the clustering and manually defined seed-based analyses, this
+      contact will be labelled as sampling DN-A and DN-B and included for further analysis. Two
+      nearby electrodes, one situated in DN-A and one in DN-B, will be selected a priori in two
+      different cortical zones (e.g. PMC vs. PPC, based on coverage).
+
+      iEEG processing: All contacts within the epileptic zone or corrupted by external noise will
+      be removed from further analysis. Raw signals will be notch filtered at 60, 120 and 180 Hz to
+      remove electrical noise and harmonics. Notch-filtered signals will be re-referenced by
+      subtracting the common average, after removal of pathogenic or spiky signals, as well as
+      those presenting as clear outliers in power spectra plots. Data will be bandpass filtered to
+      extract amplitude and phase information at different frequency bands. The high-frequency
+      broadband (HFB; 70-140 Hz) signal is an important surrogate for local neuronal population
+      activity and corresponds to low-frequency correlations of the blood oxygenation-level
+      dependent signal (Logothetis et al., 2001). HFB band-limited power will be calculated and
+      low-pass filtered at <0.1 Hz. Pair-wise correlations in HFB power will be used to estimate
+      functional connectivity.
+
+      Direct cortical stimulation: Risks associated with the research stimulation protocol are
+      considered incremental and are further reduced by carrying out the stimulation under
+      supervision of a clinical researcher, when patients are on antiepileptic medication, and
+      keeping stimulation to within safety limits. Low frequency (1 Hz) single pulse stimulation
+      will be applied to regions of DN-A and DN-B to map cortico-cortical evoked potentials
+      (CCEPs). This will be used to estimate the strength, as well as provide data on the
+      directionality of connections between regions. In a departure from original plans, based on
+      recent findings (Hermiller et al. 2019), theta-burst stimulation (gamma-band stimulation
+      applied intermittently at theta frequencies) will be applied to regions of DN-A regions in
+      lateral temporal, posteromedial and prefrontal cortices during a recollection task to test if
+      stimulation of distant DN-A regions can lead to improvements in hippocampus-mediated episodic
+      memory recollection. Currents will be administered at a threshold below that which causes
+      after-discharges (usually around 6-8 mA).
+    
+  

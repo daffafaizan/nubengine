@@ -1,0 +1,88 @@
+
+    
+      Background Oxygen is essential to life and supplementary oxygen therapy is routinely
+      administrated during surgery to avoid life-threatening hypoxemia. Supplementary oxygen
+      therapy is often given as a high and fixed fraction of inspired oxygen (FiO2) ranging from
+      0.60 to 1.00. As a consequence, the partial pressure of arterial oxygen (PaO2) often exceeds
+      normal levels. There is increasing evidence of potential harm with liberal administrated
+      oxygen therapy. Therefore, the standard regimes for oxygen therapy during surgery have to be
+      further investigated.
+
+      The purpose of the study is to evaluate whether a regime for oxygen therapy targeting normal
+      levels of PaO2 during elective cardiac surgery with use of cardiopulmonary bypass (CPB) and
+      in the first postoperative day in the intensive care unit (ICU) is feasible. Additionally,
+      metabolic changes in exhaled breath condensate and in arterial blood collected prior to
+      surgery, before and after CPB, the first postoperative day in the ICU and the third
+      postoperative day at the surgical ward will be evaluated.
+
+      Study Design The study design is a before-and-after study in patients scheduled for elective
+      cardiac surgery being coronary artery bypass grafting or valve replacement or a combination
+      of both. The first 25 patients will follow our institutional the standard regime for
+      supplementary oxygen therapy; i.e. a minimum FiO2 of 0.60 during mechanical ventilation and
+      at least 3 liters oxygen per minute after weaning from the ventilator in the ICU. Thereafter,
+      another 25 patients will receive supplementary oxygen therapy to achieve a normal PaO2
+      defined as 10-12 kPa (75-120 mmHg) during surgery and in the ICU.
+
+      Exhaled breath condensates will be collected via a mouthpiece during spontaneous breathing
+      prior to surgery, first and third postoperative day while the condensates will be collected
+      via the tracheal tube during mechanical ventilation. Arterial blood samples will be collected
+      simultaneously. Exhaled breath condensates and serum samples will be divided into aliquots
+      and stored in a -80 degree Celsius freezer until final analyses after all patients have been
+      included.
+
+      Metabolic changes in exhaled breath condensates and in serum samples will be analyzed using
+      nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS). The spectra's will
+      give a snapshot of all metabolites in a given sample and elucidate changes in the metabolic
+      profiles in response to oxygen exposures.
+
+      Hypothesis The hypothesis is that oxygenation targeting is feasible and that changing the
+      supplementary oxygen therapy to a oxygenation targeting within the normal range will reduce
+      the FiO2 and thus the PaO2/FiO2 ratio.
+
+      Outcomes Primary outcome is the PaO2/FiO2 ratio on the third postoperative day. Secondary
+      outcomes will be changes in metabolic profiles in exhaled breath condensates and serum
+      samples, changes in oxygenation parameters, PaO2 and oxygen saturation, changes in time to
+      weaning from the ventilator in the ICU, changes in FiO2 and in supplementary oxygen therapy
+      after weaning from the ventilator, and changes in postoperative complications defined as
+      pneumonia, arrhythmias, re-operation, and re-admission to the ICU.
+
+      Statistical analyses This is a pilot study being a feasibility before-and-after study. Based
+      on institutional data a power calculation is performed estimating an increase in the
+      PaO2/FiO2 ratio from 30 ± 7 kPa with the standard regime for oxygen therapy to 36 ± 7 kPa
+      with a oxygenation targeting approach and with an alpha of 0,05 and a power of 80% (1-beta),
+      23 patients are needed in each group. To cover to dropouts at total of 50 patients, 25
+      patients in each group, will be recruited.
+
+      Data will be assessed for normality. Continuous normally distributed variables will be
+      compared using Student t tests and reported as mean and standard deviation, while
+      non-normally distributed data will be compared using Wilcoxon rank-sum tests and reported as
+      median and interquartile range. All analyses will be performed by using Stata (Metrika
+      Consulting AB, Stockholm, Sweden), Matlab.
+
+      The composition of metabolomics will be compared by multivariable analysis. For multivariate
+      analysis, various unsupervised and supervised analyses will be carried out in Matlab (The
+      MathWorks Inc., Natick, United States) and Python (Python Software Foundation, Delaware,
+      United States) software with in-house scripts. Principal component analysis will be used to
+      obtain a preliminary outlook of the data, to screen for outliers and detect clusters.
+      Eventually, partial least squares discriminant (PLS-DA) analyses coupled to different vv rs
+      selections algorithms will be employed to perform data reduction and classification of
+      treatments. For validation purposes, the Venetian-Blinds cross-validation approach will be
+      applied.
+
+      Ethics Patients will be included after an informed signed content is obtained. FiO2 of 0.60
+      is given routinely to patients undergoing cardiac surgery with CPB at Aalborg University
+      Hospital. Targeting a physiological PaO2 level between 10 and 12 kPa is considered to be
+      safe. Patients undergoing cardiac surgery is routinely maximal monitored during surgery and
+      in the ICU. The cardiac anaesthetist in charge can charge the PaO2 target at any time.
+
+      The collection of exhaled breath condensate is painless and without any discomfort for the
+      patient. The arterial blood sample on the third postoperative day will be performed by a
+      cardiac anaesthetist experienced in this procedure, who will apply a subcutaneous analgesia
+      with Lidocain 1% prior to the puncture and thus avoiding pain during the procedure.
+      Thereafter, a manual compression will be performed for 2 minutes to minimise the risk of a
+      haematoma. In total, four extra blood samples are collected for the metabonomics and one
+      extra blood gas analyses. The total amount of blood extracted in the study is 12.5 mL.
+
+      All other procedures and treatments follow the standard regimes.
+    
+  

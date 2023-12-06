@@ -1,0 +1,80 @@
+
+    
+      Intermittent episodes of hypoxemia and/or bradycardia, also defined as cardio-respiratory
+      events (CRE) are very frequent in preterm infants and may result in transient hypoxia and
+      hypoperfusion of target organs, with possible clinical implications. The hemodynamic
+      instability that characterizes the first 72 hours of life, also called as transitional
+      period, place preterm infants at high risk of complications and may contribute to enhance
+      fluctuations in end-organ perfusion and oxygenation induced by CRE. Moreover, during this
+      period, several clinical variables (e.g., antenatal steroid administration, gestational age
+      [GA], patent ductus arteriosus [PDA], respiratory support etc.) may contribute to modulate
+      the hemodynamic fluctuations in response to CRE.
+
+      Hence, this study aims:
+
+        -  to explore changes in the main cardiovascular and cerebrovascular parameters elicited by
+           different CRE types
+
+        -  to evaluate whether different antenatal, perinatal and postnatal factors may influence
+           the observed cardiovascular and cerebrovascular responses to CRE.
+
+      Infants born at S. Orsola-Malpighi Hospital are consecutively enrolled in this observational,
+      prospective study if fulfilling the following eligibility criteria: gestational age (GA) <32
+      weeks' gestation, birth weight <1500 g, 0-12 hours of life, written informed consent obtained
+      from the parents/legal guardians of each infant.
+
+      As routinely performed in infants with the eligible characteristics, the enrolled infants
+      undergo a simultaneous, continuous and non-invasive monitoring of
+
+        -  peripheral oxygen saturation (SpO2) and heart rate (HR) using a pulse oximeter
+
+        -  cerebral tissue oxygenation index (cTOI) and cerebral total hemoglobin index (cTHI),
+           which represents a proxy of cerebral blood flow, using near infrared spectroscopy.
+           Cerebral fraction of oxygen extraction (cFTOE) is also calculated as follows:
+           (SpO2-cTOI)/SpO2.
+
+        -  cardiovascular parameters (cardiac output [CO], stroke volume [SV], cardiac
+           contractility index [ICON], systemic vascular resistance [SVR]) using electrical
+           cardiometry.
+
+      In the enrolled infants, each monitoring device is connected via a RS232 cable to a laptop
+      running ICM+® (https://icmplus.neurosurg.cam.ac.uk/, Cambridge Enterprise, UK), a software
+      tool that allows a real-time synchronized multi-parametric data collection, which recorded
+      the above mentioned parameters continuously, from the time of enrollment up to 72 hours of
+      life.
+
+      Cardiorespiratory event types are classified on the basis of SpO2 and HR values as follows:
+
+        -  isolated desaturation (ID): SpO2 <85% and classified into mild (SpO2 80-84%), moderate
+           (SpO2 70-79%) and severe (SpO2 <70%).
+
+        -  isolated bradycardia (IB): any HR drop <100 bpm or >30% from baseline values, calculated
+           daily over the first 72 hours of life
+
+        -  desaturation and bradycardia occurring within a 60-sec time window: combined events
+           (DB).
+
+      The following antenatal and neonatal data are tracked down on a specific case report form:
+      GA, antenatal steroids (complete course vs. incomplete course or not given) evidence of
+      reversed end-diastolic flow at antenatal umbilical Doppler (uREDF) (present vs. absent);
+      ventilatory status over the first 72 hours of life (continuous positive airway pressure
+      [CPAP] vs. nasal cannulas or self-ventilating in air [SVIA]); surfactant administration;
+      development of IVH over the first 72 hours of life.
+
+      A screening echocardiogram is routinely performed at the time of enrollment and repeated 6-12
+      hourly in the presence of a patent ductus arteriosus (PDA) or 12-24 hourly if there is no
+      evidence of PDA. Based on echocardiographic features, the ductal status is classified as
+      follows: no evidence of PDA (noPDA), restrictive PDA (rPDA; restrictive shunt pattern and
+      left atrium to aortic root ratio [LA:Ao] ratio <1.5), hemodynamically significant PDA (hsPDA;
+      pulsatile shunt pattern, LA:Ao ratio ≥1.5 or presence of reversed end-diastolic flow either
+      in the descending aorta or in the anterior cerebral artery).
+
+      For statistical analysis, percentage changes of cardiovascular (CO, ICON, SVR) and
+      cerebrovascular (cTOI, cTHI, cFTOE) parameters will be compared between different CRE types
+      (ID, DB and IB) using Kruskal-Wallis test. Generalized estimating equation (GEE) models will
+      be used to analyze the concomitant effect of clinical variables (e.g., GA, uREDF, antenatal
+      steroids, ductal and ventilatory status etc.) on the percentage changes of the study
+      parameters. IBM SPSS, version 25.0, will be used for statistical analysis. The significance
+      level is set at p<0.05.
+    
+  

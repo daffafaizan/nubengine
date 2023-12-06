@@ -1,0 +1,28 @@
+
+    
+      The role of intraoperative crystalloid administration, when expressed as dose-response
+      curves, on the duration of hospital length of stay (hLOS) and on previously reported
+      incidences of surgical, cardiovascular, pulmonary, renal, other, and long-term AEs was
+      evaluated with F-ratio statistics or with Chi-square tests set at a more stringent P<.01
+      value for significance to reduce the incidence of false discovery rates. Loglinear variance
+      was utilized to examine the role of postoperative hLOS residuals across the range of
+      intraoperative crystalloid administration. Multivariable analysis screened those previously
+      reported independent variables with P<.1 with length of surgery, and the a posteriori
+      variable of interest, rate of intraoperative crystalloid administration on duration of hLOS
+      in a stepwise fashion with a maximum 5-fold R2 stopping rule, a cross validation technique
+      that chooses the best model. The multivariable analysis was repeated with a regional
+      instrumental variable based upon state residency to represent unmeasured confounders in this
+      population that may have an association with the outcome of interest. Variance inflation
+      factors calculations were conducted to determine the role of multicollinearity by the
+      independent variables of interest. Sample size calculations for multivariable analysis
+      require a minimum of 100 patients with ≥200 the preferred sample size. Recursive partitioning
+      with 5-fold cross-validation, a measure of internal model validation, examined administration
+      rates of intraoperative crystalloid administration by quantiles on hLOS and the role of
+      intraoperative transfusion of pRBCs on hLOS. Tests to support the likelihood of causality of
+      the intraoperative crystalloid administration on duration of hLOS was examined following
+      analysis of seven likelihood tests; published findings consistent with prior research,
+      biologic plausibility, dose-response relationship, strength of effect, and exclusions of
+      effect-cause, confounding, and bias. The statistical program, JMP 13.2 (SAS Institute, Cary,
+      NC) was utilized in this study.
+    
+  

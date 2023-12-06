@@ -1,0 +1,76 @@
+
+    
+      Introduction
+
+      Bariatric surgery (BS) is currently the most effective treatment of severe obesity. BS has a
+      pleiotropic effect on the body, involving changes in basic metabolic rate, gut hormone and
+      bile acid levels, intestinal nerve signaling and microbiota composition. Overall, patients
+      report to eat less, to feel less hungry and they often change their taste preferences.
+      Initial insights on food intake and appetite can be provided by indirect measures such as
+      verbal report of energy intake, food diaries, and dietary recall questionnaires. However,
+      indirect measures are vulnerable to inaccuracy and, at best, only offer an estimate of the
+      target behavior. Such methodological limitations can be improved by complementing existing
+      findings with direct measures of feeding and drinking. There are only very few studies to
+      date that have applied direct measures of ingestive behavior in BS patients. These studies
+      focused mainly on macronutrient composition within a cafeteria diet and on some motivational
+      aspects of appetite behavior. This might be due to the fact that the assessment of the
+      temporal organization of ingestive behavior within a meal in humans poses significant
+      methodological and conceptual challenges to researchers and study design. The investigators
+      have recently developed and validated a novel drinkometer for humans, which may have great
+      utility in investigations of the specific behavioral variables that underlie the
+      dysregulation of appetite control in morbid obesity, and also to specify neural effects of
+      various medical or surgical weight-loss interventions.
+
+      The aim of this exploratory pilot study is to observe the ingestive microstructure of a
+      liquid meal intake before and several occasions after RYGB. Observed values may serve as
+      basis for designing future observational studies in the field of obesity research.
+
+      Methods
+
+      Prospective observational controlled cohort pilot study in severely obese patients scheduled
+      for RYGB. 11 patients and 10 normal-weight controls will be recruited to consume a
+      calorically dense standardized refrigerated liquid meal (product: Resource 2.0+fibre, Nestle,
+      Vevey, Switzerland) in a food deprived state, until reaching satiety. The novel drinkometer
+      will be used to measure ingestive microstructure and overall intake, and anthropometric
+      parameters (weight, height) will be measured as well. Visual analogue scales will be used to
+      assess self-reported hunger, thirst, fullness, taste preference and participants will
+      estimate their intake at the end of each session. Time points for patients: pre-operatively,
+      postoperative 1 week, 1-3-6-12 months. Time points for control group: baseline, 1-3-12
+      months. Due to major differences in ingestive microstructure, only female participants will
+      be included in the study.
+
+      Satistical analysis
+
+      The drinkometer data will be processed and filtered by an in-house developed algorithm in
+      Matlab 2017 software. Results will be analysed using descriptive statistics, as well as
+      ANOVA, t-tests and Wilcoxon signed rank test in R software version 3.5.1.
+
+      Potential outcomes
+
+      Any comprehensive understanding of how BS affects food intake requires a detailed analysis of
+      the ingestive behavior itself, not simply the measurement of the outcome of the behavior. In
+      other words, the information on how the food is consumed is equally or even more important
+      than the information on how much food has been ingested. To the best of our knowledge, this
+      is the first time that drinking microstructure in humans will be recorded and analyzed after
+      BS. Results will inform on the range of values that can be observed in this patient
+      population and will serve as a basis to accurately power future studies in this field.
+      Further, this exploratory study may generate hypothesis on behavioral changes that occur
+      following BS. Any treatment that affects total intake - e.g. BS - can be entirely viewed as
+      function of its single components such as size and number of sucking bursts which then can
+      provide relevant information e.g. on the motivational aspects of the ingestive behavior. The
+      investigators expect to find no difference in the ingestive behavior between patients before
+      and after RYGB and in comparison to lean controls when the high-sugar high-fat stimulus is
+      consumed for the first time. The investigators also do not expect an effect of RYGB on the
+      number of sucking events within the first minute of the test session. As initial suck rate
+      reflects the consummatory behavior in response to a given stimulus and thus indicate the
+      initial motivational state toward this stimulus, the lack of RYGB-induced changes in this
+      microstructural parameter would suggest that RYGB does not change the palatability of the
+      stimulus. In line with this, the investigators further expect that suck rate during
+      consumption of the fluid will decrease as a function of meal progress and with progressing
+      postoperative time in patients after RYGB, but not in lean controls. Regardless of which
+      outcomes are obtained, this innovative experiment will be a critical and a novel test of the
+      explicit experience of humans with a high-sugar high-fat liquid meal after RYGB and its
+      potential role for the understanding possible mechanisms determining postoperative outcomes,
+      such as weight loss.
+    
+  

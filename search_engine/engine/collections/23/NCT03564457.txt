@@ -1,0 +1,31 @@
+
+    
+      All current innovations in medicine, including personalized medicine; artificial
+      intelligence; (Big) data driven medicine; learning health care system; value based health
+      care and decision support systems, rely on the sharing of data across health care providers.
+      But sharing of data is hampered by administrative, political, ethical and technical
+      barriers(Sullivan et al., 2011). This limits the amount of health data available for the
+      above innovations and life sciences in general as well as other secondary uses such as
+      quality improvement.
+
+      The investigators hypothesize that sharing questions rather than sharing data is a better
+      approach and can unlock orders of magnitude more data while limiting privacy and other
+      concerns. An infrastructure to bring questions to the data has been demonstrated to work
+      recently in project such as euroCAT(Lambin et al., 2013; Deist et al., 2017), Datashield
+      (Gaye et al., 2014) and OHDSI (Hripcsak et al., 2015). However, the scale of the prior work
+      has been limited in terms of the number of data subjects, number of data providers and global
+      coverage.
+
+      In the experience of the investigators, the main challenges of scaling up the infrastructure
+      are 1) the effort necessary to make data FAIR at each site ("stations"), 2) the technical and
+      legal governance ("track") and 3) the mathematics and engineering of learning applications
+      ("trains") - together called the Personal Health Train (PHT) infrastructure. Since multiple
+      years a global consortium of healthcare providers, scientists and commercial parties called
+      CORAL (Community in Oncology for RApid Learning) have worked on all three PHT challenges.
+
+      The aim of this study is to show that the PHT distributed learning infrastructure can be
+      scaled to many 1000s of patients, specifically the investigators aim to machine learn a
+      predictive model from more than 20.000 non-small cell lung cancer patients from more than 5
+      health care providers from more than 5 countries.
+    
+  

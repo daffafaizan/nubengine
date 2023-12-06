@@ -1,0 +1,99 @@
+
+    
+      Study objectives
+
+      The primary objective is to compare insulin secretion (Secr2.phase) between the two different
+      formulations of Tac.
+
+      Secondary objectives are to compare the effect of the two formulations on Secr1.phase,
+      insulin sensitivity and to investigate possible associations with individual systemic
+      tacrolimus exposures.
+
+      Study design
+
+      Twenty adult kidney transplanted patients treated with Prograf® twice daily or Advagraf® once
+      daily will be included in the study. Eligible patients may be included in a stable
+      posttransplant phase (no Tac dose adjustments or acute rejection episodes the preceding 2
+      weeks). A 3-hour hyperglycaemic clamp will be performed while patients are treated with their
+      standard Tac formulation and repeated 4-6 weeks after switching to the alternative Tac
+      formulation. The clamp investigation will be done after administration of the morning dose of
+      Tac. Samples for measurement of Tac whole blood concentrations will be drawn for all patients
+      up to 24 hours after morning Tac dosing. It is not mandatory for all patients to perform full
+      24 hour pharmacokinetic investigations.
+
+      Switching to the alternative Tac formulation will be performed in a 1:1 daily dose ratio and
+      subsequently adjusted according to centre protocol for trough concentrations (5-10 ng/mL).
+      Patients will meet for trough concentration measurements at Rikshospitalet for appropriate
+      dose adjustment in the period between the two investigations days.
+
+      Patients
+
+      The patients will primarily be recruited from the great-Oslo area and all study visits will
+      be performed at Rikshospitalet. Patients will otherwise follow standard post transplant
+      procedures at their local hospital during the study period. Patients included in other
+      clinical trials are also eligible for inclusion in the present study as long as they are not
+      treated with investigational drugs.
+
+      Informed consent will be obtained according to the Declaration of Helsinki and ICH-GCP
+      guidelines. Patients and investigator will sign the patient information which will be kept on
+      file. The patient will receive a copy of the patient information. Patient data will be
+      recorded in Case Report Forms (CRF) and all information will be handled confidentially. Any
+      complications will be recorded.
+
+      Glucose clamp calculations
+
+      Lean body mass (lbm) is estimated using Hume's formula [12] which correlates well with
+      tritiated water or electrical bioimpedance measures [13]. Secr1.phase is calculated as the
+      area under serum insulin vs. time curve (AUC, trapezoidal rule) during the first 10 min of
+      the clamp procedure, and Secr2.phase is calculated as the insulin AUC during the last hour
+      (120-180 min) of the clamp procedure. The same calculations were also performed for C-peptide
+      concentrations. Glucose disposal rate (GDR) is calculated from the amount of glucose infused
+      during the last hour of the clamp. The IS index (ISI) is calculated as GDR [mmol/kg
+      (lbm)*min] divided by mean serum insulin (pmol/l) in the same period. Glucose clearance is
+      calculated as ISI divided by mean serum glucose during the last 60 min of the clamp [14].
+
+      Pharmacokinetic calculations
+
+      Nonlinear mixed effects modeling (NONMEM software version VI and Intel Fortran (version 8)
+      compilation tool) will be used to analyze the dose-concentration-time data for Tac using a
+      population approach. The pharmacokinetic profile data will be used to develop a
+      pharmacokinetics model including the effect of major covariates (e.g. age, gender, body size,
+      renal function, hematocrit, acute rejection status etc.) on CL/F and V/F from the 24-hour
+      pharmacokinetics investigations. If applicable additional trough concentration data from the
+      routine follow-up of the patients in the study will be used to develop the model.
+
+      Exclusion of patient data will only be allowed if Tac concentrations have not been able to be
+      measured accurately or in case of unavailable information that may interfere with
+      pharmacokinetic evaluation, e.g. exact blood sampling time or dose given.
+
+      The POSTHOC, MAXEVAL=0 option in NONMEM will be used to estimate individual AUC0-24 and
+      half-lives for each individual. Actually measured Ctrough, Cmax and Tmax values will also be
+      used to describe the pharmacokinetic properties of the patients.
+
+      Statistical considerations
+
+      Sample size:
+
+      Based on the assumption that a 15% relative change in insulin secretion between the two
+      formulations are clinically relevant and a relative standard deviation of 25% 20 patients are
+      needed to assure a power of 80% at a 5% significance level. Patients that drop-out during the
+      study will be substituted.
+
+      Analysis plan:
+
+      The primary end-point will be analyzed per-protocol by comparing the ratio of insulin
+      sensitivity (Secr2.phase) for the two formulations. Data will be transformed to obtain normal
+      distribution if appropriate.
+
+      Secondary endpoints will be analyzed as follows:
+
+        -  Insulin Secr1.phase
+
+        -  Insulin sensitivity index (ISI)
+
+        -  Association between insulin Secr2.phase, Secr1.phase and ISI and systemic exposure of
+           Tac (derived from individual NONMEM estimations)
+
+        -  All analysis above also performed for C-peptide
+    
+  

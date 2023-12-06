@@ -1,0 +1,101 @@
+
+    
+      Background:
+
+      Sport concussion or sport-related mild traumatic brain injury (mTBI) affects patients across
+      the spectrum of age, race and gender. It is a medical problem that if not treated
+      appropriately can have devastating outcomes to patients and families. MTBI or concussion
+      (terminology used interchangeably in this proposal) more recently has been a hot topic in the
+      media with high profile politicians and athletes having career altering outcomes following a
+      concussion. According to the Canadian Institute for Health Information, sports and
+      recreational activities were the third leading cause of TBI admissions in Canadian hospitals
+      in 2003-2004. In the United States, the Center for Disease Control and Prevention estimates
+      that 1.6 to 3.8 million concussions occur in sports and recreational activities annually. In
+      Calgary, approximately 10,000 patients were seen in the emergency departments with a head
+      injury in 2013, 80% of which were diagnosed as mTBI and a vast majority of these were sport
+      related (unpublished data).
+
+      Currently, there is no single "gold standard" assessment or diagnostic marker to objectively
+      determine if a patient has suffered a sport concussion and if so, how long it will take to
+      recover. As such, concussion remains a clinical diagnosis based on post-traumatic symptoms,
+      physical signs, and impairment in cognitive function, which at best is done by a trained and
+      experienced medical professional. But, this is primarily a qualitative, individualized
+      approach to diagnosing and is typically clouded by a lack of objective clinical findings.
+      Other assessment tools can aid a clinician in diagnosing a concussion such as the Sport
+      Concussion Assessment Tool 3 (SCAT3) (Appendix 1), but unfortunately this has not been
+      validated and was developed based on expert consensus. As well, computerized
+      neuropsychological testing may help with the assessment of concussion recovery; however it is
+      expensive, time consuming and has recently been criticized as lacking specificity and
+      sensitivity for head injury.
+
+      Over the past 20 years researchers have studied biomarkers such as S100B and neuron-specific
+      enolase in hopes of finding a quantitative approach to diagnosing and prognosticating
+      concussion. This unfortunately, has met with much disappointment as none of these markers, in
+      and of themselves, has adequate specificity or sensitivity to be used as a single biomarker
+      in clinical practice.
+
+      Metabolomics is defined as "the quantitative measurement of the metabolic response of living
+      systems to pathophysiological stimuli or genetic modification" and is based on analytical
+      platforms such as proton nuclear magnetic resonance spectroscopy (1H NMR) and/or mass
+      spectrometry. Metabolomic studies of clinically accessible bio-fluids, such as blood and
+      urine, provides an intricate and relatively non-invasive snapshot into this response. To
+      date, metabolomics has been shown to be a useful biomarker tool in amyotrophic lateral
+      sclerosis, Alzheimer's disease, Parkinson's disease, neonatal hypoxic ischemic
+      encephalopathy, brain cancer, multiple sclerosis, aging and neurodegenerative disease,
+      epilepsy, stroke, severe traumatic brain injury and pediatric septic shock. To the best of
+      our knowledge, no study has assessed quantitative metabolomic profiling as a diagnostic and
+      prognosticating tool in sport concussion.
+
+      This pilot study would aid in the following:
+
+        1. To determine the feasibility of testing metabolomics in the sport concussion population.
+
+        2. The first study of its kind to use quantitative metabolic profiling to assist with the
+           diagnosis of acute sport concussion.
+
+        3. The first study of its kind to develop a metabolic "fingerprint" that may help
+           prognosticate recovery in acute sport concussion.
+
+      Subjects will be asked to provide an mid-stream urine sample between 7-9 am at pre-injury and
+      post-concussion. Urine aliquots will be obtained immediately by centrifuge and then stored at
+      -80C until required for analysis. Once all samples are collected they will be batched and
+      transported to the University of Lethbridge for analysis.
+
+      No samples for metabolomic analysis will undergo a previous freeze/thaw cycle. An aliquot of
+      450 μl will be removed from each of the urine samples and added to 250 μl of buffer solution.
+      The buffer solution will be prepared using a potassium phosphate solution at 0.5M and pH 7.4
+      ± 0.04. This buffer solution also contains 10 mL of sodium azide which acts as an
+      antimicrobial agent. The solvent for the buffer will 1 part D2O to 4 parts normal water and
+      the D2O contains 0.05 weight percent of 3-(trimethylsilyl)propionic-2,2,3,3-d4 acid (TSP).
+      The final concentration of TSP will be used as an internal chemical shift and quantification
+      standard. The buffer/urine solution is then centrifuged at 10 000 rpm for five minutes to
+      remove any particulate matter, large fats, or large proteins and 500 μl is pipetted into 5mm
+      NMR tubes.
+
+      All NMR spectra will be obtained on a Bruker AVANCE III HD 700 MHz spectrometer (Bruker
+      BioSpin Ltd., Milton, ON, Canada) equipped with a high-throughput sample changer platform, a
+      triple resonance (TBO) 5mm probe and TopSpin 3.2 software. Each sample will be acquired using
+      the standard Bruker 1D pre-saturation pulse sequence (noesygppr1d) with a mixing time of 10
+      ms, an acquisition time of 5 seconds, a recycle delay of 4 seconds and a total of 512 scans.
+      Each sample will then be processed with a line broadening of 0.3 Hz.
+
+      After initial processing in TopSpin 3.2, all spectra will be loaded into matNMR (24),
+      correctly referenced by setting the TSP shift to 0 ppm, and exported into the Matlab ®
+      workspace for further processing. The spectra will then be binned using a dynamic adaptive
+      binning (DAB) method that has been coded for the Matlab environment. This DAB method deals
+      with any movement in spectral lines from spectra to spectra, which can be caused by slight
+      variation in pH from sample to sample (pH = 7.4 ± 0.04), and ensures that peaks from the same
+      metabolite are not broken apart into different bins. After spectral binning, the spectra will
+      be normalized, with water and urea excluded from the normalization, and Pareto scaled (26).
+      The normalized and scaled spectra will then be analyzed using principal component analysis
+      (PCA) and Partial Least Squared Discriminant Analysis (PLS-DA). The loadings plot of these
+      two methods will be used for identifying the outlying bins. The chemical shift range
+      associated with these outlying bins will then be compared to an established metabolite
+      library in order to determine which metabolites have variation across comparison groups
+      (concussion and pre-injury). Eretic tool in the TopSpin 3.2 software will be used to
+      determine the quantitative changes in the concentration of these metabolites. This
+      quantification of the concentration is based on the known internal concentration of TSP in
+      our NMR samples. A Mann Whitney U test for metabolic analysis and a Fisher exact test for the
+      categorical data will be performed.
+    
+  

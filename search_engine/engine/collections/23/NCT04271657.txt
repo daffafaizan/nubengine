@@ -1,0 +1,25 @@
+
+    
+      This is a multicenter, prospective, observational clinical study for validation of a
+      radiopathomics artificial intelligence (AI) system. Patients who have been pathologically
+      diagnosed as rectal adenocarcinoma and defined as clinical II-III staging without distant
+      metastasis by enhanced Magnetic Resonance Imaging (MRI) will be enrolled from the Sixth
+      Affiliated Hospital of Sun Yat-sen University, the Third Affiliated Hospital of Kunming
+      Medical College and Sir Run Run Shaw Hospital Affiliated by Zhejiang University School of
+      Medicine. All participants should follow a very standard treatment protocol, including of
+      concurrent neoadjuvant chemoradiotherapy (nCRT), total mesorectum excision (TME) surgery and
+      adjuvant chemotherapy. The MRI and biopsy examination should be completed before the nCRT and
+      the images will be subjected to the manual delineation of the tumor regions of interest (ROI)
+      by experienced radiologists and pathologists. Subsequently, the outlined MRI and biopsy
+      slides images will be employed to the radiopathomics AI system to generate the predicted
+      response ("predicted pathologic complete response (pCR)" vs. "predicted non-pCR") of
+      individual patient, whereas the actual response ("pathologic confirmed as pCR" vs.
+      "pathologic confirmed as non-pCR") will be diagnosed at surgery excised specimen. Through
+      comparisons of the predicted responses and true pathologic responses, investigators calculate
+      the prediction accuracy, specificity, sensitivity as well as the Area Under Curve (AUC) of
+      Receiver Operating Characteristic (ROC) curves. This study is aimed to validate the high
+      accuracy and robustness of the radiopathomics AI system for identifying pCR candidates from
+      non-pCR individuals before nCRT which will facilitate further precision therapy for patients
+      with locally advanced rectal cancer.
+    
+  

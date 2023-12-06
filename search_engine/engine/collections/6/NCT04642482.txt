@@ -1,0 +1,84 @@
+
+    
+      Study Location :
+
+      This study will recruit the healthy participants from the university
+
+      Target Population:
+
+      Healthy Participants
+
+      General Study Design :
+
+      Quasi Experimental study with a comparator
+
+      Sample Size calculation :
+
+      Difference between two means of HOMA IR from pilot data (7) and standard deviation 2.9, with
+      5% Type I error, and 80% Power yielded a total of 16 participants for two arms
+
+      Management of Sample:
+
+        1. Faecal Sample handling
+
+             1. Patient should undergo 8 hours of fasting prior to faecal examination
+
+             2. DNA Extraction
+
+             3. Lysate preparation and centrifuge faecal sample
+
+             4. Mixing lysate with sample
+
+             5. Column wash
+
+             6. DNA elution
+
+             7. DNA storing
+
+             8. DNA sequencing and analysis
+
+             9. taxonomical analysis
+
+        2. Fasting blood glucose
+
+             1. Patient should undergo 8 hours of fasting prior to Fasting blood glucose
+
+             2. Blood is taken from cubital vein
+
+             3. Spectrometry is conducted based on the NADPH formation from the equation below
+
+           D-glucose+ATP -----> Glucose-6-phospate+ADP Glucose-6-phospate+NAD ---- G-6-PDH --->
+           D-Gluconate-6 phospate+NADH+H
+
+        3. Insulin level
+
+             1. Centrifuge blood to obtain the serum
+
+             2. The monoclonal anti-insulin antibody is given to the serum
+
+             3. detection is based on the anti-insulin antibody and insulin complex formation
+
+        4. Homeostatic Model Assessment for Insulin Resistance/ HOMA-IR value is calculated from
+           glucose level multiply by insulin level and divided by 405.
+
+      Protection for adverse event
+
+        1. All subjects are given the consent regarding the potential harm of synbiotic
+           administration
+
+        2. All subjects will follow the protocol of reporting the any adverse event (most likely,
+           severe constipation)
+
+        3. All subjects will be treated accordingly and hospitalisation if needed.
+
+      Statistical Analysis
+
+        1. General Analysis : Intention To Treat (ITT)
+
+        2. Propensity Score Matching will be conducted prior to intervention
+
+        3. A repeated measure ANOVA will be performed, whereas Generalized Linear Mixed Model
+           treating the intervention as dummy variable will be performed if ANOVA assumptions can
+           not be fulfilled.
+    
+  

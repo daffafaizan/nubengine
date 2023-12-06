@@ -1,0 +1,118 @@
+
+    
+      Background: Greater adherence to the Mediterranean diet, a traditional dietary pattern of the
+      wider region of the Mediterranean sea, has been associated with favourable cardiometabolic
+      outcomes, including the prevention of type 2 diabetes and cardiovascular diseases (CVD).
+      However, limited local food availability, increased cost or unfamiliar culture and tradition
+      render the Mediterranean diet difficult to follow in the northern European environment. The
+      Nordic Diet or those of other traditional diets of the Nordic countries (Sweden, Norway,
+      Finland, Denmark, Iceland, Faeroe islands) are dietary patterns rich in traditional Nordic
+      foods, including berries, grains, and fatty fish common in northern Europe. The Nordic Diet
+      has been associated with favorable cardiometabolic outcomes including improved lipid profile
+      and insulin sensitivity. These benefits have been recognized in the most recent updates of
+      the clinical practice guidelines for diabetes in Canada. The European Association for the
+      Study of Diabetes (EASD) has not included the Nordic dietary pattern in their guidelines.
+
+      Need for proposed research: High quality systematic reviews and meta-analyses of randomized
+      controlled trials and prospective cohorts represent high-quality evidence to support dietary
+      guidelines and public health policy. As dietary guidelines and public health policy have
+      shifted towards food and dietary-pattern based recommendations, there is a need for
+      systematic reviews and meta-analyses comparing the role of the Nordic diet in the prevention
+      and management of cardiometabolic outcomes and cardiovascular diseases.
+
+      Objectives: To support the update of the European Association for the Study of Diabetes
+      (EASD) clinical practice guidelines for nutrition therapy, the investigators will conduct a
+      systematic review and meta-analysis of randomized controlled trials and prospective cohorts
+      using the GRADE approach on the Nordic dietary pattern on cardiometabolic risk factors and
+      cardiovascular disease outcomes.
+
+      Design: The systematic review and meta-analysis of clinical trials and prospective cohort
+      studies will be conducted according to the Cochrane Handbook for Systematic Reviews of
+      interventions and reported according to the Preferred Reporting Items for Systematic Reviews
+      and Meta-Analyses (PRISMA) and Meta-analysis of Observational Studies in Epidemiology (MOOSE)
+      guidelines.
+
+      Data sources: MEDLINE, EMBASE, and The Cochrane Central Register of Controlled Trials
+      (Clinical Trials; CENTRAL) will be searched using appropriate search terms supplemented by
+      hand searches of references of included studies.
+
+      Study selection: Randomized controlled trials conducted in humans with a follow-duration ≥ 3
+      week investigating the effect of a Nordic diet on cardiometabolic outcomes will be included.
+      Studies that are not conducted in humans, not randomized, have an acute feeding design (<3
+      weeks), lack a suitable control (non-isocaloric) and/or do not report viable endpoint data
+      will not be included. Prospective cohort studies with greater than 1-year of follow-up will
+      be included.
+
+      Data extraction: Two or more investigators will independently extract relevant data and
+      assess risk of bias using the Cochrane Risk of Bias Tool for randomized clinical trials and
+      the Newcastle Ottawa Scale for prospective cohorts. All disagreements will be resolved by
+      consensus. Standard computations and imputations will be used to derive missing variance data
+      for the randomized clinical. Risk ratios, odds ratios and hazard ratios for clinical outcomes
+      in the prospective cohort studies will be extracted or derived from clinical event data
+      across exposure to a Nordic diet.
+
+      Outcomes: For the randomized clinical trials, the primary outcome will be LDL-cholesterol.
+      Secondary outcomes will include markers of glycemic control (HbA1c, fasting glucose, fasting
+      insulin); other blood lipids (non-HDL-C, apo B, HDL-C, triglycerides); adiposity (body
+      weight, BMI, waist circumference), blood pressure (systolic and diastolic blood pressure) and
+      inflammation (C-reactive protein [CRP]).
+
+      For prospective cohorts, the primary outcome will be incident CVD Secondary outcomes include
+      incident coronary heart disease (CHD) and incident stroke.
+
+      Data synthesis:
+
+      Trials: Data will be pooled by the generic inverse-variance method with DerSimonian and Laird
+      random-effects models and expressed as mean differences (MDs) with 95% confidence intervals
+      (95% CIs). Random-effects models were used as they account for residual heterogeneity and
+      yield more conservative estimates. Fixed-effects models will be used for <5 trials. Paired
+      analyses will be applied to all crossover trials. Heterogeneity will be tested by Cochran's Q
+      statistic and quantified by the I2 statistic. To explore sources of heterogeneity, we will
+      conduct sensitivity analyses, in which each study is systematically removed. If there are ≥10
+      trials, we will explore sources of heterogeneity by a priori subgroup analyses by study
+      design (parallel or crossover), follow-up duration (<12 weeks or ≥12 weeks), comparator diet,
+      baseline measurements, risk of bias, disease duration, and funding source. Significant
+      unexplained heterogeneity will be investigated by additional post hoc subgroup analyses (e.g.
+      age, sex, diet quality index, composition of the background diet [total % energy from fat,
+      carbohydrate, protein]). Meta-regression analyses will assess the significance of categorical
+      and continuous subgroups analyses. When ≥10 studies are available, publication bias will be
+      investigated by inspection of funnel plots and formal testing using the Egger and Begg tests.
+      If publication bias is suspected, we will attempt to adjust for funnel plot asymmetry by
+      imputing the missing study data using the Duval and Tweedie trim and fill method.
+
+      Prospective cohort studies: Natural log-transformed relative risks (RRs) or hazard ratios
+      (HRs) of clinical outcomes, comparing extreme quantiles (the highest exposure versus the
+      lowest exposure or reference group), will be pooled separately using the generic inverse
+      variance method with random effects models and expressed as RRs with 95% confidence intervals
+      (CIs). Heterogeneity will be tested by Cochran's Q statistic and quantified by the I2
+      statistic. To explore sources of heterogeneity, we will conduct sensitivity analyses, in
+      which each study is systematically removed. If ≥10 cohort comparisons were available, then we
+      will perform an a-priori subgroup analyses by meta-regression for follow-up (<10 years vs.
+      ≥10 years), sex (males vs. females, males vs. mixed, females vs. mixed), study quality (NOS
+      <6 vs. ≥6) and funding source. Significant unexplained heterogeneity will be investigated by
+      additional post hoc subgroup analyses. Linear and non-linear dose-response relations will be
+      explored with the use of random-effects generalised least-squares trend estimation (GLST)
+      models and spline curve modeling (MKSPLINE procedure), respectively. When ≥10 studies are
+      available, publication bias will be investigated by inspection of funnel plots and formal
+      testing using the Egger and Begg tests. If publication bias is suspected, we will attempt to
+      adjust for funnel plot asymmetry by imputing the missing study data using the Duval and
+      Tweedie trim and fill method.
+
+      Evidence assessment: The certainty of the evidence for each outcome will be assessed using
+      the Grading of Recommendations Assessment, Development and Evaluation (GRADE).
+
+      Knowledge translation plan: The results will be disseminated through interactive
+      presentations at local, national, and international scientific meetings and publication in
+      high impact factor journals. Target audiences will include the public health and scientific
+      communities with interest in nutrition, diabetes, obesity, and cardiovascular disease.
+      Feedback will be incorporated and used to improve the public health message and key areas for
+      future research will be defined. Applicant/Co-applicant Decision Makers will network among
+      opinion leaders to increase awareness and participate directly as committee members in the
+      development of future guidelines.
+
+      Significance: The proposed project will aid in knowledge translation to the role of the
+      Nordic Diet in cardiovascular disease prevention and management, strengthening the
+      evidence-base for guidelines and improving health outcomes by educating healthcare providers
+      and patients, stimulating industry innovation, and guiding future research design.
+    
+  

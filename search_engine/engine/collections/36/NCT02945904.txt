@@ -1,0 +1,110 @@
+
+    
+      This is an observational multi-centre prospective cohort study which takes place within
+      secondary and tertiary care. All participants will have the same two investigations performed
+      in random order. These are as follows:
+
+      11C- metomidate PET CT This is a one-hour non-invasive study, prior to which participants are
+      treated with dexamethasone for 3 days. A proportion of patients will have an additional
+      18F-CETO PET CT scan to measure concordance between the two PET CT scans.
+
+      Adrenal Vein Sampling This is an invasive investigation in which both adrenal veins are
+      cannulated and blood collected for measurement of adrenal steroid hormones.
+      Adrenocorticotrophic hormone (ACTH) is administered prior to AVS in order to ensure steroid
+      hormone secretion during the procedure.
+
+      The investigators will standardise the start-time of treatment with spironolactone, which is
+      first-choice treatment for participants with primary aldosteronism, in order that the
+      pre-spironolactone blood pressure and biochemistry can be compared with subsequent
+      measurements post-surgery, and the changes during the first month of spironolactone treatment
+      can be used to assess their value in predicting response to surgery.
+
+      Sub-study of Repeat 11-C Metomidate PET CT before and after Spironolactone therapy
+
+      In order to determine whether it will be necessary for the start of spironolactone treatment
+      to be delayed in all participants until after both investigations are completed, the
+      investigators will perform a sub-study, early in MATCH, in which 6 patients have their PET CT
+      repeated after at least 6 weeks treatment with spironolactone. (This is the conventional
+      period of time for which spironolactone is withdrawn prior to AVS.)
+
+      Follow-up management and investigations The investigators anticipate ~50% of participants
+      will be found on one or both investigations to have unilateral PA, and be recommended for
+      adrenalectomy.
+
+      The primary outcome measurements will be at 6 months after surgery, or 9-12 months following
+      MDT decision, in those who do not undergo surgery.
+
+      Primary outcomes:
+
+      The following primary outcomes will be analysed hierarchically, with each analysis being
+      considered as part of the primary analysis if all preceding analyses demonstrate statistical
+      significance at p<0.05. Otherwise, analyses of subsequent outcomes will be considered to be
+      secondary analyses.
+
+        -  Normalisation of ARR at 6 months, defined as
+
+             -  ARRactivity < 750 pmol/L per ng/ml/hr
+
+             -  ARRmass < 91 miU/L
+
+        -  Change in BP (mean of at least 6 measurements from home monitoring, or mean of at least
+           2 measurements from clinic ) from baseline to 6 months.
+
+        -  Cure of hypertension at 6 months. Definitions of biochemical and clinical success based
+           on the PASO criteria (using on data available on eCRF) will be used.
+
+      Each primary outcome will be analysed in the subgroup of participants who undergo surgery.
+      For each of the above outcomes, AVS and 11C-metomidate PET CT will be judged to be 'accurate'
+      if it indicated unilateral disease and if normalisation of ARR, reduction in SBP or cure of
+      hypertension (measured hierarchically, in turn) was achieved at 6 months post-surgery; or if
+      it did not indicate unilateral disease and the above outcomes were not achieved.
+
+      Estimated differences in accuracy will be reported with 95% CI and p-value between
+      11C-metomidate PET CT and AVS. For cure of hypertension at 6 month, non-inferiority of
+      11C-metomidate PET CT will be declared if the lower limit of the above 95% CI is greater than
+      -17%. Each measure of cure based on the PASO criteria (biochemical, clinical) will be
+      analysed in turn. Superiority of 11-C metomidate PET CT will be declared if p<0.05 and the
+      lower limit of the 95% CI is greater than 0%."
+
+      Secondary outcomes
+
+      The secondary outcomes are:
+
+        -  Biochemical success (based on PASO criteria) at 6 months, analysed as a 3-level
+           categorical variable (complete, partial, absent)
+
+        -  Clinical success (based on PASO criteria) at 6 months, analysed as a 3-level categorical
+           variable (complete, partial, absent)
+
+        -  Change in serum Potassium from baseline to 6 months
+
+        -  Change in ARRactivity or ARRmass from baseline to 6 months
+
+        -  Change in home SBP and DBP from baseline to 6 months
+
+        -  Change in clinic SBP and DBO from baseline to 6 months
+
+        -  Change in blood levels of Troponin, Brain Natriuretic Peptide from baseline to 6 months
+
+        -  Changes in cardiac MRI measures of heart structure, anatomy and blood flow from baseline
+           to 6 months
+
+        -  Change in quality of life measures from baseline to 6 months
+
+      Secondary (and Primary) outcomes will be compared between participants who underwent surgery
+      and those who did not; for those who underwent surgery, between those for whom surgery was
+      indicated by AVS only, 11C-metomidate PET CT only, or for both investigations.
+
+      The sample size calculation has been performed to permit detection of a significant influence
+      on outcome where the smallest number of patients will be available. This is the group of
+      patients in whom the two diagnostic techniques give discordant results, estimated to be ~20%
+      of the total.
+
+      Recruitment of 140 patients across 3 centres over 3 years (<1/centre/month), assuming an
+      estimated 10% dropout, and 50% proceeding to adrenalectomy, permits 90% power at alpha=0.01
+      of detecting superiority of metomidate vs AVS in predicting hierarchical primary outcomes.
+      The 25 patient extension, on the same assumptions regarding dropouts and proportion
+      proceeding to surgery, will also provide 90% power to show non inferiority of 11C-metomidate
+      PET CT in relation to AVS, within a margin of 18%.
+    
+  

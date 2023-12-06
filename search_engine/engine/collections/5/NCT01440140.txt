@@ -1,0 +1,30 @@
+
+    
+      Achievement of tight glycaemic control in type 1 diabetes mellitus (T1D) using intensive
+      insulin regimens, which has been shown to be important for the prevention of long term
+      diabetes-related complications, is limited by a significantly increased risk of
+      hypoglycaemia. The average patient with T1D suffers two symptomatic episodes of hypoglycaemia
+      per week, and one episode of severe hypoglycaemia, defined as an event requiring assistance
+      of another person to administer rescue treatment in the form of carbohydrate and/or glucagon,
+      per year.Despite the rapid advancements in insulin pump technology and the ongoing
+      development of more physiological insulin preparations, the currently available therapeutic
+      regimens are still unable to achieve optimal glycaemic control.The emergence of continuous
+      glucose monitoring (CGM) over the last decade, which enables users to view in real-time
+      estimates of plasma glucose and receive alarms for impending hypo- or hyperglycaemia, thus
+      facilitating appropriate changes in insulin therapy, is a major step towards improved
+      diabetes monitoring.
+
+      The desirable goal is the development of an insulin delivery that is glucose responsive and
+      the development of effective real time glucose monitoring should allow this. Glucose
+      responsive insulin delivery should allow achievement of ideal glucose targets with less risk
+      of hypoglycaemia. Closed-loop systems may provide a realistic treatment option for people
+      with T1D. The research we are conducting at the University of Cambridge has been focused on
+      developing a closed-loop system for overnight glucose control in patients with T1D. The
+      studies that have been performed so far employ model predictive control (MPC) - this
+      algorithm estimates patient-specific parameters from CGM measurements taken every 1 to 15
+      minutes and makes predictions of glucose excursions, which are then used to calculate basal
+      insulin infusion rates. We hypothesize that overnight automated closed-loop glucose control
+      in the home setting will be efficacious and safe compared to CGM alone, in T1D subjects on
+      insulin pump treatment.
+    
+  

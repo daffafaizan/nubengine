@@ -1,0 +1,14 @@
+
+    
+      The current types of masks that are used in radiotherapy treatment sessions for those
+      patients who have head-and-neck cancer are 'made to measure' and the methods currently
+      employed to make them are invasive and in some cases patients' have found this to be
+      particularly unpleasant. Their experience motivates research into less invasive and
+      potentially more accurate techniques for their manufacture.
+
+      To effectively develop an automatic manufacturing pipeline, and to assess the accuracy of the
+      approach we need access to CT data from a cohort of patients for which we also have an
+      accurate (ground truth) 3D facial model. Such a model can be acquired in a few minutes using
+      a hand-held laser scanner.
+    
+  

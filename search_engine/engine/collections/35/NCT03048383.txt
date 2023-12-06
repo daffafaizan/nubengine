@@ -1,0 +1,118 @@
+
+    
+      Quality assurance:
+
+      Data is entered in to a spreadsheet as it is extracted exactly from the electronic medical
+      record. During review of the findings, the data is again checked against the medical record
+      to ensure accuracy. Botulinum toxin types are also verified with scanned copies of the
+      botulinum toxin injection sheet which is filled out and scanned in to the medical record at
+      the time of treatment.
+
+      Data dictionary:
+
+      Not necessary as limited new terminology is used and all understood among the research group.
+      Additional terminology is clearly described for the trial participants and described in the
+      manuscript reporting the results of the study.
+
+      Recruitment:
+
+      Patients with facial synkinesis who were appropriate candidates for botulinum toxin
+      chemodenervation therapy were offered voluntary participation in this trial. Patients who had
+      returned to their baseline SAQ score after a minimum of 12 weeks since their previous
+      treatment were permitted to re-enroll in the study for subsequent treatments.
+
+      Data collection:
+
+      At 1, 2, and 4 weeks post treatment, patients were again administered the SAQ. SAQ scores
+      were calculated for each follow up time point. The average SAQ score in each treatment group
+      (onabotulinumtoxinA, abobotulinumtoxinA, and incobotulinumtoxinA) for each week was
+      calculated, as well as the average improvement in SAQ scores.
+
+      Data management:
+
+      Data were initially recorded and stored in the secure, password protected, electronic medical
+      record. Data were then extracted from the electronic medical record to a secure Excel
+      spreadsheet stored on a password protected computer. Only the principal investigator and
+      those researchers involved in data analysis and interpretation were provided access to this
+      data. Names and identifiable information were excluded from this spreadsheet so that the
+      information could not be linked back to specific patients.
+
+      Data analysis:
+
+      Data were analyzed by first organizing the data in Excel, within the original spreadsheet
+      used to record data, then exporting this data in to Prism 6 for Windows (GraphPad Software).
+      Using Prism 6, characteristics of the data were assessed and statistical calculations were
+      performed to determine significance of comparisons between groups. Details of these
+      statistical tests are described below.
+
+      Reporting for adverse events:
+
+      Adverse events were recorded in the electronic medical record at each follow-up visit. These
+      were then noted in the data spreadsheet as well to keep track of any events that had occurred
+      over the study period. Minor adverse effects reported during the study included redness,
+      bruising, swelling, and fullness at the injection sites which were not felt to be significant
+      or noted to be qualitatively different between products. No major adverse treatment effects
+      were reported during the course of the study.
+
+      Change management:
+
+      There were no significant changes to study protocol over the course of the study.
+
+      Sample size assessment to specify the number of participants or participant years necessary
+      to demonstrate an effect:
+
+      https://www.dssresearch.com/knowledgecenter/toolkitcalculators/statisticalpowercalculators.as
+      px At an alpha level of 0.05, an estimated standard deviation of 10, an estimated average of
+      SAQ 44 and comparison/test value of SAQ 55, a sample size was calculated of approximately
+      400. We were unable to obtain this sample size after nearly 3 years of enrolment from July
+      2012 to March 2015. However, despite not reaching this estimated sample size, we did identify
+      a statistically significant finding at alpha level of 0.05 and with a standard deviation of
+      approximately 10-15 per group.
+
+      Plan for missing data to address situations where variables are reported as missing,
+      unavailable, "non-reported," uninterpretable, or considered missing because of data
+      inconsistency or out-of-range results:
+
+      Patients without follow-up at the post-treatment time points of 1, 2, and 4 weeks were
+      excluded and therefore no missing data was expected for SAQ values. The plan for any missing
+      data in the study was to leave the data point as missing without attempts to imputate the
+      value or otherwise correct for missingness.
+
+      Statistical analysis plan describing the analytical principles and statistical techniques to
+      be employed in order to address the primary and secondary objectives, as specified in the
+      study protocol or plan:
+
+      The average SAQ score in each treatment group (onabotulinumtoxinA, abobotulinumtoxinA, and
+      incobotulinumtoxinA) for each week was calculated, as well as the average improvement in SAQ
+      scores. Lower SAQ scores represented less severe patient reported disease. Percent
+      improvement in SAQ score was calculated for each time point as the average post-treatment
+      score divided by the average pre-treatment score for the treatment group, subtracted from 1.
+      The SAQ scores for each time point and treatment groups were found to be normally distributed
+      (passing both the D'Agostino & Pearson omnibus normality test as well as Shapiro-Wilk
+      normality test) allowing for an assumption of Gaussian distribution in our following tests of
+      statistical significance. Comparisons between treatments, and between time points within
+      treatment groups were made with a one-way ANOVA followed by appropriate follow-up test for
+      multiple comparisons. Comparisons within treatment groups between each follow-up time point,
+      and the control pre-treatment time point were made using the Dunnett test (compares every
+      mean to a control mean), whereas comparisons of different treatments at a given time point
+      were made with the Tukey test (compares every mean to every other mean). A threshold of p ≤
+      0.05 was used for statistical significance.
+
+      Patients who had returned to their baseline SAQ score after a minimum of 12 weeks since their
+      previous treatment were permitted to re-enroll in the study for subsequent treatments.
+      Twenty-seven patients were studied, and 6 of these 27 were enrolled multiple times accounting
+      for 11 of the 38 treatments studied. To ensure the baseline SAQ scores of these patients
+      receiving repeat treatments did not differ from patients receiving a single treatment, the
+      average pre-treatment SAQ score for patients undergoing repeat treatments was compared to the
+      average pre-treatment SAQ score of single treatment patients for each type of botulinum toxin
+      neuromodulator. These groups were evaluated for normality of distribution by the same method
+      as described above, with single treatment patients passing tests of normality; normality for
+      the repeat patients could not be determined due to the small number of treatments for each of
+      these patients. Statistical comparisons were then made between the pre-treatment SAQ scores
+      for repeat treatment patients and the respective (same type of botulinum toxin) single
+      treatment patients. In order to preference type I error and identify any possible difference
+      between these groups, we made an assumption of normality and used a one-way ANOVA followed by
+      a Holm-Sidak multiple comparison test. The Holm-Sidak method was chosen as it has more power
+      to identify significant differences than other possible methods such as that of Bonferroni.
+    
+  

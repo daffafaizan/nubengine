@@ -1,0 +1,45 @@
+
+    
+      The Be-RALP database is Belgian prospective multicenter database governed by the Belgian
+      cancer registry. This was established by a collaboration between the Belgian association of
+      Urology (BAU), the National Institute for Health and Disability Insurance (NIHDI) and the
+      Belgian cancer registry.
+
+      Twenty-five centres, on average 90% of all Belgian robotic centres, collected prospective
+      data of 9235 patients from October 2009 until February 2016. These data is collected by local
+      data managers or physicians and was required to receive reimbursion from the NIHDI for the
+      disposables used during robot surgery. After filling in the data by the local datamanagers,
+      the data is centralised. In Brussels the data is protected and further used by data managers
+      and statisticians. In this system in-and output of data is strictly separated. Patient data
+      is encoded to ensure absolute privacy. Then the data is checked upon correctness by using
+      random checks. Data is completed where necessary.
+
+      These parameters increase the quality of data handling and database.
+
+      The final database consists of baseline pre-, per- and postoperative data as well as four
+      standardised follow-up registrations (on 1, 3, 12 and 24 months), with follow-up data still
+      being collected. In each follow-up registration, functional parameters and quality of life
+      are re-assessed together with postoperative treatment status and PSA.
+
+      The Be-RALP database collected patient details of 9235 patients treated by RARP between 2009
+      and 2016. Patients with macro metastasis and initial PSA values higher than 100 (probable
+      undetected micro metastasis) were excluded for this study, as well as all pT0, patients with
+      surgery after the closing date and patients with invalid survival data. Further exclusion of
+      patients with missing values for nerve sparing, extend of nerve sparing and risk category
+      resulted in a group of 8306 patients.
+
+      The selected outcomes covered in the database consist of quality of life measures (European
+      Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30 global, physical, emotional
+      and cognitive) as well as variables covering urinary (Incontinence Modular
+      Questionnaire-Urinary Incontinence: ICIQ, EORTC QLQ-PR25 urinary symptoms, incontinence aid)
+      and erectile function (International Index of Erectile Function: IIEF, EORTC QLQ-PR25 sexual
+      activity and sexual functioning).
+
+      A 1:1 matching between high and low-intermediate prostate cancer will be performed.
+      Afterwards, longitudinal mixed models will quantify the relation between the explanatory
+      variables follow-up time, risk group (high vs. low-intermediate) and postoperative treatment
+      (postoperative radiotherapy (RT) and/or androgen deprivation therapy (ADT): yes vs. no) and
+      the outcomes erectile- and urinary function as well as Quality of Life. All analysis will be
+      performed using the statistical analysis software (SAS system), version 9.3.
+    
+  

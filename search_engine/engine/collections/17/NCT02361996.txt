@@ -1,0 +1,116 @@
+
+    
+      Reliability of the hypothesis:
+
+      On phantom studies simulating myocardial perfusion measurements and in animal studies we
+      could confirm that using advanced CT technology (as e.g. "iCT 256 Brilliance") it is possible
+      to measure myocardial perfusion in absolute values - in ml/100g/min. These myocardial
+      perfusion measurements did not differ from those received by EBCT (Electron Beam Computed
+      Tomography). Based on these experimental results and based on the quantitative measurements
+      of myocardial perfusion in 1500 patients studied by EBCT at the Medical University of Graz
+      the hypothesis may be done that using the above mentioned iCT 256 technology, it should be
+      possible to measure myocardial perfusion quantitatively in a daily clinical practice.
+
+      Ethical aspects:
+
+      The study will be performed according to the international regulations (ISO 14144:212-01) and
+      in agreement with the "Declaration of Helsinki". After oral and written explanation of the
+      planned study and by signing the study agreement by patient and by responsible physician,
+      patients participation is voluntary. The patients participating can leave the study any time
+      without negative sequels for him or her. There is no financial restitution for the patients.
+
+      Patients will be informed about (very rare) possible allergoid-toxic reactions during and
+      after intravenous contrast agent application. For possible emergency well trained medical
+      staff and equipment is present. About renal insufficiency: renal failure (creatinin clearance
+      <60ml/min [GFR (Glomerulo Filtration Rate)will be calculated according the
+      Cockroft-Gault-Formula, GFR {ml/min}=((40-age)*weight{kg}*0,85{only for women}]/serum
+      creatinin [mg/dl]*72) above.
+
+      The applied X-ray dose (CT) may and will be reduced by:
+
+      reduction of KV (kilovoltage) from 120 to 100 or 80 in dependance of patients weight,
+      reduction of MA (milliamper)by using iterative image reconstruction allgorithm (iDOSE). These
+      technical approaches represent the best possibility to reduce X-ray dose for the patient. As
+      the coronary heart disease with stenotic lesions above 50% is a disease mainly of an elderly
+      men (in female mostly after menopause and in male after 50 years of age) the risk for X-Ray
+      dose related genetic defects is very low. The expected applied X-Ray doses by the above
+      mentioned approach will be very low and therefore the risk of X-Ray induced malignancy may be
+      regarded as very low too.
+
+      Design:
+
+      Prospective study to measure quantitatively myocardial perfusion in the above mentioned three
+      groups of patients with simultaneous control and registration of all essential, physiological
+      determinants of myocardial perfusion immediately before the CT study. The CT myocardial
+      perfusion measurements will be performed directly after the indication for intervention or
+      surgery and on the last day before discharge from hospital.
+
+      All the collected data (determinants) including the CT-studies will be anonymised and
+      archived on a local server. These anonymised data may be approached only by members of Graz
+      University of Technology, Institute of Health Care Engineering who will perform the
+      evaluation of the myocardial perfusion measurements and the statistical analysis
+      independently of the CT-studies performing physicians.
+
+      Practical procedure:
+
+        1. In supine position on CT table the blood pressure and the heart rate will be measured
+           and registered.
+
+        2. In all patients a standard native cardiac CT for evaluation of coronary calcification by
+           Agatston score will be performed.
+
+        3. In all patients myocardial perfusion will be measured in inspiration and contrast agent
+           application where by the amount of contrast agent and the applied dose is related to
+           patient weights as shown below:
+
+           Patient Perfusion 210mg Iodine/ml Expected dose weight [kg] / [kV/mAs] / [ml] / per
+           shoot [mSv](milli Sievert)
+
+           <60 80/80 40 0.21/ 60-70 80/100 50 0.25/ 70-90 80/120 60 0.30/ 90-100 100/90 70 0.40/
+           >100 100/100 80 0.43
+
+        4. Standard cardiac CT will be performed to evaluate coronary arteries and left ventricular
+           volumes.
+
+        5. In supine position on CT table the blood pressure and the heart rate will be measured
+           and registered.
+
+      Quantitative evaluation:
+
+      The calculation of the myocardial perfusion succeeds in all slices with visible left
+      ventricular myocardium using a modification of the formula described by K.Miles and model
+      based approaches.
+
+      The calculation of the left ventricular volumes succeeds by use of the vendors software.
+
+      Statistic:
+
+      All personal and measured data will be anonymised, tested, analysed and evaluated in Graz
+      University of Technology.
+
+      The numerical values will be expressed as mean +/- SD (min, max, 95% CI). p-values of 0.05
+      will be regarded statistically significant. Paired test and or Wilcoxon signed-rank tests
+      will be used. X² analyses will be used to compare categoric variables. Additionally
+      correlation analyses (Pearson, Spearman) will be performed and method of classification (pre-
+      vs. postoperative) will be applied. All calculation will be done by SPSS 21.0 (SPSS, Chicago,
+      Il, USA) or by Matlab statistic toolbox or R.
+
+      The neccessary number of studied patients is based on the results of 64 patients studied
+      before and after aortic valve replacement in whom the myocardial perfusion was measured
+      before and four months after surgery.
+
+      Pre-operative: Mean=74 (SD=21) ml/100g/min Post 4 Months: Mean=78 (SD=20) ml/100g/min.
+      Difference= +4ml/100g/min. With 0.5 supposed correlation of the measured values the standard
+      deviation of the differences may be estimated as 20ml/100g/min.
+
+      By alpha=0.05, 1-beta=0.80, n=209 patients is needed.
+
+      In addition to the pre- and post surgery evaluation, statistical models explaining the
+      influence of collected data on the quantitaitve myocardial perfusion will be computed.
+
+      As a drop-out quote of 10% may be expected it is neccessary to study in each group of
+      patients 230 patients. This means total 690 patients.
+
+      All data will be registered in database and tested for plausibility.
+    
+  

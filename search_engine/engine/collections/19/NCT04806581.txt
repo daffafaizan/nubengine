@@ -1,0 +1,29 @@
+
+    
+      -  A traditional 3 + 3 dose escalation design will be implemented.
+
+        -  Successive cohorts of participants (3 or 3+3 participants /cohort) will start on a fixed
+           cell numbers of allogeneic hepatocyte in three cohorts separately: L dose (low cell
+           numbers); M dose (medium cell numbers); H dose (high cell numbers).
+
+        -  The 1st cohort will be given dose of L.
+
+        -  The 2nd cohort will be given dose of M.
+
+        -  The 3rd cohort will be given dose of H.
+
+        -  Dose escalation will continue until the maximum-tolerated dose (MTD). If no DLTs are
+           observed for 28days after administration of the last dose, a new cohort will be enrolled
+           at the next planned dose level. If DLTs are observed in 2 of the three participants, the
+           MTD will be determined to be the dose administered to the previous cohort. If DLTs are
+           observed in one participant in the cohort, another three participants will be treated
+           with the same dose level. If the new three participants aren't observed DLTs, another
+           cohort will be enrolled at the upper dose. If at least one of the new three ones are
+           observed DLTs, the below dose will be the MTD.
+
+        -  MTD will stopped by testing increasing up to the H dose.
+
+        -  Toxicities will be graded using the Common Terminology Criteria for Adverse Events
+           Version 5.0 (CTCAE 5.0).
+    
+  

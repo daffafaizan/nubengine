@@ -1,0 +1,33 @@
+
+    
+      This is a combined retrospective and prospective, unblinded, non-CTIMP, multicentre,
+      observational study to develop and determine methods of applying CV and AI with IFA in
+      surgery for clinical benefit in surgery. Surgery can be performed via a minimally invasive
+      fashion whether by an endoscopic or a laparoscopic or robotic technique (the latter depending
+      on surgeon's preference) as part of either a diagnostic or therapeutic intervention in the
+      standard way based on the patients' clinical need. Either before or during the procedure, a
+      visual contrast agent will be administered by peripheral cannula and the area of interest
+      examined by use of a near-infrared scope to determine presence, persistence and
+      inflow/outflow pathways of the dye. The video image will be subjected to further analysis by
+      computer vision and data analytics for the purposes of elucidating specific patterns enabling
+      machine learning to build algorithms for flow characterisation informed by biophysics and
+      pseudo-anonymised clinical data. The developmental algorithms will be additionally informed
+      by mechanistic work quantifying and localising the fluorescence agent within and around sites
+      of abnormal disease by digital fluorescence scanning and near-infrared microscopy as well as
+      deep characterisation of dye clearance dynamics and local tissue metabolites (particularly
+      acidosis). In addition, some tissue from the resected specimens provided in the course of
+      diagnostic investigation or cancer surgery will be used to develop organoids for the purpose
+      of examining in vitro tumour uptake and distribution of fluorescence agents.
+
+      In all 250 patients will be studied over the three-year period, comprising 100 patients
+      undergoing anastomotic construction and 100 undergoing cancer diagnostics/resection. Some
+      patients can be included in both groups). Following development (potentially earlier then
+      above), prospective validation will be performed on approximately 25 patients in each group.
+      The follow-up period ends 30 days after recruitment. The trial will not be blinded to
+      participants, medical staff, or clinical trial staff. The contrast agents used are clinically
+      approved (including indocyanine green) for such use within this study. While the validation
+      component of this work will be performed prospectively, the initial model development will
+      include some data from patients retrospectively who have already undergone similar
+      evaluation.
+    
+  

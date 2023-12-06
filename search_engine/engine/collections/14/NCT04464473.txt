@@ -1,0 +1,34 @@
+
+    
+      The Comprehensive Control Task (CCT) was designed to examine hierarchical control in a
+      single, well-controlled factorial task. On each trial, participants view a letter surrounded
+      by a colored shape at a particular screen location. Color cues the relevant feature, letter
+      or location, for a block of trials. The first trial of a block requires a decision of whether
+      the stimulus is the first position of a circular sequence (sequence start). Subsequent trials
+      require a decision of whether the viewed stimulus follows the previous stimulus in a circular
+      sequence (sequence 1-back). The letter sequence (C-O-M-I-C) and spatial sequence (Top
+      Left-Top Right-Bottom Left-Bottom Right-Top Left) are difficulty-matched.
+
+      Shape cues the task to perform. Squares indicate the standard baseline task, and each block
+      begins and ends with baseline trials. Different shapes indicate sub-tasks. In Switching
+      blocks, shape-switches (e.g. from square to circle or circle to square) cue the sequence
+      start task. Shape-repeats cue the sequence 1-back task. In Planning blocks, triangle shapes
+      indicate that the stimulus can be ignored (automatic "no" response). All the while, the last
+      square-shaped stimulus must be retained as a reference for the next square-shaped stimulus.
+      Finally, in Dual blocks, diamond shapes indicate switching (sequence start) and also
+      planning. The reversion back to square shapes requires sequence matching to the distal,
+      previous square.
+
+      The design is factorial with stimulus-domain x contextual control x temporal control
+      orthogonally manipulated. Full details of the CCT have been previous described in Nee &
+      D'Esposito, 2016; 2017.
+
+      The focus in this study will be comparison of FPl-TMS, MFG-TMS, and S1-TMS in an interleaved
+      fMRI-TMS-fMRI design. The logic is to test the apical status of the FPl/MFG through the
+      extent to which TMS impacts other PFC areas and behavior.
+
+      Each experiment will begin with 1 session of the CCT with fMRI to localize PFC targets. Each
+      participant will then perform 3 counter-balanced sessions wherein a different site will be
+      targeted by TMS followed immediately by fMRI on the CCT.
+    
+  

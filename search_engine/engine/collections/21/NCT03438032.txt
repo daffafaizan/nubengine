@@ -1,0 +1,30 @@
+
+    
+      Using cutting-edge single cell RNA-Seq technology, we will identify in the BAL fluid of
+      subjects of SSc-ILD emerging pathogenic cell populations in the lung that were previously
+      unrecognized using standard RNA-Seq and microarray technologies, which lack the resolution to
+      analyze transcriptomes of individual cells. Alveolar macrophages isolated from
+      bronchoalveolar lavage (BAL) fluid from SSc patients with clinically significant lung
+      fibrosis will be studied at baseline and at 6 months after enrollment to assess
+      longitudinally the presence and persistence of an emergent, pro-fibrotic alveolar macrophage
+      population.
+
+      Subjects with SSc-ILD will be recruited from the Scleroderma Program. We will recruit adults
+      who fulfill 2013 American College of Rheumatology (ACR) SSc criteria and clinically relevant
+      SSc-interstitial lung disease. Patients will undergo bronchoscopy with bronchoalveolar lavage
+      at month 0 and then at month 6. Healthy control subjects will complete demographic and basic
+      medical forms to ensure health. Pertinent clinical data will be downloaded from the
+      Enterprise Data Warehouse, an electronic database in use at Northwestern that was designed to
+      aggregate and store patient data from various medical systems, or through manual chart
+      review, and entered into a RedCap database created specifically for this project.
+
+      During an elective bronchoscopy procedure in SSc and healthy control subjects the
+      bronchoscope will be wedged into an affected lung segment guided by CT scanning. After
+      wedging the bronchoscope, 120ml of sterile 0.09% normal saline will be instilled. All
+      subsequent aliquots will be pooled. Up to 40-60 mL of BAL fluid will be obtained for analysis
+      during each sampling. Alveolar macrophages will be sorted on a fluorescence-activated cell
+      sorter (FACS) Aria III instrument. High-throughput single cell transcriptomic (Drop-seq) data
+      will be processed on Northwestern high-performance computational cluster using Cell Ranger
+      pipeline and post-processed using modified AltAnalyze pipeline.
+    
+  

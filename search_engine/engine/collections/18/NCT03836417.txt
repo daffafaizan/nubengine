@@ -1,0 +1,131 @@
+
+    
+      Aim of the study This is a prospective, observational trial to collect samples of SLB,
+      extract RNA, analyze transcriptional profiles by microarray, and validate previously
+      identified gene expression profiles and individual genes expression levels against the
+      diagnosis of IIP (IPF vs. NSIP), defined by multi-disciplinary discussion, and further
+      confirmed by subsequent clinical course. There is no experimental drug involved.
+
+      Specific objectives:
+
+        1. Test and validate the reproducibility of gene expression profiles of IPF and NSIP on the
+           transcriptome obtained from surgical lung biopsies (lung homogenates), prospectively
+           collected.
+
+        2. Test the gene expression profiles of IPF and NSIP, respectively, as predictors of 3-year
+           survival from the time of biopsy. .
+
+        3. Test individual gene expression levels (markers of NSIP or IPF) in lung homogenates from
+           SLB with real-time RT-PCR, as discriminators of IPF vs. NSIP.
+
+      Although the diagnosis of IPF or NSIP will be established by multi-disciplinary discussion,
+      as per guidelines, in order to further validate gene signatures and singles genes as reliable
+      discriminators of IPF vs. NSIP, we will prospectively follow the clinical course of patients
+      for a period of 3 years, to make sure that the clinical course is consistent with either IPF
+      (worse) or NSIP (better). The average clinical courses of IPF and NSIP are clearly
+      established by our 6-year interstitial lung disease database experience.
+
+      Assessment of expected outcomes:
+
+        1. Definition of a diagnosis of IPF vs. NSIP by MDD among Respirologist, Chest Radiologist
+           and Lung Pathologist, as per current clinical practice. Kappa statistics will be also
+           used to evaluate the diagnostic impact of molecular diagnostic techniques.
+
+        2. Comprehensive microarray analysis of all SLB, including significance analysis of
+           microarray, principal component analysis, hierarchical clustering and Ingenuity pathway
+           analysis. The reproducibility of predefined gene expression profiles of IPF and NSIP
+           will be studied on surgical lung biopsies.
+
+        3. Real time RT-PCR to measure the gene expression levels of 6 selected genes that may
+           differentiate IPF from NSIP.
+
+        4. Prospective follow-up of clinical course (3 years) to further validate diagnostic
+           accuracy.
+
+        5. Study of the predictive power of gene expression profiles of IPF and NSIP (categorical
+           variables) and of the expression level of 6 selected genes (continuous variables)
+           towards 3-year survival from the time of biopsy.
+
+        6. Assessment of diagnostic accuracy area under the curve, sensitivity, specificity) of
+           molecular techniques, after validation of diagnosis with 3-year post-biopsy clinical
+           course.
+
+      Subjects After ruling out known causes (rheumatoid disorders, occupational, environmental or
+      domestic exposures, drugs) of pulmonary fibrosis, patients being referred for a SLB to
+      clarify the diagnosis of IIP (IPF vs. NSIP) will be recruited in the study. Informed, written
+      consent will be obtained.
+
+      Demographic characteristics and pulmonary function tests prior to the SLB will be recorded.
+      The pre-SLB high resolution chest CT scan will be considered together with the SLB during
+      MDD.
+
+      Storage and processing of samples At the time of SLB, an adequate sample of each SLB will be
+      snap frozen with liquid nitrogen and stored at -80ºC, until RNA extraction is carried on.
+
+      RNA extraction and Microarray analysis RNA will be isolated, labeled, and hybridized to the
+      human gene 1.0 set array by the London Regional Genomic Centre according to the
+      manufacturer's protocols (Illumina EpiCentre ScriptSeq).
+
+      Data sets for microarray experiments will be made available at the Gene Expression Omnibus
+      repository.
+
+      Partek software (St.Louis, MO) will be used for the preliminary analysis. Probe-level data
+      will be pre-processed. This will include robust multi-array average background correction and
+      data normalization, which will be performed across all arrays using quantile normalization.
+      Background-adjusted, normalized values will then be compiled, or summarized, using the median
+      polish technique, to generate a single measure of expression. As an exploratory data
+      analysis, principal component analysis mapping and F Ratio analysis (signal-to-noise ratio)
+      will also be performed.
+
+      For Significant Analysis of Microarray, 33,297 probe sets will be used. The q value will be
+      adopted as a multiple comparison correction and used to identify differentially expressed
+      genes. The q value represents the minimal false discovery ratio (FDR) at which an individual
+      hypothesis test may be called significant.
+
+      For hierarchical clustering, Cluster 3.0 and Treeview (Eisen's laboratory, Standford Univ.)
+      will be used. Unsupervised clustering does not take any of the experimental variables such,
+      as treatment, phenotype, tissue, etc., into account while clustering.
+
+      Ingenuity Pathway analysis (IPA) is fundamental role to determine gene expression and
+      protein-protein interactions within the context of metabolic or signaling pathways, and to
+      understand how proteins operate and form pathways, in the context of the selected expression
+      profiles. IPA is a powerful curated database and analysis system for understanding how
+      proteins work together to effect cellular changes.
+
+      Gene expression profiles to be considered for validation on SLB were published (Respiratory
+      Research 2018 Aug 15;19:153). The gene signature of NSIP consists of 86 genes, while the gene
+      signature of IPF consists of 60 genes. Receiver operating characteristics analysis will be
+      used to determine the accuracy of gene expression analysis in determining the diagnosis of
+      IPF vs. NSIP (area under the curve, sensitivity, specificity).
+
+      RT-PCR Ribosomal protein large P0 will be used as housekeeping gene. Based on our previous
+      results on lung explants, 6 genes will be tested as discriminators of IPF vs. NSIP on lung
+      homogenates from SLB. All genes were cross checked against normal controls.
+
+      Statistical analysis The Kolmogorov-Smirnov test will be used to assess demographic,
+      functional and RT-PCR variables' distribution. For comparison of groups (IPF vs. NSIP),
+      either unpaired t-test or the Mann-Whitney test, where indicated, will be used. Cox
+      proportional hazard analysis and receiver operating characteristics will be used to determine
+      the strength of RT-PCR variables in predicting outcome. Kappa statistics will be used to
+      asses diagnostic agreement during MDD. Receiver operating characteristics analysis will be
+      used to assess diagnostic accuracy (sensitivity, specificity, area under the curve).
+
+      Definition of diagnosis and post-biopsy clinical course The specific diagnosis of IIP (IPF
+      vs. NSIP) will be defined based on multi-disciplinary discussion (MDD) among treating
+      clinician, chest radiologist and lung pathologist, taking into consideration clinical
+      information chest CT scan radiographic pattern and pathology pattern seen on the SLB. The
+      diagnosis will be reached by consensus, as per current standard of practice.
+
+      To validate the diagnosis, patients will be followed for a period of 3 years after the SLB.
+      Rate of clinical progression and survival are significantly different in IPF vs. NSIP.
+
+      Clinical progression from the time of diagnosis (SLB) will be defined as either: >10%
+      absolute reduction in forced vital capacity (FVC) % pred; >50 m decline in 6-minute walk
+      distance (6MWD); admission to hospital for respiratory causes; lung transplantation (LTx)
+      assessment; or death.
+
+      Clinic visits take place at 4-6 months intervals, as dictated by the clinician. At each
+      visit, MRC dyspnea score, pulmonary function tests and 6-minute walk tests data will be
+      collected.
+    
+  

@@ -1,0 +1,12 @@
+
+    
+      -  Adverse Events The whole study discontinuation is determined based on the following
+           criteria with Adverse Events classified using US NCI (National Cancer Institute) 'Common
+           Terminology Criteria for Adverse Events (CTCAE)
+
+        -  Pharmacokinetic assessment Real sampling times will be used to calculate pharmacokinetic
+           parameters. Concentrations below the lower limit of quantification, samplings which are
+           not applicable, or missing data will be substituted by "<LLOQ", "NA", or "MD"
+           respectively. Pharmacokinetic analyses will be performed on CG100649 only.
+    
+  

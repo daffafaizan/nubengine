@@ -1,0 +1,72 @@
+
+    
+      Study Procedures/Evaluations
+
+        -  The trial will be conducted at the CHEO NICU. The non-invasive patient monitoring
+           equipment that has no direct contact with infant's skin, includes a pressure sensitive
+           mat (PSM) from the LX100 series (XSensor Technology Corp. Calgary, Canada, XSensor.com)
+           and a video camera.
+
+        -  The patient will be lying in an incubator, on an overhead warmer neonatal bed, or an
+           open crib (whatever bed type they are currently being nursed in/on). The patient's nurse
+           will place the PSM on the mattress and under the patient's bedsheet where it will have
+           no contact whatsoever with the patient. The PSM placement under the infant will happen
+           at a time when the infant would normally be handled/moved.
+
+        -  Data from the following four sources will be recorded simultaneously in each session:
+
+             1. Contact pressure data from PSM
+
+             2. Physiologic monitor data including blood oxygen saturation (SpO2), heart rate (HR),
+                pulse rate (PR), respiratory rate (RR), and the alarms associated with each of
+                these physiologic data streams. This data is collected from monitors that the
+                patient has attached as part of their usual care.
+
+             3. Video of the patient
+
+             4. Event annotations collected by a bedside research assistant on a PC, laptop or
+                tablet.
+
+        -  All data will be de-identified using unique study identifiers. The NICU research team
+           will assign these study identifiers and keep this information on a Master Study List
+           separate from all recorded data.
+
+        -  The PSM connects to an X3 Pro Sensor Pack that feeds into an X3 Pro Electronic Platform
+           that is connected via USB to a laptop running the X3 Pro software. The X3 Pro software
+           is used to record PSM data and video simultaneously. The PSM is powered from an approved
+           AC power supply and is connected to the data acquisition computer via USB. The XSensor
+           PSM system is already being used with adult patients, however, the electrical safety of
+           our final configuration will also be established through independent inspection (see
+           below). The pressure mat will be covered by one or more bedsheets at all times. The baby
+           will not be permitted to come in contact with the mat to reduce the risk of electrical
+           shock and airway obstruction.
+
+        -  Bench tests will be conducted by CHEO Clinical Engineering to confirm that leakage
+           current measurements from the mat and the entire system will meet the limits published
+           in Requirement EN60601. If any deficiencies are identified alternations to the system
+           will then be completed prior to a special inspection by Canadian Standards Association
+           (CSA). A special electro medical inspection will be arranged with CSA for the final
+           configuration of PSM, laptop, and power supplies.
+
+        -  The video camera will be mounted on a tripod to capture patient movements, routine care,
+           and clinical interventions if any. We will capture the entire body, the head being very
+           important as this is where most interventions occur such as nasal gavage feeding,
+           ventilator support and airway suctioning. Video analysis has shown to be particularly
+           useful for estimating RR in neonates [39].
+
+        -  A bedside research assistant (RA) will manage all data recordings on a computer kept by
+           the patient's bedside for up to 6 hours per recording session.
+
+        -  Physiologic data including the patient's heart rate (HR), respiratory rate (RR), oxygen
+           saturation levels (SpO2) and pulse rate (PR) as well as corresponding alarms for each
+           data stream shall be logged from the bedside Dräger patient monitor onto a computer.
+
+        -  The RA will simultaneously annotate all patient events including movements, routine
+           care, and clinical interventions on an electronic device such as a PC, laptop, or
+           tablet.
+
+        -  The RN who will respond to the alarms will be asked for their clinical opinion as to the
+           veracity (artifact or clinically important) of the alarms and this opinion will be
+           annotated by the RA.
+    
+  

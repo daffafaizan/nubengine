@@ -1,0 +1,228 @@
+
+    
+      2.0 Background/Scientific Rationale
+
+      PCa is the most commonly detected cancer and the second leading cause of cancer death among
+      US men overall; however, mortality rates among African American (AA) and Black men are nearly
+      twice as high compared to white men. The Stockholm3 test is the first of its kind to
+      incorporate protein level measurements and germline mutation assays that have been shown to
+      improve PCa detection and reduce unnecessary biopsies in a European white cohort, however
+      these objective measurements have not been assessed in a primarily multiethnic cohort.
+
+      3.0 Objective/Aims
+
+      To test blood samples from multiethnic populations with the Stockholm3 test to find
+      associated risk factors in the detection of prostate cancer and show improved prediction over
+      PSA alone.
+
+      3.1 Primary endpoint
+
+      • Detection of International Society of Urological Pathology Gleason Grade Group 2 Prostate
+      Cancer on prostate biopsy
+
+      o Gleason Grade Group scale is used to grade prostate cancer if found on a scale from 1 to 5.
+      A higher score means a worse outcome.
+
+      3.2 Secondary endpoint
+
+      • National Comprehensive Cancer Network Unfavorable intermediate prostate cancer or higher
+      grade
+
+      o National Comprehensive Cancer Network risk stratification scores range from very low risk,
+      low risk, intermediate risk, high risk and very high risk. Intermediate risk is stratified
+      into favorable intermediate risk and unfavorable intermediate risk. The higher the risk the
+      worse the outcome
+
+      4.0 Eligibility
+
+      4.1 Inclusion Criteria
+
+        -  Men with age range (45.0 - 75.0 years), without prior evidence of prostate cancer
+
+        -  Meeting standard of practice clinical criteria for a prostate biopsy. Able to obtain
+           informed consent.
+
+      4.2 Exclusion Criteria
+
+      • There are no specific exclusion criteria. If there is a paucity of data with regards to the
+      defined variables being analyzed, those patients might be excluded from sub analyses but not
+      all.
+
+      5.0 Subject Enrollment
+
+      The subjects will be consented for prostate biopsy as part of standard of care. No additional
+      advertising will be used for enrollment. Study enrollment goal will be 2,000 men who have a
+      self-described race/ethnicity of: African/Black (n=500), Asian (n=500), White Hispanic
+      (n=500), and White Non-Hispanic (n=500) men.
+
+      6.0 Study Design and Procedures
+
+      The research coordinator will explain the information contained within the consent.
+      Additionally, patient's blood will be drawn prior to their biopsy.
+
+      Prior to the biopsy, blood will be collected in x2 ethylenediaminetetraacetic acid (EDTA) 4
+      ml tubes after obtaining consent from the subjects. One tube will be immediately centrifuged
+      (10 minutes at 2000G) and plasma decanted to a tube without additives (this typically
+      produces 1.5 ml of plasma). The decanted tube (with plasma) and the remaining EDTA tube (with
+      whole blood) is then frozen and stored at the designated participating institutional site. It
+      will be stored at -20 Celsius until being shipped.
+
+      Patient data will be stored in a REDCap database, hosted on Sweden's secure server. Data will
+      be stored for the duration of the study, and 5 years afterwards for data analysis purposes.
+
+      Consented patients will be tracked by patient logs by each participating institution. The
+      medical record number will be collected to keep a consistent identifier for data collection
+      by key site personnel. Once all the patient data is recorded the data will be exported from
+      REDCap with the MRN removed. There will be no patient identifiers used at the Karolinska
+      Institute or A23 lab. The following PHI and non-PHI information will be logged of the
+      patient:
+
+      PHI:
+
+      Medical record number (MRN)
+
+      Non-PHI Demographic data
+
+        -  Stockholm3 Identification number
+
+        -  Race
+
+        -  Zip code
+
+      Clinical data
+
+        -  Total PSA
+
+        -  Age on sampling date [years]
+
+        -  Family history of prostate cancer
+
+        -  Use of 5-alpha reductase inhibitors
+
+        -  Earlier biopsy conducted
+
+        -  Prostate volume [Prostate volume as measure with US]
+
+        -  Digital rectal exam status [Benign/normal, Nodule/induration felt, Asymmetry, Not
+           performed]
+
+      AND
+
+      Outcome data - Results from biopsy performed immediately after blood venipuncture, i.e.:
+
+      Results will be separated into targeted biopsy cores and systematic biopsy cores
+
+        -  Gleason Score 1
+
+        -  Gleason Score 2
+
+        -  Gleason Sum
+
+        -  Cancer length (mm) (total and highest grade)
+
+        -  Number of cores
+
+        -  Number of positive cores
+
+        -  Time to perform biopsy after blood draw [days]
+
+        -  Results from MRI, i.e. Prostate Imaging Reporting & Data System (PIRADS) (0, 1, 2, 3, 4,
+           5)
+
+      Permitted use:
+
+      To run the Stockholm3 test defined by Gronberg et al AND Ancestry informative genetic markers
+
+      Samples will be shipped to the Uppsala based laboratory (A23 Laboratory) in Sweden for
+      analysis. Each patient will have two blood samples (plasma and whole blood) and will be
+      frozen at -20 Celsius. The blood samples will then be tested for quantitative levels of serum
+      protein levels and DNA will be extracted from white blood cells and will be tested for gene
+      and small nucleotide polymorphic (SNPs) germline mutations and variants .
+
+      Genotyping will be performed using custom genotyping assays. Plasma will be used for protein
+      analysis. Plasma protein analysis will be performed using a custom protein assays including
+      total and free PSA, human glandular kallikrein 2 (hK2), microseminoprotein-beta (MSMB), and
+      Macrophage inhibitory cytokine 1 (MIC-1). PSA will be tested with a commercial assay.
+
+      Based on the results from the plasma protein analysis, the genetic analysis and clinical
+      data, the Stockholm3 Risk Score will be calculated. The participants' samples will be treated
+      in accordance with the regulations of Sweden at the laboratory based in Uppsala, Sweden.
+
+      Results of the tests will not be shared with the patient, nor will the results change or
+      impact medical decisions.
+
+      7.0 Expected Risks/Benefits
+
+      Anticipated Risks:
+
+      As this is retrospective analysis of deidentified patient information as well as deidentified
+      biospecimens, there are few anticipated risks. A confidentiality breach as well as loss of
+      privacy are possible, however every effort will be made to minimize this risk.
+
+      Anticipated Benefits:
+
+      Participants will advance scientific and clinical knowledge.
+
+      8.0 Data Collection and Management Procedures
+
+      This study will utilize REDCap (Research Electronic Data Capture), a software toolset and
+      workflow methodology for electronic collection and management of clinical and research data,
+      to collect and store data. The Karolinska Institute Information Technology (KI-IT) Department
+      will be used as a central location for data processing and management. REDCap is hosted by
+      KI-IT in the Biomedicum (Solnavägen 9, Solna, Sweden 17165)
+
+      9.0 Data Analysis
+
+      Data analysis will be performed by the PI, co-investigators and/or key research personnel.
+
+      10.0 Quality Control and Quality Assurance
+
+      Key research personnel will be responsible for ensuring all data collected adheres to the
+      protocol.
+
+      11.0 Data and Safety Monitoring
+
+      This study is minimal risk and all efforts will be made to ensure there are no
+      confidentiality breaches as well as no loss of privacy.
+
+      12.0 Statistical Considerations
+
+      Power analysis This study is being conducted among several sites and thus pooled analysis
+      will be performed. Based on the framework developed a two-sided alpha of 0.05, 250 men in
+      each ethnicity gives 80% power to detect 10 percentage points differences in sensitivity
+      and/or specificity of the Stockholm3 test across different ethnicities. Pooled data from
+      several sites will allow for comparison between non-Hispanic White, Africa/Black, Asian, and
+      Hispanic White men. Within each ethnicity group of 250 men, the same sample size gives a 90%
+      power for detecting differences in area under curve (AUC) between Stockholm3 and PSA for
+      detection of PC that are at least 10 percentage points (primary aim).
+
+      Goal accruement is 500 men within each race/ethnicity, interim analysis will be performed
+      when 250 men in each race/ethnicity is enrolled.
+
+      Data Analysis Descriptive univariate statistics will be used to compare groups. Binary
+      endpoints will be assessed with a logistic regression model. Statistical analysis will
+      involve logistic regression modeling, AUC calculation, calibration analyses and calculation
+      of basic performance characteristics (sensitivity, specificity and predictive values).
+
+      A genetic risk score will be calculated using allelic odds ratios based on genome-wide
+      association study (GWAS) studies. The investigators will also test for differences in
+      Stockholm3 score between these four groups using Wilcoxon tests, as well as construct
+      receiver operating characteristic (ROC) curves; AUCs and their 95% confidence intervals.
+      Calibration analyses will be performed.
+
+      All statistical analyses will be performed using R (R Foundation for Statistical Computing,
+      Vienna, Austria).
+
+      13.0 Regulatory Requirements
+
+      13.1 Informed Consent The participants indicate their consent to participate in the study by
+      signing informed consents for accessing medical records, conducting genetic research and
+      undergoing venipuncture for blood samples.
+
+      13.2 Subject Confidentiality Data used for this study will be stored in REDCaps and all data
+      transferred between institutions will remain deidentified throughout the study.
+
+      13.3 Unanticipated Problems Any unanticipated problems will be immediately reported to the
+      Site-specific ethical review board by designated research personnel.
+    
+  

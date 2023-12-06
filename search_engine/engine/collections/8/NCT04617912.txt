@@ -1,0 +1,55 @@
+
+    
+      The PennPET Explorer is a multiring system with a long AFOV that is scalable and comprised of
+      multiple 22.9 cm long ring segments, each with 18 detector modules based on a commercial
+      digital silicon photomultiplier. Initial testing data on a prototype 3-ring-segment
+      instrument with an active 64-cm AFOV has been collected and published by Karp et al., and
+      Pantel et al., [Karp 2020, Pantel 2020], validating the system design and demonstrating its
+      initial performance.
+
+      In the last two decades, commercial PET scanner performance has improved dramatically with
+      CT-based attenuation correction 1, the use of lutetium oxyorthosilicate or lutetium-yttrium
+      oxyorthosilicate scintillators, time-of-flight reconstruction 2-5, and, most recently,
+      silicon photomultiplier (SiPM)-based time-of-flight detectors 2,6. However, the AFOV has not
+      grown; it remains 16-26 cm for the newest commercial SiPM-based scanners 7,8. This choice is
+      due mainly to scintillator and SiPM photosensor costs and the prevalence of clinical 18F-FDG
+      scanning focused on measuring lesion SUV when the uptake is assumed to be at steady state,
+      typically at 60 min after injection. The newest commercial instruments perform an 18F-FDG
+      whole-body survey (skull-base to mid-thigh) with excellent diagnostic quality in 10-20 min
+      using bed translation.
+
+      The motivation for a LAFOV PET system is to use its high sensitivity to enhance clinical
+      performance and to enable research applications. Clinically, a LAFOV system could enable
+      faster imaging, imaging with lower injected activities, or a combination of the two. Research
+      applications include delayed imaging, improving quantification for kinetic modeling, and
+      applications requiring simultaneous measurement of multiple organ systems 9,10. It is unknown
+      whether such a system would primarily be used for clinical or research applications. The
+      investigators developed the PennPET Explorer whole-body imager to support both applications.
+      Performance measurements were taken on the prototype 3-ring-segment system to optimize the
+      hardware and software acquisition and reconstruction, as well as to demonstrate the
+      capabilities of the PennPET Explorer. The investigators are currently increasing the number
+      or ring-segments to a total of 6 which will give an active 140 cm AFOV. This will allow
+      whole-body imaging in one bed position for most adults.
+
+      In the evaluation of a new instrument, human studies are essential to establish the
+      real-world performance beyond phantom studies, as well as to test and optimize data
+      acquisition and reconstruction. To date 10 human studies have been imaged on the prototype
+      scanner under IRB 809476. This instrument was determined by the FDA to meet the definition of
+      a nonsignificant risk (NSR) device and is therefore subject only to abbreviated IDE
+      requirements. Once the additional ring-segments have been added to the instrument, the
+      investigators plan to continue testing this scanner in human subjects under this ongoing
+      open-ended protocol. The investigators will continue to work towards optimizing performance
+      and data acquisition until such time as this device receives full FDA 510(k) approval.
+
+      This protocol is designed to test the PennPET Explorer instrument with its final AFOV of 140
+      cm. PET imaging involves the administration of a radioactive imaging drug that emits
+      positrons which are detected by the scanner and used to form the images. For the purposes of
+      this protocol, the administered radioactive imaging drug (tracer) will vary; it may be an
+      FDA-approved radiotracer or an experimental radiotracer that is used under an IND. If the
+      radiotracer used is under an IND, then the administration of the radiotracer will be done
+      under the purview of a separate protocol for which the subject has been separately consented.
+      This protocol and the corresponding ICF involves consent only for being scanned on the
+      investigational scanner and does not pertain to the administration of an investigational
+      radiopharmaceutical.
+    
+  

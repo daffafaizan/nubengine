@@ -1,0 +1,91 @@
+
+    
+      Optical Tracking System
+
+      For this study, PRODIGI was combined with a commercial optical tracking system (OTS, Polaris,
+      NDI Medical, Waterloo, Ontario, Canada) to track the movement of the device in space relative
+      to a patient over time. This addition is in the form of an infrared-light camera, which
+      tracks four IR reflective spheres (NDI Medical, Waterloo, Ontario, Canada) that are fixed to
+      the external housing of PRODIGI device.
+
+      The OTS has been described previously. Briefly, it consists of optical tracking technology,
+      which provides 6 degrees of freedom (x, y, z, pitch. yaw, roll), attached to the camera along
+      with software developed in house to register and visualize the tracked camera pose relative
+      to a previously acquired radiological volumetric image data. The in-house software platform
+      GTxEyes performs tracking and navigation of the imaging camera, camera calibration (including
+      any image distortion), registration of the camera coordinates with respect to the CT images,
+      and co-visualization (e.g. visual overlay) of the camera and CT images. Radiation dose
+      planning information can also be spatially co-registered and overlaid with the hybrid
+      optical-CT images/videos using methods described previously by our group.
+
+      After loading a CT image of the patient, the OTS is registered to the CT coordinate space by
+      identification of known fiducials using a conventional pointer tool. With registration
+      complete, the coordinates of the PRODIGI camera can be tracked in real time relative to the
+      CT image. Viewing options include orthogonal views through the CT image, corrected PRODIGI
+      image and a virtual image based on the CT surface rendering viewed from the perspective of a
+      virtual camera at the PRODIGI coordinates. Radiation dose can be displayed on the real and
+      virtual camera views as either isodose lines or colorwash.
+
+      Patient Population
+
+      Patients will be recruited from the Princess Margaret Cancer Centre, University Health
+      Network (Ontario, Canada) sarcoma clinic to be treated with pre-operative external beam RT
+      followed by surgical resection of lower limb soft-tissue sarcoma. Informed consent was
+      obtained according to institutional Research Ethics Board (REB) requirements and Good
+      Clinical Practice (GCP) (ClinicalTrials.gov NCT02270086). Patients with pre-existing skin
+      issues, who received prior radiotherapy or required chemotherapy were not eligible to the
+      study.
+
+      Imaging Procedures
+
+      At the radiotherapy planning stage, a CT scan of the patient sarcoma site is acquired for
+      standard treatment planning purposes. Prior to the CT scan, small radio-opaque fiduciary
+      markers (Suremark TM skin marking labels) were placed on the patient's six radiation
+      treatment setup points, making the <1 mm diameter points easy to identify in the CT images.
+      After the CT scan, these markers were replaced with ink tattoos and used during radiation
+      treatment to align the patient with radiation therapy machine reference frame. In addition to
+      the CT fiducial markers placed at the treatment setup points, a flexible radio-opaque wire
+      was overlaid on the planned surgical incision. This enabled localization of the entire
+      surgical scar during the radiation treatment plan procedure. A radiotherapy stereotactic mask
+      was also made at that stage. Following CT simulation scan acquisition, an appropriate
+      radiotherapy plan was designed as per institutional clinical standard guidelines.
+
+      Imaging with PRODIGI and the OTS was performed throughout the sarcoma management, i.e. during
+      radiotherapy and in the operating room. Imaging was performed at three time points during RT:
+      fractions 0, 12 and 25, i.e. at the beginning, middle and end of the treatment. Four out of
+      six treatment setup points marked with radio-opaque fiduciary markers on the CT scans were
+      used to perform the optical to CT co-registration. An optically-tracked pointer tool using
+      four IR reflective spheres (identical to the ones fixed to the PRODIGI system) was used to
+      register the patient in space with respect to the IR camera. For this, the pointer was placed
+      sequentially on each tattoo mark, identified and spatially registered by the tracking IR
+      camera and visualized in real-time on the CT scans using the custom-built software GTxEyes.
+      The locations of the tattoo points in the optical tracking coordinate system were then
+      registered to the corresponding points in the CT image using the fiduciary CT markers. Once
+      registration was completed, the planned surgical scar was drawn on the patient's skin with a
+      marker by superimposing the optically-tracked pointer on the scar visible on the CT scans. An
+      imaging session consisted of both WL and corresponding AF imaging of the planned skin
+      surgical incision and surrounding tissue. Room lights were turned off during AF imaging to
+      avoid background signal and artifacts. The four reflective spheres on the PRODIGI device were
+      pointed towards the IR camera to ensure proper tracking in 3D during the entire session.
+
+      To perform PRODIGI imaging in the operating room, a sterilization method approved by UHN's
+      control and processing department using a sterile drape was found to be the most effective
+      way to ensure proper sterile conditions without damaging the instrument or affecting its
+      performance. An elongated sterile drape (Cardinal Health Canada, 29-59029) was used to cover
+      the entire PRODIGI imaging system, i.e. the camera and electrical power cord. Six strong
+      neodymium magnets (Super Magnets, 8 mm diameter) were embedded into the emission filter
+      slider and six corresponding magnets were autoclaved prior to each use and placed on the
+      outside of the drape to hold it in place to avoid image quality degradation. Steri-strips
+      (3M, R1547) were applied on the outside of the draped device to tighten the drape around the
+      IR reflective spheres to insure adequate tracking during imaging. Imaging was performed at
+      five time points: before and after sterilization of the surgical site (OR1, OR2), once the
+      flap was raised (OR3), after tumor excision (OR4) and after closure (OR5).
+
+      The combined WL and AF images were part of a superset of data recorded using the tracking
+      system. The superset also included preoperative patient CT and the patient's RT dose volume.
+      A skin surface model was generated from the patient's CT, where each surface point held a
+      quantitative tuple that contained the surface normal vector, the RT dose, the WL scalar, the
+      AF scalar, and the camera pose corresponding to the AF scalar. Overlay of WL and AF images on
+      the skin surface model was visualized using the software ParaView.
+    
+  

@@ -1,0 +1,27 @@
+
+    
+      Detailed description of the novel device:
+
+      The device mainly distinguishes itself from commercial prostheses thanks to its new type of
+      actuation providing a compact and energy efficient solution to the challenge of ankle-foot
+      actuation. This new actuation method consists of using springs, a servo motor and a locking
+      mechanism, coupled with a sensory network providing intelligence to the robotic device. The
+      AMPfoot 4.0 design is also based on previous research conducted on the AMP-Foot 2. However,
+      it is important to note that in contrast with its preceding designs, the AMP-Foot 4.0 does
+      not provide active propulsion at push-off.
+
+      During walking, the AMP-Foot 4.0 working principle is divided into two main logic sequences,
+      i.e. the stance and the swing phase. These two phases are detected by analyzing gyroscope and
+      acceleration measurements from an Inertial Measurement Unit chip. During the stance phase,
+      the ankle performs a dorsi-flexing movement while a plantar-flexing torque is applied at the
+      ankle. The person's gravitational potential energy is stored into elastic potential energy by
+      means of the used spring. It is this spring that provides the plantar-flexing torque required
+      at the ankle as reaction to the movement of the user. Due to the use of a locking system, the
+      prosthesis can adapt its so-called zero torque rest point depending on the slope or stride
+      length of the user. This provides adaptability and therefore greater comfort compared to
+      prostheses with a fixed zero torque rest point. During the swing phase, the locking mechanism
+      unlocks to free the ankle movement. Parallel springs external to the stance system are then
+      activated to reset the foot to its initial position. From that moment, the device is ready
+      for a new step.
+    
+  

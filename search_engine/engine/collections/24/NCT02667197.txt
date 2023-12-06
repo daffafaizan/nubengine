@@ -1,0 +1,51 @@
+
+    
+      As part of a series of post-marketing requirement (PMR) studies for extended-release (ER) and
+      long-acting (LA) opioid analgesics, the Food and Drug Administration (FDA) is requiring New
+      Drug Application (NDA) holders of ER/LA opioids to conduct studies to estimate the incidence
+      of misuse, abuse, addiction, overdose, and death among patients with chronic pain using
+      long-term opioid therapy, and to validate the measures used to estimate the incidence of
+      these adverse events.
+
+      The purpose of this study is to validate the measurement of opioid overdose events using
+      diagnostic codes and data extracted from notes written in the electronic medical record
+      (EMR), accompanied by diagnostic algorithms, to be used in a study of the incidence and
+      predictors of opioid overdose and death (PMR Study 1B) among patients prescribed opioid
+      analgesics. Diagnostic codes, accompanied by diagnostic algorithms, will be compared against
+      manually abstracted medical chart reviews.
+
+      Code-based algorithms will be useful for identifying opioid overdoses in claims-based systems
+      that include only coded data and will also find applicability in systems with EMRs.
+      Code-based algorithms will be improved with text search of EMR clinical notations using
+      Natural Language Processing (NLP) to identify overdose events not identified by diagnostic
+      codes and to differentiate between intentional and unintentional overdoses. Yield from the
+      resulting EMR-based algorithm will again be compared against manually abstracted medical
+      chart reviews.
+
+      This EMR-based algorithm will be useful for identifying opioid overdoses in systems with
+      EMRs, and for further differentiating between the causes of different types of overdoses. For
+      example, overdose events can be due to misuse (e.g., therapeutic use not as indicated by a
+      clinician), medication errors by patients, medical errors made by prescribers, abuse by
+      patients, abuse by non-patients feigning to be patients in order to receive medications; and
+      suicides. Overdose events therefore differ in intentionality, that is whether the person was
+      attempting suicide or not. Unintentional overdoses can occur as a result of various causes,
+      including misuse (therapeutic use but not consistent with clinician orders), abuse, adverse
+      reactions to medications, anesthesia, and medication errors-both patient and provider-based.
+      In addition, the distinction between unintentional and intentional overdoses can sometimes be
+      unclear. This validation study will attempt to differentiate overdose by intentionality using
+      both code-based algorithms and NLP-enhanced algorithms.
+
+      Currently, administrative databases use ICD-9 codes for nonfatal diagnoses and ICD-10 codes
+      for fatal events. In October of 2015, ICD-10 codes are scheduled to replace ICD-9 codes for
+      nonfatal diagnoses in administrative databases. This study will validate existing ICD-9 codes
+      so that the study can meet the FDA-required timeline for a final report by November 2015.
+
+      This study will not evaluate misuse since this will be captured by instruments in a
+      prospective study of patients with chronic pain (PMR Study 1A) using a combination of adapted
+      validated instruments, and new instruments that will be evaluated in PMR Study 2. This study
+      will not include a formal validation for opioid-related deaths, since processes for coding
+      deaths vary from state to state, but will include some verification of opioid-related deaths
+      relative to medical records for events with available state and national death data (there is
+      a 12-month to 2-year lag in state death records).
+    
+  

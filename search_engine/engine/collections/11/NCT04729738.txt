@@ -1,0 +1,108 @@
+
+    
+      The data and information collected for each patient will initially be extracted through the
+      setting of filters that are specific for date and type of surgical procedure, on the data
+      management system for surgery of the Arcispedale S.Anna (Ormaweb). Subsequently, for patients
+      who meet the inclusion criteria, the data collection will be implemented by evaluating
+      discharge letters, radiological and pathological reports relating to the analysis of the
+      surgical specimen, contained in the management program of the data (SAP network) of the
+      Arcispedale S.Anna di Cona and, if necessary, the digitized archive of the medical records of
+      the Archispedale S.Anna will be queried to analyze the medical records relating to the
+      hospitalization during which the patient underwent surgery. The radiological examinations of
+      the patients, in particular the Computed Tomography of the abdomen, will be further analyzed
+      using specific software for the analysis of the density and muscle conformation of the psoas
+      muscles in order to evaluate the state of sarcopenia and extrapolate the indices related to
+      psoas muscle density, psoas index, and total psoas area.
+
+      The following data about each patient will be collected:
+
+        -  demographic variables as age at the time of surgery, sex, weight, height and BMI, weight
+           loss in the 3-6 months prior to surgery, performance status, ASA score (American Society
+           of Anesthesiologists score) also malnutrition scores according to MUST indexes
+           (Malnutrition Universal Screening Tool) and NRS 2002 (Nutrition Risk Screening 2002)
+           will be taken into account.
+
+        -  Pre-existing or intercurrent comorbidities aimed at formulating the comorbidity score
+           according to the Charlson Comorbidity Index; and frailty according to the 11 items of
+           the Frailty Index (arterial hypertension, vascular disease, heart disease, vascular
+           encephalopathy or previous transient ischemic attack, diabetes mellitus, inflammatory
+           bowel disease, chronic pulmonary obstructive disease , renal or hepatic insufficiency,
+           neurological or haematological diseases).
+
+        -  Radiological characteristics of the patient (distance between the anterior-superior
+           iliac spines, density, size and area of the psoas muscles considered at L4 vertebra
+           level) for the constitution of indices of sarcopenia (Bilateral average density of the
+           psoas muscles in HU, Hounsfield Unit Average Calculation , Total psoas area and Psoas
+           Index).
+
+        -  Characteristics of the surgery (date of surgery, duration in minutes, type of surgery,
+           peri-surgical antibiotic prophylaxis, incision time, any intraoperative complications
+           reported in the official operative document).
+
+        -  Characteristics of the postoperative hospital stay (duration, complication according to
+           the Clavien-Dindo scale and its possible treatment, date of death or follow-up and time
+           elapsed since surgery).
+
+        -  Definitive histological examination including macroscopic and microscopic description of
+           the specimen, classification according to TNM score (Tumour, Node, Metastasis), number
+           of lymph nodes removed).
+
+      The scales used to evaluate the malnutrition scores, comorbidity and frailty scores and the
+      sarcopenia indices are the following:
+
+        -  CCI (Charlson Comorbidity Index): score used for the assessment of comorbidities
+
+        -  11-items FI (Frailty Index): score used for the assessment of frailty
+
+        -  M.U.S.T. (Malnutrition Universal Screening Tool) and NRS-2002 (Nutritional Risk
+           Screening): scores used to define the state of malnutrition
+
+        -  Scores used to define the state of sarcopenia with the aid of the PACS Carestream
+           program.
+
+      Average density of psoas muscles = [right psoas muscle density (HU) + left psoas muscle
+      density (HU)] / 2 HUAC (Hounsfield Unit Average Calculation) = [(right psoas area * density)
+      + (left psoas area * density)] / total psoas area PI (Psoas Index) = (right psoas area in cm2
+      + left psoas area in cm2) / height in m2 TPA (Total Psoas Area) = (right psoas area + left
+      psoas area) / BSA (body surface area) BSA (m2) calculated using Mosteller's formula = (height
+      (cm) x weight (kg) / 3600) ½ RPSI (ratio of psoas and iliac spines) = ratio between the
+      distance between the anterior-superior iliac spines in the transverse CT projection in cm and
+      the sum of the lengths of the psoas in cm calculated at the level of the same transverse
+      projection.
+
+      The data will be collected in a special electronic database respecting the privacy of the
+      subjects involved; each patient will be identified by means of a unique identification code
+      whose decryption is known only to the team involved in the study. Patient data and consent to
+      the study will be stored in the medical office of the Surgery Unit and accessible only to
+      health personnel involved in the study.
+
+      The person responsible for storing the collected data is identified in the figure of the
+      promoter of the study, Professor Gabriele Anania, Medical Director of the Surgery Unit.
+
+      To improve the accuracy of data entry, standard automated control processes will be
+      implemented (verifying that the data is in the correct format or within an expected range of
+      values and consistency checks).
+
+      The Shapiro-Wilk test will be used to verify the distributive normality of continuous
+      variables. In the presence of symmetry of the distributions, the variables will be
+      represented with mean and standard deviation (sd) or, in the case of non-symmetric
+      distribution, with the median value and the interquantile range [1Q-3Q]; categorical data
+      will be expressed with absolute and percentage values.
+
+      For the analysis of short-term mortality, the Kaplan Meier estimator will be used to identify
+      the survival curves and a Cox regression model will be estimated to identify predictive
+      factors and evaluate the impact of comorbidities, frailty, state of malnutrition and
+      sarcopenia.
+
+      All analyzes will be performed using Stata 15.1 SE (Stata Corporation, College Station,
+      Texas, USA). The value <0.05 was defined as statistically significant.
+
+      In conclusion, the study will be performed in compliance with the protocol and international
+      guidelines (Good Clinical Practice) and in compliance with the regulations in force on
+      clinical trials. Each Investigator is therefore responsible for conducting the study in
+      accordance with these guidelines.
+
+      The current version of the Declaration of Helsinki (2013) is a reference for the ethical
+      aspects of this clinical trial and will be respected by all those engaged in this research.
+    
+  

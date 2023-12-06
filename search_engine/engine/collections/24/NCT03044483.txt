@@ -1,0 +1,180 @@
+
+    
+      Background
+
+      Sepsis is a highly heterogeneous disease state brought about by a dysregulated host response
+      to systemic infection, with uncontrolled pro- and anti-inflammatory processes leading to
+      collateral tissue injury and immune suppression.
+
+      Sepsis poses a significant health burden worldwide, with deaths attributed in the UK
+      estimated at approximately 44,000 per annum. Prompt treatment directed by internationally
+      agreed management guidelines improves outcomes in sepsis. However early diagnosis of sepsis
+      remains difficult, with current diagnostic criteria relying on the presence of organ
+      dysfunction and derangement of macro haemodynamic variables. At the point of diagnosis,
+      mortality is in excess of 10%. At present there are no specific criteria in the diagnosis of
+      sepsis based on the underlying pathophysiological abnormalities, specifically on assessment
+      of the microcirculation.
+
+      The microcirculation in sepsis
+
+      The microcirculation consists of a dense network of arterioles, capillaries and venules,
+      whose diameter is less than 150 um. Its functions are to supply nutrients and oxygen for
+      aerobic metabolism and to reduce cellular waste products.
+
+      Sepsis affects all elements of the microcirculation, with microcirculatory dysfunction
+      playing an important role in the pathophysiology of severe sepsis and septic shock. Sepsis is
+      associated with decreased capillary density and increased perfusion heterogeneity leading to
+      decreased oxygen delivery, tissue hypoxia and subsequently organ dysfunction. Changes in
+      microcirculatory function may precede the traditional diagnostic features of sepsis,
+      providing earlier information on patients who will go on to develop severe sepsis and
+      multi-organ failure. Recognition of sepsis at this early stage would allow prompt treatment,
+      aimed at restoring homeostasis of the microcirculation, therefore altering disease
+      progression.
+
+      A number of studies have demonstrated that improvements in microcirculatory function
+      following early resuscitation are associated with decreasing organ dysfunction, and those
+      patients whose microcirculations fails to improve following resuscitation have poorer
+      outcomes. Despite recognition of the importance of the microcirculation in sepsis, current
+      goal-directed end points rely on the monitoring and restoration of global measures of
+      cardiovascular/organ function (e.g. heart rate, blood pressure, urine output, lactate),
+      partly because the microcirculation is difficult to monitor in clinical practice. However,
+      improvement in macro haemodynamic variables does not guarantee restoration of
+      microcirculatory homeostasis. Clinical assessment of microcirculatory function is presently
+      inferred from the measurement of by-products generated due to impaired oxygenation/metabolism
+      such as lactate and carbon dioxide.
+
+      Video microscopic techniques for assessment of the microcirculation
+
+      Video microscopic techniques provide in-vivo visualisation of the microcirculation, allowing
+      direct measurement of capillary density, perfusion and flow dynamics. Until recently, these
+      techniques which have included Orthogonal Polarization Spectral (OPS) imaging and Sidestream
+      Dark Field (SDF) imaging, have been clinically inaccessible owing to their bulky nature,
+      operator dependant output and time-consuming offline analysis requirement.
+
+      A third-generation handheld microscope has recently been developed (CytoCam-IDF, Braedius
+      Medical, NL), utilising Incident Dark Field (IDF) illumination. The device incorporates
+      real-time automated digital image analysis, combined with high resolution lenses and a
+      computer controlled image sensor for improved resolution. The CytoCam also features a novel
+      quantitative focusing mechanism with an integrated distance measuring system, whereby once
+      the focus depth has been established for a specific patient, serial measurements can be made
+      without having to manually readjust the focus, improving speed and ease of measurements. This
+      new device performs well when compared to previous devices, providing improved contrast and
+      image sharpness allowing an increased number of microvessels to be visualised.
+
+      Crucially, the CytoCam is equipped with bespoke software allowing images to be stored and
+      analysed automatically at the point of acquisition. Microcirculatory monitoring is a not a
+      new technique, but the combination of user friendly ergonomics, accurate image acquisition
+      and automated analysis opens up this potentially useful direct measurement of
+      microcirculatory function to bedside clinical practice.
+
+      Analysis of the sublingual microcirculation A round table discussion in 2006 by experts in
+      the field, sought to clarify the features that should be included in microcirculatory
+      analysis, concluding that assessment of the microcirculation should include measures of
+      vascular density, assessment of capillary perfusion and a heterogeneity index (in vessels of
+      <20 micrometres in diameter).
+
+      These measured variables are:
+
+      Microvascular Flow Index (MFI) - Perfusion quality Image divided in to quadrants. A number is
+      assigned to each quadrant according to predominant flow type (0 = no flow, 1 = intermittent,
+      2 = sluggish, 3 = continuous). The MFI results from the mean of the 4 values.
+
+      Total Vessel Density (TVD) Vessel density - The total length of the vessels divided by the
+      total surface area of the analysed area.
+
+      Perfused Vessel Density (PVD) - Functional vessel density Total length of perfused vessels
+      (MFI score 2/3) divided by the analysed area.
+
+      Proportional of Perfused Vessels (PPV) - Perfusion quality 100 x number of perfused vessels
+      divided by the total number of vessels Heterogeneity Index (HI) Measure of the heterogeneity
+      of flow between vessels. Highest MFI - lowest MFI divided by mean MFI across all sites
+      analysed
+
+      Compared to healthy volunteers, patients with sepsis display lower values for PVD, PPV and
+      MFI, along with increased heterogeneity index, irrespective of macro haemodynamic condition.
+      Total capillary density appears to be unaffected by sepsis. These findings were corroborated
+      by the International Study on Microcirculatory Shock Occurrence in Acutely Ill Patients
+      (microSOAP) study.
+
+      The microSOAP study is to date the largest trial investigating the significance of
+      microcirculatory alterations in a heterogeneous ICU population (i.e. not just those with
+      sepsis). Using the previous generation of similar technology, the investigators found that of
+      the 501 patients included for analysis, 86 (17%) had an abnormal MFI (defined a priori as
+      <2.6). Of those with an abnormal MFI, the HI was increased with decreased PPV and PVD. Total
+      vessel density was not affected. Abnormal MFI in conjunction with tachycardia was associated
+      with an increased mortality (OR 3.24).
+
+      CytoCam Tools automated analysis
+
+      CytoCam Tools is the proprietary software supplied with the aforementioned microcirculatory
+      monitor. It utilises a new analysis technique termed Capillary Network Analysis (CNA) whereby
+      the microcirculation is analysed automatically and in a user-independent nature by a
+      two-stage process which includes automatic vessel detection (depending on the diameter of
+      visualised vessels), followed by an assessment of speed of red blood cells in the vessels
+      identified.
+
+      The following microcirculatory variables are then automatically determined.
+
+        -  Total Vessel Density (TVD) - Total length of all detected vessels divided by the
+           processed area.
+
+        -  Speed Index (SI) - Relative number derived from the intensity variation along the
+           centreline of a vessel, which describes the speed detected in the vessel.
+
+        -  Perfused Speed Index (PSI) - SI in a vessel where the SI is higher than the perfusion
+           threshold (PT).
+
+        -  Average Perfused Speed Indicator (APSI) - Sum of all PSI values divided by the total
+           number of perfused vessels.
+
+        -  Proportion of perfused vessels (PPV) - Total length of all vessels with an SI higher
+           than the PT, divided by the total length of all detected vessels x 100,
+
+        -  Perfused Vessel Density (PVD) - Total length of all vessels with an SI higher than the
+           PT divided by the processed area.
+
+        -  Average Perfused Speed Indicator Heterogeneity Index (APSI HI) - Image divided in to
+           quadrants and APSI derived for each quadrant. APSI highest minus the lowest APSI divided
+           by the mean APSI of all quadrants.
+
+      The assessment of PPV and PVD relies on the automated analysis of red blood cell speed in
+      identified vessels. In order to achieve this a predetermined Perfusion Threshold (PT) is set.
+      The PT describes the state of flow within identified vessels and can range from 0 to
+      infinite. Manufacture assessment has determined that a PT of over 1 is consistent with a
+      "perfused condition" and this can be subdivided further as follows:
+
+      Perfusion threshold
+
+      State of flow 0 - 1 = No flow 1 - 5 = Sluggish 5 or greater = Good flow Normal ranges for
+      these automatically measured variables in health are currently unknown. Understanding the
+      normal ranges would allow us to utilise this technique in future studies concerning the early
+      diagnosis of septic illness. Identification of patients at an early stage in the
+      pathophysiological process of sepsis before the development of traditionally diagnostic
+      macro-circulatory abnormalities may allow earlier implementation of treatment.
+
+      Rationale
+
+      The CytoCam system may represent a step towards a more user-friendly, reproducible,
+      clinically applicable approach to measuring, and acting upon changes in microvascular
+      function to improve clinical outcomes. However, the normal ranges for these measurements are
+      not known, without which further studies cannot take place. This study will identify the
+      normal ranges for the automatically determined measurements derived by the CytoCam system in
+      healthy subjects, and open new opportunities for studies, which we anticipate will be aimed
+      at the early identification of patients with microcirculatory dysfunction (as is found in
+      sepsis); whose microcirculatory parameters fall outside of these newly defined ranges. This
+      will be the first step in moving towards routine bedside microcirculatory monitoring in our
+      intensive care unit.
+
+      This work builds on projects currently in progress within the Diagnostic Development Unit
+      (DDU) based at Leicester Royal Infirmary. The DDU is a University of Leicester
+      inter-collegiate project between Medicine, Space Science and Atmospheric Chemistry, exploring
+      the use of novel non-invasive monitors in Emergency Medicine and Critical Care.
+
+      Population to be studied
+
+      OBJECTIVE
+
+      To identify the normal ranges for automatically measured microcirculatory variables as
+      determined by the CytoCam system in different adult age groups.
+    
+  

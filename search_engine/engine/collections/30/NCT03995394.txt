@@ -1,0 +1,117 @@
+
+    
+      This will be a prospective interventional cohort study following a group of participants with
+      obesity. Informed consent will be obtained from the parents from a member of the research
+      committee. Informed assent will also be obtained from the participant from a member of the
+      research committee.
+
+      The investigators will review the schedule in the pediatrics department daily and approach
+      all participants that meet our inclusion criteria. Per standard of care for participants with
+      obesity, the participants have a scheduled follow up for a weight check at regular intervals
+      that can include one month, 3 months or 6 months.
+
+      The 40 participants will be randomly assigned to either a control group or an intervention
+      group.
+
+      Survey:
+
+      A 23 item PedsQL 4.0 pre-survey will be administered to pediatric participants to establish a
+      baseline at their wellness visits. The parent of the participant will also be given a PedsQL
+      survey to fill out. The participants' Body Mass Index (BMI) and blood pressure will be
+      recorded. At the end of the 6-month period, the same PedsQL 4.0 will be administered again to
+      both the participant and parent at the scheduled 6-month weight check that is standard of
+      care.
+
+      The investigators will use a text message application created by the Loyola informatics team.
+      This application will be able to text the participants using their cell phone number via an
+      email service from the provider. For example, 123456789@cellservice provider.com. This allows
+      the research team to send text messages to be sent through an application without using a
+      personal phone number. In addition, it offers automatic responses that will save them when
+      sending messages to the participant.
+
+      For six months, participants in the study will receive a text message twice per week via this
+      application.
+
+      Text messaging:
+
+      There will be two groups within this study-a control group and an intervention group. For the
+      control group, participants will receive two text messages weekly. The first text message
+      will ask if the participants have completed the recommended activity. When a participant
+      responds, the participant will receive a second text message stating, "Thanks for your
+      response."
+
+      In the intervention group, the first text message will ask if the participant completed the
+      recommended activity. If the participant responds yes, the participant will receive a
+      positive reinforcement response comprising the words "Great job! We're so proud of you! Keep
+      up the good work!". If the participant responds no, the participant will receive a text
+      message stating, "Thank you for your response."
+
+      Study Activities:
+
+      The weekly activities the investigators will recommend for the participants include:
+
+        1. Walking for 30 minutes 3 times a week
+
+        2. Speed walk for 30 minutes 3 times a week
+
+        3. Walk up and down stairs for 30 minutes 3 times a week
+
+        4. Jogging for 30 minutes 3 times a week
+
+        5. Jumping jacks for 30 minute 3 times a week
+
+      Data:
+
+      All participant data will be stored in a protected Data-base, REDcap.
+
+      Statistical analysis:
+
+      In this study, participants who are age 18 and under with a BMI in at least the 95th
+      percentile will be asked to complete assigned exercises. For six months, these participants
+      will receive a text message twice per week asking whether the participant has completed the
+      assigned exercises. For participants marking "Yes", exactly one half will be randomized to
+      receive a positive reinforcement response comprising the words "Great job! We're so proud of
+      you! Keep up the good work!". The other half will receive a control response comprising the
+      words "Thanks for your response"; all participants marking "No" will receive this same
+      response. The study will use a 1:1 allocation.
+
+      Six months following randomization, one goal of the proposed study is to test the null
+      hypothesis that average total score on PedsQL 4.0 questionnaire between the two groups are
+      equal. With a proposed sample size of 20 assigned to receive the positive reinforcement
+      response and 20 assigned to receive the control response (N = 40), the study will have power
+      of 80.0 percent to yield a statistically significant result. This computation assumes a mean
+      difference between the two cohorts of 14.8 points (corresponding to means of 81.8 for the
+      positive reinforcement cohort and 67.0 for the control response cohort) and a common
+      within-group standard deviation of 16.3 points (Schwimmer, et al.). This computation also
+      assumes the criterion for significance (alpha) is 0.05 and that the test will be 2-tailed,
+      meaning an effect in either direction will be interpreted.
+
+      Recommended Protocol Text for the Analysis Plan:
+
+      Participants under age 18 with a BMI in at least the 95th percentile will be asked to
+      complete assigned exercises and will receive text messages asking the participants if the
+      participant has completed such exercises. At baseline and the end of the study, the
+      participants will complete the 23-item PedsQL 4.0 assessment. For each participant, the
+      baseline value will be subtracted from the 6-month value. An independent samples t-test will
+      be used to compare this delta score between the cohort assigned to receive the positive
+      reinforcement response and the cohort assigned to receive the control response. For this
+      comparison, the normal distribution assumption of the delta score will be assessed using QQ
+      plots and outliers will be assessed using box plots. The homogeneity of variances assumption
+      will be assessed using Levene's test. If any parametric assumption is strongly violated, a
+      non-parametric Wilcoxon rank-sum test may be used to compare ranked PedsQL 4.0 scores between
+      the two cohorts. All analyses will be completed using SAS version 9.4 (Cary, NC) by a
+      Biostatistician in the Clinical Research Office.
+
+      Safety Monitoring Plan:
+
+      There are no adverse events that could be associated with text messages the investigators
+      will send to the participants. The investigators will send these text messages on Monday
+      early evening between the 5pm to 6pm. The investigators chose this time because participants
+      will not be in school and are unlikely to be driving or doing activities that the
+      participants could be distracted from when receiving the text, which could cause harm.
+
+      If there is an adverse effect, the investigators will ask the participants to notify the
+      principal investigator of the project. The investigators will review safety information once
+      a month.
+    
+  

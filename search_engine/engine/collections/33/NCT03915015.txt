@@ -1,0 +1,179 @@
+
+    
+      1. Abstract
+
+           Ferromagnetic Implants such as PPM's and ICD's are traditionally accepted as
+           contraindications to MRI due to safety concerns. The hypothesis is that these procedures
+           can be safely performed when appropriate safety precautions and vetting practices are
+           implemented.
+
+           This is a cohort study. 1000 patients with a clinical need for MRI will be included in
+           the study at OHSU. The type of device and leads will be ascertained and a safety
+           protocol will be strictly adhered to.
+
+        2. Background
+
+           It has been estimated that 50-75% of patients with implanted devices (pacemakers and
+           ICDs) will develop an indication for magnetic resonance imaging (MRI) examination. Thus,
+           there are approximately 200,000 patients annually denied MRI scans because of the
+           presence of PPMs and ICDs in the United States. The current standard of care is not to
+           perform these scans, and instead to utilize other (inferior) imaging, and make clinical
+           decisions without the benefit of MRI imaging. This is the current standard of care of
+           OHSU, where only pacemaker patients who are not pacemaker dependent can undergo MRI
+           scans, per radiology policy. However, this leads to gaps in care for some patients who
+           would clearly benefit from an MRI scan. In some centers, it has been shown that when
+           proper precautions are taken, MRIs can be safely performed on patients with PPMs and
+           ICDs. The published experience from Johns Hopkins reports over 500 scans performed
+           without any adverse outcomes.(1) There are also several smaller studies documenting the
+           safe experience with MRI scanning in device patients (reviewed in (1), table 4)
+
+           The main concerns which have led to restrictions on MRIs in patients with cardiac rhythm
+           devices are the following:(2)
+
+             1. Force and torque-ferromagnetic devices in a magnetic field are subject to static
+                and gradient magnetic field induced force and torque. However, the maximum force
+                that a modern PPM or ICD generator would be subject to is 100g, far under what
+                would be needed to dislodge a device.
+
+             2. Current induction-the gradient magnetic fields in the MRI scanner could induce
+                current in conductors in the field. However, the maximum observed current in vitro
+                has been less than 0.5mA, far less than what is required to capture myocardium.
+
+             3. Heating-Leads and other metallic devices can act as antennae, and may heat in the
+                magnetic field, however, no heating greater than 0.5deg C were observed in vitro.
+
+             4. Inappropriate pacing/shock/inhibition of pacing-Pacemakers and ICDs have the
+                possibility of receiving electromagnetic interference from the MRI and having this
+                lead to inappropriate pacing, inhibition of pacing, ICD shocks, reprogramming, or
+                loss of function.
+
+           While all of the concerns are real and have been reported in earlier generation devices,
+           with proper patient selection and monitoring during the scan, MRIs can be performed
+           safely on most device patients. Johns Hopkins has an experience of over 500 scans
+           without any adverse events.(1) The proposed protocol here follows exactly the Hopkins
+           protocol, and, indeed, the OHSU data will be combined with the Hopkins data for future
+           publications.
+
+           To review the most recent Johns Hopkins publication:(1) 555 MRI studies in 438 device
+           (PPM and ICD) patients were reported. All MRI scans were clinically indicated, and a
+           device clinician, familiar with device interrogation and programming, was physically
+           present for the entire duration of the scan. All patients were continuously monitored
+           via telemetry and pulse oximetry during the MRI. For pacemaker patients, if they are
+           pacemaker dependent they were reprogrammed to a non-sensing mode for the scan. If they
+           were not pacemaker dependent, they were left in their usual mode. For ICD patients, if
+           they were not pacemaker dependent, they were left in their usual mode. However,
+           pacemaker dependent ICD patients were not scanned, as ICDs generally do not have a
+           non-sensing pacing mode. Therapy for tachycardia was disabled in all ICDs for the scan.
+
+           There were three clinical events during scans, all were "power on resets", which means
+           that the device resets to "out of the box" original factory settings. One of these
+           patients had an ICD, felt tugging in his chest during the scan, and the scan was not
+           completed. The other two power on resets were in PPM patients, in whom the scan was
+           completed. Neither were pacemaker dependent, and neither noticed anything abnormal
+           during the scan. All three patients had normally functioning devices following the scan,
+           and at followup.
+
+           In the overall patient population in the Hopkins study, no single patient had a
+           malfunction of a device immediately following the scan. There was a slight change in the
+           electrical parameters of the leads, on average, but this did not result in the need for
+           any intervention on any patient.
+
+        3. Objectives
+
+           The primary objective of this study is to develop a protocol, consistent with DHHS/CMS
+           guidelines and requirements to further document safety in clinically indicated MR
+           imaging in patients with implanted cardioverter defibrillators (ICD's) and pacemakers.
+
+        4. Study Procedures
+
+           MRI's will be conducted on patients who require a clinically indicated MRI only. All
+           studies will be done in the 1.5 Tesla MRI unit. ECG monitoring pads will be placed on
+           the patients for the duration of the study. An external defibrillator and ACLS drugs
+           will be on hand. Heart rate, blood pressure, O2 saturation will also be monitored
+           non-invasively throughout the study. All devices will undergo a complete interrogation
+           prior to imaging. Parameters such as atrial and ventricular pacing thresholds, R and P
+           wave amplitudes, lead impedance, and battery status will be measured and recorded. PPMs
+           will be programmed to an asynchronous mode if dependent and to an inhibited mode in
+           patients without pacemaker dependence.
+
+           The pacemaker function of ICD's in pacemaker independent patients will be programmed to
+           ventricular inhibited (VVI) mode at 50 bpm. Pacemaker dependent patients with ICDs will
+           be excluded.
+
+           In addition, there is a theoretical concern that patients who have capped or abandoned
+           leads in their chest may be at risk for heating. While there is little or no objective
+           data to support this concern, given this theoretical concern, patients in this category
+           will only be admitted to the study if the referring physician deems the MRI critical and
+           after the PI has carefully considered the risk/benefit ration for each patient who falls
+           in to this category.
+
+           Similarly, there historically has also been a concern that newly implanted leads (<4
+           weeks) are at risk for lead to dislodgement d/t possible torque from the MRI
+           environment. This too is only a theoretical concern and there is little or no scientific
+           evidence to support this claim. Nevertheless, patients with newly implanted
+           pacemaker/ICD leads will be considered by the PI for protocol inclusion only if the
+           referring physician deems the MRI to be critical and after considering the risk/benefit
+           to each individual patient.
+
+           After the appropriate MRI protocol for each MRI patient's unique condition has been
+           completed, the device will be re-programmed to its original settings and completely
+           interrogated to detect any changes in device performance.
+
+           The duration of the study extends to the post procedure interrogation at 1-6 weeks post
+           MRI. IF the PPM or ICD reveals any malfunction post imaging (not seen yet), the patient
+           will be followed by the electrophysiology service and appropriate follow-up management
+           will be arranged.
+
+        5. Study Statistics
+
+             1. Primary outcome variable. Patient safety and device malfunction during or after MRI
+
+             2. Secondary outcome variables. None
+
+             3. Statistical plan including sample size justification and interim data analysis. We
+                hope to enroll 1000 patients over 4 years to further evaluate safety.
+
+             4. Early stopping rules. N/A
+
+        6. Risks
+
+             1. Medical risks, listing all procedures, their major and minor risks and expected
+                frequency.
+
+                There are no studies showing any health hazards associated with magnetic field
+                exposure. PPM and ICD implants subjected to the strong electromagnetic field of MR
+                imaging are thought to be susceptible to movement and torque. Other traditional
+                concerns include malfunction due to demagnetization or magnetic activation leading
+                to inappropriate pacing and shocks and artificial sensing of electromagnetic
+                interference from MRI leading to inappropriate inhibition and/or activation of
+                antitachycardia therapy, device malfunction and induced arrhythmias, as detailed in
+                the background section above. Heating of the device and surrounding tissues leading
+                to fibrosis and increased capture thresholds have also been a theoretical concern.
+                However, recent work has revealed the safety of PPM's and certain ICD's in the MR
+                environment given appropriate precautions(1, 3, 4).
+
+             2. Steps taken to minimize the risks. Appropriate measures discussed in the protocol
+                section will be taken to minimize risks associated with device exposure to MRI.
+                Consistent with standard MRI policy, patients in the first trimester of pregnancy
+                and patients with history of allergic reactions to gadolinium will undergo imaging
+                without any contrast media.
+
+             3. Plan for reporting unanticipated problems or study deviations. Patient data will be
+                monitored on a per patient basis. Pre-vs. post MRI device testing data will be
+                compared and any significant differences immediately reported to the IRB.
+
+        7. Benefits a. Description of the probable benefits for the participant and for society.
+           The patient will benefit from a standardized protocol to minimize the risk of an MR scan
+           deemed necessary for his/her care which would otherwise be denied or performed without
+           any organized framework. Society will benefit because of the increasing number of
+           implanted devices and expanding use of MRI.
+
+      8 Costs
+
+      a. Detail costs of study procedure(s) or drug (s) or substance(s) to participants and
+      identify who will pay for them.
+
+      The patient and his/her insurance will be responsible for the cost of the clinically
+      indicated MRI.
+    
+  

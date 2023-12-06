@@ -1,0 +1,110 @@
+
+    
+      Aims and Hypotheses to be Tested:
+
+      This study compares the effects of a nurse-led support programme - an app support programme
+      (ASP) - with telephone support (TS) for patients discharged from the ED who are at risk of
+      developing CHD. We hypothesize that:
+
+      Within 3 months, when compared with the TS group clients, clients who participate in the ASP
+      will have:
+
+      Primary outcome: Better self-efficacy and self-management behaviour
+
+      Secondary outcomes:
+
+        -  Less ED attendance and hospitalization frequency;
+
+        -  A better physiological health profile (e.g., blood pressure, body mass index, blood
+           cholesterol level, blood triglyceride level, and blood glucose level) and better
+           cardiovascular functional endurance;
+
+        -  An increase in the total amount of exercise;
+
+        -  A lower perceived stress level; and
+
+        -  Better health literacy regarding cardiac care.
+
+      Plan of Investigation:
+
+      (i)Methods: A prospective multi-center, parallel, randomized controlled trial with two arms -
+      an app support programme (ASP) group vs a telephone support (TS) group - will be adopted. 1.
+      Settings: Data will be collected from an EDs at a regional Hong Kong hospital, namely Tuen
+      Mun Hospital. The demographic profile of the residents and the setting and care protocol will
+      be similar, to minimize the cluster effect. Each ED includes a short stay unit and an
+      emergency medical unit (EMW) with about 26 beds. Patients with cardiac disorders account for
+      approximately 25% of all EMW admissions (n=1900 per year) and generally have hypertension or
+      hyperlipidemia and angina 4.
+
+      2. Recruitment of subjects: The admission records of all eligible clients with a medical
+      diagnosis of at-risk CHD in the study ED will be screened. Identified patients will be
+      approached by the research assistant (RA1) for further screening and those deemed to be
+      eligible will be invited to join the study. Appendix 2 presents the CONSORT flow diagram of
+      the study.
+
+      About 80 potential patients will be approached. Eligible patients who consent to participate
+      in the study and then who submit to the collection of their baseline data will be randomly
+      allocated to either the ASP group or the TS group according to the pre-set randomization
+      sequence. Participants will attend an appointment with a research nurse (A) who has
+      experience in cardiac nursing and specific training in the intervention. Follow-ups will be
+      conducted at 1 month, and 3 months by another RA (2), who will be blinded to the intervention
+      allocation.
+
+      Regarding patient recruitment, we estimate that 75% of eligible CHD patients (n=5-7 per week)
+      will agree to join the study at an ED and that at least 8-10 patients will be recruited from
+      both EDs per week. These estimations are based on local departmental statistics and on a
+      previous study that we conducted in a regional ED. 4 We further estimate that 10 weeks will
+      be required to recruit all of the patients required for the study (60 patients). Ethical
+      approval has been obtained from the university and the study venues.
+
+      3. Follow-up data collection: During the 1-, and 3-month follow-ups, the trained RA (2) and
+      student research assistants (who are master's nursing students), who will be blinded to group
+      allocation, will collect data and perform physical assessments of the participants at the
+      university's research laboratory office. This office has sufficient space and equipment to
+      perform health assessments and laboratory tests. "Item e" shows the facilities in detail. All
+      participants will be asked to complete the questionnaires, place them in an envelope, and
+      hand the envelope to the research assistants.
+
+      To ensure the quality of patient recruitment, intervention, and data collection processes,
+      the research team will ensure that the RAs and research nurses are capable of carrying out
+      the proper procedures. All of the research nurses are qualified and experienced in cardiac
+      nursing. They will be provided with specific training workshops by the PI and Co-Is prior to
+      the commencement of the study. One research nurse (A) who is skilled in cardiac nursing and
+      counseling will deliver all of the educational interventions to ensure consistency. Audit
+      procedures will be conducted to ensure the quality and uniformity of the educational
+      intervention. Another research nurse (B) will provide the telephone advice intervention to
+      the TSG. The team will visit the EDs at least once per week during the initial recruitment
+      period. Weekly meetings with research nurses and research assistants will be held to ensure
+      good quality in data collection and to solve any logistical problems.
+
+      Data processing and analysis To minimize subject contamination, the different groups will be
+      assigned different follow-up dates. The research assistants who are responsible for
+      collecting data will be blinded to the group allocations. They will receive a briefing and
+      training session on collecting data, taking blood using the finger-stick method, and using
+      the auto blood analyzers. All questionnaires will be distributed to the individual
+      participants, who will be asked to place their own completed questionnaire in a locked box.
+
+      Data will be analyzed using SPSS. The intention-to-treat principle will be applied. The
+      baseline characteristics of the groups will be compared using a Chi-square or Fisher's exact
+      test for categorical variables, and a t-test or Mann-Whitney test for continuous variables,
+      to examine the comparability of the groups by randomization. Confounding variables will be
+      accounted for in subsequent analyses. The effectiveness of an e-health programme using the
+      app vs telephone support will be evaluated by comparing the study outcomes using Generalized
+      Estimating Equations (GEE) models. For the primary outcomes of self-efficacy and
+      self-management behavior, two GEE models with an identity link function will be performed.
+      For the two secondary outcome variables that are measured in counts (i.e., ED attendance and
+      the number of hospitalizations), GEE models with a log link function and a Poisson
+      distribution will be performed. For the other secondary outcomes, which are continuous, GEE
+      models with an identity link will be fitted. Significant time by group interactions in the
+      GEE models will support our hypotheses on the effects of the e-health intervention using app
+      support. Descriptive statistics will be used to summarize the level of satisfaction with the
+      use of the app at T1 to T3 in the intervention group, and a GEE model will be used to assess
+      changes in satisfaction over time. All of the tests will be two-sided and a p-value of <0.05
+      will be considered statistically significant.
+
+      This pilot study will examine the feasibility of the main RCT study by using the app,identify
+      any recruitment, implementation of the intervention and logistic issues arising from the
+      recruitment, intervention, and follow-ups. It can also provide the preliminary finding for
+      sample size calculation for the main RCT later on.
+    
+  

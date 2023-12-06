@@ -1,0 +1,75 @@
+
+    
+      Approximately 16,700,000 people are diagnosed with breast cancer (BC) worldwide each year,
+      with 500,000 people dying annually. In the UK alone, each year nearly 62,000 people are
+      diagnosed with BC, with one in eight women developing BC in their lifetime. Breast cancers
+      are currently treated with a combination of chemotherapy, targeted therapy and surgery.
+      However, breast cancers are not identical; each tumour's individual characteristics affect
+      how they respond to treatment. In many cases, treatment options are limited and patients are
+      often given sub-optimal treatments which are associated with burdensome side effects. For
+      instance, despite chemotherapy being offered to about 60-70% of patients with BC, either
+      alone or in combination with other targeted therapies, results from a meta-analysis of 123
+      randomised trials including more than 100,000 patients has shown that chemotherapy reduces
+      recurrence and mortality in only 20 to 33% of patients. Therefore, 80-67% of patients endured
+      this aggressive chemotherapy treatment and did not benefit; unnecessarily suffering the
+      serious physical and emotional side effects, including a risk of permanent heart damage.
+      Currently, there is no predictive test for selecting which patients will benefit from
+      receiving chemotherapy and which will not.
+
+      In clinical practice, the decision to use chemotherapy or not depends on evaluating the risk
+      of recurrence and prognosis by interpreting prognostic clinicopathological features including
+      high cost multi-gene tests such as Oncotype DX (Genomic Health Inc.), Mamma-Print (Agendia),
+      and PAM50 (NanoString). Unfortunately, almost all these molecular approaches share common
+      issues, such as insufficiently high levels of evidence, overfitting of computational models,
+      and high false discovery rates. Furthermore, they might not be available for clinical,
+      logistical or financial reasons. Therefore, there is an urgent need for a cost effective,
+      reliable, sensitive, specific, validated biomarker based approach for optimising chemotherapy
+      treatments in patients with BC.
+
+      Recently, the investigators have shown that an accurate prediction can be made by testing the
+      activity of a protein called 'SPerm associated AntiGen 5' (SPAG5) in tumour tissue. In a
+      study, published in Lancet Oncology (2016), the investigators showed that SPAG5 gene
+      amplification, as well as SPAG5 transcript and SPAG5 protein overexpression, were all
+      associated with poor clinical outcome, and were independent predictors for chemotherapy
+      response.
+
+      The prognostic and predictive power of SPAG5 outperforms many currently used tests including:
+      the standard cancer proliferation index (Ki67), prognostic clinicopathological factors such
+      as the American Joint Committee on Cancer (AJCC) stage and Nottingham Prognostic Index, as
+      well as other currently available multigene-tests including PAM-50, 96-gene genomic grade
+      index, Genomic Chemo Sensitivity Predictor, the Diagonal Linear Discrimination Analysis of
+      30-gene signature, and the Adjuvant Online index.
+
+      The most immediately useful aspect of our original findings is the potential ability to
+      distinguish those patients with BC who are likely to benefit from standard Anthracycline
+      combination (AC) chemotherapy regimens from those who will not. Therefore our findings have
+      the potential to deliver an accurate predictive biomarker for chemotherapy response in BC
+      which would enable the effective tailoring of treatment to the individual patient.
+      Furthermore, the analysis of SPAG5 expression could underpin the development of novel
+      strategies for more effective management and treatment of the disease.
+
+      The work undertaken by the investigators on SPAG5 testing has relied on a commercially
+      available polyclonal antibody (PAb) against SPAG5 marketed by Sigma Aldrich and produced by
+      Atlas Antibodies. This has a number of problems when aiming to develop a SPAG5 based clinical
+      test. Firstly, a PAb is a mixture of antibodies and so it lacks specificity and sensitivity.
+      Also, as a PAb it is extracted directly from an animal, constraining the supply and placing a
+      finite limit on the availability of the antibody, as the animal will die one day ending our
+      ability to provide the test. Thirdly, the PAb is owned by a company and so the cost and
+      availability of any test will be subject to that company's decision. Therefore it is
+      essential to develop a monoclonal antibody (MAb) that is suitable for immunohistochemistry
+      staining of Formalin Fixed Paraffin Embedded (FFPE) tissue.
+
+      To overcome these problems the investigators chose to develop a SPAG5 targeting MAb that can
+      be taken through the evaluation, clinical testing and regulatory approval process to become a
+      SPAG5 clinical test. Moreover, once the MAb is developed, the validation of previous results
+      will be carried out on a large number of BC cases to verify the prognostic and predictive
+      powers of the antibody. In addition, the predictive utility for chemo-sensitivity of SPAG5
+      MAb and PAb will be compared to each other and to rival Immunohistochemistry (IHC) tests such
+      as Ki67 and the rival gene expression tests. A bespoke gene panel will be developed for the
+      nanoString nCounter™ FLEX instrument, featuring genes used in PAM-50, 21-gene recurrence
+      Genomic-Chemo-Sensitivity-Predictor, and the 30-gene-DLDA tests, alongside SPAG5 and Ki67.
+
+      In June 2018 the investigators were granted funding to pursue this work by the NIHR Invention
+      for innovation grant program.
+    
+  

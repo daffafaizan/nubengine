@@ -1,0 +1,121 @@
+
+    
+      Background information about NEC:
+
+      The best prognosis requires early recognition and treatment of NEC. Perforation or ongoing
+      deterioration may require surgical intervention. Mortality has improved in recent years but
+      is still about 15-30 % for non-surgical NEC and up to 50% for surgical NEC. Survivors may
+      suffer significant complications including long-term damage to bowel function.
+
+      The initial diagnosis is based on clinical exam and diagnostic imaging, usually involving
+      abdominal x-rays +/- ultrasound. Bell's staging criteria incorporates clinical, laboratory,
+      and radiographic findings, and is used to discern suspected NEC from definitive NEC. Bell's
+      stage 2 denotes proven NEC and involves the presence of pneumatosis intestinalis and/or
+      portal venous gas on x-ray.
+
+      The main difficulty when diagnosing NEC is that early/suspected stages of NEC present
+      clinically and radiographically in a similar way to benign feeding intolerance seen with
+      prematurity. Abdominal x-rays involve exposure of the patient to ionizing radiation and
+      ultrasound imaging is disruptive to the patient, takes time to perform, and requires skilled
+      operators who have limited availability. These modalities will only show non-specific changes
+      in early stages of NEC. Late findings are more discerning, however by the time these findings
+      are apparent the optimal time frame to initiate treatment is often missed.
+
+      Background Information About Medical Thermography:
+
+      Medical infrared (IR) imaging is a combination of medical technology, infrared camera
+      technology and computer multimedia technology. Infrared imaging devices record the human
+      thermal fields. The human body is a natural biological heating source and an infrared thermal
+      imager converts the far-infrared light wave radiated by the human body to an electrical
+      signal which is then converted into a digital quantity by analog/digital conversion. The
+      signals are processed by multimedia image processing technology into a color heat map,
+      showing the body's temperature field. A normal, healthy body has a characteristic heat map
+      while an abnormal body exhibits deviations from this heat map. Thus, comparing the
+      similarities and differences between the two, in combination with clinical diagnosis, doctors
+      and researchers can infer the nature and extent of a disease.
+
+      The investigators investigated various methods of computerized assessment of thermal images
+      obtained from premature babies with definitive NEC compared with normal babies with no
+      symptoms of feeding intolerance. The investigators showed that the discriminating power of
+      the surface temperature evolution data between healthy control babies and those who were
+      diagnosed with NEC was promising, with fairly high classification rate and a simple linear
+      classification scheme. In addition, our results suggested a slower rate of decrease of
+      abdominal skin temperature in the NEC babies, which might be explained by the presence of
+      inflamed bowel. Rice et al. also used medical thermography to help detect NEC in newborn
+      infants admitted to the NICU. By comparing temperature distribution over abdominal segments
+      to those of the chest, they were able to determine differences in normal babies vs those
+      diagnosed with NEC.
+
+      Background Information About Medical Microsoft Kinect Sensor:
+
+      The Kinect sensor is a widely used, consumer-grade, and safe color and depth camera
+      commercially marketed for use in computer gaming. It measures near infrared light reflected
+      off the body to form a surface map of the environment. The RGB-D Kinect sensor has recently
+      been applied to healthcare in a variety of applications where it has shown to be effective,
+      including the field of medical rehabilitation, where Kinect sensors are used for active
+      exercise training and rehabilitation of patients,for safe and automated radiotherapy
+      delivery, for chest wall motion analysis in cystic fibrosis patients, for facial feature
+      analysis of posture control in rehabilitation patients, in ICU patients for automated
+      mobility measurements, and even automated apnea monitoring in infants and children.
+
+      In this study, the RGB-D Kinect sensor's role will essentially consist of supporting the
+      automated segmentation, and retrieval of thermal distribution data from the co-located and
+      calibrated IR FLIR imager. Thanks to the color and depth maps that will be made available,
+      classical and robust image processing techniques will be leveraged to identify regions of
+      interest (the baby's body and eventually abdomen). This sort of precise segmentation cannot
+      be reliably performed solely from IR images, as it is well established that computer vision
+      and image processing techniques are not well adapted for IR images. Early laboratory tests
+      have already been conducted to determine that the operation of the RGB-D sensor in an
+      overlapping field of view with that of the IR imager does not influence the data collected in
+      the heat map. The combined operation is therefore safe and will provide an accurate thermal
+      distribution as if the IR imager was operating alone. The end goal is to combine the
+      strengths of three imaging technologies to improve medical diagnosis.
+
+      Study Rationale:
+
+      Previous studies investigating thermography and diagnosing NEC only used an infrared camera
+      to acquire images. Although the investigators were able to derive thermal distributions for
+      babies of various GA's, our previous study did not adopt a strict protocol for positioning
+      the IR sensor in an optimal configuration, leading to more variations in image quality and
+      size of region of interest. These limitations made it difficult to automate the selection of
+      accurate regions of interest within the thermal image and required manual intervention from
+      an image processing expert. In our current study the image acquisition process will be
+      improved upon and standardized; a Microsoft Kinect sensor utilizing thermal, color and active
+      depth vision will be integrated into a thermographic camera to allow for automated selection
+      of regions of interest and will facilitate ease of use by medical personal at the patient's
+      bedside. Embedded image processing algorithms will be developed to exploit the multi-spectral
+      nature of collected information in order to automatically segment and unclutter the region of
+      interest over which thermal distributions of relevance will be monitored.
+
+      Initial development of this system, including apparatus integration and assembly, rigorous
+      camera calibration procedures in between the RGB-D and IR sensors, and complete testing will
+      be performed in a laboratory environment, using only mock-up models of the clinical
+      environment. Then, in order to fully validate the application of this automated infrared
+      image processing system for early diagnosis of NEC, acquisition of relevant images from human
+      subjects is needed. The study will be pursued in the NICU environment to further validate the
+      newly developed non-invasive and automated imaging protocol on babies of various sizes and GA
+      in the NICU, since NEC can occur in babies ranging from extremely premature to those born at
+      term. Since the investigators hope to use this technology someday to help improve the
+      diagnosis of NEC, the experimental imaging procedure will be performed on two patient
+      populations. The investigators will first image the abdomens of a group of healthy newborns
+      with the newly developed apparatus and image processing protocol to set up a standard thermal
+      distribution. Then, the investigators will also image the abdomens of a group of newborns
+      with proven NEC, using the same equipment. From the analysis of images from these two
+      populations, the investigators will determine the suitability and necessary fine-tuning of
+      the proposed automated infrared imaging tools, with the objective of augmenting the
+      precision, usability, and reliability of the procedure for early diagnosis of NEC.
+
+      Objectives:
+
+        1. Develop an automated approach to the imaging and analysis of preterm infants' abdomens
+           using thermographic sensors and embedded image processing algorithms.
+
+        2. Derive thermographic temperature distributions of the abdomens of two groups of babies:
+           those who are normal (have no signs of feeding intolerance or signs of NEC), and those
+           who have been diagnosed with proven NEC.
+
+        3. Determine if the automated image processing algorithms can discern a statistically
+           significant difference between the normal thermal distributions and those derived from
+           babies with NEC.
+    
+  

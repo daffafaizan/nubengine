@@ -1,0 +1,98 @@
+
+    
+      The purpose of this study is to determine the physiological mechanisms of shortness of breath
+      (dyspnea) in patients with fibrotic Interstitial Lung Disease (ILD) and to determine how
+      breathing supplemental oxygen can manipulate these mechanisms to improve dyspnea and exercise
+      capacity.
+
+      The research question is twofold: (Aim 1) To determine the physiological mechanisms of
+      exertional dyspnea in patients with fibrotic ILD; (Aim 2) To determine the effects of
+      hyperoxia on exertional dyspnea and exercise endurance in patients with fibrotic ILD.
+
+      Experimental Overview: Participants with fibrotic ILD and control participants will report to
+      the exercise laboratory on four separate occasions separated by a minimum of 48 hours between
+      visits. On visit 1, participants and control participants will complete medical history
+      screening, chronic activity-related dyspnea questionnaires, anthropometric measurements,
+      pulmonary function assessment, and a symptom limited incremental cycle exercise test for
+      familiarization purposes. On visit 2, participants and control participants will perform
+      pulmonary function testing followed by another incremental cycle exercise test. Detailed
+      physiological and sensory measurements will be obtained on both visits but the primary
+      analysis will be based on visit 2 results. Data from visit 2 will address the Aim 1. Visits 3
+      and 4 will include pulmonary function testing followed by a constant-load cycle exercise test
+      at 75% of peak incremental work rate while breathing, in randomized order, either room air or
+      hyperoxia (60% oxygen). Participants and control participants breathing hyperoxia on visit 3
+      will breathe room air on visit 4 and vice versa while being blinded to the gas concentration.
+      A multi-pair electrode catheter that combines two balloons will be inserted into the
+      esophagus and near infrared spectroscopy will be used to measure tissue oxygenation on visits
+      2, 3 and 4. Data from visits 3 and 4 will address Aim 2.
+
+      Measurements:
+
+        -  Pulmonary Function: simple spirometry, plethysmography, diffusing capacity, maximum
+           respiratory pressures, static compliance and recoil pressure will be performed on visit
+           1. Pulmonary function testing on visits 2-4 will only include spirometry and
+           plethysmography so that total lung capacity and vital capacity can be obtained for the
+           determination of operating lung volumes.
+
+        -  Dyspnea Evaluation: Dyspnea intensity and perceived leg discomfort will be evaluated at
+           rest, every minute during exercise, and at peak exercise using the modified 10-point
+           Borg scale on all testing visits. Upon exercise cessation, subjects will be asked to
+           verbalize their main reason(s) for stopping exercise (i.e., breathing discomfort, leg
+           discomfort, combination of breathing and legs, or some other reason) and to select
+           qualitative descriptors of breathlessness using an established questionnaire.
+
+        -  Cardio-respiratory Responses to Exercise: Standard cardio-respiratory measures,
+           including minute ventilation, oxygen consumption (VO2), carbon dioxide production,
+           partial pressure of end-tidal carbon dioxide, tidal volume (VT), and breathing
+           frequency.
+
+        -  Operating volumes will be derived from dynamic inspiratory capacity (IC) manoeuvres.
+           Arterial oxygen saturation will be measured using pulse oximetry. Electrocardiography
+           and blood pressure will be monitored for safety purposes.
+
+        -  Respiratory Mechanics: Diaphragmatic electromyography (EMGdi) will be measured using a
+           multi-pair electrode catheter that combines two balloons for measuring esophageal and
+           gastric pressures. The ratio of EMGdi to EMGdimax will be used as an index of neural
+           respiratory drive. The ratio between VT and vital capacity (VC) will be used to
+           represent the mechanical response of the respiratory system. Normalizing for EMGdimax
+           and VC allows the stimulus intensity to be standardized and compared across individuals.
+           Thus neuromechanical uncoupling of the respiratory system will be determined as the
+           ratio (or interaction) between neural drive and the mechanical response of the
+           respiratory system (EMGdi/EMGdimax : VT/VC).
+
+        -  The mechanical work of breathing (WOB) will be calculated as the area within ensemble
+           averaged esophageal pressure-volume loops.
+
+      Statistical Analysis:
+
+      Aim 1: Exercise-response slopes (e.g., Borg/VO2) will be determined. Briefly, the
+      investigators will obtain the slope from a plot of Borg vs. VO2 for each participant's and
+      control participant's incremental exercise test performed on visit 2. The investigators will
+      determine the bivariate association of Borg/VO2 slope with VO2 slopes of neuromechanical
+      uncoupling, drive to breathe, and VT response using Spearman correlation coefficients. The
+      investigators will then force all three predictor variables into a multivariate linear
+      regression model with Borg/VO2 slope as the outcome variable in order to identify the
+      independent association of neuromechanical uncoupling with exertional dyspnea. Variables will
+      be transformed to approximate a normal distribution if necessary and predictor variables
+      reaching statistical significance will be assessed for a linear relationship with the outcome
+      variable.
+
+      Aim 2: The investigators will first use a paired t-test to identify changes in dyspnea and
+      exercise time comparing room air breathing to hyperoxia during constant-load exercise tests
+      on visits 3 and 4. Multivariate models will then be developed using the between-test
+      difference in Borg dyspnea scale and exercise time for each individual as the outcome
+      variables. Predictor variables will include the between-test difference in neuromechanical
+      uncoupling and its individual components. Outcome and predictor variables for the dyspnea
+      outcome will be based on the between-test difference of these variables at iso-time (i.e.,
+      the maximum time for which the patient exercised for both the room air and hyperoxia tests).
+      Predictor variables for exercise time will be measured at the end of the test.
+
+      As exploratory analyses, the investigators will repeat the above multivariate linear
+      regression analyses in the IPF subgroup, and the investigators will add a categorical ILD
+      subgroup variable to these analyses in order to identify other inter-group differences.
+      Additional adjustment for potential confounders (e.g., sex, body mass index, high resolution
+      computed tomography fibrosis score) will be used in these exploratory analyses if the
+      subgroup sample size is sufficient. A p value < 0.05 will be considered significant for all
+      analyses. Data analysis will be performed using Stata v11.2 (StataCorp, Texas, USA).
+    
+  

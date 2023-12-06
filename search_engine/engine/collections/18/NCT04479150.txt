@@ -1,0 +1,70 @@
+
+    
+      COVIDCIR is an observational, multicenter, cohorts' study of patients undergoing
+      emergency/urgent gastrointestinal surgery during the period of maximum impact of the COVID-19
+      pandemic in Spain (from March 1st to June 30th, 2020).
+
+      The study conforms to the stipulations of the Declaration of Helsinki. The protocol was
+      approved by the local Institutional Review Board (Ethics and Clinical Investigation
+      Committee) and a waiver for written informed consent was given. The level of protection of
+      confidentiality, in terms of protection of personal data as required by Spanish Law (LOPD
+      3/2018), was also ensured.
+
+      A total of 30 surgical teams from different Spanish hospitals have been proposed as
+      participants in this study, which has been coordinated by the Department of General and
+      Digestive Surgery of Bellvitge University Hospital (L'Hospitalet del Llobregat, Barcelona,
+      Spain). All hospitals participating are from Spain, with different surgical capabilities.
+
+      Patients operated on for emergency/urgent gastrointestinal surgery constitute the target
+      population.
+
+      Inclusion criteria: ≥18 years, both genders, and operated on for urgent/emergency
+      gastrointestinal pathology.
+
+      Exclusion criteria: patients who have undergone a scheduled surgical intervention or patients
+      operated on by a service other than General and Digestive Surgery.
+
+      Three cohorts will be defined:
+
+      Cohort 1: Covid-19-positive (infected by SARS-CoV-2) patients who required emergency/urgent
+      gastrointestinal surgery from March 1st to June 30th, 2020 Cohort 2: Covid-19-negative (not
+      infected by SARS-CoV-2)patients who required emergency/urgent gastrointestinal surgery from
+      March 1st to June 30th, 2020.
+
+      Cohort 3: Consecutive patients who required emergency/urgent gastrointestinal surgery from
+      March 1st to June 30th, 2019 (control cohort of a "pre-pandemic" period, all patients
+      Covid-19-negative).
+
+      Primary outcome is 30-day postoperative mortality. Secondary variables are 90-day mortality,
+      postoperative complications, severa complications (graded as Clavien-Dindo score >= IIIA),
+      and length of stay.
+
+      Main variables related to postoperative mortality and complications will be: Age,
+      comorbidities, ASA score, type of surgical pathology, type of performed surgery, POSSUM
+      score, P-POSSUM score, LUCENTUM score and specific analitic parameters for Covid-19 patients.
+
+      Baseline characteristics will be summarized using standard descriptive statistics, and a
+      descriptive and exploratory comparative analysis between cohorts will be carried out.
+
+      The cumulative incidence of mortality (and its 95% confident interval) and the incidence of
+      morbidity (and its 95% confident interval) at 30 and 90 days will be estimated by SARS-CoV-2
+      infection status (cohort 1) and in the control groups (cohorts 2 and 3).
+
+      To minimize the selection bias effect of potential confounders, propensity scores will be
+      estimated using a multinomial model to estimate the probability that subjects were
+      SARS-CoV-2-positive, SARS-CoV-2-negative. Then, subjects will be matched using the propensity
+      score. After matching, to identify imbalance between groups, the standardized mean difference
+      will be estimated and plotted. In the matched sample, the cumulative incidence of mortality
+      (and its 95% confidence interval) and the incidence of morbidity (and its 95% confidence
+      interval) at 30 and 90 days will be compared using a generalized linear model with a binomial
+      distribution and a logarithm link function. Those variables that remain imbalance between
+      groups after matching would be added to the model with an adjusting purpose.
+
+      A generalized linear model with a binomial distribution and a logarithm link function will be
+      used to estimate relative risk as a measure to indentify prognostic factors associated with
+      30 and 90 days mortality and morbidity incidences. Five predictive scores of postoperative
+      complications and/or mortality will be calculated: POSSUM-mortality, POSSUM-complications,
+      P-POSSUM, LUCENTUM-logistic regression and LUCENTUM-CHAID. Their applicability on the
+      complications and/or mortality prediction in COVID-19 pandemic will be assessed.
+    
+  

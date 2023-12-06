@@ -1,0 +1,20 @@
+
+    
+      The investigators will identify randomised controlled trials without language restriction
+      that meet the inclusion criteria by searching the Cochrane database, Ovid Medline, Google
+      Scholar and other sources. The investigators will exclude observational studies, short-term
+      trials <2 months duration, studies in pregnant diabetic subjects, newly diagnosed type 2
+      diabetes, trials in type 1 diabetes and extensions of previous studies.
+
+      Data on individual participants will be obtained directly from trialists and from funding
+      sponsors who hold the trial data and will include age, sex, duration of diabetes, treatment
+      group, baseline and final HbA1c, baseline and final insulin dose, baseline and final BMI.
+
+      A 'two-step' meta-analysis will be performed to estimate overall mean differences in HbA1c,
+      insulin dose and weight/BMI for the trials. Then, a 'one-step' meta-regression analysis will
+      be conducted by creating a single large dataset from the individual patient data.
+      Determinants of final HbA1c, BMI/weight and insulin dose will be explored using Bayesian
+      approaches with covariates that include baseline HbA1c, age, diabetes duration, BMI, insulin
+      dose and interactions between the covariates.
+    
+  

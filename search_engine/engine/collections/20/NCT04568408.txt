@@ -1,0 +1,43 @@
+
+    
+      Introduction: Sleep disorders are becoming a widespread health problem within the general
+      population. Beyond the tiredness itself, these disorders have been found to be related to
+      physical and mental issues like cardiovascular pathologies, obesity, depression and anxiety.
+      This makes clear the necessity of achieving a quality rest to prevent potential chronic
+      diseases. On this issue, Polysomnography (PSG) is currently the accepted Gold Standard for
+      sleep studies as it measures multiple variables that lead to a clear diagnosis of any sleep
+      disorder. However, it has some clear drawbacks as it can only be performed by qualified
+      technicians, has a high cost and complexity and is very invasive. In the last years, several
+      studies that focus on validating wearable devices as useful sleep trackers have emerged. In
+      this study, the investigators intend to assess the capability of the new Xiaomi Mi Band 5 to
+      be used as a tool for sleep self-assessment for patients. The interest in studying this
+      smartband is due to its low price and acceptance among the population. If this device proves
+      to be a good sleep tracker, it would allow the population to assess their own sleep and
+      consider if they need to visit their medical practitioner, which would improve the prognosis
+      of any underlying condition they may be developing derived from their restlessness.
+
+      Objective: Determine whether sleep stages recorded by the new Xiaomi Mi Band 5 can
+      effectively replace PSG sleep stages classification in patients that undergo a sleep study.
+      The following features will be calculated for both devices: total sleep time, sleep
+      efficiency, sleep latency and wake after sleep onset. Sleep stages will also be recorded.
+
+      Methods and analysis: the study will be carried out with patients in a hospital from A Coruña
+      (Galicia, Spain) that are > 18 years old. Patients who are performed a polysomnography test
+      will be given the wearables so the investigators can record sleep stages with both techniques
+      in order to compare both recordings afterwards.
+
+      This is an observational, analytic and longitudinal study. In other words, in this study
+      different variables from the population of interest will be observed and recorded without any
+      direct intervention, so as to establish causality associations between these variables. It is
+      considered as longitudinal since a six-months tracking of the variables will be performed,
+      continually (and sometimes occasionally) recording and monitoring sleep quality (wearable
+      wristbands).
+
+      The data obtained from PSG and Xiaomi Mi Band 5 will be preprocessed and explored before
+      extracting the features of interest for the study. Then, Paired sample T-Test will be
+      performed to compare the means among the different variables, Bland-Altman plots will be used
+      to assess the concordance between both techniques and, finally, Epoch by Epoch analysis will
+      be performed to compare the classification of the sleep stages carried out by both PSG and
+      Xiaomi.
+    
+  

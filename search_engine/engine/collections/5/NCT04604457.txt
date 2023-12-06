@@ -1,0 +1,11 @@
+
+    
+      A machine learning algorithm will be used to accurately identify patients in certain primary
+      care units who may benefit from palliative care consults. These patients will be presented
+      weekly to a palliative care specialist in a custom user interface. The palliative care
+      specialist will reach out to primary care teams if she determines that the patient would
+      benefit from palliative care. If the primary care provider agrees, he/she would write a
+      palliative care consult order for the patient. The goal is to reduce the time to palliative
+      care for these patients, who may not have been identified as quickly without the algorithm.
+    
+  

@@ -1,0 +1,25 @@
+
+    
+      B. BACKGROUND:
+
+      Nearly five million Americans experience heart failure (HF) and greater than 250,000 die
+      annually. 1 The prevalence has continued to increase with the aging of the US population and
+      HF is now the leading cause of hospitalization among adults >65 in the United states. Despite
+      remarkable improvements in medical therapy, the prognosis of patients with myocardial failure
+      remains poor, with almost 20% of patients dying within 1 year of initial diagnosis and > 80%
+      8-year mortality. 2 In addition patients who are admitted to the hospital for heart failure
+      have over a 50% readmission rate within six months of discharge. 3,4 These patients require
+      routine clinical care and often require diagnostic and therapeutic procedures. This project
+      seeks to assess if the use of hemodynamic (HD) monitoring technologies (ClearSight/Nexfin)
+      that are currently used in the intraoperative and critical care settings can provide utility
+      by demonstrating associations between alterations in a patients HD values to the likelihood
+      of hospital admission.
+
+      The non-invasive HD device utilized (Nexfin, Edwards Lifesciences, Irvine, CA) provided
+      flow-guided cardiovascular parameters that were captured for each clinic visit for up to 24
+      months. Analysis was performed between the most recent prior clinic visits for patients who
+      were hospitalized for HF exacerbation to those who were not hospitalized. HD data was not
+      used to guide clinical care. A Cox hazard model using a log transformation of HD variables as
+      the covariates, was applied to describe hospital admission.
+    
+  

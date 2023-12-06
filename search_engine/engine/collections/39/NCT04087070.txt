@@ -1,0 +1,22 @@
+
+    
+      Blood pressure is measured by an automated oscillometric device or arterial waveform from
+      IntelliVue MX800 Bedside patient monitor (Philips Healthcare, Amsterdam, Netherlands).
+
+      Following parameters will be measured by non-invasive electrocardiogram (ECG),
+      photoplethysmograph (PPG), and an accelerometer on the chest and will be used to estimate the
+      biosignal derived blood pressure.
+
+        1. PAT(time between R peak of ECG and beginning of the pulse of PPG)
+
+        2. PEP(time between R peak of ECG and peak of accelerometer signal)
+
+        3. PTT(PAT-PEP)
+
+      The algorithm of the biosignal derived blood pressure will be made using the MATLAB
+      2016b(Mathworks, Natick, MA) program.
+
+      The agreement between the non-invasive blood pressure and the biosignal derived blood
+      pressure will be analyzed using Cohen's Kappa or Bland-Altman plot.
+    
+  

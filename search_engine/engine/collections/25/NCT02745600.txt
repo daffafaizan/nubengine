@@ -1,0 +1,34 @@
+
+    
+      This ClinicIMPPACT proposal builds upon the success of the IMPPACT project (Grant No. 223877,
+      completed in February 2012), which created a model for facilitating more accurate RFA
+      treatment. This preliminary RFA model was tested in swine, with extensive histological
+      workup, and in a clinical simulation study based on patient data, both of which reported
+      relatively high correlations between estimated and actual tumor volumes. The mapping software
+      for liver cancer RFA was developed through this project and provides a simulator for
+      radiologists to plan, review and optimize procedures. Within IMPPACT, extensive experiments
+      were performed on pigs and cells to develop a micro-scale cellular death model, which we used
+      for calibrating the software. After porcine liver calibration, eight patient lesions were
+      selected from a database of clinical procedures, and the planning software was used
+      retrospectively to simulate interventions and predict lesion shapes. Predicted volumes were
+      then compared against real thermal lesions, visualized and segmented in contrast-enhanced CT
+      one month after ablation. These comparisons showed simulated and real lesion volumes to be
+      acceptably matched after taking virtual tissue perfusion values into account. Some lesion
+      shapes were mismatched, possibly due to inaccuracies in segmenting radiological images.
+
+      Treatment with RFA could be improved using a validated software solution to estimate lesion
+      size and identify possible complications in advance-ideally, a solution which is adapted to
+      real-time clinical requirements. However, the current state of the art involves long,
+      hardware-intensive computing time (~5 hours), which is impractical for clinical use.
+
+      The main goal of this project is to develop a simulation tool, driven by a user-friendly,
+      ergonomically optimized graphical user interface, to support the complex requirements of
+      clinicians. Therefore, the working steps of this international project and its medical and
+      technical partners are to accelerate simulation speed, optimize needle registration, and
+      integrate patients' individual perfusion values into software calculations, as well as
+      accurate validation techniques, to produce more sophisticated and reliable predictions. The
+      software could also aid in offline planning and simulation and as an RFA teaching tool for
+      radiologists. Its use in retrospective analysis should improve clinical follow up and
+      scientific evaluation.
+    
+  

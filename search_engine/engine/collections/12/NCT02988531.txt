@@ -1,0 +1,56 @@
+
+    
+      Positron emission tomography (PET) is method of non-invasively imaging a metabolic process.
+      It has been used in clinical medicine for many years with its primary use in identifying
+      areas of increased metabolic activity as possible cancers. It involves the use of a
+      radionuclide (or radiotracer) labelled to a chemical involved in a certain metabolic process.
+      In order for the PET signal from the radiotracer to be detected by the scanner the
+      radionuclide emits a small dose of ionizing radiation. Examples of commonly used
+      radionuclides include 18FDG and 18 Sodium Fluoride (18NaF). In order to locate where exactly
+      these areas of abnormal or increased metabolic activity were, Computerised Tomography (CT)
+      has traditionally been used for anatomical correlation.
+
+      Until recently PET-CT has largely been confined for use in oncology. More recently however
+      PET-CT has been utilized to detect vulnerable plaques in those with coronary artery disease.
+      In coronary artery disease 18F-fluoride acts as a marker of novel calcification activity
+      within the plaque. Similar to other conditions, calcification in coronary atheroma occurs as
+      a healing response to intense necrotic inflammation, making 18F- fluoride a useful marker of
+      high-risk atherosclerotic plaque. This has been demonstrated in those with stable angina as
+      well as localizing the culprit plaque in those with myocardial infarction in 90% of cases.
+
+      Magnetic resonance imaging is being increasingly adopted in cardiovascular imaging and holds
+      particular attraction due to its ability to provide information about soft tissue structures
+      both with and without contrast agents, as well as its safety due to absence of exposure to
+      ionising radiation and rapid imaging speed, which is useful in a moving organ like the heart.
+
+      PET-MR works differently to PET-CT. PET relies on the annihilation of protons with electrons,
+      generating 511 keV photons, which are absorbed in bodily tissues differently depending on
+      their electron density (e.g. heart denser than lungs). Because of this PET images can appear
+      brighter or darker in different tissues. To account for this, a technique of attenuation
+      correction is employed. This is usually in the form of what is called a transmission scan
+      (low intensity CT scan) which grades tissue density and corrects the PET signal accordingly.
+      Given MRI measures proton density and not electron density different attenuation correction
+      techniques are needed. It has not yet been established how best to do this despite multiple
+      efforts using differing techniques.
+
+      Previous single centre studies have demonstrated the feasibility of MRI-PET. The technique's
+      translation to clinical practice has been limited due to the global lack of reliable
+      attenuation correction methods. During his recent Clinical Research Imaging Fellowship in New
+      York, co-investigator (Dr Dweck) developed a novel free breathing method of attenuation
+      correction in a combined PET-MR scanner that reduced scanning time and improved efficiency
+      and has shown immense promise. In Edinburgh a similar combined PET-MR scanner (mMR, Siemens,
+      Erlangen, Germany) has been installed, but have not yet replicated or validated this
+      technique. If the investigators can demonstrate and apply a method of attenuation correction
+      that is acceptable and shows good comparability of MRI-PET to PET-CT images they may be able
+      to use this imaging method as an alternative to PET-CT.
+
+      Benefits which may translate clinically include superior soft tissue characterisation and
+      significantly reduced radiation dosages. The technique could be applied across a range of
+      medical conditions in addition to cardiovascular disease and oncology.
+
+      The investigators are hopeful to establish a suitable attenuation correction method so that
+      PET-MR can match or even supersede PET-CT as an imaging technique providing accurate
+      biological, anatomical and functional information in those with cardiovascular disease with
+      low radiation doses.
+    
+  

@@ -1,0 +1,68 @@
+
+    
+      Background:
+
+      Pain is a significant problem within and outside of clinical contexts, and understanding the
+      phenomenon is imperative for optimizing patient care and understanding the efficacy of pain
+      treatment. At the same time, pain anxiety handicaps behavior and productivity, impedes the
+      adoption of healthy behaviors and proper healthcare delivery, and is implicated in the
+      development and maintenance of chronic pain disorders.
+
+      Pain is commonly perceived as a simplistic attention-capturing stimulus response homeostatic
+      monitoring system that serves a tissue-protective function. Contemporary research, however,
+      promotes a process model of pain that goes beyond simple transmission of a nociceptive signal
+      from a transduced stimulus to include aspects of physiological modulation (e.g., regulatory
+      brain activity from midbrain and brainstem, endogenous and exogenous opioids, and
+      experiential perception (e.g., perceptual brain activity from S1, PFC, thalamus, S2, insula,
+      and thalamus, perceptual exercises such as body vision. Clearly, accurate understanding of
+      pain requires require combining signals across brain regions and networks Our lab, using
+      machine-learning based multivoxel pattern analysis (MVPA) have trained several now
+      widely-used whole-brain neural signatures for pain experience using thermal pain delivery
+      devices (e.g., Neural Pain Signature [NPS]), as well as pain-related processes such as
+      viewing pictures of others in pain (Vicarious Pain Signature [VPS]), and imagining being
+      romantically rejected. Pursuit of this line of work has revealed these signatures are
+      sensitive and specific to the type of pain it was developed for, yet generalizable enough to
+      work in samples and pain modalities it was not developed in. For example, NPS is specific to
+      somatic pain, and rises and falls with levels of somatic pain of many types, including
+      thermal pain, mechanical pain, and electric shock, but does not track vicarious pain.
+
+      Our existing signatures do not respond to psychological changes in pain, which is believed to
+      be necessary components for understanding pain hyper- and hypo-algesia as well as the placebo
+      effect. The placebo effect is a powerful demonstration of the effects of the psychological
+      pain context on pain experience. The effect may be directly attributable to emotional and
+      attentional processing. Pain processing shifts from nociceptive somatosensory to emotional
+      during chronification of pain and there is ample evidence that anxiety and stress modulate
+      the amounts of pain reported, the degree of treatment and attention requested, and the degree
+      of pain analgesia experienced upon application of placebo. This evidence suggests that
+      aversive processing of incoming stimuli may play a role in the pain experience. Placebo
+      effects may also simply be somatotopically attention driven, as one previous non fMRI study
+      has suggested.
+
+      The basic mechanisms of placebo effects on pain anticipation and pain anxiety, and how they
+      relate to placebo effects on pain, are still unknown. Understanding how each of subcomponents
+      of pain -- theoretically separable as the detection of incoming sensation, aversive
+      experiencing, and somatotopic location -- is affected by a placebo treatment may elucidate
+      important facts about pain. This includes how pain is anticipated, processed, and
+      subsequently regulated, providing insight into the nature of pain anxiety and how information
+      should be delivered to mitigate pain. Such knowledge is essential for enhancing existing
+      therapies and creating more nuanced and targeted ones for debilitating pain-related maladies
+      such as chronic pain disorders, and important therapeutic procedures that may cause pain
+      (e.g., surgical or dental).
+
+      Experimental Design:
+
+      The first hour of fMRI scanning aims to isolate sensation, aversiveness, and somatotopic
+      subcomponents of pain into individual neural signatures. We will do so by subjecting
+      participants at random to stimulations of painful heat and non-painful warmth on various body
+      sites -- left and right masseter, midline chest, midline trunk, left and right forearm, and
+      left and right upper-calf -- as well as listen to an aversive sound (e.g., scratching
+      chalkboard). Participants will also be asked at various times to follow instructions to
+      imagine themselves feeling intense heat pain at a randomly designated body site.
+
+      In the second hour of fMRI scanning, we will examine to what degree the identified isolated
+      subcomponents of sensation, aversiveness, and somatotopy respond to placebo treatment for
+      heat pain (i.e., the application of an inert cream coinciding with either an instruction that
+      the participant will be given "an analgesic cream" relative to "a control cream with no
+      effect").
+    
+  

@@ -1,0 +1,240 @@
+
+    
+      Hypotheses to be tested:
+
+      Brovana nebulized twice daily added to maintenance inhaled tiotropium therapy in stable COPD
+      patients increases:
+
+        1. Forced expiratory volume in 1 second (FEV1) at peak dose effect (approximately 2 hours
+           after AM dosing in the laboratory)
+
+        2. Resting and exercise hyperinflation at peak dose effect (inspiratory capacity (IC) at
+           baseline and at iso-time during exercise testing; these measurements will be
+           approximately 2 ¼ hours after AM dosing of tiotropium plus test drug.
+
+        3. Exercise treadmill endurance time at peak dose effect (approximately 2 ¼ hours after AM
+           dosing in the laboratory)
+
+      Patients: Twenty patients will be studied
+
+      Location: Section of Pulmonary and Critical Care, St. Francis Hospital & Medical Center,
+      Hartford, CT
+
+      Excluded drugs:
+
+        1. Anticholinergic bronchodilators other than once-daily (AM) tiotropium at standard dose
+
+        2. Long acting beta agonist bronchodilators
+
+        3. Short acting beta agonist bronchodilators must be withheld within six hours of
+           laboratory testing
+
+      Allowed drugs:
+
+        1. Inhaled steroids
+
+        2. Oral steroids 10 mg/day or less, at stable dose for four weeks
+
+      Removal of patients from study:
+
+        1. Withdrawal of consent
+
+        2. Documented oxygen desaturation < 85% or clinically significant problems (such as angina,
+           significant electrocardiogram (ECG) changes, etc) during any exercise testing
+
+        3. A significant adverse event
+
+        4. Protocol violation including lack of adherence
+
+      COPD exacerbations during study:
+
+      If the patient experiences a COPD exacerbation during the study which requires a change in
+      medication or an addition of medication (such as oral steroids or antibiotics) the study will
+      be held until stability is reached. At that time, the study will resume, beginning with new,
+      1-week treatment /testing corresponding to the study sequence when the exacerbation began. If
+      the patient does not resume stability within four weeks or has a second exacerbation, the
+      study will be terminated.
+
+      Study design: This will be a double-blind, crossover, single-site study in COPD patients who
+      are in stable condition. All patients in study randomized to test drug by Visit 2 will have
+      been on steady-state tiotropium therapy, off commercial long-acting beta-agonists (LABA), and
+      using prn short-acting beta-agonists (SABA). Only acute (i.e., 1-week) effects of Brovana
+      will be studied. SABA will be withheld from midnight before testing on each day.
+
+      Exercise testing and inspiratory capacity (IC) measurements Incremental and steady-state
+      endurance testing will be performed on a treadmill in the Section of Pulmonary and Critical
+      Care Medicine. The incremental test (Visit 1) will be performed to a symptom-limited maximum,
+      with a goal to have the test duration over approximately 10 minutes. The protocol used for
+      this will be from Porszasz et al using simultaneous increases in treadmill speed and incline,
+      with settings based on estimated maximal workrate. Warm-up will be 1 mph at 1% grade. This
+      will be followed at 30-second intervals by increases in speed and incline. Patients will have
+      breath by breath measurements of expired air using our Sensormedics equipment, via a
+      mouthpiece. IC measurements will also be measured at rest and at every minute into exercise.
+
+      Endurance tests (Visit 2, 4, 5) will be at 75% of the maximal rate determined from the
+      initial test. For exercise capacity, duration in exercise time will be the primary outcome
+      variable. IC will be measured at rest and at every minute during exercise.
+
+      An ECG will be performed before each exercise test, and continuous pulse oximetry will be
+      monitored. A physician will be in attendance at each test.
+
+      Primary Efficacy Variables:
+
+        1. Change in FEV1 near peak effect (~ 2 hours of AM laboratory dosing of tiotropium plus
+           test drug):
+
+             1. The primary comparison will be Δ FEV1 (@ 2-hours after Tiotropium + Brovana minus
+                pre-dose FEV1) versus Δ FEV1 (@2-hours after Tiotropium + Placebo minus pre-dose
+                FEV1)
+
+             2. The analysis will be performed using a repeated-measures design, PROC GLM Repeated,
+                SAS:
+
+        2. Change in treadmill endurance time at ~75% of maximum (Δ endurance time) Brovana versus
+           placebo: from baseline testing on tiotropium alone compared to testing on tiotropium +
+           study drug.
+
+             1. The primary comparison will be Δ endurance time (@ 2 ¼ hours after Tiotropium +
+                Brovana compared to tiotropium alone
+
+             2. The analysis will be performed using a repeated-measures design, PROC GLM Repeated,
+                SAS
+
+        3. Change in static (resting), iso-time, and peak exercise IC measurements, which will be
+           used as our estimates of hyperinflation; Brovana versus placebo: from baseline testing
+           on tiotropium alone compared to testing on tiotropium + study drug.
+
+           a. The primary co-comparisons will be: i. Δ IC at rest (static hyperinflation) (@ 2 ¼
+           hours after Tiotropium + Brovana compared to tiotropium alone ii. Δ IC at iso-time
+           (static hyperinflation) (@ 2 ¼ hours after Tiotropium + Brovana compared to tiotropium
+           alone. We are not sure what iso-time we will use, but if all patients go six minutes
+           into exercise, we will use the six minute mark.
+
+           b. The analyses will be performed using a repeated-measures design, PROC GLM Repeated,
+           SAS
+
+      Sample Size Estimation The van Noord sited earlier powered their study assuming a ~ 140 mL
+      standard deviation for paired differences in FEV1 (determined from earlier trials), a
+      difference of ~ 50 mL, and a power of 0.90. They achieved a 150 mL (0.150 L) difference in
+      FEV1. For our study, using a difference of 150 mL, a standard deviation of 140 mL, and a
+      power of 0.80, 16 patients would be sufficient.
+
+      In a study by O'Donnell et al the combination of fluticasone 250 mcg / salmeterol 50 mcg was
+      compared to salmeterol alone and placebo. Outcome variables included spirometry, lung volumes
+      and exercise endurance time at 75% of maximal on a cycle ergometer. The average improvement
+      (compared to placebo) in FEV1 at Day 1 (taken from graph) was about 200 mL with both the
+      combination and salmeterol. The treatment-difference improvement in exercise endurance time
+      with the combination was 131 ± 31 seconds (p. < 0.004), representing a 22% improvement. For
+      salmeterol alone it was 49 ± 37 seconds. Our study would use a treadmill rather than a cycle
+      ergometer; this will probably lead to more dyspnea-limitation than leg fatigue limitation. We
+      predict the Δ FEV1 at two hours post dosing (compared to tiotropium alone) with Brovana +
+      tiotropium in our study will ~ 150 mL - a Δ not too dissimilar to the O'Donnell study Δ. To
+      detect a 90 second difference in endurance time (1/2 way between 131 seconds and 49 seconds),
+      and assuming a standard deviation (SD) of 35 seconds, our study would be amply powered.
+
+      Study Sequence
+
+      Visit 1:
+
+        1. Informed consent obtained
+
+        2. Inclusion/exclusion criteria met
+
+        3. History and physical examination performed
+
+        4. Post-bronchodilator spirometry for inclusion criteria
+
+        5. Patient started on tiotropium, if necessary; tiotropium dispensed, if necessary
+
+        6. If necessary: long acting bronchodilators (LABA) discontinued, ipratropium discontinued
+
+        7. Levalbuterol MDI dispensed for prn use
+
+        8. Appointment given for Visit 1
+
+      Visit 2: 1 day (for patients already on tiotropium) to 1 week (those starting tiotropium)
+      after Visit 1:
+
+        1. Brief history and limited physical
+
+        2. Spirometry on maintenance tiotropium, before AM dosing and after having SABA withheld
+           for ~ 6 hours
+
+        3. Incremental treadmill endurance test
+
+        4. Patient instructed to continue taking tiotropium once daily in the morning (qAM) and
+           levalbuterol MDI prn
+
+        5. Appointment for 2-week follow-up
+
+      Visit 3: 1 week after Visit 2, after maintenance tiotropium
+
+        1. Brief history and limited physical
+
+        2. Pre-bronchodilator spirometry (on maintenance tiotropium, levalbuterol withheld)
+
+        3. Tiotropium given (open label)
+
+        4. Spirometry 2 hours after tiotropium dosing
+
+        5. ECG 2 ¼ hour after tiotropium dosing
+
+        6. Endurance treadmill endurance test (including IC measurements) 2 ¼ hour after open-label
+           tiotropium dosing
+
+        7. Nebulizer dispensed
+
+        8. Blinded Test drug # 1 dispensed (Brovana or placebo, 20 unit doses), instructions to
+           take it via nebulizer bid, tiotropium continued qAM, levalbuterol MDI continued prn
+
+        9. Appointment for 1 week follow-up
+
+      Visit 4: 1 weeks after Visit 3, after test drug # 1
+
+        1. Brief history and limited physical
+
+        2. Pre-dosing spirometry (on maintenance tiotropium and Test Drug #1, levalbuterol
+           withheld)
+
+        3. Tiotropium and Test Drug # 1 given
+
+        4. Spirometry 2 hours after above dosing
+
+        5. ECG 2 ¼ hour after above dosing
+
+        6. Endurance treadmill endurance test 2 ¼ hour after above dosing
+
+        7. Begin wash-out period: Tiotropium open-label plus prn levalbuterol continued; placebo
+           given via nebulizer, to be taken bid (this part is single-blinded)
+
+        8. Appointment for 1 week follow-up
+
+      Visit 5: 1 week after Visit 4, after washout
+
+        1. Brief history and limited physical
+
+        2. Spirometry in AM
+
+        3. Blinded Test drug # 2 dispensed (Brovana or placebo, 20 unit doses), instructions to
+           take it via nebulizer bid, tiotropium continued qAM, levalbuterol MDI continued prn
+
+        4. Appointment for 1 week follow-up
+
+      Visit 6: 1 week after Visit 5, after test drug # 2
+
+        1. Brief history and limited physical
+
+        2. Pre-dosing spirometry (on maintenance tiotropium and Test Drug #2, levalbuterol
+           withheld)
+
+        3. Tiotropium and Test Drug #2 given
+
+        4. Spirometry 2 hours after above dosing
+
+        5. ECG 2 ¼ hour after above dosing
+
+        6. Endurance treadmill endurance test and IC measurements 2 ¼ hour after above dosing
+
+        7. Study terminated
+    
+  

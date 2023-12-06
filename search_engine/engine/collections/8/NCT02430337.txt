@@ -1,0 +1,137 @@
+
+    
+      SafeCare contains three, six-session modules that target risk factors for child physical
+      abuse and neglect, including (1) child health, (2) home safety, and (3) parent-child
+      interaction. The focus of the child health module is to train parents to make effective
+      decisions related to child health, to prevent child illness and injury, and assist parents in
+      seeking appropriate health treatment for children when an illness or injury occurs. Parents
+      are also taught to use health reference materials, including a validated SafeCare health
+      manual. Home safety focuses on making the home a safe place where the risk for child injury
+      is reduced. Parents identify and eliminate common household hazards and learn the appropriate
+      levels of supervision for children across developmental stages. The parent- child interaction
+      module focuses on the parent-child relationship, with the goal of improving interactions
+      between the child and parent as well as child behavior by teaching parents structured skills
+      to use in a consistent and predictable way with children across daily routine activities.
+      Each of the three SafeCare modules is structured according to an assess-train-assess
+      approach, with six sessions each. Session 1 is a pretest of baseline skills and knowledge of
+      the particular module. Sessions 2-5 are training sessions, which include explanation of
+      target skills, modeling of target skills by the provider, practice of the target skills by
+      the parent, and feedback from the provider about the parent's mastery and competence in
+      skills. Session 6 is a second assessment session, which allows the provider to examine parent
+      mastery of target skills across each module. Providers train the parents in each module to a
+      level of mastery, which is the demonstration of at least 80% of target skills at the Session
+      6 assessment.
+
+      Conditions:
+
+      SafeCare-Implementation as Usual (SC-IU): The SC-IU condition followed the protocol used in
+      standard SafeCare implementation, which includes the following phases: (1) Agency readiness -
+      NSTRC reviews the requisite organizational communication, service system and SafeCare funding
+      plan, implementation requirements, and budgetary information with interested agencies to
+      ensure fit of SafeCare within the organizational context of the agency, (2) SafeCare workshop
+      training -This includes a 4-day classroom-based training that involves didactic
+      presentations, modeling of the instruction, and role-playing for SafeCare trainees as well as
+      structured assessments of the skills taught, (3) SafeCare provider certification process
+      -Providers receive support from NSTRC as they begin SafeCare delivery with families. The
+      support includes the SafeCare trainers listening to audio recordings of the providers'
+      SafeCare sessions, assessing these sessions for fidelity, and then providing a follow-up
+      coaching session to provide feedback to the provider. Once trainees demonstrate mastery of
+      SafeCare, defined as meeting session fidelity of _ 85% , in three sessions per module (nine
+      total), they are certified as a SafeCare provider, (4) SafeCare postcertification support and
+      sustainability - Once a provider achieves certification, the provider moves into this phase
+      that consists of monthly submissions of one SafeCare session recording monitored for fidelity
+      by an NSTRC trainer or trained SafeCare coach at the implementing agency.
+
+      SafeCare-Tech-Assisted (SC-TA). This implementation followed the four phases described above,
+      but the delivery of SafeCare was adapted to include technology assistance delivered on a
+      tablet via a web-based SafeCare program entitled SafeCare Takes Care. SafeCare Takes Care
+      includes a combination of video, audio narration, and engaging questions and was developed
+      through an alpha and beta testing process with parenting experts and parents similar in
+      education and socioeconomic status to the parents served with the SafeCare program. The
+      videos are presented in a manner similar to a talk show. For each module and session, the
+      host of SafeCare Takes Care presents a new topic (i.e., the session content for that day)
+      with video modeling of the skills from "at-home viewers." For example, in the parent-child
+      interaction module, a video begins with the talk show host explaining the skills being
+      covered in the session, followed by a video of a parent (i.e., an at-home viewer) modeling
+      these skills, and the host may take some questions from studio audience members or from fans
+      on the "street cam." SafeCare Takes Care uses an open-source systems and languages to input
+      text, picture, and video-related content into website interventions. All text was narrated to
+      minimize literacy requirements. The architecture is based on the Python programming language
+      using a Django web framework and Foundation an advanced responsive front-end framework, to
+      ensure mobile friendliness. This framework consists of Cascading Style Sheets and Javascript
+      to ensure proper display of the web application across multiple devices with differing screen
+      sizes and resolutions. SafeCare Takes Care was hosted at Oregon Research Institute (ORI) on a
+      Linux server with MySQL, an open-source language for relational database development. Data
+      collection components were securely transmitted to ORI servers using Secure Sockets Layer
+      protocol. This platform has been successfully used for the delivery of other evidence-based
+      parenting programs to highrisk parents (see Baggett et al., 2010). SafeCare providers
+      assigned to the SC-TA condition participated in the standard SafeCare workshop and also
+      received training in the technology-mediated approach to SafeCare delivery. The technology
+      training took approximately 2 hr and focused on how the provider utilizes the technology in
+      each session. Specifically, after greeting the parent, the provider was instructed to connect
+      the parent to the web-based program, during which the parent participates in the multimodal
+      learning (e.g., explanation and modeling of skills) of SafeCare target skills. When the
+      parent completes the web-directed portion of the session, the provider is prompted by the
+      web-based program to take over the session delivery, revisit any explanation and modeling the
+      parent has questions about, and then engage the parent in live practice of the skills
+      presented in the web program. Lastly, the provider offers positive and constructive feedback
+      about the practice and closes the SafeCare session. In addition to the technology-mediated
+      delivery, there were some slight adaptations to the scoring instructions of the Safe- Care
+      Fidelity checklist for the SC-TA to accommodate the use of the web-based program into the
+      session. Specifically, fidelity items pertaining to explanation and modeling were scored as
+      completed by a coach if it was clear in the audio recording of the session that the provider
+      connected the parentparticipant to the web-based program. All other fidelity items on the
+      SafeCare Fidelity Checklist remained the same. That is, SafeCare providers were fully
+      expected to deliver the session opening, SafeCare target skills practice and feedback, and
+      session closing. Additionally, if parents had questions about the explanation or modeling
+      components reviewed in the webbased program, providers were trained to address these
+      concerns, and fidelity was rated as it would be in standard implementation for these items.
+      Lastly, SafeCare coaches were instructed to include the providers' technology equipment under
+      their scoring of "has materials ready" on the fidelity checklist. Providers in both groups
+      participated in coaching calls with their assigned SafeCare coach following the coach's
+      scoring of fidelity, as is the protocol for SC-IU. These calls serve as an opportunity for
+      the coach to provide positive and constructive feedback to the provider regarding their
+      session delivery.
+
+      Provider demographics and professional background factors were measured by a form developed
+      for the project and asked questions regarding provider age, education, race/ethnicity, and
+      field experience. SafeCare delivery time demands: Time diaries were completed by providers
+      who were delivering SafeCare to families. Providers were instructed to complete a time diary
+      following each Safe- Care session and submit them to the research team on a monthly basis.
+      Information reported on the time diary form included the specific amount of time in minutes
+      spent on SafeCare-related activities prior to, during, and following each session. These
+      activities were determined by the research team in consultation with SafeCare trainers who
+      are familiar with the common activities conducted by SafeCare providers. Provider fidelity:
+      Fidelity was measured utilizing the SafeCare Provider Fidelity Checklist. The checklist
+      includes a number of concrete behaviors providers should perform during the SafeCare session.
+      Providers submit audio recordings to NSTRC and expert coders rate fidelity using this
+      checklist based on the verbal behaviors performed by the provider in the SafeCare session.
+      Provider implementation progress: SafeCare provider implementation progress was documented by
+      research team members based on the implementation record review. Records were maintained by
+      the NSTRC trainer who noted the progress of each provider through the training and
+      certification process. To meet certification, the provider has to achieve 85% fidelity on
+      three sessions in each SafeCare module (parent-child interaction, child health, and child
+      safety), for a total of nine sessions. Provider implementation progress was coded as
+      "workshop only" if the provider completed the training workshop but did not begin working
+      with families. Providers were coded as "Began certification, SafeCare inactive," if they
+      began certification after workshop training but discontinued SafeCare delivery before
+      reaching certification. Providers coded as "Began certification, SafeCare active" were still
+      delivering SafeCare services at the end of the study period but had not yet achieved
+      certification. Lastly, providers coded as SafeCare certified achieved at least 85% fidelity
+      on nine SafeCare sessions during the study period. SC-TA qualitative interview: A
+      semi-structured qualitative interview was conducted upon completion of the study to gather
+      feedback on satisfaction and recommendations for SC-TA and learn how the SC-TA implementation
+      delivery approach compared to SC-IU.
+
+      Data Analysis Plan: Quantitative and qualitative data were analyzed using a convergence
+      mixed-methods approach. Quantitative data were analyzed using Fisher's exact tests,
+      chi-square tests, and independent samples t tests. Data for qualitative analyses included
+      transcripts of audio recorded semi-structured interviews among providers. Thematic analysis
+      was used to analyze all transcripts by the principal investigator and two other members of
+      the research team. Derived codes from these transcripts were compared for consistency and
+      overlap. Codes were grouped into themes. Differences in coding were explored and discussed
+      until 95% agreement was reached across all transcripts. Periodic checks were made for
+      intercoder agreement. Interrater discrepancies in coding were reviewed and discussed until
+      100% consensus was reached.
+    
+  

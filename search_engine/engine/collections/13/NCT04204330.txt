@@ -1,0 +1,47 @@
+
+    
+      This is an interventional, prospective, multicenter, nonrandomized clinical and
+      epidemiological study. We are planning to enroll 5,000 patients.
+
+      Three outpatient departments, 3 affiliates of a city clinical hospital and 6 rural health
+      posts in Moscow region are equipped with 25 CardioQVARK electrocardiography (ECG) devises.
+
+      The study implies 9 stages:
+
+        1. Patient signs informed consent and consent to the processing of personal data than fills
+           out a questionnaire in a mobile application
+           (https://itunes.apple.com/ru/app/cardioqvark/id1320898122) and registers a 3-minute ECG
+           with a single-lead CardioQVARK ECG device. If an episode of atrial fibrillation (AF) is
+           not detected during a reception, but a patient describes symptoms of AF, we hand out the
+           devices to such patients to take home with them.
+
+        2. All records that are registered at outpatient departments, affiliates, rural health
+           posts and at home are sent to a server of "CardioQVARK" (Limited Liability Company). For
+           data processing, an AF detecting algorithm is applied. If AF is detected, an ECG report
+           is generated in PDF format.
+
+        3. Three independent cardiology experts receive ECG records and verify the performance of
+           the algorithm. They decode and annotate ECG reports (PDF).
+
+        4. If the expert confirms that the algorithm detected an AF episode, the ECG report (PDF)
+           is sent to an arrhythmologist for diagnosis. After that, the ECG record with confirmed
+           diagnosis is passed to a physician at a health-care facility.
+
+        5. When the physician receives the report, he calls the patient to verify the diagnosis in
+           a face-to-face consultation. That can be done by routine ECG, 24-, 48- or 72-hour ECG
+           monitoring.
+
+        6. Anticoagulation therapy is revised or induced for all patients with diagnosed AF.
+
+        7. Six months after the enrollment, the patient is called for another face-to-face
+           consultation with further peripheral venous blood sampling to assess anticoagulation
+           therapy in terms of pharmacokinetics (assess compliance) and pharmacogenetics (assess
+           the influence of genetic factors on anticoagulant effect of warfarin and new oral
+           anticoagulants).
+
+        8. Estimating cost-effectiveness of using the single-lead CardioQVARK ECG device in
+           screening for AF in primary health care.
+
+        9. Statistical processing of data and endpoints determination.
+    
+  

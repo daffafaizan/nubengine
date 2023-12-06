@@ -1,0 +1,164 @@
+
+    
+      Trial procedure:
+
+      As induction therapy, ≤4 courses of combination therapy with Pembrolizumab at 200 mg (day 1)
+      and a platinum preparation will be performed at 3-week intervals until disease exacerbation
+      or intolerable toxicity appearance. Concerning combination therapy with a platinum
+      preparation, the combination of cisplatin (CDDP) at 75 mg/m2 (day 1) or carboplatin (CBDCA)
+      at Area Under the Curve=6 (AUC=6) (day 1) + pemetrexed (PEM) at 500 mg/m2 (day 1) will be
+      administered to patients with non-squamous cell carcinoma at 3-week intervals. To those with
+      squamous cell carcinoma, carboplatin (CBDCA) at AUC=6 (day 1) + nanoparticle albumin-bound
+      paclitaxel (nab-PTX) at 100 mg/m2 (days 1, 8, and 15) will be administered at 3-week
+      intervals. If there is no exacerbation after the 4th course of induction therapy, it will be
+      switched to maintenance therapy. For maintenance therapy, the combination of PEM at 500 mg/m2
+      (day 1) + Pembrolizumab at 200 mg (day 1) will be administered to patients with non-squamous
+      cell carcinoma at 3-week intervals. To those with squamous cell carcinoma, Pembrolizumab at
+      200 mg (day 1) will be administered at 3-week intervals until disease exacerbation or
+      intolerable toxicity appearance. Pembrolizumab administration should be continued for 2 years
+      involving induction and maintenance therapies or until the 35th course.
+
+      In each patient, diagnostic imaging will be performed every 6 weeks (42 ± 7 days)(every 9
+      weeks after Week 18, every 12 weeks after Week 45) to evaluate tumor-reducing effects. Using
+      images, the response rate (RR) and progression-free survival (PFS) will be evaluated based on
+      the "Guidelines for evaluating the treatment response of solid cancer (RECIST 1.1)". It is
+      possible to continue treatment until PD evaluated by the attending physician based on the
+      RECIST 1.1, intolerable toxicity appearance, the appearance of concomitant diseases affecting
+      the continuation of treatment, discontinuation based on the study investigator's evaluation,
+      withdrawal, pregnancy, incompliance with investigational-drug administration or procedures
+      described in the protocol, appearance of management-related reasons, or completion of
+      Pembrolizumab administration for 2 years involving induction and maintenance therapies or the
+      35th course. Even after PD is definitively diagnosed by the study investigator based on the
+      RECIST 1.1, it is possible to continue treatment if the patient's condition is stable and if
+      treatment is considered to be advantageous for the patient by the study investigator. During
+      the trial period, adverse events should be examined,and severity grading should be performed
+      according to the CTCAE（NCI Common Terminology Criteria for Adverse Events）version 5.0.
+
+      In cases without any response at first radiographic evaluation (6 weeks), local salvage
+      therapy using radiotherapy is recommended by a discretion of doctors in charge. At that
+      timing, such cases are treated as a censored case.
+
+      After enrollment of 10 cases, the trial will be early terminated by confirmed PD according
+      RECIST at their initial radiographic evaluation (6 weeks) more than 3 cases.
+
+      Background:
+
+      Lung cancer accounts for 13% of all cancer patients. In 2012, 1,800,000 persons were newly
+      diagnosed with lung cancer. Internationally, the number of patients who died of lung cancer
+      in 2012 reached 1,600,000. Lung cancer is the most frequent cause of cancer-related death in
+      males and the second most frequent cause of cancer-related death in females. Non-small cell
+      lung cancer accounts for approximately 85% of all lung cancer lesions.
+
+      Concerning the treatment of non-small cell lung cancer, tumorectomy is performed in a stage
+      in which radical resection is possible, and cure may be achieved at a relatively high
+      probability. When radical resection is impossible, therapeutic strategies differ between
+      patients with locally advanced cancer and those with remote metastasis. Standard treatment
+      for stage III (locally advanced stage in which radical resection is impossible) non-small
+      cell lung cancer is chemoradiotherapy (CRT). In some patients, radical cure may be achieved,
+      but severe irreversible toxicities, such as treatment-associated death, pneumonia, and
+      esophageal stenosis, may appear. In two phase III clinical studies regarding CRT for stage
+      III lung cancer in which radical resection is impossible in Japan (WJTOG0105 and Osaka Lung
+      Cancer Study Group 0007 studies), treatment-associated death and grade ≥3 pneumonia were
+      observed in 3/4% and 2/10%, respectively. A recent phase II comparative clinical study in
+      Japan (WJOG5008L study) compared CDDP + S-1 therapy with CDDP + vinorelbine therapy, and
+      indicated that the treatment-associated mortality rates and incidences of grade ≥3 pneumonia
+      were7.4/9.3% and 9.3/7.4%, respectively.
+
+      The rate at which radical cure was achieved by CRT was estimated to be approximately 20%
+      based on the results of previous phase III clinical studies. In these studies, the PFS curve
+      after CRT reached a plateau after 2 years. Briefly, if there is no relapse >2 years after
+      treatment, the possibility of relapse-free survival may be high. This suggests that the
+      2-year PFS rate, which is also adopted as a primary endpoint in this study, is a surrogate
+      marker of overall survival (OS).
+
+      Recently, the results of CRT in stage III patients in whom radical resection is impossible
+      have not markedly improved, but it was demonstrated that additional immunotherapy after CRT
+      prolonged the prognosis. A phase III comparative clinical study published in 2017 (PACIFIC
+      study) indicated that the additional administration of a PD-L1 antibody, Durvalumab, to
+      patients after CRT in stage III, in which radical resection is impossible, for 1 year
+      prolonged the PFS (median: 16.8 vs. 5.6 months, respectively; HR 0.52; p<0.0001) and OS
+      (median: not reached vs. 28.7 months, respectively; HR 0.68; p=0.0025) in comparison with a
+      placebo. Based on the results of the study, 1-year Durvalumab administration following CRT
+      was established as standard treatment for stage III cancer, which is impossible to treat by
+      radical resection.
+
+      However, in the above study, randomization was performed after CRT, and the subjects did not
+      include those with PD during CRT, those with grade ≥2 pneumonia, those with a reduction in
+      the performance status (PS), those in whom CRT could not be completed, or those in whom
+      Durvalumab could not be introduced within 42 days after CRT; Durvalumab should be
+      additionally administered to patients who completed CRT, but it is difficult to notice
+      treatment options before CRT. Furthermore, the results of the PACIFIC study may have been
+      obtained, excluding these patients with poor prognoses.
+
+      In patients with PD-L1 ≥50% stage IV non-small cell lung cancer, the marked therapeutic
+      effects of monotherapy with Pembrolizumab have been reported. In a phase III comparative
+      study (Keynote-024), monotherapy with Pembrolizumab significantly prolonged the PFS (median:
+      10.7 vs. 6.7 months, respectively; HR 0.50; p<0.001) and OS (median: non-reached vs.
+      non-reached, respectively; HR 0.60; p=0.005) in comparison with combination therapy with a
+      platinum preparation, as primary treatment, in patients with PD-L1 ≥50% stage IV non-small
+      cell lung cancer. Based on the results of the study, monotherapy with Pembrolizumab was
+      established as primary standard treatment for PD-L1 ≥50% stage IV non-small cell lung cancer.
+      In addition, a strategy to combine immunotherapy with chemotherapy was examined. A phase II
+      comparative study involving patients with stage IV non-squamous, non-small cell lung cancer
+      (Keynote-021 cohort G) showed that CBDCA + PEM + Pembrolizumab therapy prolonged the PFS
+      (median: 19.0 vs. 8.9 months, respectively; HR 0.54; p=0.0067) and OS (median: non-reached
+      vs. 20.9 months, respectively; HR 0.59; p=0.03) in comparison with CBDCA + PEM therapy.
+      Interestingly, a population in which a plateau was reached after ≥24 months accounted for
+      approximately 45% regardless of PD-L1. Furthermore, 16 of 20 PD-L1 ≥50% patients responded to
+      treatment, with a response rate of 80%. Grades 3-5 adverse events occurred in 39.0% of the
+      patients. There was a treatment-associated death (1.7%). To confirm the data, a phase III
+      comparative study (Keynote-189) was conducted, supporting the efficacy of CBDCA + PEM +
+      Pembrolizumab therapy. In the study, the response rate (61.4 vs. 22.9%, respectively), PFS
+      (HR 0.36), and OS (HR 0.42) were significantly higher/longer in the 3-drug combination group
+      (involving immunotherapy) among PD-L1 ≥50% patients. As the observation period was
+      insufficient, it is difficult to evaluate the 2-year PFS and OS rates in the PD-L1 ≥50%
+      patients, but the PFS and OS rates at 18 months were estimated to be approximately 40 and
+      70%, respectively, based on the survival curves. Concerning adverse events, the incidence of
+      grade ≥3 toxicities and treatment-associated mortality rate in the 3-drug combination group
+      were 67.2 and 6.7%, respectively, being slightly high. However, in the placebo group, the
+      percentages were 65.8 and 5.9%, respectively; there were no differences. Furthermore, a phase
+      III randomized controlled study of initial treatment for stage IV squamous cell carcinoma of
+      the lung (Keynote-407) demonstrated the additive effects of pembrolizumab on combination
+      therapy with a platinum preparation (CBDCA + nab-PTX). This therapy improved the response
+      rate (58.4 vs. 38.0%, respectively), PFS (median: 6.4 vs. 4.8 months, respectively; HR 0.56;
+      p<0.001), and OS (median: 15.9 vs. 11.3 months, respectively; HR 0.64; p=0.008). As the
+      observation period was insufficient, it is difficult to evaluate the 2-year PFS and OS rates.
+      However, the PFS and OS rates at 15 months were estimated to be approximately 30 and 50%,
+      respectively, based on the survival curves. The hazard ratios (HRs) of PFS and OS in PD-L1
+      ≥50% patients were 0.37 and 0.64, respectively. Furthermore, there was no difference in the
+      incidence of serious adverse events (grade ≥3) (69.8 vs. 68.2%, respectively). These data
+      suggest the potent therapeutic effects of chemotherapy + Pembrolizumab in both PD-L1 ≥50%
+      non-squamous and squamous cell carcinoma patients.
+
+      With respect to the effects of immunotherapy in an earlier stage, the efficacy of nivolumab
+      as stage II/III preoperative therapy was reported. According to this report, nivolumab
+      administered twice before surgery led to a major pathologic response (MPR rate: the rate of
+      viable cells, <10%) in 9 (43%) of 21 patients. A higher MPR rate may be achieved by
+      preoperative chemotherapy + immunotherapy. According to a report from the American Society of
+      Clinical Oncology in 2018, the MPR rate after CBDCA + nab-PTX + Atezolizumab therapy (n=14),
+      as stage II/III preoperative treatment, was 50%. In addition, at a meeting held by the World
+      Conference on Lung Cancer in 2018, it was reported that pathological complete remission was
+      achieved in 18 (60%) of 30 surgically treated patients after CBDCA + PTX + nivolumab therapy,
+      and that an MPR was achieved in 6 (20%); the MPR rate was 80%. These data also suggest that
+      immunotherapy is more effective in an earlier stage, and that the combination of chemotherapy
+      and immunotherapy is much more effective. Considering that a durable response is achieved in
+      most patients with complete or partial remission among stage IV patients, a durable response
+      may be achieved at a high probability in stage III patients with an MPR after chemotherapy +
+      immunotherapy. Furthermore, a study indicated that, among stage IV patients, PD-1 antibody
+      therapy was more effective in those with a smaller tumor volume. In stage III patients, there
+      is no remote metastasis, and the tumor volume may be smaller than in stage IV patients.
+      Therefore, considering a high MPR rate after stage II/III preoperative therapy and a more
+      favorable patient status with a small tumor volume and a small number of metastatic organs in
+      stage III patients, chemotherapy + immunotherapy may be more effective than chemotherapy +
+      Pembrolizumab in stage IV patients.
+
+      Based on the above background, we hypothesized that Pembrolizumab + chemotherapy might
+      exhibit sufficient therapeutic effects similar to those of CRT in the absence of radiotherapy
+      if PD-L1 is ≥50% in patients with non-resectable stage III non-small cell lung cancer.
+      Furthermore, the toxicity of CRT can be avoided, and there may be a marked improvement in
+      tolerability. Therefore, we designed a phase II, multicenter, cooperative, single-group,
+      physician-guided trial of combination chemotherapy with Pembrolizumab and a platinum
+      preparation in the absence of radiotherapy involving PD-L1 ≥50% stage III locally advanced
+      non-small cell lung cancer.
+    
+  

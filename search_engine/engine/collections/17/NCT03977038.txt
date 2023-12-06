@@ -1,0 +1,127 @@
+
+    
+      Repetitive transcranial magnetic stimulation (rTMS) is prescribed as first-line treatment for
+      patients with Major Depressive Disorder. rTMS is safe, tolerable and non-invasive
+      neurostimulation procedure. rTMS is characterized by an advantage in comparison to
+      traditional pharmacotherapy in the sense that it exerts higher spatial precision in
+      anatomical targeting of the specifically intended brain region compared to medications. The
+      brain region of interest targeted with deep TMS in this study is the left-dorsolateral
+      prefrontal cortex (L-DLPFC) which has been implicated in pathophysiology of depression.
+
+      Emotionally-laden functions within the brain are classified as "hot cognition" and
+      contrastingly, affective-neutral areas regulating domains such as concentration, attention,
+      learning and memory and executive function correspond to the characterization of "cold
+      cognition" system. Both ''hot'' (emotion-laden) and ''cold'' (emotion-independent) cognition
+      are known to take a role in the pathophysiology of MDD.
+
+      It is known that individuals suffering from depression experience impairments in hot
+      cognition and as a result dedicate excessive focus to negative information, thereby producing
+      negativity bias. A dysfunctional cold cognition system in depression also persists due to
+      hypoactivity and abnormal functional connectivity of its underlying networks. The potential
+      effects of rTMS on hot and cold cognition are currently uncertain. This study seeks to
+      simultaneously evaluate hot and cold cognitive processes in response to deep TMS in order to
+      elucidate the underlying cognitive mechanisms involved. More specifically, the investigators
+      seek to explore the interaction between the two in terms of the time course and magnitude of
+      the improvements in each system in response to TMS, and their relationship to mood
+      improvement.
+
+      Methodology The subjects in the TRD group will undergo High Frequency deep TMS (HF-dTMS)
+      stimulation over L-DLPFC, at the frequency of 18Hz, at 120% motor threshold value, for 5
+      daily sessions per week, over the course of 6 weeks. After the completion of treatment course
+      at the conclusion of the 6 week mark, one post-treatment follow-up visit will take place at 1
+      month in order to assess any longer-term effects on cognition and depressive symptoms.
+
+        -  Visual scanning The visual scanning test will consist of the presentation of 81 slides:
+           32 test slides (consisting of emotional images taken from Karolinska Directed Emotional
+           Faces (KDEF) standardized library of facial expressions as well as a set of images with
+           suicidal valence) and 49 filler slides. Each of the test and filler slides will contain
+           four images at each of the four quadrants of the slide. The subjects' visual scanning
+           behavior of the test slides will be analyzed while the scanning behavior of the filler
+           slides will not be analyzed. Filler slides will change from session to session while the
+           images on the test slides will remain the same. The position as well as the order of
+           presentation of the four images on each test slide will randomly change between
+           sessions. By using a large number of filler slides (different filler slides for each
+           session), a randomized order for the presentation of the test slides and a randomized
+           order for the position of the four images on each test slide, the investigators are
+           aiming to minimize the possibility that patients' scanning behavior will be affected by
+           recall from previous presentations. Each slide will be presented for 11 seconds for a
+           total presentation time of 15 minutes.
+
+        -  CANTAB measures For measuring the domains of cold cognition, the CANTAB measure which is
+           a series of cognitive tests will be utilized. This battery is comprised of tests in the
+           following cognitive domains: Attention, Executive Function, Memory and Social-Emotional
+           Cognition. For the purposes of this study, the following cognitive tests will be
+           implemented: For the domain of Attention, Motor screening task (MOT) [2 minutes] which
+           evaluates potential sensorimotor or comprehension deficits, and Rapid Visual Information
+           Processing (RVP) [7 minutes] which measures sustained attention are administered. For
+           the domain of Executive Function, One Touch Stockings of Cambridge (OTS) [10 minutes]
+           test that is built upon the foundation of "Tower of Hanoi" test and evaluates working
+           memory and spatial planning subdomains of executive function will be implemented. For
+           the domain of Memory, Verbal Recognition Memory (VRM) [10 minutes] will be used. VRM is
+           a measure of new learning and verbal memory through the ability of collecting verbal
+           information and its retrieval. For the domain of Social-Emotional Cognition, Emotion
+           Recognition Task (ERT) [6-10 minutes] will be utilized which assesses the subject's
+           ability in identification of six basic human emotions in facial expression along that
+           expression's magnitude spectrum. Overall time allocated to conducting the aforementioned
+           CANTAB measures will be approximately 40 minutes. As the subjects are engaging with
+           these tests, the eye-tracking apparatus will be set up in the meantime [15-20 minutes]
+           to enhance efficiency in time management and optimize the use of time. Following the
+           completion of CANTAB tests, the subjects will promptly begin and complete the visual
+           eye-tracking exercise [15 minutes]. Total time allocated to these measures of hot and
+           cold cognition will approximate 1 hour.
+
+        -  Bloodwork Past research indicates elevated levels of plasma inflammatory markers in
+           depressive patients compared to non-depressed individuals among which markers such as
+           tumor necrosis factor ⍺ (TNF-⍺) and interleukin-6 (IL-6) have been most reliably seen to
+           exhibit heightened concentration levels in plasma. It has also been shown that depressed
+           individuals had a higher likelihood of portraying non-response towards antidepressant
+           medication carry a higher level of inflammatory markers at baseline and follow-up than
+           those who responded to antidepressant therapy.
+
+      It has also been suggested that the number of unsuccessful antidepressant treatment trials
+      indicating resistance and non-responsiveness in treatment resistant depressed individuals is
+      associated with elevated plasma concentration of inflammatory markers of TNF-⍺ and IL-6
+      compared to responsive depressed individuals who had undergone one adequate antidepressant
+      trial successfully and those with no previous history of antidepressant treatment. As a
+      biological marker of rTMS antidepressant efficacy, bloodwork will be obtained a total of 4
+      times throughout the course of the study in order to monitor for genotype of serotonin
+      transporter polymorphism (5-HTTLPR), brain-derived neurotrophic factor (BDNF) and potential
+      alterations in present levels of the inflammatory markers of TNF-⍺ and IL-6 involved in the
+      pathophysiological inflammation profile of depression.
+
+      ● Psychiatric scales The severity of depressive symptoms in subjects will be assessed using
+      the physician-rated HDRS-17 and self-report QIDS-SR16 psychiatric scales.
+
+      Analysis Following the end of the last visit at Week 6, patients will be grouped by response
+      status: responder, and non-responder. Responder is defined as a patient with a change of 50%
+      or greater on the HDRS-17 measure from baseline (V2) to the last visit (V8).
+
+      For each stage of testing, following the start of treatment (i.e. V2 to V8), differences from
+      baseline (V2) of average visual fixation time, average fixation frequency, HDRS-17 and
+      QIDS-SR16 scores will be calculated. The primary outcome measure, i.e., the difference from
+      baseline of the average fixation time measured on different visits (V2 to V8), will be
+      analyzed using linear mixed effect model with fixed effects and a random subject effect. The
+      investigators will initially fit a mixed model with fixed effects of time and group and their
+      interaction, and random intercepts and slopes. Similar models will be built for the secondary
+      outcome variables comprising of average difference from baseline of fixation frequency,
+      HDRS-17 and QIDS-SR16 scores.
+
+      The investigators will use the group main effect and the group-time interaction to test the
+      hypothesis that changes in differences from baseline of fixation time differ between
+      responders and non-responders. The investigators expect the differences from baseline of
+      average fixation time will become more negative (decrease) in the responder group but will
+      remain unchanged in the non-responder group. It is also expected that this reduction in the
+      differences from baseline of average fixation time will precede any significant changes in
+      depressive symptom scores on measures of HDRS-17 or QIDS-SR16.
+
+      Similarly, changes in the secondary outcome measures (difference from baseline of average
+      fixation frequency, HDRS-17 and QIDS-SR16 scores) during the study course will also be
+      analyzed in order to demonstrate an expected difference between responders and
+      non-responders. The investigators expect the difference from baseline of fixation frequency
+      will increase and that HDRS-17 and QIDS-SR16 will reduce by the conclusion of this study in
+      the responder but not in the non-responder group. The investigators predict, however that any
+      change in the HDRS-17 or QIDS-SR16 scores will succeed visual scanning parameters (i.e.,
+      difference from baseline of average fixation time or average fixation frequency) and only be
+      observed at later time points.
+    
+  

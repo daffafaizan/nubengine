@@ -1,0 +1,89 @@
+
+    
+      We intend to enroll between 20-30 subjects at each of two separate institutions (University
+      of Missouri Women's and Children's Hospital and Studer Family Children's Hospital in
+      Pensacola, FL). The subjects will be premature infants <34 weeks post conceptual age (PCA)
+      requiring respiratory support. This randomized clinical trial will utilize a 24 period 2
+      treatment crossover design to show that the device performs no worse than (non-inferiority
+      trial) an NICU nurse in keeping a premature neonate's SpO2 within the prescribed range while
+      the infant is on respiratory support. Due to the nature of the study, any masking of the
+      intervention is not possible. Upon enrollment, the subjects will be randomized into
+      enrollment in two groups (A and B). The primary endpoint will be the mean time required to
+      re-establish SpO2 within the prescribed range, as measured from the time an out-of-range
+      alarm is triggered. A secondary endpoint will be proportion of time SpO2 is within the
+      prescribed range, using an area-under-the-curve approach (with a discrete state) to account
+      for varying time-on-test. These outcome measures are complementary because the former doesn't
+      account for the number of alarms, while the latter does. This is important because the oxygen
+      control device operates continuously in a proactive manner, rather than only reacting due
+      alarms, so it is doing more than mimicking the nurse -- the second measure allows us to
+      capture that.
+
+      Group A will initially have the automatic device interface with HFNC for 6 hours. The device
+      will have the target SpO2 parameters ordered by the treating physician input into the device.
+      A study laptop will interface with the device, cardiopulmonary monitor, and pulse oximeter to
+      record the data for the study. Sensors will be used to record all adjustments to the
+      device/respiratory support equipment (i.e. blend valve and flow valve used in HFNC). These
+      sensors will continuously record the data for later analysis. The device will constantly
+      evaluate data sent to it from the pulse oximeter and bedside monitor recording all of the
+      data and alarms. In response to alarms, displayed data, doctor's orders, etc., nurses will
+      continue to apply manual inputs to make adjustments to flow and provide tactile stimulus to
+      the subject but not adjust FiO2 unless manual mode is selected. Recorded sensor measurements
+      and manual inputs by the nurse will be used to refine the existing models as well as new
+      models of response in HR, RR, and SpO2 to flow adjustments and tactile stimulus.
+
+      After the first 6 hours, the device will be switched to manual mode for the subject (nurse
+      makes all adjustments for FiO2), but the laptop and sensor data logging system will continue
+      to record data from the patient and the respiratory support equipment. This will record the
+      information for the nurse intervention/baseline care part of the study, which continue for 6
+      hours. During the entire process, the bedside nurse will keep a diary of any
+      events/interventions using the time prominently displayed on the monitoring laptop. This
+      "time-stamped" diary system will allow for easier retrieval of and comparison to the data
+      from the device and monitoring laptop. Also, the monitoring laptop will have a record of all
+      the data, including alarms from the pulse oximeter as well as the bedside monitor to allow
+      for easier retrieval of data related to alarm events and interventions. The laptop will also
+      record any interventions made by the device to allow for easier retrieval of data related to
+      device interventions. The treatment will then alternate periods of each treatment for a total
+      of 6 days (24 6-hour periods).
+
+      Group B will have the exact opposite order as group A. Group B infants will initially have
+      the laptop interface with all of the monitors and sensor measurements. However, the nurse
+      intervention/baseline care stage of the study will take place for the first 6 hours. Next,
+      group B will have the device interface with their respiratory equipment, and the data will be
+      recorded as described above for the next 6 hours of the study. The the treatment will
+      alternate every 6 hours for a total of 6 days.
+
+      This design was chosen because the premature infants should have fewer events as they grow
+      older each day, and it will help take into account this potential bias. Also, the subjects
+      will be randomized to group A or B in sets of 8 (i.e. in each group of 8 envelopes, 4 will be
+      group A and 4 will be group B). During the entire study process the infants will receive
+      normal NICU care and the parameters for the SpO2 range will be set by the physician caring
+      for the infant. There are also built in manual overrides for the device which allow the NICU
+      to make changes while the subject is on the device phase of the study. The device will be
+      able to record these changes and the staff will record their manual interventions in the
+      study diary.
+
+      We have planned our sample size using a non-inferiority test for a cross-over design, based
+      on our primary endpoint, t_delta. For a given patient, define t_delta = (mean elapsed time
+      needed for device to re-establish SpO2 after alarm) - (mean elapsed time needed for nurse to
+      re-establish SpO2 after alarm). The margin of non- inferiority will be chosen as t_delta >
+      -10 sec, so that a device which is no worse than 10 sec, on average, than a nurse will be
+      considered non-inferior. Assuming the standard deviation of t_delta =12 and the true mean
+      difference is zero under the alternate hypothesis, a sample size of 48 achieves 88% with
+      alpha=0.05. If there is 16% patient drop-out before crossover, so that the final n=40, the
+      power drops to 82%. In all analysis, a (paired) t-test will be used. Our secondary endpoint
+      is secondary endpoint is the proportion of time SpO2 is within the prescribed range, using an
+      area-under-the-curve approach (with a discrete state) to account for varying time-on-test.
+      Our secondary endpoint will be analyzed in a similar manner.
+
+      We will plan for one interim analysis to determine if the trial should be stoopped early due
+      to futility (strong evidence of inferiority, where a confidence interval for t_delta lies
+      entirely to the left of -10 and doesn't intersect -10) or for efficacy (strong evidence of
+      superiority with margin > +20 sec). This will be carried out when n=32 (16 subjects per site)
+      is attained and stopping decisions will be based on O'Brien-Fleming stopping principles. The
+      interim analysis will be carried out by an independent statistician on the University of
+      Missouri's Data Safety and Monitoring Committee, which is also available to monitor the study
+      for adverse events if requested by the IRB. In the event that the patient drop-out is greater
+      than 16% before crossover, then a more complicated estimation procedure will be employed
+      using mixed effects models; otherwise, complete cases will be used.
+    
+  

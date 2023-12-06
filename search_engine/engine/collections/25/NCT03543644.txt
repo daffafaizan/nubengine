@@ -1,0 +1,205 @@
+
+    
+      BACKGROUND AND SIGNIFICANCE:
+
+      International health agencies and chronic disease associations have called for reductions in
+      free/added sugars to ≤5-10% of energy to address the growing epidemics of obesity and
+      diabetes. Attention has focused especially on the reduction of major source of free sugars,
+      sugar sweetened beverages (SSBs), of which the excess consumption has been associated with
+      weight gain, diabetes, and their downstream complications including hypertension and coronary
+      heart disease (CHD). Ontario's Healthy Kids Panel, Health Canada, the Standing Senate
+      Committee, the Heart and Stroke Foundation and Diabetes Canada have recommended policies to
+      reduce SSBs including replacement strategies, taxation, and/or bans on advertising to
+      children. A role for non-nutritive sweeteners (NNSs) in these policy options has been
+      conspicuously absent.
+
+      There is an emerging concern that NNSs may contribute to an increase in the diseases that
+      they are trying to prevent. Systematic reviews and meta-analyses of prospective cohort
+      studies have shown that NNSs are associated with increased risk of weight gain, diabetes, and
+      CHD. Although this evidence is recognized to be at high risk of reverse causality and
+      disagrees with the higher quality evidence from randomized controlled trials, several
+      biological mechanisms have been proposed, among them changes in gut microbiome. One
+      highly-influential study concluded that NNSs induce glucose intolerance through a loss of
+      diversity in microbiome. This study, however, disagreed with a subsequent study and had
+      several methodological weaknesses including the lack of a control group. Despite the
+      uncertainties, these data have contributed to a negative view of NNSs in the media.
+
+      There is an urgent need to address the ongoing concerns related to NNSs. Health Canada, in
+      particular, has indicated that studies of sugar reduction strategies that use NNSs and target
+      microbiome are an important research priority. The investigators propose to conduct a
+      CIHR-funded randomized controlled trial that assesses the effect of a 'real world' strategy
+      to reduce SSBs using non-nutritive sweetened beverages (NSBs) or water on gut microbiome,
+      glucose tolerance, and cardiometabolic risk factors in overweight or obese participants.
+
+      OBJECTIVES
+
+        1. To assess the effect of replacing SSBs with NSBs or water on the first primary outcome
+           of diversity of gut microbiome over 4-weeks in overweight or obese participants.
+
+        2. To assess the effect of replacing SSBs with NSBs or water on the second primary outcome
+           of glucose tolerance over 4-weeks in overweight or obese participants.
+
+        3. To assess the effect of replacing SSBs with NSBs or water on the secondary and
+           exploratory outcomes of body weight, blood pressure, glucose and insulin regulation,
+           blood lipids, ectopic fat, liver fat, body adiposity, and diet quality over 4-weeks in
+           overweight or obese participants
+
+      PARTICIPANTS:
+
+      Participants will be recruited from a population of healthy, adult men and non-pregnant women
+      who are overweight or obese (BMI > 23 kg/m2 for Asian individuals and > 25 kg/m2 other
+      individuals) who currently report drinking SSBs regularly (≥ 1 serving daily). 75
+      participants will be recruited for the study. Of the 75 participants, 30 of them will be
+      asked to consent to have an MRI taken to measure their liver and muscle adiposity.
+
+      DESIGN:
+
+      The trial is a four-week single-centre, open-label, randomized controlled cross-over trial
+      with three arms (SSB, NSB, water) comparing the effect of replacing SSBs with NSBs or water
+      on the gut microbiome. Each participant will act as their own control receiving the
+      interventions for four weeks in random order, with intervention phases separated by four-week
+      wash-out phases.
+
+      POWER CALCULATION:
+
+      The study will be performed in a total of 75 participants. It is powered to show a difference
+      between the water, NSB, and SSB arms in 60 participants in the two primary outcomes. Assuming
+      a drop-out rate of 20 percent, we would need 75 participants in order to have to power to
+      detect a difference.
+
+      The first primary outcome is in beta diversity of the gut microbiome communities of the
+      participants between water and NSB groups via 16S ribosomal rRNA gene sequencing. The
+      investigators used the micropower R package to compute sample size based upon the power of
+      16S tag sequencing that can be analyzed using pairwise weighted UniFrac distances. UniFrac is
+      a distance metric based upon the unique fraction of branch length in a phylogenetic tree
+      built from two sets of taxa. Comparison of microbiome samples is performed via weighted
+      UniFrac, which considers the relative abundance of taxa. The investigators simulated the
+      within-group distance as 0.2, and the standard deviation (SD) of within-group distances as
+      0.07. To detect a weighted UniFrac distance of 0.04, which is smaller than the effect
+      observed in a studies of Suez et al. (0.05 derived from figure 5), and considering it is a
+      cross-over study with a within-person correlation of 0.7, and taking into account multiple
+      arms the investigators calculated that for above 95 percent power the investigators would
+      need 60 participants in this study. Assuming a loss of 20 percent, the investigators will
+      recruit 75 participants. The investigators are confident about detecting an alteration in gut
+      microbiome diversity if it exists as previous studies show that small changes in diet causes
+      significant alteration in gut microbiome taxa over a much shorter period (5 to 7 days) in
+      fewer individuals (10 to 25 people).
+
+      The second primary outcome is glucose tolerance, as measured by incremental Area Under the
+      Curve (iAUC) from a 2-hour 75g OGTT. With 60 participants the investigators will have 89
+      percent power (assuming absolute numbers for mean and SD from the investigators recent
+      unpublished randomized trial) to detect a 20% change in mean iAUC between the water and NSB
+      group if the direction of change is similar to Suez et al. while assuming a within-person
+      correlation of 0.7 and taking into account the three comparisons. The 20% difference for
+      glucose iAUC is based on the minimally important difference proposed by Health Canada to
+      support postprandial blood glucose response reduction claims.
+
+      This power calculation takes into account adjustment for multiple testing for both primary
+      outcomes using the Benjamini-Hochberg procedure, which is a suggested method by the Food and
+      Drug Administration in its "Multiple Endpoints in Clinical Trials Guidance for Industry"
+      (https://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm536
+      750.pdf). Benjamini-Hochberg procedure is a step-down method that controls for false
+      discovery rate, while maintaining high power. The investigators will implement a truncated
+      Benjamini-Hochberg method with parallel gatekeeping in which some portion of the unused alpha
+      from each step is reserved for passing to the secondary outcome family if any of the primary
+      outcome is significant. The alpha levels calculated for the primary outcomes is given in
+      table 2. The study is also powered to show a difference between the three arms for secondary
+      outcomes with an α=0.0125, the lowest possible starting α for secondary outcomes based upon
+      the truncated Benjamini-Hochberg procedure.
+
+      Sub-study: 1H-MRS will be performed in 30 subjects to assess intrahepatic and intramuscular
+      fat. The investigators will have 99% power to show a difference in liver fat of 5% between
+      the water and NSB arm for both hepatic and muscle fat assuming a between group SD of 4%, with
+      a correlation of 0.65 and alpha of 0.05.
+
+      RECRUITMENT:
+
+      Using the Research Electronic Data Capture (REDCap) program, the Applied Health Research
+      Centre (AHRC) will perform the randomization with no stratification. Following successful
+      completion of the run-in phase and following measurements taken at the first study visit,
+      participants will be randomized into groups, of a possible six, using a blocked (Latin
+      squares) randomization. These groups will be sequences representing SSB, NSB and water
+      groups. The Latin square sequences will be randomly allocated to participants with a similar
+      number of participants allocated to each treatment sequence. The randomization schedule is
+      also created by AHRC through REDCap. The participants will only be randomized and given their
+      study drinks once all measures from the first study visit are collected.
+
+      INTERVENTIONS:
+
+      There will be three interventions: Participants will be provided with the SSB of their choice
+      (355 ml, 140kcal, 39g sugars per can), equivalent NSB (355 ml, 0kcal, 0g sugars per can), or
+      water (355 ml, 0kcal, 0g sugars per can or bottle of still or carbonated water) to replace
+      the amount of SSBs they usually consume (≥1serving/day) as determined in the run-in phase.
+      All intervention beverages will be provided to each participant. They will be instructed to
+      replace their usual SSBs with the study beverages while freely consuming their usual
+      background diets. The calories of the intervention groups will not be matched to allow for
+      "real-world" substitutions using products available on the market. They will pick up one week
+      of their beverage assignment at the first visit of each phase and then will have the
+      remaining three weeks of beverages delivered using an online grocery delivery service. The
+      participants will receive relevant drinks during the intervention phase based on their group
+      assignment. They will revert to their usual SSB intake during wash-out phase during which
+      they will not receive any beverages from the study.
+
+      STATISTICAL ANALYSIS:
+
+      Data will be analyzed according to an intention to treat (ITT) principle using mixed models
+      in STATA 14 (StataCorp, Texas, USA). Sensitivity analysis will be performed on the basis of
+      complete data availability for primary endpoints. A separate sensitivity analysis will be
+      performed on the basis of antibiotic use during the trial.
+
+        -  Primary outcomes. Repeated measures mixed effect models will be used to assess changes
+           in the two primary outcomes i) beta diversity and ii) glucose iAUC between the groups.
+           Pairwise comparisons between interventions will be performed using Tukey-Kramer
+           adjustment or other appropriate statistics. For all primary outcomes effect modification
+           by sex will be explored. The investigators will use the truncated Benjamini-Hochberg
+           false discovery rate controlling method with parallel gatekeeping procedure to correct
+           for multiple comparisons for all primary outcomes.
+
+        -  Secondary outcomes. Repeated measures mixed effect models be used to assess changes in
+           weight, waist circumference, fasting glucose, 2hr plasma glucose, and MATSUDA. Pairwise
+           comparisons between interventions will be performed using Tukey-Kramer adjustment or
+           other appropriate statistics. For all secondary outcomes effect modification by sex will
+           be explored. The investigators will use the truncated Benjamini-Hochberg false discovery
+           rate controlling method with parallel gatekeeping procedure to correct for multiple
+           comparisons for all secondary outcome comparisons if at least one primary outcome
+           reaches significance. If none of the primary outcomes reach significance, the secondary
+           outcomes will be analyzed as exploratory variables with no adjustment for false
+           discovery rate.
+
+        -  Exploratory and adherence outcomes. Repeated measures mixed effect models will be used
+           to assess changes in all exploratory outcomes without controlling for false discovery
+           rate. Pairwise comparisons between interventions will be performed using Tukey-Kramer
+           adjustment or other appropriate statistics. Effect modification by sex will be explored.
+
+      OUTCOMES:
+
+        -  The two primary outcomes are change in gut microbiome beta diversity, measured by 16S
+           rRNA gene sequencing, and plasma glucose iAUC, measured by OGTT.
+
+        -  Secondary outcomes are change in waist circumference, body weight, fasting plasma
+           glucose, 2h plasma glucose [2h-PG], and the Matsuda whole body insulin sensitivity index
+           [Matsuda ISIOGTT].
+
+        -  Exploratory outcomes (specified below as "Other Pre-specified Outcome Measures")
+           represent a comprehensive but non-exhaustive list of potential outcomes to be assessed
+           which will be conducted on an ad hoc basis depending on the availability of funding.
+           These include change in ectopic fat (an early metabolic lesion) in liver
+           (intra-hepatocellular lipid [IHCL]) and calf muscles (intra-myocellular lipid [IMCL]) by
+           1H-MRS; fasting plasma insulin; 75g OGTT derived indices (iAUC plasma insulin, maximum
+           concentrations (Cmax) and time to maximum concentrations (Tmax) of plasma glucose and
+           insulin, and mean incremental plasma glucose and insulin); homeostatic model assessment
+           of insulin resistance (HOMA IR); the insulin secretion-sensitivity index-2 [ISSI-2]);
+           fasting blood lipid profile; satiety, hunger, and food cravings (using the Control of
+           Eating Questionnaire); diet quality (by analysis of the 3DDRs); and cardiometabolic risk
+           (systolic and diastolic blood pressure, lipid profile (LDL, HDL, non-HDL cholesterol,
+           total cholesterol), CRP, urinary sodium, liver function/injury (ALT, AST, ALP, TBIL),
+           and kidney function/injury (albumin-to-creatinine ratio [ACR], creatinine, eGFR)),
+           metabolomics, and proteomics.
+
+        -  Adherence outcomes will be based on participant beverage logs, returned beverage
+           containers, and objective biomarkers of SSBs (increased 13C/12C ratios in serum fatty
+           acids, increased urinary fructose), water (decreased 13C/12C ratios in serum fatty
+           acids, decreased urinary fructose), and NSBs (increased urinary acesulfame potassium,
+           sucralose) intake.
+    
+  

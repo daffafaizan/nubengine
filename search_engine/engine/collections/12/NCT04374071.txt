@@ -1,0 +1,58 @@
+
+    
+      Consecutive patients hospitalized between March 12, 2020 through March 27, 2020 are eligible
+      for inclusion if they were 18 years of age or older, had confirmed COVID-19 infection, with
+      radiographic evidence of bilateral pulmonary infiltrates, and required oxygen by nasal
+      cannula, high-flow nasal cannula (HFNC), or mechanical ventilation. Patients are excluded if
+      they were transferred from an out-of-system hospital, died within 24 hours of presentation to
+      the ED, or were admitted for less than 24 hours. A confirmed case of COVID-19 was defined as
+      a patient that had a positive reverse-transcriptase-polymerase- chain-reaction (RT-PCR) assay
+      for SARS-CoV-2 in a nasopharyngeal sample.
+
+      Patients are risk stratified by severity of symptoms on presentation to the hospital as mild,
+      moderate, or severe COVID-19. Patients without hypoxia or exertional dyspnea were considered
+      to have mild COVID-19. Patients with mild COVID-19 were treated with symptom relief only and
+      not admitted to the hospital. Patients who presented with infiltrates on chest radiography
+      and required supplemental oxygen by nasal cannula or HFNC were classified as having moderate
+      COVID-19. Patients who had respiratory failure requiring mechanical ventilation were
+      classified as having severe COVID-19.
+
+      This is a multi-center quasi-experimental study at HFHS, comprised of five hospitals in
+      southeast and south-central Michigan. The study was approved by the institution's
+      Investigational Review Board (#13739) with waiver of consent. Patients in the
+      pre-corticosteroid protocol group from March 12, 2020 through March 19, 2020 were compared to
+      a corticosteroid protocol group that included patients from March 20, 2020 through March 27,
+      2020.
+
+      Patients in both study groups received standard care, comprised of supplemental oxygen, HFNC,
+      invasive ventilation, antibiotic agents, antiviral agents, vasopressor support, and
+      renal-replacement therapy, as determined by the primary team. Patients who progressed to ARDS
+      were managed with standard of care.
+
+      Data was ascertained from each institution's electronic medical record and recorded in a
+      standardized electronic case report form. Demographic data, information on clinical symptoms
+      or signs at presentation, and laboratory and radiologic results during admission. All
+      laboratory tests and radiologic assessments, including plain chest radiography and computed
+      tomography of the chest, were performed at the discretion of the treating physician.
+
+      Coexisting conditions were ascertained from electronic medical record and physician
+      documentation. The National Early Warning Score (NEWS) was collected to evaluate baseline
+      illness severity based on vital signs obtained in the Emergency Department. Additionally, the
+      quick Sequential Organ Failure Assessment (qSOFA) was used to evaluate severity of illness of
+      included patients based on ED vitals and examination. All patients were followed for at least
+      14 days after initial presentation. Patient data was censored on April 9, 2020.
+
+      Statistical Analysis: Continuous variables were reported as median and interquartile range
+      (IQR) and compared using the Mann-Whitney test or t-test, as appropriate. Categorical data
+      was reported as number and percentage (no., %) and compared using the chi-squared test or
+      Fisher's exact test, as appropriate. No imputation was made for missing data points. The
+      sample size was derived from all eligible consecutive hospitalized patients during the study
+      period. A two-sided α < 0.05 was considered statistically significant. Bivariate and
+      multivariable logistic regression analysis was planned a-priori to test the association
+      between the composite endpoint and exposure to the corticosteroid protocol. Covariates in the
+      bivariate analysis with a p-value <0.2 and clinical rationale were included in a
+      multivariable regression model that was restricted to a subject-to-variable ratio of 10:1.
+      Statistical analysis was performed using IBM SPSS version 25 (Chicago, IL) and SAS 9.4 (Cary,
+      NC).
+    
+  

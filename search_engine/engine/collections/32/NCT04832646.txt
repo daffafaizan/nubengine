@@ -1,0 +1,56 @@
+
+    
+      Background:
+
+      Atrial fibrillation (AF) is the most common arrhythmia, with an estimated prevalence in 2010
+      of 33.5 million people (3% of the world population). It is now estimated that 1 in 4
+      middle-aged adults in Europe and the United States will develop AF in their lifetime. Of
+      course, the aging of the population is considered one of the major explanations for this
+      pandemic phenomenon, as well as the ever-increasing prevalence of overweight and obesity.
+      Complications related to this arrhythmia are numerous and frequent, with thromboembolic
+      events having a major impact on morbidity. Thus, it is estimated that AF is responsible for a
+      quarter of ischemic strokes and increases the risk of stroke fivefold. At the same time,
+      there is an increased risk of long-term heart failure, which is responsible for excess
+      mortality. Finally, patients with AF frequently have an impaired quality of life and a higher
+      rate of hospitalization than patients in sinus rhythm (10 to 40% of patients with AF are
+      hospitalized at least once a year). An association between AF and cognitive decline and risk
+      of vascular dementia (even in patients treated with anticoagulants) has also been described.
+      Depending on the temporality of AF, it is referred to as paroxysmal, persistent, or permanent
+      AF.
+
+      Endocavitary ablation for the treatment of atrial fibrillation was first described by the
+      Bordeaux team of Prof. Michel Haïssaguerre in the early 1990s, who demonstrated the role of
+      electrical discharges from the pulmonary veins in the initiation of (paroxysmal) AF. The
+      following years therefore saw the development of tools to electrically isolate the pulmonary
+      veins from the left atrium, and then to try to identify and treat additional pathological
+      areas in the atria for more advanced (persistent) forms of AF. The advent of
+      three-dimensional modeling technologies has made it possible to develop intracardiac
+      navigation systems to guide AF ablation in 3D, while limiting fluoroscopy time for the
+      patient and staff.
+
+      In persistent AF, unlike paroxysmal AF, the technique used and the ablation targets are less
+      codified, with success rates lower than those obtained in paroxysmal AF. Indeed, unlike
+      paroxysmal AF, the pathophysiology of which is well understood, there is no unicist consensus
+      theory for persistent AF. Based on the hypothesis of the predominance of the substrate over
+      the pulmonary venous trigger in the self-maintenance of persistent AF, teams have highlighted
+      the major role of left atrial fibrosis in this pathology, which is the cause of conduction
+      heterogeneity in the left atrium. Work to elucidate the triggers of this fibrotic disease
+      emphasizes the key role of periatrial epicardial fat, which secretes pro-fibrotic mediators
+      and deregulates the atrial ganglionic plexi. An association has also been made between
+      epicardial fat volume and the incidence and maintenance of atrial fibrillation. In addition,
+      recent work demonstrates that the peri-atrial adipocyte environment modulates not only
+      fibrosis but also the conductive properties of atrial cells.
+
+      During endocavitary ablation of atrial fibrillation, multi-electrode diagnostic catheters
+      allow precise electroanatomical reconstruction of the left atrium, quantifying its geometry
+      but also the local electrical signals (electrograms), in terms of amplitude (voltage map) and
+      temporality relative to a reference (activation map). It is therefore theoretically possible
+      to build a map of conduction velocities in sinus rhythm or electroentrainment in the atrium,
+      by calculating the velocity and vector of electrical depolarization between each electrogram.
+      In parallel, before any AF ablation, an injected cardiac CT scan is performed for
+      three-dimensional atrial reconstruction. This scan also allows the quantification of the
+      atrial epicardial fat in terms of volume and density. We therefore want to develop an
+      algorithm allowing the construction of a map of velocities in sinus rhythm, fused to the
+      three-dimensional reconstruction of the location of the atrial epicardial fat.
+    
+  

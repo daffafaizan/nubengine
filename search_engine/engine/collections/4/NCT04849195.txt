@@ -1,0 +1,21 @@
+
+    
+      ICD coding is quite important as it serves as basis for a wide range of economic and academic
+      applications. Currently, manual coding is mainly adopted, which faces several limits like
+      being time-consuming and prone to error, and this makes automated ICD coding via machine
+      learning a hot research topic.
+
+      As an inevitable phase during machine learning, feature engineering plays a crucially
+      important role in leading to promising coding performance. Although have reached enlightening
+      conclusions, existing studies lacked comparison of different feature engineering methods.
+      Finding out what methods under what circumstances perform better can be quite helpful in
+      promoting practical applications of automated coding.
+
+      The investigators will implement this study based on inpatient' data collected from
+      electronic medical records from Fuwai Hospital, the world's largest medical center for
+      cardiovascular disease. Bag-of-words, word2cec and roberta will be respectively used to
+      extracted features from training data. Then code-wise logistic regression classifiers and
+      support vector machine classifiers will be trained to auto-assign codes. Afterwards,
+      performances of the models on test data will be evaluated.
+    
+  

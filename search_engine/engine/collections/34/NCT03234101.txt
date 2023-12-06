@@ -1,0 +1,136 @@
+
+    
+      Rationale:
+
+      International health authorities universally recommend adherence to low-risk lifestyle
+      behaviors for health promotion and prevention of chronic or non-communicable diseases (NCDs).
+      Systematic reviews and meta-analyses of prospective cohort studies have shown that adherence
+      to any one low-risk lifestyle behavior, including a healthy body weight, healthy diet,
+      regular physical activity, smoking cessation, moderate alcohol intake, or adequate sleep, is
+      associated with less risk of chronic disease. Although individual prospective cohort studies
+      have shown that adherence to a combination of these low-risk lifestyle behaviors is
+      associated with an even greater benefit, there are no systematic reviews and meta-analyses
+      assessing whether it holds across different definitions of low-risk lifestyle behaviors,
+      levels of exposure, populations, geographical regions, background risks, and chronic disease
+      outcomes. To inform recommendations for the role of low-risk lifestyle behaviors in chronic
+      disease prevention, the Canadian Cardiovascular Society (CCS), as part of the Dyslipidemia
+      Guidelines Update, commissioned a series of systematic reviews and meta-analyses using the
+      Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach of the
+      association between adherence to a combination of low-risk lifestyle behaviors and (1)
+      cardiovascular disease (CVD), (2) diabetes, (3) cancer, and (4) all-cause mortality outcomes.
+
+      Objectives:
+
+        1. To conduct a series of systematic reviews and meta-analyses of the association between
+           adherene to a combination of low-risk lifestyle behaviors and 4 chronic disease outcomes
+           (1) cardiovascular disease (cardiovascular disease (CVD) incidence and mortality,
+           coronary heart disease [CHD] incidence and mortality, and stroke incidence and
+           mortality), (2) diabetes, (3) cancer (cancer incidence and cancer mortality), and (4)
+           all-cause mortality.
+
+        2. To assess the quality and strength of the evidence using GRADE.
+
+      Design:
+
+      The planning and conduct of the proposed systematic reviews and meta-analyses will follow the
+      Cochrane handbook for systematic reviews of interventions. The reporting will follow the
+      Meta-Analysis Of Observational Studies in Epidemiology (MOOSE) and the Preferred Reporting
+      Items for Systematic Reviews and Meta-Analyses (PRISMA) statements.
+
+      Data sources:
+
+      MEDLINE, EMBASE, and The Cochrane Central Register of Controlled Trials (Clinical Trials;
+      CENTRAL) will be searched using appropriate search terms. These searches will be supplemented
+      by manual hand searches of the bibliographies of included studies and existing review
+      articles.
+
+      Study selection:
+
+      Prospective cohort studies investigating the relation of at-least three low-risk lifestyle
+      behaviors, one of which must include a healthy diet, with incident cardiovascular disease,
+      diabetes, cancer or all-cause mortality will be included. Studies will be excluded if
+      low-risk lifestyle behaviors are combined with biomarkers.
+
+      Data extraction:
+
+      Two independent reviewers or more will independently extract relevant information about study
+      design, sample size, subject characteristics, low risk lifestyle behaviors,
+      duration/person-years of follow-up, adjustments of models. Risk ratios for clinical outcomes
+      will be extracted or derived from clinical event data across quantiles of exposure.
+
+      Risk of bias:
+
+      Two independent reviewers or more will assess risk of bias of (ROB) of each of the included
+      prospective cohort studies using the Newcastle-Ottawa Scale (NOS) by . Up to 9 points can be
+      awarded based on cohort selection (max 4 points), the comparability of cohort design and
+      analysis (max 4 points), and adequacy of the outcome measures (max 3 points). Studies that
+      receive ≥6 points will be considered as higher quality.
+
+      Outcomes:
+
+      Each of the four proposed systematic reviews and meta-analyses will assess a different
+      chronic disease outcome: cardiovascular disease (CVD incidence and mortality, CHD incidence
+      and mortality, and stroke incidence and mortality), (2) diabetes, (3) cancer (cancer and
+      cancer mortality), and (4) all-cause mortality.
+
+      Data synthesis:
+
+      Risk estimates of extreme comparisons (all who adhered to low-risk behaviors versus none)
+      will be pooled using inverse variance random effects models and expressed as risk ratios (RR)
+      with 95% confidence intervals (CIs). Between-cohort heterogeneity will be assessed by the
+      Cochran Q (chi-square) statistic and quantified by the I2 statistic. The significance level
+      will be set at p<0.10 and an I2 ≥ 50% will be considered evidence of substantial
+      heterogeneity. To explore sources of heterogeneity, the investigators will conduct
+      sensitivity analyses, in which each study is systematically removed with recalculation of the
+      summary estimates. If there are >=10 studies, then the investigators will also explore
+      sources of heterogeneity using a priori subgroup analyses by underlying disease status, sex,
+      number of lifestyle factors, follow-up (<10 years, ≥10 years), level of adjustment of models,
+      NOS, ascertainment of outcome, and individual domains of NOS Meta-regression analyses will
+      assess the significance of categorical and continuous subgroups analyses. Dose-response
+      analyses will be undertaken using random-effects generalized least squares trend estimation
+      models (GLST) to assess linear relationships and spline curve modeling (the MKSPLINE
+      procedure) to assess non-linear relationships. If ≥10 cohort comparisons are available, then
+      publication bias will be assessed by visual inspection of funnel plots and formally tested
+      with the Egger and Begg tests at a significance level of p≤ 0.10. If publication bias is
+      suspected, then the investigators will attempt to adjust for funnel plot asymmetry by
+      imputing the missing study data using the Duval and Tweedie trim and fill method.
+
+      Quality of evidence:
+
+      Evidence profiles will be produced the overall strength and quality of the evidence will be
+      assessed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE)
+      system. This system grades the evidence as "high quality", "moderate quality", "low quality",
+      or "very low quality". The included prospective cohort studies will start at "low quality" by
+      default and then be downgraded or upgraded based on pre-specified criteria. Criteria to
+      downgrade will include study limitations (weight of studies show risk of bias by NOS),
+      inconsistency (substantial unexplained inter-study heterogeneity, I2>50% and P<0.10),
+      indirectness (presence of factors relating to the population, exposures, and outcomes that
+      limit generalizability), imprecision (95% CI are wide or cross a minimally important
+      difference of 10% [RR 0.9- 1.1]), and publication bias (significant evidence of small-study
+      effects). Criteria to upgrade will include a large magnitude effect (RR>2 or RR<0.5 in the
+      absence of plausible confounders), a dose-response gradient, and attenuation by plausible
+      confounding effects.
+
+      Knowledge translation plan:
+
+      The results will be disseminated through interactive presentations at local, national, and
+      international scientific meetings and publication in high impact factor journals. Target
+      audiences will include the public health and scientific communities with interest in
+      nutrition, physical activity, lifestyle modification, diabetes, cancer and cardiovascular
+      disease. Feedback will be incorporated and used to improve the public health message and key
+      areas for future research will be defined.
+
+      Significance:
+
+      The proposed project will aid in knowledge translation related to the effects of low-risk
+      lifestyle behaviours on cardiovascular disease, diabetes, cancer, and all-cause mortality,
+      strengthening the evidence-base for recommendations and improving health outcomes through
+      informing consumers and public health policy makers, stimulating industry innovation, and
+      guiding future research.
+
+      Role of the funding sources:
+
+      The funding source will have no role in the research question, design, analysis, results and
+      interpretation of the results of this study.
+    
+  

@@ -1,0 +1,32 @@
+
+    
+      The study included all consecutive adult patients who consulted for trauma to the
+      extremities, i.e. hands and wrists, feet and ankles, in the emergency department between
+      February and August 2018. Patients included had undergone digital radiography and ULD-CT for
+      a diagnosis of trauma during weekdays, during working hours (9am-6pm), excluding weekends and
+      holidays. Patients with severe polytrauma requiring a whole body CT scan and patients for
+      whom digital radiography was not the first imaging modality performed were not included in
+      the study.
+
+      ULD-CT images were acquired using a Somatom Definition AS+ CT-scan (Siemens Healthineers).
+      Acquisition parameters were as follows: beam collimation of 64×0.6 mm; field of view of 500
+      mm; pitch factor of 0.85; rotation time of 1.0 s. The tube voltage was fixed at 80 kVp, and
+      the tube current was set at 12 mAs for hands and wrists and at 15 mAs for feet and ankles.
+      Both the automatic adjustment of tube voltage (CARE kV) and the automatic tube current
+      modulation (CARE Dose4D) were disabled. The images were reconstructed in transverse plane of
+      1-mm thickness and 0.7mm overlapping, and raw data were reconstructed using the level 4 of
+      the SAFIRE® (Sinogram Affirmed Iterative Reconstruction) algorithm. The reconstruction
+      kernels used were "moderately smooth" (I30f) for soft tissue exploration and "strongly sharp"
+      (I70f) for bone exploration for all locations.
+
+      Imaging interpretation Image analysis and interpretation were performed retrospectively in a
+      blinded manner by two radiologists, a junior reader with a 3-year experience (TA, reader 1)
+      and a senior reader with a 11-year experience (FS, reader 2). The two radiologists separately
+      analyzed all radiographs after image anonymization and randomization of the reading rank. To
+      limit interpretation biases, a period of 4 weeks was observed before interpretation of the
+      ULD-CT images. They were analyzed separately by the two same radiologists, in the same
+      blinded manner than radiographs, also after randomization of the reading rank. The images
+      were visualized on GE Healthcare Centricity Picture Archiving and Communication System
+      (PACS); all ULD-CT images were read in multiplanar 3-mm reconstructed slices.
+    
+  

@@ -1,0 +1,46 @@
+
+    
+      Idiopathic nephrotic syndrome (NS) is one of the most common chronic kidney diseases in
+      children, with a prevalence of approximately 16 cases per 100,000 children. NS is
+      characterized by heavy urinary losses of protein leading to hypoalbuminemia, edema, and
+      hyperlipidemia. Children are treated with high-dose corticosteroids on presentation, and >80%
+      respond to treatment with resolution of proteinuria and symptoms. However, 80-90% of the
+      children initially sensitive to corticosteroids will experience disease relapse, with more
+      than half relapsing frequently or becoming dependent on corticosteroids to maintain
+      remission. During a relapse, patients can suffer from anasarca, acute kidney injury, serious
+      infections, or thromboembolic events.
+
+      Management of children with NS entails long-term outpatient surveillance and treatment. Home
+      care includes the important standard-of-care task of urine monitoring to follow the
+      relapsing-remitting nature of the disease. New proteinuria signals disease relapse before the
+      development of overt symptoms such as edema. Thus, patients are instructed to alert their
+      providers to the occurrence of proteinuria in a timely manner so that corticosteroids can be
+      initiated or adjusted to treat each relapse and prevent acute disease complications. It is
+      also important for the patients to track urine protein for resolution so that corticosteroids
+      can be stopped or reduced to minimize steroid toxicity.
+
+      Not unlike other chronic, relapsing-remitting pediatric disorders, self-management is
+      difficult for NS patients and their caregivers. Mobile health (mHealth) is a promising,
+      rapidly growing field in disease management. In NS, there are numerous aspects of
+      self-management that may be facilitated by a mobile app. First, the visual analysis of a
+      urine test strip is subject to human error, including reading the wrong reagent block and
+      erroneous assessments of color. This can be improved through using a smartphone's camera and
+      computer to read and analyze test strip results. Second, caregivers must remember to check
+      their child's urine, recall results, and understand what the results mean: the demands are
+      taxing in that disease relapse is defined as urine protein ≥2+ for 3 consecutive days and
+      remission is defined as negative/trace urine protein for 3 consecutive days. Apps, with their
+      inherent interactivity, can provide reminders for urine testing, capture the results, and
+      analyze trends to detect disease relapse/remission. Apps can alert a caregiver to seek
+      medical attention and directly transmit test results to providers. Lastly, apps can provide
+      medication reminders for NS patients, who are on highly complex medication regimens.
+
+      UrApp was iteratively developed by an expert panel of two pediatric nephrologists and three
+      research engineers with expertise in human-computer interaction. App features were devised by
+      the clinicians to support elements of chronic care management according to the Chronic Care
+      Model and tasks that are challenging for caregivers. This study will include 60 caregivers of
+      children with newly diagnosed nephrotic syndrome. Participants will be randomized 1:1 to
+      UrApp or standard of care and followed for 1 year. In addition to the study outcome measures,
+      user feedback will be collected via survey, interview, and by stakeholder meetings to inform
+      app refinement.
+    
+  

@@ -1,0 +1,185 @@
+
+    
+      The most significant disadvantage of the current EEG-NF method is the low spatial resolution
+      of the EEG, which does not allow for the localization of site activity within deep brain
+      regions known to be associated with the development of PTSD, such as the amygdala, the
+      hippocampus, and the mPFC. The aim of the present project is to overcome this drawback by
+      integrating EEG and fMRI imaging methods, such that the patient will receive real-time
+      feedback regarding the activation of emotional target areas located deep within the brain.
+      FMRI is based on the measurement of metabolic changes following electrical activity in the
+      brain, thus non-invasively representing the neuronal activity of various brain regions when
+      performing emotional and/or cognitive tasks. fMRI has high spatial resolution, and in
+      contrast to EEG - it allows for the localization of regions deep within the brain, such as
+      those related to trauma responses within the limbic system and prefrontal cortex. Recently,
+      real-time fMRI (rt fMRI) has been used to train subjects to modulate activity within deep
+      brain regions , . Some studies have even shown that subjects can be trained to regulate
+      activity within a network of regions including the mPFC and limbic regions, resulting in a
+      positive effect on patients suffering from chronic pain and depression . Moreover, it has
+      also been found that via real-time fMRI feedback subjects can be trained to regulate activity
+      within networks that have been linked to emotional regulation; a skill critical for dealing
+      with traumatic events . The major disadvantage of this method is that fMRI tests are
+      expensive and inconvenient for the patient, and the MRI machine required for this method are
+      stationary and not easily accessible.
+
+      To combine the advantages of both methods the investigators performed simultaneous testing of
+      both EEG and fMRI. Using special algorithms, with high reliability, the investigators studied
+      the electrical signals that represent activity related to emotional regulation within deep
+      brain regions . This combination allowed for a significant improvement in the spatial
+      resolution of the EEG device and added significant temporal information taken from the fMRI
+      signal. The combined recording of EEG and fMRI with advanced computational methods, such as
+      cross correlation and machine learning, provide significant improvement in the attribution of
+      EEG signal localization, which until now could not be achieved with adequate reliability. In
+      other words, the EEG pattern of activity reliably represents activation of deep limbic
+      regions providing an "electrical fingerprint" (EFP) of these areas.
+
+      Accordingly, the investigators developed an innovative treatment protocol in which subjects
+      are asked to control either visual or auditory stimuli, determined by feedback from the
+      brain, based on the extent of the EFP . In a pilot study on a group of civilians the
+      investigators showed that subjects successfully learned to modify their electrical brain
+      signal based on the EFP . In an additional study, simultaneous recordings of EEG and fMRI
+      showed that success was indeed related to changes in activity within deep brain regions
+      involved in emotional regulation; such as the mPFC and hippocampus. Furthermore, our results
+      indicate that following training to volitionally regulate the EFP via EEG-NF, participants
+      exhibited improved emotion regulation .
+
+      Rationale for current study:
+
+      Based on the EFP model and the NF literature in the treatment of PTSD this study aims to
+      examine the efficiency of an fMRI-guided-EEG-protocol for self-regulation through NF for
+      reducing stress vulnerability.
+
+      The study will assign two groups:
+
+      experimental group: EFP neurofeedback control groups: Sham neurofeedback In order to assess
+      the efficiency of the NF protocol as a preventative intervention for PTSD, the investigators
+      plan to compare this treatment outcomes to those of a placebo sham protocol.
+
+      Primary objective:
+
+      Examine the efficiency of NF in reducing stress vulnerability.
+
+      Secondary objective:
+
+      Examine the efficiency of amygdala targeted Neurofeedback (NF) in reducing stress symptoms
+      among individuals who were recently exposed to a traumatic event. .
+
+      Study design:
+
+      Randomized parallel design, with 2 groups: EFP-NF (n=35), Sham-NF (n=35)
+
+      Participant selection:
+
+      The study will involve 40 participants with PTSD symptoms between the ages of 18-40, who will
+      be divided randomly into 2 groups (experimental group, control group).
+
+      Number of participants:
+
+      The study will involve 70 individuals.
+
+      Recruitment process:
+
+      Participants will be recruited from the ER and trauma clinic at TASMC. The hospital will
+      provide our research team with daily lists of the individuals who arrived at the ER over the
+      past 24 hours, screened for possible trauma related incidents. Our team will then contact the
+      potential subjects over the phone and will request informed consent to conduct a phone
+      interview to assess the presence of acute stress symptoms. A brief description of the study
+      will be provided. If the individual agrees and is found suitable for further participation
+      they will be invited to the trauma clinic at TASMC where a trained clinical psychologist will
+      conduct a comprehensive PTSD evaluation. The trauma clinic at TASMC will also refer suitable
+      patients from within their database for participation in our study. All subjects referred by
+      the trauma clinic will undergo identical procedures for obtaining informed consent and
+      subsequent clinical evaluation as those described above.
+
+      Intervention arms:
+
+      The study will include 2 groups. The experimental group will receive EEG-NF sessions targeted
+      on the amygdalae and the control group will Sham-NF.
+
+      Brain area/s of interest:
+
+      The regions of interest will include the limbic system and more specifically the Amygdala,
+      hippocampus ventral striatum, as well as cortical areas associated with emotional regulation
+      (such as dorso-lateral PFC and dorso and ventro-medial PFC cingulated cortex and insula).
+
+      Study procedures:
+
+      Pre treatment phase Day 1 Participants will undergo a psychiatric evaluation (using SCID),
+      and medication monitoring. Participants will also be asked to fill in demographic and
+      psychological questionnaires assessing emotion regulation abilities (ERQ), state anxiety and
+      traits (STAI), and questionnaires measuring symptoms of stress, anxiety and depression (CAPS,
+      PCL, BDI).
+
+      Day 2 All Participants will undergo a brain-imaging scan to characterize brain network
+      responses associated with emotional arousal and regulation. Participants will be scanned for
+      functional and structural MRI which will include ROI localizer for the NF, resting state,
+      emotional conflict task, facial recognition task reward task and DTI.
+
+      The research staff will explain the course of the MRI testing to the participant, and will
+      enter with the subject into the mock simulator to verify that he is lying on his back
+      properly and feels comfortable. During testing the patient will be presented with visual and
+      auditory stimuli, as well as short video clips. Auditory presentation: stimuli will be heard
+      via MRI-compatible headphones. Visual displays: the subject will view the stimuli through a
+      mirror and projected onto a screen in the magnet room. In between sessions the patient will
+      be given time to rest. Participants will be asked to avoid moving as much as possible during
+      the scans.
+
+      The total duration of testing, from subject arrival to departure, will take approximately
+      90-180 minutes (20-30 minutes to fill out forms and undergo training, 30 minutes for
+      explanations and a break, and 60 minutes of imaging). Participants will remain in the MRI for
+      about 60 minutes, and under no circumstances will remain longer than 90 minutes.
+
+      Training phase The duration of the training phase will be 4 weeks. At this point participants
+      will be randomly assigned to either the EFP-NF or T/A-NF groups. Both the EFP-NF and the
+      T/A-NF groups will receive 1-2 sessions per week for a total of 6 sessions.
+
+      During training sessions, participants will train to develop skills for regulating brain
+      activity using auditory or visual feedback. Each session will last an hour, including EEG Cap
+      placement and filling state questionnaires. The participant will be seated comfortably in
+      front of a computer screen. A staff member will explain the goal of the meeting to the
+      participant, introduce the equipment to be used, and describe the course of the meeting.
+      Following the above explanations, the staff member will place the EEG cap on the
+      participant's head and will ensure that the participant feels comfortable. The EEG -
+      Neurofeedback practice will consist of five-minute segments repeated for up to 30 minutes.
+      During each practice segment the participant will be asked to modify any visual or auditory
+      media that provides feedback on the degree of successful brain training. For example, during
+      visual feedback the participants will be asked to lower the speed of a skateboard presented
+      on the computer screen or alternatively, during auditory feedback to reduce the level of
+      music audible through headphones placed on their ears. After every two practice segments, the
+      duration of each practice will increase such that the two first steps will be very short
+      (about 5 minutes each) and the last two the longest (about 10 minutes each); a total of six
+      steps every trial over a total of approximately 45 minutes
+
+      Post treatment phase This phase will take place 3-5 days after the end of the training phase.
+      Day 1
+
+        -  Participants will undergo a second psychological evaluation (CAPS).
+
+        -  Participants will complete the same questionnaires as in the pre treatment phase (BDI,
+           ERQ, STAI, PCL).
+
+      Day 2 • All Participants will be scanned for functional and structural MRI which will include
+      ROI localizer, resting state, DTI.
+
+      Follow-up phase Day 1-5
+
+      • All participants will receive 2 maintenance sessions (EFP-NF or T/A-NF)
+
+      Day 6
+
+        -  Participants will undergo a third psychological evaluation (CAPS).
+
+        -  Participants will complete the same questionnaires as in the previous phases (BDI, ERQ,
+           STAI, PCL).
+
+      Data collection:
+
+      Researchers will assist participants filling in the electronic questionnaires and will
+      conduct the non electronic ones (these would be later transcribed to excel sheets by research
+      assistants).
+
+      Researchers will run the MRI scans and the NF sessions (all the rt-fMRI NF and some of the
+      EFP-NF), together with two to five research assistants. The contact with the participants
+      will be by E-mail and phone. The research assistants will monitor participation. The
+      participants will receive a reminder (by phone and or email) one day prior to each session.
+    
+  

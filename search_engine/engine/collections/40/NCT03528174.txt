@@ -1,0 +1,28 @@
+
+    
+      Subjects will undergo one 12 hour inpatient study. During this intervention visit, subjects
+      will wear the single hormone closed loop system which includes two t:slim insulin pumps to
+      deliver insulin or saline through two investigational PDT glucose sensing cannulas, and a
+      Dexcom G5 CGM to measure glucose. The subject will come to the research center at
+      approximately 7am for the inpatient visit. The Dexcom G5 sensor and PDT glucose sensing
+      cannulas will be placed after arrival. An 18-22 gauge IV catheter will be placed for blood
+      sampling every 15 minutes after sensor warm-up is complete for measuring blood glucose
+      concentration. After a 2 hour warm-up period for the G5 sensor, glucose will be controlled
+      using the FMPD single hormone mode. The single hormone mode of the controller determines
+      insulin delivery rates based on proportional and derivative error through one t:slim insulin
+      pump. The second t:slim insulin pump will deliver normal saline at the same delivery rates as
+      the insulin. Subjects will eat breakfast and lunch at approximately 11 am and 3 pm
+      respectively. Subjects will have the ability to complete light exercise on a treadmill. The
+      closed loop system will be stopped at approximately 6pm with removal of all devices.
+
+      During the study, the subject will wear one subcutaneous DexcomTM G5 continuous glucose
+      monitoring (CGM) system. The CGM system will provide sensed glucose data every 5 minutes. The
+      accuracy of the sensed data will be obtained by reference measurements of two YSI venous
+      blood glucose values to calibrate the sensor at the beginning of the closed loop study.
+      Sensed glucose data will be wirelessly transmitted via Bluetooth Low Energy (BTLE) from the
+      Dexcom G5 transmitter to the Nexus 5 master controller every five minutes. The controller is
+      a Google Nexus 5 phone. The smart phone will wirelessly communicate via BTLE to two Tandem
+      t:slim insulin pumps, one for automated insulin delivery and one of automated saline
+      delivery.
+    
+  

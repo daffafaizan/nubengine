@@ -1,0 +1,25 @@
+
+    
+      Breast cancer is the most common type of cancer in women worldwide, with nearly 1.7 million
+      new cases diagnosed in 2015. In the UK, one in five cases of breast cancer results in a
+      fatality. The IntelliScan project aims to develop a technological solution that addresses a
+      significant healthcare challenge. IntelliScan will develop a software system that will be
+      able to interpret breast MR images automatically in order to identify potential breast
+      cancers.
+
+      Regular MRI screening of the breast is offered to women from the age of 20, who are at higher
+      risk of developing breast cancer. MR image sequences provide a large amount of information to
+      the radiologist and the interpretation of images is a manual process, which is very time
+      consuming. The high number of women eligible for MRI screening combined with the amount of
+      data provided by MRI scans places a great burden on healthcare systems. Therefore,
+      automatisation of this process would greatly relieve this burden and also has the potential
+      to provide more accurate diagnoses.
+
+      In this first study, the system's user interface as well as the algorithm will be developed
+      using existing MRI scans. Existing MRI scans with known breast anomalies will be used to
+      develop the decision-making basis for the algorithm. The system will then be tested using
+      existing MRI scans without information about possible anomalies and results will be compared
+      to results from the software system currently in use. In addition, the user-friendliness of
+      the system's user interface will also be evaluated.
+    
+  

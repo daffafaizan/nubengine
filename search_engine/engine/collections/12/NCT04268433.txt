@@ -1,0 +1,39 @@
+
+    
+      This is a single-arm non-randomized pilot study. Staff at Chelsea and Westminster NHS
+      Foundation Trust will be recruited via the placement of posters in staff only areas such as
+      staff rooms and via the daily communications that the Trust use. Those who meet all of the
+      inclusion criteria and none of the exclusion criteria will be approached for participation in
+      the study. The participants will be asked to listen to a series of musical genres, selected
+      in random order, whilst lying on a standard hospital bed for comfort. This will take place in
+      a private clinical room to minimise disturbance and any variation in heart rate caused by
+      external stressors. The participants will have an ECG recording performed by attachment of
+      adhesive surface lead electrodes to the chest and arms. This will be continuous throughout
+      the protocol. They will also have a continuous non-invasive blood pressure recording using
+      equipment that is in routine clinical practice (Finapress BP) and respiration monitored via a
+      respiration belt. They will also be asked to wear a small lightweight sensor that gives
+      readings of heart rate and blood pressure at 2 minute intervals.
+
+      After a period of approximately 10 minutes of ECG recording without music (control period), a
+      series of pieces of music will be played whilst the ECG recordings continue. Each piece of
+      music will last for no more than 5 minutes, 3 will be selected by the investigators and one
+      will be pre-chosen by the participant prior to their attendance. The order in which these
+      pieces will be played will be chosen at random. There will be a 3 minute recovery time in
+      between each piece of music. The same pieces of music will then be played back to the
+      participant but this time the music will subtly change tempo in reaction to the patient's
+      heart rate. This is achieved by the ECG feeding data into the computer playing the music,
+      whereupon the data is processed by Max MSP software and used to control the playback speed in
+      Ableton Live. The algorithm for change is a linear one: the higher a patient's heart rate is
+      in relation to a desired bpm target, the more the music will slow down. (There will be a
+      limit to the extent of the tempo adjustment, in order to prevent any noticeable distortion to
+      the music.)
+
+      The tempo of the music is controlled by computer. The ECG recording will feed into the
+      computer where the software alters the tempo of the music based on the real-time heart rate
+      feedback. The hypothesis is that by altering the tempo of the music the investigators will
+      see changes in the heart rate of the participant. These changes will then feedback to the
+      software which will continue to alter the tempo accordingly with the aim to achieve a degree
+      of heart rate control and see less heart rate variation and less high heart rates. It should
+      take around one hour to complete all the study procedures.
+    
+  

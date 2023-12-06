@@ -1,0 +1,47 @@
+
+    
+      Heart failure (HF) is a world-wide problem. At the moment 26 million people are living with
+      this chronic disease and the prevalence is still increasing. Besides this growing number in
+      prevalence, HF is also responsible for almost 1 million hospitalizations a year in the US and
+      in Europe. Consequently, this has also a major economic impact especially due to recurrent
+      admissions of these patients. Adequate prediction of decompensation could prevent
+      (un)necessary admissions as a result of heart failure. Philips is developing a Bayesian model
+      for chronic heart failure, enabling monitoring of patients with heart failure in the hospital
+      and at home. An important characteristic of such a Bayesian model is that it is a
+      knowledge-based model, in contrast to data-mining based models, and requires only a few
+      patient data to get started (10-20 patients). Another important characteristic is that these
+      'knowledge-based models' are applicable in any setting, again in contrast to data-mining
+      based models. This makes the proposed model different from conventional data-mining
+      approaches to modelling. During a hospital admission, the model will be "filled in" with
+      personal patient data. Subsequently, during the rest of the hospital stay or after release
+      from the hospital, a number of symptoms and lab measurement variables ("observables"), will
+      be the input for the model. The output of the model (the result) will be a probability of
+      improvement (versus worsening) of the condition of the patient or the status of the heart
+      failure condition on a scale (from 1-10). The model can deal with less input variables than
+      the number it has been "personalized" with. With less input measurements, naturally the
+      reliability of the result will be reduced. This modelling approach basically captures the
+      clinical way of thinking into a model. If interpreted in the right way using smart Bayesian
+      modelling, the GP or geriatrician will be able to monitor and treat the majority of heart
+      failure patients. This fits in current thinking to reduce HC costs by keeping patients at
+      home and out of the hospital.
+
+      The clinical investigation is designed to evaluate whether the outcome of the "Bayesian
+      Hemodynamics model" compares with the cardiologist's status assessment. The purpose of this
+      study is to validate the computer model that has been developed to assess the status of a
+      heart failure patient. With the model, the investigators aim to support healthcare
+      professionals with early detection of deterioration of heart failure patients and with
+      providing the right treatment when it is needed. If successful, this could help heart failure
+      patients to stay at home longer and reduce hospital admissions.
+
+      The clinical literature review is documented in report, Personalized Heart Failure Monitoring
+      using a Bayesian network, Anja v.d. Stolpe, Wim Verhaegh, Folke Noertemann, PR-TN 2017/00180.
+
+      This clinical investigation is needed, because no complete datasets, including ground truth
+      assessments by cardiologists, are available, neither in existing databases, nor in clinical
+      literature.
+
+      The clinical investigation needs to be performed on a population that fulfills the
+      inclusion/exclusion criteria described in Chapter 6, because the "Bayesian Hemodynamics
+      model" is only valid for these cases.
+    
+  

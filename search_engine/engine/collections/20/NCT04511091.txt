@@ -1,0 +1,57 @@
+
+    
+      Data source The Italian VATS Group Database is a validated, risk-adjusted, prospective,
+      outcomes-based program with 50 participating hospitals in Italy. The VATS Group Database
+      collects data on different variables on a standardized data form: patient demographics
+      informations, surgical interventions, medical history, cancer staging and outcome. Patients'
+      outcomes are reviewed and records are updated the first time at 30 days after surgery, then
+      at 180 days. Next update is recorded at 6 months from surgery and every 6 months for the
+      first 2 years of follow-up, and annually thereafter. The VATS Group Database implements
+      rigorous quality assurance and safety procedures to maintain a high level of accuracy and
+      security of data.
+
+      The study has been approved by hospital ethics committee. The current analysis was reviewed
+      and approved for scientific merit and feasibility by the VATS Group Scientific Committee and
+      presented at the annual VATS Group meeting.
+
+      Patient population and study design Study population consisted of patients who received
+      intended VATS lobectomy as the primary procedure for NSCLC at VATS Group participating
+      centres and included in the VATS Group database between January 2014 and January 2020. We
+      excluded all patients with incomplete clinical, intraoperative and postoperative data. Data
+      entered from centers sporadically (less than 10 cases per year) were also excluded.
+
+      In order to analyse the factors related to lenght of stay, the study design provides a
+      comparison between two groups of patients: the first group, identified as "LOS ≤ 4" including
+      all patient disharged within 4 days after surgery, while the second group, called "LOS > 4"
+      including all cases discharged after the fourth postoperative day.
+
+      Covariates We compared selected clinical variables to analyse the presence of a possible
+      association with lenght of stay: data were divided into preoperative, intraoperative and
+      postoperative.
+
+      Furthermore, three groups were made according to the number of cases entered by the different
+      centers and considered as a possible influential variable: group A (less than 50 cases),
+      group B (number of cases between 51 and 100) and group C (above 100 patients).
+
+      Statistical Analysis Patient baseline demographic and comorbidity variables were analyzed
+      using frequencies and proportions for categorical variables and means, standard deviations
+      (SDs), medians and interquartile ranges (IQR) for continuous variables.
+
+      The comparisons between groups (LOS ≤ 4 vs LOS > 4) categories were made by the following
+      tests: Student t-test for continuous variables with approximately normal distribution,
+      non-parametric Wilcoxon Mann Whitney test for other numerical variables and for categorical
+      variables Pearson's chi-square test or Fisher's exact test in the case of low-volume
+      categories were adopted.
+
+      To investigate the factors independently associated with the hospital stay outcome we used
+      simple logistic regression models with the variables of interest, and a simplified multiple
+      model with a stepwise backward procedure to obtain a more parsimonious model that contained
+      only the significant factors. Covariates of interest were patients' demographics, co-
+      morbidities, hospital lobectomy volume , operative features, pain relief techniques, type of
+      surcial approach. A significance level of 0.2 was required to enter the model and a level of
+      0.05 was required to remain in the model. Adjusted odds ratios (ORs) and 95% confidence
+      intervals (95% CIs) were presented. All P-values are two sided with statistical significance
+      evaluated at the 0.05 α level. All tests were performed with Stata 13.0 statistical software
+      (Stata Corp, College Station, TX).
+    
+  

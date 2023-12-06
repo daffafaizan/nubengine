@@ -1,0 +1,34 @@
+
+    
+      The balanced anesthesia process contains three main parts: the control of hypnosis, the
+      analgesia and neuromuscular blockade. For the induction phase, the anesthesiologist performs
+      protocols based on prior planning specific to each patient. Normally, the anesthesiologist
+      controls the process by monitoring the classical vital signs and other clinical most common
+      signs during the maintenance phase. In a way, this professional is the controller in a
+      control system that acts on the plant (the patient) through the infusion of hypnotic and
+      analgesic drugs and neuromuscular blockers.
+
+      In addition, the anesthesiologist estimates the the level of consciousness, of nociception
+      and the level of neuromuscular blockade through these indirect measurements, just as a state
+      observer in a control system would do.
+
+      There are different techniques for the direct monitoring of these three variables of
+      anesthesia (DoA, NMB and NoL), such as BIS and Narcotrend, but all of them present a few
+      disadvantages and mis-measurements, especially when the anesthesia process combines different
+      drugs.
+
+      This work proposes a new way of evaluating DoA, NMB and NoL, using techniques to combine
+      classical clinical signs with advanced EEG monitoring, to provide a decision support system
+      for the anesthesiologist.
+
+      For this, we will perform data acquisition from the equipment usually used in surgical
+      procedures with general anesthesia, such as ECG, EEG, blood pressure, mechanical ventilation,
+      among others.
+
+      In short, all data of the patient's vital signs during the procedure and the actions taken by
+      the anesthesiologist and surgeons.
+
+      The data will be concentrated on a specific equipment, and will be analyzed together with the
+      data of other patients to improve the mathematical models involved in the process.
+    
+  

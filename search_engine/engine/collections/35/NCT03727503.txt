@@ -1,0 +1,11 @@
+
+    
+      Pulse pressure variation (PPV) remains a good predictor of fluid responsiveness in the ICU in
+      ventilated and sedated patients. However, PPV can be time-consuming to calculate (manual
+      determination), is not always displayed on monitoring screens nor reliable through visual
+      assessment and needs additional often costly devices to be displayed. A new Android
+      application (Captesia) automatically calculates the PPV utilizing a digital photograph of the
+      arterial waveform from the monitor. The application determines the PPV by selecting peaks and
+      troughs of the arterial curve.
+    
+  

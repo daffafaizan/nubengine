@@ -1,0 +1,30 @@
+
+    
+      Recently, oximeter, detecting the spectral response at wavelengths of 660nm and 940nm, is
+      widely used to measured oxygenation status. Its low spatial resolution and limited
+      penetration depth in human skin, however, restrict the oximeter in clinical application
+      especially for early detection of cancer. In early-stage cancer development, angiogenesis and
+      oxygen depletion around tumor are two important indicators of tumor growth. If an
+      angiogenesis and low oxygenation status can be identified simultaneously, the investigators
+      can point out the early-stage tumor from normal tissue easily.
+
+      The investigators has been working towards the development of third harmonic generation
+      microscopy systems and reported the success of revealing morphology in human skin specimen.
+      Since THG process is based on virtual transition without energy deposition, THG microscopy
+      enables imaging ex vivo specimens without extra label and invasive procedure. To further
+      investigate biological process of biomaterials, the investigators develop a sTHGM where THG
+      spectrum is partitioned to analyze during imaging process. In this project, the investigators
+      aim to elucidate oxygenation concentration of red blood cells through the srTHG microscopy
+      system.
+
+      The srTHG is using a Cr:forsterite excitation with a central wavelength and bandwidth of
+      1266nm and 92nm. A broadband excitation cover a wide range of THG signals so that the
+      spectral response from oxygenated and deoxygenated hemoglobin can be retrieved and analyzed.
+      Three long-pass filters and three band-pass filters are used to partition the THG signals
+      into three channels to analyze spectral responses of the specimen. The signals are amplified
+      by photomultiplier tube (PMT) and pseudo-coloured blue, green, and red for channels A, B and
+      C respectively. The abilities to reveal structure morphology and its corresponding biological
+      information in situ would provide a assistant to diagnose early-stage of tumor as well as a
+      potential support in clinical treatment.
+    
+  

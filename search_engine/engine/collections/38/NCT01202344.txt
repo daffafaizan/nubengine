@@ -1,0 +1,40 @@
+
+    
+      The study involves medical imaging of patients undergoing an angioplasty intervention in a
+      peripheral artery. It is similar to an observational study, except that additional imaging is
+      performed which is above the standard-of-care. Some risks may be associated with the
+      additional imaging due to a small increase in radiation exposure and intravenous contrast
+      administration. No investigational drug or device will be tested in this study. No control
+      group will be used.
+
+      Logistic regression analysis will be performed using NCSS statistical software to identify
+      which explanatory variable(s), selected from the simulation results, can be used to predict
+      binary restenosis, the categorical dependent variable.
+
+      For each subject, binary restenosis will be determined by comparing the CT-scan images
+      obtained 1 hour post-intervention to those obtained at the 6 month follow-up study. The
+      CT-scan images will be segmented and a mesh of the target vessel will be reconstructed as
+      described in objective 1. The lumen area will be measured in every cross-section of the mesh
+      perpendicular to the vessel centerline, with 2 mm steps between cross-sections. The minimum
+      lumen diameter will be calculated from the minimum lumen area. If the minimum lumen diameter
+      at follow-up is less than 50% of the minimum lumen diameter post-intervention, then the
+      binary restenosis is positive. Otherwise it is negative.
+
+      Objective 1: Evaluate the accuracy of computer predictions of artery dilatation and stent
+      implantation from CT-scan images. This information is hypothesized to be indicative of the
+      accuracy of other quantities predicted by computer simulation of angioplasty, such as those
+      used as independent variables in objective 2.
+
+      Objective 2: Establish a regression model with 80% sensitivity and 80% specificity for
+      predicting binary restenosis based on one or several injury parameters in patients undergoing
+      angioplasty. The candidate injury parameters are:
+
+        -  endothelium denudation (in % of total endothelium area)
+
+        -  descriptors of the magnitude and spatial distribution of stretch ratio in the arterial
+           wall
+
+        -  descriptors of the magnitude and spatial distribution of intramural stress in the
+           arterial wall All injury parameters are predicted by computer simulation of angioplasty.
+    
+  

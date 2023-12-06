@@ -1,0 +1,51 @@
+
+    
+      RESEARCH QUESTION AND BACKGROUND: Primary liver cancer or hepatocellular carcinoma (HCC) is
+      the fifth most common cancer in men and the seventh in women and is the second cause of
+      cancer mortality worldwide. . In Canada, HCC is the only cancer for which mortality is
+      increasing. More than 80% of HCC cases occur in individuals with advanced liver fibrosis
+      (cirrhosis) due to viral hepatitis infection (B and C), non-alcoholic fatty liver disease
+      (NAFLD), and alcoholic liver disease. Once cirrhosis is established, there is a significantly
+      increased risk of developing HCC. Furthermore, HCC is observed in obese diabetic individuals
+      without cirrhosis, increasing the population of patients at risk with a disease that has high
+      fatality rate. HCC surveillance is associated with significantly prolonged survival. However,
+      only 52% of patients undergoing surveillance have early HCCs that are eligible for curative
+      treatment, whereas remainder of patients have intermediate- or advanced-stage disease
+      eligible for bridge or palliative treatment only. HCC surveillance is also associated with
+      significant improvements in early-stage detection, curative-treatment rates, and survival,
+      even after adjusting for lead-time bias. North American guidelines recommend ultrasound (US)
+      surveillance every 6 months in at-risk patients who are non-cirrhotic hepatitis B carriers
+      and cirrhotic. However, a key challenge for US is the low sensitivity (60-78%) for
+      identifying a lesion due to liver steatosis and cirrhosis. Once a suspicious malignant lesion
+      is detected at US, current American Association for the Study of Liver Diseases (AASLD)
+      guidelines recommend contrast-enhanced US, magnetic resonance imaging (MRI) or computed
+      tomography (CT) scans to confirm suspicion.
+
+      GOAL: The long-term reaching goal is to develop US biomarkers of focal liver lesions and
+      strategies to improve diagnostic sensitivity to HCC while maintaining a high specificity.
+      This would constitute a major breakthrough because HCC diagnosis currently requires a
+      combination of US for screening and confirmation using MRI, CT and less often biopsy.
+
+      OBJECTIVES: 1) Develop a machine learning model based on QUS for classification of solid
+      hepatocellular carcinomas identified at US and diagnosed with MRI (or biopsy if required); 2)
+      Determine if QUS maps can improve visual detection of suspected lesions at US; 3) Compare
+      performance of QUS- versus MRI-based viscoelastography for lesion characterization.
+
+      Hypothesis: the investigators hypothesize that advanced QUS providing tumor viscoelasticity
+      assessment, sub-resolution tissue structure characterization and US attenuation in the
+      framework of a machine learning classification model can improve HCC diagnosis compared with
+      standard US.
+
+      METHODOLOGY - Study design: This will be a clinical study with two sequential cohorts: 1) a
+      training cohort of 100 patients at risk for HCC to optimize QUS biomarkers for classification
+      of solid liver lesions using MRI and/or biopsy as gold standard clinical references; and 2) a
+      validation cohort of 100 patients to confirm diagnostic performance.
+
+      Data analysis: Random forests machine learning to develop QUS classification models.
+      Sensitivity and specificity to assess diagnostic accuracy, according to MRI and/or biopsy,
+      with bootstrapping to obtain confidence intervals with training set. Confirmation of accuracy
+      on test set. Inter-observer assessment of lesion detectability on clinical B-mode US versus
+      QUS maps. Comparison of US- and MRI-based elasticity and viscosity according to diagnostic
+      results.
+    
+  

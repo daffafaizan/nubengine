@@ -1,0 +1,24 @@
+
+    
+      This is a multicenter, prospective, observational clinical study for validation of a
+      radiopathomics integrated artificial intelligence (AI) system. Patients who have been
+      pathologically diagnosed as rectal adenocarcinoma and defined as clinical II-III staging
+      without distant metastasis will be enrolled from the Sixth Affiliated Hospital of Sun Yat-sen
+      University, the Third Affiliated Hospital of Kunming Medical College and Sir Run Run Shaw
+      Hospital Affiliated by Zhejiang University School of Medicine. All participants should follow
+      a standard treatment protocol, including neoadjuvant concurrent chemoradiotherapy (nCRT),
+      total mesorectum excision (TME) surgery and adjuvant chemotherapy. Images of Magnetic
+      Resonance Imaging (MRI) and biopsy hematoxylin & eosin (H&E) stained slides of each patient
+      should be available before nCRT treatment. The tumor region within these images would be
+      delineated manually by experienced radiologists and pathologists. Further, the outlined
+      images will be presented to the radiopathomics AI system to classify each participant into
+      particular tumor regression grading (TRG) category. Here, the American Joint Committee on
+      Cancer and College of American Pathologist (AJCC/CAP) 4-category TRG system is served as the
+      standard. The actual TRG category of each participant will be confirmed based on pathologic
+      assessment after TME surgery. Through comparisons of the predicted TRG and actual TRG
+      category, investigators calculate the prediction accuracy, specificity and sensitivity as
+      well as the F1 score. This study is aimed to develop a reliable and robust AI system to
+      predict pathologic TRG prior to nCRT administration, facilitating response-guided precision
+      therapy for patients with locally advanced rectal cancer.
+    
+  

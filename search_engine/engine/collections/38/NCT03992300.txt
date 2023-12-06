@@ -1,0 +1,109 @@
+
+    
+      Eight consecutive patients ready for a full-arch rehabilitation on previously osseointegrated
+      implants, and who had received an immediately loaded prosthesis, were selected. All implants
+      had multiunit abutments placed on top. Cases from 4 to 6 implants were accepted, either upper
+      or lower arches. Three sets of impressions were taken to each patient:
+
+      Conventional impression:
+
+      Open tray impression copings were screwed on top of all implants in the arch using a torque
+      wrench set at 10 N/cm. Impression copings were splinted by means of Triad Gel clear resin,
+      with an at least 3mm diameter in the resin connectors. Once the resin was photo-polymerized a
+      cut was done in the centre of each connection with a 0.3 mm bur, to eliminate possible stress
+      in the structure, and then it was splinted again with a drop of Triad Gel in each cut. A
+      polyether impression was taken by means of a perforated plastic tray, and a master model was
+      fabricated following the manufacturer's instructions. A plaster verification jig was
+      fabricated on the model. After one week the patient came to the dental clinic where vertical
+      dimension of occlusion was determined and the plaster key was screwed in the patient mouth to
+      check passivity. In case the key had been fractured, a new impression would have been taken,
+      and if not, final prosthesis could be processed.
+
+      Optical impression:
+
+      An impression of the antagonist and an impression of the edentulous arch with the healing
+      abutments in place were taken by means of an optical scanner following the manufacturers
+      protocol. The position of the implants was marked in the working standard tessellation
+      language (STL) model, and the software cut a circle on top of those areas. The files were
+      copied, and two datasets were obtained.
+
+      Scan-bodies were placed on top of each multiunit abutment, the first STL dataset was open and
+      a second impression was taken, so that the scan-bodies were positioned on the working file.
+
+      Scan-bodies were then removed from the patient mouth, and temporary copings were placed on
+      top of each multiunit abutment. A MedicalFit device was selected, and holes were drilled in
+      the position of the implants until it fitted on top of all the cylinders. Cylinders were then
+      splinted to MedicalFit device by means of Triad Gel clear. The device was then removed from
+      the patient mouth and scan implant replicas were placed at the bottom of the metal cylinders.
+      Finally, the device with the scan implant replicas was scanned with an intraoral optical
+      scanner.
+
+      The following set of pictures were taken: Rest position, maximum smile (with the scan bodies
+      placed in the mouth), front with retractors (with the scan bodies), and 45º with retractors
+      (also with the scan bodies in place).
+
+      All pictures and STL datasets were sent to the dental technician to produce a temporary
+      structure. The STL dataset from the scanning of Medicalfit device used was adjusted to the
+      original STL dataset of the device in the library, and then superimposed to the dataset of
+      the scan-bodies received from us, to allow repositioning of the scan-bodies and to correct
+      possible discrepancies during the intraoral scanning process.
+
+      A temporary polymethylmethacrylate (PMMA) framework was delivered by the dental lab and tried
+      in the patient mouth. Corrections were done to adjust occlusion, gingival contour and
+      esthetic parameters where needed. Once esthetic parameters and occlusal scheme were
+      considered correct, a new intraoral scanning was taken with the temporary framework in place.
+      In case changes were done in the gingival contour, scanning of the gingival aspect of the
+      PMMA framework was also done. The PMMA temporary was then left in the patient mouth.
+
+      Three pictures were taken with the PMMA framework placed in the mouth: Front full face at
+      rest, front full-face smiling, front full face with separators and full face smiling at 45º.
+
+      Clinical adjustment assessment:
+
+      After one week two sets of the final prosthesis in full-zirconia were sent from the dental
+      lab, one processed with conventional models and the second fully digital. Both sets were
+      tested in the patient mouth by two calibrated blinded independent operators.
+
+      Misfit should be ideally measured in terms smaller than 10 microns, but clinical adjustment
+      is difficult to assess using conventional or quantitative methods. In this research
+      adjustment was assessed following four criteria: passivity in the insertion of the screws,
+      tactile sensation, radiographs and screwing torque:
+
+        1. A Visual Analogue Scale (VAS) was used to assess the perception of passivity in the
+           insertion of the prosthodontic screws. A ten centimeters line will be shown to the
+           observer. One side of the line represents "perfect passivity", and the other "no passive
+           at all". The observer will mark his passivity perception on the line between the two
+           endpoints. The distance between "no passivity at all" and the mark will defines the
+           passivity perception.
+
+        2. Examination of the marginal fit with an exploratory probe (#23/3 explorer) under 3,8x
+           magnification. Three possible scores were possible: 0 (no gap perceived when probing), 1
+           (perception of the gap without entering it) and 2 (the tip of the explorer clearly
+           entered the gap).
+
+        3. Periapical radiographs were taken with a positioning system to evaluate possible gaps.
+           Five possible scores were possible from 1 to 5, being 1 no gap and increasing 0.15 mm
+           each score until reaching 0.60 mm in score 5.
+
+        4. Digital photographs were taken with a 105 mm macro lens. The pictures were calibrated
+           with the known height of the framework and the gap was measured. Four possible scores
+           were possible, being 1 no gap and increasing 0.25 mm each score until reaching 0.75 mm
+           in score 5.
+
+        5. Screwing torque on each abutment was measured with the app software from Ichiropro motor
+           (BienAir, Bienne, Switzerland). All screws were hand screwed and then all but the most
+           distal right were unscrewed. Torque was set at 15 N/cm and speed at 5 rpm. The most
+           right distal screw was tightened first, and then the rest of the screws were tightened
+           starting at the most mesial left, following to the most distal left, and from that to
+           the next neighbor implant until all screws were tightened. The torque-time signature was
+           studied in every screw to determine if the torque started to grow just at the end of the
+           tightening or throughout the process. Three scores were possible: 1 for linear value
+           with a fast increase at end of the tightening, 2 for soft continuous growth with a
+           steeper increase at the end, 3 for steep increase at the beginning of tightening.
+
+      Once the assessment of the two frameworks was completed, the framework with better adjustment
+      will be placed in the patient, after assessing the presence of correct occlusion, phonetics
+      and esthetic parameters. The second set will be packed and delivered to the patient as a
+      possible replacement in case of problems in the future.
+    
+  

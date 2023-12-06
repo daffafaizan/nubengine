@@ -1,0 +1,102 @@
+
+    
+      Methods details not included elsewhere
+
+      Study: Randomized, sham-controlled, double blind, phase II clinical trial.
+
+      Patient Population. All children will be recruited through the Alberta Perinatal Stroke
+      Project (APSP); a large population-based perinatal stroke research cohort based at Alberta
+      Children's Hospital and directed by the PI. Prospective APSP ascertainment since 2007 is
+      combined with retrospective enrolment (1992-2007) with comprehensive International
+      Classification of Disease codes (ICD-9, ICD-10)237 and institutional databases. These are
+      fully characterized patients with confirmed diagnosis by modern neuroimaging assessed in
+      person in standardized APSP clinics. Recruitment will occur randomly from the population of
+      all children meeting the criteria below.
+
+      Inclusion/exclusion criteria - see below
+
+      Data Collection and Management. Candidate APSP families will be contacted with review of
+      consent/assent forms. Families residing outside Calgary will have equal opportunity to
+      participate through existing APSP support systems. All complimentary data from existing
+      studies is extractable from the APSP database (demographics, imaging, risk factors,
+      outcomes).13 Neuroimaging data will be managed through the ACH Pediatric Neuroimaging
+      Laboratory according to institutional protocols. Neurophysiology data will be collected at
+      the ACH Pediatric TMS Laboratory and securely stored centrally.107 The institutional Clinical
+      Research Unit is a database management unit designed for clinical research and currently
+      houses all APSP studies and trials. The research database platform encompasses data capture
+      utilities, management tools, and security measures (Health Canada-compliant). Methods will
+      adhere to the CONSORT guidelines and the study will be registered prior to consent of the
+      first patient (www.clinicaltrials.gov).
+
+      Intensive Motor Learning (all subjects). An evidence-based approach to upper extremity motor
+      learning therapy in children with hemiparetic CP will be employed. Protocols have been
+      designed by expert pediatric neurorehabilitation and occupational therapy co-investigators
+      based on best available evidence. All children will participate in the same child-centered,
+      age-appropriate, goal-directed, peer supported motor learning program. Designed as an "after
+      school program" to optimize efficiency, children will attend our hospital for 10 consecutive
+      weekdays over 2 weeks. Each session begins with a 30 minute social snack activity, providing
+      the opportunity for peer social interactions and "recharging" from the school day while
+      engaging their affected extremity in functional activity. Each subject then enters 90 minutes
+      of goal-directed (see COPM in outcome measures) motor learning therapy with an individualized
+      occupational therapist.
+
+      Week 1 will employ constraint induced movement therapy (CIMT) according to current practice
+      guidelines. Each child will be custom fit with a removable, bivalved cast that will be worn
+      throughout all therapy sessions. Week 2 will transition to intensive bimanual therapy to
+      integrate gains into more practical bimanual functions. Intensive bimanual therapies are now
+      evidence-based, safe, valid, and effective motor learning strategies in children with
+      hemiparetic CP. Efficacy appears equal to CIMT but the absence of constraint facilitates
+      functional bimanual motor learning and removes the complications of casting. Bimanual tasks
+      will be graded and selected according to relative function with increasing complexity across
+      the relevant spectrum (e.g. passive assist to active manipulator). Tasks will be both
+      symmetrical and asymmetrical, geared to age-appropriate activities of daily living and
+      individual interests, and include active patient participation. Following the acute 10 day
+      intervention, all children receive a structured home program based on the same principles
+      with ongoing therapist support, surveillance, and documentation for 2 months.
+
+      Randomization and blinding. Children will be randomized 1:1 to tDCS or sham. The study
+      statistician will perform the randomization based on study number only, being blinded to all
+      subject details. Allocation will then be communicated to the study PI and tDCS
+      neurophysiologist only. The subject, parents, measuring and treating occupational therapists,
+      and all other study members will be blinded to treatment allocation. The neurophysiologist
+      will then program each subjects tDCS unit accordingly. All will experience identical ramp-up
+      of current to 1mA over 30 seconds and maintained stimulation for 120 seconds. Those
+      randomized to treatment will have the same current maintained for 20 minutes during therapy.
+      The tDCS units of those randomized to sham will automatically ramp-down gradually to off over
+      60 seconds following the initial 120 seconds of stimulation. These sham procedures are well
+      validated in adult tDCS trials. Blinding effectiveness will be evaluated.
+
+      Intervention: TDCS - see below.
+
+      Outcome measures - see below
+
+      Interim Safety Analysis. Any possible major side effects will be immediately reported to the
+      IRB per policy. Minor side effects will be tracked by the safety outcomes specified. An
+      interim safety analysis will be performed after the first 2 camps (12 subjects) to ensure no
+      decrease in hand function has occurred in association with contralesional tDCS. This will be
+      evaluated by comparing change in affected (AHA, MA) and unaffected (GS, PS, BB) hands at both
+      1 week and 2 months between tDCS and sham populations.
+
+      Sample Size. Variables were extrapolated from the most relevant literature, our previous
+      studies in the same population, and personal communication with AHA creators. Smallest
+      detectable difference for the AHA is estimated at 0.97 logit units or approximately 5
+      logit-based AHA units. Our previous trial in the same population found the proportion
+      achieving this change was approximately 25% with CIMT alone compared to 65% receiving both
+      CIMT and contralesional brain stimulation (rTMS). Therefore, for the primary hypothesis that
+      tDCS improves AHA gains at 2 months, significance level alpha=0.05, power of 90%, and no
+      drop-outs (100% completion in previous trials), 24 patients (12 per group) will be required.
+      This is comparable or larger than most pediatric CP trials and positive tDCS and rTMS adult
+      stroke trials.
+
+      Statistical Analysis. Co-investigator expertise in statistical methods (AN) and clinical
+      trial methodology (MH) are established. Primary analysis will examine change in AHA and other
+      outcome variables from baseline to final outcome at 2 months using simple ANOVA. Secondary
+      analysis will explore effects of time and severity using repeated measures ANCOVA with
+      deficit severity as a covariable to examine interactions across treatment groups (tDCS,
+      sham). Safety outcomes will compare changes in unaffected hand function (as above), adverse
+      event rates (tDCS vs sham) using Chi-square/Fisher exact and Mann-Whitney tests. Association
+      between treatment group and subject's estimation of treatment received will be determined to
+      evaluate sham effectiveness (Chi-square/Fisher exact). The sample is not large enough for
+      multivariable modelling. Analysis will be intention-to treat.
+    
+  

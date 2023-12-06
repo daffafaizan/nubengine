@@ -1,0 +1,9 @@
+
+    
+      Cross-Over non-randomized Case-Series. Arm 1 (Manual segmentation): Manually marking of the
+      boundaries of the optic disc and it's excavation on color photographs of the optic disc. Arm
+      2 (Automated segmentation): Automatic detection of the boundaries of the optic disc and it's
+      excavation. Calculation of cup size, size of excavation, cup-to-disc ratio, and rim area.
+      Comparison of all parameters of both arms and computing of agreement.
+    
+  

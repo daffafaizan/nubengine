@@ -1,0 +1,86 @@
+
+    
+      Pre-anaesthesia assessment is an important component of preoperative care of surgical
+      patients. Early engagement of medically-complex patients is critical to allow ample time for
+      risk evaluation, discussion of anaesthetic plan and medical optimization. Timely and optimal
+      preparation of patients before elective surgery could reduce morbidity and mortality, and
+      day-of-surgery case cancellations. Due to the implementation of same-day-admission and
+      ambulatory surgeries, medically complex patients would require preanaesthesia evaluation at
+      an appropriate time interval prior to their elective surgery, in an outpatient facility.
+      Currently, a nurse-administered, paper-based health screening questionnaire is used at the
+      Preadmission Service to determine the need for outpatient specialized assessment by an
+      anaesthetist prior to elective surgery. This process is labour-intensive and time-consuming
+      for both patients and nurses.
+
+      The need for efficient and cost-saving processes are driving healthcare practice.
+      Computer-assisted history-taking systems have been shown to assist clinicians in the accurate
+      eliciting of information from patients. Increasing evidence supports the use of such systems
+      to triage patients and determine the timing of specialist-led anaesthetic review. Low-risk
+      patients could be evaluated by an anaesthetist on the day of surgery while high-risk patients
+      could be channeled into appropriate pathways for evaluation and optimisation prior to day of
+      elective surgery.
+
+      This study is planned to be conducted in several phases:
+
+      In the first phase, the investigators aim to re-design and convert the current paper-based,
+      nurse-administered health screening questionnaire into a reliable patient self-administered
+      digitized tool - Pre-Anaesthesia CompuTerized Health-assessment (PATCH). The feasibility of
+      introducing a digital pre-anaesthesia health assessment screening tool will first be assessed
+      by conducting two discrete anonymized surveys on healthcare providers and elective surgical
+      patients to explore their needs, attitudes and acceptability towards having a digitized tool.
+      Next, a new paper-based preanaesthesia health screening questionnaire will be designed after
+      extensive literature review of published, validated preanaesthesia screening questionnaires
+      and a focus group evaluation by clinicians of the anaesthesia department.
+
+      Using the draft self-administered paper questionnaire, a pilot study of about 100 patients
+      would be conducted after obtaining written informed consent. Feedback would be sought through
+      a short structured interview that focuses on patient's perception of language, relevance of
+      content and ease of completion. Patients would then be processed, as per standard of care,
+      through a nurse-led interview using the paper-based tool. Validity of each assessment
+      question is determined by percentage agreement method. Percentage agreement of 95% or higher
+      is considered as good criterion validity. Analysis would also include measurement of
+      identical, contradictory and non-contradictory response rates.
+
+      In the second phase, the paper-based questionnaire will be converted to a digitized tool on
+      an iOS platform and accessible via a tablet, called Pre-Aneshtesia CompuTerized Health
+      assessment (PATCH). PATCH and its server would be developed using a JavaScript framework.
+      Patient responses using self-administration of PATCH would be validated against the responses
+      obtained by a nurse using the same platform. After written informed consent, participating
+      patients (n=250) will complete the health screening questionnaires on a tablet without help,
+      after which a nurse who is blinded to the patient's responses, would conduct the health
+      screening using the same platform . Responses for each screening question will be compared
+      for agreement and percentage agreement of 95% or higher will be considered good criterion
+      validity.
+
+      In the final phase, a two-arm, non-blinded randomized trial would be conducted at the
+      Preadmission Service after written informed consent, comparing duration of nurse assessment
+      in patients who have completed the self-administration of preanaesthesia health assessment
+      using a tablet vs those undergoing standard care nurse-led interview. Based on an expected
+      difference in means of 3 minutes and standard deviation of 3.5 minutes at 80% power and a
+      level of significance of 5%, the total sample size for power of analysis is 44. To account
+      for drop-outs, the investigators aim to recruit 52 patients in this phase. Duration of nurse
+      assessment ("service time") will be measured by the "1Q 1Payment" system and is defined from
+      the moment the nurse clicks on the queue system to call for the patient, to completion of the
+      nurse assessment.
+
+      Primary aim(s):
+
+      To convert a paper-based preanaesthesia health screening questionnaire into an electronic
+      tool, with at least 95% concordance of responses from patients
+
+      To compare the duration of nurse assessment at the Preadmission Service in patients
+      randomized to self-administration of digital preanaesthesia health assessment vs those
+      undergoing standard nurse interview
+
+      Primary hypotheses:
+
+      The conversion of a paper-based preanaesthesia health screening questionnaire can be
+      converted into an electronic tool, with at least 95% concordance of responses from patients.
+
+      Self-administration of a digital preanaesthesia health assessment tool does not prolong nurse
+      assessment at the Preadmission Service, compared with standard care nurse interview.
+
+      As a secondary aim, the patients' perceptions and experience in using PATCH will be
+      evaluated.
+    
+  

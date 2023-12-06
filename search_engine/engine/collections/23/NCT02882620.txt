@@ -1,0 +1,172 @@
+
+    
+      Despite the effectiveness of CRC screening tests for average risk adults, these tests are
+      under-utilized by AI/ANs. A recent study of AI/ANs who utilize IHS facilities reported that
+      only about 4.0% of average risk AI/ANs age 50-75, compared with nearly 65% of U.S. adults,
+      were current with CRC screening guidelines. The overall objective is to test the efficacy of
+      serially implemented interventions of graded intensity designed to enhance annual CRC
+      screening using the FIT in AI communities. The aims are to:
+
+      Aim 1. Finalize and evaluate the efficacy of serially implemented interventions of graded
+      intensity for increasing annual CRC screening uptake.
+
+      Aim 2. Determine promoters and barriers to enhancing annual CRC screening practices.
+
+      Aim 3. Conduct process evaluation studies on: cost-effectiveness of the interventions,
+      implementation fidelity, and sustainability and scalability.
+
+      Protocol A. Aim 1-Qualitative Research (Intervention Finalization)
+
+        1. Research Design: Qualitative design, using focus group methodology.
+
+        2. Study Population: Recruited from the project's Community Advisory Council, from the
+           Albuquerque Area Southwest Tribal Epidemiology Center's (AASTEC's) Executive Council,
+           Community Health Representatives, and other tribal stakeholders.
+
+        3. Recruitment Target: Up to 30-36 eligible (assuming attrition) persons.
+
+        4. Recruitment Methods: Purposive sampling methods.
+
+        5. Procedures: Conduct three focus groups, with each group consisting of 6 to 8
+           participants. Each session will meet for approximately two hours. Before starting the
+           discussion, participants will provide informed consent and complete a survey collecting
+           socio-demographic information. The purpose of these focus groups is to finalize the
+           intervention's educational material, ensuring it is culturally appropriate and contains
+           messages operationalizing various constructs of the theory guiding the study (Health
+           behavior Framework; HBF).
+
+      B. Aim 1-Quantitative Research (Efficacy RCT)
+
+        1. Research Design: Randomly assigned, three-group, pretest-posttest design.
+
+        2. Research Setting: Six Pueblo Tribes in New Mexico.
+
+        3. Randomization: Using simple random allocation procedures.
+
+        4. Participants Identification and Sampling: Identify eligible participants from the IHS
+           Resource and Patient Management System (RPMS) electronic health record system. We will
+           invite all eligible persons (estimated at 1,700) identified through the RPMS to
+           participate.
+
+        5. Interventions: The interventions are graded in intensity: high intensity, medium
+           intensity, and reference group (usual care).
+
+        6. Procedures: After randomizing tribes to the three Groups, we will mail a recruitment
+           letter, a consent form for completion of surveys, and a baseline survey. We will mail
+           the first posttest survey 12 months after mailing the baseline survey, with the 2nd and
+           3rd posttest surveys mailed in successive 12-month intervals. Between the baseline and
+           1st posttest surveys, participants will receive the group-specific intervention. All
+           eligible adults will be included in the analyses for the primary outcome (ie, completion
+           of the FIT kit) since non-completion of a FIT is a valid response. All eligible
+           participants in Groups 1 and 2 will receive a mailed FIT kit whether or not they return
+           the baseline survey.
+
+        7. Implementation of the Intervention: We will simultaneously implement the intervention,
+           over three 12-month cycles. For Groups 1 and 2, we will mail the FIT kit, and the
+           educational material about one month following the initial recruitment letter/baseline
+           survey mailing. For Group 1, navigators will offer up to four education outreach
+           sessions. Group 2 will receive the FIT and education material mailing. Group 3 will
+           receive usual care (screening recommendation and a FIT kit at a clinic visit).
+
+        8. Baseline and Posttest Surveys: These surveys will collect data on CRC-related knowledge,
+           attitudes, perceived control, perceived susceptibility and severity, social support, and
+           self-efficacy. The baseline survey will also collect socio-demographic data.
+
+        9. Data Management and Analysis: We will summarize categorical and continuous variables
+           using descriptive statistics. For all analyses, the overall type I error rate will be
+           α=0.05. We will use appropriate methods such as Tukey's honest significant difference
+           test or a Bonferroni correction for multiple comparisons.
+
+           For the primary outcome, annual completion of the FIT kit, the primary endpoint is the
+           proportion of participants within each Group who completed and returned 0, 1, 2 or 3 FIT
+           kits. All analyses will be intent-to-treat, since all eligible participants will be
+           included in the analysis. We will compare the primary outcome across interventions via a
+           likelihood ratio test with a multiple comparisons adjustment. To summarize intervention
+           effects, we will report odds ratios and their 95% confidence intervals (CIs) for
+           completing all 3 FIT kits as compared to returning each of 2, 1, or no FIT kits.
+
+           The secondary outcomes are temporal changes in the HBF constructs (eg, knowledge,
+           attitudes, perceived risk) from baseline to 12-month cycles following the baseline
+           survey. We will assess temporal changes in the HBF constructs with repeated measures
+           linear regression modeling to understand the interventions' effects over time.
+           Predictive value of the interventions and the HBF constructs on the yearly FIT uptake
+           will be assessed by refitting the repeated measures logistic regression model described
+           in the primary analysis for the dependent variable of return of completed FIT kit (yes
+           vs. no) at each time point, but also including as a covariate score from all returned
+           surveys measuring HBF constructs. We will report odds ratios (and 95% CIs) for
+           completion by Groups.
+
+       10. Sample Size Considerations: We powered our study to measure significant changes by Group
+           in the annual completion of the FIT (primary outcome). With hypothesized proportions of
+           participants with 0, 1, 2 or 3 returned FIT kits that reflect an average of 4%, 14% and
+           24% completing the FIT each year for the three Groups, respectively, the power of the
+           study is ~99% with 566 participants per Group (total=1,698). We adjusted for multiple
+           comparisons in our power calculation by using a Bonferroni correction.
+
+      Aim 2-Qualitative Research (Understanding Behavior Change Context)
+
+        1. Research Design: Qualitative design.
+
+        2. Study Population: Participants "largely adherent" (completed FIT 2 or 3 of 3 times) and
+           "not adherent" (completed FIT 0 or 1 of 3 times) to guidelines; navigators; providers
+           and medical directors of IHS facilities.
+
+        3. Recruitment Target: Up to 120-144 participants (assuming attrition) who took part in the
+           Aim 1 Efficacy RCT; with 60 participants "largely adherent" and 60 participants "not
+           adherent" to the FIT guidelines. All the navigators (n=3) working on the project and
+           medical directors (n=3) of the three participating IHS facilities. One health care
+           provider from each of the three participating IHS facilities (n=3).
+
+        4. Recruitment Methods: Purposive sampling methods.
+
+        5. Procedures: Conduct 12 focus groups, with each group consisting of 6 to 8 participants.
+           Each session will meet for approximately two hours. Before starting the discussion,
+           participants will provide informed consent. The moderator will explore HBF factors most
+           conducive to being "largely adherent" to screening guidelines. Among participants "not
+           adherent" to CRC screening guidelines, we will inquire about barriers to completing a
+           FIT and their potential solutions. We will also inquire about how we can sustain and
+           scale-up the interventions for broader dissemination.
+
+      Conduct interviews with navigators, and health care providers and medical directors of the
+      IHS facilities. Before starting the interview, we will obtain informed consent. Interviews
+      with the navigators will focus on delivery of the intervention, barriers and promoters to
+      providing navigation, participants' reasons for "largely adhering" or "not adhering" to CRC
+      screening guidelines, and strategies to sustain and scale-up the interventions. Interviews
+      with the health care providers and medical directors will focus on systems-level factors that
+      may or may not facilitate delivery of CRC screening services, viability of using navigation
+      for cancer screening in community settings, and strategies to sustain and scale-up the
+      interventions. We will collect baseline socio-demographic information from the participants.
+
+      Aim 3-Process Evaluation Studies (Cost-Effectiveness Analysis, Implementation Fidelity, and
+      Sustainability and Scalability)
+
+        1. Procedure-Cost-Effectiveness Analysis: We will collect and use primary and secondary
+           data to define parameters for the Markov models of cost-effectiveness. We will include
+           data on CRC epidemiology in New Mexico, screening and treatment costs, and screening
+           compliance rates for each cycle of the serially implemented interventions. We will
+           collect data on all costs including navigation, mailing of FITs, educational material,
+           and follow-up costs by each Group. We will assess direct medical costs through the IHS
+           RPMS, which contains patient encounter-level data by outpatient ICD-9 diagnoses and
+           procedure codes. We will extract data on sensitivity, specificity and efficacy of
+           screening tests from the peer-reviewed literature. We will begin by constructing a
+           decision tree for each of the Groups. We will compute the costs of each decision node
+           (FIT completed/FIT not completed and received colonoscopy/did not receive colonoscopy)
+           based on directly accrued medical and non-medical costs obtained from data sources
+           identified above. The result of the cost-effectiveness analysis will be an incremental
+           cost-effectiveness ratio (ICER) for the three Groups.
+
+        2. Procedure-Implementation Fidelity: We will evaluate fidelity of implementation based on
+           standard components, including: reach to potentially eligible participants; recruitment;
+           resources and expertise needed for the research; the broader content (ie, social,
+           physical, cultural, and structural factors); fidelity of delivery of the interventions;
+           amount of the intervention actually delivered; amount of the intervention actually
+           received; challenges encountered in implementing the research; potential contamination;
+           and number and quality of partnerships.
+
+        3. Procedure-Sustainability and Scalability: We will operationalize concepts for sustaining
+           and scaling-up efficacious interventions, including: the nature of the interventions;
+           the interventions' efficacy; the cost and cost-effectiveness of the interventions;
+           partnerships; organizational capacity; contextual factors; promoters and barriers; and
+           generalizability to other populations.
+    
+  

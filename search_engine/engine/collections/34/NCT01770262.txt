@@ -1,0 +1,97 @@
+
+    
+      Lack in vitamin D reduces the absorption of calcium in the body, accelerates bone loss and
+      may increase the risk of fractures due to osteoporosis. Vitamin D can be ingested by foods
+      and specific supplements, but the main source for the vitamin is its synthesis in the skin by
+      using sun radiation. Today, quantification of vitamin D levels is performed using a blood
+      test. Mostly, the physician will send the patient to check the levels and vitamin D if he
+      suffers from osteoporosis, hypertension, renal impairment, suspected for activity of the
+      thyroid gland, tuberculosis or sarcoidosis.
+
+      Studies have shown that it is possible to quantify the different elements in the contents of
+      the blood, such as melanin and hemoglobin, using spectroscopy of the skin (Zonios et al,
+      2001; Tseng et al, 2009), but to the investigators' knowledge, the identification of levels
+      and vitamin D in similar means has not been reported in professional literature.
+
+      The rationale for this research: an algorithm that will allow immediate and non-invasive
+      quantification of vitamin D levels will shorten the time of diagnosis, reduce lab costs and
+      prevent hazards or discomfort to the patient associated with a blood test.
+
+      The goal of this study is therefore to develop a non-invasive method for quantifying vitamin
+      D levels in the body using spectroscopy.
+
+      Methods:
+
+      40 subjects aged 18-65 will be recruited for this research: 20 patients be recruited from the
+      population of patients in the rehabilitation department who were diagnosed with osteoporosis.
+      Also, 20 healthy subjects will be recruited.
+
+      All participants will be able to understand the study protocol and sign a consent form
+      independently.
+
+      In this study, the investigators will look for a correlation between the results of
+      conventional blood test for detection of vitamin D levels in the blood and the results of
+      measurements of spectral examinations that will be performed on various locations on the
+      upper body of the subject. These measurements will take place in Hillel Yaffe Medical Center
+      as the subject arrives to the chemistry lab for the blood test. Visible light spectrometer
+      (manufactured by Ocean Optics, USB 2000 model), connected to an optical fiber (manufactured
+      by Ocean Optics, diameter 1mm) will be used. The measurement will use a light source
+      (Fiberoptics Technology Inc. company., Model SOL-R 150) connected also to an optical fiber.
+      Both ends of the fiber will be positioned on the upper body of the patient one of two
+      configurations: for areas with greater thickness, e.g. the forearm, the fibers would be
+      placed next to each other on the same side of the limb to measure the return of the light,
+      and in areas with smaller tissue thickness, e.g. finger tip, the fibers will be placed to
+      both sides of an organ and record light transmission through the target.
+
+      First, the investigators will attempt to find correlation between the spectral analysis
+      results of the visible wavelengths and the blood test. Then the investigators will further
+      compare the subjects' blood samples using FTIR spectrometer in the mid infrared (device
+      manufactured by Oriel, Model MIR8025). The device is equipped with plug-ATR (Attenuated Total
+      Reflectance) and allows testing of a small sample of fluids. Vials of samples delivered to
+      Rupin on foil-wrapped test using a cooler with ice will be tested in Ruppin on the day of
+      extraction. The samples will be disposed of as biological waste.
+
+      Trial protocol:
+
+      Each subject will arrive at the lab at Hillel Yaffe Medical Center. the subject will read and
+      sign an informed consent form for participation in the study. The subject will fill out a
+      short questionnaire reporting on the nature of sun exposure, dietary habits and chronic
+      medications.
+
+      Then two tests will be performed:
+
+        1. Blood test for vitamin D levels.
+
+        2. Test using the spectrometer: two fiber optic guided by the researchers on different
+           places on the torso of the patient, when one side of the fiber optic is connected to a
+           light source and the anther optical fiber end is connected to the spectrometer.
+
+      There is no expected risk or discomfort to the subject beyond the risk associated with
+      regular blood tests.
+
+      Spectral test to be held Ruppin on the patient's blood samples, as described in the methods,
+      and will not require the presence of the patient.
+
+      Data analysis:
+
+      Several algorithms will be developed to be used on the spectral database, in order to
+      identify individuals suffering from vitamin D deficiency.
+
+      The data processing will be as follows:
+
+        1. Statistical analyzes will be carried out using regression methods to find correlation
+           between the level of vitamin D quantified with laboratory chemical test of the blood and
+           spectral measurements in the visible light as performed at the hospital in different
+           areas of the body.
+
+        2. Statistical analyzes will be carried out using regression methods to find correlation
+           between the level of vitamin D quantified with laboratory chemical test of the blood and
+           spectral measurements in middle infrared (MIR), as performed on blood samples taken from
+           subjects.
+
+        3. The tested population will be divided into two groups according to the blood test
+           results: subjects defined as having vitamin D deficiency and subjects classified as
+           having normal vitamin D levels. Clustering methods of analysis will be carried out, such
+           as PCA and LDA, to find distinguishing characteristic between the two populations.
+    
+  

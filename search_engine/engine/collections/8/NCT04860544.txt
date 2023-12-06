@@ -1,0 +1,40 @@
+
+    
+      The study included patients who underwent free flap surgery between January 2006 and December
+      2019 in the Hospital de San José and Hospital Infantil Universitario de San José in Bogotá,
+      Colombia. Criteria for exclusion were history of deep vein thrombosis, pulmonary embolism,
+      systemic lupus erythematosus, antiphospholipid syndrome, hypercoagulability syndrome, and
+      previous medication with oral or parenteral anticoagulant within the past year of the
+      surgery. A standardized Google App for Work form was created where participant's medical
+      records were registered. The exposure criteria were RBCT, and the primary outcome was the
+      occurrence of VPT, which was defined as the intraoperative visualization of arterial or
+      venous thrombosis in the vascular pedicle, observed up until seven days after the procedure.
+      As a secondary outcome, the presence of clinical signs of arterial flap suffering (pallor,
+      decreased capillary filling time, decreased skin turgor, , venous congestion: blue dermal
+      bleeding, and poikilothermia). As well as the absence of blood flow measured by Doppler
+      ultrasound that was registered from the beginning until the outcome. Different clinical
+      characteristics were recorded such as: age, gender, body mass index (BMI), diabetes (fasting
+      blood glucose >126 mg/dl or random glucose value >200 mg/dl), arterial hypertension
+      (persistently high value >140/90 mmHg or use of antihypertensive medication for adequate
+      control) anesthetic risk (ASA Classification), most recent pre-surgical hemoglobin (Hb
+      mg/dl), most recent pre-surgical hematocrit (Ht %), anemia (Hb <12mg/dl or Hto <36% in
+      children under 14 and women of childbearing age, Hb <13 mg/dl or Hto <39% in men over 14 or
+      postmenopausal women), history of chemotherapy during the past year, history of radiation
+      therapy in the flap donor or free flap recipient site In regard to the surgery performed, the
+      following variables were analyzed: indication of procedure, free flap donor site, free flap
+      recipient site, type of flap, whether or not other concomitant surgical procedures were being
+      performed (oncological resections, osteosynthesis, tumor resections) and intra-operative
+      bleeding according to the records from anesthesiologists' evaluations. The information was
+      exported from the standardized formats to a database for statistical analysis through
+      statistical packages R and Stata 15® licensed by the Fundación Universitaria de Ciencias de
+      la Salud - FUCS.
+
+      The exposed group corresponded to patients who received red blood cell transfusion during the
+      perioperative period of free flap surgery (defined as: 24 hours before, during and up to 24
+      hours after the procedure).
+
+      - The unexposed group corresponded to patients who did not receive red blood cell transfusion
+      during the perioperative period of free flap surgery (defined as: 24 hours before, during and
+      up to 24 hours after the procedure).
+    
+  

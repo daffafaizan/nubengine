@@ -1,0 +1,19 @@
+
+    
+      This study will create and test an enhanced critical congenital heart defect (CCHD) screen
+      that combines non-invasive measurements of oxygenation and perfusion in two ways. The first
+      will use current equipment without automated interpretation and the second will require
+      additional software/device but will automate the interpretation. To work towards development
+      of those two algorithms in this stage of the study, the study team will download oxygen
+      saturation (SpO2) and perfusion index (PIx) measurements from newborns with and without
+      congenital heart disease (CHD) and apply statistical tests to the data afterwards to identify
+      parameters to include in the newly developed screening algorithms. The overall objective is
+      to create an automated screening algorithm to improve acyanotic CCHD detection, preventing
+      morbidity and mortality associated with diagnoses missed by SpO2 screening. The central
+      hypothesis is that the addition of non-invasive perfusion measurements to SpO2 will be
+      superior to SpO2-alone screening for detection of acyanotic CCHD. The data collected during
+      this study will be used to develop the two algorithms and the algorithms will be compared to
+      the standard of care using statistical tests on the data after the fact (k-fold validation).
+      The newly developed algorithms will not be tested in-situ on patients during this study.
+    
+  

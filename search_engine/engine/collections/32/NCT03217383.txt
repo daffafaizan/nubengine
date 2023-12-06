@@ -1,0 +1,80 @@
+
+    
+      Obstructive sleep apnea (OSA) is a common disease that is largely un-diagnosed and untreated.
+      Standard treatment for obstructive sleep apnea, nasal continuous positive airway pressure
+      (CPAP), entails use of a nose mask to deliver positive pressure which dilates the pharynx and
+      eliminates obstruction. This therapy is highly efficacious and benign but is associated with
+      low adherence, particularly in non-sleepy apneics with disease of mild and moderate severity.
+      The principal alternative to CPAP therapy is oral appliance (OA) therapy in which a custom
+      made mandibular advancement splint (MAS) is used to protrude the mandible during sleep,
+      thereby opening the pharyngeal airway. OA therapy, while preferred and well accepted by most
+      participants, is not uniformly efficacious. Additionally, uncertainty regarding the patient's
+      response to OAT and the effective target mandibular position can lead to a significant time
+      span between diagnosis and initiation of effective treatment. Furthermore, knowledge of the
+      effective target mandibular position supports the use of new OA design and manufacturing
+      processes that can further reduce the time and cost in delivering the therapy.
+
+      Zephyr Sleep Technologies (the Sponsor) has developed a method of identifying OAT responsive
+      participants and their efficacious mandibular protrusion. A remotely controlled mandibular
+      positioner (RCMP) is used during polysomnographic monitoring to vary the mandibular position.
+      The in-lab version of the device, requiring use of a sleep technologist during a
+      polysomnographic study, was shown to accurately predict outcome with a custom oral appliance
+      in a triple-blind, prospective, predictive study in sixty-seven participants with
+      mild-to-severe sleep apnea (specificity: 92%; PPV: 94%; sensitivity: 86%; NPV: 83%). In
+      addition, the predicted target mandibular protrusive position proved efficacious in 87.5% of
+      cases. While accurate in prospectively identifying oral appliance responders, the
+      availability and utility of the RCMP device is limited by the requirement of a
+      polysomnographic study.
+
+      Recently, Zephyr Sleep Technologies developed a portable device that avoids this requirement
+      and can be used in a multi-night test in the home. Using a feedback controlled mandibular
+      positioner (FCMP), the device measures and analyzes respiratory airflow and oxygen saturation
+      and makes decisions in real-time about moving the mandible. The FCMP device was tested in a
+      blinded, bi-phase clinical study in which participants with mild-to-severe sleep apnea
+      (n=202) underwent two full-night studies in the home. Data from phase 1 were used to develop
+      a predictive method, and data from phase 2 were used to prospectively test the accuracy of
+      the predictive method. An efficacious mandibular position was also predicted, and each
+      participant was treated with a custom oral appliance set to that position. Data from both
+      phases were used to evaluate the feasibility of use of the device in the home.
+
+      A random forest machine learning system was used to develop and test the predictive method.
+      The overall oral appliance success rate was 76% for phase 1 and 71% for phase 2. The overall
+      predictive accuracy was 88%. Values for sensitivity and specificity were 85% and 93%,
+      respectively. Positive and negative predictive values were 97% and 72%, respectively. The
+      effective target protrusive position was identified in 86% of cases. The studies were
+      conducted independently by the participants in their homes, though due to limitations in the
+      early prototype design, a clinical coordinator visited the home to set up the equipment prior
+      to each night of study. No significant problems were encountered, and no significant risks
+      were identified. The results of the clinical trial show that the auto-titrating mandibular
+      positioner is suitable for use in the home and accurately predicts OAT outcome as well as
+      target protrusive position.
+
+      Based on the results of this study, Zephyr developed a commercially available device which
+      has been approved for sale in Canada (Health Canada device license #97614). The device,
+      branded MATRx plus, functions as both a sleep recorder as well as a home-based system to
+      select patients for oral appliance therapy. This commercially available device is currently
+      being used in three separate usability trials to quantify the usability of the device and the
+      benefits of an improved workflow through adoption of the new technology in a dental practice.
+
+      ProSomnus Sleep Technologies has developed a digitally designed and milled sleep appliance
+      called the MicrO2. This device is designed to accurately represent the bite and targeted
+      mandibular position, minimize tongue interference, maintain the targeted mandibular position
+      throughout the night using 90-degree fin angles and use a novel titration process that can
+      reduce error in patient/doctor titration position selection. This device coupled with a
+      digital workflow and outcome of the FCMP is postulated to provide an increase in efficiency
+      of delivering efficacious treatment to the patient from diagnosis to final therapy.
+
+      Evidence has recently appeared to indicate that the change in velo-pharyngeal volume caused
+      by protrusion of the mandible, measured while awake, correlates with the change in
+      apnea-hypopnea index (AHI) achieved by OAT, measured while asleep. This is the first
+      convincing evidence that an awake measurement of the pharyngeal airway correlates with the
+      improvement in respiratory status during sleep induced by an oral appliance. The implication
+      is that a simple conebeam CT of the pharynx can predict outcome with OAT. Accordingly, we
+      shall carry out conebeam CTs in the research protocol, both at rest position of the mandible
+      and at 90% of maximal protrusion.
+
+      The purpose of this study is to test whether the predictive accuracy of the FCMP in the home
+      environment is improved by the commercial design and whether patients predicted to be
+      suitable for oral appliance therapy have long term adherence.
+    
+  

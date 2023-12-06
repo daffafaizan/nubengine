@@ -1,0 +1,172 @@
+
+    
+      BACKGROUND: Ideally, optimal treatment of T1DM should achieve near-normal glucose with no
+      hypoglycemias and preserved quality of life. In the clinical arena, even the currently
+      available most complex strategy, i.e. glucose sensor augmented insulin pump therapy, in which
+      patients wear both a pump for subcutaneous insulin delivery (CSII) and a subcutaneous glucose
+      sensor for continuous glucose monitoring (CGM), does not fully meet the patients' needs.
+      Artificial pancreas (AP) or integrated closed loop control (CLC) algorithms -which take into
+      account CGM readings and the effects of previous insulin infusions to continuously compute
+      the amount of insulin dose to be administered- aim to minimize, in real time, glucose
+      variability and prevent extreme glucose excursions. A number of research groups have been
+      brilliantly working for years to develop a wearable AP to partially, or totally, free the
+      patient (and/or the caregiver) from the burden of the open loop control. However, a perfect
+      glucose control is still lacking, especially in post-meal glycemic excursions. Further
+      insights might be gained by studies of the substrate/hormone responses to meals in T1DM
+      patients on sensor augmented CSII, possibly compared with the gold standard of normal
+      physiology, with special regard to the relative role played by a number of factors of the
+      glucose-insulin pump system in controlling glucose levels.
+
+      Metabolic control analysis (MCA) is a theoretical framework which aims at quantitatively
+      describing metabolic systems and at gauging distribution of control. MCA quantifies the role
+      of each component of a system (e.g.: absorption rate of the fast insulin analogue,
+      carbohydrate absorption through the gut, etc.) in controlling a variable of interest, most
+      notably fluxes or concentrations, of the system itself, by computing the scaled coefficient
+      of controls (CCs). CCs typically range from -1 to +1, and the greater their absolute value,
+      the stronger is the control. Application of MCA to T1DM patients on CGM/CSII could quantify
+      the individual role played by each components of the system, and may help in understanding
+      and potentially overcome the hindrances to achieve stable and tight glucose control and to
+      further develop CLC algorithms for optimal management of the disease.
+
+      AIM: To investigate characteristics and determinants of the glucose-insulin pump system in
+      patients with T1DM with CGM with particular emphasis on the system level (i.e. glucose CCs).
+      We will perform single mixed meal tolerance tests as well as 24-hour studies in T1DM patients
+      and in healthy controls. We will apply mathematical modelling tools developed by us and will
+      create virtual patients and virtual controls from this database to gain further insights into
+      the alterations of the glucose-insulin pump system in patients.
+
+      SPECIFIC AIMS:
+
+        -  AIM 1: To outline and compare the features of the glucose-insulin system in T1DM
+           patients and in healthy controls during breakfast meals of different sizes
+
+        -  AIM 2: To test the reproducibility of model assessed glucose-insulin pump system in T1DM
+           patients
+
+        -  AIM 3: To outline and compare the features of the glucose-insulin system in T1DM
+           patients and in healthy controls during 24-hour periods
+
+      HYPOTHESIS: We hypothesize that in T1DM patients on CGM and CSII:
+
+        1. there are distortions in the distribution of plasma glucose control, as assessed by MCA,
+           when compared to healthy individuals;
+
+        2. the distribution of control is different between plasma glucose and glucose derived from
+           presently used CGM, which is the putative signal to be used in CLC algorithms of a
+           wearable AP;
+
+        3. both the above mentioned putative alterations need be taken into account to develop
+           effective and safe CLC algorithms.
+
+      METHODS: This research is articulated in three distinct protocols. All subjects will be on an
+      isocaloric, maze and cane sugar free diet for one week before study. All T1DM patients will
+      be on CGM/CSII and will be recruited from the patient population attending our Outpatient
+      Insulin Pump Therapy Clinic. Each patient will continue to use his/her own pump device,
+      insulin analogue and glucose sensor. All studies will start at 07:00 AM after an overnight
+      fast (≥ 10 hours). All blood samples will be collected in refrigerated tubes and promptly
+      spun at 1500 g; plasma will be separated and stored at -80° C. According to the planned use
+      of plasma, tubes for blood samples will contain ethylenediaminetetraacetic acid (EDTA) for
+      anticoagulation±antiglicolytic agent±serine protease and DPP4 inhibitors.
+
+      -PROTOCOL 1: Investigation of the glucose-insulin system during two mixed meal tests in T1DM
+      patients and in healthy controls.
+
+      10 T1DM patients and 10 healthy age gender and BMI matched control subjects will be
+      recruited. Patients will be on their usual insulin pump therapy, and the rate of the basal
+      insulinization will be kept constant from 02:00 AM until the end of studies. All subjects
+      will be studied on 3 separate occasions at 1-2 weeks intervals. In patients, study 1 will be
+      a standard 120 min euglycemic insulin clamp. Timed blood samples will be collected to measure
+      insulin levels at 10'-30' intervals. Plasma glucose will be measured at bedside by a YSI
+      Glucose Analyzer; subcutaneous glucose will be monitored by CGM. In controls, study 1 will be
+      a frequently sampled IVGTT of 240 min of duration. Timed blood samples (n=27) for glucose,
+      C-peptide and insulin will be collected. Studies 2 and 3 will be identical in both patients
+      and controls. They will be performed in randomized order and will last 360'. After a 60 min
+      baseline period, at time 0' subjects will ingest either a 320 kcal (study 2) or a 640 kcal
+      (study 3) meal. Meal composition (%Kcal: 53.3% carbohydrate, 28.2% lipid, 18.5% protein) will
+      be Indian corn polenta plus parmesan cheese. Patients will program their pump to inject at
+      time 0' a meal insulin bolus dose, calculated as usual. Blood samples (n=20) will be
+      collected at timed intervals to measure plasma glucose, 13C/12C-glucose ratio, insulin,
+      glucagon and C-peptide (the latter one only in control subjects). At a lower time frequency,
+      triglycerides, non-esterified fatty acids (NEFA), active glucagon-like peptide-1 (GLP1) and
+      total gastric inhibitory peptide (GIP) will also be measured. Subcutaneous glucose will be
+      monitored by CGM only in patients. Data derived from IVGTT in controls will take the role
+      played by the insulin clamp data in T1DM patients. Past experiments and also unpublished
+      observations in our laboratory have shown that similar values of insulin sensitivity are
+      obtained with IVGTT and insulin clamps in healthy people. The other difference is that,
+      instead of the insulin pump, a beta cell secretion minimal model will be used, as previously
+      described. The availability of 12C/13C-glucose ratio determinations will enrich further this
+      picture, allowing to compute the contribution of meal carbohydrate to total plasma glucose
+      and, by difference, the contribution of endogenous (primarily liver) production to total
+      glucose. This data enrichment will result into further model development at step 3 (in both
+      controls and patients) and will allow to split total insulin action into its two components,
+      the one acting on endogenous glucose production and the one acting on glucose utilization.
+      The former will be relevant to interpret the glucagon and, possibly, also the active GLP1
+      data.
+
+      With this strategy, it is possible to compute all relevant CCs of G(t), for both plasma and
+      CGM values. Phenotypic results are layered in three levels of ascending complexity:
+
+        1. Model-free measurements: meal substrate and hormone levels, with particular regard to
+           glucagon and active GLP1 for their action on liver glucose production and to total GIP,
+           as a regulator of fat cell metabolism;
+
+        2. Model-derived estimates of single traits of the glucose/insulin system: they include,
+           but are not limited to, glucose-sensitivity (SG), insulin sensitivity (SI), carbohydrate
+           transit time to reach systemic circulation, mean transit time of insulin to reach
+           systemic circulation from the subcutaneous depot (only patients);
+
+        3. Model-derived assessment of system properties of the glucose-insulin system (controls)
+           and of the glucose-insulin pump system (T1DM) patients: they include all the glucose
+           (also CGM glucose in patients) coefficients of control.
+
+      PROTOCOL 2: Reproducibility of the assessment of the glucose-insulin system during a single
+      mixed meal test in T1DM patients.
+
+      10 T1DM patients on insulin pump therapy and subcutaneous continuous glucose monitoring (CGM)
+      will be recruited. The study protocol is identical to protocol 1 with the following
+      exceptions: 1. in 5 T1DM patients study 2 and study 3 will be two repeated 320 kcal meals; 2.
+      in 5 T1DM patients study 2 and study 3 will be two repeated 640 kcal meals. The phenotypic
+      results will be layered as in protocol 1 for reproducibility analysis.
+
+      -PROTOCOL 3: The glucose-insulin system during a 24-hour period in T1DM patients and in
+      controls.
+
+      10 T1DM patients and 10 healthy age gender and BMI matched control subjects will be
+      recruited. All subjects will be studied on 2 separate occasions at 1-2 weeks intervals. Both
+      in patients and in controls, study 1 will be identical to protocol 1 (i.e. an insulin clamp
+      and an IVGTT, respectively). In study 2 all subjects will be admitted to the Clinical
+      Research Center (CRC) on the morning of the study (07:00 AM) and will stay there for its
+      entire duration (24 hours). Subjects will be allowed to move freely within the CRC, but they
+      will not be engaged in any physical exercise. Patients will continue their usual insulin
+      therapy, including meal insulin dose calculation and injection, throughout the study. At
+      08:00 AM, 13:00 and 19:00 subjects will ingest three mixed meals (200 kcal/m-2 of Body
+      Surface Area (BSA), 400 kcal/m-2 BSA and 400 kcal/m-2 BSA, respectively; diet composition:
+      54% carbohydrate, 28% lipid, 18% protein). In 6 patients and in 6 controls, the 13:00 meal
+      will be Indian corn polenta plus seasoned Italian DOP parmesan cheese. In the other 6
+      patients and 6 controls, the 19:00 meal will be Indian corn polenta plus seasoned Italian DOP
+      parmesan cheese. Timed blood samples (n=62) will be collected. Plasma glucose, insulin,
+      glucagon and C-peptide (the latter one only in control subjects) will be measured at all time
+      points. At a lower time frequency, triglycerides, non-esterified fatty acids (NEFA), amino
+      acids, active GLP1 and total GIP will also be measured. In those subjects ingesting the
+      polenta meal at 13:00, the 13C/12C-glucose ratio will be measured from 12:00 until 24:00. In
+      those subjects ingesting the polenta meal at 19:00, the 13C/12C-glucose ratio will be
+      measured from 18:00 until 07:00 the morning after. Subcutaneous glucose will be monitored by
+      CGM only in patients. The polenta meal will be used only in one meal per day to avoid loss of
+      interpretability of 13C/12C-glucose ratio data, owing to ongoing glucose carbon
+      recirculation/recycling through glycogen/gluconeogenesis. The behaviour of the
+      glucose/insulin system at breakfast time is already explored in Protocol 1. Results will be
+      layered and analyzed as described in Protocol 1.
+
+      EXPECTATIONS: The combined analysis of insulin clamp and mixed meal test (MMT) data will
+      allow to build a comprehensive model of the glucose insulin system during a MMT in each
+      subject, which will thereby work as an in silico virtual patient, according to a well
+      established methodology developed in our laboratory. The collection of virtual patients with
+      type 1 diabetes undergoing a MMT will form the in silico biobank derived from this study.
+      Virtual patients will be used to carry out MCA to compute CCs. Furthermore, the incretin
+      hormone, glucagon and substrate response to a mixed meal will be quantified, allowing the
+      putative identification of further modifiers of the glucose-insulin system. This database
+      will be instrumental in devising a control algorithm able to guarantee a normal glucose
+      regulation during a mixed meal in patients with type 1 diabetes with CGM on insulin pump
+      therapy.
+    
+  

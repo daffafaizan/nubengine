@@ -1,0 +1,51 @@
+
+    
+      Warfarin is the most commonly used oral anticoagulant medication. Due to the difficulty in
+      determining an individual's proper warfarin dose, therapy is typically initiated with a
+      standard dose followed by INR monitoring with frequent dose adjustment to ensure the medicine
+      is working properly. Unfortunately, therapeutic warfarin doses vary significantly from
+      patient to patient, so that even a standard dose can lead to excessive anticoagulation with
+      its associated risk of causing life-threatening hemorrhaging. Genetic and non-genetic factors
+      both influence an individual's warfarin dose requirement and response characteristics. There
+      has been substantial evidence demonstrating a clear gene-dose relationship. Although this
+      importance of pharmacogenetics to warfarin therapy is understood, clear guidance for how such
+      information should be applied to patient therapy is woefully absent. The Personalized
+      Medicine Interface Tool (PerMIT) is a software utility that supplies this critical guidance
+      by modeling the dose requirements and response characteristics of individual patients based
+      on their genotypic and physical characteristics. Using state-of-the-art multivariate
+      computations, PerMIT calculates a warfarin maintenance dose estimate and also models the
+      influence of repeated dosing on plasma drug concentration.
+
+      Both genetic and non-genetic factors (such as age, weight and gender) influence warfarin dose
+      requirement and response characteristics of the individual. Recently, multi-variate
+      mathematical equations, which take into account these genetic and non-genetic factors, such
+      as age, weight and gender, have been developed to calculate an estimate of the warfarin
+      maintenance dose requirement (Linder 2002, Zhu 2007, Sconce 2005, Millican 2007). The
+      temporal response to routine administration of medications is dictated by the clearance rate
+      of the medication and its effective concentration, the blood concentration over the dosing
+      interval that is required to elicit the desired pharmacologic effect. The clearance of
+      S-warfarin is primarily dictated by the patient's Cytochrome P4502C9 (CYP2C9) genotype,
+      whereas the effective S-warfarin concentration is primarily dictated by the patient's vitamin
+      K epoxide reductase complex protein 1 (VKORC1) genotype (Linder 2002, Herman 2005, Zhu 2007).
+
+      It is now well-known that genetic variants of CYP2C9 lead to decreased S-warfarin metabolism
+      (clearance) and an increased elimination half-life. The elimination half-life of medications
+      dictates the time required for repeated dosing to result in reproducible drug concentrations
+      over the dosing interval for a given dosage. This situation is referred to as steady-state
+      and is the most reliable time to interpret the dose-response relationship (INR measurements).
+      S-warfarin half-life can be estimated based on the individual's CYP2C9 genotype (Linder 2002,
+      Herman 2005, Loebstein 2001) and the steady-state concentration of S-warfarin under optimal
+      anti-coagulation conditions is closely related to the patient's VKORC1 genotype (Zhu 2007).
+
+      PerMIT: Warfarin has clear theoretical benefits and has been demonstrated to be accurate;
+      however, prospective randomized control clinical trials are required to demonstrate the
+      efficacy of the PerMIT: Warfarin software in comparison to standard of care. We have designed
+      this two-arm, prospective randomized control trial to directly assess the efficacy of PerMIT:
+      Warfarin in (a) identifying patients' optimal dose requirements; (b) reducing patients' time
+      to achieve stable therapy; (c) reducing the frequency of out-of-range INR measurements; and
+      (d) reducing the number of dose adjustments. This study will evaluate whether, and to what
+      degree, PerMIT: Warfarin improves these patient care outcomes and, by extension, reduces
+      their risk of adverse drug reactions when compared to patients who receive therapy based on
+      the standard of care.
+    
+  

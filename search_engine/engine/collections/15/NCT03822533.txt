@@ -1,0 +1,112 @@
+
+    
+      Problem statements:
+
+      What is the difference in cost efficiency between a healthcare process with a physical
+      therapist as primary assessor and a physician as primary assessor for patients with suspected
+      KOA?
+
+      Which effect does a clinical pathway with a physical therapist as primary assessor for
+      patients with suspected knee osteoarthritis have on quality adjusted life years compared with
+      a physician as primary assessor?
+
+      What are the differences in costs between the two healthcare processes initiated by either a
+      physiotherapist or a physician set against the differences in effects?
+
+      Patient recruitment:
+
+      Some data has already been collected for another clinical trial (ID: NCT03715764), which will
+      be used in this study too. The patient recruitment is finished, while data collection
+      regarding cost variables has not started yet.
+
+      Patients were recruited from primary care centers and rehabilitation centers in southwestern
+      Sweden.
+
+      Screening procedure:
+
+      Nurses and administration personnel at the recruitment units got information about the study
+      and the screening protocol from the data collector and project leader. Each recruiting unit
+      had a contact person that were responsible for the protocols and to contact the data
+      collector when an eligible patient was found. It was regular contact between the project
+      leader and the contact persons at the recruiting units. All screening protocols were sent to
+      the data collector. All participants got orally and written information about the study from
+      the data collector, and patients provided written informed consent.
+
+      Randomization:
+
+      A computer-generated list of random numbers was used, where participants were randomly
+      assigned to being assessed, diagnosed and treated either by a physiotherapist or a physician
+      first. The project coordinator managed the sequence generation, allocation concealment,
+      enrolment and assignments of participants and kept the concealed randomization scheme and
+      sequentially numbered, sealed envelopes in a locked cupboard (in the same building where the
+      enrolment will be), only available for the project coordinator. The project coordinator
+      revealed the allocation to the participant shortly after the baseline measurement and to the
+      health care providers. Data collector, data analyst and statistician were blinded of
+      allocation until completion of data collection for the primary outcome measures at the 12
+      months follow up for the last recruited patient. Group allocation was revealed when analysing
+      data for the other clinical trial (ID: NCT03715764).
+
+      The project coordinator was not involved in the screening procedure nor the data collection,
+      and was included among the healthcare providers in the study. The blinded data collector and
+      analyst, whom is a physical therapist, were not involved in assessing, diagnosing and
+      treating patients with knee osteoarthritis while the first study (ID: NCT03715764) was
+      conducted.
+
+      Data collection:
+
+      Demographic data and measurements of HrQoL has already been collected for another clinical
+      trial (ID: NCT03715764). These data will also be used for the cost-efficiency analysis.
+      Demographic data were collected at baseline. Measurements of HrQoL were measured with EuroQol
+      5 dimensions 3 levels (EQ5D-3L) and collected at baseline (before randomization), 3- , 6- and
+      12 months follow ups.
+
+      New data collection will be made for cost variables. Data regarding costs for the healthcare
+      processes will be extracted from patient journals. The costs for visits to physical
+      therapist, physician or other healthcare provider will be collected from the healthcare
+      organization. The drug prices will be collected from the Swedish Association of Local
+      Authorities and Regions for the time period the drugs were prescribed. Production loss due to
+      sick-leave and health care visits will be valued according to mean gross salary (including
+      taxes and social fees).
+
+      Calculating total costs (number of contacts per patient * costs ) for:
+
+        -  Physiotherapy contacts in primary care
+
+        -  Physician contacts in primary care
+
+        -  Referral to x-ray
+
+        -  Referrals to other healthcare givers
+
+        -  Drug prescription
+
+        -  Sick-leave days
+
+      Data management:
+
+      All data will be coded and managed according to the General Data Protection Regulation. All
+      data will be confidential and only authorized will have access to the patient registry. No
+      individual information can be identified since the results will be presented at group level.
+      Data will be saved for at least 10 years to enable audit.
+
+      Sample size:
+
+      A sample size of 50 patients per group will be necessary to detect a minimal clinical
+      improvement of 0.121(SD 0.2) on the EQ5D-3L-index, given an anticipated dropout rate of 14%.
+      The sample size calculation was calculated with a two-sided 5% significance level and a power
+      of 80%.
+
+      Statistical analysis plan:
+
+      Data will be analyzed descriptively and presented as numbers and percent, mean and standard
+      deviation or median and 25th to 75th percentiles. Statistical analysis will be made in SPSS
+      Windows and the analysis will be applied with intention-to-treat (ITT).
+
+      The economic evaluation will be developed together with a health economist. The method will
+      be a cost-effectiveness analysis alongside the clinical trial comparing costs and effects for
+      the two alternatives based on collected data from the trial. The EQ5D-3L measurements will be
+      used for analyzing quality adjusted life years. The result will be presented as an
+      incremental cost-effectiveness ratio (ICER) and a non-parametric bootstrapping will be
+      conducted to demonstrate the uncertainties surrounding the ICER.
+    
+  

@@ -1,0 +1,82 @@
+
+    
+      Continuous renal replacement therapy (CRRT) is a dialysis modality used in critically ill
+      intensive care unit (ICU) patients because it is associated with less hemodynamic instability
+      than traditional hemodialysis. CRRT can be conducted using one of two different modalities,
+      which are continuous venovenous hemofiltration (CVVH) and continuous venovenous hemodialysis
+      (CVVHD). CVVH used conductive clearance, whereas CVVHD uses diffusive clearance (CVVHD).
+
+      In CVVH, plasma water is removed across the filter using transmembrane pressure which forces
+      fluid into the effluent space. Solutes are removed via "solvent drag", which is the process
+      by which solutes follow fluid flow. The rate of fluid removal is high (usually around 2-3
+      L/hr), and so hemodynamic collapse would quickly occur in the fluid were not replaced. The
+      patient is therefore given "replacement fluid" which can be given pre-filter or post-filter,
+      and usually nearly matches the fluid removal rate. For instance, if 2 L are removed per hour,
+      2 L are given back in the form of replacement fluid, if volume neutrality is desired. If
+      fluid removal is desired, 1.9 L (e.g) may be given back, resulting in the net loss of 0.1 L
+      of fluid per hour. The composition of the replacement fluid determines the serum
+      concentration. As an example, if 2 L of fluid with a potassium concentration of 6.0 mmol/L (a
+      high amount, 4.0 is normal) is removed and replaced with 2 L of replacement fluid with a
+      potassium concentration of 2 mmol/L, then 8 mmol of potassium will be "removed" per hour, and
+      the potassium concentration of the serum will fall.
+
+      In CVVHD, dialysate flows in the effluent space, creating a gradient which leads to movement
+      of solutes either into or out of the blood, depending on the gradient direction. For
+      instance, if serum has a potassium concentration of 6 mmol/L, and the dialysate has a
+      concentration of 2 mmol/L, potassium will move from the blood into the dialysate, until the
+      dialysate concentration is also equal to 6 mmol/L. At that point, net potassium movement will
+      be 0, as the concentration will be equal. As with CVVH, with a dialysate flow rate of 2 L/hr
+      will result in the removal of 8 mmol of potassium per hour. While these technical details
+      concern only the specialist, the important take away is that both of these modalities achieve
+      equivalent clearance, via different mechanisms. Notably, there are no differences in clinical
+      outcomes with use of one or the other modality, and these modalities are currently thought to
+      have complete equipoise. The decision is generally based on provider comfort and preference.
+      There is no clinical scenario where one modality would be preferable to the other, based on
+      current evidence.
+
+      A major issue when using CRRT is filter clotting, which occurs on average every 30 hours.
+      Clotting renders the circuit unusable, and requires that the machine be reset, which is a
+      process that takes 1-2 hours on average, and potentially longer depending on the availability
+      of the dialysis nurses who change the circuits. This results in less delivery of dialysis
+      than what is prescribed, and clotting is often also associated with the loss of the blood
+      that is clotted in the circuit. This could be up to 150 ccs, which is a potentially
+      significant amount in critically ill patients. As noted within the figures, post-filter CVVH
+      is associated with hemoconcentration, and is thought to be associated with more clotting than
+      CVVHD, where no hemoconcentration occurs. The situation is more complicated in pre-filter
+      CVVH, however. As in Figure 3, the fluid is initially diluted, and then the fluid is removed
+      over the course of flow through the filter. Some Nephrologists believe that this initial
+      dilution of the blood results in decreased risk of clotting. However, other nephrologists
+      believe that due to differential flow rates in the blood and replacement fluid that
+      hemoconcentration still occurs within the filter, albeit to a much lesser degree than in
+      post-filter CVVH (this argument is difficult to explain conceptually to a lay audience, but
+      an attempt is made within Figure 3). It is therefore unclear currently whether pre-filter
+      CVVH and CVVHD have equal or unequal rates of clotting. Because centers tend to use
+      exclusively one modality or the other (or a combination, which is beyond the scope of this
+      summary), retrospective analyses are often not possible due to lack of a comparison group.
+
+      Figure 3. In pre-filter CVVH, replacement fluid is administered prior to the blood passing
+      through the filter. Nephrologists argue about the effect this has on the rates of
+      hemoconcentration. Some would argue that after the initial dilution, the blood only returns
+      to its initial concentration by the end of the filter, and thus over the course of the
+      filter, there is actually hemodilution that decreases likelihood of clotting. Other
+      nephrologists argue like so: With a blood flow rate of 12 L/hr (standard), and a fluid flow
+      rate of 2 L/hr, then 14 L/hr enter the fluid, and 2 L/hr are removed, which is 14% (2/14) of
+      the fluid that entered. If the fluid flow rate is increased to 4 L/hr, then 16 L /hr enter
+      the filter, and 4L/hr are removed, which is 25% (4/16). This would therefore theoretically
+      result in higher degrees of clotting. The question of pre-filter CVVH and its impact on
+      clotting relative to CVVHD is therefore unanswered, and is the reason for the proposed
+      study."
+
+      In short, the investigators plan to start patients who need CRRT on either CVVH or CVVHD by
+      block randomization, and then to measure how often the filters on the machine need to be
+      replaced.
+
+      The investigators plan to exclude minors, prisoners, and patients undergoing a certain
+      procedure called "extracorporeal membrane oxygenation" (ECMO). ECMO is designed to pump blood
+      and provide oxygen to the patient when the heart and lungs are not working correctly (ECMO
+      attempts to do the work of the heart and lungs in instances where the patient's organs have
+      failed). CRRT can be added to an ECMO circuit if renal failure is also present, but this is a
+      specialized instance with unique risk factors for clotting, and is not representative of the
+      general CRRT population.
+    
+  

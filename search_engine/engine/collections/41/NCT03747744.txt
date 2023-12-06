@@ -1,0 +1,90 @@
+
+    
+      Over the past few years it has become evident that cancer cells can be recognized by the
+      patient's own immune system. The immunological mechanisms at play are often referred to as
+      the "cancer immune cycle" (Chen and Mellman 2013; Mellman 2013; Chen and Mellman 2017).
+      Remarkable anti-tumor activity has been achieved by blocking the inhibitory T-cell receptor
+      CTLA-4 and/or the PD-1/-L1 axis. Immune checkpoint inhibition by monoclonal antibody (mAb)
+      therapy has become a standard of care in patients with advanced melanoma, renal cell
+      carcinoma, non-small cell lung carcinoma, Hodgkin's lymphoma and bladder cancer. Indications
+      are still expanding. Activity of PD-1 and CTLA-4 inhibition has been correlated with
+      hallmarks of pre-existing anti-tumor T-cell response (e.g. presence of cytotoxic T
+      lymphocytes (CTL) in the tumor microenvironment (TME), PD-L1 expression in response to T-cell
+      secreted IFN-gamma and transcriptional evidence for CTL-activity), mutational load of the
+      cancer cells and presence of highly immunogenic neo-epitopes in the cancer cell genome
+      (Tumeh, Harview et al. 2014). In immune-evasive tumors a pivotal role has been attributed to
+      myeloid dendritic cells (myDC) in regulating the activity of anti-tumor CTL activity within
+      the TME (Broz, Binnewies et al. 2014). In animal models, myDC have been demonstrated to play
+      an essential role in "licensing" anti-tumor CTLs to eradicate tumor cells. Activation of
+      oncogenic signaling pathways such as the WNT/beta-Catenin pathway can lead to the exclusion
+      of myeloid DC's from the TMZ (Spranger, Bao et al. 2015; Spranger and Gajewski 2016). Absence
+      of myDCs at the invasive margin and within metastases has been correlated with defective CTL
+      activation allowing the metastasis to escape the anti-tumor immune response (Salmon, Idoyaga
+      et al. 2016). These myDC also migrate to tumor-draining lymph nodes and present tumor
+      antigens to T-cells in these secondary lymphoid organs (Roberts, Broz et al. 2016). Presence
+      of myeloid DC's was more strongly correlated with T-cell infiltration into tumors as compared
+      to neo-antigen load in 266 melanomas from The Cancer Genome Atlas(Spranger, Luke et al.
+      2016). Human myDCs exist in two subsets that are differentiated by expression of either the
+      BDCA-1 or BDCA-3 surface marker. The CD1c (BDCA-1)+ antigen is specifically expressed on
+      human dendritic cells, which are CD11chighCD123low and represent the major subset of myDCs in
+      human blood (about 0.6 % of all peripheral blood mononuclear cells (PBMC)). CD1c (BDCA-1)+
+      myDC have a monocytoid morphology and express myeloid markers such as CD13 and CD33 as well
+      as Fc receptors such as CD32, CD64, and FceRI. Furthermore, myDC are determined to be CD4+,
+      Lin (CD3, CD16, CD19, CD20, CD56)-, CD2+, CD45RO+, CD141 (BDCA-3)-low, CD303 (BDCA-2)-, and
+      CD304 (BDCA-4/Neuropilin-1)-. A proportion of CD1c (BDCA-1)+ myDC co-expresses CD14 and
+      CD11b. These dual positive cells for CD14+ and CD1c (BDCA-1) have immunosuppressive capacity
+      and inhibit T-cell proliferation in vitro. Depletion of this cell type is preferred prior to
+      using CD1c (BDCA-1)+ cells for immunostimulatory purposes (Bakdash, Buschow et al. 2016;
+      Schroder, Melum et al. 2016). CD1c (BDCA-1)+ myDC play an important role in the
+      cross-presentation of tumor antigens following immunogenic cell death (Di Blasio, Wortel et
+      al. 2016). Under conditions of tumor growth, myDC will be poorly recruited to the tumor
+      microenvironment, do not get activated and thereby fail to efficiently coordinate anti-tumor
+      immunity within the tumor micro-environment and present tumor associated antigens within
+      tumor-draining lymph nodes. When activated appropriately, human CD1c (BDCA-1)+ dendritic
+      cells secrete high levels of IL-12 and potently prime CTL responses (Nizzoli, Krietsch et al.
+      2013). In vitro, IL-12 production by CD1c (BDCA-1)+ myDC can be boosted by exogenous
+      IFN-gamma. (Nizzoli, Krietsch et al. 2013) CD1c (BDCA-1)+ myDC spontaneously "partially
+      mature" within 12 hours following their isolation. Optimal maturation with secretion of
+      IFN-gamma as well as the orientation of stimulated T-lymphocytes towards a Th1 phenotype is
+      only achieved following Toll-like receptor stimulation.(Skold, van Beek et al. 2015)
+      Talimogene laherparepvec (T-VEC; Imlygic) is a first-in-class oncolytic virus based on a
+      modified herpes simplex virus (HSV) type 1 designed to selectively replicate in and lyse
+      tumor cells while promoting regional and systemic antitumor immunity. T-VEC is modified
+      through the deletion of two nonessential viral genes. Functional deletion of the herpes virus
+      neurovirulence factor gene (ICP34.5) attenuates viral pathogenicity and enhances
+      tumor-selective replication. T-VEC is further modified by deletion of the ICP47 gene to
+      reduce virally mediated suppression of antigen presentation and increase the expression of
+      the HSV US11 gene. Insertion and expression of the gene encoding human granulocyte macrophage
+      colony-stimulating factor (GM-CSF) results in local GM-CSF production to recruit and activate
+      antigen presenting cells with subsequent induction of tumor-specific T cell responses. T-VEC
+      has been evaluated in early-phase studies, which demonstrated intratumoral replication and
+      expression of GM-CSF and an acceptable safety profile (low-grade fever, chills, myalgias, and
+      injection site reactions) after intralesional administration. In a single arm phase II study,
+      an overall response rate (ORR) of 26% was reported in patients with stage IIIc to IV
+      melanoma, with responses observed in both injected and non-injected lesions, including
+      visceral lesions. Biopsy of regressing lesions suggested an association between response and
+      presence of IFN- producing MART-1-specific CD8+ T cells and reduction in CD4+ FoxP3+
+      regulatory T cells, consistent with induction of host antitumor immunity. The efficacy and
+      toxicity of T-VEC in advanced melanoma was evaluated in a randomized phase III trial
+      comparing intratumoral T-VEC injections with subcutaneous GM-CSF injections. With T-VEC, the
+      primary end point of durable response rate (DRR; continuous response lasting > 6 months) was
+      significantly higher (16% vs 2%; odds ratio, 8.9; P,.001), ORR improved (26% vs 6%), and the
+      overall survival (OS) improved numerically but not statistically by 4.4 months (hazard ratio,
+      0.79; 95% CI, 0.62 to 1.00; P = .051). Tumor regression was seen in tumors both injected and
+      not injected with T-VEC. The incidence of grade 3/4 T-VEC-related adverse events (AEs) was
+      11%. (Andtbacka, Kaufman et al. 2015) In an open-label, multicenter, phase Ib trial, the
+      combination of T-VEC with ipilimumab had a tolerable safety profile, and the combination
+      appeared to have greater efficacy than either T-VEC or ipilimumab monotherapy.(Puzanov,
+      Milhem et al. 2016) The combination of T-VEC plus pembrolizumab (an anti-PD1 monoclonal
+      antibody) was associated with clinical benefit in advanced melanoma, as assessed by ORR and
+      CR rate (Ribas, Dummer et al. 2017). A randomized, double-blind phase 3 trial of T-VEC plus
+      pembrolizumab vs T-VEC placebo plus pembrolizumab is ongoing. In this phase I clinical trial
+      we propose to investigate the safety of intratumoral injection of autologous CD1c (BDCA-1)+
+      myDC in non-visceral metastases of melanoma plus intratumoral injection of T-VEC (at its
+      approved dose and regimen for the treatment of melanoma).
+
+      We hypothesize that CD1c (BDCA-1)+ myDC in the T-VEC inflamed tumor microenvironment of the
+      metastasis will capture tumor antigens in vivo and through cross-presentation of these
+      antigens coordinate an effective anti-tumor T-cell response.
+    
+  

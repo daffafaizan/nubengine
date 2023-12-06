@@ -1,0 +1,32 @@
+
+    
+      In December 2019, a novel coronavirus, severe acute respiratory syndrome coronavirus 2
+      (SARS-CoV-2; earlier named as 2019-nCoV), emerged in Wuhan, China. The diseases caused by
+      SARS-CoV-2 is COVID-19. As of March 8, 2020, more than 100 000 COVID-19 patients have been
+      reported globally (more than 80 000 cases in China, more than 20 000 in other countries), and
+      3 600 patients (3 100 in China, 500 outside of China) have died. The outbreak of COVID-19
+      constitutes a Public Health Emergency of International Concern.
+
+      Among COVID-19 patients, around 80% are mild (non-severe) illness patients, who usually heal
+      within two weeks. However, another 20% of patients may aggravate into a severe or critical
+      illness which results in a longer hospital stay, and the mortality rate for such patients is
+      13.4%. Therefore, inchoate identification of the high-risk severe patients is extremely
+      important for patient management and medical resource allocation. General quarantine and
+      symptomatic treatment can be used for most non-severe patients, while a higher level of care
+      and green channel to the intensive care unit (ICU) are helpful for severe patients. Previous
+      studies have summarized the clinical and radiological characteristics of severe COVID-19
+      patients, while which factors are important predictors is still unclear.
+
+      Machine learning is a branch of artificial intelligence that enables us to learn knowledge
+      and potential laws from the given data and to build a model for solving problems as human
+      needs. In recent years, machine learning has been developed as a novel tool to analyze large
+      amounts of data from medical records or images. Previous modeling studies focused on
+      forecasting the potential international spread of COVID-19.
+
+      Therefore, our purpose is to develop and validate a machine-learning model based on clinical,
+      laboratory, and radiological characteristics alone or combination of COVID-19 patients in the
+      early stage without severe illness from multiple centers for the prediction of severe (or
+      critical) illness in the following hospitalization to facilitate risk Assessment before and
+      after symptoms and triage (home, hospitalization inward or ICU).
+    
+  

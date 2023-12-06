@@ -1,0 +1,141 @@
+
+    
+      Health and well-being are increasingly being emphasized in modern society. In response,
+      mindfulness-based training (MBT) (e.g. Mindfulness Based Stress Reduction (MBSR)
+      (Kabat-Zinn,1990)) is slowly gaining popularity as a method to alleviate the stress of modern
+      day living. MBT involves bringing one's attention to the present moment, stopping one's
+      thoughts from drifting into concerns about the past or the future It has significant effects
+      on improving mental health via reducing symptoms of stress, anxiety and depression (Fjorback,
+      Arendt, Ørnbøl, Fink & Walach, 2019). Local studies have similarly demonstrated the efficacy
+      of mindful training in stress reduction for mental health professionals in Singapore (Suyi,
+      Meredith & Khan, 2017).
+
+      Reducing stress and improving metacognitive processes also contributes to better emotional
+      regulation, thus facilitating better sleep quality (Chiesa et al., 2011; Zeidan et al.,
+      2010).. By breaking up cycles of rumination and worry, mindfulness is hypothesized to reduce
+      "verbal overregulation" and facilitate the disengagement necessary to fall asleep (Gross et
+      al., 2011). Mindfulness programs have been found to improve sleep quality in both healthy
+      individuals (Lazar et al., 2000) and patients with medical or psychiatric illness, including
+      insomnia and depression (Carlson & Garland, 2005; Heidenreich et al., 2006).
+
+      While there is much documentation supporting the efficacy of mindfulness training on stress
+      and sleep, there is little research that attempts to evaluate the interpersonal differences
+      or factors that predict the efficacy of mindfulness training on sleep and stress. Isolating
+      these predictive variables consequently allows a better way to evaluate suitability of the
+      mindfulness intervention on an individual basis; maximizing the results for the individual.
+      With this new information, individuals suffering from stress and bad sleep would be able to
+      better be able to select the most effective intervention.
+
+      While the concepts above have often been explored in relation to mindfulness, no studies to
+      date have used machine learning to assess how these variables predispose an individual to
+      benefit from mindfulness training. Generating this algorithm will allow for the prediction of
+      treatment response in future trainees. Further, a better understanding of the effect of
+      individual differences on efficacy can open the door for future research to examine how and
+      why these differing results exist and incorporate this information to increase the
+      effectiveness of mindfulness training.
+
+      Participants signing up for the 4 or 8 weeks mindfulness training courses at the Brahm Centre
+      and run by Potential Project (two external organization providing Mindfulness based courses)
+      will be automatically sent a link to the questionnaire packet several days after course
+      enrolment. Participants will be provided with a survey link in the enrolment email that is
+      sent to participants to confirm their enrolment, separate recruitment e-mails will not be
+      sent out.
+
+      Participants will be informed that the data will form part of a research study, that any
+      information provided is anonymous, and that they can opt out of completing the questionnaires
+      without any penalty to their class enrolment. Recruitment emails will not be sent out. On
+      enrollment in any of the courses, participants will be informed that there is an option to
+      take part in the study.
+
+      Staff sending out emails will be separate from staff carrying out the mindfulness training
+      programs. This will ensure that there will be no scenario where a dependent relationship will
+      occur.
+
+      Participants can decide if they prefer to sign up for the 4 weeks or 8 weeks Mindfulness
+      courses, depending on availability at the Mindfulness centres.
+
+      Questionnaires will be administered through the platform SurveyMonkey ©. SSL encryption will
+      be used to protect sensitive data as it is relayed between the respondent's computer and
+      SurveyMonkey© servers.
+
+      Questionnaires will be administered twice, with the predictor surveys administered at
+      pre-intervention only, and outcome variables collected both pre- and post-intervention (PSQI
+      and PSAS).
+
+      Predictive factors 10 predictive factors were chosen to evaluate their predictive qualities
+      on the effectiveness of mindfulness training in reducing stress and improving sleep:
+      Personality: Mindfulness training has been shown to be more effective in students with higher
+      scores in conscientiousness and neuroticism (Winning & Boag, 2015). As such, the NEO-FFI-3
+      will be used to measure the dimensions of personality.
+
+      Trait Mindfulness: Baseline trait mindfulness has been shown to be a significant moderator of
+      MBSR intervention effects (Shapiro, Brown, Thoresen, & Plante, 2010). The investigators have
+      included trait mindfulness to corroborate previous studies that have shown this relationship
+      as well as to explore its effect within a local population.
+
+      Mood and depression: While depression and mood has been often measured in conjunction with
+      Mindfulness training, there has been little to no research on how it relates to mindfulness
+      training efficacy State-Trait Anxiety: Mindfulness has been shown to alleviate state trait
+      anxiety in individuals (Bergen-Cico & Cheon, 2013). The investigators are thus interested in
+      whether a higher or lower baseline score in the STAI will affect the efficacy of mindfulness
+      training Empathy: There are mixed results in regards to the relationship between empathy and
+      mindfulness; with some studies finding no significant connection (Bergen-Cico & Cheon, 2013),
+      and others showing differing effectiveness dependent on personality traits (Winning & Boag,
+      2015; Ridderinkhof, de Bruin, Brummelman, & Bögels, 2017).
+
+      Self-compassion: Self compassion is believed to be developed and enhanced through mindfulness
+      training. Birnie, Speca & Carlson (2010) found strong associations between self-compassion
+      and mindfulness. It was found that changes in self-compassion were predictive of changes in
+      mindfulness.
+
+      Learning styles: This was included to investigate whether the difference in learning styles
+      in individuals would affect the ways in which the mindfulness training are internalized; in
+      turn influencing the efficacy of mindfulness training.
+
+      Expectancy/Credibility: Expectancy has been shown to be predictive in evaluating the outcome
+      on some measures (Devilly & Borkovec, 2000). It would be beneficial to understand its effect
+      on the effectiveness of mindfulness training.
+
+      Emotional Regulation: Emotion regulation has been shown to improve with mindfulness-based
+      interventions (Guendelman, Medeiros & Rampes, 2017). The investigators are interested in
+      understanding the effect of emotional regulation on mindfulness training.
+
+      Coping Methods: Mindfulness has been shown to affect the coping strategies used in
+      individuals. The effect of coping methods on mindfulness training efficacy is thus of
+      interest to our study.
+
+      Questionnaires Pittsburgh Sleep Quality Index (PSQI; Buysse et al., 1989)
+
+      Perceived Stress Scale (PSS; Cohen, Kamarck & Mermelstein,1983)
+
+      Objectives
+
+      This research has four objectives:
+
+      To corroborate findings on the effect of mindfulness training on perceived stress.
+
+      Hypothesis: based on previous literature, the investigators predict that mindfulness
+      interventions will decrease perceived stress, with lower PSS score post intervention.
+
+      To test whether individual differences might be predictive of the effectiveness of
+      mindfulness training on stress Hypothesis: through the use of machine learning, the
+      investigators aim to create a model that can predict changes in perceived Stress (PSS) post
+      intervention based on individual predictors as defined above.
+
+      To test whether individual differences might be predictive of the effectiveness of
+      mindfulness training on sleep Hypothesis: through the use of machine learning, the
+      investigators aim to create a model that can predict changes in Sleep quality (PSQI) post
+      intervention based on individual predictors as defined above.
+
+      To test the effects of group mindfulness interventions on stress and sleep quality during a
+      period of global uncertainty, a partial lockdown due to the COVID-19 pandemic, compared to
+      Mindfulness intervention in a non-emergency situation.
+
+      Hypothesis (i):the investigator predict that participants would report higher levels of
+      perceived stress and poorer sleep quality at baseline during the period of the pandemic
+      (DORSCON Orange and lockdown) relative to an earlier control period; Hypothesis (ii): the
+      investigators predict that online mindfulness training (during lockdown) would have be
+      non-inferior/equivalent in reducing perceived stress and improving sleep quality compared
+      with DORSCON Orange and the control period.
+    
+  

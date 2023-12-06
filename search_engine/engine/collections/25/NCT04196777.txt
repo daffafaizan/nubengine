@@ -1,0 +1,51 @@
+
+    
+      Trial design: The investigators propose a before/after quasi-experimental design with a
+      non-equivalent control, which will be analyzed with an interrupted time-series analysis. This
+      is the study design with the highest internal validity for population-level interventions
+      when cluster-randomization is not feasible. Thus, this is the ideal design for a pilot study
+      before seeking funding to complete a large multicenter cluster randomized trial.
+
+      Participants: There will be 3 intervention VHA hospitals and 3 control VHA hospitals. To be
+      eligible, a VHA hospital must perform the following 3 urologic procedures: transurethral
+      resection of the prostate (TURP), transurethral resection of a bladder tumor (TUBRT), and
+      ureteroscopy (URS).
+
+      Interventions: The study team will conduct an audit-and-feedback intervention focused on the
+      unnecessary use of prolonged antimicrobial therapy after common urologic procedures.
+
+      The audit-and-feedback intervention will target the urology providers at the 3 intervention
+      sites. Each site's antimicrobial stewardship team will also be a recipient of our feedback.
+      According to VHA Directive 1041, each VHA hospital is required to have both an antimicrobial
+      stewardship pharmacy champion and provider champion. While the stewardship team may be
+      monitoring antimicrobial use at their hospital, data suggests that the stewardship team is
+      often unaware of antimicrobial-prescribing related to urologic procedures. The
+      audit-and-feedback intervention will address this gap.
+
+      Outcomes: The primary outcome for this study will be the frequency of excessive
+      post-procedural antimicrobial-prescribing in the 3 urologic procedures of interest. Secondary
+      outcomes include several safety outcomes, such as late antimicrobial prescriptions, hospital
+      re-admissions, mortality, C. difficile testing and C. difficile infection.
+
+      For each site, the pretest period will be the 2-years prior to the intervention. The
+      intervention itself will last 1-year.
+
+      Selection of sites: Intervention sites will be randomly selected from the top quartile of all
+      sites, as ranked on the frequency of excessive post-procedural antimicrobial-prescribing.
+      Matching controls will be identified based on facility-level data. To qualify as a control
+      site, a hospital's baseline rate of excessive post-procedural antimicrobial use must be
+      comparable to that of its matching intervention site. Matching on the outcome of interest
+      will minimize selection bias and will make the study less subject to regression to the mean,
+      which is the key threat when selecting poor performers. To further ensure that intervention
+      and control sites are as similar as possible, the study team will match on additional
+      facility-level factors: academic affiliation (yes/no), VHA-defined hospital complexity,
+      urologic procedural volume, antimicrobial stewardship resources, and location (rural versus
+      urban).
+
+      Statistical methods: At the conclusion of the pilot trial, a quasi-experimental interrupted
+      time-series (ITS) analysis will be performed to assess the change in monthly antimicrobial
+      use for the 3 intervention sites combined and the 3 control sites combined. The time frame
+      for this ITS analysis will be the two-years prior to the pilot trial's initiation through the
+      trial's 1-year intervention period for a total of 36 months.
+    
+  

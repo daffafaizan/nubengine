@@ -1,0 +1,31 @@
+
+    
+      You are invited to participate in a research study for the development of an artificial
+      pancreas. An artificial pancreas uses a program which takes information from a continuous
+      blood glucose monitor and uses that information to tell an insulin infusion pump how much
+      insulin to deliver. The primary purpose of this study is to gain experience with insulin
+      delivery algorithms or programs program (algorithm) provides the best regulation of glucose
+      levels so that there are no severe low blood glucose reactions and blood glucose levels are
+      generally between 70 to 180 mg/dl. If the system is working properly, you would not need to
+      enter the amount of food you were eating, give an insulin bolus, or change your basal rates
+      while wearing the device. You would need to periodically check to be sure the continuous
+      glucose sensor was functioning properly and you would need to respond to alarms that might
+      occur if your blood glucose was too high, too low, or the glucose sensor or pump were not
+      working well. In addition to this the investigators will also gain experience with insulin
+      delivery algorithms to minimize the number of glucose readings which are above or below
+      target. It is our intention to modify the algorithms during these studies.
+
+      In this study the investigators plan to use a commercially available insulin infusion pump
+      (OmniPod) to deliver lispro (Humalog) insulin. The investigators will use Navigator
+      continuous glucose sensors both to monitor glucose levels (sensor 1) and provide the glucose
+      concentration for the closed loop algorithm (sensor 2). The signal from the second Navigator
+      will be sent by serial cable to a computer which will be at the patient's bedside. A control
+      algorithm will reside on the computer, and the amount of insulin to be delivered will be
+      transmitted to the OmniPod Personal Device Manager which will then send a radiofrequency (rf)
+      signal to the Omnipod pump residing on the subject. A health care provider will be in
+      attendance and monitoring discrete blood glucose levels (YSI, GlucoScout, or HemoCue
+      measurements) at least every 30 minutes. While the Navigator and Omnipod are commercially
+      available they will be used in this study as part of an investigational system while you are
+      in the hospital, an investigational system is one that is not approved for use by the FDA.
+    
+  

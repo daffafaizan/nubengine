@@ -1,0 +1,70 @@
+
+    
+      Objectives:
+
+      To understand whether the implementation of warfarin dose management using NextDose
+      (nextdose.org) at The First Affiliated Hospital of Soochow University (Suzhou, China)
+      improves the quality of anticoagulation therapy.
+
+      Endpoint Primary
+
+        1. Percentage of time within the acceptable INR range estimated using linear interpolation
+           during the 28 days after initiation of warfarin.
+
+           Secondary 2.1 Percentage of Time Measures
+
+             1. Percentage of time within the acceptable INR Range estimated using linear
+                interpolation during the 90 days after initiation of warfarin.
+
+             2. Percentage of time spent above and below the acceptable INR range at day 28, and 90
+                after initiation of warfarin estimated by linear interpolation.
+
+           2.2 Time to Stable Dose a. Number of days to achievement of stable dose (defined as 3
+           consecutive INR measurements within acceptable range for the same mean daily dose).
+
+           2.3 Safety Outcomes a. Number of participants who experience at least one of the
+           following safety events: major bleeding within 30 days, INR of 4 or greater within 30
+           days, death within 30 days, and symptomatic or asymptomatic VTE confirmed by objective
+           testing within 60 days of surgery.
+
+           2.4 Acceptability of NextDose Recommendations
+
+             1. Percentage of prescribed doses within 0.625 mg of the NextDose proposed dose.
+
+             2. Mean difference between the prescribed dose and the NextDose proposed dose.
+                Exploratory 3.1 Percentage of Time Measures
+
+           a. The percentage of time spent within, above and below the acceptable INR range
+           estimated by numerical integration with the Bayesian parameter estimates of the PKPD
+           model at day 28 and at day 90 after initiation of warfarin.
+
+           3.2 Time to Stable Dose a) Days to first INR measurement within the acceptable range. b)
+           Days to second consecutive INR measurement within the acceptable range. c) Number of
+           dose adjustments to achievement of stable dose (3 consecutive INR measurements within
+           acceptable range for the same mean daily dose).
+
+           d) Total number of dose adjustments at day 90. e) Total number of INR measurements at
+           day 90. 3.3 Safety Outcomes
+
+           a) Incidence of minor and major bleeding events. b) Incidence of thromboembolic events.
+           c) 30 day all-cause mortality. d) 90 day all-cause mortality. e) 90 day cardiovascular
+           mortality. f) Number of warfarin doses withheld due to high INR (as determined by the
+           treating clinician).
+
+           3.4 Acceptability of NextDose Recommendations a) Percentage of prescribed doses within
+           20% of the NextDose proposed dose. 3.5 Model Evaluation
+
+           a) Predictive performance of the model for patients with steady-state warfarin doses
+           below 2 or above 7 mg/day.
+
+           3.6 INR Variability
+
+           a) INR variability as described by Lind et al. (the standard deviation of transformed
+           INR values).
+
+           Population:
+
+      240 participants of any sex between the age of 18 and 80 years. Patients requiring treatment
+      with warfarin following cardiac surgery.
+    
+  

@@ -1,0 +1,42 @@
+
+    
+      In 2015, Pediatric Acute Lung Injury Consensus Conference (PALICC) determined the pediatric
+      acute respiratory distress syndrome (PARDS) definition. PALICC recommends using
+      patient-specific tidal volume (VT) according to disease severity. Moreover, in the absence of
+      transpulmonary pressure measurements (PL), an inspiratory plateau pressure limit of 28 cm H2O
+      is recommended, allowing for slightly higher plateau pressures (29-32 cm H2O) for patients
+      with reduced chest wall compliance. In adult ARDS, Amato et al. normalized VT to the
+      compliance(C) by using driving pressure (ΔP) and reported that ΔP was the ventilation
+      variable that best-stratified risk. Changes in ventilator settings resulting in a decrease in
+      ΔP were associated with increased survival. One of the most common modes used in pediatric
+      ventilation nowadays is synchronized controlled mandatory ventilation with adaptive pressure
+      ventilation (APV-CMV). As compared to pressure control mode (P-CMV), APV-CMV prevents low or
+      high VT when the compliance changes by adjusting the applied pressure. Adaptive support
+      ventilation (ASV) is closed-loop ventilation mode, which for a given minute volume set by the
+      clinician, adapts tidal volume (VT) and respiratory rate (RR) according to the patient's
+      respiratory mechanics.
+
+      This prospective randomized cross over study aimed to compare ΔP between physician tailored
+      APV-CMV mode and ASV 1.1 in pediatric mechanically ventilated patients with acute respiratory
+      failure. After the enrollment, the patients' ventilation periods will be determined by
+      randomization using sealed opaque envelopes. The minute ventilation, fraction of inspired O2
+      (FiO2) and positive end-expiratory pressure (PEEP) set by the clinician before study
+      inclusion will be kept unchanged during all study periods. Patients will be ventilated in
+      each mode for 60 minutes. Three consecutive -inspiratory and end-expiratory occlusion will be
+      performed at 30 and 60 min and ΔP will be calculated for each period. Arterial blood gas will
+      be measured at the end of each period. A wash-out period of 30 min using the ventilation mode
+      and setting before inclusion will be performed in between the two study ventilation periods.
+      ΔP will be calculated as the difference between plateau pressure (Pplat) and total PEEP and
+      will be averaged for each ventilation period by using the mean of the six measurements
+      mentioned above. VT will be calculated by integration of flow measurement. Resistance will be
+      calculated by the least-squares fitting method. The expiratory time constant (RCexp) will be
+      derived from the volume-flow curve at 75% of the VT and corresponding flow value. Static
+      compliance (Cstat) will be calculated as VT divided by ΔP.
+
+      The primary outcome will be ΔP. The secondary outcome will be VT, RR, Pplat, Ti, Te, Cstat,
+      Resistance, RCexp, pH, PaO2, PaCO2 A pilot study was performed to calculate the sample size.
+      The mean ΔP was 12.4 (±3.31) cm H2O in ASV 1.1 and 13.5 (±4.2) cm H2O in APV-CMV. By using
+      these pilot data, and assuming the power of 0.95 and α-error of 0.05, investigators have
+      calculated the study size as 26 patients.
+    
+  

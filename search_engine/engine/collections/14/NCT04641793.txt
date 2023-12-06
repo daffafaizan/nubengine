@@ -1,0 +1,61 @@
+
+    
+      When suffering from conditions affecting the central nervous system, such as spinal cord
+      injury (SCI), stroke or neurodegenerative disorders, two pathways are available for regaining
+      independence and quality of life. One way is through clinical interventions, including
+      therapeutic exercises, often in combination with pharmacological agents. The other is
+      provided by assistive technologies, such as wheelchairs or robotic systems. These two
+      approaches have conflicting characteristics. While rehabilitation exercises challenge
+      patients to use the most affected parts of their musculoskeletal apparatus, assistive
+      technologies are typically designed to bypass the disability. This has led to divergent
+      research domains. In both fields there are three major gaps that we plan to address in the
+      investigator's research:
+
+        1. High cost of technology and the limited amount of available hospital-based
+           rehabilitation;
+
+        2. Lack of adaptability of currently available assistive technologies, such as head
+           switches and sip-and puff devices, that require users to overcome a hard learning
+           barrier;
+
+        3. Inadequate criteria for assessment of effectiveness of therapy, with common techniques
+           still relying on subjective approaches that are inadequate considering the current state
+           of biomedical science and technology.
+
+      We will address all of these issues by developing a new generation of body-machine interfaces
+      (BoMI) supporting both assistive and rehabilitative goals. BMIs will translate movement
+      signals and muscle activities of the user into control signals for assistive devices and
+      computer systems. State-of-the-art systems for surface electromyography (EMG) and movement
+      recording (IMU) will be integrated through machine learning techniques to facilitate
+      sensorimotor learning while providing the means to promote or reduce the use of targeted
+      muscles. New comprehensive assessment techniques will be developed by integrating standard
+      measure of function - as the manual muscle test - with EMG analysis and non-invasive magnetic
+      brain stimulation (TMS) (Magstim 200 Bistim, Whitland, UK). The development will be organized
+      in three specific aims.
+
+      AIM 1: To develop a BMI integrating muscle activities and motion signals for operating
+      external devices and performing rehabilitation exercises. EMG signals derived from multiple
+      muscles in the upper body (e.g. deltoid, pectoralis, trapezius, triceps, etc.) will be
+      integrated with motion signals to generate control signals for external devices (e.g. the
+      coordinates of a cursor on a computer monitor or the speed and direction commands to a
+      powered wheelchair). Both linear (PCA) and nonlinear maps (auto encoder networks) will be
+      explored, although current preliminary evidence suggests that non-linear auto encoders (AE)
+      are likely to better facilitate user learning1.
+
+      AIM 2: To enable targeting and modulating recruitment of specific muscles and muscle
+      synergies during the practice of games and functional tasks. To enhance or reduce the role of
+      a muscle or synergy, the output of the BoMI will be modulated in proportion to the deviation
+      of the measured muscle activity from the desired level. The effectiveness of the approach
+      will be tested at different times following training, both by tracking of motions and EMG
+      activities during the performance of selected activities of daily living (ADL) and trough the
+      assessment of muscle responses evoked by non-invasive brain stimulation.
+
+      AIM 3: To promote the adoption of the BoMI by facilitating access to its functions by
+      patients and therapists and by performing an observational study on uptake in the DayRehabTM
+      environment. The Shirley Ryan Ability Lab has established a unique environment in which
+      spinal cord injured and stroke outpatients engage in daily rehabilitation exercises in close
+      physical proximity with researchers. We will seize this opportunity to introduce the BoMI in
+      the context of clinical therapy thus allowing a direct assessment of acceptance by therapists
+      and clients.
+    
+  

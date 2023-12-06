@@ -1,0 +1,60 @@
+
+    
+      Clinical characterization (Burns, Tremoulet, Sivilay, Roberts, Jain): Over the 8 months of
+      enrollment funded by this supplement, 30 sites will collect data on KD and MIS-C patients
+      using the detailed case report form in our REDCap database. This includes data on patient
+      demographics, clinical presentation, laboratory data, treatments, clinical outcomes, and
+      cardiovascular outcomes on all KD and MIS-C patients so that the investigators can develop a
+      systematic picture of the different patient groups (see details below).
+
+      Parent observations (Kim): To learn about signs and symptoms in the patient and family
+      members leading up to acute presentation a parent questionnaire will be devised and analyzed
+      by Dr. Katherine Kim with the Patient and Parent Advisory Board. The investigators will
+      collect known signs and symptoms as well as those that may not have been previously reported
+      in the literature and record presence/absence, location in the body, and severity level by
+      day. The questionnaire will be available as a mobile/web application and via paper. With
+      these data, the investigators will conduct an exploratory analysis to characterize symptom
+      phenotypes and the relationships of these profiles with demographic features and clinical
+      characteristics. In addition, the investigators will assess whether we can detect differences
+      between the symptom phenotypes of KD and MIS-C. The investigators will conduct cluster
+      analysis to identify symptom phenotypes from aggregate symptom observations blinded as to
+      presumed or verified diagnosis (n=100 with each sign/symptom on each day as a distinct data
+      point). Phenotypes may include characteristics such as symptoms that co-occur or are
+      independent, and symptom burden index (e.g., number symptoms present). The investigators will
+      use Ward's hierarchical cluster analysis to estimate the number of likely clusters.3 The
+      investigators will apply K-means nonhierarchical cluster analysis repeated 100 times in a
+      leave-one out validation model to assure repeatability and stability within the model. The
+      investigators will create score indices analyzed with logistic regression, principal
+      component analysis, factor analysis and correlation analysis. The investigators will then
+      assess whether clusters are related to verified diagnosis and/or sociodemographic
+      characteristics such as age, race/ethnicity, geography. The investigators will use
+      discriminant analysis techniques and more recent classification techniques such as CART to
+      examine if symptom phenotypes of KD and MIS-C are dissimilar. If information in terms of
+      symptom clusters at a point in time or a trajectory of a single symptom over time are
+      insufficient to distinguish between the two conditions, this would provide support for the
+      argument that the recorded symptoms are insufficient for discrimination or that the two
+      disease entities are not symptomatically different. This exploratory analysis will provide
+      important information that can be further developed for clinical guidance and parent
+      education.
+
+      Photography (Kim, Tremoulet): Patient photographs of the eye, mouth/tongue, and rash will be
+      collected as a novel addition to the usual clinical data. These photographs obtained before
+      treatment will document the presence or absence of conjunctival injection and perilimbal
+      sparing, mucocutaneous changes in the oropharynx including changes in the vermillion border
+      (erythema, fissuring) and the tongue (strawberry tongue), and the nature of the rash. The
+      photographs will be subjected to analysis using facial recognition software and artificial
+      intelligence approaches used by our collaborators at the University of Southern California
+      Center for Artificial Intelligence in Society led by Hayden Shively and Lucas Hu to evaluate
+      whether a computer algorithm can be created that can differentiate the clinical
+      characteristics of MIS-C from photographs taken of children with acute KD and those with
+      other pediatric febrile illnesses. Dr. Katherine Kim at UC Davis will compare the photos with
+      the questionnaire responses to supplement the parent descriptions of signs and symptoms and
+      validate the observations. This comparison can result in enhanced descriptions using the
+      words of parents themselves. Photography is needed to document these physical findings as the
+      investigators have learned over the years that physician description of these features is
+      woefully inaccurate. The finding, for example, of a strawberry tongue is a specific injury
+      pattern that involves sloughing of the cornified tips of the filiform papillae and has
+      historically been associated with only 3 conditions: staphylococcal and streptococcal
+      toxin-mediated disease and KD.
+    
+  

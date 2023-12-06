@@ -1,0 +1,11 @@
+
+    
+      The patients with NSTEMI and UA were included. After manual labeling, the admiss- ion record
+      characteristics of patients were selected. 75% of the data is used to build the model, and
+      25% of the data is used to verify the validity of the model. Five classification models of
+      one-dimensional convolution (CNN), naive Bayesian (NB), support vector machine (SVM), random
+      forest (RF) and ensemble learning were constructed to identify and diagnose NSTEMI and UA
+      patients. Multi-fold cross-validation and ROC-AUC curve are used to measure the advantages
+      and disadvantages of the models.
+    
+  

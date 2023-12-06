@@ -1,0 +1,88 @@
+
+    
+      BACKGROUND:
+
+      Fibromyalgia (FM) affects 2-4% of the general population with typical symptoms being
+      generalized and widespread pain, sleep disturbances, problems in memory and attention,
+      anxiety and depression. Different studies have demonstrated a clear relationship between the
+      presence of psychological trauma and FM, in terms of sexual and physical abuse, chronic
+      stress and adverse lifetime events. According to some studies, the prevalence of
+      Posttraumatic Stress Disorder (PTSD) in patients with FM is 45,3%, while in the general
+      population it appears to be between 1.3%-12.3%. Nevertheless, current therapeutic approaches
+      do not take into account the assessment and treatment of this risk factor, therefore the
+      clinical benefits obtained are limited. Moreover, existing studies in the field do not carry
+      out a thorough clinical characterization of these traumatic events. As a result, there is a
+      lack of consensus about the prevalence of the different types of traumatic events and their
+      temporality, as well as a lack of awareness of the level of interference and impairment in
+      patients with FM. Additionally, studies done on the topic are subject to important
+      methodological biases.
+
+      JUSTIFICATION OF THE STUDY:
+
+      Due to everything explained above, we consider that studying the prevalence and clinical
+      characteristics of the possible traumatic events in patients with FM has a great relevance
+      and clinical importance, due to the considerable negative impact they have across the
+      beginning, curse and prognosis of this disease.
+
+      AIMS:
+
+      The main objective of the project is to study de prevalence and characterization of traumatic
+      events in a sample of women diagnosed with FM and their association with FM's clinical
+      severity.
+
+      Specifically, the study intends to analyze the existence of specific characteristics of
+      traumatic events, such as the age when the event was experienced, the type of trauma
+      (interpersonal o intrapersonal; simple or complex; single or repeated in time, etc.) that can
+      be predictors or explicative of the patterns presented by these patients.
+
+      HYPOTHESIS:
+
+        1. Participants who have suffered traumatic events during childhood, of the interpersonal
+           type and repeated in time will be associated with greater severity of FM and higher
+           levels of pain.
+
+        2. Participants who have suffered traumatic events during childhood, of the interpersonal
+           type and repeated in time will present greater severity in the clinical symptoms of
+           trauma.
+
+        3. Participants who have suffered traumatic events during childhood, of the interpersonal
+           type and repeated in time will present higher severity in affective symptoms, sleep
+           disturbances and quality of life.
+
+      STUDY DESIGN:
+
+      This is a transversal descriptive study in which the Rheumatology Service, Adult Mental
+      Health Service and Primary Care Centers of the Parc de Salut Mar will participate. The
+      evaluations will be carried out in a single interview with the duration of 1 hour and a half,
+      and will be conducted by specialized psychologists of the Centre Forum Research Unit (IMIM).
+      Participants will have the choice to attend the assessment in the Centre Forum C/Llull 410,
+      08019) or in the Rheumatology Service (CAP Vila Olímpica, C/Joan Miró 17, 08005) of the Parc
+      de Salut Mar.
+
+      During assessment sociodemographic, clinical and pharmacological data will be collected.
+      Additionally, through the use of evaluation scales, pain and FM impact, psychological trauma
+      related symptoms, clinical symptoms, insomnia and quality of life will be evaluated.
+
+      STATISTICAL ANALYSIS:
+
+      The data analysis will be carried out using the R statistics package. Logic, range and data
+      consistency tests will be applied to clean the data. In the same way, the different
+      distributions of the variables will be obtained in order to facilitate the detection of
+      possible errors in the data entry.
+
+      Descriptive analysis will be carried out of all the identified variables in the study.
+      Likewise, regression analysis will be used to predict the pain severity index (EVA, PDI, FIQ)
+      based on trauma-related variables (CTQ, IES-R, SUD, DES, SDQ-20), and to predict the clinical
+      severity index (HADS, AIS, SWLS) based on the pain-related variables (EVA, PDI, FIQ).
+      Redundant variables will be eliminated from the model in order to identify the smallest
+      possible group of predictors to explain a substantial amount of the variation in the
+      dependent variables.
+
+      To control a possible confusion bias, an adjustment model will be defined to study the
+      influence of other variables and analyse possible confounders.
+
+      A general lineal model will be used for independent variables of more than 2 categories and
+      two sample t-tests will be used for variables of 2 categories. Where data does not meet
+      criteria for parametric tests, non parametric tests will be used.
+    
+  

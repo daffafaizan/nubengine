@@ -1,0 +1,181 @@
+
+    
+      Cardio--metabolic (CM) risk is a cluster of risk factors indicative of a patient's overall
+      risk for cardiovascular diseases (CVD), the leading cause of morbidity and mortality
+      worldwide and type-2 diabetes. CM risk factors include obesity, physical inactivity, smoke,
+      alcohol abuse, abnormal lipid metabolism, hyper-glycaemia and arterial hypertension.
+
+      Educational programs and lifestyle interventions represent effective tools to improve the
+      risk profile but they need time consuming and expensive counselling and supervision of
+      various health professionals . A rational alternative to intensive individual coaching is the
+      use of systems for self-learning and self-monitoring, to help people change and maintain a
+      healthy lifestyle through tailored suggestions about nutrition, weight control, physical
+      activity, fatigue, and stress.
+
+      SEMEOTICONS exploits the human face as an indicator of individual's health status and
+      translates signs obtained from the face into measures and descriptors to be automatically
+      evaluated by a computerized application, an interactive smart mirror, which seamlessly
+      integrates contactless sensors, such as 3D optical sensors, a multispectral camera, gas
+      detection sensors, and microphones and a touch-screen interface for user's interactions and
+      output visualization.
+
+      This "Wize Mirror" collects data in the form of videos, images and gas concentration signals,
+      and extracts a number of biometric, morphometric, colorimetric, and compositional descriptors
+      that represent individual's facial signs. The integration of such descriptors constitute a
+      virtual model used to compute and trace the evolution of an individual's wellness index. A
+      health diary about this index enables each individual to evaluate and personally relate
+      his/her lifestyle to his/her well-being. Coaching messages are provided, in relation to the
+      evolution of the wellness index and of each descriptor to provide useful suggestions on
+      correct lifestyle self-monitoring.
+
+      The purpose of this study is assess the accuracy of the information derived from the Wize
+      Mirror in expressing the health status of an individual.
+
+      Arm 1 Reproducibility and repeatability study (to be performed at the French site Lyon only).
+
+      The reproducibility and repeatability study will evaluate whether Wize Mirror measurements
+      are influenced by meals, light and temperature conditions in 6 healthy volunteers Data will
+      be acquired during 4 modules corresponding to different use conditions of the mirror
+
+        1. - Changes in the fasting state Under artificial lights and at environment temperature
+           (18-20°C), Wize Mirror measurements will be acquired at baseline in the fasting state
+           and at 30, 60 and 120 minutes after a standardized breakfast during three consecutive
+           days.
+
+        2. - Changes in light conditions Wize Mirror measurements will be performed at baseline
+           under artificial lights and at environment temperature (18-20°C) then at 30' under
+           artificial lights and at environment temperature (18-20°C) for 3 times consecutively
+           during the same morning with 20 minutes interval between acquisitions.
+
+        3. - Changes in temperature conditions Wize Mirror measurements will be performed at
+           baseline under artificial lights and at environment temperature (18-20°C) then at 30'
+           under artificial lights and at temperature increased to 28- 30°C, for 3 times
+           consecutively during the same morning with 20 minutes interval between acquisitions.
+
+        4. - Simultaneous changes in light and temperature conditions Wize Mirror measurements will
+           be performed at baseline under artificial lights and at environment temperature
+           (18-20°C) then at 30' under natural lights and at temperature increased to 28- 30°C, in
+           6 volunteers for 3 times consecutively during the same morning with 20 minutes interval
+           between acquisitions. The visit will last approximately 3 hours. A breakfast will be
+           offered at the end of the visit.
+
+      To assess whether measurements are stable over short time spans one of the 6 volunteers will
+      undergo a last visit for the repeatability study in the fasting state. Wize Mirror
+      measurements will be performed at T0 under artificial lights and at environment temperature
+      (18-20°C) for 10 consecutive times with a 30 minutes interval between acquisitions.
+
+      During each visit the following Wize Mirror measurements will be performed:
+
+        -  face morphometry through 3D reconstruction of face images
+
+        -  colorimetric analysis
+
+        -  heart rate and respiratory rate
+
+        -  autofluorescence detection of protein glycation
+
+        -  skin cholesterol content
+
+        -  thermal-induced vasodilation by application of warm air at 42°C temperature to the cheek
+           to study microvascular function
+
+        -  face expression of stress and fatigue through 3D reconstruction of face images
+
+        -  exhaled gas analysis for ethanol and carbon dioxide
+
+      Arm 2 Validation study. The validation study will check data measured from the Wize Mirror
+      against reference clinical tests in 60 healthy volunteers. To verify whether the Wize Mirror
+      is able to detect variations in physical and emotional health status with appropriate
+      lifestyle changes, measurements will be cross-checked at enrolment and after 3 months of
+      personalized suggestions for healthy behavior.
+
+      Healthy volunteers will undergo at recruitment the following for user profiling for baseline
+      CM risk
+
+        1. Medical history,
+
+        2. Physical examination: anthropometric measurements (body height, body weight, waist
+           circumference, hip circumference) and vital signs (heart/respiratory rate, blood
+           pressure)
+
+        3. Body composition (lean mass, fatty mass) by air displacement pletysmography
+
+        4. Energy expenditure by indirect calorimetry
+
+        5. Peripheral venous blood sampling: hemoglobin, creatinine,Total, HDL, LDL cholesterol,
+           triglycerides, gamma glutamyl transferase, aspartate aminotransferase (AST), alanine
+           aminotransferase (ALT), bilirubin, glucose, insulin, HbA1c
+
+        6. Skin accumulation of Advanced Glycation End Products (AGEs)
+
+        7. Peripheral arterial tonometry for endothelium-dependent vasodilatation
+
+        8. Pulse oxymetry for oxygen saturation
+
+        9. Exhaled gas sampling
+
+       10. Psychological , knowledge and nutritional tests
+
+             1. measures of psychological well being: Life Orientation Test-Revised (LOT-R);
+                General self efficacy scale (GSES)
+
+             2. measures of anxiety, depression: Beck Anxiety Inventory (BAI); Beck Depression
+                Inventory (BDI-II)
+
+             3. measures of quality of life: Perceived Stress Scale (PSS); Short Form (SF)-12
+                Health Survey; Insomnia Severity Index (ISI) ; World Health Organization (WHO)
+                (Five) Well Being Index
+
+             4. measures of eating and smoking behaviour and physical activity: WHO STEPwise
+                approach to noncommunicable disease risk factor surveillance (STEPS); Audit C
+                Alcohol ; Fagenstrom's test; International Physical Activity Questionnaire (IPAQ)
+                physical activity; Dietary Approaches to Stop Hypertension (DASH) dietary regimen
+
+             5. measure of motivation to change: Motivation to change physical activity, physical
+                activity (MAC2-AF R) ; motivation to change , nutrition (MAC2- AL R)
+
+             6. measures of health literacy: Newest Vital Sign (NVS) Cardio-metabolic risk scores
+                will be calculated to estimate the CM risk profile
+
+             1. Heart-SCORE
+
+             2. Fatty-liver-Index (FLI)
+
+             3. Finnish Type 2 Diabetes Risk Score (FINDRISC)
+
+             4. Homeostasis Model Assessment (HOMA) index
+
+      Data acquisition to derive computational descriptors for Wize Mirror functioning will include
+      image (still pictures, videos) acquisition in visible light and infrared band before and
+      after thermal stimulation at 42° C and Exhaled gas sampling using the "Wize Sniffer". During
+      each visit the following Wize Mirror measurements will be performed:
+
+        -  face morphometry through 3D reconstruction of face images
+
+        -  colorimetric analysis
+
+        -  heart rate and respiratory rate
+
+        -  autofluorescence detection of protein glycation
+
+        -  skin cholesterol content
+
+        -  thermal-induced vasodilation by application of warm air at 42°C temperature to the cheek
+           to study microvascular function
+
+        -  face expression of stress and fatigue through 3D reconstruction of face images
+
+        -  exhaled gas analysis for ethanol and carbon dioxide
+
+      Healthy volunteers will then undergo periodically (minimum time interval 2 weeks) face image
+      acquisition, exhaled gas sampling and they will fill through the Wize Mirror screen lifestyle
+      questionnaires till week 12 (end of study). At the end of study visit they will repeat
+      baseline assessments and fill in a questionnaire to evaluate Wize Mirror ease of use and
+      acceptability.
+
+      The changes in Wize Mirror measurements obtained at baseline and end of study will be
+      correlated with changes in body weight, waist circumference and Fatty liver index.
+      Relationship with quality of life, or other well-being questionnaire SCORE, standard
+      biochemistry and specific tests will be also assessed.
+    
+  

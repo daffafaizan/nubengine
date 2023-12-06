@@ -1,0 +1,150 @@
+
+    
+      BACKGROUND:
+
+      Loss of limb profoundly impacts a person's health, productivity, independence, and quality of
+      life. However, state-of-the-art medical and prosthesis technologies fall short of offering
+      seamless human-device communication to those who require limb amputation. Ongoing,
+      interactive efforts to advance amputation surgery techniques and develop novel "bionic"
+      prostheses and prosthetic control systems are underway in an effort to address this
+      interfacing challenge and thereby improve clinical outcomes within the population of
+      amputees. We recently reported on the results of a first-in-human trial in which a prototype
+      bionic prosthesis was tested in a recipient of a modified transtibial amputation. The
+      modified amputation procedure involved the surgical construction of agonist-antagonist
+      myoneural interfaces (AMIs) within the residual limb, where each AMI comprised two muscles -
+      an agonist and an antagonist - connected in series. To enable the force produced by one
+      muscle to cause stretch of its partner, "pulleys" were also constructed from the medial and
+      lateral tarsal tunnels, including segments of each tunnel's native tendons, that were
+      procured from the distal amputated limb and affixed to the residual limb tibia. The two AMIs
+      were constructed via coaptation of the tibialis anterior and lateral gastrocnemius muscles to
+      either end of the tendon portion passing through the proximally positioned tarsal tunnel, and
+      coaptation of the tibialis posterior and peroneus longus muscles to either end of the tendon
+      passing through the distally positioned tunnel. Following rehabilitation, this first
+      recipient of the "AMI transtibial amputation" tested the feasibility of using his surgically
+      constructed AMIs to control a prototype bionic prosthesis. The bionic prosthesis allowed
+      motion in two degrees of freedom through independent actuation of powered ankle and subtalar
+      joints, and the control algorithm allowed electromyography (EMG)-modulated control over
+      prosthetic joint position and joint impedance.
+
+      Functional testing involved linking the proximal and distal AMIs within the participant's
+      residual limb to the prosthetic ankle and subtalar joints through the use of surface EMG
+      electrodes, intramuscular fine-wire electrodes, and functional electrical stimulation. The
+      results of performance testing in this first AMI recipient suggested that AMIs can provide a
+      biological tissue interface that can potentially offer a person with an amputation intuitive
+      motor control of the affected limb and a bionic prosthesis while also enabling
+      proprioception. The unique biomimetic tissue architecture of the AMI recapitulates a dynamic,
+      mechanically functional muscle-tendon-muscle linkage that inherently provides
+      mechanoreceptive biological sensors. Consequently, the AMI tissue architecture inherently
+      preserves natural, bi-directional communication between surgically reconstructed limb
+      musculature and the central nervous system, thereby building on and offering advantages over
+      previously described neural interfacing approaches such as targeted muscle reinnervation
+      (TMR), regenerative peripheral nerve interfaces (RPNIs), and peripheral nerve interfaces.
+      Additionally, the surgical design implemented in the AMI transtibial amputation preserves the
+      native innervation and vascularization for each nerve and muscle component, thereby offering
+      a more robust, viable surgical construction than either TMR or RPNI, which instead rely upon
+      the less robust regenerative processes of reinnervation and revascularization for long term
+      viability. Long term functionality of the AMI is facilitated by the incorporation of
+      autologous tarsal tendon and tunnel components, eliminating the need for either allogeneic
+      grafts or synthetic implant materials. By providing a platform for robust efferent decoding
+      of movement intent, as well as usable afferent feedback from a prosthetic joint, the AMI
+      transtibial amputation paradigm has the potential to reinstate the human central nervous
+      system as the primary mediator of prosthetic joint control.
+
+      STUDY OVERVIEW:
+
+      The goal of this clinical trial is to evaluate the efficacy of the AMI transtibial
+      amputation.
+
+      STUDY POPULATION:
+
+      This study calls for twenty-two healthy, active participants with transtibial amputations: an
+      experimental group of participants who received AMI transtibial amputations, and a control
+      group of participants who received standard transtibial amputations. Each participant in the
+      control group is prospectively matched to a participant in the experimental group to the
+      degree possible based on time since amputation, body habitus, age, and biological sex. As the
+      population of lower limb amputees consists of participants of all genders and ethnicities,
+      and since it is not practical to attempt to match all aspects of this variation in the
+      context of a small study, this study aims to reflect the variation in the population of
+      amputees to the degree possible.
+
+      EXPERIMENTAL SESSIONS:
+
+      Biomedical data are collected from study participants in the Biomechatronics space within the
+      MIT Media Lab in Cambridge, MA. Experimental group participants attend five or six sessions,
+      with four sessions lasting approximately 4 hours each and the other one or two session(s)
+      lasting up to 8 hours. Control group participants attend four sessions lasting approximately
+      4 hours each.
+
+      HYPOTHESIS:
+
+      Surgically constructed AMIs within the amputated residuum can afford an improved independent
+      control of joint position and impedance in a multi-degree-of-freedom prosthesis while also
+      reflecting proprioceptive sensation from each prosthetic joint onto the central nervous
+      system.
+
+      SPECIFIC AIM 1: Motion Control in Free Space
+
+      Aim 1 investigates if AMIs can improve voluntary free-space prosthetic control. Experimental
+      and control group participants' capabilities for prosthetic control are evaluated and
+      compared based on EMG and biomechanical measurements obtained during free-space voluntary
+      movement tasks. In Aim 1A, data are collected using surface EMG sensors to characterize
+      muscle activation, create maps specific to individual participants, and inform sensor
+      requirements for subsequent aims. The data are obtained from a large number of EMG sensors
+      that are distributed over participants' lower limbs. The participant is asked to move the
+      phantom and/or biological foot through the ankle and subtalar joint spaces during data
+      collection. Aim 1B explores if AMIs can improve motion control of a prosthesis that allows
+      independent actuation of powered ankle and subtalar joint motions and EMG-modulated control
+      over prosthetic joint positions and stiffnesses. Surface EMG data are obtained using a small
+      number of sensors that are placed on participants' lower limbs at locations informed by the
+      results of Aim 1A. Joint state data are collected from sensors on the prosthesis and other
+      noninvasive sensors. Participants are asked to move their phantom ankle joints, in some cases
+      mirroring specified motions of their unaffected limbs, in order to control the prosthesis.
+      Performance tasks include pointing the prosthetic foot toward a specified position and
+      stiffening the prosthetic joint to hold that position for a specified time interval.
+
+      SPECIFIC AIM 2: Terrain Adaptation
+
+      Aim 2 determines if AMIs can improve voluntary and involuntary (reflexive) prosthetic terrain
+      adaptations. Experimental and control group participants' capabilities for prosthetic control
+      are evaluated and compared based on EMG, biomechanical, and kinematic measurements that are
+      obtained as they walk and traverse various terrains in a motion capture space. Surface EMG
+      data are obtained using a small number of sensors that are placed on participants' lower
+      limbs at locations informed by the results of Aim 1. Biomechanical data are collected from
+      sensors on the prosthesis and sensors embedded in the terrain equipment. Kinematic data are
+      collected wirelessly using a twelve-camera motion capture system. To facilitate kinematic
+      data collection, reflective markers are affixed to the participant's clothes or skin to
+      enable visualization and tracking of anatomical landmarks. Participants perform level ground
+      walking and terrain adaptation tasks. One task involves navigating an obstacle presented in
+      the participant's path during level ground walking. The task involves eversion of the
+      prosthetic subtalar joint such that the lateral edge of the prosthetic foot contacts a
+      vertically offset block while the medial edge of the prosthetic foot remains at the base
+      height. Other tasks involve either descending or ascending stairs in sequential steps.
+
+      SPECIFIC AIM 3: Human-Device Communication
+
+      Aim 3 explores if AMIs can enable new possibilities for bi-directional human-device
+      communication and provides data toward developing closed-loop prosthetic control strategies.
+      Experimental group participants' capabilities to control prosthetic motion and their
+      associated proprioceptive perceptions are investigated. EMG, ultrasound, biomechanical, and
+      psychometric data are collected in the presence of varying levels of functional electrical
+      stimulation (FES). The FES delivers a periodic stream of electrical pulses to target muscles
+      in the participant's affected and unaffected limbs, causing contraction. One performance task
+      involves an experimental pedal-pushing set-up. The participant is blindfolded and asked to
+      plantar flex the phantom ankle joint, which causes the prosthetic ankle joint to press down
+      on a foot pedal against mechanical resistance. Participants are also asked to plantar flex at
+      varying effort levels and, in accordance with prosthetic sensor data resulting from each
+      effort level, FES is applied to specific target muscles. Another task involves applying FES
+      to specific target muscles in the affected limb and asking the participant to describe the
+      perceived motions and forces and mirror these in the unaffected limb. In addition to
+      participant responses, data are collected from fine-wire electrodes, surface EMG and other
+      noninvasive sensors including an ultrasound imaging probe, and sensors on-board the
+      prosthesis. Fine-wire FES and EMG electrodes are included in this study to reduce crosstalk
+      that would interfere with the implementation of the prosthetic control strategy. The fine
+      wire electrodes are placed by an experienced clinician in an acute setting; they do not
+      remain in the limb. FES settings are kept within historically safe limits at all times. The
+      FES begins at low intensity and is slowly increased until either the participant reports that
+      a limit of comfortable stimulation has been reached or the historically safe limit is
+      reached. The lower of these two values is established as a hard-stop reference for the FES
+      setting.
+    
+  

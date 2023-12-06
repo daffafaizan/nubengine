@@ -1,0 +1,78 @@
+
+    
+      The study will be divided into 2 phases - 1st phase will last 1.5 months and will aim to
+      recruit at least 50 patients and at most 100 patients. This phase will aim to recruit
+      near-equal split of patients across the 3 disease states of COPD, asthma and pneumonia - 35
+      COPD, 35 Asthma and 30 pneumonia patients. The 2nd phase will last 3 months and will aim to
+      recruit at least 50 patients. This phase can have a mix of patients having either COPD,
+      asthma, pneumonia, congestive heart failure or any other respiratory diseases
+
+      The aim in the 1st phase is to benchmark the device against manual counting of respiration
+      (number of breaths per minute). The aim in the 2nd phase is to benchmark the device against
+      existing technologies, namely lead-based-ECG sensing, acoustic sensing and capnography. This
+      phase can have a mix of patients having either COPD, asthma, pneumonia or any other
+      respiratory diseases
+
+      Following is the study protocol that will be implemented over the 2 phases:
+
+      Phase 1: 1.5 months - 100 patients - General Wards (Time taken for each patient is 25 mins)
+
+      a. Delegated study team members will brief the study details to the potential participants.
+      Investigators will answer the query from potential participants if any, and complete the
+      consent process. (5 mins) b. Trial coordinator will setup the device as follows: (10 mins) i.
+      Disinfect the device by wiping with an alcohol swab, ii. Turn on the sensor - ensure the USB
+      dongle is connected to the RIGHT ports on the laptop - check that the USB dongle AND the
+      sensor light is NOT blinking iii. Paste the sensor on patient using a medical-grade adhesive
+      tape.
+
+      c. Trial coordinator will begin data collection by double click the software .exe file -
+      select the COM ports and enter participant no. (a folder will be created in root directory
+      for the participant number) d. Click "run" button on the software and start to manually count
+      the number of breaths after 1 minute. After 1 minute, the number of breaths counted manually
+      will be recorded on the case report form.4 rounds of 1-minute measurements will be taken e.
+      Trial coordinator will turn off the device and pass it back to team-member or keep it. Trial
+      coordinator will remove the medical-grade adhesive tape and throw it away. (5 mins) f.
+      Team-member will post-process the collected respiration data, benchmark against the manually
+      counted data in the data collection form provided by trial coordinator and discuss the
+      results with investigating P.Is.
+
+      Phase 2: 3 months - 50 patients - Medical intensive care units (MICU), medical dependency
+      units (MDU), cardiology high dependency units, and general wards (for congestive heart
+      failure patients) (Time taken for each patient is 30 mins) g. Delegated study team members
+      will brief the study details to the potential participants. Investigators will answer the
+      query from potential participants if any, and complete the consent process. In the event that
+      the patient is unable to provide consent, the next-of-kin will be approached for consent. (5
+      mins) h. Trial coordinator will setup the device as follows: (10 mins) i. Disinfect the
+      device by wiping with an alcohol swab, ii. Turn on the sensor - ensure the USB dongle is
+      connected to the RIGHT ports on the laptop - check that the USB dongle AND the sensor light
+      is NOT blinking iii. Paste the sensor on patient using a medical-grade adhesive tape. iv.
+      Attach another sensor on the patient's finger using an adapter. The purpose of this is to
+      collect heart rate and Sp02, and to calculate respiration from the collected data.
+
+      i. Trial coordinator will begin data collection by double click the software .exe file -
+      select the COM ports and enter participant no. (a folder will be created in root directory
+      for the participant number) j. Click "run" button on the software. After 1 minute, the number
+      of breaths, heart rate and Sp02 from other technology devices will be recorded on the case
+      report form.4 rounds of 1-minute measurements will be taken.
+
+      k. Trial coordinator will turn off the device and pass it back to team-member or keep it.
+      Trial coordinator will remove the medical-grade adhesive tape and throw it away. (5 mins).
+      Trial coordinator will also remove the device and adapter from the finger location.
+
+      l. Team-member will post-process the collected respiration data, benchmark it and discuss the
+      results with investigating P.Is.
+
+      All data collected will be anonymous and no video-taping will be done. The trial coordinator
+      will act as the control arm. They will measure the respiration or breathing rate of the
+      subject manually - by counting the number of breaths per minute. The non-control arm will be
+      the device itself and it will be benchmarked to the manual respiration data collected by the
+      trial coordinator. The data collected will be kept with the P.I and confidentially of the
+      data will strictly be maintained. The case report forms or the collection forms will be
+      passed to the P.I. and kept safely. The subject may choose to withdraw from the study at any
+      time.
+
+      The device is based on multi-modal sensing using illumination at extremely low emission
+      levels on the order of microwatts. This sensing technique is able to detect the
+      micro-vibrations along the neck due to breathing.
+    
+  

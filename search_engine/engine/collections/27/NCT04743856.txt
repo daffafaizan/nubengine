@@ -1,0 +1,53 @@
+
+    
+      The main aim of this effort is to test a physical activity intervention, for adult clinical
+      care patients at risk of developing cardiovascular disease. The intervention includes 13
+      weekly and 6 monthly social-cognitive theory-based sessions, remote coaching, a body worn
+      physical activity tracker (PAT), and is delivered online over one year.
+
+      A total of n=54 Clinical care patients aged 40-70 years of age with low physical activity
+      (PA) levels (<150 minutes/week) at risk for cardiovascular disease will be recruited. Study
+      outcomes will be measured at baseline, 6 months after intervention start and 12 months after
+      intervention start.
+
+      For the primary outcomes, the investigators hypothesize that participants randomized to
+      ActiveGOALSv2 + PAT will have significantly larger (a) increases in step counts/day and %
+      meeting moderate-vigorous physical activity goal of 150 minutes/week (to 12 months) compared
+      to the active PAT control group. Descriptive analyses and graphic displays will be used to
+      identify outliers, missing data, and pattern of attrition. To ensure rigor, the primary
+      analytic strategy will be a linear or generalized mixed-effect models approach in which
+      treatment group, time, and time by group interaction are treated as fixed effects, and
+      subject is treated as a random effect to account for individual subject variability (two
+      sided hypothesis test; .05 level). Mixed models are applicable to longitudinal datasets that
+      contain missing observations, (assuming data is missing at random). Regression modeling will
+      be conducted to adjust for important covariates. The investigators will perform similar
+      analyses to examine changes in secondary outcomes. Descriptive statistics on patient
+      experience, beliefs/attitudes related to maintenance of physical activity changes, and
+      program cost will also be reported.
+
+      Power and sample size: For a 2 sided test with alpha level set at .05, and assuming 20%
+      attrition at 12 months, the investigators plan to recruit 54 participants to identify
+      clinically relevant mean difference between randomized groups at 12-months of 2000 steps/day
+      (with a power of .80), and 35% meeting MVPA goal (with a power of .80), given reference mean
+      (sd) values were calculated from baseline waist worn accelerometer data from the current K12
+      of: 5250 (2200) steps/ day and the investigators assume 5% meeting goal at baseline in the
+      control group.
+
+      Descriptive statistics will be used to describe the total eligible population, those
+      referred, and those referred who participated in the study; in order to determine program
+      reach. Exploratory Analysis of Important Pre-Existing Factors: Factor analysis will be used
+      to identify importance of factors related to physical activity levels/ activity goal
+      achievement over the 12 month follow-up (Mplus) from participant EHR data collected prior to
+      intervention start. Factor structures of how individual factors contribute to activity
+      outcomes will be explored at each time point. The best factor structure will be determined
+      with Eigenvalues and fit indices (RMSEA, CFI, and TLI). Factor structures at the 2 time
+      points will be compared at three levels to establish measurement invariance: 1) Configural
+      equivalence, number of factors/ pattern of factor-indicator relationships are identical over
+      time; 2) Metric equivalence, factor loadings are equal over time; and 3) Scalar equivalence,
+      means and values are equivalent over time. Finally, the investigators will use descriptive
+      statistics to report presence/absence of data on physical activity levels, cardiometabolic,
+      and patient-centered outcomes in the EHR. The investigators will apply the same regression
+      approaches utilized in Aim 1a to determine differences between randomized groups for EHR
+      reported outcomes.
+    
+  

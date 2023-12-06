@@ -1,0 +1,153 @@
+
+    
+      The COVID-19 pandemic is raging in the world, including Quebec. As of May 22, 2020, more than
+      46,141 cases have been identified in Quebec, including 3,865 deaths. The virus causes
+      heterogeneous clinical manifestations. People may be asymptomatic, have mild to moderate
+      symptoms (cough, fever, myalgia), or a severe form requiring hospitalization and transfer to
+      intensive care units. In a small proportion of people, it can cause death. Health emergency
+      status was declared in Quebec on March 13, 2020 to allow the deployment of the measures
+      suggested by the Public Health Department (PHD). Different types of recommendations (general,
+      targeted, personalized and tailored) are available to optimize the prevention and management
+      of COVID-19. General interventions are aimed at the entire population (eg: washing hands,
+      keeping 2 meters apart). Targeted interventions target a vulnerable population (eg: patients
+      with diabetes, the elderly, etc.). Personalized interventions are addressed specifically to a
+      person, without necessarily being adapted to that person (eg: a general letter addressed to
+      an individual by his name written in the header). The appropriate intervention considers the
+      individual's reality (eg medical, environmental). Tailored interventions require a capacity
+      for dynamic analysis and evaluation of information but are generally more effective in
+      changing behavior (3). This evaluation also allows sorting of relevant information. Indeed,
+      during a pandemic, a citizen may have a perception of contradictory information or be
+      overloaded with information from different media. The tailored assessment allows citizens to
+      have a clearer message in their reality. As mentioned above, in the case of COVID-19, the
+      heterogeneity of symptom presentation implies different realities for each individual. In a
+      potentially large proportion of cases, people may be asymptomatic or have mild to moderate
+      flu-like symptoms. Thus, many infected people will not consult in the health network. It has
+      been estimated that there are 10 times more people infected than those who are screened.
+      Establishing a diagnosis of infected people is a key factor in ensuring a coherent
+      epidemiological watch at the PHD. It is an indicator to monitor deconfinement and predict the
+      second wave. COVID-19 infection is therefore a reportable disease. Moreover, diagnosing the
+      disease in individuals with low symptoms makes them aware of their risk of transmission, as
+      well as that of their contacts, so that they can adapt their behavior to the recommendations
+      of the PHD. In addition, medical monitoring is critical in some vulnerable people with
+      COVID-19. In fact, people aged 70 and / or suffering from certain chronic diseases (such as
+      high blood pressure, atherosclerotic heart disease, obesity and diabetes) are at greater risk
+      of developing the severe form of the disease. Citizens seem less inclined to consult their
+      doctors during this period of disruption in the network. The preventive recommendations for
+      these people, whether or not they have COVID-19, must be absolutely tailored in order to
+      provide health care. Stricter preventive containment measures can have a negative impact on
+      functional capacity or the risk of co-morbidities in this population due to changes in
+      healthy lifestyle habits. Providing recommendations tailored to their situation on these
+      habits (eg physical activity, healthy eating, sleep) could help reduce these negative
+      effects.
+
+      In order to improve the health and safety of the population, the investigators propose to
+      co-develop, with citizens, patient partners, clinicians, companies, managers, decision-makers
+      and representatives of the PHD, a citizen portal in order to produce appropriate
+      recommendations related to the COVID-19 status (positive or negative), the risk of
+      complications (severity of symptoms and medical history), the risk of contamination
+      (environmental prevalence of the disease) and the risks related to confinement. This portal
+      will be adapted to level 2 literacy and validated by usability tests. From questionnaires
+      self-administered to citizens, the tool will allow dynamic monitoring of symptoms related to
+      COVID-19, collaborate with the PHD to improve the epidemiological portrait of the situation
+      by identifying people who do not consult in the health system network and to bridge the gap
+      with their family doctor.
+
+      Objectives: 1) Evaluate the feasibility of an efficient collaborative system between the PHD,
+      citizens, patients and health professionals allowing the optimization of appropriate
+      recommendations in both prevention and detection during the COVID-19 pandemic; 2) Produce
+      recommendations concerning preventive behaviors related to COVID-19 tailored to the medical
+      and environmental reality of each citizen; 3) Compare the proportion of users complying with
+      the recommendations between those receiving tailored recommendations and those receiving
+      general recommendations; 4) Observe the evolution of the state of health of individuals in
+      real time by collecting socio-demographic, psychosocial and physiological data, including
+      symptoms related to COVID-19, and data from measures surrounding confinement to the using a
+      self-administered assessment tool.
+
+      Methodology:
+
+      Specification: This is a clinical intervention study of a cohort including a nested and
+      randomized double-blind experimental design, where the tailored recommendations will be
+      compared to the general recommendations. Population and sample: People aged 18 and over,
+      residing in the Quebec City area, will be solicited according to an advertising strategy and
+      different collaborations which will enable the access to a cohort of 1407 participants (as of
+      May 22, 2020).
+
+      Programming: This project will be designed in three parts. The first component consists of
+      co-developing a citizen portal including a secure database hosted on the PULSAR platform to
+      record the information of each participant including their current state of health (chronic
+      diseases, COVID-19 status, symptoms), their geographic location (postal code or dissemination
+      area) and their psycho-social situation. The second part consists of using the information
+      from the first part and analyzing them using a decision-making algorithm to propose
+      recommendations tailored to the reality of each person which will be dynamically updated
+      according to the evolution of the pandemic and the person's state of health. A measurement
+      will take place after 3 weeks of the procedure.
+
+      Statistical Analysis Plan: This analysis plan was developed in collaboration with
+      biostatisticians and epidemiologists from the VITAM Research Center. Being in the context of
+      a 1: 1 randomized trial with an intervention group and a control group, the investigators
+      calculated the number of individuals with a threshold of statistical significance of 5%.
+      According to DiMatteo et al., adherence to medical recommendations is 50% to 75% in the
+      general population. In order to be conservative, the investigators therefore assumed a 50%
+      membership ratio for the control group (general recommendations). The working hypothesis is
+      that individuals receiving adapted recommendations will adhere to the recommendations more
+      than those in the control group. Based on the above formula, the minimum required number of
+      people for each group varies with the effect size (the minimum difference to be able to
+      detect). In order to detect a minimum intergroup difference of effect of 10% (if any) in the
+      proportion of individuals complying with the recommendations, 514 individuals per group will
+      be needed. Descriptive analyzes will be performed to describe the sample. For continuous
+      quantitative variables, measures of central tendencies will be obtained and for categorical
+      variables, absolute and relative frequencies will be reported. The rate of compliance with
+      recommendations by intervention group as well as the prevalence of COVID19 status and
+      reportable disease will be calculated. The investigators will then proceed to a temporal
+      analysis by profile enumeration: the start of each time interval will be marked each time a
+      change in recommendation occurs. Given the exploratory nature of these analyzes the primary
+      outcome will be dichotomized (participants who follow the recommendations versus the others).
+      The difference in proportions will be calculated by time interval and then a
+      Cochrane-Armitage test will be done to test the time trend of compliance with the
+      recommendations in each of the intervention groups. All statistical analyzes will be
+      performed using SAS software version 9.4.
+
+      Recruitment: An existing portal, developed with patients over the past 2 years, will be
+      adapted for the purposes of the project (PULSAR). Collaboration with an already existent
+      public health project, the MAVIPAN project, will allow the recruitment of participants who
+      have already agreed to be contacted for other projects. The MAVIPAN questionnaire already
+      contains several socio-demographic information and on the physical and psychological health
+      of the participants. The other questions will be adapted from existing tools (clinical
+      diagnostic criteria for COVID-19, MADO, electronic questionnaires from the INSPQ, iCARE
+      questionnaire). All data will be hosted on PULSAR, a collaborative platform for research and
+      intervention in sustainable health, ensuring data security. A partnership with the PHD will
+      make it possible to harmonize collection tools according to national and international
+      standards to facilitate data collection and analysis.
+
+      Timeline: The platform will be launched in November 2020. Recruitment and data collection in
+      the context of the project will take place until April 2021.
+
+      Expected results and impact:
+
+      Primary: Improvement in the rate of compliance with the PHD recommendations based on the
+      iCARE study. Measurement of the number of exits and contacts (e.g .: vulnerable person going
+      out (danger for them) or positive COVID-19 person going out (danger for others), going to a
+      doctor vs staying at home, doing their own grocery shopping vs having it delivered, going to
+      work or staying at home, going out for sports (running, walking).
+
+      Secondary: 1. COVID-19 status (new cases diagnosed); improved data collected in the
+      population (Public Health); reduction in the burden in clinics (self-diagnosis) 2. Patient
+      health status: assessed by self-reported health questionnaires already integrated into the
+      PULSAR platform (Chronic disease; socio-demographic data; sleep; lifestyle habits; quality of
+      life; physiological data; negative effects linked to confinement and social distancing (e.g.
+      loss of functional capacity, negative impact on healthy lifestyles); related to
+      recommendations for vulnerable populations. The tailored recommendations will allow citizens
+      to receive precise information related to their medical condition and their environment, to
+      better understand the measures and to comply more closely with them. Being in the period of
+      deconfinement, reducing risky behavior can reduce the transmission and spread of COVID-19.
+      The data will be useful to front-line clinicians to optimize the management of COVID-19 by
+      having recommendations tailored to the medical condition of their patients. The PHD will
+      benefit from a more realistic portrait of the prevalence of symptoms related to COVID-19 and
+      optimize the use of its resources. In addition, this data will make it possible to make
+      recommendations related to reducing the risks associated with confinement for vulnerable
+      populations. The Vigie-COVID portal will remain after the pandemic to monitor epidemics but
+      can also be used to monitor vulnerable populations with chronic diseases. The link that
+      unites citizens, the PHD and health professionals will last, given the added value for the
+      health network.
+    
+  

@@ -1,0 +1,44 @@
+
+    
+      The purpose of this IRB proposal is to gain access to genetic data generated from
+      participants of publically-funded genomic studies and deposited into dbGaP. It is our
+      intention to use dbGaP data to conduct secondary analysis of the influence of admixture on
+      the outcome of data quality control (QC) in genetic association studies to inform future
+      studies of the optimal QC metric for the genetic association analysis of admixed population.
+      The data we intend to use is deposited in dbGaP and is from the Michigan University Health
+      and Retirement Study (HRS). This protocol is being sent to you because of a dbGaP requirement
+      for this specific de-identified dataset to be reviewed by an IRB as that was not in the
+      protocol.
+
+      This work will require the use of statistical analyses tools to estimate the genetic ancestry
+      make-up of each sample, from the genotype data, and determine how that ancestry relates to QC
+      outcomes (i.e. whether or not the sample might be excluded from an analysis due to its
+      ancestral genetic composition rather that the sample genetic quality).
+
+      Objectives and specific aims: This work aims to investigate samples failing heterozygosity
+      and sample genotype call rate quality control (QC) to determine whether or not the samples
+      call rate and heterozygosity rate have to do with the ancestry composition of the outliers
+      rather than the quality of the samples and inform future studies of potential loss if general
+      QC is applied to genetic data of admixed sample sets.
+
+      Rationale and Background: In genetic association studies DNA sample quality can vary largely
+      across study participants and such variation has an impact on genotype call rate and genotype
+      accuracy; samples of low DNA quality tend to have lower genotype call rate and genotype
+      accuracy. Heterozygosity rate (proportion of heterozygous loci per individual) and genotype
+      failure rate (proportion of missing genotypes per individual) are jointly and routinely used
+      to identify samples with low DNA quality at the data quality control (QC) stage of genetic
+      association studies. Excessive heterozygosity rate may indicate sample contamination whilst a
+      reduced heterozygosity rate could indicate inbreeding [1]. Samples with 3-7% [2,3] genotype
+      call-rate and heterozygosity > 2-3 standard deviations from the mean heterozygosity are
+      usually excluded from genetic case-control studies.
+
+      Generally, the sample size of genetic association studies involving minority ethnic groups
+      such as admixed African American tends to be small. It is hence important to ensure samples
+      are not discarded unnecessarily, resulting into reduced statistical power, by using QC
+      thresholds applied to homogenous groups which might not be appropriate for an admixed sample
+      set. The aim of this analysis is to investigate samples failing heterozygosity and sample
+      genotype call rate QC to determine whether or not the samples call rate and heterozygosity
+      rate have to do with the ancestry composition of the outliers rather than the quality of the
+      samples. The motivation is to inform future studies of potential loss if general
+    
+  

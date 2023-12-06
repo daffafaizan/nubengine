@@ -1,0 +1,27 @@
+
+    
+      Bispectral Index (BIS) monitors are FDA approved to gauge depth of sedation by analyzing
+      segments of electroencephalogram (EEG) waves. The BIS monitor utilizes a proprietary
+      algorithm to process the EEG information second by second, and outputs a number (0-100) that
+      corresponds with a patient's level of consciousness. A level of 0 indicates no EEG activity;
+      a level of 100 indicates awake EEG activity. Several studies demonstrated that BIS monitors
+      may not be useful in paralyzed patients, as patients who were paralyzed and not sedated
+      unexpectedly showed a large decrease in their BIS values following administration paralytic
+      medications. Vivien et al found BIS values dropped an average of 24 points in already sedated
+      patients when the patients were given paralytics. In the same year, Messner and colleagues
+      paralyzed non-sedated volunteers and found a dramatic drop in BIS values until paralysis wore
+      off or was reversed. Schuller et al repeated the Messner experiment and found similar results
+      with 18 of 20 non-sedated volunteer's BIS values dropping to levels expected of patients who
+      were sedated. These results suggest that BIS monitors are integrating electromyography (EMG)
+      data into its algorithm to derive a BIS value. Our hypothesis is that a BIS monitor commenced
+      after paralysis, thereby lacking exposure to any "awake" EMG activity, will result in a
+      cleaner data set and more accurate representation of a patient's level of sedation. Studying
+      in this manner will require the subject to wear two BIS sensors in a frontal montage. The
+      manufacturer of the sensors gives no guidance as to which side of the forehead an individual
+      sensor is placed, and no studies demonstrate BIS validity with the use of concurrent sensors.
+      The purpose of the present investigation is to assess the measurement difference and
+      variability associated with use of concurrent bifrontal BIS sensors. The data obtained will
+      be used as a framework for a future study related to the use of paralytics and BIS
+      monitoring.
+    
+  

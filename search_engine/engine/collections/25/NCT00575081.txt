@@ -1,0 +1,68 @@
+
+    
+      Purpose:
+
+        1. To create a brain atlas that will allow physiological and clinical information to be
+           assigned to anatomical locations in MRI space, utilizing non-rigid MRI normalization
+           algorithms. These data will specifically be acquired from the population of patients
+           undergoing stereotactic brain procedures.
+
+        2. To collate and analyze the brain data placed in the atlas in a statistical manner that
+           allows doctors to understand and treat brain disease more precisely and based on
+           population data. For example, this would allow surgeons to predict optimal targeting
+           locations for DBS implants, neurologists to program implants based on multiple
+           physiological variables, including pre-operative severity of disease, intraoperative
+           neurophysiological observations, and post-operative responses to previous therapies in a
+           larger population of subjects.
+
+        3. To allow precise relationships to be visualized in one anonymized MRI volume, which can
+           lead to new findings across larger populations of subjects in the field of brain
+           science.
+
+        4. To locate all the data in a HIPAA compliant, anonymized location that clinicians and
+           researchers can access securely without compromising personal healthcare information
+           (PHI).
+
+      Protocol:
+
+        1. Patients who have consented to undergo or have undergone a stereotactic brain procedure
+           for any reason will be asked to participate in this study.
+
+        2. Permission from the patient will be sought to allow the entry of all related data to be
+           entered into the atlas database. Specifically, this includes any and all related
+           pre-operative, intra-operative, and post-operative clinical, radiographic, and
+           psychologic testing done for the purposes of the surgery.
+
+        3. The data must be entered in a confidential fashion and secured within a section of the
+           database that can be accessed only by persons authorized to view patient healthcare
+           information (PHI). Persons authorized to enter and view individual PHI must have taken
+           and passed the CITI certification and presented documentation of this credential to the
+           IRB study investigator (Dr. Konrad) or his Clinical Trials Specialist (Melba Isom).
+
+        4. Access to individual patient data within the database can be done through a secure login
+           linked to the person's qualifications to access PHI. The list of authorized persons
+           (such as treating physicians and members of the surgical team) will be determined by Dr.
+           Konrad and updated at least on an annual basis within the database by Dr. Dawant. Dr.
+           Dawant will be responsible to ensure that PHI is physically and virtually secure within
+           the atlas database.
+
+        5. Once in the database, patient identifiers will be codified and not accessible for any
+           queries outside of those certified in step 3. Non-patient specific information can be
+           analyzed, sorted or queried in response to specific statistical questions by any
+           investigator of the research team or authorized person, as designated by the database
+           developer (Dr. Dawant) or his designee.
+
+        6. Data contained within the atlas will be analyzed and regularly reported to members of
+           the Atlas research team regarding accurate display and representation of the data.
+
+        7. Clinical and physiological data will continue to be entered for every subject who
+           consents to participate in this study for the duration of their care.
+
+        8. If subjects no longer wish to have their data tracked within the atlas, they can call
+           the study coordinator (Melba Isom) and have their name removed from any further data
+           collection from the time of notification forward. All previously collected data will
+           still be accessible and not expunged from the database.
+
+        9. We plan to recruit 5,000 patients from Vanderbilt and participating sites.
+    
+  

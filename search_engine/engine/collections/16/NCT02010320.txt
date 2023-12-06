@@ -1,0 +1,16 @@
+
+    
+      Patients will be randomized to either computer or standard dosing strategies at time of
+      transplantation or as early after transplantation as possible in case of deceased donor
+      transplants.
+
+      For patients in the computer arm the model will calculate the dose with the highest
+      probability to reach the specified concentration target.
+
+      For all concentrations a predictive error will be calculated and this will be the primary
+      endpoint that the statistics will be calculated on.
+
+      All patients will be followed for between 8 to 12 weeks post-transplant, according to center
+      praxis.
+    
+  

@@ -1,0 +1,23 @@
+
+    
+      Currently, medical professionals obtain respiratory rate for vital signs assessments either
+      by counting the number of breaths during a 15, 30, or 60 second interval and multiplying to
+      obtain breaths per minute, or by reading the respiratory rate off of a multiparameter vital
+      signs monitor (such as a Welch Allyn Propaq Monitor), that provides respiratory effort
+      information based on the change of AC impedance through ECG leads. The Respiration channel
+      (RESP) of the Welch Allyn Propaq is intended to detect the rate or absence of respiratory
+      effort, deriving the signal by measuring the AC impedance between the selected terminals of
+      the ECG electrodes. The RSpot 100 Non-Contact Respiratory Rate Spot Check provides an
+      alternative to the medical professional counting respiratory rate or reading the rate from a
+      vital signs monitor designed for continuous respiratory rate monitoring. The Kai Sensors
+      RSpot 100 Non-Contact Respiratory Rate Spot Check is used for a one-time measurement of
+      respiratory rate as part of a vital signs assessment in the hospital or other clinical
+      settings.
+
+      In this study, the RSpot is operated simultaneously with two other systems that provide a
+      respiratory rate: Welch Allyn Propaq Encore model 242 and Embletta system with Universal
+      XactTrace and Somnologica software. A respiratory rate is also obtained by counting
+      respiratory excursions for the same duration as the RSpot measurement interval, 15, 30, or 60
+      seconds. The rates obtained from each of the four measurement methods are then compared.
+    
+  

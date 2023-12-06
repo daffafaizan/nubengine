@@ -1,0 +1,109 @@
+
+    
+      After obtaining a thorough medical and dental history and performing necessary laboratory
+      investigations, the following steps will be undertaken:
+
+      Preoperative prosthetic preparation:
+
+        -  For eligible patients who are already wearing upper and lower complete dentures: The
+           dentures will be checked for adaptation, fit, stability and occlusion.
+
+        -  For eligible patients who are not wearing upper and lower complete dentures:
+
+      Preliminary alginate impressions will be made using a perforated stock tray for both the
+      maxillary and mandibular arches. Impressions are then poured into dental stone to obtain the
+      diagnostic models. Occlusion blocks will be constructed over the diagnostic models, followed
+      by bite registration, try-in and delivery of upper and lower complete dentures.
+
+      Afterwards, approved complete dentures will be duplicated using laboratory condensation
+      silicone to construct a radiographic stent. The radiographic stent is prepared by using a
+      ratio of 3:1 acrylic resin to barium sulphate mixture, and then the patient is sent for a
+      Cone Beam Computed Tomography (CBCT) scan.
+
+      CBCT scanning and virtual design of the patient-specific implant (PSI):
+
+      The CBCT scan of the patients - in the form of DICOM files - will be imported into surgical
+      planning software (Mimics 19, Materialise, Leuven, Belgium). A segmentation process will be
+      accomplished by using the two dimensional CT cuts to define the image thresholds based on
+      Hounsfield's units, excluding soft tissue and only highlighting hard tissue (bone). The
+      maxilla/mandible region will be further isolated by cropping and/or region-growing functions
+      to remove artifacts and select only the area of interest, followed by the 3D calculation of
+      the selected regions. The 3D models will be exported in standard triangulation language (STL)
+      format.
+
+      The STL files will then be imported into computer-aided design (CAD) software (3-matic) in
+      order to create the design of the PSI. The subperiosteal part of the PSI will be drawn on the
+      surface of the region planned to receive the PSI and then extruded to a thickness of 2.5mm.
+      The PSIs will be meshed out with 2.5 mm holes to be compatible with 2.0 mm fixation screws.
+      For the single-piece PSI, the abutments will be placed, guided by the opposing teeth and the
+      radio-opaque dentures. As for the two-piece PSI, the same design will be repeated without the
+      addition of the abutment posts.
+
+      Fabrication of the patient-specific implant (PSI):
+
+      The STL file of the final design will be sent for 3D printing via additive manufacturing
+      using selective laser sintering (SLS) machine from medical titanium grade (Ti-6Al-4V) Extra
+      Low Interstitials (ELI).
+
+      PSI surface treatment:
+
+      The PSI will be subjected to acid etching following a protocol proposed by Juodzbalys et al
+      to attain micro roughness on the fitting surface of the implant. The PSIs will be etched with
+      sulfuric acid (H2SO4) for 72 hours followed by Hydrochloric acid (HCl) for 30 hours. After
+      removal from the acids PSIs will be washed in distilled water.
+
+      Cleaning and sterilization:
+
+      Implants will be cleaned in an ultrasonic bath of absolute ethyl alcohol solution at ambient
+      temperature for 30 minutes to ensure the removal of any residues on the fitting surface of
+      the implant. After being thoroughly cleaned, the PSIs will be wrapped and sterilized using a
+      class B autoclave.
+
+      Surgical phase:
+
+      For both groups, under general anesthesia; a mucosal incision 3-5 mm crestal to the vestibule
+      will be made in the anterior region similar to the genioplasty incision, followed by
+      dissection over the orbicularis oris and mentalis muscle and incising down to bone using a
+      scalpel blade #15c mounted on a Bard-Parker® surgical blade handle size 3, to expose the
+      proposed implant site. The incision will be completed posteriorly after localization of the
+      mental nerves. After bone exposure the implant will be installed in place and fixed with
+      2.0mm grade 5 titanium screws.
+
+      For two-piece PSIs, the framework will be designed with 3-4 mm endosseous projections at the
+      anticipated area where the final abutments will be fastened, guided by the position of the
+      teeth in the proposed prosthetic set-up. The endosseous projections will be designed in order
+      to accommodate the height of the internal connection that will receive the final abutment in
+      a second-stage surgery. Unlike single piece PSIs, bone-supported surgical guides will be
+      designed to aid in the placement and seating of the two-piece PSIs corresponding to the
+      preplanned osteotomy sites. The flap will be sutured in two layers; the muscle layer will be
+      closed with 3/0 poliglecaprone resorbable suture material and the mucosa with 4/0
+      Polypropylene non-resorbable suture material.
+
+      Postoperative care and instructions:
+
+      The intra oral wounds will be evaluated for any signs of bleeding, hematoma, infection, wound
+      dehiscence or PSI exposure after 48 hours, then weekly till the end of the first month. The
+      following medications will be administered:
+
+      Long acting corticosteroids: Methylprednisolone Acetate 40 mg/ml intramuscular injection
+      single dose immediate postoperative.
+
+      Anti-inflammatory analgesic: Ketorolac tromethamine 30 mg/amp/2mL intramuscular injection
+      every 12 hours for the first 24 hours followed by diclofenac potassium 50 mg tablets (every 8
+      hours for 4 days) Oral antibiotic: Ampicillin/sulbactam 375 mg tablets (every 8 hours for 10
+      days) Strict oral hygiene measures in the form of regular use of chlorohexidine Gluconate 125
+      mg/100 mL antiseptic mouth wash (every 8 hours for two weeks).
+
+      Prosthetic phase:
+
+      The steps of fabrication of the final prosthesis will be initiated 3 months after implant
+      placement for both groups. For the single-piece PSI group, a closed impression will be made.
+      For the two-piece PSI group, final abutments will be fastened to the corresponding connection
+      in the framework in a second stage surgery, followed by a final closed impression a week
+      later. The final restoration will be constructed from a high impact polymer composite (HIPC)
+      material via computer numerically controlled (CNC) milling. Occlusal adjustments will be
+      performed followed by temporary cementation for two weeks until a final approval is obtained
+      from the patient. Later, the prosthesis will be cemented using glass ionomer self-cured
+      luting cement.
+    
+  

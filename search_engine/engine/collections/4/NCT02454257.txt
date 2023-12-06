@@ -1,0 +1,82 @@
+
+    
+      Aim: To improve risk models used to underpin national clinical audits for adult general
+      critical care, cardiothoracic critical care and in-hospital cardiac arrest using data linkage
+      with other routinely collected data sources.
+
+      Specific objectives are:
+
+        1. To improve risk models for adult general critical care by: (1a) developing risk models
+           for mortality at fixed time-points and time-to event outcomes (by data linkage between
+           the CMP and death registrations from ONS); developing risk models for longer term
+           chronic health outcomes of (1b) diabetes (by data linkage between the CMP and the
+           National Diabetes Audit) and (1c) end-stage renal disease (by data linkage between the
+           CMP and the UK Renal Registry); and (1d) developing risk models for subsequent health
+           care utilisation and costs (by data linkage between the CMP and HES)
+
+        2. To improve risk models for cardiothoracic critical care by: (2a) enhancing risk factor
+           data (by data linkage with the National Adult Cardiac Surgery Database); (2b) developing
+           risk models for longer term mortality (by data linkage between the CMP and death
+           registrations from ONS); and (2c) developing risk models for subsequent health care
+           utilisation and costs (by data linkage between the CMP and HES)
+
+        3. .To improve risk models for in-hospital cardiac arrest by: (3a) enhancing risk factor
+           data (by data linkage between NCAA and HES); (3b) developing risk models for longer term
+           mortality, health care utilisation and costs (by data linkage between NCAA and ONS);
+           (3c) developing risk models for subsequent critical care utilisation (by data linkage
+           between NCAA and CMP); and (3d) developing risk models for subsequent health care
+           utilisation and costs (by data linkage between NCAA, ONS and HES)
+
+        4. Immediate translation of the improved risk models into practice through: (4a) adoption
+           into routine comparative outcome reporting for the national clinical audits; and (4b)
+           communication of research output to providers, managers, commissioners, policy makers
+           and academics in critical care
+
+      Data collection: The project will utilise high quality clinical data collected for the Case
+      Mix Programme (CMP) and National Cardiac Arrest Audit (NCAA) - the national clinical audits
+      for adult critical care and in-hospital cardiac arrest. These data will be linked with data
+      from the National Diabetes Audit, UK Renal Registry and National Adult Cardiac Surgery Audit,
+      routine administrative data from Hospital Episode Statistics (HES) and death registrations
+      from the Office for National Statistics (ONS).
+
+      Data linkage will be undertaken by the HSCIC Data Linkage and Extract Service (DLES) acting
+      as a trusted third party. Identifiers (with no associated clinical data) will be uploaded
+      from each national clinical audit to secure servers at HSCIC. DLES will perform the data
+      linkage and will return a common key that can be used to link all records of the same patient
+      across the datasets. The three national clinical audits external to ICNARC will extract an
+      agreed, pseudonymised dataset for linked records and DLES will extract data from HES and ONS
+      and these datasets will be passed to ICNARC. ICNARC will produce pseudonymised data extracts
+      from the CMP and NCAA and these will be linked to the datasets provided by the national
+      clinical audits and DLES using the common key. In this way, only pseudonymised data will be
+      linked between the multiple data sources.
+
+      Data analysis: The following approaches for model development will be applied depending on
+      the outcome and objectives of the analysis:
+
+        -  Modelling of mortality at fixed time-points (30 days, 90 days, 1 year) using logistic
+           regression.
+
+        -  Modelling of time-to-event outcomes using standard survival regression methods such as
+           Weibull and Cox regression.
+
+        -  To handle interval-censored data: Cox proportional hazards models, complementary log-log
+           models using partial likelihood estimation (to permit interval censoring) and
+           discrete-time hazard models.
+
+        -  To account for both interval censoring of the time-to-onset and competition with death:
+           Cause-specific Cox proportional hazards models and illness-death models will be
+           considered.
+
+        -  For Objective 3, return of spontaneous circulation (ROSC) for greater than 20 minutes
+           and survival to hospital discharge outcome, multilevel logistic regression with random
+           effects of hospital will be applied.
+
+        -  To model Hospital resource use and costs post-critical care: multilevel regression model
+           and Log linear regression model.
+
+      Risk prediction models will be validated for their discrimination, calibration and overall
+      fit using a panel of measures including: c index; plots of observed against predicted risk;
+      Hosmer-Lemeshow goodness-of-fit statistic; Cox's calibration regression; Shapiro's R, Brier's
+      score and corresponding approximate R2 measures; and reclassification.
+    
+  

@@ -1,0 +1,43 @@
+
+    
+      This study is a longitudinal analysis of the outpatient prescription data of psychiatric
+      hospitals. It includes two aspects: 1) Develop evaluation methods for the risk of
+      sedative-hypnotic addiction in psychiatric hospitals; 2) Construct a predictive model for the
+      risk of iatrogenic addiction to sedative-hypnotics.
+
+      Step 1. Export all sedative hypnotic prescription information from the outpatient medical
+      record system of Shanghai Psychiatric Hospital.
+
+      The data range is from January 1, 2019 to December 31, 2020. The data items that need to be
+      exported include: patient identification information, gender, age, diagnosis, prescription
+      drug name, drug use method, total dose, time , and the physician number of the prescription.
+      Generate a unique patient number based on identification information (such as ID number), and
+      merge all prescription information and electronic medical records of the same patient during
+      the study period.
+
+      Step 2. Identify patients at risk of addiction to sedative hypnotics. This study defines the
+      risk of addiction to sedatives and hypnotics when the outpatients appear "double off-label
+      prescriptions". The standard of "double off-label prescriptions" is: the highest daily
+      average dose of prescriptions obtained by patients>60 mg diazepam equivalent milligrams, and
+      the number of consecutive prescription days>120 days. Firstly, mark whether the patient has a
+      prescription that exceeds the specification range (over indication, over daily dose range,
+      over treatment course) during the study period. Secondly, the analysis data set is further
+      converted and labeled, including: all benzodiazepine doses are converted into diazepam
+      equivalents according to the "Benzazepine Dose Conversion Table". Calculate the "average
+      daily prescription dose" for each patient: add up the prescriptions of benzodiazepines to get
+      the total prescription, and divide by the number of days to get the average daily
+      prescription dose. Finally, calculate the monthly or annual cases or proportion of "double
+      off-label prescriptions" patients who are at risk of addiction to sedatives and hypnotics.
+
+      Step 3.Establish a risk prediction model for iatrogenic addiction to sedative and hypnotics
+      in psychiatric hospitals.
+
+      Use correlation analysis or machine learning methods to explore the formation trajectory of
+      the "double off-label" pattern of sedative hypnotic prescriptions, and build a predictive
+      model that can predict the formation of the "double off-label" pattern. Use a subset of
+      prescription data to identify patients with status of "double off-label", then evaluate and
+      review them to confirm the addiction status of sedatives and hypnotics. Use the validation
+      subset to verify and improve the addiction risk prediction model based on the training data
+      set.
+    
+  

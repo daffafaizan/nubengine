@@ -1,0 +1,20 @@
+
+    
+      298 MHD patients in 6 hemodialysis centers in Taiwan were enrolled in this randomized
+      controlled study. All the participants were randomized into study group ( dry weight (DW)
+      determined by BCM-BIS) and control group ( dry weight determined by clinical symptoms) with
+      stratification by diabetes mellitus and centers. Body composition monitor based on
+      bioimpedance spectroscopy (BCM-BIS) was performed monthly and concomitant biochemical data
+      and clinical outcomes were collected. Intra-dialysis complications were recorded in every
+      dialysis session. Primary outcome was all-cause hospitalization. Secondary outcomes included
+      1) complications during DW adjustment 2) intra-dialysis morbidities 3) hypertension 4)
+      mortality 5) acute fluid overload (AFO) or cardiovascular (CV)-related events. The clinical
+      feasibility of the BCM-BIS algorithm was also inspected. Statistical methods: a software
+      (SAS) 9.3 was used for statistical analysis in this study. R 3.0 was used for graphic
+      presentation of parts of the results. Relative risk, incidence rate ratio and Fisher's exact
+      test were used to compare the discrete outcomes in both groups. Survival analysis was used
+      for time-related events. Repeated-measured and longitudinal data were analyzed with the
+      generalized linear mixed model (GLMM) through the procedure for continuous variables (PROC
+      MIXED) and for discrete variables (PROC GLIMMIX) in SAS.
+    
+  

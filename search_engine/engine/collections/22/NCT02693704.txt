@@ -1,0 +1,24 @@
+
+    
+      The signal processing laboratory (LTS2) of the Swiss Federal Institute of Technology (EPFL)
+      has developed a new feature of sound rendering in hearing aids. This is a collaboration
+      between EPFL and the Swiss company Phonak Communications AG. The new functionality works with
+      the range of Roger products from Phonak, a new generation of FM systems that use a digital
+      transmission.
+
+      FM technology refers to a type of wireless system that helps people better understand speech
+      in noisy situations. FM systems commonly work together with a user's hearing aids, although
+      systems are also available for those with otherwise normal hearing (such as people who suffer
+      from APD, ADHD etc.). An FM system works like this: the person speaking wears or holds a
+      transmitter microphone, or the transmitter is placed in the middle of the group (picking up
+      speech from all around). Using harmless radio waves, the FM system sends speech signal(s) to
+      the listener, who wears a tiny FM receiver behind the ear.
+
+      The new feature of such systems performs processing of the speaker's speech signal so that it
+      renders information related to their spatial location. This so-called sound "spatialization"
+      is a natural property of the human binaural auditory system, which allows us to localize
+      sounds. However, this sound spatialization is not delivered by the current FM systems. Thanks
+      to the new technology from EPFL and Phonak, it is now possible to include a binaural
+      spatialization of the speech signal in the Roger product of Phonak hearing devices.
+    
+  

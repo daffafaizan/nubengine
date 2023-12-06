@@ -1,0 +1,65 @@
+
+    
+      Breast cancer (BC) is a major public health problem in France, with an increasing incidence,
+      estimated at ~60,000 new cases in 2017 and 12,000 deaths. Despite survival improvement in the
+      recent years, resistance to chemotherapy (CT) remains a paramount challenge in BC: the
+      molecular mechanisms remain poorly known and the current interventions are inadequate to
+      target chemoresistance. Neo-adjuvant chimiotherapy (NAC) is now used increasingly in women
+      with operable but aggressive BC such as triple-negative (TN) or HER2+ tumor (Pusztai et al,
+      Lancet Oncol 2019). It provides at least three advantages: i) tumor debulking authorizing
+      conservative surgery, ii) tailoring of adjuvant systemic therapy according to the
+      pathological response, with delivery of capecitabine in TN patients (Masuda N. et al, N Engl
+      J Med. 2017) and T-DM1 in HER2+ patients (von Minckwitz G et al., N Engl J Med. 2019) in the
+      absence of pathological complete response (pCR), and iii) providing resources for
+      investigating the molecular mechanisms of chemoresistance. The current standard NAC regimen
+      is based on a sequential association of anthracycline and taxane (and trastuzumab if HER2+)
+      (Huober & von Minckwitz, Breast Care 2011), and the achievement of pCR, defined as the
+      absence of residual invasive cancer on pathological evaluation of the operative specimen
+      (resected breast specimen and sampled ipsilateral lymph nodes (i.e., ypT0/Tis ypN0 in the
+      AJCC staging system), is a good-prognosis feature; the patients without pCR being at high
+      relapse risk (≈50% of the TN and HER2+ subtypes).
+
+      The major bottleneck in improving treatment efficiency for these patients is the
+      identification of candidates effectively involved in the resistance to NAC, their validation
+      in relevant and predictive models, and their detection from surrogate markers. Of course, the
+      search for molecular alterations differentially represented in the pre-NAC samples between
+      the resistant (no pCR) versus sensitive (pCR) patients, or between the paired post- versus
+      pre-NAC samples may reveal candidates involved in resistance ("innate" and "acquired stable"
+      respectively), but ignores the alterations that occur during the NAC that may be reversible
+      ("acquired reversible") and not identified in the resected specimen (Echeverria GV, Sci
+      Transl Med 2019), but only identifiable by analysis of serial samples during NAC regimen,
+      difficult and traumatic in clinical practice.
+
+      The present project aims at identifying robust candidates for drug resistance in BC patients
+      eligible for NAC. Its originality lies upon the combination of three different and
+      complementary prospective approaches: from the molecular analyses of biopsies sampled before
+      and after NAC, from in vitro BC Patient-Derived Organoids (PDO) mimicking patient's response
+      to NAC, and from Circulating Tumor Cells (CTCs) isolated before/during/after NAC. This
+      project will combine the most advanced technologies (RNA and DNA-sequencing from small amount
+      of biologic material, rare subsets/single-cell isolation, and multi-omics analyses) with
+      innovative models (drug testing on breast PDO, identification of reversible drug-induced
+      changes) and clever combination of robust markers involved in drug resistance that have all
+      been established and are running in the laboratory (cf Part B). The last two points have only
+      recently become feasible thanks to two recent technological advances: breast cancer PDO
+      cultures (Sachs N, et al. Cell. 2018) and CTCs isolation and characterization (Gkountela S,
+      et al. Cell. 2019). Briefly, the investigators will use serial tumor biopsies and blood
+      samples from a cohort of BC patients treated with NAC (Figure 1). Tumor biopsies will be
+      collected before and after NAC. They will be analyzed by RNA-seq and targeted-NGS (exome)
+      approaches to capture the differences resulting from NAC in patients with different
+      pathological response. They will also be used to generate BC PDO models. The PDO models
+      predictive for NAC response will be exploited as relevant models to investigate NAC
+      resistance. Specifically, investigators will use these models to look at in vitro "acquired
+      reversible" drug-induced resistance mechanisms (i.e only detectable during the drug
+      exposure). Blood samples will be collected before, during, and after NAC to analyze CTCs, and
+      aim at identifying "acquired reversible" drug-induced resistance mechanisms ex vivo, which
+      the investigators might fail to detect with the before/after NAC samples only.
+
+      To our knowledge, this is the first time that these three innovative approaches will be used
+      together to investigate in depth the topic of "resistance" in patients receiving NAC. The
+      strength of this combination is to anticipate different - not mutually exclusive - situations
+      that might occur ("innate", "acquired stable" and/or "reversible" drug-induced resistance).
+      Each approach will provide original, precise and specific information that will contribute to
+      build a more complete answer to this question than the scattered and incomplete data
+      currently available in the literature.
+    
+  

@@ -1,0 +1,112 @@
+
+    
+      Colorectal cancer (CRC) prevention is a top VA priority. Veterans are highly impacted by CRC,
+      the third most common cancer diagnosed5,6 with a 3-year mortality rate of 35%.5 Colonoscopy
+      screening can save lives, and is the cornerstone of effective prevention. The National Polyp
+      Study showed that removal of adenomas during screening colonoscopy decreases the subsequent
+      development of CRC by up to 90% and death by up to 50% in comparison to historical controls.
+      In VA, colonoscopy is the primary CRC screening modality with over 200,000 colonoscopies
+      performed each year.9 Eighty-two percent of Veterans are up-to-date on CRC screening, with
+      89% having a colonoscopy.9 However, the quality of those VA colonoscopies is unknown.
+
+      High quality colonoscopy is critical for CRC prevention. Observational studies found
+      significant rates of CRC even after normal colonoscopy, likely due to colonoscopists' varied
+      performance in detecting and removing polyps.11,15 Among Medicare beneficiaries,
+      approximately 7% of all CRC occurred in individuals who had colonoscopy that apparently
+      missed the CRC diagnosis. A pooled analysis from eight surveillance studies suggested 52% of
+      incident CRCs after colonoscopy were due to missed lesions.16 These interval cancers
+      highlight the need to focus on colonoscopy quality indicators.11,15,17,18 Adenoma detection
+      rate (ADR) significantly varies by provider and has been strongly linked to both CRC
+      incidence and mortality. In essence, polyps that are not found cannot be removed for CRC
+      prevention. ADR, defined as the proportion of screening colonoscopies performed by a
+      physician that has one or more histologically-confirmed adenomatous polyps or CRC, is the
+      primary benchmark for colonoscopy inspection quality. Increasing ADR correlates with a lower
+      risk of interval and fatal CRC.10,11 A landmark US study of 314,872 colonoscopy exams showed
+      marked variability in providers' ability to detect polyps, with the ADR ranging from 7.4 to
+      52.5%.10 In patients of providers with the highest ADRs, as compared with those in the
+      lowest, the adjusted hazard ratios (HR) for fatal interval CRC was 0.38 (95% CI, 0.22 to
+      0.65).10 Each 1% increase in ADR was associated with a decrease risk of 3% for interval CRC
+      and 5% for CRC death.10 Using the methods the team developed19, the investigators have
+      powerful pilot results showing colonoscopy quality variability in the VA and direct
+      association with CRC death. From 1999-2011, there were 634,331 Veterans with baseline
+      colonoscopy performed by one of 3101 colonoscopists with ADRs ranging from 13-79%. In
+      patients who had a colonoscopy without polyps found, the higher the provider ADR, the more
+      protected the patient was from developing future CRC: adjusted HR (adjHR) 0.57 for incident
+      (95%CI: 0.42-0.79; ptrend< 0.001) and 0.73 for fatal (95%CI: 0.50-1.06; p=0.047) CRC for the
+      highest vs. lowest ADR quintile. Among individuals who had a colonoscopy with polypectomy,
+      increasing ADR was also associated with reduced risk: adjHRs 0.46 for incident (95%CI:
+      0.34-0.62; ptrend< 0.001) and 0.53 for fatal (95%CI: 0.34-0.84; ptrend=0.006) CRC for the
+      highest vs. lowest quintile. A 5% absolute increase in ADR was associated with relative
+      reductions in fatal CRC risk of 4% after normal colonoscopy (adjHR 0.96, 95%CI: 0.95-0.97)
+      and 6% after polypectomy (adjHR 0.94; 95%CI: 0.89-0.98) Other important quality metrics,
+      including bowel preparation quality20-23 and cecal intubation rate11 also impact patient
+      outcomes with poor bowel preparation and incomplete examinations associated with missed
+      lesions24 and need for earlier repeat procedures.
+
+      Audit and feedback of colonoscopy quality improves performance and outcomes. The VA Surgical
+      Quality Improvement Program (VASQIP) is an example of a VA nationwide reporting system that
+      formed to focus on quality and has led to a decrease in mortality of 47% in patients 30 days
+      after surgery.25-27 VASQUIP provides information to providers for self-assessment and quality
+      improvement purposes.25 There is similarly strong evidence that providing colonoscopy
+      performance feedback12,28,29 improves quality and patient outcomes.12,28 Kahi and colleagues
+      showed in a single-center VA setting that a quarterly report card improved colonoscopy
+      quality.28 Most recently, in a large prospective European cohort study evaluating annual
+      feedback and quality benchmark indicators on screening colonoscopy performance,12 the
+      majority of the endoscopists (74.5%) increased their annual ADR. Moreover, individuals
+      examined by endoscopists in the highest ADR quintile (> 24.6%) had significantly lower risk
+      of interval CRC and death. When compared with no increase in ADR, reaching or maintaining the
+      highest quintile ADR decreased adjusted hazard ratios for interval and fatal CRC to 0.27 (95%
+      CI, 0.12-0.63; P = .03), and 0.18 (95% CI, 0.06-0.56; P = .03).
+
+      Quality Gap: Quality reporting improves patient outcomes. The national VA healthcare system
+      currently lacks a reliable, efficient program to routinely measure and report colonoscopy
+      quality.13 Accurate measurement of quality metrics is challenging, because validated quality
+      metrics are not available in structured VA data from VA CDW. The challenge is multifactorial.
+      Colonoscopy procedure documentation resides in text notes in Vista/CPRS or endoscopic
+      reporting software. The commonly used VA endoscopy note writer software programs (i.e.
+      Endopro�, Provation�, etc) do not facilitate tracking pathology data and quality measurement.
+      None of the current VA endoscopy reporting programs link to VA pathology data (to determine
+      ADR); and production-level pathology data is not in the CDW. Thus, within VA, there has not
+      been a reliable, efficient way to track critical procedure and pathology results to measure
+      colonoscopy quality and ensure optimal protection from CRC incidence and death for Veterans.
+
+      Proposed Solution and Rationale for Study: The foundation of VA-EQuIP is a novel natural
+      language processing (NLP) algorithm and informatics reporting infrastructure that the
+      investigators developed to measure the quality of colonoscopies performed by individual VA
+      colonoscopists.30 The team will evaluate a national quality improvement program to better
+      understand how and why such a program is effective or ineffective in different contexts. This
+      study is critically needed to allow us to perform a rigorous evaluation to answer
+      implementation science questions and to advance the clinical and epidemiologic knowledge on
+      the impact of colonoscopy quality on CRC mortality. Leveraging the informatics investment
+      made by HSR&D as well as the National GI Program office partnership in quality improvement
+      initiatives, the roll out of VA-EQuIP is a rare opportunity to study, in real time, the
+      deployment and impact of a large-scale learning health system initiative. Most existing
+      performance measures are calculated at the facility level. The concept of calculating metrics
+      from individual provider procedures and comparing these metrics not only with local peers but
+      with national providers represents a profound culture shift. This is where implementation
+      science becomes essential, especially with respect to stakeholder engagement, adaptation and
+      tailoring.
+
+      A primary justification for this study is that VA-EQuIP has a high probability of improving a
+      quality metric outcome (ADR) directly associated with CRC death, one of the most common
+      cancers in Veterans. A randomized controlled trial of this magnitude is an opportunity to
+      show, for the first time, that even small improvements in clinical performance from audit and
+      feedback can save Veterans lives, since even a 1% increase in ADR translates to a 3%
+      reduction in interval cancer death. The proposal for a randomized program evaluation is a
+      tremendous opportunity to determine the large scale effect of the audit and feedback strategy
+      on changes in the colonoscopy quality metrics of individual endoscopists over time. The
+      evaluation of VA-EQuIP implementation will identify factors associated with effective
+      implementation and colonoscopy quality improvement (impact) at VA sites. Prior and planned
+      work builds toward long-term goal to reduce mortality in Veterans by increasing early
+      detection of CRC and inform national quality improvement initiatives such as remediation
+      training for continual low performing endoscopists.
+
+      Finally, with upcoming expansion to community care, VA will be making policy decisions about
+      what services should be furnished by VA versus non-VA providers. It is more crucial than ever
+      that health services researchers apply rigorous methods to identify meaningful quality
+      metrics that are linked by evidence to patient outcomes so that these measures of quality
+      will be used to justify such crucial "make versus buy" determinations. It is hopeful that the
+      investigators study will not only improve colonoscopy quality but also provide a framework
+      for assessing the quality of other procedures such as bone marrow biopsy or bronchoscopy.
+    
+  

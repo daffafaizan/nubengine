@@ -1,0 +1,25 @@
+
+    
+      At level 3 conditionally automated, the vehicle ensures driving and the driver disengages
+      from driving to perform non-related driving tasks (ex: read a book, play on his phone ....).
+      However, drivers are expected to be available to take over control for the case of system
+      failure or limitation. This take-over control must take place in a limited time, very short,
+      of the order of a few seconds. To take-over control of the vehicle quickly and efficiently,
+      the driver must be, at the time of take-over, vigilant, efficient, and attentive to the
+      environment and focused on the take-over of manual driving. Predicting the driver's
+      reengagement capabilities to ensure that the driver will be able to take-over control of the
+      vehicle is crucial at level 3 of autonomous driving.
+
+      In this context, the objective of ANTIDOTE is to determine physiological and behavioural
+      parameters capable of predicting the take-over quality in level 3 conditionally automated
+      vehicles in a simulated highway driving situation.
+
+      This study will examine how engagement will impact take-over control quality in 6 non-driving
+      related secondary tasks. A driving simulator study will be conducted and data from a total of
+      32 healthy drivers and 16 drivers with attention disorders will be used to evaluate take-over
+      quality.
+
+      Electrophysiological (EEG, ECG, EDA, EMG, respiration) and behavioral data will be recorded
+      before, during and after the take-over control.
+    
+  

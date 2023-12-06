@@ -1,0 +1,54 @@
+
+    
+      Lack of regular physical activity (PA) in the general population is a top public health
+      concern, and this problem is even more acute among individuals with spinal cord injury (SCI).
+      Research has shown that only a small percentage (<20%) of persons with SCI reported
+      consistent PA. Individuals with SCI also experience secondary conditions such as pain,
+      fatigue, weight gain, and deconditioning, conditions that are considered preventable through
+      PA and exercise interventions.
+
+      The objective of this proposed study is to develop algorithms that incorporate each
+      individual's PA level and a clinician's PA level recommendation to provide a mobile phone
+      application that helps a person set PA goals that are safe, but also highly personalized. By
+      adapting the goals in real-time based on the person's actual behavior, the system aims to
+      keep the individual feeling positive and motivated.
+
+      Aim 1: Extend and utilize Physical Activity Monitor System (PAMS) to track PA levels,
+      sedentary behavior, and secondary conditions such as pain, fatigue, and deconditioning in
+      community settings.
+
+      Aim 2: Extend and utilize PAMS to passively monitor PA and provide continuous, but passive
+      feedback about PA levels to individuals with SCI in community settings.
+
+      Aim 3: Extend and utilize PAMS to passively monitor PA and provide just-in-time persuasive
+      and adaptive feedback to motivate individuals with SCI in community settings.
+
+      Sample size: A total of 20 individuals with SCI will take part in the study. The sample size
+      for this pilot study is based on budget constraints and other pilot studies. This study will
+      provide the pilot data required to compute the power for future studies.
+
+      Statistical Analysis: Univariate analysis will be performed to obtain a range of values and
+      the central tendency for variables such as PA levels and sedentary behaviors. Sedentary
+      behavior will be assessed by the time duration of non-movement of individuals with SCI and
+      not just the total duration of being seated in their wheelchairs.
+
+      The investigators hypothesize that the PA level of individuals with SCI in community will be
+      low compared to the PA level recommendations for individuals with disabilities in general.
+      Furthermore, the sedentary behavior of individuals with SCI will be high compared to the
+      general population.
+
+      Multiple regression analysis will be performed to assess a relationship between secondary
+      conditions such as pain (scores), fatigue (scores), and deconditioning (reduced capacity
+      scores) and PA levels. The investigators postulate that secondary conditions will be
+      negatively correlated with the PA levels.
+
+      Repeated measures general linear model (GLM) analysis will be performed to assess the change
+      in PA levels, sedentary behaviors and secondary conditions. In addition, linear mixed model
+      analysis will be performed to develop a personal intercept (and maybe slope) for each
+      participant compared to the mean intercept for each group. Mixed effects model analysis will
+      provide correct estimates of intervention (passive feedback and just-in-time adaptive
+      feedback) and other fixed effects (within-subjects factor) in the presence of correlated data
+      (each participant at different time points) that arise from a data hierarchy (group).
+      Non-parametric tests will be performed if the assumptions for parametric tests are not met.
+    
+  

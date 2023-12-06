@@ -1,0 +1,28 @@
+
+    
+      Primary endpoint: If in a treatment arm the number of patients alive and without progression
+      at 12 weeks is 17 or more, this arm will be considered promising, otherwise not promising.
+      Additionally, a two-sided 95% confidence interval for the difference in Progression free
+      survival (PFS) rates between the two arms will be calculated.
+
+      Secondary endpoints and patient characteristics:
+
+        -  Laboratory values may be expressed as the absolute values (continuous variables) or/and
+           as grading (ordinal categorical variables).
+
+        -  Generally for each categorical variable the results will be summarized by frequencies
+           and percentages. For response rates 95% Clopper-Pearson confidence intervals will be
+           calculated.
+
+        -  For each adverse event, the results will be summarized by frequencies and percentages of
+           different grades among all cycles as well as by frequencies and percentages of the
+           within-patient worst grades
+
+        -  For each continuous variable the results will be summarized by descriptive statistics.
+
+        -  Time-to-event variables will be presented by Kaplan-Meier curves and summarized by
+           medians and 95% confidence intervals.
+
+        -  All analysis will be done by treatment arm.
+    
+  

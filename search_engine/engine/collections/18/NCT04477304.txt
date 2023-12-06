@@ -1,0 +1,19 @@
+
+    
+      A multisite study, AESOPS-T1 randomizes clinics to behavioral intervention or control.
+      Clinics randomized to the behavioral intervention arm receive electronic health record
+      (EHR)-based nudges. Eligible participants are clinicians who practice ambulatory primary care
+      at the participating clinical sites in Illinois and California. At the time of opioid
+      prescribing, clinicians in clinics randomized to the intervention group will be prompted with
+      an EHR nudge when the prescribing history for the patient falls into one of the following
+      three mutually exclusive categories: Opioid naïve, opioid refill, or chronic high-dose
+      opioids. These EHR-based nudges include accountable justification, defaults and
+      precommitments. The control arm receives no EHR-based intervention. Both arms receive
+      guideline education. The primary outcome is the change in clinician aggregate daily milligram
+      morphine equivalent (MME) dose and the secondary outcome is the proportion of dosages that
+      equal or exceed 50 MME per day. These outcomes will be estimated by treatment arm with an
+      intent-to-treat difference-in-differences framework using a mixed-effects regression model on
+      clinician MME daily dose. The intervention period will be 18-months, with a 6-month follow-up
+      period to measure the persistence of effects after the interventions conclude.
+    
+  

@@ -1,0 +1,48 @@
+
+    
+      The FRX system is comprised of hardware and consumable components. The hardware components of
+      the system include an Analyzer (thermal cycler with fluorescence detection capability), a
+      notebook computer and a printer. The consumable component of the FRX system is a sample
+      collection kit. Each kit contains a buccal swab (used to collect the patient sample) and a
+      tube containing the reagents required for genomic DNA extraction and PCR (polymerase chain
+      reaction) amplification stages of the test.
+
+      The Spartan FRX System is capable of detecting three CYP2C19 SNPs(single nucleotide
+      polymorphism) (*2, *3, *17) in each test performed. An individual sample collection kit is
+      required for each SNP tested; therefore three sample collection kits are required for each
+      test performed on the system.
+
+      To perform a test, the user collects three buccal samples from the patient and then inserts a
+      sample into each of the three reagent tubes (one for each of the CYP2C19 loci *2, *3 and
+      *17). The reagent tubes are placed into the Analyzer and the FRX system automates the
+      processes of DNA extraction, PCR amplification, fluorescent signal detection and data
+      analysis. The system provides the user with a printed result listing the patient genotypes at
+      the *2, *3 and *17 loci.
+
+      The objective of the study is to evaluate the performance of the FRX System under
+      multivariate conditions. Specifically, the following variables will be included in the study:
+
+        -  Test site - x3
+
+        -  Operator - x6 (2 per site)
+
+        -  Day - x15 (5 non-consecutive days per site)
+
+        -  FRX System - x16
+
+      Test performance is defined as the number of correct genotype calls, expressed as a
+      percentage of the total number of tests performed on the system.
+
+      For both the first-pass and second-pass results, 1-sided 95% confidence lower limits will be
+      calculated using the score method for the % correct calls (i.e. % agreement).
+
+      Genotype results from the FRX system will be compared with results of DNA sequencing. The
+      result of the FRX System test will be determined to be correct if the genotype calls for all
+      three SNPs are identical to the genotypes determined by DNA sequencing for that
+      sample/individual.
+
+      Results of the Reproducibility Study will be acceptable if the lower bound of a 1-sided 95%
+      confidence limit of the total correct call rate per genotype is greater than or equal to 95%,
+      based on second-pass results.
+    
+  

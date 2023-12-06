@@ -1,0 +1,30 @@
+
+    
+      AsthmaCare is a novel mobile health application that integrates personalized asthma reminders
+      with self management feedback. Users input their prescribed daily controller medications and
+      personal asthma triggers upon first loading the app. Reminder messages are pushed through the
+      device at predetermined times to take controller medications. Once daily push notifications
+      are sent to the user regarding tips to avoid preselected asthma triggers.
+
+      Users are asked to input their use of controller medications, which is entered into a
+      medication log. Every interaction will unlock reward points as gaming theory is integrated
+      into AsthmaCare to maintain user engagement.
+
+      If symptoms occur or if rescue medication use is logged into AsthmaCare, the user is
+      automatically directed to an interactive asthma self-management plan, aka written asthma
+      treatment plan. When users are in the yellow zone, they receive notifications every 4 hours
+      regarding symptom update or rescue medication use. When users are in the red zone, these
+      notifications occur every 1 hour. When users are in the green zone (baseline, no symptoms),
+      they will receive motivational messages every 24 hours to maintain engagement with the app as
+      well as remind them to continue to use controller medications.
+
+      In addition to medication reminders and an interactive self-management plan, AsthmaCare
+      provides links to the nearest National Pollen Bureau counting station and allows for
+      symptom/medication diaries to be emailed for sharing with providers or printing.
+
+      Mobile health applications, particularly for asthma, have not been studies in prospective
+      clinical trials to demonstrate ongoing user engagement or efficacy. This study aims to
+      determine whether users of an asthma mobile health application will have superior clinical
+      outcomes compared with traditional asthma management.
+    
+  

@@ -1,0 +1,130 @@
+
+    
+      Our hypotheses are the following:
+
+      Hypothesis 1: ACTH gel is superior to no treatment in maintaining remission in children with
+      frequently relapsing or steroid dependent nephrotic syndrome (NS).
+
+      Hypothesis 2: Relapses in children with frequently relapsing or steroid dependent nephrotic
+      syndrome receiving ACTH gel will increase when the dose of ACTH gel is reduced by 50%.
+
+      Hypothesis 3: ACTH gel will increase the percentage of children with frequently relapsing or
+      steroid dependent nephrotic syndrome that remain relapse free off medication.
+
+      Primary end-points:
+
+      The primary end-point related to Hypothesis 1 is the proportion of patients in each arm with
+      a relapse during the initial 6 months of treatment.
+
+      The primary end-point related to Hypothesis 2 is the proportion of relapse-free patients
+      during the first 6 months and second 6 months of treatment with ACTH. This will include
+      patients initially randomized to ACTH and patients who receive ACTH as rescue therapy
+      following their initial relapse in patients randomized to no treatment.
+
+      The primary end-point related to Hypothesis 3 is the proportion of patients who have relapses
+      in the 6 months following completion of one year of ACTH. This will be compared to the
+      proportion of patients with relapses during the initial 6 months in the patients randomized
+      to no treatment.
+
+      Secondary end-points:
+
+      Our secondary end-points are the following:
+
+        1. The total prednisone exposure over the initial 12 months in the two groups.
+
+        2. The number of relapses over the initial 6 months in the two groups.
+
+        3. The change in body mass index (BMI), height standard deviation score (SDS), and
+           cholesterol over the study period for both groups Study Design and Methods The
+           experimental design is a multi-center, prospective, controlled open label, randomized
+           trial comparing ACTH gel and no treatment in preventing relapses in pediatric patients
+           with frequently relapsing or steroid dependent nephrotic syndrome.
+
+      Patients will be randomized in a 1:1 ratio to either no treatment or treatment with ACTH gel.
+      The primary outcome will be the presence of a relapse within 6 months of starting ACTH gel or
+      no treatment.
+
+      After initial recruitment, enrollment will begin with a screening visit to determine
+      eligibility and obtain informed consent and assent. Randomization and weaning of all other
+      medications for the treatment of NS will begin after remission has been achieved for those
+      with active relapse. There will be a 2 week overlap of ACTH and current immunosuppressive
+      medications:
+
+        1. ACTH will be initiated 2 weeks prior to the completion of the prednisone taper for
+           patients who are receiving prednisone at the time of consent.
+
+        2. ACTH will be initiated 2 weeks prior to stopping preventive medications such as
+           tacrolimus, cyclosporin, and mycophenolate.
+
+      Patients randomized to no treatment will be followed for up to 6 months or until disease
+      relapse, whichever occurs first. Patients who relapse within 6 months will be given the
+      option of reassignment to the ACTH treatment group after remission has been achieved using
+      conventional corticosteroid therapy.
+
+      Patients randomized to ACTH treatment will be given ACTH for 12 months. During the second 6
+      months, the ACTH dose will be reduced to 50% of the starting dose. The outcome of interest is
+      the presence of relapses after dose reduction. Follow-up will occur throughout the 12 months
+      of therapy, and also for 6 months following the completion of ACTH therapy. The outcome of
+      interest is the percentage of patients with relapses in the 6 months after completing a 12
+      month course of ACTH treatment.
+
+      The primary end-point of the study and on which the statistical power is based is the
+      proportion of patients who have a relapse in the 6 months following randomization to either
+      ACTH or no ACTH.
+
+      We hypothesize that the 6 month relapse rate for patients receiving no treatment is 70%. In
+      order to detect a 6 month relapse rate of 30% for patients receiving the ACTH gel, we will
+      randomize 30 patients in each arm using a two sided z test with alpha=.05. Our statistical
+      power to detect such a difference is 91% which assumes two interim analyses at 50% and 100%
+      of accumulated information. That is, once 30 patients have 6 month relapse data, we will
+      conduct the first interim analysis. The last one will be completed once we have relapse data
+      on all 60 patients. The table below gives the operating characteristics for such a design:
+
+      Number of Patients with 6 Months Data Boundary p-value 30 0.006 60 0.045
+
+      Using the method of Lan-DeMets, we list the boundary p-value for this sequential design.
+      Thus, after our first interim look, we will reject the null hypothesis of equal 6 month
+      relapse rates between ACTH gel and no treatment if our test statistic renders a p-value <
+      .006. According to the intent to treat principle, patients will be analyzed according to the
+      treatment they have been assigned to during the randomization procedure. The odds ratio of
+      ACTH versus no ACTH, plus the Wald 95% confidence interval, will be also be calculated.
+
+      The primary end-point related to specific aim 2 is the proportion of relapse-free patients
+      during the first 6 months and second 6 months of treatment with ACTH. This will include
+      patients initially randomized to ACTH and patients who receive ACTH as rescue therapy
+      following their initial relapse. We will estimate 6 month and 12 month relapse-free rate
+      using the method of Kaplan-Meier and compare treatments using a log-rank test.
+
+      The primary end-point related to specific aim 3 is the proportion of patients who have
+      relapses in the 6 months following completion of one year of ACTH. This will be compared to
+      the proportion of patients with relapses during the initial 6 months in the patients
+      randomized to no treatment using a z test statistic. Odds ratios of ACTH vs no ACTH will also
+      be calculated.
+
+      We will also compare patients as randomized by secondary endpoints such as total prednisone
+      exposure in 12 months, number of relapses, cholesterol and change in BMI with two sample
+      t-tests. If normality assumptions do not hold, appropriate non-parametric methods will be
+      used.
+
+      Growth data collected during the study will be summarized descriptively for each treatment
+      group at each time point. Based on height data collected during the study and published
+      reference height information, the height standard deviation score (SDS, also called z-score)
+      will be computed for each patient at each time point as:
+
+      (Height - mean height for that age category) / SD of height for that age category.
+
+      Descriptive statistics of this endpoint will be presented by time point and the z-scores will
+      allow identification of potential outliers.
+
+      Treatment Assignment and Randomization Treatment assignments will be stratified according to
+      clinical center. The treatment assignments will be generated by the Data Coordinating Center
+      (DCC) with the use of a pseudo-random-number generator with randomly permutated blocks that
+      will be used to ensure balance between the number of subjects assigned to each treatment
+      (ACTH or no ACTH). Before the study starts, the institutional research coordinator at each
+      clinical center will be given a batch of 20 sealed, sequenced, opaque envelopes containing
+      the treatment assignment and will have a unique identification number consisting of the
+      clinical center stratum.
+
+      Patients will be assigned to one of the two treatment arms in a ratio of 1:1.
+    
+  

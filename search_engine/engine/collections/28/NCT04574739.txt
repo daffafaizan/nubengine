@@ -1,0 +1,127 @@
+
+    
+      Cardiotocography (CTG), or electronic fetal monitoring (EFM), is the most common procedure
+      used for fetal assessment before and during labour and largely replaced the use of
+      intermittent heart rate auscultation with the Pinard stethoscope or intrapartal analysis of
+      fetal pH by scalp sampling. It relies on acoustic methods in the audible (auscultation) and
+      inaudible range of the sound spectrum (ultrasound). Ever since its introduction in the late
+      1960s, the benefit of the method has been controversial. Not only the great inter- and
+      intra-observer variability due to visual interpretation of CTG traces seems to be an issue,
+      but also the technical difficulties of the method: data assessment in adipose patients,
+      active fetuses or multiple gestation, confusions between fetal and maternal pulse, assessment
+      during water delivery, strong contractions or changing labour positions of the parturient. It
+      is common knowledge that CTG leads to unnecessary medical interventions such as caesarean
+      section and vaginal-operative deliveries, with the associated health consequences and
+      economic costs.
+
+      Despite the continuous progress made in CTG technology in the past 50 years, CTG devices
+      still have drawbacks, namely their bulkiness (including cables and bedside computers),
+      combined with the limited informative value and suboptimal reliability of the measured
+      signals. The assessment can be uncomfortable for the pregnant patient, due to the fact that
+      the patient is bound to a machine and implicitly to the bed, particularly when a longer
+      surveillance is needed. Long periods of immobility can lead to further medical and psychical
+      problems during pregnancy.
+
+      Wireless methods of fetal monitoring exist; nevertheless, the technical difficulties of the
+      assessment seem to be more pronounced when these are employed.
+
+      Routine continuous monitoring of physiological signals in normal and extraordinary
+      environments provides useful insides for better understanding and modelling of human
+      physiology. Under contract by the European Space Agency (ESA), the Swiss Centre for
+      Electronics and Microtechnology (CSEM) has designed and developed the LTMS system (Long Term
+      Medical System) system. In 2003, ESA commissioned CSEM to do a definition study for a
+      prototype of LTMS. Following the outcomes of this study, in 2006 CSEM built a first prototype
+      (LTMS-2) for ESA, which was validated at Bern University Hospital in 2008. In the subsequent
+      phase (LTMS-3, 2009-2010), CSEM manufactured a set of upgraded systems which were validated
+      in Antarctica (Concordia Station) in 2010 and during the Rio-Tinto field test of the Austrian
+      Space Forum spacesuit simulator in 2011. In 2015, CSEM delivered to ESA a new sensor system
+      (LTMS-S) with yet improved measuring functionalities and higher overall integration in an
+      easy to-wear vest. The system has been shipped to the Concordia Station in Antarctica for the
+      scientific investigation for monitoring the physiological adaptation of manned crews in
+      remote, isolated, and extreme environments. An in-depth clinical validation study at the
+      University Hospital in Lausanne has shown that the performance of the system was within the
+      contractual specifications and that it fulfilled the requirements set by international
+      medical standards.
+
+      Although it has initially been proposed to adapt and use LTMS-S for fetal ECG (fECG)
+      measurements, reconsidering the required noise level and resolution to capture fECG, it has
+      been decided to modify and use the ECGi-CDWe system, which has evolved from LTMS-S and
+      belongs to the cooperative sensors family of CSEM. This system outperforms LTMS-S in terms of
+      noise level, resolution, and also number of electrodes that can be connected (>200). The said
+      system has been designed in the frame of an industrial mandate by respecting the requirements
+      of medical device development. Therefore a reduced version of ECGi-CDWe has been developed,
+      hereafter called ELAINE system.
+
+      The objective of the proposed project ELAINE is to build a state of the art fetal
+      surveillance system using this technology and by applying electrocardiography (ECG) as main
+      surveillance method. The project leaders believe that this could substantially improve the
+      quality of continuous fetal monitoring before and during labour, in particular in terms of
+      specificity. From measuring a full ECG with the detachable ELAINE sensors instead of heart
+      rate-based CTG, the project leaders expect a higher reliability in the monitoring of the
+      health status of the unborn. The systems based on LTMS technology are unobtrusive and do not
+      require cabling to bedside devices, increasing the maternal comfort.
+
+      As mentioned before, the goal of the study is to adapt the ECGi-CDWe technology for fetal
+      surveillance. The full currently existing adult oriented LTMS-S system consists of a Master
+      unit connected to 8 measurement units via 2 cables. Reference and Guard electrode connections
+      are an integral part of the Master unit. The system is powered by a single battery attached
+      to the Master unit. 8 measurement units are powered from the Master unit via the 2 cables
+      connecting them to the Master unit. ELAINE system, being a part of the cooperative sensors
+      family of CSEM, benefits from a simple cabling scheme as opposed to the star topology
+      connection employed in almost any multi-lead ECG measurement systems in the market.
+
+      On one hand, the ELAINE sensors are small, unobtrusive and comfortable to wear. On the other
+      hand, they deliver a wide range of detailed signals with high accuracy. The ECG measured with
+      ELAINE contains for example all the information necessary to diagnose arrhythmic heart
+      diseases. The demonstrated high accuracy of the technology will enable the responsible team
+      at CSEM and the project leaders to record full fetal ECGs (fECGs), thus giving a more
+      accurate image of the cardiac health status of the fetus and making interventions more
+      effective. To make diagnoses even more accurate, the sensors developped by CSEM measure a
+      wealth of additional, signals, e.g. body sounds (potential for fetal heart auscultation),
+      muscular activity (ideal for measuring contractions), vibrations (physical activity of the
+      fetus). Finally, the ELAINE technology allows connecting many sensors in a very simple manner
+      (employing only a single two-wire bus for all sensors), making it very easy to simultaneously
+      record signals on different spots of the mother's body.
+
+      The ECG monitoring sensors will be tested at the Maternity Ward of the University Hospital of
+      Bern, in a first phase before labour.
+
+      A two-step validation has been planned to validate the measurements performed by the ELAINE
+      system: first it will be validated against the non-invasive gold standard to measure fetal
+      heart rate, i.e. CTG, and secondly it will be validated against a conventional ECG system to
+      measure maternal ECG. This two-step validation is justified as follows: CTG can extract fetal
+      heart rate information; however, not the complete ECG morphology. With ELAINE, the project
+      leaders claim to acquire fetal ECG signal rather than only fetal heart rate information.
+      Therefore, a validation only involving CTG will be a partial one. In order to complete the
+      validation, considering that the primary function of the ELAINE system is to acquire ECG
+      signals, it will be validated against a conventional ECG system which acquires maternal ECG.
+      In order to mitigate the risk of perturbation due to simultaneous connection of two ECG
+      systems, measurements will be conducted one after another - with the justification that ECG
+      morphology of a certain individual does not change in the time frame the experiments were
+      conducted. After the registration, the computer will filter and separate the two ECG curves
+      (fetal and maternal), based on the maternal ECG, which is available from the conventional
+      measurement, and on the fetal heart frequency, which is available after registration with
+      CTG.
+
+      Validation procedure:
+
+      During the first and last quarter of the recording duration, both ELAINE and a conventional
+      CTG system will be connected to the maternal abdomen. Fetal heart rate information acquired
+      by CTG will be compared with the one to be extracted from ELAINE. During the second and third
+      quarters of the recordings, only the ELAINE device will be placed on the maternal abdomen to
+      perform measurements in the absence of the CTG system.
+
+      Two measurement electrodes of ELAINE will be connected to the maternal chest. An ECG
+      recording will be performed for 5 minutes. Then a conventional 2-lead ECG will be connected
+      to the maternal chest upon removal of the ELAINE system. An ECG recording of same duration
+      will be performed.
+
+      The project leaders believe that the technology developed for ESA in the LTMS series has the
+      potential to fundamentally change EFM, with the end goal to improve the clinical outcomes of
+      deliveries. For this, the project leaders envisage a product which produces more accurate
+      data on the fetal health status than current CTG devices and which is more comfortable to
+      wear. Following the reasoning above, the project leaders think that this can be achieved with
+      ECG measurements. In ELAINE, the project leaders will for the first time demonstrate that the
+      ELAINE technology is appropriate for monitoring fetal health.
+    
+  

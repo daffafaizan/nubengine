@@ -33,7 +33,7 @@ class Letor:
         self.dataset = []
 
         self.clinical_dataset = ir_datasets.load("clinicaltrials/2021/trec-ct-2021")
-
+        
         self.stemmer = PorterStemmer()
         self.stop_words = set(stopwords.words('english'))
 
@@ -62,11 +62,11 @@ class Letor:
                 q_id, content = line.split("\t") #nfcorpus
                 self.queries[q_id] = self.preprocess(content)
 
-        for doc in self.dataset.docs_iter()[:1/5]:
+        for doc in self.clinical_dataset.docs_iter()[:1/5]:
             self.documents[doc.doc_id] = self.preprocess(doc.summary)
 
-        for query in self.dataset.queries_iter():
-            self.queries[query.query_id] = self.preprocess(query.content)
+        for query in self.clinical_dataset.queries_iter():
+            self.queries[query.query_id] = self.preprocess(query.text)
 
     def create_dataset(self, NUM_NEGATIVES=1):
         # grouping by q_id first
@@ -83,7 +83,7 @@ class Letor:
                         q_docs_rel[q_id] = []
                     q_docs_rel[q_id].append((doc_id, int(rel)))
 
-        for qrel in self.dataset.qrels_iter():
+        for qrel in self.clinical_dataset.qrels_iter():
             if (qrel.query_id in self.queries) and (qrel.doc_id in self.documents):
                 if qrel.query_id not in q_docs_rel:
                     q_docs_rel[qrel.query_id] = []

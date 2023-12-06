@@ -1,0 +1,87 @@
+
+    
+      The typical patterns of cognitive deficits in HIV reflect degraded brain network functioning,
+      likely due to a combination of brain health insults: some generic (aging), some HIV-specific
+      (inflammation, diffuse demyelination and inherent vulnerability that varies across
+      individuals). Consistent with this view, the cognitive domains most affected are those that
+      rely on extended networks (e.g. attention and executive functions relying on fronto-parietal
+      and fronto-striatal circuits), exquisite timing (psychomotor function), or both. These
+      network-based cognitive functions are vulnerable, but they are also resilient: there is a
+      high degree of learning-dependent plasticity in networks involving the frontal lobes. This
+      argues that the cognitive deficits in HIV may be amenable to remediation through cognitive
+      training, and suggests mechanisms by which this might occur. There are many forms of
+      cognitive rehabilitation; approaches that take advantage of advances in our understanding of
+      the mechanisms of neuroplasticity and the neural systems supporting human cognition are
+      likely to be highest yield. In this study, we will make use of Plasticity-based Adaptive
+      Cognitive Remediation (PACR), a powerful method for harnessing this plastic potential.
+      Conceptually, PACR applies well-understood techniques derived from brain plasticity and
+      implicit/procedural/perceptual learning to improve the speed and accuracy of information
+      processing, with exercises that are designed to drive generalized improvements.
+      Simultaneously, these exercises heavily engage neuromodulatory systems to re-establish their
+      normal control over learning and memory. As an individual restores these degraded abilities
+      through intensive procedural learning, the encoding of naturalistic information significantly
+      improves, and all resulting declarative memory and cognitive functions based on the quality
+      of that incoming information necessarily improve as well, leading to improvement that
+      generalizes beyond the trained tasks. Multiple randomized controlled studies have now
+      demonstrated that PACR improves cognitive and functional abilities in patient populations
+      with cognitive dysfunction similar in type and magnitude to patients with cognitive deficits
+      due to HIV.
+
+      PACR runs in a web browser on any Internet connected computer and is implemented in an
+      engaging game-like format. The participant selects one of the cognitive exercises scheduled
+      for the day, and performs that exercise for fifteen minutes. The exercise itself contains the
+      core science stimuli and task built into a game-like experience. Participants perform tens to
+      hundreds of trials over the course of the fifteen-minute session, with each trial providing
+      auditory and visual feedback and rewards to indicate if the trial was performed correctly or
+      incorrectly. After each trial, the difficulty of the next trial is updated to ensure that
+      within a session, the participant gets ~85% of trials correct. Thus, training is individually
+      tailored to maximize its effectiveness. Summary screens including game metrics (points,
+      levels) and exercise metrics (usage, progress) are shown to the participant at the end of
+      each session. The scheduling mechanism ensures that a patient progresses through the
+      exercises in a defined order, generally moving from more simple (early sensory processing)
+      exercises to more complex (multimodal, cognitive control) exercises over the course of the 8
+      weeks experience. At any point in time, the participant only has access to a subset
+      (typically six) of these exercises, four of which are performed per day.
+
+      Each exercise has specific criteria for completion, and after those criteria are met the
+      exercise is removed from the active set and the next exercise added. This mechanism ensures
+      both ongoing novelty and engagement for the participant, and that the participant progresses
+      smoothly through the complete set of exercises over the program use period.
+
+      Free access will be provided to the PACR program, and a tailored cognitive training program
+      will be developed in both French and English, specifically targeting domains and mechanisms
+      that are most affected in HIV. This will include selection of the most suitable training
+      modules (12 are planned), and optimization of the Web-based presentation and feedback to
+      ensure acceptability to this target group.
+
+      The treatment goal will be use of the assigned program in 30 minutes sessions, five sessions
+      per week, for 8 weeks after randomization; program use will be any mix of at home (or
+      community Internet resource) or in-clinic sessions.
+
+      The outcome will be responder status (defined as improvement of >0.5 logits) on the B-CAM.
+      With the assumption that the outcome is drawn from a binomial distribution with an expected
+      probability of response of 10% (n=3) with no intervention, 30 subjects in the immediate
+      training group will allow detection of a positive response at P<0.05 if 7 or more persons
+      respond. The observed responses in both groups will provide more accurate estimates to plan
+      for a scale up of this work to a full trial. An exploratory analysis will evaluate response
+      in only those who completed at least 60% of the training sessions, recognizing that power
+      here will be reduced, but the information nonetheless important.
+
+      Participants from both groups will also be compared to all those eligible for randomization
+      to this intervention in the platform as a whole. Generalized estimating equations (GEE) will
+      be applied as a secondary, more general approach here that permits other time points to be
+      modeled, and consideration of other outcomes. This accommodates either binary (responder
+      status) or continuous (scores on cognitive tests) outcomes. This analysis uses a regression
+      model, but clustering of outcomes within time is controlled. For binary outcomes, the effect
+      of group (immediate or control) is expressed as an odds ratio; for continuous outcomes the
+      parameter is an effect size equivalent to an adjusted paired-t-test. An interaction term
+      tests whether the effect differed by group (i.e. was larger in the immediate training group
+      as hypothesized).
+
+      Additional analyses will be used to explain changes in B-CAM score as a function of changes
+      expected from the intervention. As the intervention cohort is small, we will use concordance
+      parameters, rather than a regression model, to quantify the degree to which changes in
+      hypothesized mechanisms by which the interventions operate are concordant (at the individual
+      level) with changes in the outcomes (cognitive ability).
+    
+  

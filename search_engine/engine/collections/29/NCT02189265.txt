@@ -1,0 +1,117 @@
+
+    
+      Primary research questions
+
+        1. Is the phased introduction of smoke-free legislation in The Netherlands associated with
+           reductions in adverse perinatal outcomes (e.g. perinatal mortality, preterm birth, small
+           for gestational age)?
+
+        2. How do these associations compare with those described for other European countries in
+           comparable studies (i.e. Belgium (Cox 2013), England (Been et al under review), Scotland
+           (Mackay 2012))?
+
+      Study design Retrospective cohort study (using prospective routinely collected health care
+      data)
+
+      Study population All singleton births in the Netherlands between January 1st 2000 and
+      December 31st 2011.
+
+      Intervention The intervention under study is the ban on smoking in workplaces, and in bars
+      and restaurants implemented in the Netherlands on January 1st, 2004 and July 1st, 2008,
+      respectively.
+
+      Inclusion and exclusion criteria We will include all registered singleton births in the
+      Netherlands occurring between January 1st, 2000 and December 31st, 2011. This is the maximum
+      time period surrounding the ban's introduction for which the required birth data are
+      available through the data source. Multiple pregnancies, neonates with chromosomal anomalies,
+      pregnancies with unknown gestational age, pregnancies that ended before 24 weeks and
+      pregnancies resulting in the birth of a child weighing less than 500 grams will be excluded.
+
+      Outcome
+
+      The primary outcomes are:
+
+        -  Perinatal mortality (stillbirth + early neonatal mortality, i.e. within the first 7 days
+           of life)
+
+        -  Preterm birth (live birth with gestational age <37+0 weeks)
+
+        -  Small for gestational age (SGA; live birth with birth weight below 10th centile; The
+           Dutch PRN reference curves for birth weight by gestational age according to parity, sex
+           and ethnic background will be used)
+
+      To assess whether smoke-free legislation had a selective impact on certain subgroups of
+      outcomes we furthermore identified a number of secondary outcomes:
+
+        -  Stillbirth (born dead from 24+0 weeks of gestation)
+
+        -  Early neonatal mortality (live birth and death within first 7 days)
+
+        -  Very preterm birth (live birth with gestational age <32+0 weeks)
+
+        -  Low birth weight (live birth with birth weight <2500 grams)
+
+        -  Very low birth weight (live birth with birth weight <1500 grams)
+
+        -  Very small for gestational age (live birth with birth weight below percentile 2.3rd
+           centile)
+
+        -  Major congenital anomalies (based on reported associations with antenatal smoke exposure
+           (Hackshaw 2011)).
+
+      Data sources Individual level health care data will be extracted from The Netherlands
+      Perinatal Registry (PRN). Linked midwifery, obstetric, and neonatal data are available from
+      2000 to 2011 (including 2011).
+
+      Data extraction and handling All relevant variables regarding our outcomes, as well as
+      relevant potential confounders will be extracted from the database.
+
+      Sample size Power calculation for interrupted time series modelling is complicated given the
+      complexity of the analysis. Similar previous studies have demonstrated statistically
+      significant and clinically relevant effects of smoke-free legislation on preterm birth (Cox
+      2013; Mackay 2012; Page 2012), low birth weight (Mackay 2012), SGA (Mackay 2012; Kabir 2013),
+      and perinatal mortality (Mackay et al. and Been et al. both under review). Given the larger
+      population size of the Netherlands as opposed to the regions in which these studies were
+      carried out (except for Been et al. under review), we expect our study to have sufficient
+      power to detect similar effect sizes, should these be present.
+
+      Statistical analysis Incidences for each outcome will be presented graphically for each time
+      period to facilitate visualisation of temporal fluctuations and trends in changes of
+      incidence levels. To facilitate timing of the events, date of delivery and expected term date
+      are required for each pregnancy. Data will be presented as outlined in different Tables.
+      Interrupted time series analyses with adjustment for potential confounders will be performed
+      to assess the associations between implementation of smoke-free legislation and primary and
+      secondary outcome measures. Individual-level analysis will be performed using logistic
+      regression analysis. The models will account for the underlying temporal trend in incidence,
+      and will allow for a sudden change in incidence ('step change') following the introduction of
+      the smoking bans. We will test and adjust for any non-linearity in the underlying time
+      trends, and seasonality will be accounted as appropriate.
+
+      Sensitivity analyses (primary outcomes only) In recent years, gestational age is usually
+      estimated based on early ultrasonography findings, which is more reliable than estimation
+      based on the last menstrual period. Although the method of ascertainment is not recorded in
+      PRN, there is an item indicating 'certainty' of the gestational age, which is positive in
+      about 93% of records. For the primary outcomes preterm birth and SGA we will perform a
+      sensitivity analysis including only cases in whom gestational age estimation is considered
+      reliable according to this item.
+
+      Recent perinatal management changes have been implemented in The Netherlands resulting in
+      increased active management of babies born at the edge of viability (i.e. 23-24 weeks
+      gestation) (NVOG 2010). This has resulted in increased survival at this gestational age as
+      well as altered management of 25-26 week infants, which likely affects the number of babies
+      born preterm (although this effect is expected to be small given the small percentage of all
+      preterm babies being born at this stage), as well as mortality indicators. For the primary
+      outcomes preterm birth and perinatal mortality we will therefore perform a sensitivity
+      analysis excluding babies born before 26 completed weeks of gestation.
+
+      Smoking during pregnancy is known to be underreported in the PRN database. Definitions
+      between different caregivers differ; (any) smoking and heavy smoking (>20 cigarettes daily).
+      We will consider performing subgroup analyses of the impact of smoke-free legislation on the
+      primary outcomes according to maternal smoking status during pregnancy.
+
+      In a sensitivity analysis we will investigate whether smoke-free legislation has any
+      differential impact on spontaneous preterm birth versus medically indicated preterm birth.
+
+      All analyses will be performed using Stata 13.0.
+    
+  

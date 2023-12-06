@@ -1,0 +1,37 @@
+
+    
+      Specific Aims: The aim of this study is to determine the efficacy, side effects and safety of
+      sub-dissociative doses of ketamine in controlling acute traumatic pain in patients
+      transported by an aeromedical system when compared to standard doses of fentanyl.
+
+      Research Hypothesis: Aeromedical transport patients with acute pain treated with intravenous
+      ketamine show a clinically significant difference in mean numeric rating scale (NRS) pain
+      scores as compared to those treated with fentanyl and show no increase in adverse events.
+
+      Background and Significance: Treatment of acute pain in aeromedical transport patients is
+      important. Treatment may be limited by real or perceived concerns regarding analgesic side
+      effects including sedation, loss of airway maintenance, and negative hemodynamic
+      consequences. Ketamine used in sub-dissociative doses has strong analgesic properties while
+      maintaining protective airway reflexes and demonstrating minimal adverse hemodynamic effects.
+      It has been suggested as an ideal pre-hospital analgesic. Current literature regarding its
+      use in the pre-hospital environment is limited.
+
+      Experimental Design: This prospective, double-blind, randomized trial compares 0.3 mg/kg of
+      intravenous (IV) ketamine to 1 mcg/kg of IV fentanyl in adult aeromedical transport patients
+      who require pain control. The primary outcome measure will be the change in NRS pain scores
+      at ten minutes compared between the two groups. Secondary endpoints will include rates of
+      adverse events, differences in the slope of NRS scores over time, the total amount of
+      fentanyl/kg body weight/minute of flight required, overall research participant satisfaction
+      with their level of pain relief at the end of the flight, and the subjective ranking of pain
+      recall in comparison to other aspects of the patient's overall episode of care (pre-hospital,
+      emergency department, inpatient, and post-discharge care), as measured at 30 days.
+
+      Data Analysis: Categorical variables will be analyzed using chi-square and Fisher's exact
+      test. Means of normally distributed variables will be compared using Student's t-test, and
+      distributions of non-normally distributed variables will be compared using Mann-Whitney U.
+      Bayesian generalized linear mixed modeling will be employed to model the time-dependent
+      change in NRS scores between intervention groups while accounting for the autocorrelation
+      inherent in a repeated measures design. SAS statistical software (SAS v. 9.2, Cary, NC) and
+      WinBUGS software will be used for all analyses.
+    
+  

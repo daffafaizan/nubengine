@@ -1,0 +1,55 @@
+
+    
+      The purpose of this study is to compare the accuracy of the BiancaMed BM07 breathing
+      frequency indicator device with the respiration rate measured by a SomnoScreen RC Easy device
+      on 20+ human volunteers. This is being carried out in support of a 510(k) submission.
+
+        -  The BM07 is a non-contact device, using radio frequency (RF) range measurement to detect
+           the chest wall motion, and thus the respiration rate. The BM07 is a CE Class IIa cleared
+           device.
+
+        -  The SomnoScreen RC Easy is both a CE and FDA (K060708) cleared device, used as an
+           overnight, portable sleep recorder. One of its inputs is a pair of chest respiration
+           effort bands that can be used to record the breathing rate of the subject.
+
+        -  The human volunteers are selected to be a range of age, body mass index (BMI) and gender
+           so as to cover a broad cross section of the population. BMI, gender and age are features
+           that might affect the performance of the RF reflected signal:
+
+             -  High BMI or low BMI could affect the skin RF reflectivity.
+
+             -  High BMI may mask chest wall movement during breathing.
+
+             -  The thinner skin often associated with increasing age may affect RF reflectivity.
+
+             -  Female breast tissue may affect RF reflectivity or mask chest wall movement.
+
+      The target performance is an agreement between the BM07 and the Somnoscreen of +/- 5 breaths
+      per minute. This target has been selected based upon a literature review, in particular:
+
+        -  Lim et al: Respiratory Rate Measurement in Adults - How Reliable is it?
+
+        -  Droitcour PhD Thesis: Non-Contact Measurement of Heart and Respiration Rates with a
+           Single-Chip Microwave Doppler Radar.
+
+      There is no risk to the subjects as the RF energy emitted by the BM07 is much less than that
+      of either a mobile phone bluetooth or a domestic WLAN router.
+
+      The testing is to be carried out on volunteer human subjects, who sign a consent form. The
+      locations of testing are Dublin, Ireland and Belfast, UK.
+
+      The testing comprises the subjects sitting still for periods of 2 minutes whilst recordings
+      are taken from both the BM07 and Somnoscreen. The test configurations are ranges from the
+      BM07 to subject of 0.5, 1.0 & 1.5m and 1.0m with a thick folded duvet (overblanket/comforter)
+      covering the subject to represent them wearing thick outdoor winter clothing. Each test
+      configuration is carried out twice, making a total of 8 test recordings per subject.
+
+      The first 2 volunteers will be used to confirm that the maximum effective range of the BM07
+      is at least 1.5 m and that the target aspect of the subject (ie the sensor being in front, to
+      one side and from behind) does not affect the ability of the BM07 to detect breathing
+      movement.
+
+      This is an Observational study as the subjects are normal healthy volunteers and no
+      intervention can be made as a result of the study measurements
+    
+  

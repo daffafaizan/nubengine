@@ -1,0 +1,97 @@
+
+    
+      The primary research goal is to implement and evaluate evidence-based intervention strategies
+      targeted to adolescent girls and their parents that stimulate patient demand for the human
+      papillomavirus (HPV) vaccine and compliment provider-directed strategies already employed by
+      Parkland clinics.
+
+      The project has three specific aims:
+
+        -  Aim 1. Determine if a mailed packet with an invitation letter and educational material
+           (HPV-specific or general brochure about all recommended adolescent vaccines) delivered
+           prior to clinic visit, increases 1 dose coverage of the HPV vaccine series.
+
+        -  Aim 2. Determine if a telephone recall delivered 2 weeks after the clinic visit,
+           increases 1 dose coverage among parent-patient dyads who decline the vaccine during the
+           clinic visit.
+
+        -  Aim 3. Determine if telephone reminders to those overdue for Dose 2 or 3 of the HPV
+           vaccine series, increase 3 dose coverage of the series.
+
+      Phase 1 - Cognitive interviews: To ensure the usability and cultural appropriateness of all
+      project materials, investigators will conduct 40 in-person, cognitive interviews with parents
+      of female patients ages 11-18 attending Parkland clinics.
+
+      Phase 2 - Randomized controlled trial. Investigators will select and invite 1200 families
+      whose daughter has an upcoming appointment at one of four Parkland clinic sites. Eligible
+      patients will be randomized to either the Intervention group or the General Adolescent
+      Vaccine Brochure group. The Intervention group participants will be mailed a packet
+      containing an invitation letter to join the study and HPV vaccine-specific educational
+      materials; General Adolescent Vaccine Brochure group participants will be mailed a packet
+      with educational materials on all four of the recommended adolescent vaccines (HPV,
+      meningococcal, TDAP, and influenza). A few days after the packet has been sent, a research
+      assistant will call participants to verify that the letter was received and assess interest
+      in completing a pre-clinic visit survey.
+
+      Participants who agree to fill out the in-clinic survey will be asked to come to their clinic
+      appointment 40 minutes early to obtain verbal informed consent from the parent and verbal
+      assent from the adolescent female patient. Then, the parent will complete a 20-30 minute
+      survey about the HPV vaccine and interactions with their daughter's provider. The daughter
+      will complete a short survey that asks about use of social media and health concerns.
+
+      Intervention group participants who complete the in-clinic survey are also eligible to
+      receive telephone recalls and reminders. If the Intervention group parent refused the vaccine
+      during the initial clinic visit, a telephone recall will be delivered after 2 weeks offering
+      to schedule an immunization-only appointment. If the Intervention group participant misses
+      the 2nd and/or 3rd doses, telephone reminders will be delivered. For participants who
+      complete the in-clinic survey and are randomized to the General Adolescent Vaccine Brochure
+      group, parents who refused will be contacted after 2 weeks to assess attitudes and intentions
+      toward the HPV vaccine.
+
+      Participants in both the Intervention and General Adolescent Vaccine Brochure group will have
+      their medical record reviewed to assess HPV vaccine outcomes, receipt of the other three
+      recommended adolescent vaccines, and contact with the clinic during the 12 months following
+      randomization.
+
+      Ancillary Analyses
+
+      The investigators will perform stratified analyses and multivariate logistic regression
+      modeling to examine whether certain subgroups were more likely initiate and complete the
+      series (e.g, vaccine uptake might vary by characteristics such as preferred language,
+      race/ethnicity, patient age, or parent educational status). The Investigators will use
+      similar methods to also examine our data for confounding, for example, if initiation differs
+      by clinic site. If no interactions are found (e.g., outcome estimates are similar for
+      different subgroups), the investigators will report summary chi-square tests that only adjust
+      for potential confounders.
+
+      The investigators will also use the dates that patients received the 1st, 2nd, and 3rd HPV
+      doses to run a time-to-recurrent event analysis. The investigators will model the completion
+      of the 3-dose series as recurrent event data, 72; 73 with event times from intervention to
+      Dose 1, Dose 1 to 2, and Dose 2 to 3. A proportional means model will be constructed with the
+      outcome being the recurrent events, and the variables of interest including intervention
+      group assignment, sociodemographic, clinic site, knowledge, and attitudes. A significant
+      intervention indicator effect will conclude that the intervention generally shortens the time
+      between initiation and receipt of all doses.
+
+      Secondary Analyses
+
+      The investigators will conduct the following secondary analyses to evaluate whether parents
+      who receive the intervention have greater HPV vaccine knowledge, information seeking, and
+      PAPM stage progression compared to parents receiving usual care. Among those who consented
+      for additional contact and completed pre-clinic and follow-up surveys, the investigators will
+      explore associations among intervention assignment and intermediate factors including
+      parents' HPV vaccine knowledge, attitudes, perceived risk, information-seeking, and HPV
+      vaccine decisional stage. Descriptive statistics will be calculated and outliers identified.
+      A correlation matrix will be run to check for multicollinearity (strong correlations between
+      intermediate factors). The investigators will run univariate and multivariate logistic
+      regression models to determine whether intervention assignment is associated with greater
+      knowledge of the HPV vaccine, more positive attitudes toward and information seeking about
+      the HPV vaccine, and PAPM stage progression.
+
+      To explore generalizability to all safety-net patients in the clinics, the investigators will
+      compute t tests or chi-square tests and examine whether patients who 1) decline to
+      participate or 2) do not consent for reminder and recall intervention components differ from
+      those randomized with respect to variables available in the EMR (patient demographics, health
+      care utilization patterns, clinic visit characteristics).
+    
+  

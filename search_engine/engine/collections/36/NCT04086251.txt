@@ -1,0 +1,23 @@
+
+    
+      Gaido Health's Remote Patient Monitoring Solution v1.0 is a wireless remote monitoring system
+      intended for use by healthcare professionals for the collection of physiological data in home
+      and healthcare settings. Patient information is displayed on a computer located at the
+      medical institution. Every 15 minutes, a measurement is plotted on the User Interface of
+      heart rate / respiration rate (by a Biovotion device). A non-invasive blood pressure (by an
+      Omron device) along with an oral digital thermometer reading are taken per clinician orders
+      and displayed on the Gaido dashboard. Wearable data are transmitted wirelessly from the
+      Biovotion sensor (heart rate and respiratory rate) to the patient's smart phone that relays
+      data to a cloud-based server for storage and analysis. Oral temperature and blood pressure
+      are entered by the patient or care-giver into the patient's smart phone that relays data to a
+      cloud-based server for storage.
+
+      The Remote Patient Monitoring system uses algorithms that indicate when patient vitals and
+      patient reported outcomes have changed. Automatic patient surveys are sent to the patient
+      with results displayed both on the computer located in the medical institution and the
+      patient's smart phone. The patient surveys gather patient reported symptoms which are
+      intended to be used in combination with vital signs to support decision-making. The system is
+      intended for use with patients 18 years of age and older who are cared for by healthcare
+      professionals.
+    
+  

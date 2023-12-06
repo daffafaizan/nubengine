@@ -1,0 +1,12 @@
+
+    
+      After performing lateral lymph node dissection for the enrolled patients, we would find the
+      targeted lateral node which was matched with the enlarged one in imaging from the specimen.
+      Then the nodes would be send for pathological examination. Then we would extract the
+      radiomics parameters of the nodes from the pretreatment CT and MRI with ITK-SNAP software.
+      According to the pathological status, lymph nodes and corresponding radiomics parameters
+      would be divided into positive and negative groups. Then significant parameters would be
+      selected by R software. Then the prediction model with nomogram would be developed. 70% nodes
+      would be used for for model development and the other 30% would be used for validation.
+    
+  

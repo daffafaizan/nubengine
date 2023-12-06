@@ -1,0 +1,27 @@
+
+    
+      Two different time series methods will be used to estimate the effect of an urban trail
+      expansion (i.e. "intervention") that occured in WInnipeg, Manitoba Canada, between 2010 and
+      2012. The study is designed to determine if a reduction in Major Adverse Cardiovascular
+      Events (MACE) was observed in neighbourhoods that received the intervention relative to
+      trends among the control neighbourhoods that did not receive the intervention. First, a
+      multi-group segmented regression of interrupted time series data will be used to assess the
+      effect of the intervention on CVD incidence, both immediately (change in level) and over time
+      (change in trend) by creating indicator variables . The level will be the base rate of
+      CVD-related end-points at the beginning of the pre-intervention period (2000) and the value
+      immediately following each change point at which successive segments join until 2010. The
+      trend is the rate of change in MACE end-points (in other words, the slope) during a segment.
+      Autoregressive errors will be modeled to account for correlated outcomes. Second, an
+      autoregressive integrated moving average (ARIMA) model will be fitted for the CVD incidence
+      time series by using the standard approach to identification, estimation, and checking. A
+      trend and periodic seasonal terms will be applied to the entire study period (November 2000
+      to October 2019). A separate ARIMA model will also be built for the pre-intervention period
+      to forecast CVD evolution of the treated neighbourhoods. The number of CVD end-points
+      prevented by the intervention will be estimated by calculating the difference between the
+      predicted number and the observed number of cases. Should there by difficulty fitting an
+      ARIMA model to a relatively small dataset, exponential smoothing models or the Holt Winters
+      Algorithm will be used. Although they require larger sample sizes, they are ideal for this
+      project as (1) they permit a variety of different types of intervention effect to be modeled
+      explicitly, and (2) they are well suited to forecasting future trends.
+    
+  

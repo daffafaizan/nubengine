@@ -1,0 +1,64 @@
+
+    
+      The overall objective of the Genetics-InFormatics Trial (GIFT) of Warfarin to Prevent DVT is
+      to elucidate novel strategies to improve the safety and effectiveness of warfarin therapy.
+      With this study we directly respond to Health and Human Services (HHS) priorities to advance
+      the field of personalized medicine and to prevent venous thromboembolic (VTE) disease. In
+      2007, the Honorable Mike Leavitt, Secretary of HHS, announced the Personalized Health Care
+      Initiative and wrote that a key goal was, "… to use our personal genetic information to
+      tailor treatments more effectively to each patient."(1) Recently, President Obama and Francis
+      Collins (Director of the NIH) have made precision medicine a national priority.(2)
+      Previously, the Acting Surgeon General issued a Call to Action to reduce the number of cases
+      of VTE in the United States.(3) To facilitate precision dosing strategies for VTE prevention,
+      we have made publically available a non-profit, web application, www.WarfarinDosing.org. A
+      public version of www.WarfarinDosing.org estimates warfarin doses for the initial 5 days of
+      warfarin therapy. The version being evaluated in GIFT provides doses for the initial 11 days
+      of warfarin therapy.
+
+      Aim 1: To determine how pharmacogenetic-based warfarin therapy affects the safety and
+      effectiveness of warfarin therapy. The intensity of anticoagulant therapy is measured by the
+      International Normalized Ratio (INR). During initiation, the INR often falls outside the
+      therapeutic range. INRs that are too low predispose patients to VTE while supratherapeutic
+      INR values increase risk of bleeding.(4, 5) Previously, the FDA approved the label change of
+      warfarin/Coumadin™ to recommend considering lower initial doses in patients known to have
+      certain polymorphisms in genes affecting warfarin metabolism and sensitivity.(6) However,
+      whether this strategy improves the safety and effectiveness of warfarin therapy in general is
+      unknown. In particular, how this strategy affects subgroups with and without the genetic
+      variants of interest is also unknown.
+
+      Hypothesis 1: Pharmacogenetic therapy decreases the composite risk of a non-fatal VTE,
+      non-fatal major hemorrhage, death, or INR ≥ 4.0 in all patients, and/or in the subgroup of
+      patients whose pharmacogenetic and clinical predicted therapeutic maintenance doses differ by
+      > 1.0 mg/day. Based on our meta-analysis of prior trials(7), we anticipate 80% power to
+      simultaneously detect a 32% relative risk reduction in the composite outcome for
+
+      Aim 1 (as measured by a chi-square test). In the clinical arm, based on preliminary data, we
+      anticipate that the rate of the composite outcome will be 15.7% in the clinical arm and 10.7%
+      in the pharmacogenetic arm. We obtained these estimates because they average a rate of 13.2%,
+      which is the rate of the composite outcome for Aim 1 observed from the initial 775 GIFT
+      participants. The power was calculated using a two-sided alpha of 0.05 for a test of
+      proportions, a drop-out rate of 2%, and a partitioned (two-sided) alpha with 0.044 allocated
+      to the whole population and 0.01 to the high-risk subgroup. Because of correlation between
+      these two subgroups, using these alphas preserves an overall type 1 error rate of 0.05.
+
+      Aim 2: To determine whether warfarin therapy with a target INR of 1.8 is non-inferior to
+      therapy with a target INR of 2.5 at preventing VTE or death in orthopedic patients. One
+      randomized trial (PREVENT) found that a target INR value of 1.5-2.0 prevented 64% of VTE
+      recurrence.(8) Although that trial excluded orthopedic patients, such an approach has been
+      endorsed by the American Academy of Orthopedic Surgeons (AAOS). On page 15 of the 2007 AAOS
+      guidelines (9) they offer the following recommendation for VTE prophylaxis around the time of
+      joint replacement: "Warfarin, with an INR goal of ≤ 2.0, starting either the night before or
+      the night after surgery, for 2-6 weeks." However, the AAOS grade the overall evidence for VTE
+      prophylaxis in this population as low (level III). The AAOS guidelines conflict with the
+      prior American College of Chest Physician (ACCP) guidelines,(10) which recommend, as one of
+      their (Grade 1A) options (page 338 S), using an "…adjusted-dose vitamin K antagonist (INR
+      target, 2.5; range 2.0 to 3.0)." Because lower target INR values may reduce the risk of
+      hemorrhage and simplify warfarin management(8) we propose to test the following:
+
+      Hypothesis 2: For prevention of non-fatal VTE or death, a target INR of 1.8 will be
+      non-inferior to a higher target INR (2.5). Using a non-inferiority margin of 3% absolute risk
+      reduction in non-fatal VTE or death and an estimated composite rate of 5.56% (based on
+      preliminary GIFT data), we will have 83% power to detect the non-inferiority of a target INR
+      of 1.8 in 1600 patients.
+    
+  

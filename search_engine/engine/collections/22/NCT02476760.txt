@@ -1,0 +1,73 @@
+
+    
+      The study objective is to determine whether the use of incretin-based drugs, compared with
+      the use of oral anti-diabetic drug combinations, is associated with an increased risk of
+      acute pancreatitis (AP) in routine clinical practice. A common-protocol approach will be used
+      to conduct retrospective cohort studies using administrative health care data from six
+      jurisdictions (the Canadian provinces of Alberta, Manitoba, Ontario, and Saskatchewan, as
+      well as United States (US) MarketScan and the United Kingdom (UK) Clinical Practice Research
+      Datalink [CPRD]). Briefly, the Canadian databases include population-level data on physician
+      billing, diagnoses and procedures from hospital discharge abstracts, and dispensations for
+      prescription drugs. Ontario data will be restricted to patients aged 65 years and older as
+      prescription data are not available for younger patients. The CPRD is a clinical database
+      that is representative of the UK population and contains the records for patients seen at
+      over 680 general practitioner practices in the UK; these data will be linked to the Hospital
+      Episode Statistics (HES) database, which contains in-hospital diagnosis and procedure data.
+      US MarketScan includes individuals and their dependents covered by large U.S. employer health
+      insurance plans, and government and public organizations.
+
+      Study population
+
+      In each jurisdiction, the investigators will assemble a base cohort that includes all
+      patients with a first-ever prescription for a non-insulin anti-diabetic drug, including
+      biguanides, sulfonylureas, thiazolidinediones, DPP-4 inhibitors, GLP-1 analogs,
+      alpha-glucosidase inhibitors, meglitinides or combinations of these drugs from the earliest
+      availability of data at each site to the last date of availability of data. The date of
+      prescription (for the CPRD) or dispensation (for all other sites) of the first-ever
+      non-insulin anti-diabetic drug will define the date of base cohort entry. From this base
+      cohort, a study cohort will be created including all patients who initiated a new
+      anti-diabetic drug class during the year in which incretin-based drugs entered the market in
+      each jurisdiction or any time thereafter. These new users consist of both those who are
+      newly-treated for diabetes, as well as those who switch to or add on a new anti-diabetic drug
+      class not included as part of their previous treatment history. The date of study cohort
+      entry is defined by the prescription date of the newly-prescribed drug class. Patients in the
+      study cohort will be followed from the date of study cohort entry until an event (defined
+      below) or censoring due to death, departure from the database, loss of continuous health plan
+      or drug plan enrolment, entry into a long-term care facility, an incident diagnosis of HIV or
+      new prescription of HAART, or the end of the study period (June 30, 2014 or the last date of
+      data availability at that site), whichever occurs first.
+
+      Case-control selection
+
+      The cohort defined above will be analyzed using a nested case-control analysis, where cases
+      are defined as a hospitalization for AP. Risk set sampling will be used to randomly select up
+      to 20 controls for each case, matched on sex, age (± 365 days), date of study cohort entry (±
+      180 days), duration of treated diabetes (± 90 days), and duration of follow-up in days.
+
+      Exposure assessment
+
+      Current exposure to an anti-diabetic drug will be defined as any prescription whose duration
+      plus a 30-day grace period overlaps the index or event date. Current exposure will be
+      classified hierarchically based on the following five mutually-exclusive categories: 1)
+      incretin-based drugs; 2) insulin; 3) ≥2 oral anti-diabetic drugs used in combination therapy;
+      4) oral anti-diabetic drug monotherapy; and 5) no current exposure to an anti-diabetic drug.
+      Oral anti-diabetic drugs used in combination will serve as the primary reference category as
+      incretin-based drugs are second- to third-line therapy and thus used at a comparable point in
+      the disease management.
+
+      Statistical analyses
+
+      Conditional logistic regression will be used to estimate odds ratios (ORs) and corresponding
+      95% confidence intervals (CIs) of the association of hospitalization for AP, comparing
+      incretin-based drugs to current use of oral anti-diabetic drug combinations. This is
+      considered the primary analysis. Secondary analyses will include sub-classifying current
+      users of incretin-based drugs by type (i.e., DPP-4 inhibitor vs GLP-1 analog) and duration of
+      current use (≤ 365 days, 366-729 days, and ≥730 days). The potential presence of effect
+      modification by history of acute pancreatitis will also be examined. In addition, seven
+      sensitivity analyses will be conducted; all defined a priori, to assess the robustness of the
+      results. Finally, all site-specific estimates will be meta-analyzed using random-effects
+      models with inverse variance weighting, with fixed-effects analyses conducted as sensitivity
+      analyses. The amount of between-site heterogeneity will be estimated using the I square
+      statistic.
+    
+  

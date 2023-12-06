@@ -1,0 +1,112 @@
+
+    
+      CASE SELECTION:
+
+      100 cases of COVID-19 samples proved to be positive in Ain Shams University Specialized
+      Hospital labs (at the Universities reference lab) will be tested in the strain study.
+
+      Detection of virus:
+
+      Sample collection:
+
+      Nasopharyngeal & oropharyngeal swabs will be taken from suspected cases and put in a specific
+      viral transpot media.
+
+      One oropharyngeal swab (OS) and one nasopharyngeal swab (NS) are collected from hospitalized
+      SARI patients (adults and pediatric) and then added together in one 15ml Falcon tube
+      containing 2ml viral transport media (VTM). The swabs are obtained by a well-trained doctor
+      or medical professional.
+
+      Oropharyngeal swabbing: A dry sterile tip flocked with nylon fiber swab applicator is used to
+      swab both the tonsils and the posterior pharynx. The swab is placed in a 15 ML Falcon tube
+      labeled with the patient unique ID and containing 2ml VTM (consisting of sterile solution of
+      bovine albumin fraction V, HEPES buffer, penicillin and streptomycin in HANK's balanced salt
+      solution). The applicator stick is then cut off.
+
+      Nasopharyngeal swabbing: A flexible, sterile tip flocked with nylon fiber swab applicator is
+      inserted into the nostril and back to the nasopharynx and left in place for a few seconds. It
+      is then slowly withdrawn with a rotating motion. The swab is inserted in the same tube as the
+      throat swab and the shaft is cut.
+
+      Sample procedures:
+
+      The tube containing the nasopharyngeal and oropharyngeal swab will be agitated vigorously for
+      10 seconds using a vortex mixer. Both swabs should then be removed from the tube and
+      discarded using sterile forceps that should be sterilized from one sample to another to avoid
+      cross contamination.
+
+      The resulting supernatant (VTM/UTM) is decanted in 2 cryogenic vials labeled with the patient
+      ID.
+
+      One cryogenic vial will be immediately stored at -70°C freezer or lower temperature such as
+      liquid nitrogen tank for QA and further characterization of the COVID-19.
+
+      The other vial will be tested according to the lab capacity:
+
+      VIRAL RNA ISOLATION:
+
+      Using commercially available kits supplied by thermofisher or other recommended companies.
+      Work will be done in Biosafety level 2 cabinets under complete sterile conditions.
+
+      COVID-19 DETECTION:
+
+      Using real time reverse transcription polymerase chain reaction (rRT-PCR) the test can be
+      done on respiratory samples obtained by various methods, including nasopharyngeal swab or
+      sputum sample. Results are generally available within a few hours. Molecular methods leverage
+      polymerase chain reaction (PCR) along with nucleic acid tests, and other advanced analytical
+      techniques, to detect the genetic material of the virus using real-time reverse transcription
+      polymerase chain reaction for diagnostic purposes. Commercially available kits supplied by
+      HVD, thermofisher and others.
+
+      Coronavirus Research Using Next-Generation Sequencing (NGS) One assay surveying the entire
+      coronavirus genome for epidemiological investigation: A major challenge for microbiologists
+      and virologists is the prediction of patterns of evolution and emergence of disease agents.
+      RNA viruses like the coronavirus share the biological feature of high genetic variability,
+      which causes them to appear as clouds of mutants. Coronavirus variants also emerge through
+      antigenic shift within animal reservoirs, such as bats and snakes. Ion Torrent targeted
+      next-generation sequencing (NGS) enables a streamlined research workflow for complete genome
+      sequencing and epidemiological studies of SARS-CoV-2 (the coronavirus responsible for
+      COVID-19). Through the use of a set of highly specific, universal coronavirus primers in
+      combination with a high-fidelity master mix, all genomic segments are amplified and the DNA
+      amplicons are sequenced on any Ion Torrent system to deliver highly accurate coronavirus
+      typing in under a day.
+
+      The Ion AmpliSeq SARS-CoV-2 Research Panel consists of 2 pools with amplicons ranging from
+      125-275 bp in length for complete viral genome sequencing and variant detection.
+
+      Bioinformatic analysis of the NGS DATA Next-generation sequencing, or NGS, can generate
+      enormous amounts of data, and the challenge becomes finding ways to analyze it properly. In
+      this study we are going to use some bioinformatic tools to analyze and track the outbreak in
+      Egypt.
+
+      Genome Detective bioinformatic tool, Takes the raw data from the sequencing machine, filter
+      out results from non-viruses, piece together the genome and use that to identify the virus.
+      It does not rely on any prior guesses or hypotheses, so it can even identify viruses that
+      have not been seen before. This was used to confirm the first case of COVID-19 in Belgium,
+      identifying it as a SARS-related coronavirus.
+
+      NextStrain, is an online resource that uses genome data to monitor the evolution of
+      disease-causing organisms such as viruses in real time. It has tracked several outbreaks
+      including Zika, Ebola and Dengue and has even been used to inform World Health Organization
+      policy on seasonal flu.
+
+      NextStrain already has over 700 genomes of the new coronavirus, which it can use to trace the
+      outbreak by detecting new mutations in the virus. The mutations do not necessarily affect how
+      the virus behaves, but they can act as a genetic signature to link cases that are related.
+      Like tracing your ancestry through a DNA test, a virus sequenced in Madrid, for instance,
+      could have mutations that suggest it originated from an outbreak in Italy.
+
+      Sequencing cases will become even more important because as we start cracking down on (the
+      pandemic), which we hopefully will achieve, it will tell us how many transmission chains are
+      still circulating and whether the virus is being transported from one region to another.
+
+      Phylogenetic analysis of these 2019-nCoV genomes and those of other coronaviruses to be
+      completed by virology consultant
+
+      Multiple sequence alignment will be performed with the ClustalW program using MEGA software
+      (version 7.0.14). Phylogenetic trees will be constructed by means of the maximum-likelihood
+      method with MEGA software (version 7.0.14). The full-genome viral sequences will be deposited
+      in the dataset of Global Initiative on Sharing All Influenza Data (GISAISD, No.
+      EPI_ISL_402123, EPI_ISL_403928-31).
+    
+  

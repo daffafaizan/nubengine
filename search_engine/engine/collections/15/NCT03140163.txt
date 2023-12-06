@@ -1,0 +1,23 @@
+
+    
+      -  200 subjects
+
+        -  Each subject will undergo CXR and ULD-CT at the same day.
+
+        -  Subjects subdivided into 3 groups [high, moderate and low risk], based on a laboratory
+           finding(CRP), symptoms and physical examination.
+
+        -  3 different thoracic radiologist will judge the scans on existence of consolidation.
+           Consolidation will be expressed as binary outcomes (Yes or No consolidation)
+
+        -  Radiologist will be blinded for subjects demographic data.
+
+        -  All radiologist have to score how confidence they were on the finding of
+           consolidation[5point likert].
+
+        -  The investigators will perform a McNemar's test for evaluation. A two sided p-value of
+           less than 0.05 will be considered to be statistically significant.
+
+        -  Inter-observer variability will be evaluated by using a Fleiss Kappa test.
+    
+  

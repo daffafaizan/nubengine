@@ -1,0 +1,171 @@
+
+    
+      SAMPLING PLAN
+
+        1. Existing data Registration before the creation of data: As of the date of submission of
+           this research plan for preregistration, the data have not yet been collected, created,
+           or realized.
+
+        2. Data collection procedures. Healthy volunteers will be recruited from the general
+           population. Individuals with schizophrenia will be recruited from community mental
+           health centers and outpatient clinics in the Versailles area and among the FACE-SZ
+           (FondaMental Academic Centers of Expertise for Schizophrenia) cohort in Versailles. All
+           participants will be naive to the purpose of the study, give informed consent in
+           accordance with institutional guidelines and the Declaration of Helsinki, and receive a
+           monetary compensation (10€ / h).
+
+        3. Sample size Maximum of 50 healthy controls vs. 50 individuals with schizophrenia.
+
+        4. Sample size rationale The estimated sample sizes allow testing effects of medium size
+           between individuals with schizophrenia and healthy controls with a power of 0.8, based
+           on one-sided two-sample t-test power calculation with Cohen's d = 0.5, α = 0.05. They
+           allow measuring medium correlations within groups with a power of 0.7, based on
+           approximate correlation-power calculation with r = 0.3, α = 0.05.
+
+           Sample sizes for electrophysiological recordings are based on previous a study, with 20
+           patients vs. 20 controls, resulting in 13 vs. 13 after outlier exclusion.
+
+        5. Stopping rule Optional stopping will be avoided by using sequential Bayes factor
+           analyses. Data collection will stop whenever a critical comparison reaches the threshold
+           of BF = 3 or BF = 1/3.
+
+           DESIGN PLAN
+
+        6. Study design The investigators will ask participants to discriminate the motion
+           direction of a random dot kinetogram (type 1 task). They will use a mouse to indicate
+           whether the dots were mostly moving rightward or leftward, by clicking on the side they
+           think corresponds to a correct answer (red and blue circles, see Figure 1). The mouse
+           trajectory corresponding to the type 1 task will be recorded and analyzed. Motion
+           variance will be adapted for each subject before the experiment using a 1up/2down
+           staircase, so to reach an average performance of 71%. An auditory feedback will be
+           played if participants answer in more than 6s. On each trial, participants will then
+           indicate on a visual analog scale the confidence in their response (type 2 task). The
+           scale will range from 0% ("Certain my response is right") to 100% ("Certain my response
+           is wrong"). The initial position of the cursor will always correspond to 50% confidence
+           ("Uncertain of my response)". The experiment will consist in 10 blocks of 30 trials and
+           last about 1h.
+
+        7. Randomization Motion direction (left or right) will be pseudo-randomized, with no more
+           than 4 successive trials with the same direction.
+
+           ANALYSIS PLAN
+
+        8. Statistical models 8.1. Behavioral data All analyses will be performed with R, using
+           notably the afex, BayesFactor, ggplot2, lme4, lmerTest, and effects packages. In all
+           ANOVAs, degrees of freedom will be corrected using the Greenhouse-Geisser method.
+
+           The groups' socio-demographic (age, sex, education), cognitive (premorbid and current
+           IQ, and executive performance with planning and working memory) and mood (depression)
+           characteristics will be compared using the Student t test or Χ² tests when appropriate.
+           Only variables that significantly differ between the two groups will be included as
+           covariates in the following analyses.
+
+           The metacognitive performance will be primarily analyzed with binomial mixed-effects
+           models between accuracy and confidence, with group (patient vs. control) and several
+           covariates (premorbid and current IQ, depression and executive performance with planning
+           and working memory) as between-subject factors. Regression slope will be taken as an
+           indicator of metacognitive performance and asymptotes as a marker of confidence bias,
+           i.e. the tendency to report high or low confidence ratings independent of task
+           performance. Likelihood ratio tests will assess significance.
+
+           Predecisional behavioral variables (reaction times, mouse trajectory parameters) will be
+           added to the model in a secondary analysis after main differences between patients and
+           controls are established. Geometric features of mouse trajectories (motion entropy on
+           the x-axis) will be quantified using the EMOT and Mousetrap packages. Correlations
+           between motion entropy and confidence will be quantified by R², adjusted for the number
+           of dependent variables relative to the number of data points.
+
+           8.2. Correlation between metacognitive performance and clinical characteristics in
+           schizophrenia
+
+           The investigators will run correlation analyses between metacognitive performance
+           (regression slope between metacognitive judgments and accuracy of the first order task)
+           and several clinical variables. The clinical variables will be:
+
+             -  The positive and disorganization scores for the Positive and Negative Syndrome
+                Scale (PANSS), according to the 5-factor model proposed by van der Gaag et al.
+
+             -  The total score on the Birchwood Insight Scale (BIS) for insight into illness
+
+             -  The total score on the Beck Cognitive Insight Scale (BCIS) for cognitive insight
+
+             -  The total score on the Personal and Social Performance Scale (PSP) for social
+                functioning The investigators will use a Spearman rank-order correlation test with
+                false discovery rate to correct for multiple comparisons.
+
+           8.3. Electrophysiological data Preprocessing: continuous EEG will be acquired at 1200 Hz
+           with a 64-channels Gtec HIamp system. Signal preprocessing will be performed using
+           custom Matlab (Mathworks) scripts using functions from the EEGLAB toolbox. Following
+           visual inspection, artifact-contaminated electrodes will be removed for each
+           participant, and epoching will be performed at type 1 response onset. For each epoch,
+           the signal from each electrode will be centered to zero and average-referenced.
+           Following visual inspection and rejection of epochs containing artifactual signals, an
+           independent component analysis will be applied to individual data sets, followed by a
+           semi-automatic detection of artifactual components based on measures of autocorrelation,
+           focal channel topography, and generic discontinuity. After artifacts rejection,
+           artifact-contaminated electrodes will be interpolated using spherical splines.
+
+           Statistical analysis: voltage amplitude will be averaged within temporal windows (e.g.,
+           20ms), and analyzed with linear mixed effects models using R together with the lme4 and
+           lmerTest packages. This method allows analyzing single trial data, with no averaging
+           across condition or participants, and no discretization of confidence ratings. Models
+           will be performed on each latency and electrode for individual trials, including raw
+           confidence rating and accuracy as fixed effects, and random intercepts for subjects.
+           Statistical significance for electrophysiological data within regions of interest (e.g.,
+           frontocentral and left parietal scalp regions) will be assessed after correction for
+           false discovery rate. When possible, cluster-based permutation test will be used.
+
+        9. Transformations Data will be transformed in case they violate the assumption of
+           normality (e.g., inverse reaction times).
+
+       10. Follow-up analyses Besides mixed logistic regressions, metacognitive performance will be
+           analyzed using second-order signal detection theory: meta-d' will reflect the amount of
+           perceptual evidence available when performing confidence judgments. Confidence biases
+           will also be computed with receiver operating characteristic curves (ROC): the area
+           between the ROC and major diagonal will be divided by the minor diagonal, and confidence
+           bias will be defined as the log ratio of the lower and upper area. An ANOVA with group
+           and appropriate covariates as between-subject factors will test for a decrease in
+           metacognitive efficiency and an increase in confidence bias in patient vs. control
+           participants.
+
+           Drift-diffusion modeling will allow us to determine which aspects of reaction times
+           during the type 1 task differ between schizophrenic patients and healthy controls (e.g.,
+           drift rate and boundary separation), and assess how such differences might determine
+           confidence judgments, thereby allowing testing the existence of metacognitive deficits
+           at a decisional-locus.
+
+       11. Inference criteria Two-tailed tests with group as the between-subject factor will be
+           used. The threshold for significance will be set to alpha = 5%. When possible, Bayes
+           factors will be computed to support null findings and set stopping rules (see above).
+
+       12. Data exclusion The first trials of each condition will be excluded from analysis if they
+           contain large variations of the perceptual signal.
+
+           Only trials with reaction times between 100 ms and 6 s for the type 1 task will be kept.
+
+           Participants will be excluded in case they cannot reach 71% accuracy on the type 1 task,
+           respond in more than 6 s in a majority of trials, or in case they do not use the
+           confidence scale properly (e.g., no variance in confidence reports).
+
+       13. Missing data The use of mixed models applied to behavioral and electrophysiological data
+           will allow dealing with unbalanced datasets so that data imputation will not be needed.
+
+       14. Exploratory analysis (optional) 14.1. Correlation between metacognitive bias and
+           clinical characteristics in schizophrenia The investigators will run exploratory
+           Spearman rank-order correlation analyses between metacognitive bias (asymptotes of the
+           regression line between metacognitive judgments and accuracy of the first order task)
+           and several clinical variables (positive and disorganization scores for the PANSS, the
+           total score for BIS, BCIS, and PSP).
+
+      14.2. Heart rate Heart rate will be measured with a Gtec plethysmographic pulse sensor and
+      quantified as a function of type 2 performance. Based on previous findings in healthy
+      participants, the investigators expect greater confidence to be associated with faster heart
+      rate between stimulus onset and type 2 response. The investigators will attempt to replicate
+      these findings following the same methods as Allen and colleagues and extend it to patients.
+
+      14.3. galvanic skin response (GSR) As for heart rate, GSR will be measured with a Gtec
+      dedicated sensor and quantified as a function of type 2 performance using the Ledalab toolbox
+      under Matlab. To our knowledge, no study has quantified the link between GSR and
+      metacognition so that the investigators will conduct exploratory analyses.
+    
+  

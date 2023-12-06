@@ -1,0 +1,142 @@
+
+    
+      Vaccines against infectious diseases have been instrumental to the improvement of human
+      health and remain a pillar of modern public health strategies. Yet serious life threatening
+      infections including HIV, malaria and tuberculosis remain a global problem and pandemic
+      diseases like influenza continue to threaten human life. As well, vaccines are now being
+      pursued in the areas of cancer prevention and treatment. A fundamental barrier that has
+      prevented effective vaccines for many diseases is that conventional protein based vaccines do
+      not elicit the critical requirement of T-cell mediated immunity. One approach to generating
+      an improved T-cell response to a vaccine has been to identify new protein target candidates.
+      This approach has not resulted in significant advances in vaccine development. We are
+      interested in a novel approach that combines specific immune stimulants, or adjuvants, with a
+      vaccine target to optimize and enhance the desired T-cell immune response. The development
+      and study of novel adjuvants like GLA will allow us to further our investigation into
+      dendritic cell targeted vaccines leading to improved vaccines for many diverse diseases.
+
+      Toll-Like Receptor (TLR) Background The TLR's are type 1 transmembrane receptors that share a
+      leucine-rich repeat domain (LRR) in the extracellular loop and a Toll/IL-1 receptor (TIR)
+      homology domain in the intracellular tail. The importance of TLRs to host defense and
+      immunity was first appreciated in Drosophila that became susceptible to fungal infections
+      following genetic deletion of the toll genes. Mammalian homologs were identified soon after
+      using a mouse strain that was well known to be highly susceptible to Gram-negative infections
+      and were hyporesponsive to lipopolysaccharide (LPS). These mice were found to have a
+      mutational change on the TLR4 gene, rendering it non-functional and this discovery solidified
+      the existence and importance of the Toll proteins in mammals. Mice with genetic deletions of
+      TLR4 demonstrated the importance of TLR to bacterial infections and provided clear evidence
+      that TLR4 was specific for Gram negative infections. Currently 10 functional TLRs have been
+      discovered in humans and extensive research has identified a number of pathogen-derived
+      agonists for specific TLRs. It is generally accepted that the TLR's function by recognizing
+      conserved structures of an organism or pathogen associated molecular patterns (PAMPs).
+      Clearly these innate receptors are critical to surviving a microbial insult as they provide a
+      first line of defense that is not dependent on generating a specific T-cell and B-cell
+      response, a process that can take weeks. Despite their clear role in innate immunity,
+      evidence is accumulating that TLR stimulation has potent influence on the development of T
+      and B cell mediated immunity through the activation and maturation of dendritic cells (DC).
+      This knowledge has led to the development of TLR-based vaccine adjuvants that activate and
+      mature DC.
+
+      Monocyte and Dendritic Cell Overview Dendritic cells (DC) are part of the innate and adaptive
+      immune systems and reside at host-microbial interfaces including the surfaces of the gut,
+      lung and within the skin. These cells constantly survey their environment in search of
+      microbial pathogens through the expression of several families of pattern recognition
+      receptors (PRR) including the Toll-like receptors (TLR). Immature DC are particularly
+      efficient in antigen uptake and processing, while activated DC mature and become potent
+      antigen presenting cells to T-lymphocytes. Importantly, immature DC have the potential to
+      induce immune tolerance by deleting antigen specific T cells, resulting in no immune
+      response. Activated DC however direct the immune response through the release of particular
+      cytokines. Different initial stimuli will influence DC to drive CD4+ T-cells to differentiate
+      along very divergent functional pathways including Th1, Th2, Th17 and Treg. Therefore, DC are
+      critical to appropriate innate host defense as well as to orchestrate an adaptive response.
+      Given their pivotal role in host defense, DC are relatively rare cells that, at steady state,
+      develop independently from other blood cells. Enhancing and directing the function and
+      quantity of DC will provide benefit to both host defenses as well as to vaccine science. The
+      Steinman lab has pioneered a novel method of vaccination by targeting the antigen of interest
+      specifically to the DC population. DC-targeted vaccines have shown promise in animal models
+      and a DC-targeted HIV vaccine has recently been administered to humans for the first time.
+
+      Monocytes are a more abundant cell type that account for approximately 10% of blood
+      leukocytes in humans and 4% in mice. Monocytes are peripheral blood effector cells that
+      participate in host defense and are efficient scavenging cells. They serve as precursors to
+      tissue macrophages. In humans, 3 subsets of monocytes have been proposed based on cell
+      surface expression of CD14 and CD16, while 2 subsets exist in mice and are marked by CD115
+      and Ly6C. The role of these subsets during innate immunity requires further investigation.
+      Evidence suggests that monocytes can be induced to differentiate into DC, however definitive
+      in vivo evidence of this was previously lacking. Recent work in the Steinman lab has shown
+      that in vivo authentic DC can be rapidly differentiated and mobilized from the larger
+      monocyte pool in times of acute inflammation and infection. This rapid re-deployment could be
+      induced by either gram-negative bacteria or LPS and was entirely dependent on TLR4.
+      Similarly, human monocytes can de induced to differentiate into DC, however the understanding
+      of this process is limited to in vitro cell culture with large gaps in our understanding of
+      in vivo human monocyte derived-DC. Preliminary data suggests that GLA administration in mice,
+      like LPS, can mobilize the monocyte pool into becoming Mo-DC. It is unknown if human
+      monocytes in vivo rapidly expand the DC population following administration of TLR4 adjuvant
+      GLA. Understanding the mechanisms of this re-deployment will further our understanding of how
+      to rapidly expand and harness the utility of DC using adjuvants. Ultimately, we anticipate
+      that adjuvant-specific DC responses will improve T-cell immunity and enhance vaccine
+      effectiveness.
+
+      Rationale for Investigating an Adjuvant in Isolation The standard adjuvant trial consists of
+      the adjuvant under investigation combined with a known licensed vaccine but not in isolation.
+      However, as previously described, we are hopeful that GLA may become an important adjuvant of
+      our DC-targeted HIV vaccine currently in development. The DC represents the most potent
+      antigen-presenting cell and specifically targeting an antigen of interest to this cell
+      generates improved immune responses. However there are important considerations when
+      targeting antigen to DC. Immature unstimulated DC that encounter an antigen have the ability
+      to delete antigen specific T cells thereby causing tolerance and a DC-targeted antigen
+      vaccine alone may cause immune tolerance. In contrast DC that have matured are able to induce
+      potent effector T cell responses to the targeted antigen. DC can be activated by TLR
+      stimulation and therefore combining TLR stimulated DC maturation with a DC-targeted antigen
+      would result in optimal T cell mediated immunity. In theory the DC-targeted vaccine could
+      never be given without a DC maturing adjuvant and the specific effects and actions of GLA
+      would not be known unless it was studied first in isolation. To plan an eventual DC-targeted
+      HIV vaccine trial with an adjuvant, it will also be critical to know the temporal immune
+      effects of isolated GLA.
+
+      GLA Background Information GLA is a new completely synthetic lipid A (active component of
+      natural LPS) molecule that combines 6 acyl chains with a single phosphorylation site. The
+      advantage of this LPS-like molecule is that it is not purified from a bacterial source
+      thereby allowing a homogenous solution only containing molecules with 6 acyl chains. This is
+      important because 6 acyl chains results in maximal TLR4 activation while lipid A molecules
+      with 5 or 7 acyl chains are 100 times less active and 4 acyl chains is immuno-inhibitory. MPL
+      is an existing TLR4 vaccine adjuvant that is derived from salmonella LPS and represents a
+      heterogeneous mixture of 3, 4, 5 and 6 acylated molecules. MPL induces effective humoral
+      antibody response during vaccination, but it does not generate CD4 T-cell immunity, making it
+      an undesirable adjuvant for many protein-based vaccines. In animal models GLA added to the
+      Fluzone vaccine improves humoral and cellular immunity to influenza. GLA has been tested in
+      humans for safety in combination with an influenza vaccine however its individual effects
+      have not been studied. Particularly the isolated effects on cytokine, chemokine and gene
+      regulation in humans is not known and monocytes subsets were not previously investigated.
+
+      The optimal formulation and route of administration are not known; therefore a major
+      component of this investigation will be to determine a safe and tolerable formulation and
+      route. GLA has been administered to humans in combination with the Fluzone vaccine ranging in
+      doses from 0.5μg to 5μg intramuscularly; however it has not been tested in isolation, and
+      only the oil-in-water stable emulsion (GLA-SE) was used. Fluzone is a reactogenic vaccine and
+      dose-limiting toxicity did occur in 3 of 4 patients who received Fluzone + high dose GLA-SE
+      (5μg), but a good safety profile was observed between 0.5-2.5μg. The stable emulsion (SE)
+      contains squalene and was used at 2% (vol:vol). We will continue to use this percentage in
+      our GLA-SE formulation. A second formulation of GLA has subsequently been developed to avoid
+      the need for an emulsion; GLA-AF is aqueous and should theoretically have a reduced
+      side-effect profile and less reactogenicity than GLA-SE. We plan to compare the two
+      formulations of GLA in isolation; GLA-SE (stable emulsion) and GLA-AF (aqueous formulation).
+      GLA-AF has never been administered to humans and therefore this version represents a
+      first-in-human trial. For safety reasons GLA-AF injections must be separated by a day and
+      since it will not be possible to know who will receive GLA-AF, we will inject the first nine
+      subjects in each cohort one day apart. Due to the complexity of the number of groups in this
+      study, we will enroll and complete each route sequentially as a cohort. The subcutaneous
+      cohort will be the first group screened, enrolled, randomized and injected, followed by
+      intramuscular.
+
+      Summary This study will be a phase-1, randomized, placebo-controlled, double-blinded clinical
+      trial to compare GLA formulation and administration route in humans. Safety and tolerability
+      of the different formulations (GLA-SE vs. GLA-AF) and routes (SC, IM, ID) will be the primary
+      focus. Our second focus will be to detail the global immune response be measuring systemic
+      cytokines, chemokines and global gene regulation. The third focus will be to investigate the
+      effects of GLA on the peripheral blood immune cells including monocytes and dendritic cells.
+      This study will add first-in-human data on GLA-AF and detail the isolated effects of GLA on
+      the innate immune system. The results of this trial will lay the foundation for a true
+      adjuvant trial using GLA + antigen and ultimately to use GLA to adjuvant our DC-targeted
+      vaccine in humans.
+    
+  

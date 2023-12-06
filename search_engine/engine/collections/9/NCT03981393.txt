@@ -1,0 +1,31 @@
+
+    
+      VV ECMO is increasingly used in refractory respiratory failure. Despite advances in lung
+      protective ventilation strategies, patients who have severe respiratory failure often develop
+      complications from mechanical ventilation, including volutrauma and barotrauma. ECMO allows
+      gas exchange to occur extracorporeally and may reduce the potential burden of iatrogenic lung
+      injury by allowing a reduction of volume and pressure support - a 'lung rest' strategy. It is
+      theorised that earlier intitiation of ECMO may allow for better outcomes, as there will have
+      been less time for iatrogenic lung injury to occur.
+
+      The UK ECMO registry has been collected of patients treated under the NHS England
+      commissioned respiratory ECMO service since 2011. This study has been previously registered
+      and publication is intended shortly.
+
+      Patients will be extracted from this registry if they received VV ECMO. Propensity matching
+      scores will be created and patients will be stratified into groups of 'early' vs 'delayed'
+      ECMO, based on their probability of being in either group.
+
+      Patients will be divided into cohorts based on the median PaO2/FiO2 ratio at decision to
+      cannulate ('less severe hypoxaemia') and ('very severe hypoxaemia'). Matched cohorts will be
+      created correcting for key confounding factors (age, primary diagnosis, duration of pre-ECMO
+      ventilation and PaCO2), using cardinality matching (a novel technique described by
+      Zubizaretta et al. in 2014) and traditional propensity-score-based methods.
+
+      The technique with greater balance and statistical power (as defined by sample size) will be
+      selected for the primary analysis.
+
+      Further analyses will assess the relationship between hypoxaemia at decision-to-cannulate and
+      confounding factors as above.
+    
+  

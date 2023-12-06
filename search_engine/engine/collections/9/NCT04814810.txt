@@ -1,0 +1,71 @@
+
+    
+      Hemorrhagic shock remains a leading cause of death on the battlefield as well in civilian
+      communities. Early detection of ongoing hemorrhage before progression to frank shock would
+      allow early intervention. It is widely appreciated that the classic medical vital signs
+      perform poorly until late in the progression to shock after traumatic injury. Currently
+      available techniques, including intermittent vital sign monitoring, laboratory analysis, and
+      single measurement devices have poor performance before clinically obvious physiologic
+      distress.
+
+      The overall goal of this project is to develop a multi-technology noninvasive system for
+      early detection of ongoing hemorrhage. The underlying hypothesis is that deep learning
+      developed algorithms obtaining diagnostic signals from multiple sources will outperform
+      single technology solutions.
+
+      While the promise of innovative noninvasive testing has received wide attention, development
+      of effective bedside technologies has thus far been limited and their performance
+      disappointing. In 2014, Kim et al stated that "The results from this meta-analysis found that
+      inaccuracy and imprecision of continuous noninvasive arterial pressure monitoring devices are
+      larger than what was defined as acceptable" and noninvasive blood pressure measurement is
+      among the most fully developed of these technologies. The failure of noninvasive technologies
+      in the detection or diagnosis of complex disease states has been essentially complete. The
+      investigators believe that this failure reflects the limitations of uniplex systems (a single
+      sensor in a single-location) and patient-to-patient variation in physiologic response.
+      Uniplex systems sacrifice the entire diagnostic signal in anatomic-temporal patterns, which
+      likely has significant discriminant power.
+
+      To date, technological innovation in early detection of ongoing hemorrhage has been of two
+      broad categories: 1) a search to discover a single new measurement of tissue or organ status
+      or 2) application of more sophisticated mathematical techniques based on machine learning and
+      signal processing.
+
+      The investigators propose to develop a system that combines state-of-the-art noninvasive
+      sensing technologies and advanced multivariable statistical algorithms. This system will be
+      developed from its inception to be inexpensive and easily applied, even in austere settings.
+
+      To avoid the unnecessary use of blood products, hepatectomies are performed with low central
+      venous pressure (CVP). This is accomplished through restrictive use of intravenous fluids and
+      at times medications to lower the central venous pressure. Low central venous pressure during
+      hepatectomy is an excellent model for development of technologies such as ours and has not
+      been previously used for this purpose.
+
+      During each procedure, the investigators will obtain a full ensemble of noninvasive optical,
+      electromagnetic and impedance physiological signals during the LCVPLR procedure. The work
+      proposed herein will evaluate these technologies during standard low central venous pressure
+      liver resections (LCVPLR). These data will be utilized for further machine learning-based
+      algorithm development. The proposed study will be low risk since the measured data will not
+      be available to the clinicians.
+
+      Specific Aims:
+
+        1. Evaluate the performance of existing non-invasive sensing technologies and multivariable
+           algorithms in LCVPLR.
+
+        2. Obtain human model training and validation data sets during LCVPLR for further
+           refinement of the algorithms.
+
+      Power and Sample Size: The investigators anticipate acquiring data from every enrolled
+      subject. The data obtained before onset of parenchymal transection will be utilized as the
+      "no hemorrhage" control. Power and sample size calculations indicate that a sample size of 48
+      subjects should be sufficient to: 1) further identify the minimal subset of noninvasive
+      measurement technologies necessary for the desired diagnostic performance, 2) validate the
+      existing algorithms, and 3) initially train a human clinical iteration of the algorithms,
+      with a sufficient degree of accuracy (p < 0.05 for ROC-AUC).
+
+      As a minimal risk study, there will be no change from standard of care for patients
+      undergoing surgery. The surgical procedures and pharmacotherapies will proceed as per
+      standard clinical management. Enrolled patients will undergo standard preoperative,
+      anesthetic, and postoperative physiological monitoring.
+    
+  

@@ -1,0 +1,19 @@
+
+    
+      OBJECTIVES:
+
+        -  To identify mutations in oncogenes and tumor suppressors of peripheral T-cell lymphoma
+           or natural killer (NK) cell neoplasm.
+
+        -  To delineate the mechanisms that mediate oncogenic effects and their clinical prognostic
+           significance in these diseases.
+
+        -  To perform a comprehensive mutation analysis via whole exome resequencing in a panel of
+           peripheral T-cell or NK lymphomas.
+
+      OUTLINE: Fixed paraffin-embedded tumor tissue samples are analyzed for mutations by the
+      Illumina HiSeq platform. Sequencing reads are performed by GAPipeline version 1.5.1 and
+      mapping on the human genome performed using the MAQ software version 0.7.1. Genes harboring
+      validated somatic mutations are then amplified by PCR and analyzed by Sanger resequencing.
+    
+  

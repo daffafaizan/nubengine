@@ -1,0 +1,22 @@
+
+    
+      The goal of the JDRF Artificial Pancreas Project is to produce an autonomous artificial
+      pancreas that can safely and effectively regulate glycemia in people with type 1 diabetes
+      mellitus. In our work, this fully automated closed-loop system combines a subcutaneous
+      continuous glucose monitor (CGM) and a continuous subcutaneous insulin infusion (CSII) pump
+      with a sophisticated control algorithm. This is a proof-of-concept study to demonstrate that
+      the controller could bring the patient back to a relatively normal glucose concentration
+      after an unannounced meal and from mild hyperglycemia. Once the system is initiated, all
+      insulin delivery is calculated automatically. There was no outside intervention either by the
+      subject or medical personnel. An artificial pancreas system that aims at replicating normal
+      beta-cell function by using the subcutaneous-subcutaneous (sc-sc) route needs to address
+      inherent delays in both glucose sensing and insulin delivery. Our strategic approach is that
+      a closed-loop system should operate safely without any knowledge of meals or other
+      disturbances. We have developed the Artificial Pancreas System (APS©) and used it to
+      clinically evaluate a control strategy that allows efficient glycemic control without any a
+      priori meal information. The Artificial Pancreas device uses the Artificial Pancreas System
+      (APS©) platform with the OmniPod insulin pump, the DexCom SEVEN PLUS CGM and a
+      multi-parametric model predictive control algorithm (mpMPC) with an insulin-on-board (IOB)
+      safety constraint.
+    
+  

@@ -1,0 +1,76 @@
+
+    
+      The primary purpose of this study is to test whether artificial intelligence (AI) will
+      identify existing SARS-COV-2 in nasopharyngeal swab samples using multi-spectral technology.
+
+      Multi spectral testing device called AP-23 offers a non-invasive system for the diagnosis of
+      SARS-COV-2 as a solution. This approach makes multi-spectral diagnostic methods suitable for
+      use by any end user and allows the establishment of Internet of Things systems.
+
+      COVID-19 contagion, which began in the northern hemisphere, continues to affect human health
+      and the world economy in tremendously. Early diagnosis of the disease and, accordingly, the
+      breaking of the transmission chain through filiation studies is very important for public
+      health until an effective and safe vaccine is found. PCR tests, which we currently use as the
+      gold standard to prove the existence of the virus, have not been sufficient to prevent the
+      pandemic for the following reasons;
+
+        1. PCR tests should be performed in a hospital or clinical setting
+
+        2. There is a need for a custom kit
+
+        3. There is a need for trained individuals to perform the test
+
+        4. Standardization is not ensured for the receipt of test sample
+
+        5. With at least 30 minutes for receipt of the test results, it takes up to 3-day
+
+        6. testing is expensive and is usually applied to people who have symptoms and thus
+           asymptomatic carriers are missed.
+
+      The primary purpose of this study is to test whether SARS-COV-2 can be detected in
+      nasopharyngeal swab samples using multi-spectral spectroscopy. Multi-spectral spectroscopy
+      techniques are based on phenomena related to absorption, excitation and propagation of
+      biomolecules. In short, by irradiating the sample with electromagnetic energy, some molecules
+      absorb and re-emit less energetic radiation. This phenomenon is called radiation, and the
+      radiated spectrum is a function of certain molecules that combine microorganisms / viruses.
+
+      At this point, FableCorp's AP-23 system uses data from a minimally invasive or non-invasive
+      simple measurement based on multi-spectral spectroscopy to calculate the presence or
+      concentration of the desired product in a biological liquid as the solution to be used.
+
+      The most unique approach of the FableCorp system, is to use the A.I. to detect the desired
+      biochemical / cell / virus is to scan appropriate multi-spectral spectroscopy inputs. Data
+      mining tools, where it simultaneously eliminates noise in raw data generated from various
+      multi-spectral spectroscopy inputs, give very clear results. This approach makes
+      multi-spectral spectroscopy methods suitable for use as point-of-care systems for any end
+      user, and also leads to the realization of full automation (Internet of Things) systems.
+
+      A.I. the base solution for Pointer signal detection / processing eliminates biochemical
+      additives (kits) and specialized personnel.
+
+      AI's evaluation of data takes place within 15-30 seconds. If the effectiveness of this
+      application is proven in the diagnosis of SARS-COV-2, many more people will be able to be
+      screened in a much faster time, much cheaper, and filiation will be applied to the necessary
+      people much faster.
+
+      Study Design Stage 1: Nasopharyngeal samples taken from COVID-19 suspected individuals will
+      be given to artificial intelligence to learn positive and negative cases, and the learning
+      results will be calculated as the learning accuracy for negative and positive samples.
+      (n=4000, 2000 positive and 2000 negative)
+
+      Stage 1, Output Parameters (Evaluation of Learning Performance of Artificial Intelligence):
+
+      PCR results and AP-23 results obtained as a result of comparison; PCR Accordance, PCR
+      Accordance for Negative Samples, PCR Accordance for Positive Samples.
+
+      Stage 2: Based on the Artificial Intelligence Learning accuracy rate second stage of the
+      study will be initiated. At this stage, Nasopharyngeal swab samples will be tested by PCR,
+      AP-23, and the results will be tested and be compared and the sensitivity of detection
+      compared with results obtained by (n=400, 200 positive and 200 negative)
+
+      Stage 2, Output Parameters (Evaluation of Test Performance of Artificial Intelligence):
+
+      Nasopharyngeal swab obtained by comparison with PCR and AP-23 results in samples;
+      Sensitivity, Specificity, Negative Prediction Value, Positive Prediction Value.
+    
+  

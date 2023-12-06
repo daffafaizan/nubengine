@@ -1,3 +1,5 @@
+import os
+
 from django.shortcuts import render
 from engine.bsbi import BSBIIndex
 from engine.compression import VBEPostings
@@ -25,7 +27,7 @@ def show_home(request):
                 for (score, doc) in tf_idf_result:
                     query_results.append({'doc': doc, 'score': score})
 
-                results.append({'query': query, 'results': query_results})
+                results.append({'query': query, 'results': query_results,})
 
             context['queries'] = queries
             context['query_results'] = results
@@ -33,3 +35,12 @@ def show_home(request):
             return render(request, 'home.html', context)
 
     return render(request, 'home.html', context)
+
+def show_docs(request, block_id, file_name):
+    file_path = os.path.abspath('./engine/collections/' + f'{block_id}/{file_name}')
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+        context = {
+            "data": content
+        }
+        return render(request, 'doc.html', context)

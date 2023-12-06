@@ -1,0 +1,40 @@
+
+    
+      The last months of pregnancy are particularly important for the development of the child's
+      brain, and the consequences of premature birth on its development can be substantial.
+      Prematurely born children are at higher risk of various cognitive impairments and exhibits
+      more behavioral disorders than full-term born children. Thus early detection and management
+      of at risk children are essential. There is growing evidence of significant volumetric
+      abnormalities in subcortical structures of premature neonates, which may be associated to
+      negative long-term neurodevelopmental outcomes. Understanding these abnormalities could help
+      elucidate the underlying pathophysiology and enable early determination of at-risk patients,
+      both of which would inform the design of novel treatment strategies. However, to date there
+      is still a lack of sensitive, reliable, and accessible algorithms capable of characterizing
+      the influence of prematurity on the anatomy of neonatal brain subcortical structures. In
+      addition, few studies have looked directly at the long-term neurodevelopmental implications
+      of these neonatal subcortical structures abnormalities. Predicting long-term
+      neurodevelopmental outcomes early on - and preferably at neonatal ages - is likely to have a
+      transformative effect on their outcome. Our preliminary data indicate significant
+      morphological differences in the putamen, ventricles, corpus callosum, and thalamus between
+      preterm and term neonates. Investigators propose to develop biomarkers of prematurity by
+      statistically comparing the morphological and diffusion properties of subcortical structures
+      between preterm and term neonates using brain MRI. These results will further be used in a
+      sparse learning framework to predict long-term neurodevelopmental outcomes of prematurity.
+      Hypotheses: By combining subcortical morphological and diffusion properties, we will be able
+      to: (1) delineate specific correlative relationships between structures regionally and
+      differentially affected by normal maturation and different patterns of white matter injury,
+      and (2) improve the specificity of neuroimaging to predict neurodevelopmental outcomes
+      earlier. Aim 1: Build a new toolbox for neonatal subcortical structures analyses that combine
+      1) a group lasso-based analysis of significant regions of shape changes, 2) a structural
+      correlation network analysis, 3) a neonatal tractography, and 4) tensor-based analysis on
+      tracts. Aim 2: Ascertain biomarkers of prematurity in neonates with different patterns of
+      abnormalities. Aim 3: Assess the predictive potential of imaging and clinical features on
+      neurodevelopmental outcomes among premature children at 9 and 18 months and 6-8 years of age.
+      Impact: This application will provide the first complete subcortical network analysis in both
+      term and preterm neonates. In the first study of its kind for prematurity, investigators will
+      use sparse and multi-task learning to determine which of the biomarkers of prematurity at
+      birth are the best predictors of long-term outcome. The expected findings could improve the
+      ability to predict these outcomes and enable the design of early treatments - before years of
+      pathological brain development and symptoms occur.
+    
+  

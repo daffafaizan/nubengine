@@ -1,0 +1,32 @@
+
+    
+      Design Variables related to injury Analytical, cross-sectional and retrospective study will
+      be recorded. Population Those patients who attended a private physiotherapy center in the
+      Autonomous City of Buenos Aires between January 2017 and December 2019 were consecutively
+      included. Those cases in which the affected body region was not recorded were excluded.
+
+      Given the characteristics of the study, the signing of the informed consent by the patients
+      was not required.
+
+      Process The information used for the analysis was collected during the first session in an
+      evaluation form, prepared by kinesiologists belonging to the institution and used since
+      January 2017. All the professionals who participated in the study had a prior period of
+      theoretical training in the use of the file and the registration of the data. The information
+      of each patient was collected by kinesiologists from this institution and posted on a
+      Microsoft Excel® spreadsheet from which the corresponding analyzes were performed.
+
+      Sociodemographic variables The following variables will be recorded: sex, age, weight,
+      height, body mass index (BMI), laterality, main sport, smoking, hours of rest and quality of
+      self-perceived sleep (good, fair or poor).
+
+      The following variables: affected body region, type of injury, duration and form of onset of
+      symptoms (acute without apparent reason, acute by specific event, gradual without apparent
+      reason and gradual by specific event).
+
+      Statistic analysis Categorical variables are reported as presentation number and percentage.
+      Continuous variables that assume a symmetric distribution are reported as mean ± standard
+      deviation, while those with asymmetric distribution as median and interquartile range (RIC
+      25-75). A univariate analysis was used to search for the association between BMI and
+      probability of injury. The R Markdown program was used for data analysis.
+    
+  

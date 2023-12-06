@@ -1,0 +1,36 @@
+
+    
+      The artificial pancreas, a device used for automatic delivery of insulin and glucagon
+      subcutaneously to subjects with type 1 diabetes, is paving the way to revolutionize the
+      management of this disease. Already, the benefit of improved glycemic control compared to
+      current open-loop pump therapy has been demonstrated in several trials. The investigator's
+      group has shown that artificial pancreas algorithm dual hormone system effectively manages
+      blood glucose in a clinic setting and the investigators have specifically shown great
+      progress using glucagon to reduce hypoglycemic episodes outside of exercise. The
+      investigators most recent inpatient study, as yet unpublished, shows that adjusting insulin
+      and glucagon delivery during closed loop treatment, after announcing exercise, effectively
+      reduces mean time below a glucose level of 70 mg/dl when compared to closed loop control
+      without adjustments. The investigators utilized initial open-loop data from this study to
+      help devise dosing changes for the artificial pancreas algorithm.
+
+      In order to prepare for a future home study, the ability to detect, grade, and classify
+      physical activity so as to appropriately adjust system parameters is vital in helping to
+      prevent exercise induced hypoglycemia in the home setting. Currently, our closed-loop system
+      transmits heart rate and accelerometry outputs from a Zephyrlife BioPatch monitoring device
+      to a Nexus 5 smart phone master controller via Bluetooth. The algorithm then converts the
+      heart rate and accelerometry data into modified estimated energy expenditure - accounting for
+      age, weight, height, sex, resting and sitting heart rates - to determine if exercise is
+      present. However, further data collection is needed to hone the specificity and sensitivity
+      of the detection algorithm to account for a wide variety of subject characteristics and
+      activities.
+
+      This study is designed to collect 3-axis accelerometry data and heart rate data during a
+      variety of different home activities, as well as during formal exercise, which included
+      aerobic exercise (on a calibrated treadmill) and resistance exercise (straight-leg raises or
+      equivalent) in healthy subjects as well as subjects with type 1 diabetes. Optionally VO2 data
+      from a portable VO2 mask will be obtained. The data collected will be used to further enhance
+      our algorithm that, in future closed-loop studies, will detect exercise and automatically
+      trigger algorithmic adjustments to reduce exercise-related hypoglycemia during and after
+      exercise in individuals with type 1 diabetes.
+    
+  

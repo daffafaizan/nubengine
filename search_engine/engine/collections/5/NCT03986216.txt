@@ -1,0 +1,92 @@
+
+    
+      Individuals with moderate to severe stroke will be recruited for both lab-based testing and
+      home-based practice:
+
+        1. Pre-training clinical evaluation (lab-based). In this session, a research physical
+           therapist will evaluate the participant's arm function and impairment level using
+           standardized clinical assessments to ensure eligibility for participating in this study.
+           Once confirmed, a set of standardized clinical assessments will be conducted by the
+           research physical therapist as the baseline assessments of the participant's hand/arm
+           function. This visit is expected to last approximately 3 hours.
+
+        2. Pre-training device setup (lab-based). The participant will be randomly assigned to one
+           of the recruited physical therapists (PTs) or senior student physical therapists (SPTs)
+           who has been recruited and consented to participate in this study. The assigned PT will
+           determine 1) the electrode positions for recording the participant's muscle activities
+           during the performance of different arm/hand functions, and 2) the stimulation electrode
+           positions and stimulation intensities for achieving the best hand opening with the
+           forearm at the individual's mid-range of available supination/pronation. Then, the
+           corresponding electrode positions will be marked, and the forearm/hand with these
+           markers will be scanned. This visit is expected to last approximately 3 hours. The
+           scanned results will be used offline to develop a forearm-hand orthosis (FHO) that fits
+           the participant's forearm and hand. During this visit, the investigators will measure
+           the time for the PT/SPT to set up 1) recording electrodes, 2) detecting rules, 3)
+           stimulation electrodes and configuration, and 4) the time for scanning.
+
+        3. Pre-training device-use learning sessions (2 visits, lab-based). After the FHO is ready,
+           the participant will be called to participate in the 1st and 2nd lab-based training
+           sessions for the use of ReIn-hand device. During these 2 visits, the assigned PT/SPT
+           (1st test) or the research PT (2nd test) will train the participant to use the FHO and
+           the ReIn-Hand software on a mobile device, until the participant demonstrates the
+           ability in using the device independently twice in a row. During these 2 visits, the
+           investigators will measure the time for the participant to 1) learn the use of the
+           ReIn-Hand device (from the start of the session to the time that the participant is able
+           to demonstrate ability to independently use the device twice in a row), 2) attach the
+           FHO, 3) use the software for 1 trial (including connecting all the cables following the
+           instructions, start the software and finish 1 trial), and 4) clean up. At the end of the
+           1st (for PTs) or the 2nd (for individuals with stroke) learning sessions, a 5min user
+           survey will be conducted to report the level of ease-of-use of the ReIn-Hand device.
+           During the 2nd learning session, the participant will also be re-tested on part of the
+           clinical assessments, however, this time with the assistance of the ReIn-Hand device.
+           Each of these 2 visits is expected to last about 3 hours.
+
+        4. Pre-training 2nd baseline clinical measures (lab-based). Within one week prior to
+           starting the Home-based practice, a research PT will conduct the 2nd baseline clinical
+           measures, which will repeat the 1st baseline clinical measures with an additional
+           quantitative measure of maximal hand opening area and closing force (QMHOC). For QMHOC,
+           pressure sensors (Pressure Profile Systems, Inc., Los Angeles, CA 90045) in conjunction
+           with portable Moire Phase Tracking cameras (Metria Innovation, Inc., Wauwatosa, WI) will
+           be used. The whole QMHOC will take about 10 minutes, and the whole 2nd baseline clinical
+           measure session will take about 2 hours.
+
+        5. Pre-training EEG measures (lab-based). Within one week prior to starting the Home-based
+           practice and within one week following completion of the 12-week Home-based practice,
+           the participant will take part in an EEG experiment. During this session, a 9x9 mm
+           marker will be placed on the tip of each finger, with another on the back of the hand as
+           reference, which will allow for the measure of the position and angle of the
+           fingers/hand by 2 portable Moire Phase Tracking cameras (180 Hz; Metria Innovation Inc.
+           Milwaukee, WI). In addition, surface EEG electrodes will be mounted on a stretchable
+           fabric cap based on the 10/20 system. A Polaris Krios handheld scanner and reflective
+           markers (NDI, Ontario, Canada) will be used to record the EEG electrode positions
+           compared to the coordinate system defined by the nasion, inion, and pre-auricular
+           notches. Eye movement detection electrodes will also be placed on the supra- and
+           infra-orbital margins for detection of vertical eye movement. EMG will be recorded from
+           the extensor carpi radialis, flexor carpi radialis, and deltoid of the arm.
+
+           Once prepared, the participant will be seated in an experimental chair with: 1)
+           adjustable straps across the shoulders and waist to maintain proper posture, 2) paretic
+           forearm attached to an orthosis that is linked to the ACT-3D, a robot that will provide
+           required arm support, 3) hand around a cylinder with a custom pressure sensor mat
+           (Pressure Profile System Inc., CA). The participant will be instructed to perform 1 of 2
+           movements: 1) hand opening while resting on a haptic table, or 2) hand opening while
+           lifting against 50% of their maximum shoulder abduction force. The investigator will
+           measure scalp recordings and EMG recordings using a 160-channel EEG/EMG system using
+           active electrodes (Biosemi, Inc., Active II, Amsterdam, The Netherlands), hand opening
+           area or finger flexion force.
+
+        6. Home-based practice. After above 5 lab-based visits, participants will take the
+           ReIn-Hand device, including the FHO, the mobile device with ReIn-Hand software, and the
+           electronic stimulator (300 PV, Empi, Minnesota, USA, a FDA approved clinical device)
+           back home. At home, participants will perform 20 trials of pre-set tasks, like reaching
+           and grasping, per session (1 hour), 1 session per day, 7 days per week for 12 weeks.
+           During these 12 weeks, the participant will visit the lab once per week to make
+           necessary device changes, and perform part of the clinical assessments and QMHOC measure
+           without the ReIn-hand.
+
+        7. Post-training tests (lab-based). The sessions #4 mentioned above will be repeated at one
+           week and 3-month after the 12-week home-based practice. The session #5 will be repeated
+           at one week after the 12-week home-based practice. All the post-training tests will be
+           preformed without ReIn-hand device.
+    
+  

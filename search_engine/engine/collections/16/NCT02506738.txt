@@ -1,0 +1,104 @@
+
+    
+      Patient registries were carried out in two different Databases: one included general
+      information on patients and epidemiological data. The other database stored the monitored
+      data obtained every 48 hours.
+
+      Quality assurance and source data verification was achieved by retrieving general information
+      on patients from the Hospital Electronic Medical Record. Moreover epidemiological information
+      was assessed by the Principal Investigator who removed outlier values and assessed the
+      occurrence of sharp changes in temporal series (e.g. changes >0.5Kg in two days).
+
+      Patients were recruited at the acute unit of the Geriatrics Service. When they were admitted
+      due a heart failure exacerbation a trained nurse performed the initial assess. If the patient
+      was suitable, a geriatrician explained to him /her the study and if the patient accepted we
+      was asked to sign the informed consent. Then he was assigned randomly to a group. For those
+      in the intervention group, they were trained by the geriatrician and the nurse on how to
+      perform the measurements in the mobile phone. For those in the control group, the staff
+      recorded the baseline characteristics, and during the follow-up the emergency visits,
+      readmissions and death was recorded. These latter variables were also recorded in the
+      patients of the intervention group.
+
+      The data dictionary included variables identifying patients and others describing their
+      status and evolution:
+
+        -  Oxygen saturation, measured as an integer (80-100)
+
+        -  Heart rate, measured in beats/minute (0-200)
+
+        -  Diastolic blood, measured in mmHg (0-100)
+
+        -  Systolic blood pressure, measured in mmHg (0-100)
+
+        -  Respiratory rate, measured in breaths/minute (0-100)
+
+        -  Skin temperature, measured in Celsius
+
+        -  Weight, measured in kg
+
+        -  Glucose, measured in mg/dl (0-500)
+
+        -  Short Physical Performance Battery, time to walk for 4.3 meters, measured in seconds
+           (0-100)
+
+        -  Short Physical Performance Battery, gait speed for 4.3 meters, measured in decimal
+           meters/second (0-1)
+
+        -  Short Physical Performance Battery, chair stand test once, measured in seconds (0-100)
+
+        -  Symptom question Q1: Do you feel worse than the last time?, measured as a Boolean
+           variable (YES/NO)
+
+        -  Symptom question Q2: Do you feel worse than the day of the hospital discharge?, measured
+           as a Boolean variable (YES/NO)
+
+        -  Symptom question Q3: Do you feel shorten of breath?, measured as a categorical variable
+           (effort/DLA/at rest)
+
+        -  Symptom question Q4: Do you feel your legs swollen? ?, measured as a Boolean variable
+           (YES/NO)
+
+        -  Symptom question Q5: Have you woken up during the night feeling fatigue? ?, measured as
+           a Boolean variable (YES/NO)
+
+        -  Symptom question Q6: Have you needed more pillows to sleep than last time? ?, measured
+           as a Boolean variable (YES/NO)
+
+        -  Symptom question Q7: Have you taken all your drugs? ?, measured as a Boolean variable
+           (YES/NO)
+
+        -  Symptom question Q8: Have you followed the food and drinks indications of your
+           physician?, measured as a Boolean variable (YES/NO) Sample size was calculated to reduce
+           readmission rate by 10% in 3 months time. Having a significant level of 0.05. Sample:
+           50-60 per group. With the first 20 patients included, sample size was recalculated, only
+           40 were needed in each group. However, we included more patients in the intervention (up
+           to 50) to face drops, only 3 dropped the study, so we obtained data from 47 in the
+           intervention group.
+
+      Missing data were excluded from the analysis, the registry was excluded. If a patient
+      registered more than one measurement for the same expected data, the latest remained, and the
+      rest was deleted.
+
+      Statistical analysis:
+
+      First, we carried out a descriptive analysis of the data. Later, we analysed the effects of
+      the intervention with telemedicine and the predictive values of the different measured
+      variables through logistic regressions.
+
+      Descriptive data are presented as median values (IQR). Baseline characteristics between
+      control and intervention groups were compared using non-parametric tests (Mann-Whitney).
+
+      In order to determine the effects of the intervention, the analysis was divided in two parts.
+      First, a logistic regression model was fitted to determine if the patient monitorization
+      (yes/no) significantly predict worsening using age and sex as covariates. Then, a new
+      variable, hospitalization length of stay, was created with the length of stay for any
+      readmission in each group to assess whether the use of telemonitoring affected the length of
+      hospitalisation. Both control and intervention groups were compared using Mann-Whitney.
+
+      Finally, in the intervention group, the same logistic regression model was fitted to
+      determine the factors that significantly predict worsening.
+
+      All analyses were made with the Statistical Package R for windows (Vienna, Austria)
+      (http://www.r-project.org), version 3.1.1. P-value was set at level <0.05.
+    
+  

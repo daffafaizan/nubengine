@@ -1,0 +1,82 @@
+
+    
+      Study Protocol :
+
+      Observational prospective cohort study.
+
+      Patients
+
+      Patients admitted to the ICU for severe trauma will be included. Two groups of patients with
+      severe trauma will be studied:
+
+        1. Patients with isolated severe traumatic brain injury (TBI): TBI with initial Glasgow
+           Coma Scale (GCS) ≤ 8 and AISextrahead score ≤3
+
+        2. Patients with severe trauma without TBI (AISextrahead score > 3)
+
+      A group of healthy individuals will serve as a control population.
+
+      Expected total enrollment 20 patients in each group, and 10 healthy controls.
+
+      Patient data collection
+
+      For each patient, the following data will be collected:
+
+        -  Demographic data: age, sex, height, weight, ICU admission date, simplified acute
+           physiology score II (SAPS II), injury severity score (ISS), abbreviated injury scale
+           (AIS) at ICU admission.
+
+        -  Trauma-related data: number and type of trauma-related organ injuries, initial GCS,
+           presence of mydriasis at initial management.
+
+        -  Factors with potential impact on microbiota: antimicrobial therapy, nutrition type,
+           medications (proton pump inhibitors, opioids, sedations, catecholamines, steroids),
+           surgical procedure during ICU stay.
+
+        -  Evolution: multidrug resistant bacteria acquisition during ICU stay, ICU
+           acquired-infections. Mechanical ventilation duration, extrarenal epuration, ICU length
+           of stay, neurological outcome evaluated by disability rating scale (DRS-F) at ICU
+           discharge and at 90 days post trauma, death at ICU discharge and 90 days.
+
+      Sample collection
+
+      Oropharyngeal and rectal swabs will be performed for each patient within the first 24 hours
+      after ICU admission (day 0), then 48 hours (day 2) and 7 days (day 7) after ICU admission and
+      weekly thereafter until ICU discharge. Rectal and oropharyngeal swabs will be performed by
+      trained paramedical staff using sterile swabs with transport medium ESwab® (Becton, Dickinson
+      and Company, New Jersey, USA). Swabs will be stored at -80°C until DNA extraction.
+
+      DNA extraction
+
+      DNA extraction will be performed using QIAamp PowerFecal Pro DNA® kit (Qiagen®, Courtaboeuf,
+      France) for rectal swabs and Extracta DNA Prep® kit (Quanta Biosciences®, Beverly, USA) for
+      oropharyngeal swabs. DNA will be quantified by Quantit® dsDNA HighSensitivity Assay Kit
+      (Fisher Scientific).
+
+      16S rRNA amplification and sequencing
+
+      V3 and V4 regions of bacterial 16S rRNA gene sequences will be amplified by polymerase chain
+      reaction (PCR) with universal primers (TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGCCTACGGGNGGCWGCAG and
+      GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGACTACHVGGGTATCTAATCC), following the Illumina MiSeq®
+      System protocol (Illumina®). Amplicons will be purified and then sequenced using MiSeq®
+      sequencing system ((Illumina®).
+
+      Sequences processing
+
+      Sequences processing and operational taxonomic unit (OTU) clustering will be performed using
+      SHAMAN software (SHiny Application for Metagenomic ANalysis) based on R® software (package
+      DESeq2), provided by Pasteur Institute. Taxonomic classification will be performed using
+      SILVA database reference.
+
+      Statistical analysis
+
+      Statistical analysis will be performed using SHAMAN software (SHiny Application for
+      Metagenomic ANalysis). Bacterial phyla, families and genera repartition will be analyzed, and
+      relative abundance of bacterial genera will be compared between the different populations.
+      Alpha-diversity will be analyzed using different parameters (Shannon index, Simpson's
+      diversity index), as well as beta-diversity (principal component analysis).
+
+      The different populations of patients and healthy volunteers will be compared, and the
+      evolution of microbiota along time will be studied.
+    
+  

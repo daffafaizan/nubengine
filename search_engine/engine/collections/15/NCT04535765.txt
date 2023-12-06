@@ -1,0 +1,72 @@
+
+    
+      In order to ensure that the results of the study are not distorted by humans, this study is a
+      single-blind randomized trial study. The subjects were randomly assigned to the experimental
+      group or the control group with a permuted block randomization. For the sample number
+      calculation, refer to Hedeker, Gibbons & Waternaux (1999) Comparing the time-dependent
+      comparison of the longitudinal design sample size estimates between the two groups, and
+      considering the 20% sample loss rate, the total number of samples is estimated to be 64 (32
+      in the control group and 32 in the experimental group).
+
+      The two groups of patients also received the same conventional treatment, anesthesia and
+      surgery on the night before and on the day of the operation, and the warm water sitz bath was
+      performed at different times after the operation. The warm water sitz bath temperature of the
+      two groups was also 41-43°C daily 3 times (9:00, 13:00, 17:00), 5 minutes each time, and
+      regularly take the same painkillers, stool softeners, and antibiotics. The researchers
+      evaluated the wound pain index on the Numerical Rating Scale (NRS) 6 hours after the
+      operation, 7 hours after the operation, and before and after each warm water sitz bath; After
+      urine, the residual urine volume of the subject was evaluated with a Bladder Scan until the
+      first day after the operation. A total of 8 evaluations were performed: 6 hours after the
+      operation, 7 hours after the operation, and the first day after the operation 8:30, 9:30,
+      12:30, 13:30, 16:30, 17:30.
+
+      During the test, the number of subjects with adverse reactions (vertigo, weakness, sustained
+      wound bleeding greater than 100ml) was greater than 3% of the total number of cases (2
+      persons). The trial was terminated immediately.
+
+      Acceptance conditions:
+
+        1. Age over 20 years old, easy to move, can get out of bed and take a bath.
+
+        2. Symptomatic grade III or IV hemorrhoids diagnosed by the surgeon.
+
+        3. Accept epidural anesthesia.
+
+        4. Perform hemorrhoidectomy.
+
+        5. Those who have clear awareness and are willing to participate in and fill out the
+           research consent form.
+
+      Exclusion conditions:
+
+        1. Diseases around the anus (fistula, abscess).
+
+        2. Urinary tract problems (prostate hypertrophy in the past medical history; urinary tract
+           infections on admission routine urine tests, urinary retention as assessed by Bladder
+           Scan).
+
+        3. Take painkillers before surgery.
+
+      Statistical methods
+
+        1. Descriptive statistical analysis: Adopt the mean, standard deviation, frequency
+           distribution and percentage to present the basic attributes of the subjects.
+
+        2. Inferential statistics: Chi-square test was used to analyze the categorical variables,
+           and independent sample t-test was used to analyze the continuous variables.
+
+        3. Use the independent sample t test to compare the differences in the average degree of
+           urinary retention and pain between the groups. If the data are not normally distributed,
+           switch to the Mann-Whitney U test without parental analysis to compare the experimental
+           group and the control group before and after bathing Whether there is a difference, p
+           value <0.05 is considered statistically significant.
+
+        4. Use GEE (Generalized Estimating Equation) to check whether there is any difference in
+           the degree of urinary retention and pain in each group.
+
+      The use of k-Nearest Neighbours to fill in the missing values is mainly to see that the
+      relevant data measured by the subject in the same group is similar to those of other
+      subjects, and then average the data measured by these similar subjects at the same time Value
+      to fill.
+    
+  

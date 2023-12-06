@@ -1,0 +1,48 @@
+
+    
+      Type 2 diabetes (T2D) as a common antecedent of pathological neurodegeneration and dementia,
+      including Alzheimer's Disease (AD); yet the mechanistic link between metabolic and
+      neurodegenerative disorders remains unresolved. Here, the investigators will study a
+      well-defined human population with increased prevalence and early onset of both T2D and AD,
+      individuals of Mexican descent living in South Texas. The study will lay critical groundwork
+      toward addressing the investigators' overarching hypothesis that dysbiosis of the gut
+      microbiome in type 2 diabetic individuals of Mexican descent living in South Texas is
+      causally related to the increased prevalence of comorbid, early onset AD in this population.
+      In this study, the investigators will perform state-of-the-art metagenomic 16S ribosomal RNA
+      (rNRA) gene sequencing and bioinformatic analysis on fecal samples collected from type 2
+      diabetic and non-diabetic control individuals of Mexican descent to test the working
+      hypothesis that the community structure of the gut microbiome of individuals of Mexican
+      descent with T2D is significantly altered compared to that of nondiabetics within the same
+      population. To the investigators' knowledge, this multidisciplinary pilot study will be the
+      first to investigate the gut microbial community structure of type 2 diabetic versus that of
+      nondiabetic individuals of Mexican descent. Furthermore, it has the potential to provide
+      mechanistic insight into how T2D predisposes individuals to the neuropathology and cognitive
+      impairment characteristic of AD and to identify a novel class of interventions that target
+      the host gut microbiome for the prevention of early onset AD in a predisposed population, as
+      well as the population at large.
+
+      Human subjects will be recruited through the University of Texas Medical Branch at Galveston
+      (UTMB) Endocrinology and pre-screened to confirm that the potential participants meet
+      established inclusion and exclusion criteria as either T2D or nondiabetic controls, as
+      defined in the UTMB human subjects protocol associated with this project. Pre-screened
+      participants that meet the defined criteria will be invited to attend an appointment with a
+      study coordinator held at the UTMB Clinical Research Center. Consented and enrolled study
+      participants will be asked to complete medical history, dietary preference, and
+      gastrointestinal function questionnaires and instructed as to how to use the provided
+      OMNIgene-GUT RNA (OMR)-200 fecal sample collection kit (DNA GenoTek). Participants will
+      submit the collected fecal sample via shipment of a pre-paid and labeled shipping envelope.
+      Samples will be deidentified and stored at -80oC in the Buffington Lab prior to shipment to
+      the Baylor College of Medicine Center for Metagenomic and Microbiome Research (CMMR) for
+      metagenomic 16S rRNA gene sequencing. Briefly, bacterial genomic DNA will be extracted using
+      the MagAttract PowerSoil Kit (Qiagen) and the 16S ribosomal DNA (rDNA) V4 region will be
+      amplified by polymerase chain reaction (PCR) and sequenced on the MiSeq platform (Illumina).
+      16S rRNA gene read pairs will be demultiplexed based on unique molecular barcodes added to
+      primers used for amplification and reads will be merged using USEARCH. 16S rRNA gene
+      sequences will be clustered into Operational Taxonomic Units (OTUs) using the UPARSE
+      algorithm and mapped to an optimized version of the SILVA database to determine taxonomies.
+      The investigators will then use a custom script developed by the CMMR to construct a rarefied
+      OTU table for downstream analyses of alpha-diversity, beta-diversity, and phylogenetic trends
+      to identify any changes in community structure between type 2 diabetic and non-diabetic
+      individuals of Mexican descent enrolled in the study.
+    
+  

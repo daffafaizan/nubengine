@@ -1,0 +1,179 @@
+
+    
+      Objectives:
+
+        1. Gather validity evidence for the 3D-Colonoscopy Progression score (3D-CoPS) and
+           3D-Colonoscopy Retraction Score (3D-CoRS) in a clinical setting.
+
+        2. Investigate the relationship between 3D-CoPS/3D-CoRS and a retrospective calculated
+           Adenoma Detection Rate (ADR) of endoscopists with various experience.
+
+      Background:
+
+      Colonoscopy is the gold standard for diagnosing adenomas and colorectal cancer. High Adenoma
+      Detection Rate (ADR) is essential to reduce the risk of subsequent colorectal cancer .To
+      maximize the detection of adenomas during a colonoscopy the endoscopist need to see as much
+      mucosa as possible. To increase the mucosa visualized quality indicators, such as bowel
+      preparatin, cecal intubation rate and an average time of at least 6 minutes spent during
+      withdrawal, should be used as supportive measures to minimize missed lesions and thereby
+      decreasing interval cancer. Bowel preparation, cecal intubation and time spent during
+      withdrawal are prerequisite measures for optimal visualization of the mucosa in the
+      colorectum, but are not a quality measure for actual detected pathology. Time as a quality
+      assurance for detection of adenomas means nothing if the physician isn't careful during
+      withdrawal and look behind folds and change position to get a clear view of the mucosa
+      surface. The ADR has been introduced as a surrogate measure of adequate visualization of the
+      mucosa, but a recommend and a minimum number of 500 colonoscopies are needed to calculate a
+      statistic reliable ADR. Although ADR is one of the most widely used and accepted quality
+      indicators great variance in number of performed procedures and ADR among physicians exits,
+      which makes ADR difficult to use in practice. Currently there is no quality parameter
+      evaluating the individual procedure and to our knowledge no objective tools exits to help
+      increase diagnostic accuracy during a colonoscopy. Objective, easy implementable and
+      automatic measures are needed to ensure a high detection of adenomas and subsequently prevent
+      missed lesions and interval cancers.
+
+      In collaboration with the Technical University of Denmark we have developed a score of
+      progression and retraction during a colonoscopy, called 3D-Colonoscopy Progression Score
+      (3D-CoPS) and 3D-Colonoscopy Retraction Score (3D-CoRS). We predict the systems to be
+      automated and objective tool correlated with the endoscopists technical level of expertise in
+      clinical colonoscopy.
+
+      Method and materials:
+
+      Retrospective study part:
+
+      The study is conducted at three different university hospitals. Twenty endoscopists with a
+      lifetime experience of no less than 50 screening colonoscopies are voluntarily enrolled. To
+      calculate the ADR for each endoscopist data of the last screenings colonoscopies is
+      retrospectively collected (minimum 50 colonoscopies per endoscopist).
+
+      The following will be noted for each endoscopist:
+
+        -  Number of total colonoscopies
+
+        -  Number of colonoscopies within the last year
+
+        -  Number of other endoscopies
+
+        -  Number of screenings colonoscopies
+
+        -  Intern, junior resident, senior resident, consultant
+
+        -  Surgical or medical gastrointestinal background
+
+        -  Sex
+
+        -  Age
+
+        -  Time since graduation
+
+      Prospective part:
+
+      A minimum of five consecutive screenings colonoscopies for each endoscopist are included.
+      Patients appointed to a screening colonoscopy are chosen due to a higher ADR (approximately
+      50%) and a more homogeneous group. All procedures are performed with a standard Olympus
+      colonoscope model in combination with the Magnetic Endoscopy Imaging system (MEI). Data
+      collection starts at the intubation of the colonoscope in the anus and stops when the
+      procedure is finished. The data collection is fully automated without any interference from
+      the investigators during the normal clinical setup.
+
+      Approval is applied at the Danish Data Protection Agency, the Danish Patient Safety Authority
+      and the Regional Committee on Health Research Ethics.
+
+      General mathematical formulation for 3D-CoPS and 3D-CoRS:
+
+      Electromagnetic coils are built in along the length of the Olympus colonoscopes. They
+      generate a pulsed low-intensity magnetic field that is picked up a receiver coil. The
+      data-points for each coil are inserted into an algorithm for movement analyzing. The two main
+      measurements conducted in relation with the colonoscopy is the Colonoscopy Progression Score
+      (CoPS) and Colonoscopy Retraction Score (CoRS). Both of these have a joint basis for the
+      analysis, in the form of a movement analysis. This analysis is done as a vector product
+      between the tip of the scope, and the next tracked magnetic coil - where on the relative
+      magnitude of the change in position is multiplied on. This results in a relative movement
+      that is scaled with how much the scope moves in relation to the previous position, and how
+      much this movement is deflected according to the direction the tip points in. This movement
+      analysis is used for distinction between the progression- and retraction phase, which is
+      essential, such that the CoPS and CoRS measurements is performed at the right times.
+
+      3D-CoPS: To perform the CoPS measurement, the above definition helps by defining the
+      progression phase. The general belief is that if the scope progresses smoothly, the
+      colonoscopist is experienced, and vice versa. Therefor tracking how much time the tip of the
+      scope is "stagnant", is used to define the CoPS. Specifically, a two dimensional histogram is
+      used, spanned across the movement area of the colonoscopy. Filling the histogram is simply
+      performed by sampling the tip position at each time step, and putting it into the respective
+      bin. If the scope is then stagnant at many stages throughout the procedure, the bins values
+      will be locally very high. On the other hand, if a smooth progression is present, the bin
+      values will be smoothly distributed, across all the different bins. This is the basis for the
+      CoPS value. Finally followed with a normalizing, and scaling of the 2D histogram value, for
+      easing interpretation.
+
+      3D-CoRS: Analyzing the retraction phase, must be done differently, as the tip is supposed to
+      be stagnant, at different times, through this phase. Therefor the movement analysis, as
+      described above, is used to measure how the instrument moves. This movement is then
+      high-passed filtered, as experienced colonoscopist seems to have much more high frequency
+      movements, where-in the novices moves with much lower frequency (more hesitant). This overall
+      movement is evaluated as a difference between the different positions (by differentiation),
+      and a count of peaks and valleys is done with a fitting margin. This final count is then high
+      if an expert is performing the procedure, as more high frequency movements will take place,
+      and low if a novice is performing the procedure.
+
+      Patient related information:
+
+        -  Number of polyps
+
+        -  The polyp size
+
+        -  Polyp type
+
+        -  Polyp histology
+
+        -  Polyp location
+
+      Validity:
+
+      Evidence of validity is based on Messicks five major sources (10).
+
+      Content:
+
+      1. 3D-CoPS and 3D-CoRS are being developed based on the evidence of an ongoing
+      simulation-based validation study " A Validation Study of a Computerized Movement Analysis of
+      the Colonoscope in Simulated Colonoscopy" and general good practice of how a colonoscope is
+      withdrawn from cecum to anus.
+
+      Response process:
+
+      The process is standardized using an Olympus colonoscope and MEI system. All participants
+      will be instructed informed of the systems and the data-collection. All data-collection
+      regarding are presented in a uniform file-format. The 3D-CoPS and 3D-CoRS are objective,
+      automated and unbiased tools.
+
+      Internal structure:
+
+      To ensure internal consistency of the 3D-CoPS and 3D-CoRS among the endoscopists a minimum of
+      5 consecutive colonoscopies are needed (based on an article not yet published). The score
+      system is automated and unbiased why the internal structure in this regard is consistent.
+
+      Relationship to other variables:
+
+      We assume the sample data reflects a population that follows a probability distribution based
+      on a fixed set of parameters. The correlation between experience (logarithmic) and scores
+      will be investigated using Pearson's r. Scores from 3D-CoPS and 3D-CoRS will be correlated
+      with patient and endoscopist variables. The endoscopist is not blinded during
+      data-collection, which might affect the performance. Even thou data collection is fully
+      automated, the technic during withdrawal of the colonoscope from caecum to anus could change
+      and increase mucosa visualized and therefore polyp detection (increased awareness of the
+      endoscopist).
+
+      Consequences:
+
+      Contrasting groups' method will be used to set a pass/fail standard based on the scores
+      imitating aminimum performance during intubation, a minimum ADR and false positive and false
+      negative will be investigated.
+
+      Ethics:
+
+      The study contains no biomedical involvement. Participants and patients will not suffer from
+      any physical or psychological discomfort. All endoscopists will be provided with oral and
+      written information and sign a letter of informed consent before entering the study. The
+      collected data are anonymized.
+    
+  

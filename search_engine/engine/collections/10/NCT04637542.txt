@@ -1,0 +1,152 @@
+
+    
+      This research was conducted to determine the effectiveness of mobile learning on students'
+      success and anxiety in teaching the anatomy of the genital system.
+
+      Participants The research is a randomized controlled experimental study. This study was
+      conducted with students who took anatomy lessons at a private university between November and
+      December 2018. Power analysis to determine the number of students to form the research sample
+      was performed using NCSS-PASS statistical package (NCSS, LLC., Kaysville, UT). In order to
+      make a study with this analysis P ≤ 0.1 levels, the number of samples was decided to be 60.
+      As a result, the sample of the research; By explaining the purpose of the study, a total of
+      63 students who was allowed to participate in the post-informative research and meet the
+      sample criteria of the research was formed. Sampling criteria; the student is not (1) not a
+      graduate of a health vocational high school, (2) has not previously been trained in mobile
+      learning, (3) has taken the anatomy course for the first time, (4) received written and
+      verbal permission for participation in the study.
+
+      Designed of Study and Randomization The research was designed in a randomized controlled
+      experimental type. In the randomization of the study, using the Random.org website, students
+      were assigned to the experiment (mobile application group, n = 31) and control (traditional
+      method group, n=32) groups according to their numbers in the class list.
+
+      Data Collection Tools The research data were collected with "Structured Student Information
+      Form", "State and Trait Anxiety Inventory", "Knowledge Examination on the anatomical
+      structure of the genital system".
+
+      Structured Student Introduction Form The socio-demographic characteristics of the student
+      identification form, such as the students' age, gender as well as data on educational status
+      are included. It consists of five questions in total.
+
+      State and Trait Anxiety Inventory In the research, two different scales were applied to the
+      students. These are the State Anxiety Scale (STAI FORM TX - I) and the Trait Anxiety Scale
+      (STAI FORM TX - 2). The scale was developed in 1970 by Speilberger et al. The adaptation and
+      adjustment of the scales into Turkish was done by Necla Öner and Ayhan LeCompte in 1983. It
+      consists of 20 items in both scales and is graded in a four-point Likert style. Scoring is
+      done between 1-4. The answer options collected in four classes in the state anxiety scale
+      (WHO), (1) None, (2) A little, (3) A lot, and (4) Completely. In the Trait Anxiety Scale
+      (SAD) options (1) Almost never, (2) Sometimes, it is (3) Much time and (4) Almost always. The
+      scores obtained from both scales theoretically range from 20 to 80. Larger scores mean high
+      anxiety levels while, smaller score means low anxiety level. In this study, Cronbach's alpha
+      value of the scale was found to be 0.95.
+
+      Knowledge examination on the anatomical structure of the genital system:
+
+      The genital system examination prepared according to the literature consists of 22 questions
+      including the anatomical structure. The knowledge examination contains the names of the
+      anatomical structures of the genital system on the figure. It was created by taking color
+      copies of the images on paper. The lowest score that can be obtained from the knowledge
+      examination is determined as "0" and the highest score as "100".
+
+      Different learning methods were used in both groups, but the examination was conducted in the
+      same format. The pre-test and post-test examinations contain the same questions. An equal
+      number of questions were asked about male and female genital system issues.
+
+      Collection of Data The necessary interviews and correspondences were carried out in order to
+      conduct the research. Permission was obtained from Health Sciences University Istanbul
+      Training and Research Hospital Clinical Research Ethics Committee. The purpose of the study
+      was explained to the students as per the sample criteria and their consents were obtained.
+      All of the students participating in the study attended four hours of theoretical lessons in
+      the classroom related to anatomy of the genital system. Following the theoretical training,
+      students were divided into experiment (mobile application) and control (genital organ model)
+      groups. Both groups where then given the "Structured Student Presentation Form", "Status and
+      trait anxiety inventory" and "Knowledge Examination (pre-test)" on paper.
+
+      The didactic content prepared for the institution's standard curriculum (control group) or
+      mobile learning is similar for both training methods.
+
+      Application in the Control Group: After the theoretical lesson, the control group was taken
+      to the Anatomy Laboratory. The laboratory consists of three application rooms, one control
+      room and one analysis room. The "Anatomy of the Organs Forming the Genital System" was
+      explained using an anatomical model of the genital system organs by a researcher responsible
+      for the human anatomy course. Students were given time until the end of the lesson to work on
+      the models. During this time, their questions were answered. At the end, all of the students
+      were given a "State Inventory" by the researcher and asked to fill it in. Students were then
+      asked to use textbooks and atlases to study for the "Knowledge Test (post-test)" which took
+      place three days later.
+
+      Application in Experimental Group: After the theoretical lesson, students in the experimental
+      group were taken to an empty classroom. The mobile application was installed on the
+      smartphones of the students in the experimental group by the researchers and they were told
+      not to share it with anyone until the end of the study. At the end of the study, the mobile
+      application was also installed on the phones of the students in the control group due to
+      ethical sensitivity. "Anatomy of Organs Forming the Genital System" was explained on the
+      mobile application containing the genital system organs. The students were allowed to ask
+      questions and the questions were answered. Afterwards, all students in the experimental group
+      were given a "State Inventory" by the researcher and asked to fill it in. Students were then
+      asked to study using the "genitalsystem.apk" mobile application until the "Knowledge Test
+      (post-test)" which took place three days later
+
+      Mobile Application Development Stage The use of technology in education helps students with
+      their individual learning development. However, for a successful integration of technology
+      into education, multiple design principles should be considered. In this context, the "Mayer
+      Multimedia Design Principles" were considered in designing the mobile application developed
+      within the scope of the research.
+
+      The mobile application was developed with Adobe Flash CS6 for Android devices with the
+      extension "genitalsystem.apk". The application was uploaded to the smartphones of the
+      experimental group by the researcher.
+
+      The homepage of the mobile application consists of five sections: the male genital system,
+      the female genital system, the path followed by the sperm, the path followed by the ovum and
+      the purpose of the mobile application.
+
+      The male genital system is divided into two sections, presented on the application as two
+      separate pages: internal genital organs and external genital organs. Both pages on the mobile
+      application are operated in the same way: the user presses on the red dots that are
+      programmed on the page, which makes the anatomical names of the organs appear on a
+      rectangular area at the top of the screen.
+
+      The female genital system is divided into two sections, presented on the application as two
+      separate pages: internal genital organs and external genital organs. Both pages on the mobile
+      application are operated in the same way: the user presses on the red dots that are
+      programmed on the page, which makes the anatomical names of the organs appear on a
+      rectangular area at the top of the screen.
+
+      The page on the mobile application detailing the path followed by the sperm features an
+      animation that shows the section from the production of sperm to the woman's external genital
+      area. The users can start, stop or watch the animation whenever they want. During the
+      animation of the path followed by the sperm, the name of the anatomical region the sperm has
+      reached appears at the top of the screen.
+
+      The page on the mobile application detailing the path followed by the ovum features an
+      animation that shows the section from the production of ovum to zygote formation. The users
+      can start, stop or watch the animation whenever they want. During the animation of the path
+      followed by the ovum, the name of the anatomical region the ovum has reached appears at the
+      top of the screen.
+
+      On the purpose of the mobile application page, users can access the sources of the
+      information provided by researches for the purposes of mobile use and the information used
+      for the mobile application.
+
+      Statistical Methods A licensed SPSS statistical package, version 25.0 for Windows (IBM Corp)
+      was used for data analysis. The distribution of the demographic information of the
+      participants by groups was analyzed by chi-square analysis. Whether the average age varies
+      significantly between the groups was investigated with the t-test in independent groups.
+      Normal distribution among the groups in the state anxiety and trait anxiety inventory was
+      analyzed with the Kolmogrov Smirnov and Shapiro Wilks test and it was observed that they were
+      compatible with the normal distribution. Pretest-posttest comparisons were examined with
+      t-test in dependent groups and comparison of measurements by study groups with t-test in
+      independent groups. Regardless of whether the state and trait anxiety levels had a
+      significant effect on the knowledge score, regression analysis was examined. Results were
+      evaluated at 95% confidence interval and significance level at P < 0.05.
+
+      Ethical and Legal Aspects of the Research The necessary interviews and correspondences were
+      carried out in order to conduct the research. Approvals were obtained from the institution
+      and ethics committee (S.U.U Istanbul Training and Research Hospital Clinical Research Ethics
+      Committee- No: 1558 /07.12.2018). The students who formed the research sample have been
+      informed about the purpose, plan, duration and procedures to be done. Therefore, informed
+      consent has been obtained for their participation in the research through their own
+      willingness and on the principle of volunteering.
+    
+  

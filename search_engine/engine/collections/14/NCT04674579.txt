@@ -1,0 +1,44 @@
+
+    
+      Gliomas are the most common primary brain tumors and are classified by their
+      histopathological appearances using the World Health Organization (WHO) system into low-grade
+      glioma (LGG) (grades I and II) and high-grade glioma (grade III anaplastic glioma and grade
+      IV glioblastoma.
+
+      Gliomas, particularly high-grade, exhibit irregular growth patterns infiltrating the
+      surrounding brain and thus showing irregular boundaries that may not be clear on conventional
+      magnetic resonance images (MRI) MR images are visually inspected by radiologists, however,
+      visual assessment is subjective, time consuming and prone to variability due to inter-rater
+      differences. Accurate delineation of tumor boundaries as well as assessment of tumor volume
+      are essential for treatment planning and monitoring treatment response . However, accurate
+      delineation of the boundaries of glioma using subjective visual assessment is often difficult
+      due to tumor heterogeneity and complexity, overlapping signal intensity with surrounding
+      tissues and uneven tumor growth into nearby structures .
+
+      Compared to tumor volumetry, the routine visual evaluation of tumor size is based upon simple
+      linear measurements of the gross tumor volume. These bi-dimensional measurements are often
+      performed on a single MRI slice without volumetric measurements. These linear measurements
+      are user-dependent and prone to errors due to increased measurement variability, especially
+      in irregularly shaped lesions Computer-based fully-automatic tumor segmentation methods
+      present a possible solution to these issues. The process is based upon information extraction
+      from structural brain MRI images using a probabilistic tissue model to define the clear tumor
+      boundaries using different MRI pulse sequences. These methods could accurately and rapidly
+      identify glioma from surrounding normal brain tissue, and perform tumor volumetry, while
+      eliminating intra-observer and inter-observer variability Internal changes within glioma,
+      such as enhancement pattern and degeneration are crucial for identification of glioma grade,
+      planning of treatment, monitoring of disease progression and evaluating the efficacy of
+      therapy. In the process of automatic glioma segmentation, different parts of the glioma are
+      characterized as solid (active) tumor, necrosis and peri-tumoral edema .
+
+      Automatic segmentation methods utilize artificial intelligence and machine learning
+      techniques for extraction of information from multi-sequence MRI including, basically, T1W,
+      Gadolinium enhanced T1W, T2W and FLAIR sequences .
+
+      Appropriate assessment of the extent of tumor resection plays an important role in the
+      prognosis of glioma, since maximizing the extent of resection influences survival in these
+      patients. Complete resection of enhancing tumor, defined as the removal of the final 1-2% of
+      the tumor, seems to provide the most benefit in terms of patient's survival . Automatic
+      segmentation could lead to better diagnosis and proper treatment planning through accurate
+      tumor localization and classification .
+    
+  

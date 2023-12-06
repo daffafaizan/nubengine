@@ -1,0 +1,98 @@
+
+    
+      RATIONALE: In Africa, up to a 50-75% of HIV-infected, adults fail to initiate (FTI) ART or
+      encounter delays of months even after eligibility through CD4+ T-cell testing or clinical
+      criteria are established. Recent randomized trials including ACTG Protocol 5164, ACTG 5221,
+      CAMELIA and SAPIT have demonstrated that delays of even weeks in ART initiation increases
+      mortality among patients presenting with active opportunistic infections. Even among those
+      without active infections, mortality among untreated persons with a CD4 < 350 approaches
+      15/100 person-years - a large proportion of which should be avoidable in patients who have
+      presented to care. New dissemination and implementation strategies that are generalizable
+      across resource-limited settings are needed to address FTI and make the public health
+      approach more effective. The overall goal of the multi-component START strategy is to
+      initiate the greatest number of eligible patients in the shortest amount of time possible,
+      while maintaining safety, efficacy and cost effectiveness.
+
+      HYPOTHESIS: The START intervention, a combined intervention using provider education, novel
+      technology and reinforcing feedback, will increase the rapidity and completeness of ART
+      initiation.
+
+      INTERVENTION: START is clinic-level (not individual-patient) intervention to catalyze the
+      process of ART initiation among HIV-infected adults who meet CD4-based criteria for
+      combination ART (e.g., adults with a CD4 T cell level < 350/ul). The three START components
+      are: (1) real-time point-of-care CD4 testing using the Alere PIMA platform to ascertain
+      treatment eligibility in real time at first presentation to care, (2) targeted knowledge
+      transfer (i.e., dissemination) of recent scientific evidence regarding effects rapid ART
+      initiation on survival to front line health care workers; and 3) feedback and reporting to
+      clinic and providers. There three components represent empirically validated steps in the
+      PRECEED implementation model.
+
+      STUDY DESIGN: A cluster-randomized, step-wedge trail of 20 clinics operated by the Makerere
+      Joint AIDS Program. Four clinic sites will be randomly assigned to the START at 6-month
+      intervals between month six and 24 during the three-year trial.
+
+      PRIMARY OBJECTIVE
+
+      1. Evaluate the programmatic change of START on the cumulative incidence of ART initiation 14
+      days after first clinical eligibility for ART in treatment eligible HIV-infected patients
+      receiving care under routine program conditions in a large, multi-site, HIV care program in
+      Uganda.
+
+      SECONDARY OBJECTIVES
+
+        1. Evaluate the effect of START on the incidence of mortality in treatment-eligible,
+           HIV-infected patients.
+
+        2. Evaluate the effect of START on plasma HIV RNA levels one year after treatment
+           eligibility in HIV-infected patients presenting to care in a multi-site, HIV care
+           program.
+
+        3. Evaluate the effect of START on the incidence of vertical transmission in all
+           treatment-eligible, HIV-infected women.
+
+        4. Evaluate the effect of START on retention among ART-eligible, HIV-infected patients in
+           the study sites.
+
+        5. To assess the cost-effectiveness of the START intervention.
+
+        6. To evaluate adaptation of START intervention into clinical care through qualitative
+           analysis of counseling interactions and limited interviews with counselors and patients
+           regarding their experience of counseling and identification of content of current
+           counseling activities and how this changes over time.
+
+      OUTCOMES: The primary outcome of the study is ART initiation. Secondary outcomes are
+      all-cause mortality, plasma HIV RNA at one year after clinic presentation, vertical
+      transmission events and cost-effectiveness measures.
+
+      ANALYTIC PLAN:
+
+      Primary analysis for primary outcome:
+
+      We will treat the outcome as binary, in which we consider patients as either initiating ARV
+      by 14 days or not. In other words, the outcome of ART start within 14 days or less is met if
+      the start is by 14 days inclusive (<=14 days), otherwise the outcome is not met. Patients
+      with less than 14 days of observation time before cross-over or end of study database closure
+      will not be analyzed. This means that even if a patient initiates ART but has less than 14
+      days of possible observation time, that event will not be counted. Also, deaths prior to ARV
+      initiation are considered non-initiations. The analysis will use a mixed effect logistic
+      regression model (meglm in Stata 14.0) with a Normal random effect for site and a fixed
+      effect for intervention. Marginal proportions will under intervention and control be
+      calculated using the "margins" command in Stata. We will represent the effect as a risk ratio
+      of marginal proportions.
+
+      Secondary sensitivity analyses for primary outcome
+
+        1. We will adjust the primary analysis for calendar time specified as a restricted cubic
+           spline.
+
+        2. We will restrict analyses to the incidently eligible population.
+
+        3. We will perform an analysis including all observation time censoring those with less
+           than 14 days of observation due to database closure or cross-over.
+
+        4. We will carry out an analysis in which we estimate the effect of crossing into the
+           intervention condition among patients who are eligible but who had not started ART at
+           the time clinics changed from control to intervention through introduction of a
+           time-varying covariate representing cross over date in a multivariable regression model.
+    
+  

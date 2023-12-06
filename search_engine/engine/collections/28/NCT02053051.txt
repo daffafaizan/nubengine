@@ -1,0 +1,26 @@
+
+    
+      The Diabetes Technology team at Imperial College have developed a novel advanced bolus
+      calculator. The complete integrated system consists of a commercially available smartphone
+      that holds the novel advanced algorithm. The system requires regular updates of cases derived
+      from retrospective blinded continuous glucose monitoring data and for this a commercially
+      available glucose sensor will be used. Each new case includes information about the problem
+      (e.g. capillary blood glucose, meal information and physical exercise), solution (recommended
+      insulin dose) and outcome (blood glucose following a meal). The novel decision support
+      algorithm is based on case-based reasoning (CBR). CBR is an artificial intelligence technique
+      that tries to solve newly encountered problems by applying the solutions learned from solved
+      problems encountered in the past.
+
+      The end-product is therefore a subject specific insulin bolus calculator that continues to
+      improve with time. The project utilises commercially available glucose sensors and
+      smartphones (iPhone), integrated with a novel algorithm for insulin bolus calculation. The
+      aim of the ABC4D is to minimise high and low glucose excursions which are associated with the
+      complications of diabetes including blindness, kidney failure, nerve damage and
+      cardiovascular disease.
+
+      The clinical study has been designed to incrementally assess the device's ability to manage
+      meal time insulin requirements at breakfast and lunch in a controlled supervised clinical
+      environment over 8 hours (phase 1), followed by its use in the home environment over a 6 week
+      period (phase 2) and finally over a 6 month period (phase 3).
+    
+  

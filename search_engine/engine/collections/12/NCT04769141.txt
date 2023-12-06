@@ -1,0 +1,81 @@
+
+    
+      The aim of this study is demonstrate that artificial intelligence guided treatment in chronic
+      disease of hypertension and type 2 diabetes mellitus will yield actionable medication dosing
+      optimization.
+
+      Study Objectives
+
+        1. Artificial intelligence (CURATE.AI) pilot deployment using prospective data in patients
+           with hypertension and type 2 diabetes mellitus.
+
+        2. Artificial intelligence (CURATE.AI) for behavioural assessment and compliance prediction
+           to disease management programme in patients with hypertension and type 2 diabetes
+           mellitus.
+
+      Methods and Analysis Design and setting
+
+      This prospective cohort feasibility study will evaluate the blood pressure (n=20) and
+      glycaemic (n=20) control of patients using the CURATE.AI platform. Participants will be
+      recruited for a period of 4 months from the day of baseline visit and followed up for up to 4
+      clinic visits.
+
+      Recruitment Participants will be recruited from the study site, Alexandra Hospital, Singapore
+      during their routine clinic visits. The doctor will identify individuals who meet the
+      inclusion criteria and the research team will share further details regarding the study
+      including the inclusion/ exclusion criteria that is presented below.
+
+      Interested individuals who meet the eligibility criteria will be required to sign the
+      Informed Consent From prior to any study activity and a baseline visit will be scheduled.
+
+      Inclusion criteria
+
+        -  Adult patients (≥ 21years) with T2DM or hypertension
+
+        -  Expected to be followed up in Alexandra Hospital for the next 4-months
+
+        -  Signed informed consent form
+
+      Exclusion criteria
+
+        -  Patients with cognitive impairment
+
+        -  Patients with active cancer undergoing chemotherapy
+
+        -  Patients on haemodialysis or peritoneal dialysis (which can cause rapid fluctuation of
+           BP and blood sugar, respectively)
+
+        -  Pregnant patients
+
+        -  Patients whose medications for T2DM and hypertension are changed simultaneously during
+           the first clinic visit
+
+        -  Serious concomitant disorders that would compromise the safety of the patient or
+           compromise the patient's ability to complete the study, at the discretion of the
+           investigator.
+
+      Study procedures The CURATE.AI correlation requires three data-points to calculate the
+      initial drug dose. Ongoing readings provide further data-points for dose modulation.
+
+      Once a patient with hypertension or T2DM is identified and consented, a BP or blood sugar
+      will be recorded (1st data-point) and baseline assessment performed
+
+      Following any change of hypertension (or T2DM) medications, a 24-hour ambulatory BP (or
+      continuous glucose monitoring) will be done during the 7-15 days after baseline visit
+      (data-point 2 or data-point 3 if retrospective data is available). Data from these recordings
+      will be used to titrate medications, if necessary, in the follow-up visits.
+
+      One month after baseline the patient will return to the clinic for follow-up (data-point 3 or
+      data point 4 if retrospective data is available) and dose adjustment, if required.
+
+      Dosing decisions at this point and going forward will be made by CURATE.AI and verified by
+      the clinician. If dose adjustment is required, then the patient will repeat the home
+      monitoring (24-hour ambulatory BP or continuous glucose monitoring). If dose adjustment is
+      not needed the patient will undertake no home monitoring. Either way each patient will return
+      one month later for clinic follow-up (clinic visit 2). This monthly cycle is repeated until
+      each patient has reached 4-months follow-up.
+
+      At the final clinic visit (4-months after baseline) the baseline assessments are repeated. At
+      this point patients will also be approached to complete a patient experience survey.
+    
+  

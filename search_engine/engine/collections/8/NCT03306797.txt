@@ -1,0 +1,72 @@
+
+    
+      Introduction:
+
+      Every year in Italy occur over than 200.000 new stroke cases. The virtual and augmented
+      reality offers a valid support to the rehabilitation program by providing objectives
+      parameters for the patient evaluation, accelerating the motor recovery process and enhancing
+      the motor performance after the discharge. This study uses a specific hand tracking sensor
+      (Leap Motion Controller) to catch the movements of the arm combined with proper pre-defined
+      musical patterns (sonification) in a neurologic music therapy perspective.
+
+      In addition to its use in relational contexts, in fact, music therapy is widely used in the
+      field of rehabilitation, and in particular in the neuromotor rehabilitation, due to the
+      impact of the sound, as well as on paralimbic and limbic areas, the areas of the brain
+      involved in the movements (motor cortex, supplementary motor area, cerebellum, basal ganglia,
+      etc.).
+
+      Recent studies uses sonification for the rehabilitation of the upper limbs assuming a
+      replacement of the proprioceptive aspects damaged by the disease thanks to the audio-motor
+      feedback. This study, furthermore, exploits the specificities of the Leap Motion Controller
+      and the peculiarities of the sound stimuli that accompany the arm movement without requiring
+      cognitive tasks.
+
+      Objectives:
+
+        -  To verify through a randomized controlled trial and a suitable motor assessment the
+           efficacy of the rehabilitation of the hand in patients with stroke using the
+           "sonification" technique
+
+        -  To verify whether the "sonification" technique reduces the fatigue and the pain
+           perceived during rehabilitation
+
+        -  Assess the impact of "sonification" technique on patients quality of life
+
+      Materials and Methods:
+
+      In this randomized controlled trial 66 patients with stroke will be recruited and allocated
+      in 2 groups. The control group will be undergone to a 35 minutes standard daily
+      rehabilitation treatment lasting 4 weeks. The experimental group will be undergone to an
+      analogue treatment based on 15 minutes of standard rehabilitation and 20 minutes of exercises
+      with sonification. Randomisation will be centralized for the four Units involved in the
+      study.
+
+      The intervention will be assessed in blind at the baseline (T0), at the mid-treatment period
+      (T1 = 2 weeks), at the end of the treatment (T2 = 4 weeks), and at a follow-up point (T3 = 8
+      weeks).
+
+      The following assessment tools will be used:
+
+        -  Fugl-Meyer Motor Assessment Scale
+
+        -  Box and Block Test
+
+        -  Modified Ashworth Scale
+
+        -  Visual Analogue Scale (VAS)
+
+        -  Numerical Pain Rating Scale
+
+        -  McGill Quality of Life
+
+      At T0, T1, T2 and T3 some motion parameters will be recorded and monitored by the Leap Motion
+      Controller to evaluate possible changes in the movements execution.
+
+      Statistics:
+
+      The Intention-To-Treat (ITT) population will be considered for the analysis. An unpaired
+      Student's t test on the pre (T0)-post treatment (T2) differences will be used to assess the
+      primary endpoint. Longitudinal trends over time will be assessed through repeated measures
+      analysis of variance. Other analyses will be available in the statistical analysis plan.
+    
+  

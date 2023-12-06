@@ -1,0 +1,156 @@
+
+    
+      Patients who have been under mechanical ventilation for 48 hours are invited for
+      participation in this study. Once participants are identified and his/her legal
+      representative has decided to participate through an informed consent, subjects are randomly
+      assigned to the experimental or conventional group.
+
+      Data collection begins with registering individual information into a data collection form
+      that has been designed for the study; muscle strength is measured as Maximum Inspiratory
+      Pressure (MIP). Then, patients are assigned either to experimental or group control using
+      opaque sealed envelopes. Stratified randomization is performed, using SEPSIS status as
+      strata, and within each category randomization block size is 4 and 6 respectively. Once
+      sepsis status has been established, green envelopes are opened for patients with sepsis, and
+      blue envelopes are opened for patients without sepsis. Finally intervention is performed
+      according to group assignment.
+
+      Interventions
+
+      Conventional Therapy Group Control group receives conventional intervention of
+      Cardiopulmonary Physical Therapy which has been established by institutional protocols, and
+      consists of Cardiopulmonary Physical Therapy every 6 hours, physical therapy and mechanical
+      ventilation management
+
+      Measuring Respiratory Muscle Strength
+
+      Respiratory muscle strength is measured by Maximum inspiratory pressure (MIP) following
+      American Thoracic Society (ATS) and European Respiratory Society (ERS). protocols. MIP
+      measures are performed in both groups, experimental and control. To measure MIP, we ask the
+      patient to do a maximum inspiration and then hold it for 5 seconds; this inspiration begins
+      from functional residual capacity (FRC). We will perform 3 measures with each patient and
+      register the highest value obtained, using a Manuvacuometer for this measure.
+
+      Experimental Group
+
+      The experimental group will receive conventional treatment plus a respiratory muscle training
+      protocol. Respiratory muscle training utilizes a Threshold device (IMT from Respironics
+      Inc;Murrysville, USA), this device has been validated both in healthy subjects and in chronic
+      obstructive pulmonary disease (COPD) patients
+
+      Study Setting
+
+      This study is being conducted at the Adult Intensive Care Unit in Valle del Lili Foundation,
+      a private health institution level IV, located in the south of Cali, this is a referral
+      centre for the southwest of Colombia.
+
+      Data Collection
+
+      Instrument design and pilot study
+
+      The researchers designed data collection tool to register data from clinical records and
+      intervention, this tool is being used for both groups. The data collection tool includes
+      demographic, clinical and intervention variables.
+
+      A pilot trial in a group of patients with similar characteristics to the study sample was
+      conducted and then some aspects of the data collection tool and measuring protocols were
+      adjusted
+
+      Research team and field personnel training
+
+      Four physical therapy specialists who had more than 4 years of experience in intensive care
+      were recruited as monitors and data collectors.
+
+      In order to standardise and to determine validity of MIP measuring protocol, principal
+      researcher conducted a training session with the physical therapists and then intra and
+      inter-rater validity in 30 healthy subjects was established.
+
+      The primary source of information was the data collection tool, which was filed during
+      intervention with each subject. The secondary source of information is the electronic medical
+      record, recorded data are reliable because they are a basis for decision making in critically
+      ill patients.
+
+      Patient recruiting and monitoring is performed by four physical therapists mentioned before.
+      Data collection occurs from Monday to Sunday between 8:00 a.m. to 6:00 pm. Main researcher is
+      not involved in data collection or intervention.
+
+      The variables obtained on patient admission to the study are: type of intervention, age,
+      gender, medical history, diagnosis at admission, Severity Index (Apache II), hours of
+      mechanical ventilation, weaning hours, cumulative dose of sedative received, cumulative dose
+      of analgesics received, cumulative dose of relaxant received, cumulative dose of steroids,
+      socioeconomic status and educational level.
+
+      The variable obtained during follow-up is: respiratory muscle strength.
+
+      The variables obtained at the end of follow-up are: Number of sessions of respiratory muscle
+      training received, mechanical ventilation time (in hours), total hours of weaning, cumulative
+      dose of sedatives, cumulative dose of pain medication received, cumulative dose of steroids,
+      received physical therapy, number of physical therapy sessions, pulmonary rehabilitation
+      received, number of pulmonary rehabilitation sessions, Non Invasive Ventilation requirement,
+      pulmonary rehabilitation number of sessions, death, reintubation requirement, reintubation
+      date, number of extubated hours because of reintubation, tracheotomy, tracheotomy date,
+      septic shock, date of septic shock, death, date of death, decision not to continue in the
+      study (date).
+
+      Data Quality
+
+      A monthly checking of data collection tools is performed by the principal investigator, using
+      a checklist and comparing data recorded in the tool with medical records of subjects, this
+      procedure is done before transcribing information on to the study database. Additionally,
+      every data collection tool is reviewed using a checklist that includes three quality
+      indicators: days between follow-up completion and closing of tool, number of empty boxes,
+      number of diagnoses that are inconsistent; this procedure is also a responsibility for the
+      principal investigator. Monthly meetings with the study team are held to talk about recording
+      faults and how to improve quality of data collection and registration.
+
+      Database design and management
+
+      Once the data in the data collection tools have been checked, information is registered in an
+      Epi Info database and then this will be exported to STATA 12 for analysis. Data registering
+      in the Epi Info database will be done after every data collection tool has been closed and
+      checked by the main researcher. Data registering will be performed by a person hired and
+      trained for these procedures. Database management and analysis is performed by the principal
+      researcher.
+
+      Data Analysis Plan
+
+      Patient recruitment and following-up are described using a flowchart designed according to
+      CONSORT statement 2010. A preliminary exploratory data analysis will be conducted to evaluate
+      data performance and basic assumptions required to implement statistical tests (normality,
+      linearity and homoscedasticity). This analysis will also allow us to identify errors and
+      biases in data collected, as well as outliers and missing data.
+
+      Sociodemographic and clinical characteristics of patients at study entry will be analysed
+      descriptively according to measurement level of every variable using central tendency,
+      dispersion measures, frequency tables and 95% confidence intervals. An analysis of clinical
+      and sociodemographic characteristics of eligible patients who met inclusion criteria but were
+      not included in the study will also be performed, as well as the reasons for not being
+      included; this analysis will allow us to identify selection bias.
+
+      Finally univariate and multivariate analysis will be performed according to study objectives.
+      Analysis will be performed on an intention to treat basis for all patients.
+
+      Respiratory Muscle Strength (MIP): Presuming that there is data normality, at univariate
+      analysis, a difference between final MIP means of experimental group and control group will
+      be analysed using a t-student. Differences in MIP means within every group will be analysed
+      using linear regression. If normality, error independency and homoscedasticity are not met,
+      we will consider data transformation for MIP variables. Once linear regression is performed a
+      diagnostic test will be done to evaluate if the model represents or mimic observed data. In
+      order to control for potential confusing factor an adjustment of variables will be done, we
+      are considering as confusing factors: i)Cumulative medicament doses received before
+      intervention, ii)Cumulative medicament doses received, iii) Time in ventilation mode before
+      intervention, iv)Time in every ventilatory mode during intervention, v) Admission diagnoses.
+      Additionally we will evaluate effect modification between variables mentioned before.
+
+      Ventilation time and weaning time: we will perform univariate analysis of total weaning time
+      and total ventilation time between experimental and control group using a survival analysis
+      (Kaplan-Meyer). We also intend to do multivariate analysis of total weaning time and total
+      ventilation time using Cox regression adjusting potential confusing factors that we
+      considered with other variables. We will verify Cox model assumptions about hazard
+      proportionality during following-up. Need for reintubation: We are doing univariate analysis
+      of need for reintubation using a comparison of proportions with Chi-square or Fischer exact
+      test. Need for reintubation Relative Risk (RR) will also be determined for patients in both
+      groups (Control and Experimental). We are doing multivariate analysis for the need for
+      reintubation with logistic regression adjusting for potential confusing factors mentioned
+      before.
+    
+  

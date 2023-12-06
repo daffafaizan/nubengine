@@ -1,0 +1,39 @@
+
+    
+      Background and Rationale:
+
+      Antidepressants such as serotonin-selective reuptake inhibitors (SSRIs) are frequently
+      prescribed to children to manage major depressive and anxiety disorders. Although SSRIs are
+      thought to be generally effective and well-tolerated in children, 10%- 20% of children
+      treated with SSRIs experience behavioral disinhibition (i.e. activation, hyperactivity,
+      impulsivity, insomnia) that can lead to devastating consequences (e.g. suicidal impulses,
+      violence). There are currently no tools available to assist healthcare providers in
+      predicting which children will experience behavioral disinhibition as a result of SSRI
+      treatment.
+
+      Research Question:
+
+      Do children who experience SSRI-induced behavioral disinhibition (SIBD) have a distinct
+      pharmacogenetic profile relative to children who do not have these adverse experiences?
+
+      Methodology:
+
+      Using a retrospective cohort study design, 120 SSRI-treated children diagnose with major
+      depression, anxiety and OCD, aged 6 to 17 years of aged will be recruited from Child and
+      Adolescent Addiction, Mental Health & Psychiatry (CAAMHP) Program in Calgary. Children with a
+      current or past history of SSRI use will be identified via recruitment advertisements and by
+      CAAMHP treatment teams operating within community clinics as well as inpatient units within
+      the Alberta Children's Hospital and Foothills Medical Centre.
+
+      Clinical data will be collected from the participant's medical record as well as information
+      provided by the child's healthcare provider and caretaker using a customized data collection
+      form. Saliva will be collected, processed and genotyped in accordance with standard
+      procedures. Participants and their parents will complete self-report measures to gather
+      information regarding demographics, SIBD, and other adverse side effects and drug reactions.
+
+      Using machine learning (i.e. the construction of algorithms that can learn from and make
+      predictions on data) we will identify and validate a panel of genetic variants that could be
+      used to pre-emptively detect children at-risk for developing SSRI-induced behavioral
+      disinhibition.
+    
+  

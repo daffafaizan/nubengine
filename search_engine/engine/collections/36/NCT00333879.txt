@@ -1,0 +1,52 @@
+
+    
+      This is a two-year proof-of-concept study to evaluate a new Virtual Reality (VR)
+      "holographic" sound system for use as an audiological Orientation and Mobility (O&M) training
+      tool. This new system avoids the limitations of other technologies (i.e., binaural recordings
+      and existing VR sound systems) that have been employed with limited success for audiological
+      training. Four advancements in the state-of-the-art represented by this new holographic
+      system provide new promise for audiological O&M training. First, unlike binaural systems, the
+      new system allows the person to move their head in a natural fashion to localize sounds.
+      Second, a spherical microphone array is used to record sound environments so as to retain the
+      direction from which each ambient sound originated. When these recorded sound environments
+      are later presented through head-tracking headphones in a VR environment, real-time software
+      maintains the directionality of the sound so that it remains true no matter how the person
+      moves or turns their head. Third, this new system models the actual physical acoustic
+      structure of each person's head and ears to present sounds as they would be heard by that
+      particular person in the recorded setting. Fourth, this system uses software algorithms to
+      isolate specific sounds (i.e., of a moving vehicle) so that during virtual playback, these
+      sounds can be inserted into the virtual sound field at will and in a customizable fashion to
+      create truly unique and flexible virtual sound presentations.
+
+      There are two study hypotheses. First, when using sounds to negotiate traffic intersections,
+      skills employed by experienced travelers in real environments will readily transfer to the
+      proposed VR environment to the extent that audiological tasks performed in real environments
+      are just as easily performed in the VR environment. Second, when the VR environment is
+      enhanced to emphasize critical sound cues and eliminate distracting or confusing noises and
+      sounds, performance by skilled travelers in the VR environment will be significantly better
+      than in the actual environment.
+
+      The objectives are to: (1) adapt the existing spherical microphone array and digital
+      recording software algorithms to best suit the capture of critical intersection sounds used
+      for intersection negotiations; (2) develop software algorithms to deconstruct intersection
+      sounds, isolating each sound for the VR construction of specific environments of varying
+      complexity; (3) determine the level of sound detail necessary for negotiating intersections
+      successfully; (4) expand the existing system to obtain the desired level of detail; (5)
+      develop software to provide the ability to control the relative emphasis of a variety of
+      sound elements being presented so as to simplify the auditory task; and (6) employ study
+      participants to compare performance in the VR environment with outdoor performance.
+
+      Once validated, this system should be able to: (1) leverage instructor time by providing
+      students with an effective means of practicing audiological skills on their own, (2) provide
+      instructors with a means of introducing concepts in a graduated learning sequence that is not
+      dependent on the happenstance availability of specific sounds and conditions found in real
+      environments, and (3) provide audiological training for environments not located in the
+      vicinity of the training site, but which do represent the veteran's home community.
+
+      Research will be conducted in collaboration with investigators in the Perceptual Interfaces
+      and Reality Laboratory (PIRL) at the University of Maryland who initially conceived and
+      developed this holographic VR sound system.
+
+      COMPARISONS: Outdoor O&M training exclusively
+    
+  

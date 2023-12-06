@@ -1,0 +1,436 @@
+
+    
+      1. INTRODUCTION
+
+           1.1 Background of ARDS due to COVID-19
+
+           The COVID-19 pandemic has led to an unanticipated increase of the number of patients
+           with ARDS admitted to the ICU, contributing to high morbidity and mortality, as well as
+           an unprecedented consumption of medical resources. COVID-19 is caused by a coronavirus
+           (scientific name: SARS-CoV-2), a non-segmented, positive sense RNA virus. Although most
+           SARS-CoV-2 infections have an asymptomatic or mild course of disease (80%), COVID-19 has
+           a detrimental course in a minority of patients (20%), particularly in older patients or
+           patients with pulmonary or cardiovascular comorbidities. In these cases, COVID-19
+           infection is characterized by damage to the alveolocapillary wall and extensive
+           pulmonary capillary leak. The alveolar flooding results in impairment of oxygen
+           diffusion and severe hypoxemic respiratory failure. In Chinese registries these cases of
+           COVID-19 disease were classified as either 'severe' in case of low oxygen saturation or
+           'critical' when invasive mechanical ventilation was needed or multi-organ failure
+           occurred. Radiological imaging demonstrates extensive ground glass opacities, consistent
+           with alveolar oedema.
+
+           Radiological as well as pathological examination demonstrated that critical COVID-19
+           infections closely mimic Acute Respiratory Distress Syndrome (ARDS), a condition
+           characterized by damage to the alveolo-capillary membrane by various insults. Mortality
+           in ICU treated 'critical' COVID-19 patients is comparable to mortality in ARDS patients.
+           Of the patients admitted with COVID-19 infection to hospital, 17-35% develop ARDS,
+           requiring ICU admission or even invasive mechanical ventilation (29-91%). According to
+           recent reviews, mortality may mount up to 15-20% (hospitalized patients) to even 40% in
+           ICU patients. For these reasons, the current COVID-19 pandemic has resulted in a huge
+           increase in the incidence of ARDS with a homogenous aetiology i.e., SARS-CoV2 infection.
+
+           According to the Berlin definition, ARDS is '…an acute diffuse, inflammatory lung
+           injury, leading to increased pulmonary vascular permeability, increased lung weight, and
+           loss of aerated lung tissue…[with] hypoxemia and bilateral radiographic opacities,
+           associated with increased venous admixture, increased physiological dead space and
+           decreased lung compliance'. It is characterised by an acute onset, with bilateral
+           infiltrates on chest imaging due to pulmonary oedema, and with severe hypoxemia despite
+           mechanical ventilation. Pathophysiologically, ARDS results from an overwhelming
+           inflammatory process involving alveolar epithelial and vascular endothelial injury in
+           the lung which can be infective and non-infective in origin. The early phase of ARDS is
+           characterized by alveolar flooding with protein-rich fluid due to increased vascular
+           permeability. Pulmonary oedema then leads to the clinical manifestation of poor lung
+           compliance, severe hypoxaemia, and bilateral inﬁltrates on chest radiograph. It also
+           leads to alveolar epithelial injury of type I cells, which contributes further to the
+           pulmonary oedema. Despite decades of efforts, there is currently no registered drug to
+           target pulmonary vascular permeability in ARDS.
+
+           Current treatment of patients with 'critical' COVID-19 consists of supportive measures,
+           including oxygen supplementation, diuretics and (non)-invasive mechanical ventilation.
+           Current guidelines prescribe dexamethasone and remdesivir for patients with hypoxemia.
+           Although remdesivir and dexamethasone target key pathophysiological processes of
+           COVID-19 like viral replication and inflammatory damage, respectively, there is
+           currently no proven benefit of pharmacological intervention to reverse pulmonary
+           vascular leak and oedema.
+
+           1.2 Rationale for intervention Earlier studies demonstrate that the anti-leukemic drug
+           imatinib effectively and consistently protects against pulmonary vascular leak and
+           alveolar oedema during inflammatory stimuli. In 2008, a patient with acute respiratory
+           failure due to widespread pulmonary oedema was treated with imatinib mesylate for
+           another indication than the acute respiratory failure itself. However, initiation of the
+           imatinib treatment (200mg/day) was followed by a surprisingly fast reversal of
+           respiratory failure. The reversal of respiratory failure was paralleled by decrease in
+           pulmonary oedema on radiological imaging, resulting in the hypothesis that imatinib
+           directly protects the pulmonary endothelial barrier. This unexpected effect of imatinib
+           was published in 2008. The hypothesis was tested in an extensive preclinical study,
+           evaluating the effect of imatinib on endothelial barrier function in several conditions.
+           These studies demonstrated that imatinib protects the endothelial barrier under
+           inflammatory conditions, both in in vitro models using several types of endothelial
+           cells and various inflammatory mediators, and in vivo, using various animal models for
+           vascular leak. The protective effects of imatinib were confirmed by several studies by
+           independent research groups.
+
+           After the publication of the first case report and the preclinical evidence for a
+           protective effect of imatinib on the endothelial barrier, imatinib (300mg/day) was
+           associated with clinical improvement of acute respiratory failure in 1 patient in an
+           independent hospital. In addition, imatinib has been used in a compassionate use setting
+           in 2 additional patients in the investigators' hospital - in both cases initiation of
+           imatinib therapy (200-400mg/day) was followed by reversal of vascular leak and/or
+           respiratory failure. Although these cases should be interpreted with caution, they
+           consistently suggest a beneficial effect of imatinib on pulmonary vascular leak and/or
+           respiratory failure. To date, one case report using oral imatinib to successfully treat
+           COVID-19 pneumonia has been published. The protective effects of imatinib at the
+           endothelial level 2-10μM were found at concentrations that are comparable to plasma
+           levels found in patients treated with imatinib for CML (2-5μM), indicating that regular
+           dosing schemes of imatinib are sufficient to induce its protective effect on the
+           endothelial barrier. Indeed, preliminary data from the COUNTER-COVID study, which
+           evaluates the effect of oral imatinib mesylate in hospitalized patients with COVID-19,
+           demonstrate that dosing of 400mg/day orally is sufficient to reach target levels
+           described above.
+
+           Based on the observations that the optimal protective effect of imatinib on the
+           endothelial barrier ranges between 2-10μM, together with previous pharmacokinetic
+           studies after intravenous imatinib, the investigators propose a dosing scheme of 200mg
+           b.i.d. This dosing scheme was shown to provide plasma levels that correspond to the
+           2-10μM range found in prior in vitro studies. The current study will evaluate the effect
+           of intravenous imatinib on pulmonary oedema as measured by EVLWi. Several arguments
+           drive the use of intravenous imatinib in the current study: 1) since most ICU patients
+           are intubated, oral administration is suboptimal. 2) Intestinal uptake in mechanically
+           ventilated ICU patients is often impaired due to intestinal oedema. 3) by intravenous
+           administration, imatinib directly reaches the target organ, i.e., the endothelium,
+           requiring lower dosing and fewer side-effects. A detailed analysis on dosing and route
+           of administration is provided in the Investigators Brochure.
+
+           Concerning safety, imatinib was shown to have mild or no effects on the immune response.
+           Although developed to target leukemic cells, imatinib hardly affects healthy leucocytes
+           and a normal lymphocytic response was observed in lymphocytes from patients treated with
+           imatinib. Of particular relevance for the current protocol, it was shown that treatment
+           with imatinib does not affect the control of primary viral infections. The investigators
+           demonstrated in a healthy volunteer model of lung injury that imatinib did not affect
+           the immune response to LPS inhalation in healthy human subjects. Finally, the first
+           interim analysis of the COUNTER-COVID study, which tests oral imatinib in COVID-19
+           patients admitted to hospital with hypoxemia, did not reveal safety concerns after
+           inclusion of the first 140 patients.
+
+           Altogether, substantial evidence indicates that imatinib is an ideal candidate for
+           treatment of the pulmonary complications of SARS-CoV2 like ARDS, since it protects
+           against vascular leak and alveolar oedema thereby reducing hypoxemic respiratory
+           failure. The current study seeks to directly measure the effect of intravenous imatinib
+           on pulmonary vascular leak in COVID-19 ARDS. COVID-19 offers a homogenous cause of ARDS,
+           however, the available evidence indicates that ARDS due to other causes will respond
+           similarly to imatinib. Therefore, the identification of a compound that reverses
+           pulmonary vascular leak may benefit well beyond COVID-19 ARDS and provide a first
+           treatment for other forms of ARDS as well.
+
+        2. OBJECTIVES
+
+           Primary:
+
+             -  Efficacy: To evaluate the effect of intravenous imatinib compared to standard of
+                care on limiting development of extravascular lung water in invasively
+                mechanically-ventilated subjects with COVID-19-related ARDS.
+
+           Secondary:
+
+             -  Efficacy: To evaluate the effect of intravenous imatinib compared to standard of
+                care on patient outcomes in mechanically-ventilated subjects with COVID-19-related
+                ARDS.
+
+             -  Safety: To evaluate the safety and tolerability of intravenous imatinib compared to
+                standard of care in mechanically-ventilated subjects with COVID-19-related ARDS
+
+             -  Pharmacokinetics: To determine imatinib pharmacokinetics in subjects with
+                COVID-19-related ARDS.
+
+        3. STUDY DESIGN This is a randomised, double-blind, parallel-group, placebo-controlled,
+           multi-centre clinical study comparing intravenous imatinib mesylate with placebo in
+           invasively mechanically-ventilated subjects with COVID-19-related ARDS. The study will
+           enrol 90 subjects (45 subjects/treatment arm; see sample size calculation). In this
+           two-arm study, eligible subjects will be randomly allocated to receive imatinib mesylate
+           or placebo in a 1:1 ratio. Importantly, the inclusion will be extended to all-cause ARDS
+           if recruitment drops to below a predefined threshold (see inclusion criteria). Besides
+           the randomisation to treatment of placebo, all subjects will be cared for using local
+           treatment protocols as standard of care. At each of the participating centres, standard
+           treatment protocols may include: COVID-19-specific medication (e.g. remdesivir and
+           dexamethasone), low tidal volume ventilation, conservative fluid management and prone
+           positioning in case of persistent low PaO2/FiO2.
+
+           For eligibility criteria and outcome measures, see separate section.
+
+        4. SAMPLE SIZE CALCULATION The number of subjects scheduled for inclusion in the study is
+           90, including 45 subjects in the placebo arm and 45 subjects in the imatinib mesylate
+           arm.
+
+           Sample size calculations were done with the formula: zα/2 - zπ = (n/2)1/2 * (μ1 - μ2)/σ,
+           in which zα/2-zπ = 2,8 (α = 5% en π = 80%). The change (Δ) in EVLWi between Day 0 and
+           Day 4 is the primary outcome. The investigators expect the baseline EVLWi to be around
+           17ml/kg, as previously described for patients with moderate-severe ARDS. In the placebo
+           group the ΔEVLW Day 0 and Day 4 is expected to be 0.5 (μ1), based on previously
+           literature from collaborating groups; in the imatinib group the ΔEVLWi is expected to be
+           -4 (μ2). This is considered a clinically relevant difference as this difference was
+           found to independently predict ARDS mortality in another clinical study. The expected
+           treatment effect is based on the imatinib effect observed in preclinical data: 25%
+           reduction in vascular leak. The sigma (σ) for ΔEVLWi is set at 7.0, based on previous
+           EVLWi studies. Using the equation above, this yields 76 subjects with 38 subjects/arm.
+           Taking into account a drop-out rate of 15%, a total of 90 subjects will be recruited.
+
+        5. TREATMENT OF SUBJECTS
+
+           5.1 Investigational product/treatment Subjects will undergo 1:1 randomisation to receive
+           intravenous imatinib (200mg bid) or placebo for 7 days.
+
+           5.2 Interactions Imatinib is a substrate for CYP3A4 and P-gp. It inhibits CYP3A4, CYP2D6
+           and CYP2C9.
+
+           Most relevant interactions for the study population include:
+
+           • Strong induction of CYP3A4. The following drugs are contra-indicated for the study:
+           Carbamazepine, efavirenz, enzalutamide, phenobarbital, phenytoin, hypericum, mitotane,
+           nevirapine, primidone, rifabutin, rifampicin.
+
+             -  CYP3A4 inhibition. In general, imatinib is relatively insensitive to CYP3A4
+                inhibition, as imatinib may rely on enzymes other than CYP3A4 for its metabolism.
+                Therefore, there is no need for adjustment, but recording of the following drugs in
+                the eCRF is important: azoles.
+
+             -  Imatinib may change the concentration of other CYP3A4, CYP2D6 and CYP2C9-dependent
+                drugs, including anticoagulants, cyclosporine, simvastatin etc. All relevant
+                co-medication will be registered.
+
+        6. INVESTIGATIONAL PRODUCT
+
+           6.1 Dosage and Administration A 25ml volume of IMP will be administered over 2-hours as
+           an intravenous infusion. This corresponds to a dose of 200mg imatinib (100mg/h), or 25ml
+           placebo (12.5ml/h). Treatment will be administered twice daily (400 mg total daily
+           imatinib dose) for up to 7 days, or until patient is discharged from critical care, if
+           earlier. The first dose of IMP will occur on Day 1, as soon as possible after
+           randomisation. IMP should be administered 12h (± 2h) apart between 06:00 - 10:00 in the
+           morning and 18:00 - 22:00 in the evening. On Day 1, the first dose of IMP may be
+           administered between 04:00 and 12:00 (08:00± 4h) and the second dose between 16:00 and
+           24:00 (20:00± 4h). Patients commencing treatment after 12:00 on Day 1 should receive
+           only one dose of IMP (between 16:00 and 24:00).
+
+        7. Randomisation, blinding and treatment allocation Randomisation: Before randomisation,
+           the study physician will check all inclusion and exclusion criteria and will enters
+           these in the web-based application (Castor). Screening and placement of the PiCCO
+           catheter is performed as part of a deferred consent procedure. For subjects who meet the
+           eligibility criteria, the patient's legal representative will be asked for informed
+           consent(§11.2.2). When informed consent is provided, subjects will be randomized 1:1 to
+           receive placebo or imatinib. Randomisation will take place via Castor using variable
+           block sizes with stratification per participating centre. The pharmacist will check
+           relevant drug interactions before dispensing medication.
+
+           Blinding: Subjects, clinical staff and investigators will be blinded for study
+           medication. Blinding will be guaranteed be covering the syringes containing the IMP so
+           that the content will not be visible from the outside.
+
+           Code breaking is allowed in any of the following circumstances:
+
+           • Treatment of an individual in a medical emergency where knowledge of the treatment
+           allocation is required.
+
+           • In the event of a Suspected Unexpected Serious Adverse Reaction (SUSAR) the subject
+           will be unblinded, if this is required for treatment of the SUSAR.
+
+           • In the event that the ICU staff / researcher is accidentally exposed to study
+           medication.
+
+        8. SAFETY REPORTING
+
+           8.1 Temporary halt for reasons of subject safety In accordance to section 10, subsection
+           4, of the WMO, the sponsor may suspend the study if there are sufficient grounds that
+           continuation of the study will jeopardise subject health or safety. The sponsor will
+           notify the accredited METC without undue delay of a temporary halt including the reason
+           for such an action. The study will be suspended pending a further positive decision by
+           the accredited METC. The investigator will take care that all subjects are kept
+           informed.
+
+           8.2 AEs, SAEs and SUSARs: Due to the nature of disease, the incidence of AEs and SAEs,
+           as well as the risk of death due to the underlying condition is high (the hospital
+           mortality in ventilated ICU patients is 21%). In clinical studies conducted in patients
+           with ARDS, changes in vital parameters are frequent, including temporary changes in
+           blood pressure and gas exchange parameters, as are deviations in laboratory values and
+           ECG values.
+
+           AE Reporting:
+
+           Given the high incidence of adverse events inherent to the nature of the underlying
+           condition (i.e., ARDS), given the safety of imatinib as observed in COVID-19 pneumonitis
+           before (COUNTER-COVID study), and given the regular recording of vital signs and blood
+           and ECG parameters as safety indicators in the eCRF, the investigators propose not to
+           report AEs in a standard fashion, except for the following events:
+
+           • Pulmonary embolism, as detected on contrast enhance chest CT, not leading to
+           circulatory of pulmonary instability.
+
+           • Occurrence of infections, requiring initiation of antibiotic therapy
+
+           • Non-life-threatening infusion reactions, including but not limited to skin rash.
+
+           SAE Reporting:
+
+           Given the high incidence of adverse events inherent to the nature of the underlying
+           condition (i.e., ARDS), and given the safety of imatinib as observed in COVID-19
+           pneumonitis before (COUNTER-COVID study), the investigators propose not to report all
+           serious events as SAEs.
+
+           The following SAEs will be reported:
+
+           • Death due to any cause
+
+           • Cardiopulmonary: The need for extracorporeal membrane oxygenation; Cardiac events like
+           arrythmias requiring CPR or medical resuscitation; Thrombo-embolic events with
+           life-threatening circulatory or pulmonary instability
+
+           • Spontaneous bleeding, requiring blood transfusion or surgical intervention.
+
+           • Myocardial infarction
+
+           • Renal: the need for renal replacement therapy
+
+           • Hepatic: Liver failure (hepatic SOFA score >4)
+
+           • Haematology: Thrombocytopenia (<50^109/L), diffuse intravascular coagulation,
+           leukocytopenia (<2^109/L), anaemia (haemoglobin <4mmol/L).
+
+             -  Central Nervous System: Intracranial bleeding or ischemic stroke.
+
+             -  Life-threatening infusion reactions, requiring intensification of existing
+                intensive care treatment, including additional vasopressor, fluid support,
+                corticosteroids and antihistamines.
+
+             -  Any unexpected serious event judged as an "untoward medical occurrence".
+
+           Reporting of Suspected unexpected serious adverse reactions (SUSARs):
+
+             -  SUSARs that have arisen during this clinical trial that was assessed by the METC;
+
+             -  SUSARs that have arisen in other clinical trials of the same sponsor and with the
+                same medicinal product, and that could have consequences for the safety of the
+                subjects involved in this clinical trial that was assessed by the METC.
+
+      10. STATISTICAL ANALYSIS The statistical analysis will be performed using the program SPSS
+      version 22.0 or R. Continuous data will be tested for normal distribution using a
+      Kolmogorov-Smirnov test. In case of normal distribution, continuous data will be presented as
+      mean ± standard deviation, in case of non-normal distribution, continuous data will be
+      presented as median ± interquartile (IQR) range. Categorical data will be presented as
+      absolute number (%). The continuous variables and the categorical data will be presented
+      quantitatively in tables and in figures. Missing data will be accepted after maximal efforts
+      to retrieve data.
+
+      10.1 Primary study parameter(s) The primary endpoint is the change in extravascular lung
+      water index (ΔEVLWi) between Day 1 (baseline) and Day 4. The primary endpoint will be
+      represented mean ± standard deviation, in case of non-normal distribution, continuous data
+      will be presented as median ± interquartile (IQR) range, and tested for statistical
+      difference using a t-test or a Mann-Whitney U test in case of non-normal distribution. In
+      addition, ANCOVA analysis will be performed.
+
+      10.2 Secondary study parameter(s) For all parameters, statistical comparison will be
+      performed between placebo and imatinib group.
+
+      Plasma concentrations of imatinib at Ctrough will be described by descriptive statistics,
+      including mean, SD, minimum, maximum, and median.
+
+      11. ETHICAL CONSIDERATIONS 11.1 Regulation statement The general principles of informed
+      consent, ethics review and data management will be in line with good clinical practice (GCP).
+      The study will be conducted according to the principles of the Declaration of Helsinki (2013)
+      and in accordance with the Medical Research Involving Human Subjects Act (WMO).
+
+      11.2 Recruitment and consent 11.2.1 Recruitment Subjects will be recruited on the emergency
+      units of the AUMC, locations AMC and VUMC, and the Onze Lieve Vrouwe Gasthuis, location
+      Amsterdam Oost. Two additional centres are under consideration. With a minimum of 5 active
+      centres and an anticipated duration of the trial of 18 months, and a target number of
+      inclusions of 90 subjects, this means that 90/5=18 subjects per centre need to be enrolled,
+      which amounts to <0.25 subjects/centre/week. When considering the AMC and VUMC as
+      representative hospitals, the required rate of inclusion/centre is far below the current rate
+      of presentations/centre.
+
+      11.2.2 Deferred consent For this trial deferred consent is asked and the investigators appeal
+      to the emergency procedure for consent in medical research as stated in article 6, paragraph
+      4 of the WMO, similar to a presently running trial of ventilation in a similar patient
+      cohort, the 'REstricted versus Liberal positive end-expiratory pressure in patients without
+      Acute respiratory distress syndrome (RELAx)' - a multicenter randomized controlled trial
+      (NL60402.018.17).
+
+      Pulmonary vascular leak is a phenomenon that is observed early in the course of ARDS.
+      Previously, an early 'exudative' phase (the first 3-5 days in the course of ARDS) was
+      distinguished from a 'reorganising/proliferative' phase (Day 5 and further in the course of
+      disease). Although this distinction is formally abandoned, it is generally accepted that the
+      early course of ARDS is characterised by pulmonary vascular leak and alveolar exudates, in
+      which the pulmonary oedema is the main cause of hypoxemia. Based on preclinical and early
+      clinical data there is a reasonable chance that patients will benefit from the
+      vasculoprotective effect of imatinib, especially in the early, exudative phase. The short
+      extent of this exudative phase in time (days) indicates a limited window-of-opportunity to
+      apply therapies directed at preserving or restoring the alveolocapillary barrier. For this
+      reason, the investigators consider it of utmost importance to initiate the vasculoprotective
+      treatment with imatinib as soon as possible (i.e., within 48 hours after ICU admission), not
+      doing so would largely reduce validity of this trial. Additionally, the potential benefit
+      from the intervention (which would not be available outside of given trial) is likely highest
+      in the early phases.
+
+      Subjects admitted to the ICU with ARDS are, without exception, incompetent to give informed
+      consent. Persons who may take the role of legal representative in accordance with the WGBO
+      are: a predefined representative, husband or wife, registered partner or other life partner,
+      a parent or child, brother or sister, and incidentally a curator appointed the judge.
+      However, obtaining informed consent from a legal representative in this situation usually
+      takes much time, even by an experienced research team (see Textbox A). Reasons include the
+      absence of a legal representative within the first 48h after admission, and early after
+      admission to the ICU the legal representatives are far more concerned about the wellbeing of
+      the patient then participation in a trial.
+
+      For these reasons, the investigators opt for using deferred consent, where informed consent
+      from a legal representative must be obtained as soon as possible, but always within 48 hours
+      after intubation. While awaiting deferred consent, subjects will undergo screening and first
+      baseline measurements. A PiCCO catheter will be placed (if not already in place), and the
+      baseline EVLW and PCP measurement, as well as thoracic ultrasound in a subpopulation will be
+      performed. The placement of a central venous catheter is part of standard care in intubated
+      subjects. When deferred consent is provided the patient will continue study participation by
+      randomisation and administration of the first IMP dose. When deferred consent is not obtained
+      due to absence of a legal representative in the first 48 hours, or if a legal representative
+      denies participation within the time window of 48 hours, the patient will not be enrolled and
+      screening data will no longer be used. In that case, the PiCCO catheter will be used as
+      arterial line as part of standard care, resulting in no net additional study procedures on
+      top of standard care with the exception of the procedures needed to assess eligibility for
+      the study.
+
+      Further consent will be sought from the patient if they recover sufficiently and regain
+      decision-making capacity while in hospital.
+
+      11.2.3 No consent in subjects who die before obtaining deferred consent In case a patient
+      dies before informed consent could be obtained from the legal representative, the
+      investigators propose that the data collected during screening and at baseline will no longer
+      be used. This will be recorded as a screening failure, and the reason for failure will be
+      recorded.
+
+      11.2.4 Conclusion deferred consent Critically ill subjects in need of ventilation are,
+      without exception, incapable to give informed consent at the moment of ICU admission. Patient
+      screening, eligibility checking and placing the PICCO catheter instead of a "normal arterial
+      line" are part of the study procedures but cannot wait until informed consent is obtained
+      from a legal representative. Therefore, a deferred consent procedure is relevant for the
+      current study. IStudy medication will only be administrered after informed consent.
+
+      11.2.5 Consent procedure
+
+      The recruitment of study subjects is as follows:
+
+        1. Approach of subjects (if patient is a candidate for study participation)
+
+             1. In cases where a legal representative is present / accessible at ICU admission:
+
+                The treating physician asks the legal representative if they would consider
+                participation in a clinical trial for which they may be eligible and obtains their
+                permission, for a member of the study team to contact them
+
+             2. If their legal representative is not present / accessible at ICU admission:
+
+           The treating physician contacts the study team who initiate the deferred consent
+           procedure. During the deferred consent period, a member of the study team will regularly
+           attempt to contact the patient's legal representative to obtain consent.
+
+        2. Informed consent The investigator gives the patient information and consent statement to
+           the patient's legal representative answering any questions about the study they may have
+           and providing additional information when requested. The legal representative has at
+           least 6 hours to read and consider whether to provide consent. The informed consent form
+           is signed within 48 hours from ICU admission.
+    
+  

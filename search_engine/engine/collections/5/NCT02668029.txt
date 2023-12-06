@@ -1,0 +1,39 @@
+
+    
+      Criteria for inclusion: Patients with a diagnosis of pulmonary fibrosis of any kind, with
+      oxygen saturation >90% in ambient air at rest, showing a desaturation <88% during a
+      preliminary 6 minutes walking test Criteria for exclusion: Inability to give consent, age <18
+      or >85 years, walking problems from causes different from pulmonary disease
+
+      Procedure:
+
+      In a preliminary session, the flow of oxygen needed to prevent desaturation during walking is
+      established according to a validated protocol Guyatt et al, Am J Respir Crit Care Med
+      2001,163:,942-946.) Two 6 minutes walking tests are then performed in a corridor, at least
+      30' apart, during administration of oxygen or medical air, in random order and double blind,
+      at the same pre-determined flow, administered through a nasal cannula connected to a wall
+      outlet (concealed from sight, being in a side rum at about mid distance in the corridor)
+      through a 10 mt plastic tubing. Oxygen saturation and pulse rate are monitored through a
+      dedicated recording oximeter (Minoxy, Cosmed) , whose display is concealed to both the
+      patient and the operator, with an alarm set for oxygen saturation <70%, to stop the test in
+      case severe desaturation would occur Data are then transferred to computer for analysis only
+      after both test are performed. Walked distance is recorded by the operator unaware of
+      treatment.
+
+      At the end of each test, a short questionnaire is administered with 10 cm Visual Analogue
+      Scales (VAS) for dyspnoea, fatigue, and preference compared to performing the test without
+      any treatment. At the end of the second test a further scale is submitted, asking about the
+      preference between the two treatments.
+
+      Primary outcomes are the distance walked and the difference in preference of the two
+      treatments compared o no treatment. Secondary outcomes are differences in minimal saturation
+      level and maximal pulse rate during the test and in the report of dyspnea and fatigue at the
+      end of the test, and the reported preference between the two treatments.
+
+      Statistical analysis to evaluate the effect of the treatment on walking distance, heart
+      frequency and oxygen saturation is performed using generalized linear model with a gaussian
+      family and identity link and including order of treatment as a fixed effect. Parameters
+      evaluated using VAS are analyzed using Koch adaptation of Wilkoxon rank test (Senn SS.
+      Cross-over Trials in Clinical Research, 2nd Edition. Wiley 2002)
+    
+  

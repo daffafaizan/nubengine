@@ -1,0 +1,27 @@
+
+    
+      Background:
+
+      The current common clinical methods cannot truly reflect the biomechanical status of the knee
+      joint. The three-dimensional gait analysis is the gold standard, but it is difficult to apply
+      clinically. There is an urgent need for a clinically practical method to quantitatively
+      evaluate the biomechanics of the knee joint under dynamic weight bearing.
+
+      Methods:
+
+      50 healthy volunteers, 450 sports injuries patients (including hip, knee, and ankle joint
+      diseases) and 50 patients with degenerative osteoarthritis were recruited.
+
+      55 passive reflective markers were placed bilaterally on the body. Lower extremity kinematics
+      and dynamic plantar pressure during walking, jogging were collected.
+
+      Outcome evaluation indicators and statistical methods: The following indicators use repeated
+      measurement two-factor analysis of variance: the left and right sides, different
+      rehabilitation times are used as repeated measurement variables, to analyze the biomechanical
+      changes of the lower limb joint biomechanics and gait touch information. A variety of machine
+      learning methods (such as PCA, SVM, CNN, etc.) are used to analyze, and select the
+      appropriate algorithm and parameters according to the learning effect. Finally, this study
+      will establish a machine learning models for computer-aided diagnosis, treatment, and
+      rehabilitation assessment.
+    
+  

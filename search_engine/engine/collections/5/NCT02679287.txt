@@ -1,0 +1,17 @@
+
+    
+      The CLC is an "artificial pancreas" (AP) application that uses advanced closed loop control
+      algorithms to automatically manage blood glucose levels for people with Type 1 Diabetes. The
+      system modulates insulin to keep blood glucose in a targeted range. The CLC will be deployed
+      with different functionalities at different stages of the trial, resulting in variation in
+      what the subject will be responsible for and what the system will drive.These functionalities
+      occur in a randomized cross-over design, each occurring for 8 weeks. These modalities are:
+
+        1. SAP=sensor-augmented pump only
+
+        2. USS+SAP (d)= Evening and Overnight Closed-Loop Control=SAP during day and CLC starting
+           at dinner and continuing overnight
+
+        3. USS+CLC (d)= 24/7 Closed-Loop Control=24-hour Day and Night Closed Loop Control
+    
+  

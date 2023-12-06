@@ -1,0 +1,42 @@
+
+    
+      In the United Kingdom, approximately 142,000 people are admitted to ICU each year. A large
+      proportion, 10 - 20%, of these patients have a life-threatening respiratory illness called
+      Acute Respiratory Distress Syndrome (ARDS). These patients need specialist help with their
+      breathing, from a machine called a ventilator. Only seven out of ten patients will survive
+      this illness and even survival may bring ongoing problems, sometimes for a long time after
+      leaving hospital.
+
+      Accurate mathematical and computer models of ARDS, would allow investigation of the illness
+      outside of the ICU and inside the virtual environment of a computer. Different treatments
+      could be simulated on the same 'virtual' patient, or the same treatment on many different
+      patients with varying degrees of illness.
+
+      Development of these software models, requires collection of a library of data describing how
+      patients respond to changes in their treatment. An example would be to describe how a
+      patient's blood pressure responds to a change in the settings of their ventilator. The
+      changes to a patient's ventilation would be made as part of the normal care provided by the
+      doctors and nurses looking after them.
+
+      Mathematical descriptions have been created before, from simpler data sets which were
+      essentially single snapshots of a patient's condition and treatment. The investigators aim to
+      capture sequences of snapshots over several hours, allowing them to build more accurate
+      models.
+
+      Guy's and St Thomas' NHS Foundation Trust (GSTFT) is the clinical partner of the project.
+      Patients would be identified there by clinical researchers, who would then collect the data
+      describing their treatment. This data would be anonymised before adding to the library of
+      data to be shared with academic researchers.
+
+      Academic members of the team at the University of Warwick and the University of Nottingham
+      possess the engineering and mathematical expertise needed to develop the complex software
+      models. They also provide the facility of a high performance computing cluster necessary for
+      the difficult process of fitting models to the data.
+
+      Once the software models have been built and used to examine the how treatment might be
+      improved, the findings would be shared with clinical staff around the world, through the
+      publication of articles in medical journals. It is possible that the insights gained by the
+      modelling process might inform, change and improve how clinical staff use ventilators to
+      support patients with ARDS.
+    
+  

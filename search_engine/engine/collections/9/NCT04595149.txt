@@ -1,0 +1,45 @@
+
+    
+      This is a non-randomized feasibility study in which patients with esophageal squamous cell
+      carcinoma receive bintrafusp alfa (B), combined with paclitaxel (P), carboplatin (C), and
+      radiation (RT). For safety reasons the first ten patients will be treated in a maximum of
+      four selected hospitals. If no unexpected safety signals occur, the study will start in all
+      participating centers.
+
+      Paclitaxel 50 mg/m2 and Carboplatin AUC = 2 will be given by intravenous infusion on days 1,
+      8, 15, 22, 29, and 36. External beam radiotherapy will be delivered to a total dose of 50.4
+      Gy in 28 fractions of 1.8 Gy, 5 fractions per week, starting the first day of the first cycle
+      of chemotherapy (see below for details on radiation technique).
+
+      Bintrafusp alfa will be given iv every three weeks on day 1, 22, and 43 at a dose of 2400 mg.
+
+      Wk 1 Wk 2 Wk 3 Wk 4 Wk 5 Wk 6 Wk 7 Day 1 Day 8 Day 15 Day 22 Day 29 Day 36 Day 43
+      __________________________________________________
+
+      P P P P P P C C C C C C B B B RTx5 RTx5 RTx5 RTx5 RTx5 RTx3
+
+      __________________________________________________ P = paclitaxel; C = carboplatin, B =
+      bintrafusp alfa RT = radiotherapy
+
+      Feasibility of this treatment strategy is the main focus of this study. In this study
+      feasibility is defined as ≥80% of patients completing two cycles (of in total three) cycles
+      of bintrafusp alpha. In the ART-DECO study, which included a similar patient population, more
+      than 80% of patients was able to receive five cycles of carboplatin and paclitaxel (i.e. up
+      to week 5) (personal communication dr. Hulshof). Therefore, the investigators will regard
+      treatment with Bintrafusp alfa during chemoradiation feasible if ≥80% of patients complete
+      two cycles of bintrafusp alfa, while with a completion rate ≤62% the treatment will be
+      regarded unfeasible.
+
+      The primary end point of this feasibility study is the percentage of patients completing
+      bintrafusp alfa treatment. This study requires 41 subjects to decide whether the proportion
+      completing at least two cycles of bintrafusp alfa, P, is less than or equal to 0.62 or
+      greater than or equal to 0.80. If the number of patients completing two or more cycles of
+      Bintrafusp alfa is 31 or more, the hypothesis that P ≤ 0.62 is rejected with a target error
+      rate of 0.05 and an actual error rate of 0.048. If the number of patients completing two or
+      more cycles of bintrafusp alfa is 30 or less, the hypothesis that P ≥ 0,80 is rejected with a
+      target error rate of 0.20 and an actual error rate of 0.182. The test statistic used is the
+      one-sided one-sample test for binomial proportion, testing against the fixed reference
+      proportion of 0.62. Taking into account 20% drop-out, 52 patients need to be included in the
+      study.
+    
+  

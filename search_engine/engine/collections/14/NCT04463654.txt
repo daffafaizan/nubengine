@@ -1,0 +1,114 @@
+
+    
+      The purpose of the trial is to investigate whether the introduction of the Zero Self-harm app
+      to individuals with NSSI in Denmark, can 1) reduce the frequency of NSSI-episodes, 2) prevent
+      escalation of NSSI and 3) reduce suicide ideation, and depressive symptoms, compared to
+      treatment as usual.
+
+      Hypothesis: The hypothesis is that Zero Self-Harm will reduce the frequency of NSSI-episodes
+      by enhancing participants skills to avoid impulsive urges resulting in NSSI. Thereby, the app
+      will help deal with negative affect and trait impulsivity, core features in the etiology of
+      NSSI, and further decrease associated symptoms, e.g. suicide ideation and depression. We
+      expect that the Zero Self-Harm app will be able to reduce the mean monthly frequency of NSSI
+      in the intervention group by at least 3 episodes. Thus, we hypothesize that the Zero
+      Self-Harm app will be superior to the control condition in 1) reducing the frequency of
+      NSSI-episodes, 2) preventing escalation of NSSI and 3) reducing suicide ideation, and
+      depressive symptoms, compared to treatment as usual.
+
+      Methods and design: The trial is designed as a 2-arm, parallel-group, multicentre, pragmatic,
+      randomized clinical superiority trial. Based on the power calculation listed below, a total
+      of 280 participants, 140 in each arm, should be included. One group will receive the Zero
+      Self-Harm app by downloading a specific link sent to them after randomization, and the
+      control group will be allocated to a wait-list and allowed to download the app after they
+      have finished the last questionnaire at 6 months.
+
+      Recruitment: Recruitment will be broad and target both individuals with shorter duration and
+      milder symptoms of NSSI, possibly not in contact with mental health facilities, and
+      individuals with more severe and chronic NSSI, already in contact with mental health
+      facilities in Denmark. Recruitment will be done through non-profit organizations, service
+      centres in municipalities, schools for adolescents above 18, outpatient clinics for
+      psychiatric disorders, and psychiatric and somatic emergency departments in Denmark.
+      Recruitment will be conducted through non-profit organizations' websites and social media
+      platforms, as well as providing information about the project through presentations at
+      schools, posters at relevant recruitment facilities and encouraging personnel to refer
+      potential participants when meeting people with NSSI.
+
+      Enrolment and randomization: Enrolment will be done by the research assistant when contacted
+      by potential participants via email or telephone. Participants will be encouraged not to send
+      personal information through email and only over the phone, to ensure confidentiality.
+      Potential participants will be given oral and written information about the study, time for
+      consideration and the possibility for an appointment with a next of kin before deciding to
+      enrol in the project. Consent will be obtained by sending an e-mail from REDCap to the
+      trusted Danish secure platform e-boks.
+
+      After filling out the baseline questionnaire, participants will be randomly assigned to
+      either the waitlist control group or the Zero Self-harm app, with a 1:1 allocation, using a
+      computer-generated sequence randomization generator in REDCap. The randomization will be
+      stratified by sex and number of previous NSSI-episodes (based on the baseline score of the
+      DSHI) to avoid overrepresentation of patients with a high number og NSSI in one treatment
+      group.
+
+      Blinding: Due to the nature of the intervention, neither participants nor the research
+      assistant can be blinded in this trial, and neither primary nor explorative outcomes can be
+      blinded. An employee outside the research team will extract data from REDCap at study
+      completion to two separate excel-sheets, and group allocation will be coded with A and B, to
+      ensure blinding of the research assistant while analysing data, drawing conclusions and
+      drafting the first manuscript. Blinding will be lifted once drafting of the first manuscript
+      has been done.
+
+      Intervention: When randomized to the Zero Self-Harm app the participants will receive an
+      email with a link to download the app and an introduction via an instruction manual, in
+      addition to instruction videos implemented in the app. This will ensure the navigation and
+      knowledge of the technicalities of the app. Participants in the waitlist control group will
+      receive no study intervention but will be offered the possibility to download the Zero
+      Self-Harm app after they have finished the last questionnaire at 6 months. This will be
+      stressed at the initial appointment as well as after the collection of data.
+
+      Data management: Above-mentioned outcome measures are collected at baseline and 3- and
+      6-month follow-up through self-administered internet-based questionnaires from REDCap.
+      Participants will receive an e-mail with a link to the online survey, where they can log on
+      to a secure data portal, REDCap, with a personal trial id-number and a two step-code. To
+      improve the response rate, two email reminders are sent out automatically, and if
+      participants still have not answered the questionnaire, they will receive a phone call from
+      the research assistant encouraging them to answer the questionnaire. When data collection is
+      finished, all data from the participants will be imported to a local secured drive with
+      limited access.
+
+      Further, there will be a continuous data collection with information about the usage of the
+      app, and register-based data will be collected through the Danish National Hospital Register
+      and the Cause of Death Register. App use and register-based outcomes, such as mortality and
+      admission to psychiatric and/or somatic emergency departments, will be assessed at 3 and 6
+      months.
+
+      To be aware of potential harms of the app, the 20 first participants receiving the Zero
+      Self-harm app will receive a call after they have completed the last questionnaire at
+      6-months, and interviewed about their experiences of the app. These interviews will be
+      analysed for possible harms, and the results will be discussed in the research group which
+      will then decide on whether or not to continue the trial.
+
+      Power analysis: Primary outcome is the mean difference in the monthly frequency of NSSI after
+      6 months. We expect that participants in the intervention group will have a mean score that
+      is 3.5 points lower compared to participants in the TAU group at follow-up after 6 months.
+      The mean score is based on clinical experience and estimates from a previous study
+      investigating the interventions ability to reduce monthly NSSI episodes (45). Based on
+      previous publications, we expect a post-intervention standard deviation of 9. If the true
+      difference in the experimental and control means is 3.5, we will need to include 140
+      participants for each group to a total of 280 participants to be able to reject the null
+      hypothesis, that the population means of the experimental and control groups are equal with a
+      probability of 0,1. The Type I error probability associated with this test is 0.05.
+
+      Statistical analysis: Analysis of the primary outcome will be conducted according to the
+      intention-to-treat principle: All participants will be included in the final analysis
+      according to group assignment regardless of adherence to treatment. This study has multiple
+      assessment points and for the primary analysis, we will use repeated measurements in a mixed
+      model with unstructured variance. This procedure can handle baseline differences and missing
+      data. For participants with missing data in two or more data points, we will identify
+      potential differences to participants with full data and include these variables as potential
+      confounders in secondary analysis .
+
+      Statistical analysis will be conducted in SPSS, version 22.0. Confidence intervals will be
+      presented as well as significance level. All tests will be two-tailed and p values below 0.5
+      will be considered significant and interpreted with respect to hierarchy of hypothesis
+      recognizing that all outcomes, apart from the primary, are exploratory .
+    
+  

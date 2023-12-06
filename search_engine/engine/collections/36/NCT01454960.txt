@@ -1,0 +1,28 @@
+
+    
+      Each consented provider will be randomized to 1 of 8 cells in a factorial design with equal
+      probability. If results of retrospective data analysis imply that design will be improved by
+      stratification, randomization will be stratified by factors that could influence outcomes.
+
+      Data will be collected from Northwestern University's Enterprise Data Warehouse which houses
+      copies of data recorded in the Epic electronic health record. Data elements from qualifying
+      office visits will be collected from coded portions of the electronic health record.
+
+      An encounter is eligible for intervention if the patient's diagnosis is in the selected group
+      of acute respiratory infections. The intervention EHR functions will be triggered when
+      clinicians initiate an antibiotic prescription or enter a diagnosis for an acute respiratory
+      infection that has a defined Order Set. If an antibiotic from a list of frequently
+      misprescribed antibiotics is ordered and a diagnosis has not yet been entered, providers will
+      be prompted to enter a diagnosis. If the diagnosis entered is acute nasopharyngitis; acute
+      laryngeopharyngitis/acute upper respiratory infection; acute bronchitis; bronchitis not
+      specified as acute or chronic; or flu; the interventions will be triggered. The
+      diagnosis-appropriate order set will pop-up for providers in the Suggested Alternatives (SA)
+      arm, while clinicians randomized to the Accountable Justification (AJ) arm will receive an
+      alert and be required to enter a brief statement justifying their antibiotic prescription if
+      antibiotics are not indicated for the diagnosis entered. This note will then be added to the
+      patient's medical record.
+
+      Clinicians randomized to the Peer Comparison (PC) condition will receive monthly updates
+      about their antibiotic prescribing practices relative to other clinicians in their practice.
+    
+  

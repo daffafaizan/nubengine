@@ -1,0 +1,30 @@
+
+    
+      The goal of this project is to develop a digital technology including an interactive app on a
+      dedicated smartphones to record, analyze and classify a person as likely COVID-19 positive or
+      negative. The specific objectives are:
+
+        1. Develop an initial simple app to record breathing sounds, check the quality of sounds in
+           real time, message and instruct if the sounds fail the quality check.
+
+        2. Recruit and collect breathing sounds of at least up to 200 individuals at one of the
+           COVID-19 testing stations in Winnipeg.
+
+        3. Using data of 50 COVID-19 positive cases and 50 negative ones of the above collection as
+           the training data, develop a breathing sounds analysis algorithm with high sensitivity
+           and specificity for smartphones to classify the recorded breathings sounds as healthy or
+           abnormal. Our current database allows for immediate detection of some underlying
+           unrelated pathologies, which in the initial stages will be supported by the included
+           questionnaire. This can be further enhanced at the end-product stage as each worker's
+           history is built up and daily compared.
+
+        4. Develop a smart diagnostic algorithm for smartphones as an app using the above sound
+           analysis outcome, the subject's temperature and answers to a few questions and screen
+           for possibility of having Covid-19 in less than 30 seconds.
+
+        5. Evaluate the above diagnostic algorithm for the remaining collected data (100 subjects),
+           and plan for the next phase of study as a triage in one of the city's hospitals.
+
+        6. Prepare the final market prototype of the technology and disseminate the results.
+    
+  

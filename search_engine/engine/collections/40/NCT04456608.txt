@@ -1,0 +1,74 @@
+
+    
+      Purpose: In this aim, the investigators will test the hypothesis that n-3 PUFAs modify
+      aspirin anti-platelet response, by measuring and comparing three different indicators of
+      aspirin response in individuals with extremely high and low RBC n-3 PUFA levels, under a
+      basal state and after 1-week of once a day aspirin treatment. The three indicators are: 1)
+      platelet TXB2 and 20-HETE concentrations; 2) platelet aggregation ex vivo (in response to
+      external stimuli); and 3) aspirin covalent adduct of COX-1. The investigators will also test
+      whether or not common variants in the CYP4A11, CYP4F2, CYP4F11, PEAR1 and ACTN1 genes are
+      associated with basal and aspirin-induced changes in platelet aggregation and, in an
+      exploratory analysis, modify the effects of n-3 PUFAs on aspirin response.
+
+      Procedures and Population: Investigators from the University of Montana, Southcentral
+      Foundation and Oregon Health & Science University will recruit a total of 150 individuals (50
+      at each site) to participate in the study. At each performance site, the participants
+      recruited will represent 25 individuals with high and 25 individuals with low RBC n-3 PUFA
+      concentrations. After providing written consent, each study participant will be screened for
+      medical history and clinical lab testing to ensure good health and good liver, kidney and
+      blood test parameters. If found to be eligible, each participant will provide 12-hour fasted
+      (overnight) blood samples for isolation of plasma, platelets, lymphocytes, and red blood
+      cells. A separate blood sample will be collected into a citrate treated tube for platelet
+      aggregation testing using the PFA-100 platform. Isolated blood fractions will be stored at
+      -80°C.
+
+      After baseline sampling, each participant will be given six doses of aspirin (80 mg/day for 6
+      days) and instructed to take one dose daily at approximately 9 am. On the day after the last
+      aspirin dose, the participant will provide blood samples for repeated platelet aggregation
+      testing, platelet lipid analysis and measurement of aspirin covalent adduct to COX-1, and a
+      spot urine sample to confirm aspirin consumption by testing for salicylate. For 24 hours
+      prior to platelet aggregation testing, study participants will be asked to avoid foods that
+      could lead to spurious test results (eg, chocolate, tea, coffee, cola, red wine, beer,
+      tomato, grapes, grape juice, orange and cranberry juices, as well as traditional wild foods
+      that include berries, plant roots, plant greens etc).
+
+      Analytical Methods: Whole blood, point of care, platelet aggregation testing will be
+      performed using the automated PFA-100 instrument. Performance by research personnel will be
+      compared head-head to clinical testing services at each site, as a quality control measure.
+      In each test setting, the investigators will obtain results in duplicate for both
+      collagen/epinephrine and collagen/ADP cartridges. The investigators will also measure
+      platelet TXB2, 20-HETE and AA concentrations, by LC-MS/MS. In addition, the investigators
+      will develop and employ a method to quantify theaspirin covalent adduct of COX-1 in isolated
+      platelets from study participants.
+
+      Statistical Methods: For each study population, and subgroups with extreme RBC n-3 PUFA
+      phenotypes, the investigators will use linear regression models with robust standard errors
+      to identify significant differences in the mean absolute platelet aggregation test results
+      under basal and aspirin-treated conditions (primary outcome), as well as the
+      post-treatment-to-baseline change in platelet aggregation. Heterogeneity between pairs of
+      extreme phenotypes subgroups will be accounted for by including sex, age, BMI and platelet
+      count as covariates in the regression model. Sample size calculation for each performance
+      site (n = 25 per n-3 PUFA subgroup) was based on having power of at least 0.8 for detecting a
+      difference in mean platelet aggregation between the two extreme (0-10 and 90-100 percentiles)
+      n-3 PUFA subgroups under basal conditions, at a significance level of 0.05. As a secondary
+      level of analysis, for each subgroup of the extreme RBC n-3 PUFA phenotypes, the
+      investigators will also compare mean platelet TXB2 and 20-HETE concentrations under basal and
+      aspirin-treated conditions, as well as the post-treatment-to-baseline change. Finally, a
+      third level of analysis will involve testing each study population for a difference in the
+      extent of aspirin adduct to COX-1 between groups with extreme RBC n-3 PUFA phenotypes. The
+      investigators will test for associations between platelet aggregation test results and
+      biochemical measures of platelet activation, each study population separately and in
+      aggregate.
+
+      The investigators will use linear regression models to test for an association between common
+      CYP4A11,CYP4F2, CYP4F11, PEAR1 and ACTN1 genotypes and the mean absolute platelet aggregation
+      test results under basal and aspirin-treated conditions, as well as the
+      post-treatment-to-baseline change in platelet aggregation. In an exploratory analysis, the
+      investigators will apply Linear Mixed Effects (LME) models to the combined pre- and
+      post-treatment dataset to test for associations with n-3 PUFAs group and drug effects, as
+      well as to identify any modifications of those effects by CYP4A11, CYP4F2, CYP4F11, PEAR1 and
+      ACTN1 variation by including and testing for significant interaction effects in the models.
+      The investigators will include random effects in the LME to account for potential
+      heterogeneity in each of the populations.
+    
+  

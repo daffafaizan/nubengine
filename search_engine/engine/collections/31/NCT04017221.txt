@@ -1,0 +1,55 @@
+
+    
+      The objective of this study is to compare the risk of serious adverse events associated with
+      the use of sodium-glucose cotransporter 2 (SGLT2) inhibitors in comparison with the use of
+      dipeptidyl peptidase-4 (DPP-4) inhibitors among patients with type 2 diabetes. More
+      specifically, the investigators will assess the risk of severe urinary tract infection
+      (urosepsis), diabetic ketoacidosis (DKA) and lower extremity amputation.
+
+      A common-protocol approach will be used to conduct retrospective cohort studies using
+      administrative health care data from seven Canadian provinces (Alberta, British Columbia,
+      Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan) and the United Kingdom (UK)
+      Clinical Practice Research Datalink (CPRD). Briefly, the Canadian databases include
+      population-level data on physician billing, diagnoses and procedures from hospital discharge
+      abstracts, and dispensations for prescription drugs. The data in Ontario will be restricted
+      to patients aged 65 years old and older. The CPRD is a clinical database that is
+      representative of the UK population and contains the records for patients seen at over 680
+      general practitioner practices in the UK; these data will be linked to the Hospital Episode
+      Statistics (HES) database, which contains in-hospital diagnosis and procedure data.
+
+      In each jurisdiction, the investigators will assemble a source population that includes all
+      patients who received an antidiabetic medication (metformin, sulfonylureas,
+      thiazolidinediones, DPP-4 inhibitors, SGLT2 inhibitors, GLP-1 receptor agonists,
+      alpha-glucosidase inhibitors, meglitinides, insulin, or combinations of these drugs) between
+      January 1, 2006 and June 30, 2018 (or the latest date of data availability at each site).
+      From this source population, a study-specific cohort including all new users of SGLT2
+      inhibitors or DPP-4 inhibitors between January 1, 2013 and June 30, 2018 (or latest date of
+      data availability at each site) will be created for each safety outcome. Specific exclusion
+      criteria will be applied for each study cohort. Study cohort entry date will be defined by
+      the dispensation date (or prescription for CPRD) of the newly prescribed SGLT2 or DPP-4
+      inhibitor. Patients will be followed until the occurrence of an event (defined below), death,
+      end of health care coverage, or end of the study period, whichever occurs first.
+
+      Exposure will be defined using a time-varying exposure definition in which each person-day of
+      follow-up will be classified into one of the following three mutually-exclusive categories:
+      current use of SGLT2 inhibitors, current use of DPP-4 inhibitors, or other treatment
+      combinations. For all categories, exposed person-time will be defined by the prescription
+      duration plus a 30-day grace period. DPP-4 inhibitors will serve as the reference category as
+      both classes are second- to third-line therapy. The outcome of interests include urosepsis,
+      DKA and lower extremity amputation. In the urosepsis specific-study, Fournier's gangrene will
+      be assessed in descriptive analyses as a secondary outcome.
+
+      Statistical analyses will be conducted separately for each study-specific cohort.
+      Site-specific rates and corresponding corresponding 95% confidential intervals (CI) of each
+      safety outcomes will be estimated using the Poisson distribution. Time-dependent Cox
+      proportional hazards models with follow-up time as the underlying time axis will be used to
+      estimate adjusted hazard ratios (HR) and corresponding 95% CI of the association between
+      current use of SGLT2 and DPP-4 inhibitor use and urosepsis, DKA, and lower extremity
+      amputation. As secondary analyses, each safety outcome will be stratified by age (≥70 and <70
+      years), sex and SGLT2 molecule. Sensitivity analyses will be performed to assess the
+      robustness of study results and address some of the study limitations. Site-specific results
+      will be combined by random-effects meta-analysis to provide an overall assessment of the risk
+      of serious adverse events in users of SGLT2 inhibitors in comparison to users of DPP-4
+      inhibitors.
+    
+  

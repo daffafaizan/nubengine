@@ -1,0 +1,128 @@
+
+    
+      Myofascial pain syndrome (MPS) is a prevalent chronic pain disorder primarily characterized
+      by myofascial trigger points (MTrP). There is limited knowledge on the pathophysiology and
+      mechanisms underlying MTrP and its development. Ultrasound investigations that have been
+      performed on trigger points can differentiate between active and latent trigger points, but
+      have not characterized the central sensitization aspect of them. The electromyography (EMG)
+      investigations of central sensitization that have been performed mostly use hypertonic saline
+      to induce hyperalgesia, and have demonstrated conflicting results. Central sensitization has
+      been proposed as the primary mechanism underlying MTrP development. Central sensitization is
+      associated with hyperexcitability of neuronal responses to normal or noxious stimuli. There
+      is a need for a study that quantifies regional central sensitization using ultrasound to
+      measure the changing structure, and electromyography to measure specific motor unit activity
+      responses in the muscle.
+
+      Purpose The purpose of this study is to determine whether sensitizing healthy muscle using
+      capsaicin induces a change in the structural integrity of the affected muscle, and determine
+      if the motor unit frequency and amplitudes change within that region. Central sensitization
+      will be induced using topical capsaicin and injectable capsaicin at three different
+      concentrations. This is an exploratory trial that aims to provide preliminary evidence on
+      whether central sensitization is a direct cause of taut band and MTrP development.
+
+      Our specific research questions are followings:
+
+        1. Does sensitization cause a significant regional change in the texture features of the
+           targeted muscle or surrounding muscles?
+
+        2. Does capsaicin induced sensitization elicit a change in motor unit action
+           potential(MUAP) amplitude by approximately 20 to 25% within the region of experimentally
+           induced central sensitization or in the region of texture feature changes? Our
+           hypothesis for this portion of the study is that sensitization modifies the anterior
+           horn cell activity which will be measured by the amplitude of the potentials.
+
+        3. Does capsaicin induced sensitization elicit continuous electrical activity as observed
+           in MTrPs? This tests the hypothesis that sensitization creates the presence of
+           continuous low amplitude action potentials.
+
+        4. Does capsaicin induced sensitization influence the rate of recruitment of motor units in
+           the muscle within the region induced? Does this occur within the regions identified by
+           the changes in texture features? The recruitment of motor units is normally expected to
+           follow the Henneman size principle.[20-23] Our hypothesis for this portion of the study
+           is that sensitization will cause an aberration in recruitment. If this is demonstrated,
+           then there is modification of the normal processing at both dorsal and ventral horns of
+           the spinal cord.
+
+        5. Is there a location dependent EMG response to capsaicin induced sensitization? In other
+           words, do the texture features or EMG responses from muscles that lie anatomically
+           distant from the location of the site of intramuscular capsaicin injection have changes
+           from their baseline calculations? This would test the hypothesis that type III and IV
+           afferents have an influence on the anterior horn cells that lie distant to the ones that
+           are supplying muscle fibers in the vicinity of the stimulated sensory afferents.
+
+        6. Is there a dose dependent EMG response at motor units to capsaicin induced
+           sensitization? Here, the hypothesis of causality will be assessed in a preliminary
+           manner. If there is a relationship then further experiments that more thoroughly assess
+           causality will be needed.
+
+      This proposed study is a single centered, factorial, randomized placebo-controlled trial with
+      two independent variables, depth of capsaicin application(3 levels) and dose of capsaicin(3
+      levels), for a total of 6 treatment arms and three control groups.The first between groups
+      variable will be topical capsaicin application, injectable(intrafascial) and
+      injectable(intramuscular) capsaicin injection. Within each partition, there will be three
+      treatments: control, 50 micrograms, 100 micrograms. The control group will receive a topical
+      skin lotion that is inert and has no sensitization effect. An equal number of participants
+      will be allocated to each of the six treatment groups using an electronic randomization
+      generator. Block randomization will be used to ensure equal allotment into each group.
+
+      Capsaicin Application and Injection Capsaicin will be applied directly to the region of the
+      innervation zone at the muscle belly to sensitize the neurons within the region of taut band
+      development. Topical and intramuscular capsaicin will be used. The capsaicin formula will be
+      compounded by a registered pharmacist. Topical capsaicin will be delivered in a cream and
+      injectable capsaicin will be intermixed with saline prior to injection. The control group in
+      the topical capsaicin arm will be treated with the cream base used during the experiment
+      without added capsaicin and the injection arm will be injected with saline. A trained medical
+      professional on the research team will apply the topical capsaicin or topical placebo
+      treatments. The region of topical application will measure 5cm squared in the dermatome zone
+      location to cover an area of approximately 25cm2. A trained physician in physical medicine
+      and rehabilitation will deliver injectable capsaicin using a 27-gauge needle at the location
+      of the superior fascia of the upper trapezius muscle with ultrasound guidance. Intramuscular
+      capsaicin will also be injected using ultrasound guidance to avoid the superior or inferior
+      fascia.
+
+      To confirm the presence of central sensitization, brush allodynia will be used to detect
+      mechanical hyperalgesia outside the region of primary nociception. The size of the region of
+      secondary hyperalgesia will be measured to characterize the extent of central sensitization.
+      This will be accomplished using a tape measure and the perpendicular dimensions of the region
+      of secondary hyperalgesia will be recorded in square centimeters.
+
+      Experimental Protocol The anatomical location for ultrasound probe and electrode placement
+      will be identified for each participant. The ultrasound probe will be placed on 3 muscles:
+      the trapezius, the supraspinatus, and the infraspinatus. Two ultrasonic pictures will be
+      taken of each. The area will then be cleaned with alcohol and water. The Delsys Galileo
+      sensor, and the intramuscular needle electrode will be placed directly on the trapezius'
+      identified area. Participants will be asked to gently contract their trapezius muscle. They
+      will be instructed to perform a gradually increasing contraction in isometric condition, in a
+      controlled manner. They will hold this contraction at 30% of their maximal voluntary
+      contraction, and then perform a gradually decreasing contraction to rest. This will be
+      performed four times for each type of study intervention and before as well as after each
+      intervention, namely topical control cream, topical capsaicin at 50ug and 100 ug, injection
+      of the superior aspect of the superior fascia followed by intramuscular injection with these
+      two concentrations of capsaicin. The placement of these latter will be verified by ultrasound
+      guidance. The intramuscular needle will then be removed and participants will be bandaged and
+      cared for appropriately by the expert physician performing the experiment. Participants will
+      be re-examined to determine if there were any adverse effects from the experimental
+      procedures. If any occurred, then these will be carefully managed by the medical members of
+      the research team and recorded. Participants will be asked to remain at the lab for an
+      additional 30 minutes to ensure they are well prior to leaving.
+
+      Ultrasound Analysis Texture analysis will be performed using MATLAB and the image and signal
+      processing toolbox. Analyses will include first order parameters such as mean and standard
+      deviation of the pixel level values, as well as second order parameters, which provide
+      details on the spatial distribution of pixel values. These include co-occurance and
+      run-length matrices, local binary pattern and blob analysis.
+
+      EMG Analysis The following parameters will be analyzed: the firing times and frequency of
+      individual motor units, motor unit action potential amplitude and shapes, the root mean
+      square value (RMS) of each channel and of the entire signal, the coefficient of variation for
+      force steadiness, and the centroid of the EMG signal in the cranial-caudal and the
+      medial-lateral directions. These procedures will be repeated for each contraction.
+
+      The results of this study should provide insight into the structural changes and motor
+      changes at the region of sensitization, as well as in adjacent muscles.This will provide
+      further insight as to whether structural changes are accompanied by motor changes within the
+      same region, and inform further investigations into the pathophysiology of myofascial pain.
+
+      The full study protocol and statistical analysis plan is submitted in the documents section.
+    
+  

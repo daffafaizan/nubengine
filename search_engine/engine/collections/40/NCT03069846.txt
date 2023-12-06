@@ -1,0 +1,34 @@
+
+    
+      The Speclipse Spectra-Scope consists of the light collection module and the spectral analysis
+      module. The light collection module is attached to the handpiece of short pulse (a few
+      nanoseconds) Nd:YAG (neodymium-doped yttrium aluminium garnet) commercial cosmetic laser, and
+      the analysis module is placed on the laser. When Nd:YAG laser is irradiated onto the skin
+      lesion, the laser ablates a trace amount of tissue, producing micro plasma. The emitted light
+      from the micro plasma is analysed spectrally to determine the elemental and molecular
+      information from the tissue in real time. No calibration of the Spectra-Scope is required.
+
+      Before the skin is irradiated with the laser, select the age, sex and the position of the
+      target skin lesion and put the patient number of the day on the software panel of laptop
+      which is connected to the device. Prior to sampling, the skin site must be wiped with ethanol
+      and allowed to air dry. When the laser is irradiated, the emission spectra of tissue is
+      automatically generated from the spectrometer inside the device and simultaneously displayed
+      on the monitor, and stored in the laptop. The spectral data stored in the laptop is
+      wirelessly accessible using Google drive.
+
+      An algorithm then determines whether the skin is from a normal, pigmented normal, benign,
+      squamous cell carcinoma (SCC), basal cell carcinoma (BCC) or melanoma based on the spectral
+      'signature'. These algorithms have been determined during clinical ex-vivo and in-vivo
+      studies performed in Korea. The purpose of this study is to collect tissue emission spectra
+      of Australian patients and to further refine the algorithms, and to confirm the appropriate
+      spectra for 'normal', 'benign', 'melanoma', 'SCC', and 'BCC'.
+
+      Each potential skin cancer site, which has previously been identified as requiring biopsy, is
+      assessed using five laser shots that last approximately 10 milliseconds per shot and
+      measurement. The laser shots are made before the scheduled biopsy.
+
+      Some of the potential skin cancer sites will be labelled as cancers ('melanoma', 'SCC' or
+      'BCC') from the biopsy result, and some of the potential skin cancer site will be labelled as
+      'benign' (control group 1) from the biopsy result.
+    
+  

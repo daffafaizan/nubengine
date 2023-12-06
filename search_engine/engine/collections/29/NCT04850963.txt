@@ -1,0 +1,25 @@
+
+    
+      Participants will be divided into 02 groups: G1: Experimental - participants who will receive
+      real current; G2: Sham - participants who will receive simulated stimulation. Participants
+      will be included in the study using the eligibility criteria and will be randomly allocated,
+      with exchange in blocks at the rate of 1: 1. Participants will receive 10 tDCS sessions, for
+      20 minutes, on days alternate (3 times a week). The neurostimulator TCT-Research will be used
+      for stimulation. The electrodes will be positioned according to the international
+      classification system of the electroencephalogram 10/20, in which the anode will be applied
+      in the primary motor area (C3 / C4) ipsilateral to the lesion and the cathode in the
+      contralateral supra-orbital region. The current intensity will be defined based on
+      computational modeling, using the patient's magnetic resonance as a basis, in order to
+      estimate and individualize the dosage to be administered.
+
+      The SimNIBS software will be used for computational modeling, it is a free and open source
+      package for the simulation of the electric field induced individually by tDCS in the brain.
+      The modeling will be performed from T1-weighted magnetic resonance images in order to build a
+      high resolution head model for each individual. These images are segmented into the main
+      tissues of the head (white and gray substance, cerebrospinal fluid, skull and scalp). From
+      the segmentations, a volume conductor model is created and used to perform the electric field
+      simulations. The estimated distribution of the cerebral electric field is obtained by placing
+      simulated electrodes on the head model and defining the intensity of the electric current
+      according to the stimulation protocol.
+    
+  

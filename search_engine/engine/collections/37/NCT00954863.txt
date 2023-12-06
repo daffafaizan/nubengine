@@ -1,0 +1,43 @@
+
+    
+      From 2008 to 2009, blood samples will be collected from consecutive HIV-1-infected patients
+      who received HIV care at the National Taiwan University Hospital. We expect to collect 100
+      cases who are antiretroviral naïve and 100 cases who are treatment-experienced patients. A
+      standardized case collection form will be used to record data of demographics and clinical
+      characteristics and laboratory results, such as plasma HIV RNA load (PVL) and CD4 cell
+      counts. PVL will be quantified by the Cobas Amplicor HIV-1 MonitorTM Test, version 1.5,
+      (Roche Diagnostics Corporation, Indianapolis, USA) according to manufacturer's protocol. The
+      CD4 cell count will be determined using FACSFlow (Becton Dickinson). This study was approved
+      by the Institutional Review Board of the hospital.
+
+      The in-house genotypic drug resistance test will be performed to determine the drug
+      resistance profiles for the HIV-1 pol gene, focusing on protease, reverse transcriptase, and
+      integrase. Drug resistance mutations will be identified with the use of the HIVdb program of
+      the Stanford University HIV Drug Resistance Database (http://hivdb.stanford.edu), in
+      accordance with the drug-resistance mutation list of the International AIDS Society-USA
+      Consensus Guidelines [24]. Strains with genetic mixtures of wild-type and mutant sequences at
+      amino acid residues that code for major drug resistance will be considered to be drug
+      resistant. Based on the interpretation given by the HIVdb program, sequences will be divided
+      into the drug-resistant sequences, interpreted as having high, intermediate, and low levels
+      of resistance, and the sensitive sequences, interpreted as the sensitive and potentially
+      resistant. Multi-drug resistance (MDR) will be defined as having genotypic resistance to more
+      than one class of antiretroviral drugs. Reference sequences of various subtypes and
+      recombinants will be retrieved from the Los Alamos database
+      (http://hiv-web.lanl.gov/seq-db.html). Sequences will be aligned with the Clustal W listed in
+      the MEGA (molecular evolutionary genetics analysis) analytical package (version 3.0) [25]
+      with minor manual adjustments. The phylogenetic trees will be constructed by the
+      neighbor-joining method based on the Kimura 2-parameter distance matrix listed in the MEGA
+      software. Bootstrap values greater than 750 of 1,000 replicates are considered significant.
+
+      The phenotype of those with specific or unique amino acid mutation at integrase gene will be
+      determined using in-house phenotypic assay. Briefly, the p7 to vif fragment, about 3.6kb,
+      will be amplified from patients' plasma viral RNA and cloned into our backbone viral clone
+      (Figure 1). The resultant clones will be transfected into 293 cells to produce infectious
+      viruses, whose titers will be determined by p24 assay and equal amounts of viruses will be
+      subsequently used to infect PBMC from healthy donors. Virus titers in the supernatants from
+      infected cells after 3, 5, and 7 days post infection in the presence or absence of tested
+      compounds will be determined by real-time PCR or p24 assay. The minimal concentration of
+      compounds required to reduce 50% of supernatant viral copies (EC50) will be calculated by
+      regression analysis of the dose-response curves generated from real-time PCR or p24 assay.
+    
+  

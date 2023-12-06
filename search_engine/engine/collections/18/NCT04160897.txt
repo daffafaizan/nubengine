@@ -1,0 +1,60 @@
+
+    
+      HBV infection is a global problem, and China has a heavy disease burden with approximately 86
+      million people infected with HBV. According to the epidemiological survey of nearly 230,000
+      people in Northeast China in 2010-2013, the positive rate of HBsAg reached 6.1%, of which
+      10.7% had cirrhosis.
+
+      According to the latest authoritative guidelines, including the guidelines published in 2018
+      by American Association for the Study of Liver Diseases (AASLD) and in 2017 by European
+      Association for the Study of Liver Diseases (EASL), entecavir (ETV) and tenofovir diisopropyl
+      (TDF) are recommended as first-line antiviral drugs. ETV is a guanosine nucleoside analog
+      that inhibits HBV polymerase and inhibits the synthesis of HBV DNA. TDF is a cyclic
+      nucleoside phosphorylated diester structural analog of adenosine monophosphate, and its
+      hydrolysis and phosphorylation products can inhibit the activity of HBV reverse transcriptase
+      and also inhibit the synthesis of HBV DNA. In 2005, ETV was listed in China Mainland and TDF
+      was listed in 2014. Over the years, clinical studies have shown that both have good antiviral
+      effects and low drug resistance rates, so they are chosen as first-line antiviral drugs.
+
+      HBV infection is one of the risk factors for hepatocellular carcinoma (HCC). Previous studies
+      based on the Chinese patients have shown that antiviral therapy (such as ETV) can
+      significantly reduce the incidence of HCC in patients with cirrhosis (the 4-year cumulative
+      incidence of HCC decreased from 17.5% to 9.4%). However, a study from South Korea published
+      online in September 2018 in JAMA Oncology showed that TDF significantly reduced the incidence
+      of HCC compared to ETV (HR 0.68, 95% CI 0.46-0.99) . In contrast, another multicenter study
+      in Korea, published in March 2019 in The JOURNAL OF HEPATOLOGY showed no significant
+      difference between ETV and TDF (HR 0.975, p=0.852) [4]. In the latter study, there was a
+      problem with the small sample size, and the sample size was not sufficient to test the
+      difference between the two antiviral drugs, and the sample size needed to be expanded to
+      verify the result.
+
+      Compared with Koreans, the incidence of HCC in Chinese is significantly lower (in patients
+      with cirrhosis, the 5-year cumulative incidence of HCC is about: China vs Korea: 12% vs 20%),
+      showing the differences between countries. There is at present no similar study based on
+      Chinese patients, especially in patients with cirrhosis to compare the effects of ETV and TDF
+      on the incidence of HCC.
+
+      China has a huge disease burden and a high incidence of HCC. The ETV and TDF both have
+      generic drugs marketing in China Mainland which through quality consistency evaluation and
+      entering the 4+7 drug procurement (the centralized drug procurement in "4+7 Cities": Beijing,
+      Tianjin, Shanghai, Chongqing, Shenyang, Dalian, Xiamen, Guangzhou, Shenzhen, Chengdu and
+      Xian), bringing good antiviral effect to patients at preferential prices. If we can detect
+      the difference in the occurrence of HCC between ETV and TDF, rational selection of drugs will
+      reduce the incidence of HCC in Chinese patients with chronic hepatitis B (Korean studies
+      showed that cumulative HCC patients can reduce 32% in 5 years), greatly reducing the burden
+      on Chinese patients and health care.
+
+      This research is a real-world, multi-center, retrospective, and observational study.
+
+      Patient data are collected from 5-10 research centers in mainland China, including basic
+      demographic information, antiviral regimen, time of stating antivirus, endpoint event, time
+      of endpoint event, last follow-up time, important testing data, etc.
+
+      Patients with the time of last follow-up (or the time of the endpoint event) between 2013-1-1
+      and 2019-12-31 are included in this study.
+
+      Based on the data we collect, the Propensity Score Matching and Inverse Probability Multiple
+      Weighted methods and the Competing Risk Model are utilized to correct the confounding factors
+      to calculate the impact of TDF and ETV on HCC events.
+    
+  

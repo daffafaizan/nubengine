@@ -1,0 +1,177 @@
+
+    
+      Introduction: Over 800,000 die every year by suicide, while suicide attempts are estimated to
+      be 20 times more frequent. Suicidal ideation (SI) is estimated to affect 2% of the
+      population. Suicidal thoughts and behaviours (STB) increase the risk of death by suicide,
+      impair people's quality of life and result in high healthcare costs.
+
+      New technologies can help us in the management and prevention of STB. Among other advantages,
+      these devices open the possibility of implementing smartphone-based real-time monitoring.
+      There are two main types of smartphone-based monitoring: active and passive. The active mode
+      is also known as Ecological Momentary Assessment (EMA). EMA involves asking daily questions,
+      resulting in real-time responses in the patient's usual environment. EMA provides a more
+      accurate picture of the emotional and cognitive context in which SI appears, offering us the
+      opportunity to identify its immediate predictors.
+
+      Passive monitoring -also called passive EMA- involves using the mobile phone's native sensors
+      to collect information such as physical activity, mobility or sleep, which can be useful as
+      proxy factors for mental state. The combination of active and passive monitoring produces
+      valuable information to characterize people's behaviour, giving rise to what is known as an
+      individual's digital phenotype (Barrigón et al., 2019). As it does not require patient
+      effort, passive EMA can increase the acceptability of monitoring and counteract the so-called
+      "EMA fatigue", which occurs when patients stop answering EMA questions.
+
+      A considerable number of studies have applied EMA technology to suicide research. In
+      contrast, passive EMA has been used scarcely in suicidology.
+
+      A further step is to exploit EMA's potential to design digital therapeutic tools, providing
+      continuous support in the patient's usual environment. This is known as Ecological Momentary
+      Intervention (EMI). EMIs can be a useful add-on to traditional treatment, thanks to their
+      24-hour availability, low cost, and the possibility of continuing follow-up in a
+      non-presential manner. Some studies have explored the effectiveness of EMI on suicidal
+      behaviour, showing good acceptability and a reduction in SI after the intervention.
+
+      This is an up-and-coming area that may contribute to suicide prevention, which has not yet
+      received sufficient attention in the scientific literature.
+
+      The SmartCrisis 2.0 randomized clinical trial aims to evaluate the effectiveness of an
+      Ecological Momentary Intervention (EMI) combined with smartphone-based monitoring for the
+      prevention of STB in patients at high risk of suicide.
+
+      Our hypotheses are as follows:
+
+        1. Before/after comparison: In the intervention group, there will be a significant
+           reduction in STB and an improvement in functionality and quality of life after the
+           follow-up period.
+
+        2. Comparison with control group: The intervention group will have a greater reduction in
+           STB and a greater improvement in functioning and quality of life than the control group.
+
+        3. Feasibility and acceptability: The use of the eB2 and MEmind mobile applications will be
+           feasible and well accepted by psychiatric patients.
+
+      Methods and analysis: Our sample will consist of patients with a history of recent STB
+      treated at either one of these five locations: University Hospital Fundación Jiménez Díaz
+      (Madrid, Spain), Rey Juan Carlos Hospital (Móstoles, Spain), and General Hospital of Villalba
+      (Villalba, Spain), Centre hospitalier universitaire Montpellier (Montpellier, France) or
+      Nîmes University Hospital (Nîmes, France).
+
+      Sample size calculation was performed using G*Power software, version 3.1. Based on previous
+      clinical trials exploring the ability of crisis management interventions to reduce SI in the
+      mid-term (Ducasse et al., 2018), the investigators estimated a target sample size enough to
+      have 80% power to detect between-group differences of 6-7 points on the Columbia Suicide
+      Severity Rating Scale (25% decrease in the intensity of SI in the intervention group). The
+      alpha error was set at 5% and the power at 80%. A dropout rate of 20% and a randomization
+      imbalance of 10% were assummed. With these settings, the investigators estimated that a total
+      of 220 participants, 110 in each arm, were needed.
+
+      Before starting the clinical trial, a pilot will be conducted, in approximately 40 patients
+      will be recruited. All of them will receive the SmartSafe EMI and be monitored using active
+      and passive EMA. These patients will not be part of the final analysis. After three months of
+      follow-up, when all participants have had time to try out the application, a focus group will
+      be held between the research team, the attending clinicians and the patients in order to get
+      their opinion on the intervention and to identify possible technical and human failures that
+      could be improved before starting the clinical trial.
+
+      Once the clinical trial recruitment starts, attending psychiatrists will check their
+      patients' eligibility during their regular appointment, explain the project in detail and
+      invite them to participate. If patients agree to participate, they will be asked to sign the
+      informed consent, after which they will be randomly assigned to the intervention group (EMI +
+      EMA + TAU) or the control group (EMA + TAU).
+
+      At the baseline interview, a psychiatrist will assess the characteristics of the last
+      suicidal event using the Brief Suicide Protocol, which has been previously published, and
+      they will set up the SmartSafe intervention according to the patient's preferences. Next, a
+      trained research assistant, blind to the patient's assigned arm, will administer the
+      standardized questionnaires detailed below.
+
+      Patients will be followed for one year, with face-to-face visits at six months and one year.
+      The attending psychiatrist will also check for STB using the Columbia Suicide Severity Rating
+      Scale (CSSRS) at the 4th week, 11th week and 9th-month appointments. If participants cannot
+      attend the follow-up visits, the assessments will be performed by phone. All questionnaires
+      will be completed via the MEmind website.
+
+      The piloting is expected to take place between June and December 2021. Recruitment is
+      expected to commence in January 2022 and to be completed by June 2023. Data collection will
+      take place from 2022 to 2024. Data analysis will take place from 2022 to 2024. The
+      investigators expect to publish partial results by the end of 2022 and final results by early
+      2025.
+
+      Digital monitoring will be performed using EMA. Two EMA modalities will be used: active using
+      the MEmind app, and passive using the eB2 app.
+
+      The MEmind app asks short daily questions that appear on the mobile screen. Each day, 2-4
+      random questions will be asked at random times (respecting sleep hours) from the pool of 34
+      questions that make up the questionnaire based on the Salzburg Suicide Questionnaire.
+
+      The EMA questions belong to 6 categories:
+
+        -  Suicidality (5 questions)
+
+        -  Non-suicidal self injury (2 questions)
+
+        -  Affect (9 questions)
+
+        -  Interpersonal experiences (11 questions)
+
+        -  Sleep (4 questions)
+
+        -  Eating (3 questions) The eB2 app runs in the background and does not require user
+           intervention. It collects real-time information from the patient's mobile phone
+           (location, mobility, smartphone usage and sleep), stores it and downloads it to a
+           server. All the information collected from the phone is transformed with a hash
+           function. This hash function makes it impossible to know the original data but allows
+           the analysis of behavioral patterns.
+
+      In addition to the smartphone-based monitoring, another digital assessment will be carried
+      out: a neuropsychological assessment using a previously validated Virtual Reality
+      environment, the "Spheres & Shield Maze Task". This tool recreates a maze with different
+      tasks to assess decision-making, impulsivity, attention and cognitive inhibition.
+
+      Non-digital assessments will be carried out by attending psychiatrists and research
+      assistants, all of them previously trained. All questionnaires will be completed on the
+      MEmind website, which allows for easy completion and immediate uploading to databases.
+
+      Some of the main tools used will be the following:
+
+        -  The Brief Suicide Questionnaire (BSQ) will be used to characterize the index event that
+           motivated inclusion in the study (suicide attempt or emergency referral for SI). It
+           includes questions on lethality, method and surrounding circumstances of the attempt,
+           and lifetime history of suicidal behaviour.
+
+        -  The CSSRS scale will be used to measure STB, both at baseline and follow-up visits.
+
+        -  The investigators will verify suicide attempts and deaths by suicide through our
+           organization's digital medical records, called the Casiopea software, which integrates
+           information on ER visits, hospitalizations, and visits to specialist consultations. If a
+           patient cannot be located, and there is no information in their record, the
+           investigators will contact the patient's family telephone number. The investigators will
+           also request access to the Spanish register of deaths and causes of death of the
+           "Instituto Nacional de Estadística" [National Statistics Institute].
+
+      At the six-month follow-up visit, patients will complete a qualitative satisfaction survey
+      with the following questions referring to each of the applications used (MEmind and eB2) and
+      the face-to-face assessments.
+
+      Traditional statistical analyses will be performed using SPSS 24.0 statistical software. To
+      compare SI at baseline with SI at the end of follow-up (CSSRS score), paired samples t-tests
+      will be used. To compare the improvement in SI after follow-up between the intervention group
+      and the control group, an independent samples t-test will be used.
+
+      Survival curves (time to a new suicidal event) will be calculated using the Kaplan-Meier
+      test. The intervention group's survival curves and the control group will be compared using
+      the log rank test. To assess the project's feasibility, participation rate, retention and
+      percentage of EMA questions answered will be calculated.
+
+      Binary logistic regression will be used to explore the correlation between the study
+      variables, obtaining crude and age- and sex-adjusted ORs. A multivariate regression model
+      will also be built to assess the unique strength of the association of the variables. Cox
+      regression analysis will be performed to explore variables associated with survival time
+      (time until next event). All tests will be two-tailed, with a significance level of p<0.05
+      and 95% confidence intervals.
+
+      In addition to the traditional analyses, with the Signal Theory Department of the Carlos III
+      University's support, unsupervised analyses will be carried out using machine learning
+      techniques to create behavioral models and patient activity profiles.
+    
+  

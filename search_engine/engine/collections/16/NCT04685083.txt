@@ -1,0 +1,141 @@
+
+    
+      Case control study Clinical symptoms, speech behavior test, EEG data, and near-infrared brain
+      imaging data are collected from three groups of subjects (consolidation/maintenance
+      depression patient group, acute episode depression patient group and healthy alternatives),
+      In terms of magnetic resonance data and other aspects, compare the similarities and
+      differences of the data of the three groups of subjects.
+
+      Follow up research The acute-onset patient group will receive follow-up every two weeks for
+      three months, and then continue in June, September, December, 18 and 24 months.
+      Consolidation/maintenance patients and healthy patients will receive follow-up evaluations in
+      March, June, September, December, 18 and 24 months after enrollment. The content includes
+      clinical symptom assessment, behavioral testing, EEG testing, near infrared testing, etc. The
+      time points of cranial imaging detection are 0, March, December and 24 months. In the
+      laboratory, if the subject agrees to collect language information in the patient's real life
+      environment.
+
+      Evaluation and inspection items
+
+        1. Clinical scale evaluation
+
+        2. Speech Behavior Test Using speech production paradigm, semantic feature task, emotional
+           prosody perception paradigm and emotional vocabulary paradigm to comprehensively detect
+           the language perception, comprehension and output of patients with depression to find
+           objective indicators of speech mutation. Voice detection includes short-term energy
+           (Max, Min, Mean), pitch (Max, Min, Mean), voice speed, number of voice interruptions,
+           short-term zero-crossing rate (Max, Min, Mean), first formant, first Two formants,
+           12-order MFCC (12 coefficients) and other parameters. The experiment is carried out in a
+           well-lit and quiet room. Before the experiment, the subject will explain the experiment
+           process to the subjects. After the experiment, in order to avoid interference, the
+           subject should leave the room. The whole process of the experiment was in the same
+           computer program, and the subjects responded according to the task requirements on the
+           screen.
+
+           2.1 Speech production paradigm The speech output paradigm used in this study includes
+           four tasks: interview, short text reading, recitation, and picture description. The
+           experiment is written and run using E-prime 2.0 software. Participants completed four
+           speech production tasks accordingly, and recorded their voices throughout the experiment
+           to obtain speech data.
+
+           2.2 Semantic processing tasks The semantic processing task is used to compare the
+           abilities of depressed patients and healthy subjects in speech processing, semantic
+           coding and extraction, and speech fluency, and explore more comprehensively the early
+           warning indicators of the recurrence of depression.
+
+        3. Magnetic resonance examination The Siemens 3.0T magnetic resonance scanner is used,
+           which is a 32-channel head coil. Before scanning, use a foam cushion to fix the head to
+           avoid head movement during scanning. The scanning sequence is: first routine scan to
+           obtain the T1-weighted positioning image of the whole brain 3D structure, then use the
+           fast gradient echo imaging sequence to perform sagittal scan of the whole brain for
+           three-dimensional reconstruction and spatial registration, and finally use plane echo (
+           EPI) sequence for blood oxygen dependent BOLD-fMRI imaging (resting state and task
+           state).
+
+        4. Functional near infrared spectroscopy Using Shimadzu lighnirs portable near-infrared
+           brain imager, the sampling rate was set to 0.1s, and the oxygenated hemoglobin
+           concentration (HbO), deoxyhemoglobin concentration (HbR) and total oxygen content (HbT)
+           were used as measurement indicators. Since language processing is mainly in the frontal
+           and temporal lobes, the probe layout covers the lateral fronto-temporal complex area.
+           After the fNIRS test, a 3D locator is used to locate the brain area. The positions of
+           the transmitter and the detector will be referenced to the Brodmann partition, and the
+           fNIRS channel position will be registered with the probability of the MNI space. The
+           subjects in the fNIRS examination need to complete the speech output paradigm and
+           semantic feature tasks. The experiment adopts a block design, the stimulation sequence
+           is written by E-prime software, and the stimulation program programmed by the computer
+           is presented on the computer display screen (approximately 55cm from the subject).
+           Before the start of the experiment, the subjects should wear an optode cap to ensure
+           that the signals of each channel are received normally. At the beginning of the
+           experiment, the screen showed "+", and the subjects only need to watch the screen and
+           try to stay calm as much as possible; then complete the relevant behavioral tests, and
+           the subjects can complete according to the instructions. The entire experiment lasted
+           about 25 minutes. The subjects collected near-infrared brain signals and voice data
+           online while completing the task.
+
+        5. EEG examination Use Brainproducts liveamp portable EEG equipment to conduct EEG
+           examination in two stages: resting state and voice task state. In the resting state EEG
+           collection stage, after the subjects put on the EEG collection equipment, sit on a
+           comfortable chair, close their eyes and stay awake, and collect the resting EEG for 5
+           minutes. In the voice task stage, the subject wears an EEG device and sits in front of
+           the computer screen. According to the instructions displayed on the screen, the voice
+           production paradigm and semantic feature tasks are performed accordingly. The microphone
+           will simultaneously record the subject's voice. The experimental program is written
+           using e-prime2.0.
+
+        6. Other physiological tests Physiological indicators (including heart rate, blood
+           pressure, weight, height, etc.), environmental indicators (including weather,
+           temperature, environmental noise, ultraviolet intensity, human comfort, etc.), Cambridge
+           Neuropsychological Test Automatic Battery (CANTAB) The gait test during natural walking,
+           the eye movement during task and facial expression information will be performed once in
+           baseline, March, June, September, December, 18 and 24 respectively.
+
+        7. Feasibility and specificity analysis of multiple detection methods This study uses
+           multiple detection methods, including clinical scale evaluation, language testing, and
+           neurophysiological examination. The purpose is to comprehensively and systematically
+           collect subjects' linguistic related information to better develop and develop voice
+           intelligent detection technology. application.
+
+      Multiple detection methods are feasible. Clinical scales are implemented by trained
+      researchers, language-related paradigms are implemented by computer programs, and
+      neurophysiological testing techniques are operated by experimenters. All detection methods
+      and methods are widely used in clinical research and are feasible.
+
+      Statistical analysis plan, definition and selection of statistical analysis data set
+
+        1. Statistical analysis data set Full analysis set (FAS, Full analysis set): People who
+           have undergone at least one clinical scale evaluation, voice collection,
+           neurophysiological data, and major index evaluation data after enrollment. Cases with
+           missing baseline data for the main evaluation indicators will be excluded.
+
+           Per Protocol Set (PPS, Per Protocol Set): On the basis of FAS, cases that meet the
+           inclusion and exclusion criteria, have a valid baseline value, have good compliance, and
+           do not violate the clinical research protocol.
+
+           The curative effect analysis uses both the full analysis set and the conforming plan
+           set, and the FAS result is the main one.
+
+        2. Data description Observe whether the data conforms to the normal distribution, if not,
+           modify the statistical method or perform data conversion. Observe whether there are
+           outliers and missing values, and perform statistical and professional analysis to
+           determine the choice and the way of filling the missing values. Descriptive statistics
+           indicate the mean, standard deviation, maximum, minimum, credible interval, frequency,
+           composition ratio, etc.
+
+        3. Statistical inference methods Measurement data adopt t test, paired t test, rank sum
+           test, paired rank sum test, median test and other methods. Counting data: Chi-square
+           test, Fisher's exact test, etc.; grade data using Ridit analysis, CMH method. Use
+           machine learning algorithms such as Support Vector Machine (SVM), Dynamic Bayesian
+           Network (DBN) and Deep Neural Networks (DNN) for speech data.
+
+        4. Statistical expression The report is mainly expressed in tables, with table titles,
+           table notes, and number of cases. In addition to the statistical results of the
+           comparison between the groups, the statistical parameter diagrams and other icons are
+           attached to increase the readability.
+
+        5. Statistical software Use SPSS22.0, Matlab software (v2014a) and NIRS-SPM (Statistical
+           Parametric Mapping for Near-infrared Spectroscopy) software for parameter statistics
+           (t-test, analysis of variance, etc.) and non-parametric statistics (rank sum test,
+           chi-square test) Etc.), using two-sided tests, P less than or equal to 0.05 is
+           considered statistically significant.
+    
+  

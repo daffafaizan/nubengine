@@ -1,0 +1,142 @@
+
+    
+      Electronic personal health record systems (PHRs) support patient centered healthcare by
+      making medical records and other relevant information accessible to patients, thus assisting
+      patients in health self-management[1,2]. The Hospital Italiano de Buenos Aires (HIBA) is a
+      private hospital in Buenos Aires, capital of Argentina. It has 500 beds and serves around
+      50,000 patients per month. Its main facilities cover a surface area of 78,000 m² (850,000
+      ft²). The hospital treats both private patients and those derived by social security. It also
+      provides its own Health Maintenance Organization (HMO) being the most important pre-paid
+      healthcare service in Argentina, with about 150,000 clients. HIBA has a Health Information
+      System (HIS) and Electronic Health Records (EHR) since 1998 and implemented a PHR in 2007.
+      The PHR gives patients access to aspects of the EHR related to their Health Care (laboratory,
+      diagnosis, preventive information, medications lists), supports messaging with their
+      physician, scheduling services and medication delivery for Self management, among other
+      things. The majority of HIBA HMO affiliates are enrolled to this PHR. In 2015 HIBA underwent
+      the process of accreditation by the United States Joint Commission[3]. As part of this
+      process, HIBA redefined and refined the EHR/PHR data set, including new fields and regrouping
+      pre-existent ones. EHR/PHR's personal data set is now composed of a series of fields grouped
+      as depicted below. Personal data information is a difficult data set to capture, particularly
+      those regarding social and cultural background information[4]. This data set is not only
+      useful to help better healthcare system management, it is also relevant as it is used for
+      epidemiological and preventive purposes[5-7].
+
+      Gamification is a term used to describe using game elements in non-game environments to
+      enhance user experience[8,9]. It has been incorporated with commercial success into several
+      platforms (Linkedin, Badgeville, Facebook). While over the past years gamification elements
+      have been incorporated in healthcare scenarios there is still little evidence on how
+      effective they are[10-12]. Game elements provide engagement consistent with various theories
+      of motivation[13], positive psychology (e.g., flow)[14], and also provide instant feedback.
+      Feedback is more effective when it provides sufficient and specific information for goal
+      achievement and is presented relatively close in time to the event being evaluated. Feedback
+      can reference individual progress, can make social comparisons, or can refer to task
+      criteria.
+
+      In order to assess whether gamification is an effective tactic to drive PHR users' behavior,
+      an intervention was designed. The investigators used gamification elements such as points,
+      graphical representations and playful attitude to the design and interactions of the Bio page
+      in the Hospital's PHR. These elements provide instant feedback to user actions. A control
+      group with no game elements will be compared with a gamified group to see if these new game
+      elements would increase patient's personal data rectification, validation and completion in
+      the Hospital's PHR. A status variable was created and assigned to all fields according to the
+      following scheme:
+
+        -  Completed: user has modified empty field.
+
+        -  Corrected: user has modified non-empty field.
+
+        -  Verified: user has updated Group but field data has experienced no change.
+
+        -  Validated: user has clicked on the "validate" button.
+
+      EHR/PHR Personal data set
+
+        1. Contact Information
+
+             -  First Name
+
+             -  Last Name
+
+             -  Date of Birth
+
+             -  ID Number
+
+        2. Nationality
+
+             -  Citizenship
+
+             -  Languages Spoken
+
+        3. Place of Residence
+
+             -  Street
+
+             -  Number
+
+             -  Floor
+
+             -  Zip Code
+
+             -  Town
+
+             -  Province
+
+             -  Country
+
+        4. E-Mail
+
+           - E-mail address
+
+        5. Phone Numbers
+
+             -  Home Number
+
+             -  Work Number
+
+             -  Fax
+
+        6. Emergency Contact
+
+             -  First Name
+
+             -  Last Name
+
+             -  Relationship with patient
+
+             -  Address
+
+             -  Phone Number
+
+        7. Billing Information
+
+             -  Street
+
+             -  Number
+
+             -  Floor
+
+             -  Zip Code
+
+             -  Town
+
+             -  Province
+
+             -  Country
+
+        8. Social Aspects
+
+             -  Type of Residence
+
+             -  Living Situation
+
+        9. Education
+
+           - Highest Academic Degree Achieved
+
+       10. Cultural Aspects
+
+           - Religious Belief
+
+       11. Special Needs
+    
+  

@@ -1,0 +1,22 @@
+
+    
+      In this project, we will leverage on a locally developed electroencephalograph (EEG)-based
+      BCI technology for decoding affective states of the brain, and thereby develop a closed-loop
+      sensing and stimulation mechanism. The technology uses advanced neural signal computing on
+      the EEG in real-time and audio feedback using a machine learning model that associates
+      individual user's EEG characteristics in relation to music-emotion features. The system is
+      portable and will allow emotion regulation training to be done outside of hospital setting
+      with ease thus potentially addressing the treatment gap for MDD in the elderly.
+
+      This is a two group randomized study. One group will undergo the intervention which is 24
+      sessions of BCI emotion regulation training (i.e. listening to music with audio feedback to
+      regulate emotions towards positive affect) over an 8-week period. The control group will
+      undergo 8 weeks of music sessions, without any emotion regulation training. Both groups will
+      undergo pre- and post- psychometric assessments looking at cognition, quality of life,
+      functioning and emotional states. This study will also carry out functional MRI of the brain
+      before and after 8 weeks of either training (intervention) or music music session (control)
+      to examine changes associated with the affective BCI training. Study findings derived from
+      psychometric assessments, EEG analysis and neuroimaging will provide evidences on efficacy
+      and usability of this technology.
+    
+  

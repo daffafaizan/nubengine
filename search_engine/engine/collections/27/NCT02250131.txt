@@ -1,0 +1,114 @@
+
+    
+      2. Study design Multicenter, international, prospective, randomized and controlled study.
+      Patient population
+
+        1. Inclusion criteria: Adult (> 18 years) patients undergoing cardiac operations with CPB.
+
+           Expected CPB duration > 90 minutes.
+
+        2. Exclusion criteria: severe chronic renal failure (dialysis or serum creatinine > 3.0
+           mg/dL); emergent (must be operated immediately) procedure; moderate-severe anemia
+           (preoperative HCT < 32%); expected nadir CPB temperature < 32 °C.
+
+        3. Withdrawal criteria (after randomization): Need for allogeneic blood transfusions before
+           CPB. Need for allogeneic blood to prime the CPB circuit. DHCA or other violations of the
+           entry criteria. CPB duration below 90 minutes will not be withdrawal criterion, but a
+           subroup analysis is anticipated.
+
+      Primary outcomes
+
+      Incidence of AKI, defined according to the AKIN criteria (9) as:
+
+      AKI stage 1: peak postoperative serum creatinine > 1.5 x baseline or absolute increase 0.3
+      mg/dL, within the first 48 hours after surgery.
+
+      AKI stage 2: peak postoperative serum creatinine > 2.0 x baseline, within the first 48 hours
+      after surgery (AKI stage 3 will be incorporated in the AKI stage 2 group).
+
+      Any AKI: stage 1 or higher Peak serum creatinine: within the first 48 postoperative hours.
+      Diagnosis of AKI must be reached within the first 48 hours after surgery, but staging may
+      require a longer time (up to 7 days after surgery).
+
+      Secondary outcomes Length of ICU stay (days) Transfusion (red blood cells) rate and amount of
+      red blood cells units transfused Major morbidity (according to STS): mechanical ventilation >
+      48 hours, AKI stage 2, surgical revision, mediastinitis, stroke.
+
+      Operative (in-hospital) mortality 3. Sample size The power analysis is based on the primary
+      outcome "any AKI".
+
+      Data from the previous study (1) provide the following figures for the total patient
+      population:
+
+      Any AKI rate: 21.2% AKI stage 1: 8.8% AKI stage 2-3: 12.4% With the following distribution
+      according to a cut-off value settled at a nadir DO2 of 280 mL/min/m2.
+
+      Outcome All cases N=354 DO2 < 280 mL/min/m2 N= 181 DO2 ≥ 280 mL/min/m2 N= 173 P Any AKI 75
+      (21.2%) 54 (29.8%) 21 (12.1%) 0.001 AKI stage 1 31 (8.8%) 23 (12.7%) 8 (4.6%) 0.007 AKI stage
+      2-3 44 (12.4%) 31 (17.1%) 13 (7.5%) 0.006
+
+      Based on the above table, we know that the Control Group will spontaneously meet the goal in
+      50% of the cases, and that will have an any AKI rate of 21%.
+
+      We hypothesize that the Goal-Directed Perfusion (GDP) group will meet the goal in 95% of the
+      cases. When the goal is met, the AKIN rate will be 12%; when it is not, it will be 29% This
+      will lead to an expected AKI rate in GDP group of 12.8%.
+
+      Therefore, the effect size will be a 40% reduction in the AKI rate (12.8% in GDP group, 21%
+      in Control group.
+
+      Based on this effect size, an alpha value of 0.05 and a beta value of 0.20, the number of
+      patients in each group is 350, for a total patient population of 700.
+
+      Data analysis will be restricted to patients with a CPB duration > 60 minutes. Same applies
+      to extremely long CPB duration, based on the percentile distribution of CPB.
+
+      Interim analyses planned at 25%, 50%, and 75% of patients enrollment, with stopping rules for
+      futility, safety, efficacy. Stopping rule for futility: relative risk for the primary outcome
+      not inclusing the hypothesized value of 0.6 within 99% confidence interval at 50% interim
+      analysis or 95% at 75% interim analysis. Stopping rule for efficacy in presence of a
+      difference in favour of the GDP arm at a P value of 0.01 at 25% interim analysis or 0.05 at
+      the 50% and 75% interim analyses. Stopping rule for safety in presence of a difference in
+      favor of the control arm at a P value of 0.01 at the 25% interim analysis or 0.05 at the 50%
+      and 75% interim analyses (Ethics Committe amendment August 2016).
+
+      4. Interventions Patients will be randomly allocated to the Control or the GDP group.
+      Randomization will be performed locally at each participating Institution, using
+      computer-generated schemes.
+
+      The patients in control Group will be treated according to the local standards. The patients
+      in GDP group will be treated according to the GDP (see table below).
+
+      CONTROL (N=350) TREATMENT (N=350) GDP monitor GDP monitor NO Blood prime (withdrawal) NO
+      Blood prime (withdrawal) Priming volume and nature according to local standards Priming
+      volume and nature according to local standards Perfusion targeted on body surface area and °C
+      Perfusion targeted on DO2 ≥ 280 mL/min/m2 Perfusion pressure according to local standards
+      Perfusion pressure according to local standards Transfusion triggered by HCT according to
+      local standards Transfusion triggered by venous oxygen saturation < 68% and/or oxygen
+      extraction rate > 40% Postoperative care according to local standards Postoperative care
+      according to local standards
+
+      Details of the GDP protocol:
+
+      The main intervention to achieve the target value of DO2 is increasing the pump flow.
+      Additional interventions include hemofiltration to increase the HCT.
+
+      Transfusion protocol
+
+        1. During CPB: Transfusions are mandatory below a HCT of 18%. Transfusions are generally
+           prohibited for an HCT > 21%. However, based on the individual judgement that the patient
+           is actually in need for packed red cells, transfusions are allowed between an HCT of 22%
+           and 24%. In this case, this will be considered as a protocol violation, but the patient
+           will not be withdrawn.
+
+           Transfusions are always prohibited for an HCT > 24%.
+
+        2. After CPB: HCT < 18%: packed red cells are mandatory HCT between 19% and 23%: packed red
+           cells are allowed HCT between 24% and 30%: packed red cells generally prohibited, but
+           admitted based on physician's judgement. This represents a protocol violation. In this
+           case, this will be considered as a protocol violation, but the patient will not be
+           withdrawn.
+
+      HCT > 30%: packed red cells are prohibited.
+    
+  

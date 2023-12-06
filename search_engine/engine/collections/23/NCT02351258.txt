@@ -1,0 +1,152 @@
+
+    
+      Study Design and Population: The proposed study will use a cluster-randomized, 2 period
+      crossover design, clinical trial to evaluate a promising new intervention, namely 70%
+      isopropyl alcohol embedded protective caps, to reduce CLABSIs, 2ndry BSI, and SPBC at home
+      for chronic central lines in pediatric hematology/oncology patients. The Control Arm will
+      involve "usual care" for ambulatory central lines per institutional policy and the
+      Intervention Arm will add use of 70% isopropyl alcohol embedded protective caps to "usual
+      care. Each participating institution will be randomly assigned to either the intervention or
+      control phase of the design for the first 12 months of the study. There will then be a 3
+      month wash out period, followed by each institution then implementing either the control or
+      intervention phase for another 12 months such that each institution will complete 12 months
+      each in the intervention arm and the control arms of the study.
+
+      Sixteen pediatric hematology/oncology institutions will serve as the core population for this
+      proposal and unit of randomization. All ambulatory patients taken care of by these pediatric
+      hematology/oncology clinics at these institutions will be eligible for this study. The only
+      inclusion criteria will be presence of an external central line. Given the intervention is a
+      protective cap for central line access ports, patients who only have a totally implanted port
+      as their central venous access will not be eligible for this study as the intervention is not
+      physically applicable to such central lines.
+
+      The intervention the investigators will deploy is the CUROS® brand of 70% isopropyl alcohol
+      embedded protective caps for central lines. These caps are manufactured by Ivera Medical
+      Corporation. As in kind contribution to this proposed study, Ivera Medical Corporation has
+      agreed to donate and distribute all needed CUROS® caps to the participating institutions for
+      the duration of this study. If any of the participating teams wishes to instead use a
+      comparable brand of 70% isopropyl alcohol embedded protective caps for central lines that
+      will be permitted.
+
+      Distribution of the CUROS® caps will be accomplished within the clinics of each participating
+      institution and compliance with the intervention at homes will be monitored by clinic staff
+      via tracking counts of CUROS® caps dispensed to families. Children with chronic
+      hematologic/oncologic conditions are seen frequently in clinic, often up to every week.
+      Clinic staff can distribute and track volume of CUROS® caps dispensed to each family/patient,
+      with the family/patient can report back each visit on the volume of CUROS® caps utilized.
+      This will ensure reliable distribution to the families/patients, provide a face to face
+      educational opportunity to ensure proper application of the CUROS® cap, and provide
+      compliance opportunities via counts of CUROS® caps utilized.
+
+      This proposal will involve a cluster-randomized, 2 period crossover design, clinical trial.
+      Given this proposal's focus on reducing central line infections at home, the main
+      facilitators of best practice use of these caps at home will be the families and patients
+      themselves. The research team will spread the needed additional education, tools, data,
+      analyses, and support for this proposal.
+
+      Study Organization and Timeline: The work will build on the partnership between the pediatric
+      quality improvement research group at Johns Hopkins University and the vendor Ivera Medical
+      Corporation, maker of the CUROS® brand 70% isopropyl alcohol embedded protective caps for
+      central lines. Dr. Miller is Principal Investigator and serves as Vice Chair of Quality and
+      Safety, Director of Division of Quality and Safety at the Johns Hopkins Children's Center.
+      Dr. Miller had led and continues to lead efforts to transform the quality and safety of the
+      delivery system at Johns Hopkins University and is a formally trained in Lean Six Sigma
+      quality improvement as well as having her Masters of Science degree in clinical research. In
+      addition, Dr. Aaron Milstone at Johns Hopkins University, director of pediatric hospital
+      epidemiology and infection control and an accomplished researcher in pediatric infection
+      prevention, will be a Co-Investigator on this proposal. Dr. Milstone led the recently
+      published clinical trial work in Lancet describing the impact of chlorhexidine bathing on
+      CLABSI and positive blood cultures in children in 10 PICUs. Dr. Elizabeth Colantuoni is a
+      Biostatistician and Assistant Scientist in the Johns Hopkins Bloomberg School of Public
+      Health.
+
+      The work will span four years. Year 1 Preparatory work will include establishing
+      Institutional Review Board approval at each of the participating institutions, setting up
+      data collection and submission processes, setting up distribution mechanisms for the
+      intervention both to the clinics and then within each clinic to the homes, and educating
+      providers, patients, and families on how to apply the CUROS® cap across all the participating
+      institutions. Years 2, 3, and 4 will include two 12 month trial periods with a 3 month wash
+      out period in between. The last 9 months of Year 4 will be used for data analysis and
+      manuscript preparation.
+
+      Methods SPECIFIC AIM 1 and SPECIFIC AIM 2:
+
+      Specific Aim #1: Evaluate whether use of 70% isopropyl alcohol embedded protective caps on
+      central lines reduces the rate of CLABSI in ambulatory pediatric hematology/oncology
+      patients.
+
+      Hypothesis: Use of 70% isopropyl alcohol embedded protective caps on central lines will be
+      associated with at least a 25% reduction in the ambulatory CLABSI rate for pediatric
+      hematology/oncology patients.
+
+      Specific Aim #2: Evaluate whether use of 70% isopropyl alcohol embedded protective caps on
+      central lines reduces the rate of all positive blood cultures in ambulatory pediatric
+      hematology/oncology patients.
+
+      Hypothesis: Use of 70% isopropyl alcohol embedded protective caps on central lines will be
+      associated with at least a 25% reduction in the positive blood culture rate at home for
+      pediatric hematology/oncology patients.
+
+      Independent variables: The primary independent variable will be ambulatory CLABSI rates for
+      Specific Aim #1 and all positive blood culture rates, defined as CLABSI rate + MBI-CLABSI
+      rates + Secondary BSI rates + single positive blood culture (SPBC) rates, for Specific Aim
+      #2. All of the participating units already devote Hospital Infection Control staff to
+      identify and track all 3 of these types of ambulatory central line infections.
+
+      Dependent variable: The dependent variable for these Specific Aims will be the dichotomous
+      assignment to either control or intervention arms where unit will receive both arms.
+
+      Data collection method: All Hematology/Oncology units will submit monthly aggregate clinic
+      data on CLABSI, MBI-CLABSI, Secondary BSI and SPBC (numerators and denominators) via a
+      web-based data entry tool.
+
+      Exploratory analyses: Events and line-days at the unit level will be calculated to summarize
+      rates of infections (CLABSI and all infections) by treatment and period as well as by month
+      to assess for any important trends. These trends will be evaluated using scatterplots and
+      line plots, overall and separately by treatment arm and period. Summary statistics, such as
+      mean, median, interquartile range and variance, for the monthly number of infection events
+      and rates will be calculated for the overall sample and by treatment and period. In case
+      missing data occurs in our analysis we will explore the relationship between missing data and
+      the unit's observed data in months prior and our analysis methods will be valid under the
+      assumptions that the missing data are generated completely at random or depend on the prior
+      observed rates (missing at random). Our data integrity efforts and frequent contacts with
+      this team will work to minimize any instances of missing data.
+
+      Multivariate analyses: Random effects Poisson regression models will be used to test for a
+      treatment effect. Specifically, the monthly number of CLABSI (Specific Aim #1) or the monthly
+      number of all infections (Specific Aim #2) will be modeled as a function of the dichotomous
+      treatment assignment and an indicator for when the treatment arm was received (first or
+      second 12 month period) with inclusion of an offset representing the monthly number of
+      central line days and a random intercept for unit to account for the correlation of monthly
+      rates of infections over time within the same unit. The models rely on two key assumptions:
+      i) the infection rates follow a Poisson distribution where the mean rate is the same as the
+      variance in the rate and ii) the correlation of the rates within a unit over time is
+      exchangeable. These assumptions will be assessed via descriptive analyses and by adding a
+      robust variance estimate clustering on the unit.
+
+      Methods, Specific Aim #3: To evaluate whether the use of 70% isopropyl alcohol embedded
+      protective caps on central lines changes the distribution of bacteria isolated from blood
+      cultures of ambulatory pediatric hematology/oncology patients.
+
+      Hypothesis: Use of 70% isopropyl alcohol embedded protective caps on central lines will be
+      associated with altered microbial epidemiology for CLABSI, secondary blood steam infections,
+      and single positive blood cultures at home for pediatric hematology/oncology patients.
+
+      Independent variables: Organisms isolated for all blood cultures (CLABSI + MBI-CLABSI +
+      Secondary BSI + SPBC) in patients involved in this study will be collected from participating
+      teams during both the Control and Intervention arms of the clinical trial and sorted into
+      Gram Positive versus Gram Negative organisms.
+
+      Dependent variable: The dependent variable for this Specific Aim will be the dichotomous
+      assignment to either control or intervention arms.
+
+      Data collection method: All Hematology/Oncology ambulatory care teams will submit the
+      microbial pattern data for all positive blood cultures.
+
+      Analyses: The analysis would be a comparison of proportions of Gram positive organisms
+      causing CLABSI, SPBC, and all positive blood cultures between the control and intervention
+      study arms. Given that Gram positive organisms are the most common organisms causing CLABSI
+      and SPBC in children, achieving a reduction in Gram positive organisms would be an important
+      additional finding of this clinical trial.
+    
+  

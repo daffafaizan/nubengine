@@ -1,0 +1,124 @@
+
+    
+      OBJECTIVES:
+
+      The main objective of this study is to describe and measure the effects of intraoperative
+      hemodynamic management on postoperative outcomes in liver transplantation in Canada.
+
+      The specific objectives are:
+
+        1. To describe the overall incidence of postoperative complications and graft outcomes in
+           adult liver transplant recipients in Canada and across different recipients'
+           characteristics.
+
+        2. To measure the effects of fluid balance, within an overall hemodynamic instability and
+           management strategy, on the postoperative outcomes of liver transplant recipients in
+           Canada.
+
+      The central hypotheses of this study are that an intraoperative hemodynamic management based
+      on a restrictive fluid administration may improve postoperative outcomes in this population.
+
+      EXPOSURE VARIABLES;
+
+      The exposures of interest will be the intraoperative fluid balance and the intraoperative
+      doses and types of vasopressors used. Fluid balance will be defined as the sum of the volume
+      of administered crystalloids, colloids and blood product transfusions minus drained ascites,
+      intraoperative diuresis and bleeding. Doses of administered vasopressors will be converted
+      into a time-weighted total norepinephrine equivalent dose calculated as the total equipotent
+      units of norepinephrine administered as an infusion divided by the number of hours the
+      infusion was given during the period between entrance in the operating room and ICU
+      admission. Types of vasopressors used will also be collected. Since a restrictive fluid
+      management strategy is associated with a higher use of vasopressors and vice versa, both
+      variables may covary together. However, more difficult surgeries will be associated with
+      higher blood loss, higher volume of administered fluid and higher doses of vasopressors. The
+      combination of these two variables will help estimate the intraoperative hemodynamic
+      management strategy used and delineate the effects of each component.
+
+      OTHER DESCRIPTIVE VARIABLES:
+
+      Other patients' characteristics and perioperative practices variables will be captured for
+      descriptive purposes. Recipients' demographic characteristics (age, sex), anthropometric
+      variables (body mass index (BMI)), the presence of any previous abdominal surgery, presence
+      of hepatic encephalopathy, need for preoperative organ support or any preoperative hospital
+      admission will be collected as well. Data on the perioperative use of invasive cardiac output
+      monitoring (thermodilution catheter, transoesophageal echocardiography, etc.), as well as
+      coagulation management (use of thromboelastometry, tranexamic acid, transfusion thresholds,
+      etc.) will be collected. Other donor and graft variables, such as donor sex, donor's BMI, the
+      type of vascular and biliary anastomoses, the use of extended-criteria donor graft, the use
+      of ex vivo perfusion, ischemia time, the practice of donation after circulatory death (donor
+      characteristics, heparin usage, etc.) and the perioperative use of liver biopsies will also
+      be collected.
+
+      DESCRIPTIVE AND STATISTICAL ANALYSIS:
+
+      Descriptive analyses and complications incidences across centers:
+
+      The cumulative incidences of different complications will be described. The main descriptive
+      analysis will be to report these incidences overall as well as across centers (anonymized). A
+      chi-square test for each complication will be used to test if the variation across center is
+      statistically significant. The survival up to 6 months over and across centers and will
+      perform a log-rank test will also be reported. The alpha level will be set at 0.05. To better
+      define the variability of complications across centers, the determination models will be fit
+      to estimate the center effect as an independent variable, adjusted for age, sex, disease
+      severity and the DRI. A Cox regression for biliary complications and a Poisson regression for
+      the total number of complications up to 30 days per patient (count variable) will be used.
+      The secondary analyses will be to report the cumulative incidence of each complications
+      according to age categories (< 50, 50-60, >60), sex, nature and severity of liver disease
+      (chronic liver disease (CLF), acute liver failure (ALF), retransplantation and MELD
+      categories among CLD patients (< 20, 20-30, >30). Such incidences will be reported with 95%
+      confidence intervals.
+
+      Association between hemodynamic management and postoperative complications:
+
+      The primary association analysis will be the association between fluid balance and time to a
+      biliary complication using a multivariable Fine and Gray model, adjusted for the
+      time-weighted dose of vasopressors and the aforementioned confounders, with retransplantation
+      and death (not caused by the biliary complications) considered as competing risks. The
+      intra-cluster correlation from centre effect will be addressed by estimating inter-centre
+      variability using a frailty factor. The second transplantation of any patient performed
+      during the observation period will be excluded to avoid intra-patient correlation and censor
+      the first transplantation follow-up at retransplantation. The secondary analyses will be the
+      association between fluid balance and other outcomes using similar adjusted survival models
+      (with frailty factors) or generalized mixed effect models (with random intercepts).
+      Statistical interaction will be explored between fluid balance and the vasopressors dose
+      variable. Risk proportionality over time will be explored using the Harrel and Lee test and a
+      visual inspection of the Schoenfeld residuals. The confounding effect of hypotension will be
+      evaluated by removing it from the models and measure the observed change in estimate as well
+      as measuring the effect in a restricted subgroup of patients without significant residual
+      hypotension (< 150 mm*Hg). Sensitivity analyzes will be conducted to explore the robustness
+      of the findings by alternatively excluding patients transplanted for amyloidosis or acute
+      liver failure, those who received a living donor graft or cadaveric donor graft after
+      cardiocirculatory arrest, and those with severe chronic renal failure (glomerular filtration
+      rate < 15 mL/hour/1.73 m2 or on dialysis). The effect of vasopressor doses by type of
+      vasopressors (instead of an overall dose equivalent) will also be explored.
+
+      Economic analysis:
+
+      An economic analysis to evaluate hospital costs associated with the observed incidences of
+      postoperative complications will be conducted. The costs associated with our fluid balance
+      exposure effect will be analyzed. Costs will be those associated with the actual procedures,
+      as determined by every hospital using its account systems, and include both fixed and
+      variable components previously identified as major cost drivers (mechanical ventilation days,
+      LOS, reoperation and ICU readmission).
+
+      SAMPLE SIZE
+
+      Based on clinical trials in major surgery, a relative difference of 25% for all complications
+      was considered minimally clinically significant. Assuming a proportion of biliary
+      complications of 25% at one year, an absolute reduction of 6.25% of complications may be
+      converted to a HR of 1.4. To be more conservative, a HR of 1.2 is selected (HR = 1.24 per
+      liter of fluid balance for survival in previous work), which required a sample size of 427
+      patients to be measurable (alpha = 0.05, power = 95%, proportion of events = 0.25, R2 = 0.1
+      between exposure and the adjustment variables, fluid balance standard deviation = 2 L) (44).
+      Since random effects have a minimal impact on the sample size when the intervention is not
+      cluster randomized, it is not taken into account. To prevent potential seasonal variability
+      in organ procurement, have enough power in case of missing data and ensure enough degree of
+      freedom for our multivariable analyses, all eligible patients over a 1-year period are
+      planned to be enrolled. The principal investigator anticipates an enrollment of 470
+      consecutive liver transplant recipients over such period according to the annual volume in
+      each centre (CHUM: 65, MUHC: 45, TGH: 200, LHSC: 60, UAH: 100). Sample size calculation was
+      conducted using R software (R collaboration (version 3.6.2) and the powerSurvEpi package
+      (version 0.1.0). Different sensitivity analyses for residual power were conducted based on
+      different assumptions and a sample size of 470 patients.
+    
+  

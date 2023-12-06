@@ -1,0 +1,87 @@
+
+    
+      Purpose of the study:
+
+      The goal of this study is to identify initial electrocardiogram (ECG) findings (including
+      ST/S ratio and T-wave morphology) that predict clinical outcomes (myocardial infarction,
+      positive stress test, revascularization and death), in a cohort of Emergency Department (ED)
+      patients with left bundle branch block (LBBB) who are being evaluated for acute coronary
+      syndrome (ACS).
+
+      Design & procedures:
+
+      The investigators will prospectively identify all adult (18yrs and older) patients presenting
+      to their institution's ED who are being evaluated for ACS and have LBBB on ECG. The
+      investigators will collect data on demographics (including age, but not date of birth),
+      cardiac risk factors, date and time of presentation to the ED, ECG measurements, lab and
+      radiographic results (cardiac biomarker data including date and time of the sample, stress
+      test results, coronary imaging results, coronary catheterization results) and clinical
+      outcomes such as 30-day death or MI. They will collect copies of ECGs and measure the
+      following: ST/S ratio (ratio of the amplitude of ST segment deviation to the S wave
+      amplitude); T-wave morphology (entirely discordant, entirely concordant, or biphasic to the
+      PR interval); and standard ST segment deviation. A logistic regression analysis will be used
+      to identify which ECG features are associated with 30-day death, MI, and revascularization.
+      In the sub-cohort of subjects with negative "modified Sgarbossa criteria" a subanalysis will
+      identify the outcome rates for the following specific sub-populations: those less than 2
+      consecutive partially-concordant T-wave leads and those with 2 or more consecutive
+      partially-concordant T-wave leads.
+
+      Selection of Subjects:
+
+      The population will be patients age 18 or older who present to the ED with LBBB and suspected
+      ACS. The investigators expect the mean age of the study population to be approximately 60
+      years old, with most patients between 40 and 90. They anticipate that these patients will on
+      average have multiple medical comorbidities given that those with LBBB and ACS are reported
+      to be a sicker, older population with more cardiac risk factors than the usual ACS patient
+      without LBBB. Patients under age 18 will be excluded because they extremely rarely have ACS
+      and/or LBBB. The investigators anticipate 300 subjects.
+
+      Inclusion criteria: age 18 and older, LBBB on ECG, presenting to the ED and being evaluated
+      for ACS.
+
+      Exclusion criteria: prisoners, institutionalized individuals, patients who are incapable of
+      giving legally effective consent, patients who cannot understand spoken English.
+
+      Consent process:
+
+      After the initial screening process, if the potential subject meets the inclusion/exclusion
+      criteria and does not object to learning more about the study during initial discussion with
+      their primary provider, then one of the key personnel trained and authorized to consent will
+      approach the potential subject to discuss the study by explaining the following: the purpose
+      of the study and the future benefits it may provide in subsequent patients, the prospective
+      and observational nature of the study, the study procedures, the risks of loss of
+      confidentiality, and the safeguards against that risk. All information will be clearly
+      printed in plain language on the consent form. The potential subject will then be given the
+      choice to enroll in the study.
+
+      Only the potential subject will be allowed to provide consent. The potential subject will
+      have until discharge or transfer from the Emergency Department to decide whether or not to
+      participate in the study. The minimal risks and minimal subject involvement justify this
+      practical and logical time requirement. The consent process will occur in the potential
+      subject's room in the Emergency Department.
+
+      Data Analysis & Statistical Considerations:
+
+      The data will be analyzed with a cohort study design, calculating odds ratios between ECG
+      characteristics and outcomes. The two primary ECG characteristics investigated will be 1)
+      presence of at least 2 consecutive leads with at least a partially concordant T-wave
+      (biphasic or entirely concordant), and 2) the ST/S ratio (the ratio of the ST-segment
+      deviation to the S or R wave amplitude, whichever greater). Secondary ECG features measured
+      will include heart rate, rhythm, intervals, bundle branch blocks, PR and ST segment
+      deviations and concordance/discordance, P/Q/R/S/T amplitudes, QRS durations, QT intervals, T
+      wave inversions, segment contours and concavity/convexity. The primary outcomes of interest
+      will be 1) positive cardiac troponin T biomarker levels on index visit, and 2) positive
+      stress test results on index visit. Secondary outcomes will include the rates of 30-day
+      myocardial infarction, 30-day death, and 30-day revascularization.
+
+      The investigators will present summary statistics on subject demographics, ECG findings,
+      lab/imaging/procedure results, and outcomes. They will determine association between
+      dichotomous outcomes of cardiac biomarker (cTNT) levels, stress test, MI, death,
+      revascularization, and normally distributed continuous clinical and demographic
+      characteristics using t-tests for normally distributed continuous data or Wilcoxon tests for
+      non-normally distributed data, and with categorical characteristics using Fisher's exact or
+      Chi-squared tests. Associations between continuous variables will be assessed using Spearman
+      or Pearson correlations. Significance of the tests will be assessed at alpha = 0.05. Analysis
+      will be conducted using SAS 9.3 (SAS Institute, Inc., Cary, NC).
+    
+  

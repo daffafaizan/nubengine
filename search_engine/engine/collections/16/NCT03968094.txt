@@ -1,0 +1,49 @@
+
+    
+      Setting: This research project will be performed at an inner-city hospital in Western New
+      York, Buffalo General Medical Center (BGMC) is typical of an under-resourced facility
+      providing care to a substantial proportion of the indigent, minority, immigrant and medically
+      underserved population of a region. In 2017, 36% of BGMC patients identified themselves as
+      Black or African American. Typical patients face economic, cultural or linguistic barriers to
+      healthcare. By focusing on OIRC at BGMC, this study will help in informing how health
+      disparities may impact the incidence of OIRC. At BGMC in 2017, 11,744 surgical procedures
+      were performed and 2% of general surgical cases experienced an adverse event (code blue).
+      Information on adverse events related to OIRC is not available.
+
+      Aim 1. After recruiting and performing informed consent pre-operatively, we will monitor
+      post-operative patients using pulse oximetry, capnography, TCpCO2, and minute ventilation
+      during recovery from anesthesia (in PACU), and on the general care floor for up to 72 hours.
+      An observational study of 50 surgical patients will be performed to record electronic
+      respiratory monitoring data as well as patient characteristics. This information will be used
+      for validation and iterative development of prediction models using machine learning
+      techniques. In our preliminary work, we used data that was collected by the research
+      assistants reading the data off the device display. During the proposal proposed study, we
+      will record the data from each electronic device directly on USB memory sticks attached to
+      the device. In our preliminary work, we had data from the PACU stay only. During this study,
+      we will collect data prospectively throughout the hospital stay to further inform changes in
+      respiratory compromise as the patient transitions away from the anesthetic and paralytic
+      agents . On the machine learning side, we will explore long-short term memory networks
+      (LSTM), which have become the state of art machine learning models to deal with sequence and
+      time series data (24), including applications in the healthcare domain (25), including recent
+      work by Co-I Chandola. The justification behind using these models over the support vector
+      machine model used in our preliminary study is that they are able to explicitly model the
+      temporal dependencies in the data, which is expected to provide significant improvements in
+      the predictive performance of the model (26).
+
+      Aim 2. To further understand factors related to OIRC and to assist in responding to the AHRQ
+      reviewers' comments, we will perform a root cause analysis of all adverse events found in the
+      patients we recruited for Aim 1, as well as all rapid response calls, naloxone deliveries,
+      and code blue calls for 2018 at Buffalo General Medical Center (BGMC ). We will examine each
+      case specifically for nursing assessment and monitoring procedures as well as all patient and
+      environmental factors that may have contributed to the adverse event. The patient safety
+      physician and quality assurance nurses from BGMC will be interviewed to perform root cause
+      analysis of all opioid-related adverse events that have occurred over the past year at the
+      facility. Each event will be broken down by who was involved, what they were doing, what
+      technologies were used, where did the event take place, and what outside factors may have
+      contributed to the event. This information will be used to group the potential causes and the
+      progression toward the adverse event, which will allow for identification of the roles of
+      staff workload and patient monitoring on OIRC occurrence. We have received a letter of
+      support from the medical director of patient safety at BGMC and Kaleida Health chief nursing
+      office for our intended projects.
+    
+  

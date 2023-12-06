@@ -1,0 +1,45 @@
+
+    
+      Design:
+
+        -  Prospective cohort study
+
+      Setting:
+
+        -  35-bedded integrated intensive care/ high dependency unit in Ng Teng Fong General
+           Hospital. Patients' status can be changed between ICU-status and HD-status within the
+           same ICU-/ HD-bed
+
+      Participants:
+
+        -  All adult patients who will be admitted to the unit between August-2015 to October-2016
+           for ≥ 24 hours
+
+      Intervention:
+
+      Nil. Given the observational nature of this study, no attempt will be made to standardize
+      care, including nutritional practices.
+
+      Measurement:
+
+        -  As per routine care, a validated nutritional assessment tool [7-point Subjective Global
+           Assessment (7-point SGA)] will be used to determine patients' nutritional status within
+           48 hours of ICU admission
+
+        -  The primary outcomes will be hospital mortality and ICU length of stay. To measure
+           hospital mortality, all patients will be followed until hospital discharge or death for
+           up to one year after ICU admission. For ICU length of stay (in days), duration will be
+           measured from the date of the first ICU admission to the date of the first change in
+           ICU-status to HD-status or discharge to the general ward
+
+      Analysis:
+
+        -  Modified Cox regression model with robust variance and logistic regression will be used
+           to determine the associations between nutritional status and hospital mortality.
+           Analyses will be conducted in two ways: 1) presence versus absence of malnutrition, and
+           2) dose-dependent association for each 1-point decrease in the 7-point SGA
+
+        -  Multiple linear regression will be applied to determine the associations between
+           nutritional status and ICU length of stay
+    
+  

@@ -1,0 +1,25 @@
+
+    
+      Hand motor impairment is very common after a stroke. These impairments include difficulty
+      moving and coordinating the hands and fingers, which inhibits stroke patients from being able
+      to perform daily functional tasks independently, resulting in a reduced quality of life. More
+      than half of people with upper limb impairment after stroke will still have problems many
+      months to years after their stroke. Therefore, improving hand function is a core element of
+      rehabilitation. Many possible interventions have been developed; these may involve different
+      exercises or training, specialist equipment or techniques, or they could take the form of a
+      drug (pill or injection) given to help hand movement. There is limited evidence that suggests
+      the following interventions may be effective: constraint-induced movement therapy, mental
+      practice, mirror therapy,interventions for sensory impairment, virtual reality and a
+      relatively high dose of repetitive task practice. Current hand rehabilitation robotic devices
+      are typically driven by rigid linkages or joints, which subject the patient's fingers into a
+      single plane of motion that will feel unnatural and uncomfortable. On top of that,these
+      devices belong to the class of continuous passive motion (CPM) devices that only promote hand
+      range-of-motion, but do not require the patient to play a semi-active role in performing the
+      hand exercises. Furthermore, there is a huge demand for solutions assisting stroke patients
+      with using the densely paralyzed hand to perform activities of daily living (ADL) in real
+      life, which is not available at present. Most of the hand rehabilitation robotic devices
+      available in the market cannot assist paralyzed hand to carry out ADL. To develop an
+      assistive device to solve this unmet need, we decided to combine BCI technology with the
+      wearable soft robotic glove, which enables actuation of paralyzed hand by motor imagery.
+    
+  

@@ -1,0 +1,13 @@
+
+    
+      This study proposes to build a clinical predictive model to predict axillary lymph node
+      metastasis and prognosis in invasive-breast-cancer patients who received neoadjuvant
+      chemotherapy before surgery. The model is built based on breast MRI signatures extracted and
+      analyzed via deep machine-learning algorithm methods. Invasive breast cancer patients undergo
+      multiparametric MRI at baseline, then undergo multiparametric MRI after received neoadjuvant
+      chemotherapy for at least 4 cycles as planned. After the surgery, responses to neoadjuvant
+      chemotherapy are determined according to the histopathologically examination of the
+      surgically resected specimens. After completion of treatment procedure, patients are followed
+      up for 5 years.
+    
+  

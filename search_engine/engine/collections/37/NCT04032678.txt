@@ -1,0 +1,203 @@
+
+    
+      Background:
+
+      External defibrillators are routinely used for treatment of lethal ventricular arrhythmias
+      (defibrillation) as well as atrial and non-lethal ventricular arrhythmias (synchronized CVS).
+      Commercially available defibrillators generate direct current (DC) shock with various
+      waveforms using distinct technologies. These waveforms are suggested to have different
+      efficacy and safety, aiming at a positive effect with lower cumulative energy, smaller number
+      of shocks, and less post-shock complications and myocardial injury. Therefore, the efficacy
+      and safety of different waveforms has been an object of continuous interest and clinical
+      investigations over the last years. Although the superiority of biphasic over monophasic
+      waveforms is well established, the relative efficacy and safety of the available biphasic
+      waveforms is not clear.
+
+      Most defibrillator manufacturers use the biphasic truncated exponential (BTE) waveform.
+      Almost all BTE defibrillators are embedding the impedance compensation technology, which
+      adapts the pulse duration for proper delivery of the selected energy. However, various pulse
+      commutation concepts produce differently shaped waveforms:
+
+        -  rectilinear (impedance compensation with constant pulse duration);
+
+        -  standard truncated exponential (impedance compensation with constant tilt);
+
+        -  pulsed (impedance compensation with constant duty cycle and constant tilt). Clinical
+           studies with patients presenting with shockable life-threatening arrhythmias are
+           difficult to perform for ethical and practical reasons. Several studies have therefore
+           included patients requiring elective CVS for atrial arrhythmias, who are able to give
+           consent and also present a more controlled population. Elective CVS is a standard
+           treatment for patients with atrial arrhythmias and is performed as a day case procedure
+           under general anesthesia. The investigator's bibliographic research found 6 studies from
+           which the dose-response curves of 4 rectilinear, 7 standard truncated exponential and 3
+           pulsed waveforms have been drawn. Although the major disparities between the studies
+           (success accounted at different delays after CVS, rhythm inhomogeneity, different
+           population sizes, different selected energy levels, etc.) the dose-response curves
+           concentrate within 85-95% success rate and 300-500 joules (J) cumulative energy. More
+           data on the efficacy of the pulsed waveform during CVS are needed.
+
+      Various BTE waveforms apply different potential gradients on the thorax that might produce
+      various defibrillation effects. Apart from efficacy, the most important aspect is the patient
+      safety, considering that larger potential gradients in the myocardium lasting longer could
+      potentially induce an electroporation and then a fibrillation. A frequently observed effect
+      of electroporation are the post-shock ST-segment deviations in the surface ECG, representing
+      the potential difference between the normal tissue and sustained depolarized critical mass of
+      myocardium closest to the associated origin of the electrical current. Although ST-segment
+      changes are an easily ignored phenomenon, occurring acutely and resolving during the first
+      few minutes post-shock, their presence in a short-term basis can identify electroporation by
+      dangerously high potential gradients, while the sustained ST-changes in a long-term basis can
+      identify cases with myocardial injury. The most reliable quantification of shock-induced
+      myocardial injuries is based on measurements of the hsTnI biomarker after CVS. The safety of
+      shocks contemplates any other complications after CVS, such as apnea, arrhythmias, etc. The
+      variety of safety outcomes for different BTE waveforms is not clear.
+
+      Considering that little published data are available on pulsed waveforms, this study aims to
+      compare the pulsed biphasic waveform to a standard truncated exponential waveform in respect
+      of efficacy and safety in elective CVS of atrial fibrillation.
+
+      Methods:
+
+      Study population All patients admitted for elective CVS of atrial fibrillation (AFIB) in
+      ICCU- National Heart Hospital (NHH) will be potentially eligible for the study. Informed
+      consent will be obtained from all eligible patients prior to CVS. Patients declining to
+      participate in the study will receive treatment according to the hospital protocol.
+
+      Cardiologists in ICCU-NHH will check the eligibility of each patient following the detailed
+      list of inclusion and exclusion criteria in section Eligibility Criteria, based on the
+      documented pre-treatment data (duration of AFIB, concomitant diseases, thyroid dysfunction,
+      transesophageal echocardiographic (TEE) measurements).
+
+      Additionally, eligibility will be verified through pre-CVS medical exams and routine blood
+      test within 24 hours before CVS, including hsTnI measurements on the day of CVS:
+
+      Study design A prospective randomized trial (alternating design) where eligible patients will
+      be randomized to treatment with two different defibrillators. Following the order of patient
+      admittance in ICCU-NHH, the attending cardiologist will assign the odd and even eligible
+      patients to the defibrillators in arm 1 and arm 2, respectively. The cardiologist cannot
+      control the order of patient admittance in ICCU-NHH. The alternative randomization design
+      will equalize the number of subjects on each treatment. This study is not designed to control
+      for sex, age, comorbidity, type of device used for CVS, cumulative energy delivered during
+      shocks, number of shocks administered. Randomization is performed to limit these and any
+      other confounding factors.
+
+      Patient preparation Patients will be consulted prior to CVS in a quiet setting. Any questions
+      will be answered by the attending cardiologist. Patients will be asked to manually sign their
+      informed consent for study participation before further preparations and data collection. If
+      the patient declines to participate, then he/she will receive treatment according to the
+      hospital protocol without data documentation, as further defined in the study.
+
+      Demographic data (hospital file ID, age, gender, weight, height, body mass index, body
+      surface area) will be taken.
+
+      Pre-treatment data will be read from the patient dossier:
+
+        -  All concomitant diseases.
+
+        -  All medications during the previous 7 days before CVS.
+
+        -  Left atrium dimensions, left ventricle dimensions and volumes, ejection fraction (EF) by
+           transthoracic echocardiography during the last month.
+
+        -  TEE will be performed for all patients within 1 to 5 days before CVS (except if
+           contraindications of TEE exist); presence of cardiac thrombus and spontaneous echo
+           contrast will be checked.
+
+        -  Duration of index AFIB in days.
+
+        -  European Heart Rhythm Association (EHRA) class score of symptoms from index AFIB
+
+        -  American Society of Anaesthesiologists Score (ASA)
+
+        -  Signs of heart failure before CVS and on the day before CVS. Standard blood test (taken
+           24h before CVS) will be documented. Appropriate standard anticoagulation with
+           unfractionated heparin (UFH) or acenocoumarol or direct oral anticoagulants (DOAC) is to
+           be applied before and after CVS.
+
+      The patient will be in fasting condition before CVS. If needed, the chest will be shaved
+      before CVS so that the self-adhesive defibrillation pads can be stick intact to the skin.
+
+      The anesthesia will be conducted by an anesthesiologist with slow intravenous injection of
+      Propofol, adjusted individually to reach deep sedation. The individual Propofol dose (mg per
+      kg bodyweight) will be documented.
+
+      CVS protocol:
+
+      The CVS procedure is performed in ICCU by a cardiologist and anesthesiologist. Defibrillator
+      pads are placed according to the manufacturer user guides. Standard self-adhesive
+      defibrillation pads, recommended by specific defibrillator's manufacturer will be used.
+
+      Defibrillator use: The time-interval interval between consecutive shocks is ≥ 1 minute; The
+      energy of consecutive shocks follows pre-defined protocol; The protocol stops at successful
+      CVS (sinus rhythm at 1 minute post-shock), otherwise at the last shock of the protocol.
+
+      Data collection and Follow up:
+
+        -  Defibrillator pulse recorder: The shock waveforms delivered by the studied
+           defibrillators is recorded in real-time during the shock by a dedicated measurement
+           recorder (Defimpulse) connected in the patient circuit. This allows accurate measurement
+           of the delivered energy, which is the primary measured outcome. Additionally, currents,
+           voltages, patient impedances at each shock can be also measured. The device is fully
+           automatic and expert assistance is not needed during the CVS intervention. The use of
+           the Defimpulse has been approved by the NHH Ethical Committee.
+
+        -  Blood samples, standard 12-lead ECG, blood pressure and heart rate is obtained at
+           baseline.
+
+        -  Continuous ECG in 3 peripheral leads (I, II, III) is recorded during the CVS procedure.
+           ST-segment deviation is measured on the first cardiac complex after 10 s post-shock 80
+           ms after J point in lead II.
+
+        -  Standard 12-lead ECG is recorded (5 minutes) after CVS; 24 h after CVS; at discharge if
+           the discharge day is different from 24 h after CVS.
+
+        -  Heart rate and blood pressure are measured 3 times after CVS (immediately, 1 hour and 2
+           hours after the last shock).
+
+        -  Follow-up period in ICCU (2 hours of duration): Potential complications after CVS are
+           recorded:
+
+             1. Presence of apnea
+
+             2. Presence of arrhythmias.
+
+             3. Record of any other medication at CVS and during the follow-up period.
+
+        -  Follow-up period in the Cardiology Clinic (24 hours of duration):
+
+             1. blood samples to analyze CK-MB and hsTnI (12 hours +/- 4 hours after CVS).
+
+             2. Clinical exam with heart rate and blood pressure: 2 times on the day of CVS.
+
+             3. ECG and blood pressure on the next day after CVS.
+
+             4. Any complications before discharge.
+
+      Statistics:
+
+      Primary endpoint: The statistical analysis is designed for a non-inferiority comparison
+      between the two defibrillators in respect of their cumulative energies actually delivered. A
+      non-inferiority margin of 50J is chosen as the absolute difference in cumulative delivered
+      energy at the end of the CVS study. It is estimated that a total of 62 patients (31 per
+      group) allows a study power to show non-inferiority of 80%, with a one-sided type I error
+      rate of 0.05.
+
+      Continuous variables (cumulative energy, number of shocks, cardiac troponin levels, etc.)
+      will be expressed as mean value ± standard deviation or median values (inter-quartile range)
+      and compared with Students t-test or equivalent non-parametric test, respectively.
+      Categorical variables (e.g. cumulative success rate) are expressed as percentages and
+      compared using the Chi-square or Fisher's exact test (where appropriate). P ≤ 0.05 is
+      considered statistically significant for all comparisons.
+
+      Ethics All patients are signed a written informed consent prior to the CVS and receive the
+      standard hospital procedures during CVS, accepted in the NHH and approved by the NHH Ethical
+      Committee. Both defibrillators included in this study are approved for clinical use and both
+      are used on a daily basis.
+
+      Data anonymization policy is respected. In order to ensure the medical confidentiality, no
+      information about the patient (intervention place and date, age, gender, name, diagnosis,
+      etc.) is entered in the defibrillators. An identification number are given to each patient by
+      the dedicated measurement recorder (Defimpulse). This number and the recording data are
+      properties of the principal investigator. Approval from the NHH Ethical Committee concerning
+      the use of the Defimpulse during the CVS intervention has been obtained.
+    
+  

@@ -1,0 +1,74 @@
+
+    
+      In the study，data of 100 colorectal cancer patients with liver metastases who received
+      Cyberknife stereotactic radiotherapy or microwave ablation in the multi-center of the
+      research group from June 2019 to May 2021 were collected, as well as follow-up data.
+
+        1. Radiation: Stereotactic Radiotherapy 1.1 Equipment: Accuray VSI Cyberknife stereotactic
+           radiotherapy platform, simulated positioning CT machine, MR, positron emission computed
+           tomography PET-CT, vacuum pad.
+
+           1.2 Radiotherapy localization: CT, MRI and PETCT were used to simulate localization.
+
+           1.3 Relevant Definitions of Tumor Targets CT, MRI, PET-CT fusion, combined with MRI
+           location and PET-CT location image for sketching.
+
+           To delineate target areas and organs at risk. GTV: Combining localization and fusion
+           images to delineate the tumors seen PTV = GTV + 0-10mm Dangerous organs: The stomach,
+           duodenum, jejunum, ileum, colon, spinal cord and esophagus were delineated on the base
+           sequence of CT plain scan.
+
+           The target area should be approved by at least one physician in charge or by a physician
+           in charge.
+
+           1.4 Target volume radiation dose: According to the volume, location, organ function and
+           other factors, the dosage of radiotherapy was determined. The range of BED value of
+           radiotherapy was 90-120 when the distance between the tumor and gastrointestinal tract
+           was more than 5 mm (alpha/beta=10) and 70-90 when the distance between the tumor and
+           gastrointestinal tract was less than 5 mm (alpha/beta=10).
+
+           1.5 Normal Tissue Limit: Reference to TG101 Report
+
+        2. Microwave ablation 2.1 Preoperative positioning and planning: 2.1.1 Determine the fixing
+           device: generally choose vacuum pad to fix 2.1.2 Choosing the right position: The
+           principle is to choose the position that is easy to operate, taking into account the
+           comfort and tolerance of patients.
+
+      2.1.3 CT scan 2.1.4 The range of tumors was determined by CT images. In principle, at the
+      maximum level, the skin points corresponding to the vertical center of the tumor are the
+      marker points of the locating needle. At the same time, the center of the tumor was taken as
+      the origin point, and the longitudinal and transverse cross lines were drawn on the patient's
+      body surface. Roughly delineate the range of tumors according to CT in body surface 2.2
+      Surgery and intraoperative optimization 2.2.1 Posture reduction and fixation of patients
+      2.2.2 Oxygen inhalation, ECG and blood pressure monitoring 2.2.3 Installation of 3D Printing
+      Planar Coordinate Template Fixer 2.2.4 Routine disinfection, cave towel laying, local
+      infiltration anesthesia, fixing 3D printing plane coordinate template according to the range
+      of tumors determined by physical examination and preoperative plan, and adjusting the
+      direction of plane template by protractor.
+
+      2.2.5 Puncture locating needle and puncture assistant fixing needle in 4 directions of tumor
+      margin.
+
+      2.2.6The real-time CT 2.5mm image was imported into the navigation system, the puncture
+      needle was marked, the puncture needle was simulated, and the resolution of the template was
+      adjusted accurately.
+
+      2.2.7 Enhanced CT scan to determine the position and angle of template and pin accurately
+      2.2.8 Layer by layer puncture according to preoperative plan 2.2.9 After inserting the
+      ablation antenna to the reserved position, scan CT again to confirm whether the puncture
+      needle has reached the planned position. 2.2.10 Complete ablation of tumors as planned.
+
+      2.3Postoperative observation 2.3.1 With the assistance of the staff in the hospital, they
+      will be transported back to the ward by flat car with their families.
+
+      2.3.2 Re-measurement of blood pressure and heart rate 2.3.3Observe whether there is bleeding
+      or exudation at the puncture point after operation, and give hemostasis and pain relief if
+      necessary.
+
+      To evaluate the clinical efficacy of stereotactic radiotherapy and microwave ablation in
+      liver metastases after these treatment.In addition, the local control rate and side effects
+      of stereotactic radiotherapy and microwave ablation in the treatment of liver metastases were
+      explored, and the efficacy and safety of different doses of stereotactic radiotherapy were
+      determined.
+    
+  

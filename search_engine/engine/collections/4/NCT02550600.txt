@@ -1,0 +1,68 @@
+
+    
+      Background:
+
+      Mechanical ventilation in patients with acute lung impairment further injures the lungs by
+      inspiration forces and inflammatory response. Large efforts have been invested in reducing
+      ventilator-associated lung damage by lower tidal volumes. However, benefits are limited by
+      potential harms of permissive hypercapnia.
+
+      Therefore, extracorporeal membrane oxygenation (ECMO) and CO2-removal have been studied for
+      more than 40 years. However, ECMO remained restricted to few specialized centres capable to
+      provide extensive resources. Transfer of patients implicates loss of time and risks of
+      transportation. Therefore, less invasive devices have been developed, including "pump-less
+      "extracorporeal lung assist" (pECLA) and pump-driven ECLA (e.g. iLA activve). Despite pilot
+      trials supporting feasibility, safety and efficient oxygenation and decarboxylation by
+      pump-driven ECLA, there are no randomized controlled trials (RCT) proving a benefit regarding
+      long-term endpoints.
+
+      Objectives:
+
+      Therefore, the aim of this multicentre RCT is to compare the outcome of 150 patients with
+      early (after ≤96h of mechanical ventilation) acute lung impairment treated by pump-driven
+      ECLA with iLA activve with a blood flow of at least 1L/min vs. 150 controls with standard
+      intensive care including low tidal volume ventilation.
+
+      Main inclusion and exclusion criteria:
+
+      While most trials on ECMO and (p)ECLA included patients in a rescue scenario with severe and
+      persisting ARDS, earlier inclusion also implicates modified inclusion criteria: A cumulative
+      Murray score of ≥6 points without radiological points is the most important inclusion
+      criterion. At least four points must result from pO2/FiO2 (mandatory pO2/FiO2<300mmHg) and
+      PEEP criteria of the Murray score. In order to provide sufficient time for conservative
+      attempts to optimize ventilation, inclusion criteria can be fulfilled for a maximum of 48h
+      before inclusion as long as the patient can be included within a maximum of 96h of mechanical
+      ventilation.
+
+      Primary efficacy endpoint:
+
+      Incidence of an increase in SOFA-Score ≥3 points or death within 28 days.
+
+      Statistical analyses:
+
+      Generalized linear mixed model (logit link function) will be used to compare the primary
+      efficacy endpoint, the proportion of patients with an increase in SOFA of ≥3 points or death
+      within 28d, between the two groups. In this analysis the random factor variable study centre
+      and anticoagulation therapy will be considered as adjustment variables. The test of group
+      effect estimated by the multivariable mixed logistic model will be conducted at a two-sided
+      0.05 level of significance.
+
+      The primary efficacy analysis will be based on the intention-to-treat population. Missing
+      values of SOFA score will be replaced by last-value carry forward approach.
+
+      Survival status of lost to follow-up patients will be replaced conservatively: missing
+      survival status will be replaced by attribute "death" for patients in the verum arm and
+      replaced by attribute "alive" for patients in the standard treatment arm.
+
+      A supportive complete case and per-protocol analysis will be conducted for purpose of
+      sensitivity analysis of the primary endpoint. Further sensitivity analyses will be provided
+      to evaluate robustness of results in regard to unexpected circumstances (e.g. impact of
+      'cross-over' patients who are not treated as randomized but are required to be analyzed as
+      randomized (ITT-principle)). Secondary endpoints will be analyzed in an exploratory manner.
+
+      Chi-Square test or Fisher-exact test will be used to compare categorical data. For
+      comparisons of continuous data between groups non-parametric tests (Kruskal-Wallis test,
+      Mann-Whitney-U test) will be performed. 95% confidence intervals will be calculated for
+      relevant measurements. SAS software (version 4.9 or future follow-up version).
+    
+  

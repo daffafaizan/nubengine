@@ -1,0 +1,36 @@
+
+    
+      The objective of this project is to develop new techniques to incorporate genomic data into
+      pharmacodynamic models to improve the dosing of chronically administered drugs. Specifically,
+      the investigators look to improve warfarin therapy by decreasing the variability in the
+      effect of this drug using information about the subjects genotype and computational
+      intelligence. The investigators propose to achieve our objectives using a prospective,
+      randomized, controlled clinical trial of a computer program that they will develop from both
+      historical and prospective data. This computer program will be tested against a control group
+      using standard warfarin dosing, and a group using standard dosing plus subject genotype.
+      Warfarin dose and response data will be obtained from patients seen in the Louisville VA
+      anticoagulation clinic. Following informed consent, subject genotype for cytochrome P450
+      allele 2C9 (2C9) and vitamin K epoxide reductase complex subunit 1 (VKORC1) will be
+      determined. Other data routinely obtained to aid in warfarin dosing will also be recorded.
+      Using this information, the investigators will develop many different models for warfarin
+      dosing using incrementally more information. Each of these models will be tested using
+      computer simulation until they have obtained the best model. This model will be used in a
+      pilot study to test performance in real time. The results of the pilot study will then be
+      used to power a final clinical trial of standard dosing, standard dosing and genetic
+      information, computer dosing, and computer dosing plus genetic information.
+
+      The specific aims of this research are:
+
+        1. Determine the structure and the type of neural network model for predictions from
+           historically obtained data. (Computer Model)
+
+        2. Prospectively develop an individualized neural network and nonlinear mixed effect
+           modelling (NONMEM) model capable of predicting erythropoietin dosing for chronic
+           in-center hemodialysis patients using adaptive techniques.
+
+        3. Develop computer programs based on neural computing that can be used in a clinical
+           setting. (Computer Model)
+
+        4. Determine the utility of the computer programs prospectively in the clinical setting.
+    
+  

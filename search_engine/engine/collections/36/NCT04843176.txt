@@ -1,0 +1,33 @@
+
+    
+      Liver cancer is the sixth most commonly diagnosed cancer and the fourth leading cause of
+      cancer death worldwide. The main disease burden is found in East Asia, in which the
+      age-standardized incidence is 26.8 and 8.7 per 100,000 in men and women respectively. In
+      2017, among the top 10 most common cancers in Hong Kong, liver cancer had the highest case
+      fatality rate of 84.6%. The five-year survival rates of hepatocellular carcinoma (HCC) differ
+      greatly with disease staging, ranging from 91.5% in <2 cm with surgical resection to 11% in
+      >5 cm with adjacent organ involvement. The early and accurate diagnosis of HCC is paramount
+      in improving cancer survival.
+
+      Unlike other common cancers, HCC is diagnosed by highly characteristic dynamic patterns on
+      contrast-enhanced cross sectional imaging, without the need of pathological confirmation. The
+      Liver Imaging Reporting and Data System (LI-RADS) was established to standardize the lexicon,
+      interpretation and communication of radiological findings related to HCC. However, up to 49%
+      of nodules identified in computed tomography (CT) in the at-risk population are categorized
+      by LI-RADS as indeterminate, further delaying the establishment of diagnosis.
+
+      There are currently studies pioneering the application of artificial intelligence (AI) in the
+      field of medical imaging. A interdisciplinary research team of clinicians, radiologists and
+      statistical scientists, based on the clinical and radiological database of over 4,000 liver
+      images, and have developed an AI algorithm to accurately diagnose liver cancer on CT. Based
+      on retrospective data, an interim analysis found the AI algorithm able to achieve a
+      diagnostic accuracy of >97% and a negative predictive value of >99%.
+
+      Can this novel prototype AI algorithm achieve a better performance in diagnosing HCC in the
+      at-risk population when compared to LI-RADS? This question is especially relevant when the
+      key to improved survival is early diagnosis, of which AI can potentially improve. Currently,
+      errors in radiologist reporting are estimated to be 3-5% on a day-to-basis, equating to 40
+      million errors per annum worldwide. This prototype algorithm can be a solution to reduce
+      human misinterpretation of radiological findings.
+    
+  

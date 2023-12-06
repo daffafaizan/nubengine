@@ -1,0 +1,109 @@
+
+    
+      Overview: Incoming students will be invited to participate in a randomized pilot testing
+      bystander program efficacy. Those consenting to study participation will be randomized to one
+      of the three conditions. All students are required to take Online sexual violence, bystander
+      and alcohol awareness training (UK mandated HAVEN + Alcohol Edu). Those consenting to study
+      participation will be randomized to one of three conditions: Green Dot (INT) or Student
+      Wellness skills training (active control) provided by UK Student Affairs staff in the
+      Violence Intervention and Prevention Center or the Student Wellness Office. All students
+      agreeing to study participation will be invited to complete surveys at baseline (prior to
+      training), and at 2-3 months after training and 6 months following training (late April,
+      early May). For this pilot, students will be contacted for participation in November of their
+      first year, we anticipate approximately 1,500 students.
+
+      Mandatory (UK) Online Training: Alcohol abuse and violence prevention using bystander
+      approach AlcoholEdu: Confidential substance abuse education course which uses a science-based
+      approach to educate students about alcohol and its effects. Whether the student drinks or
+      not, the course will help them make informed decisions about alcohol and better deal with
+      drinking behavior that may occur around them. AlcoholEdu is used by more than 500 colleges
+      nationwide through EVERFi.
+
+      Haven provides students with definitions and statistics associated with sexual assault and
+      relationship violence, bystander skills and strategies, and campus policies and resources.
+      The trainings are "personalized and reflective" and incorporate the student's "unique
+      perspectives and experiences." This 45-minute training is mandatory and students are asked to
+      complete a follow-up survey 45-days after the training. Because this training is mandatory
+      for all incoming students, all students are expected to have exposure to this training.
+
+      INT Condition (Randomized): Delivered by UK's Violence Intervention and Prevention (see
+      letter from Director Henry):
+
+      Green Dot bystander intervention program (www.livethegreendot.com) Programming: Seeks to
+      empower potential bystanders (students) to actively engage their peers in violence
+      prevention. Intensive bystander training involves interactive, skill development with
+      role-play of bystander behaviors. This program focuses on building knowledge and skills
+      related to interpersonal violence and being an active bystander. There is a structured
+      curriculum for both introductory sessions and longer, skill-building sessions. This is
+      currently provided at UK in classrooms, residence halls, etc. Tailored programming is
+      provided to Greek organizations, Living Learning Communities, faculty/staff, etc. While a
+      Popular Opinion Leader strategy13 has been used in prior training, for this trial all
+      incoming students randomized to this condition will be offered intensive bystander training.
+
+      Administered by: UK VIP Delivery Mode: Class or large groups of 120-150 students; training
+      lasts 3-4 hours Required: Elective. All students randomized to this condition will be
+      scheduled for training.
+
+      NOTE: Green Dot Speeches will be supplemental to Intensive Green Dot Bystander training.
+      Speeches are often given through planned events (UK 101) or students, faculty or staff can
+      request such presentations. These speeches will continue to occur as usual. As the aim of
+      this study is to compare bystander intensive training, we will not attempt to limit
+      participation to Green Dot Speeches.
+
+      Training Control Condition (Randomized): Delivered by UK's Student Wellness Office (Drew M.
+      Smith) Programming: Addresses elements of student wellness including campus resources for
+      health issues, AOD abuse prevention/harm reduction strategies, time management and study
+      tips, stress management and reduction, and healthy coping strategies. Training may also
+      provide information on academic resources, money management, and other elements of healthy
+      adaptation to college life.
+
+      Administered by: UK VIP Delivery Mode: Class or large groups of 120-150 students; training
+      lasts 3-4 hours Required: Elective. All students randomized to this condition will be
+      scheduled for training.
+
+      General Statistical Considerations. Continuous variables will be summarized with descriptive
+      statistics (n, mean, standard deviation, median, first and third quartiles, and min and max);
+      categorical variables will be described with counts and percentages. Change scores and
+      percent change scores will be calculated from baseline for follow-ups at 4- and 9-months.
+      Numerical and graphical summaries will be provided overall, by subpopulation within college
+      communities (e.g., by gender, sexual attraction, fraternity/sorority or athletic team
+      membership) and most importantly by training condition. Simple comparisons of groups will be
+      made using ANOVA for continuous variables and chi-square tests for categorical outcomes.
+      Comparisons between groups will be conducted as randomized; simple comparisons of continuous
+      variables between groups will be performed using ANOVA and chi-square tests of independence
+      for categorical variables. Although groups will be randomly assigned, potential confounders
+      will be examined with bivariate analyses and comparisons requiring covariate adjustment will
+      use regression modeling (e.g. ANCOVA, logistic regression).
+
+      Analysis Plan: The primary purpose of the pilot is to determine feasibility and to examine
+      strategies for recruiting and training students. However, the primary analysis is the as
+      randomized comparison of the cumulative reports of bystanding behaviors collected during the
+      academic year between the two training conditions. A one-way ANOVA (with corresponding
+      post-hoc tests to compare specific groups) will be used to compare the primary outcome of
+      bystander behaviors (measured as the sum of frequency responses to bystander behaviors over
+      the academic year) between those randomzied to INT versus SubINT conditions. Analyses will be
+      conducted without adjustment, adjusting only for academic year, and adjusting for potential
+      confounders not controlled for by randomization. Secondary outcomes will also be compared
+      using a one-way ANOVA. A two-sided significance level of 0.01 will be used to protect against
+      a Type I error in the presence of multiple comparisons. Post-hoc comparisons of groups will
+      only be conducted when the overall F-test suggests differences between groups. All analyses
+      for primary outcomes for will be conducted using comparison groups as randomized for an
+      intent-to-treat (ITT) analysis. For those who are lost to follow-up, multiple imputation will
+      be used in the ITT analysis. Sensitivity analyses using as observed data and single
+      imputation (LOCF) will also be conducted. We will also perform analyses using a modified ITT
+      (mITT), where participants electing not to pursue the intensive training are excluded, but
+      groups are still compared as randomized. The primary analysis is the longitudinal analyses
+      will be conducted using linear mixed models (PROC MIXED) to investigate differences between
+      conditions, trends over time, and whether the time trends differ between conditions.
+      Longitudinal analyses will be conducted by academic year but academic years will also be
+      combined. For combined academic years, the time variable will be included with respect to the
+      online training and academic year will be investigated as a potential confounder. Planned
+      subgroup analyses include analyses by gender group, by sexual attraction, by Greek life
+      participation. These will also be conducted as randomized and as received. Effect
+      modification will also be assessed by including interactions in regression models (linear,
+      logistic, and mixed models depending on outcomes and the presence of longitudinal measures).
+      Participation and completing non-mandatory trainings will be examined overall and by subgroup
+      as well. SAS v9.4 will be used for all data management and statistical analysis; a
+      significance level of 0.01 will be used for all statistical tests.
+    
+  

@@ -1,0 +1,136 @@
+
+    
+      The objectives of the household model program are:
+
+        1. Timely case finding through education and screening for common, treatable conditions;
+
+        2. Linkage to care for symptomatic clients along with those qualifying through routine
+           screening;
+
+        3. Ongoing support and accompaniment of patients in care, including adherence support,
+           psychosocial support, and tracking of missed patient visits (NCDs, chronic care,
+           Antenatal care, postnatal care); and
+
+        4. Health education for common health conditions and prevention and management of these
+           conditions to optimize prevention, health services uptake, and health management
+           behaviors in the household.
+
+      All CHWs in Neno will be reassigned and trained in the Household model in a staggered rollout
+      over two years. The maximum number of trainees per group is capped at 60 participants, with
+      some trainings occurring with two groups of CHWs per catchment area. CHWs will receive a 4 to
+      5 day foundational training, followed by half-day refresher trainings each quarter. CHW
+      training will be evaluated through the following tools: training attendance count; CHW
+      knowledge assessment; CHW skill assessment; CHW refresher assessment; and overall through a
+      training dashboard.
+
+      The implementation of the new CHW model is designed so that it may be evaluated as a stepped
+      wedge, cluster-randomized trial (SW-CRT). The stepped-wedge study design was selected for a
+      number of reasons. First, the training of CHWs needs to be staggered due to training capacity
+      constraints. Second, all sites in Neno will receive the intervention. And third, the stepped
+      wedge RCT design permits estimation of the causal effects of the intervention.
+
+      Eleven intervention sites were clustered into six groups based on population size such that
+      each group had manageable number of CHWs to train. The order of implementation for these six
+      sites was randomized by a third party. In the SW-CRT study design, each cluster crosses over
+      from control to intervention group until all groups receive the intervention.
+
+      The primary outcomes are:
+
+        -  HIV: % of enrolled clients with a visit to IC3 in the last 3m
+
+        -  NCDs
+
+             -  Hypertension: % of enrolled clients with a visit to IC3 in the last 3m
+
+             -  Asthma: % of enrolled clients with a visit to IC3 in the last 3m
+
+             -  Diabetes: % of enrolled clients with a visit to IC3 in the last 3m
+
+             -  Epilepsy: % of enrolled clients with a visit to IC3 in the last 3m
+
+             -  Mental Health: % of enrolled clients with a visit to IC3 in the last 3m
+
+        -  Malnutrition: % of children under five enrolled in care for moderate and severe
+           pediatric malnutrition
+
+             -  Hypothesis: don't expect this to change because most cases are cured
+
+        -  Tuberculosis: % of total population diagnosed with new confirmed TB cases
+
+        -  Women's Health:
+
+           o Family Planning: % WCBA on long-term family planning methods
+
+             -  Antenatal Care:
+
+        -  % women starting ANC within first trimester
+
+      The secondary outcomes are:
+
+        -  HIV:
+
+             -  % clients initiated on ART in last year with visit in last 3m
+
+             -  % infants who attend 10w EID visit
+
+             -  % of population tested for HIV
+
+        -  Malnutrition:
+
+           o % of children aged 6m-59 who were discharged as cured in SFP or OTP (cure rate)
+
+        -  Tuberculosis:
+
+             -  % TB cases completing treatment successfully (no loss to follow up or death)
+
+        -  Women's Health:
+
+             -  Family Planning:
+
+        -  % women of child bearing age receiving modern family planning methods
+
+        -  % women of child bearing age newly initiating family planning
+
+           o Antenatal Care:
+
+        -  % expected pregnant women in ANC care
+
+        -  % number of women in cohort attending 4+ ANC visits
+
+        -  CHW retention o % of CHW retained during the entire intervention period
+
+      Descriptive Statistics:
+
+        -  Measure of Facility Performance o % of facilities offering women's health services on a
+           daily basis
+
+             -  % months with no facilities stocking out of RUTF (ready-to-use-food for
+                malnutrition)
+
+             -  Average number of stock out days per month per facility for combination, adult TB
+                medication. Stock outs are measured as when running balance on the facility's stock
+                card is zero.
+
+             -  Average number of stock out days per month for non-communicable disease care at the
+                two satellite pharmacies for several key drugs
+
+      Outcomes Data
+
+      To measure the outcomes listed above, we will collect data from:
+
+        1. Ministry of Health-monthly reports collected from each facility and entered into
+           electronic database called DHIS2
+
+        2. Partners In Health Medical Record capturing patient-level HIV and NCD data.
+
+        3. Short, semi-structured qualitative interviews with purposively selected sample of CHW
+           program recipients.
+
+      The study is designed as a stepped wedge randomized controlled trial. However, unlike a
+      typical trial of this type, data will be collected at the aggregate cluster level rather than
+      from individuals within clusters. As such, we specify a model for the cluster-time cell
+      means. In addition, the primary outcomes are proportions of people, therefore we will specify
+      the model in logs and control for population size to transform to the whole real line and
+      make a linear model appropriate.
+    
+  

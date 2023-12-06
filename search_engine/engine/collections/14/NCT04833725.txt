@@ -1,0 +1,27 @@
+
+    
+      This study is a multi-center joint study, which mainly consists of two parts. First, a
+      cross-sectional observational study was adopted to recruit patients with stable COPD in
+      multiple centers. The COPD's diagnostic criteria follow diagnostic guidelines in China, and
+      the patients were selected among 40-80 years old. Note that we excluded patients who cannot
+      use IoT's mobile applications and cannot complete sleep monitoring and follow-up visits. All
+      patients collect sleep monitoring information through wearable devices, together with
+      demographic characteristics, pulmonary function tests, blood routines, biochemistry,
+      electrocardiogram, chest radiograph, COPD assessment scale, modified British Medical Research
+      Association dyspnea index, St. George's Quality of Life Questionnaire, Sleep Apnea Clinical
+      Score, Berlin Questionnaire, Epworth Sleepiness Scale, Etc. This study estimates patient
+      health status from the collected information, then diagnoses sleep apnea and calculates sleep
+      apnea prevalence. Specifically, we build standards from the analysis of sleep monitoring
+      information, and we form an OSA screening model by applying machine learning algorithms.
+      Second, we establish a COPD cohort joined with sleep breathing disease, where we select COPD
+      patients meeting the diagnostic criteria for sleep breathing disease. All patients use
+      wearable devices and IoT technology for information collection and data management. We also
+      build the early warning platform, and it allows flexible adjustment on the COPD plan
+      according to individual differences and community differences. This tudy requires followed up
+      visit once a month. By observing the number of hospitalizations, the incidence of acute
+      exacerbations, and other secondary observation indicators of COPD patients, the early warning
+      platform can analyze COPD's acute exacerbations combined with sleep respiratory disease. We
+      develop the disease and prognosis model for COPD patients with SAO by applying machine
+      learning algorithms on the previous platform.
+    
+  

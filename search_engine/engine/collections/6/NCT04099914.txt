@@ -1,0 +1,22 @@
+
+    
+      Design: Retrospective study based on clinico-genetic data. Total research duration: 22 months
+      Plan of the study : More than 150 patients referred for ARCA suspicion have been analyzed by
+      NGS (Montpellier platform) since September 2013. The clinical data of these patients will be
+      entered at the computer level into the algorithm to obtain the prediction of the gene
+      involved (under the form of a probability for each of the genes known to ARCA). The
+      investigators will compare this result with that obtained by standard NGS analysis. For
+      patients without molecular diagnosis defined after standard NGS analysis, the investigators
+      will take the 5 most probable genes selected on the basis of the algorithm in order to carry
+      out an in-depth analysis of the variants found and a bioinformatic analysis by semi-automatic
+      detection of CNVs. Main Evaluation Criterion: Concordance of the algorithm with standard NGS
+      analysis for the genetic diagnosis of ARCA. Secondary evaluation criterion:% of patients for
+      whom the prediction based on the algorithm suggested the correct diagnosis (subsequently
+      confirmed after revision in the detail of the genetic data) while the standard genetic
+      analysis was not not informative. Statistical Analysis: The investigators will perform a
+      concordance analysis (Cohen's k) to validate the algorithm in clinical practice. For a given
+      patient, there will be concordance if: i) one of the first 5 genes predicted with the highest
+      probability by the algorithm is compatible with the mutation found after standard NGS or ii)
+      if no gene is predicted by the algorithm (score <20) and no mutation found by NGS analysis.
+    
+  

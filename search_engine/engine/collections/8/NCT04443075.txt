@@ -1,0 +1,79 @@
+
+    
+      In December, 2019, a novel coronavirus outbreak of pneumonia emerged in Wuhan, Hubei
+      province, China, and has subsequently spread to more than 30 provinces in China and almost
+      100 countries in the world. In the fight against the 2019 novel coronavirus (2019-nCoV),
+      medical workers in Wuhan have been facing enormous stress, including a high risk of infection
+      and inadequate protection from contamination, isolation, patients with negative emotions, a
+      lack of contact with their families, and exhaustion. The severe situation is causing mental
+      health problems such as stress, anxiety, depressive symptoms, insomnia, denial, anger, and
+      fear. These mental health problems could also cause posttraumatic stress (PTS) symptoms in a
+      lasting time. A research examining the psychological impact of the 2003 outbreak of severe
+      acute respiratory syndrome on hospital empoyees found that about 10% of the respondents had
+      experienced high leves of PTS symptoms since the SARS outbreak.
+
+      Microbiome-gut-brain (MGB) axis has been validated in expanding studies, which means there
+      are bidirectional communication between commensal organisms within the gut and the brain. Gut
+      microbiota may influence brain function through neural, endocrine, and immune pathways. For
+      example, substances produced by the gut microbiota may be absorbed reaching the brain by the
+      blood stream. The brain, in turn, may influence the gut microbiota trough neuronal and
+      endocrine pathways. In recent years, many reseaches support the relevance of microbiota and
+      mental health status. Bercik et al. transplanted microbiota from adult germ-free (GF) BALB/c
+      mice (a high-anxiety mouse strain) into adult GF NIH Swiss mice (a low-anxiety mouse strain),
+      then found the behavioral profile of the donor was evident in the recipient animal, showing
+      that the microbiota can directly affect behavior. Moreover, preclinical studies have shown
+      that stress and emotions, including maternal separation and restraint, heat, and acoustic
+      stress, alters the composition of the gut microbiota, maybe through the release of stress
+      hormones or sympathetic neurotransmitters that influence gut physiology and alter the habitat
+      of the microbiota. In addition, researchers found that stress has the ability to increase
+      intestinal permeability, probably through the involvement of corticotrophin releasing factor
+      and its receptors (CRFR1 and CRFR2), which play a key role in stress-induced gut permeability
+      dysfunction. Increased intestinal permeability provides bacteria an opportunity to
+      translocate across the intestinal mucosa and directly access both the immune and neuronal
+      cells of the enteric nervous system (ENS). Stress also activates the autonomic nervous
+      system, which affects gastric acid, bile, and mucus secretion, as well as gut motility. Gut
+      motility is of particular importance since it is strongly associated with gut microbiota
+      composition and richness. Based on these researches, the gut microbiome increasingly deserve
+      attention to understand psychiatric disorders.
+
+      Therefore, the present study aim to collect the faecal samples and clinical assessments from
+      a part of frontline medical workers in three time points to analyse the changing profile of
+      gut microbiome according to outcomes of 16s rRNA sequencing. The samples from the matched
+      health controls will also be sequenced to compare with the exposed group in gut microbiome
+      community.
+
+      Methods Study design and sample collection The frontline workers in First Affiliated Hospital
+      of Xi'an Jiaotong University will be included if they conformed with (1) taking part in the
+      medical team to support Wuhan, (2) of 18 to 50 years old, (3) did not take antibiotics within
+      3 months before sample collection, (4) 17.5<body mass index (BMI)<30. The healthy controls
+      will be selected from the staffs in First Affiliated Hospital who didn't join in the medical
+      team but fulfill the last three conditions above to match with the frontline staffs for age,
+      gender, BMI, and diet. Any participant will be excluded if he/she fulfill the following
+      criteria: (1) have serious cardiovascular disease, blood disease, and endocrine disease, (2)
+      have a history of cancer or its complications, (3) have active gastrointestinal diseases or
+      complications and serious systemic diseases, (4) have history of brain organic diseases or
+      complications and mental retardation, (5) have mental disorders such as mood disorder and
+      anxiety disorders, (6) pregnant or lactating, (7) drink in the past week (liquor>250ml or
+      beer>1bottle) or the previous day (liquor>50ml or beer>50ml). All included persons should
+      provide signed informed consent before sample collection, and the protocol was approved by
+      the Ethics Committee of First Affiliated Hospital of Xi'an Jiaotong University
+      (KYLLSL-2020-043). Faecal samples from each staff should be freshly collected at the hospital
+      and frozen at -80℃ using specified faecal collector.
+
+      Clinical assessmant PHQ-15, PHQ-9, GAD-7, PSQI, SCL-90, and IES-R will be used for the
+      assessment of clinical symptoms related to psychiatric disorder for exposed group in three
+      time point and non-exposed group.
+
+      DNA extraction and 16S rRNA sequencing The investigators will perform 16S rRNA sequencing for
+      all the collected faecal samples. Briefly, bacterial genomic DNA will be extracted, and the
+      16S rRNA whole region will be amplified by PCR, and then sequenced.
+
+      Statistical analysis The 16S rRNA sequencing data will be analysed using Quantitative
+      Insights Into Microbial Ecology (QIIME). The investigators then use usearch to cluster
+      sequences into taxonomic units (OTUs) at 97% identity and construct the OTU table. Microbial
+      community structure, alpha diversity, and beta diversity will be analysed. LEfSe analysis,
+      and random forest analysis will be used to find the biomarker between different group.
+      Spearman's rank correlation will be used to identify the corrolation between clinical
+      assessments and stress-associated microbiome.
+    
+  

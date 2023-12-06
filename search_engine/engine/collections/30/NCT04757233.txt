@@ -1,0 +1,33 @@
+
+    
+      Growing evidence highlights significant differences in individuals' physiology and glycemic
+      function and their cultural, social, and economical circumstances that impact diabetes
+      self-management. These discoveries paved the way for precision medicine-an approach to
+      personalizing medical treatment to an individual's genetic makeup, clinical history, and
+      lifestyle. Computational learning methods have been successfully used for identifying
+      clinical phenotypes-observable manifestations of diseases. Studies showed the benefits of
+      tailoring not only medical treatment, but also behavioral interventions; however, tailoring
+      typically relies on expert identification of tailoring variables and decision rules, and on
+      standard surveys. Data collected with self-monitoring can more accurately reflect an
+      individual's behaviors and glycemic patterns, thus highlighting their "behavioral
+      phenotypes", yet such data are rarely utilized in tailoring.
+
+      The ongoing focus of this research is on facilitating problem-solving in diabetes
+      self-management. Well-developed problem-solving skills are essential to diabetes management
+      result in better diabetes self-care behaviors lead to improvements in clinical outcomes and
+      can be fostered with face-to-face interventions. Previous research suggested problem
+      identification and generation of alternatives as critical steps in problem-solving in
+      diabetes. In previous work, the investigators developed an informatics intervention that
+      relied on expert-generated knowledge for assisting individuals on these steps of
+      problem-solving. In this pilot feasibility study, the investigators study an alternative
+      solution that relies on computational pattern analysis of data collected with self-monitoring
+      technologies to tailor the problem-solving assistance to individuals' unique behavioral
+      phenotypes. The intervention, GlucoType uses computational learning methods to identify
+      systematic patterns in individuals' diet, physical activity, and sleep, captured with
+      custom-built and commercial self-monitoring technologies, and correlates these patterns with
+      fluctuations in individuals' blood glucose levels. GlucoType then uses this information to 1)
+      identify behavioral patterns associated with high glycemic excursion, 2) formulate
+      personalized goals to modify these behaviors, 3) provide in-the-moment decision support to
+      help individuals be more consistent in meeting their goals.
+    
+  

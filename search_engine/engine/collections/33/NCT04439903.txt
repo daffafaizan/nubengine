@@ -1,0 +1,37 @@
+
+    
+      The Web-based Simulation Tool (WST) allows patients with Type 1 Diabetes (T1D) to not only
+      visualize their data, but also to explore changes to their meals and insulin parameters, and
+      easily estimate their potential clinical impact. WST is an educational tool, and as such, it
+      does not have prescriptive power. This platform collects glucose, insulin and meal data from
+      the participants' insulin pump, and generates personalized models of their glucose
+      metabolism. Both data collection and model personalization are backend processes, that is,
+      without user intervention.
+
+      Participants can interact with WST through a user interface (UI) that is equipped with a
+      dashboard page, where they can:
+
+      (i) select a particular date range using a calendar to visualize their historical glucose
+      control, such as glucose traces, and time in range;
+
+      (ii) control the amount of information on the screen - users can show/hide more details, such
+      as glucose variability;
+
+      (iii) select different insulin therapy parameters: basal rate, insulin sensitivity factor,
+      and carbohydrate ratio;
+
+      (iv) change their values by moving a slider;
+
+      (v) select informed meals within the selected date range, and modify their time and size by
+      moving a slider;
+
+      (vi) run a simulation with the modified insulin therapy parameters and meals by tapping a
+      button;
+
+      (vii) save the insulin and meal settings of the simulations to compare multiple
+      configurations; and
+
+      (viii) generate a report from the selected simulation, comparing both original and simulated
+      or replay data.
+    
+  

@@ -1,0 +1,60 @@
+
+    
+      This is a phase 2a single-blinded and a phase 2b double-blinded randomized clinical trial,
+      which aims to determine efficacy and safety of (2a) seven ascending oral moxidectin dosages
+      in 210 adults infected with S. stercoralis, namely placebo, 2 mg, 4 mg, 6 mg, 8 mg, 10 mg, 12
+      mg in Lao and (2b) the recommended dose moxidectin (i.e. the most promising dosage identified
+      in trial A; between 2-12 mg) in comparison to the standard treatment dose of ivermectin (200
+      µg/kg) in 245 adults infected with S. stercoralis in Lao and Cambodia. Embedded in the trial
+      is a pharmacokinetic/-dynamic study with the goal to measure moxidectin disposition in adults
+      and to determine population pharmacokinetic (PK) parameters of the optimal dose of moxidectin
+      in the treatment of S. stercoralis.
+
+      The primary objective is to determine the dose-response of moxidectin based on cure rates
+      (CR) against S. stercoralis and to quantify the efficacy of the recommended dose to the
+      standard treatment (ivermectin) in adults.
+
+      The secondary objectives of the trial are: Evaluation of the safety and tolerability of the
+      dose-dependent treatment regimes, evaluation of the safety and tolerability of moxidectin
+      compared to ivermectin, comparison of the larvae reduction rate (LRR) of the different
+      treatment regimens against S. stercoralis (trial 2a,b), determination of an exposure-
+      (including Cmax, area under curve (AUC) and tmax) -response correlation of moxidectin in
+      adults, comparison of the exposure-response of moxidectin using venous and capillary blood,
+      evaluation of the cure rate of the different moxidectin treatment regimens against
+      co-infection and the determination of the population PK parameters of the optimal dose of
+      moxidectin in the treatment of S. stercoralis.
+
+      After obtaining informed consent from each individual, the medical history of the
+      participants will be assessed with a standardized questionnaire, in addition to a clinical
+      examination carried out by the study physician before treatment. Enrollment will be based on
+      collection and analysis by a quantitative Baermann method (in duplicates) of three stool
+      samples. Randomization of participants into the different treatment arms will be stratified
+      according to intensity of infection. The adults will also be interviewed before treatment, 3
+      and 24 hours as well as 21 days after treatment about the occurrence of adverse events (AE).
+      The efficacy of the treatment will be determined 21 days post-treatment by collecting another
+      three stool samples. All stool samples will be examined with duplicate Baermann assays
+      recorded quantitatively. Co-infection with T. trichiura, A. lumbricoides and hookworm
+      infection will be identified using duplicate Kato-Katz thick smears on stool samples.
+
+      A subsample of adults will further be sampled using finger pricking for micro sampling at 0,
+      2, 4, 8, 24, and 72 hours, 7 and 21 days post treatment to evaluate pharmacokinetic
+      parameters (trial phase 2a) and at defined time windows, that are based on the PK model
+      earned from trial 2a (trial phase 2b). For validation of the analytical method the subsample
+      of one study arm (8 mg, trial phase 2a) will undergo venous blood sampling in addition to
+      finger pricking.
+
+      An available case analysis (full analysis set according to the intention to treat principle)
+      will be performed, including all subjects with primary end point data. Supplementary, a
+      per-protocol analysis will be conducted. CRs will be calculated as the percentage of
+      larvae-positive subjects at baseline who become larvae-negative after treatment. Larvae per
+      gram (LPG) stool sample will be assessed by calculating the mean of the larvae counts from
+      the three duplicate Baermann assays and divided by the mean weighted amount of these stool
+      samples. The LRR will be calculated following: (LRR = (1-(mean at follow-up/mean at
+      baseline))*100) Geometric and arithmetic mean larvae counts will be calculated for the
+      different treatment arms before and after treatment to assess the corresponding LRRs.
+      Bootstrap resampling method with 2,000 replicates will be used to calculate 95% confidence
+      intervals (CIs) for LRRs. Emax models using the dose finding package of the statistical
+      software environment R will be implemented to predict the dose-response curves in terms of
+      CRs and LRRs.
+    
+  

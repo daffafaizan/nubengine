@@ -1,0 +1,29 @@
+
+    
+      During this study the performance of various optical sensors, ranging from the camera in
+      smartphones to the photodetector in smartwatches, will be explored and device and form-factor
+      variability will be investigated. The objective is to define the accuracy of optical sensing
+      systems in the detection of atrial fibrillation versus a reference traditional 12-lead ECG
+      signal. Therefore, 2 groups will be created where different technologies will be investigated
+      i.e. Group 1 will use various mobile devices and Group 2 will use various wearable devices.
+      The recruitment of patients will be carried out in the framework of the usual care practice,
+      where patients can be recruited at different moments throughout their current care-cycle.
+
+      Group 1: Smartphone based sensor: Here, the user needs to place the finger on the smartphone
+      camera for 60 seconds to obtain high quality PPG waveforms. These waveforms are analysed
+      using automated algorithms and stored under a unique anonymized study ID.
+
+      Group 2: Smartwatch based sensor: Here, a wearable device is used that is placed on the wrist
+      and will record a PPG signal, similar as the smartphone camera, but with a specific PPG
+      sensor. The data is extracted and processed by the FibriCheck software and the algorithms
+      generate a diagnostic output which is stored under a unique anonymized study ID.
+
+      The hardware involved originates from different providers. Since FibriCheck is certified as
+      stand-alone software, it is expected that it functions independently from different hardware
+      sources. This hypothesis will be addressed in this study.
+
+      Smartphone devices that will be used in this research: Samsung, Huawei, Xiaomi, Apple, LGE,
+      Lenovo and ZTE devices. Wearable devices that will be used in this research: Apple and Fitbit
+      smartwatch devices.
+    
+  

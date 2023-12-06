@@ -1,0 +1,18 @@
+
+    
+      Purpose:The key to successful epilepsy control involves locating epileptogenic focus before
+      treatment. 18F-FDG PET has been considered as a powerful neuroimaging technology used by
+      physicians to assess patients for epilepsy. However, imaging quality, viewing angles, and
+      experiences may easily degrade the consistency in epilepsy diagnosis. In this work, the
+      investigators develop a framework that combines radiomics analysis and deep learning
+      techniques to a computer-assisted diagnosis (CAD) method to detect epileptic foci of
+      pediatric patients with temporal lobe epilepsy (TLE) using PET images.
+
+      Methods:Ten PET radiomics features related to pediatric temporal bole epilepsy are first
+      extracted and modelled. Then a neural network called Siamese network is trained to quanti-fy
+      the asymmetricity and automatically locate epileptic focus for diagnosis.The performance of
+      the proposed framework was tested and compared with both the state-of-art clinician software
+      tool and human physicians with different levels of experiences to validate the accuracy and
+      consistency.
+    
+  

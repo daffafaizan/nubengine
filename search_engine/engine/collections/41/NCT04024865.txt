@@ -1,0 +1,56 @@
+
+    
+      The overall objective of this study is to determine whether the use of domperidone is
+      associated with an increased risk of serious cardiac events among postpartum women in the six
+      months following delivery. More specifically, the investigators will assess whether
+      domperidone is associated with the risk of ventricular tachyarrhythmia (VT) and sudden
+      cardiac death (SCD).
+
+      A distributed, common-protocol approach will be used to conduct retrospective cohort studies
+      using administrative health care data from five Canadian provinces (Alberta, British
+      Columbia, Manitoba, Ontario and Saskatchewan). Briefly, the Canadian databases include
+      population-level data on physician billing, diagnoses and procedures from hospital discharge
+      abstracts, and dispensations for prescription drugs. The Ontario data will be restricted to
+      social assistance recipients.
+
+      To assess this potential drug safety issue, the investigators will use a prevalent new-user
+      cohort design as described by Suissa et al., 2017. In each jurisdiction, the investigators
+      will first assemble a base cohort that includes all women aged between 15 and 55 years old
+      with live births between April 1, 1997 and December 31, 2016 (or the latest available data at
+      each site). Base cohort entry will be defined by the hospital discharge date after delivery.
+      From this base cohort, a study cohort will be formed including all women who received a
+      prescription for domperidone during the six months following delivery and matched women who
+      have a physician visit at the same follow-up time and do not receive domperidone. Study
+      cohort entry will be defined by the prescription date of domperidone for exposed women or the
+      corresponding date of the physician visit for unexposed women. Women will be followed from
+      the study cohort entry date until an event (defined below) or end of follow up (six months
+      after delivery). Women will be permitted to contribute more than one observation to the study
+      provided that each observation meets all the inclusion criteria.
+
+      Exposure to domperidone will be defined as a prescription for domperidone during the six
+      months following delivery. Women not exposed to domperidone will serve as the reference
+      group. Analyses will be conducted using an approach analogous to an intention-to-treat.
+      Unexposed women who are subsequently exposed to domperidone will be censored at the time of
+      the domperidone prescription. The primary outcome will be a composite endpoint of VT or SCD.
+      Secondary outcomes will be the individual endpoints of VT, SCD, and all-cause mortality;
+      separate follow-up durations will be estimated for each outcome.
+
+      Using a prevalent new-user design with time-based exposure sets, each user of domperidone
+      will be matched to 10 unexposed women with a physician visit within ±30 days of the first
+      domperidone dispensing of the exposed woman. Matching will be done on propensity score and
+      calendar date of base cohort entry (i.e., hospital discharge from delivery hospitalization).
+      Cox proportional hazards models will be used to estimate site-specific adjusted hazards
+      ratios (HR) and corresponding 95% confidential intervals (CI) for each outcome of interest
+      among postpartum women. Robust sandwich variance estimators will be used to account for
+      potential within-subject clustering. As secondary analyses, the composite endpoint of VT or
+      SCD will be stratified by domperidone dose and duration if feasible. Sensitivity analyses
+      will be performed to assess the robustness of study results. Meta-analyses of the
+      site-specific results will be performed using random-effects models.
+
+      In additional analyses, the demographic and clinical characteristics (including perinatal and
+      peripartum characteristics) of women prescribed domperidone in the six months postpartum with
+      those of women not prescribed it during this period will be compared. Furthermore, the impact
+      of Health Canada safety advisories on prescribing patterns will be assessed via interrupted
+      time series analyses.
+    
+  

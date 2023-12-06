@@ -1,0 +1,67 @@
+
+    
+      Investigations description Subjects sit at a table in front of a 15" computer screen, a
+      centrally located joystick and a sliding lever on the right side. All devices are fixed to
+      the table.
+
+      The subjects hand is fitted with six adhesive reflexive markers so that hand movements can be
+      registered from above by two MX-F20 Vicon-Cameras, attached to a table-fixed metal frame.
+      Lever forces are registered by an ATI Nano17 force transducers, lever fore-aft position by an
+      inductive encoder, and eye position by an eye tracker (Tobii T60).
+
+      Subjects will perform two different tasks, one representing a typical laboratory (L), one an
+      everyday-like task (E). In task L, a visual stimulus on the screen will prompt subjects to
+      release the joystick, grasp the lever, move it forwards and back, and then return their hand
+      to the joystick. In task E, subjects will use the joystick in a computer game ("spider
+      chasing") and occasionally release the joystick, grasp the lever, move it forwards and back
+      in order to collect a reward, and then return their hand to the joystick. In both tasks the
+      visual stimuli are accompanied with acoustic signals. To hear these signals during the flight
+      procedure, subjects are equipped with ear-phones, plugged into a laptop.
+
+      In one 20 second microgravity episode, task L will be performed five times or task E twice.
+      The investigator starts each task with a click on the keyboard and it stops automatically
+      after 20sec.
+
+      Control data will be registered from each subject for the same length of time during level
+      flight at 1g.
+
+      During the whole test procedure the subject is not constraint in its natural behaviour except
+      by an easy to open belt which fixes the subject to the chair. The subject can at any time end
+      the experiment.
+
+      Equipment used For hand motion measurement and analysis we use a Vicon MX System, consisting
+      of two MX20+ infrared high-speed cameras, each connected via cables with an MX Ultranet which
+      processes the data. The Ultranet is connected with a network cable to a corresponding laptop
+      (Dell).
+
+      Force is measured by a 6 degree of freedom force transducer which is part of an ATI DAQ F/T
+      System, consisting of the force sensor Nano 17, a power supply box with booster and a 16-bit
+      A/D converter (DAQ-Card, NI 6036E). It uses the PCMCIA bus of a second laptop (Fujitsu).
+
+      The position of the object to move is measured by an inductive position encoder (dc position
+      encoder type 8740-5100 by burster).
+
+      The eye movement will be recorded by a standard USB-camera or a commercial eye-tracker (Tobii
+      T60) when available.
+
+      All devices are commercially available and are used according their CE marking.
+
+      Experimental protocol Before flight subjects will be familiarised with the protocol. Two
+      subjects will be studied during each flight. On ground, each subject gets 6 reflexive markers
+      (6mm diameter) stuck on their right hand (4 on index, 2 on thumb, fixed with double sided
+      adhesive tape).
+
+      The first subject takes a seat at the experimental set-up, the second one on an aircraft
+      seat. The tested subject is then equipped with ear-phones plugged into a laptop. It helps to
+      focus the attention on the tasks which are accompanied with acoustic signals. Recording
+      devices are then adjusted to the subject by a standard calibration procedure, done by the
+      test-operator. Before entering the first parabola the subject executes the same two
+      grasping-tasks on level flight. After the first test parabola, during each 0g period it has
+      to execute the grasping movements in one of each task - 4 parabolas task L with five episodes
+      each, 10 parabolas task E with two episodes each. Entering the 0g phase the operator starts
+      the test by a click on the keyboard, afterwards the tasks stop automatically. During 1g and
+      1,8g phases the test is interrupted. After the 15th parabola the subjects switch places and
+      the second one starts with the tests during the 0g phases. On level flight back to the
+      airport it executes the same two tasks again as control condition.
+    
+  

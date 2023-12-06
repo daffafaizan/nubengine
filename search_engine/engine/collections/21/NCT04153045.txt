@@ -1,0 +1,31 @@
+
+    
+      To investigate the effect of xrAI for clinicians that interpret chest radiographs as part of
+      their daily responsibilities, the investigators have designed a randomized control trial.
+
+      The pulmonary abnormalities detected by xrAI and included in the definition of abnormal are
+      as follows: any linear scar or fibrosis, atelectasis, consolidation, abscess or cavity,
+      nodule, pleural effusion, severe cases of emphysema and COPD (mild cases with hyperinflation
+      but not significant emphysema are not flagged), and pneumothorax.
+
+      To assess the causal effect of xrAI the investigators randomly assign 36 clinicians to either
+      treatment (x-ray images processed by xrAI) or control (no xrAI processing) groups.
+      Participants will only review images once. Each participant will perform 500 radiograph
+      interpretations in total.
+
+      Participants in the control group will be asked to interpret the same 500 images without
+      xrAI's analysis.
+
+      To increase the precision of the estimate and better investigate potential differences
+      between clinical professionals, investigators block randomize the assignment of treatment or
+      control group within each group of clinicians (family doctor, nurse practitioner, emergency
+      medicine physician, internist, pulmonologist, radiologist). Within each group of clinicians,
+      investigators will randomly assign half to treatment or control group. This randomized
+      complete block design ensures that an equal number of each group of clinical professionals
+      are represented in the treatment and control groups.
+
+      To analyse the effect of xrAI, the investigators will estimate the average treatment effect
+      (ATE) for each subgroup by comparing the performance of the treatment and control groups
+      using randomization-based inference (Green and Gerber, 2012).
+    
+  

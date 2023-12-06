@@ -1,0 +1,236 @@
+
+    
+      1. Decision support algorithm: The decision support algorithm is based on case-based
+           reasoning (CBR). CBR is an artificial intelligence technique that tries to solve newly
+           encountered problems by applying the solutions learned from solved problems encountered
+           in the past. A combination of parameters makes up the case problem presented to the CBR
+           algorithm. Using this information the algorithm will find a similar case scenario from
+           the pool of previously encountered cases and recommend an improved solution (insulin
+           dose) to achieve the best possible outcome (postprandial blood glucose). Each new case
+           includes information about the problem (e.g. capillary blood glucose, meal information
+           etc), solution (recommended insulin dose) and outcome (postprandial blood glucose).
+
+           PEPPER offers a dual architecture for both Multiple Daily Injections (MDI) and
+           Continuous Subcutaneous Insulin Infusion (CSII) therapy. In both cases, the user
+           periodically wears a continuous glucose monitor (CGM) and an activity monitor.
+
+           Handset CSII version: The handset is a portable touch-screen device, which communicates
+           directly with the insulin pump with PEPPER application running.Its primary function in
+           PEPPER is to allow the user to precisely manage insulin therapy by accepting or
+           rejecting bolus insulin dose recommendations, calculated by the CBR based decision
+           support algorithm, via a graphical interface. In addition, it automatically records
+           glucose levels and allows logging of food intake and other parameters.
+
+           MDI version: This handset is a commercially available Smartphone with the insulin
+           recommendation application running locally on a standard operating system such as iPhone
+           Operating System (iOS) or Android. It has the same functionality as Handset in CSII
+           version, except that is not connected to insulin pump and patients have to administrate
+           insulin by insulin pens.
+
+           Secure web server revision: The handset wirelessly reports the user's case history to
+           the secure portal, a web site which allows the clinician to add new patients, and review
+           the cases to decide which ones should be kept. A case comprises multiple parameters such
+           as carbohydrate intake, BG reading, meal composition, physical activity and hormone
+           cycle.
+
+           Personal Health Record on the secure portal allows patients and clinicians to view and
+           update selected components of the detailed history.
+
+           Insulin delivery system:
+
+           MDI: it will be provide insulin pens with 0,5 IU of insulin CSII: will use Cellnovo
+           insulin pump Continuous glucose monitoring system The glucose sensor that will be used
+           throughout the clinical studies is the Dexcom sensor (CE marked, manufactured by
+           Dexcom). This current is proportional to the glucose concentration in interstitial fluid
+           and is calibrated against blood glucose a minimum of 12-hourly. The Dexcom CGM data is
+           automatically transmitted to a secure web-based server and the secure PEPPER web-portal.
+           Participants will be able to see their CGM data at all times and this will be used
+           continuously throughout the studies.
+
+           Safety features: Low and high glucose alarms will be incorporated to alert the user when
+           hypo- and hyperglycaemia is detected to enable the user to act accordingly to bring the
+           glucose levels back to target range.
+
+           Glucose prediction algorithm for hypoglycaemia prediction. The hypoglycaemia prediction
+           algorithm will enable the system to automatically activate the low glucose suspension
+           feature in pump participants (suspension of insulin delivery until glucose levels are
+           within the target range) and/or trigger an adaptive carbohydrate adviser, which will
+           recommend a personalised carbohydrate snack.
+
+           Insulin safety constraints. Personalised maximum insulin dose thresholds will be
+           incorporated to prevent overdosing on insulin.
+
+           Fault detection. Insulin pumps and CGMs are well-established technologies, but faults in
+           these devices (e.g. pump occlusion, loss of sensor sensitivity) may occur. A fault
+           detection system will identify such faults and alert the user to recommend a
+           corresponding action to revert to the normal state.
+
+        2. Clinical study Recruitment. This is a multicentre study and recruiting for the clinical
+           study will be undertaken in the diabetes clinics at the Institut d'Investigació
+           Biomédica de Girona (IdIBGi) (Spain) and the Imperial College London (ICL) (UK) from
+           registered research databases and from interested participants who contact us.
+
+           Objective: To demonstrate safety, feasibility and usability of the PEPPER system
+           compared to a standard bolus calculator.
+
+           The standard bolus calculator system will include the standard RT-CGM low and high
+           glucose alarms.
+
+           Methodology: Randomised open-label cross-over study Population: 50 adults with T1DM (25
+           on MDI and 25 on CSII) Randomisation: Participants who fit the inclusion criteria will
+           be randomized to PEPPER/Control or Control/PEPPER in a 1:1 ratio. The groups will be
+           stratified by pump or MDI. Both groups will be using CGM. After 3 months each group will
+           revert to their standard therapy for 4 weeks (wash-out period) and then crossover to the
+           other group.
+
+           Timescale: Each participant will be in the study for 7 months. It is anticipated that it
+           will take 12 months to complete this phase.
+
+           2.1 Usability assessment during clinical trial
+
+           Task-driven testing with users using standard metrics for effectiveness and
+           satisfaction. Mixed methods will be used to collect usability and satisfaction data
+           including:
+
+           A. Structured validated and non-validated treatment satisfaction and acceptability
+           questionnaires B. Semi-structured interviews C. Automatic collection of quantitative
+           data from the PEPPER system on time taken to get insulin bolus advice for users and time
+           taken to perform revisions by the clinical investigators.
+
+           D. Audio recording E. Video recording -training session where the participant will be
+           asked to perform tasks in PEPPER system. This process will be observed in order to
+           determine common problems and misunderstandings as well as aspects that have worked
+           successfully. The handset will be filmed during the training to see which aspect is
+           being described.
+
+        3. PEPPER case base revision. The PEPPER case base will be revised every 2 weeks throughout
+           the intervention period (PEPPER with CBR) and this will be a semi-automatic process done
+           remotely via the secure web-server. Any new cases will be approved by the study team
+           prior to inclusion in the case base. This provides remote supervision and prevents any
+           potential system faults despite safety measures. The participants will not need to
+           attend the clinical research unit for the revisions. Usual care will be maintained for
+           diabetes throughout the study. Support will be offered to any participants who have
+           concerns about their diabetes management.
+
+           Participants in both the intervention group and control group will have the opportunity
+           to call a physician for medical support and an engineer for technical support 24 hours a
+           day throughout the study.
+
+        4. Statistics This is a 7-month randomised controlled cross-over pilot study to evaluate
+           the safety and usability of the PEPPER system versus a standard bolus calculator. 50
+           participants (25 participants on MDI and 25 participants on CSII) will be included in
+           the study. To allow for a 10% drop-out rate we will screen 55 participants. The primary
+           outcome is percentage time in target and secondary outcomes as outlined in section
+           Outcomes Measures.
+
+           With 50 participants a 0.57 SD difference can be demonstrated as significant with α of
+           0.05 and 80% power (two-tailed). Based on a pilot study population mean (SD) % time in
+           target (3.9-10mmol/l) of 61.6 (18.8) a 10.7 (=0.57x18.8) difference in % time in target
+           can be demonstrated as significant between the intervention and control in this study.
+
+           The sample size is comparable to other technology transfer studies, is a realistic
+           number for recruitment and provides robust safety date of a new technology.
+
+           The primary analysis in the randomized crossover study will follow the
+           intention-to-treat principle. The change in the primary outcome between the two
+           treatment arms will be compared using an Analysis of Variance (ANOVA). The ANOVA model
+           will include period sequence and subject within sequence as fixed effects. Missing data
+           will be imputed using Rubin's method if feasible. For all CGM outcomes, a multilevel
+           model of repeated measures (MMRM) will be used. Similar analyses will be performed
+           separately for daytime and nighttime. The CGM data will be pooled giving equal weight to
+           each hour of the day.
+
+           Safety analyses will include severe hypoglycemia, diabetic ketoacidosis, and all
+           reported adverse events. Event rates will be computed per 100 person-years. The numbers
+           of events will be compared between the two treatment groups using robust Poisson
+           regression and the percentage of subjects with at least one event will be compared using
+           Fisher's exact test. Treatment group comparisons for total daily insulin and weight,
+           will be made using analysis of covariance models, adjusted for the corresponding
+           baseline value.
+
+           For each questionnaire, mean ± SD values or percentiles appropriate to the distribution
+           will be given by randomization group for the total score and each subscale. Treatment
+           group comparisons will be made using similar linear models as described above for the
+           primary outcomes.
+
+           The following tabulations will be performed according to treatment group without
+           statistical testing: baseline demographics and clinical characteristics, flow chart
+           accounting for all subjects for all visits, protocol deviations, device malfunctions and
+           other reported device issues, bolus recommendations accepted, screen views, and App
+           using time per day.
+
+        5. Data During the course of the study visits some data will be stored on laptop computers,
+           not connected to the Internet, for later statistical analysis. These data will be coded
+           and non- identifiable. Laptop computers may be used during the visits for portability
+           and convenience. At the end of each visit the anonymised data will be transferred
+           immediately to a secure web-server (details below) and will be deleted from the laptop.
+
+           Any identifiable participant data will be stored in a locked filing cabinet in a secure
+           room in each investigation centre. Only clinical research team will have access to this
+           participant identifiable data.
+
+           5.1 Confidentiality of data collected during interviews To ensure security, data
+           obtained during the course of the interviews will be encrypted and stored securely, with
+           access limited solely to the researchers. Data will be de-identified such that only the
+           researchers will be able to link the data to the participant involved using reversible
+           codes. This is done purely for the purpose of comparison and evaluation across the
+           separate interviews. Any resulting publications using the data will not identify the
+           participants, and any quotes will kept anonymous should participants consent to this.
+           All data will be kept securely for a period of 10 years following completion of the
+           project.
+
+           All audio or video recordings will avoid the use of names or other easily identifiable
+           statements. Any recordings that violate this will be edited to omit the statement and
+           the original destroyed. Audio and video recordings will be kept for 10 years.
+
+           All data will be stored in an anonymised form by using study numbers for identification
+           of participants.
+
+           A data monitoring committee will be convened to assess the data collected throughout the
+           study. This committee will comprise of the Chief Investigator at each site, a lay
+           member, an independent diabetologist and an independent scientist.
+
+           5.2 Electronic data storage on secure web-server Data security and privacy will be a
+           priority whilst dealing with medical data such as that held in the PEPPER system. During
+           the clinical trail anonymous clinical data will be entered and stored on a secure
+           web-server. Anonymous data collected by the PEPPER handset (such as glucose, meal
+           information, physical activity, alcohol, exercise) and the Dexcom CGM system will be
+           automatically transmitted to the secure web-server. For this purpose, EU regulatory
+           procedures (Directives 95/46/EC and 2002/58/EC) will be observed. Medical data will be
+           stored and protected against non-authorised access; transmission of data will be
+           secured; only authorised users will have access to services and stored data.
+           Authentication will be required for application use and data synchronisation. PEPPER
+           will operate according to standard interoperability guidelines (e.g. HL7), so that
+           information can be exchanged seamlessly between the various components. Authorised users
+           will include study team members from the PEPPER collaborators. Collaborators will only
+           be able to view anonymous PEPPER handset data.
+
+           The data generated by the study will be analysed by the collaborative PEPPER research
+           team at their respective sites. The analysis will be on anonymised data which will be
+           aggregated during joint meetings on either clinical site.
+
+           Missing, unused, and spurious data will be assessed on an individual basis and may be
+           ignored, withdrawn or the visit may be removed from the analysis with appropriate
+           justification adjudicated by the Principal Investigator.
+
+        6. Adverse Events (AEs) Reporting Procedures. All adverse events will be reported.
+           Depending on the nature of the event the reporting procedures below will be followed.
+           Any questions concerning adverse event reporting will be directed to the Chief
+           Investigator in the first instance.
+
+      Non serious AEs: All such events will be recorded. Serious Adverse Events (SAEs): An SAE form
+      will be completed and faxed to the Chief Investigator within 24 hours. However,
+      hospitalisations for elective treatment of a pre-existing condition do not need reporting as
+      SAEs.
+
+      Reports of related and unexpected SAEs will be submitted within 15 days of the Chief
+      Investigator becoming aware of the event. The Chief Investigator will also notify the Sponsor
+      of all SAEs, where in the opinion of the Chief Investigator, the event is:
+
+        -  'related', i.e. resulted from the administration of any of the research procedures; and
+
+        -  'unexpected', i.e. an event that is not listed in the protocol as an expected occurrence
+           Local investigators will report any SAEs as required by their Local Research Ethics
+           Committee, Sponsor and/or Research & Development Office.
+    
+  

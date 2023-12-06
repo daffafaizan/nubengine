@@ -1,0 +1,29 @@
+
+    
+      We have developed a novel decision support system for implementing clinical guidelines in
+      pediatric practice. CHICA (Child Health Improvement through Computer Automation) combines
+      three elements: (1) pediatric guidelines encoded in Arden Syntax; (2) a dynamic, scannable
+      paper user interface; and (3) an HL7-compliant interface to existing electronic medical
+      record systems. The result is a system that both delivers "just-in-time" patient-relevant
+      guidelines to physicians during the clinical encounter, and accurately captures structured
+      data from all who interact with it. Preliminary work with CHICA has demonstrated the
+      feasibility of using the system to implement and evaluate clinical guidelines.
+
+      However, analyses have shown that physicians ignore a fair number of prompts. We would like
+      to experiment with changes to the system to see if we can increase physicians' response
+      rates. This could include highlighting prompts, reordering them, or flagging them in other
+      ways. The main outcome of interest is the rate at which physicians answer prompts.
+
+      This will be a randomized, controlled trial of the CHICA system to see if we can improve
+      prompt response rates. We will randomize physicians or clinics to receive some form of prompt
+      change, including highlighting them, reordering them, or flagging them. No other changes will
+      be made to care.
+
+      We will extract data from the CHICA system for all patients seen in our study clinics. This
+      data will include a the clinic location, whether or not a physician responded to a prompt,
+      the prompt's position on the form, the patient's gender, the rule priority of the prompt,
+      rule title, patient insurance category, the patient's age in days, and the name of the
+      provider. The main outcome of interest is whether or not a prompt was answered (discussed/not
+      discussed).
+    
+  

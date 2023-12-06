@@ -12,14 +12,14 @@ all_files = os.listdir(data_folder)
 # shuffle the files
 random.shuffle(all_files)
 
-files_per_block = 800
+files_per_block = 10000
 
 for i in range(0, len(all_files), files_per_block):
     # extract block of files
     block_files = all_files[i: i+files_per_block]
     
     # create new block folder
-    block_folder = os.path.join(output_folder, f"{i//files_per_block+1}")
+    block_folder = os.path.join(output_folder, f"{i//files_per_block+4}")
     os.makedirs(block_folder, exist_ok=True)
     
     # move file to new block folder

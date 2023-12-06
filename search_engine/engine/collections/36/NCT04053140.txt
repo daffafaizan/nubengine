@@ -1,0 +1,82 @@
+
+    
+      Outline of the study:
+
+      This study will take place at the Imperial Clinical Research Facility (ICRF). Twenty healthy
+      volunteers will be recruited to take part in three visits to the ICRF. These will each last
+      8-12 hours. During these visits participants will receive penicillin via infusion following:
+
+      (i) Routine (intermittent or continuous) dosing protocols. (ii) Intermittent dosing directed
+      by a closed-loop control system. (iii) Continuous dosing directed by a closed-loop control
+      system. Participants will have up to 15 blood samples and tissue microdialysis performed. A
+      biosensor will also be used to provide real-time antibiotic concentration data. This will be
+      used to drive the closed-loop control system. Outcome measures will be PK-PD target
+      attainment between visits. This target will be 50% time > MIC and 100% time > MIC.
+
+      Participant identification:
+
+      Healthy volunteers will be recruited from a healthy volunteer database held within Imperial
+      College London and via identification of participants within the College. An initial
+      advertisement e-mail will be sent by the Healthy Volunteer Database Administrator and
+      individuals responding will then followed up by telephone or e-mail and invited to attend a
+      screening visit at the ICRF. They will be sent the participant information leaflet via email
+      in advance of this meeting to give them time to consider the information.
+
+      Study methodology:
+
+        -  Twenty healthy volunteers will be invited to participate in an exploratory study of the
+           biosensor device and closed-loop control systems.
+
+        -  Allergy status will be confirmed with the participant at each visit.
+
+        -  Study days will follow the same format. The only deviation will be the method of
+           penicillin delivery (this will either be by routine infusion, closed-loop intermittent
+           infusion, or closed-loop continuous infusion).
+
+        -  On the night before study visits, participants will be asked to refrain from drinking
+           alcohol. On the study day they will be invited to bring a laptop / tablet device for
+           their entertainment. Alternatively, one will be provided on the study day by the ICRF.
+
+        -  On arrival at the study center the participant will have a microneedle biosensor sited.
+
+        -  They will have two cannulae inserted, ideally one in each arm. One of these will be for
+           taking blood during the study. The other will be for penicillin delivery.
+
+        -  They will also have a microdialysis fibre inserted in the same arm as the microneedle
+           array.
+
+        -  A baseline blood sample will be taken (full blood count, renal function, liver function,
+           and C-reactive protein) on each visit.
+
+        -  The microneedle biosensor will be sited peripherally (on the non-dominant arm). These
+           sensors are connected to potentiostat devices that record data, which can then be
+           downloaded onto a computer for analysis.
+
+        -  The study will then commence at time = 0 when the first infusion of penicillin will be
+           given.
+
+        -  In total, the study will run for 3 benzylpenicillin dosing intervals (8-12 hours). For
+           intermittent, routine care benzylpenicillin doses will be given at time = 0, 4, and 8
+           hours. During closed-loop control visits the controller will be allowed to determine the
+           dosing interval / period. The controller will be limited to deliver a MAXIMUM dose
+           equivalent to 2.4g every 4-hours.
+
+        -  During the study interval the participant will undergo rich blood and microdialysis drug
+           concentration sampling. For blood sampling, up to 15 beta-lactam drug levels will be
+           taken during the study visit period. Each blood test will involve the collection of 5mLs
+           of blood (1 teaspoon). Microdialysis will be performed continuously for the study
+           period. The collection vial will be changed every 15-30 minutes during the study period.
+
+        -  In addition, a blood spot will be used from the blood samples taken as part of the PK
+           sampling to test point-of-care penicillin sensors at the time-points described below.
+
+        -  A visual analogue scale will be completed by the participant every hour to evaluate
+           their level of discomfort due to the microneedle sensor device. The device and site will
+           also be checked by researchers every hour.
+
+        -  Time points for the blood sampling are planned to initially be taken at pre, 6, 10, 15,
+           30, 60, 120, 180, 240, 246, 250, 300, 480, 486, 600 minutes. However, following initial
+           PK analysis a D-optimal design will be employed using Pmetrics and BestDose
+           pharmacokinetic software to determine the optimal time points for blood PK analysis.
+    
+  

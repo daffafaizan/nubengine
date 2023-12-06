@@ -1,0 +1,38 @@
+
+    
+      The Breast Microwave Imaging (BMI) system that will be used in this study is designed to
+      detect breast abnormalities using low power microwave waveforms. The system is formed by
+      three main components:
+
+        1. Patient bed. The volunteer will be positioned in this bed in a prone position where with
+           the breast to be imaged in a pendant position.
+
+        2. Instrumentation rack. This component contains all the microwave instrumentation and
+           motion mechanisms required to illuminate the breast using an ultrawide band waveform and
+           record the responses from the breast structures.
+
+        3. Control computer. This component is used to control the motion of the mechanical
+           components of the system and to retrieve the responses from the breast structures from
+           the microwave instruments and store them in an electronic format.
+
+      The system takes between 7.5 to 10 minutes to collect a three dimensional dataset from a
+      single breast.
+
+      The BMI system used in the study operates in the frequency range of 20 megahertz (MHz) to 9
+      gigahertz (GHz). Canadian safety limits for the interaction of these non-ionizing
+      electromagnetic waves with humans are outlined in the Health Canada publication "Safety Code
+      6: Limits of Human Exposure to Radiofrequency Electromagnetic Energy in the Frequency Range
+      from 3 kilohertz (kHz) to 300 GHz [1]. For unregulated environments, the Specific Absorption
+      Rate (SAR) limit set by Health Canada is 1.6 W/Kg. In the system used in this study,
+      radio-frequency energy is generated via the Vector Network Analyzer (VNA). If the VNA is set
+      at its maximum output power, which is 3.2 milliwatt (mW), the power received at 5 cm from the
+      antenna (which is the distance where the breast will be) was measured to be 890 microwatt,
+      which would yield a SAR value of 0.0196 W/kg.
+
+      References
+
+      [1] Consumer and Clinical Radiation Protection Bureau, Limits of Human Exposure to
+      Radiofrequency Electromagnetic Energy in the Frequency Range from 3 kHz to 300 GHz, Health
+      Canada, Ottawa, Ontario, 2015.
+    
+  

@@ -1,0 +1,30 @@
+
+    
+      Automated closed-loop control (CLC) of blood glucose, known as "artificial pancreas" (AP) can
+      have tremendous impact on the health and lives of people with type 1 diabetes (T1DM). This
+      inter-institutional and international research team has been on the forefront of CLC
+      developments since the beginning of the Juvenile Diabetes Research Foundation (JDRF)
+      Artificial Pancreas initiative in 2006. Thus far, the investigators have conducted three
+      closed-loop control clinical trials (totaling 60 subjects with T1DM), which demonstrated
+      significantly more time in an acceptable "target" blood glucose range during CLC, and
+      significantly fewer hypoglycemic events during CLC compared to open loop. The overall
+      objective is to sequentially test, validate, obtain regulatory approval for, and deploy at
+      home, a closed-loop Control-to-Range (CTR) system comprised of two algorithmic components: a
+      Safety Supervision Module (SSM) and a Hypoglycemia Mitigation Module (HMM). The SSM will
+      monitor the safety of the subject's continuous subcutaneous insulin infusion pump (CSII) to
+      prevent hypoglycemia and will also monitor the integrity of continuous glucose monitor (CGM)
+      data for signal sensor deviations or loss of sensitivity. The HMM will be responsible for the
+      optimal regulation of postprandial hyperglycemic excursions through correction boluses.
+
+      This study will test the ability of AP Platform to (1) run CTR in an outpatient setting, and
+      (2) be remotely monitored. Specifically, this study involves studying adults with T1DM who
+      are experienced insulin pump users. Subjects will spend two nights (~42 hours) in a local
+      hotel, during which the AP Platform will be remotely monitored in an adjacent hotel room for
+      validation that remote system monitoring can successfully occur. During the study, study
+      subjects will be responsible for operating the CTR system with nursing and technicians
+      available for additional support. A study physician and senior engineer will be on call.
+
+      Five subjects each will be enrolled at University of Virginia and the University of
+      California, Santa Barbara.
+    
+  

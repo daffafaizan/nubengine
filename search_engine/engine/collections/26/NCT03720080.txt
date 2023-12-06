@@ -1,0 +1,60 @@
+
+    
+      Insulin titration remains a demanding challenge in the treatment of type 1 diabetes mellitus
+      (T1DM). The two most significant advances in terms of insulin dosing where the introduction
+      of continuous subcutaneous insulin infusion (CSII) and continuous glucose monitoring (CGM)
+      sensors. CSII allows to diligently titrate hourly basal rates of insulin, which tremendously
+      increased insulin and meal-time flexibility. CGM sensors provide continuous documentation of
+      glycemic excursions without the need for patients' activity.
+
+      The most recent development was to enable communication and data sharing between CSII and
+      CGMS. The idea was to create an autonomous system that measured current glucose
+      concentrations and issued an adequate insulin dose to the CSII device. These systems were
+      entitled "closed loop systems" or "artificial pancreas" (AP).
+
+      In general, APs have three components: the CSII device, a CGM sensor, and a "decision-making"
+      algorithm integrated in a microprocessor.
+
+      In 2006, the Juvenile Diabetes Research Foundation (JDRF) launched the "AP Project" and has
+      been funding development in this area since that time. In 2013, the threshold suspend feature
+      was approved by the American Food and Drug Administration (FDA) as part of the MiniMed 530G
+      CSII and Enlite sensor CGM. Threshold suspend autonomously stopped basal rate insulin
+      infusion if hypoglycaemia was imminent. It is categorized as hybrid closed loop (HCL) AP
+      system. HCL autonomous adjusts basal rate insulin infusion yet requires active bolus
+      application by the patient. Several trials confirmed its safety and efficacy in children and
+      adults with type 1 diabetes. In clinical trials, general safety was high, glycemic control
+      increased and the incidence of hypoglycaemia was significantly reduced. Based on these
+      promising data, the FDA approved the Medtronic 670G as the first HCL automated insulin
+      delivery system in the United States. In 2018, Medtronic 670G was approved in the European
+      Union and in Switzerland for the treatment of patients with T1DM.
+
+      In 2013, an initiative called the "Open Artificial Pancreas System (OpenAPS)" gained
+      significant attention in the diabetes community.(9) OpenAPS was designed to quickly spread AP
+      technology to patients with diabetes without awaiting clinical trials and FDA approval.
+      OpenAPS is based on a privately shared software program, which enables access and transfer of
+      CGM data to a data cloud, the so called "Nightscout" software. Soon thereafter, the
+      "Do-It-Yourself Pancreas System" (DIYPS) software was created. DIYPS is a "decision making"
+      algorithm for insulin delivery. DIYPS was combined with the Nightscout-software and allowed
+      communication between Medtronic CSII and CGM sensors, data retrieval and issuance of
+      insulin-dosing. With this update, the DIYPS system and Nightscout-software together became a
+      hybrid closed loop AP system, better known as "OpenAPS".
+
+      In Switzerland, OpenAPS gained considerable interest in technique-affine patients with T1DM,
+      and there already are patients with T1DM using openAPS at our department, despite the
+      recommendation to use only approved medical devices. The number of patients using OpenAPS
+      might be small at the moment but is growing, and diabetes care experts are asked to respond
+      to this trend. It is necessary to evaluate safety of OpenAPS in diabetes, which are free of
+      charge, to be used "at your own risk", but regulate sensible parameters like insulin dosing
+      in the treatment of diabetes.
+
+      The aim of the present study is to evaluate accuracy and performance of an individually build
+      OpenAPS in the fasting and the postprandial state and to compare each step of dose titration
+      with the Medtronic 670G system as an approved HCL reference system.
+
+      The investigators aim to recruit 15 participants in an open label, single-center, single-arm,
+      observational study. Insulin injection will only be provided by the Medtronic 670G HCL system
+      (Basal rate insulin). The OpenAPS system will be worn contemporaneously, calculate
+      recommended basal rate insulin adjustments but will not inject insulin. The maximum treatment
+      period will be 2 weeks per patient.
+    
+  

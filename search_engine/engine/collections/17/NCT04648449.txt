@@ -1,0 +1,38 @@
+
+    
+      In this project, the investigators will collect data from all stroke patients discharged from
+      Helse Bergen in 2019 (approx. 1000 patients) via the Norwegian Stroke Registry (NSR). For
+      these patients, structured hospital data from Helse Bergen will be retrieved, and based on
+      these and the spoken content of their emergency call regarding the stroke, the investigators
+      will use machine learning to calculate the stroke risk. The connection of historical hospital
+      data to the spoken words in the emergency call, amplifies the analysis of emergency calls in
+      a novel way, in comparison to sound analysis alone.
+
+      After retrieving and connecting stroke patient data, the investigators train the deep network
+      using data from 2019. Accordingly, testing will be performed based on patients from the first
+      half of 2020. A separation of the data into training, test, and validation assures that our
+      trained network does not over fit on the training data and can reproduce similar results on
+      previously unseen patients. Finally, the investigators will compare the performance of the AI
+      with the current system through statistical analyses on data from a period of approximately
+      one year of live usage of the AI in AMK Bergen. This will enable us to evaluate to what
+      degree the system is able to improve within the decision process of the EMCC operators in
+      terms of sensitivity and specificity.
+
+      Summarized, the primary objective is to build a robust, working prototype of an AI system
+      capable of real-time identification of acute stroke for improved assessment in emergency
+      medical calls.
+
+      Our secondary objectives are:
+
+        -  To implement an AI system capable of providing fast prediction of whether a patient is
+           suffering from acute stroke or not based on audio from emergency call and available data
+           sources within the hospital records
+
+        -  To prove that AI systems can be used to assist and improve the triage decision procedure
+           of the EMCC operator.
+
+      The anticipated result is to deliver fast (i.e. seconds) prediction scores to assist the EMCC
+      operator in recognizing acute stroke patients, which provides an improved sensitivity and
+      specificity compared to manual assessment only.
+    
+  

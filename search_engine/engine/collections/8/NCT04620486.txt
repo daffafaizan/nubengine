@@ -1,0 +1,24 @@
+
+    
+      Antibiotics administration can sometimes be delayed in the emergency department (ED)
+      environment, where antibiotics are frequently ordered in electronic medical record systems as
+      a one-time dose and the second dose is delayed or missed. This has been described in the
+      literature, a 2017 article in Critical Care Medicine noted in a single academic center that
+      33% of sepsis cases had 2nd-dose-antibiotic delays greater than 25% of the recommend interval
+      and this was associated with significantly increased hospital mortality (OR 1.61) and
+      mechanical ventilation (OR 2.44).
+
+      An Epic Best Practice Advisory (BPA) was created by the Mass General Brigham eCare Decision
+      Support team to address this patient safety concern. The BPA alerts providers in the ED or ED
+      Observation when the next dose of broad-spectrum antibiotic dose is due for a patient if no
+      future administration has been ordered, based on patient characteristics (such as renal
+      function) and antibiotic selection. The objective of this study is to analyze the impact of
+      this BPA on our performance in terms of on-time antibiotics through a randomized controlled
+      trial. Patients whose medical record number (MRN) are odd will be assigned to the treatment
+      group, while those whose MRNs are even will be assigned to the control group. The BPA will
+      only be displayed to the patient's providers for the treatment group. We will then compare
+      the performance of on-time antibiotics between the groups and the resulting impact on patient
+      outcomes, such as overall hospital length of stay, admission to the intensive care unit
+      (ICU), and in-hospital mortality.
+    
+  

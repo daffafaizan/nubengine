@@ -1,0 +1,28 @@
+
+    
+      This was a retrospective cohort study using a large administrative database (study period:
+      1/1/2003 through 6/30/2009). Date of first FSC or ACs (tiotropium; ipratropium alone or in
+      combination with albuterol) was defined as the index date. Managed care enrollees (aged >40
+      years) having at least one medical claim with a primary diagnosis of COPD (ICD code 491.xx,
+      492.xx and 496.xx) and a diagnosis of depression (at least one claim with depression/anxiety
+      or at least one prescription claim for depression/anxiety) in one-year pre-index and within
+      60-days post-index were defined in the comorbid population. Patients were continuously
+      eligible throughout the one-year pre and post-index periods. Negative binomial models were
+      used to analyze number of COPD-related events [hospitalization (IP), emergency department
+      (ED), office visits with oral steroid and/or antibiotic prescription within 5 days (OV+Rx)]
+      and logistic regression was used to examine risk of COPD events between the two cohorts.
+      COPD-related costs were compared between the two cohorts using - generalized linear model
+      with log-link/gamma distribution after adjusting for baseline differences.
+
+      Specifically the study hypothesis for the primary outcome being tested was:
+
+      Ho: There is no difference in risk of any COPD-related exacerbation between FSC and AC
+      cohorts Ha: There is a difference in risk of any COPD-related exacerbation between FSC and AC
+      cohorts
+
+      Hypothesis for the key secondary outcome of COPD-related costs that was tested was:
+
+      Ho: There is no difference in COPD-related costs between FSC and AC cohorts Ha: There is a
+      difference in COPD-related costs between FSC and AC cohorts
+    
+  

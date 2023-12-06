@@ -1,0 +1,138 @@
+
+    
+      Background
+
+      High prevalence of body and eating concerns in Brazilian populations is well-documented, with
+      risk observed across the lifespan. With a population of 211 million people, prevalence rates
+      of body dissatisfaction range between 26.6 - 56% and 10.7- 36% for adolescent girls and boys,
+      respectively (1, 2, 3). Equally, an emerging proportion of adolescents report engaging in
+      disordered eating (i.e., binge eating [10.4%], dietary restriction [8.7%]) and weight control
+      behaviours (i.e., vomit and laxative use [.3 - 7.4%]; 4,5). The prevalence of these
+      disordered attitudes and behaviours are mirrored in older populations, and have shown to
+      manifest within family units (6). A meta-analysis into eating disorder prevalence among
+      Brazilian university students (Mage = 21.6 years) reported 14.9% of students met criteria for
+      an eating disorder, with cases highest among nutrition students (7). Meanwhile, Brazilian
+      parents' perceptions of their child's weight during early adolescence (i.e., 11 years), has
+      shown to predict higher weight gain and engagement in weight control behaviours during
+      late-adolescence (i.e., 18 years; 6). Brazilian consumer trends reflect these attitudes and
+      behaviours, with it being the leading country in diet pill consumption and aesthetic
+      surgeries, and second in the world for total aesthetic procedures (i.e., surgical and
+      non-surgical), with 2.27 million procedures conducted annually (8). Despite the scope of body
+      and eating concerns, few evidence-based interventions have been developed and tested for
+      Brazilian populations and even fewer are accessible, scalable or cost-effective.
+
+      It is widely accepted among health professionals, policy makers and governments that the
+      global burden of mental health will never be successfully met by extant health professionals
+      and services alone. Further, current intervention modalities (e.g., face-to-face
+      psychotherapy) may be unnecessary or unsuitable for milder concerns, which may be responsive
+      to lower intensity interventions that demand fewer resources. Harnessing technology to
+      deliver evidence-based care is a key focus for researchers. Micro-interventions (brief, low
+      intensity, self-administered interventions), offer an alternative to traditional, intense
+      interventions that may be unsuitable for milder concerns. Body image micro-interventions have
+      proven effective at providing immediate and short-term improvements in body image among women
+      (9). To date, body image micro-interventions have been developed and evaluated among
+      high-income, White, English-speaking samples, with little research exploring how this
+      intervention model may cater to other cultures and countries. Given the prevalence of body
+      image concerns among Brazilian adolescents, coupled with health care disparities, developing
+      evidence-based micro-interventions for scalability is an imperative step in mental health
+      research for Brazil.
+
+      The aim of the present study is to evaluate a chatbot that targets risk and protective
+      factors for body image among Brazilian adolescents. Using a two-armed randomised controlled
+      trial design (i.e., intervention vs. assessment only), the study will assess the chatbot's
+      efficacy at eliciting immediate and short-term improvements in adolescents' state- and
+      trait-based body image, affect and body image self-efficacy. This is the first artificial
+      intelligence chatbot to target body image among adolescents, particularly in Brazil; thus, a
+      secondary aim is to assess user's intervention engagement and adherence.
+
+      A set of hypotheses were formulated for overall chatbot efficacy (H1-H2), moderation effects
+      within sub-samples (H3) and intervention engagement and adherence (H4):
+
+      H1: The chatbot was designed to provide immediate benefits to users. Therefore, it is
+      anticipated that adolescents will experience improvements in state-based body satisfaction
+      and affect at the time of engagement with the chatbot.
+
+      H2: Adolescents randomised into the intervention condition will experience greater
+      improvements in trait-based body esteem, affect and body image self-efficacy at
+      post-intervention, one-week and one-month follow-up following a 72-hour trial period,
+      relative to the assessment only control condition.
+
+      H3: Intervention effects will be moderated by gender, and baseline levels of body esteem,
+      affect and body image self-efficacy. Specifically, intervention effects will be greatest
+      among:
+
+        -  Girls
+
+        -  Girls and boys with lower levels of trait body esteem
+
+        -  Girls and boys with higher levels of trait negative affect
+
+        -  Girls and boys with higher levels of body image self-efficacy
+
+      H4: With regards to user engagement and adherence, given the novelty of this intervention,
+      analyses will be of an exploratory nature. It is, however, anticipated that greater
+      engagement and adherence with the chatbot intervention will lead to greater improvements in
+      trait-based outcomes.
+
+      Design
+
+      This is a two-arm randomised controlled trial, comparing an online intervention to an
+      assessment only control condition. Those in the intervention condition will interact with an
+      artificial intelligence chatbot over a 72-hour period, while participants in the control
+      condition will receive care as usual. Assessments of primary and secondary trait outcomes
+      will be conducted at baseline (T1), post-intervention (T2), one-week (T3) and one-month
+      follow-up (T4). Participants in the intervention condition will also be assessed on state
+      body satisfaction and affect immediately before and after engaging with an intervention
+      technique embedded into the chatbot.
+
+      Intervention
+
+      The body image chatbot, Topity, is designed to target sociocultural risk and protective
+      factors for body image using eight, brief therapeutic techniques derived from several
+      evidence-based theories, including media literacy, cognitive behaviour theory and positive
+      body image. The intervention aims to engage users in techniques that teach users how to 1)
+      Critically analyse and evaluate media content to reduce vulnerability to negative media
+      influences (i.e., media literacy theory; 10); 2) Identify and challenge unhelpful thinking
+      styles and behaviours that perpetuate body image distress (i.e., cognitive behaviour theory;
+      11); and 3) Appreciating the features, functions and health of the body, beyond it's
+      appearance (i.e., positive body image theory; 12).
+
+      Participants
+
+      This universal intervention was designed to provide whole population benefits, irrespective
+      of an individual's level of risk. Therefore, increased risk for body or eating concerns was
+      not an inclusion criterion for this trial. Eligible participants are those aged 13-18 years
+      old; Portuguese speaking; Brazilian resident; and, have access to Facebook Messenger.
+
+      Recruitment and data collection procedures
+
+      A representative sample of 2,800 adolescents aged 13-18 will be recruited via a Brazilian
+      research agency, using the agency's recruitment panels (e.g., via email) and UNICEF's online
+      communication platforms (e.g., U-Report). Recruitment materials will include a link to a
+      screener to determine participant eligibility.
+
+      Based on the screening results, participants will receive an information pack to be read by
+      themselves and their parent or guardian. Parents will be invited to provide consent by
+      uploading a signed consent to an online, confidential portal. Following parent consent,
+      participants will complete the online self-report assessment (baseline; T1), which will
+      commence with adolescents providing informed assent, by clicking a checkbox. Those who do no
+      assent will not proceed with the trial. At completion of the baseline survey, adolescents
+      will be randomised into one of two conditions: intervention or assessment only. Those in the
+      intervention condition will receive a link to the chatbot via email 24-hours after completing
+      the baseline assessment. Those in the assessment only condition will be advised of their
+      opportunity to engage with the chatbot at study completion.
+
+      Adolescents will be invited and encouraged to engage with the chatbot, as much as possible,
+      over a 72-hour period. During this period, participants will have the opportunity to complete
+      and re-engage with eight intervention techniques. Participants will be assessed on state body
+      satisfaction and affect immediately after engaging with a technique. At the completion of the
+      72-hour period, both conditions will be assessed on primary and secondary trait outcomes
+      (post-intervention; T2). Those in the intervention condition will be encouraged to continue
+      using the chatbot. One-week (T3) and one-month (T4) following the intervention period,
+      participants will be assessed on primary and secondary trait outcomes. At the completion of
+      the one-month follow-up, all participants will receive a debrief form, outlining the study
+      aims and objectives, and additional resources for body image and eating concerns. Those in
+      the assessment only condition will be invited to engage with the chatbot; however, their
+      engagement will not be monitored or assessed.
+    
+  

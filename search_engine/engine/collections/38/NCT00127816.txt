@@ -1,0 +1,34 @@
+
+    
+      This study addresses three major sources of post-implant dosimetry inaccuracy for permanent
+      prostate implants: post-operative edema, prostate contour delineation, and dose calculation
+      method. It is hypothesized that a pragmatic edema model can minimize the first uncertainty,
+      co-registered CT + MR images the second, and an improved dose calculation algorithm the
+      third.
+
+      Detailed objectives are to:
+
+        -  measure and model the effects of edema on dosimetry;
+
+        -  evaluate CT + MR image registration methods;
+
+        -  compare dosimetry for CT alone vs. CT + MRI using the contemporary TG-43 dose
+           calculation method;
+
+        -  set up a Monte Carlo code that makes full use of the information in CT + MR images to
+           perform implant dose calculations;
+
+        -  compare prostate dosimetry for the Monte Carlo vs. the simpler TG-43 method;
+
+        -  develop an analytical post-implant dose calculation algorithm for routine clinical use
+           (Monte Carlo is too slow on a single-CPU brachytherapy planning computer); and finally
+
+        -  assess the performance of the new algorithm.
+
+      Of the estimated 250,000 new cases of prostate cancer in North America in 2004, most are
+      early stage disease as a consequence of PSA testing. Permanent prostate implant therapy is a
+      major option for this group, as long-term clinical studies indicate a cure rate equal to
+      surgery and external beam radiotherapy, but with fewer complications. By dealing with
+      dosimetric inaccuracies, a proven treatment can reach its full potential.
+    
+  

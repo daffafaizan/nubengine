@@ -1,0 +1,126 @@
+
+    
+      1. BACKGROUND Parkinson's disease (PD) is the second most common degenerative neurological
+           disease. PD induces gait disorders that lead to increased risk of falls. These falls
+           seriously affect patients' quality of life and generate significant health care costs.
+           Unfortunately, gait disorders do not respond well to drug treatments and their
+           management is mainly based on rehabilitation treatment. The rehabilitation approach
+           comprises two steps: a functional assessment of locomotor capacities followed by
+           completion of a therapeutic physical exercise program.
+
+           Like heart rate, stride duration varies in the short and long term according to a
+           complex dynamic of temporal variations. These variations present long-range
+           autocorrelations (LRA): the stride duration does not vary randomly but in a structured
+           way. The study of LRA is based on complex mathematical methods requiring recording of
+           512 consecutive gait cycles. LRA are altered in PD patients whose gait rhythm is
+           excessively random. Alteration of LRA is correlated with neurological impairments (Hoehn
+           & Yahr scale and UPDRS) and patients' locomotor stability (ABC scale & BESTest).
+           Measurement of LRA would be the first available objective and quantitative biomarker of
+           stability and risk of falling in patients with PD.
+
+           Guidelines concerning rehabilitation programs for PD patients are based on education
+           (prevention of falls and inactivity,...), physical exercises, functional training
+           (double task, complex tasks,...), learning, adaptation strategies (cueing) and action
+           observation. The combination between immersive virtual reality (iVR), using an iVR
+           headset, and treadmill walking will be developped.
+
+           Treadmill walking has shown long-term effectiveness on PD patients' gait and quality of
+           life. A study carried out recently has shown that a single treadmill session reduces the
+           stride duration variability during the intervention. Although the treadmill seems to
+           improve patients' gait, it lacks an essential ecological component that allows humans to
+           stabilize gait: an optical flow, an environment that scrolls during walking. iVR allows
+           to give patients a visual flow when walking on treadmill as if they were walking
+           overground and patients could benefit from it. The purpose of this pilot study is to
+           compare the spatio-temporal gait parameters and gait variability parameters obtained
+           during three Walking conditions: over ground walking, treadmill walking, treadmill
+           walking with a VR headset.
+
+        2. METHODS
+
+      2.1 Participants : 10 patients suffering from idiopathic Parkinson's Disease will be
+      recruited from the local community and from the Neurology and the Physical and Rehabilitation
+      Medicine outpatient clinics of the Cliniques universitaires Saint-Luc (Woluwe-Saint-Lambert,
+      Belgium).
+
+      2.2 Functional assessment: Before the expermientations starts, all participants will undergo
+      a non harmful assessment including clinical tests and questionnaires
+
+      PD patients: Age, height, weight, sex, most affected side, Movement Disorder Society-Unified
+      Parkinson Disease Rating Scale (MDS-UPDRS), Mini Balance Evaluation Systems Test
+      (Mini-BESTest), Simplified version of the Activities-specific Balance Confidence Scale
+      (ABC-Scale), modified Hoehn & Yahr scale, Mini Mental State Examination (MMSE).
+
+      2.3 Procedure : Every participants will walk in three conditions in a randomized order. Each
+      condition lasted ±15 minutes in order to get 512 gait cycles mandatory to assess the presence
+      of LRA.
+
+      The first condition consists in Over ground Walking (OW). Participants will be asked to walk
+      on an rectangular track with rounded corner of 63.2 meters in CUSL at their comfortable
+      walking speed.
+
+      The second condition is Treadmill Walking (TW). Patients will walk on the treadmill at their
+      comfortable walking speed assessed before the condition with a 10 Meter Walk Test. During
+      this condition, patients will wear a non weight-bearing safety harness (Petzl, Volt, France).
+
+      The last condition consists in walking on a treadmill, at the same speed as during TW,
+      patients still wearing the non weight-bearing harness, while wearing a VR headset (VRTW). The
+      VR headset (HTC, Vive, Taïwan) consists of a kind of mask that the person comes to put on his
+      face. Two Fresnel lenses are in front of the person's eyes and the person looks at a display
+      that allows stereoscopic 3D through these lenses. The patient is then immersed in an
+      immersive virtual environment, cut off from the outside world. For this experiment, a VR
+      environment has been created by means of Unity software and using C# code. While walking on
+      the treadmill, the participants will see a quiet hallway surrounding them. The participants
+      will perceive an optic flow while walking on the treadmill. The speed of the optic flow
+      perceived inside the headset by the patient will be matched with the speed of the treadmill
+      to create the illusion of walking on an actual hallway. A cybersickness questionnaire
+      (Simulator Sickness Questionnaire, SSQ) will be completed before and just after VRTW. Indeed,
+      the use of a VR headset can cause dizziness, nausea, headaches and other symptoms in some
+      patients. We want to evaluate whether or not the use of an optical flow displayed in VR on a
+      treadmill leads to cybersickness.
+
+      2.4 Data acquisition: Two Inertial Measurement Units (IMU) (IMeasureU Research, VICON, USA)
+      will be taped on patients' both lateral malleoli. IMUs will be taped on the leg on the side
+      most affected by the disease. This system allowed to record ankle accelerations at 500 Hz.
+      The data will then be put on a computer and each peak of acceleration, corresponding to each
+      heel strike, will be detected by software internally developed to determine all stride
+      durations.
+
+      2.5 Gait assessment: Data will be extracted from 512 consecutive gait cycles which is
+      required to measure gait variability.
+
+      2.5.1 Spatiotemporal gait variables:
+
+      Mean gait speed, gait cadence and stride length will be measured as follow:
+
+      Mean gait speed (m.s-1) = Total walking distance (m)/ Acquisition duration (s) Gait cadence
+      (#steps.min-1) = Total number of steps (#)/Acquisition duration (min) Step length (m) = Gait
+      speed (m/s)*60/Gait cadence (steps/min)
+
+      2.5.2 Stride duration variability : Stride duration variability can be assessed 2 ways: in
+      terms of magnitude or in terms of organization (how stride duration evolves across
+      consecutive gait cycles).
+
+      2.5.2.1 Magnitude of the stride duration variability : To determine the effect of the RAS on
+      the magnitude of the stride duration variability during 512 gait cycles, the mean, the
+      standard deviation (SD) and the coefficient of variation (CV = [SD/mean] * 100) will be
+      assessed.
+
+      2.5.2.2 Temporal organization of the stride duration variability (LRA) : Temporal
+      organization of stride duration variability will be assessed by LRA computation using the
+      evenly spaced averaged version of the Detrended Fluctuation Analysis (DFA) to obtain α
+      exponent. The presence of LRA can be shown with α exponent values between 0.5 and 1.
+
+      Data will be treated by the mean of CVI Labwindows (C++).
+
+      2.6 Statistical analyses : Statistical analyses will be conducted using Sigmaplot 13. If the
+      normality test is passed, a one-way repeated measures ANOVA will be applied to determine the
+      effect of the various walking condition on spatiotemporal gait parameters (gait speed, gait
+      cadence, stride length) and on linear and nonlinear measures of stride duration variability
+      (CV, SD, H and α exponents). When a significant difference between groups is detected with
+      the ANOVA, a post hoc test will be performed to compare each mean with the other means to
+      isolate the groups from each other.
+
+      A paired t-test will also be conducted to determine a possible change in score on the SSQ
+      questionnaire after TW and after VRTW.
+    
+  

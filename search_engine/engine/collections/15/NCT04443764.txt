@@ -1,0 +1,85 @@
+
+    
+      Research question What is the levels of mental health symptoms (i.e., depression, general
+      anxiety, and health anxiety) among immigrants and refugees in Norway during the COVID-19
+      pandemic? The results will be benchmarked against the levels of mental symptoms in national
+      and international surveys.
+
+      Hypothesis:
+
+      H1: There will be a significant decrease in the levels of health anxiety, depression, and
+      general anxiety symptoms at the measurement period three months into the pandemic (T2) as
+      compared to the baseline period (T1) with the strictest mitigation protocols in place during
+      the first weeks of the pandemic.
+
+      H2: Higher level at T1 and less reduction from T1 to T2 in positive metacognitions, negative
+      metacognitions, unhelpful coping strategies, loneliness will be associated with less
+      reduction in anxiety, depression and health anxiety from T1 to T2 above, and beyond age,
+      gender, and education. Higher level at T1 and less reduction from T1 to T2 in emotional
+      support will be associated with more reduction in anxiety, depression and health anxiety from
+      T1 to T2.
+
+      Statistical analysis:
+
+      Repeated surveys like the present one typically have a lot of drop out and missing data.
+      Therefore, we will use mixed models instead of paired t-tests, repeated measures ANOVAs, and
+      ordinary linear regression to analyze the data. Mixed models use maximum likelihood
+      estimation, which is the state of the art approach to handle missing data (Schafer & Graham,
+      2002). Especially if data are missing at random, which is likely in our survey, mixed models
+      give more unbiased results than the other analytic methods (O'Connel et al., 2017).
+
+      In preliminary analyses, and for each of the dependent variables (GAD-7, PHQ-9) HAI, the
+      combination of random effects and covariance structure of residuals that gives the best fit
+      for the "empty" model (the model without fixed predictors except the intercept) will be
+      chosen. Akaike's Information Criterion (AIC) will used to compare the fit of different
+      models. Models that give a reduction in AIC greater than 2 will be considered better (Burnham
+      & Anderson, 2004). The program SPSS 25.0 will be used (IBM Corp, 2018).
+
+      First, H1 about decrease in GAD-7, PHQ-9 and HAI will be tested by using anxiety or
+      depression as dependent variable in a model using time (T1 period = 0, T2 period = 1) as a
+      predictor. Second, demographic group variables will be added as predictors. Third, the
+      initial (T1) levels of positive metacognitions, negative metacognitions and unhelpful coping
+      strategies as measured with CAS-1, loneliness, and emotional support measured will be added,
+      together with the interactions of these constant covariates with time. These interactions
+      represent tests of H2 about the covariates predicting change in anxiety, depression and
+      health anxiety. Finally, the T2 levels of positive metacognitions, negative metacognitions
+      and unhelpful coping strategies as measured with CAS-1, loneliness, and emotional support as
+      constant covariates will be added, together with the interactions of these constant
+      covariates with time. These interactions represent tests of H2 about the change in the
+      covariates from T1 to T2 predicting change in anxiety, depression and health anxiety from T1
+      to T2s.
+
+      Inference criteria We pre-define the significance level: p < 0.05 to determine significance.
+
+      Sample size:
+
+      The sample size at T1 included 574 participants. For the present study at T2, all
+      participants will be invited to participate in accordance with the study plan. The data
+      collection period will continue for up to three weeks until as many of the participants at
+      baseline have responded.
+
+      Measures:
+
+      Positive metacognitions, negative metacognitions and unhelpful coping strategies will be
+      measured with the CAS 1 (Wells, 2009): Emotional support will be measured with two items and
+      loneliness is measured with the The UCLA Loneliness Scale-8 (ULS-8; Hays & DiMatteo,
+      1987)which measures the frequency and intensity of aspects of the lonely experience.
+
+      Possible transformations:
+
+      All variables will be assessed in their original and validated format as is recommended
+      practice, as long as this is possible with regards to statistical assumptions underlying the
+      pre-defined analyses. However, if this is not possible with regards to the statistical
+      assumptions behind the analyses, transformation (e.g., square root or log-transformations)
+      may be needed to apply interval-based methods, alternatively the use of non-parametric tests.
+
+      Missing data:
+
+      Maximum likelihood
+
+      Exploratory:
+
+      Questions addressed in the future paper which is not pre-specified will be defined as
+      exploratory.
+    
+  

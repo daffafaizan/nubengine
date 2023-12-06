@@ -1,0 +1,57 @@
+
+    
+      A Randomized Control Trial with three groups (SmartFeeding4Kids, SmartFeeding4Kids Social
+      Support, SmartFeeding4Kids Health) x 4 times (pre, post, 3-months, 6-month follow-up)
+      repeated measures design will be used.
+
+      Invitation to participate in the program, through flyers and social media messages, will show
+      a link where parents can access detailed information about the program (study objectives,
+      procedures, random allocation to one of the three conditions, data that will be collected
+      during the study). Participants need to give informed consent before proceeding to a final
+      screen in which the individuals provide their name and email address, to allow data
+      validation and facilitate contact as needed. As this is a Randomized Control Trial study with
+      repeated measurements, participants' identification must be recorded. The data related to the
+      parent's answers to evaluation protocols and self-monitoring, and time or interaction with
+      the application/program, are associated with a personal account created by the participants
+      at the beginning of the process. Consent protocol includes a paragraph that explains which
+      data will be recorded and how it will be saved; parents must consent to researchers accessing
+      this information. Only relevant information is collected. All data will be stored in a secure
+      server. We chose Amazon Web Services as our server because is one of the most used services
+      for hosting a website securely. Amazon Web Services delivers a mature set of services
+      specifically designed for the unique security, compliance, privacy, and governance
+      requirements of large organizations.
+
+      Once registered, parents are directed to the initial assessment package. After the completion
+      of the questionnaires, parents will be randomized and allocated to one of the three
+      conditions through an automated web-based randomization program. For all the conditions,
+      parents will be invited to participate in six sessions plus two brief booster sessions. A new
+      session is only accessible once parents have visualized the contents of the last session and
+      performed the tasks proposed between sessions (for experimental conditions). A new session
+      will be accessible each week, but the parents can extend the time to fill all the tasks for
+      up to two weeks. After the completion of the six sessions, parents receive two brief booster
+      sessions, also weekly. At the end of the program, parents are redirected to fill the second
+      assessment package; a similar procedure is performed after 3 and 6 months.
+
+      The sample will be collected until 70 participants in each group (N = 210) finish the
+      program. Statistical power analysis was performed for sample size estimation based on
+      published data regarding this topic. For our repeated measures within-between group
+      comparison study, we used Cohen's d criteria and considered a small effect size of 0.15, an
+      alpha equal to 0.05 and power of 0.80 for a three-group with four repeated measures design
+      (with a moderate correlation pattern between time measurements of 0.35). The projected sample
+      size needed is approximately 162 participants and was computed using G*Power 3.1.9.2. Our
+      proposed sample size will also be adequate for other statistical procedures such as
+      multilevel modeling analyses with level-1 repeated measures nested within level-2 individuals
+      by assuring a minimum of 50 individuals required for level-2 sample sizes. Finally, we
+      calculate a dropout rate of approximately 25%. Enrolment will pursue until obtaining 55
+      parents in each of the three-arm groups at the end of the four assessment times.
+
+      As mentioned before, the application does not allow participants to proceed to the sessions
+      without completing all items of the baseline evaluation protocol, nor the participants have
+      acess to a new session if they do not complete the requested between-sessions records. As
+      such, missing data will only be due to participant's dropout. We will use intention-to-treat
+      principles, with the participants being analysed in the group in which they were allocated in
+      the randomization process, independently of whether they had completed all measurement time
+      points and/or the intervention. Missing values will be estimated using the last observation
+      carried forward (LOCF) method.
+    
+  

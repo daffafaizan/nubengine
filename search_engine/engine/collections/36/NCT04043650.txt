@@ -1,0 +1,41 @@
+
+    
+      Unhealthy behaviors contribute to the majority of chronic diseases, which account for 86% of
+      all healthcare spending in the US. Despite a great deal of research, the development of
+      behavior change interventions that are effective, scalable, and sustainable remains
+      challenging. Recent advances in mobile sensing and smartphone-based technologies have led to
+      a novel and promising form of intervention, called a "Just-in-time, adaptive intervention"
+      (JITAI), which has the potential to continuously adapt to changing contexts and personalize
+      to individual needs and opportunities for behavior change. Although interventions have been
+      shown to be more effective when based on sound theory, current behavioral theories lack the
+      temporal granularity and multiscale dynamic structure needed for developing effective JITAIs
+      based on measurements of complex dynamic behaviors and contexts. Simultaneously, there is a
+      lack of modeling frameworks that can express dynamic, temporally multiscale theories and
+      represent dynamic, temporally multiscale data. This project will address the
+      theory-development, measurement, and modeling challenges and opportunities presented by
+      intensively collected longitudinal data, with a focus on physical activity and sedentary
+      behavior, and broad implications for other behaviors.
+
+      For efficiency, the study builds on the NIH-funded year-long micro- randomized trial (MRT) of
+      HeartSteps (n=60), an adaptive mHealth intervention based on Social- Cognitive Theory (SCT)
+      developed to increase walking and decrease sedentary behavior in patients with cardiovascular
+      disease. The aims of this new proposal are: 1) Refine and develop dynamic measures of
+      theoretical constructs that influence the study's target behaviors, 2) Enhance HeartSteps
+      with the measures developed in Aim 1 and collect data from two additional year-long
+      HeartSteps cohorts (sedentary overweight/obese adults (n=60) and type 2 diabetes patients
+      (n=60), total n=180), 3) Develop a modeling framework to operationalize dynamic and
+      contextualized theories of behavior in an intervention setting, and 4) Improve prediction of
+      SCT outcomes using increasingly complex models. The work proposed here will provide new
+      digital, data driven measures of key behavioral theory constructs at the momentary, daily,
+      and weekly time scales, provide new tools tailored for the specification of complex models of
+      behavioral dynamics, as well as new model estimation tools tailored specifically to the
+      complex, longitudinal, multi-time scale behavioral and contextual data that are now
+      accessible using mHealth technologies. Finally, the investigators will leverage the collected
+      data and the proposed modeling tools to develop and test enhanced, dynamic extensions of
+      social cognitive theory operationalized as fully quantified, predictive dynamical models.
+      Collectively, this work will provide the theoretical foundations and tools needed to
+      significantly increase the effectiveness of physical activity-based mobile health
+      interventions over multiple time scales, including their ability to effectively support
+      behavior change over longer time scales.
+    
+  

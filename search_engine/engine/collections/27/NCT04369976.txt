@@ -1,0 +1,59 @@
+
+    
+      The patients will be randomly assigned to the short arm human centrifuge training (SAHC
+      intervention), standard of care (SOC training) or a passive control. The SAHC intervention
+      consists of 3 sessions per week. The session duration is 1 hour. The intervention will last 3
+      months.
+
+      Aiming to estimate the minimum number of participants required for obtaining reliable
+      results, the investigators performed power analysis. It was conducted in g-power 3.1 to
+      determine a sufficient sample size using an alpha of 0.05, a power of 0.80, and a medium
+      effect size (f = 0.21). Based on the aforementioned assumptions, a total sample size of 26
+      participants per group was computed.
+
+      The passive control group will abstain from any exercise. Initially, there will be one
+      session serving as an evaluation and familiarization of the SAHC group participants on the
+      centrifuge. Its aim besides familiarization will be also to individually assess the optimal
+      according to the participant's cardiovascular functioning with cardiac output (CO), stroke
+      volume (SV) mean arterial pressure (MAP) diastolic blood pressure (DBP), systolic blood
+      pressure (SBP), and heart rate (HR). These criteria are monitored at each training session
+      and are used to dynamically adapt the intervention intensity. More specifically, after 6
+      training sessions (2 weeks), the centrifugation load will be increased and considering the
+      cardiovascular criteria, centrifugation will be combined with either aerobic exercise
+      (through an ergometer) or resistance training through elastic training bands. Further
+      verification of the dynamic configuration of the intervention will be provided by the
+      electroencephalographic (EEG) assessment. More specifically, resting state EEG (eyes open &
+      closed condition, lying in horizontal position) and centrifugation in three different
+      intensities, mild (corresponding to 0.5,0.7, and 1 g), medium (corresponding to 1.2 and 1.5
+      g) and high intensity (corresponding to 1.7 and 2 g). Functional connectivity and
+      cortical-network features derived from graph theory will be used by deep learning algorithms
+      (convolutional neural networks) in order to define the optimal centrifuge training.
+
+      A set of core outcomes as described below will be collected at the following experimental
+      time instances: a) baseline, b) after 4 weeks, c) 8 weeks, d) 3 months, e) 6-month follow-up,
+      g) 12-month follow-up. The outcomes will be collected across the domains of body structure
+      and function, activity, and participation as classified by the world health organization
+      international classification of functioning (ICF), disability and health.
+
+      The primary outcomes are the following:
+
+        1. A set of cardiovascular biosignal sensors described above,
+
+        2. Electroencephalographic (EEG) recordings,
+
+        3. The functional gait assessment (FGA) and
+
+        4. The functioning differences assessed by changes in summary ordinal score on the short
+           physical performance battery (SPPB). The battery consists of three tests: balance, gait
+           ability and leg strength. The score for each test is given in categorical modality (0-4)
+           based on run time intervals, and the total score will range from 0 (worst) to 12 points
+           (best). The SPPB has been shown to be a valid instrument for screening frailty and
+           predicting disability, institutionalization and mortality. A total score of less than 10
+           points indicates frailty and a high risk of disability and falls. 1 point change in the
+           total score has demonstrated to be of clinical relevance.
+
+      More primary outcomes include other measures of gaze and postural stability, fatigue, and
+      functional mobility, isokinetic strength and muscle oxygen consumption. Additionally, a set
+      of biomarkers in blood and urine will be collected.
+    
+  

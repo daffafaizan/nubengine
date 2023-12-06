@@ -1,0 +1,63 @@
+
+    
+      This is an open-label multi-center phase Ib study to confirm the recommended phase II/III
+      dose of canakinumab and spartalizumab in combination with nab-paclitaxel and gemcitabine.
+
+      The study will recruit patients with metastatic pancreatic adenocarcinoma treated in the
+      first line setting. The starting dose level of canakinumab explored will be 250 mg Q4W
+      ("starting dose level"). In case of unacceptable toxicity of the starting dose devel of
+      canakinumab, the dose of canakinumab will be de-escalated to the "-1 dose level" administered
+      as 250 mg Q8W, while other components of the combination stay at the same dose as the
+      starting dose level.
+
+      Patients will be observed for DLTs for a minimum duration of 56 days (8 weeks). To achieve
+      study objectives and to ensure the adequate number of DLT evaluable patients, the study will
+      recruit approximately ten patients to have at least 6 evaluable patients per dose level of
+      canakinumab. Additional approximately ten patients (to have at least 6 additional evaluable
+      patients) may be enrolled at lower dose level in case a dose de-escalation is necessary.
+
+      Dose confirmation will be guided by an adaptive Bayesian logistic regression model (BLRM)
+      based on any DLTs observed for two cycles of treatment (i.e. 56 days, or 8 weeks). The
+      adaptive BLRM will be guided by the Escalation with Overdose Control (EWOC) principle to
+      control the probability of DLT in future patients on the study. BLRM is a well-established
+      and widely used method to estimate the recommended dose for expansion (RDE) or maximal
+      tolerable dose (MTD) in clinical trials in patients with cancer with small sample size. The
+      use of Bayesian response adaptive models for small datasets has been endorsed by academic
+      publications (Babb et al. 1998, Neuenschwander et al. 2008, Neuenschwander et al. 2010,
+      Natanegara et al. 2014), by the European Medicines Agency (Guideline on Clinical Trials in
+      Small Populations, 2007) and it constitutes an important aspect of the FDA's Critical Path
+      Initiative (Clinical Path White Paper, FDA, 2004). The Bayesian analysis incorporates prior
+      toxicity data of single agent and drugs combinations together with the currently available
+      data to predict the probability of DLT and excessive toxicity of a dose level of interest.
+
+      The Bayesian method is be based on a Meta-Analytical-Combined (MAC) approach (Spiegelhalter
+      2004, Neuenschwander 2016) to combine all historical and concurrent data. Prior toxicity
+      information included in the BLRM model was obtained from three studies with canakinumab as a
+      single agent and combination of canakinumab and spartalizumab (PDR001X2101, ACZ885I2202,
+      PRD001X2103) and from a phase I/II study of nab-paclitaxel + gemcitabine (Von Hoff D, et.al.,
+      2011). Simulation was used to illustrate the recommendation from BLRM under a set of
+      hypothetical scenarios with assumed number of evaulable patients and DLTs.
+
+      The decisions on a recommended dose will be made by the Investigators and the Sponsor in a
+      Safety Review meeting when at least 6 DLT evaluable patients per dose level will be observed
+      for DLTs for a minimum duration of 56 days (8 weeks). Safety review will be based upon the
+      review of all relevant data available including treatment tolerability and safety information
+      together with the BLRM summaries of DLT probability, PK, PD, and preliminary activity
+      information (if available) at the time of the meeting.
+
+      Patients will be treated until disease progression per RECIST 1.1, unacceptable toxicity, or
+      until the patient or treating physician decides to stop treatment.
+
+      Pharmacokinetic (PK) and immunogenicity (IG) samples will be collected at specific time
+      points throughout treatment. Each treatment cycle is 4 weeks. All patients must be followed
+      for safety up to 150 days after the last dose of spartalizumab or canakinumab, or 30 days
+      after the last dose of the combination chemotherapy, whichever the later. After the end of
+      safety follow-up, patients will be followed for disease progression if discontinuation of
+      treatment is due to reason other than progression, and for survival (via telephone call or
+      onsite visit if a patient happens to be visiting the site) until the end of study The study
+      completion is defined as when the last patient has completed the study treatment, safety
+      follow up, and completed survival follow up period up to 1 year from first treatment,
+      whichever is later or in the event of an early study termination decision, the date of that
+      decision.
+    
+  

@@ -1,0 +1,21 @@
+
+    
+      This is a Phase I dose escalation strategy according to the method described by CRML
+      O'Quigley and Shen [O'Quigley et al. Biometrics 1996] and commonly used in phase I trials in
+      oncology.
+
+      Six levels of doses are initially defined: 600 mg, 1200 mg, 1800 mg, 2200 mg, 2600 mg, 3000
+      mg.
+
+      The maximum potential dose-limiting toxicities allowed is 25%.
+
+      Dose limiting toxicities will be defined as follows:
+
+        -  Any drug-related toxicity with grade ≥ 3 according to NCI-CTCAE v4.0 (except alopecia,
+           nausea and vomiting, regardless of grade),
+
+        -  Any drug-related toxicity, regardless of grade, who led a treatment delay> 14 days,
+
+        -  Score ≥ 19 HAD during treatment.
+    
+  

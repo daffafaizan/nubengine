@@ -1,0 +1,87 @@
+
+    
+      The study will be a matched-cohort study, in which twelve bridge sites will be matched to
+      twelve comparison sites. The bridge sites have been defined and identified by B2P staff in
+      conjunction with government officials through a systematic needs assessment carried out in
+      2014. Of the twelve bridge sites that have been confirmed for the study, seven are located in
+      the Southern Province, and five are located in the Western Province. Comparison sites were
+      identified from a 2018 needs assessment carried out by B2P. As with the bridge sites, seven
+      of the comparison sites are in the Southern Province and five are in the Western Province.
+      The table of bridge and control sites with their respective districts and provinces can be
+      found in Appendix A.
+
+      The minimum detectable effect analysis for outcomes of interest determined that, with these
+      24 sites, the investigators should survey representatives from 100 households in each
+      treatment site (those receiving a bridge) and comparison site (those that will not). For both
+      treatment sites and comparison sites, B2P will identify the impacted side - that which their
+      assessment indicates would benefit the most from the bridge. Investigators will then obtain
+      the administrative list of households from the umudugudu chief (village leader) or cell
+      secretary for the village that is closest to the bridge on the impacted side. If the list
+      consists of at least 100 households, investigators will randomly select the 100 households to
+      visit from this list. If the village has fewer than 100 households, enumerators will visit
+      all households in that village and then, from the list for the next closest village, randomly
+      select the remaining number required to reach 100 households.
+
+      As part of the pilot study, investigators are testing an experimental method to determine
+      which households to sample within a community. This method involves tracing satellite imagery
+      of the relevant communities to derive a vector dataset of all the households in the area,
+      from which investigators randomly select certain ones based upon an algorithm. This approach
+      is intended to make the sampling more robust by reducing the opportunity to introduce human
+      bias. The tracing of homesteads will be done using freely available Bing aerial imagery and
+      the data generated will be contributed to OpenStreetMap (OSM), in accordance with the Bing
+      imagery license for OpenStreetMap. While all the households traced will be uploaded to OSM
+      and be publicly available, all subsequent analysis of which households are to be surveyed and
+      survey results themselves will be kept in private on password-protected devices and will only
+      be used for the purposes of the study.
+
+      The study will utilize a difference-in-difference empirical design. That is, it will compare
+      changes over time in communities that receive a bridge against those that do not. This is
+      recovered from a linear regression:
+
+      y_vt = a + β*Bridge_vt + E_vt In this equation, y_vt is some outcome of interest in community
+      v at time t and Bridge_vt is an indicator of community v has a bridge at time t. Under the
+      identification procedure described above, the coefficient β estimated in the above regression
+      identifies the causal effect of bridge construction.
+
+      Based on the findings of Brooks and Donovan 2018, investigators are interested in exploring
+      not only economic and agricultural outcomes but also using this larger opportunity to explore
+      health and educational outcomes as well.
+
+      To utilize the difference-in-difference method, data is required for at least two points in
+      time from all households in the study. Therefore, baseline surveys will be conducted before
+      any bridges are built, followed by a second round of data from the same households after
+      bridges are built, and a third round of data collection a year after the baseline. This will
+      take place in both treatment communities and comparison communities.
+
+      The baseline survey will be conducted in February-March 2019. This corresponds with the main
+      harvest period in Rwanda, allowing for the collection of specific information on agricultural
+      outcomes while that information is still fresh in the minds of community members surveyed.
+      The completion of bridges will begin in late February 2019 and continue through July 2019. A
+      midline survey will be carried out in June-July 2019. And end-line data will be collected in
+      February-March 2020. The same survey will be used at all three time points, thus allowing the
+      testing of any differences that occur over time.
+
+      The survey will be carried out by trained enumerators fluent in Kinyarwanda on tablet
+      computers. Once completed, the surveys will be uploaded directly to a secure server in the
+      United States for analysis. A detailed list of the questions can be found in the attached
+      survey.
+
+      As noted in the list of outcomes above, mid-upper arm circumference (MUAC) is one of the
+      health outcomes of interest. MUAC is an easy body measurement that helps to monitor
+      nutrition, and the nutritional status of children under five is a proxy indicator of the
+      community's nutrition. However, MUAC is not used for children under six months of age because
+      there are not established nutrition cutoff levels for this age group. With consent from the
+      primary caregiver, MUAC will be measured for every child in the household who is between the
+      ages of six months and five years. The instructions for this process are included in the
+      survey.
+
+      In June 2019, cameras will be installed at the entrance to bridge crossings that will take
+      pictures as individuals cross the bridges. This data will be analyzed to estimate bridge
+      uses, allowing us to investigate the potential correlation between bridge use and economic,
+      agricultural, health and educational benefits. The data from the cameras will be stored on
+      local digital storage devices. The cameras will be locked in place. The camera data will be
+      collected by study staff periodically and uploaded to secure, password protected databases.
+      The pictures will be analyzed by computer and by study team review to count the number of
+      users of the bridge. No personally identifiable information will be published in any form.
+    
+  

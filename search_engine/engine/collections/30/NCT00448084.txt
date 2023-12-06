@@ -1,0 +1,43 @@
+
+    
+      OBJECTIVE
+
+      The purpose of this study is to utilize functional MRI (fMRI) to identify structural brain
+      regions and activation patterns involved in deception in order to determine whether illness
+      deception can be differentiated from involuntary conversion disorders. We intend to compare
+      the brain activations of functional movement disorder (FMD) patients against those of healthy
+      volunteers in order to determine whether various aspects of the disorder are under volitional
+      control, suggesting a component of illness deception, or are involuntary as hypothesized in
+      conversion disorders.
+
+      STUDY POPULATION
+
+      We intend to use up to 35 right-hand dominant adult healthy volunteers (the first five
+      subjects will be used to develop this method) and 30 functional movement disorder patients.
+
+      DESIGN
+
+      Using a slow event-related design, we will scan subjects using a 3T fMRI scanner while they
+      are visually presented with survey-based stimuli which require a yes/no response using a key
+      press. Information used to create the stimuli will be pseudo-randomly derived from one of two
+      databases. The first database will be created from the information garnered in the survey
+      subjects will complete during their screening visit (i.e. subjects eye color or height). The
+      second database will be a collection of non-specific information (i.e. current year, season,
+      etc.) that intentionally does not apply to the subjects. For each question displayed,
+      subjects will receive a visual instruction to respond either truthfully or deceptively.
+      Correct answers to responses will be evaluated based upon the survey the subjects completed.
+      In addition to the BOLD data collected, we plan to calculate reaction times and acquire
+      autonomic data in order to identify possible correlates with the brain responses.
+
+      OUTCOME MEASURES
+
+      The primary outcome measure is the BOLD-fMRI data collected from subjects while answering
+      yes-no type questions. Secondary outcome measures will include reaction times and autonomic
+      data that will be collected simultaneously with the fMRI data. Standard univariate general
+      linear model analysis will be performed on the fMRI data as well as the use of multivariate
+      methods, including support vector machine learning. Subgroup analyses will be conducted to
+      characterize the correlation between reaction times, autonomic data, and fMRI results as well
+      as potential differences in activation patterns for subject-referenced questions and
+      questions which are unrelated to the subject.
+    
+  

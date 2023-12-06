@@ -1,0 +1,44 @@
+
+    
+      Rationale: COPD exacerbations considerably affect patients' health status and contribute to
+      COPD related costs. Patients often have problems in recognizing and responding promptly to
+      exacerbations. Tools that support patients in exacerbation self-management such as paper
+      exacerbation action plans and telemonitoring systems have shown some positive results on
+      exacerbation related outcomes. However, many patients appear not to adhere to their action
+      plan instructions. Besides, existing telemonitoring tools rely heavily on the input of
+      healthcare professionals which makes it difficult to assess the true effects and cost
+      effectiveness of telemonitoring systems.
+
+      Recently, the Radboud University has developed the "Adaptive Computerized COPD Exacerbation
+      Self-management Support" (ACCESS) system. This software application integrates objective
+      parameters, such as spirometry, pulse-oximetry, temperature, and self-reported symptom
+      worsening into a Bayesian network model resulting in a weighted exacerbation risk prediction.
+      Patients are able to monitor themselves at any given moment. The ACCESS system not only
+      predicts whether an exacerbation is imminent, but also provides ad hoc tailored advice
+      without interference of a healthcare professional.
+
+      Objective: In this project the primary aim is to assess the (cost-)effectiveness of the
+      ACCESS system in the support of exacerbation self-management in patients with COPD.
+
+      Study design: A multicenter, pragmatic, two-arm, randomized controlled trial with a follow-up
+      of 12 months per participant.
+
+      Study population: Patients with COPD, > 40 years old, with 2 or more self-reported symptom
+      based exacerbations in the previous year.
+
+      Intervention: After a short self-management educational session on exacerbations,
+      participants are randomized to either 1) exacerbation self-management support through the use
+      of a paper exacerbation action plan (control group); or 2) exacerbation self-management
+      support through the use of the ACCESS system (intervention group).
+
+      Participants in the intervention group are instructed to use ACCESS when they notice a change
+      in COPD symptoms. Participants in the control group are instructed to use their paper action
+      plan when they notice a change in COPD symptoms.
+
+      Main study parameters/endpoints:
+
+      Primary aim: to increase the number of exacerbation-free weeks. Secondary aims: to improve
+      exacerbation self-management, exacerbation-management related self-efficacy, and quality of
+      life. To decrease ER visits, hospital admissions and COPD related costs.
+    
+  

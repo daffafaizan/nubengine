@@ -1,0 +1,87 @@
+
+    
+      Each participant will be run in a single afternoon, which includes a 90-minute nap
+      opportunity. Before the nap, participants will go through training and test sessions - and
+      after it they will partake of final memory tests. Neural activity will be continuously
+      monitored and recorded throughout the task using electrophysiological equipment.
+
+      This is a within-subjects study. The main manipulation is the unobtrusive presentation of
+      sounds during sleep, a technique called targeted memory reactivation (TMR). All participants
+      will hear these sounds, but the specific sounds each one will hear will be different. The
+      results will then be compared within participant, not between different groups or
+      individuals. Appropriate statistical methods for such analyses include paired t-test and
+      repeated measures analysis of variance. The choice of which sounds will be presented to each
+      participant will be made based on their performance in the pre-sleep test. This will be done
+      in an attempt to balance pre-sleep scores between presented and unpresented stimuli to remove
+      statistical noise. Both the participant and the experimenter will be blind to which sounds
+      will be presented, and the selection will be automatically made by the computer. This
+      technique has been extensively used and has no known risks.
+
+      There are two main reasons that using a within-subject design reduces the required sample
+      size. First, the lack of a between-subject independent variable intuitively requires less
+      participants. Second, the level of statistical noise due to individual differences is reduced
+      (i.e., because each participant is compared with their own scores). Previous TMR studies,
+      which have found significant cuing effects, commonly used 20-25 participants. I plan to
+      include at least 30 participants in this study, after omitting participants who could not
+      complete the task and those who were not sufficiently cued during sleep. Having 30
+      participants will allow the use of more powerful statistical methods (in accordance with the
+      common rule of thumb derived from the central limit theorem, which states that means based on
+      sample sizes of more than 30 participants can be assumed to follow a normal distribution). I
+      expect the context-related TMR effect (see summary) to be smaller in magnitude relative to
+      the common effect size observed in spatial learning TMR studies (Hedge's g = 0.39 based on a
+      recent meta-analysis). This is why I included a higher sample size. It is important to note
+      that even if this benefit will be of a smaller magnitude, as I expect, it will still be
+      indicative of the underlying neurocognitive process and therefore extremely valuable for our
+      mechanistic understanding of the role of context in sleep. Aiming at a sample size of at
+      least 30 participants and assuming an omission rate of 80%, I therefore plan to have 38
+      participants altogether.
+
+      Here is a brief summary of the procedure:
+
+      Stimuli: 16 images of spatial scenes (e.g., a beach) will each be arbitrarily associated with
+      a sound and with four smaller images of objects or animals. Half of the scenes will be
+      randomly designated to the context-reactivation (CR) condition and half to the
+      item-reactivation (IR) condition (see below). The 64 images will each have a unique 2D
+      position on a circular grid presented on the screen.
+
+      Training: Participants will first learn to associate each scene with the paired sound up to
+      criterion. Next, they will learn to associate the scene with its four images up to criterion.
+      The last part of training will include two type of learning blocks that will be interspersed.
+      During the spatial-training blocks, in each trial participants will have to place a single
+      image in its correct location. They will then receive feedback to improve. The scene
+      associated with the image will be presented while they learn, but crucially the sound will
+      never be presented for the CR condition scenes. For the IR scenes, the sound will be
+      presented while learning two of the items, but never for the other two.
+
+      An alternative design might have divorced the cued items in the CR condition from the scenes
+      altogether; the items could have been associated with novel sounds (i.e., that were not
+      connected to the scene) and not presented along with their scene. However, using such a
+      design would have introduced a confounding factor. The novel sound may have still been
+      associated, to an unknown degree, not only to the item but also to the context to which it
+      belongs. The degree to which this novel sound would be associated with the context would
+      therefore remain uncontrolled and may vary between participants and scenes. Sounds used for
+      item in the IR condition are always additionally associated with the scene. By always having
+      the sounds be associated both with context and - in the IR condition - additionally to items,
+      I substantially reduce any interpretation issues.
+
+      During the Sound-scenes blocks, which do not include a spatial component or the smaller
+      images at all, the scenes will be presented with the sounds only for the CR condition scenes
+      (i.e., to balance the number of sound presentations between conditions). These blocks will
+      repeat in an interleaved manner until each participant will reach the pre-set learning
+      criterion on the spatial-task.
+
+      Pre-sleep test: After training, participants will be tested on their spatial-memory for all
+      items without exposure to sounds or scenes.
+
+      Sleep: During NREM (non-rapid eye movement) sleep, the sounds associated with half of the CR
+      condition scenes and half of the IR condition scenes will be presented unobtrusively. The
+      choice of which sounds to present will be made in a manner that will balance pre-sleep
+      results and therefore enhance the contrast between sleep-related effects for cued and
+      non-cued images.
+
+      Post-sleep test: At least 10 minutes after the end of the nap, participants will undergo a
+      test identical to the pre-sleep one. Immediately after, they will be tested on the scene-item
+      and scene-sound associations using both a free-recall and a recognition test. Participants
+      will then be thanked, debriefed, paid and dismissed.
+    
+  

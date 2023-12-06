@@ -1,0 +1,76 @@
+
+    
+      Due to the technical requirements, CALED will not be installed in all elderly housing
+      facilities at Sundhedshuset, Albertslund, Denmark, limiting the number of participants
+      receiving the intervention to 24. CALED will be installed in the residents rooms/flats and in
+      the common areas. Residents accepting participation will comprise the following (numbers are
+      the maximal possible): 15 elderly with frailty receiving CALED as an intervention, 9 people
+      with dementia receiving CALED as an intervention, and 15 elderly with frailty not receiving
+      CALED during the trial as a control group (Group 3).
+
+      The elderly receiving CALED as an intervention (15 people with frailty, 9 people with
+      dementia) will be randomized to two groups (Group 1 and Group 2) based on equal distributions
+      of elderly with dementia and frailty in each group and similar numbers of men and women in
+      each group. Since the residents spend a lot of time in the same common areas where CALED is
+      installed, the two groups are subjected to the intervention at the same time, and Group 2
+      therefore has a delayed start. Group 1 starts with an 8 week control period followed
+      immediately by an 8 week intervention period. Group 2 starts with an 8 week intervention
+      period, at the same time as Group 1, followed by and 8 week control period. Group 3 has a 16
+      week control period starting 4 weeks after the beginning of the control period for Group 1,
+      and ending 4 weeks before the end of the control period for Group 2.
+
+      Timeline: Participants are included when informed consent has been obtained. CALED is
+      installed afterwards. Randomization takes place immediately before baseline testing of Group
+      1, and participants are randomized by block randomization. The trial participants will be
+      assessed at baseline, in the 4th, 8th, 12th, and 16th week, respectively. For Group 1,
+      baseline testing takes place within two weeks prior to the beginning of the Control period.
+      For Group 2 baseline testing takes place within two weeks prior to the beginning of the
+      Intervention period. For Group 3 baseline testing takes place within the two weeks prior to
+      the beginning of the Control period. See outcome measures for further details of tests.
+
+      Data collection: All data collection and assessments will be performed at "Sundhedshuset" by
+      trained staff under the instruction and supervision of the primary investigator. Date of all
+      assessments will be noted. Blood samples (approximately 20 ml) will be taken in
+      "Sundhedshuset" by trained staff under the supervision of the primary investigator. Date and
+      time of blood sampling will be documented. Blood samples will be transported to Hvidovre
+      Hospital after collection, and plasma and serum will be stored in a biobank at -80°C until
+      analysis.
+
+      Data management: All case report forms will be checked for errors and missing data by the
+      assessor before being archived in a trial database and all paper-based versions will be
+      locked in a filing cabinet in a locked room to ensure confidentiality. Data management will
+      follow the rules of the Danish Data Protection Agency.
+
+      Power calculation: A power calculation for the Pittsburgh Sleep Quality Index (PSQI) based on
+      a paired t-test with an alpha of 0.05, 24 pairs, a correlation of 0.8, and a standard
+      deviation of 5.6 showed it possible to detect a minimal clinical difference of 2 with a power
+      of 0.76. This does not account for possible drop-outs, but we expect that the inclusion of 15
+      control participants not exposed to CALED will increase power. Moreover, we expect that a
+      maximum of 3 citizens will not want to participate.
+
+      We have included plasma levels of soluble urokinase plasminogen activator receptor (suPAR) as
+      an objective and stable marker of general health status as another primary end-point. A power
+      calculation for suPAR based on a two-sided paired t-test with an alpha of 0.05, a power of
+      0.8, a standard deviation of 0.5 ng/mL, and a clinical significant difference of 0.3 ng/mL
+      (effect of healthy versus unhealthy diet is 0.35-0.55 ng/mL) gave a study population of 24
+      subjects. This does not account for possible drop-outs, but we expect that inclusion of 15
+      control participants not exposed to CALED will increase power.
+
+      Descriptive data and outcome analysis: Data will be presented as means with standard
+      deviations, medians with inter-quartile ranges or frequencies with percentages depending on
+      the distribution of the variable.
+
+      The primary analysis for the primary outcomes will be performed using the SAS procedure PROC
+      MIXED (dif (intervention-control)).The difference in the PSQI scores and suPAR levels between
+      the intervention period and the control period will be analysed using mixed models, with
+      treatment (intervention and control) and period (period 1 and period 2) as fixed effects and
+      the participant identification as random effect. Secondly, the models will be adjusted for
+      baseline PSQI scores and suPAR levels, respectively. The primary analysis will follow the
+      intention-to-treat principle using multiple imputations in case of missing outcome measures.
+      For the secondary outcomes, similar analyses will be performed. All models will be
+      investigated for goodness-of-fit (linearity, variance homogeneity and normal distribution of
+      residuals) by visual inspection of plots and remodelling will be performed accordingly. All
+      statistical tests will be performed using SAS (SAS Institute Inc., Cary, NC, USA) and p
+      values ≤0.05 will be considered statistically significant.
+    
+  

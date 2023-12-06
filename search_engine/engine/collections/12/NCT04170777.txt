@@ -1,0 +1,30 @@
+
+    
+      : Brain metastases are reported to occur in 20% to 40% of all patients with cancer. Treatment
+      options for brain metastases include surgical resection, particularly in lesions causing
+      significant mass effect, whole brain radiation (WBRT) and radiosurgery (SRS). Due to concerns
+      of neurocognitive toxicity following WBRT, there is growing use of SRS, particularly in
+      patients with limited brain metastases and controlled extracranial disease.
+
+      Radiosurgery delivers a high dose of radiation to a defined intracranial target through
+      precise targeting with a sharp dose fall off at the target boundaries and minimal damage to
+      surrounding tissue. To date, precision radiation delivery has been facilitated through the
+      Leksell Coordinate Frame (LCF), fixated to the patient's skull through 4 pins. A relocatable
+      mask system (RMS), consisting of a patient specific head rest and mask was developed to
+      enable minimally-invasive fractioned radiosurgery.
+
+      A cone-beam computed tomography (CBCT) image guidance and intra-fraction motion management
+      (IFMM) system was previously developed in-house in order to measure and address setup
+      uncertainties on Gamma Knife. The in-house prototype has been integrated into a commercially
+      available GammaKnife device with CBCT guidance. The installation of this device will enable
+      volumetric guidance for all patients treated in either a single or multiple session on
+      GammaKnife Perfexion.
+
+      This study is designed to have 2 arms, A and B. Both Arm A (using the Leksell Coordinate
+      Frame) and Arm B (using the relocatable mask) are undergoing standard of care treatment on
+      GammaKnife Perfexion for SRS. CBCT is part of standard of care for Arm B. However, CBCT
+      imaging is considered as part of study treatment for Arm A. Pre and post treatment images
+      will be acquired of the patient treated on Perfexion Gamma Knife using the Leksell Coordinate
+      Frame in order to aid in analyzing the imaging metrics of the Image Guided Perfexion unit.
+    
+  

@@ -1,0 +1,29 @@
+
+    
+      This study will be configured in CareEvolution's myDataHelps platform. This app-based
+      platform will allow people to:
+
+        -  Provide informed consent electronically
+
+        -  Donate robust smartwatch and activity tracker data, as well as self-reported data.
+
+        -  Sensor-collected data, which will vary between devices, but what is shared will always
+           be entirely up to the participant. Investigators anticipate a minimum to include heart
+           rate and activity, plus sleep duration when available.
+
+             -  This can include historical data collected by a sensor prior to the participants
+                date of joining the study.
+
+        -  Occasional survey-based participant-reported outcomes (PROs).
+
+        -  Participant-entered physiologic data such as oral temperature
+
+        -  Passively share environmental data such as air quality and weather that will be captured
+           from external sources based on participants' "home" zip code. Optionally, if the
+           participant consents to enable location/GPS services on their smartphone, higher grain
+           environmental data will be enabled.
+
+        -  Optionally connect to and share their electronic health record (EHR) data in the event
+           they have an event that requires interaction with a health care provider
+    
+  

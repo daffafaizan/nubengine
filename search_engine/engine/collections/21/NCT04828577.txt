@@ -1,0 +1,38 @@
+
+    
+      Based on 8 years of experience recruiting alcohol users into studies of comparable length and
+      complexity, the investigators anticipate that 92% of consented participants will be eligible
+      (i.e., randomized) and 97% of those individuals will complete Aim 2b. Thus, to achieve a
+      final sample size of 100, the investigators anticipate consenting 111 participants. This
+      study will include 50 real time fMRI (experimental group) participants and 50 "idealized"
+      neurofeedback (control) participants. Participants will be randomly assigned to experimental
+      or control groups, stratified by AUDIT scores, SES, age, and sex. All study procedures will
+      take place during a single study visit. Before the imaging session, a research assistant will
+      aid the participant to select salient images related to individualized future goals as well
+      as alcohol images which elicit self-reported craving. All participants will complete two fMRI
+      runs within a single session. In run 1 of the scan (offline classifier training),
+      participants will perform an image viewing task displaying alternating blocks of these goal-
+      and alcohol-related images. Between the image viewing blocks we will assess reinforcer
+      pathology with brief in-scanner measures of delay discounting and alcohol valuation (BAAD).
+      In total, there will be six blocks each of the goal-oriented images, alcohol-related images,
+      delay discounting, and BAAD (24 blocks total). Since this is a proof-of-concept experiment,
+      the interspersed delay discounting and BAAD blocks will enable monitoring and validating
+      changes in the participant's temporal window and alcohol valuation after the image viewing
+      blocks. Only the fMRI measures of goal- and alcohol-related image viewing will be used to
+      build a support vector classifier (SVC) of decreased vs. increased delay discounting. If
+      participants are allocated to the real time fMRI group, in run 2 the SVC model from run 1
+      will be used to provide participants with real-time neurofeedback while they attempt to
+      modulate their temporal window. The participants will see a dial with a needle on the screen
+      along with instructions to think of either future goals or alcohol cues. The dial will be
+      directly controlled by ongoing output from the SVC, updating the needle position as
+      participants imagine immediate (alcohol-related) or delayed (goal-related) cues. Control
+      participants ("idealized" neurofeedback group) will undergo the same procedures, but in run 2
+      neurofeedback, will be presented with an "idealized" dial (perfect needle movements in both
+      alcohol and goal directions) and will be specifically instructed that they are not
+      controlling the interface. The investigators have used this type of sham needle movement as a
+      control condition in previous experiments. Based on this, it is expected that experimental
+      group will have increased whole brain signal to noise for alcohol vs. goal fMRI analyses and
+      increased recruitment of frontal-parietal networks from enhanced visual attention to the
+      task.
+    
+  

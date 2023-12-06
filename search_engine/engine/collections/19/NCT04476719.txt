@@ -1,0 +1,18 @@
+
+    
+      In order to investigate the bioequivalence of all products, the 90% confidence intervals will
+      be calculated for the geometric mean ratios of test and reference for Cmax and AUC0-tlast of
+      umifenovir. These confidence intervals will then be compared with the corresponding
+      acceptance ranges.
+
+      In order to achieve a better approximation to a normal distribution, Cmax and AUC0-tlast data
+      for umifenovir will be logarithmically transformed (base e) before analysis. The sources of
+      variation will be treatments, periods, sequences and subjects within the sequence. Evaluation
+      of treatment, period, sequence and subject (nested within sequence) effects at 5% level of
+      significance will be performed. From the result, the two one-sided hypothesis at the 5% level
+      of significance will be tested by constructing the 90% confidence interval for the geometric
+      mean ratios of test/reference products. The confidence interval is calculated by
+      retransformation of the shortest confidence interval for the difference of the ln-transformed
+      mean values. Differences in tmax will be evaluated non-parametrically.
+    
+  

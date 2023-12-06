@@ -1,0 +1,27 @@
+
+    
+      SpectralMD has developed an imaging device (DeepView), which simultaneously performs
+      multispectral imaging (MSI) measurements across the visible and infrared spectrum to obtain a
+      quantitative tissue viability assessment. These optical measurements are integrated using a
+      CADe algorithm to categorize microvascular blood flow and provide a quantitative assessment
+      to aid in selecting the appropriate amputation site.
+
+      The investigators intend to gather data to train the CADe algorithm to predict ultimate
+      healing status of tissue in the lower extremities of individuals suffering from peripheral
+      arterial disease (PAD). The investigators will demonstrate the feasibility of using such an
+      algorithm to accurately predict the location and extent of small vessel disease prior to
+      amputation. Eventually, the invesitgators expect the DeepView to reduce the rate of
+      re-amputation in patients with peripheral arterial disease if used for routine assessment of
+      patients prior to amputation.
+
+      The aims of the study are as follows:
+
+        -  Evaluate performance of a Computer Assisted Detection (CADe) algorithm trained to assist
+           selecting the level-of-amputation in patients with PAD.
+
+        -  Identify multispectral signatures that are strongly predictive of viable skin tissue at
+           proposed amputation sites.
+
+        -  Create a representative database for training the CADe algorithm.
+    
+  

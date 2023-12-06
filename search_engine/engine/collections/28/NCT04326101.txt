@@ -1,0 +1,37 @@
+
+    
+      Patients with heart failure (HF) need multiple guideline-directed medications to control the
+      systolic and/or diastolic ventricular dysfunction. To support clinical decision and to guide
+      treatment at every stage of HF, the measurement of the biomarker NT-proBNP (N-terminal pro-B
+      type natriuretic peptide) has been recommended.
+
+      Many patients (including HF patients) do not follow therapeutic recommendations.
+      Non-adherence to treatment can lead to acute decompensation that often requires urgent
+      hospitalisation. Electronic monitoring of medication intake gives precise information over
+      time and is the gold standard to unveil inappropriate behaviour. We developed Time4MedTM, a
+      small device that records date and time of medication intake. The recorded electronic data
+      are visualized in a scatter diagram and several adherence estimates can be calculated such as
+      days with missed doses, taking adherence or timing adherence. Electronic Health Records (EHR)
+      are repository of patient health data in digital format and are mostly locally configured in
+      medical practices.
+
+      We aim to transmit laboratory results of NT-proBNP and estimates of medication adherence into
+      the EHR system of primary care providers, with the objective to guide treatment and dose
+      adjustment of multiple medications in patients with HF. Our project is *not* to develop a
+      telemonitoring system.
+
+      This is a prospective, observational, feasibility study one medical practice in Basel-Stadt,
+      one dedicated laboratory, and one community pharmacy as study centre.
+
+      Physicians will order NT-proBNP measurement and electronic adherence monitoring to patients
+      with diagnosis New York Heart Association (NYHA) stage II-III, who are under
+      guidelines-recommended multiple medications and whose clinical and/or biomedical targeted
+      values are unmet (inadequate control). Laboratory and adherence reports will be generated in
+      similar encrypted format and transferred via secured platform into physician's EHR.
+
+      We expect to show that electronic adherence reports can be gathered and electronically
+      transferred by pharmacists into medical EHR in the same way as laboratory reports. The joint
+      availability of medication adherence estimates and laboratory values in the EHR can guide
+      physicians in the management and therapy of patients with HF.
+    
+  

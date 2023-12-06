@@ -1,0 +1,54 @@
+
+    
+      Following development of the study plan and project summary, approval was obtained (November
+      25th 2013) from the Duke University Medical Center institutional review board, who reviewed
+      the study outline, including endpoints and treatment exposure groups prior to data
+      extraction. HIPAA-compliant data were then extracted from the U.S. Cerner HealthFacts®,
+      (Cerner Corp., Kansas City, MO) database. Patients who underwent cardiac surgery utilizing
+      CPB between Jan 2001 and March 2013 were identified. In addition to hospital characteristics
+      (bed-size, teaching status, location), encounter-level patient data (demographics, admission
+      source, payer), comprehensive time-stamped medication orders, pharmacy records, laboratory
+      results, admission and discharge diagnoses (International Classification of Diseases Ninth
+      Revision Clinical Modification, ICD-9-CM codes) and procedures were available.
+
+      Study Population Adults that underwent isolated valve, isolated CABG or two or more
+      procedures utilizing CPB, and who survived for at-least 24 hours were eligible for inclusion
+      (except when CABG was performed emergently following a PCI). Procedures were identified using
+      ICD-9-CM codes (39.61 = extracorporeal circulation auxiliary to open heart surgery) or CPT
+      codes (indicating 'on-pump' surgery). Patients with missing or incomplete admission,
+      procedure, and/or discharge dates, gender, and age were excluded. Discrete encounters less
+      than four hours apart within the same hospital system, were considered contiguous. We also
+      excluded those patients undergoing heart transplantation (ICD-9 procedure code 37.51) or with
+      any of the following Elixhauser comorbidities: AIDS, lymphoma, metastatic cancer, solid
+      tumors without metastases. Only the first operative procedure during this time was considered
+      and patients undergoing multiple non-contiguous procedures were excluded.
+
+      Definition of Exposure The study cohort consisted of patients that had either received at
+      least 500mL of any crystalloid (0.9% saline, buffered salt solutions such as Plasma-Lyte,
+      Lactated Ringers etc.) with or without any volume of 5% albumin - the 'albumin' and
+      'crystalloid only' cohorts respectively. All intravenous fluids documented on the day of or
+      the day following surgery were considered in order to determine eligibility for inclusion,
+      and fluid volumes from the day of through two days following surgery were monitored. The
+      investigators excluded crystalloids administered in smaller containers (<=250mL volume) as
+      these were most likely to be used for medication delivery rather than for the maintenance of
+      hydration or expansion of intravascular blood volume in this adult population. Such volume
+      thresholds were not imposed for colloids in the 'albumin' cohort however. Patients were
+      excluded from the study if they received any other colloid (e.g. albumin over 5%
+      concentration or hydroxyethyl starch) or hypertonic saline. Patients were not excluded from
+      the albumin arm if they received plasma protein fraction (PPF) however.
+
+      Definition of Outcomes The primary outcome was in-hospital mortality during the index
+      admission in which cardiac surgery was performed. The investigators also examined in-hospital
+      mortality within 30, 60, and 90 days after the index procedure. Secondary endpoints included
+      major postoperative adverse cardiac, renal, hepatic, metabolic, pulmonary, neurologic,
+      hematologic, or infectious events defined using clinical parameters or administrative codes
+      (ICD-9-CM). Additional administrative secondary outcomes included: Length-of-stay,
+      readmissions, and re-operations (return to operating room). MACE at 30, 60 and 90 days were
+      calculated from four separate binary categories: 1) in-hospital mortality; 2) post-operative
+      stroke or cerebrovascular accident per ICD-9 diagnosis codes not present-on-admission for the
+      index visit or for subsequent visits within respective MACE timeframes; 3) post-operative
+      revascularization or PCI; and 4) post-operative myocardial infarction. A composite binary
+      indicator was also reported for any one or greater MACE condition met within the respective
+      timeframes.
+    
+  

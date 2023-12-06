@@ -1,0 +1,123 @@
+
+    
+      The aim of this study is to determine the potential of a single-lead electrocardiogram (ECG)
+      monitor CardioQvark (Moscow, Russia) with photoplethysmography function use to evaluate
+      parameters systolic function of the left ventricle. Also according to the photoplethysmogram
+      (PPG), using a special algorithm, the levels of systolic and diastolic blood pressure are
+      calculated.
+
+      The single-lead electrocardiogram monitor CardioQvark (it is registered with the Federal
+      Service for Health Supervision on February 15, 2019. RZN (Roszdravnadzor) No. 2019/8124)
+      looks like an iPhone cover and records electrocardiogram (I standard lead) and
+      photoplethysmogram (pulse wave) simultaneously.
+
+      This is a prospective, single-center, non-randomized, observational study. The investigators
+      are planning to include in the study 400 patients with different pathologies of the
+      cardiovascular system (coronary artery disease, hypertension, valvular heart disease, heart
+      failure) according to the inclusion criteria.
+
+      Collection of medical history; physical examination (including inspection, palpation and
+      auscultation, as well as determination of breathing rate, pulse rate, height, and weight)
+      will be performed for the entire group of patients. Electrocardiogram and photoplethysmogram
+      registration and assessment of the blood pressure using a CardioQvark monitor will be
+      performed on all study participants at rest (the patient will sit quietly for 10-15 minutes
+      before the examination). The reference blood pressure will be measured using a cuff-based
+      blood pressure device ("Microlife BP AG1-10") that is worn on the upper arm according to the
+      World Health Organization recommendations.
+
+      All subjects will undergo an echocardiography ("Dimension/Vivid 7 PRO General Electric
+      Medical System"), the examination will be performed by an experienced doctor (the doctor will
+      not have data on the parameters of the pulse wave and electrocardiogram). The extended
+      protocol echocardiography will be performed according to the recommendations of European
+      Association of Cardiovascular Imaging (EACVI) and American Society of Echocardiography (ASE).
+      All examinations will be performed consistently within one day.
+
+      All electrocardiograms and photoplethysmograms records will be sent to the CardioQVARK server
+      and processed by the algorithm using signal processing based on the wavelet transformation.
+      Then engineers of "CardioQvark" (Limited Liability Company) will calculate the pulse wave
+      parameters:
+
+        -  B1 is the beginning of the wave
+
+        -  B0 is the point of maximum increase of the anterior front
+
+        -  SEP is the peak of the ejected pulse wave
+
+        -  DER3 is the first positive peak of the third derivative
+
+        -  SEPMAX is the point of the first inflection of pulse wave
+
+        -  SRP is the peak of the reflected systolic wave
+
+        -  DP is the peak of the diastolic wave
+
+        -  End is the end of the wave
+
+        -  perfusion index
+
+        -  augmentation index.
+
+      A spectral analysis of the electrocardiogram will be performed using a continuous wavelet
+      transform, the principles of which are based on the Fourier transform:
+
+        -  TpTe - time from peak to end of the T-wave
+
+        -  VAT - time from the beginning of the QRS to the R-peak
+
+        -  QTc - corrected QT interval.
+
+        -  QT / TQ - the ratio of QT length to TQ length (from the end of T to the beginning of the
+           QRS of the next complex).
+
+        -  QRS_E - the total energy of the QRS wave based on the wavelet transform
+
+        -  T_E - T-wave total energy based on wavelet transform
+
+        -  TP_E- energy of the main tooth of the T-wave based on the wavelet transform
+
+        -  BETA, BETA_S - T-wave asymmetry coefficients (simple and smooth versions)
+
+        -  BAD_T - flag of T-wave quality (whether expressed in the current lead
+
+        -  QRS_D1_ons - energy of the leading edge of the R-wave (based on the "first derivative"
+           wavelet transform)
+
+        -  QRS_D1_offs - energy of the trailing edge of the R-wave (based on the "first derivative"
+           wavelet transform)
+
+        -  QRS_D2 - peak energy of the R-wave (based on the "second derivative" wavelet transform)
+
+        -  QRS_Ei (i = 1,2,3,4) - QRS-wave energy in 4 frequency ranges (2-4-8-16-32 Hz) based on
+           wavelet transform
+
+        -  T_Ei (i = 1,2,3,4) - T-wave energy in 4 frequency ranges (2-4-6-8-10 Hz) based on
+           wavelet transform
+
+        -  HFQRS - the amplitude of the RF components of the QRS wave. The engineers will not have
+           echocardiography results.
+
+      The investigators will evaluate parameters of the pulse wave (photoplethysmogram) and
+      electrocardiogram and compare the results with echocardiography (ejection fraction, left
+      ventricular outflow tract velocity time integral (VTI), left ventricular global longitudinal
+      strain (GLS)).The mathematical model for determining the systolic dysfunction of the left
+      ventricle will be built on the basis of the parameters of the photoplethysmogram and the
+      electrocardiogram.
+
+      Intergroup analysis of significant differences, correlation analysis and Bland-Altman method
+      will be used for statistical data analysis. All statistical analyses will be perform using a
+      computer program for statistical processing of data SPPS (statistical package for the social
+      sciences) Statistics Version 26.
+
+      It is planned to obtain comparative characteristics of the pulse wave and electrocardiogram
+      parameters registered by the CardioQvark monitor and the indicators of systolic function of
+      the left ventricle detected during echocardiography. The result of this study will be the
+      identification of the parameters of the pulse wave and electrocardiogram that will correlate
+      with systolic dysfunction of the left ventricle. It is planned to determine the diagnostic
+      effectiveness of this method. The accuracy of the blood pressure measurement using the
+      CardioQvark monitor will also be evaluated.
+
+      Thus, a quick and convenient assessment of systolic function of the left ventricle and blood
+      pressure measurement will be available. So, study results will improve the diagnosis and
+      treatment of cardiovascular disease.
+    
+  

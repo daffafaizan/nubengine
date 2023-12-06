@@ -1,0 +1,33 @@
+
+    
+      There are three main research tasks for this project: 1) the identification of discriminant
+      features of Doppler audio for patient classification, 2) the selection and training of
+      classification algorithms, and 3) CWD audio data enrichment using physics-based models. The
+      investigators will determine which discriminant features are optimal for patient
+      classification from ultrasound Doppler audio.
+
+      To this end, the investigators will employ signal features in the frequency domain such as
+      bandwidth, peak frequency, mean power, mean frequency, and time harmonic distortion, among
+      others.
+
+      Furthermore, the investigators will investigate whether time domain features are necessary
+      for accurate sound classification. Other studies have shown that specific features of audio
+      waveforms can classify the data. The investigators will employ some of the most effective
+      machine-learning algorithms for classification such as SVM, logistic regression, and Naïve
+      Bayes, among others. The investigators will start with a binary classification problem in
+      which individuals will be classified as healthy or unhealthy. Then, the investigators will
+      move in complexity to multi-class classification problems in which individuals will be
+      categorized into different groups according to defined abnormal arterial conditions. Data
+      enrichment using physics-based models employing physiologically accurate finite element
+      models of fluid flow in arteries to generate synthetic sound signals corresponding to various
+      arterial conditions. Physics-based simulations would allow the investigators to produce a
+      wealth of training data that can span many known arterial conditions. This capability can
+      augment the classification accuracy and generalization of our algorithms, as clinical data
+      may not be exhaustive enough to incorporate all the known arterial conditions. The
+      investigators will study the performance of the trained algorithms on patient data. To this
+      end, the investigators will partition the data into training and testing samples. The
+      training samples will be used for training of the algorithms, while the testing set will be
+      used to assess generalization capability. The investigators will compute misclassification
+      rates for each algorithm as a metric for performance.
+    
+  

@@ -1,0 +1,67 @@
+
+    
+      Heart Failure (HF) is a challenging condition to manage, with hospital readmission for HF
+      exacerbation having negative impacts on patient outcomes and financial burden to both patient
+      and health system [Lloyd-Jones, 2010; Yancy, 2017; Ross, 2009; Chaudhry, 2007]. An intuitive
+      need for more sensitive predictors of HF exacerbations has led researchers to explore remote
+      monitoring as a possible answer. Consumer-owned sensors have become more accurate in their
+      recording of vital signs, and thus could hold potential for remote monitoring [Dickinson,
+      2018]. The combined measure of heart rate (HR) and respiratory rate (RR) has been shown to
+      predict New York Heart Association (NYHA) HF class, an indicator of severity of heart
+      disease, in implantable cardiac devices with multi-sensor monitoring capabilities [Auricchio,
+      2014; Prasun, 2019; Boehmer, 2015; Boehmer, 2017]. Heart rate variability (HRV), a measure of
+      sympathetic autonomic function, has also shown potential in prediction of adverse cardiac
+      events [Al-Zaiti, 2019; Shaffer, 2017; Bullinga, 2005; Tsuji, 1996].
+
+      The WHOOP device, a wearable strap similar to a Fitbit, allows for real-time HR monitoring
+      and can determine RR using respiratory sinus arrhythmia [www.whoop.com/experience; Berryhill,
+      2020]. It is one of the few devices on the market that can accurately track heart rate as
+      well as respiratory rate in real-time (during activity) and is equipped with a
+      multidirectional accelerometer for activity tracking. The WHOOP device was recently
+      externally validated against polysomnography and continuous electroencephalogram (EEG) for
+      sleep tracking, and continuous electrocardiogram (ECG) for HR and HRV (with less than 5%
+      error) [Berryhill, 2020]. HRV, which represents the balance of the sympathetic and
+      parasympathetic nervous systems, is a known predictor of cardiac events. It is especially
+      useful in HF, which is a chronically elevated catecholamine state leading to depressed HRV
+      and is tied to NYHA HF class, an indicator of severity of disease [Bullinga, 2005; Tsuji,
+      1996].
+
+      Data so far regarding the efficacy of remote physiologic monitoring using cardiac implantable
+      electronic devices (CIEDs), although promising in theory, has not yet proved sensitive in the
+      detection of HF exacerbation. The aim of the CLEPSYDRA study was to use data extracted from
+      implanted cardiac resynchronization therapy with defibrillation (CRT-D) devices in HF
+      patients to predict heart failure events; although the main variables used in the novel
+      algorithm, minute ventilation and patient activity, would intuitively seem to be predictors
+      of poor outcome/HF exacerbation, the sensitivity of the algorithm to predict an event was
+      only 34% [6]. It would appear that this combination of variables is not sufficient to predict
+      adverse HF events. However, the HOME-CARE (HOME Monitoring in CArdiac REsynchronization
+      Therapy) study showed more promising results, as their enhanced predictor, utilizing seven
+      diagnostic variables from implanted CRT-Ds, boasted a sensitivity of 65.4% [Sack, 2011].
+      While the data from these studies is helpful, no study has been able to adequately identify
+      and assess accurate predictors of HF class.
+
+      Current efficacious management strategies are limited to hemodynamic or multisensor
+      monitoring systems. However, these are only available in implanted cardioverter-defibrillator
+      (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) devices. These are not
+      implanted in every HF patient [Al-Zaiti, 2019]. Non-invasive monitoring that provides similar
+      data, such as wearable device monitoring, would expand the cohort of patients that would
+      benefit from remote monitoring and would avoid the risks of having implanted hardware.
+      Furthermore, better prediction of HF severity could help guide follow-up care and predict HF
+      events [Boehmer, 2015; Boehmer 2017]. This would lead to more efficient management, less
+      hospital readmission, and improve outcomes for HF patients overall [Dickinson, 2018].
+
+      The investigators propose a feasibility study in HF patients to better assess HF disease
+      state, which can aid in management and improve outcomes. Subjects will wear the WHOOP device,
+      which measures both activity and HR parameters and can derive RR using respiratory sinus
+      arrhythmia, for 90 days. During this period, their HR and RR will be recorded at rest, during
+      activity and post-activity recovery phases. This combined measure of HR/RR has been shown to
+      predict NYHA HF class, an indicator of severity of disease, in implantable devices with
+      multi-sensor monitoring capabilities; thus, it represents a useful management strategy in HF
+      patients [Bullinga, 2005; Tsuji, 1996]. A continuous external monitoring device worn on the
+      wrist, such as the WHOOP device, would provide valuable physiologic data for a cohort of HF
+      patients who were previously unable to be monitored in this fashion. Secondary analysis of
+      this study will investigate the use of intra- and post-activity HR and RR as predictors of
+      hospitalization rates, a common problem in HF patients that correlate with worse mortality
+      outcomes.
+    
+  

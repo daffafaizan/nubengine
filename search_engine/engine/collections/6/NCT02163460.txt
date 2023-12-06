@@ -1,0 +1,103 @@
+
+    
+      The present randomised clinical trial was approved by the research ethics committees of the
+      São Paulo School of Medicine - Federal University of São Paulo (Universidade Federal de São
+      Paulo - UNIFESP), the State University of Western Paraná (Universidade Estadual do Oeste do
+      Paraná - UNIOESTE) and the University Hospital of Western Paraná (Hospital Universitário do
+      Oeste do Paraná - HUOP) in compliance with the 1964 Declaration of Helsinki and later
+      updates.
+
+      The study design and randomisation followed the Consolidated Standards of Reporting Trials
+      (CONSORT) version 2010 15.
+
+      All the participants read and signed an informed consent form at the preoperative assessment
+      visit.
+
+      Inclusion and exclusion criteria Individuals with primary or recurrent incisional hernia were
+      assessed at HUOP, and those with longitudinal or transverse ventral hernia secondary to a
+      previous surgical incision, measuring 5 to 15 cm after dissection of the hernial sac and
+      classified as large or very large according to Chevrel's classification, were considered to
+      be eligible16. In individuals with multiple defects, the length between the cranial margin of
+      the most cranial defect and the caudal margin of the most caudal defect was considered17.
+      Individuals subjected to emergency surgery, with infection, immunosuppressed, younger than 18
+      or older than 80 years old, ASA III or IV, with a serum albumin concentration lower than 3.0
+      g/dl or who refused participation were excluded from the study.
+
+      Surgical technique The participants were admitted to the hospital the night before surgery to
+      perform or update the assessment of their surgical risk according to the American Society of
+      Anesthesiologists (ASA) criteria, as well as for measurement of the serum albumin
+      concentration.
+
+      Incisional herniorrhaphy surgery was performed following the group's technique
+      systematisation by a resident physician supervised by one of four surgeons professors at the
+      medical course of UNIOESTE and who the using the onlay technique as described by
+      Chevrel18-20. Antibiotic prophylaxis was performed with a single 2 g dose of cefazolin at the
+      time of anaesthetic induction followed by a booster 1 g dose when the surgery lasted more
+      than three hours.
+
+      The aponeurosis was dissected 5 cm beyond the aponeurotic defect. Approximation of the
+      aponeurotic margins for midline reconstruction was performed using polyglactin 910 #1
+      sutures. Tension was relieved by releasing incisions performed on the external oblique muscle
+      aponeurosis, 3 cm away from the linea alba, as described by Gibson21. A macroporous
+      polypropylene monofilament P1 mesh of 100 g/m2 (Cousin Biotec) was fixed on the aponeurosis
+      by separate 2-0 polypropylene sutures performed every 2 cm.
+
+      The participants were randomised immediately after mesh fixation by a computer-based random
+      number generator and allocated to the two intervention groups.
+
+      Interventions In group 1, a 4.8 mm diameter continuous closed-suction tubular drain (Medsharp
+      Ind.Com.Prod.Hosp.Ltda - reg. MS (Ministério da Saúde [Health Ministry registry]):
+      80267170001) was placed between the aponeurosis and the subcutaneous tissue caudally to the
+      incision. Next, the subcutaneous tissue approximation was performed with separate absorbable
+      polyglactin 910 2/0 sutures.
+
+      Drains were not used in group 2, but separate absorbable polyglactin 920 2/0 sutures were
+      placed from the subcutaneous mesh to the aponeurosis every 2 cm by means of the progressive
+      tension suture (or Quilting Sutures) technique, as described by Pollock et al.10-13.
+
+      Skin closure was performed with simple separate sutures at 1 cm intervals using nylon
+      monofilament suture #4-0 in both groups. The participants were requested to use the support
+      girdles provided by the surgical staff at the hospital and at home during the first 30 days
+      after surgery.
+
+      In group 1, the drains were removed when the drained volume was less than 40 ml/24 hours.
+
+      Outcomes All the participants were clinically assessed by the attending staff to detect
+      postoperative complications, seroma formation and surgical site infection, especially on
+      postoperative (PO) days one, three, five, seven, 14-16 and 29-31. The data were recorded on a
+      pre-established form.
+
+      All the participants were subjected to abdominal wall ultrasound to assess seroma formation
+      at three time points defined as: early (PO days four to six), intermediate (PO days 14 to 16)
+      and late (PO days 29 to 31). The tests were performed by the radiology staff at HUOP. Seroma
+      was defined as the collection of any volume of subcutaneous fluid without debris. All the
+      participants remained in the hospital until the first ultrasound assessment was performed.
+      The presence of seroma was considered as the main outcome. Clinical seroma was defined as a
+      visible bulge or fluctuation without signs of infection, subclinical seroma was defined as
+      the absence of detectable abnormalities on physical examination but the presence of any
+      volume of fluid collection on abdominal wall ultrasound, and seroma was defined as all
+      occurrences of fluid collection detected on ultrasound.
+
+      Surgical wound infection was prospectively defined according to the criteria formulated by
+      the Centers for Disease Control and Prevention (CDC) in the Guideline for Prevention of
+      Surgical Site Infection, 1999 22.
+
+      Sample size calculation The sample size was calculated based on significance level alpha = 5%
+      and 80% power. A two-tailed test for the comparison of the two proportions was used to
+      compare the occurrence of seroma between the groups with drains (50.0%) or progressive
+      tension sutures (10.0%)
+
+      Statistics The initial statistical analysis of all the data collected in the present study
+      was descriptive. In regard to the quantitative (numerical) variables, summary measures
+      including mean, standard deviation, median, maximum and minimum values were calculated, and
+      one-dimensional scatterplots were constructed. The data corresponding to the qualitative
+      (categorical) variables were assessed as absolute and relative (percent) frequencies.
+
+      Inferential analysis was performed to confirm or refute the evidence found in the descriptive
+      analysis. For that purpose, Student's t-test for independent samples was used to compare the
+      groups of participants.
+
+      In the inferential analysis, the significance level (α) was established as 5%. The
+      statistical analyses were performed using software R version 2.15.2.
+    
+  

@@ -1,0 +1,103 @@
+
+    
+      Introduction
+
+      Despite maintaining adequate mean arterial pressure and central venous oxygen saturation, the
+      mortality is still high in severe sepsis and septic shock. Previous studies have demonstrated
+      that derangements in microvascular flow play a role in sepsis-induced multiple organ
+      dysfunction and death. Because of the clinical significance of microcirculatory dysfunction
+      in severe sepsis and septic shock, recent advances in image technology have been used to
+      investigate microcirculation. A sidestream dark-field (SDF) video microscope has been
+      developed to visualize the microcirculation, but its measurement of microvascular blood flow
+      classification is semi-quantitative. Previous studies have shown that a full-field laser
+      perfusion imager can quantitatively measure the change of microcirculatory blood flow
+      intensity. For clinical studies, sublingual microcirculation is most easily investigated
+      using a SDF video microscope.
+
+      Because lipopolysaccharide (LPS) or endotoxin is a specific ligand for Toll-like receptor 4
+      (TLR4), it can induce the following reactions including excessive immune and inflammatory
+      responses, oxidative stress , capillary leakage, endothelial damage, impaired arteriolar and
+      venular vasoregulation, and activation of the coagulation cascade. Subsequently, these
+      reactions can lead to microcirculatory dysfunction. Recently, a TLR4 antagonist, eritoran
+      tetrasodium (E5564), has been reported to inhibit LPS response without TLR4 agonistic
+      activity in animals as well as in humans, but it fails to reduce mortality of severe sepsis
+      and septic shock. Polymyxin B adsorber hemoperfusion (PMX) have been proved to reduce
+      mortality of severe sepsis and septic shock.Since 1994 to 2007, more than 60,000 patients
+      have received this treatment. In a systematic review, the results show that PMX therapy was
+      associated with significantly lower mortality risk (risk ratio, 0.53; 95% CI, 0.43 to
+      0.65).21 In a prospective, multicenter, randomized controlled trial (Early Use of Polymyxin B
+      Hemoperfusion in Abdominal Sepsis [EUPHAS]), the results show that SOFA scores improved in
+      the polymyxin B group but not in the conventional therapy group (change in SOFA, -3.4 vs
+      -0.1; P =0.001), and 28-day mortality was 32% in the polymyxin B group and 53% in the
+      conventional therapy group (unadjusted hazard ratio [HR], 0.43; 95% confidence interval [CI],
+      0.20-0.94; adjusted HR, 0.36; 95% CI, 0.16-0.80). Iba et al. have revealed that polymyxin B
+      hemoperfusion can maintain better microcirculation and survival in a septic rat model.
+
+      The investigators hypothesize that polymyxin B hemoperfusion can decrease blood endotoxin
+      level and reduce endotoxin-related microcirculatory dysfunction. The purpose of this
+      prospective randomized controlled open study is to investigate the effect of polymyxin B
+      hemoperfusion on the sublingual microcirculation in patient with clear or suspected severe
+      sepsis and septic shock by gram-negative bacteria. The serum level of endotoxin, mean
+      arterial pressure, dose of vasopressors and inotropics, SOFA score, PaO2/FiO2 ratio, and
+      28-day mortality will be investigated.
+
+      Methods
+
+      This protocol was reviewed by the National Taiwan University Hospital Research Ethic
+      Committee(201208067RIB). Patients who meet the inclusion criteria and do not present any of
+      the exclusion criteria will be randomly assigned to one of the two groups (the control group
+      the PMX-HP group). In the control group, patients will receive standard treatment for sepsis
+      according to the practice guidelines. In the PMX-HP group, patients will receive standard
+      treatment for sepsis and polymyxin B hemoperfusion.
+
+      The hemoperfusion will be performed in the intensive care units within 24h after diagnosis of
+      severe sepsis or septic shock. The 1st PMX-HP (day 0) will run for 2 hours. The 2nd PMX-HP
+      must be performed within 24 to 36 hours after the end of the 1st treatment, ideally 24 hours.
+
+      The SDF video microscope (MicroScan, Microvision Medical) will be used to investigate total
+      small vessel (less than 20 μm) density (TSVD), microvascular blood flow classification of
+      each small vessel, perfused small vessel density (PSVD), microvascular flow index (MFI), and
+      heterogeneity index (HI) of sublingual microcirculation. This device illuminates the tissues
+      with polarized green light and measures the reflected light from the tissue surface. Both
+      superficial capillaries and venules can be visualized because the scattered green light is
+      absorbed by haemoglobin of red blood cells which are contained in these vessels. At each time
+      point (0h, 24h, and 48h), five continuous image sequences (20 seconds) will be digitally
+      stored, and data of the best three images (at least, if possible five) will be averaged for
+      statistical calculation. The images will be analysed afterwards with automated analysis
+      software (AVA 3.0, Academic Medical Center, University of Amsterdam, Amsterdam, The
+      Netherlands). Total small vessel density is automatically calculated by the software. A
+      semi-quantitative method is used to classify the microvascular blood flow of each small
+      vessel as follows: (0) absent (no flow or filled with microthrombosis), (1) intermittent flow
+      (absence of flow for at least 50% of the time), (2) sluggish flow, and (3) continuous flow.
+      (Figure 1) Small vessels with blood flow classification of (2) and (3) are considered as
+      perfused small vessels, and the perfused small vessel density are automatically calculated.
+      To calculate MFI score, the image is divided into four quadrants, and the same ordinal scale
+      (0 to 3) is used to assess blood flow in each quadrant. The MFI score represents the averaged
+      values of the four quadrants. The heterogeneity index is calculated as the highest MFI minus
+      the lowest MFI divided by the mean MFI across the best three to five images at certain time
+      point.
+
+      Safety
+
+      The blood pressure, body temperature, BUN, creatinine, ALT, AST, bilirubin (total/direct),
+      lactate, sodium, potassium, and complete cell count will be monitored during the experiment.
+      Adverse effects of polymyxin B hemoperfusion (bleeding, nephrotoxicity, neurotoxicity
+      [agitation, weakness, drowsy, ataxia, numbness, blurred vision, and paresthesia],
+      thrombocytopenia, and altered coagulation.) will be monitored.
+
+      Statistics
+
+      According to our previous study, the total small vessel density of the patients in the
+      control group was 20.0 mm/mm2, 20 patients per group can detect a 12 % increase in total
+      small vessel density of the patients in the PMX-HP group with an α level of 0.05 and β level
+      of 0.8.
+
+      Data will be analysed using statistical software (SPSS 20; IBM SPSS, Chicago, IL). Means at
+      certain time point between the two groups are compared using t test. Means from serial
+      examinations between the two groups are compared using repeated measurement analysis of
+      variance (with the factors of time and group) followed by Tukey or Dunnett's T3 multiple
+      comparison tests. Data of MFI are expressed as median (interquartile range) and compared
+      using the Mann-Whitney analysis following with adjustment for multiple comparisons. A P value
+      < 0.05 is considered to indicate a significant result.
+    
+  

@@ -1,0 +1,17 @@
+
+    
+      Falls are frequent events in adults over age 65 (up to 30% each year in Canada). They are a
+      major Canadian public health concern, which negatively impacts health and quality of life of
+      fallers, and health care system. Neurocognitive disorders are strongly associated with falls
+      and fall-related injuries.
+
+      Several clinical characteristics, identified previously as risk factors for falls in the
+      older population and in older adults with neurocognitive disorders are selected in the
+      Canadian Longitudinal Study On Aging. The performance criteria of different statistical
+      models will be compared for the association of neurocognitive disorders with falls and
+      fall-related injuries. Six linear statistical models (i.e., logistic regression, discriminant
+      analysis, Bayes network algorithm, decision tree, random forest, boosted trees), Factor
+      Mixture Models and two different artificial neural network (i.e., multilayer perceptron and
+      the neuroevolution of augmenting topologies).
+    
+  

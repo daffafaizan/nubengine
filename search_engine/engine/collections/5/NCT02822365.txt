@@ -1,0 +1,32 @@
+
+    
+      PRIMARY OBJECTIVES:
+
+      I. Optimize the pocket phantom source design and the bias estimation algorithm: determine the
+      tolerances and variations in the source sphere geometry and radioactive filing process;
+      evaluate the need for higher-activity sources in the presence of increased attenuation (i.e.
+      thicker patients); optimize CT contrast levels for source boundary detection and localization
+      from CT images; evaluate the robustness for use with different scanner parameters (e.g. CT
+      slice thicknesses); modify bias estimation algorithm as needed to take into account changes.
+
+      II. Develop automated and robust ID pocket phantom processing and web-based software as a
+      service (SAS) analysis tools: automate initial identification of approximate location of the
+      pocket phantom; add automated DICOM analysis for web-based SAS analysis tools for imaging
+      sites.
+
+      III. Conduct phantom studies at multiple imaging centers to evaluate the performance with
+      different imaging protocols, scanners, and reconstruction methods. Also test at multiple time
+      points over 6-9 months to assess longitudinal stability.
+
+      IV. Conduct a comparative study with patients (at University of Washington [UW]) at multiple
+      time points over 6-12 months to evaluate the performance of the pocket phantom in oncology
+      patient imaging compared with current clinical practice.
+
+      OUTLINE:
+
+      Patients undergo a PET/CT scan as part of their standard clinical care. While still
+      positioned for the clinical scan, patients undergo additional research PET/CT scans in a
+      smaller region over 10 minutes with the pocket phantom placed nearby and a low-dose single
+      bed position CT scan for attenuation correction (CTAC).
+    
+  

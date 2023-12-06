@@ -1,0 +1,13 @@
+
+    
+      cutaneous ECG electrodes positioned near the sternum and on the midaxillary line, at the
+      approximate positions of the ISSD sense electrodes, are used to record patients undergoing
+      Defibrillation Threshold (DFT) studies or Electrophysiology (EP) studies of different types.
+      Two separate copies of the recordings undergo parallel and separate analysis: one is sent to
+      an expert Electrophysiologist for determination and classification of arrhythmia events of at
+      least 5 seconds and at least 170 beats per minute. the other is fed to the ISSD detection
+      algorithm, with a low cutoff rate of 170 beats per minute. the results are compared to
+      establish the accuracy of the detection algorithm and the rate of false detection /
+      classification of arrhythmia events.
+    
+  

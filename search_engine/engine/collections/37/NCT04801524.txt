@@ -1,0 +1,199 @@
+
+    
+      Our primary research question is whether vaccine takeup can be boosted by a text-message
+      reminder encouraging eligible patients to schedule a vaccination appointment. Patients, when
+      becoming eligible for receiving the COVID-19 vaccine at UCLA Health, will be first notified
+      about their eligibility and encouraged to schedule a vaccination appointment via one of the
+      channels (email, voice call, or snail mail) depending on the contact information available to
+      UCLA Health. Eligible patients will also receive a text-message reminder after the initial
+      invitation. Eight days after the first text reminder, patients eligible for our study will be
+      randomized at a 1:6 ratio into a holdout control arm that does not receive a second text
+      message vs. a text-message arm that receives a second text message.
+
+      Our secondary research question concerns which type of text reminder is more effective. To
+      study this question, we will nest a 2x3 factorial design within the text-message arm. The
+      first factor has two levels and is whether the text message focuses on patients' personal
+      benefits or prosocial benefits. The second factor has three levels and is whether the text
+      message highlights the early access patients have to the vaccine, whether it highlights that
+      the vaccine offers the promise of a fresh start, or neither.
+
+        -  In the Holdout arm: patients will not receive a second text message about COVID-vaccine.
+
+        -  In the text-message arm, all participants will receive a text message that invites them
+           to schedule their vaccination appointment and includes a link to the appointment website
+
+             -  In the Self-benefit sub-arm, participants will be reminded that the vaccine helps
+                protect themselves from COVID.
+
+             -  In the Prosocial-benefit sub-arm, participants will be reminded that the vaccine
+                helps protect their family, friends, and community from COVID.
+
+             -  In the Early access + self-benefit sub-arm, participants will be reminded that they
+                have early access to COVID-19 vaccine and should take the opportunity to protect
+                themselves from COVID.
+
+             -  In the Early access + prosocial-benefit sub-arm, participants will be reminded that
+                they have early access to COVID-19 vaccine and should take the opportunity to
+                protect their family, friends, community from COVID.
+
+             -  In the Fresh start + self-benefit sub-arm, participants will be reminded that the
+                vaccine offers the promise of a fresh start and they should take the opportunity to
+                protect themselves from COVID and chart a new path forward.
+
+             -  In the Early access + prosocial-benefit sub-arm, participants will be reminded that
+                the vaccine offers the promise of a fresh start and they should take the
+                opportunity to protect their family, friends, community from COVID and help our
+                nation chart a new path forward.
+
+      Patients will enter our study on a rolling basis, as they become eligible to get the vaccine
+      (and if they fit our inclusion criteria for receiving the second text message). Those in the
+      text-message arm will receive the second text message on the workday on or closest to the 8th
+      day following the first text message. Specifically, if t denotes the date of the first text
+      message, then t+8 is the 8th day following the first text message.If t+8 is Saturday, the
+      second text message will be sent on Friday; if t+8 is Sunday, the second text message will be
+      sent on Monday. We will measure a) whether patients schedule a COVID-19 vaccination
+      appointment for the first dose and b) whether and when patients get the first dose of
+      COVID-19 vaccine.
+
+      The study will stop assigning patients to the early access + self-benefit sub-arm OR the
+      early access + prosocial-benefit sub-arm when UCLA health opens appointments to everyone
+      regardless of priority status related to age, health conditions or occupations. This will be
+      done because at this point the concept of early access is likely no longer credible. At that
+      point, we will randomize future patients eligible for our study at a 1:4 ratio into the
+      holdout control arm and a text-message arm that receives a second text message. Within the
+      text-message arm, we will nest a 2x2 factorial design, where the two factors will be a)
+      whether the text message will focus on patients' personal benefits or prosocial benefits and
+      b) whether or not the text message highlights that the vaccine offers the promise of a fresh
+      start.
+
+      Analysis:
+
+      For the main analysis, we will run ordinary least squares regressions (OLS) with robust
+      standard errors to predict the aforementioned outcome variables, except that we will use a
+      Cox proportional hazards model with administrative censoring to predict time of obtaining the
+      first COVID-19 vaccine. The significance level will be 0.05. Our primary hypothesis is that
+      the text-message arm is significantly better than the holdout arm, so our primary analysis
+      will compare the six text-message sub-arms altogether with the holdout group.
+
+      Our secondary analysis will investigate whether (1) the three sub-arms highlighting
+      self-benefits, (2) the three sub-arms highlighting prosocial benefits, (3) the two sub-arms
+      highlighting early access, and (4) the two sub-arms highlighting fresh start are better than
+      the holdout arm.
+
+      Furthermore, we will test (1) the effect of highlighting prosocial benefits (vs.
+      self-benefits), (2) the effect of highlighting early access, (3) the effect of highlighting
+      the promise of a fresh start, (4) whether the combination of early access and prosocial
+      benefits will outperform early access alone or prosocial benefits alone, and (5) whether the
+      combination of fresh start and prosocial benefits will outperform fresh start alone or
+      prosocial benefits alone.
+
+      Our regressions will include the following control variables:
+
+        -  Participant age
+
+        -  Indicators for participant race/ethnicity (Black non-Hispanic, Hispanic, Asian
+           non-Hispanic, white non-Hispanic, other/mixed, unknown; white non-Hispanic omitted)
+
+        -  Whether the patient's preferred language is Spanish (which affects the language of text)
+
+        -  Indicators for participant gender (male, female, other/unknown)
+
+        -  Social vulnerability index score
+
+        -  COVID19 Risk Factors Model
+
+        -  Indicators for the batches of patients (patients will become eligible and receive
+           initial communications in batches)
+
+      As a robustness check, we will re-run the analysis as a logit regression (instead of an OLS
+      regression) for binary outcome variables.
+
+      We will explore the following moderators:
+
+        -  Whether the patient is female or male
+
+        -  Whether the patient is Black, Caucasian, Hispanic, or other
+
+        -  Whether the patient's preferred language is Spanish
+
+        -  Whether the patient is 65+ (including 65) or below 65
+
+        -  Patient's Social vulnerability index score
+
+        -  Patient's COVID risk score
+
+        -  Patient's population risk score
+
+        -  Whether the patient is married (which is a proxy for whether they live together with
+           family members)
+
+        -  Whether or not the patient received a flu shot in either the 2019-2020 season or the
+           2020-2021 flu season prior to receiving our text message according to the patient's
+           medical record
+
+        -  The day of the week when the text message is sent to a patient. We will compare each day
+           of the week.
+
+        -  How strongly the participant's neighborhood is in favor of the Republican (vs.
+           Democratic) Party if UCLA Health eventually agrees to provide de-identified address
+           (e.g., zipcode)
+
+        -  The arm that patients were assigned to for the first text message (see our
+           pre-registration for the RCT related to the first text message at NCT04800965)
+
+        -  Number of days between the date the first batch of patients received the initial
+           invitation to get COVID vaccine at UCLA Health and the date a patient in question
+           received the initial invitation
+
+        -  The number of patients who have received the initial invitation to get COVID vaccine at
+           UCLA Health before a patient in question received the initial invitation.
+
+      Plan for Early and Subsequent Analyses
+
+      To inform policy as soon as possible, we plan to first assess the effects of our
+      interventions in the early phase of vaccination outreach at UCLA Health. For this purpose, we
+      plan to first analyze the data from the start of this RCT to the end of February. Given that
+      we are using a 6-day time window for our primary dependent variable, we will examine data
+      from patients who are randomized to either the holdout or text-message arm in this RCT before
+      or on Feb 23, 2021. For this population, we will test:
+
+        1. whether the text-message arm is significantly better than the holdout arm;
+
+        2. whether the three sub-arms highlighting self-benefits, the three sub-arms highlighting
+           prosocial benefits, the two sub-arms highlighting early access, and the two sub-arms
+           highlighting fresh start are better than the holdout arm.
+
+        3. we will report the raw data for each sub-arm without conducting hypothesis testing
+           across conditions that are not pre-registered in (1)-(4).
+
+      In our early analysis, we will include controls that are available to us (it is possible that
+      we do not have all of the controls described above at the time of early report).
+
+      However, if by Feb 23, we do not reach 40K (which gives us 80% power to detect a 2pp
+      difference between the holdout arm and the text message arm, assuming that holdout arm has a
+      50% baseline) for this RCT, we will only report estimated treatment effects and 95%
+      confidence intervals but we will not perform any hypothesis testing.
+
+      After all UCLA patients have been invited (or if vaccine distribution plan changes and UCLA
+      Health no longer sends out text messages to patients at some point), we will do the following
+      additional analyses:
+
+        -  If the additional data collected afterward exceeds 40K (which gives us 80% power to
+           detect a 2pp difference between the holdout arm and the text message arm), then we will
+           analyze the main effect of sending a text message (vs. holdout) and report the raw data
+           for each sub-arm (to see if the patterns are qualitatively comparable with those in the
+           early data).
+
+        -  If we do not reach the sample size for the early analysis, then we will use all the data
+           (including the early data and subsequent data) to analyze the aforementioned questions
+           for the early data.
+
+        -  We will use the full sample (including the early data and subsequent data) to analyze
+           (1) the effect of highlighting prosocial benefits (vs. self-benefits), (2) the effect of
+           highlighting early access, (3) the effect of highlighting the promise of a fresh start,
+           (4) whether the combination of early access and prosocial benefits will outperform early
+           access alone or prosocial benefits alone, and (5) whether the combination of fresh start
+           and prosocial benefits will outperform fresh start alone or prosocial benefits alone,
+           and (6) the aforementioned heterogeneous treatment effects.
+    
+  

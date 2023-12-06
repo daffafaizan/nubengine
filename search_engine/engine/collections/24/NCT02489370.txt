@@ -1,0 +1,111 @@
+
+    
+      All data collected by the equipment placed at the patient's home will be directly and
+      securely transferred to the Heart polyclinic of the University Hospital of North Norway
+      (UNN). All data is anonymous as explained below, only the weight and the codes with the
+      answers to the questionnaire are send.
+
+      Each day a nurse is assigned as responsible for the heart remote monitoring system. The nurse
+      in charge must read the heart remote monitoring email in the morning every day, seven days a
+      week. If an alert email has been received, then the nurse logs into the system's dashboard
+      and reads the data displayed there for that patient. Then the nurse will try to phone the
+      patient to clarify the situation. Until this moment the procedure protocol differs from the
+      ordinary routines as the notification of a case is usually raised by a phone call from the
+      patient or a hospitalisation. But from this moment on, the procedure protocol is the same as
+      for all patients treated by the Heart polyclinic, i.e. if the nurse evaluates the situation
+      to need a further follow-up, then the nurse contacts the patient's general practitioner (GP)
+      by phone (as said this is procedure as usual). The hospital's Heart polyclinic has the same
+      responsibility for the treatment of the patients, both in the intervention arm and the
+      control arm.
+
+      Each one of the patients assigned to the intervention arm will be following this procedure
+      during 6 months. For the patients assigned to the control arm they will receive treatment as
+      usual also during a period of 6 months. Data stored in the system is anonymised. All patients
+      are uniquely identified by a number, the Unique Identifier (UID), in the system, the
+      connection between the UID and the real identity being only stored in a file in a secured
+      personal computer unconnected from any network, staying in an office at the heart polyclinic.
+      Once a week, the UIDs' file stored in the study personal computer at the Heart polyclinic is
+      transferred to a hardware protected pen drive. The pen drive in then placed in another
+      building at the UNN. This procedure is of the responsibility of the UNN's department for
+      "E-health and information and communications technology (ICT)". In this way only two copies
+      of the file are stored in separate buildings. No reference to the study name is mentioned in
+      this file.
+
+      As a pilot study, a prototype of the platform was built. It consisted of a wireless weight
+      scale and also a blood pressure meter prepared to send the values through the home Wi-Fi
+      network to a connected portable computer. The portable computer could then send the encrypted
+      measurements to a server at UNN.
+
+      After the first two months of pilot testing, the patient was satisfied with the usability of
+      the solution and the reliability of the service was proven.
+
+      The platform deployed and tested in the pilot study has been extended to include
+      functionalities for multiple patients. A dashboard showing all the measurements received
+      (unidentified) has been developed for the polyclinic and used by the responsible clinician
+      (the nurse on daily duty). This data is unidentified and consists of a registration of blood
+      pressure and weight, the encoded answers to the questionnaire attached (example: Q3A2 means
+      that question 3 got the answer 2 in the questionnaire). The responsible nurse at the Heart
+      Polyclinic has access to the dashboard. When a situation requiring the nurse intervention
+      arises, the system sends an alerting email to a pre-defined address (usually the nurse's
+      email account as it will be done in this study).
+
+      The design of the randomized controlled trial (RCT) Power analysis The inclusion of 40
+      patients is based upon the total number of new patients served by the polyclinic per year
+      during the 2 last years. For this study a sample size was calculated based on a readmission
+      rate of 70% of the patients per year on average with a standard deviation of 20pp (percentage
+      points). The values are adequate, based on patients who have received treatment within the
+      Heart Polyclinic and also replicating the study by Antonicelli, published in the Journal of
+      telemedicine and Telecare "Impact of telemonitoring at home on the management of elderly
+      patients with congestive heart failure" in 2008.
+
+      It was assumed by the clinical team that a 1/3 reduction on the rate of readmissions (down to
+      47%) would be clinically relevant as the margin of superiority for the intervention. To have
+      95% certainty (power) that a test at 0.05 level of significance would find a statistically
+      significant difference between the means, the study would include a minimum of 20 patients in
+      each group.
+
+      The planned RCT The telemonitoring service will be offered to all patients admitted at UNN's
+      Heart Polyclinic, satisfying the inclusion criteria. The study comprises an intervention arm
+      testing the proposed telemonitoring service and a control arm with the current treatment.
+
+      Patients assigned to the intervention arm receive a home telemonitoring kit consisting of a
+      tablet, a wireless weight scale and a portable blood pressure meter. The patient is asked to
+      weigh him- or herself every day and the monitoring procedure happens as previously described.
+      In addition a measurement of the blood pressure is also made.
+
+      Patients assigned to the control arm receive treatment as usual, consisting of a
+      recommendation to weigh themselves at home, using their own weight scale, and to report by
+      phone to the polyclinic if there is a significant change in weight.
+
+      The study calendar is shown below. Recruiting period: 14 months Follow-up period: 6 months
+      Number of patients: 40
+
+      Randomization: will be performed using sequentially numbered sealed opaque envelopes
+
+      Blinding: independent outcome assessors and data analysts are blinded to which group the
+      patient has been assigned to (patients are not blinded due to the nature of the
+      intervention).
+
+      Challenges and opportunities Qualitative research with semi structured interviews. Patients
+      in the intervention group and health care professionals will be asked to state their opinion
+      of the service. The research team will also observe patients' interactions with the system
+      after the 6 months of the study. A qualitative summary and thematic analysis of significant
+      features of opinions and actions will be connected to best practices. The purpose is to be
+      able to understand how best practices can be developed in the Northern Norwegian context, and
+      describe their mechanisms. The innovation intention is to adjust the services as they
+      develop, by considering the identified additional conditions for future development.
+
+      Ethics and privacy With recent events and advances in information technology and the
+      Internet, confidentiality regarding handling of patient private data has become a critical
+      aspect of a study design as privacy is a fundamental right in the public healthcare domain.
+      In this project confidentiality of private health information will be ensured according to
+      the Health Personnel Act § 21, helsepersonelloven § 21, and described in LOV2001-05-18 nr.24
+      (Helse- og omsorgsdepartementet, 2001). All private personal data will be de-identified:
+      every unique identifying number, characteristic, or code identifiers of the individual or of
+      relatives, employers, or household members of the individual will be removed so that the
+      information can be used alone or in combination with other information. The resulting data
+      will be analysed by a statistician to ensure that no individually identifiable health
+      information remains. The consent of participants will be required by means of providing a
+      letter of informed consent to be signed.
+    
+  

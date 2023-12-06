@@ -1,0 +1,56 @@
+
+    
+      This is a prospective study and The investigators use the routine pathological specimens for
+      next generation sequencing (NGS), microsatellite instability (MSI) and immunohistochemical
+      stains.
+
+      Pathological examinations including PD-L1, EGFR status, ALK and ROS-1.
+
+      NGS (Next Generation Sequencing)： Total DNA were extracted from EDTA-peripheral venous blood
+      and paraffin-embedded tumor specimens with the QIAamp® DNA Blood Mini Kit and QIAamp DNA FFPE
+      Tissue Kit (QIAGEN GmbH, Hilden, Germany), respectively. For DNA whole exome sequence,
+      briefly, tumor and blood DNA were sonicated by Covaris M220 sonicator (Life Technologies
+      Europe, Gent, Belgium) and then ligated to adaptor for further amplification (Illumina®
+      TruSeq Exome Library Prep, USA). All of library preparation were performed in the Cancer
+      Translational Core Facility of Taipei Medical University. After library preparation, all
+      samples were sequenced using the NextSeq500 system according to the manufacturer's
+      instructions (Illumina, San Diego, USA). After sequencing performance, quality of reads file
+      (fastq) was assessed by FastQC and then mapped using human Hg19 as the reference. Bam files
+      were used as input for the Varscan algorithm to identify germline and somatic mutations.
+      Variants annotated and filtered were manually checked using IGV (Integrative Genomics
+      Viewer), then confirmed by Sanger sequence.
+
+      To calculate the TMB (total mutation burden) per megabase, the total number of mutations
+      counted is divided by the size of the coding region of the targeted territory.
+
+      To calculate MATH (mutant-allele tumor heterogeneity), The investigators will first obtain
+      the MAF (the fraction of DNA that shows the mutated allele at a gene locus) of each tumor
+      specimen. The MAF distribution will be used to calculate the median (center of distribution)
+      and the MD (median deviation) of MAFs in a tumor. The MD is determined by obtaining the
+      absolute differences of all MAFs from the median MAF. Then the median of the absolute
+      differences is multiplied by a factor of 1.4826 to obtain the MD. The MATH value is
+      calculated as the percentage ratio of the MD to the median: MATH = (MD/median)×100.
+
+      MSI (Microsatellite instability) Microsatellite instability polymerase chain reaction
+      (MSI-PCR) MSI-PCR testing was performed by the Cancer Translational Core Facility of Taipei
+      Medical University using Promega MSI analysis kit (Promega). The MSI analysis consists of
+      five nearly monomorphic mononucleotide markers (BAT-25, BAT-26, NR- 21, NR-24, and MONO-27)
+      for MSI determination. MSI analysis was performed according to the manufacturer's directions
+      (Promega). Products were analyzed by capillary electrophoresis and the investigators
+      interpreted microsatellite instability at 2 or more of the 5 mononucleotide loci as MSI-high,
+      microsatellite instability at a single mononucleotide locus as MSI-low, and no instability at
+      any of the loci as microsatellite stable (MSS).
+
+      The image features of FDG PET the investigators extracted as followed:
+
+      The traditional image parameters include SUVmax, metabolic tumor volume (MTV) and total
+      lesion glycolysis (TLG) of the primary tumor. The traditional FDG PET parameters were
+      calculated using commercialized software (PBAS, PMOD 4.0). Radiomics (texture analysis) will
+      be calculated only for pre-treatment FDG PET. The matrices of radiomic analysis include
+      histogram analysis, Gray-level co-occurrence matrix (GLCM)、texture feature coding
+      co-occurrence matrix (TFCCM)、gray-level run-length matrix (GLRLM)、gray-level size zone matrix
+      (GLSZM)、neighborhood gray-tone difference matrix (NGTDM)、Texture Feature Coding Matrix
+      (TFCM)、Texture Feature Coding Co-Occurrence Matrix (TFCCM) and Neighbouring Gray Level
+      Dependence Matrix (NGLD).
+    
+  

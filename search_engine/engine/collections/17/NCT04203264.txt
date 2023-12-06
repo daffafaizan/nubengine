@@ -1,0 +1,17 @@
+
+    
+      Magnetically controlled capsule endoscopy (MCE) has been used in clinical practice for
+      gastric examination, with high sensitivity and specificity of 90.4% and 94.7%, respectively.
+
+      Therefore, a real-time auxiliary system based on convolutional neural network deep learning
+      framework was developed to assist clinicians to improve the quality in MCE examinations.
+
+      Patients referred for magnetically controlled capsule endoscopy (MCE) in the participating
+      center were prospectively enrolled. After passage through the esophagus, physician will
+      finish the gastric examination under magnetic steering with the real-time auxiliary system.
+      Professional operators guarantee the integrity of the examination and the diagnostic results
+      of professional endoscopist was used as the gold standard. The system diagnosis results was
+      recorded at the same time. The sensitivity, delay time, specificity of lesions and anatomical
+      landmarks will be analyzed.
+    
+  

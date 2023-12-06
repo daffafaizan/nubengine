@@ -1,0 +1,188 @@
+
+    
+      OBJECTIVE
+
+      Primary:
+
+      ·To evaluate the changes on functioning deriving from a blended intervention merging
+      psychological intervention aimed at increasing activity and exercise with a personalised
+      exercise program based on medical assessment on subjects suffering from mild to moderate
+      depressive symptoms.
+
+      Secondary:
+
+        -  To test the differential effect of the above-mentioned blended exercise program on
+           wellbeing, depressive symptoms and physical activity performance of patients with
+           depressive symptoms, by comparing the three study arms.
+
+        -  To measure wellbeing of patients allocated to the personalised exercise program,
+           compared to the group condition.
+
+        -  To assess and compare antidepressive response within both groups and intra subject at
+           interim visits and final assessment.
+
+        -  To measure effects of a personalised exercise program on exercise capacity and strength.
+
+      Exploratory:
+
+      · To study gender differences concerning all treatment outcome parameters.
+
+      STUDY DESIGN The investigators will conduct a 3-arm randomized controlled clinical trial in
+      which eligible participants will be allocated to one of the following conditions:
+      a)Intervention A: Personalised exercise group program + fitness tracker + IDEApp with
+      motivational messages; b)Intervention B: Personalised exercise group program + fitness
+      tracker + IDEApp without motivational messages; c) Control Group: fitness tracker +IDEApp
+      without motivational messages.
+
+      All participants, regardless of their treatment condition, will be read a short text about
+      the the benefits of regular exercise on mood during the initial clinical interview, in order
+      to make sure that they have listened to this unspecific advice at least once.
+
+      This study seeks to investigate the effects of personalised exercise on top of usual care.
+      All participants will continue receiving naturalistic pharmacological and/or psychological
+      treatment, without any research-related disruption.
+
+      TARGET POPULATION Male and female patients with current depressive symptoms regardless of
+      diagnosis entity.
+
+      SETTING Outpatient mental health centres and General Practice(GP) surgeries belonging to the
+      healthcare network of Hospital del Mar in Barcelona, Spain. Referrals will be made by any
+      general practitioner, nurse, psychologist or psychiatrist treating the patient. Group
+      sessions will be facilitated by a psychologist (Psychology BSc, MSc) and a physiotherapist
+      (Physiotherapy BSc, MSc) who will undertake brief and intuitive therapy training.
+
+      Before any study procedures occur, participants will be informed about the study
+      characteristics, will be provided with a study information leaflet and a written informed
+      consent form must be signed by them. After signing the informed consent, a competent
+      practitioner will confirm or disregard depressive symptomatology, administer the MADRS and
+      judge that the subjects fulfil all the inclusion criteria items and none of the exclusion
+      criteria requirements.
+
+      INTERVENTION The main goal of the intervention is to personalise exercise prescription and
+      enhance motivation towards being physically active. To fulfil our objectives, a collaborative
+      team of psychologists, Physical Medicine and Rehabilitation specialists, and one psychiatrist
+      developed a brief group intervention -the IDEA programme- and an ad-hoc made app to register
+      and store the participants' physical activity, exercise compliance and sleep patterns.
+
+      In the exercise-oriented sessions, participants will be asked to wear sports clothes to
+      practice the individualised exercise prescription on-site and will receive an individual
+      brochure with indications and photographs of their prescription.
+
+      For the implementation of the sessions, the research team developed a guide for the
+      professionals with the content of each session and its dynamics. In the case of the
+      individualised exercise prescription, a pool of exercises was created in order to standardize
+      the potential exercises that will be chosen individually for each participant.
+
+      MOBILE APPLICATION DEVELOPMENT A collaborative team of psychologists, Physical Medicine and
+      Rehabilitation specialists and software engineers developed a user-friendly smartphone
+      application (IDEApp) that can be synchronised to a fitness tracker. The fitness tracker will
+      register and store data regarding physical activity and sleep patterns. IDEApp will collect
+      two types of data: objective and self-informed. Objective data will include the number of
+      daily steps, aerobic exercise -including minutes, distance in metres, maximum, minimum and
+      average heart rate- and sleep structure -including duration in a 24-hour period, deep and
+      light sleep discrimination-. Self-reported data will require participants to simply indicate
+      on IDEApp whether one of three exercise options have been performed: 1) relaxation, 2)
+      stretching, or 3) strength and endurance.
+
+      When non-compliance with the exercise prescription, physical activity decreases, or altered
+      sleep patterns are detected, the system will trigger motivational or awareness messages
+      through the app.
+
+      NUMBER OF SUBJECTS 172 participants with mild to moderate depressive symptoms irrespective of
+      diagnosis entity will complete the study.
+
+      RECRUITMENT The recruitment period will extend over 12 months and all participants will be
+      given away an activity band that will be free to use together with free access to the app
+      after study completion.
+
+      IMPLEMENTATION Allocation and intervention assignment will be automatically generated by the
+      IDEApp web-based platform once participants are registered in the system by study staff.
+      Participants will be enrolled in the trial by a study psychologist after baseline assessment.
+
+      ASSESSMENT Participants will attend the study entry clinical interview and baseline
+      assessment, followed by an evaluation with a physiotherapist to identify their physical needs
+      and capabilities. Such assessments will allow the subsequent prescription of tailored
+      exercise to the intervention groups. After baseline assessment, the study staff will install
+      IDEApp on the smartphone of all participants and provide them with the activity band. In the
+      first week after study entry, all subjects will effectively start using the devices and
+      IDEApp, which will provide estimates of their baseline physical activity and exercise, and up
+      until the end of the trial.
+
+      After group sessions completion (after 1 month for Control Group), every participant will be
+      followed by an eight-month follow-up. Post-allocation assessments following the intervention
+      at 4-weeks (T1) and 12-weeks (T2) will be carried out by telephone. The final assessment at
+      36-weeks (T3) will be carried out face-to-face and will follow a similar outline as the
+      baseline assessment.
+
+      DATA MANAGEMENT Study data will be collected, entered and managed using REDCap electronic
+      data capture tools hosted at Hospital del Mar Medical Research Institute (IMIM). More
+      specifically, data will be collected offline in the REDCap mobile app on an Android tablet
+      and then will be sync back to the project on the REDCap server. A password system will be
+      utilized to control access to data and the activity that researchers may undertake is
+      regulated by the privileges associated with their user identification code.
+
+      STATISTICAL ANALYSIS PLAN FOR PRIMARY AND SECONDARY OUTCOMES Statistical analysis will be
+      performed using the software SPSS Statistics 25. Descriptive statistics will be used to
+      analyse the distribution of socio-demographic and clinical characteristics among groups at
+      baseline. Continuous variables with a normal distribution will be analysed performing an
+      ANOVA. Where the premises of normalcy are not met, the Wilcoxon test will be used. The
+      differences between groups on the categorical and mail clinical variables will be evaluated
+      by using a Chi-square test. Those variables that are statistically significant may be used as
+      covariates for a logistic or linear regression study of the factors associated with the
+      magnitude of the effect, and determine which variables are better predictors of functioning.
+      The effect size index will be estimated in case of correlation indexes for each of the
+      performed analyses. To analyse efficacy the investigators will perform intention to treat
+      analysis. Analysis will be two-tailed and the significance set a p <0.05.
+
+      Last Observation Carried Forward analysis will be used to handle and minimize missing data on
+      the clinical variables.
+
+      ENDPOINTS
+
+      Primary endpoint
+
+      ●Change in psychosocial and occupational functioning of subjects allocated to both the
+      experimental conditions (A+B) versus control condition, as measured by the SF-36 from
+      baseline to week 36 and from baseline to interim visits.
+
+      Secondary endpoints
+
+        -  Improvement in wellbeing of subjects allocated to both the experimental conditions
+           (A+B), as measured by the WHO-5 Well-Being Index (WHO 5 WBI) from baseline to week 36
+           and from baseline to interim visits.
+
+        -  Improvement in depressive symptoms of subjects allocated to both the experimental
+           conditions (A+B), as measured by the Patient Health Questionnaire (PHQ-9) from baseline
+           to week 36 and from baseline to interim visits.
+
+        -  Improvement in current physical activity of subjects allocated to both the experimental
+           conditions (A+B), as measured by the Simple Physical Activity Questionnaire (SIMPAQ)
+           from baseline to week 36 and from baseline to interim visits.
+
+        -  Change in functional exercise capacity using the 6-minutes walking test (6MWT) from
+           baseline to week 36 in subjects receiving experimental conditions (A+B) of personalised
+           exercise prescription versus control condition. The change in the distance walked in the
+           6MWT after completion of the program will be used to evaluate the effectiveness of the
+           personalised exercise program. For the evaluation of dyspnea and subjective fatigue, the
+           short Borg CR 10 Scale will be used before and after the test.
+
+        -  Change in functional exercise capacity using the 1-min STS test from baseline to week 36
+           in subjects receiving experimental conditions (A+B) of personalised exercise
+           prescription versus control condition.
+
+        -  Change in isometric muscle strength of the hand and the forearm using the handgrip
+           strength test from baseline to week 36 in subjects receiving experimental conditions
+           (A+B)of personalised exercise prescription versus control condition. The equipment used
+           will be a Jamar Plus+ digital hand dynamometer, grip strength will be measured 3 times
+           per hand in the 2-handle position.
+
+        -  Proportion of participants allocated to the experimental conditions (A+B) presenting
+           better commitment to prescribed personalised exercise plans -understood as more than a
+           70% compliance of prescribed exercise-measured by objective activity data recorded by
+           the smartband-at follow-up visits.
+
+        -  Change in physical activity and enhancement of a healthier lifestyle-as measured by
+           activity and sleep objective data provided by a smartband and an ad-hoc-designed app-
+           from baseline to week 36.
+    
+  

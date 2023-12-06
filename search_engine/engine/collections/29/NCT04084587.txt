@@ -1,0 +1,124 @@
+
+    
+      Study typology:
+
+      prospective, non-randomized, monocentric, comparative study. There is no agreement between
+      promoter and clinical center. There is no agreement between promoter and financier: the study
+      has no funding.
+
+      Background:
+
+      The Retimax Vision Trainer is an innovative method that aims to increase visual function in
+      patients with eye diseases of various origins and nature, allowing the patient to exploit and
+      optimize their residual visual potential. It is aimed at patients with visual impairments of
+      different origins and severity, such as campimetric deficits, low vision of central origin,
+      degenerative retinal diseases, amblyopia.
+
+      It consists of a device for recording bioelectrical responses evoked during the perception of
+      structured visual stimuli and the control of the same by the patient through a sound
+      biofeedback mechanism. This results in an increase in visual capacity, exploiting neuronal
+      plasticity through the activation of alternative neuronal circuits. The device has already
+      been used in clinical practice at the AOU Modena for about a year precisely with the
+      indication of rehabilitation in the visually impaired patients: therefore the current
+      indication includes that of the study in question. Subjects with central low vision, such as
+      those with advanced AMD, tend to develop independently an eccentric fixation area (PRL or
+      Preferred Retinal Locus) which is generally found on the horizontal meridian of the fovea,
+      mainly on the interpapillo-macular beam.
+
+      However, this situation represents an obstacle because it does not allow a continuous vision,
+      for example preventing reading and writing which would require a strip of healthy retinal
+      tissue long enough to allow the simultaneous viewing of at least 10-12 words.
+
+      For this reason patients suffering from central hypovision can benefit from rehabilitative
+      programs with bio-feedback mechanism that teach to move the eye to translate the PRL from the
+      central degenerated area to an adjacent healthy area large enough to allow reading / writing
+      . This leads to the formation of a TRL, Trained Retinal Locus, which is generally found in
+      the upper parafoveal area (projected in the lower part of the visual field to be more
+      functional for daily activities such as, for example, reading).
+
+      The most widespread rehabilitation method is stimulation with bio feedback. Each
+      rehabilitation cycle is customized but generally involves twice-a-week sessions in the first
+      five weeks for the creation of the TRL followed by maintenance sessions on a fortnightly
+      basis. At the end of the rehabilitation period it is always advisable to send the patient to
+      the test of the most appropriate aids. Rehabilitation sessions are performed only on the eye
+      with better visual acuity since binocular fixation is determined by the eye with better
+      vision than by the dominant eye.
+
+      Purpose:
+
+      The purpose of the study is to evaluate the effectiveness of rehabilitation through acoustic
+      biofeedback with Retimax Vision Trainer in patients with low vision suffering from
+      age-related macular degeneration in the advanced phase, in order to demonstrate the positive
+      effect that this treatment has on far and near vision, on the contrast sensitivity, on the
+      reading speed, on the ability to fix and on the overall quality of life of the patient. We
+      will therefore try to highlight the quantitative variation of these parameters between pre
+      and post rehabilitation by comparing two groups of patients, one subjected to rehabilitation
+      and one not and we will try to understand if this variation is significant.
+
+      Group A: 15 patients rehabilitated with Retimax Vision Trainer, 10 consecutive sessions of 8
+      minutes each, performed twice a week in the best eye.
+
+      Group B: 15 patients control group without rehabilitation.
+
+      Given the need for constancy and collaboration on the part of the patient, these are
+      allocated to the group of treated or to the controls based on the fact that they declare
+      themselves more or less available: patients who have transport problems, who live farther
+      away or who in any case they cannot guarantee their presence twice a week, they are allocated
+      to the control group.
+
+      Materials and methods:
+
+      Patients will be enrolled during visits to the maculopathy outpatient clinic that follows
+      patients at the end of the cycle for intravitreal injections with anti-VEGF. The enrolled
+      maculopathies are atrophic, therefore in the study there will be both patients with advanced
+      forms of maculopathy who have exhausted the role of anti-VEGF, but also patients with pure
+      atrophic forms who have never performed intravitreal. Therefore, enrollment is independent of
+      the administration of anti-VEGF.
+
+      It will be proposed to participate in the study, providing the information sheet and holding
+      an interview explaining the importance of consistency in rehabilitation sessions and what the
+      method consists of. Subsequently consent will be collected. At the signing of the consent,
+      personal data will be collected. The patient will be told that he will be contacted by
+      telephone in the following days to fix the date of the first pre-treatment visit.
+
+      Exams performed before and after treatment:
+
+        -  BCVA (ETDRS)
+
+        -  Reading speed (MNREAD)
+
+        -  Contrast sensitivity (Pelli-Robson)
+
+        -  Microperimetry and analysis of fixation (OCT-SLO OPTOS)
+
+        -  QoL (VFQ-25)
+
+      After the visit, the patient will be contacted by the orthoptists to fix the 10
+      rehabilitation sessions with Retimax, twice a week. At the end a final post-treatment visit
+      will be repeated, repeating all the exams. At this point we will proceed with statistical
+      analysis, with the help of a biostatisticist, to evaluate the effectiveness of visual
+      rehabilitation.
+
+      Statistic analysis The study data are extrapolated from each patient and divided into pre and
+      post-treatment.
+
+      The pre-treatment value and the post-treatment value of each single parameter for each
+      individual patient will be compared with each other trying to demonstrate the improvement and
+      the significance of the variation.
+
+      For statistical calculations we will use the software R: A language and environment for
+      statistical computing, version 3.3.3, R Foundation for Statistical Computing, Vienna, Austria
+      (http://www.R-project.org/) with the collaboration of a biostatistics expert.
+
+      Given the non-normal distribution verified with the Shapiro-Wilk test and the low number, the
+      pre and post treatment values will be compared with the One-sided Wilcoxon Signed Rank Test
+
+      Expected results:
+
+        -  Improvement of fixation capacity and microperimetry
+
+        -  Improvement of visual acuity, reading speed and contrast sensitivity
+
+        -  Improvement of sight quality
+    
+  

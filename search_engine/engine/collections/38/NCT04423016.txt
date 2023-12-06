@@ -1,0 +1,48 @@
+
+    
+      The transitional period, defined as the first 72 hours after preterm birth, is often
+      characterized by a significant hemodynamic instability and may also be associated with an
+      impairment of cerebral autoregulation, with relevant clinical implications. The moving
+      correlation coefficient between cerebral oxygenation and heart rate, also defined as TOHRx,
+      has been previously proposed as a marker of cerebrovascular reactivity and provides an
+      indirect estimation of cerebral autoregulation in preterm infants.
+
+      This prospective observational study aims to evaluate whether different antenatal, perinatal,
+      and postnatal factors may influence cerebrovascular reactivity in very preterm infants during
+      the transitional period.
+
+      Infants <32 weeks' gestation are enrolled within 12h from birth. A simultaneous monitoring of
+      cerebral oxygenation (CrSO2) by near-infrared spectroscopy and of heart rate (HR) by pulse
+      oximetry and electrical velocimetry is performed continuously over the first 72h.
+
+      The moving correlation coefficient between CrSO2 and HR is calculated using the ICM+ software
+      (Cambridge Enterprise Ltd) using 5-min, 30-point epochs. Time periods with evidence of major
+      artefacts, or with a missing data proportion >50% are excluded from this calculation.
+      Positive TOHRx values will be interpreted as markers of impaired autoregulation.
+
+      A screening echocardiogram is routinely performed at the time of enrollment and repeated 6-12
+      hourly in the presence of a patent ductus arteriosus (PDA) or 12-24 hourly if there is no
+      evidence of PDA. Based on echocardiographic features, the ductal status is classified as
+      follows: no evidence of PDA, restrictive PDA (restrictive shunt pattern and left atrium to
+      aortic root ratio [LA:Ao] ratio <1.5), hemodynamically significant PDA (pulsatile shunt
+      pattern, LA:Ao ratio ≥1.5 or presence of reversed end-diastolic flow either in the descending
+      aorta or in the anterior cerebral artery).
+
+      A concomitant cerebral ultrasound scan, aimed at evaluating brain parenchyma and the
+      occurrence of prematurity-related complications, such as intraventricular hemorrhage, is also
+      performed.
+
+      During the study period, the following antenatal and neonatal data are tracked down on a
+      specific case report form: gestational age (GA); birth weight (BW); non-invasive blood
+      pressure; antenatal steroids (complete course vs. incomplete course or not given); evidence
+      of reversed end-diastolic flow at antenatal umbilical Doppler (uREDF) (present vs. absent);
+      ventilatory status over the first 72 hours of life (mechanical ventilation, continuous
+      positive airway pressure [CPAP], nasal cannulas or self-ventilating in air [SVIA]);
+      surfactant administration; development of IVH over the first 72 hours of life; ongoing
+      inotropes (dopamine, dobutamine or both).
+
+      The correlation between antenatal, perinatal, and postnatal clinical variables and TOHRx is
+      going to be evaluated using generalized linear mixed models or generalized estimating
+      equations.
+    
+  

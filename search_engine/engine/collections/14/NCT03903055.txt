@@ -1,0 +1,52 @@
+
+    
+      (1) Study population(included in the standard): 120 patients(aged 16 to 80 years) who met the
+      MDS diagnostic criteria in the hematology department and outpatient clinics of the four
+      cooperative hospitals after June 2019. The diagnostic criteria refer to the WHO diagnosis of
+      the 2016 MDS. New classification; The prognosis score was based on the 2012 MDS revised
+      IPSS-R prognostic integral system.In control group, 5 patients with initial acute myeloid
+      leukemia(AML-M2a) and 5 healthy human bone marrow donation volunteers. Understand the purpose
+      of this study and sign an informed consent form.
+
+      2) Clinical information collection: medical history collection of selected patients, Routine
+      clinical tests(including peripheral blood count, serum ferritin, VitB12, folic acid, EPO
+      levels, bone marrow smears and bone marrow biopsies, bone marrow flow cytometry, bone marrow
+      cytogenetics, etc.) and follow-up and efficacy observations, The clinical indicators,
+      efficacy and prognosis of the patient and the possible related genes detected were
+      systematically analyzed.
+
+      (3) Research methods: The bone marrow specimens collected will be extracted according to the
+      RAN-seq operating process, and the total RNA, quality test, and cDNA library of each sample
+      cell will be extracted, 30 Million reads per sample, and Ilumina X10 PE150 will be sequenced,
+      sequencing depth 9G clear Data. After the sequencing data is tested and passed, the original
+      sequencing data is pre-processed: the raw data of the sequencing machine is qualitatively
+      controlled, the sequencing fragments with the sequencing connector are removed, and the
+      low-quality, fuzzy N bases, riboomeRNA are removed. Sequencing fragments with a length of
+      less than 20, etc.; Transcription of sequencing data: genomic alignment of preprocessed reads
+      and post-comparison quality control.
+
+      Gene Expression Level Analysis: Gene Expression Level Quantification, Gene Expression Level
+      Distribution, Biological Duplication Correlation Analysis, Intersample Level Clustering and
+      PCA Analysis.
+
+      Differential Expression Gene Analysis:
+
+      The GO enrichment and signal pathway enrichment of different genes were analyzed, and the
+      genes specifically raised or decreased between normal samples, AML samples, and MDS patient
+      samples(including various MDS subtypes) were compared. Prediction of molecular level events
+      associated with these differential gene changes(signal pathway activation or inhibition), and
+      search for differential genes that can represent disease processes.
+
+      (4) Data management and statistics: All clinical information data are collected and entered
+      into the computer. All data are entered using the database established by the Clinical
+      Evaluation and Analysis Center of the unit. Data processing statisticians finally further
+      fully verify and check the completeness and accuracy of data before data entry. Data entry
+      and management by the person responsible for the establishment of a dedicated database, data
+      entry and management should be entered and proofread by two data managers. After completion,
+      SPSS 19.0 for Windows statistics software package is used for statistical processing.
+
+      After the completion of clinical information data statistics and sequencing analysis results,
+      the computer's "in-depth learning" function was used to complete the establishment of two
+      "standards" and one "scheme" using analysis tools such as rMATS and SURVIV.
+    
+  

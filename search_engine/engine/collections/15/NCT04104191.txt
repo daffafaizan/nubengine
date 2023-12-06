@@ -1,0 +1,22 @@
+
+    
+      LIVMOR is developing a series of wearable medical device systems intended to promote general
+      wellness and help subjects and physicians manage various diseases that can benefit from
+      increased visibility of physical activity, sleep, weight, blood pressure, stress/recovery
+      levels and cardiac rhythms.
+
+      Data from human subjects is necessary to develop and validate LIVMOR devices. LIVMOR
+      completed a multicenter, IDE Exempt Study to generate a library of device-specific signals
+      collected non-invasively using components of the LIVMOR system and simultaneously acquired
+      with ECG Holter data using a commercially available Holter monitor. Data from the analysis of
+      the Holter monitor was adjudicated by physicians skilled in the analysis and interpretation
+      of ECGs compared to the analysis from the LIVMOR AF Detection Algorithm to establish the
+      sensitivity and specificity of the algorithm for detection of AF in comparison to ground
+      truth.
+
+      The study was not designed to evaluate specific hypotheses or endpoint, rather it was
+      intended for data collection purposes to generate a library of raw clinical data that were
+      retrospectively used for the development and subsequently the validation of the L-1000AF
+      System.
+    
+  

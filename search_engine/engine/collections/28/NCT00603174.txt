@@ -1,0 +1,106 @@
+
+    
+      Research Design and Methods
+
+      Aim: To demonstrate the feasibility and efficacy of delivering NAVA in an intubated infant
+      with the Servoi ventilator.
+
+      Measurements: All ventilatory and EAdi parameters will be stored in a laptop computer
+      connected to the ventilator. SAO2 will be measured via pulse oximetry with a probe placed on
+      one of the infant's extremities. End Tidal PCO2 measurements will also be made via probe
+      placed on the Y piece of the respirator circuit.
+
+      General protocol sequence:
+
+        -  All patients in the PICU at HSJ screened daily for eligibility
+
+        -  Eligible cases reviewed with attending team and study team
+
+        -  Informed consent obtained from parents or guardian
+
+        -  Change to Servoi ventilator (conventional settings)
+
+        -  Nasogastric tube replacement
+
+        -  Monitor EAdi during conventional settings
+
+        -  Adjust PEEP to minimize tonic activity
+
+        -  NAVA level titration
+
+        -  Application of NAVA for 12 hours with the titrated settings of PEEP and NAVA level.
+
+        -  Return to conventional ventilator settings on servoi and monitor for 1 hour
+
+      NAVA for 12 hours Following the titration of PEEP and the NAVA level, the infant will be
+      ventilated on NAVA with the titrated levels. The following will be monitored and recorded for
+      20 min at 1 hour intervals: Phasic EAdi, tonic EAdi, tidal volume, ventilator-delivered
+      pressure, respiratory rate, oxygen saturation, end tidal PCO2, and heart rate.
+
+      The NAVA level and PEEP levels can be adjusted throughout the study period, and is based on
+      clinical judgment (as they would routinely do for a conventional mode). Following any new
+      setting, the 12 hour period will continue with those new settings. Following the end of this
+      12th hour of NAVA, the feeding tube with the sensors will remain in place for feeding the
+      patient as per ICU protocol.
+
+      Protocol termination criteria: If the infant demonstrates a sustained change in any of the
+      following, the protocol will be terminated:
+
+        -  Sustained decrease in SaO2 < 92% requiring increase in FIO2 > 60%
+
+        -  End tidal PCO2 > 60 mm Hg requiring progressive increases in the NAVA level,
+
+        -  Sustained increase in heart rate>180 bpm during 15 min,
+
+        -  Sustained increase in respiratory rate>60 bpm during 15 min,
+
+        -  Uncontrolled agitation judged by the attending physician
+
+      Monitoring during conventional ventilation after discontinuation of NAVA (1 hour):
+
+      In order to compare NAVA to conventional ventilation, monitoring will be continued with
+      conventional settings on the Servoi ventilator for 1 hour. The following will be monitored
+      and recorded at 20 min intervals: Phasic EAdi, tonic EAdi, tidal volume, respiratory rate,
+      saturation, CO2, HR. Following this, the baby will be returned to the ventilator and settings
+      determined by the clinical team.
+
+      Primary outcomes:
+
+        -  Patient-ventilator synchrony (trigger delays, cycling-off delays (Beck 2007))
+
+      Secondary outcomes:
+
+        -  Phasic EAdi
+
+        -  Tonic EAdi
+
+        -  tidal volume, airway pressure, respiratory rate
+
+        -  SAO2, End Tidal PCO2, FIO2 Number of times back-up rate started (per hour)
+
+        -  Number of PEEP or NAVA level adjustments
+
+      Analysis and statistics
+
+      NAVA level titration: A continuous analysis will be performed breath-by-breath for phasic
+      EAdi, ventilator-delivered pressure, respiratory rate and tidal volume. These values will be
+      plotted versus the NAVA level. The NAVA level at the inflection point will be compared to the
+      NAVA level initially used to match the conventional ventilation settings.
+
+      NAVA for 12 hours: EAdi signals will be processed automatically by the ventilator with
+      standardized automated algorithms that have been implemented in to the Servoi. Phasic and
+      tonic EAdi, as well as the ventilatory parameters (Vt, rr, SAO2, CO2) will be quantified
+      breath-by breath and the last 20 min of each hour will be analyzed.
+
+      IN order to compare patient-ventilator synchrony between NAVA vs Conventional ventilation,
+      trigger delays and cycling-off delays will be compared for each subject between the 2 modes.
+      Paired t-tests will be used for this comparison.
+
+      Repeated measures ANOVA will be used to verify significant changes in variables over the
+      twelve hour intervention period. The impact of PEEP on tonic diaphragm activity and the
+      impact of NAVA level on tidal volume, pressures, and phasic diaphragm activity will also be
+      compared by RM ANOVA.
+
+      Sample size determination: This is a case study and we will include 5 infants.
+    
+  

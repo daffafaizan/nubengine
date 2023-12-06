@@ -1,0 +1,74 @@
+
+    
+      Periprosthetic hip infections are an hot topic in orthopedic surgery, whose incidence is
+      about 1%. The morbidity, mortality and additional costs associated with prolonged
+      hospitalization and further treatments are the main concerns. Periprosthetic infections are
+      generally diagnosed using the CDC (Center for Disease Control and Prevention) criteria
+      (2014). The diagnosis is based on major and minor criteria, including pre-operative and
+      intra-operative parameters. In order to achieve a reliable diagnosis of infection, when
+      fistula are not present, synovial fluid aspiration or tissue samples are required. However,
+      these techniques are expensive and invasive. Moreover, sensitivity is not always so accurate,
+      as shown by some series of revision surgeries performed for presumed aseptic loosening, which
+      turned out to be septic after cultures. Therefore, diagnosis of infection often occurs late
+      and after a long, complex, expensive and not always decisive diagnostic workup, impacting on
+      the timing and success of the treatment.
+
+      A practical, rapid, reliable and non-invasive (possibly outpatient) diagnostic procedure for
+      periprosthetic infections would be desirable. It may rely on diagnostic imaging, limiting the
+      collection of liquid or tissues to doubtful cases. Currently, CT and nuclear medicine imaging
+      techniques are not routinely adopted in the diagnosis of infection, due to the modest
+      reliability, costs and exposure to radiant agents.
+
+      Recently, neural networks have been introduced: they consist of many simple parallel
+      processors, deeply connected, realizing a computational model. Neural networks mimic brain
+      and its ability to learn. Computational models recognize of visual signals, manage complex
+      situations in real time, classify and manage noise, use associative memory with real-time
+      access to large amounts of data and reconstruct partial or corrupted information. Neural
+      networks have been already used to predict the onset of infections, metastases and treatment
+      failures, integrating clinical and diagnostic imaging data. To date, no studies about neural
+      networks in periprosthetic infection have been conducted. The purpose of this study is to
+      evaluate whether neural networks (cellular neural networks-genetic algorithm), applied to
+      conventional radiographies, are accurate, sensitive and specific for the early-discrimination
+      of a periprosthetic hip infection, already diagnosed with well-recognized methods (CDC 2014).
+
+      Specifically, a population of patients, with a complete radiographic history (pre-operative
+      X-rays and a series of other post-operative X-rays), treated for septic or aseptic loosening,
+      is selected.
+
+      Both cases are necessary to "instruct" a neural network. The first step consists in
+      identifying a consecutive series of patients with septic or aseptic loosening diagnosis,
+      consulting the hospital database. Thus, patients are categorically divided into septic, or
+      aseptic, loosening. The 2014 CDC criteria are used (as routinely performed in the clinical
+      setting), adding another major and necessary criterion: at least 3 positive intraoperative
+      tissue samples (same micro-organism). In case of aseptic loosening, the case must not meet
+      the CDC 2014 criteria. Thus, the imaging and clinical data of the patients are collected.
+      Having ascertained the diagnosis, the radiographic material is processed (cellular neural
+      networks-genetic algorithm). The proposed procedure processes the radiographic images using
+      the following pipeline and the MatLab software (Mathworks, Natick, US):
+
+        -  baseline: the first post-implant image is compared to the pre-implant radiographic
+           image;
+
+        -  progresses are recorded by periodical radiographs using standard and repeatable
+           projections (pelvis X-rays);
+
+        -  the features are extracted from each image, in the manually segmented area (region of
+           interest - ROI). Three steps take place: 1) image pre-processing, to create uniform
+           frameworks of input data (gray-level images). Color Histogram Equalization; 2) features
+           extracted from neural networks are applied to ROI. Cloning templates using genetic
+           algorithms. The features will be processed by a fully connected layer + SoftMax; 3)
+           features extracted from AutoEconder with fully-connected layer + SoftMax;
+
+        -  analysis of differential radiographic features (analysis of cellular and convolutive
+           sides) and comparison to the baseline. Post-processing in the following way: 1)
+           fully-connected regression layer and multiclass classifier: will produce the percentage
+           of septic progression risk; 2) fully-connected regression layer and binary classifier:
+           features in the septic / aseptic clusters;
+
+        -  a final decision tree: fusion of the above-mentioned data, providing a percentage of
+           septic progression risk at the indexed imaging. The aim is to verify whether the neural
+           networks applied to radiographic imaging can accurately, sensitively and specifically
+           recognize a late, chronic periprosthetic hip infection diagnosed according to validated
+           and certain criteria.
+    
+  

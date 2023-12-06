@@ -1,0 +1,69 @@
+
+    
+      The study population in this clinical trial will be patients with moderate to severe stroke
+      undergoing further stroke rehabilitation by returning regularly to the Day Rehabilitation
+      Center (on an out-patient basis) of the Rehabilitation Unit at Tung Wah Hospital (TWH). The
+      TWH Rehabilitation Unit, Sheung Wan, Hong Kong has been selected as the study site because it
+      serves a major urban area in Hong Kong. TWH is a medical teaching hospital, patient medical
+      care is standardized and a comprehensive set of records is compiled during stroke
+      rehabilitation. Around 500 patients with acute stroke are admitted annually to the
+      Rehabilitation Unit. The majority of the patients are stabilized (for up to 7 days) at Queen
+      Mary Hospital, a major teaching hospital for treating acute medical conditions, prior to
+      admission to the Rehabilitation Unit. On admission to the Rehabilitation Unit, each stroke
+      patient undergoes a comprehensive medical assessment that includes a functional disability
+      assessment using the modified Barthel Index and a rehabilitation programme is formulated.
+      Following hospital discharge, patients requiring further rehabilitation return regularly to
+      the Day Rehabilitation Center on an out-patient basis. Stroke patients deemed fit for
+      discharge from the Rehabilitation Unit will be invited to participate in the study in
+      accordance with the inclusion & exclusion criteria.
+
+      The key outcome variable of this clinical trial is the dental plaque level (the key reservoir
+      for oral pathogens). In a previous observational study we conducted among stroke survivors,
+      the mean PI score was 2.1 (standard deviation [SD]=0.51) at discharge and 1.9 (SD=0.56) at 6
+      months, yielding a change score of 0.21 (SD=0.46). On the basis of this study, and proposing
+      a difference in plaque change scores of at least 0.3 between baseline to follow-up (and also
+      between groups) and with the standard deviation set at 0.46, then the number of study
+      subjects that would be required is 38 per group, based on 80% power and the statistical
+      significance level set at 0.05. Anticipating a 20% dropout rate over the course of the
+      clinical trial, the initial sample size for each treatment group is proposed as 47 patients
+      per group (94 subjects in total).
+
+      Assessments of clinical oral health status, presence of oral opportunistic pathogens and
+      subjective oral health were conducted at baseline, 3 month and 6 month. All assessments were
+      performed in the TWH Day Rehabilitation Center. Compliance was also assessed. Data will be
+      stored on a computer (and backed up on a compact disc) in the Faculty of Dentistry, The
+      University of Hong Kong. Professor Colman McGrath (Principle Investigator) will be
+      responsible for its safekeeping. All data will be kept until analyses have been performed and
+      all research manuscripts have been accepted for publication. The data will then be destroyed.
+
+      The statistics software packages SPSS 21 for Windows (SPSS Inc., Chicago, USA) and STATA 13.0
+      for Windows (IBM) were used in all statistical tests. Both per-protocol (PP) and
+      intention-to-treat (ITT) analyses was employed for both primary and secondary outcomes. In
+      bivariate analyses, within and between groups comparisons were made over the clinical trial
+      period. When the outcome variables were continuous and followed a normal distribution, paired
+      t test for related samples were performed to determine significant differences over time.
+      Student t-test for independent samples was performed to compare the mean of the outcomes
+      between intervention groups at baseline and follow-up review. When the outcome variables were
+      continuous but did not follow a normal distribution as detected by normality test, Wilcoxon
+      Signed Rank test (a non-parametric equivalence of the paired t test for related samples) was
+      performed to determine significant differences over time. Mann Whitney U test (a
+      non-parametric equivalence of the t test for independent samples) was employed to compare
+      difference in the rank of outcomes between intervention groups at baseline and follow-up.
+      When the outcome variables were categorical, McNemar test were performed to identify changes
+      in prevalence over time and Chi-square test was employed to compare variations in prevalence
+      between intervention groups at baseline and follow up.
+
+      Regression analyses were employed to address the effect of potential explanatory factors for
+      outcomes. When conducting the regression analysis, method of Last Observation Carried Forward
+      (LOCF) was employed to deal with missing outcomes at follow-up reviews. Linear regression was
+      adopted when the dependent variables were continuous and residuals of the regression followed
+      a normal distribution. Negative binomial regression was adopted when the continuous dependent
+      variables had over-dispersed count data. Logistic regression was adopted when the dependent
+      variables were binary. Since the effect of intervention on the outcomes was of our core
+      interest, the model fitting adopted a forward-wald method with the factor of intervention
+      fixed in the model and one of the other explanatory factors added into the model each time.
+      Each time the coefficient of the independent variables with the smallest significant p value
+      (significance level p<0.05) was entered into the regression model. The model fitting process
+      was repeated again until no more independent variable had significant p values.
+    
+  

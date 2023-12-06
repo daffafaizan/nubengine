@@ -1,0 +1,32 @@
+
+    
+      Anemia in patients on hemodialysis (HD ) is common and although usually responds well to
+      treatment with Erythropoiesis Stimulating Agents (ESAs ) , this dosage , based on different
+      clinical protocols , often ignores the high variability inter- and intra -individual in
+      patient response . The result leads to swings in the objective by different dosage range that
+      is associated with multiple risks and side effects. There are artificial intelligence-based
+      optimization methods that predict treatment with ESAs in maintaining patient hemoglobin
+      target range . So far the model has been validated for the long half-life of EPO (
+      darbepoetin ) with promising results.
+
+      HYPOTHESIS: Maintaining patients in Hb levels ESAs range using short half-life , avoid the
+      one hand , the need for transfusions and, secondly , the levels exceeding the upper range (
+      overshooting ), preventing the onset of a increased cardiovascular risk events.
+
+      RELEVANCE:The results allow us to validate the model with short half-life ESAs optimizing the
+      management of anemia and improving comorbidity associated with overdosage.
+
+      SUMMARY:
+
+      Prospective observational study of paired data. Data obtained from the data base Euclid .
+      Data will be collected by clinical teams according to standard clinical practice. Informed at
+      the time of admission to the clinic consent will be obtained . All patient data including to
+      november 15th 2014 and who have completed the study period to 30 april 2015. The results will
+      be compared with those prior to the patient's inclusion in the study were processed.
+
+      To detect a difference of 10% in the percentage of patients in the hemoglobin target range
+      after intervention (from 70% to 80%) we will need a minimum sample size of 268 patients
+      assuming an alpha error of 0.05, a beta error of 0.2 and a correlation between both
+      observations of 0.1.
+    
+  

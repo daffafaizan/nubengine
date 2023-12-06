@@ -1,0 +1,22 @@
+
+    
+      All data entered into the registry documenting the patient cohort characteristics (disease,
+      demography, therapy) are analyzed using descriptive statistics. Survival data are analyzed
+      with Kaplan-Meier statistics. Multivariate Cox Proportional Hazard Models are used to
+      identify potential prognostic and predictive factors. In particular, a risk- adjusted
+      comparison of the outcome criteria with a propensity score is planned.
+
+      The data are stored in a SQL-based online database. Patient data are pseudoanonymized. The
+      registry has received approval of the data protection officer of the State of
+      Northrhine-Westphalia.
+
+      The study steering committee is blinded towards the identity of the participating
+      institutions. Each participating institution receives an annual report with own data vs.
+      benchmark. Scientific analysis can be proposed by the steering committee, by a participating
+      institution or by other scientists, subjected to the approval of the independent scientific
+      advisory board.
+
+      An export function has been built in to allow data exchange with the HIPEC Registry of the
+      German Society for General and GI surgery (http://www.dgav.de/studoq/studoqhipec.html).
+    
+  

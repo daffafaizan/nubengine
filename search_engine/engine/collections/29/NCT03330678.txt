@@ -1,0 +1,67 @@
+
+    
+      Study Subjects The study included 14 healthy non-pregnant women. All subjects provided a
+      written informed consent. The subjects had to (i) be free of systemic (diabetes, autoimmune
+      disease, cancer), gastrointestinal or liver diseases that are known to be associated with
+      alterations in intestinal flora, (ii) be non-obese (body mass index in the range of 20 to 25
+      Kg/m2), and (iii) not have taken any anti-microbial agent, probiotics, gastric acid
+      suppressant drugs or drugs that alter gastrointestinal motility, in the previous 6 weeks.
+
+      Study design Each subject was studied at 3 time points: (i) baseline (enrolment), (ii) after
+      administration of a probiotic in usual dose for four weeks, and (iii) four weeks after
+      discontinuation of probiotic administration. Each subject received Cap VSL#3, 2 capsules
+      daily (each capsule contains 112.5 billion bacteria -- a mixture of 8 bacteria --
+      Streptococcus thermophilus, Bifido-bacterium breve, Bifidobacterium longum, Bifidobacterium
+      infantis, Lactobacillus acidophilus, Lactobacillus plantarum, Lactobacillus paracasei, and
+      Lactobacillus delbrueckii). At each time point, gut microbiota profile and immune responses
+      were studied.
+
+      Metagenomic study for analysis of gut flora Analysis for identification and profiling of gut
+      microflora was done using sequencing of V3 region of the 16S ribosomal ribonucleic acid gene.
+      This gene contains nine variable regions ﬂanked by conserved stretches in all bacteria.
+      Amplification and sequencing of any hypervariable region using specific primers can be used
+      to determine the nature of the bacterium (phylum, family, genus, species, etc). The most
+      widely used regions are V3, V4 and V6; we used V3 region, due to its higher taxonomic
+      resolution.
+
+      Stool specimen were collected from subjects at 3 time points as indicated above by asking the
+      subject to pass stool into a clean sterile receptacle; the receptacle was immediately frozen
+      and transported to the laboratory. DNA was isolated from each specimen using standard
+      protocols, quantified, normalised and stored frozen until further use.
+
+      Polymerase chain reaction amplification of V3 region was done. Gel-purified amplicons (with
+      different adapter sequences so that data for each sample can be separated at analysis stage)
+      were quantified, normalised and pooled in equimolar quantities (multiplexing). The
+      multiplexed library was subjected to quality control using an Agilent Bioanalyser DNA Chip.
+
+      The sequencing library containing V3 amplicons from an equi-amount mixture of various
+      clinical samples was sequenced using an Illumina machine in both directions. The sequence
+      reads were binned according to index sequences, subjected to quality control and sequences in
+      the two directions were fused together to obtain a single read. The sequence data were
+      analysed to determine the profile of gut flora.
+
+      Immunological studies Collection of blood specimens Venous blood (6 ml) was collected in
+      lithium heparin/EDTA, at (i) baseline (before starting probiotic administration), (ii) at the
+      end of probiotic treatment (at 4 weeks), and (iii) at 4 weeks after discontinuation of
+      probiotic intake. From 2.5 ml of blood, plasma was separated and stored at -70 degree
+      centigrade. The remaining heparinized blood was used for whole blood culture and for
+      measurement of frequencies of Th17 and Treg cells.
+
+      Heparinized blood was used and anti-CD28 (1 ug/ml) for stimulation of T cells and
+      lipopolysaccharide for stimulation of macrophages, in separate wells. Culture supernatants
+      were harvested after 72 hours and stored at -70 degree centigrade. Levels of cytokines
+      (TNF-alpha, IL-10, IFN-gamma, IL-12p70, IL-6 and IL-4) were measured in culture supernatant
+      and plasma using sandwich ELISAs.
+
+      Th1, Th2 and Th17 frequencies were determined by stimulation of whole blood with PMA and
+      ionomycin, followed by staining of cells for CD4 and intracellular IFN, IL-4 and IL-1L-17.
+      For Treg enumeration, dual staining for CD4 and Fox-P3 was done.
+
+      Ethics considerations The study involves administration of probiotics to healthy subjects.
+      However, these contain bacteria that are a part of the normal gut flora in healthy persons
+      and hence free of any adverse events. In fact, several healthy persons consume these as
+      'health supplements'. Hence, the administration of these agents should not carry more than
+      minimal risk. The only specimens proposed to be collected are stool specimens and small
+      volumes of blood. No clinical outcomes was collected.
+    
+  

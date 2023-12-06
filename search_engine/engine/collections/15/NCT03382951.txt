@@ -1,0 +1,111 @@
+
+    
+      Screen media use and TV viewing has been linked to child obesity through epidemiologic and
+      randomized controlled intervention studies, resulting in excess TV viewing becoming a public
+      health concern. Higher amounts of TV viewing among children have also been associated with
+      decreased fitness and higher risk of metabolic syndrome. While TV viewing has often been used
+      as a marker of sedentary behavior, it has been distinguished from inactivity (or lack of
+      physical activity (PA)), by a meta-analyses that found only a small negative (-0.13) effect
+      size between children's TV viewing and PA. A major limitation of the meta-analyses was most
+      included studies relied on parent or self-report of screen viewing behaviors, potentially
+      introducing errors and under or overestimating the true effect size. Screen media use and TV
+      viewing is a common sedentary behavior among children, and accurate assessment of screen use
+      is important to characterize the role it plays in children's overall sedentary behaviors.
+      Accurate assessment of screen media use and TV viewing is also needed to delineate the causal
+      pathways that screen use plays in children's physical activity, development of obesity, and
+      other health outcomes.
+
+      Substantial problems and limitations have been identified in the current available measures
+      of TV viewing, which reduces the likelihood of "high quality exposure assessment" of screen
+      use. The most commonly used measure, child self-report or parent-report to estimate the
+      minutes of TV viewing in a typical day has low correlation (0.27) with home
+      video-observations. The current gold standard method to measure children's TV viewing, direct
+      or video recorded observation, is too expensive and intrusive for most field studies. In
+      addition, it may cause privacy concerns for participants and requires additional costs of
+      coding the video recordings at a later time. TV diaries had higher correlations with home
+      video recording (r=0.84) than parent estimates, but are very burdensome requiring
+      documentation of child activity every 15 min for several days, which may introduce systematic
+      errors. Lastly, children's TV viewing behaviors are quickly changing and many children now
+      view TV shows and movies on other screen devices, such as smartphones and mobile tablets
+      (e.g. iPads or Kindles). In summary, the current ability to measure and monitor how much TV a
+      child watches is intrusive (observations), burdensome (TV diaries) or crude and fraught with
+      error and bias (general estimates). This limits researcher's ability to identify causal
+      associations with health outcomes. While automatic and objective measures of PA, such as
+      accelerometers, have shown validity and reliability for quantifying children's PA, no system
+      that is automatic, accurate and unobtrusive has been developed to assess children's screen
+      use on traditional TV screens or tablets.
+
+      Imaging, computer vision and signal processing algorithms have made tremendous progress in
+      the last decade, resulting in high-performance, reliable algorithms for many tasks such as
+      face detection, face recognition, gaze tracking, human activity recognition, and 3D sensing.
+      In collaboration with electrical engineers at Rice University, investigators at Baylor
+      College of Medicine are leveraging these recent advances to build a first-of-its-kind 'Family
+      Level Assessment of Screen use in the Home" (FLASH), a fully integrated, unobtrusive system
+      for accurate, privacy preserving and reliable monitoring of TV and other screen usage by
+      children and adults in their homes. In this study, investigators will focus on (a)
+      Integrating the vision and signal processing algorithms and the imaging hardware required to
+      develop FLASH (Rice investigators); (b) Refining the FLASH hardware and the software pipeline
+      for TVs and mobile devices via alpha and beta laboratory studies (Rice and BCM
+      investigators); (c) Validating the FLASH TV and mobile device against the gold standard
+      (observations) among 6-11 year old children who are old enough to follow instructions in a
+      controlled observation laboratory to ensure fidelity to the protocol (BCM investigators), and
+      (d) Performing a preliminary investigation of the challenges for in-home use and adoption
+      (home feasibility study) (BCM investigators).
+
+      The ultimate goal of this project is to develop a highly accurate system to measure the
+      screen use by the index child, across diverse screens, including TVs, smartphones and
+      tablets. Since smartphones and tablets are similar in software and hardware, investigators
+      only need to develop two systems: FLASH-TV and FLASH-Mobile. Both systems will take a three
+      step approach: 1) use detection, 2) index user identification, and 3) usage logging, to
+      assess an index child's screen use. The goal is to merge a child's use across screen
+      platforms into one database to be able to track their screen use across devices along with
+      simultaneous use of devices.
+
+      FLASH will be developed collaboratively with electrical engineers at Rice University and
+      behavioral researchers at Baylor College of Medicine in a series of four studies:
+
+      STUDY 1: Iterative alpha-tests with small samples of family diads or triads (n=3-5 families
+      per trial) of the individual FLASH components and integrated FLASH systems in the CNRC
+      Metabolic Research Unit (MRU) Observational Lab. Investigators plan for these alpha-tests to
+      occur approximately every 3 months to assess the most recent advances of the FLASH
+      technology. Approximately 3-4 separate alpha test with 3-5 triads per test, resulting in an
+      anticipated sample of 42-60 participants (12-20 triads). The experiences from pilot studies
+      we have conducted, identified that iterative testing of new components with a small sample,
+      followed by refinement and retesting, allows for the ideal tight-loop feedback with input
+      from both teams to capitalize on human subject data collection and allow advancement of the
+      technology development.
+
+      STUDY 2: One to six beta tests (depending on results) of the integrated prototype FLASH
+      system with 10 family dyads or triads per test will be conducted also in the CNRC MRU
+      Observational Lab, with a maximum on 240 participants (80 triads or dyads). The experience
+      from the pilot study suggests that data from 10 triads or dyads per beta test will allow
+      adequate assessment of the functionality of the FLASH prototype.
+
+      STUDY 3: Lab based validation of the final FLASH-TV and FLASH-Mobile devices in the CNRC MRU
+      Observational Lab with 48 parent-child triads. Investigators will recruit 48 parent-sibling
+      triads (144 participants) to complete the validation study. Five of the parent-sibling triads
+      (15 participants) will participate in a pilot study prior to starting data collection on the
+      remaining sample to refine the final validation protocol, if needed. Using a multilevel
+      analysis of variance of 30 second by 30 second observations within each child, and an
+      intra-class correlation between the observations of at least 0.8 if the device measures child
+      TV viewing at 30 second intervals, the total number of observations (variation inflation
+      factor = 96.2) will result in a needed sample size of 43 triads. This sample size will detect
+      a moderate effect size (g=0.15, or able to detect an interval to interval agreement between
+      FLASH and observations at ≥ 0.65) with a power of 0.8 and alpha ≥0.05, utilizing a binomial
+      test conducted in GPower 3.1. Given our pilot data,a higher correspondence is anticipated.
+
+      STUDY 4: Home feasibility study to assess families' willingness to have devices installed in
+      their home for a limited time study period and the ability of the FLASH devices to capture
+      children's screen use across an entire day. With a power of 80% and an alpha of 0.05, to
+      detect a moderate-to large effect (0.4) with bivariate correlation between minutes of TV
+      viewing as measured by FLASH compared to TV diaries a final sample size of 37 families will
+      be needed. A moderate-to-large effect size will help ensure high accuracy for FLASH to
+      measure TV viewing in the home. Investigators anticipate having complete data on 80% of
+      participating families and will therefore recruit 46 families (184 participants, estimating 4
+      family members per family) to achieve the final sample of 37 families.
+
+      Across the four studies, investigators therefore anticipate a total sample size of 448
+      participants (88 triads in studies 1-3 and 46 families in study 4). Each study is an
+      observational study with no group assignments and no control/placebo.
+    
+  

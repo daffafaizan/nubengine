@@ -1,0 +1,76 @@
+
+    
+      To evaluate the mechanisms by which borage seed oil and echium seed oil block mediator
+      generation in asthma, we performed a cross-over trial design to reduce the numbers of
+      patients needed for the study. Each treatment period was six weeks with a six-week washout
+      period. For simplicity all power calculations are made assuming a single factor or predictor
+      variable and a single result or outcome variable. We focused on changes in mediator
+      generation by effector cells. Calculations below suggest that we have resolution to pick up
+      clinically meaningful effects of potentially important explanatory variables with acceptable
+      or high power.
+
+      1. Study Design The goals were to examine the mechanisms that underlie the effects of borage
+      seed oil and echium seed oil on proinflammatory mediator production by effector leukocytes.
+
+      In the treatment arm, subjects consumed 4.0 g/day borage seed oil and 7.0 g/day echium seed
+      oil (containing totals of ~1.6 g/day of GLA and ~0.9 g/day of SDA). The oils were packaged in
+      capsules each of which contained 1 gram of oil. Therefore subjects will ingest 10 capsules a
+      day (3 in the morning, 3 in the afternoon, and 4 in the evening) with meals. In the placebo
+      arm, subjects took matching capsules containing corn oil; three 1 gram capsules in the
+      morning and afternoon, and four in the evening, with meals.
+
+      The study began with a screening visit. All subjects had physician-diagnosed asthma. All
+      performed a baseline set of lung function measurements. They entered a 2-week run-in period
+      during which they kept a diary of peak flows, asthma symptoms, and beta agonist use. Subjects
+      were instructed in peak flow technique and asked to perform three maneuvers each time. The
+      maneuver was considered technically sufficient if the variation in the values obtained on the
+      three attempts are with 10% of each other, and the highest value was recorded in a diary.
+      Subjects whose diaries were > 80% complete entered the study and were randomly assigned to
+      active treatment or placebo. Spirometry was repeated. Blood was taken for fatty acid
+      composition of plasma and leukocytes, LT generation, and DNA for genotyping at the LTC4S
+      locus. Subjects were provided with peak flow diaries, instructed in the appropriate
+      performance or peak flow maneuvers, and asked to record morning and evening peak flow each
+      day (reflecting the best of three efforts each time). After three weeks of treatment, diary
+      cards will be collected and spirometry repeated. After six weeks of treatment, blood was
+      drawn for safety monitoring, for measurements of fatty acids in plasma and leukocytes, and
+      for the functional analyses. Spirometry was repeated. Subjects then entered a six-week
+      washout period. Two weeks before the end of this period they again started to keep diary
+      cards. At the conclusion of the 6-week washout period they entered the cross-over treatment
+      phase (six weeks) which followed the same protocol as the first treatment period with
+      assessment of fatty acid analyses, cellular function studies, safety monitoring, and
+      spirometry. Pregnancy testing was performed before and after each treatment period. Dairy
+      cards (with peak flow monitoring results) will be collected at each visit (3 week intervals
+      during the placebo and active treatment arms of the study).
+
+      3. Statistical Analyses
+
+      a. Power Calculations - For simplicity all power calculations are made assuming a single
+      factor or predictor variable and a single result or outcome variable. While a number of
+      correlated outcomes will be investigated, we will focus on changes in mediator generation and
+      levels of enzyme expression. Calculations below suggest that we have resolution to pick up
+      clinically meaningful effects of potentially important explanatory variables with acceptable
+      or high power.
+
+      i. Biochemical Endpoints - Power is based on paired t-tests comparing continuous measures of
+      response between treatment and placebo. We assume 40 subjects will be available after
+      allowing for a drop out rate of 20% from our original sample of 50 subjects. For the endpoint
+      of leukotriene production by leukocytes, the power calculations suggested that we will have
+      80% power to detect a true within-subject difference of 0.8 of the within-subject SD between
+      treatment and placebo with an α value of 0/05. On the basis of our previous studies, we
+      assume a within-subject coefficient of variation (CV) of 13% for LTC4 generation. This will
+      translate to an approximate detectable difference from 10.5% in these parameters.Using a
+      paired two-sided t-test and prior mean(standard deviation) estimates for the placebo of
+      .001464 ( .002268) and for the borage oil of .000289( .000709) , we would need 40subjects for
+      80-90% power at a 0.05 level of significance to detect a change in LTC4S transcript, protein,
+      and enzymatic activity of 50% between placebo and borage arms.
+
+      b. Analysis Plan - Initially, we will present descriptive statistics (mean, standard
+      deviation, range) for all endpoints to treatment and placebo groups. We will also present
+      graphical plots of all measures across the study and for each group within each period. For
+      the 2x2 crossover study, we will compare the treatment and control on each endpoint
+      separately by employing a generalized mixed model approach with the predictors:
+      group(sequence), patient nested within group as a random effect, period(dichotomous),
+      treatment(dichotomous), and seasonality(dichotomous), with unstructured covariance. We will
+      utilize mixed model diagnostics such as residual plots to assess goodness of fit.
+    
+  

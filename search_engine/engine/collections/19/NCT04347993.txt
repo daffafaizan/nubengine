@@ -1,0 +1,34 @@
+
+    
+      The principle objective of this observational database is to build research-grade real world
+      data that will serve as platform to advance the scientific understanding and clinical care of
+      patients with COVID-19.
+
+      1. Demographic, diagnostic, treatment and outcome data from centers throughout the Hackensack
+      Meridian Health Network will be abstracted from the electronic health records of patients
+      with confirmed or suspected COVID-19. This will be purely observational and no direction as
+      to the care of the patient will be performed as part of this effort.
+
+      1a. Data points to be collected will include, but are not limited to: age, gender, zip code,
+      prior evaluation for COVID-19, tobacco history, race, site of care, healthcare worker,
+      nursing home care, visits to ER, presenting features of fever/ cough/ dyspnea/
+      gastrointestinal/ mental status changes, days of symptoms, comorbidities, uses of
+      antihypertensives, duration of hospitalization/ icu care, presenting laboratory functions,
+      presenting vital signs, need for oxygen support, dialysis/ ecmo use, treatment with
+      hydroxychloroquine/ azithromycin/ remdesevir/ tociluzimab/ anti-inflammatory agents,
+      arrhythmias/ QTc prolongation, enrollment on clinical trial, positive cultures, survival and
+      cause of death. Additional data points will be added as needed.
+
+      2. The data will be entered into a central "Universal" database hosted within the REDCap
+      system (HIPAA compliant, secure, access only per HMH research approval)
+
+      3. A de-identified dataset will be sent to COTA for primary statistical analysis as requested
+      by the research teams. COTA will also make available a data/analytic visualization tool
+      (hosted on Tableau) for analysis by primary investigators.
+
+      4. Additional data points and analysis may be added to the Universal database as requested by
+      HMH investigators with IRB approval. De-identified data may also be sent directly to HMH
+      investigators for their own analysis with IRB approval of their projects 5. Data will be made
+      available to governmental agencies as requested.
+    
+  

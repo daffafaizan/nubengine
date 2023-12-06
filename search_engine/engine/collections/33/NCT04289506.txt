@@ -1,0 +1,89 @@
+
+    
+      Sepsis, defined as life threatening organ failure resulting from a dysregulated host response
+      to infection, remains a leading cause of death in critically ill patients and has been
+      included as a health priority in a 2017 WHO resolution. Diagnosis of this disorder is
+      challenging because the clinical signs and symptoms of systemic inflammation in sepsis
+      overlap with those of non-infectious critical conditions i.e. severe inflammatory response
+      syndrome (SIRS) e.g. cardiac arrest and burns. Early and accurate diagnosis of sepsis is
+      critical for improving patient outcomes and reducing antibiotic usage. Delays in antibiotic
+      administration are associated with worse outcomes; however paradoxically, indiscriminate
+      prescription of antibiotics to patients without bacterial infections increases both rates of
+      morbidity and antimicrobial resistance. The rate of inappropriate antibiotic prescriptions in
+      the hospital setting is estimated at 30 to 50% and would be decreased by access to improved
+      diagnostic tests.
+
+      There is currently no gold standard laboratory test that can broadly determine the presence
+      and type of infection. Although new polymerase chain reaction (PCR)-based molecular
+      diagnostics can profile pathogens directly from blood culture, they suffer from sensitivity
+      issues due to dependence on sufficient numbers of pathogens in the blood sample. They are
+      also limited to detection of a discrete range of pathogens. As a result, there is a growing
+      focus on molecular diagnostics that profile the host immune response. Current sepsis
+      groupings are based on clinical criteria such as the presence of shock, infection source, or
+      organ failure, but such groupings may not represent the underlying biology driving the host
+      response. They have also failed to adequately match patients for novel interventions. If the
+      heterogeneity of sepsis truly reflects heterogeneity in the host response, characterisation
+      of these underlying host response types will be fundamental to enabling precision sepsis
+      therapeutics.
+
+      In a previous multi-centre, clinical-temporal study in three cohorts of patients admitted to
+      the intensive clinical care unit (ICU); (i) out of hospital cardiac arrest (n=36 - SIRS
+      group)) (ii) pulmonary sepsis (n=84) (iii) abdominal sepsis (n=64) and 30 healthy controls,
+      validated potential host immune biomarkers. Using 202 samples from these cohorts, the
+      investigators derived a set of gene biomarkers which can identify patients with severe
+      inflammation and discriminate sepsis from non-infected inflammation across a broad range of
+      clinical conditions. Other biomarkers have been identified for use for other purposes e.g.
+      prognosis/severity. Our patent arising from this work has been filed and entered PCT stage.
+      From these patented markers a parsimonious set of 17 genes has been further delineated, which
+      are under further evaluation. A sub-panel of two gene entities has been identified that can
+      accurately detect severe inflammation using receiver operating characteristic/area under the
+      curve (ROC) analysis with a value of approximately 0.98. A panel of three/four gene entities
+      has been identified for discrimination of SIRS from all sepsis types (ROC 0.89-0.92), all
+      depending on sensitivity or specificity range settings.
+
+      Better diagnostics for sepsis-driven inflammation are needed in both inpatient and outpatient
+      settings. In low-acuity outpatient settings, contributing circa 80% of total UK antibiotic
+      use, a simple diagnostic to discriminate a septic inflammatory process from an innocuous,
+      self-limiting condition, would assist in appropriate antimicrobial use, appropriate triage,
+      avoiding further investigations, and appropriate escalation / admissions. In higher-acuity
+      settings, causes of non-infectious inflammation are important to exclude; a decision model
+      for antibiotic prescription should include a non-infected, non-healthy cause. A reliable
+      diagnostic, such as ours, needs to distinguish all three presentations: non-infected
+      inflammation, sepsis, and relative health. It will represent a major step-change in provision
+      of diagnostic/stratification capability, vastly improve decision and patient management
+      pathways and potentially reducing antibiotic overuse in the acute medical and critical-care
+      environment.
+
+      These biomarkers once validated in an independent cohort via qPCR for mRNA and their
+      commensurate proteins, together with an accompanied easy-to-use, clinically oriented scoring
+      system will represent a complete data package which can be rolled out internally, subject to
+      the appropriate further accreditation and/or leveraged for development of point-of-care
+      devices by commercial partners. This latter option could prove useful for dissemination of
+      the test to other patent-appropriate global territories.
+
+      There is an urgent need to validate these findings in several ways; Using an independent
+      patient cohort, where laboratory scientists are blinded to the clinical phenotypes of the
+      recruited patients and clinicians are not aware of the gene expression data.
+
+      Using a bioinformatics approach to validate the results in already published datasets
+
+      This project will use different approaches to validate these novel SIRS or sepsis-associated
+      biomarkers identified by Artificial Neural Network (ANN) and parametric data mining of
+      previously published datasets and further validated previously from a previous well
+      characterised clinical cohort;
+
+        1. Public Health England laboratories will assess biomarker mRNA expression using a qPCR
+           approach, with RNA purified from patient and control whole blood
+
+        2. Public Health England and Cardiff laboratories will assess protein biomarkers using
+           ELISA assays
+
+        3. Proteomic analysis of blood by external collaborators
+
+      Further data analysis will be conducted using ROC curve analysis and arithmetic algorithms
+      and/or other statistical/bioinformatics methods. Assessment of specificity and sensitivity
+      and positive and negative predictive values using well established methods will also be
+      conducted to evaluate the performance of the biomarker panels in discriminating patient
+      control and disease groups.
+    
+  

@@ -1,0 +1,96 @@
+
+    
+      Statistics and Results Using data from the E-app, scores on the MCQs and the diagnostic
+      accuracy of the GP's a dose/response relationship is calculated, in order to answer the
+      research questions posed above.
+
+      Aim The aim of this project is to investigate the dose/response effect on GPs' proficiency
+      from AI augmented training and clinical feedback in skin cancer diagnostics. This project
+      will examine how much training is needed before the GPs' ability to diagnose and correctly
+      refer skin cancer is affected.
+
+      Research Questions In a population of Danish GPs what is the dose/response effect of hours
+      spent with an educational platform that offers AI augmented training and clinical feedback on
+      their diagnostic accuracy and accurate clinical management (treatment, dismissal, referral)?
+
+      Does access to an educational platform that offers AI augmented training and clinical
+      feedback increase the number of malignant skin lesions referred by Danish general
+      practitioners without simultaneously increasing the number of incorrect benign referrals? Can
+      the participating GPs clinical accuracy be predicted from the MCQ-score by comparing their
+      quiz answers and diagnostic accuracy on their registered lesions with their score on the MCQ?
+
+      Design This stratified superiority RCT will include 90 GPs in Denmark. The study period is
+      five months. Three months of active intervention, then two months of post intervention
+      observation period.
+
+      Participating GPs must give signed consent before receiving a short introductory course
+      regarding the use of hard- and software. They are then asked to complete a short
+      questionnaire regarding the use of the platform as well as completing a proficiency test
+      using a multiple choice questionnaire (MCQ) at baseline and again after 1 and 3. The MCQ
+      consists of 12 skin lesion cases randomly sampled from a test library developed and validated
+      by our research group.
+
+      Stratification and randomization:
+
+      Eligible participants will be stratified based on gender, results on the pre-test, age, type
+      of clinic and self-reported years of experience diagnosing skin lesions, before being
+      randomized (allocation ratio 3:1) into either the intervention or control group. Intervention
+      All participating doctors will be asked to register all skin lesions examined due to a
+      suspicion for non-melanoma or melanoma skin cancer, raised by the GP or patient, throughout
+      the study period (Figure 2). Skin lesions will be registered using the R-app that enables
+      photo acquisition and registration of: patient social security number (CPR), location of
+      lesion, tentative diagnosis and chosen clinical action (referral, excision, monitoring, none)
+      ect.
+
+      The intervention consists of AI augmented training and clinical feedback through an
+      educational smartphone app (E-app), whilst the control group registers the lesions but
+      otherwise continues its standard clinical practice.
+
+      The E-app has two modules:
+
+      The training module includes AI enhanced case training on a library of 10,000+ benign and
+      malignant skin lesion cases each coupled to written learning modules. Clinical feedback
+      module gives the user diagnostic feedback on all cases registered in the registration module.
+      Feedback during the trial will be based on either histopathology or the consensus agreement
+      of domain experts (if no biopsy is taken). Feedback on referred or dismissed skin lesions
+      will be provided by independent experts in skin cancer diagnostics ( >10 years of experience)
+      through a web-based review system developed by our group. Statistics The mean improvement in
+      clinical and MCQ-tested diagnostic accuracy measured will be compared between intervention
+      and control groups using independent t-tests. Clinical accuracy will be determined using
+      histopathology and/or expert consensus as gold standard. Both per-protocol and Intention To
+      Treat analysis will be calculated in order to elucidate potentially missed differences and to
+      allow readers to interpret the effect of the intervention.
+
+      Power and Sample Size To our knowledge there is no data within the literature that describes
+      the typical number of skin lesions seen by a Danish GP. Based on estimates from clinical
+      experience roughly eight patients are seen by each GP per week with skin lesions suspected of
+      skin cancer. With 90 GPs registering 90% of all lesions this amounts to 8.417 skin lesions
+      registered during the three months. However, the ratio of benign to malignant skin lesions
+      (BMR) referred or removed by GPs is typically somewhere between 10-29:1. Specialised centers
+      in the UK have reported that it is possible to achieve accurate melanoma diagnostics with a
+      BMR of 1.74-6.3:1, based on clinical evaluation aided by dermatoscopy alone. Based on these
+      numbers an effect size of Cohen's d = 0.5-0.8 is realistic. This would require around 25-40
+      GPs in each group to achieve a minimum 80% power.
+
+      Ethical considerations Patient participation contains no immediate strain or discomfort for
+      the patient, and no change to current clinical practise, as dermoscopic evaluation is part of
+      the clinical examination of skin lesions. The images captured are stored safely and
+      anonymously with no risk for the patient.
+
+      Participating patients receive current standard of practice or an additional
+      teledermatological evaluation of their skin lesions, giving them an expert opinion rather
+      than only the opinion of their GP, in cases where patients are not referred to a
+      dermatologist. A setup with minimal discomfort for the patient and the evaluation of their
+      skin lesions by an expert justifies the participation of the patients.
+
+      With the current low diagnostic accuracy of GP's the educational nature of the intervention
+      justifies the study for the sake of all future patients with skin lesions that are less
+      likely to be misdiagnosed.
+
+      Educational interventions on doctors do not require approval by The National Committee on
+      Health Research Ethics in Denmark. However, a waiver has been obtained from the The Committee
+      on Health Research Ethics in the Capital Region of Denmark (case number H-20059977) and
+      ethical considerations have been made and the project is in concordance with the Helsinki
+      Declaration II.
+    
+  

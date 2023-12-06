@@ -1,0 +1,75 @@
+
+    
+      Single open-label randomised clinical trial with parallel control groups.
+
+      The intervention group "joint crisis plan" benefits from a joint crisis plan in addition to
+      the usual in-patient care. The active control group "crisis card" benefits from the crisis
+      card in addition to the usual in-patient or out-patient care.
+
+      OBJECTIVES:
+
+      The study aims at evaluating the effectiveness of a joint crisis plan compared with crisis
+      cards regarding the reduction of coercive measure in the following hospital admission.
+
+      PROCEDURES:
+
+      A weekly screening of all service users regarding eligibility will be carried out. Each
+      eligible person will be approached by a trained staff member of the unit and invited to
+      participate in the study, but not before the patient is capable of consenting to treatment.
+      After informed consent has been obtained, a staff member conducts a baseline assessment using
+      the Global Assessment of Functioning (GAF), the Clinical Global Impression (CGI) and the
+      Brief Psychiatric Rating Scale (BPRS). Then participants will be randomly allocated to either
+      intervention or control group and specific intervention will be carried out. Joint crisis
+      plan: Due to the duration of the process, the facilitated preparations for the negotiation
+      session should start immediately. For those treated as in-patients, intervention should be
+      finish before their release from the hospital. Crisis card: The in-patient and the attending
+      physician fill out a crisis card together when the patient is to be released from the clinic.
+      Out-patient prepare a crisis card together with their clinic physician during a routine visit
+      to the clinic doctor's office. After the 12-month-follow-up-period participants will be
+      assessed again regarding received psychiatric in-patient care and experienced coercive
+      measures in any clinic during this period. Additionally, the patient's case files are
+      examined for documented coercive measures.
+
+      HYPOTHESES:
+
+      The primary hypothesis to be tested is whether JCPs significantly reduce the average of
+      involuntarily spent days of hospitalization during the 12 month follow-up period, compared
+      with the control group receiving crisis cards.
+
+      Secondary hypotheses will be to determine whether compared with the control condition, JCP
+      use will result in improvements regarding other common coercive incidents: involuntary
+      medication, isolation, and physical restraint.
+
+      SAMPLE SIZE CALCULATION:
+
+      The necessary sample size regarding the primary outcome criterion "days in accommodation" was
+      calculated utilizing routine data of a random sample (N = 20) of in-patients. The following
+      inclusion criteria were used for the population of patients:
+
+        -  relevant period: 1st of January to 31st of December 2016
+
+        -  at least one acute psychiatric inpatient hospital stay with admission and discharge in
+           2016 (UKE: station PEAG)
+
+        -  minimum length of in-patient treatment 3 days
+
+        -  documented ICD-10 diagnosis: F2*/F3*
+
+      A zero-inflated negative binomial regression was calculated to obtain the estimator for the
+      average number of days in accommodation (15.69) and the estimator for the overdispersion
+      (0.49). The sample size calculation was carried out with a type I error of 5% (two-tailed)
+      and a power of 80%.
+
+      The calculation was carried out with PASS 2008 (NCSS, LLC Kaysville, Utah). It led to a
+      sample size of 151 patients per group (a total of 302 patients). Taking withdrawal and
+      follow-up loss of combined approx. 20% into account an initial sample size of 374 patients
+      (187 per group) will be necessary.
+
+      STATISTICAL ANALYSIS:
+
+      In order to address primary and secondary objectives, an intention-to-treat analysis (ITT)
+      will be calculated as a zero-inflated negative binomial regression. The group variable (JCP
+      vs. crisis card) is included as a fixed effect into the model. Additionally, a per-protocol
+      analysis (PP) will be performed to examine the actual interventional effect.
+    
+  

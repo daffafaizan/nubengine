@@ -1,0 +1,90 @@
+
+    
+      Background:
+
+      Type 1 diabetes is caused by antibodies attacking insulin-producing β-cells in the pancreas.
+      Treatment is usually by regular insulin injections, informed by glucose measurements from
+      fingerprick blood samples. However, injections do not mimic the normal behaviour of the
+      β-cell and this leads to suboptimal blood glucose control and complications including kidney
+      failure, blindness, nerve damage and heart disease. Aggressive treatment can help but may
+      lead to potentially-dangerous low blood glucose levels (hypoglycaemia). Glucose control is
+      measured by HbA1c (normal range 4 to 6%), a measure of the amount of haemoglobin exposed to
+      glucose over a period of around 3 months.
+
+      Current regimens for treating Type 1 diabetes in clinical practice are mainly based on
+      injections of subcutaneous insulin several times daily in dosages determined by intermittent
+      blood glucose measurements. The DCCT (Diabetes Control and Complications Trial) demonstrated
+      that intensive management using these principles reduced complications by 50-76%. This was at
+      the expense of increased hypoglycaemia, especially at HbA1c levels <7.5%. In other studies,
+      intensive management resulted in people spending 30% of the day with glucose values >10mM and
+      >2 hours/day in hypoglycaemia, often at night.
+
+      A closed loop system provides the potential to improve HbA1c while avoiding hypoglycaemia. It
+      requires continuous glucose measurement, a control device and a pump for insulin delivery.
+      The subject has been extensively reviewed. Intelligent control devices have been developed by
+      others, using the principles of feedback control or predictive modelling. These were
+      initially cumbersome e.g. the 'biostator' but more recent systems have been miniaturised and
+      are capable of achieving blood glucose control in the fasting state, when provided with an
+      input of interstitial glucose levels. They have not yet proven robust, may be associated with
+      hypoglycaemia and are not capable of achieving adequate post-prandial control nor of coping
+      with intercurrent illness outside hospital environments.
+
+      This clinical trial protocol assesses the Imperial College closed loop insulin delivery
+      system. The closed loop insulin delivery comprises 3 main components: the glucose sensor, the
+      control algorithm and the insulin delivery system.
+
+      The glucose sensor that will be used throughout the clinical validation studies is a CE
+      marked, MHRA approved device manufactured by Medtronic. It is a subcutaneous sensor which
+      sits just under the skin and samples interstitial fluid using an enzyme electrode. A small
+      voltage is applied across the sensor and a current is fed back to the sensor instrumentation.
+      This current is proportional to the glucose concentration in interstitial fluid and is
+      calibrated against blood glucose a minimum of 12 hourly.
+
+      The control algorithm is derived from physiological experiments carried out by other groups
+      which have demonstrated how the beta cells in the pancreas produce insulin in people without
+      diabetes. Utilising the data from these experiments it has been possible to implement the
+      behaviour of the beta cell in software and we have used a simulator with 200 virtual patients
+      to demonstrate the safety and efficacy of the software. The data from the simulator is
+      attached to this application as an appendix. The simulator was developed from human data and
+      takes into account sensor errors, sensor placement, route of insulin administration and
+      meal-time glucose absorption. It has been approved by the FDA in the United States as a step
+      in the pathway of developing an artificial pancreas and has been validated against human
+      data. In the clinical validation device the control algorithm is implemented on a printed
+      circuit board using a programmable micro-controller.
+
+      The insulin pump device used throughout the clinical validation is the Roche Accu-Check Combo
+      Spirit. This is a CE marked MHRA approved device and will be supplied by Roche with
+      capability for direct communication from the motor so that we can verify the pump is doing
+      what the software commands and with a license to use the communications protocol for research
+      purposes. This ensures safe communication between the control algorithm and the pump and
+      provides a fail-safe to ensure that the pump motor is responding appropriately to the control
+      algorithm.
+
+      Clinical validation of the closed loop insulin delivery device follows a path of incremental
+      challenges to the algorithm and hardware, starting with a fasting basal study in advisory
+      mode and progressing to ambulatory, meal studies in full closed loop.
+
+      The aim of this trial is to assess the safety and efficacy of the closed loop device by
+      applying the technology to participants with type 1 diabetes in a variety of scenarios,
+      starting with a fasting test and progressing to overnight control, mealtime control and,
+      finally, an ambulatory test.
+
+      Brief outline of each of the 5 visits within the trial period:
+
+        -  Visit 1: Screening including clinical examination, fasting blood tests, completion of
+           diabetes quality of life questionnaire, continuous glucose monitor attached to subject
+
+        -  Visit 2: Review of continuous glucose monitoring results after 5 days
+
+        -  Visit 3: Short Duration Fasting Closed Loop (6 hours of closed-loop assessment)
+
+        -  Visit 4: Long Duration/ Overnight Fasting Closed Loop and Standard Meal Challenge (13
+           hours of closed-loop assessment)
+
+        -  Visit 5: 24 Hour Ambulatory Automatic Closed Loop
+
+      During visits 3-5 blood sampling for capillary glucose & ketones, venous glucose and insulin
+      levels will take place every 15-30 minutes while the closed-loop insulin delivery system is
+      running.
+    
+  

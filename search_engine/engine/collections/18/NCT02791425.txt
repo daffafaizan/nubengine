@@ -1,0 +1,184 @@
+
+    
+      BACKGROUND
+
+      An inability to consistently and effectively communicate their most fundamental physical
+      needs is a major problem for mechanically ventilated ICU patients. Patients rate about 40% of
+      communication sessions as difficult and more than a third of communications about pain as
+      unsuccessful. Nurses initiate about 86% of all communication exchanges as it is typically
+      very difficult for a voiceless ICU patient to initiate communication. Patients in the ICU
+      therefore commonly suffer unrecognized pain and discomfort, feelings of loss of control and
+      insecurity, depersonalization, anxiety, sleep disturbances, fear and frustration. Caregivers
+      also frequently report feeling anxious and frustrated in not being able to adequately assess
+      the needs of their patients. This inability to communicate effectively can lead to the
+      inappropriate use of sedatives and prolongation of time spent on the ventilator, which may
+      then lead to increased ICU length of stay and costs. Furthermore, the inability to
+      communicate with caregivers hampers the ability of critically ill patients to be active
+      participants in their treatment and in decision-making, including decisions to withdraw or
+      withhold life-sustaining treatment.
+
+      The use of picture boards with icons representing common patient needs and complaints (pain,
+      fear, hot/ cold, thirst, bedpan etc) has been shown to improve nurse-patient communication
+      for patients in the postoperative period on the ventilator. These picture boards are widely
+      available in most ICUs and are the closest thing to a current standard for communication with
+      voiceless mechanically ventilated patient, for the purposes of addressing fundamental
+      physical and emotional needs. Recent pilot studies have described the use of
+      computer-assisted communication using touch sensitive screens, eye blink detectors and gaze
+      trackers to enable communication in the ICU patient. The majority of patients and hospital
+      staff surveyed in these studies indicated that the use of a computer-assisted communication
+      device improved the ability to respond to patient needs and address patient comfort. Gaze and
+      eye blink tracker systems are expensive, however, while touch sensitive screens may not be
+      suitable for the many ICU patients with weakness and restriction in motor ability. Patients
+      in the ICU, particularly those with neurological illness, frequently suffer from significant
+      weakness and loss of co-ordination, however, limiting their ability to use their arms and
+      hands to indicate the appropriate item on the board. While patients in the neuroICU are
+      frequently weak because of focal brain injury, about a quarter of patients requiring
+      mechanical ventilation in other ICUs may have significant weakness from critical illness
+      neuropathy and myopathy, limiting their ability to use their hands to select the appropriate
+      icon on a picture board. There are several patient populations, however, for whom the use of
+      a picture board or touch screen is impossible, including patients with high spinal cord
+      injury, advanced ALS and brainstem stroke, who are voiceless, but also typically have no
+      useful motor function of their limbs. These patients are "locked-in", to varying degrees,
+      awake and alert but with no control of bodily function or ability to articulate and
+      communicate using standard forms of communication.
+
+      The use of Brain Computer Interface (BCI) devices to facilitate communication in "voiceless"
+      patients has recently generated interest. A BCI translates deliberate, voluntary modulation
+      of cerebral electrical activity, typically recorded by electroencephalography (EEG) into
+      computer commands. A variety of BCI devices have been used to permit patients with advanced
+      Amyotrophic Lateral Sclerosis (ALS), high spinal cord injury and brainstem stroke with the
+      locked-in-syndrome, who have no voluntary use of their limbs, to communicate to varying
+      degrees. These devices have typically been evaluated in the rehabilitation setting, following
+      the period of acute medical illness, or at home. No study has evaluated the use of a BCI
+      device to assist with communication of the typical physical and emotional needs/ complaints
+      of the critically ill. This is significant, not only for patients with spinal cord injury and
+      stroke, most of who are initially admitted to an ICU, but to the potentially large number of
+      ICU patients who cannot use a picture board or other finger contact system because of
+      critical illness neuropathy/ myopathy or acute brain injury causing weakness. Our focus is on
+      creating a steady state visual evoked potential (SSVEP) based, wireless BCI system to
+      facilitate communication with intubated ICU patients., The wearable BCI device of interest in
+      this study functions through visual attention to illustrative icons displayed on an
+      electronic screen. The icon, which may depict a common ICU patient need, such the need for
+      repositioning or common patient complaint, such as pain, can be displayed as a symbol. The
+      patient can, thereby, communicate by looking at a specific item depicting their need or
+      complaint. This wearable device is entirely noninvasive and without significant risk to
+      patients, functioning only to record and translate EEG signals. The device will communicate
+      wirelessly with the user interface (UI) that can be either a tablet or the flat screen TV
+      monitor that is present in every ICU patient room. The proposed prototype provides a user
+      interface that includes basic functions that are typically used in communication between
+      nurses and patients in the ICU.
+
+      STUDY DESIGN
+
+      This is a translational pilot study of a Steady State Visual Evoked Potential (SSVEP) based
+      BCI system to facilitate communication in intubated patients. After obtaining informed
+      consent from the patient or their legally authorized representative, 30 patients will be
+      recruited from the medical, surgical, cardiac, cardiothoracic and neurological intensive care
+      units at the University of Michigan, Ann Arbor over a period of 12 months. Approval has been
+      obtained from the Institutional Review Board of the University of Michigan (HUM00095052).
+
+      Screening for delirium and ability to participate in the study:
+
+      Potential subjects will be identified by members of the primary ICU team, who will then
+      contact a study investigator. Subjects will need to be off all sedating medicines with return
+      to full wakefulness prior to further evaluation. Patients meeting the above eligibility
+      criteria who consent to participate in the study will then undergo further testing by an
+      investigator to confirm that the patient is sufficiently alert and attentive to communicate
+      AND is capable of consistently selecting items through volitional finger contact. The patient
+      will then undergo a screening evaluation with the BCI device to confirm that their individual
+      EEG signal can be detected and interpreted by the device.
+
+      Patient complaints/ needs: The investigators will evaluate the ability of subjects to
+      accurately select a specific need or complaint from 10 common needs/ complaints.
+
+        1. "I am in pain"
+
+        2. "I have difficulty breathing"
+
+        3. "I need to be suctioned"
+
+        4. "I need to have a bowel movement"
+
+        5. "I need to pee/ pass urine"
+
+        6. "I am thirsty"
+
+        7. "I am hungry"
+
+        8. "I need to have my position in bed changed"
+
+        9. "Raise the head of my bed"
+
+       10. "I need my family at my bedside"
+
+      Picture board: Feasibility of communication using the BCI device will be evaluated using a
+      picture board with illustrative icons representing the 10 needs/ complaints above as the
+      standard for comparison and to determine the accuracy of selection of the appropriate icon.
+      The icons and phrases on the picture board will be identical to the icons and phrases on the
+      BCI device
+
+      SPECIFIC AIM 1:
+
+      To demonstrate the feasibility of using a Steady State Visual Evoked Potential (SSVEP) based
+      Brain Computer Interface (BCI) device to facilitate communication of common patient needs in
+      alert mechanically ventilated patients in the Intensive Care Unit (ICU).
+
+      Hypothesis 1: At least 80% of alert mechanically ventilated patients will be able to
+      accurately select the illustrative icon on the brain computer interface representing the
+      physical or emotional need self-identified by the patient as being the most common trigger
+      for communication with the bedside nurse during their admission.
+
+      Orientation to BCI and picture board: The patient will initially be familiarized with both
+      the picture board and the BCI device. Instruction on use of the BCI device will include
+      demonstration of the UI, explanation of the icons on the UI and the mechanism of selection of
+      an icon, through focused visual attention.
+
+      Selection of need/ complaint: Immediately following orientation, testing for accuracy of the
+      BCI device will be performed. Testing for accuracy will be performed a single time for each
+      patient, using the most important need/ complaint for that patient. The patient will be asked
+      to identify on the BCI UI the specific need or complaint as being the most common reason to
+      request the assistance of the bedside nurse during their admission, among the 10 patient
+      need/ complaint options provided. Selection of "None of the above/ Other" will be permitted,
+      however, the patient will be specifically instructed in advance to select the need/ complaint
+      most applicable to their situation among the 10 choices provided. The patient will then be
+      asked to select the SAME need/ complaint on the picture board using finger contact.
+
+      SPECIFIC AIM 2:
+
+      Specific Aim 2: To determine patient, family and bedside nurse satisfaction with
+      communication using the BCI device and elicit open-ended feedback to guide future device
+      improvements.
+
+      Hypothesis 2: At least 70% of patients will "agree" or "strongly agree" with the statement
+      "The Brain computer interface device allowed me to communicate my needs to the bedside nurse
+      adequately".
+
+      Immediately following evaluation of accuracy described under Specific Aim 1, the
+      investigators will evaluate patient, family and bedside nurse satisfaction following bedside
+      use of the device as the primary communication tool for 2 hours a day for 3 consecutive days.
+      A delirium screen using CAM-ICU and a brief neurological examination to confirm the patient's
+      ability to effectively use the BCI device and picture board will be performed prior to use of
+      the device or picture board on subsequent days (days 2 and 3).
+
+      At the end of the 3 days, the patient, any family members present and each nurse who
+      participated in testing will be provided the short questionnaires. The patient questionnaire
+      with options will be read out to the patient.
+
+      Statistical Analysis:
+
+      The proportion of patients who pass Step 2 of screening who then also pass Step 3 will be
+      calculated with exact binomial 95% confidence intervals. A proportion of at least 70% passing
+      Step 3 of screening will be the initial threshold for feasibility, based on clinical
+      estimates of value. The median time, with interquartile range, required for orientation to
+      the BCI device and to the picture board will be calculated, and comparison performed using
+      the Mann Whitney U-test. The proportion of patients who select the same icon on the BCI UI
+      and the picture board will be calculated, with exact binomial 95% confidence intervals. In
+      determining the accuracy of using the BCI device, a binomial analysis including multiple
+      studies of BCI estimated the chance level at 63% (α = 0.05, 60 trials). Based also on a
+      clinical estimate of what would be a minimum useful level of accuracy for a communication
+      device, the threshold for accuracy in our study will be at least 80% of patients
+      demonstrating concordance between selection of their most important need/ complaint on the
+      BCI device and the picture board. Descriptive statistics will be used to for proportions of
+      patients selecting responses to each of the satisfaction questions.
+    
+  

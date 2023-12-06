@@ -1,0 +1,50 @@
+
+    
+      It is an international multicenter disease registry, the principal investigator at each
+      center is responsible for competent ethic committee/institutional review board approval and
+      for identifying co-investigators, who collect patients' informed consent and insert patients'
+      data. Participating patients own their data. Upon acceptance of the informed consent, the
+      treating physician transfers data of the case report form (CRF) to a specifically designed
+      electronic support (eCRF) and the patients enter data on attacks. Physicians at center
+      fill-in the eCRF with data for demography, diagnosis, prophylaxis and associated diseases.
+      Plasma levels of C1 inhibitor antigen and function and of C4 antigen document laboratory
+      diagnostic criteria. Each patient has a national identifier code. Patients fill-in attack
+      reports that encompass duration, severity and treatment of each angioedema episode. C1
+      inhibitor coding gene (SERPING1) genotype is entered according to the last Hugo nomenclature.
+      Yearly update of information is recommended, patients with follow up above two years are
+      moved in a separate area and excluded from analysis. Each patient prospectively fills data on
+      attacks. On a specific informed consent, the patient can agree on storing biological material
+      (plasma and nucleic acids) for research purposes.
+
+      The data processor is an innovative start-up (Cloud-R s.r.l. Milan, Italy) that manages all
+      data according to a specific contract and in compliance with current regulation on sensitive
+      data security and processing. The Registry, delivered in the mode of Registry-as-a-Service
+      (RaaS), is designed following General Data Protection Regulation (GDPR) guidelines, and
+      issues regular software and infrastructure enhancements as a part of the normal operational
+      mode. The system generates statistics of aggregated anonymized data following the
+      participating centers' hierarchy levels and Global Registry governance rules. Patients supply
+      data on attacks either on paper support or using a Web form or a mobile application. These
+      data will flow into a staging area for physician validation before being considered valid for
+      statistics. For each entry the system updates in real-time all the statistics and dashboards.
+      The platform has configurable functionalities to support data quality management. It provides
+      data format validation, integration to external qualified libraries, alerts, dashboards,
+      automatic index calculations, advanced filters and queries, data change log. This open
+      architecture, allows integration of the system, via standard API's, to external or
+      sub-registries, registries, biobanks and clinical bioinformatics tools, i.e. for specific
+      trial studies leveraging a specific cluster of patients already present in the Global
+      Registry.
+
+      An independent non-profit foundation (HGRF) made of representatives of patients' associations
+      is in charge for funding and delegates all the management to the HAE Global Registry Board
+      (HGRB). The HGRB is in charge for operational, assisted by the HAE Global Registry Scientific
+      Committee (HGRSC) for topics of competence. No registry member, center, group or board can
+      access the entire set of data. All registry members, as single or group, can propose studies
+      based on aggregated data by addressing the request to the HGRSC. Analysis and studies of data
+      at local centers can occur at any time. Members of HGRB and HGRSC are elected to be
+      representative of different cultural and geographic backgrounds. Their offices have a
+      two-year term with no more than one consecutive renewal. Angioedema centers can join the
+      Registry upon request to the HGRB . The registry quality control system periodically checks
+      Registry entries and compliance of eCRF with the source data. For each information, the
+      system will grant traceability of time and author.
+    
+  

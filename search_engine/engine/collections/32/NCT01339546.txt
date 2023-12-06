@@ -1,0 +1,15 @@
+
+    
+      NAMCS-The survey utilizes a three stage sampling design based on (1) probability of selecting
+      a primary sampling unit (PSU) (2) probability of selecting a physician within the PSU and (3)
+      probability of selecting a patient within the physician practice. This last probability is
+      defined to be the exact number of office visits during physician's specified reporting week
+      divided by the number of patient record forms completed. NHAMCS- For producing unbiased
+      national estimate, this survey utilizes four stages (a) Probability of selecting a PSU (b)
+      probability of selecting a hospital with in PSU (c) probability of selecting an emergency
+      department (ED) or outpatient department (OPD) within the hospital (d) probability of
+      selecting a visit within ED or OPD. The overall probability of selection is the product of
+      the probabilities at each stage. The inverse of the overall selection probability is the
+      basic inflation weight.
+    
+  

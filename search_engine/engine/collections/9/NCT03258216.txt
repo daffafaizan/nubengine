@@ -1,0 +1,48 @@
+
+    
+      Upper gastrointestinal disorders are common in clinical practice. Currently, the diagnosis of
+      peptic ulcer only depends on laboratory exams such as clinical symptoms, blood test, urine
+      test and feces test. But the result can be only auxiliary exams which don't gain correct
+      diagnosis on helping assess ulcer severity. As the most suitable diagnosis method,
+      panendoscopy can directly observe lesions, judge disease severity, carry out a biopsy, test
+      lesion is benignant or malignant, Helicobacter Pylorus infection or not, the degree of
+      inflammation, etc. But panendoscopy belongs to invasive test. If we can observe tongue
+      characteristics of patients with upper gastrointestinal diseases through scientific tongue
+      diagnosis, physical discomfort caused by the test will be significantly reduced.
+
+      Based on clinical observational study, this project will employ the Automatic Tongue
+      Diagnosis System (ATDS) developed. The ATDS was developed to capture tongue images and
+      extract features reliably to assist the diagnosis of TCM practitioners demonstrates the steps
+      in the three major functions, i.e., image capturing and color calibration, tongues area
+      segmentation, and tongue feature extraction, included in the ATDS.
+
+      Variations in background lighting may change the color and brightness of the acquired images,
+      greatly affecting consistency and stability of the extracted tongue features. The ATDS
+      developed can automatically correct lighting and color deviation caused by the change of
+      background lighting with a color bar attached in the ATDS. The color bar placed beside the
+      patient is used for color calibration to make sure the image quality is consistent even taken
+      at different circumstances. Tongue images are analyzed by first isolating the tongue region
+      within an image to eliminate irrelevant lower facial portions and background surrounding the
+      tongue, thereby facilitating feature identification and extraction; and then extracting the
+      tongue features by employing criteria such as the aspect ratio, color composition, location,
+      shape, and color distribution of the tongue, as well as the quantity of neighboring pixels.
+      Features including tongue color, tongue fissure, fur color, fur thickness, ecchymosis, tooth
+      mark, red dot, saliva, and tongue shape are extracted to further generate detailed
+      information regarding length, area, moisture, and number of fissures, marks, and dots to be
+      employed in tongue diagnosis. Nine primary tongue features, including tongue color (slightly
+      white, slightly red, red, dark red, dark purple), fur color (white, yellow, dye), fur
+      thickness (none, thin, thick), saliva (none, little, normal, excessive), tongue shape (thin
+      and small, moderate, fat and large), tongue fissure, red dot, ecchymosis, and tooth marks
+      (the last four features are divided into categories of none, mild, moderate, and severe), are
+      selected for tongue diagnosis.
+
+      This project will employ the ATDS verified to extract the tongue features of patients with
+      upper gastrointestinal disorders. Through statistically analysis of the data collected and
+      cross-referencing the existing indices of western medicine, we aim to derive meaningful TCM
+      indices from tongue diagnosis of upper gastrointestinal diseases, such as peptic ulcer, etc.
+      A TCM indices derived through the non-intrusive tongue diagnosis procedure can provide
+      valuable information for clinical doctors to analyze the current status of a patient and
+      dynamically schedule a treatment plan, facilitating early detection and diagnosis of upper
+      gastrointestinal disorders.
+    
+  

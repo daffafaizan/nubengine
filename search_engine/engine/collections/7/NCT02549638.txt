@@ -1,0 +1,20 @@
+
+    
+      The study will utilize both retrospective and prospective data collection from patients that
+      have already had a bronchoscopy and lung resection or will have a bronchoscopy and lung
+      resection for squamous cell carcinoma. The investigators plan to prospectively collect 5
+      bronchoscopic biopsies, 10ml blood and one tumor and adjacent normal samples from 200
+      qualified patients who meet the study criteria. If a patient has already had a bronchoscopy
+      and has consented to have samples stored for research at the Mayo Clinic Rochester we will
+      access them for the research study if available. Otherwise, if the patient has already had
+      surgery and tissue has not been stored for research the investigators will consent patients
+      to use their clinical specimens for the research study. The investigators will then extract
+      DNA from tissue sections and blood and use a custom targeted sequencing panel of 23 cancer
+      driver genes with significant mutations in squamous cell carcinoma that they have developed
+      to find the prognostic biomarkers. The DNA will be used in a PCR reaction to generate
+      amplicons for library preparation using Illumina Nextera XT library preparation protocol and
+      targeted sequencing on the Illumina Hiseq sequencer. The reads will be aligned to the HG19
+      using BWA aligner and variant detection performed with Agilent SureCall and GATK analytic
+      tools.
+    
+  

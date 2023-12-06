@@ -1,0 +1,201 @@
+
+    
+      Almost 15% of European citizens suffer from migraine and its comorbidities. Migraine is the
+      second most disabling chronic neurological disease, with devastating repercussions on the
+      life of those who are affected, their relatives and society. Migraine manifests in recurring
+      attacks lasting 4-72 hours characterized by severe head pain, often throbbing, associated
+      with nausea, photo and phonophobia, vomiting, cognitive deficits, severe emotional distress
+      and complete disability. If not diagnosed and appropriately treated, migraine can transform
+      into a chronic form (15 or more days of headache/ month) often associated with acute
+      medication overuse and severe comorbidities such as depression, anxiety and panic disorders.
+
+      The disability associated to migraine is closely related to the frequency of the attacks.
+      Epidemiological studies show that in Europe 34$ of migraineurs suffer from more than 5
+      headache days per month and 1-3% of the general population has migraine on more than 15
+      days/month, thus qualifying for the diagnosis of Chronic Migraine (CM).
+
+      Migraine is a genetically-driven, chronic "neurosensorial" disorder, where the unpredictable
+      recurrence of the attacks is modulated by the variable efficiency of the fine-tuned interplay
+      of the brain with dynamic sensory stimuli originating from the internal or external
+      environment.
+
+      Migraine can be viewed as a cycling functional disorder that affects several areas of the
+      brain, involving multiple pathways ultimately leading to the excessive activation of
+      trigeminovascular afferents in the meninges with the local release of vasoactive substances
+      (calcitonin gene-related peptide - CGRP ) and the activation of the neuroinflammatory
+      cascade.
+
+      Unlike several other chronic neurological diseases, migraine can be successfully treated and
+      prevented. Unfortunately, this is true only for subgroups of patients and for a limited
+      period, due to the nonspecific therapeutic armamentarium available: calcium antagonists,
+      beta-blockers, antidepressants, antiepileptics and, only for chronic migraine,
+      onabotulinumtoxin-A. This is the direct consequence of the complex pathophysiology of the
+      disease, but mostly and, more importantly, by the total absence of biomarkers of disease and
+      of responsiveness to available drugs.
+
+      In the last years, enormous efforts have indeed been undertaken to identify biomarker of
+      migraine, especially for the chronic form. Functional imaging has provided important clues on
+      the machinery underlying attack generation and imaging biomarkers for chronic migraine,
+      whereas it has become evident that epigenetic processes - DNA methylation in particular - may
+      play an important role in the phenotypical expression of migraine. Attack recurrence and the
+      associated changes in neuronal activity may indeed cause epigenetic changes that alter
+      synaptic plasticity, thus leading to more frequent migraine attacks and ultimately promotes
+      stable epigenetic changes in a feed-forward loop. Circulating levels of CGRP have also been
+      evaluated as a possible peripheral biomarker of migraine in consideration of the seminal
+      observations that CGRP levels increase in the external jugular vein during a migraine attack.
+
+      The second half of 2018 marked a revolution in the treatment of migraine: the advent of the
+      monoclonal antibodies (mABs) directed against CGRP or its receptor. They proved safe and
+      effective in reducing migraine frequency and represent the first class of preventive drugs
+      targeting a specific step in the cascade of events leading to the migraine attack. Results
+      from clinical trials have shown that approximately 1/3 of patients are excellent responders
+      (>75% reduction in headache days) whilst 1/3 patients are non- or poor responders (<25%
+      reduction in headache days) to CGRP-targeted mABs.
+
+      CGRP-targeted mABs do not interfere with other systems or medications. Consequently, the fact
+      that patients can be stratified as responders and non-responders creates a unique opportunity
+      to better understand the difference of response in patients clinically alike and, through
+      this, provide unprecedented insights into the pathophysiology of migraine allowing the
+      migraine field to move towards a pathophysiological driven classification.
+
+      For decades the migraine scientific community has been searching for biomarkers associated
+      with the disease or with its response to treatment. Unfortunately, to date none has been
+      validated. This failure is likely related to multiple reasons: the complex and dynamic nature
+      of migraine-associated biological processes (attack vs. pre-post interictal phase), the
+      multiplicity of neurotransmitters (serotonin dopamine, neuropeptides, etc.), the
+      neuroanatomical structures (peripheral, central) and the interindividual variability of
+      disease expression. Moreover, the reasons for the failure of previous studies are also
+      associated with the variability between studies, in terms of methodology, population and
+      endpoints, which has led to inconsistent findings and low estimate precision.
+
+      Now, a selective class of preventive drugs that specifically target a biological step in
+      migraine disease has become available, prompting the possibility to precisely stratify
+      migraine subjects on the basis of their pharmacological response. The availability of
+      high-throughput technologies is providing unprecedented opportunities to identify molecular
+      markers of complex disease by extracting meaningful signatures from complex and heterogeneous
+      sets of data. Molecular biomarkers of thoroughly stratified populations can be combined with
+      deep clinical phenotyping and also with epigenetic, pharmacogenetic and neuroimaging
+      variables, that are relevant for migraine. The availability of migraine-specific animal
+      models also contributes to identifying and firmly placing important pieces to the migraine
+      puzzle.
+
+      Against this background, a hybrid data-driven and knowledge-based approach building on
+      clinical and preclinical inputs and including phenotype, genetic, neuroimaging and animal
+      data will provide a large informative dataset that can be effectively analyzed with machine
+      and deep learning algorithms for feature selection, modeling and for subsequent
+      cross-validation to ultimately yield a precise, robust and reproducible model for predicting
+      the response of migraine to a specifically targeted preventive treatment. This will be a
+      crucial step in the therapeutic decision process, especially in the most severe and disabling
+      form of migraine, chronic migraine. It will also provide additional positive implications in
+      the field, such as prompting the ground for a pathophysiology-driven diagnosis and, equally
+      important, robust scientific evidence to European decision makers and health-care providers
+      for optimizing the distribution of resources and rationalizing the access to care of migraine
+      sufferers. Engagement of patients is envisaged both in the planning and conducting of the
+      study to ensure that project methodology and results are in line with their needs and
+      expectations, thus favoring the translation into clinical practice.
+
+      Monoclonal antibodies targeting CGRP (CGRP-mABs) have been shown to be effective in the
+      preventive treatment of migraine. They are large molecules that do not cross the blood brain
+      barrier, have a long half-life (20-45 days) and do not interact pharmacologically. They are
+      administered parenterally, which warrants less intra-individual variations and a better
+      adherence to treatment.
+
+      CGRP-mABs have proven safe and effective in multiple phase II and III randomized controlled
+      clinical trials and were approved by FDA and European Medicines Agency (EMA) as a preventive
+      treatment for migraine. Four CGRP-mABs have been studied and 3 of them have been approved by
+      EMA in late 2018 and 2019: erenumab, galcanezumab and fremanezumab.
+
+      A strong body of evidence suggests that CGRP-mABs induce a 50% response (50% reduction in
+      monthly headache days) in about 50% of subjects, with a 75% response in 30-40% of patients.
+      The latter group, from now on defined as 'excellent responders', represents an interesting
+      subgroup of migraine subjects whose disease is likely particularly dependent on CGRP-related
+      pathways. Hence, the availability of mABs targeting CGRP together with the demonstration of
+      their efficacy in relevant subgroups of subjects prompt a formidable tool to tackle precisely
+      a subset of mechanisms and pathways underlying the disease.
+
+      CGRP-targeted mABs do not interfere with other systems or medications. Consequently, the fact
+      that patients can be precisely stratified as excellent responders and non-responders creates
+      a unique novel opportunity to unravel hitherto concealed differences between patients with
+      the same diagnosis and, through this, provides unprecedented insights into the
+      pathophysiology of migraine. Ultimately, this will allow the migraine field to move towards a
+      neurobiological definition of responders and a pathophysiological driven classification.
+      Defining predictors to this response will in turn allow obtaining a more cost-effective
+      approach to migraine healthcare. Engagement of patients is envisaged both in the planning and
+      conducting of the study based on the long-standing collaboration with the European Migraine
+      and Headache Alliance (EMHA), which has been aligned and involved in the preparation of the
+      present proposal.
+
+      Epigenetics is acquiring an increasing importance in the panorama of biological events that
+      leads to the transformation of episodic migraine (EM) into chronic migraine (CM). Frequent
+      recurrence of migraine attacks may indeed promote stable epigenetic changes in a feed-forward
+      loop thus altering synaptic plasticity. So far, the most significant associated CpG sites
+      related to migraine chronification are SH2D5, NPTX2 and RAMP1, three brain-expressed genes
+      involved in the regulation of synaptic plasticity and CGRP modulation. However, it is still
+      not known whether a specific profile of DNA methylation, which is a stable epigenetic
+      chemical marker crucial for many cellular activities, can predict the clinical response to
+      preventive therapy in migraine patients.
+
+      Neuroimaging Functional imaging studies have revolutionized this area and provided unique
+      neuroanatomical and functional insights into migraine machinery. Functional imaging has
+      revealed that the pathophysiology of migraine crucially involves
+      hypothalamo-thalamo-brainstem networks. Pharmacological imaging has begun to shed light on
+      how medications may enfold their effect in migraine.
+
+      The combination of structural and functional imaging parameters with and without external
+      input will give us the unique opportunity to characterize patients who respond to
+      CGRP_targeting antibodies against those who do not. These data will then be an additional
+      powerful source for informing animal projects and also machine learning algorithms.
+
+      The overarching and main objective of this proposal is the identification of predictive
+      biomarkers of response to treatment with CGRP-targeted mAbs in chronic migraine, the most
+      severe and disabling form of migraine.
+
+      Screening will be performed at visit 1 (month 0). Patients will sign the informed consent and
+      will be instructed to fill in a headache diary and will return after 1 month (+2 days) for
+      visit 2 (V2). At V2, after verification of inclusion/exclusion criteria, enrolled subjects
+      will fill in the protocol scales (Assessment of disability - monthly MIDAS, Headache Impact
+      Test 6 (HIT-6) -, depression - Beck Depression Inventory, BDI-II -, anxiety - Beck Anxiety
+      Inventory, Beck Anxiety Inventory (BAI) -, quality of life - MSQ- , subjective cognitive
+      impairment scale for migraine attacks - Mig-SCog -, comorbidities, acute medications intake,
+      anxiety and depression - Beck scales - and Emergency Room Use), they will undergo blood
+      sampling, neuroimaging and they will receive the first treatment administration.
+
+      Healthy controls will be screened at V1 and, following the verification of the satisfaction
+      of inclusion/exclusion criteria and the signature of the informed consent, will fill in the
+      protocol scale, they will undergo blood sampling and neuroimaging.
+
+      The first dose (defined according to the indication approved by the Local Health Authorities)
+      of the CGRP-targeting monoclonal antibody will be administered during the hospital visit.
+
+      The patient will receive 2 additional doses of the drug and a training on the modality of
+      self-injection and specific indication of the day they will perform the self-injection. They
+      will also receive the headache diary and associated instructions for filling it in regularly
+      during the following 3 months.
+
+      No drug treatment is foreseen for healthy controls.
+
+      No concomitant migraine preventive treatment will be allowed during the screening, baseline
+      and the 3-month treatment period.
+
+      Abortive medications will be allowed, but the type and formulation should be kept stable
+      during the study. Data about their doses and frequencies will be recorded.
+
+      A remote visit will be scheduled 30 (week 4) and 60 (week 8) days after day 1 to monitor
+      patient's health status, remind the treatment schedule and collect the data from the headache
+      diaries (visit 3 and 4).
+
+      At visit 5 (week 12), all migraine subjects will undergo:
+
+        -  Assessment of disability (MIDAS, HIT-6), work impairment (WPAI scale), evaluation of
+           acute medications intake, anxiety and depression, quality of life (MSQ), Emergency Room
+           Use.
+
+        -  Assessment of treatment efficacy through the headache diaries (migraine days/month)
+
+        -  Assessment of treatment satisfaction with validated patient reported outcomes (PROs).
+
+      Excellent responders and non-responders will also undergo neuroimaging evaluation: 3Tesla
+      Magnetic resonance imaging (MRI) involving Structural (sMRI) resting state MRI (rsMRI),
+      Arterial Spin Labelling (ASL) and Diffusion Tensor Imaging (DTI).
+    
+  

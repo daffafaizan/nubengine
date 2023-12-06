@@ -1,0 +1,114 @@
+
+    
+      I. SPECIFIC AIMS
+
+        1. To measure and calculate Z Scores of cardiac structures and function using 3-DE in a
+           large cohort of healthy infants, children, and adolescents.
+
+        2. To investigate the utility of 3-DE in infants, children and adolescents with congenital
+           and acquired heart disease.
+
+      II. BACKGROUND AND SIGNIFICANCE
+
+      Congenital heart disease (CHD)is one of the most common congenital malformations and is
+      associated with significant mortality and morbidity. Acquired heart diseases are also common
+      and have significant impact on the health of the young. As the therapeutic strategies are
+      evolving, reliable non-invasive methods to image the cardiovascular system and quantitatively
+      assess cardiac function with accuracy and reproducibility are pivotal to define the natural
+      history, to evaluate the results of intervention and to assess long-term
+      outcome.Three-dimensional echocardiography (3-DE) has important clinical applications to CHD.
+      Because of growth throughout childhood,interpretation of these measurements requires
+      normalization of the dimensions of cardiac structures to the size of the body. This is
+      commonly done by the calculation of Z scores for the measurement of interest. Currently
+      available normative data in the medical literature are limited to one-dimensional and
+      two-dimensional echocardiography measurements only.
+
+      In this study, we will generate normative data of the 3-DE measurements for cardiac structure
+      and function in a large cohort of healthy infants, children,and adolescents. We will also
+      investigate the utility of 3DE for assessing the cardiovascular structures and cardiac
+      function for congenital and acquired heart disease.
+
+      III. DESIGN AND METHODS
+
+      A. Subjects:
+
+      A total of 800 study subjects will be enrolled in the study after approval by the
+      Institutional Review Board. Echocardiography data will be prospectively collected. The
+      subjects will be divided into 5 groups:
+
+      Group 1. (n=300) Patients with normal cardiac anatomy and function by echocardiography.
+
+      Group 2. (n=300) Patients with various congenital heart diseases.
+
+      Group 3. (n=100) Patients with sickle cell disease and at risk for ventricular remodeling and
+      pulmonary hypertension.
+
+      Group 4. (n=50) Patients with Duchenne and muscular dystrophy at risk for ventricular
+      remodeling and dysfunction.
+
+      Group 5. (n=50) Patients with Marfan syndrome or the aortic disease.
+
+      B. Procedure:
+
+      Before the study, heart rate and blood pressures will be obtained for each study subject. The
+      subjects will be placed in a left recumbent position and ECG attached. After a complete
+      conventional echocardiographic assessment of each subject, real-time 3-DE /Doppler study will
+      be performed with 3-DE system. The 3-DE study will take about 30 minutes. After each study,
+      all data will be saved and processed off line. Indication for the clinical echocardiogram
+      will include cardiac murmur, syncope or chest pain but with a normal echocardiogram. Informed
+      consent will be obtained from each patient and legal representatives after a full explanation
+      of the procedure.
+
+        1. Conventional echocardiography All patients will undergo a complete 2- dimensional, color
+           flow Doppler, and spectral Doppler examination. Examination will be performed using a
+           commercially available ultrasound system (IE33 system, Philips, Andover, Mass). All
+           measurements will be made offline using a computer workstation(Xcelera,Philips Medical
+           Systems,Andover,MA). All measurements will be made according to American Society of
+           Echocardiography protocol. For any given structure, measurement will be made if
+           excellent and unambiguous views were available.
+
+        2. Transthoracic 3-DE The 3-DE/Doppler studies will be performed using the IE33 (Philips,
+           Andover, MA,USA) ultrasound machine with X3-1 or X7-2 matrix-array transducers. The X7-2
+           matrix-array transducer is a new tool and particularly well suited for small children.
+           The patient will be in a decubitus position. Image acquisition will be performed from an
+           apical window with the LV as the region of interest based on international
+           recommendations. To encompass the complete LV into the 3D dataset, a full volume scan
+           will acquire in harmonic mode from four R-wave triggered subvolumes. This scan will
+           carried out during an end-expiratory breath hold a few seconds when possible. The 3D
+           dataset will be stored in a DICOM format on a CD-ROM and transferred to separate
+           workstations for off-line data analysis.
+
+      C. Image off-line analysis
+
+        1. QLAB Semiautomated Border Detection Method:A semiautomated border detection biplane LV
+           volume analysis was performed using off-line QLAB version 8.0 software (Philips). The LV
+           end-diastolic volume (EDV) and end-systolic volume (ESV) (smallest LV volume) frames are
+           identified.On both of these end-diastolic and end-systolic frames,five identification
+           points are marked: the septal, lateral, anterior, and inferior mitral annulus and the
+           apex (from either one of the views). Then the software automatically delineates the LV
+           endocardial border and, by sequential analysis, creates a LV mathematical model or
+           "cast" that represents the LV cavity.
+
+        2. TomTec Semiautomated Method:LV volume analysis will be performed off-line using TomTec
+           4D LV-Analysis software. TomTec requires triplane manual tracing of the endocardial
+           border after which the software selects a fitting geometric model and the total LV
+           endocardial border is automatically delineated with possible manual corrections. Based
+           on the six initial contours, a spatiotemporal interpolation model (like a pulsating
+           balloon) is created by rotational and temporal interpolation of these contours.
+           According to the initial balloon, the algorithm starts to detect the endocardial border
+           continuously in the entire 4D dataset (without large gaps due to interpolation), like
+           deforming the balloon in the LV until it best fits the walls in each frame. Adjustments
+           can be made manually after this step in oblique, sagittal, and coronal planes.
+           Subsequently, a final reconstruction of the LV model and a time-volume curve are
+           created. LV-EDV and LV-ESV are the largest and smallest volume, respectively, from this
+           time-volume curve.
+
+      D. Data Analysis
+
+      All numerical values are expressed as mean +/- standard deviation. The real- time 3-DE
+      measurements will be compared with other clinical data and measurements, such as cardiac
+      catheterization or magnetic resonance imaging. Statistical significance will be defined as
+      P<0.05. All statistical analyzes will be done using SAS for Windows version9.1 and Microsoft
+      Excel (Microsoft Office 2007) for all analysis.
+    
+  

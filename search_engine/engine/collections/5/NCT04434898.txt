@@ -1,0 +1,93 @@
+
+    
+      Currently, Alzheimer's Disease (AD) and Parkinson's Disease (PD) are diagnosed mainly by
+      neurologists, based on clinical symptoms. However, there are no objective criteria available
+      for their diagnosis. Although magnetic resonance imaging (MRI) is often employed in
+      conjunction with clinical judgement, the images are mostly used to eliminate other diseases,
+      rather than to confirm the diagnosis. Other imaging methods, such as Position Emission
+      Tomography or Computed Tomography, may help in the diagnosis of AD and PD, but have harmful
+      effects on the human body.
+
+      Diffusion MRI, and in particular Diffusion Tensor Imaging, are often employed in the
+      evaluation of changes in connectivity in the central nervous system. As it is non-invasive
+      and does not involve radiation, diffusion MRI is suitable to be used for longitudinal
+      studies. It has been used for the evaluation of fiber density and cross-section in many
+      diseases, including epilepsy, multiple sclerosis, and brain tumours, with good results.
+      Several measurements can be obtained from diffusion MRI, including fractional anisotropy and
+      mean, radial and axial diffusivity. Changes observed in diffusion MRI are related to changes
+      in water content inside and outside of cells, so an increase in the diffusion coefficient
+      could reflect an increase in cell membrane permeability, which may be attributed to cell
+      death and rupturing. A higher diffusion coefficient may be indicative of more neuronal death.
+      Therefore, using diffusion kurtosis, the investigator may be able to improve diagnoses of PD.
+
+      From research on AD, the investigator found that the diffusion coefficient of patients with
+      mild cognitive impairment and AD is significantly higher than control patients. The
+      investigator will carry out analysis on 90 brain regions, including the fusiform gyrus,
+      hippocampus, parahippocampus and cingulum. The listed regions have been observed to have
+      differences in mean diffusivity for AD patients and those at risk for AD, as compared to
+      normal controls. In previous studies, overlaps were observed between areas where the mean
+      diffusivity increases and areas where brain regions shrink, but there are more regions and
+      larger areas where the diffusion coefficient increases. Therefore, the mean diffusivity may
+      be a more suitable clinical index than the current method of brain volume. In addition, there
+      is a correlation between increased mean diffusivity and the severity of mild cognitive
+      impairment or AD. Amyloid deposition is consistent with disease progression, further
+      supporting that mean diffusivity can be used to reflect the progression of mild cognitive
+      impairment and AD.
+
+      The investigator plan to use Compressed Sensing to increase the speed of diffusion MRI. This
+      includes image preprocessing, acquisition of Compressed Sensing observations, rebuilding the
+      model, and reconstructing the algorithm. The investigator also plan to overcome the current
+      limitations of region-of-interest analysis. One way of achieving this is by voxelwise
+      analysis, however it has limitations caused by normalization of the image to a template
+      space, and possible problems in tractography caused by rotation or distortion of the image.
+      Furthermore, the use of a study specific template prevents the results from being available
+      in Brodmann or Talairach coordinates. Most importantly, voxel analysis is not based on brain
+      regions, so it is difficult to determine the properties of each region, and according to our
+      algorithm, a large amount of voxel data would greatly reduce the resolution of the statistics
+      and cause problems in statistical analysis. Therefore, the investigator have to use a common
+      standard space, and develop a suitable imaging technique.
+
+      The investigator choose to use Automatic Anatomical Labelling (AAL), as this is a commonly
+      used system used in neuroscience research. The investigator also use the Montreal
+      Neuroscience Institute 152 Template (MNI152) as out standard template. In the imaging and
+      processing of the whole brain, the investigator use Affine Transformation, as this is
+      commonly used for MRI and diffusion MRI. This includes Camino, FSL, and SPM. The investigator
+      will study how the aging of a healthy brain changes the diffusion MRI and make comparisons
+      between aging in males and females.
+
+      The investigator will also use Deep Learning to increase the sensitivity and specificity and
+      to improve the accuracy of classification and diagnosis, by data set sample allocation data
+      preprocessing, and deep neural network design.
+
+      Using AAL, whole brain parcellation will be performed to obtain diffusion MRI information of
+      regions in the brain. Affected regions will be identified and analysed. The investigator hope
+      that diffusion MRI using whole brain regions can be used for differential diagnosis and for
+      identifying regions that have high correlation with clinical severity, and for accurate
+      disease diagnosis and prognosis, to serve as a reference for clinicians.
+
+      The investigator aim to use diffusion MRI to assess cognitive function and evaluate if it
+      deteriorates in patients with neurodegenerative diseases. In addition, the investigator hope
+      to use diffusion MRI to determine the disease severity and prognosis. Worsening of
+      neurodegeneration and cognitive ability brings about increased mortality and poorer quality
+      of life. The relationship between diffusion MRI results and disease severity may provide an
+      objective method allowing clinicians to diagnose these diseases with greater confidence and
+      earlier on in disease onset, before the worsening of symptoms.
+
+      The study will be completed in three phases, over three years. In the first year, the
+      investigator hope to establish an optimal high-quality imaging compression sensing scheme and
+      image data restoration process for diffusion MRI. The investigator also hope to develop an
+      optimal method for brain parcellation, and to use deep learning to improve diagnosis of
+      patients with mild cognitive impairment.
+
+      In the second year, the investigator hope to establish a process for predicting the prognosis
+      of patients with typical and atypical PD, using deep learning. The investigator also hope to
+      complete our evaluation of using deep learning for the diagnosis of mild cognitive
+      impairment.
+
+      In the third year, the investigator aim to complete the development of a method for
+      predicting the prognosis of patients with typical and atypical PD. The investigator will also
+      establish and complete our method of using deep learning to evaluate if patients with mild
+      cognitive development will develop AD. Furthermore, the investigator will complete the user
+      interface for image processing.
+    
+  

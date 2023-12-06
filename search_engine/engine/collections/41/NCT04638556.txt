@@ -1,0 +1,85 @@
+
+    
+      1. Screening lncrnas that regulate DPN inflammatory response and bind to miR-146a
+
+           ① Experimental grouping The experiment was divided into T2DM group and DPN group. T2DM
+           group was simple type 2 diabetes, without complications and other basic diseases; DPN
+           group was simple T2DM patients with DPN. The diagnostic criteria for T2DM patients were
+           in accordance with the Chinese guidelines for the prevention and treatment of type 2
+           diabetes (2017 Edition). The screening criteria for T2DM patients with DPN are as
+           follows: 1. Clear history of type 2 diabetes mellitus. 2. Neuropathy at or after the
+           diagnosis of diabetes. 3. The clinical symptoms and signs were consistent with those of
+           DPN. Clinical symptoms include: numbness or sensation; tingling or tingling; pain;
+           abnormal sensitivity or tenderness after touching. 4. Examination: A. abnormal
+           temperature sense; B. 10 g nylon thread examination, foot sensation decreased or
+           disappeared; C. abnormal vibration sense; D. ankle reflex disappeared; e. two or more
+           items of nerve conduction velocity were slowed down (electromyography or sensory
+           threshold measurement). 5. Nerve injury caused by other diseases or drugs was excluded.
+           Two of the above five items were abnormal, or clinical symptoms + 1 item were abnormal.
+           ② Under the condition of full informed consent, 3ml plasma samples were collected from
+           T2DM group and DPN group, 4 copies in each group, and stored in refrigerator at - 80 ℃.
+           ③ Screening of lncrnas and mRNAs differentially expressed in two groups of samples by
+           gene sequencing.
+
+           Total RNA was extracted from tissue samples. The concentration and purity of RNA were
+           detected by Nanodrop2000. The integrity of RNA was detected by agarose gel
+           electrophoresis, and RIN value was determined by Agilent2100. The total RNA of a single
+           library was 2 UG, the concentration was more than 100 ng / μ L, od260 / 280 was between
+           1.8 ~ 2.2, and rRNA was removed. Using metal ions, the mRNA was randomly broken into
+           small fragments of about 200 bp. Under the action of reverse transcriptase, a single
+           strand of cDNA was synthesized by using random primers and using mRNA as template.
+
+           The second strand of cDNA was synthesized by substituting dUTP for dTTP. The structure
+           of the double stranded cDNA is a sticky end. The end repair mix is added to make up the
+           flat end, and then an a base is added at the 3 'end to connect the Y-shaped junction.
+           The second strand of cDNA was digested by ung enzyme so that only the first strand of
+           cDNA was contained in the library. Then the Illumina sequencer platform was used for
+           sequencing to obtain the original sequencing data. The differentially expressed lncrnas
+           and mRNAs were obtained by quality control and sequence alignment. ④ The lncrnas with
+           difference multiple ≥ 2 were obtained, and the lncrnas co expressed with inflammatory
+           factors were determined by co expression analysis. ⑤ Different lncnras were retrieved
+           from mircode and Starbase databases to obtain lncnras combined with miR-146a.
+
+        2. In vitro validation of candidate lncnras:
+
+           ① high concentration glucose (200mmol / L) induced injury of Schwann cells; ② detection
+           of the expression of candidate lncnras and miR-146a in high glucose induced Schwann
+           cells to obtain lncnras with high expression; ③ double luciferase reporter gene
+           experiment to verify the combination of candidate lncnras and miR-146a, and obtain
+           candidate lncnras binding to miR-146a; ④ construction Methods: lncnras silencing vector
+           was used to transfer candidate lncnras into high glucose induced Schwann cells; ⑤
+           Western blot and liquid chip were used to detect the levels of inflammatory factors (TNF
+           - α, IL-1 β, IL-6 and IL-10) in Schwann cells; and ⑥ correlation analysis was used to
+           determine the lncrnas positively correlated with inflammatory factors.
+
+        3. Large plasma samples were used to verify the correlation between candidate lncrnas and
+           miR-146a and inflammatory factors.
+
+             -  the experimental grouping was the same as before; ② with full informed consent, 50
+                plasma samples were collected from T2DM patients and T2DM patients with DPN, each
+                3ml each. ③ candidate lncrnas and miR-146a primers were designed and QRT PCR was
+                used to detect the candidate lncrnas and miR-146a The levels of inflammatory
+                factors (TNF - α, IL-1 β, IL-6 and IL-10) in the plasma of the two groups were
+                detected by liquid chip technology; ⑤ lncrnas negatively correlated with miR-146a
+                and positively correlated with the expression of inflammatory factors were
+                determined by correlation analysis.
+
+                4. Statistical treatment: SPSS 23.0 software was used for statistical analysis. The
+                measurement data are expressed as mean ± SD One way ANOVA or nonparametric test was
+                used to analyze the distribution and grouping characteristics. Pearson correlation
+                analysis was used to analyze the correlation of measurement data. With P < 0.05,
+                the difference was statistically significant.
+
+                5. Technical route this study is mainly divided into three parts. Firstly, lncrnas
+                that regulate DPN inflammatory response and bind with miR-146a are screened; on
+                this basis, candidate lncnras are obtained by in vitro validation; finally, lncnras
+                with molecular marker function are verified on large sample plasma samples.
+
+                6. Technical difficulties In this study, we used gene sequencing technology to
+                detect the differential expression of lncrnas and mRNAs in plasma of T2DM patients
+                and DPN patients, combined with bioinformatics technology to screen lncrnas related
+                to inflammation and bind to miR-146a. Objective to screen for miR-146a binding
+                proteins associated with inflammation Lncrnas are the technical difficulties in
+                this study.
+    
+  

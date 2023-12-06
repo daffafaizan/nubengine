@@ -1,0 +1,17 @@
+
+    
+      The study has a crossover design. Patients will start in standard ASV 1.1 settings, then
+      attending physician will assess the ventilation parameters according to study protocol and
+      will note them in the case report form as he starts the data recording with MemoryBox (MB)in
+      the mixed mode. Afterwards, the clinician will start the first phase by either keeping the
+      patient in ASV 1.1 without any closed-loop controllers activated or switching to ASV 1.1 with
+      only FiO2 controller activated according to the randomization. After 2.5 hours of recording
+      in the first phase, the clinician will switch the patient to the second phase regarding
+      randomization order. If the patient was ventilated without FiO2 controller activated in the
+      first phase, the controller will be activated in the second phase. The patient will stay in
+      the second phase for 2.5 hours as well. The first 0.5 hours of the first phase will be
+      considered as run-in phase and the first 0.5 hours of the second phase will be considered as
+      wash-out phase. Therefore the first 0.5 hours of each phase will be excluded from data
+      analysis due to cross-over study design.
+    
+  

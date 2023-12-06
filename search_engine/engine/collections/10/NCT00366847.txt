@@ -1,0 +1,32 @@
+
+    
+      The research proposed here is motivated by the need to support pediatric cardiologists in
+      making image-based decisions in the assessment and management of congenital heart disease
+      (CHD). In marked contrast to adult cardiology, which deals almost exclusively with the left
+      ventricle (LV), the function of the RV is associated with a number of life-threatening
+      conditions in pediatrics. These defects include Hypoplastic Left Heart Syndrome (HLHS),
+      Congenitally Corrected Transposition of Great Arteries, Post operative Tetralogy of Fallot,
+      and Double Outlet Right Ventricle.
+
+      In particular, a computer model that simulates both the myocardium and blood pool of the
+      right ventricle (RV) is being investigated that can be used to measure clinically useful but
+      diverse parameters of RV blood flow and wall behaviors that previously would require multiple
+      analysis tools to acquire. The model is based on data from MRI studies of patients. Alternate
+      measurement techniques such as ultrasound and catheter pressure measurements are needed to
+      verify the efficacy of the model.
+
+      Through a retrospective chart review of CHD patients with defects associated with RV
+      dysfunction, data will be obtained from CHOA over a five year period, June 1, 2001 through
+      May 31, 2006. It will be collected from 10 children aged 0-18 years. Magnetic Resonance
+      images, Ultrasound and catheterization measurements will be collected and analyzed.
+
+      Data from MR will be used primarily to determine RV volumetric data. This information will be
+      used to determine RV shape at the different stages of systole and through diastole. The RV
+      shapes are the input to the computer model. The computer model will determine relevant
+      clinical measures such as ejection fraction, pressure measurements, strain rate, and wall
+      thickening based solely on the MR image data. The ultrasound and catheter data will be used
+      as independent sources of verification against the data determined from the computer model.
+      Ultrasound data will be used to compare ejection fraction and wall behavior to the predictive
+      model and catheter data will be used to compare pressure measurements.
+    
+  

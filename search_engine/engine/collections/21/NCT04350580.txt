@@ -1,0 +1,91 @@
+
+    
+      As of 30/03/2020, 715600 people have been infected with COVID-19 worldwide and 35 500 people
+      have died, mainly from acute respiratory distress syndrome (ARDS) complicated in 25% of cases
+      with acute renal failure. No specific pharmacological treatment is available yet. Pulmonary
+      lesions in these patients are related to both viral infection and an inflammatory reaction.
+      Patients admitted to intensive care have an important inflammatory response and increased
+      plasma concentrations of IL2, IL7, IL10, GCSF, IP10, MCP1, MIP1A, and TNFα.
+
+      In the blood, the number of peripheral CD4 and CD8 T cells appears to be significantly
+      reduced, while their status is hyperactivated. This is evidenced by immunoreactive
+      cytometrics for HLA-DR (CD4 3-47%) and CD38 (CD8 39-4%) or by an increase in the proportion
+      of highly pro-inflammatory Th 17 CCR6+ lymphocytes. In addition, CD8 T cells would exhibit a
+      highly cytotoxic profile characterized by high concentrations of cytotoxic granules,
+      perforin+, granulysin+ or double positive, suggesting associated complement activation.
+      Because of their immunomodulatory action, which can attenuate the inflammatory response; and
+      also strengthen the anti-viral defence, it is proposed to evaluate the efficacy and safety of
+      intravenous immunoglobulin (IGIV) administration in patients developing post-SARS-CoV2 ARDS.
+
+      IGIV modifies cell function of dendritic cells, cytokine and chemokine networks and
+      T-lymphocytes, resulting in the proliferation of regulatory T cells to regulate the activity
+      of T lymphocytes CD4 or CD8. The action of IGIV induces an activation more particularly of
+      lymphocytes T regulators that could modulate the effects of the lymphocyte populations
+      described in the study by Xu et al during COVID-19. In addition, IGIV modulate humoral
+      acquired immunity, through their effect on the idiotypic network and antibody production.
+      They also act on innate immunity, through antigen neutralization and modulation of phagocytic
+      cells. These effects result in a decrease in the production of pro-inflammatory cytokines and
+      complement activation, key factors in post-SARS-CoV2 ARDS.
+
+      IGIV is part of the treatment for a variety of autoimmune and inflammatory diseases. The
+      standard IGIV as well as polyclonal IGIV significantly reduced mortality in patients with
+      septic shock and in Kawasaki disease, which is post-viral vasculitis of the child. In
+      addition, they would not only be beneficial in post-influenza ARDS, but also would also in 3
+      cases of post-SARS-CoV2 ARDS. IVIG is a treatment option because it is well tolerated,
+      especially regarding renal function.
+
+      These factors are encouraging to quickly conduct a multicentre randomized placebo-controlled
+      trial testing the benefit of IGIV in post-SARS-CoV2 ARDS.
+
+      We hypothesize that the number of days without invasive mechanical ventilation (IMV) is 10
+      days in the placebo group and 15 days in the experimental group with a standard deviation of
+      6 days, considering a mortality of 50% and 40% in the placebo and experimental groups
+      respectively (26, 27). The number of days without IMV in the placebo group is (50% x 10 D) +
+      (50% x 0 D) or 5 D on average, and following the same calculation for the experimental group
+      of (60% x 15 D) + (40% x 0 D) or 9 D.
+
+      Therefore, a mean value of 5 days without ventilation in the placebo group versus 9 in the
+      experimental group is assumed, and the 6-day standard deviation is assumed to be stable.
+      Given the uncertainty regarding the assumption of normality of distributions, the
+      non-parametric Wilcoxon-Mann-Whitney test (U-test) was used for the estimation of the sample
+      size. Considering a bilateral alpha risk of 5% and a power of 90% and an effect size of 0.6,
+      the number of subjects to be included is 138 patients, 69 in each arm.
+
+      The primary and secondary analyses will be stratified by age categories, sex and other
+      clinically relevant factors (comorbidities). Demographic characteristics and parameters
+      identified at enrolment will be summarized using descriptive statistical methods.
+
+      Demographic summaries will include gender, race/ethnicity, and age. For demographic and
+      categorical background characteristics, a Cochran-Mantel-Haenszel test will be used to
+      compare treatment groups. For continuous demographic and baseline characteristics, a Wilcoxon
+      test will be used to compare treatment groups.
+
+      The number of days without mechanical ventilation will be presented as a mean with standard
+      deviation. The groups will be analyzed in terms of intention to treat and the difference
+      between the two groups will be analyzed by a non-parametric test of comparison of means,
+      stratified for the primary endpoint. The point estimate of the difference between treatments
+      and the associated 95% confidence interval will be provided.
+
+      A regression model for censored data (Cox model) will explore prognostic factors. The IGIV
+      immunological and pathological related efficacy endpoints will also be compared according to
+      their distribution and analyzed using Student, Mann-Whitney and Fisher tests.
+
+      Other variables will be presented as means and standard deviations or medians and
+      interquartile ranges according to their distribution and analyzed by Student, Mann-Whitney
+      and Fisher tests.
+
+      Parameters that are measured on a time scale from randomization or start of administration
+      will be compared between treatment groups using the Log-Rank test.
+
+      The choice of statistical tests and multivariate models (parametric or non-parametric) will
+      be made for each variable based on observed characteristics (normality of distributions and
+      residuals, collinearity).
+
+      The statistical analyses relating to the main objective will be carried out as intention to
+      treat. Secondary analyses on the population per protocol may also be carried out.
+
+      All tests will be bilateral with a significance threshold of 5%. The software used will be
+      SPSS v26 (SPSS Inc., Chicago, IL, USA). An interim analysis will be performed after 50
+      participants are enrolled and another after 100 inclusions.
+    
+  

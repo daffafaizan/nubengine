@@ -1,0 +1,49 @@
+
+    
+      Pragmatic Trial Demonstration Goals
+
+      The HiLo Trial is one of the pragmatic trial demonstration projects of the NIH Health Care
+      Systems (HCS) Research Collaboratory. These demonstration projects are intended to be large
+      clinical trials that are conducted within the clinical care environment and evaluate
+      interventions implemented by care providers and relying as much as possible on data obtained
+      as part of routine clinical care. HiLo has the following demonstration project goals:
+
+        1. To implement an electronic consent process;
+
+        2. To use of a single IRB of record to oversee hundreds of dialysis facilities;
+
+        3. To implement a trial-driven treatment algorithm by dietitians at the participating
+           dialysis units
+
+        4. To harmonize across 2 different dialysis providers data elements obtained though
+           clinical care;
+
+        5. To monitor safety without using individual adverse event reporting.
+
+      HiLo will cluster-randomize dialysis facilities using stratification to achieve balance
+      across the two arms. Stratification will be by dialysis provider organization (DaVita or
+      University of Utah) and by unit size (above or below the provider's median facility census).
+      Within each stratum, the facilities will be randomly assigned. Once a facility is randomized,
+      all of its individually enrolled patients will be assigned the same treatment.
+
+      Participants will be followed for up to 27 (enter at enrollment end) - 45 (enter at
+      enrollment start) months.
+
+      Two phosphate titration protocols will be used that have the same "look and feel" as those
+      used in practice in an effort to sustain a mean time-averaged difference in serum phosphate
+      between the two arms of ≥1 mg/dl:
+
+        1. Low serum phosphate target that is consistent with current standard of care: The goal is
+           to titrate and maintain serum phosphate to <5.5 mg/dl.
+
+        2. Higher serum phosphate target that is the intervention strategy: The goal is to titrate
+           and maintain serum phosphate to ≥6.5 mg/dl by setting a serum phosphate threshold >7.0
+           mg/dl when binders will be initiated, as has been done previously.
+
+      A mean serum phosphate of 4.8-5.2 is anticipated in the low arm and 6.5-6.8 in the high arm,
+      as observed in two pilot clinical trials.Since serum phosphate is 4-7 mg/dl in most patients
+      with ESRD, ≥1 mg/dl difference equates with a ≥33% difference within the modifiable range of
+      time-averaged phosphate exposure. Specific binder choices will be relegated to the discretion
+      of local providers based on local practice.
+    
+  

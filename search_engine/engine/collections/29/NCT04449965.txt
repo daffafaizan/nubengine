@@ -1,0 +1,134 @@
+
+    
+      The proposed study is a prospective randomized double blinded placebo-controlled study of
+      6-weeks in duration. Patients who have tested positive and diagnosed with COVID-19 within the
+      previous 72 h and who meet the inclusion and exclusion criteria, will be invited to
+      participate in this study.
+
+      This study will be involving non-hospitalized patients who are recovering at home. One arm
+      will use betadine sinonasal rinses and a betadine mouth gargle while another arm will act as
+      a control receiving a placebo (a food coloring agent). A third arm will use a 0.6% PVP-I gel
+      forming nasal spray twice daily. A baseline saliva sample will be collected to assure a
+      positive COVID-19 test and to quantify viral load. Repeat saliva samples will be collected
+      every 2 days for 2 weeks, then at 4 weeks and 6 weeks to quantify test status and quantify
+      viral load reduction. WURSS-44 questionnaires will be completed daily for 2 weeks and then
+      again at 4 weeks and 6 weeks. SNOT-22 questionnaires will be completed at baseline and then
+      again at 2 weeks, 4 weeks, and 6 weeks. The investigators will also monitor for worsening of
+      symptoms and the need for hospitalization for the entire 6 week duration of the study.
+
+      Upon enrolment in the study after obtaining positive results for COVID-19, demographic data
+      and clinical data will be obtained by the investigators. Patients will be randomly assigned
+      to one of the study arms delineated above by permuted block randomization
+
+      The clinical samples that detect COVID-19 are obtained by collecting a saliva sample prior to
+      rinsing. This will avoid confounding by artificially lowering the viral particles sampled and
+      will minimize any potentially inhibitory effects of the intervention compounds on lab
+      detection. The sample will be put into a sterile collection container and stored in the
+      fridge until it is transported to the laboratory for analysis.
+
+      Sample Size
+
+      Considering the quick turnover and the rapid doubling time in the number of positive cases
+      and the unprecedented nature of this study's design and treatment, the investigators hope to
+      recruit 20 patients in each study arm as a pilot study around this subject matter. To account
+      for a drop-out rate of 25% the investigators plan to recruit 27 patients in each arm.
+
+      Analysis
+
+      Primary outcomes
+
+        1. Time to a negative/undetectable RT-PCR SARS-CoV-2 saliva sample amongst patients rinsing
+           and gargling with 0.23% PVP-I compared to a placebo group measured during the study
+           treatment daily for 2 weeks and at the 4-week and 6-week mark.
+
+           1.1. A Kaplan-Meier curve and log rank test will be used to compare the time to a
+           negative saliva test from the start of the study between patients receiving PVP-I to
+           those receiving the placebo. A hazard ratio of >1 will favor treatment with PVP-I,
+           calculated with a 95% confidence interval by Cox proportional hazards model.
+
+           1.2. The median time to negative swab in the PVP-I group versus the control will be
+           statistically compared using the unpaired Mann-Whitney U test.
+
+           1.3. The proportion of patients with a negative sample will be compared between the
+           PVP-I group and control group at all times points using the Chi-squared test.
+
+           1.4. A subsequent risk factor analysis will be conducted using the cox proportional
+           hazards model, investigating the independent influence of various host and disease
+           factors on the time to a negative sample during the study period. The following relevant
+           factors included in the multivariable regression were identified a priori upon
+           consultation with experienced clinicians at our center: gender, age, smoking status
+           (yes/no), baseline viral load, known baseline lung comorbidity (yes/no) , duration of
+           symptoms before treatment.
+
+        2. SARS-CoV-2 viral load changes in the saliva amongst patients rinsing and gargling with
+           0.23% PVP-I compared to a placebo group measured during the study treatment daily for 2
+           weeks and at the 4-week and 6-week mark.
+
+           2.1. Logarithmic viral load levels in the saliva samples will be graphed and compared
+           between the PVP-I and placebo group at all time points using the unpaired Mann-Whitney U
+           test. For complete statistical analysis, a value of 1 log base 10 copies/mL will be
+           assigned to samples with undetectable viral levels.
+
+        3. Time to a negative/undetectable SARS-CoV-2 saliva sample as well as SARS-CoV-2 viral
+           load changes amongst patients rinsing and gargling with 0.23% PVP-I compared to the 0.6%
+           PVP-I gel forming nasal spray for 2 weeks and at the 4-week and 6-week mark.
+
+      3.1. Similar analysis as per 1.1, 1.2, 1.3 and 2.1 above in primary outcomes.
+
+      Secondary outcomes
+
+        1. Change in symptom scores between the PVP-I group and placebo group as assessed by the
+           SNOT-22 scores collected at baseline and at the 2-week, 4-week and 6-week mark.
+
+           1.1. SNOT-22 scores will be graphed and compared between baseline and each time point
+           for each group separately using the ANOVA with repeated measures test and Bonferroni
+           post hoc test.
+
+           1.2. The change in SNOT-22 scores between baseline and each time point will be compared
+           between groups using the unpaired Mann-Whitney U test.
+
+        2. Change in symptom scores between the PVP-I group and placebo group as assessed by the
+           WURSS-44 scores collected daily from baseline for 2 weeks and at the 4-week and 6-week
+           mark.
+
+           2.1. WURSS-44 scores will be graphed and compared between baseline, the 2 week, 4-week
+           and 6-week marks for each group separately using the ANOVA with repeated measures test
+           and Bonferroni post hoc test.
+
+           2.2. WURSS-44 scores will be graphed and compared between baseline and at all time
+           points using the unpaired Mann-Whitney U test.
+
+        3. The need for hospitalization between the PVP-I group and placebo group. 3.1. The
+           Kaplan-Meier technique will also be used to compare the need for hospitalization from
+           the start of the study between both groups.
+
+        4. The change in SNOT-22 scores, WURSS-44 scores and the need for hospitalization between
+           patients rinsing and gargling with 0.23% PVP-I compared to the 0.6% PVP-I gel forming
+           nasal spray.
+
+      4.1. Similar analysis as per 1.1, 1.2, 2.1, 2.2 and 3.1 above in secondary outcomes.
+
+      Descriptive statistics (mean, median, SD) will be used to describe demographic
+      characteristics of the patients. Results will be considered statistically significant with p
+      values < 0.05. All statistical analyzes will be performed using RStudio version 3.4.1
+      (RStudio, Boston, MA, USA).
+
+      Assessment of Safety
+
+      Safety Monitoring
+
+      Patients who experience signs and symptoms of iodine reaction will be noted and the code will
+      be broken so that a discussion can occur between the research supervisor and the patient
+      regarding the use of the topical iodine.
+
+      Patients can contact the office anytime if they notice any of the signs or symptoms of iodine
+      reaction and will be seen by the research supervisor (or designate) within 24 hours.
+
+      Adverse Events (AE's)
+
+      All expected and unexpected adverse events will be recorded and graded by the research
+      supervisor. Stable chronic conditions, which are present prior to the clinical trial entry
+      and do not worsen, are not considered adverse events and will be accounted for in the
+      patient's medical history.
+    
+  

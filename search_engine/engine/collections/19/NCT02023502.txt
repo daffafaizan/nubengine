@@ -1,0 +1,51 @@
+
+    
+      Methods:
+
+      Sample preparation and analysis will include:
+
+        1. Sample collection and immediate addition of protease inhibitor cocktail (Roche, Complete
+           Protease Inhibitor Cocktail).
+
+        2. Urine centrifugation and filtration for removal of cell debris.
+
+        3. Protein precipitation by applying methanol/chloroform separation for removal of all
+           possible non-proteinic substances.
+
+        4. Protein digestion applying in-solution trypsin, pepsin, and Glu-C.
+
+        5. Peptide separation using nano HPLC and different chromatographic approaches.
+
+             1. Reversed phase (RP) separation of peptides and MS detection
+
+             2. Separation of peptides using HILIC (hydrophilic Interaction Liquid Chromatography)
+                for discrimination of polar peptides.
+
+             3. In addition to RP and HILIC directly coupled to MS, digested peptides will be
+                separated using multidimensional approaches. Weak anion exchange columns operated
+                under HILIC conditions will be used to separate peptides carrying posttranslational
+                modifications such as phosphorylation or acetylation, thus, increasing the dynamic
+                range of detection. During this separation, fractions will be collected and
+                re-injected onto the RP and HILIC with MS detection.
+
+             4. All nano HPLC separations will be performed using biocompatible separation system.
+
+      Mass spectrometric analysis of digested peptides will be performed using two different
+      detection methods: ion-trap and the time-of-flight (qToF) MS. qToF mass spectrometric
+      detection and analysis will also be used for the label-free quantitation of peptides and
+      proteins detected in samples. All measurements will be performed in triplicate to provide
+      corrections for technical variability of separation and ionization.
+
+      General database search will be performed using the Human SwissProt Database in its actual
+      version at the time of analysis. Data search will be performed using Mascot
+      (http://www.matrixscience.com/) and X!Tandem (http://www.thegpm.org/tandem/) search machines,
+      and the final data allocation and filtering by using Scaffold (www.proteomsoftware.com).
+
+      Statistical analysis:
+
+      Data analysis will be conducted with the bioconductor package limma. Before data analysis,
+      data will be filtered by excluding proteins with measurements with a low interquartile range.
+      Groups will be compared by moderated paired t-statistics adjusting for age. Adjustment for
+      multiple testing will be done by Benjamini-Hochberg correction controlling the FDR at 0.05.
+    
+  

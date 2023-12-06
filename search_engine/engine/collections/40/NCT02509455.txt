@@ -1,0 +1,19 @@
+
+    
+      1. Determine a long time recording (over 60s) description of any differences in the drift
+           and noise for the 2 systems during simultaneous recordings with the systems aligned with
+           each other at rest.
+
+        2. Compare Sensoro trunk sway measures with those of SwayStar for a battery of 17 stance
+           and gait tasks. The tasks to range from tasks with small velocities (standing on 2 legs
+           eyes open, ca 0.1 deg/s or eyes closed on foam ca.10 deg/s) through tandem and gait
+           tasks with velocities of ca 70 deg/s to the most dynamic with high velocities (rising
+           from a chair, ca 150 deg/sec).
+
+        3. Estimate the additional value of adding trunk sway values for the yaw axis as an outcome
+           measure of balance control.
+
+        4. Estimate the advantage of adding one or two sensors on the legs to help identify gait
+           balance events and body posture.
+    
+  

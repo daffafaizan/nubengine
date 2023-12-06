@@ -1,0 +1,48 @@
+
+    
+      The knowledge of right ventricular (RV) volumes is important from a clinical prospective.
+      Traditionally, these volumes have been measured by cardiac magnetic resonance (CMR) because
+      of its accuracy, reproducibility, and freedom from geometric assumptions. More and more,
+      however, 3D echo has been used for assessment of ventricular volumes, first for left
+      ventricle, now increasingly for RV. Most publication are basing RV volumes on images acquired
+      from the apical window. However, some data have called the practice of basing these images on
+      apical window into question. Moreover, despite our best efforts, we have been unable, in our
+      laboratory to reliably visualize RV outflow from the apical view. An alternative view that
+      can be used for RV 3D volume acquisition (first pioneered at BCH) is the subcostal view.
+      Therefore, we plan to conduct a head-to-head comparison of RV volumes acquired from these two
+      windows (apical and subcostal), with comparison to gold-standard CMR.
+
+      Hypothesis: RVEDV measured by the subcostal window is more accurate than RV volume measured
+      in the apical window in a cohort of pediatric patients.
+
+      Analytic plan: Echocardiograms will be performed on the same day as the CMR, and will be
+      performed by a group of sonographers trained in 3D volume acquisition. Descriptive statistics
+      will include mean and median absolute % error and coefficients of variation. A paired t-test
+      will be used to compare raw differences in %error for apical vs. subcostal window
+      measurements. If the %error is highly skewed, a Wilcoxon signed-rank test will be used or the
+      %error values will be log-transformed before application of the paired t-test (if no zero
+      %error values exist). Linear regression will be used to estimate the window-differences in
+      %error or log(%error) controlling for age and/or sedation status. Assessments of feasibility
+      for both windows will be performed as described by Renella et al; and reproducibility of
+      measurements made with echo vs. CMR will be also be graphically assessed using Bland-Altman
+      plots of the raw measurements for data derived from each window. As a secondary (stratified)
+      analysis, we anticipate dividing the cohort into 2 groups of 25 patients each (25 < 10y; 25 >
+      10y). Patients under 10y will typically be under anesthesia. Exploratory analyses will
+      investigate subgroup differences defined by demographic/ surgical variables with respect to
+      the magnitude of the difference between the 2 techniques. Of note the analyses performed
+      above will also be performed for LV (in addition to RV) as a secondary analysis (with
+      comparison of LV-specific vs. non-LV specific software, as appropriate).
+
+      Sample size/Power: funding is provided for 50 patients and this will be our target sample
+      size. The analysis will be paired, to compare the %error (echo relative to MRI) measurements
+      from apical vs. subcostal windows). To detect a 0.5 SD difference in apical vs. subcostal
+      windows %error with 85% power, 38 subjects with echo & MRI are required. If the comparisons
+      are performed stratified by age (25 subjects per age group), there is 80% power to detect a
+      0.58 SD difference in apical vs. subcostal windows %error.
+
+      Limitations: CMR, while considered a gold-standard, has a certain amount of intrinsic
+      variability in volume measurement. Moreover, a statistically significant difference may not
+      necessary be a clinically important difference. Patients will not have echo and CMR performed
+      at the exact same time.
+    
+  

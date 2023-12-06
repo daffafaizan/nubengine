@@ -1,0 +1,160 @@
+
+    
+      The E-DYNAMIC trial a pragmatic randomized two-arm parallel trial that will randomize 51
+      teamlets at the Hines Veterans Affairs (VA) hospital outpatient and community based
+      outpatient clinics to either the E-DYNAMIC CDS vs. standard care. The E-DYNAMIC CDS will be
+      activated for PCPs who practice in teamlets allocated to the E-DYNAMIC CDS group and this CDS
+      will be kept active for 18 months to maximize the number of patients with potential CKD who
+      complete a clinic visit with teamlets enrolled in the trial.The index date represents the
+      first visit with the PCP after the date of switching on E-DYNAMIC CDS in intervention and
+      standard care groups. E-DYNAMIC will be active for 18 months to maximize the number of index
+      visits of CKD patients with their PCP during the trial; patients with early stage 3 CKD may
+      not visit their PCP annually.
+
+      Randomization Scheme: The unit of randomization will be at the teamlet level. PCPs within a
+      teamlet provide coverage for each other's patients so randomization of teamlets will help
+      prevent contamination. We will match the teamlets in pairs based on their potential patients
+      volumes, # of PCPs, and location (hospital based clinic vs. community based outpatient
+      clinic). A computer generated randomization scheme will then be used by the biostatistician
+      to randomize the pairs to either intervention or control. We will analyze the data for all
+      three aims at the patient level, clustered by teamlets; therefore, our analyses will account
+      for intra-cluster correlation among patients within the randomized cluster (PCPs practicing
+      in teamlets).
+
+      After randomization, we will turn on the E-DYNAMIC CDS for the PCPs working within teamlets
+      allocated to the E-DYNAMIC CDS. The E-DYNAMIC CDS will be seen by the PCPs at the
+      point-of-care for their highly likely chronic kidney disease (CKD) patients identified by
+      up-to-date laboratory data. Teamlets assigned to the standard care group will have no change
+      to their clinical practice. The trial is not blinded and PCPs will be aware if they receive
+      the E-DYNAMIC clinical decision support (CDS). Written individual consent will not be
+      obtained from the providers or patients. All PCPs working in eligible teamlets which could be
+      randomized to the E-DYNAMIC CDS will be contacted several months before trial initiation to
+      inform them of the study and provide them with opportunity to opt-out of the study. All
+      providers who do not opt-out will be eligible to be randomized to the E-DYNAMIC CDS or
+      standard care groups.
+
+        1. Study cohort: Our PCP cohort includes all PCPs practicing in PACT teamlets. Our analyses
+           will include patients ≥ 50 years old with two eGFR < 60 mL/min/1.73 m2 for ≥ 3 months
+           apart with no intermittent eGFR> 60 mL/min/1.73 m2 in the electronic health record
+           because these patients have confirmed CKD. Patient level data from administrative
+           records will be queried to obtain information on PCP prescribing practices and patient
+           use of medications and services for 12 months before trial initiation and for 12 months
+           after trial initiation. We will ascertain patient demographics; co-morbidities; mention
+           of CKD in the problem list or an international classification of disease (ICD 9/10) code
+           for CKD, prescription and proportion of days covered (PDC) for statin medications and
+           angiotensin converting enzyme inhibitors, angiotensin receptor blockers (ACE/ARB); and
+           prescription and use of nurse education services, medical nutrition therapy (MNT) from a
+           dietitian, PharmD consult for medication management, nurse visit for blood pressure
+           check and smoking cessation by social worker for smokers.
+
+        2. Data sources: Patient level data will be obtained from the following administrative
+           national Veterans Health Administration (VHA) datasets including the corporate data
+           warehouse (CDW), Veterans Affairs Vital Status File, and Managerial Cost Accounting
+           National Data Extracts where information on medication prescriptions are stored. Our
+           analyses will exclude patients receiving dialysis or with a kidney transplant. In order
+           to identify patients receiving dialysis or with a previous kidney transplant, we will
+           link data files with the United States Renal Data System (USRDS) database to further
+           identify these patients. Patient demographics, patient co-morbidities, CKD status based
+           on laboratory data and CKD diagnoses (in the problem list or ICD 9/10 code) and statin
+           and anti-hypertensive medication prescriptions will all be obtained from the CDW, VA
+           Vital Status File and Managerial Cost Accounting National Data Extracts. Reason(s) for
+           not prescribing statins will be collected with E-DYNAMIC and will be saved in the CDW as
+           a health factor for future analysis. Because a small percentage of patients receive
+           their medication from non-VA pharmacies, we will also use data from the Center for
+           Medicare & Medicaid Services (CMS) Medicare Part D 'Slim' file obtained from the VA
+           Information Resource Center to capture statins and anti-hypertensive medications
+           including medications dispensed from non- VA pharmacies. The VA Status Files is updated
+           quarterly.
+
+        3. Patient surveys: Using data from the CDW, we will identify eligible patients receiving
+           care at the Hines VA hospital and community based outpatient clinics who have upcoming
+           PCP (in the trial teamlets) appointment in the next 0-6 months. We will stratify the
+           patients by teamlet and use random number generator to select equal number of patients
+           from each teamlet for a total number of 750 eligible patients to participate in the
+           survey (pre-test). These same patients will be followed up for 6 months from the Index
+           visit date and contacted again to re-take the survey (post-test). Our sampling strategy
+           will account for patients who will not show up for their appointments (20%),
+           non-response (20%) and loss to follow-up during post-test (30%). We anticipate that 400
+           Veterans will complete the pre and post surveys. We will mail a short, informational
+           letter explaining the purpose of the survey, their role and the voluntary nature of
+           participation. We will inform the patient that our study coordinator will contact them
+           in the next couple of weeks to conduct the survey. Patients will be provided a phone
+           number to call to opt-out of the survey. We will use a verbal consent script to obtain
+           verbal consent before proceeding with patient surveys. The survey instruments will
+           consist of the standardized and validated Patient Activation Measure (PAM). Survey will
+           also include questions about statin and/or ACE/ARB use and other hypertension use, and
+           why the patient thinks the doctor prescribed them and if they have received CKD
+           education from a nurse or attended a group CKD education class.
+
+        4. Provider perception surveys: We will conduct provider (PCP and nurse) perception surveys
+           to evaluate E-DYNAMIC only in the intervention arm after one year of trial enrollment.
+           The survey will be available via-email, on paper in the clinic or by phone whichever is
+           convenient to the provider. The survey instrument will include short battery of
+           statements asking providers to indicate on a 5 point scale how strongly they agree or
+           disagree with statements regarding experiences about the E-DYNAMIC CDS (PCPs) and the
+           trial (PCPs and nurses), followed by limited number of open ended questions asking for
+           their feedback and recommendations for improvement. We will use a written consent script
+           at the beginning of the provider surveys and assume consent if the provider proceeded to
+           take the on-line survey.
+
+      Statistical analysis and hypothesis testing
+
+        1. primary outcomes:The data analysis for the outcomes will be conducted at the patient
+           level clustered by teamlets; therefore, our analyses will account for intra-cluster
+           correlation among patients within the randomized cluster (PCPs practicing in teamlets).
+           All the primary outcomes in this study are binary (1-Yes/ 0-No). We will assess the
+           outcome variables for each patient at two time points: during 12 months prior to the
+           index date and postintervention 12 months after the index date. The preintervention data
+           will be used as a covariate to adjust for differences in baseline values. For all three
+           aims, we propose to use the two-level mixed-effect logistic regression model to analyze
+           the data with patients at level 1 nested within clustered teamlets (PCPs) as level 2.
+           Although some teamlets may have more than 1 PCP, the PCPs will not be treated as a
+           different level since PCPs within the same teamlets share the same patients and the same
+           clinical nurses. In addition, the associations between teamlets within hospitals are
+           assumed to be very minimal and ignorable given that the E-DYNAMIC system is turned on
+           specifically and limited to PCPs in the randomized intervention group. We will formulate
+           the probability of a positive outcome (1- Yes) for a given patient in a given clustered
+           teamlet using the multilevel mixed effect model. The analysis will be adjusted for
+           patient level (e.g. age, gender, race, and baseline CKD stage or presence of diabetes,
+           hypertension, ASCVD) and teamlet level (e.g. proportion of baseline CKD recognition,
+           number of providers in teamlet, average PCP age in teamlet, median years in practice of
+           teamlet PCPs) covariates to eliminate potential impact on outcomes.
+
+        2. Patient surveys: In the initial analyses, we will analyze the raw scores (0-100) from
+           the PAM survey and answers to the medication awareness and education participation. We
+           will use the difference in differences approach to compare change in patient activation
+           level from pre to post between intervention and control groups. A mixed-effect
+           regression model will be applied to account for the intra-cluster correlations. Our
+           analyses will control for patient demographic and medical characteristics.
+
+        3. Provider perception surveys: We will use descriptive statistics to describe results from
+           the provider surveys separately for nurses and PCPs and report summary descriptive
+           statistics. Established qualitative analytic techniques will be used to examine results
+           from the open-ended questions, albeit staff answers may be brief, it will involve
+           identifying key themes and concepts emergent from the data to generate meaningful
+           categorization.
+
+      Sample size justification
+
+        1. Primary outcomes: An estimated 7,825 patients with CKD in 51 teamlets receive care from
+           the Hines VA based clinics and its associated 6 CBOC clinics. We have conducted power
+           calculations under various scenarios for changing the effect size (proportion difference
+           in the outcome between intervention and standard care groups) and the outcome level in
+           the standard care group. To test the primary outcomes in 3 specific aims, the
+           significance level of alpha was decreased to 0.0167 accounting for the multiple
+           hypothesis testing in each aim. As such, a total sample size of 50 clustered teamlets
+           (25 in each group) and 4000 patients in each clustered teamlet is anticipated to have
+           82% power to detect at least a 10% difference in the outcome between the two groups,
+           with an intra-cluster correlation of 0.05 and 20% of patients with the outcome in the
+           control group. Our study will also be powered at 80-90% to detect a 20% difference in
+           the outcome between the intervention and control groups with the half available number
+           of clusters (20 clusters).
+
+        2. Patient surveys: For the patient surveys, at a significance level of 0.05, and
+           accounting for an intra-cluster (teamlet) correlation coefficient (ICC) of 0.01, a
+           sample size of 400 patients [10 clusters in each group (intervention and control) and 20
+           patients in each cluster] is estimated to achieve enough power (at least 90%) to detect
+           a difference of 5 points (with SD =10 ) change in the pre- and post-intervention score
+           of PAM-13 survey between the intervention and standard care control groups.
+    
+  

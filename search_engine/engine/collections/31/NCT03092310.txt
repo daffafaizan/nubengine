@@ -1,0 +1,16 @@
+
+    
+      This is a feasibility study of an artificial pancreas (AP) system with our previously
+      validated target eMPC and HMS algorithms, with the addition of a trust index of the predicted
+      glucose value integrated into the portable Artificial Pancreas System (pAPS). The system will
+      be evaluated on up to 20 subjects, with the goal of 10 subjects completing a 48-hour
+      closed-loop session at one clinical site (William Sansum Diabetes Center). During the session
+      subjects will bolus for all meals and snacks and perform a 45-minute walking session.
+
+      The purpose of this pilot study is to establish that closed-loop insulin delivery with a
+      target enchanted model predictive control (eMPC)/Health Monitoring System (HMS) algorithms
+      with a trust index of the predicted glucose value is safe and effective, to analyze and learn
+      to improve upon the accuracy of the predicted glucose values, and to collect efficacy data to
+      inform a future larger study.
+    
+  

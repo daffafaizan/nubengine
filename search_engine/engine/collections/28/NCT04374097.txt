@@ -1,0 +1,123 @@
+
+    
+      Hypotheses/Research questions:
+
+      H1: Health employees and public service providers working directly with COVID-19 will have
+      higher PTSD-symptoms, anxiety, depression and health anxiety, compared to health workers and
+      public service providers working indirectly with the virus.
+
+      H2: Presence of a psychological disorder, anxiety and depression will predict PTSD symptoms.
+      Those reporting having a diagnosis will reveal higher PTSD-symptoms. Higher levels of anxiety
+      and depression will be associated with higher PTSD-symptoms.
+
+      H3: Emotional support, burnout, health-anxiety, worry about job and economy, interpersonal
+      problems and metacognition will predict PTSD-symptoms controlling for direct vs. indirect
+      exposure to trauma, psychological diagnosis, demographic variables (age and gender, living
+      with a partner, living with children, anxiety and depression. Higher level of burnout,
+      health-anxiety, worry about job and economy, interpersonal problems and metacognition will be
+      associated with higher PTSD-symptoms. Higher emotional support will be associated with lower
+      PTSD-symptoms.
+
+      Participants were asked to fill out a set of validated questionnaires including demographic
+      variables, psychological symptoms and PTSD-symptoms. Some questionnaires are given as a
+      whole, whereas other questions includes theoretically-driven selections of items from
+      validated questionnaires. This study is part of a 'The Norwegian COVID-19, Mental Health and
+      Adherence project". The study involves a Cross-sectional survey design. Health personnel and
+      public service providers where systematically targeted through various channels: e.g.,
+      primarily through systematically reaching out to all hospitals in Norway and inviting health
+      personnel to participants, through contacting the Associations of all major health-worker
+      groups (i.e., Norwegian Medical Doctors Association; Norwegian Nurses Association, Norwegian
+      Psychologists Association; and other associations related to health-workers) through national
+      TV, national, regional and local radio stations, and national, regional and local newspapers
+      in the different regions of the country, as well as Facebook groups in the different regions
+      of the country. Additionally, a random selection of those qualifying as health-care workers
+      were randomly targeted on Facebook by a Facebook Business algorithm. Public service providers
+      were recruited trough Facebook. Politicians where also systematically contacted, with all
+      political parties being contacted and subsequently sending an e-mail with the survey to their
+      members.
+
+      Data collection started during the time-period with the strictest and equal number of
+      government-initiated non-pharmacological interventions (NPI's) in Norway, and data collection
+      was stopped once these NPI's were modified or new information about NPI's were added. The
+      data include one directly identifiable variable (contact information) for participants in
+      accordance to the General Data Protection Regulation (GDPR) law in EU, which is to give the
+      participants the opportunity to have their data deleted upon request. Data are thus kept on a
+      safe server belonging to the University of Oslo and is accessed first following
+      de-identification. The project outline and study plan was also registered upon application to
+      the Norwegian "Regional Ethical Committee" 10 days before data collection, a committee which
+      evaluate the rational for data collection and hypotheses as well as evaluate the ethical
+      aspects of the study before allowing the data to be collected.
+
+      Measures
+
+      PCL-5, PHQ-9; GAD-7; demographic variables (gender; age; relationship/marital status; living
+      with children and number of children; employment status; education level); situational
+      variables related to Covid-19, worry about own health and worry about economy/work, emotional
+      support, interpersonal problems, burnout, metacognitions and whether one has a psychological
+      diagnosis or not. The outcome variable is PCL-5. Predictors are specified in the
+      hypothesis-section.
+
+      Indices:
+
+      Given Acceptable Cronbach's alpha (above 0.7) the investigators combined four items that
+      measure health anxiety and fear of death related to COVID-19. Furthermore two items will be
+      combined to represent worry about work and economy. Two items on emotional support were
+      combined. On the CAS1 four items were combined into the subscale "positive metacognition" and
+      four items were combined into the subscale "negative metacognition". Interpersonal problems
+      consisted of 13 items selected from the IIP-64. Burnout was measured with a single item
+
+      Inference:
+
+      Given the large sample size in this study, the investigators pre-defined our significance
+      level:
+
+      p < 0.01 to determine significance
+
+      Sample size 'Norwegian COVID-19 and Mental Health and Adherence Project' involves multiple
+      studies, where some involve a Complex Systems (Network analysis approach). These multivariate
+      analyses require large samples and power analysis was conducted accordingly. Following power
+      analysis guidelines by Fried & Cramer (2017), it is recommended that the number of
+      participants be at the very least three times larger than the number of estimated parameters.
+      However, more conservative recommendations by Roscoe (1975) for multivariate research,
+      recommends sample size that is ten times larger than the number of estimated parameters.
+      Thus, with the more conservative estimates by Roscoe, an optimal sample size included 1900.
+
+      Statistical models:
+
+      Descriptive statistics with frequency tables including N, mean and SDs or median and
+      interquartile range depending on the data will be presented. A cut-off of 31 on the PCL-5
+      will be used together with the DSM-5 diagnostic guidelines applied to the PCL-5 to categorize
+      participants as fulfilling the PTSD symptom criteria or not. Participants indicating scores
+      of 2 or above on at least one of five re-experiencing symptoms, one of two avoidance
+      symptoms, two of seven symptoms of negative alterations in cognition and mood and two of six
+      arousal symptoms were classified as fulfilling the PTSD symptom criteria. Subclinical PTSD
+      will be assessed by specifying how large part of the sample which fulfil parts of the
+      PTSD-criterias. The results will be benchmarked against national and international studies.
+
+      Independent sample t-tests or Mann-Whitney U tests, depending on level of skewness, will be
+      used to compare the PCl-5 scores of those working direct vs. indirect with COVID-19 patients.
+      A One-way ANOVA or Kruskal-Wallis test, depending on level of skewness, will be conducted to
+      exploratory investigate differences between the different types of health-workers (e.g.
+      medical doctor and clinical psychologists) and public service providers (e.g., politicians,
+      social security). If there is significant differences between the groups the investigators
+      will either use a post hoc test, Tukey (HSD) or Dunn-Bonferroni, depending on wether a
+      parametric or non-parametric test has been used.
+
+      Two multiple regression analyses will be conducted with PCL-5 as the dependent variable.
+      Specific predictors of the different regression are listed in the hypothesis section.
+      Multicollinearity and other assumptions will be checked; if the multicollinearity assumption
+      is violated (if VIF > 5 and Tolerance < 0.2.
+
+      Exploratory analyses:
+
+      Exploratory: Examine the differences in levels of trauma, anxiety, depression and health
+      anxiety among different health workers, public service providers and demographic subgroups.
+
+      The investigators may also do other exploratory analysis that not yet thought of at the time
+      of pre-registration. Such analysis will be explicitly stated as exploratory.
+
+      Note that this project outline, study plan and analysis was registered upon application to
+      the Regional Committees for Medical and Health Research Ethics (REC) and Norwegian Centre for
+      Research Data.
+    
+  

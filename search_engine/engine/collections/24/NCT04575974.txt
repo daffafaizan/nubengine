@@ -1,0 +1,112 @@
+
+    
+      There is need for knowledge on modifiable risk factors for MSK pain in young ages to better
+      target treatment and preventive. A combination of lifestyle factors has been associated with
+      several health issues including MSK pain in adults, but has to the best of our knowledge not
+      previously been investigated as a risk factor for MSK pain in the youth.
+
+      OBJECTIVE The objective of this study is to investigate whether a combination of lifestyle
+      factors in adolescence is associated with later persistent MSK pain in young adulthood.
+      Lifestyle factors will be assessed by combing levels of physical activity, sleep problems,
+      alcohol consumption, use of drugs and smoking.
+
+      The analysis will be conducted in a mixed sample of adolescents with or without MSK pain, and
+      in a subgroup of adolescents without MSK pain in the first survey.
+
+      STUDY DESIGN AND PLAN This study will be a prospective cohort study using data from the large
+      population-based Nord Trøndelag Health Study (HUNT). Data from YoungHUNT3 (2006-2008) and
+      HUNT4 (2017-2019) will be used, including the same participants examined With 11-year
+      follow-up. The data in Young-HUNT 3 was collected through questionnaires, interviews and
+      measurements during school time. Adolescents, who did not attend school, received an
+      invitation to participate by mail. The outcome data was obtained by electronic questionnaire
+      or paper from HUNT 4.
+
+      EXPOSURE VARIABLE A combined lifestyle variable will be composed based on scorings in the
+      lifestyle variables physical activity level, sleep problems, alcohol consumption, drug use
+      and smoking level from Young-HUNT3, which will all be categorized as healthy/ unhealthy (as
+      defined below). The combined lifestyle variable will be arranged with 0 unhealthy lifestyle
+      factors present as the reference category, and 1 factor, 2 factors and >3 unhealthy lifestyle
+      factors present as the other categories. The combined variable will be investigated both with
+      and without alcohol consumption.
+
+        -  Physical activity level: less than 2-3 days a week with sports or exercise is classified
+           as a unhealthy level.
+
+        -  Sleep problems is measured by two questions; one of whether the adolescents have
+           problems falling asleep at night and one of whether the adolescents wake up early and
+           have problems falling asleep again. Answering "often" or "almost every night" on one or
+           both of these questions is classified as unhealthy.
+
+        -  Alcohol consumption is measured by a question of whether the participants have ever
+           tried to drink alcohol, and a question of whether the participants have ever been
+           drinking so much that they have felt intoxicated (drunk). Those who have never tried
+           drinking alcohol or have been intoxicated ≤10 times will be classified as healthy.
+           Reporting >10 intoxications will be classified as unhealthy.
+
+        -  Use of drugs: those who answer that they have tried hash, marijuana or other drugs will
+           form the unhealthy group.
+
+        -  Smoking will be dichotomized with no smokers in the healthy group and daily and
+           occasional smokers in the unhealthy group. Previously smokers will be included in the no
+           smoking group.
+
+      CONFOUNDING FACTORS
+
+      Background factors
+
+        -  Sex
+
+        -  Age
+
+        -  Perceived family economic
+
+      Health factors
+
+        -  Psychological distress, measured by the Symptom Checklist-5.
+
+        -  Persistent MSK pain at baseline was assessed with the question "How often have you had
+           the below-listed pain during the last 3 months?". The participants who answered that
+           they had had pain in neck/shoulder, upper back, lower back, chest, left arm, right arm,
+           left leg and/or right leg once a week or more often are considered to have persistent
+           MSK pain at baseline.
+
+      (Additional analyses will be conducted with adjustment for BMI, measured by kg/m2).
+
+      ANALYSIS METHODS Statistical tests will be two-sided, and p-values <0.05 will be considered
+      statistically significant. P-value and the 95% confidence intervals will be reported. All
+      continuous variables will be investigated for normality through histograms and QQ-plots.
+      Normally distributed descriptive data of study participant will be presented with means and
+      standard deviations (SD), skewed data will be presented with median and ranges and
+      categorical data will be presented as counts and percentages. The analysis will be conducted
+      with STATA statistical software system.
+
+      Missing data:
+
+      For missing data on the exposure variable and confounding factors, multiple imputation will
+      be considered. Variables with more than 20% missing data will be excluded. Participants with
+      missing outcome data will be excluded from the analyses. Characteristics of the individuals
+      lost to follow-up will be compared to characteristics of responders at follow-up.
+
+      Incidence and prevalence:
+
+      The prevalence and incidence rate of MSK pain will be presented.
+
+      Relative Risk:
+
+      General linear models with a binomial link function will be used to investigate the
+      association between combined lifestyle factors in adolescence and persistent MSK pain in
+      young adulthood. The combined lifestyle factor variable will be investigated both with and
+      without alcohol as one included lifestyle factor. The associations will be investigated in
+      unadjusted and adjusted analyses. The adjusted analyses will be conducted first with
+      adjustment for background factors, second with adjustment for background factors,
+      psychological distress and MSK pain at baseline. There will be conducted additional analyses
+      with adjustment for BMI (kg/m2). The results will be reported as relative risks (RRs) with
+      95% confidence intervals.
+
+      Sub-group analyses:
+
+      Subgroup analyses will be conducted on a sample of adolescents free from pain at baseline.
+      There will also be conducted subgroup analyses for girls and boys separately, if there is a
+      sufficient number of participants.
+    
+  

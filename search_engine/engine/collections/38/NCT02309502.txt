@@ -1,0 +1,153 @@
+
+    
+      The published evidence from clinical trials in the literature has demonstrated that
+      conventional PRP using 2000-2500 burns may be used safely and effectively in PDR patients
+      over 2 or 3 sessions. A recent audit of 313 Pascal laser treatments performed at Manchester
+      Royal Eye Hospital (2007-2008) has demonstrated that 1952 burns may be used safely and
+      effectively in routine ophthalmic practice for PDR.
+
+      A recent study (PETER PAN study) which has been presented at the Association for Research in
+      Vision and Ophthalmology (ARVO) 2011 Annual Meeting and also submitted for publication (Am J
+      Ophthalmol) has shown that performing primary 20ms Pascal targeted retinal photocoagulation
+      (TRP) and reduced fluence/minimally-traumatic panretinal photocoagulation (MT-PRP) in a
+      single session using 2,500 burns can be safe and effective in treating PDR, without negative
+      effect on visual fields. Therefore, it seems reasonable to think that a single session of
+      3000 burns 20ms with Endpoint Management set at 70% fluence will be safe and effective to
+      treat patients with severe NPDR as similar or less total energy would be delivered to the
+      retina-RPE complex.
+
+      Topcon's Endpoint Management (EM) software is based on a computational model of retinal
+      heating and an Arrhenius damage model to determine optimal pulse duration and laser power for
+      various levels of pulse energy. The algorithm varies the power and duration concurrently to
+      maximize the margins between visible and sub-visible photocoagulation endpoints, providing a
+      linear control over an inherently nonlinear process of coagulation.
+
+      When utilising EM, the user first titrates to a comfortable visible endpoint. Establishing a
+      titration endpoint is important as it gives a consistent baseline, ensuring repeatable
+      results between patients. With the Endpoint Management option activated, the laser output in
+      a pattern is a percentage of this titration energy. Power and duration are both modulated to
+      make this energy adjustment, allowing for a fine gradation of laser dosage and control over
+      treatment endpoints. The visible titration endpoint can be references throughout the course
+      of treatment by enabling the Landmark feature, which crates reference lesions at the
+      titration dose at the corners of the pattern. This provides visible feedback on dosage and
+      positioning of treated areas.
+
+      Importantly, the EM approach to laser therapy allows the physician to consistently operate in
+      the realm of therapeutic relevance for sub-visible treatments. When no burns are visible, the
+      biggest risk becomes lack of therapeutic effect. The Arrhenius integral-based algorithms in
+      Endpoint Management adjust power and duration to provide the best "path" between endpoints,
+      moving smoothly from the ophthalmoscopically-visible titration point to
+      angiographically-only, OCT-only, and sub-visible/ therapeutic regimes. The Landmark feature
+      allows the user to determine the local effect of the titration dose, and make adjustments as
+      uptake varies across the treated area. The result is more predictable sub-visible laser
+      delivery with the widest window of safe, effective treatment.
+
+      The Pascal® system with EM utilizes 577nm laser wavelength compared to the 532nm laser
+      wavelength which was utilized in previous Pascal® laser studies. However, previous studies
+      have not been able to demonstrate that clinical effectiveness was dependent on the laser
+      wavelength.
+
+      In order to reduce the risk of complications after PRP whilst maintaining clinical efficacy,
+      the optimal regime may be to utilize a technique of a lower intensity burn with reduced power
+      while applying a larger number of treatment burns to cover the retinal area. It may also be
+      important to "target" the laser treatment to the retinal area of "penumbra" or critically
+      hypoxic retina based on angiographic tests.
+
+      "Ischaemic penumbra" is the critically hypoxic tissue characterised by Hypoxia-inducible
+      factor-1 (HIF-1) upregulation and secretion of angiogenic proteins such as Vascular
+      endothelial growth factor (VEGF). In ischemic diabetic retinopathy, there are 3
+      theoretical/postulated locations of such critically hypoxic inner retina:
+
+        1. Along the interface between the inner retinal area still oxygenated via retinal
+           capillaries and the (more peripheral) area of capillary non-perfusion,
+
+        2. Alongside the medium-sized retinal arteries and hyperoxaemic retinal veins forming
+           arterio-venous anastomoses while traversing non-perfused inner retina ("Krogh secondary
+           tissue cylinders"), and
+
+        3. Mid-peripheral non-perfused inner retina obtaining a degree of oxygenation from the
+           choroid via O2 penetration of the "metabolic O2 barrier" formed by the rod inner
+           segments.
+
+      Fundus autofluorescence and Fourier-domain OCT imaging data suggested that a lower burn
+      intensity and reduced fluence burn could achieve effective uptake within the outer retina..
+      confirmed effective laser uptake using the Pascal® multi-spot technique at 10-20ms pulse
+      durations (Laser energy delivered to the tissue can be reduced by either reducing the
+      intensity of the laser or the duration of the burn). Furthermore, the analysis of
+      barely-visible laser titration burns showed effective thermal destruction of the inner
+      segments of the photoreceptors which, because of their highly energetic metabolism, are the
+      principal tissue target for laser photocoagulation.
+
+      In the treatment of PDR, the severity of visual field loss may correlate with burn density,
+      longer pulse duration, and higher fluence. The ETDRS recommended 1 burn-widths spot-spacing,
+      however the investigators aimed to maximize retinal laser coverage in a single sitting, and
+      also to allow potential re-treatments to be safely placed between previous arrays of burns
+      thus preventing overlapping laser burns and nerve fiber layer defects.
+
+      Visual acuity, visual field (VF) testing, and optical coherence tomography (OCT) are
+      important tools for quantifying the degree of visual dysfunction. Central (24 degree) visual
+      field measures in diabetic patients have been shown to correlate well with the stage of
+      retinopathy according to the ETDRS scale. Pan-retinal photocoagulation has been shown to have
+      a marked effect upon the central visual field measured with both global indices (Mean
+      Deviation and Pattern Standard Deviation) and point-by-point measures. OCT is a sensitive
+      instrument to diagnose and monitor DMO, and central retinal thickness (CRT) measures are used
+      in clinical practice.
+
+      In addition, a multispectral camera has been used effectively in a recent study (Manchester
+      Targeted Retinal Photocoagulation Study, MTRAP), with promising results produced that may
+      help explain the clinical effects of the study laser treatment.
+
+      ETDRS data did not show that initiating scatter photocoagulation prior to the development of
+      high-risk proliferative diabetic retinopathy in patients with type I diabetes will reduce the
+      risk of severe visual loss. However, ETDRS analyses did indicate that for patients with type
+      II diabetes, it is especially important to consider scatter photocoagulation at the time of
+      the development of severe nonproliferative or early proliferative retinopathy.
+
+      Ferris also showed that patients with type II diabetes, or older patients with diabetes, are
+      more likely to benefit from early scatter photocoagulation than patients with type I
+      diabetes.
+
+      The recommendation of the Royal College of Ophthalmologists is to consider PRP only once the
+      retinopathy reaches the proliferative stage.
+
+      The reasons why scatter laser PRP is not generally recommended for severe NPDR in the UK (and
+      to prevent progression to PRD thereby) include: (i) uncertainty over desirable clinical
+      end-points of treatment (eg. whether moderate NPDR or mild NPDR), and (ii) the likelihood of
+      complications of PRP (such as DMO and visual field loss) that outweigh the potential benefits
+      of early treatment. However, all recommendation up to date are based on the experience and
+      results using argon laser as per EDTRS guidelines.
+
+      It is important to assess the benefit of Pascal single-session subthreshold scatter
+      panretinal photocoagulation. As previously mentioned, all previous attempts of early PRP
+      involved the use of argon laser systems and different treatment strategies: full retinal
+      thickness burns, less number of burns and multiple treatment sessions. Laser treatment using
+      these parameters is currently considered to be tissue ablative. It was also not possible, at
+      the time, neither to image with as much clarity as the investigators can today the area of
+      retinal ischaemic penumbra nor to treat the peripheral retina as far anteriorly as it can be
+      done today. The investigators have shown that using Pascal20ms light burns allows for a
+      tissue healing response as shown by Optical Coherence Tomography (OCT) and Fundus
+      Autofluorescence (AF) retinal imaging.
+
+      The use of minimally-traumatic high-burn dosimetry (3000 burns) Pascal Pan Retinal
+      Photo-Stimulation in Pre-Proliferative Diabetic Retinopathy may have implications in terms of
+      NHS diabetic eye care. Single session treatment with Pascal retinal laser may have a
+      significant cost saving effect for NHS departments, as the treatment time is significantly
+      reduced as well as the number of required sessions and outpatient clinic appointments.
+
+      The Pascal system would allow larger number of patients to be safely treated per clinic
+      session. Reducing the number of patients at risk of conversion to proliferative disease could
+      not only have a significant cost saving effect for the NHS by reducing the frequency of
+      hospital visits and cost of treatment but, most importantly would offer a significant overall
+      benefit to the patient.
+
+      Currently, the Diabetic National Service Framework and English National Screening Programme
+      for Diabetic Retinopathy have outlined targets for treating PDR at within two weeks of
+      diagnosis in the eye clinic and from diabetic screening services. In current practice, this
+      target may be only achievable in around 75% of patients. If clinical hypothesis is achieved,
+      then a higher percentage would perhaps be achievable as the number of patients with
+      proliferative retinal diabetic disease that require treatment would go down.
+
+      Novel P-RPhS Pascal treatment strategies may improve the comfort and safety of the patient's
+      laser journey, and increase the compliance with laser treatment and follow-up.
+    
+  

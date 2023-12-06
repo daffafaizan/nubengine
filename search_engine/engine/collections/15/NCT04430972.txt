@@ -1,0 +1,161 @@
+
+    
+      Experimental design and methods:
+
+      Setting:
+
+      Barts Heart Centre is a 255-bedded specialist cardiac centre where approximately 200 primary
+      isolated open aortic valve replacement procedures are performed per year. It is closely
+      associated both geographically and academically with the William Harvey Research Institute
+      (WHRI), which forms part of Queen Mary University, London (QMUL). This will allow laboratory
+      analysis of all collected blood samples within 15 minutes if necessary. Barts Heart Centre is
+      one of the largest cardiac units in Europe and a key research objective of QMUL/WHRI is to
+      support cardiac research.
+
+      Sample collection and storage:
+
+      Following written informed consent all patients will be pre-operatively risk-scored by means
+      of ASA, Euroscore 2 and conventionally risk-scored for the development of surgical site
+      infection.
+
+      Blood (44ml total) will be taken from 150 aortic valve replacement patients immediately prior
+      to surgery (T0).
+
+      Blood (7ml) will be collected into a PAXgene tube and stored at -80° for later genetic
+      analysis. A clotted sample (7ml) will be collected in a standard gold top SST tube, left to
+      clot then centrifuged for 10 mins at 1000g, the serum separated and stored at -80° for later
+      analysis of antibody levels. In addition, 30 ml blood will be taken for study of peripheral
+      blood mononuclear cells (PBMCs), drawn into standard purple top EDTA tubes (anticoagulant).
+      These will be separated within 3 hours of collection by Ficoll-Paque density gradient
+      centrifugation, whereby PBS-diluted blood is carefully layered over Ficoll and spun brake off
+      in a centrifuge at 400g for 30 minutes. The PBMC layer is then extracted and washed twice in
+      PBS and stored in 10% dimethyl sulfoxide freezing solution in liquid nitrogen so that they
+      can be thawed, and batch analysed at a later date.
+
+      Sample analysis:
+
+      PBMCs will be counted using a haemocytometer, then cultured in RPMI and 10% serum with either
+      LPS, α-toxin or unstimulated for 24 hours, after which they will be analysed immediately as
+      detailed below.
+
+      • Soluble Mediators (Plasma)
+
+        -  Storage: Ethylenediaminetetraacetic acid (EDTA, BD Biosciences Vacutainer, 9mL)
+           anticoagulated blood will be centrifuged (1200g, 10mins, 20°C) and plasma stored at
+           -80°C within 2hrs of collection
+
+        -  Analysis:
+
+      Cytokines: Meso Scale Discovery (MSD) V-PLEX Proinflammatory Panel 1 will be employed to
+      quantify IFN-γ, IL-10, IL-12p70, IL-13, IL-1β, IL-2, IL-4, IL-6, IL-8, and TNF-α. Plates will
+      be read using a MSD QuickPlex SQ 120 imager (Wiliam Harvey Institute, QMUL).
+
+      Antibodies: These will be measured by means of ELISA assays against staphylococcal antigens
+      (α-toxin, teichoic acid) and core moieties of the endotoxin molecule (EndoCAb).
+
+        -  Whole blood LPS/α-toxin Stimulated Cytokine Release
+
+             -  Technique: As previously described and validated in our laboratory, heparinized
+                blood will be stimulated for 4hrs (37°C, 250rpm) with 1ng/ml LPS within 2hrs of
+                draw. After incubation, samples will be centrifuged (1200g, 10mins, 20°C) and
+                supernatant stored at -80°C.
+
+             -  Cytokine quantification: As per 'soluble mediators' MSD V-PLEX Proinflammatory
+                Panel 1 will be employed to quantify TNF-α (primary outcome as metric of immune
+                competence) and other cytokines. Cytokines will be expressed as a factor of the
+                number of circulating monocytes.
+
+        -  Flow Cytometric Immunophenotyping and Functional Assessment of Leukocytes
+
+             -  Flow Cytometry: All samples will be analysed on the same machine (Becton Dickinson
+                (BD) Fortessa, Rayne Building, UCL). Standardisation and comparison of output will
+                be achieved via employment of constant voltages and compensation matrix throughout
+                with daily matching of values to a single batch of Cytometry Setup and Tracking
+                (CS&T) beads (BD). Leukocyte cell surface staining will be conducted using
+                antibodies principally supplied by BD. Staining, data capture and storage will be
+                conducted in accordance with a single study standard operating procedure. 5 panels
+                (up to 14-colour) and two functional assays will be performed at each time-point.
+                Data will be analysed in FlowJo version 10.5.
+
+             -  Surface Marker Staining:
+
+      Quantification and calibration panel: CD45, CD56, CD3, CD4, CD8, CD19, CD14, CD16, performed
+      in a BD TruCount tube to enable enumeration of cell subsets Cell specific panels
+      (incorporating markers of sub-categorisation and markers of immune competence)
+
+        -  Monocyte/Myeloid: CD3, CD19, CD56, CD163, CD16, CD33, CD141, CD206, CD274, CD14, CD1c,
+           CD11c, HLA-DR, CD80, CD123, CD83
+
+        -  Neutrophil: CD3, CD19, CD56, HLA-DR, CD64, CD62L, CD11b, CD88, CD66b, CD14, CD11c, CD16,
+           CD184, CD182
+
+        -  Lymphocyte: CD19, CCR6, CD45RA, CD3, CD4, CD8, CXCR3, CD127, CD62L, CD25, CD56, CD27,
+           CD279 HLA-DR Expression: Will be quantified on CD14+ monocytes using BD QuantiBrite
+           beads.
+
+             -  Functional Measures Phagocytosis: The ability of neutrophils and monocytes to
+                phagocytose opsonised FITC-labelled E.coli bacteria will be quantified via the
+                PhagoTest assay (BD) as per manufacturer's instructions Reactive oxygen 'burst':
+                Quantitative determination of leukocyte oxidative burst will be undertaken using
+                the PhagoBurst assay (BD) in response to un-labelled opsonized E.coli, phorbol
+                12-myristate 13-acetate (PMA) and the chemotactic peptide N-formyl-Met-Leu-Phe
+                (fMLP).
+
+      o The pre-surgery sample PBMCs that will be stimulated with LPS (type and concentration to be
+      optimized via dose response curve on healthy volunteers) and α-toxin will undergo flow
+      cytometry to measure TLR4 and TLR5 surface expression, HLA-DR surface expression and
+      quantification of NF-kB using appropriate antibodies validated in the literature. At the end
+      of stimulation, cells will be harvested, and RNA extracted for quantitative (q)PCR to
+      evaluate AID mRNA expression. Although B cells in the PBMC cultures have been stimulated in
+      the presence of other cell types, primarily T cells and monocytes-macrophages, our endpoint
+      is to measure a B-cell response, as AID is exclusively expressed in B cells.
+
+      Enough healthy volunteer blood is available so that all above techniques can be adequately
+      practiced and optimized prior to patient recruitment.
+
+      Further sampling timepoints will be immediately post-op (T1), 24h post-op (T2), discharge
+      (T3) and 4 weeks post-op at surgical follow up (T4). The blood collected at 4-week
+      post-surgery follow up will be assayed for IgG antibody assay to EndoCAb, α-toxin and
+      teichoic acid. This will enable a measure of class switch recombination. Which will be
+      referable back to the degree of expression of AID mRNA.
+
+      The population of aortic valve replacement patients will be followed up for mortality and
+      major morbidity. They will be scored as per C-POMS (cardiac post-operative morbidity score),
+      length of ITU stay and length of hospital stay. Patients will be monitored for development of
+      surgical site infection (SSI) or the acquisition of post-operative hospital acquired
+      infection (HAI). Post-discharge follow-up for wound infection or breakdown will be continued
+      for 12 months.
+
+      At the immediately pre-operative timepoint (T0), alongside currently accepted measures of
+      immune responsiveness it is intended to perform a near patient test of immune responsiveness
+      (LIT) using a handheld chemiluminescence device that relies upon leukocyte oxidative burst to
+      a supramaximal stimulus (Oxford Medistress). This relies upon analysis of the response in a
+      10mcl fresh capillary blood sample.
+
+      Statistical considerations:
+
+      From published data from centres worldwide it is known that a proportion of patients develop
+      an infection, either surgical site infection (SSI) or hospital acquired infection (HAI),
+      following aortic valve surgery. It is also known that these patients endure longer stay in
+      hospital following surgery.
+
+      The investigators have demonstrated that amongst these patients there is variability in
+      levels of antibodies to various perioperative threats, namely endotoxin and staphylococcus.
+
+      The investigators have demonstrated that in the patients who are undergoing surgery and have
+      low levels of circulating antibody to endotoxin and/or staphylococcus there is an association
+      with greater likelihood of developing an infection and a longer length of post-operative
+      stay. The investigators estimate that the rate of infection varies between 13.5 - 33%.
+
+      The investigators have previously suggested that the association between antibody level and
+      outcome may be manifestation of an underlying impaired ability in some individuals to mount a
+      normal immune response to these threats.
+
+      It is known that a proportion of individuals have an abnormal immune response. This is
+      perhaps most obviously seen in the response to vaccination where previous work has
+      demonstrated the lack of immune responsiveness following various vaccination programs and our
+      own work on EndoCAb response to monovalent typhoid vaccination. This non/poor responsiveness
+      in these studies lies somewhere between 10 and 40%. The diagram illustrates the proportion of
+      non-responders (ie poor immune responsiveness) if they are equally distributed.
+    
+  

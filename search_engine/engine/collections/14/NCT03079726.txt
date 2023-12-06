@@ -1,0 +1,26 @@
+
+    
+      Technology is providing new opportunities to gain insight into patient health in a manner far
+      superior to what can be obtained from routine office visits. For geriatric patients, frailty
+      is one such measure, which has been shown to have a negative correlation with outcomes,
+      including hospitalizations, complications following invasive procedures, and overall
+      mortality. Methods to quantify frailty have been highly limited and somewhat controversial,
+      largely because of their cross-sectional nature. Efforts to obtain longitudinal measures of
+      frailty using activity monitors and other wearable devices have been promising, although they
+      are limited by patient cooperation and cost.
+
+      In addition to their therapeutic functions, cardiovascular implantable electrical devices
+      (CIEDs) collect large amounts of data on individuals in whom they are implanted, which can be
+      accessed during office visits as well as remotely. Importantly, the data is obtained
+      passively and routinely from all patients, requiring little to no additional effort or
+      expense. The possibility that activity measures from CIEDs could be used to evaluate frailty,
+      as well as other outcomes, would provide a powerful tool for clinicians to apply data science
+      directly to patients.
+
+      This pilot investigation will assess the feasibility of using CIED-derived activity data to
+      predict frailty, and other outcomes, in older populations. The investigators plan to enroll
+      subjects in whom CIEDs are implanted from the University of Colorado Hospital Device clinic,
+      and analyze their data to assess the correlation of daily activity with frailty measures, as
+      well as with cardiac and clinical outcomes.
+    
+  

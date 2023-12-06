@@ -1,0 +1,61 @@
+
+    
+      Objective: To identify susceptibility genes to impulse control disorders in Parkinson's
+      Disease.
+
+      Study design: Genetic association study.
+
+      Primary objective:
+
+      To identify the susceptibility genes in behavior addiction in Parkinson's Disease
+
+      Secondary endpoints:
+
+        -  To compare the clinical, neurological and psychiatric features of parkinsonian patients
+           with behavior addiction compared to the control population. In case of differences
+           between these groups, interaction will be studied with genetic factors
+
+        -  Identify a psychometric profile from the TCI-R scale corresponding to the
+           "hyperdopaminergic" subjects with AC personality
+
+      Patient selection:
+
+      Cases: patients with Parkinson's disease (PD) and impulse control disorder (ICD) as defined
+      by a score greater than or equal to 2 or 3 scores greater than or equal to 2 at the
+      "Evaluation Comportementale de la Maladie de Parkinson" scale (ECMP, Ardouin et al. 2009) for
+      hyperdopaminergic items.
+
+      Controls: PD patients without impulse control disorder (ICD) as defined by a score of 0 or 1
+      at each hyperdopaminergic items AND no more than 2 items with a score of 1. Controls must
+      have been treated with at least 300 mg of Levodopa equivalent daily dose for more than 12
+      months. Controls will be matched for sex, age, and age at onset of PD.
+
+      Number of subjects: 200 cases and 200 controls.
+
+      Clinical assessment: motor score (UPDRS), neuropsychological assessment, diagnostic criteria
+      for addiction and ICD (MINI), self-administered psychometric questionnaire (TCI-R), treatment
+      history, ICD history.
+
+      Genetic analysis: A blood sample will be taken for extraction and storage of DNA (DNA bank
+      and Pitie-Salpetriere cells). Candidate genes* and polymorphisms will be selected from the
+      literature data (receptors, transporters and metabolizing enzymes monoamine) and the
+      molecular signature induced by L-DOPA in the striatum of a mice model of PD.
+
+      Statistical analysis:
+
+      A two-step analysis will be performed. For the first step, a training set (36% of subjects)
+      will be analyzed with a logistic regression model considering an additive genetic effect. For
+      the second step, the top 27% of the more significant genetic markers will be analyzed by
+      using the left over replication set (64% of patients). Finally, a pooled analysis will be
+      performed.
+
+      Sample Size: 200 patients per group to study 50 candidate markers with a power of 83% for
+      genotype effect of 2.0, an additive genetic model, each allele frequency of 0.5.
+
+      * candidate genes list:
+
+      20 genes from the literature : DRD1, ANKK1, DRD2, DRD3, DRD4, DAT1, MAOA, COMT, HTR2A, HTR1B,
+      TPH1, TPH2, 5HTT, GRIN2B, DBH, SCL6A2, BDNF, OPMR1, OPRK1, PDYN 8 genes from the
+      experimentation: FosB, Arc, Nptx2, Ccrn4l, Car12, C8b, Mocs1, Mef2c
+    
+  

@@ -1,0 +1,43 @@
+
+    
+      Hyperglycaemia in hospitalized patients is becoming a common clinical problem due to the
+      increasing prevalence of diabetes mellitus . Hyperglycaemia in this cohort can also occur in
+      patients with previously undiagnosed diabetes, or during acute illness in those with
+      previously normal glucose tolerance. As a result, the prevalence of acute or stress
+      hyperglycaemia in hospitalised patients has been widely reported. A growing body of evidence
+      currently suggest that the degree of hyperglycaemia upon admission and the duration of
+      hyperglycaemia during their illness are associated with adverse outcomes.In-patient
+      hyperglycaemia is now widely recognised as a poor prognostic marker in terms of morbidity and
+      mortality, increased length of stay and cost to the healthcare system.
+
+      The current management of in-patient hyperglycaemia in non-critical care is still far from
+      ideal, and vary widely between different centres. The discordance between clinical evidence
+      and practice is due to a number of factors which could potentially undermine patient care and
+      safety. Of these, hypoglycaemia remains one the biggest barriers to managing in-patient
+      hyperglycaemia. There is therefore a need to develop and validate a more effective and safer
+      system to manage in-patient hyperglycaemia.
+
+      A closed-loop insulin infusion system has previously been tested and reported to be feasible
+      and safe in intensive care patients. Its utilisation in non-critical patients in the general
+      medical and surgical wards currently remains unproven. Its use in this cohort however could
+      potentially be of significant practical and clinical value, especially in a busy ward
+      environment. The Model Predictive Control (MPC) algorithm developed by our group at the
+      University of Cambridge utilises fundamental glucoregulatory processes and predicts future
+      glucose excursion resulting from projected insulin infusion rates. The algorithm can also
+      account for the patient's meal intake and the duration of action of the short acting insulin
+      used. This has the distinct advantage over the "reactive" approach of sliding scale insulin
+      protocols, which treats hyperglycaemia after it has already occurred.
+
+      The MPC algorithm has been studied in intensive care and cardiac surgery patients, and
+      results from these studies to date have been encouraging. It is shown to be associated with a
+      significantly higher percentage of time within the blood glucose target range, without
+      increasing the risk of severe hypoglycaemia. The expectant role of a closed-loop system using
+      the MPC algorithm in non-critical care patients would therefore be to provide clinicians with
+      an effective and safe method to manage hyperglycaemia in hospital.
+
+      In early 2017, faster-acting insulin aspart (Fiasp, Novo Nordisk, Copenhagen, Denmark)
+      received marketing authorisation from the European Commission. Due to the more favourable
+      pharmacokinetic profile, Fiasp has the potential to further improve safety and efficacy of
+      fully automated closed-loop glucose control.
+    
+  

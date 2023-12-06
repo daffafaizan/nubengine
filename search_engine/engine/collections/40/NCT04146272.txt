@@ -1,0 +1,31 @@
+
+    
+      The amplification of sounds with a hearing aid is the most common treatment for hearing loss.
+      Benefits of amplification and accessories used with it outweigh any risks in mild to profound
+      hearing-impaired subjects. Hearing aids provide a benefit for people with only a mild
+      sensorineural hearing loss. However, often people are counselled to wait to purchase hearing
+      aids until their hearing loss becomes more significant. The benefits are obtainable for both
+      unilateral and bilateral fittings and are both short term and durable on long term.
+
+      Acoustic feedback is a critical problem to all hearing aids. The acoustic coupling between
+      the hearing aid receiver and the microphone occurs when an endless loop is formed so that the
+      microphone is re-amplifying sound from its own receiver. The higher the amplification of the
+      system, the more unstable it becomes and the more likely an acoustic feedback will occur.
+      When this happens the hearing aid user and those around them hear a loud whistling noise. A
+      common method used to combat this problem is feedback cancellation, more specifically
+      adaptive feedback cancellation. The goal of feedback cancellation is to quickly identify
+      feedback path changes and make adjustments to preserve the stability of the system while
+      maintaining a high sound quality and still providing a high stable gain compared to the gain
+      achieved without an active feedback reduction.
+
+      For this study, the Sponsor will carry out testing with participants who have hearing loss to
+      validate the performance of the new feedback cancelling algorithm. Studies have investigated
+      the advantages and disadvantages of different feedback cancellation techniques. However, it
+      is accepted by professionals that having a feedback system is better than not using feedback
+      cancellation. The Sponsor has used an adaptive feedback cancellation algorithm since 2010.
+      For the current study the new adaptive algorithm will be compared to the current algorithm
+      implemented in the hearing aids that are certified by the European Conformity and sold on the
+      market. The aim is to determine if less feedback is experienced using the new system in
+      comparison to the old system.
+    
+  

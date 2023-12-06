@@ -1,0 +1,147 @@
+
+    
+      Participants Participants are people, diagnosed with mental illness and who uses services in
+      either community mental health centres in Copenhagen, or live in supported accommodations, or
+      receive psychiatric rehabilitation services in Copenhagen, Odense or Svendborg, three Danish
+      cities.
+
+      Recruitment The initial contact with the participants is done by staff at the community
+      mental health centres, supported housings or rehabilitation services in Copenhagen, Odense
+      and Svendborg, talking with relevant candidates based on the research project's inclusion and
+      exclusion criteria and informing them orally and in writing about the research project. This
+      is supplemented, with the approval of the sites, by hanging posters in common rooms and
+      possibly. presentation by researcher to the resident group / patients / citizen group at
+      joint meeting to encourage self-referral. People who are interested in participating in the
+      research project (hereinafter referred to as potential participants) contact the researcher
+      or notify this to staff who communicate contact with researcher on behalf of citizens. An
+      appointment is made for information interviews and pre-screening. Potential participants are
+      invited to bring relatives or a contact person to the appointment. The oral information is
+      given before the written one, and it is ensured that the information conversation takes place
+      undisturbed. The participant information is provided in the form of a folder with adequate
+      information about the experiment. The potential participant is informed that participation in
+      the trial is voluntary and should not have any side effects, and that at any time they may
+      exit the trial, without consequence for future support and the right to psychiatric treatment
+      or rehabilitation services.
+
+      If the prospective participant, after being informed of the research project, is still
+      interested in participating in the research project, the researcher conducts a functional
+      level assessment at Mini-ICF-APP and asks the potential participant whether he or she is
+      diagnosed with a mental illness. Based on this, it is decided whether the potential
+      participant can be included.
+
+      Then, a consent form is handed out. Three-day reflection time (at least 24 hours) is offered.
+      The written consent will be dated and numbered with the participant number. The participant
+      will receive a copy while the original will be archived in a locked cabinet and scanned
+      electronically and stored on a logged drive.
+
+      When written consent is given, the researcher obtains data by asking the participant, ie.
+      self-reporting socio-demographic data and information on the mental illness. The researcher
+      sends questionnaires to the participant, either electronically or as a letter, depending on
+      what the participant prefers.
+
+      All participants receive a serial number and data are entered in REDCap.
+
+      Randomization and blinding Participants who have given informed consent and who have
+      completed the questionnaires (baseline data) are randomized to either the control group or
+      the intervention group. Randomization is done in RedCap. It is randomized according to
+      varying block sizes, unknown to the researcher. The researcher makes sure to inform the
+      participant which group they have come in either directly or through referring staff.
+
+      The researcher, staff and participants are not blinded to which group the participant comes
+      in. To ensure blindness in collecting follow-up data, these data are obtained by research
+      assistants who are blinded on the allocation. Blinding of the researcher during the analysis
+      phase and when drawing conclusions is ensured by the participants being provided with a new
+      serial number before the analyzes begin and the intervention groups are indicated by a "x"
+      and "y".
+
+      Interventions There are two types of interventions
+
+        1. MA&R in addition to standard services
+
+        2. Standard services
+
+      MA&R lasts eight months and consists of two courses, MA&R I and MA&R II, which are
+      contemplated by each other. MA&R I supports a greater self-awareness of the importance of
+      daily life activities and is primarily based on reflection and conversation. MA&R II is about
+      anchoring new activities, habits or patterns of action in everyday life and is primarily
+      action-oriented.
+
+      MA&R I consists of six group sessions and five individual meetings. The community sessions
+      take place weekly and typically lasts two hours, with the possibility of shortening the
+      meeting for one hour.
+
+      The MA&R II consists of five joint sessions and six dialogue meetings. As in MA&R I, the
+      joint sessions and dialogue meetings take place alternately. For the joint sessions, the
+      participants are presented with strategies and tools for enabling activity participation, for
+      example, by promoting a energy and / or overview in everyday life, trying out ways to analyze
+      and solve problems, or make gradual changes in everyday life by setting sub-goals.
+
+      Standard services in community mental health centres include appointments with psychiatrist,
+      psychologists and/or care manager, psychoeducation, social skills training and relational
+      support. Standard services within the rehabilitation services in Odense, Svendborg and
+      Copenhagen include drop-in centres, self-esteems groups, peer-services, skills-training and
+      relational support.
+
+      Data collection Baseline data is obtained by interview and questionnaires. The questionnaires
+      are sent electronically by email or by mail. The questionnaires are returned to the
+      researcher before randomization. In the event of failure to answer one or more items, these
+      are reviewed by calling the participant in order to clarify any. question and get the answer
+      complete. Healthcare services and the participants' diagnosis are obtained via the National
+      Patient Register. Information about death is obtained from the Cause of Death Register.
+      Meeting in MA&R will be registered by MA&R mentors, and will be returned to researcher after
+      eight months of follow-up. At eight months of follow-up, the researcher sends questionnaires
+      to the participants electronically or by letter, depending on what the participant prefers.
+      Where the participants do not answer the questionnaires on their own, the participant will
+      receive a reminder of this, by mail and / or telephone inquiry. The participant will be
+      offered assistance from research to fill out the questionnaires. Data will be stored in
+      REDCap. Declarations of consent will be scanned and stored on logged drives.
+
+      Fidelity Fidelity will be monitored once per course with MA&R Fidelity Scale, an instrument
+      developed for the purpose. The evaluation will be done by external evaluators.
+
+      Sample size and power calculations
+
+      Sample size calculations is based on tracking a minimal but clinically significant difference
+      between the intervention group and the POES-S control group (increased engagement in
+      meaningful activities). Eklund et al. found in their RCT a small effect of 1.4 points
+      measured on POES-S (d = 0.27) by "Balancing Everyday Life. (39) Since MA&R is of a more
+      comprehensive format (in terms of duration and costs) than BEL, the clinically significant
+      difference to be tracked is set to 3 points. When the standard deviation is 5.9 (39), power
+      is 80% and the significance level is 5%, a total of 128 participants, 64 in each group must
+      be included to track this difference.
+
+      Power calculation on the secondary outcomes is based on the fact that there are 64
+      participants in respectively the intervention and control group. Since it has not been
+      possible to identify studies with the same intervention and target group as this study, the
+      estimated effect size is based on expert opinions, systematic reviews and what is considered
+      to be a clinically significant difference for the target group of the intervention
+      (corresponding to a moderate effect size on d = 0.5.)
+
+      Statistics All outcome variables are continuous. The primary outcome is activity engagement,
+      measured on POES-S. This variable will be analyzed as a continuous variable. Differences
+      between the intervention group and the control group will be analyzed using ANOVA to
+      determine statistical significance. Clinical significance will be calculated at Cohens d.
+
+      Multiple multivariate imputations will be used and all covariates with putative prognostic
+      significance will be used to impute a distribution of missing data.
+
+      The continuous effect measurements will be analyzed with "repeated measurement model in mixed
+      model analyzes with unstructured variance". The prerequisite for using this analysis and for
+      the use of multiple imputation is that data is missing at random or data missing completely
+      at random as opposed to non-ignorable non-response. This distinction is important because
+      repeated measurement and multiple imputation are both models based on a statistical
+      estimation of non-existent responses, and the preconditions for this estimation must be met
+      in order for the assays to be valid.
+
+      We will analyze whether the conditions for using repeated measurement and multiple imputation
+      are present by conducting a drop-out analysis. Significant prognostic characteristics of the
+      non-followers will be compared to the participants remaining in the trial. Variables where
+      there is a difference between participants and non-participants will be included as
+      co-variates in the analyzes. Data analysis will be based on the intention-to-treat principle.
+      Data from all participants will be included corresponding to the group to which they have
+      been allocated. As a supplementary analysis, we will make per-protocol where complete cases
+      will be analyzed.
+
+      At detailed plan for analysis will be uploaded at ClinicalTrials.gov prior analysis
+    
+  

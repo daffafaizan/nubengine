@@ -1,0 +1,97 @@
+
+    
+      This is a randomized controlled trial. A simple randomization procedure will be conducted
+      using computer generated list. This list will be kept with a secretary not involved with the
+      research. A concealed allocation will be performed. All participants will be recruited at
+      Rehabilitation Center of the Clinical Hospital of Ribeirão Preto Medical School, University
+      of São Paulo. The primary outcome of the study will be vaginal palpation, to differentiate
+      women capable or not capable to perform a PFM contraction. The secondary outcome will be
+      measured using the ICIQ- UI SF questionnaire.
+
+      To analyze the proportions of improvement after the intervention in relation to primary
+      outcome we will consider the proportion of women with values equal or above 2 and 3 as
+      specified in the outcome measure section, using the modified oxford grading scale. The sample
+      size calculation will be done based in a pilot study after the study initiate (after
+      registration) considering we found no data from a RCT investigating exactly the same
+      intervention. The study of Vasconcelos et al. (2017) that investigated a similar intervention
+      in the same population performed a sample size calculation using a test of differences
+      between proportions and Fisher's exact test based in the proportion of change in the group
+      receiving electrical stimulation ( 0.35 point) and in the control group (CG) (0.13 point).
+      Considering a significance level of 5% and 80% test power, in the comparison between the
+      intervention group (IG) and control group (CG), the minimum number indicated was 61
+      participants per group; however as the intervention was not exactly the same and the control
+      group received instructions to perform home training we intend to do this calculation again
+      based in a pilot sample after the study initiate (after registration).
+
+      As stated before in the initial registration, the sample size calculation was conducted based
+      on a pilot test carried out by the researcher. The sample calculation was used for
+      qualitative data (primary outcome measure) and non-paired sample based on the proportion of
+      improvement after the intervention. The sample calculation compared n=14 in the control group
+      and n= 9 in the intervention group. Considering the proportion of improvement, after
+      intervention, in women with values equal or above 2 is suggested that a sample size of 14
+      participants per group would be adequate to see between group differences at power=0.90 and
+      α=0.05. In a second situation, the proportion of improvement will be considered as a value
+      equal or above 3, in this case a sample size of 28 participants per group would be adequate
+      to see between group differences at power=0.80 and α=0.05, and 37 participants per group
+      would be adequate to see between group differences at power=0.90 and α=0.05.
+
+      Data analysis The data will be analyzed initially through descriptive statistics, which will
+      enable the characterization of the sample regarding the variables collected. This methodology
+      has as basic objective to synthesize a series of values of the same nature, allowing a global
+      view of the variation of these values, organizing and describing the data through tables of
+      frequencies and descriptive measures.
+
+      To verify the association between the categorical variables, the data will be submitted to
+      Fisher's exact test. The association quantification will be measured through logistic
+      regression models, where the crude odds ratio with its respective 95% confidence intervals
+      will be calculated.
+
+      The analysis of variance (ANOVA) will be used to verify the homogeneity between the groups of
+      quantitative variables. The Student's t-test will be used to compare two means from unpaired
+      samples. To test whether the variances of the two groups are statistically equal, and if the
+      data follows the normal distribution, the PROC TEST procedure of the SAS software will be
+      used. The mixed effects linear models (random and fixed effects) will be used for the
+      analysis of the ICIQ-S questionnaire. This method is used in the analysis of data where the
+      responses of the same individual are grouped and the assumption of independence between
+      observations in the same group is not adequate (Schall, 1991). In the mixed-effects model
+      used, individuals will be considered as random effects and, as fixed effects, the groups, the
+      times and the interaction between them. The adjustment of the model will be done through the
+      PROC MIXED procedure of the statistical software SAS.
+
+      The results will be reported as estimates of effect size. In relation to the primary outcome
+      we will present the proportion of improvement, crude odds ratio with respective confidence
+      intervals of 95%. For the secondary outcome measure we will present mean difference and 95%
+      CI).
+
+      Data will be analyzed Independent of compliance to intervention (intention to treat
+      analysis). A secondary per-protocol analysis will be done to verify the effect of trial
+      adherence on the primary outcome. This analysis will include only women who received at least
+      80% of the physiotherapy sessions.
+
+      A sensitivity analysis will be performed if necessary to adjust for possible baseline
+      imbalances.
+
+      All statistical analyzes will be performed using the SAS® 9 statistical software. The level
+      of significance adopted for all tests will be 5%.
+
+      Quality assurance plan that addresses data validation and registry procedures, including any
+      plans for site monitoring and auditing.
+
+      Data checks to compare data entered into the registry against predefined rules for range or
+      consistency with other data fields in the registry.
+
+      Source data verification to assess the accuracy, completeness, or representativeness of
+      registry data by comparing the data to external data sources (for example, medical records,
+      paper or electronic case report forms, or interactive voice response systems).
+
+      Data dictionary that contains detailed descriptions of each variable used by the registry,
+      including the source of the variable, coding information if used (for example, World Health
+      Organization Drug Dictionary, MedDRA), and normal ranges if relevant.
+
+      Standard Operating Procedures to address registry operations and analysis activities, such as
+      patient recruitment, data collection, data management, data analysis, reporting for adverse
+      events, and change management.
+
+      .
+    
+  

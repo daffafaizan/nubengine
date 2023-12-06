@@ -1,0 +1,12 @@
+
+    
+      CapMedic is a smart inhaler and home spirometer device which aims to assist with correct MDI
+      usage and to monitor asthma control. CapMedic fits on top of the MDI inhaler and provides
+      live audio-visual-haptic cues to guide the patient for correctly using their inhaler.
+      CapMedic includes a built-in forced expiratory flow in 1 second (FEV1, a measure of airflow)
+      and PEF meter. It will utilize the same audio-visual-haptic hardware to implement live cues
+      that encourage patient's effort in performing accurate at-home FEV1/PEF test. Cap will also
+      be able to log medication usage and Medic application will allow patients to keep an asthma
+      symptom diary.
+    
+  

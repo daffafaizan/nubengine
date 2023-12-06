@@ -1,0 +1,50 @@
+
+    
+      In an attempt to address problems patient non-compliance with quality goals barriers to
+      access and integration of health information that impede achievement of treatment goals, the
+      VA is developing a new approach to the electronic medical record. The VA is moving away from
+      the paper-chart metaphor and towards an integrated representation of the patient's status and
+      care process across time. One of the first steps in the development phase has been to
+      explicitly relate patient conditions, therapies, and goals in the domain of pharmacotherapy.
+      This is called Integrated Medication Management and draws on Hollnagel's Contextual Control
+      Model. Providers will be able to plan care and create orders directly in the context of these
+      explicit relationships. This application will be implemented nationwide through a web
+      interface embedded within the existing Computerized Patient Record System (CPRS), the
+      graphical user interface to VA Information Systems (VistA).
+
+      Aim 1: Identify cognitive components of providers' therapeutic decision making in the field.
+
+      Aim 2. Refine and evaluate the Integrated Medication Manager using simulation studies.
+
+        -  Aim 2.a. Refine interfaces and logic of the Integrated Medication Manager.
+
+        -  Aim 2.b. Compare the performance of the Integrated Medication Manager and usual CPRS.
+
+      All hypotheses (below) test the use of IMM versus usual electronic medical record (EMR).
+
+        -  Speed of decision-making will be faster.
+
+        -  Accuracy of data interpretation (clinical assessment) will be higher.
+
+        -  Appropriateness of therapeutic plans will be higher.
+
+        -  Efficiency of gathering information will be higher.
+
+        -  Common ground measures will be higher.
+
+        -  Appropriateness of therapeutic plans will be higher when relevant data is outside the
+           usual time horizon.
+
+        -  Appropriateness of therapeutic plans will be higher when complex associations among
+           patient therapies and goals exist.
+
+        -  Appropriateness of therapeutic plans will be no lower when relevant data is not captured
+           by the displays of the IMM.
+
+        -  Appropriateness of therapeutic plans will be higher when highly salient data is not
+           germane to the most important problem.
+
+        -  Appropriateness of therapeutic plans will be higher when cognitive load is high due to
+           interruptions.
+    
+  

@@ -1,0 +1,75 @@
+
+    
+      The significance of this study is twofold. First, one typical hurdle in applying advanced
+      quantitative MRI to clinical protocols is the long acquisition time. The proposed novel
+      acceleration techniques will facilitate clinical translations of T1ρ and T2 imaging by
+      reducing the time and cost to integrate the sequences into standard clinical practice,
+      increasing patient comfortableness and reducing potential motion artifacts. Second, it is an
+      essential but sometimes overlooked step to investigate quantification variability across
+      sites and MR systems in order to validate MR imaging biomarkers and to apply the measures in
+      large scale multi-vendor multi-site trials. Specifically, there is a lack of systematic
+      evaluation of inter-vendor inter-site variability of T1ρ imaging even though it has been
+      widely applied in neural imaging, liver imaging, cardiac imaging, oncology imaging, and
+      musculoskeletal imaging. Furthermore, no commercial T1ρ phantoms are available with validated
+      reference values. The proposed study is addressing these significant gaps. By implementing
+      and cross-validating T1ρ and T2 imaging on MR systems from different vendors, the outcomes
+      from the proposed study (dedicated calibration phantoms, fast and standardized acquisition
+      and analysis protocols) will provide the field with essential tools for future multi-vendor
+      multi-site trials that will use these quantitative imaging techniques. In this proposal, the
+      innovation and development in patients at risk for osteoarthritis will be tested.
+
+      In this study, novel accelerated T1ρ and T2 imaging methods will be developed to
+      systematically evaluate inter-vendor inter-site variation of these measures using dedicated
+      T1ρ and T2 calibration phantoms (to be developed in this study) and traveling subjects, and
+      demonstrate the feasibility in patients after ACL injury and reconstruction who are at risk
+      of post-traumatic OA. The investigation has three Specific Aims:
+
+        1. - Develop novel acceleration techniques for fast 3D T1ρ and T2 imaging. Despite the
+           increasing availability of accelerated morphologic imaging using compressed sensing (CS)
+           techniques, applications of CS to quantitative MRI are still very limited with the
+           challenges of maintaining quantitative accuracy. A novel convex, model-based CS
+           technique will be developed to take full advantage of the known model for T1ρ and T2
+           decay.
+
+        2. - Develop a calibration phantom suitable for standardization of T1ρ and T2 measurements
+           and implement acceleration techniques on MR systems of three major vendors (Siemens, GE
+           and Philips). The phantom development and reference measurements will be in
+           collaboration with the National Institute of Standards and Technology (NIST). The
+           accelerated T1ρ and T2 sequences will be implemented on six MR systems at four sites
+           from three vendors. Inter-site and inter-vendor variation of T1ρ and T2 will be
+           quantified in phantoms and traveling human subjects.
+
+        3. - Demonstrate the ability of the newly developed acceleration techniques to quantify
+           cartilage degeneration longitudinally in a multi-vendor setting. Subjects with acute
+           anterior cruciate ligament (ACL) tears, an established 'early OA' model, along with
+           age-, gender-, and BMI-matched controls will be scanned on three MR systems using
+           standard and accelerated T1ρ and T2 protocols at baseline and one-year. A novel
+           atlas-based voxel-based relaxometry (VBR) analysis will be applied. Cross-sectional and
+           longitudinal measures will be compared between standard and accelerated T1ρ and T2
+           protocols.
+
+      Four groups of subjects will be recruited at CCF for the study.
+
+      Group I: 30 volunteers (for Aim 1) The 30 volunteers from Group I will be recruited at CCF
+      for evaluating differences between standard T1rho and T2 imaging vs accelerated T1rho and T2
+      imaging techniques that will be developed from this study.
+
+      Group II: 8 traveling volunteers (for Aim 2) The 8 traveling volunteers in Group II will be
+      recruited at CCF and be scanned at CCF, University of California San Francisco, University of
+      Kentucky and Albert Einstein College of Medicine.
+
+      Group III: 30 patients with acute ACL tears (for Aim 3) Group IV: 12 controls who are matched
+      with Group III patients with age, sex and BMI (for Aim 3) Subjects in group III and IV will
+      be recruited at CCF and scanned at baseline and 1-year at all of the three MR systems at CCF
+      (Siemens, GE, Philips).
+
+      Subjects of Group I will be recruited in year 1 and 2; Group II will be recruited in year 2
+      and 3, and Group III and IV will be recruited in year 3-5. Group II and IV share the same
+      inclusion and exclusion criteria, therefore subjects can participate the study and serve as
+      subjects within both groups.
+
+      At two other sites involved in the study, University of California San Francisco (UCSF) and
+      Albert Einstein College of Medicine at New York, 20 local volunteers will be recruited for
+      sequence development in year 1 and 2.
+    
+  

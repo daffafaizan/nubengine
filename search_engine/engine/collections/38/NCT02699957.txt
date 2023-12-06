@@ -1,0 +1,63 @@
+
+    
+      Hospitals join the Left Atrial Appendage Occlusion Registry (LAAO Registry) by agreeing to
+      the terms of a specific contract that outlines the obligations of each party and the annual
+      fees for participation. In addition, participating sites sign a Business Associate Agreement
+      with the American College of Cardiology (ACC) as per the requirements of the Health Insurance
+      Portability and Accountability Act of 1996 (HIPAA).
+
+      The LAAO Registry dataset, comprised of approximately 300 data elements, was created by a
+      panel of experts using available American College of Cardiology (ACC), Heart Rhythm Society
+      (HRS), and Society for Cardiovascular Angiography and Interventions (SCAI) societal overview
+      document guidance, data elements and definitions, previous trial data elements, and other
+      evidentiary sources. Protected Health Information (PHI), such as social security number, is
+      collected. The intent for collection of PHI is to allow for complete follow-up and tracking
+      of the patient, to assist data managers in correcting data collection errors and improving
+      data quality, for future registry interoperability and the potential for future generation of
+      patient-level drill downs in Quality and Outcomes Reports (see section 11, Data Analysis and
+      Statistical Considerations). Registry sites can opt out of transmitting direct identifiers to
+      the National Cardiovascular Data Registry (NCDR), so inclusion of direct identifiers in the
+      registry is at the discretion of the registry site. When using the NCDR web-based data
+      collection tool, direct identifiers are entered but a partition between the data collection
+      process and the data warehouse maintains the direct identifiers separate from the analysis
+      datasets. The minimum level of PHI transmitted to the ACC when a participant opts out of
+      submitting direct identifiers meets the definition of a Limited Dataset as such term is
+      defined by the Health Insurance Portability and Accountability Act of 1996.
+
+      Data required for registry participation are collected retrospectively from existing medical
+      records or concurrently in the normal course of treatment. The Societal Document and safety
+      recommendations for left atrial appendage occlusion recommend additional testing and contact
+      with the patient outside the hospital episode of care at 45 days, 6 months, 1 year and 2
+      years post-procedure. All registry data (in-hospital and follow-up) is captured by
+      participating sites using an electronic data collection tool provided by the LAAO Registry or
+      in the future the option will be available for collecting data using a certified software
+      application that has been reviewed and certified as compliant with the transmissions
+      specifications established by the ACC for the LAAO Registry.
+
+      Upon completion of a call for data window, participants prepare a data submission by
+      exporting the data from their data collection mechanism and uploading their data to a secure
+      https server at the ACC using approved encryption software with the highest encryption that
+      is allowed.
+
+      In recognition of the importance of data quality to all of its registry products, and to
+      ensure that data submitted to the NCDR are complete, consistent, and accurate, a Data Quality
+      Program was formally established by the NCDR in 2004. Upon receipt of the LAAO Registry data
+      submission, the ACC reviews the data electronically and reports back coding errors. Such
+      electronic checks verify consistency and completeness and allow participants to have ample
+      opportunity to submit data until it satisfies consistency and completion thresholds. The
+      report produced from these data checks is called a Data Quality Report (DQR).
+
+      The DQR provides the participant with a confidential analysis of their data submission's
+      completeness, and is used by the participant to help prioritize data cleaning efforts and to
+      assess the necessity for re-submission.
+
+      Once the data meets the data quality thresholds, an Outcomes Report is produced. The Outcomes
+      Report aggregates the participant's data and provides a comparison group (usually procedure
+      volume based) and national comparison.
+
+      The NCDR understands the need to ensure the data submitted to the LAAO Registry is accurate
+      and it has launched a national on-site and off-site audit program whereas a random set of
+      participants participate in an on-site or off-site audit to confirm the data submitted to the
+      registry is consistent with data in the medical record or source documentation.
+    
+  

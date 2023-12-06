@@ -1,0 +1,50 @@
+
+    
+      The evolution of the health system requires a rationalization of the supply of care and the
+      care of patients. It has allowed the evolution and generalization of ambulatory surgery for
+      certain pathologies. For other pathologies, a hospital stay is still desirable with a
+      tendency to decrease the length of stay. Thanks to the telemedicine platforms, specialized
+      medical monitoring can be extended pre- and post-operatively to ensure good patient
+      preparation and quality secure follow-up.
+
+      Early return to home is an essential parameter in optimizing the distribution of hospital
+      resources. Several studies have shown improved clinical outcomes, fewer complications, more
+      beds available, and lower hospital costs. The development of outpatient surgery has enabled
+      the establishment of systems allowing a return home in secure conditions. Early return home
+      is also a wish of the patient. He becomes an actor of his own health. Obesity surgery is an
+      exemplary specialty for the care of patients. The ideal course of care is perfectly codified
+      both preoperatively and postoperatively. Nevertheless, this ideal care path is not always
+      respected especially in structures too small to offer a real integrated multidisciplinary
+      follow-up. Pre- and postoperative management solutions on the Internet exist but require a
+      voluntary and active adherence of the patient. They allow a stronger involvement of the
+      patient in his approach, they are nascent and integrate no connected solution for automated
+      monitoring of the patient. Telemedicine can now allow continuous monitoring without the need
+      for face-to-face interaction. The automatic collection of the physical activity and the heart
+      rate makes it possible to guarantee the involvement of the patient in his preparation. After
+      the intervention, the monitoring of the occurrence of complications can be delegated to
+      connected objects with alert transmission according to parameters defined in advance. In
+      particular, the heart rate is a sensitive indicator and will be followed by two sensors
+      (activity bracelet and pulse oximeter). These complications occur mainly in the 15 days
+      following the intervention, they are rare in immediate postoperative. The hospital stay is no
+      longer necessary for a simple surveillance. In case of receipt of an alert, the surgeon
+      contacts the patient to check his state of health. An adapted action is then engaged.
+
+      The late postoperative follow-up throughout this document corresponds to the phase following
+      the immediate postoperative phase. This late postoperative follow-up can be improved with the
+      support of telemonitoring (activity, change in weight.) The addition of connected devices
+      allows a stronger and faster interaction between the patient and his doctors, providing close
+      monitoring and appropriate support.
+
+      The study focuses on assessing the reliability of a remote monitoring system. The
+      implementation of this remote monitoring system is subordinated to the reliability of the
+      data transmissions between the connected objects and the remote site which receives the data,
+      interprets them and generates the alerts.
+
+      The motivation of the patient is appreciated by the acceptance of connected objects.
+
+      During this study, the remote monitoring system is offered in addition to the usual care. The
+      usual care does not change and is not impaired. This study concerns only one group of
+      patients, there is no control group since the investigators seek to validate the reliability
+      of remote surveillance.
+    
+  

@@ -1,0 +1,51 @@
+
+    
+      Delays in starting patients with multi-drug resistant tuberculosis (MDR-TB) on appropriate
+      medication treatment lead to worsened patient outcomes and increased risk of transmission. In
+      Peru, the National Tuberculosis Program (NTP) has provided treatment for patients with MDR-TB
+      since 1996, with cure rates ranging from 48% to 83%. Nonetheless, significant delays exist in
+      the diagnosis of MDR cases and timely treatment initiation, in particular since MDR-TB
+      treatment has been scaled to a national level. Our preliminary work has found that the
+      average turn-around-time (TAT) from the request of a DST to the prescription of appropriate
+      treatment was 148 days (4.9 months).
+
+      An information system could be used to virtually eliminate part of this delay: the time to
+      communicate results between the different institutions. In 2001 we developed and deployed a
+      web based medical record system, the PIH-EMR, to assist in the clinical management of these
+      MDR-TB patients. This system includes a substantial set of data entry and analysis tools for
+      laboratory results including sputum smears, cultures and DSTs. Over the last six months the
+      PIH-EMR has been modified to support the decentralization of DSTs in the regional
+      laboratories. This laboratory component of the PIH-EMR, termed "e-Chasqui," permits web-based
+      entry of culture and DST results at all regional and central laboratories performing these
+      tests. In addition, the system includes applications to assess quality control, generate
+      aggregate reports, notify health centers of new results or contaminated samples, and track
+      enrolled patients and the status of pending laboratory tests.
+
+      The NTP and the National Reference Laboratory (NRL) have agreed to integrate e-Chasqui into
+      the current management of patients at risk of MDR-TB in two regions, and if effective, to
+      provide a national network of all laboratories performing DST. Because of the intensive
+      initial demands on resources and training, the implementation of the information system will
+      occur in stages (parts A and B of this study).
+
+      Broadly put, this study will provide data on whether the use of information systems can be
+      shown to improve quality of patient care. More specifically, it will assess the impact of
+      e-Chasqui on reducing reporting delays and laboratory data errors, and improving patient
+      outcomes.
+
+      This is a prospective observational controlled study to compare the effects of a web-based
+      laboratory information system (e-Chasqui) between a network of health establishments with
+      e-Chasqui access (intervention group) compared with a network of health establishments
+      without e-Chasqui access (control group). The data is being collected by the overarching
+      study "Operational Assessment of Diagnostic Methods for MDR-TB in Lima, Peru."
+
+      The study is planned in two parts: Part A will be a simultaneous control study occurring in
+      the "transition" period comparing endpoints in those health establishments with e-Chasqui
+      access to those in matched health establishments without e-Chasqui access. Part B will be an
+      historical control study comparing endpoints in the establishments which gain initial
+      e-Chasqui access, before (historical control) and after (intervention) the implementation.
+      Data sources include: patient charts, interview with health providers to confirm or clarify
+      accuracy of data in patient charts, microbiology registries at local, regional and national
+      laboratories, and the information system database. The total number of subjects to be
+      enrolled study-wide is 1849.
+    
+  

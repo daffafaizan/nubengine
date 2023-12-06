@@ -1,0 +1,20 @@
+
+    
+      The five vital signs are blood pressure, pulse, respiration, SpO2, and temperature. The user
+      tests two devices mounted on two smartphones.
+
+        -  Temperature: Each user will use the V-sensor mounted on a smartphone to obtain his/her
+           temperature interfaced with a temperature specific 'app'. Before and after the the
+           temperature is obtained using the V-Sensor, the temperature will be obtained using an
+           equivalent thermometer.
+
+        -  Blood Pressure: Each user will test his/her blood pressure using the two sensors mounted
+           on the two phones interfaced with a blood pressure specific 'app'. Before and after each
+           measurement, a reference measurement using a mercury sphygmomanometer will be taken.
+
+        -  Pulse, Respiration, SpO2: Each user will test his/her pulse, respiration, and SpO2 using
+           2 V-sensors mounted on two separate smartphones interfaced with a Pulse, Respiration,
+           and SpO2 'app'. Before and after each measurement, a reference measurement using
+           equivalent reference devices will be taken.
+    
+  

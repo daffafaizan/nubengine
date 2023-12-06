@@ -1,0 +1,19 @@
+
+    
+      With the development of computed tomography (CT) equipment and the increasing use of lung
+      cancer screening programs with low-dose CT, a growing number of early-stage lung cancers were
+      detected so that a large number of patients have undergone surgery.
+
+      Although a number of radiological studies have been used morphological signs so-called
+      semantic features to make a differential diagnosis, it is still hard to apply by clinician
+      because pulmonary nodules especially ground-glass nodules and small size nodules have
+      atypical radiology signs and have strong subjectivity from different observers. Recently,
+      CT-based radiomics, extracting the quantitative high-throughput features from medical images
+      and facilitating clinical decision-making system, showed a good performance to predict
+      diagnosis and prognosis of diverse cancer.
+
+      Therefore, the proposed project aims to develop and validate radiomics models based on CT
+      images to identify malignant nodules and then to discriminate the different types of lung
+      adenocarcinoma in patients with pulmonary nodules.
+    
+  

@@ -1,0 +1,123 @@
+
+    
+      Method Study design: The study was designed as a randomized, double-blind,
+      placebo-controlled, multicenter trial. The patients were randomly assigned in blocks of five
+      by a computer-generated block sequence. For 24 weeks patients were assigned to daily intake
+      of 6 capsules containing either 3 g of n-3 PUFA (50% EPA and 50% DHA) from fish oil capsules
+      or 3 g of olive oil (approximately 80% of oleic acid and 20% linoleic acid). All the
+      investigators, patients and research staff were blinded to the supplementation codes.
+      Patients were asked to maintain their usual diet during the whole study. The study was
+      conducted in accordance with the Declaration of Helsinki and Good clinical practice (GCP).
+
+      Subjects: Patients with PsA defined by Classification criteria for psoriatic arthritis
+      (CASPAR) (25) were enrolled from the Departments of Rheumatology, Aalborg University Hospital
+      and Department of Rheumatology, Vendsyssel Hospital, in Denmark. The inclusion criteria were
+      PsA in adult above 18 years of age with any disease activity while exclusion criteria were
+      documented cardiac arrhythmias, treatment with biological drugs or treatment with oral
+      corticosteroids.
+
+      Compliance was assessed by counting capsules during the last visit. Patients were defined as
+      non-compliant if >150 capsules were returned and those were not included in the per-protocol
+      analysis.
+
+      All participants gave their written informed consent and the regional ethics committee of
+      Northern Region Denmark, approved the study.
+
+      Clinical assessment: Patients were assessed at baseline, after 12 weeks of supplement and
+      after 24 weeks. At baseline, duration of disease, medical history, smoking habits and diet
+      were obtained Medical history of diabetes mellitus, hypertension and dyslipidemia were
+      assessed and was defined as present if the patient received dietary or medical therapy for
+      the condition. A food questionnaire was used to assess patients' fish consumption at lunch
+      and dinner. A score for fish intake was given according to the following: never eat fish = 1;
+      eat fish once a month =2; eat fish two to three times a month = 3; eat fish once a week = 4;
+      eat fish two to three times a week = 5; and eat fish at least once daily = 6.
+
+      At each visit conventional cardiovascular risk factors such as smoking habits, blood
+      pressure, body mass index (BMI) and waist to hip ratio (WHR) were assessed in all patients.
+      Additionally, a clinical evaluation was performed, consisting of 68 tender joint count, 66
+      swollen joint count, disease activity score (DAS) and psoriatic skin area involvement (PASI).
+
+      Blood samples: Blood samples were taken non-fasting in the morning for assessment of fatty
+      acid composition of granulocytes and routine laboratory evaluation. Granulocytes were
+      isolated from whole blood, and lipids were extracted and fatty acids esterified as previously
+      reported (26). The fatty acid composition in granulocytes were determined by gas
+      chromatography with a Chrompack CP-9002 gas chromatograph (Varian, Middelberg, The
+      Netherlands) and expressed as weight percent (wt. %) of total fatty acids.
+
+      HRV: Five min HRV recordings were obtained with SphygmoCor Technology (SphygmoCor, Software
+      version 8.2; AtCor Medical, Sydney, NSW, Australia).
+
+      HRV was recorded in each patient according to current recommendations (27). The measurements
+      were obtained in the morning hours after resting for 15 min in a room with a constant
+      temperature of 20°C. Patients were instructed not to smoke and avoid alcohol and
+      caffeine-containing beverages within 12 h prior to investigation. A trained technician
+      blinded to the type of supplement performed these analyses. The patients were placed in a
+      supine position (resting) for 10 min, breathing spontaneously without talking. HRV were
+      analysed in the time-domain and the following variables were used:
+
+        -  RR: mean of all normal RR intervals during the 5 min recording
+
+        -  SDNN: standard deviation of all normal RR intervals in the 5 min recording
+
+        -  SDNNindex: mean of the standard deviation of all the normal RR intervals.
+
+        -  pNN50: percentage of successive RR-interval differences > 50 ms
+
+        -  RMSSD: square root of the mean of the sum of the squares of differences between adjacent
+           intervals
+
+      PWV: PWV and pulse wave analysis were performed non-invasively with the Sphygmocor system
+      (AtCor Medical, Sydney, NSW, Australia), as described previously (28) and according to
+      international recommendations (29). All measurements were made in duplicate by a single
+      trained operator and the mean of the two values was used in the analysis.
+
+      Carotid-radial and carotid-femoral PVW was measured using arterial tonometry. All
+      measurements were performed on the right side extremities. The surface distance was measured
+      with a tape measure as a straight line from the suprasternal notch to the carotid location
+      (proximal pulse) and subtracted the distance from the suprasternal notch to the radial or
+      femoral location (distal pulse) (30,31). The pressure wave transit time was determined as the
+      time between the R-wave of the ECG and the proximal pulse subtracted from the time between
+      the R-wave of the ECG and the distal pulse. PWV was subsequently calculated by dividing the
+      surface distance by the pressure wave transit time.
+
+      The central BP was estimated using the SphygmoCor® device. After 10 min of rest in the supine
+      position, brachial BP was measured three times at 2-min intervals on the left arm with the
+      automatic Microlife® device, and the last measurement was taken as representative of brachial
+      artery BP. Hereafter, radial artery pressure waveforms of the right arm were sampled. Using
+      the validated generalized transfer function, central BP was estimated using brachial systolic
+      and diastolic BP (32,33). Aortic augmentation index (AIx) was standardized to a heart rate of
+      75 beat per minute to minimize the effect of the heart rate. Only measurements with T1 (the
+      time to the initial upstroke of the pressure wave) >80 and <150 ms and augmentation index
+      (AI, the difference between the first and second peak of the arterial waveform as percentage
+      of the pulse pressure) <50% and operator index (an arbitrary number between 1 and 100
+      describing the quality of the derived pulse wave) >80 were accepted according to
+      recommendations (AtCor Medical® website).
+
+      Statistical Analysis All statistical analyses were performed using STATA version13 (StataCorp
+      LP, TX, US) We hypothesized that intervention with n-3 PUFA would increase the HRV parameter
+      RR by 0.5 of a standard deviation (SD).
+
+      To achieve this at p<0.05 and 1-β = 0.80 we needed a sample size with 63 subjects in each
+      group.
+
+      The difference in the continuous outcomes between baseline and 24 weeks after randomization
+      was compared between the two treatment groups in a one-sided analysis of variance (ANOVA).
+      Equality of variances between the treatment groups was assessed using Bartlett's test. Due to
+      the potential for confounding after the random treatment assignment an analysis of covariance
+      (ANCOVA) was performed. Prior to this analysis a check for collinearity between the
+      covariates was performed and the model was modified accordingly. In this model equality of
+      variances was assessed using Levene's test.
+
+      The total number of parameters in the models was restricted to one tenth of the number of
+      study participants or number of each category when specifying the models.
+
+      All analyses were performed both as intention to treat (none of the patients are excluded and
+      the patients are analyzed according to the randomization scheme) and per-protocol (patients
+      who complete the entire clinical trial according to the protocol) analyses. The analyses were
+      controlled for age, sex, smoking status, presence and absence of diabetes mellitus,
+      hypertension and hypercholesterolemia, the use of nonsteroidal anti-inflammatory drugs
+      (NSAID) and disease activity scores.
+
+      Differences were considered significant with a p-value of <0.05 (two-tailed).
+    
+  

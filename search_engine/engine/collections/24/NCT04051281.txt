@@ -1,0 +1,67 @@
+
+    
+      The study will involve three trials, each conducted as non-blinded randomised controlled
+      trial, with GP practices as the unit of randomisation.
+
+      Trial 1 Targeting practices whose prescribing in the past year was under the new target but
+      who would exceed the target if they had a 5% increase in prescribing
+
+        -  Control: No letter
+
+        -  Intervention: Letter informing them that their practice's prescribing is just under the
+           new target (Letter A) Trial hypothesis: Sending a letter to GPs whose practices are just
+           under the new prescribing target will reduce antibiotic prescribing
+
+      Trial 2 Targeting practices whose prescribing in the past year was above the new target but
+      who not in the top 20% of prescribers
+
+        -  Control: No letter
+
+        -  Intervention 1: Letter informing them that their practice's prescribing exceeds the new
+           target (Letter B1)
+
+        -  Intervention 2: Letter informing them that their practice's prescribing exceeds the new
+           target with a graph representing prescribing relative to the target (Letter B2)
+           Hypotheses: (i) Sending a letter to GPs whose practices missed the new prescribing
+           target will reduce their prescribing; (ii) A letter with a graph will be more effective
+           than a letter without a graph.
+
+      Trial 3 Targeting practices that are currently in the top 20% of prescribers
+
+        -  Control: Current standard practice, a social norms message, that their practice is in
+           the top 20% of prescribers (Letter C1)
+
+        -  Intervention 1: Letter informing them that their practice's prescribing exceeds the new
+           target (Letter C2)
+
+        -  Intervention 2: Social norms message, that they are in the top 20%, with a specific
+           example of a case of patient harm caused by antimicrobial resistance (Letter C3)
+
+      Hypotheses: (i) A letter with a social norms message and a specific example of a case where a
+      patient came to harm will be more effective than a feedback letter without a specific
+      example; (ii) A letter telling GPs that they missed the prescribing target will be no less
+      effective than a letter with social norms feedback
+
+      For each letter, there will be two versions, one for practices whose prescribing has
+      increased by > 5% in the previous year, informing them of that their prescribing has
+      increased since the previous year, and one for practices whose prescribing has not been
+      increasing.
+
+      The letters will signpost GPs to resources to help address patient demand for inappropriate
+      antibiotic prescribing, recognising that many GPs feel that patients expect antibiotics and
+      that GPs may find it difficult to have the necessary patient conversations, especially within
+      a short consultation. As with previous letters, these letters will advise GPs of actions that
+      they can take to reduce inappropriate prescribing, supporting them to have conversations with
+      patients, and there will be TARGET leaflets enclosed.
+
+      Power calculation All trials are powered to detect a 2% reduction in prescribing at a
+      significance level of 0.05 with a power of 80%.
+
+      Statistical analysis plan In order to test our hypotheses, the investigators will use a fixed
+      effects panel regression model, with time trends accounting for seasonal effects, to estimate
+      the effect of treatment status on prescribing. The investigators will also run ANCOVAs for
+      each month separately and one covering the whole six months of the trial. Analysis will
+      control for baseline prescribing rates and for whether practices got the version of the
+      letter saying that their prescribing has been increasing.
+    
+  

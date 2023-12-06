@@ -1,0 +1,40 @@
+
+    
+      Patients suffering from depression with melancholic symptoms (i.e., anhedonia, flat affect,
+      diurnal mood variation, terminal insomnia, psychomotor disturbances, decreased
+      weight/appetite, and excessive guilt) respond better to certain antidepressants. Melancholic
+      symptoms also occur in bipolar depression, although they have received less research.
+      Lamotrigine has been shown to alter some of the biological processes that are known to occur
+      in melancholic depression. The purpose of this study is to determine if patients with
+      melancholic bipolar II depression are more responsive to lamotrigine than patients with
+      non-melancholic bipolar II depression.
+
+      This study will re-analyze data from a previous 8-week, randomized, placebo-controlled trial
+      that evaluated lamotrigine as a treatment for bipolar II depression (GSK-SCA100223;
+      NCT00274677). The original study data was made available by GlaxoSmithKline as part of an
+      initiative to make clinical trials data available for research use. Access was applied for
+      via https://www.clinicalstudydatarequest.com.
+
+      The analysis strategy will be comparable to the original study, although the investigators
+      will first classify participants as suffering from either melancholic or non-melancholic
+      depression. The diagnosis of melancholic depression was established according to baseline
+      responses to the Hamilton Depression Rating Scale (HAMD-17) and the Montgomery-Åsberg
+      Depression Rating Scale (MADRS), according to the DSM-IV-TR diagnostic criteria. HAMD-17 and
+      MADRS change scores will be compared between the treatment and placebo groups using Analysis
+      of Variance (ANOVA). Both ANOVA models will include a test for an interaction between
+      treatment group (lamotrigine vs. placebo) and melancholic depression (melancholic depression
+      vs. non-melancholic depression). To handle missing data, each ANOVA model will be computed
+      with only complete-case data first and subsequently using inverse probability weights that
+      account for the probability of drop out. Inverse probability weights will be created based on
+      covariates that predict missing responses. HAMD-17 and MADRS response rates between the
+      treatment and placebo groups will be evaluated with a Cox proportional hazard regression
+      analysis. There will be two separate analyses, one including participants with melancholic
+      depression, and one including participants with non-melancholic depression. Statistical
+      models will also adjust for baseline depression severity, if participants with melancholic
+      depression are found to have more severe depressive symptoms at baseline.
+
+      Given the delay between antidepressant initiation and response, trial-and-error prescribing
+      is an inevitably lengthy process. The investigators hope the results of this study will
+      enable more timely and effective treatment for patients with bipolar depression.
+    
+  

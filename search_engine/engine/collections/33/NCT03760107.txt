@@ -1,0 +1,99 @@
+
+    
+      Individuals were randomized to one of six conditions. The design was a two-factor,
+      three-by-two factorial design: three levels of financial incentives, and two levels of
+      proactive calls (yes, no). All groups received direct mail and free tobacco treatment
+      services.
+
+      The intervention was implemented from June 2017 to October 2017. National Breast and Cervical
+      Cancer Early Detection Programs serve uninsured women with household incomes at or below 250%
+      of the U.S. federal poverty level; subsequently, the sample was strictly female, and the
+      investigators included individuals for whom self-reported smoking status was available (from
+      2014 to 2017). Smoking status was determined using Sage data, which come from clinics and
+      Sage's call center. Using a uniform measure ("Does the participant currently smoke
+      cigarettes?"), smoking status was based on cigarette use at the time of contact with the Sage
+      program (i.e., clinic visit or contact with the call center). Data on smoking intensity were
+      not available. There were 3,723 smokers who met selection criteria.
+
+      All participants received two rounds of direct mail. Mailers consisted of a folded card,
+      which contained messages and graphics rooted in a loss-frame approach. Following previous
+      research, the loss-frame approach was designed to indicate that certain behaviors lead to
+      unhealthy outcomes, and the investigators paired the message with a clear articulation of
+      behavioral steps.
+
+      Sage has a call center staffed by patient navigators. When participants called Sage's number,
+      patient navigators followed a script, recorded callers' promotion code, determined callers'
+      desire to participate, and made connections to the quit-line for willing participants. After
+      two rounds of direct mail, patient navigators placed proactive outreach calls to eligible
+      participants. Phone numbers were retrieved from the Sage database. Using a script, navigators
+      reminded participants of the direct mail piece and the program offer. Each participant
+      received one proactive call. One call attempt was made; navigators left a voicemail for
+      participants who were unavailable. Proactive calling lasted three months.
+
+      Both the mailer and navigators referred participants to Minnesota's free population-based
+      cessation services. The quit-line is funded and administered by an independent nonprofit
+      organization. Participants can enroll in services either by phone or online. Tobacco users
+      can choose telephone counseling or one or more individual services.
+
+      Our primary outcome was phone-only treatment connection, which was defined as a confirmed
+      connection between participants and quit-line staff via three-way calls conducted by patient
+      navigators. For willing participants, patient navigators called quit-line staff and confirmed
+      that a patient would be connected via a three-way call. Navigators remained on the line until
+      communication between participants and quit-line staff was established. Once connected,
+      trained operators from the quit-line were responsible for administering cessation-related
+      services.
+
+      A secondary measure captured connections to online services. This measure combined both phone
+      and web connections. The web connection assessed whether participants entered their
+      individual promotion codes (provided via direct mail) on a unique online landing page. Once
+      participants entered their individual codes, they were directly connected to the cessation
+      webpage where they entered their personal information and chose tailored treatment services.
+      Direct transfers to the online services counted as a connection; each code was counted only
+      once. The investigators used the confirmed phone connection as our primary outcome as it was
+      a more conservative measure of connection to tobacco treatment services. The investigators
+      used the measure that combined phone and web connections in secondary analyses.
+
+      Intervention components. The investigators used dummy variables to assess levels of financial
+      incentives (for all three measures: 1=yes, 0=no). The proactive calling measure was assessed
+      using a dichotomous measure (1=proactive calling, 0=no proactive calling). The investigators
+      assessed the components' combined effect by generating interaction terms.
+
+      Covariates. The investigators examined whether randomized groups differed according to age
+      (continuous measure ranging from 20 to 88), race/ethnicity (five dichotomous measures: white,
+      African American, Hispanic, American Indian, and other races/ethnicities), whether
+      participants spoke Spanish or not (1=yes, 0=no), whether respondents lived with a fellow
+      smoker (1=yes, 0=no), time since last contact with Sage (four dichotomous variables: 2014,
+      2015, 2016, or 2017), and urban residence (1=metro region, 0=other).
+
+      Using a per-protocol approach, the investigators eliminated all individuals with bad
+      addresses. Descriptive statistics were used to compare connection rates and demographics
+      across intervention arms. The investigators ran a logistic regression model that included
+      dichotomous measures for all six possible treatment conditions in order to run
+      post-estimation pairwise comparisons.
+
+      Logistic regression is the optimal method for examining unbalanced factorial designs with a
+      binary outcome. The investigators ran four logistic regression models for the primary
+      analysis. The investigators examined: (1) the association between incentive levels and
+      phone-only quit-line connections, (2) the association between proactive calling and
+      phone-only quit-line connections, (3) the direct effects of financial incentives and
+      proactive calling, and the interaction between incentive levels and proactive calling, and
+      (4) the effect of intervention components adjusted for covariates. For the logistic
+      regression models, the main effects for the incentive and proactive call are interpreted as
+      the effect when all other variables equal zero, and the interaction coefficients are
+      interpreted as the test for whether the relationship between proactive calling and
+      connections to the quit-line depended on receiving an incentive. For the secondary analyses,
+      the investigators report in the text any differences between the phone-only measure and the
+      combined measure that combined telephone and web connections.
+
+      For cost-effectiveness analysis, the investigators assessed the average cost-effectiveness
+      ratio, which is the increase in costs by each intervention group compared with the no
+      incentive, no call group, divided by the increase in connections within each intervention
+      group compared with the no incentive, no call group. The investigators also examined the
+      incremental cost-effectiveness ratios, which is the change in cost compared to an adjacent
+      condition divided by the change in connections compared to the adjacent condition. The
+      investigators included costs associated with printing, postage, incentives, labor, and the
+      creation and maintenance of the landing page. Costs were in 2017 US dollars and based on
+      receipts and labor hours; hourly rates were based on national averages for respective
+      positions.
+    
+  

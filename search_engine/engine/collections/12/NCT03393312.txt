@@ -1,0 +1,152 @@
+
+    
+      The development of non-invasive brain stimulation techniques offers new approaches for the
+      treatment of depression. TMS is an approved treatment for treatment-resistant depression in
+      the UK and USA. tDCS is currently under investigation as a potentially cheaper, safer and
+      more accessible alternative. A recent meta-analysis suggests that it has a moderate
+      antidepressant effect (Razza et al., 2020).
+
+      One potential way of improving the antidepressant efficacy of tDCS might be to combine it
+      with a reward learning task. There is evidence from rodent and human studies that tDCS
+      enhances activity-dependent synaptic plasticity and behavioural learning and retention
+      (Fritsch et al., 2010; O'Shea et al., 2017; Reis et al., 2009).
+
+      In depression, people prioritize the processing of negative information at the cost of
+      positive information and this negative bias is theorized to play a major role in the
+      maintenance of depressive symptoms (Kube, Schwarting, Rozenkrantz, Glombiewski, & Rief,
+      2020). Therefore, by having depressed participants learn from reward, and increase their
+      learning/retention via tDCS, this could potentially counteract negative bias and thus
+      increase the antidepressant potential of tDCS.
+
+      In an earlier proof-of-concept study in young healthy volunteers (without low mood), we
+      showed that tDCS applied during, but not before, an information-bias learning task increased
+      reward learning rates. Here, we will test for the same effect in young healthy volunteers
+      with subclinical depression. The study will involve online screening, a face-to-face
+      screening session and two tDCS + learning sessions. Task performance will be fitted with a
+      computational reinforcement learning model. Analyses will include both computational and
+      non-computational measures of task behaviour.
+
+      Primary hypotheses:
+
+        1. Bifrontal compared to sham tDCS applied during the information-bias learning task will
+           increase the learning rate from positive outcomes.
+
+        2. Bifrontal compared to sham tDCS applied during the task will increase the percentage of
+           win-driven choices.
+
+        3. The effects of bifrontal tDCS will be cognitive state dependent, i.e. the predicted
+           effects will be specific to stimulation applied during but not prior to learning.
+
+      Secondary hypothesis:
+
+      A growing body of evidence suggests that depression and anxiety are characterised by a
+      reduced ability to adjust learning rates to volatility of action-outcome contingencies
+      (Browning, Behrens, Jocham, O'Reilly, & Bishop, 2015; Gagne, Zika, Dayan, & Bishop, 2020;
+      Pulcu & Browning, 2017). Therefore, we will also investigate whether bifrontal tDCS might
+      increase participants' ability to adjust their learning rates to the volatility context. This
+      is exploratory, since there is no current evidence that tDCS can improve this ability.
+
+      Sample size: Our primary goal is to test hypothesis 1 that bifrontal compared to sham tDCS
+      applied during the information-bias learning task will increase the learning rate from
+      positive outcomes. In our previous study in healthy volunteers we observed this effect, which
+      was most pronounced in the losses-volatile condition (paired t-test contrasting bifrontal and
+      sham tDCS in the losses volatile blocks: t(19) = 2.88, p = .009), with an effect size of
+      Cohen's d = 0.522. To detect an effect of this size with a power of 80% and an alpha level of
+      .05 requires 31 participants. To account for a potential overestimation of the effect size we
+      will recruit 40 participants, which should yield a power level of .89 for the effect size
+      observed in our previous study. To keep sample sizes equal across conditions, we will recruit
+      another 40 participants for the offline condition.
+
+      Screening: Participants will be asked to fill out a pre-screening online depression
+      questionnaire (Beck Depression Inventory - II (BDI)) and a safety screening form to identify
+      potential contraindications to tDCS. Participants with a BDI score of ≥10 will be invited to
+      a 1-hour screening session. The structured clinical interview (SCID) will be administered and
+      the researcher will interview the participant about their tDCS safety screening
+      questionnaire. If there are no contraindications to tDCS and no indications of current or
+      history of bipolar disorder, the researcher will schedule two tDCS testing sessions.
+
+      Experimental task: Participants will perform the Information Bias Learning Task developed by
+      (Pulcu & Browning, 2017). The same task protocol as in our previous study will be used
+      (Overman, Sarrazin, Browning, & O'Shea, 2021). In short, participants will be asked to press
+      a button to choose between two shapes on each trial. After they choose, the word "win" and
+      "loss" will appear on the screen, each associated with one of the two shapes. The wins and
+      losses are independent of each other, i.e. both can also appear with the same shape. If the
+      chosen shape is associated with a win this leads to a 10 pence financial gain; a loss is
+      minus 10 pence. The cumulative total is shown continuously in the bottom centre of the screen
+      throughout the task. Participants start with a total of £1.50. This task is designed to
+      assess the extent to which participants choices are relatively influenced by win vs. loss
+      outcomes. Participants will perform 6 task blocks of 80 trials. In the first and sixth block
+      ("both volatile blocks"), the wins and losses each have a 75% probability of being associated
+      with one of the shapes. The shape the wins or losses are associated with changes over time.
+      In the second to fifth task blocks, one outcome is associated with one shape in 75% of the
+      trials. The shape the wins or losses are associated with changes over time. The other outcome
+      is associated with both shapes in 50% of the trials. Each participant performs two
+      "wins-volatile" and two "losses-volatile" blocks in alternating order. Half of the
+      participants perform a "win-volatile" block first, and the other half a "loss-volatile" block
+      first.
+
+      Testing sessions: Participants will be asked to fill out mood and anxiety questionnaires. At
+      the beginning of the first session the Trait subscale of the State Trait Anxiety Inventory
+      (STAI)(Spielberger, 1983) will be completed. In both sessions, before and after performing
+      the task participants will complete the State subscale of the STAI and the Positive and
+      Negative Affect Scales (PANAS)(Watson, Clark, & Tellegen, 1988)). The researcher will explain
+      the computerised task, and the participant will get the opportunity to practise the task. The
+      researcher will then set up the tDCS equipment with the anode over the left dorsolateral
+      prefrontal cortex (DLPFC) and the cathode over the right DLPFC, in the F3 and F4 EEG
+      electrode positions. The researcher will briefly test the tDCS to ensure that the participant
+      is comfortable with the stimulation. The participant will perform one ("both volatile")
+      baseline block of the task without tDCS. In the 'online' condition, tDCS will be applied
+      during the task - for a duration of 20 minutes at 2 mA during the second and third task
+      blocks. After the stimulation ends, participants will perform the remaining task blocks 4 and
+      5 (to test for persistence of any effects post-tDCS), followed by a repeat of the "both
+      volatile" block performed at baseline. In the 'offline' condition, all procedures will be the
+      same except that stimulation will be applied after the baseline ("both volatile") block and
+      before the remaining blocks, while participants sit at rest.
+
+      Statistical analysis:
+
+      To test hypothesis 1, that bifrontal compared to sham tDCS applied during the task will
+      increase the learning rate from win outcomes, we will run a repeated measures analysis of
+      variance (ANOVA) on the learning rates in the "wins-volatile" and "losses-volatile" blocks,
+      including the within-subject factors tDCS Condition (bifrontal vs. sham), Valence (win vs.
+      loss outcomes), Volatility (wins-volatile vs. losses-volatile blocks) and Time (first vs.
+      second half of the four task blocks). Baseline learning rates for wins and losses in the
+      first task block of the first session will be included as covariates.
+
+      First, we will test for an interaction effect between tDCS Condition and Valence. To test our
+      key prediction, we will run a priori planned contrasts of real vs. sham tDCS on win learning
+      rates. Since in our previous study, the tDCS-induced increase in win learning rates was most
+      pronounced in the losses-volatile condition, we will contrast the real-sham win learning rate
+      separately for the losses-volatile and wins-volatile conditions.
+
+      To test hypothesis 2 that bifrontal compared to sham tDCS will increase the proportion of
+      win-driven choices, we will run an ANOVA on the proportion of win-driven choices including
+      the factors tDCS Condition, Volatility and Time. We will test for a main effect of tDCS
+      Condition, as well as for an interaction effect between tDCS Condition and Volatility. The
+      interaction effect will be followed up by planned contrasts of bifrontal versus sham tDCS,
+      separately for the wins-volatile condition and the losses-volatile conditions.
+
+      To compare the effect of online versus offline bifrontal tDCS on the win learning rate and
+      the proportion of win-driven choices (hypothesis 3), we will run ANOVAs on the combined
+      dataset (online and offline condition), adding the factor "Stimulation Time" (before vs.
+      during task performance). For learning rates, we will test for a main effect of Stimulation
+      Time and/or an interaction between Stimulation Time and tDCS Condition and/or Valence.
+      Follow-up ANOVAs will separate the data by Stimulation Time and analyse each dataset as
+      described for Hypothesis 1 above, to test for an effect of tDCS on win learning rates. The
+      effect in each condition (whether significant or not) will be quantified and contrasted
+      across the two Stimulation Time conditions, to test the hypothesis that online but not
+      offline tDCS will increase win learning rates. The same analysis approach will be used for
+      the proportion of win-driven choices.
+
+      Regarding our secondary hypothesis that online bifrontal compared to sham tDCS might improve
+      participants' ability to adjust their learning rate to the volatility context, we will
+      conduct exploratory analyses, using ANOVA to test the effect of tDCS on the difference in win
+      and loss learning rates between volatile and stable blocks (i.e. dependent variables will be:
+      Win delta LR (win learning rate in wins-volatile blocks minus win learning rate in
+      losses-volatile blocks) and Loss delta LR (loss learning rate in losses volatile blocks minus
+      loss learning rate in wins volatile blocks). We will test for an interaction between
+      Stimulation Time and tDCS Condition on Win and Loss delta LRs. This will be followed up by
+      planned contrasts within and between the online and offline tDCS Conditions, as described
+      above for hypothesis 3.
+    
+  

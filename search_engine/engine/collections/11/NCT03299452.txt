@@ -1,0 +1,214 @@
+
+    
+      Tumor heterogeneity leads to a significant difference in the rate of response to drugs in
+      patients with the same pathological type. According to the information, the current initial
+      effective rate of domestic and foreign chemotherapeutic single drug is no more than 30%, even
+      if treated with repeated medication or replacement treatment program, the responsive rate is
+      generally not more than 10%. This heterogeneity of tumor is the biological basis of precision
+      medicine, and how to predict cancer drug sensitivity is a clinical need to solve the
+      practical problems.
+
+      Traditional PDX (patient-derived engraft) technology utilizes patient's fresh tumor tissue
+      (containing tumor cells, stromal cells and vascular components), and inoculates in
+      immunodeficient mice to establish mouse tumor model. This method can better reflect the true
+      biological characteristics of tumor, while the mouse tumor tissue can be continuously passed
+      on, and greatly facilitate tumor biology research. According to the transplant site it can be
+      divided into orthotopic transplantation and ectopic transplantation (mostly subcutaneous or
+      renal transplantation). However, the traditional PDX model has its disadvantage of low
+      success rate and time consuming. Most of the tumor matrix after transplantation can be
+      replaced by the corresponding components in mice, leading to differences in the biological
+      properties of the original tumor.
+
+      In view of this imperfection, we developed an optimized drug selection model based on the
+      Alphacait screening system that combines artificial intelligence, synthetic lethal and
+      combinational chemistry, which allows rapid selection of candidates from millions of drug
+      combinations. We want to provide physicians with individualized drug therapy through a new in
+      vitro and in vivo drug-sensitive screening technique, to achieve rapid and accurate selection
+      of cancer clinical treatment.
+
+      In order to achieve the two key requirements of tumor tissue culture system in vitro, the
+      establishment of tumor microenvironment we introduced the millimeter-sized microbeads, based
+      on combinatorial chemistry in the culture medium. The surface of the microbeads is coated
+      with small molecules that can specifically absorb high levels of metabolites secreted by the
+      tumor cells into the matrix, thereby mimicking in vivo circumstances. In short, we
+      innovatively applied microbeads technology to solve the inherent limitations of 3D organoid
+      culture - no blood circulation in vitro.
+
+      Purpose and design Primary endpoint: progression-free survival (PFS) Secondary endpoints:
+      overall survival (OS); disease control rate (DCR), objective response rate (ORR); safety;
+      blood test and gene test in the aspect of biomarkers. Expectations of exploratory markers for
+      this study include the status of exploratory biomarkers associated with immunohistochemistry
+      (IHC) or quantitative reverse transcription polymerase chain reaction (qRT-PCR), a new
+      generation sequencing method (NGS), Nanostring technique and / or other methods to evaluate
+      archived and/or newly acquired tumor tissue, as well as its association with disease status
+      and/or (Including but not limited to somatic mutations and other exploratory markers)
+      according to qRT-PCR and NGS techniques, and to evaluate the relationship between the
+      therapeutic response, the status of the biomarker during exploratory treatment and during
+      treatment, and the evaluation of plasma, serum or whole blood samples (including but not
+      limited to somatic mutations and other exploratory markers) The association of the above
+      markers with disease status and / or therapeutic response.
+
+      Research design This is a single-center, open-label, single-arm, non-randomized study
+      designed to evaluate PFS, safety, overall survival (OS), objective response rate (OPR),
+      disease control rate (DCR) and biomarkers of cancer therapy based on the Alphacait screening
+      system in subjects with advanced malignant tumor.
+
+      List of drugs used by the Alphacait screening system is as follow:
+
+      Non chemotherapy drug
+
+      Albendazole Tablets, Alfacalcidol Soft Capsules, Aripiprazole Tablets, Anastrozole Tablets,
+      Azithromycin, Acyclovir Dispersible Tablets, Aztreonam, OLanzapine Tablets, Omeprazole
+      Enteric-coated Capsules, Ornidazole and Sodium Chloride Injection, resveratrol, citicoline
+      sodium injection, Bevacizumab，Avastin, Phenobarbital, Amlodipine Besylate Tablets, phenytoin
+      sodium tablet, Piroxicam tablets, Allopurinol tablets, Propylthiouracil Tablets, Sodium
+      Valproate for Injection, Nuprin Tablets, Goserelin Acetate Sustained-Release Depot, Zoladex,
+      Megestrol Acetate Dispersible Tablets, Prednisone Acetate Tablets, Desmopressin Acetate
+      Injection, Low-molecular-weight Heparin Sodium Injection, Digoxin Tablets, Dexamethasone
+      Sodium phosphate Injection, Bacillus Licheniformis Capsule, tabellae paracetamol, Levodopa
+      and Benserazide Hydrochloride Tablets, Domperidone Tablets, Metformin, Famotidine tablets,
+      Fenbendazole, Nitrofurantoin Enteric-coated Tablets, Fluconazole and Sodium Chloride
+      Injection, Haloperidol Injection, Flupentixol and Melitracen Tablets, Compound Zedoary
+      Turmeric Oil Suppositories, Compound Sulfamethoxazole Injection, Compound Hypotensive
+      Tablets, Bisoprolol Fumarate Tablets, Quetiapine Fumarate Tablets, Injection Mannitou,
+      Heparin sodium, Bismuth Potassium Citrate Tablets, Banan tablet, Erythromycin enteric
+      capsules, Metoprolol succinate sustained-release tablets, Warevan tablet, Huaier granule,
+      Cyclosporine, Progesterone injection, Gabapentin capsules, Mebendazole Chewable Tablets,
+      Apatinib Mesylate, Phentolamine Mesylate Injection, Imatinib Mesylate, Neostigmine
+      Methylsulfate Injection, Imatinib Mesylate Tablets, Thiamazole Tablets, Metronidazole,
+      Colloidal Bismuth Pectin Capsules, Metoprolol Tartrate Tablets, Carbamazepine Tablets,
+      Captopril Tablets, Clarithromycin Sustained-release Tablets, Clindamycin Phosphate Injection,
+      Lamictal, Letrozole Tablets, Lara chips, Tripterygium Glycosides, Atorvastatin, Ribavirin
+      injection, Rifampicin Capsules, Risperidone Tablets, Primaquine Diphosphate, Chloroquine
+      Phosphate Tablets, Amikacin Sulfate Injection, Atropine sulphate injection, Magnesium sulfate
+      injection, Azathioprine Tablets, Sulfasalazine Enteric-coated Tablets, Roxithromycin Soft
+      Capsules, Clozapine Tablets, Desloratadine Tablets, Flupirtine Maleate, Fluvoxamine Maleate
+      Tablets, Chlorphenamine Maleate Tablets, Enalapril Maleate Tablets, Meloxicam, Mesalazine
+      Enteric-coated Tablets, Mirtazapine, Naproxen Tablets, Nikethamide Injection, Nimodipine
+      Injection, Nitrendipine Tablets, Norfloxacin Capsules, Hydroxycarbamide Tablets, Artemisinin,
+      Benzylpenicillin sodium, Hydrocortisone Injection, Citalopram Hydrobromide Tablets,
+      Gentamicin, Colchicine Tablets, Doxifluridine Capsules, Deslanoside Injection, Ciprofloxacin
+      Lactate and Sodium Chloride Injection, Celecoxib Capsules, Trifluoperazine, Tetrastigma
+      hemsleyanum Diels et Gilg, Thalidomide Tablets, Sulpiride Tablets, Diclofenac Potassium
+      Capsules, Clostridium butyricum TO-A, Dihydroartemisinin and Piperaquine Phosphate Tablets,
+      Tetracycline Tablets, Lithium Carbonate Sustained-release Tablets, Tegafur Injection,
+      Teicoplanin, Tinidazole and Sodium Chloride Injection, Cefoxitin, Ceftizoxime Sodium,
+      Topiramate Tablets, Vancomycin, Tretinoin Tablets, Vemurafenib, Vitamin A, Vitamin B2
+      Tablets, Vitamin D2 Injection, Cimetidine Tablets, Cimetidine Injection, Nifedipine Sustained
+      Release Tablets, Nitroglycerin Injection, Isosorbide Dinitrate Injection, Valsartan
+      Dispersible Tablets, Simvastatin Tablets, Thymalfasin, Ursodeoxycholic Acid, Folic acid
+      calcium salt hydrate, Amitriptyline Hydrochloride Tablets, Bupropion Hydrochloride
+      Sustained-Release Tablets, Amiodarone Hydrochloride Tablets, Ondansetron Hydrochloride
+      Injection, Betahistine Hydrochloride Injection, Diphenhydramine Hydrochloride Injection,
+      Bupropion Hydrochloride Injection Tablets, 3-Hydroxytyramine hydrochloride, Doxepin
+      Hydrochloride, Flunayizine Hydrochloride Capsules, Prozac, Metoclopramide Dihydrochloride
+      Injection, Arginine Hydrochloride Injection, Clindamycin Hydrochloride Injection, Raloxifene
+      Hydrochloride Tablets, Ranitidine Hydrochloride Capsules, Lidocaine Hydrochloride Injection,
+      Lobeline Hydrochloride Injection,, Chlorpromazine, Clomipramine Hydrochloride Tablets,
+      Omeprazole Magnesium Enteric-coated Tablets, Mexiletine Hydrochloride Tablets, Paroxetine
+      Hydrochloride Tablets, Procaine Hydrochloride for Injection, Trazodone Hydrochloride Tablets,
+      Daunorubicin hydrochloride, Cyproheptadine Hydrochloride Tablets, Sertraline Hydrochloride
+      Tablets, Tamsulosin Hydrochloride Sustained Release Capsules, Terazosin Hydrochloride
+      Tablets, Verapamil Hydrochloride Tablets, Venlafaxine Hydrochloride Capsules, Raceanisodamine
+      Hydrochloride Injection, Berberine Hydrochloride Tablets, Ethambutol Hydrochloride Tablets,
+      Levofloxacin Hydrochloride for Injection, Itraconazole, Ivermectin,
+      IPTG；Isopropyl-β-D-thiogalactoside, Isopropyl-beta-D-thiogalactopyranoside, Isoniazid
+      Tablets, Indapamide Tablets, Indomethacin Enteric-coated Tablets, Amoxicillin Sodium and
+      Clavulanate Potassium for injection, Azithromycin for Injection, Acyclovir for Injection,
+      Ampicillin Sodium Injection, Omeprazole Sodium for Injection, Oxacillin Sodium for Injection,
+      Biapenem for Injection, Benzathine Penicillin For Injection, Sodium Valproate for Injection,
+      Ganciclovir, Fosfomycin Sodium for Injection, Asparaginase, Urokinase for Injection,
+      Piperacillin Sodium for Injection, Artesunate for Injection, Sodium Nitroprusside, Diltiazem
+      Hydrochloride for Injection, Recombinant Human Interferon gamma for Injection,
+      Levobupivacaine, Levothyroxine Sodium Tablets, Levofloxacin Tablets
+
+      Chemotherapy and target therapy drugs
+
+      Aidi injection, Oxaliplatin for Injection, Epirubicin, Dacarbazine, Dabrafenib, mesylate,
+      Dabratinib, Dasatinib Tablets, Sorafenib Tosylate Tablets, Doxorubicin, Docetaxel,
+      5-Fluorouracil, Juyuansuan Tamoxifen, Cino bufotalin, Cyclophosphamide, Gefitinib (pure)
+      powder, Gemcitabine hydrochloride, Methotrexate, Carboplatin, Capecitabine, Kanglaite
+      Injection, Raltitrexed, Mabthera, Lobaplatin for Injection, Mitoxantrone, Nedaplatin,
+      Mercaptopurine, Cisplatin, Mitomycin for Injection, Tacrolimus, Tegafur, Gimeracil and
+      Oteracil Potassium, Temozolomide, Cetuximab Solution for Infusion, Lobaplatin for Injection,
+      Mitoxantrone, Nedaplatin, Mercaptopurine, Cisplatin, Mitomycin for Injection, Tacrolimus,
+      Tegafur, Gimeracil and Oteracil Potassium, Temozolomide, Cetuximab Solution for Infusion
+
+      Chinese Herb Medicine
+
+      English Name Latin Name Job's tears seed Coicis Semen, Japanese Ardisia Herb Japanese Ardisia
+      Herb, White Hyacinth Bean Semen Dolichoris Album, Spreading Hedyotis Herb Hedyotis diffusa,
+      Willowleaf Swallowwort Rhizome Rhizoma Cynanchi Stauntonii, Large head Atractylodes Rh
+      Rhizoma Atractylodis Macrocephalae, Sessile Stemona Root Japanese Stemona Root, Lily Lilium
+      brownii var. viridulum, Seman Platycladi Seman, Isatis root Isatis tinctoria, Herba Lobeliae
+      Chinensis Lobelia chinensis Lour, Pinellia ternata Pinellia ternata (Thunb.) Breit,
+      Scutellaria barbata Scutellaria barbata, CoasiaI GIehnia Root Glehnia littoralis, Fritillary
+      fritillary, Ficus pumila Linn Ficus pumila, Seed-coat of Hyacinth Dolichos, Areca Seed, Betel
+      Nut Semen Arecae, Malaytea Scurfpea Fruit Fructus Psoraleae, Semen raphani , Silkworm shit
+      Faeces Bombycis, Siberian Cocklour Fruit Fructus Xanthii, Rhizome of Swordlike Atractylodes
+      Rhizoma Atractylodis, Root of Chinese Thorowax Radix Bupleuri, Radices paeoniae rubra
+      Paeoniae Rubra Radix, Dan - shen Root Salviae Miltiorrhizae Radix, Tree Peony Root - bark
+      Moutan Radicis Cortex, Chinese Goldthread Rhizome Coptidis Rhizoma, Skunk Bugbane Rhizome
+      Cimicifugae Foetidae Rhizoma, Coix seed Semen Coicis Szechwan Chinaberry Fruit Fructus Meliae
+      Toosendan, Radix Cyathulate Radix Cyathulae, Common Andrographis Herb Herba Andrographis,
+      Radix et Caulis Acanthopanacis Senticosi Radix et Caulis Acanthopanacis Senticosi, Japanese
+      Thistle Herbor Root Herba seu Radix Cirsii Japonici, Indigowoad Leaf, Leaf of Indigowoad
+      Folium Isatidis, Danshen Root, Root of Dan-shen Salviae Miltiorrhizae Radix et Rhizoma, Root
+      of Pilose Asiabell Radix Codonopsis, Fructus Oryzae Germinatus Fructus Oryzae Germinatus,
+      Humifuse Euphorbia Herb Herba Euphorbiae Humifusae, Chinese Waxgourd Peel Exocarpium
+      Benincasae, Waxgourd seed Semen Benincasae, Rabdosia rubesens,hamst Rabdosia rubescens,
+      Rhioxma Curcumae Aeruginosae Rhizoma Curcumae, Divaricate Saposhnikovia RootRadix
+      Saposhnikoviae, Indian Buead Poria, Pine among the Indian Bread, Blighted Wheat Fructus
+      Tritici Levis, Radix Glycyrrhizae Radix Glycyrrhizae, Toad skin, Perfoliate Knotweed Herb
+      Polygonum perfoliatum, Ligusticum sinense Oliv Rhizoma Ligustici, Barbary Wolfberry Fruit
+      Fructus Lycii, Herba Pogostemonis Herba Pogostemonis, Sargassum Sargassum, Yerbadetajo Herb
+      Herba Ecliptae Eclipta prostrala, Terminalia chebula Retz, Taxus chinensis Taxus chinensis
+      (Pilger) Rehd, Flos Carthami Flos Carthami, Root of Kirilow Rhodiola Herba Rhodiolae,
+      Figwortflower Picrorhiza Rhizome Rhizoma Picrorhizae, Polygonum cuspidatum Rhizoma Polygoni
+      Cuspidati, Pricklyash Peel Pericarpium Zanthoxyli, Talcum Talcum, Exocarpium Citri Grandis
+      Exocarpium Citri Grandis, Phellodendron Chinese Schneid Cortex Phellodendri, Manyflower
+      Solomonseal Rhizome Rhizoma Polygonati, Radix Astragali Radix Astragali seu Hedysari, Radix
+      Scutellariae, Flos Celosiae Cristae Flos Celosiae Cristatae, Suberect Spatholobus Stem Caulis
+      Spatholobi, Rhizoma Curcumae Longae Rhizoma Curcumae Longae, Christina Loosestrife HerbHerba
+      Lysimachiae, Japanese Honysuckle Flower Bud Flos Lonicerae, Cherokee Rose Fruit Fructus Rosae
+      Laevigatae, Chrysanthemum flower Flos Chrysanthemi, Spikemoss Herba Selaginellae, Cassia seed
+      Semen Cassiae, Lightyellow sophora root Radix Sophorae Flavescentis, Kelp Laminariae Thallus,
+      Semen Litchi Semen Litchi, Chinese trumpet creeper Campsis grandiflora, Diverse Wormwood Herb
+      Herba Artemisiae Anomalae, Radix Gentianae Gentiana Scabra Bunge, Reed Rhizome Stemmacanthae
+      Unifori Radix, Caulis Trachelospermi Trachelospermi Jasminoidis Caulis, Lv Bean Spermodermis
+      Phaseoli Radiati, European Verbena Herb Herba Verbenae Officinalis, Herba Portulacae
+      Portulaca oleracea L, Radix Ophiopogonis Ophiopogonis Radix, Fructus Hordei Germinatus Hordei
+      Germinatus Fructus, Concha Ostreae Concha Ostreae, Costustoot, Common Vladimiria Root
+      Aucklandiae Radix, Fructus Ligustri Lucidi Ligustri Lucidi Fructus, Fortune Eupatorium Herb
+      Eupatorii Fortunei Herba, Folium Eriobotryae Eriobotryae Japonicae Folium, Dandelion Herba
+      Taraxaci, Flower of Shepherdspurse Capsella bursa-pastoris (L.)Medic), Rhizoma Homalomenae
+      Rhizoma Homalomenae, Gordon Enryale Seed Euryales Semen, Radix Gentinae Gentianae
+      Macrophyllae Radix, Cortex Fraxini Fraxini Cortex, Caulis SinomeniiI Caulis Sinomenii, Semen
+      Celosiae Celosiae Argenteae Semen, Herba Dianthi Dianthi Superbi Herba, Caulis Lonicerae
+      Lonicerae Caulis, Cortex CinnamoniCinnamomi Cassiae Cortex, Rhizoma Srarganii Rhizoma
+      Sparganii, Sanchi Panax pseudo-ginseng var, Radix tetrastigme Tetrastigma hemsleyanum Diels
+      et Gilg, Folium Mori Mori Folium, Chinese yam Dioscorea opposite, Amorphophallus rivieri
+      Durieu Amorphophallus rivieri Durieu, Snake venom, Snake Slough Serpentis Periostracum,
+      Rhizoma Belamcandae rhizoma belamcandae, Largetrifoliolious Bugbane RhizmomeRhizoma
+      Cimicifugae, Radix Sanguisorbae SanguisorbaofficinalisL, Eucommia ulmoides Oliver Eucommia
+      ulmoides, Rhizoma Zingiberis RecensZingiber officinale Roscoe, Salvia chinensis Benth Salvia
+      chinensis Benth, Folium Photiniae Photinia serrulata Lindl, Lignum Sappan Lignum Sappan,
+      Semen Persicae Semen Persicae, Radix Asparagi Radix Asparagi, Root of Nakedcaule Groundsel
+      Radix Semiaquilegiae, Root of Common carpesium Herba Carpesii Abrotanoidis, Semen lepidii
+      Semen Lepidii, Herb of Tuberculate Speranskia Phryma leptostachya L. subsp. asiatica (Hara),
+      China Dodder Semen Cuscutae, Semen Vaccariae Semen Vaccariae, Herb of Coffee Senna Cassia
+      occidentalis Linn, Fructus Mume Fructus Mume, Root of Combined Spicebush Radix Linderae, Fig
+      Ficus carica Linn, Medicinal Evodia Fruit Evodia rutaecarpa (Juss.) Benth, Chinese Gall,
+      Chinese Nut-gall Rhus chinensis Mill, Sessileflower Acanthopanax Bark Cortex Acanthopanax
+      Radicis, All-grass of Bluecalyx Japanese Rabdosia, Fructus Foeniculi Fructus Foeniculi,
+      Common Cephalanoplos Herb Cirsium setosum (Willd.) MB, Flos Magnoliae Flos Magnoliae,
+      Paniculate Swallowwort Root Cynanchum paniculatum (Bunge) Kitagawa, Linseed,seed of Flax
+      Linseed seed of Flax, Fructus Alpiniae Oxyphyllae Alpinia oxyphylla Miq, Job's tears seed
+      Semen Coicis, Herba Artemisiae Scopariae ArtemisiacapillarisThunb, Folium Ginkgo
+      Ginkgobiloba, Heartleaf Houttuymia Herb Houttuynia cordata Thunb, Turmeric Root-tuber Radix
+      Curcumae, Akebia Fruit Foreknowledge, Hiraute Shiny Bugleweek Herb Aconitum gymnandrum Maxim,
+      Rhizoma Paridis RhizomaParidis, Polyporus Polyporus, Root of Sinkiang Arnebia Lithospermum
+      erythrorhizon Sieb. et Zucc, Herba Violae Viola yedoensis Makino, Fluoritum Fluoritum Caulis
+      Perillae Perilla frutescens （L.）Britton
+    
+  

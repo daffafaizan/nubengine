@@ -1,0 +1,118 @@
+
+    
+      Design:
+
+      As CBT-T is anticipated to achieve faster improvement, due to its brief nature, than CBT-E
+      this research study is not utilizing a non-inferiority design. That is, differences between
+      the two interventions are anticipated, at least initially. Over time, the two interventions
+      may become similar in some aspects (final remission rate for completers) but not others
+      (final remission rate utilizing intention to treat).
+
+      Hypotheses:
+
+      CBT-T will produce higher rates of symptom abstinence initially as the treatment takes
+      approximately half as long as CBT-E and then at post-treatment follow-ups that effect will
+      disappear using completer analysis. However, as drop-out is expected to be lower in CBT-T it
+      is expected that CBT-T will consistently produce superior results to CBT-E with intention to
+      treat analysis.
+
+      Recruitment:
+
+      Individuals who have been assessed at the Adult Eating Disorders Service and meet eligibility
+      criteria will be informed by the assessor that they are eligible to participate in a trial
+      examining a new treatment. The assessor will provide the letter of information for the study
+      and the study will be explained to the participants and any questions the participants have
+      about the study will be addressed. The assessor will inform the staff psychometrist at the
+      service that the participant is eligible to participate in the study. Participants will be
+      asked to participate in the study once the participants name has reached the top of the
+      treatment waitlist and a clinician is able to see them. Once the patient's name reaches the
+      top of the treatment wait-list the participant will meet with the psychometrist in
+      preparation for treatment, as part of routine procedure, and asked to participate in the
+      study. Due to the significant waiting list (currently 5-6 months) as well as the tendency for
+      some clients to end up not accessing care, study participation will be sought when it is most
+      relevant.
+
+      At the beginning of client's appointments with the staff psychometrist, patients will be
+      reminded of the study, provided information about the study and asked if to participate in
+      the study. If they indicate interest in participating, then the psychometrist will thoroughly
+      review the letter of information with patients. If patients agree to participate and sign the
+      consent form, study measures will be given. The psychometrist will then inform the assigned
+      therapist that the client wishes to participate in the study. To ensure the psychometrist is
+      not aware of randomization, Philip Masson (study PI) will randomize the client to one of the
+      two interventions using the website random.org. Philip Masson will inform the therapist of
+      the randomization, and the therapist will then proceed with the appropriate treatment
+      intervention. The PI will then keep track of randomization assignment in a separate excel
+      file that the psychometrist does not have access to. If clients do not wish to participate in
+      the study, clients will be assessed using the clinic's standard program evaluation protocol
+      and will receive treatment as usual (CBT-E). Once individuals are participating in the study
+      only the assigned treatment will be received and this process will be clearly explained to
+      participants. Participants can withdraw from the study at any time at which point their data
+      collection would stop; however, participants would continue to receive their assigned
+      treatment. If participants wish to end treatment, then participants will be able to reapply
+      to the service after a 2-month waiting period, which is standard practice for the service.
+
+      Interventions:
+
+      CBT-E is a transdiagnostic eating disorders treatment based on the principles of cognitive
+      behavioural therapy which has been developed over the past 40 years. The treatment focusses
+      on tracking and modifying eating behaviours, providing psychoeducation, addressing
+      overvaluation of weight and shape, body image, food restriction and restraint, emotion
+      regulation, and relapse prevention. For non-low-weight individuals, the treatment is designed
+      as a 21 session treatment (one orientation meeting and 20 treatment sessions). The adult
+      eating disorders service has been utilizing this treatment approach on an outpatient basis
+      for the past two years. All staff members have reviewed the reading material associated with
+      the treatment, participated in online training for CBT-E and participate in weekly peer
+      supervisions sessions where staff members support one another in utilization of the
+      treatment. Therapists are encouraged to review relevant sections of the therapist manual as
+      needed. The treatment is adhered to the manual as close as possible except for one major
+      exception. In CBT-E the treatment is designed to be delivered twice weekly for the first 4
+      hours. Instead, the service provides weekly sessions as the patients and staff found it too
+      difficult to make twice weekly sessions fit into their schedule. After approximately 17
+      weekly sessions then sessions drop down to every other week.
+
+      CBT-T is a 10-session treatment based on cognitive behavioural therapy. It was developed
+      based on clinical experience as well as core components of evidence-based versions of CBT for
+      eating disorders, including CBT-E. The aim of the intervention is to provide only the
+      hypothesized critical elements of CBT for eating disorders so that the interventions can be
+      provided quicker. As rapid response to treatment in CBT for eating disorders has been shown
+      to be a key predictor of outcome, it is possible that a briefer intervention may not be
+      necessarily less effective. Further, briefer interventions may result in reduced drop-out
+      which would allow more clients to fully access treatment. The key elements of this
+      intervention are similar to CBT-E except there is a less explicit focus on emotion regulation
+      and the psychoeducation is provided in the moment as opposed to being provided as a separate
+      element of treatment. Further, in CBT-T treatment is initially only offered for four sessions
+      and then extended only if the patient is actively engaging in treatment, which is similar to
+      the session 8 progress review in CBT-E but occurs earlier and is framed differently. The
+      therapy is delivered using a session by session checklist of core tasks to facilitate
+      adherence. The clinicians at the service will receive training in CBT-T in the form of an
+      8-hour workshop delivered by one of the creators of the intervention, Glenn Waller. Further,
+      the treatment manual will also be provided to all clinicians and read prior to the workshop.
+      The clinicians will also participate in group supervision for one hour per week focusing on
+      effective delivery of CBT-T.
+
+      Data Analysis:
+
+      Data will be analyzed using SPSS (version 24). Treatment groups will be compared on baseline
+      characteristics (e.g., eating disorder symptoms) using independent samples t-tests and
+      chi-square for categorical measures. Percentage scores will be calculated to determine
+      attrition rates at each stage of treatment and chi-square analyses will be used to compare
+      attrition/drop-out between the two treatment conditions. A two-level hierarchical linear
+      model will be used to examine the influence of the intervention on change in symptoms over
+      time. Level 1 (within-subjects) will include repeated measures of the dependent variable
+      (e.g., EDE-Q scores, ED symptoms) and level 2 (between-subjects) will include treatment
+      condition (CBT-T or CBT-E) and the interaction between condition and time. Separate models
+      will be conducted for different outcome variables of interest. Both an intention to treat and
+      completer analyses will be performed. For the intention to treat analysis multiple imputation
+      will be utilized to handle the resultant missing data.
+
+      Power analyses: In accordance with recommendations for pilot RCTs by Rounsaville, Carroll, &
+      Onken (2001), the investigators aim to have at least 20 participants per group (after
+      attrition). Based on power analyses for repeated measures analysis of variance (ANOVA) for
+      between-within group differences using G*power 3, a total sample size of 40 would yield >80%
+      power to detect medium effects (f2 >.20), which represents a conservative approach, given
+      increased power of multilevel modeling over traditional repeated measures ANOVA. Based on
+      prior studies of CBT-T, the investigators anticipate an overall attrition rate of
+      approximately 30%; thus, they propose to enroll 60 participants (30 per treatment condition)
+      to detect an attrition-adjusted medium effect.
+    
+  

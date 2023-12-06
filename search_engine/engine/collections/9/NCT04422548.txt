@@ -1,0 +1,30 @@
+
+    
+      There are several studies showing that AI-assisted colonoscopy can help in identifying and
+      characterizing polyps found on colonoscopy.
+
+        -  Byrne et al demonstrated that their AI model for real-time assessment of endoscopic
+           video images of colorectal polyp can differentiate between hyperplastic diminutive
+           polyps vs adenomatous polyps with sensitivity of 98% and specificity of 83% (Byrne et
+           al. GUT 2019)
+
+        -  Urban et al designed and trained deep CNNs to detect polyps in archived video with a ROC
+           curve of 0.991 and accuracy of 96.4%. The total number of polyps identified is
+           significantly higher but mainly in the small (1-3mm and 4-6mm polyps) (Urban et al.
+           Gastroenterol 2018)
+
+        -  Wang et al conducted an open, non-blinded trial consecutive patients (n=1058)
+           prospectively randomized to undergo diagnostic colonoscopy with or without AI
+           assistance. They found that AI system increased ADR from 20.3% to 29.1% and the mean
+           number of adenomas per patients from 0.31 to 0.53. This was due to a higher number of
+           diminutive polyps found while there was no statistic difference in larger adenoma. (Wang
+           et al. GUT 2019). In this study, they excluded patients with IBD, CRC and colorectal
+           surgery. The patients presented with symptoms to hospital for investigation.
+
+      To date, there is a lack of large-scale randomized controlled study using AI assistance in
+      the detection of polyps/adenoma in a screening population. The correlation of fecal occult
+      blood test (FIT or FOBT) and the advantage of AI-assisted colonoscopy has not been
+      investigated. There is also a lack of information of the benefit of AI-assisted colonoscopy
+      in experienced colonoscopist versus trainee/resident.
+    
+  

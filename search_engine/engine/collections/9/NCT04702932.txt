@@ -1,0 +1,67 @@
+
+    
+      Auto-inflammatory Diseases (AIDs) are defined by disorders of the innate immunity. They
+      manifest themselves as episodes of inflammation associated with general signs and organ
+      damage, mainly to the cutaneous, musculoskeletal and digestive systems. The majority of
+      monogenic AIDs described to date begin in childhood. Aside from impaired quality of life, and
+      disease-related organ damage (e.g. deafness in periodic cryopyrin-associated syndromes), the
+      most severe complication of AIDs is inflammatory amyloidosis (AA), which can lead to kidney
+      failure and dialysis. More recently, late-onset AIDs have been described, secondary to
+      somatic mutations in auto-inflammatory genes, mainly NLRP3 (1). This discovery comes in a
+      more general context of highlighting new forms of late-onset genetic diseases linked to
+      somatic mutations. These discoveries have been made possible by the revolution in sequencing
+      techniques and in particular by the new generation sequencing which allows a more in-depth
+      analysis compared to Sanger's technique.
+
+      Blood neoplasms, known as clonal hemopathies, whether myeloid (such as myelodysplastic
+      syndrome) or lymphoid (such as multiple myeloma), are constantly increasing in the general
+      population. They are associated with an accumulation of somatic gene mutations that confer
+      survival and proliferation properties to tumor cells (2). A number of manifestations of these
+      clonal hemopathies are related to the activation of inflammatory pathways and in particular
+      the activation of an inflammasome. For example, it has been shown that pyroptosis via
+      activation of the NLRP3 inflammasome could be one of the pathophysiological mechanisms of
+      myelodysplastic syndromes (3). In addition, inflammatory cytokines such as IL1 and IL6 have
+      been shown to play a role as growth factors in these hemopathies (4). However, the mechanisms
+      behind the activation of the inflammasome and the production of those cytokines are currently
+      unknown.
+
+      A number of patients with clonal hemopathies develop symptoms and complications similar to
+      those encountered during AIDs. In particular, within the reference center for
+      autoinflammatory diseases and amyloidosis in adults, we have identified patients with
+      myelodysplastic syndromes or clonal gammopathies complicated by autoinflammatory symptoms or
+      AA amyloidosis. These manifestations in the context of clonal hemopathies could be called
+      "hyperinflammatory hemopathies ".
+
+      Our hypothesis is that the inflammatory manifestations occurring in these patients are
+      secondary to the occurrence of somatic mutations in genes known to be involved in innate
+      immunity and AIDs.
+
+      Our main objective is to perform in patients with hyperinflammatory hemopathy a functional
+      study in search of the activation of inflammatory pathways; then a parallel genomic and
+      transcriptomic study using an innovative methodology (5), in order to investigate whether
+      there are somatic mutations of innate immunity genes in a clonal subpopulation and their
+      impact on gene expression.
+
+      The first step will be to identify the inflammatory signature of mononuclear blood cells from
+      patients. To do this, we will recover the cells from blood and bone marrow. Real-time
+      quantitative ELISA (Enzyme Linked ImmunoSorbent Assay) and PCR (Polymerase Chain Reaction)
+      experiments will quantify the production of pro-inflammatory cytokines. In addition, flow
+      cytometry experiments with membrane and intracellular co-labelling will be performed. These
+      experiments, performed routinely in the laboratory, will make it possible to identify the
+      cell type responsible for the overproduction of cytokines that may explain the symptoms.
+
+      The second step, truly innovative and involving state-of-the-art techniques, will consist in
+      carrying out genomic and transcriptomic analysis of tumor cells. For this we will use methods
+      known as "single cell analysis" with parallel sequencing of the genome and transcriptome. The
+      aim of genomic analysis is to search for somatic mutations present in tumor cells, and to
+      compare them with those known to be associated with AIDs (comparison with the European
+      Infevers database in particular. The genomic results will also be compared with international
+      cancer cell databases to look for mutations in tumor cells that could explain this clinical
+      presentation. These Big Data studies are necessary in view of the high number of mutations
+      expected in tumor cells. The association with the parallel transcriptomic study will allow an
+      unsupervised clustering analysis to study the effect of somatic mutations on gene expression.
+      Indeed, it is currently recognized that the consequences of a genetic mutation must be
+      analyzed both by its effect on the protein structure, but also by its effect on epigenetics.
+      Today, this type of analysis is possible using the artificial intelligence analysis method.
+    
+  

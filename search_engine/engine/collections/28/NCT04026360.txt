@@ -1,0 +1,110 @@
+
+    
+      Background:
+
+      Cystic fibrosis (CF) is the most common lethal inherited disease in North European
+      populations, affecting approximately 1:2500 live births. It is a multisystem disorder with
+      respiratory morbidity and mortality being the leading cause of death. Lung disease in CF is
+      characterized by neutrophil-dominated inflammation and chronic bacterial infection of the
+      airways, which results in deterioration of lung function and premature death [1]. Despite
+      improved survival in successive birth cohorts, the current median survival age of patients
+      with CF is about 40 years [2]. Understanding the initiating events of CF lung disease (e.g
+      viral infections and microbiome) and their influence on disease progression throughout early
+      childhood is essential to improve survival through targeted early interventions.
+
+      Objectives:
+
+      The overarching aim of this study is to identify early life predictors of disease progression
+      in children with CF. Therefore, this study implies three objectives, as follows: i) to
+      investigate the effect of respiratory viral infections on microbiota dynamics in the first
+      year of life in infants with CF, and to examine their influence on lung function at 1 year of
+      age; ii) to examine whether deficits in lung function in the first year of life in infants
+      with CF persist to pre- and school age and adolescence and are associated with impaired
+      functional and structural abnormalities at 3, 6, 9, 12, 15 and 18 years of age; and iii) to
+      determine the principal drivers of impaired lung function at 1 year and impaired lung
+      function and structural outcomes at 3, 6, 9, 12, 15 and 18 years of age in individuals with
+      CF.
+
+      Methods:
+
+      Lung function, magnetic resonance imaging (MRI), respiratory symptoms and quality of life
+      questionnaires, microbiology, medical history and clinical data will be collected during each
+      phase of the study.
+
+      Recruitment and participation:
+
+      Infants with CF diagnosed by NBS will be recruited at the time of their first lung function
+      test in Bern at the age of 4-8 weeks. As part of the protocol for the diagnosis and follow-up
+      of CF infants diagnosed by NBS, which has been implemented by the Task Force for CF NBS on
+      behalf of the Swiss Working Group for Cystic Fibrosis, optional infant lung function at the
+      University Children's Hospital of Bern is proposed to all parents of newly diagnosed CF
+      infants.
+
+      Information collected:
+
+      Lung function data:
+
+        -  Tidal breathing parameters (minute ventilation, respiratory rate, tidal volume, tidal
+           expiratory flow, tidal inspiratory flow, time to peak expiratory flow) averaged over 100
+           breaths
+
+        -  Multiple breath washout (FRC, LCI, moment ratios) and single breath washout (molar mass)
+
+        -  Spirometric forced expiratory volume loops (FVC, FEV1, PEF, MEF50)
+
+        -  Body plethysmography (airway resistance, lung volumes: TLC, FRC, RV)
+
+        -  Respiratory Rate over 60 seconds
+
+        -  Fractional exhaled nitric oxide (marker of airway inflammation)
+
+        -  Resistance interrupter measurement
+
+        -  Electric nose
+
+        -  Forced oscillation technique
+
+        -  Electrical impedance tomography
+
+        -  Impedance plethysmography
+
+      Microbiological data:
+
+        -  Nasal swabs (respiratory virus and bacterial diagnostics, as well as host transcriptome
+           analysis)
+
+        -  Pharyngeal swabs (bacterial colonization and microbiota analysis)
+
+        -  Sputum (to analyse the neutrophils)
+
+      Blood count (hemoglobin concentration, hematocrit, leukocyte number, lymphocyte number,
+      lymphocyte count, eosinophil count, basophil count, monocyte count, promyelocyte count,
+      myelocyte count, platelet count, immunoglobulin E level, interleukins,
+      Granulocyte-Monocyte-Colony Forming Unit, Tumor Necrosis Factor alpha, Interferon gamma and
+      Interferon lambda)
+
+      Urine (to estimate the tobacco exposure during pregnancy (amount of Cotinine) and the content
+      of caffeine and steroid profile)
+
+      Lung MRI:
+
+      Functional and structural images of the lung
+
+      Skin-Prick Test (test for pollen, trees, house dust mite, cat and dog)
+
+      Questionnaires (to assess quality of life)
+
+      Medical history (information on respiratory symptoms, pulmonary exacerbations,
+      hospitalisations and regular therapy)
+
+      Study database:
+
+      All study data is recorded in an Access-database with SQL Servers by electronic Case Report
+      Forms. The database is accordant to the HFG and was adapted together with the CTU.
+
+      Funding:
+
+      Schweizerischer Nationalfonds (SNF), Schweizerische Gesellschaft für Cystische Fibrose
+      (CFCH), Departement Lehre und Forschung des Inselspitals Bern
+    
+  

@@ -1,0 +1,33 @@
+
+    
+      There is currently no reliable tool to quantify and detect erythema of the skin during
+      radiotherapy. This side-effect may lead to painful moist desquamation, and eventually
+      permanent delayed side effects like telangiectasia. If such a tool would be available,
+      several interventions could be staged, including (1) the use of steroid cream], (2) the
+      re-simulation and/or re-planning of patients to decrease the skin dose by spreading out the
+      entrance of the beams, (3) adjusting or eliminating the use of bolus on the skin surface
+      (which boosts superficial dose) or (4) the use of other treatment techniques including prone
+      technique.
+
+      Given that the dose delivered is not a reliable metric to predict for erythema in a given
+      patient, a new method for monitoring, staging and ultimately predicting skin response is
+      needed. By analyzing images of the skin using both visible and infrared spectral regions, and
+      by carefully converting the information in the images to quantitative metrics, it may be
+      possible to characterize the stage of a patient's response to radiation, and to understand
+      which patients may go on to experience chronic pain, severe burns or other more serious side
+      effects while it is still early enough to intervene.
+
+      The proposed research is to develop a software model that will take as input patient skin
+      image data and the patient known clinical outcomes and algorithmically generalize a model to
+      predict a biological response of skin to ionizing radiation for any future patient, after a
+      few initial images.
+
+      In the first stage of this study, the data will be aggregated to devise the dose response
+      curve. In later phases, the model will be refined and used for predictive purposes, i.e.,
+      once a new patient has begun radiotherapy sessions, their initial response will be
+      quantified, and fed into the model to predict the skin response endpoint after the course of
+      radiation therapy ends. As mentioned, this information could be used to adapt the radiation
+      course and optimize the therapy for the individual, potentially preventing morbidity from
+      overdose, or risk of recurrence from under dose.
+    
+  

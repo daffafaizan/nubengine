@@ -1,0 +1,16 @@
+
+    
+      Development of an insulin delivery educational tool in T1DM requires fundamental behavioral
+      and physiology studies, as well as translational modeling and engineering development. In
+      order to be successful, Closed Loop Control (CLC) in T1DM must adapt to individual
+      physiologic characteristics and to the behavioral profile of each person. Here, we have laid
+      the foundation by testing an educational tool that aims at providing feedback to patients
+      with the goal of optimizing patient's glucose control under conventional insulin therapy.
+      This educational tool is based on collecting data from patients that are processed by
+      algorithms giving insight into the relationship between glucose control and psychobehavioral
+      characteristics of the individual. This information will eventually inform a CLC system,
+      which will be initialized for each individual based on relevant behavioral and physiologic
+      characteristics, and will include algorithmic observers of patients' behavior and metabolic
+      state.
+    
+  

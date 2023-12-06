@@ -1,0 +1,17 @@
+
+    
+      30 women with clinical diagnosis of overactive bladder will be recruited for the study. An
+      ECG strip for fifteen minutes at rest will be recorded through a 12-bit analog/digital data
+      acquisition card (National Instruments, Austin TX) with a sampling frequency of 200 Hz and
+      stored in a computer for offline studies. The digitized ECG signals will than processed and
+      analyzed via dedicated robust software to detect the R wave peaks. The R point of each QRS
+      complex was defined and the interval between two consecutive R points (the R-R interval) was
+      computed. All R-R intervals will be visually inspected and manually edited if necessary to
+      exclude background noise and artifacts. The edited segments accounts for less than 1% in each
+      patient. A "clean" 2-5-min segment (preferably unedited) will be used for the analyses. An
+      autoregressive model with the order of 16 was will be used to estimate the power spectrum
+      densities of HRV. The power spectra are quantified by measuring the area under the following
+      frequency bands: low-frequency (LF) (0.04-0.15 Hz) known to represents sympathetic activity,
+      and high-frequency (HF) (0.15-0.4 Hz) which represents parasympathetic activity.
+    
+  

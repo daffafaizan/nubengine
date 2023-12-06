@@ -1,0 +1,19 @@
+
+    
+      The primary goal of this study is to test an Advisory/Automated Adaptive (AAA) Control
+      system, which includes three interacting control modules:
+
+        -  Module 1 - Automated Safety Supervision (SSM) responsible for prevention of
+           hypoglycemia, which can be adapted (individualized) with prior data for each subject;
+
+        -  Module 2 - Advisory Module (AM) responsible for pre-meal boluses and postprandial
+           corrections, which can be adapted (individualized) with prior data for each subject;
+
+        -  Module 3 -- Automated Basal Rate Module (BRM) responsible for augmentation of basal rate
+           to compensate for changes in insulin sensitivity, particularly overnight (e.g. dawn
+           phenomenon), which can be adapted with prior data for each subject.
+
+      Daytime control (40hour studies) includes all 3 modules (n=36). Overnight only closed loop
+      control (5 consecutive overnights) includes Module 1 and 3 (n=5-7).
+    
+  

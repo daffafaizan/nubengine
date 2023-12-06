@@ -1,0 +1,51 @@
+
+    
+      LIFUP uses a single large concave, or multiple ultrasound transducers in a cap placed on the
+      scalp to produce high frequency (100Hz) sonications for 30 seconds at a time for 10 trains of
+      pulses. Unlike traditional diagnostic ultrasound, which constantly transmits ultrasound and
+      'listens' to the echo to form an image, LIFUP delivers the ultrasound in packets or pulses.
+      For reasons that are not clear, pulsed ultrasound causes neurons to depolarize and fire.
+      Bones typically block ultrasound waves. Cleverly, however, one can deliver the ultrasound
+      from multiple sources and use the skull as a lens, to actually shape and focus the convergent
+      beam deeper in the brain.
+
+      The clinical use of LIFUP thus uses MRI scans taken before stimulation to position and
+      calculate how multiple ultrasonic pulsations will converge at a location in the brain (taking
+      into account the bone dispersion of the beam from the skull). Since a small transducer like
+      in diagnostic ultrasound cannot individually cause neuronal discharge, with LIFUP neuronal
+      firing can be focused both deep (2-12cm under the cap; for comparison, traditional TMS can
+      stimulate 1-3.4cm2 deep(9, 10)) and focally (as small as 0.5mm in diameter, and up to 1000mm;
+      the facility of a standard, commercially-available 70mm figure-of-8 TMS coil is roughly
+      50mm2; (9, 10)). Interestingly, the pulse width of the carrying frequency of LIFUP (0.5ms) is
+      strikingly similar to that used in all other pulsed neuromodulation therapies (DBS: 0.6ms,
+      ECT: 0.5ms; TMS: 0.2ms; VNS: 0.5ms), suggesting that this timeframe is mechanistically
+      meaningful. This is a good example of the common background science of brain stimulation that
+      transcends the individual methods.
+
+      Researchers have examined the effects of LIFUP in preclinical and clinical settings,
+      confirming its ability to safely stimulate neural tissue(11-14), proposing cellular
+      mechanisms for its efficacy(13-19), and now using LIFUP in human patients(20). Monti et al.
+      (2016) described a case study in which they used LIFUP to stimulate a comatose patient's
+      thalamus.(20). Two pre-LIFUP assessments rated the patient as being in minimally conscious
+      state (MCS). After sonication, the patient recovered motor and oromotor functions the next
+      day, advancing to full language comprehension and communication by nodding and shaking his
+      head. Five days post-LIFUP, the patient attempted to walk. While this study was neither
+      blinded nor sham-controlled, the first application of therapeutic LIFUP in a human patient
+      was encouraging and we expect more therapeutic applications of LIFUP and potential clinical
+      trials in the future. If LIFUP continues to show clinical potential, it has the potential to
+      supplant the role of DBS without the need for surgery. The key barrier to LIFUP replacing DBS
+      for clinical applications is that by and large, DBS is used in a manner where the device is
+      inserted and turned constantly on without attempting to fundamentally change circuit dynamics
+      or behavior so that you could remove the device. Obviously, patients cannot permanently wear
+      a LIFUP helmet. However, to the degree that we learn how to stimulate in ways that
+      permanently change circuit behavior (LTD or LTP) without ablation, we may be able to
+      substitute several sessions of LIFUP that can train and rewire the brain instead of
+      permanently implanting hardware. LIFUP can certainly stimulate deep and focal and
+      noninvasively and thus may be a key next step in the field of brain stimulation.
+
+      Information on the intervention to be studied. We will be using the Brainsonix Low intensity
+      focused ultrasound pulsation device. (BX Pulsar 1001). Please see the manufacturers
+      description (Technical Summary) along with appendixes about the actual safety of the device
+      itself.
+    
+  

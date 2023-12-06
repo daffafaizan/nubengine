@@ -1,0 +1,60 @@
+
+    
+      Participant selection and treatment This study will include a clinical experiment with a
+      cross-over clinical trial design. For this study, 27completely edentulous participants with
+      age range of 50-65 were selected from the outpatient clinic of the Removable Prosthodontic
+      Department, Faculty of dentistry, Kafr Elsheikh University, Egypt. All participants had Angle
+      class I jaw relation maxillomandibular relationship, normal alveolar ridge volume, no
+      temporomandibular joint disorders, no heart disease, and no systemic diseases that affect the
+      complete denture treatment procedures.
+
+      To reduce the effect of order of treatment on MBF, were successively given the following
+      prosthesis i) complete dentures fabricated by the conventional technique ii) 3D printed
+      complete dentures iii) milled complete dentures in a random order.
+
+      Construction of the CADCAM 3D printed denture The same steps of the conventional technique
+      will be performed till the adjustment of occlusion rims then in the dental laboratory, the
+      maxillary and mandibular definitive casts and the occlusal rims will be prepared for scanning
+      with scan spray. Scanning will be performed with an optical 3D scanner . The files from the
+      laser-scan will be translated into stereolithography (STL) files and the CDs are virtually
+      designed in ExoCad software. After minor modifications in the positions of teeth were made,
+      fabrication of the dentures will be approved and the digital denture base will be fabricated
+      using 3D printing technique from Dental Pink resin
+
+      Construction of the CAD/CAM milled denture Once the complete denture has been virtually
+      designed in CAD software (ExoCad software) a preview will be sent for evaluation using 3D
+      viewing software. After minor modifications in the positions of teeth were made, fabrication
+      of the dentures will be approved. The digital denture will be fabricated by the command
+      software of the milling machine (ExoCad 5x milling machine) from prepolymerized resin acrylic
+      pucks and the teeth (TSM Acetal Dental) were milled into template .After that the denture
+      will be finished and polished according to the traditional procedures For all groups, after
+      placement, clinical evaluations of the fit, retention, stability, occlusal relationship,
+      esthetics, and phonetics were performed. Assessment of the occlusion was made with
+      articulating paper, chairside adjustments were made and premature contacts were corrected.
+      The patient was given a proper program for denture insertion and oral hygiene measures.
+
+      Assessment of biting force
+
+        -  This will be made by using a custom-made device composed of Flexiforce A 301® force
+           sensor and Arduino microcontroller with a crystal display. The sensor is calibrated by
+           known weight object for several times, and the sensor is covered by 3 mm layer of putty
+           rubber base material.
+
+        -  Readings will be performed at 1 week, 1 month and 3 months follow-up periods. Assessment
+           of chewing efficiency The chewing efﬁciency will be evaluated according to the procedure
+           described by Schimmel et al. (2007) using a chewing gum. Specimens will be prepared from
+           two colored gums one with the ﬂavor "Sour Berry" (white color) and the other with the
+           ﬂavor "Fancy Fruit" (orange color). Two strips of a standard size (30 9 18 9 3 mm) will
+           be cut from each gum and manually stuck together. Patients will be instructed to chew
+           ﬁve samples of gum on their preferred chewing side for 5, 10, 20, 30 and 50 cycles,
+           respectively. Between the different tests, an interval of at least 1 min will be imposed
+           to reduce the effect of fatigue. The total duration of the experiments was approximately
+           8 min.
+
+      After chewing, the samples will be then spat into transparent plastic bags, which The samples
+      will be then scanned from both sides with a of resolution 500 dots per inch. The numbers of
+      selected pixels will be recorded from the histogram for each side, and mean of those ﬁgures
+      will be calculated. To assess the reproducibility of chewing, the subjects will be available
+      to repeat the experiments on a different day.
+    
+  

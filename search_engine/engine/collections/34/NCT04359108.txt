@@ -1,0 +1,30 @@
+
+    
+      About 1.3 million Americans aged 40 and older are legally blind, a majority because of
+      diseases with onset later in life, such as glaucoma and age-related macular degeneration.
+      Second Sight Medical Products (SSMP) has developed the world's first FDA approved retinal
+      implant, Argus II, intended to restore some functional vision for people suffering from
+      retinitis pigmentosa (RP). In this era of smart devices, generic navigation technology, such
+      as GPS mapping apps for smartphones, can provide directions to help guide a blind user from
+      point A to point B. However, these navigational aids do little to enable blind users to form
+      an egocentric understanding of the surroundings, are not suited to navigation indoors, and do
+      nothing to assist in avoiding obstacles to mobility. The Argus II, on the other hand,
+      provides blind users with a limited visual representation of their surroundings that improves
+      users' ability to orient themselves and traverse obstacles, yet lacks features for high-level
+      navigation and semantic interpretation of the surroundings. The proposed study aims to
+      address these limitations of the Argus II through a synergy of state-of-the-art simultaneous
+      localization and mapping (SLAM) and object recognition technologies.
+
+      This study is driven by the hypothesis that navigation for users of retinal prosthetics can
+      be greatly improved by incorporating SLAM and object recognition technology conveying
+      environmental information via a retinal prosthesis and auditory feedback. SLAM enables the
+      visual prosthesis system to construct a map of the user's environment and locate the user
+      within that map. The system then provides object location and navigational cues via
+      appropriate sensory modalities enabling the user to mentally form an egocentric map of the
+      environment. Investigators will develop and test a visual prosthesis system which 1)
+      constructs a map of unfamiliar environments and localizes the user using SLAM technology 2)
+      automatically identifies navigationally-relevant objects and landmarks using object
+      recognition and 3) provides sensory feedback for navigation, obstacle avoidance, and
+      object/landmark identification.
+    
+  

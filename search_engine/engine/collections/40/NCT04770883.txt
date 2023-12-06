@@ -1,0 +1,86 @@
+
+    
+      Part 1
+
+      Study design:
+
+      Cross-sectional observational study.
+
+      Study population:
+
+      200 IBS patients, M/F, age 18-65 years, will be recruited under a period of 4 years from the
+      primary health care in Region Örebro County. Patients will also be recruited from the general
+      public using websites, social media and advertisements.
+
+      Data collection:
+
+      After informed consent is signed, a doctor's assessment is made including medical history,
+      physical examination and laboratory tests.
+
+      For assessment of the IBS symptoms but also comorbid conditions such as upper GI symptoms,
+      somatization and psychiatric symptoms, 12 different validated questionnaires will be used to
+      identify sub-populations (phenotypes).
+
+      All patients will be asked to fill in these questionnaires before starting, during and after
+      treatment.
+
+      Stool and blood samples will be taken at baseline and after treatment and will be stored at a
+      biobank for later analysis of microbiomics, proteomics and epigenetics.
+
+      Analysis:
+
+      Descriptive statistics to identify different IBS features, and Pearson's correlations to
+      study between-person correlations in a correlation network to see which parameters correlate
+      most with the IBS symptom scale (GSRS-IBS) and Quality of life (IBS-QoL). They will be used
+      as the dependent variables in multiple linear regression analysis with the other parameters
+      as independent variables.
+
+      Part 2 and 3
+
+      Study design:
+
+      Randomized controlled clinical trial.
+
+      Study population:
+
+      Patients will then be randomized to either iCBT (80 patients), Low FODMAP diet (80 patients)
+      or control group (40 patients) (2:2:1 randomization). The control group will wait 10 weeks
+      before being randomised to treatment with either iCBT (20 patients) or low FODMAP diet (20
+      patients).
+
+      Treatments:
+
+      iCBT and Low FODMAP diet (see below).
+
+      Analysis:
+
+      Treatment efficacy analysis using linear mixed models on the primary outcome measures with
+      time as within-subject factor (random intercept random slope models) and group as
+      between-subject factor, with the time-by-group interaction effect testing the hypothesis of a
+      stronger response to treatment compared to waiting list control. Continuous variables will be
+      used to maximize power. Within-person correlations between IBS features. Linear mixed models
+      and latent class growth analysis to establish which baseline parameters of IBS predict the
+      treatment effect on the GSRS-IBS and IBS-QoL. Cross-lagged panel models to investigate the
+      temporal order of change in the different outcome variables, while controlling for
+      stabilities over time and cross-sectional correlations.
+
+      Part 4
+
+      Comparison of psychological and dietary treatment in IBS patients. At this point the
+      investigators will have 100 patients who were treated with ICBT and 100 patients who were
+      treated with low-FODMAP diet. Treatment efficacy will be analyzed using linear mixed models
+      on the primary outcome measures with time as within-subject factor (random intercept random
+      slope models) and group as between-subject factor, with the time-by-group interaction effect
+      testing the hypothesis of a stronger response to iCBT compared to low-FODMAP.
+
+      Power calculation:
+
+      It is estimated that 100 participants per group need to be included in the treatment studies
+      and the analysis of predictors of treatment responses with regard to a dropout rate of 10%
+      (part 2-4). For part 1, the analysis can be performed on the entire study population of 200
+      participants, which gives 90% power to be able to detect an effect size (Cohen's f² = 0.10)
+      in multiple regression analysis with 9 independent variables (derived from questionnaire
+      PHQ-9, GAD-7, PHQ-12, VSI, IBS-BRQ and NEO-FFI) predicting the severity of IBS symptoms
+      (IBS-SSS and GSRS-IBS) and quality of life (IBS-QoL).
+    
+  

@@ -1,0 +1,66 @@
+
+    
+      Blood pressure management is an important part of anesthesia. Many factors contribute to a
+      change in blood pressure during a surgical procedure, such as blood loss, manipulation by
+      surgeons, and there are several mechanisms through which anesthesia itself changes blood
+      pressure. Although a high blood pressure also occurs during anesthesia, most of these factors
+      lower a patient's blood pressure. When a patient's blood pressure becomes too low, the
+      internal organs become at risk of receiving not enough blood (low perfusion or
+      hypoperfusion). This low perfusion state can result in organ damage (ischemia) because of an
+      insufficient supply of oxygen and glucose. Hence the important task of anesthesia providers
+      to maintain the blood pressure of patients, using a wide range of drugs and other
+      interventions.
+
+      A big challenge in blood pressure management is to know when a low blood pressure indeed
+      results in low perfusion of organs. There is a large variation between patients in how
+      susceptible they are to low blood pressure, as well as a difference between the organs in how
+      easily they are damaged because of low perfusion. Elder patients, or patients with
+      preexisting hypertension, heart problems or other cardiovascular diseases are more prone to a
+      low blood pressure and are more likely to develop organ ischemia when there is a low blood
+      pressure. The kidneys, the heart and the brain are the organs that are most at risk of organ
+      damage. As one cannot measure the perfusion states of individual organs in individual
+      patients, it is very difficult to know 'how low to go' with a patient's blood pressure.
+
+      Recent studies have used large datasets of patients to demonstrate that there is statistical
+      association between low blood pressure during surgery and various types of organ injury. As
+      patients are already treated for low blood pressure by anesthesia providers, this suggests
+      that patients have low organ perfusion states despite the current treatment standards. A
+      patient's blood pressure is not simply a dial that can be adjusted to a specific level.
+      Finding the right level of interventions can be difficult in some patients. Consequently,
+      lower blood pressures are common in anesthesia, even with the current standards of blood
+      pressure management.
+
+      In this proposed study the investigators will implement two forms of decision support to
+      assist anesthesia providers in blood pressure management. The decision support aims to
+      educate anesthesia providers about the risks of low blood pressures in direct relation to the
+      patients that they treat. One form of decision support will provide automated notifications
+      through pagers and through the anesthesia information management system. These automated
+      notifications pop up when the patient's blood pressure drops below a level that is associated
+      with a risk of organ injury, and thus alerts the anesthesia provider of the blood pressure
+      and its associated risk. The second form of decision support will send a postoperative email
+      the day after the procedure when the patient has had a low blood pressure for particular
+      duration. This email then provides feedback to the anesthesia provider by informing them of
+      the increased risks of organ injury that are associated with that low blood pressure.
+
+      The study will look at both a change in patient outcome and a change in blood pressure
+      management and will be performed at the Vanderbilt University Medical Center (VUMC). The
+      change in patient outcome will primarily be studied through the occurrence of acute kidney
+      injury in the first days following the procedure at the VUMC. The change in blood pressure
+      management (provider behavior) will be studied by observing the depth and duration of low
+      pressures during anesthesia, and the number of interventions that have been used to treat the
+      blood pressure. Patient outcome will be studied by comparison of a baseline phase - before
+      the decision support is implemented and uses historic data- and the intervention phase - the
+      period during which the intervention is active. Only routinely collected clinical data will
+      be used for these analyses: no additional data collection is required.
+
+      As it is impossible to know which form of decision support will be the most effective, the
+      first three months of the intervention period will be a 'nested cluster-randomized trial'.
+      The anesthesia providers (not the patients) will be randomized to either the automated
+      notifications or the feedback emails. After three months all anesthesia providers will
+      receive both forms of decision support for the remainder of the intervention period. The
+      reason why anesthesia providers are randomized only during the first three months is that
+      cross-over or contamination between the two groups is expected. This contamination could make
+      it impossible to study the effect of the decision support on patient outcome, as there will
+      be no longer any difference between the study groups.
+    
+  

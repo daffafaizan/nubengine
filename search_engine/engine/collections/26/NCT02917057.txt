@@ -1,0 +1,97 @@
+
+    
+      Background: In January 2012, the US Food and Drug Administration approved a once-weekly form
+      of exenatide, Bydureon, for the treatment of type 2 diabetes mellitus. Evidence from clinical
+      trials suggested that Bydureon improves glucose control with low risk of hypoglycemia.
+      Bydureon does not require a dose titration as necessary for other glucagon-like peptide-1
+      agonists (GLP-1RAs), and appears to have other advantages, such as reducing insulin
+      resistance, reducing weight, and improving blood pressure and lipid profiles. However, the
+      degree to which these advantages of Bydureon lead to improve outcomes in patients with renal
+      impairment or who are elderly is unknown.
+
+      Aims: The aim of this study is to evaluate the effectiveness and tolerability of Bydureon
+      relative to basal insulin initiated as first-ever injectable therapeutic regimens among
+      elderly patients and patients with renal impairment.
+
+      The specific study objectives are as follows:
+
+        -  To quantify the effectiveness of Bydureon initiation relative to initiation of basal
+           insulin, on improving:
+
+        -  Glycated hemoglobin (HbA1c)
+
+        -  Weight (body mass index (BMI))
+
+        -  HbA1c simultaneous to reduction in weight
+
+        -  Blood pressure and lipid profiles
+
+        -  To examine the tolerability of Bydureon initiation relative to initiation basal insulin,
+           on the occurrence of :
+
+        -  Hypoglycemia
+
+        -  Gastrointestinal symptoms (nausea, vomiting, diarrhea, and constipation)
+
+        -  Change in the markers for renal function (estimated glomerular filtration rate (eGFR),
+           serum creatinine, and albumin/creatinine ratio (ACR), and the stability of liver
+           function test (AST, ALT) and standard blood counts (WBC, RBC, HCT, Hgb, PLT)
+
+        -  To examine these measures of effectiveness and tolerability within potentially
+           vulnerable subgroups of Bydureon and basal insulin initiators:
+
+        -  T2D patients with renal impairment
+
+        -  Elderly T2D patients Study Population and Design: This retrospective cohort study will
+           use Optum's EHR data from July 2011 through March 2015 and identify injectable-naive T2D
+           patients who initiated either Bydureon or basal insulin during the accrual period,
+           January 2012 and January 2015. Injectable-naive T2D patients will be indetified.
+           Propensity score methods will be used to match Bydureon initiators with basal insulin
+           initiators.
+
+      Subgroup Comparisons: Within the EHR data, serum creatinine values will be used to calculate
+      the eGFR using an equation developed by the Chronic Kidney Disease (CKD) Epidemiology (EPI)
+      Collaboration, called the CKD-EPI Equation.
+
+      Renal Impairment: Patients will be stratified by eGFR ranges in baseline indicative of the
+      renal impairment, as follows:
+
+        -  Normal, eGFR ≥ 90.00 mL/min/1.73m2
+
+        -  Mild impairment, 60.00 < eGFR < 89.99 mL/min/1.73m2
+
+        -  Moderate and Severe impairment, eGFR < 59.99 mL/min/1.73m2
+
+      Elderly T2D Patients: Elderly subgroups will be defined as 65+ years of age. Patients will be
+      stratified by age on index date, as follows:
+
+        -  < 65 years
+
+        -  65 to 74 years
+
+        -  75+ years Outcomes and Analysis: To measure the effectiveness of Bydureon relative to
+           basal insulin are changes in HbA1c and body weight, as well as changes in HbA1c and
+           simultaneous reduction in weight. Changes in BMI, lipid profiles, and blood pressure
+           will be assessed. These variables are part of the clinical and laboratory data in the
+           EHR. Each outcome will be evaluated for completeness, multiply imputed, and reported
+           across standardized time intervals. HbA1c, weight and BMI will be summarized in baseline
+           and quarterly (3-month intervals) in the first year following drug initiation. Lipid
+           measurements and blood pressure will be summarized in baseline and bi-annually (6-month
+           intervals) in the first year following drug initiation.
+
+      To assess drug tolerability, incidence of hypoglycemia, and gastrointestinal symptoms
+      (nausea, vomiting, diarrhea, and constipation) will be calculated. These outcomes will be
+      ascertained using an ICD-9 algorithm applied to the structured fields and by extracting
+      mentions of hypoglycemia using a natural language processing (NLP) algorithm developed by
+      Optum and applied to the free text clinical notes available in the data. In addition the
+      stability of renal function evaluated by change in eGFR, or albumin/creatinine ratio (ACR);
+      the change in serum hepatic enzymes [aspartate aminotransferase (AST), alanine
+      aminotransferase (ALT)], and hematologic measures [red blood cells counts (RBC), white blood
+      cell counts (WBC), platelets (PLT), hemoglobin (Hgb) and hematocrit (Hct) will be evaluated.
+      Each of these laboratory values will be evaluated for completeness, multiply imputed, and
+      reported across standardized time intervals. eGFR and ACR are summarized in baseline and
+      quarterly (3-month intervals) in the first year following drug initiation. Hepatic enzymes
+      and hematologic measures are summarized in baseline and semi-annually (6-month intervals) in
+      the first year following drug initiation.
+    
+  

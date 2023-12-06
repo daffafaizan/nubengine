@@ -1,0 +1,84 @@
+
+    
+      STUDY DESIGN: An experimental 1-group, single-centre trial will be conducted in which people
+      post-stroke will perform 4 sessions of 20 minutes treadmill walking. The first session serves
+      as a control session in which patients will walk without VR. The order of the OF speed (i.e.
+      matched, two times slower than and two times faster than their walking speed) in the
+      following 3 VR sessions will be randomized.
+
+      PROCEDURE: Patients will be tested during 4 sessions of treadmill walking in the research lab
+      of the research group R&MM at the Vrije Universiteit Brussel.
+
+      Prior to the start of each session, some preparations will have to be done with regard to the
+      outcome measures:
+
+        -  Surface electrodes will be placed bilateral on the M. rectus femoris, M. vastus
+           lateralis, M. semitendinosus (hamstrings medialis), M. tibialis anterior, M.
+           gastrocnemius medialis and M. soleus. Electrode placement will follow the SENIAM
+           guidelines. The skin underlying the electrode will be shaved and cleaned with alcohol to
+           improve electrode-skin contact and reduce impedance.
+
+        -  Reflective markers will be placed on fixed points of the lower limbs of the patient.
+           Marker placement will follow the Plug-in Gait lower body model (VICON).
+
+      Session 1: control session After these preparations, participants will be asked to fill in a
+      questionnaire (the Simulator Sickness Questionnaire). Afterwards, participants will start to
+      walk on the patient-controlled treadmill system. For safety only, participants will walk with
+      an additional safety harness. Participants will first be habituated to walking on the
+      treadmill. During this habituation, we will also check if all measurements (VICON and EMG)
+      are correct and that no errors occur. If all measurements are good, participants will walk
+      for 20 minutes on the treadmill. After these 20 minutes, the treadmill will be stopped and
+      participants will be asked to fill in 2 questionnaires (the Simulator Sickness Questionnaire
+      and the Physical Activity Enjoyment Scale).
+
+      Sessions 2 - 3 - 4: VR session After these preparations, participants will be asked to fill
+      in a questionnaire (the Simulator Sickness Questionnaire). Afterwards, participants will
+      start to walk on the patient-controlled treadmill system. For safety only, participants will
+      walk with an additional safety harness. At the start of each VR session, participants will
+      first be habituated to walking on the treadmill without VR. During this habituation, we will
+      also check if all measurements (VICON and EMG) are correct and that no errors occur. If all
+      measurements are good, the treadmill will be stopped so that the VR can be added.
+      Participants will put on the head-mounted display (HMD) 'Oculus Rift' and will start to walk
+      in the baseline virtual environment for 2 minutes. After these 2 minutes the appropriate
+      optic flow speed will be added to the virtual world. Participants will walk for 20 minutes in
+      this virtual environment. After these 20 minutes, the treadmill will be stopped and
+      participants will take off the HMD 'Oculus Rift'. To end the session, participants will be
+      asked to fill in 2 questionnaires (the Simulator Sickness Questionnaire and the Physical
+      Activity Enjoyment Scale).
+
+      RANDOMIZATION: The first session will always be the one without VR, i.e. the control session.
+      For the VR sessions (session 2, 3 and 4), the optic flow manipulation (i.e. matched, two
+      times slower, two times faster) will be randomized.
+
+      MATERIALS: The virtual reality will be provided with the HMD VR system 'Oculus Rift' (Oculus,
+      LLS, US) and will assure an immersive virtual environment. The VR will be used in combination
+      with a treadmill system constructed at the Vrije Universiteit Brussel (Research group R&MM).
+      The patient-controlled haptic treadmill prototype is a treadmill where the speed is
+      controlled by the natural inclination of the patient while trying to move forward or stand
+      still. The treadmill has 6 axis force/torque sensors connected to a human user through a ball
+      joint that support a harness attached to the patient's pelvis. The treadmill's behavior can
+      be controlled in real time to adapt the walking dynamics of the patient. This enables the
+      treadmill to follow the walking speed of the patient.
+
+      STATISTICAL ANALYSIS: The effect optic flow manipulation has on the spatiotemporal gait
+      parameters, kinematics and muscle activity will be compared with walking without VR. In a
+      first stage, the data will be visualized using LO(W)ESS smoothing (locally weighted
+      scatterplot smoothing) to explore the observed effects over time (per condition and outcome),
+      allowing for flexibility using this quasi-nonparametric approach. Next, relevant values
+      expressing onset, magnitude and duration of the effect will be extracted:
+
+        -  Onset: time point(s) at which the minimal clinically important difference (MCID) is
+           exceeded. In case MCID is unknown, a 10% threshold will be used
+
+        -  Magnitude: magnitude of the maximum (or maxima) and time point(s) at which the maximum
+           is reached
+
+        -  Duration: time between the onset and the time point at which the MCID (or 10% threshold)
+           is no longer exceeded
+
+      These values will be compared between conditions in a one-way repeated measures ANOVA (factor
+      "condition"). If relevant (based on the exploratory analyses), additional in-depth
+      statistics, such as functional data analysis, will be performed under the guidance of the
+      Department of Statistics and Data Analysis of our university.
+    
+  

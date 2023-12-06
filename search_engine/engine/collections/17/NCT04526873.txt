@@ -1,0 +1,52 @@
+
+    
+      Annual Wellness Visits (AWVs) are a type of detailed healthcare checkup to which Medicare
+      beneficiaries are entitled, free of charge, once per year. The Keystone Affordable Care
+      Organization (KACO), of which Geisinger is a part, is working to increase the number of
+      eligible patients who take advantage of AWVs via mail and telephone outreach.
+
+      The purpose of the current study is to assess what content and communication modality results
+      in the most effective messaging campaign. Patients will either receive a phone call or a
+      mailed postcard, or they will be part of a no-contact control condition. Furthermore, the
+      content of the postcard will vary in terms of humor and salience, as well as whether
+      telehealth is mentioned as an AWV option.* Although telehealth is a great option for patients
+      who are unable to attend an in-person visit, the latter is preferable in terms of quality of
+      care. Furthermore, insurance coverage for telehealth visits may not extend indefinitely
+      beyond the COVID-19 pandemic. Highlighting the telehealth option may help attract patients
+      who would not otherwise get an AWV, increasing the effectiveness of the intervention. On the
+      other hand, it may unintentionally nudge patients who would otherwise have scheduled an
+      in-person visit to opt for telehealth instead.
+
+      The following research questions will assess effectiveness in increasing patient scheduling
+      of an AWV:
+
+        1. Are postcards effective compared with a no-contact control condition?
+
+        2. How effective are postcards when compared with phone calls, a presumably more intrusive
+           type of intervention?
+
+        3. Is a humorous cartoon, accompanied by language using examples to make salient the future
+           health risks that could be prevented, more effective than stock photography of similar
+           patient-doctor situations (typically used in outreach), accompanied by prevention
+           language that is less specific?
+
+        4. Is it more effective to highlight the availability of telehealth video visits than not
+           to mention that option?
+
+        5. Are in-person AWVs are scheduled at least as frequently when the telehealth option is
+           highlighted as when it is not?
+
+      Included in the study will be patients from 7 KACO partner sites: Caring Community Health
+      Center, Evangelical Community Hospital, Geisinger, Geisinger-Hm Joint Venture, Holy Spirit,
+      Wayne Memorial Hospital, and Wright Center. Generalized linear mixed models (GLMMs) will
+      examine the primary study outcomes as a function of the study arms (between-subjects), with
+      partner site included as a random effect, assuming high intraclass correlation coefficients.
+
+      * Wayne Memorial Hospital patients will not receive postcards with tele-health content. In
+      addition, only patients from the following partner sites will be randomized to receive a
+      phone call: Evangelical Community Hospital, Wayne Memorial Hospital, and the Wright Center.
+      Geisinger patients will not be randomized to receive phone calls, but Geisinger patients who
+      are randomized to other conditions may receive phone calls as part of regular operations.
+      This will be accounted for during analysis as a model regressor.
+    
+  

@@ -1,0 +1,115 @@
+
+    
+      METHOD Subject Population: Subjects for consideration in the study will be those referred
+      from the out-patient nephrology clinic at the University of Chicago or a dialysis unit
+      affiliated with DaVita Dialysis for a primary AVF. Eligible patients are those who are
+      evaluated at the University of Chicago by a transplant or vascular surgeon. If the treating
+      surgeon determines that the patient will have an attempted BCF, these patients will be
+      eligible to participate in this study. The research team will be notified of a potential
+      subject.
+
+      Clinical Protocol: After the patient is enrolled, pre-operative labs and work-up will be at
+      the discretion of the surgeon. At the time of the OR, if a BCF is placed, labs will be drawn
+      for viscosity, hematocrit, and ADMA. If it is determined at any time by the treating surgeon
+      that a subject is not a suitable surgical candidate for a fistula due to underlying medical
+      conditions, the subject will be withdrawn from the study. A venogram and Doppler of the
+      cephalic arch will be obtained prior to anastomosis creation. A segment of the cephalic vein
+      and arterial tissue will be collected from the excised amount and sent to the Human Tissue
+      Research Center to be preserved for future assay for histology, cytokines, and growth factors
+      as discussed below. The serum specimens for viscosity, Hct, and ADMA will be transported on
+      ice to IIT for assay. The patient will then have follow up Doppler, venogram, and associated
+      tests according to the same procedure following the schedule provided in table \ref{protocol}
+      for the large-scale prospective study. The clinically obtained measurements of geometry, flow
+      rate, and whole blood viscosity will be used as input to the CFD model that will be used to
+      compute the WSS and other HDP throughout the arch. Patients who develop symptoms of stenosis
+      between protocol measurements will have a venogram performed at the time of diagnosis. These
+      venograms will be considered standard of care, although data may be used for study analysis.
+      In addition, excised tissue samples of the cephalic vein and arterial tissue will be obtained
+      when the access is placed and at each surgical revision and banked for future studies.
+
+      A subset of ten subjects from the large-scale study will be invited for a sub study that will
+      involve: 1) more detailed three-dimensional imaging of the cephalic arch using IVUS, and 2)
+      blood flow monitoring via Doppler during dialysis. Subjects who have not undergone previous
+      dialysis treatment will be invited to participate in this optional sub-study. Participation
+      in this sub-study will not affect participation in the main study. The IVUS imaging will
+      provide a three-dimensional image of the vessel geometry and remodeling characteristics of
+      the vein upon which the remodeling index (RI) will be computed [26,27]. Detailed CFD modeling
+      will be carried out on these cephalic arch reconstructions, which will be performed at 0 and
+      24 months after fistula insertion. This will allow for a detailed prospective study of the
+      evolution of IH, remodeling, and stenosis in the cephalic arch.
+
+      For the same ten subjects in the small-scale study, actual venous blood flow will be measured
+      during hemodialysis treatment using a hand held Doppler device in the upper arm cephalic vein
+      as close to the cephalic arch inlet as possible. The Doppler readings will be obtained at
+      dialyzer blood flows of 300, 350, 400 and 450 mL/minute. Three measurements will be obtained
+      at each of four blood flows, and the average at each blood flow calculated. These readings
+      will be taken at 0, 6, 12, 18, and 24 months after fistula insertion. The Doppler data
+      obtained during hemodialysis will be used along with recent clinical venograms and laboratory
+      data outlined above to perform CFD modeling. This data during dialysis treatment will be used
+      to 1) quantify the differences in the HDP for subjects pre-dialysis and while on dialysis,
+      and 2) seek a correlation between the Doppler readings at the various dialyzer flow rates and
+      the onset of CAS. It is expected that formation of stenosis would alter the resistance to
+      blood flow through the arch, thereby altering the flow rate in such a way that a unique
+      signature will be apparent in the Doppler data during the controlled dialysis process. If
+      this is the case, then additional surveillance techniques could be developed for identifying
+      the onset of CAS.
+
+      History and Physical: The history and physical will be focused on the dialysis access. The
+      history will include type and problems with cannulation, pain score with cannulation, needle
+      size used, and bleeding complications. The physical exam will include an extensive
+      examination of the access including pulse, description of anastomosis, any evidence of
+      aneurisms, hematoma, inflammation, edema, or swelling of the head and neck.
+
+      Venogram: The venogram is performed as follows with simultaneous blood flow measurements. The
+      patient will have their fistula punctured with a 21-gauge needle near the arterial
+      anastomosis directed toward the stenosis (either venous or arterial). The needle will be
+      exchanged for a 5 French dilator, and a digital subtraction venogram encompassing the outflow
+      from puncture site to the right heart will be performed. Any stenosis will be measured using
+      electronic calipers and defined. Any significant hemodynamic stenosis, defined as greater
+      than 50% narrowing of the expected luminal diameter, will be treated with balloon angioplasty
+      according to DOQI consensus from the International Society of Interventional Radiology [36].
+      In addition to the baseline venogram at the time of BCF placement, the venogram will include
+      an image of the anastomosis and a measurement of the length from the anastomosis to the inlet
+      of the cephalic arch.
+
+      Intravenous Ultrasound (IVUS): The subset of patients for the small-scale study will have a
+      venogram performed as above and IVUS imaging in the Cardiac Catheterization Laboratory at the
+      University of Chicago. The IVUS catheter will be inserted after the venogram, and images will
+      be taken during pullback of the catheter at a set rate in order to provide cross-sectional
+      images of the intimal and lumen layers of the vein at preset intervals along the cephalic
+      arch [26,40].
+
+      Doppler: Doppler spectral analysis will be performed by an interventional radiologist at the
+      time of each venogram or IVUS to measure velocity in the cephalic vein prior to entering the
+      cephalic arch. The peak systolic velocity (PSV) at a 60-degree angle of insonation will be
+      measured in the straight portion of the cephalic vein between the anastomosis and the arch as
+      close to the arch as possible. The velocities in this location will be measured over several
+      heart cycles and the average calculated.
+
+      Whole Blood Viscosity (WBV), Hematocrit, and ADMA: WBV, Hematocrit, and ADMA will be measured
+      from serum samples obtained from patients pre-op or pre-dialysis. Blood samples will be
+      anti-coagulated with 3.2% buffered sodium citrate and transported on ice to IIT. At IIT, WBV
+      will be measured using a Brookfield Programmable DV-II+ cone plate viscometer. ADMA will be
+      measured using an ADMA ELISA kit from EUROIMU US or by HPLC. The samples will be collected
+      every 6 months on all subjects and frozen to be run in aliquots of 50 at IIT.
+
+      Cephalic Vein and Arterial Tissue Samples:
+
+      During placement of BCF vein and arterial tissue are excised during anastomosis to create the
+      fistula. After the tissue is removed from the vein and artery a small portion of each will be
+      removed and collected for research from this discarded material. The cephalic vein and
+      arterial samples will be collected and preserved in a tissue bank for later review by light
+      and electron microscopy in a subsequent study. The sections will be reviewed by the
+      pathologist for: generalized wall thickness, fibrous tissue infiltration, intimal
+      hyperplasia, loss of endothelial cell layer, disruption of internal elastic lamina, mural
+      calcification, and inflammatory reaction in the wall with infiltration by erythrocytes and/or
+      histiocycyte. The changes that are present will be correlated with the development of intimal
+      hyperplasia as evident by CAS. Our hypothesis is that histiopathic changes of intimal
+      hyperplasia at baseline will correlate with the development of an accelerated course to
+      develop CAS and subsequent thrombosis.
+
+      End-Point: The end-point of a subject's enrollment in the study will occur if they develop
+      CAS of greater than 50%, transfer out of the DaVita dialysis program, transplantation, or
+      death.
+    
+  

@@ -1,0 +1,59 @@
+
+    
+      Patients with peripheral neuropathy and healthy volunteers will be recruited in this study.
+      Peripheral neuropathy is defined according to the neuropathic symptoms and signs. Informed
+      consent will be approved by the Ethical Committee of the National Taiwan University Hospital
+      and obtained from each subject.
+
+      To assess the severity of different neuropathic symptoms, such as spontaneous ongoing and
+      paroxysmal pain, evoked pain, paraesthesia, and dysaesthesia, patients with neuropathic pain
+      will fill out the Neuropathic Pain Symptom Inventory. Each subject will receive detailed
+      sensory examination to evaluate the integrity of sensory fibers. To measure thresholds of
+      thermal and vibratory sensations, we will perform quantitative sensory testing by the method
+      of level using a Thermal Sensory Analyser and Vibratory Sensory Analyser (Medoc Advanced
+      Medical System, Minneapolis, MN, USA) following an established protocol. We will use a
+      contact heat stimulator to deliver thermal stimulation. Noxious and innocuous heat
+      temperatures will be applied within the right foot dorsum. Several pretests will be applied
+      before CHEP recording to eliminate expectation effects. To avoid sensitization and
+      desensitization, low intensity stimuli will precede high intensity stimuli at each block.
+
+      Functional magnetic resonance imaging (fMRI) will be performed on a 3-T MR machine (Sonata;
+      Siemens, Erlangen, Germany). A high resolution T1 weighted scan of the entire brain in
+      trans-axial orientation will be obtained to provide anatomical information for the
+      superimposed functional activation maps. Echo Planar Imaging will be used for the acquisition
+      of the functional data. Each imaging session will be consisted of one high-resolution
+      anatomical scan and three functional scanning runs, with 5-min intersession interval. During
+      the scanning, several thermal stimuli will be applied by CHEP stimulator to the right dorsal
+      foot. To avoid sensitization, the stimulation site will be changed slightly after each
+      stimulus. After 12-s stimulation, the temperature will be cooling, with a subsequent 36-s
+      interstimulus interval. After each fMRI session, subjects will be asked to rate the intensity
+      and unpleasantness of received pain stimulus. The average rating values will be indicated
+      after the scan on a computer driven visual analogue scale ranging from 0 to 10 (0, no pain;
+      1, slight intense; 2, mild intense; 3, moderate intense; 4, slight pain; 5, mild pain; 6,
+      moderate pain; 7, moderate-strong pain; 8, strong pain; 9, severe pain; 10, unbearable pain),
+      and the intensity and unpleasantness of received pain will be assessed using the Short-Form
+      McGill Pain Questionnaire.
+
+      All data will be processed using the Statistical Parametric Mapping software (SPM2). fMRI
+      data series will be realigned and resliced with sinc interpolation to correct for motion
+      artifacts. Scans with sudden head movements of more than 2 mm will be omitted. To enable
+      intersubject analysis, the functional data will be coregistered to the anatomical scan and
+      transformed into a reference space according to the MNI template of SPM2 by normalization
+      using sinc interpolation. The resampled voxel volume of the normalized images is 2 x 2 x 2
+      mm. Subsequently, data will be smoothed with an isotropic Gaussian kernel of 8 mm full-width
+      at half maximum to reduce high frequency noise and to account for anatomical variances.
+      Condition-specific effects will be estimated with the general linear model using a boxcar
+      approach convolved with the hemodynamic response function. High pass filtering will remove
+      low frequency noise and low pass filtering will account for serial autocorrelations of the
+      data.
+
+      We will analyze the data on an individual (subject per subject) basis and across subjects
+      (group analysis) using a cross-subjects variance (random effect analysis). Data from each
+      stimulation will be pooled for group statistical comparisons. A single design matrix,
+      including 3 sessions of all subjects, will be generated due to the limited number of
+      experiments representing a fixed-effects model analysis. Statistical parametric maps will be
+      generated as t-contrasts and corrected for multiple comparisons according to the random field
+      theory with P < 0.05. The threshold for the Z maps is 3.09 (P < 0.001) for individual subject
+      analysis. Significant clusters have to show a minimum extension volume of 10 voxels.
+    
+  

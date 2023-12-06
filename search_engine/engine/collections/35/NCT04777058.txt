@@ -1,0 +1,60 @@
+
+    
+      Fungal infections are a serious threat to immunocompromised patients and represent a major
+      burden in the critical care setting. The azole antifungal drugs are the most important drugs
+      for managing infections caused by Aspergillus moulds and the prevention of invasive fungal
+      infections in general. Azoles are currently used as first line prophylaxis and treatment of
+      invasive aspergillosis and their use has substantially improved the survival of the overall
+      population. Recently, there has been increased awareness for invasive aspergillosis cases in
+      critically ill patients, including patients with severe influenza (influenza associated
+      pulmonary aspergillosis, IAPA), and recently COVID-19 associated pulmonary aspergillosis
+      (CAPA). These patients require azole-based therapy, for which voriconazole and isavuconazole
+      are recommended first choice drugs.
+
+      Isavuconazole is a relatively novel azole drug with promising efficacy, a broad antifungal
+      spectrum, favourable side effect profile and limited drug-drug interactions compared to other
+      azole agents. Isavuconazole is registered for the primary treatment of adults with invasive
+      aspergillosis, and patients with mucormycosis where amphotericin B is not suitable. Efficacy
+      and safety information in the isavuconazole label is mostly derived from clinical studies in
+      healthy volunteers. However, the pharmacokinetics in some specific patient populations may
+      differ greatly from those in the healthy population. Changes in pharmacokinetics of
+      isavuconazole in ICU patients are to be expected due to a wide variety of factors, e.g.
+      changes in protein binding and changes in fluid distribution. Therefore, it is likely that
+      the present standard dosing regimens of isavuconazole lead to suboptimal outcomes for ICU
+      patients, similar to observations made for fluconazole and echinocandins. Optimizing dosing
+      regimens in ICU patients for existing antifungal agents such as isavuconazole is important to
+      improve clinical outcome rates. To date, limited information on the pharmacokinetics of
+      isavuconazole in critically ill patients is available and optimal dosing regimens remain
+      uncertain. With this study we aim to describe isavuconazole pharmacokinetics in ICU admitted
+      patients.
+
+      20 patients admitted to the ICU department and receiving isavuconazole as part of standard
+      care for the treatment of fungal infections will be included in the study. Between day 3 and
+      7, 8 samples will be collected at t = 0 (pre-dose), and t = 0.5, 1, 2, 4, 6, 8 and 12 hours
+      after end of infusion to obtain a PK curve. An optional, additional sample can be collected
+      after discontinuation of isavuconazole therapy if possible. Total and free isavuconazole
+      concentrations will be determined. A pharmacokinetic model will be fitted to the data from
+      all individuals simultaneously. Data will be analysed using non-linear mixed effects
+      modelling (NONMEM). NONMEM is a one-stage analysis that simultaneously estimates mean
+      parameters, fixed effect parameters, interindividual variability, and residual random
+      effects. Since allowance can be made for individual differences, this method can be used with
+      both intensive sampling and sparse data (and in the occasion of missing values: an unbalanced
+      number of data points per patients).
+
+      Primary objective:
+
+      • To determine the pharmacokinetics of isavuconazole given as treatment of invasive fungal
+      infections in ICU patients as part of standard care.
+
+      Secondary objectives:
+
+        -  To investigate the protein binding of isavuconazole in ICU patients and the variability
+           in protein binding between patients in the ICU population.
+
+        -  To explore if unbound isavuconazole concentrations can be predicted from total
+           isavuconazole concentrations.
+
+        -  To assess pharmacokinetic/pharmacodynamic target attainment in the ICU patient
+           population.
+    
+  

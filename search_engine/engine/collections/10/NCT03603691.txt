@@ -1,0 +1,65 @@
+
+    
+      Background In Switzerland, many patients with multiple sclerosis (MS) are treated with
+      physiotherapy. Muscle weakness is a common symptom. Particularly in progressive disease
+      courses, motor dysfunction is a major contributor to the reduced mobility and quality of
+      life. Therefore, improving the motor dysfunction is an important goal for therapy and is
+      evaluated with a variety of muscle function tests. The 6 level British Medical Research
+      Council (BMRC) manual muscle test is the most widely used test in MS and is a part of the
+      Neurostatus-Expanded Disability Status Scale (EDSS) assessment, which has been adopted as the
+      standard in most of the pivotal trials that have led to the approval of the current MS
+      treatments. In MS patients, testing muscle function can be confounded by many factors, such
+      as spasticity and ataxia, which are not considered by the existing tests and may cause biased
+      test results. Steinlin Egli described a Modified Manual Muscle Test (MMMT) that considers
+      spasticity and may provide a more reliable and valid muscle function test for MS patients.
+
+      Aim of the study is to evaluate the inter- and intra-rater reliability of the Modified Manual
+      Muscle Test in MS and evaluate the validity of the Modified MMT according to the criteria of
+      the Neurostatus BMRC manual muscle test and the microFET2 handhold dynamometer.
+
+      Methods This is a single-centre, prospective cross-sectional study with a test-retest design.
+      The Neurostatus BMRC manual muscle test and the microFET2 hand held dynamometer are used as
+      the criteria. The primary endpoint is the ordinal MMMT level. The intra-class correlation
+      coefficient (ICC) of the ranked MMMT levels will be estimated. The investigator aims to show
+      that the MMMT results are clinically relevant with a high level of ICC.
+
+      The secondary endpoints include the Neurostatus BMRC levels, the muscle strength as measured
+      by the microFET2 dynamometer and fatigue using a numeric rating scale (NRS). Subgroup
+      analyses will determine whether the MMMT is less sensitive to the influence of spasticity
+      than the Neurostatus BMRC.
+
+      28 patients with MS will be tested in 2 days. In each day, six examiners will test seven
+      patients in the morning and seven patients in the afternoon. Three MS-therapists from the
+      Specialized Group Physiotherapy in MS and three neurologists from the Department of Neurology
+      at the University Hospital Basel will be tester. All examiners will be blinded to the results
+      of the other examiners. All test persons will be blinded to their test results. First, the
+      patient will rate his fatigue using the NRS. Muscle function will be tested with the
+      microFET2 and spasticity will be assessed using the modified Tardieu Scale. Then, the first
+      round of manual testing will be executed. After each test, there will be a break that is long
+      enough for the patients to recuperate. The order of the examiners will be randomized. The
+      retest round will proceed in a different order. Finally, spasticity will be tested again
+      using the modified Tardieu Scale, and the patients will rate their fatigue.
+
+      Statistical Analysis The study data will be analysed using the internet-based program R. The
+      descriptive statistics will describe the sample characteristics. The inter-rater reliability
+      will be estimated by the ICC of the MMMT ranks. The ICC will be estimated by a two-way
+      random-effects ANOVA and reported with 95% CI. If the lower limit of the CI is larger than
+      the pre-specified clinically relevant ICC margin, the MMMT will be considered a reliable tool
+      for evaluating muscle strength in MS patients.
+
+      The inter-rater reliability the Neurostatus BMRC will be estimated similarly by the ICC. The
+      ICC of both tests will be compared. The test-retest reliability of the MMMT and Neurostatus
+      BMRC will be estimated using two-way random-effects ANOVA and will be reported by ICC
+      estimates. The influence of potential fatigue will be analysed by plotting the test and
+      retest results against the NRS and investigating the associations and interactions using a
+      linear mixed effects model. The pairwise correlations of the MMMT and the Neurostatus BMRC
+      with the microFET2 will be graphically analysed (scatterplots and/or boxplots), and
+      Spearman's ρ will be calculated. The primary and secondary analyses will be repeated for
+      subgroups with high and low spasticity patients to compare the sensitivity of the MMMT and
+      Neurostatus BMRC to spasticity.
+
+      Expected results: The investigators expect the MMMT for MS to be a reliable and valid manual
+      muscle function test that can be used in the evaluation of the long-term treatment of MS
+      patients with physical therapy.
+    
+  

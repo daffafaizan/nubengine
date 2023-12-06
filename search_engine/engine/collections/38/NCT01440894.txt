@@ -1,0 +1,45 @@
+
+    
+      Hospital Information The data was collected by Zhongshan City People's Hospital Clinical
+      Investigator Team at Zhongshan City People's Hospital, No.2 Sunwen Dong Road, Zhongshan,
+      Guangdong 528403, P. R. China.
+
+      Investigator: Dr. Stephen Feng, Leader; Fan Futao, Nurse A; Wu Yanting, Nurse B.
+
+      Contact Dr. James Zhu Tel: +86 760 88823818 Used Equipments DUT (Device Under Test): Transtek
+      Glass Body Fat Analyzer, Model: GBF-733-W1, GBF-1012, BF-1039, BF-1041-A, and GBF-950-D.
+
+      Reference Device: Transtek Glass Body Analyzer, GBF-950 (Predicate Device). Test Protocol
+
+        1. Test Purpose:
+
+           The aim of clinical test is to collect weight, body fat, total body water, bone mass,
+           and muscle mass reading value which measured by DUT and reference device.
+
+           Note: GBF-733-W1 and BF-1039 have not bone mass functions. So it just collects weight,
+           body fat, total body water, and muscle mass data.
+
+        2. Target Subject:
+
+           The subject database shall contain at least 25 male and 25 female subjects and all above
+           18 years old. Patient's population analysis is bellow.
+
+        3. Test procedures 1) Record the name, age, and gender values of each subject. 2) Let
+           subject seated calmly for two minutes before test, dry the feet. 3) Use device to
+           measure weight, body fat, total body water, bone mass, and muscle mass; record reading
+           value.
+
+      4) For each subject, repeat 3) to get 3 pairs measurements. 5) Repeat step 1) to 4) for every
+      device (DUT: GBF-733-W1, GBF-1012, BF-1039, BF-1041-A, and GBF-950-D; and reference device:
+      GBF-950).
+
+      6) Repeat step 1) to 5) for each subject. 5. Note:
+
+        1. No motion and speaking are allowed during the measurement.
+
+        2. All DUT use the same algorithms, have the same number of electrodes and contact the
+           patient at the same body locations (feet), and operate on the same frequency.
+
+        3. Test environment: Temperature: 22±1℃; Relative humidity: 40~50%.
+    
+  

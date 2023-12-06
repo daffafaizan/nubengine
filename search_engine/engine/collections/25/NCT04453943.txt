@@ -1,0 +1,136 @@
+
+    
+      Research activities involve use of computer-controlled functional electrical stimulation
+      (FES) and electric motor-driven orthosis (powered exoskeleton) to generate functional
+      lower-limb movements for; i.e., standing and walking. The computer-controlled algorithms will
+      get feedback from sensors such as optical encoders, load cells, force sensitive resistors,
+      and inertial measurement units that are or will be inbuilt in the orthosis or these feedback
+      algorithms will be combined with precomputed optimized algorithms based on the estimated
+      musculoskeletal model of a participant. Multiple computer algorithms will be designed to
+      coordinate FES with electric motors and other components of the walking device to reproduce
+      or restore standing and walking movements. The study involves validation of computer
+      algorithms to estimate and control the walking and sitting/standing movements. The Rifton
+      E-Pacer motorized walker, arm crutches, parallel bars, or a conventional walker may be used
+      in order to assist donning and doffing of the exoskeleton system, standing, and walking for
+      all subjects, at any time during experimentation, for as long as is deemed necessary by the
+      experimental goals. Using the E-Pacer or a walker should improve experiment safety and reduce
+      the subject's overall physical exertion because it reduces load on the subject's body.
+      Sitting/Standing and/or walking movements will be elicited by the hybrid walking platform
+      that combines a powered exoskeleton and an FES system. The powered exoskeleton can provide
+      joint actuation at the hip and knee joints of a participant. The FES system can stimulate the
+      quadriceps, hamstrings muscle, glutes, and ankle muscles. The electrodes for stimulation are
+      placed on the skin at locations that provide an optimal limb movement. The algorithms are
+      designed such that the stimulation of different muscles are coordinated to achieve walking
+      and/or sitting/standing. A precedent experiment will be performed on a Group B participant
+      before it is tested on Group A. Unlike the paraplegic participants (Group A), if the device
+      should fail or act unexpectedly the persons without disability (Group B) will be able to
+      intervene . Therefore, testing the device on persons without disability first will allow us
+      to further assess and address any risks before testing on individuals with SCI, who are
+      incapable of intervening with the device. All the sessions for Group A participants will be
+      performed in the supervision of a physical therapist. The therapist will also assist the
+      Group A participants in transferring them from their wheelchairs to a cushioned table for
+      seating if required or to the exoskeleton. Group A participant will also be supported by a
+      body-unweighing system to prevent falling during standing and walking. Before each experiment
+      involving electrical stimulation, a participant's heart rate and blood pressure will be
+      recorded. Therapists will also assist the participants in transferring them from their
+      wheelchairs to the therapy table. A participant or an individual operating the device will
+      initiate walking and/or standing movement. A participant can stop the movements if he/she
+      feels not comfortable or unsafe by using a safety-stop button, which will be given to them.
+      During these sessions participants will wear a heart rate monitor to ensure that they do not
+      overexert themselves, and so that sufficient rest periods may be given. The participants'
+      heart rate will be checked before and after each trial by an individual conducting the
+      experiments. The Borg scale will be administered for Group A to check for their exertion
+      level. The sessions will be stopped as per the limits prescribed by the Borg scale (see
+      stopping criteria in risks section). Please note that for all experiments described, a
+      minimum of 1-2 days is required between visits for experimentation. These activities are
+      divided into Aim 1 and Aim 2. Please note that Aims 1-2 are not sequential. Aim 1: To elicit
+      sitting/standing and walking movements by using an optimized powered exoskeleton and
+      functional electrical stimulation (FES) assistance. The objective of this aim is to
+      experimentally validate an optimal controller that allocates FES and exoskeleton contribution
+      based on a person-specific model of a participant. The controller will produce lower-limb
+      movements in persons with no disabilities and persons with spinal cord injury. Group A and
+      Group B will participate in approximately 20 sessions. The number of sessions is approximate
+      and it may exceed this number and there is not cut-off number of sessions that will prohibit
+      further participation. The session duration will be up to 4 hours, at the maximum. The
+      session durations are approximate and it can be more or less than the specified. The total
+      number sessions may overshoot by few sessions for some participants due to unanticipated
+      technical or erroneous experimental data. These experiments will be conducted in the
+      Neuromuscular Control and Robotics Laboratory (NCRL) or at the Outpatient Rehabilitation
+      Clinic at Chapel-Hill run by the principal investigator. These experiments are divided into 2
+      tasks. Task 1: Initial visits for familiarization, training and model identification.
+      Familiarization and training visits will allow us to customize and optimize the hybrid
+      walking exoskeleton to each participating individual. For this task the participants will
+      visit the NCRL for approximately 3 sessions. These sessions will take no more than 4 hours.
+      The session durations are approximate and it can be more or less than the specified. The
+      total number sessions may overshoot by few sessions for some participants due to
+      unanticipated technical or erroneous experimental data. In the first visit, adjustments to
+      the hybrid device will be made to fit the device to the participant. In these visits, the
+      objectives are to train them for sit-to-stand transfers and perform walking movements with
+      the hybrid walking device. Computer controlled algorithms will be used for performing
+      sit-to-stand, stand-to-sit, and walking movements. Model identification experiments to find
+      model parameters for each individual can be run during initial training and familiarization
+      studies. These model identification experiments can be conducted while a participant
+      sits/stands or walk in the hybrid walking device. Once the subject-specific parameters are
+      identified, a walking and/or standing algorithm that coordinates FES with the powered
+      exoskeleton will be derived or optimized using offline dynamic optimizations. Task 2:
+      Validation of a sitting/standing and/or walking algorithm. After initial visits (Task 1),
+      walking and/or standing algorithm will be tested. The algorithm is a computer program that
+      takes sensory information from different sensors such optical encoders, inertial measurement
+      units, and heel contact sensors in-built in the hybrid walking system to optimally coordinate
+      FES and electric motors of the powered exoskeleton. The algorithm will be experimentally
+      validated on each participant in approximately 7 sessions. Each session will run for no more
+      than 4 hours, which includes time to perform standing, walking, periods of rest, time
+      required to adjust bracing, and time required to update the computer code if needed. Note
+      that the number of sessions and duration are estimates and are subject to change based on
+      conditions of the experiment. A motion capture system may also be used to measure joint
+      angles so that spatiotemporal gait characteristics can be compared with the normal gait of a
+      healthy control subject. The recorded gait data will also be used to assess the performance
+      of the control systems of the device, and to show how the user's gait changes over time as
+      they become more comfortable with using the device. These sessions may be recorded so that
+      the application and efficacy of the device may be illustrated. Aim 2: Integrating
+      ultrasound-based feedback to control a hybrid exoskeleton. The objectives of this aim are to
+      investigate if ultrasound imaging can be used as a tool to measure muscle fatigue induced by
+      FES and further use the US-derived signals to optimize FES and exoskeleton assistance. The
+      first objective of this aim is to develop an ultrasound based fatigue model to indicate the
+      onset of muscle fatigue. The second objective is to use the ultrasound-based fatigue model in
+      an algorithm that coordinates control of FES and electric motor during sitting-to-standing,
+      walking, and standing-to-sitting activities. Group A and Group B individuals will participate
+      in this aim. They will participate in approximately 10 sessions of no more than 4 hours each.
+      The total number sessions can be more or less than 10 due to unanticipated technical or
+      erroneous experimental data or if the participant leaves the study. These experiments will be
+      conducted in NCRL or at the Outpatient Rehabilitation Clinic at Chapel-Hill. Task 1:
+      Development of an ultrasound imaging based fatigue and recovery measures of leg muscles. A
+      stimulation protocol will be followed that produces muscle fatigue. Muscle fatigue is defined
+      as some percentage decline in isometric torque generated by FES of the quadriceps muscle.
+      Because decline in the isometric torque could differ in different participants a common
+      stimulation protocol will be employed for all the participants. This will be done during
+      approximately two sessions that will each last no more than 4 hours. The session durations
+      are approximate and it can be more or less than the specified. The total number sessions may
+      overshoot by few sessions for some participants due to unanticipated technical or erroneous
+      experimental data. Both ultrasound (using the imaging probe placed in between the electrodes)
+      and torque data (from the load sensor) will be collected. A hand-held commercial ultrasound
+      transducer (5- 20 MHz clinical transducer) connected to a commercial ultrasound system
+      (S-Sharp Corporation, Taiwan) placed against the skin. A warm gel is applied to the skin to
+      help with imaging. All the ultrasound imaging parameters including intensity and frame rates
+      etc. are below safety guidelines for clinical ultrasound imaging (MI values less than 1.9).
+      After these experiments, the processed ultrasound data will be correlated with the measured
+      torque to determine fatigue and recovery measures. Task 2: Incorporation of the
+      ultrasound-based fatigue model in a control allocation algorithm. The ultrasound
+      imaging-based fatigue and recovery measures can be used to predict the onset of muscle
+      fatigue. The experimental studies will be conducted on (Group A) and (Group B) over 2
+      sessions will each last no more than 4 hours. The session durations are approximate and it
+      can be more or less than the specified. The total number sessions may overshoot by few
+      sessions for some participants due to unanticipated technical or erroneous experimental data.
+      The algorithms in Task 2 of Aim 1 will be modified to incorporate the ultrasound-based
+      fatigue and recovery measures. Remark on stimulation parameters to be used in the
+      aforementioned aims: A normal range of stimulation to be used in our studies is: pulse width
+      100-400 micro seconds; Frequency: 20-100 Hz; Current 0-100 mA. Generally during the
+      experiment, the current is automatically modulated (or in some instances manually) starting
+      from 0 mA to the value that is required to achieve a task. This is achieved by feedback
+      signals to the control system that communicates with the stimulator. The control system does
+      not allow the current to go above its maximum limit. The pulsewidth and frequency are
+      generally kept constant. The stimulation parameters used for each participant will be
+      documented for each experimental session and any changes in the stimulation parameters during
+      a session will also be recorded.
+    
+  

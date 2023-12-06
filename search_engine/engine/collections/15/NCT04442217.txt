@@ -1,0 +1,105 @@
+
+    
+      Hypothesis/Research questions Hypothesis 1: Risk perception, altruism and governmental trust
+      will significantly be associated with both adherence and hygiene-related behavior, with
+      increased risk perception, altruism, and governmental trust associated with higher rates of
+      adherence and hygiene-related behavior. The personality traits conscientiousness and
+      agreeableness will significantly be associated with both adherence and hygiene related
+      behavior, with increased conscientiousness, and agreeableness associated with higher rates of
+      adherence and hygiene-related behavior. Furthermore, beliefs about pandemic protocol efficacy
+      and beliefs about collective mitigation behavior (i.e., "it is only useful to follow
+      transmission protocols if everyone else does") will be associated with adherence to viral
+      mitigation protocols and hygiene-related behaviors.
+
+      Research Question 1: Is there a difference between the use of various platforms to obtain
+      information about COVID with regards to adherence to viral mitigation protocols and
+      hygiene-related behaviors? Research Question 2: To what extend are different sources of
+      obtaining information associated with adherence to hygiene-related behavior and adherence to
+      viral mitigation protocols? Research Question 3: To what extent are different personality
+      traits (measured with the Short Big Five Inventory-10 (BFI-10)) associated with adherence to
+      viral mitigation protocols and hygiene-related behaviors?
+
+      Statistical analyses:
+
+      Two hierarchical regression analyses will be conducted: one with adherence to hygiene-related
+      behavior as the dependent variable, and the second with adherence to pandemic protocols as
+      the dependent variable. In both hierarchical regression analysis, the first step will include
+      the demographic characteristics (control variables) age, gender, and education. The second
+      step will include risk perception, altruism, governmental trust, personality traits (i.e.,
+      neuroticism, extroversion-introversion, openness, conscientiousness, agreeableness), beliefs
+      about pandemic protocol efficacy and beliefs about collective mitigation behavior.
+
+      Part correlations will be reported, presenting the effect size of the hypothesized predictors
+      on adherence, revealing the most important variables related to adherence behavior.
+      Multicollinearity and other statistical assumptions will be checked using examined.
+      Multicollinearity will be assessed with common guidelines (VIF < 5 and Tolerance > 0.2;
+      Hocking, 2003; O'Brian, 2007).
+
+      All analyses and questions addressed in the forthcoming paper that are not pre-specified in
+      this pre-registered protocol will be defined as exploratory.
+
+      Sensitivity analyses and random subsample replications of the main findings will be conducted
+      following selection of a random sample of participants that ensure a proportionate ratio
+      between the collected sample and the adult population of Norway.
+
+      Possible transformations:
+
+      All variables will be assessed in their original and validated format as is recommended
+      practice, as long as this is possible with regards to statistical assumptions underlying the
+      pre-defined analyses (i.e., multiple regression). However, if this is not possible with
+      regards to the statistical assumptions behind the analyses, transformation (e.g., square root
+      or log-transformations) may be needed to apply interval-based methods. The investigators will
+      examine the degree of skewness and evaluate this against the assumptions and analyses before
+      choosing the appropriate analysis. The pre-registered and planned analyses include multiple
+      regression as long as the assumptions underlying these analyses are met. Alternatively, a
+      non-parametric test will be used.
+
+      Inference criteria Given the large sample size in this study, the investigators pre-define
+      their significance level: p < 0.01 to determine significance.
+
+      Sample size and power calculation:
+
+      The present study is part of a larger project with the first part aiming to investigate
+      predictors of adherence through regression analyses, and the second part aiming to examine
+      directional relations amongst specific symptoms and their centrality through complex systems
+      approaches (i.e., network analysis). Consequently, power calculations are based on power
+      required for network analyses. Following power analysis guidelines by Fried & Cramer (2017),
+      it is recommended that the number of participants are three times larger than the number of
+      estimated parameters. However, more conservative recommendations by Roscoe (1975) for
+      multivariate research, recommends sample size that is ten times larger than the number of
+      estimated parameters. Thus, following these two approaches respectively, between 1395 to 4650
+      participants are required. Data will be collected for three weeks, and participants are based
+      on a representative and random sample of Norwegian adults, randomly selected and provided
+      equal opportunity to partake in the study, providing digital consent.
+
+      Missing data:
+
+      The TSD system (Services for Sensitive Data), a platform used in Norway to store
+      person-sensitive data verifies participants officially through a kind of national ID number
+      to give them full right to withdraw their data at any time, following the European GDPR
+      (General Data Protection Regulation) laws. Accordingly, participants are allowed to withdraw
+      their own data at any time. The survey includes mandatory fields of response. Participation
+      is voluntarily, and withdrawal of provided data is possible at any moment. The investigators
+      do not expect participants to withdraw their data and thus expect no missing data. However,
+      if participants do withdraw their data, The investigators will conduct state-of-art missing
+      data analyses and investigate whether data is missing at random.
+
+      Variables:
+
+      Outcome measures: as described in primary outcome measures section: 1) adherence to viral
+      mitigation protocols; and 2) adherence to WHO-recommended hygiene-related behaviors.
+
+      Predictors: All 5 Big Five Personality Traits are measured by the validated Brief Version of
+      the Big Five Personality Inventory (BFI-10). Risk perception is measured with a three-item
+      measure adapted for the COVID-19 pandemic, querying about the perceived risk of the COVID-19
+      virus for 1) oneself; 2) other individuals; and 3) society at large. Governmental trust is
+      measured with a single item adapted for the COVID-19 pandemic, querying about the whether one
+      trusts in the governments judgements and decisions concerning handling of the pandemic.
+      Altruism is measured with a single item adapted for the pandemic, querying about personal
+      importance given to helping society and peers. Beliefs about protocol efficacy and beliefs
+      about collective mitigation behavior are both measured with single items adapted for the
+      COVID-19 pandemic, querying about beliefs concerning the efficacy of initiated protocols
+      against the pandemic and beliefs about perceived usefulness of adhering when a proportion of
+      others do not.
+    
+  

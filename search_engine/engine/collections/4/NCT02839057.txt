@@ -1,0 +1,52 @@
+
+    
+      The Swedish National Patient Registry (NPR) is hosted by the Swedish Agency of Health and
+      Welfare and contains all patient contacts within Sweden with a coverage of >90% for
+      orthopaedic diagnoses. Registered are main diagnosis and co-morbidity using the ICD-9 code
+      until 1996 and from 1997 onward ICD-10 codes. Treatment is coded since 1996 using the Swedish
+      classification of surgical procedures. Furthermore, information on hospitalisation time is
+      available from the registry.
+
+      In the Swedish Cause of Death Registry (CDR) all deaths in Sweden are registered with date of
+      death and cause of death. While date of death coverage is complete, the cause of death has
+      only 46% agreement with the final hospital diagnosis.
+
+      All patients with the main diagnosis of C2 fracture (ICD-10: S12.1) treated between January
+      1st 1996 to December 31st 2014 are extracted from the NPR and merged with the CDR for
+      incident deaths. Prior to data transmission, the Swedish Agency of Health and Welfare
+      anonymised the individual personal identification numbers using a key which remained with the
+      Agency.
+
+      Invalid age data will be excluded either due to missing entries or mismatch with date of
+      death. Multiple admissions (cases with same identification number but more than 12 months
+      between admissions) and duplicate entries (cases with same identification number) will be
+      removed from the dataset, after valuable co-morbidity data from the duplicate entries were
+      stored in the original record. Duplicate entries originate from separate recordings from each
+      hospital if the patient is referred to a specialised hospital. Furthermore, primarily
+      non-surgically treated cases with a change of treatment modality are registered as surgical
+      patients. The registered hospitalisation time for these patients is the combined non-surgical
+      and surgical in-hospital treatment period.
+
+      From each record the Charlson Comorbidity Index (CCI) is calculated. Using Swedish surgical
+      procedure codes for spinal fusion ("NAG") and spinal osteosynthesis ("NAJ") patients
+      receiving surgical treatment were marked, and the cohort divided into two groups receiving
+      non-surgical or surgical treatment.
+
+      The age distribution differences of patients with C2-fractures treated surgically and
+      non-surgically was visualised with a density distribution plot. A logit logistic regression
+      analysis identified covariates of surgical treatment assignment and was presented with 95%
+      confidence intervals (C.I.) and statistical probability p. Goodness-of-fit of the model was
+      presented with pseudo-r2 according to McFadden.
+
+      Using the Kaplan-Meier method for non-surgical and surgical treatment mean survival, as well
+      as survival rate at 3 months, 1 year, and 2 years was determined, and visualised using a
+      Kaplan-Meier plot with 99% C.I. With the Cox proportional hazards regression method multiple
+      covariates contributing to survival are entered and hazard ratio (HR) presented with 95% C.I.
+      and probability p. As relevant covariates for survival besides surgical treatment age,
+      gender, spinal cord injury, and CCI were identified. Since the assumption was that the
+      medical advancement improved patient survival in general during the last decades, even year
+      of admission was included as covariate in the model. In order to identify a cut-off age where
+      a treatment modality is not associated anymore with greater survival the adjusted HR of a
+      certain age and above was plotted over age with 95% C.I.
+    
+  

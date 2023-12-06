@@ -1,0 +1,23 @@
+
+    
+      The purpose of this particular protocol is to study the underlying glycemic variability
+      across the menstrual cycle in women with T1DM. A subset of premenopausal women with T1DM
+      experience loss of glucose control during the latter half of the cycle (the luteal phase).
+      Clinical trials are sparse and tools are limited to focus on this aspect of diabetes care
+      which is highly relevant in affected individuals. To obtain data to initialize this
+      mobile-based module, we will enroll premenopausal women for approximately three-month
+      outpatient study designed to characterize at least three complete menstrual cycles. These
+      subjects will wear continuous glucose monitors (CGMs), record self-monitored blood glucoses
+      (SMBGs) and utilize an insulin pump to capture insulin dosing. In-home ovulation kits will be
+      used to determine relevant days for sex-steroid blood measurements to define menstrual cycle
+      phases. Finally, structured at-home meals will be provided during different phases of the
+      menstrual cycle for insulin action parameters assessments.
+
+      The software module will be developed in parallel with the data collection from study
+      subjects. The software module will not be used with the patients in this study as it is not
+      in existence as would be developed in parallel. The goal of the module functionality will be
+      to 1) assist patients and providers in the identification and management of glycemic
+      variability surrounding the menstrual cycle and 2) add value to and become an integral module
+      within the artificial pancreas.
+    
+  

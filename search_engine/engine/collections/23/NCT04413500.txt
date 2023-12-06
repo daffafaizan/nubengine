@@ -1,0 +1,95 @@
+
+    
+      The design of the digital intervention module is considered to follow the just-in-time
+      adaptive intervention framework (JITAI). JITAI is an intervention design aiming to provide
+      the right type/amount of support, at the right time, by adapting to an individual's
+      circumstances. It has enormous potential for promoting health behavior change, which in this
+      study is supposed to be medication compliance. Based on the JITAI's conceptual model, there
+      are the following components:
+
+        1. Decision points (DP) DP is a time when an intervention decision is made. Considering the
+           nature of JITAIs which are delivered through mobiles, DPs are much more rapidly than is
+           standard interventions. In iMedA, DP is considered to be daily and accompanied by the
+           time of medication intake question, i.e. "Did the participant take the anti-hypertensive
+           medication today?".
+
+        2. Intervention options (IO) IOs are a set of possible interventions that are going to be
+           delivered at DPs. In JITAI, IOs can be various types of support (information, advice,
+           feedback, etc), source of support (mobile, nurse, physician, etc), amounts of support
+           (intensity, dose, etc), type of media/channel (phone call, SMS, etc).
+
+           From the conducted literature review, the investigators summarised all types of digital
+           interventions to hypertensive patients as:
+
+             -  Reminders for medication intake (daily), BP measurement (monthly), PA (biweekly)
+
+             -  Informational contents regarding hypertension and all its facts, consequences,
+                treatments, risks, medications and side-effects, lifestyle, and so on (text,
+                videos, etc)
+
+             -  Trends on medication intake/PA/BP/etc
+
+             -  Motivational messages
+
+        3. Distal outcomes (DO) DO is the ultimate goal that the intervention is trying to achieve.
+           In iMedA, the investigators considered primary and secondary DOs. Primarily the
+           investigators aim at improving medication adherence. Then in the long term, blood
+           pressure control is considered as secondary DOs besides the increased quality of life,
+           assessment of the lifestyle behavior (smoking, alcohol consumption, physical activity,
+           and food intake), and communicative and critical health literacy.
+
+           In order to measure MA, the investigators consider (1) self-reported medication intake
+           through a mobile app; (2) MUAH-16 which is a medication adherence questionnaire for
+           hypertension; and (3) pickups from pharmacies. The self-reported values are supposed to
+           be collected every day. MUAH-16 is measured pre- and post- intervention.
+
+           BP is considered to be measured every month. There are automatic devices in every
+           primary care center that people can go and measure their BP free of charge.
+
+           QoL and HL are measured through EQ5D and HL respectively and pre- and post-
+           intervention. Lifestyle assessments are measured (bi)weekly through self-report values.
+
+        4. Proximal outcomes (PO) POs are the short-term goals of the interventions. They can be
+           mediators and/or intermediate measures of the DOs. Medication intake rate is considered
+           to be the main PO, which is measured daily. Physical activity rate which is measured
+           (bi)weekly is another PO.
+
+           Since most of the contents are educational and they try to increase the hypertension
+           knowledge of the participants, the investigators will add a PO to measure how much their
+           knowledge has increased. The investigators consider two methods to measure it. First,
+           after showing the content, the investigators will ask "Did the participant know …?".
+           Second, a simple gamification test will be designed to be delivered biweekly.
+
+           To prevent poor adherence to the interventions, it is recommended to define a few POs
+           related to intervention engagement and fatigue. Therefore, the investigators consider
+           the number of clicked interventions, number of watched videos, like/dislike feedbacks
+           per each intervention as POs related to intervention adherence and retention.
+
+        5. Tailoring variables (TV) TVs are information about the participant that are used to
+           decide when to provide which intervention. In other words, they are used to personalise
+           the interventions and make them adaptive to the individual's circumstances. They can be
+           measured actively or passively or both. Active assessments require an individual's
+           engagement in measuring, for example through self-reports, while passive assessments
+           require minimal/no individual engagement, for example through mobile phone's sensors.
+           POs are often used as TVs.
+
+           From baseline information, a few TVs can be selected including alcohol consumption,
+           smoking, specific diet (vegetarian, vegan, etc), age, and gender, in order to
+           personalise the interventions.
+
+           All of the POs are also considered as TVs. From the MUAH-16 questionnaire, the
+           investigators start to know more about individual's beliefs, barriers and behaviour
+           about medication adherence. It has four subscales regarding (1)positive attitude towards
+           healthcare and medication; (2) lack of discipline; (3) aversion towards medication; and
+           (4) active coping with health problems. Each subscale contains four questions. At the
+           beginning of the intervention, MUAH-16 questions are used as TVs. Then during the
+           intervention period, and based on the previously delivered informational contents to the
+           individual, the answers to "Did the participant know …?" questions will be used as TVs.
+
+        6. Decision rules (DR) DRs are the adaptation engine of JITAIs. They are used to determine
+           which IO to deliver to whom and when. They are the links between IOs and TVs.
+
+      DRs in iMedA will be probabilistic rules from experts modified by "suggestions" from
+      reinforcement learning.
+    
+  

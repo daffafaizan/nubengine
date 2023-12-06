@@ -1,0 +1,12 @@
+
+    
+      Design:
+
+      NET genotype groups for rs11648486 SNP (CC 61%; CT 33%; TT 4%) (e.g., C/C and C/T) will be
+      compared to one another in a 2 (NET Genotype: C/C vs. C/T & T/T) x 2 (Medication: atomoxetine
+      80 mg/day (~ vs. placebo) x 3 (Drink: Drink 1, 2, and 3) mixed factorial repeated measures
+      design using PROC MIXED in SAS by calculating difference scores. Of interest are the possible
+      interactions of the NET SNPs and atomoxetine on cue-elicited craving and the rewarding
+      effects of alcohol across trials.
+    
+  

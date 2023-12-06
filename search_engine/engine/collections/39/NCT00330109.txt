@@ -1,0 +1,15 @@
+
+    
+      Gliomas are the most common primary brain tumors in adults; most are high-grade and have a
+      high level of mortality. The standard treatment is to kill or remove the cancer cells. Of
+      course, this can only work if the surgeon or radiologist can find these cells. Unfortunately,
+      there are inevitably so-called "occult" cancer cells, which are not found even by today's
+      sophisticated imaging techniques.
+
+      This proposal proposes a technology to predict the locations of these occult cells, by
+      learning the growth patterns exhibited by gliomas in previous patients. We will also develop
+      software tools that help both practitioners and researchers find gliomas similar to a current
+      one, and that can autonomously find the tumor region within a brain image, which can save
+      radiologists time, and perhaps help during surgery.
+    
+  

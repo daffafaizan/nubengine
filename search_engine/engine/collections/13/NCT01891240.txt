@@ -1,0 +1,14 @@
+
+    
+      Sample size calculations have been considered extensively and given the complexity of the
+      study; there is no single simple solution. For the purpose of sample size estimation in the
+      overall study, we used a binary outcome and associated measures of sensitivity and likelihood
+      ratio as determinants of the value of these tests. Although the predictive algorithms will
+      produce a continuous risk score, the use of a categorical outcome fits with the final binary
+      decision process (to treat or not to treat) based on the risk score. Based on the lowest
+      estimated prevalence of pre-eclampsia of 3% and a test sensitivity of 93% and a test
+      specificity of 97%, then to be 90% certain that the true specificity of the patient
+      population is no less than 95%, a sample size of 4,800 participants is required. Thus,
+      allowing for patient dropout, a study population of 5,000 women is needed.
+    
+  

@@ -1,0 +1,19 @@
+
+    
+      Malignant cerebral edema following large ischemic strokes account for up to 10% of all
+      ischemic strokes. Mortality rates are high and most of the survivors are left severely
+      disabled. Although decompressive craniectomy has been shown to significantly decrease
+      mortality, high morbidity rates among survivors are reported. The optimal timepoint when
+      neurosurgical decompression should be performed in the individual patient varies and is a
+      subject of debate.
+
+      Early prediction of malignant brain edema to identify those patients who benefit from
+      surgical treatment is a clinical challenge. The aim of this study is to use machine learning
+      for comprehensive analysis of CT images as well as clinical data from 1500 patients with
+      large ischemic MCA strokes in oder to develop a model for early prediction of malignant brain
+      edema. In a first step algorithms automatically identify characteristic imaging features and
+      clinical data of 1400 retrospective data sets to create a multistage model (learning phase).
+      This is followed by a validation phase where the model is tested with 100 other retrospective
+      data sets.
+    
+  

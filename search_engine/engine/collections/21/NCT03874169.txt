@@ -1,0 +1,23 @@
+
+    
+      The annual occurrence of gastrointestinal (GI) bleeding is approximately 150 per 100,000 in
+      the US and accounts for 300,000 hospitalizations per year with a death rate of 5%.
+      Qualitative assessments of blood tests monitoring patients with or are thought to have GI
+      bleeding can lack accuracy and objectivity, delaying conformation of the bleed through
+      endoscopy. Early endoscopies have been linked to more favorable outcomes for patients with
+      heavier GI bleeding and earlier discharge times for patients with less severe GI bleeding.
+      Additionally, laboratory values are not documented at regular intervals, which makes
+      identifying when GI bleeding exactly occurred difficult. In this study, the investigators aim
+      to improve methods of monitoring and diagnosing GI bleeding via the E4 wristband, a biosensor
+      watch. Using data from the E4 wristband, the investigators will train a model to recognize GI
+      bleeding through analyzing the heart rate and skin conductance of both patients with GI
+      bleeding and who may have GI bleeding while they are not bleeding and while they are
+      bleeding. Monitoring both types of patients while they are and are not bleeding will help the
+      model discern which vital signs are critical. Additionally, the investigators will be using
+      blood tests and other traditional methods of diagnosis to create a standard for vitals that
+      characterize GI bleeding. If the E4 wristband is successfully able to accurately identify
+      when a patient is experiencing GI bleeding, then speed of GI bleeding detection and the
+      ability to monitor GI bleeding will dramatically increase, leading to quicker discharge
+      times, reduced risk of rebleeding, and a lower death rate for afflicted patients.
+    
+  

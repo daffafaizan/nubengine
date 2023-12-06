@@ -1,0 +1,59 @@
+
+    
+      Subjects. In this prospective study, MSA patients will be included if they met Gilman
+      criteria for probable MSA. All those subjects will be distinguished between parkinsonian form
+      (MSA-P) and cerebellar form (MSA-C). All will underwent Unified Parkinson's Disease Rating
+      Scale UPDRS and International Cooperative Ataxia Rating Scale ICARSS. All patients will have
+      a poor response to levodopa (<30% of the UPDRS score). Patients with PD will be included if
+      they suffered from idiopathic PD according to the criteria of UKPDSBB and had a positive
+      response to levodopa (≥ 30% improvement on UPDRS part III). All healthy subjects will have
+      normal neurological examination and none will have a history of neurological, cardiovascular
+      or psychiatric disturbance. For all subjects, handedness will be determined by the Edinburg
+      test. For all patients (MSA and PD) a MRI brain scan will be realized PET activation study
+      PET investigations will be performed during two pharmacological conditions: OFF (e.g after 12
+      hours of usual dopaminergic treatment discontinuation) and ON (after an acute oral levodopa
+      challenge) in all subjects. During each PET there will be two motor conditions: rest (no
+      movement, hand and wrist lying on the joystick) and a right-hand movement, consisting of
+      moving joystick in 4 four different directions avoiding sequence repetition. Movement will be
+      paced by an auditory stimulus at a frequency of 0.33 Hz. Each patient will be trained to
+      perform the joystick movement before the PET. During PET investigation, angular wrist speed
+      and angular wrist acceleration will be recorded using a computer recording connected to a
+      joystick. The movement will start 30 seconds before image acquisition. Rest and Movement scan
+      conditions will be replicated, making a total number of 6 six scans per patient in OFF
+      condition and 6 six scans per patient in ON condition. The order of OFF and ON sessions and
+      motor conditions will be fully counterbalanced across subjects to eliminate time and order
+      effects.
+
+      H215O will be intravenously injected in the arm contralateral to the hand movement. PET
+      measurements will be performed with an EXACT HR+ tomograph (CTI/Siemens, Knoxville, TN, USA)
+      allowing the simultaneous 3D acquisition of 63 transaxial slices. Spatial resolution after
+      reconstruction reached 4.5 and 4.1 mm in the transaxial and axial direction, respectively
+      {Bendriem, 1996 #39}(19). To measure rCBF, 300 MBq of H215O will be administered for each
+      80-second emission scan. To allow complete decay of injected tracer activity, image
+      acquisitions will be performed 10 minutes apart.
+
+      Image analysis will be performed on a personal computer station (DELL inc, Round Rock, Texas,
+      USA) using the "statistical parametric mapping" package (SPM2, Wellcome Department of
+      Cognitive Neurology, London, United Kingdom). Images of each subject will be realigned to the
+      first volume and normalized to the MNI standard proportional stereotaxic space, which is
+      based on that of Talairach and Tournoux (1988). The images will be coregistered on a template
+      and spatially smoothed with a Gaussian kernel of 12 mm full width at half maximum (FWHM) to
+      take into account variations in gyral anatomy and individual variability in
+      structure-function relationships, and to improve the signal-to-noise ratio.
+
+      Statistical analysis :
+
+      All baseline characteristics in MSA, PD and healthy volunteers will be compared by the
+      Man-Whitney U test. For PET imaging, the 36 subjects will be included in the same statistical
+      analysis on a voxel-by-voxel basis. Statistical parametric maps will be generated using an
+      ANCOVA model implemented through the General Linear Model formulation of SPM after
+      normalization for global effect by proportional scaling. We will analyze three main effects
+      1) The "movement effect" consists of comparing the images obtained during hand movement with
+      those acquired at rest for each group (MSA, PD and Healthy subjects) using the Family Wise
+      Error (FWE) statistical threshold at P < 0.05 for peak height in OFF and ON conditions. 2)
+      Difference between motor activation of the three groups in OFF condition. 3) Difference
+      between motor activation during OFF and ON condition in each group reflecting levodopa effect
+      on motor activation. For inter groups comparisons statistical threshold will set at p<0.01
+      with clusters>10 voxels.
+    
+  

@@ -1,0 +1,79 @@
+
+    
+      Background:
+
+        -  Ataxia-telangiectasia-related (ATR) protein kinase is central to the DNA damage response
+           and homologous recombination, activating a series of phosphorylation cascades,
+           culminating in cell cycle arrest to allow time for DNA repair. ATR additionally
+           facilitates homologous recombination repair through modulation of the p53-replication
+           protein A (p53-RPA) complex bound to ssDNA during the DNA repair process.
+
+        -  Poly (ADP-ribose) polymerase-1 (PARP-1) plays a pivotal role in base-excision repair of
+           single strand breaks formed either due to direct genotoxic stress or during the
+           processing of double strand breaks. PARP also plays a role in alternative end joining,
+           which may contribute to combination activity. PARP-1 binding to sites of DNA damage
+           results in activation of its catalytic activity and generation of chains of poly
+           (ADP-ribosyl)ated polymers, which serve as docking sites for recruitment of DNA repair
+           proteins.
+
+        -  Veliparib (ABT-888) is a potent PARP 1/2 inhibitor with clinical evidence of
+           potentiation of antitumor activity in combination with cisplatin in BRCA mutation
+           carriers and patients with sporadic triple-negative breast cancer.
+
+        -  M6620 (VX-970) is a potent ATR inhibitor, with IC(50) of 20 nM and antitumor activity
+           across a broad range of cell lines in combination with DNA damaging agents. Preclinical
+           studies show M6620 (VX-970) synergizes with cisplatin to induce DNA damage and antitumor
+           activity. The addition of PARP inhibitor veliparib with ATR inhibitor M6620 (VX-970)
+           allows for impairment of DNA repair, the induction of a BRCA null phenotype, and
+           potentiation of the antitumor activity of cisplatin.
+
+      Primary Objective:
+
+      -To establish the safety, tolerability, and the maximum tolerated dose (MTD) of the
+      combination of M6620 (VX-970) and veliparib in combination with cisplatin in patients with
+      advanced refractory solid tumors
+
+      Secondary Objectives:
+
+        -  To assess the effect of the combination of M6620 (VX-970), veliparib, and cisplatin on
+           markers of DNA damage and apoptosis
+
+        -  To assess antitumor activity of the combination
+
+      Exploratory Objective:
+
+      -To investigate tumor genomic alterations potentially associated with acquired resistance to
+      the combination of M6620 (VX-970), veliparib, and cisplatin
+
+      Eligibility:
+
+        -  Patients must have histologically confirmed solid tumors for which all standard therapy
+           known to prolong survival has failed in the metastatic setting, or for which standard
+           therapies do not exist
+
+        -  Patients must have had no major surgery, radiation, or chemotherapy within 3 weeks prior
+           to entering the study
+
+        -  Patients must have adequate organ function
+
+      Study Design:
+
+        -  Initially, M6620 (VX-970) will be administered intravenously on Days 2 and 9 of each
+           21-day cycle. Veliparib will be administered orally twice a day (q12 hours +/- 1 hour)
+           for Days 1-3 and 8-10 of each 21-day cycle. Cisplatin will be administered at 40 mg/m2
+           intravenously on Day 1 (and Day 8 from DL3 onwards) of each 21-day cycle.
+
+        -  As of Amendment I (12/7/2017), patients who have been on study for at least 6 cycles may
+           have cisplatin administration held or discontinued at the discretion of the PI, Dr.
+           Chen, in recognition of the cumulative neurotoxicity seen with cisplatin treatment. If
+           cisplatin is not administered during a cycle M6620 (VX-970) will be administered on Days
+           1 and 8 of that cycle.
+
+        -  The escalation portion of the trial will follow a standard 3+3 design, whereby patients
+           will be dose escalated in cohorts of 3 until dose-limiting toxicity is observed
+
+        -  Once the MTD is established, up to 15 additional patients will be enrolled to an
+           expansion phase at the MTD. Mandatory tumor biopsies will be obtained in the expansion
+           phase to assess PD endpoints
+    
+  

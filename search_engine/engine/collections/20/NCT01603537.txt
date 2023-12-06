@@ -1,0 +1,16 @@
+
+    
+      Source Population: Sweden is divided in 21 administrative regions providing health care
+      (counties). In 2004 Sweden had a population of about 9 million inhabitants with an average
+      population density of 20 inhabitants/km2.
+
+      The Emergency Medical Service (EMS)-System: The ambulance staff in Sweden consists of
+      registered nurses and emergency medical technician (EMT) equivalents (nursing assistants with
+      special ambulance training).
+
+      Statistics: Hierarchical random effects models will be used to model the binary outcomes. Cox
+      proportional hazards models to analyze the time to event outcomes. The difference in mean
+      predicted outcome between the PHTLS group and the non-PHTLS group will be used to estimate
+      the absolute risk reduction.
+    
+  

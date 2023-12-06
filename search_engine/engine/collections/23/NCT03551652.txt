@@ -1,0 +1,123 @@
+
+    
+      Scientific justification Elderly patients, especially geriatric patients, represent an
+      increasing percentage of patients receiving anesthesia. Thus, among the population over 75
+      years old, the annual rate of anesthesia represents 16.8 / 100 inhabitants. women and 19.6 /
+      100 in men. This is a growing population, but also the most fragile population with a
+      mortality amounting to 44.4 / 10000 anesthesia. After 85 years, one out of every two
+      anesthetized patients is ASA 3 or higher. The first cause of mortality linked to anesthesia
+      today remains respiratory complications, particularly those of infectious origin. The care of
+      this population presents a major public health challenge. Studies on the use of curare and
+      especially rocuronium are relatively old and did not study a geriatric population, so in the
+      group aged the average age was 70 years.
+
+      Several studies show an increase in the duration of neuromuscular blockade in patients over
+      the age of 70, regardless of any renal failure, with extremes of persistent curarization more
+      than 2 h after a single dose. However, no study to date has investigated the duration of
+      deep-tissue neuromuscular blocking (train of four (TOF) <1) required for performing certain
+      surgical procedures, including laparoscopic surgery.
+
+      Several studies show that elderly patients have increased sensitivity to residual
+      curarization.
+
+      In this context, a study on the kinetics of the curare and in particular rocuronium is
+      necessary in order to evaluate if the "standard" induction dose of 0.6 mg / kg is adapted to
+      this population or if this dose requires an adjustment to reduce the respiratory risks
+      associated with residual curarization.
+
+      General description of the research Objectives To compare the duration of curarization
+      induced by rocuronium (0.6 mg / kg of real weight) between young patients (18-50 years old)
+      and old men (> 80 years old).
+
+      Evaluation criteria
+
+      Primary judgment criterion:
+
+      Total curarization time (DCT, defined as the sum of the installation time + deep curarization
+      time + recovery time The installation time (Dinstall) is defined as the time between the
+      injection of rocuronium and the disappearance of the responses to the train of four (TOF =
+      0).
+
+      The deep block duration (Dprof) is defined as the time between the disappearance of the
+      responses to the train of four (TOF = 0) and the reappearance of the first response to a
+      train of four (TOF = 1).
+
+      The recovery time (Drécup) will be evaluated for both a T4 / T1 recovery ≥ 0.9 (Drécup0.9)
+      and a T4 / T1 ratio ≥ 1.0 (Drécup1.0). recovery will also be assessed by the ratio of
+      T4/Tref, i.e. the ratio of the 4th response to a TOF stimulation and the mean of the 4
+      responses to a TOF stimulation before administration of a neuromuscular blocking agent. This
+      ratio is measured by the TofScan (IdMed, Marseille, France).
+
+      Research Methodology Patients will be anesthetized, as in clinical routine, with propofol in
+      target controlled infusion anesthesia (TCI) according to the Schnider model at the effect
+      site. Analgesia will be provided either by remifentanil or sufentanil.
+
+      Neuromuscular block will be monitored using TofScan (IdMed, Marseille, France), with
+      accelerometry measurement at the adductor pollicis. The TOF-WatchSX will be calibrated in cal
+      2 mode, as defined by the manufacturer. (12) Neuromuscular blockade will be induced by a
+      single dose of rocuronium 0.6 mg / kg of actual weight. The intensity of the neuromuscular
+      block will be measured by a train of four every 15 s from the curare injection to TOF = 0
+      (Dinstall): then every minute until TOF = 1 (Dprof); then every minute until T4/T1 ≥ 0.9
+      (Drécup0.9) and T4/T1 ≥ 1.0 (Drécup1.0). Dinstall, Dprof, Drécup0.9 and Drécup1.0 will be
+      recorded, as well as time to recovery of T4/Tref of 0.9 and 1.0.
+
+      Patient selection: inclusion and non-inclusion criteria, recruitment modality
+
+      Criteria for inclusion:
+
+        -  Patient aged 18 to 50 or ≥ 80 years
+
+        -  Body mass index (BMI) between 18.5 and 35
+
+        -  Intervention requiring general anesthesia with intubation
+
+      Criteria of non-inclusion:
+
+        -  Rocuronium allergy
+
+        -  Need for rapid sequence induction
+
+        -  Clinically apparent hepatocellular insufficiency
+
+        -  Renal insufficiency requiring dialysis
+
+        -  ASA> 2 in the group of 18 to 50 years
+
+      Materials and techniques used Monitoring of the TofScan (IdMed, Marseille, France) monitor at
+      the level of the adductor pollicis. The electrodes are placed at the ulnar edge of the arm 2
+      cm apart.12 Registration of the Tref value before administration of rocuronium. Measurement
+      of the neuromuscular block intensity every 15s from the neuromuscular blocking facility to
+      TOF = 0, then measured every minute of the neuromuscular block up to TOF = 1(Dprof) and
+      finally measured every minute until decurarisation spontaneous T4 / T1 ≥ 0.9 (Drécup0.9) and
+      T4 / T1 ≥ 1.0 (Trécup1.0). The time to recovery of T4/Tref to 0.9 and 1.0 ill also be
+      recorded.
+
+      Normothermia is maintained (temperature> 36 ° C) by the use of a forced air system (Bair
+      Hugger) with temperature monitoring by oesophageal probe.
+
+      Statistics
+
+      Number of patients:
+
+      To estimate the number of patients to be included in each group, we postulate that the DCT of
+      patients 80 and over is, on average, at least 30% greater than the CSD of patients under 50
+      years of age.
+
+      The mean DCT of the under-50 group is around 60 minutes and a standard deviation of 11
+      minutes. By setting the alpha risk at 5% and the expected power 80%, it will be necessary to
+      include 14 patients per group, or 28 in total.
+
+      Statistical analysis :
+
+      Descriptive analysis: calculation of%, means, standard deviations, quartiles and extreme
+      values Principal analysis: the mean DCT will be compared by a matched series average
+      comparison test, then by a linear regression model with adjustment for potential confounders,
+      excluding matching factors.
+
+      Secondary analyzes: The secondary endpoints will be compared by a MacNémar test and a
+      Student's t-test on matched series and possibly by conditional logistic and linear regression
+      models to allow an adjustment for potential confounding factors.
+
+      Threshold of significance: 5% Software: SAS v9.4
+    
+  

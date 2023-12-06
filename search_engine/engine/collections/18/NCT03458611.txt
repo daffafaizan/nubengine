@@ -1,0 +1,92 @@
+
+    
+      SAMPLE SIZE ESTIMATION:
+
+      Power analysis was performed with the SIMR package in R which estimates power for generalized
+      linear mixed models using Monte Carlo simulations. The main analysis will compare the
+      evolution through time of the primary outcome variable between the two within-subject
+      conditions placebo and active intervention. Power was estimated as a function of the number
+      of patients who complete the entire study protocol and as a function of the number of
+      assessment moments per patient. In addition, the power analysis was run under the assumption
+      that the measurement error (residual variance) would be equal to 0.20 SDs. The latter implies
+      that the outcome variable must have a reliability of at least .80. The power analysis
+      revealed that 8 patients need to complete the entire study protocol (per-protocol sample
+      size) - when the study protocol involves a 1-day in-between assessment schedule - to detect a
+      moderate effect size (SD = 0.5) with a type I error rate of 1% and a power of 80%. Thus, for
+      each counterbalancing group a minimum of 4 patients is needed. Assuming that 50% of all
+      patients allocated to a counterbalancing group drop-out at some time point during the study,
+      a total of 16 patients will be recruited to obtain a large enough per-protocol sample size.
+
+      MISSING DATA HANDLING:
+
+      Missing data can occur when patients do not take part in one or more visits throughout the
+      study protocol (non-monotonous missing data) or when patients drop-out from the study and
+      there is no data available of a patient after drop-out (monotonous missing data). The
+      frequency of occurrence of these two types of missing data will be reported. If inconsistent
+      data occurs on an individual level this will not be considered to be missing data.
+      Out-of-range results for most behavioral outcomes are not likely to occur because
+      computerized assessment tasks guarantee accurate data acquisition. For the behavioral
+      observation scale the inter-rater reliability will be evaluated as a quality check. If the
+      inter-rater reliability across all assessments made in the context of the study is lower than
+      .70 this measure will be reported as insufficiently reliable to be used as a meaningful
+      outcome variable. Only eye tracking data that was sufficiently accurately measured will be
+      considered to be used as an outcome measure. Meaning that, if eye tracker calibration is not
+      good to excellent according to the software delivered with the eye tracker after 5 repeated
+      calibrations the eye tracking data for that assessment will be considered as missing data.
+
+      STATISTICAL ANALYSIS:
+
+        1. MAIN ANALYSIS: The data will be analyzed using Bayesian mixed models in R. Mixed models
+           are the recommended approach to combine data of single cases and are increasingly
+           acknowledged as a more powerful data analysis approach for clinical trials compared to
+           classic ANCOVAs since mixed models can accurately model time-unstructured data. A
+           Bayesian approach to analyze data is preferred above a classic null hypothesis
+           significance testing because the Bayesian approach allows to quantify the strength of
+           evidence in favor of the null hypothesis. The latter is a valuable attribute in the
+           context of clinical trials as these studies often require proof for no difference
+           between groups on covariates that can be assumed to affect response to treatment.
+
+           The main analysis of interest will compare the effect of the within-subject conditions
+           placebo and active intervention. The model to estimate this effect will include the main
+           effect of time since start of intervention condition, intervention and the
+           counterbalancing group. In addition, the pairwise and three-way interactions of these
+           predictors will be included. A random intercept and random slope for time will be
+           included in the model. This model will be used to predict the primary outcome variable
+           and the secondary outcome variables.
+
+           In addition, the association between the different outcome variables will be reported as
+           a means to estimate to what extent treatment effects may have affected 1 specific
+           outcome or to what extent symptom evolution across different outcome variables was
+           associated.
+
+        2. EXPLORATORY ANALYSES: In addition to these analyses, the experience of patients with the
+           VR game based intervention will also be reported. The vocal responses made by patients
+           during gameplay will be rated by two independent raters as expressions of negative or
+           positive emotions. The number of negative and the number of positive expressions
+           relative to the total number of expressions will be compared to each other. If the
+           proportion of positive expressions is higher than the proportion of negative expressions
+           this is taken as evidence suggesting that the patients had a positive experience with
+           the game and vice versa. In addition, since not all patients will spontaneously make
+           vocal responses during gameplay, the mean score of patients on the questionnaire that
+           gauges their experience with the VR-game based intervention will be reported. Given the
+           exploratory nature of this part of the study descriptive statistics will be reported,
+           but no statistical analysis on this outcome variable will be performed. The results of
+           the safety checklist will also be reported. These data are valuable since it can inform
+           other researchers on whether VR is safe to use within the stroke population. These data
+           will be reported in the form of descriptive statistics. All exploratory analyses will be
+           performed on the intention-to-treat sample.
+
+        3. SIGNFICANCE LEVEL: The Bayes Factors will be interpreted according to the following
+           interpretation rule: a Bayes Factor of larger than 3.2 suggests substantial evidence in
+           favor of the alternative model, a Bayes Factor larger than 10 suggests strong evidence
+           in favor of the alternative model and a Bayes Factor larger than 100 is decisive for the
+           alternative model. All effects will be evaluated against a threshold of a Bayes Factor
+           of 10. Bayes Factors that are in between 1/10 and 10 will be interpreted as inconclusive
+           evidence. Evaluating effects at a threshold of a Bayes Factor of 10 is comparable to the
+           approach of evaluating effects at a significance level of .01. The primary outcome
+           variable and 5 secondary outcome variables should lead to a maximum Type I error rate of
+           6% in a worst-case scenario where all 6 outcome variables are completely uncorrelated.
+           This type I error rate is obtained through the formula: 100 [1- (1- α)^k ] where α
+           stands for the significance level and k stands for the number of independent measures.
+    
+  

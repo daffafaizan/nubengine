@@ -1,0 +1,161 @@
+
+    
+      This study investigates whether and which type of text-based interventions affect the take-up
+      of the COVID-19 vaccine. The primary research question is whether vaccine takeup can be
+      boosted by a text-message intervention encouraging eligible patients to schedule a
+      vaccination appointment. Patients, when becoming eligible for receiving the COVID-19 vaccine
+      at UCLA Health, will be first notified about their eligibility and encouraged to schedule a
+      vaccination appointment via one of the channels (email, voice call, or snail mail) depending
+      on the contact information available to UCLA Health. Then patients eligible for the study
+      will be randomized at a 1:4 ratio into a holdout control arm that does not receive a text
+      message vs. a text-message arm that receives a text message.
+
+      The secondary research question concerns which type of text message is more effective. To
+      study this question, a nested 2x2 factorial design within the text-message arm will be used,
+      where the two factors will be a) whether patients receive the link to an educational video
+      specifically designed to shift patients' intentions to get the COVID-19 vaccine and b)
+      whether the text message contains language aimed at encouraging patients to follow through on
+      their intentions.
+
+        -  In the Holdout arm: patients will not receive text messages about COVID-vaccine.
+
+        -  In the text-message arm, all participants will receive a text message that invites them
+           to schedule their vaccination appointment and includes a link to the appointment website
+
+             -  In the Simple Text sub-arm, participants will not receive any additional
+                information.
+
+             -  In the Simple Text+Video sub-arm, together with the appointment link, participants
+                will also receive a link to a 2-minute video in the text message. The video
+                contains information about the prevalence of COVID-19 and the effectiveness and
+                safety of the COVID-19 vaccine.
+
+             -  In the Enhanced Text sub-arm, in addition to the appointment link, the text message
+                will use enhanced language aimed at reducing psychological barriers that prevent
+                patients from scheduling their appointment.
+
+             -  In the Enhanced Text+Video sub-arm, in addition to the appointment link, the text
+                message will encourage patients to watch a 2-minute video (the same as in the
+                Simple Text+Video sub-arm) and use enhanced language aimed at reducing patients'
+                psychological barriers of following through on scheduling an appointment.
+
+      Patients will enter our study on a rolling basis, as they become eligible to get the vaccine
+      (and if they fit our inclusion criteria). For the first batch of patients, those in the
+      text-message arm will receive the text message within 4 -10 days after the initial invitation
+      is sent (because the infrastructure of running this study is not ready until then). For
+      subsequent batches of patients, they will be randomized and receive the text message (if they
+      are not in the holdout arm) the first weekday after the initial communication goes out. We
+      will measure a) whether patients schedule a COVID-19 vaccination appointment for the first
+      dose and b) whether and when patients get the first dose of COVID-19 vaccine.
+
+      Analysis:
+
+      For the main analysis, we will run ordinary least squares regressions (OLS) with robust
+      standard errors to predict the aforementioned outcome variables, except that we will use a
+      Cox proportional hazards model with administrative censoring to predict time of obtaining the
+      first COVID-19 vaccine. The significance level will be 0.05. Our primary hypothesis is that
+      the text-message arm is significantly better than the holdout arm, so our primary analysis
+      will compare the four text-message sub-arms all together with the holdout group.
+
+      Our secondary analysis will investigate whether (1) the Simple Text sub-arm, (2) the two
+      sub-arms containing a video, and (3) the two sub-arms containing enhanced language are better
+      than the holdout arm.
+
+      Furthermore, we will test (1) the effect of adding a video (vs. no video) to the text, (2)
+      the effect of adding enhanced language (vs not adding enhanced language), and (3) whether the
+      combination of video and enhanced language will outperform video alone or enhanced language
+      alone.
+
+      Our regressions will include the following control variables:
+
+        -  Participant age
+
+        -  Indicators for participant race/ethnicity (Black non-Hispanic, Hispanic, Asian
+           non-Hispanic, white non-Hispanic, other/mixed, unknown; white non-Hispanic omitted)
+
+        -  Whether the patient's preferred language is Spanish (which affects the language of text)
+
+        -  Indicators for participant gender (male, female, other/unknown)
+
+        -  Social vulnerability index score
+
+        -  COVID19 Risk Factors Model
+
+        -  Indicators for the batches of patients (patients will become eligible and receive
+           initial communications in batches)
+
+      As a robustness check, we will re-run the analysis as a logit regression (instead of an OLS
+      regression) for binary outcome variables.
+
+      We will explore the following moderators:
+
+        -  Whether the patient is female or male
+
+        -  Whether the patient is Black, Caucasian, Hispanic, or other
+
+        -  Whether the patient's preferred language is Spanish
+
+        -  Whether the patient is 65+ (including 65) or below 65
+
+        -  Patient's Social vulnerability index score
+
+        -  Patient's COVID risk score
+
+        -  Patient's population risk score
+
+        -  Whether the patient is married (which is a proxy for whether they live together with
+           family members)
+
+        -  Whether or not the patient received a flu shot in either the 2019-2020 season or the
+           2020-2021 flu season prior to receiving our text message according to the patient's
+           medical record
+
+        -  The day of the week when the text message is sent to a patient. We will compare each day
+           of the week.
+
+        -  How strongly the participant's neighborhood is in favor of the Republican (vs.
+           Democratic) Party if UCLA Health eventually agrees to provide de-identified address
+           (e.g., zipcode).
+
+      Plan for Early and Subsequent Analyses
+
+      To inform policy as soon as possible, we plan to first assess the effects of our
+      interventions in the early phase of vaccination outreach at UCLA Health. For this purpose, we
+      plan to first analyze the data from the start of this RCT to the end of February. Given that
+      we are using a 6-day time window for our primary dependent variable, we will examine data
+      from patients who are randomized to either the holdout or text-message arm in this RCT before
+      or on Feb 23, 2021. For this population, we will test:
+
+        1. whether the text-message arm is significantly better than the holdout arm;
+
+        2. whether the Simple Text sub-arm, the two subarms containing a video, and the two
+           sub-arms containing enhanced language are better than the holdout arm
+
+        3. the effect of adding a video (vs. no video) to the text
+
+        4. the effect of adding enhanced language (vs not adding enhanced language)
+
+        5. whether (1), (2), (3), and (4) varies based on whether patients received the flu
+           vaccination in either the 2019-2020 season or the 2020-2021 season
+
+        6. we will report the raw data for each sub-arm without conducting hypothesis testing
+           across conditions that are not pre-registered in (1)-(4).
+
+      In our early analysis, we will include controls that are available to us (it is possible that
+      we do not have all of the controls described above at the time of early report).
+
+      After all UCLA patients have been invited (or if vaccine distribution plan changes and UCLA
+      Health no longer sends out text messages to patients at some point), we will do the following
+      additional analyses:
+
+        -  If the additional data collected afterwards exceeds 30K (which gives us 80% power to
+           detect a 2pp difference between the holdout arm and the text message arm, assuming that
+           holdout arm has a 50% baseline), then we will analyze the main effect of sending a text
+           message (vs. holdout) and report the raw data for each sub-arm (to see if the patterns
+           are qualitatively comparable with those in the early data).
+
+        -  We will use the full sample (including the early data and subsequent data) to analyze
+           (1) whether the combination of video and enhanced language will outperform video alone
+           or enhanced language alone and (2) the aforementioned heterogeneous treatment effect.
+    
+  

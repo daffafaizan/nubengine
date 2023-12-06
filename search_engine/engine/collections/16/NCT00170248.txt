@@ -1,0 +1,67 @@
+
+    
+      Background: Asthma is a chronic condition that is responsible for substantial morbidity.
+      Direct costs for physicians, hospital care and medications in Canada are conservatively
+      estimated at $306 million per year for persons with asthma. Existing evidence suggests that
+      considerable reductions in morbidity could be achieved by early prevention and timely
+      treatment. Much of the costs of asthma care are related to poor disease control due to
+      under-use of effective prophylactic therapies, inadequate monitoring of disease severity, and
+      insufficient patient education. A recent Canadian survey found that only 64% of patients with
+      poor asthma control had been prescribed an inhaled corticosteroid, and of these only 52% made
+      use of the medication on a daily basis. Further, although asthma self-management has been
+      shown to reduce the relative risk of hospitalization for asthma by 39%, only 21% of asthma
+      patients are provided with an action plan to institute for disease exacerbation and only 22%
+      of primary care physicians provide action plans for their asthma patients on a regular basis.
+      Computerized decision-support systems have provided a new set of tools for enabling
+      integrated evidence-based care, by providing physicians with patient-specific reminders and
+      alerts for needed preventive care and management, and timely feedback from patients. However,
+      there has been limited use of computer-enabled decision-support in primary care, and only one
+      reported study in chronic disease management. A key barrier to success has been the challenge
+      of providing primary care physicians with a computerized solution that will produce
+      value-added benefits and can be integrated easily into their routine workflow. Our prior
+      research has shown that an integrated electronic prescribing and drug management system can
+      provide value-added benefits for physicians because it is linked to information on dispensed
+      medications, and alerts for prescribing problems. Early uptake and utilization of this
+      computerized drug management system by primary care physicians provides an opportunity to
+      develop and evaluate the effectiveness of an integrated asthma management decision-support
+      system to enhance the use of prophylactic therapies and timely monitoring of asthma severity
+      in primary care.
+
+      Objective: To determine if computerized decision-support and home-monitoring systems for
+      asthma that is integrated into an electronic prescription and drug management system can: a)
+      increase quality of disease management, b) improve treatment outcomes for patients with
+      asthma.
+
+      Research Plan: A cluster-randomized trial with 33 months of follow-up will be conducted in a
+      population of approximately 100 primary care physicians in full-time private fee-for-service
+      practice in approximately 40 clinics in Quebec, and an estimated 2,880 - 4500 participating
+      asthma patients within their practices. Enrolled physicians will receive the MOXXI electronic
+      prescription and drug management software, equipped with wireless modem to access the central
+      databases and application server, and wireless printer. This system allows physicians to
+      write and send prescriptions electronically, provides alerts for potential prescribing
+      errors, a profile of current and past medications through automated links with the provincial
+      drug insurance plan and community-based pharmacies, a medication compliance calculator based
+      on dispensed prescriptions, and automated problem list creation based on treatment indication
+      and verification of diagnostic codes on medical services claims files. Clinics will be
+      randomized to receive a) computerized decision-support and home-monitoring for asthma
+      integrated with the MOXXI system or b) the MOXXI system alone. The asthma management decision
+      support system uses data from the patient problem and medication list to provide
+      patient-specific management recommendations based on Canadian Consensus guidelines for asthma
+      management. Web-enabled technology for asthma education nurses is used to collect
+      home-monitoring information from patients between visits and feedback to primary care
+      physicians in accordance with options selected by the physician for each patient.
+
+      The primary outcome, measured in each 3 month period of follow-up will be poor asthma
+      control, defined as an ER visit or hospitalization for asthma in each 3 month period of
+      follow-up or the dispensing of > 250 doses of fast-acting beta2-agonists. Secondary outcomes
+      will include one evidence-based quality of care indicator (inhaled corticosteroid to
+      beta2-agonist ratio, prescription of an action plan). Primary and secondary outcomes will be
+      measured using data from the medical chart, records of prescribed and dispensed drugs, and
+      Ministry of Health beneficiary, medical services and hospitalization databases. Effectiveness
+      of computer-based decision support will be assessed by multivariate hierarchical modeling to
+      take into account multiple measurements for the same patient, clustered within physician and
+      clinic, and to adjust for baseline differences in patient characteristics. Also, we will
+      examine whether the effectiveness of the intervention was modified by asthma control status
+      and physicians' use of the MOXXI application by stratified analyses.
+    
+  

@@ -1,0 +1,159 @@
+
+    
+      Background Denmark is known world-wide for our ability to examine out-of-hospital cardiac
+      arrest (OHCA) on a population scale and for the high number of laypersons educated in
+      cardiopulmonary resuscitation (CPR). A nationwide digital dispatch- and patient registry for
+      the respective EMS providers was implemented in 2016. Since then all OHCAs were registered
+      electronically via the EMS digital system and stored nationally. Several characteristics is
+      coupled with each registered OHCA, including bystander-initiated CPR and survival.
+
+      Denmark has approximately 5400 OHCAs each year nationally. There has been a significant rise
+      in survival after OHCA in Denmark the last two decades. From 2001 30-day survival rate, from
+      hospital discharge, has increased fourfold from around 4% in 2001 to 16% in 2018. This is
+      likely in part due to a significant rise in bystander cardiopulmonary resuscitation (CPR).
+      Since 2001 bystander-initiated CPR rate has increased from 20% to 77% in 2018. In this same
+      period Denmark has had a threefold increase in the number of Basic Life Support (BLS) courses
+      taken by the public. This is largely due to several central initiatives. To increase
+      bystander CPR rates in Denmark, CPR courses have been made mandatory in all primary schools
+      since January 2005 and when taking driver's license since October 2006. Further, several
+      large-scale national campaigns have been initiated to increase bystander CPR frequency and
+      AED use. In an upcoming study of a representative part of the entire population 4 out of 5
+      respondents answered that they had participated in some kind of BLS course in their lifetime.
+
+      Currently in Denmark, approximately 250.000-300.000 citizens attend certified CPR and
+      automatic external defibrillator (AED) courses annually. Most courses (>97%) are provided by
+      one of the organizations of the Danish First Aid Council. Only a minor proportion of
+      approximately 2.500-4.000 courses annually is provided by the Danish/European resuscitation
+      council. Both recognized structures intend to follow the standards of the ERC guidelines.
+      Since 2016 the Danish first aid council, who conduct most courses, have registered all
+      certificates electronically with personal identification number, type of course and date of
+      passed course for each of the approximately 250.000-300.000 participants. The courses include
+      4 hours training in BLS including CPR and AED use.
+
+      In 2017 a french observational study evaluating the association between BLS education, Public
+      Access Defibrillation programs and survival after OHCA in conjunction with sports in 51 of 96
+      French districts from 2005-2010 was published. The study concluded that there was a positive
+      association between BLS education and survival even when adjusted for relevant confounders.
+      The authors gained insight to BLS educational level through two sources data. Firstly, from
+      national records of individuals educated by national initiatives from five governmental
+      agencies and a through information from one organization. Secondly, from local initiatives by
+      a media search through web-based media and newspapers with keywords. The authors gained
+      insight into survival through a register based on OHCA related to sports in each in French
+      districts. That is within a district all sports-related OHCA, defined as cardiac arrests
+      occurring during or within 1 hour of cessation of sports activity, whether in a sports
+      facility or outside.
+
+      The french observational study provides a concrete basis for further investigations but
+      presents several obvious shortcomings when investigating national BLS educational
+      initiatives.
+
+      Firstly, data is not national, and the regions are not geographically aggregated, which
+      presents obvious challenges to the magnitude of the conclusions on a national level.
+      Secondly, there is not a geographically or quantitatively accurate count of BLS educated
+      citizens. The number of citizens with BLS education is recorded over every 5 years with no
+      account of whether the BLS course is attended post or prior to relevant OHCA sport related
+      arrest. Further it seems logical to assume, that laypersons do not respect district borders
+      when assisting for OHCA. Since only about half of the French districts are included, the
+      perspective of persons trained in the other half of the districts is not accounted for. This
+      can be overcome with a comprehensive national geographical setting. Thirdly, the study only
+      compares BLS education with overall survival throughout the district on sports related OHCA.
+      The obvious association to bystander initiated BLS rates is not examined even though
+      bystander-initiated CPR proved the strongest predictor for survival in the study. Hence a
+      causal chain from intervention to survival is not well described. Lastly, as is covered in
+      the article, survival data were taken only from the subgroup of the national sports OHCA
+      registry that represents potentially the best situation for AED use and bystander CPR, due to
+      the high frequency of bystander presence.
+
+      These fundamental problems can all be overcome in the Danish setting as there is precise and
+      complete national data with geographical location and other attributes to both BLS education
+      and all OHCA (not only sports related).
+
+      Geodata analysis has recently been utilized to compare AED location and OHCA via the Danish
+      Cardiac Arrest registry. The technology is available and applicable to both OHCA locations
+      and BLS education certificates. This enables a precise analysis of both temporal and spatial
+      association between OHCA and BLS education on a national level.
+
+      Aim:
+
+        1. To examine to association between BLS course certificates, bystander initiated BLS and
+           survival via geographical analysis of distribution
+
+        2. To identify geographical areas with low frequency of BLS education and low level of
+           bystander initiated BLS to direct further efforts
+
+      Relevance The present study will greatly add to our knowledge about which factors influence
+      outcome after OHCA. It will also provide knowledge that can help optimization of public
+      efforts to increase survival.
+
+      Methods The study is a registry-based follow-up study.
+
+      OHCA data All cases of OHCA in which a resuscitative attempt is initiated prior to EMS
+      arrival, have specific data recorded to the Danish Cardiac arrest registry. Most variables
+      have been collected since 2001, but GPS coordinates were only recently added nation-wide.
+      Data will be used from all verified OHCA from the national Danish Cardiac Arrest Register
+      from the period mid-2016 to mid-2019.
+
+      BLS education data All data concerning BLS education level is derived from the Danish First
+      Aid Council Digital Data base on course certificates from early 2016 to early 2019. The
+      approximately half a year different in start point from OHCA data is to ensure that
+      certificates are issues prior to OHCA. That is to ensure some measure of cause and effect of
+      intervention.
+
+      The database is national owned by the Danish First Aid council. In the database, all
+      certificates have attributed time of issue, social security number and certificate type. With
+      personal identification number (PIN) and Central Person Registry the public Danish
+      Statistical Agency can locate official current address of each certificate holder and convert
+      addresses into anonymized geographical coordinates (European Terrestrial Reference System
+      1989 (ETRS89) or GPS).
+
+      Geodata-analysis A collaborating group from Aalborg University Hospital have divided the
+      entire Danish geography into squares of 100*100 meters based on the UTM-system, and the group
+      have obtained data on population density, mean income, educational level, age and several
+      additional variables within each square. This data can be coupled with national
+      administrative parish of Denmark comprising some 2201 geographical units of approximately
+      equal size allowing for a wide range of data coupling through national registries.
+
+      In this setting each OHCA is marked with a coordinate and have been tied to the appropriate
+      square along with data on the individual OHCA, that being both pre-hospital factors, burden
+      of disease prior to the event, and long-term outcome. In addition, data on large public
+      facilities, airport, schools etc. where the daytime population will be artificially high does
+      no skew the results. Further adjusted measures will be created on factors possible presenting
+      a skewed OHCA survival profile (i.e. nursing homes, rehabilitation centers and areas with
+      high proportion of elderly). This will allow characterisation of each square by means of
+      general-population-data and by overall OHCA characteristics within the square.
+
+      With the data from all certifications of BLS education in the same period all dara can be
+      coupled in the danish administrative parish units. This allows for a statistical association
+      calculation and a direct pinpoint of geographical areas in need of further educational
+      interventions.
+
+      Statistical analysis data storage and anonymization Descriptive analysis will be conducted
+      for identifying areas with low BLS educational level and low level of bystander initiated
+      BLS. Geographical illustrations will be completed using ArcGIS. Pearson's correlations or
+      other relevant measure between survival, BLS education level, and bystander initiated BLS
+      will be calculated as a measure of association.
+
+      It is further sought to investigate a link between survival and BLS educational level with a
+      Pearson's correlation or a Spearmans Rho test and regression analysis to portray strength.
+      Outcome on survival will, as far as data allows, be adjusted for characteristics of the
+      individual geographical area. Examples of such are population age, gender distribution, mean
+      income and educational level. Furthermore, it is considered relevant to examine potentially
+      relevant sub-group analysis, e.g. after work hours OHCAs. Data management and statistical
+      analyses will be performed using R-static™ (The R Foundation for Statistical Computing,
+      Austria).
+
+      All data will be stored in an anonymous form in secure folders in the regional data storage
+      system. Data access and analysis on OHCA was approved by the Danish Data Protection Agency
+      (reference 2007-58-0015, GEH-2014-019, I-suite 02737). A formal application to Danish data
+      Protection Agency regarding usage, transformation and storage of certificate data will be
+      formulated.
+
+      Ethics Because this is a Registry-based study no ethical approval is required.
+
+      List of abbreviations:
+
+      AED: automatic external defibrillator CPR: Cardiopulmonary Resuscitation PIN: Personal
+      Identification Number BLS: Basic Life Support OHCA: out-of-hospital cardiac arrest ETRS89:
+      European Terrestrial Reference System 1989 UTM: Universal Transverse Mercator
+    
+  

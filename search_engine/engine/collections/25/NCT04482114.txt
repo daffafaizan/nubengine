@@ -1,0 +1,32 @@
+
+    
+      -  Background: Lung cancer is the leading cause of cancer deaths. Patients with pulmonary
+           nodules often undergo multiple computed tomography (CT) examinations for diagnostic and
+           follow-up purposes.
+
+        -  Purpose: The main objective of this study is to evaluate the diagnostic performance of
+           ultra-low dose CT using deep learning-based reconstruction in the detection of pulmonary
+           nodules.
+
+        -  Abstract: Despite recent advances, lung cancer remains the most commonly diagnosed
+           cancer and the leading cause of cancer death worldwide because it is often diagnosed at
+           advanced stages that are not surgically curable. Nevertheless, early detection of lung
+           cancer allows surgical resection, offers curative treatment and the best chance of
+           survival. There is currently no screening program in France, but individual screening
+           can be carried out depending on risk factors. Many pulmonary nodules are discovered each
+           year, most of which are benign. The challenge is to distinguish malignant lesions from
+           the multitude of benign lesions. One of the most effective criteria is the doubling time
+           of the nodules which leads to multiple follow-up examinations requiring ionizing
+           radiation to assess the size and growth of the nodules. Great efforts are currently
+           being made by CT manufacturers in order to reduce the radiation with equivalent
+           diagnostic performance. Patients who were referred to our department for an unenhanced
+           low-dose chest CT (LD CT) for pulmonary nodules check-up or follow-up, and had consented
+           to participate in the study, will undergo an additional ultra-low dose acquisition
+           (ULDCT, <0,25 mSv, similar to standard two-view chest X-Ray) with deep learning-based
+           reconstruction (DLIR). The main objective of this study is to evaluate the diagnostic
+           performance between ULD and LD CT protocols for the detection of pulmonary nodules. The
+           impact of dose reduction will be assessed in this context. The data from each
+           examination will be blindly interpreted from the results of the other one. No follow-up
+           will be required for the study.
+    
+  

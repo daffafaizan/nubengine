@@ -1,0 +1,212 @@
+
+    
+      Screening (Visit 1) and Run-in Period
+
+      This period of the study was designed as an 8-week screening and stabilization period, during
+      which potentially eligible subjects participated in a weight-maintaining diet and a daily
+      exercise program.
+
+      Subjects who were eligible for screening were diabetic subjects treated solely with diet and
+      exercise and who had mildly elevated HbA1c levels but were otherwise in good health and were
+      not suffering from any serious complications of diabetes.
+
+      At the end of the screening visit, potentially eligible study subjects were instructed to
+      follow a weight-maintaining diet and a daily exercise program. They were given a blank
+      subject diary and a nutritional diary, and were scheduled for the second visit (Visit 2)
+      after 8 weeks of stabilization.
+
+      Randomization Visit (Visit 2)
+
+      At Visit 2, prior to randomization, qualifying study subjects had the following baseline
+      procedures performed: a complete medical evaluation including a review of medical history
+      changes since Visit 1 and a physical examination, blood drawn for clinical laboratory
+      testing.
+
+      Randomization was stratified by site and baseline HbA1c levels (< 7.5% or ≥ 7.5%) to obtain a
+      balanced distribution of subjects across the three arms of the trial.
+
+      Subjects received a sufficient supply of study medication to last until the next visit.
+      Additionally, the subject received a diary and diary completion instructions for recording
+      side effects, intercurrent illnesses/symptoms, and concomitant medications.
+
+      One and Two Month Maintenance Visits (Visit 3 and Visit 4)
+
+      At each of these visits, subjects returned to the clinic for diary assessment, blood tests,
+      and study drug compliance assessment and dispensation of additional study drug.
+
+      Subjects had blood drawn for clinical laboratory testing including a hematology panel,
+      chemistry panel, creatinine clearance, insulin level, liver function tests, lipid profile,
+      HbA1c level, and urinalysis.
+
+      Six Month, End of Study Visit (Visit 5)
+
+      During this final visit, all assessments conducted at Visits 3 and 4 were repeated.
+      Additionally, a final physical examination was conducted.
+
+      Treatments Administered There were 3 minimal-dose D-tagatose treatment groups in this trial:
+      2.5 g tid, 5.0 g tid, and 7.5 g tid. The duration of treatment for all groups was 6 months.
+
+      Timing of Doses for Each Subject
+
+      The tid dosage regimen (i.e., dosing prior to each meal) was selected in order to standardize
+      the fasting status at the time of dose administration across each subjects. The treatment
+      duration of 6 months was determined to be sufficient to evaluate the efficacy and safety of
+      the three dosages for this Phase 2 trial.
+
+      DATA QUALITY ASSURANCE
+
+      The procedures below were performed to assure the proper conduct of the trial and to assure
+      an accurate, consistent, complete, and reliable report on the data collected during the
+      trial.
+
+      Before study initiation and periodically during the study, the monitor visited the
+      investigational sites. A study initiation meeting was held at each investigative site before
+      enrollment of the first subject to review study design, study procedures, data collection,
+      and investigator responsibilities. During interim field monitoring visits, the monitor
+      verified CRF entries against available source documents and ensured that appropriate data
+      were collected and documented. Frequent telephone contact with each study site was maintained
+      throughout the study, and copies of written correspondence between the investigators,
+      sponsor, and IRBs are on file with the sponsor and investigators. Data were collected from
+      the investigational center while respecting the anonymity of all subjects. Prior to data
+      entry, CRFs were checked for completeness and consistency by the monitor and verified against
+      source documentation that was maintained at each study site.
+
+      Data from CRF were entered into a relational database (Sequel) via optical character
+      recognition, and subsequently verified versus the CRF by two independent data entry clerks.
+      Any discrepancies in the interpretation of data from the hard copy CRF were referred to a
+      lead data manager who either resolved the discrepancy through review of the CRF or referred
+      the discrepancy to the study site for resolution.
+
+      Subsequent to the above data verification processes, programmed validation runs were
+      conducted at regular intervals to check the logic, consistency, and validity of the verified
+      data. Inconsistencies in data logic were referred to the study centers for resolution via
+      data clarification forms (DCF), which required investigator signature.
+
+      Data collection and quality assurance/control of electronically transmitted laboratory data
+      were handled according to the respective laboratory's standard procedures before transmission
+      to the CRO for analysis. Programmed validation runs of the central laboratory data versus
+      information from the CRF were performed and discrepancies were reconciled with the study site
+      and the central laboratory.
+
+      Prior to data lock for the final analysis, the following quality control procedures were
+      performed.
+
+        -  An audit of CRF and resolved queries versus analysis data was performed on 100% of the
+           subjects for the primary endpoint, demographics, end of study findings, and
+           randomization information. All errors found during the audit were reported to the lead
+           data manager and corrected.
+
+        -  An audit of all remaining CRF data (other than primary endpoint, demographics, end of
+           study findings, and randomization information) was performed for a randomly selected 10%
+           of the subjects. If the error rate exceeded 0.5%, a systematic random sampling of an
+           additional 10% of subjects was repeated.
+
+      A final audit report and memo summarizing the audit findings was generated and given to the
+      lead data manager and is on file at the CRO.
+
+      Data analyses were performed primarily with Statistical Analysis System (SAS®) software,
+      version 9.0 or higher. SAS analysis datasets were crosschecked against the locked database
+      and/or CRF. Data summary tables were crosschecked against SAS analysis datasets. All
+      identified inconsistencies were reported to the lead statistician and resolved prior to
+      production of this report.
+
+      This clinical study report was checked for accuracy and consistency before sign-off. This
+      check consisted of a verification of the report text against the report synopsis, and a
+      crosscheck of textual information provided in the report and synopsis versus source summary
+      tables, data listings, and report appendices.
+
+      Statistical and Analytical Plan
+
+      The CRO prepared a statistical analysis plan (SAP) for the efficacy and safety data before
+      database lock. The SAP was finalized on December 6, 2010.
+
+      Analysis Populations
+
+      The three analysis populations defined in the SAP, along with their respective definitions
+      and intended use are provided below.
+
+      The main efficacy analysis was conducted using the ITT population. The ITT population
+      included all subjects who had signed the ICF, received the protocol-specified treatment, and
+      had a baseline and at least one post-baseline HbA1c value.
+
+      The Efficacy Evaluable (EE) population was used for supportive efficacy analyses. The EE
+      population consisted of all randomized subjects who completed the 6-month treatment period,
+      and had no major protocol violations or eligibility violations. All protocol violations were
+      identified prior to breaking the blind.
+
+      The safety population consisted of all randomized subjects who received at least one dose of
+      study medication and had at least one post-treatment visit for safety assessment. This
+      population was used for all safety summaries.
+
+      Statistical Method Details
+
+      Data summaries were prepared for each treatment group and the population as a whole (i.e.,
+      all treatment groups combined). The descriptive statistics provided in data summary tables
+      involving continuous data included the number of observations, mean, standard deviation,
+      median, and minimum and maximum values. The descriptive statistics provided in data summary
+      tables involving categorical data included frequency counts and percentages. Inferential
+      statistics were provided only for efficacy endpoints.
+
+      Duration of Exposure to Study Drug
+
+      The duration (days) of study drug dosing was estimated and summarized descriptively for the
+      Safety Population by dose group and for all doses combined. Duration was based on entries in
+      the CRF and was calculated as last dose date minus first dose date plus one day [(last dose
+      date - first dose date) + 1 day]. If the medication stop date was missing or if the stop date
+      was specified as continuing, the end of study date, as recorded in the CRF, was used as the
+      stop date for duration determination.
+
+      Compliance
+
+      Percent compliance with study medication was calculated as [(total units of drug returned
+      minus the total units of drug dispensed) ÷ by the total dispensed] times 100%. Resulting data
+      were summarized descriptively for the Safety population by dose group and for all doses
+      combined.
+
+      Efficacy Analyses
+
+      All efficacy endpoints were summarized descriptively by dose group and for all doses combined
+      for the ITT and the EE populations. All statistical tests for comparisons of dose groups were
+      two-sided tests, with no p-value adjustment. The ITT and EE populations were used in the
+      analyses of efficacy.
+
+      Safety Analyses
+
+      The Safety Population was used for all analyses of safety and tolerability. All safety
+      parameters were presented descriptively and as data listings. No inferential statistics were
+      planned or performed on safety data.
+
+      Adverse Events:
+
+      The number and percentage of subjects who reported AE were summarized descriptively by MedDRA
+      System Organ Class (SOC) and Preferred Term (PT), Version 10.0, and dose group. Adverse
+      events and SAEs occurring between randomization and the last study visit are summarized.
+      Unless otherwise specified, the incidences of unique events are provided in all AE
+      summarizations (i.e., a subject is counted only once for each unique event occurring in the
+      summary). For summaries of AEs by severity, if a subject had more than one event per MedDRA
+      SOC or PT, the worst severity was tabulated. Similarly, for summaries of AEs by causality, if
+      a subject had more than one event per MedDRA SOC or PT, the worst severity was tabulated.
+      Additionally, a summary of AEs leading to study drug discontinuation is provided.
+
+      Hypoglycemic Episodes:
+
+      All subjects experiencing one or more events that coded to the MedDRA PT of "hypoglycemia"
+      were included in the summaries of AEs (see above).
+
+      Gastrointestinal Side Effects: Categorical summaries of responses to each of the questions on
+      the GSRS were prepared based on time point and dose group. Additionally, all subjects
+      experiencing one or more events that coded to the MedDRA SOC of "Gastrointestinal Disorders"
+      were included in the summaries of AEs (see above).
+
+      Determination of Sample Size
+
+      The sample size calculation was based on a reduction of at least 0.5% in HbA1c level after 6
+      months of the study treatment compared to baseline for each dose group, a standard deviation
+      of 1.0 for each treatment group, and an 80% statistical power with a two-sided analysis at a
+      Type I error rate of 0.05. The required number of evaluable subjects was about 102 (34 for
+      each D-tagatose dose group) based on nQuery Advisor, version 6.01. A total of 40 subjects per
+      treatment group (120 subjects for the study) were to be recruited, as it was expected to
+      observe a 15% drop out rate in this study population, and a total of 150 subjects (50 for per
+      treatment group) was screened based on the estimated screen failure rate of 20%.
+    
+  

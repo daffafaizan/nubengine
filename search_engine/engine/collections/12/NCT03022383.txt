@@ -1,0 +1,8 @@
+
+    
+      Scans with a TopQ score below the optimum cut-off should be considered to be poor or
+      unacceptable quality, and scans with a TopQ score above the cut-off should be considered good
+      or acceptable quality. The study will evaluate the predetermined cut-off values by
+      investigating measurement variability of scans.
+    
+  

@@ -1,0 +1,154 @@
+
+    
+      The University of Chicago Education Lab and Crime Lab New York research teams are carrying
+      out a randomized controlled trial during the 2016-17 and 2017-18 academic years to build on
+      previous collaborations with the Chicago Public Schools (CPS), the New York City Department
+      of Education, and SAGA Innovations that have found that SAGA's intensive, individualized,
+      during-the-school-day tutoring can generate very large gains in academic outcomes in a short
+      period of time, even among students who are many years behind grade level. This research
+      suggests the promise of this approach for improving the academic skills and educational
+      attainment of disadvantaged youth, even once they have reached adolescence. However, to truly
+      affect outcomes at the local and national level, SAGA would have to be rolled out on a much
+      greater scale than researchers have been able to study in Chicago. Yet little is known about
+      how to take promising interventions to scale. This study seeks to build the science of
+      scale-up, by examining the extent to which this individualized tutoring program can be
+      implemented at an even greater scale and by explicitly exploring the trade-offs between
+      effectiveness and scale.
+
+      The SAGA Innovations program expands on the nationally recognized innovation of high- dosage,
+      in-school-day tutoring developed in Match Education's charter school in Boston. The tutoring
+      program meets as a scheduled course, Math Lab, once a day during the normal school day, and
+      is provided in addition to a student's regular math class. Students work two-on-one (two
+      students with one tutor) with the same full-time, professional tutor for the entirety of the
+      school year. The content of the tutoring sessions is aligned with what students are learning
+      in their regular math courses, but is also targeted to address individual gaps in math
+      knowledge. Also following the original model developed by Match Education, SAGA tutors use
+      frequent internal formative assessments of student progress to individualize instruction.
+
+      A previous randomized controlled trial conducted by the University of Chicago research team
+      found that one year of this intervention, delivered in AY2013-14 in the Chicago Public
+      Schools, generated between one and two extra years of academic growth in math, over and above
+      what the normal U.S. high school student learns in one year (Cook et al., 2015; Reardon,
+      2011). The estimated effects for math achievement are on the order of 0.19 to 0.30 standard
+      deviations, depending on the exact test and norming used. The intervention also improved
+      student grades in math by 0.58 points on a 1-4 grade point scale, compared to a control mean
+      of 1.77. These gains are particularly important because of the growing evidence on the
+      importance of math specifically for short- and medium-term success in school, and for
+      long-term life outcomes such as employment and earnings (Duncan et al., 2007).
+
+      This study aims to build upon the investigators' previous evaluations of the program, and
+      will provide insight into the ability of this program to serve youth at a much larger scale.
+      Specifically, this study aims to answer the following research questions:
+
+        1. What is the effect of implementing an evidence-based individualized tutoring program at
+           larger scale?
+
+        2. What is the relationship between the effect of the program and the scale at which the
+           program is implemented?
+
+      Implementation sites are divided into two sets: sites in Chicago at which students are
+      randomized to receive tutoring (hereby referred to as "scale-up" schools), and sites in
+      Chicago and New York City where principals have primary discretion to choose which students
+      receive tutoring (hereby referred to as "returning schools").
+
+      In order to study research question #1, investigators will take advantage of the power of
+      random sampling to study scale-up of this program without actually having to implement the
+      program at a much larger scale. The first research question seeks to measure the average
+      quality of the scaled up program in Chicago, in which researchers will utilize data from the
+      scale-up schools. Students in both scale up and returning schools are both randomly assigned
+      to tutors. However, students in the scale-up schools have two additional randomizations - (1)
+      tutor applicant randomization and (2) treatment assignment randomization. For the first
+      feature, the research team is having SAGA over-recruit tutors as though they were
+      implementing at larger than the intended scale in the scale up schools. Investigators then
+      randomly select one in three-and-a-half tutor applicants to continue through SAGA's standard
+      hiring process, and positions at the scale-up schools are only filled by these randomly
+      selected tutors. As students are randomly assigned to treatment in these scale-up schools,
+      investigators will be able to measure program effects at about three-and-a-half times the
+      scale at which the program is being implemented at these schools.
+
+      To measure treatment effects for research question #1, the research team will estimate both
+      intent to treat (ITT) and treatment on the treated (TOT) impacts. Researchers will estimate
+      the ITT effect as follows:
+
+      Y=B0 + B1T + B2X + E
+
+      where Y is the outcome of interest, T indicates students that are randomly assigned to be
+      offered the chance to participate in the tutoring program, X is a set of baseline controls
+      (which specifically includes randomization block, gender, age, learning disability,
+      free/reduced lunch status, race, baseline grade level, GPA, number of As/Bs/Cs/Ds/Fs in the
+      prior year, math and reading standardized test scores from the prior year, days absent from
+      school, disciplinary incidents including suspensions and arrests, and a binary flag for
+      students with missing GPA and attendance data), E is a random error term, and B0, B1, B2 are
+      parameters to be estimated. The random assignment of T assures that under standard
+      assumptions, Ordinary Least Squares (OLS) estimation yields an unbiased estimate of the ITT
+      as the estimate of B1, or the effect of being offered participation in the SAGA tutoring
+      program. As all students who were randomized into the program were paired with tutors that
+      were randomized via the process described above, our ITT (and subsequently, TOT) effect will
+      specifically measure the effect of the program when administered at three-and-a-half times
+      the scale as it is currently being administered.
+
+      The ITT measures the effect of being offered the chance to participate. As students assigned
+      to treatment are not required to participate in the program, the ITT may not measure the
+      effect of participation. The research team will measure the effect of participation using
+      random assignment of T as an instrument for participation. If all participants were randomly
+      selected (i.e. if there are no control students who are allowed to participate in the
+      tutoring program) this method calculates the effect of the treatment on the treated (TOT), or
+      the effect of participating for the group of students who choose to participate.
+
+      To gain insight into research question #2 above, which seeks to determine the relationship
+      between program scale and effects, tutors at all sites are ranked by SAGA leadership based on
+      relative expected quality. The research team will then randomize student pairs to tutors in
+      an effort to identify a tutor's effect on student outcomes. Using this methodology,
+      researchers can study whether tutor ranking predicts the size of the program effects. As the
+      research team assumes that the program would hire tutors in the order of their ranking
+      depending on the number of tutor slots they needed to fill, this analysis will shed light on
+      the relationship between scale and effectiveness.
+
+      To analyze the impact of being assigned to a tutor of a particular ranking (i.e. the ITT
+      estimate of research question #2), investigators will run regression models that regress
+      academic outcomes on tutor rank. Our main outcome of interest is math standardized test
+      scores. Our primary analysis will model outcomes as a linear function of tutor rank. As a
+      secondary exploratory analysis, we will estimate the shape of the relationship between
+      outcomes and tutor rank using the following leave-one-out cross-validation exercise:
+
+        1. Estimate the relationship non-parametrically by running a regression at the
+           student-level of the outcome (primary: math standardized test scores) on a full set of
+           separate fixed effects for every tutor rank. Call the coefficient on the fixed effect of
+           the rth ranked tutor, γ ̂_r.
+
+        2. For rank r=1,…,R: Estimate using the student-level data the relationship between the
+           outcome and tutor rank as a polynomial of order p=0, 1, 2, …, 10 holding the students
+           assigned to tutors ranked r out of the sample. Use the coefficients from the polynomial
+           terms to predict γ ̂_r, and call that f ̂_p (r). Save the squared error for each
+           polynomial: (f ̂_p (r)-γ ̂_r )^2.
+
+        3. Select the polynomial p that minimizes ∑_(r=1)^R(f ̂_p (r)-γ ̂_r )^2 .
+
+        4. Report the estimated relationship between the outcome and rank using the selected order
+           of polynomial.
+
+      In addition to the functions of tutor rank, each regression will include block fixed effects
+      that capture how student pairs were randomly assigned to tutors. The blocks include student
+      groups within a classroom with shared special restrictions (e.g. having no restrictions,
+      needing a Spanish-speaking tutor, or needing a tutor who is qualified for advanced
+      mathematics courses). Other covariates in the model will be the same as those included in our
+      ITT and TOT analysis for research question #1, noted above, to measure the effect of the
+      program when administered at three-and-a-half times the scale as it is currently being
+      administered.
+
+      As students switch tutors for a variety of reasons, researchers will also need to calculate
+      the TOT estimate to look at the impact of being assigned to and actually working with a tutor
+      of a particular ranking. To do so, investigators will use the rank of the randomly assigned
+      tutor as an instrument for the weighted average tutor rank, where the weight placed on each
+      tutor's rank is equal to the proportion of time (measured in days) the student spent with
+      that tutor. Investigators will use daily attendance data to create this weighted average.
+      This method will help investigators understand whether working with a higher-ranked tutor
+      means that a student actually receives better quality instruction, or whether an additional
+      relationship between tutor rank and actual quality exists.
+
+      We will use only observed outcomes for the analysis. If an outcome is missing for more than 5
+      percent of the sample, we will also report the treatment effect on whether or not the outcome
+      is observed. When baseline covariates are missing, we will impute missing values with zero
+      and include an indicator for missingness as an additional baseline control.
+    
+  

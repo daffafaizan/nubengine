@@ -1,0 +1,34 @@
+
+    
+      Image-guided percutaneous lung biopsy is an essential procedure in lung cancer management,
+      where it is integral to confirming the diagnosis and determining tumour histology. In this
+      era of personalized medicine where knowledge of specific cellular pathways and molecular
+      characterization relies on obtaining optimal tissue sampling, the critical question is how to
+      obtain a high-quality biopsy tissue sample that could be processed for various pathological
+      assessment from a single, minimally invasive percutaneous image-guided approach.
+
+      An ideal percutaneous lung biopsy also needs to have a short procedure time with accurate
+      needle placement to minimize the inherent risk of the procedure, including the stochastic
+      effect of radiation, and injuries to structures resulting in pneumothorax, pulmonary
+      hemorrhage, and air embolism, which could all be potentially life threatening. Previous
+      studies have also shown that post-biopsy haemorrhage or pneumothorax requiring chest tubes
+      insertion had worse outcome, increased length of hospital stays, and respiratory failure.
+
+      Since the 1970s, conventional Multi-detector CT (MDCT) has been the modality of choice in
+      percutaneous lung biopsy, which requires repeated scanning of the target lesion during the
+      procedure and the interventional radiologist entering and leaving the CT suite after each
+      needle adjustment. Recent research has proposed CT fluoroscopy and cone-beam CT (CBCT) as
+      alternative methods.
+
+      Virtual guidance has been developed to improve target visibility and access for these complex
+      cases. This involves image registration where the real-time imaging dataset is matched to a
+      reference dataset, where the position of a device is displayed on the current imaging dataset
+      in real time. Syngo iGuideTM is a novel navigational software which has the potential for
+      accurate needle guidance in percutaneous biopsy. More specifically, it plans a potential
+      computed 3D needle path before the procedure, using the CBCT images. An integrated laser
+      crosshair is also projected onto the patient's skin to indicate the entry point and angle of
+      the needle at no additional radiation dose to the patient and staff. This 3D path can be
+      transposed onto real time fluoroscopic images to guide the biopsy, thus potentially improves
+      patients' safety due to more accurate needle placement.
+    
+  

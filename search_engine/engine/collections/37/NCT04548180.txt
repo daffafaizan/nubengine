@@ -1,0 +1,75 @@
+
+    
+      Annually 1.5 million children and adults experience trauma to the head and brain that results
+      in a TBI. Our research suggests that in a subset of patients, TBI induces pituitary
+      dysfunction and abnormal growth hormone (GH) secretion. The clinical syndrome associated with
+      abnormal GH secretion is characterized by profound fatigue and cognitive dysfunction related
+      to executive function, short-term memory, and processing speed index. Fatigue in these
+      patients is profound and debilitating leaving them unable to maintain their usual activity
+      levels. We have termed this syndrome Brain Injury Associated Fatigue and Altered Cognition
+      (BIAFAC).
+
+      Our recent work has shown that cognitive and physical dysfunction are significantly improved
+      with recombinant human growth hormone replacement in patients with BIAFAC. Improvements in
+      fatigue often precede (~3 months) improvements in cognition (~4-5 months) following rhGH
+      treatment. Although rhGH replacement relieves BIAFAC symptoms, it does not cure the
+      underlying cause, as symptoms reoccur with rhGH withdrawal.
+
+      Although the mechanisms causing BIAFAC have not been determined, our previous research
+      demonstrated that a year of GH treatment resulted in symptom relief which was associated with
+      changes in brain morphometry and connectivity. These associated brain changes include
+      increased frontal cortical thickness and gray matter volume as well as resting state
+      connectivity changes in regions associated with somatosensory networks
+
+      The next step to understanding BIAFAC is to develop a biomarker that identifies individuals
+      that are susceptible to developing this syndrome. The University of Michigan maintains a
+      searchable DataDirect database of over 4 million individual patient medical records linked
+      via the Michigan Genomics Initiative (MGI) to genomic data collected from over 70,000
+      patients. By collaborating with the University of Michigan, we have a unique opportunity to
+      combine their extensive genomic database with the more than 100 UTMB patients we are
+      currently treating for BIAFAC to search for common genetic markers associated with BIAFAC. In
+      order to identify patients in the UM genomic database with BIAFAC, we will develop a risk
+      stratified machine-learning algorithm based on BIAFAC symptoms. Initial use of the algorithm
+      will begin with approximately 9,000 patients in the UM database that have already been
+      identified with a diagnosis code of fatigue and malaise. Once these patients are identified,
+      a select cohort will be contacted to confirm the accuracy of the algorithm in identifying
+      BIAFAC patients. Once we complete the genotyping of UTMB patients with BIAFAC and have
+      identified the patients with BIAFAC in the UM genomic database, a genome-wide association
+      study (GWAS) will be executed to look for common genetic markers
+
+      Aims:
+
+      Specific Aim 1: Identify patients in the UM MGI cohort who show positive traits associated
+      with BIAFAC. Patients in the UM Michigan Genomic Initiative (MGI) cohort will be filtered
+      through ICD-9, ICD-10, and CPT codes associated with fatigue, malaise, and other related
+      diagnoses. Natural language processing (NLP) approaches will be developed to parse clinical
+      notes from candidate patients, recognize relevant medical concepts, and combine features to
+      identify candidates. These will be evaluated for algorithmic accuracy using manual review.
+
+      Specific Aim 2: Develop medical concept mapping of EHR systems across UTMB and UM. Semantic
+      representations of medical concepts in UTMB and UM will be generated based on co-occurrence
+      patterns of these concepts summarized from each site. Statistical methods will be developed
+      to generate a mapping of the medical concepts between UTMB and UM and harmonize the data
+      across institutions leveraging the trained representations. The learned mapping can
+      facilitate the transfer of trained algorithms from one system to another.
+
+      Specific aim 3: Develop a computable phenotype to identify TBI patients with BIAFAC,
+      combining the concept mapping identified in Aim 2 with clinical note-based features
+      identified in Aim 1.
+
+      Specific Aim 4: Conduct genetic analysis of the UTMB cohort. The MGI cohort individuals are
+      genotyped on an Infinium Global Screening Array and imputed to contain >10M genetic markers.
+      We will use this data to perform a genome-wide association study (GWAS) of the phenotypes
+      identified in Aim 3 by testing each variant for association while accounting for confounders
+      such as population stratification.
+
+      Experimental Protocol.
+
+      The investigators will study subjects (aged 18-70 years) with a history of mild TBI (n=100).
+
+      All patients presenting with TBI and BIAFAC symptoms will be invited to participate.
+
+      TBI subjects will have saliva and possibly blood taken for DNA extraction and genotyping,
+      which will be used for the GWAS.
+    
+  

@@ -1,0 +1,29 @@
+
+    
+      In a private testing room at the testing site, children will complete descriptive functional
+      sensory-motor tests with a registered physical therapist. They will then complete the
+      paper-and-pencil visual-motor integration test (Beery-Buktenica Test of Visual Motor
+      Integration) while seated comfortably. They will then undertake the visuomotor integration
+      tasks using a touch screen computer, completing 5 trials of each of 3 target positions under
+      visual-only, motor-only, and visual-motor integration conditions. The task will be displayed
+      on a 20" HP Spectre touch-screen laptop with an RTX 960 graphics card. Eye-tracking will be
+      undertaken using a Tobii Nano which integrates with Unity software. Kinematics of hand
+      movement during reach to touch as well as head movements will be collected using an Orbbec
+      Astra depth-sensing camera. Accuracy of touch is recorded by custom-written software tracking
+      X-Y touch coordinates on the screen. All data collection modalities are synced and integrated
+      using LabVIEW.
+
+      Children will then complete the same tasks in the 3D HMD virtual environment. We will use the
+      VIVE Pro EYE, the leading commercially-available immersive VR system, which has with a 110
+      degree trackable field of view and an embedded eye tracker. Arm movements are tracked by
+      lightweight trackers attached via Velcro arm band to children's forearms and ManusVR motion
+      tracking gloves worn on the hands. Head movements are tracked by position sensors in the HMD.
+      Trackers and gloves enable upper extremity interaction with objects in the virtual world. An
+      Alienware m15 gaming laptop with an NVIDA GeForce RTX 2060 graphics card will run the task.
+      Following the visual-only, motor-only, and visual-motor integration tasks, children will
+      complete a new visual-motor integration task involving virtual object transport, where they
+      will grasp a virtual object and transport it to a new location in the virtual environment.
+      Finally, they will complete the object transport task in a more audiovisually-complex virtual
+      environment in the HMD.
+    
+  

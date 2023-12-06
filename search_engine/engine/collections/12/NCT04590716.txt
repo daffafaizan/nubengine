@@ -1,0 +1,67 @@
+
+    
+      Using their smartphones, potential participants will download the doc.ai research mobile app.
+      There will be a web pre-screening link where potential participants will self-screen to see
+      if they meet the basic eligibility criteria for this study. The recruitment tool for this
+      trial is developed for diversity, fairness, and inclusion. With the aim to ensure diversity
+      in the demographics of the trial to better understand the health needs of different
+      populations. So, while some interested potential participants do qualify, they may not be
+      invited into the trial due to these diversity requirements.
+
+      Patients with myasthenia gravis (MG) who meet the inclusion criteria will be invited to join
+      this digital health trial. Participants will sign the e-consent and self-enroll into the
+      study. Once their eligibility is confirmed by the study team (to ensure eligibility criteria
+      and validity of participant i.e. eliminate robo sign-ins) they will be asked to take a
+      selfie, provide documented proof of MG diagnosis, respond to a series of survey questions
+      regarding their demographics, current health, medical history, and other MG related
+      information.
+
+      Enrolled participants will have a daily brief check-in, 2 weekly check-ins and a weekly
+      check-in which will include an audiovisual check-in, and will maintain an audiovisual diary
+      to keep track of their symptoms, connect data, record their voice (to detect vocal symptoms:
+      weakness, nasality) and take videos of their face (to detect facial symptoms: ocular, mouth
+      droop) on a daily to weekly basis through the various data collecting modules in the doc.ai
+      research app for the duration of their study participation. doc.ai's digital health trial
+      platform will be leveraged to collect this data.
+
+      The study aims to enroll approximately 200 participants in approximately 9 months. It is
+      expected that a minimum of 100 participants will be included in the final analysis as at any
+      given time there will be a lag between potential participants expressing interest in the
+      study, their eligibility being assessed by the PI, and participants completing all required
+      study procedures.
+
+      At the end of their participation, participants will be asked to complete a questionnaire.
+      After the participant has completed their final survey, they will be able to connect to a
+      link redeemable as an Amazon.com gift card worth $250. All participants will also receive an
+      end-of-trial-summary of the data that they had collected during the study. No medical advice
+      or direction will be given based on this study.
+
+      In addition, in the final survey participants will be asked if they would be willing to
+      complete a usability interview after their participation in this trial has ended. This subset
+      of participants invited to be part of a follow-up usability interview will include those who
+      complete all study required procedures and some who may not have completed all study required
+      procedures, in order to assess usability experience of the app for the duration of their
+      participation. Participants will be contacted at their end of their period of participation
+      until a total of 10-15 participants successfully complete the usability interview.
+      Participants who successfully complete the usability interview will receive a link for a $50
+      in Amazon.com gift card via the app.
+
+      For this study the data and, audio and video recordings will be captured directly on the
+      doc.ai research app and securely stored on a HIPAA compliant cloud provider (Google Cloud
+      Platform).
+
+      This data will be used to understand the patterns of symptoms and triggers in order to better
+      characterize factors such as the length and timing of flares and any unique symptom patterns
+      in order to create more objective measures of MG symptoms. Ultimately this data would be used
+      to build a machine learning model that could predict MG symptom flares.
+
+      Primary Objective:
+
+      Use a collection of digital health modules on the smartphone to collect myasthenia gravis
+      (MG) symptoms and triggers to better characterize symptom patterns and flares.
+
+      Secondary Objective:
+
+      Use the data collected to develop an A.I. model to detect and/or predict symptom flares.
+    
+  

@@ -1,0 +1,127 @@
+
+    
+      Developing clinical and psychological markers which characterise the large subgroup of
+      patients with major depression who do not benefit from serotonergic antidepressants offered
+      as first line treatment is of utmost clinical importance but has so far not been achieved.
+      Clinical and psychological indicators would be ideal in predicting non-response to
+      antidepressant medications, given their wide availability. So far, however, these measures
+      have failed to provide accurate predictions at the individual level. Novel predictors of
+      prognosis and treatment response in major depressive disorder (MDD) can add value to the
+      development of targeted treatments and stratified approaches to improve long-term outcomes of
+      individuals with MDD.
+
+      The psychological underpinnings of patients' response to treatment have been an important
+      direction of research. As proposed by the revised learned helplessness model, one central
+      cognitive vulnerability to MDD is the tendency to excessively blame oneself for negative
+      events occurring in one's life. Consistent with the theory, previous studies have
+      demonstrated the importance of self-blaming bias both as a vulnerability factor and as a
+      symptom of depression. For example, it has been shown that individuals with remitted MDD had
+      increased self-contempt biases compared to healthy control participants in a recent study. As
+      MDD is a life-long diagnosis, understanding the differences between remitted MDD and healthy
+      controls could help to identify vulnerability traits associated with MDD. Thus, the finding
+      of self-blaming biases in remitted MDD demonstrate the potential role of self-blame as a
+      vulnerability trait and a novel cognitive marker for MDD that remain present during remission
+      and possibly constitute vulnerability for recurrence. However, one limitation in previous
+      studies is that people might have experienced difficulties distinguishing their moral
+      emotions such as shame and guilt under certain circumstances. Previous measures assessing
+      these emotions largely depended on participants' subjective rating and are thus problematic
+      in terms of differentiating the moral emotions.
+
+      In addition, these measures fail to address the adaptive or maladaptive nature of moral
+      emotions. As proposed by Tangney, moral emotions can be either adaptive and maladaptive, and
+      this difference is possibly determined by an individual's different action tendencies
+      associated with their moral emotions. Action tendencies describe an implicit cognitive and
+      motivational state before an action is taken. It was suggested that adaptive action
+      tendencies, such as feeling like apologizing, were associated with self-blaming emotions such
+      as guilt, and maladaptive action tendencies such as feeling like hiding and creating a
+      distance from oneself were associated with shame. However, an empirical investigation of the
+      associations between action tendencies and self-blaming emotions is lacking. Further
+      investigations of this topic are important for understanding the potential role of action
+      tendencies as a novel measure of self-blame and its association to the vulnerability to MDD.
+      It is important to develop measures of action tendencies with a high ecological validity. In
+      previous studies, our research group has developed a computerised task that measures action
+      tendencies and used it to predict prognosis in MDD. It was found that this task can predict
+      recurrence risk in people with MDD, showing a large effect size (Cohen's d=.96). However,
+      there were two major limitations. First, the task used in a verbal format and included
+      abstract descriptions of scenarios (e.g. "You act stingily towards your friend"), which makes
+      the task dependent on how well participants can imagine the scenarios. Second, the lack of
+      immersiveness of the task made it difficult to engage, which may limit the task's ecological
+      validity.
+
+      Virtual reality (VR)-based assessment is a new paradigm for cognitive evaluation compared to
+      the traditional paper-and-pencil or computerized assessment. VR scenarios were suggested to
+      be promising tools for cognitive assessments and have been demonstrated as safe for the
+      assessment of anxiety disorders and depression. Importantly, the interactive and immersive
+      nature of virtual reality makes it possible to develop a cognitive task that is engaging and
+      has a higher ecologically validity, which would be ideal for identifying novel cognitive
+      markers of MDD outcomes. Thus, this study will aim to employ a virtual reality task to
+      measure blame-related action tendencies.
+
+      There are three major research questions of this study
+
+        1. Is MDD associated with a higher proneness towards maladaptive action tendencies, such as
+           self-distancing and hiding, compared with a non-MDD control group?
+
+        2. Are maladaptive self-blame-related action tendencies associated with a poor prognosis
+           for current major depressive disorder when treated as usual in primary care?
+
+        3. Can maladaptive self-blame-related action tendencies be used to predict prognosis in MDD
+           at the individual level when combined with other predictors using a nested elastic-net
+           regularised doubly-cross-validated regression model?
+           (https://github.com/AndrewLawrence/dCVnet). This will use both primary and secondary
+           predictors in the same model.
+
+      Our proposed primary predictors of prognosis for major depressive disorder are the following
+      (these will be used in a non-regularised multiple regression model):
+
+        1. Percentage of trials during which hiding was chosen as measured by the VR-task
+
+        2. Percentage of trials during which self-distancing was chosen as measured by the VR-task
+
+        3. Autonomy total score as measured by the Personal Style Inventory
+
+        4. Sociotropy total score as measured by the Personal Style Inventory
+
+        5. Maudsley Staging Model total score
+
+        6. Compliance with treatment as measured on an ordinal scale (how regularly have you taken
+           your antidepressants over the last month at the prescribed dose? 0=Never, 1=Some of the
+           time, 2=More than half the time, 3=Most of the time, 4=Almost every day, 5=Every day)
+
+        7. Social support received as measured by the Social Support Scale
+
+        8. Baseline depression score as measured by the Self-rated Quick Inventory of Depressive
+           Symptomatology (QIDS-SR-16) and the Maudsley-Modified Patient Health Questionnaire -9
+           (MM-PHQ-9, two separate models will be run for using either QIDS-SR-16 or the MM-PHQ-9
+           as the outcome variable).
+
+        9. Baseline anxiety symptoms as measured by the Generalised Anxiety Disorder assessment
+
+       10. Optimisation of antidepressant medication during the follow-up period on an ordinal
+           scale (0=no new antidepressant/stopping current antidepressant or lowering its dose,
+           1=increase from effective dose to a higher dose, 2=increase from ineffective to
+           effective dose /or change to another antidepressant at effective dose)
+
+      Other potential predictors in secondary analyses for a non-regularised regression model:
+
+        1. Coping mechanism as measured by the Brief COPE
+
+        2. Type of treatment obtained during the four months (e.g. SSRI or Non-SSRI)
+
+        3. Affective Lability
+
+        4. Early life trauma
+
+        5. Physical co-morbidity
+
+        6. Age
+
+        7. Gender
+
+        8. Education
+
+        9. Age of onset
+
+       10. Number of previous episodes
+    
+  

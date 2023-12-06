@@ -1,0 +1,92 @@
+
+    
+      We will test the feasibility of dispatching an out of sight AED-drone system to real-life
+      OHCA in parallel with standard EMS dispatch. The study period is 5 months between May to
+      September 2020. The study area will be covered by three individual drone systems covering
+      some 80,000 inhabitants within the controlled airspace of Säve airport in Göteborg Sweden.
+      Each drone system will have a flight range of six km.
+
+      The first month of the study period will be used as run-in period and the drone systems are
+      dispatched for beyond visual line of sight (BVLOS) flights in a simulated fashion and
+      optimized to decrease delays and to log pre-specified system variables, adherence to
+      protocol, time delays, technological functionality, weather conditions, conflict in the
+      airspace.
+
+      During the following 4 months June-September 2020, drones will dispatched to real-life
+      suspected OHCA during daytime 08:00-22:00.
+
+      An EMS communication radio-unit is placed at the drone control center. In case of a suspected
+      OHCA in the service area and will be alerted by the dispatch centre (SOS alarm) when a
+      suspected OHCA is recognized during the 112-call.
+
+        -  The dispatcher identifies a cardiac arrest in the service areas
+
+        -  A pilot (from Everdrone) immediately initiates deployment protocol for the drone.
+
+        -  Parallel communication is made with the air traffic control (ATC) centre in order to
+           grant permit to deploy the drone with regards to the current weather and aviation
+           situation.
+
+        -  The drone then flies to the coordinates of the OHCA and delivers an AED at the scene
+           using a winch system
+
+        -  The AED may be attached to the patient by the bystander on scene
+
+      Development of the technology is made by Everdrone AB Göteborg and SOS Alarm AB (national
+      dispatch organisation) and parallel applications for certificates for the individual aircraft
+      and permits for beyond visual line of sight flights (BVLOS-flights) was granted by the
+      Swedish Transportation board on 27 April 2020.
+
+      The drone system is operated only during daytime 08:00-22:00 when the Airport Air traffic
+      control is open. Likewise deployment of the drone will not be made if there is a conflict in
+      the airspace with manned aircrafts. Rainy weather or winds exceeding 8 m/s prohibits flights
+      as well.
+
+      Feasibility is evaluated and measured from the following aspects:
+
+        1. Operational factors Weather: a) rain, b) wind c) other. Conflict in airspace: a) manned
+           aircraft b) unmanned aircraft. Obstacles prohibiting flight or delivery: a) constructed
+           b) natural Time from dispatch to to take- off (min:sec). Time from dispatch to arrival
+           (min:sec). Proportions are measured out of cases with a) Take-off b) no take-off c)
+           aborted missions (%)
+
+        2. Human resources Adherence to protocol by: a) Dispatcher b) Drone pilot c) Air traffic
+           leader. Proportions are measured out of cases with neglected protocol prohibiting
+           mission completion, a) no alerts b) no take off c) aborted missions (%)
+
+        3. Technological functionality Drone, winch, Network, AED, Hangar, navigational software,
+           global positioning system precision, Dispatch centre system (CoordCOM -Dispatch centre
+           automated alert).
+
+      Proportions are measured out of cases where technological functionality prohibited mission
+      completion a) no take-off b) aborted missions. (%)
+
+      Adverse advents (AE) and serious adverse events (SAE) in relation to AED-drone mission /use
+      will be logged continuously. An adverse event may be caused by drone crash or risc of injury
+      or death due to conflict in airspace or technological impairment.
+
+      An AE is considered serious if it:
+
+        -  Results in death
+
+        -  Is immediately life-threatening
+
+        -  Requires hospitalisation or prolongation of existing hospitalization
+
+        -  Results in persistent or significant disability or incapacity
+
+      Events that are related to the patient in cardiac arrest and would be expected in patients
+      undergoing attempted resuscitation should NOT be reported. These include:
+
+        -  Death
+
+        -  Hospitalisation
+
+        -  Persistent or significant disability or incapacity
+
+        -  Organ failure
+
+      All events categorised as serious must be reported to the study administration within 24
+      hours of becoming aware of the event.
+    
+  

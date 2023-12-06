@@ -1,0 +1,24 @@
+
+    
+      Exercise remains a challenge to AP systems; more specifically, by the time exercise is
+      detected it is often too late to avoid hypoglycemia without the ingestion of rapid
+      carbohydrates or the use of rescue injections, such as glucagon. To this avail, the
+      investigators propose to add a novel Model Predictive Control module to the proven USS
+      system. This module is designed to compute insulin doses every 5 minutes that are designed to
+      "optimally" maintain glycaemia around a target of 120mg/dL. The optimality is defined
+      mathematically as minimizing deviations from basal rate injections and the distance between
+      current and future (up to 2h) glycaemia from a physiologically feasible trajectory back down
+      (or up) to a pre-specified target. Furthermore, the novel control system, labelled Multi
+      Stage MPC or Ensemble MPC, accounts for a preset number of exercise scenarios during the
+      prediction horizon, these scenarios being derived from the user historical record; this setup
+      allows the control system to anticipate expected exercise bouts up to 2h in advance while
+      maintaining the condition for optimal glycemic control.
+
+      By adding such module to a well validated system, the investigators expect an improvement in
+      protection against hypoglycemia during and immediately after physical activity without
+      increase in hyperglycemia. To demonstrate the feasibility of this approach, the novel
+      anticipatory system will be compared to a naïve AP system during highly supervised hotel
+      admissions with afternoon exercise. Participants will be asked to exercise regularly in the
+      late afternoon during a month of data collection to generate the patterns to be anticipated.
+    
+  

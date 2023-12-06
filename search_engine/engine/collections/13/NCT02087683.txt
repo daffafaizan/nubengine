@@ -1,0 +1,85 @@
+
+    
+      The protocol will be held in three different Hospitals from Monterrey. Those patients with
+      heart failure will be invited to participate; serum vitamin D will be measured, and those
+      with vitamin D deficiency will be participating, once they meet all the inclusion criteria
+      and none of the exclusion criteria, and sign an informed consent.
+
+      Patients will be assigned to the intervention group or placebo group according to their
+      characteristics so that both groups are equally balanced in proportion to similar
+      characteristics and number to guarantee homogeneity in both groups at baseline.
+
+      The study will have a 12-month time frame for each patient. Patients can be enrolled at
+      different times.
+
+      All patients will undergo:
+
+        -  A baseline measurement of vitamin D concentration in plasma and then every three months
+           (according to season changes) for a total of five measurements.
+
+        -  Myocardial function and structure measured by magnetic resonance with contrast media at
+           baseline and end of intervention.
+
+        -  Heart failure clinical follow-up with a 6 minute walk test, arterial pressure and
+           clinical parameters every month.
+
+        -  A baseline measurement of serum BNP and then every three months (5 in total).
+
+        -  Serum lipid profile, glucose and insulin measurements at baseline, intermediate and at
+           the end of the intervention.
+
+        -  Anthropometric measurements (weight, body mass index, waist circumference, body fat
+           percentage) every month.
+
+        -  A baseline measurement of inflammatory cytokines in serum and then every three months (5
+           in total).
+
+        -  Serum PTH and calcium measured at baseline and end of intervention
+
+      At the end of the intervention, patients in the control group will receive vitamin D
+      supplementation of 5 000 IU per day for a whole year, so they receive the same benefits as
+      the intervention group.
+
+      Definitions:
+
+      Heart failure defined as patients with ventricular ejection fraction less than 40 percent,
+      serum B natriuretic peptide >300 milligrams/milliliters.
+
+      Vitamin D deficiency defined as serum vitamin D levels below 30 nano-grams per milliliter.
+
+      According to the New York Heart Association (NYHA) Classification System:
+
+        -  NYHA III defined as marked limitation of physical activity
+
+        -  NYHA IV defined as symptoms occur even at rest; discomfort with any physical activity.
+
+      Statistical analysis plan:
+
+      Comparison and p-value measured at baseline and end of intervention will be done with paired
+      t-test for means and McNemar test for proportions.
+
+      According to the central limit theorem and the big sample size, there will be no need to
+      evaluate normality for the variables; non-parametric rank test with Wilcoxon sign won't be
+      necessary.
+
+      For comparison between independent groups, homogeneity of variance will be evaluated using
+      parametric F test for variables with a normal distribution and with non-parametric Levene
+      test for continuous variables with an abnormal distribution, to compare the means through
+      t-test. Mann-Whitney test won't be necessary for the same reasons listed above.
+
+      For comparison of proportions between independent groups will be held with the hypothesis
+      test based on the statistic Z-test, and Fisher test for small samples.
+
+      The relation between variables measured in the study with our variable serum vitamin D level,
+      will be done through Pearson's correlation coefficient and a multiple linear regression. That
+      regression will be evaluated through parametric and non-parametric tests with diagnosis of
+      autocorrelation, homoscedasticity and multicollinearity. Regression analysis will be done
+      every time a vitamin D measurement is done (5 in total)
+
+      All results will use a significance level of 0.05, equivalent to possibility of type 1 error.
+
+      Minitab version 16 software (Minitab Inc, State College, Pennsylvania, USA) will be used for
+      statistical analysis, and Microsoft Excel 2007 (Microsoft Corp., Redmond, Washington, USA)
+      will be used to incorporate the input of date.
+    
+  
