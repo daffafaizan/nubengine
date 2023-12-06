@@ -32,8 +32,8 @@ class BSBIIndex:
         self.term_id_map = IdMap()
         self.doc_id_map = IdMap()
         self.base_dir = os.path.dirname(os.path.abspath(__file__))
-        self.data_dir = os.path.join(self.base_dir, data_dir)
-        self.output_dir = os.path.join(self.base_dir, output_dir)
+        self.data_dir = (data_dir)
+        self.output_dir = (output_dir)
         self.index_name = index_name
         self.postings_encoding = postings_encoding
         nltk.download('stopwords')
@@ -307,7 +307,6 @@ class BSBIIndex:
 
         with InvertedIndexReader(self.index_name, self.postings_encoding, self.output_dir) as reader:
             N = len(reader.doc_length)
-            avdl = sum(reader.doc_length.values()) / len(reader.doc_length)
 
             for token in preprocessed_tokens:
                 if token in self.term_id_map:
