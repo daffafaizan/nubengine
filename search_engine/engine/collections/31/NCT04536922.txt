@@ -1,0 +1,83 @@
+
+    
+      Background:
+
+        -  The administration of autologous tumor-infiltrating lymphocytes (TIL) can mediate
+           complete, durable regressions in 20-25% of patients with metastatic melanoma. Recent
+           studies have shown that these TIL predominantly recognize unique mutated or viral
+           neoantigens expressed by the cancer not shared by other melanomas.
+
+        -  Administration of bulk autologous TIL to patients with a variety of other solid cancers,
+           including cancers of the gastrointestinal tract and genitourinary tract, have little if
+           any therapeutic impact.
+
+        -  Recent studies in the National Cancer Institute Surgery Branch (NCI-SB) have shown that
+           TIL from non-melanoma solid cancers can also contain T-cells reactive against nonshared
+           unique mutated neoantigens expressed in the cancer. The frequency of these Tcells is
+           very low (often < 0.1%) and it is thus difficult to isolate and grow mutation reactive
+           T-cells to levels required for effective therapy.
+
+        -  In a single patient with chemo-refractory metastatic cholangiocarcinoma, we were able to
+           grow a relatively pure population of neoantigen reactive TIL and administration of these
+           cells mediated a near-complete regression of all metastatic disease now lasting 2.5
+           years.
+
+        -  We have developed approaches to identify rare neoantigen reactive T-cells from common
+           non-melanoma cancers, to isolate their T-cell receptors (TCR), and to genetically
+           engineer autologous peripheral blood lymphocytes (PBL) to express these TCRs with high
+           efficiency. The neoantigen TCR gene-modified cells can recognize and destroy the
+           autologous cancer in vitro.
+
+        -  In addition to reactivity to neoantigens derived from nonsynonymous mutations, T-cells
+           can recognize human papilloma virus (HPV) epitopes in patients with HPV-induced cancers.
+           The TCR from these reactive cells can be isolated and retrovirally-transduced into
+           autologous PBL with high efficiency. This clinical protocol will treat a single patient
+           with refractory anal cancer using the adoptive transfer of autologous PBL transduced
+           with genes encoding TCRs that recognize unique mutated or viral neoantigens expressed by
+           the cancer.
+
+      Objective:
+
+      -Under a single-patient IND, to treat a patient with metastatic HPV-16 positive squamous cell
+      anal cancer with autologous peripheral blood lymphocytes (PBL) that have been transduced with
+      genes encoding T-cell receptors that recognize mutated or viral neoantigens in the autologous
+      cancer.
+
+      Eligibility:
+
+        -  Must have measurable, metastatic disease as assessed per RECIST v1.1 criteria.
+
+        -  Must sign the informed consent document.
+
+        -  Willing to sign Durable Power of Attorney Form.
+
+        -  Must have all regulatory approvals prior to start of treatment.
+
+      Design:
+
+        -  This patient will have already undergone resection or biopsy to obtain tumor for
+           generation of autologous TIL cultures. This will have been conducted under the NCI-SB
+           cell harvest protocol 03-C-0277 (Cell Harvest and Preparation for Surgery Branch
+           Adoptive Cell Therapy Protocols).
+
+        -  Exomic sequencing and RNA-Seq will be performed to identify the mutations expressed in
+           the patient s cancer. Multiple autologous TIL cultures will be grown and tested for
+           reactivity against mutations from the autologous tumor using assays we have developed
+           that involve the exposure of autologous antigen-presenting cells to long peptides
+           containing the mutation or tandem mini-genes encoding the mutation.
+
+        -  T-cell cultures with reactivity against mutated and viral neoantigens will be identified
+           and the individual T-cell receptors that recognize the neoantigens will be synthesized
+           and used to create retroviral supernatants for transduction of the TCR into the patient
+           s autologous PBL.
+
+        -  The patient will be treated with a non-myeloablative, lymphodepleting preparative
+           regimen of cyclophosphamide and fludarabine, followed by the infusion of autologous
+           transduced PBL and then high-dose aldesleukin. The patient will also receive
+           pembrolizumab on Day -2 prior to cell administration and three additional doses every
+           three weeks following the cell infusion.
+
+        -  Clinical and immunologic response will be evaluated about 4-6 weeks after cell infusion
+           and periodically thereafter.
+    
+  

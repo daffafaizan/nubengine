@@ -1,0 +1,22 @@
+
+    
+      Depth of anesthesia monitors are increasingly used in clinical anesthesia practice.
+      Bispectral Index (BIS) and M-Entropy are examples to these devices, both of which are
+      available at our institution. Both BIS and M-Entropy use a unilateral, single channel of EEG
+      to derive a number indicating the anesthetic depth. These devices have similar disposable
+      skin probes that can be applied on either side of the forehead. Since the depth of anesthesia
+      for an individual is the same over the whole brain cortex at a given point in time, BIS
+      numbers obtained over the left and right side of the forehead should agree. The same should
+      be true for M-Entropy as well.
+
+      A recent study, however, showed that two separate BIS probes, applied over the left and right
+      forehead of the same patient at the same time, can give significantly different numbers. This
+      has not been studied for M-Entropy. BIS and M-Entropy use different mathematical algorithms
+      that process the raw EEG signal to compute a numeric value. Therefore, it is possible that
+      M-Entropy may show different results in a similar study setup.
+
+      The aim is to investigate the same-patient reproducibility of M-Entropy by monitoring and
+      recording Entropy variables over both the left and the right side of the forehead of patients
+      under general anesthesia.
+    
+  

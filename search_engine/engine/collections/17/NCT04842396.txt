@@ -1,0 +1,43 @@
+
+    
+      INTRODUCTION. Aging is a risk factor for most chronic diseases, and the presence of more than
+      two diseases (i.e., multimorbidity), which is frequent in almost two out of three older
+      adults, has been related to an increased risk of disability and frailty, a decrease in
+      quality of life, and mortality. Physical activity (PA) acts as a nonpharmacological
+      intervention and regular physical activity (rPA) reduces rates of all-cause mortality,
+      compresses morbidity, decreases healthcare costs, and has relatively minimal adverse effects
+      compared to drugs. It has been estimated that 27.5% of the world's population in 2016 did not
+      meet the recommendations established for the member states of the World Health Organization
+      (WHO) for health-enhancing physical activity. Furthermore, recent studies showed that
+      moderate-intensity physical activity may be sufficient for reducing the risk of all-cause
+      dementia and that some of the protective benefits of physical activity for older adults. It
+      seems indispensable to study adequate doses of exercise for older people who often have low
+      levels of physical activity and fitness, who spend a large amount of time sitting down, and
+      whose multimorbidity keeps them away from exercising.
+
+      OBJECTIVE: To study the effects of perception-regulated low-volume and low-to-moderate
+      intensity training on body composition, hemodynamic parameters, and functional performance in
+      older adults with multimorbidity.
+
+      MATERIAL AND METHODS: The study is a 2 x 2 randomized controlled trial using a two-group
+      design (exercise vs. control) and two repeated measures (pre- vs. postintervention). The
+      exercise group is requested to accomplish on the MOTOmed Muvi, a low volume (i.e., 20
+      minutes, 3 days per week) and low-to-moderate intensity combining upper and lower limb
+      recumbent cycling training for six weeks. Participants are evaluated to examine the changes
+      in body composition, functional performance, and resting cardiovascular state. Furthermore,
+      participants are monitored physiologically during each session (HR and blood pressure) to
+      control any possible adverse effects. Participants are recruited at the Gerontological
+      Complex La Milagrosa (A Coruña, Spain), consisting of a daycare center and a nursing home. 24
+      participants will be recruited and randomly placed into two groups: the exercise group (EG,
+      n=12) and the control group (CG, n=12). A stratified permuted block randomization is employed
+      that accounted for the GDS score, sex, and type of institutionalization.
+
+      DATA ANALYSIS AND STATISTICS: Data will be presented as the median and interquartile range
+      for ordinal variables and the estimated marginal mean ± standard deviation (SD) for
+      continuous variables. The effect of the intervention will be analyzed employing nparLD
+      (nonparametric analysis of longitudinal data in factorial experiments) from the R software
+      package. Changes within and between groups will be analyzed by employing mixed models for
+      repeated measures designs with the module GAMLj, which uses the R formulation of random
+      effects as implemented by the lme4 R package in Jamovi software.
+    
+  

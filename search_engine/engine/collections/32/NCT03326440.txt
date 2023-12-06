@@ -1,0 +1,28 @@
+
+    
+      The Oncology Department at the Royal Stoke University Hospital is a state of the art
+      facility. It has radiotherapy (RT) facilities such as IMRT and rapid arc, leading the way in
+      RT planning and delivery. The Investigators want to further their expertise and public
+      involvement in RT planning with this proposal.
+
+      This study follows a pilot study in which patients receiving RT were shown how treatment is
+      planned and given using a 3 dimensional (3D) imaging system. It was noticed that patients
+      with prostate cancer entering the pilot study might have been more compliant (holding water
+      before each treatment session) than those with prostate cancer not entering the study. On
+      this basis, the investigators wish to run this project in which prostate cancer patients will
+      be shown how RT is planned and given using 3D images prior to start RT (study arm, 170
+      patients) or after completion of RT (control/standard arm, 170 patients). A sample size
+      calculation was performed (see below) in order to distinguish a 10% improvement in retention
+      of bladder volume over the course of treatment.
+
+      RT planning will be carried out using standard procedures at the Oncology Department.
+      However, each study patient's CT Scan image will be placed in the Virtual Environment for
+      Radiotherapy Training (VERT) system. The original images will not be altered and will be
+      presented using the established JImage Dicom libraries. 3D models will be constructed from
+      the CT Images. The system allows moving the 3D images using a mouse. Planning CT Scans will
+      be taken prior to RT, on the first 3 days, and once weekly during RT to measure bladder
+      volumes (this is standard practice and no patients will have extra CT Scans). The
+      investigators will assess whether patients in the study arm were more compliant in holding
+      water when compared to control cases.
+    
+  

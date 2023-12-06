@@ -1,0 +1,80 @@
+
+    
+      Prescription opioid overdose has emerged as a leading cause of death in the general
+      population. Opioid-based therapy represents a corner-stone of post-operative pain management.
+      With increasing emphasis on robust pain therapy, sales of opioid medications have increased
+      four-fold in the last decade. Parallel to this rise, opioid-associated deaths have also
+      quadrupled. The investigators have shown that long-term opioid use occurs in up to 22% of
+      patients following surgery. Over-prescribed opioids after surgery can create a reservoir of
+      opioids that become available for non-medical use. Effective strategies to maximize
+      non-opioid pain therapy and to limit such a reservoir are lacking. Thus, there is an urgent
+      need to individualize post-operative pain therapy and reduce reliance on opioids.
+
+      Converting knowledge on actual need for opioid pain medications after surgery into tangible
+      benefits can prevent over-prescription of opioids that become available for non-medical use.
+      The objective of this study is to prescribe pain medications after surgery in a
+      patient-centered fashion. The investigators will use the average amount of opioid medications
+      (in oral morphine equivalents - OME) taken in the last 24 hours prior to discharge to inform
+      and design a clinical decision support tool. This tool will reduce the amount of opioid
+      medications prescribed while maintaining patient post-operative pain control. The calculated
+      "last 24 hour OME dose" will be applied to generate a recommendation for the prescription of
+      a cumulative opioid dose that will be shared with the provider when the post-discharge pain
+      medication is made, e.g. via displaying the last 24-hour opioid use in the electronic health
+      record (EHR). The rationale is that testing of such a decision-making tool will lay the
+      groundwork to translate the findings of this project into more secure and efficient opioid
+      prescribing practices to a system-wide level. Upon completion, the investigators expect to
+      have developed an effective decision-making tool to help providers estimate required pain
+      medication following patient discharge.
+
+      The investigators will perform a randomized clinical trial (RCT) of an Electronic Health
+      Record (EHR)-based recommendation to prescribe opioids at discharge according to the recorded
+      last 24-hour inpatient use according to current recommendations and evaluate its effect on
+      the amount of opioids prescribed as well as pain control after discharge.
+
+      Using the University of Colorado Hospital Epic/Clarity database, the investigators will
+      continuously identify all patients who underwent Cesarean section surgery at University
+      Hospital. Patients will be approached regarding interest in the study prior to hospital
+      discharge.A trained Professional Research Assistant or other provider will explain the study
+      and obtain informed consent from prospective participants. After consent, demographics and
+      the best contact information will be collected from those enrolled patients who indicate they
+      are interested in completing the surveys after their hospital discharge.
+
+      The investigators expect 44 patients to complete all four weekly surveys and define the
+      intent-to-treat sample as patients who complete one or more surveys (providing at least one
+      observation to be used in analyses). To conservatively allow for increased variability due to
+      attrition, 54 patients will be randomized equally electronically to intervention
+      (prescription tool) or no intervention (prescription as usual). The investigators will use an
+      electronic randomization scheme created so that the principal investigator and statistician
+      can remain blind to assignment.
+
+      In the intervention group (Arm 2), at the time of writing the prescription for a patient, the
+      provider will be informed that a patient may be considered for a lower post-discharge opioid
+      dose (No opioids for patients who did not take any opioids in the last 24 hours, and 10
+      oxycodone 5mg tablets, for patients having taken equal or less than 22.5 MME (morphine
+      milligram equivalent), e.g. 1-3 oxycodone 5mg tablets in the last 24 hours.) In the control
+      group (Arm 1), providers will receive a message to consider prescribing the usual medications
+      for pain management after discharge. Final dosing decisions and drug choices will remain at
+      the discretion of the treating provider and decisions will be tracked. For this pilot study,
+      the provider information (best practice alert - BPA) will be operationalized via a written
+      recommendation on paper handed to the provider by study staff in a sealed envelope that the
+      provider will be asked to open and read. Alternatively the BPA may be presented
+      electronically using a screen. Providers will be asked to acknowledge that they read the BPA
+      by closing the window or opening the envelope.
+
+      One week after hospital discharge interested patients will be contacted and asked to complete
+      the first of four surveys. All communication will be available in English. Patients will be
+      paid with a $10 gift card or money order equivalent to complete the study assessments using
+      REDCap at each of the four weekly follow-up time points ($40 total). All enrolled patients
+      will complete the weekly post-discharge surveys within REDCap or hard copy if they do not
+      have internet access.
+
+      The study team will contact all subjects ~2 weeks after discharge to ask about pain
+      management and monitor the need for secondary prescriptions from providers to ensure that no
+      significant under-prescription of opioid medications after surgery occurs.
+
+      The investigators will seek follow-up with providers about the usefulness and acceptability
+      of the EHR-based intervention. Providers will be surveyed with a REDCap survey using a
+      modified version of the GUIDES checklist, which provides a tool to improve the successful use
+      of guideline-based computerized clinical decision support.
+    
+  

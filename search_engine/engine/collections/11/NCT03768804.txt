@@ -1,0 +1,67 @@
+
+    
+      Heart failure represents a significant health problem, with the last national heart failure
+      audit demonstrating prevalence in the United Kingdom of 900,000 patients, accounting for 5%
+      of all acute hospital admissions. This is expected to increase with an ageing population.
+      Despite improvements in medical therapy, prognosis remains poor, with an in- hospital
+      mortality of 9.6%, and an estimated mortality of 30-40% at 1 year after diagnosis.
+
+      Multiple randomised controlled trials have demonstrated that cardiac resynchronization
+      therapy pacemaker devices ("CRT") are an effective therapy for patients with poor pumping
+      function and altered electrical conduction of the heart (left bundle branch block, "LBBB"),
+      improving both morbidity and mortality. However, only 60-70% of patients notice a symptomatic
+      improvement with CRT and even in patients who do respond, response can often be improved
+      further by optimising how the device is programmed.
+
+      CRT devices improve coordination of heart pumping by pacing both ventricles of the heart. A
+      key function of this is to coordinate the timing of contraction of the the atria and the
+      ventricles (atrio-ventricular, or "AV", optimisation). This allows maximal filling of the
+      left ventricle with blood. More recently, it has become important not only in standard
+      bi-ventricular ("BiV") pacing, but to allow left ventricular pacing to be timed with
+      intrinsic conduction to the right ventricle to provide CRT (so called 'fusion' pacing).
+
+      Multiple methods have been described to assess AV optimisation, including echocardiographic
+      measurements. However, echo based methods are labour intensive, and their value is uncertain.
+      Device algorithms utilising analysis of the intra-cardiac electrogram ("IEGM") have become an
+      attractive alternative due to their rapid and automated nature, although evidence suggests
+      that they may not have clinical benefit over using fixed AV delays. In addition, intrinsic AV
+      conduction is known to alter with exercise, normally becoming shorter. Optimisation of AV
+      delays in CRT on exercise has been shown to improve cardiac output. Device algorithms can
+      therefore allow dynamic adjustment of AV delays as they change with exercise and heart rate
+      (rate-adaptive AV delay or "RAAVD"). Indeed, use of individually tailored RAAVD in CRT
+      patients has demonstrated an increase in exercise capacity.
+
+      Patients with heart failure and LBBB often have normal intrinsic right ventricular activation
+      through the right bundle. Utilization of timed left ventricular ("LV") pacing to merge (or
+      fuse) with this intrinsic conduction may confer benefits over standard BiV pacing, but
+      requires relatively normal intrinsic AV conduction as well as correct timing of LV pacing to
+      right ventricular ("RV") activation. Algorithms now exist which allow dynamic reassessment of
+      intrinsic conduction and so adjustment of the optimal AV delay. They can therefore compensate
+      for changes in the intrinsic AV delay on exercising, and so maintain adequate fusion pacing
+      and CRT optimisation. One such software algorithm is SyncAV, developed by Abbott (Abbott
+      Vascular, 3200 Lakeside Drive, Santa Clara, California 95054-2807). SyncAVTM assesses
+      intrinsic AV conduction every 256 beats. It then sets a shorter programmed AV delay by
+      subtracting a set period (known as the "delta" - adjustable but nominally set to 50ms) from
+      the intrinsic time.
+
+      There is some evidence that fusion pacing gives benefit in terms of both acute pumping
+      function of the heart and long term response to CRT. However, what remains unclear is whether
+      the effect of dynamic AV optimisation and fusion pacing is maintained on exercise. Firstly,
+      the re-analysis and adjustment intervals may be insufficient to allow effective fusion
+      throughout exercise. It is therefore possible that with rapidly changing heart rates this
+      coordinated timing is lost, leading to inefficient conduction of electricity through the
+      heart. This could result in large periods of time on exercising without effective CRT and so
+      poor exercise tolerance. Secondly, there is evidence that in patients with heart failure AV
+      intervals do not alter with change in heart rate in a similar way to healthy controls. One
+      study found that the degree of change is greater on exercise, whilst one demonstrated that in
+      a CRT population only a third of patients had shorter optimal AV delay intervals on exercise,
+      with a third being unchanged and a third longer. The use of a fixed "delta" in SyncAVTM may
+      therefore result in incorrect adjustment of AV intervals as intrinsic conduction changes,
+      with the effectiveness of SyncAV therefore depending on how the intrinsic interval changes.
+
+      We will use a prospective single-centre randomized single-blind crossover study to
+      investigate the effectiveness of SyncAV on exercise, by randomising participants to either
+      use of SyncAV or fixed AV delays, and then carrying out cardiopulmonary exercise testing
+      ("CPET").
+    
+  

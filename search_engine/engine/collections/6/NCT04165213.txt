@@ -1,0 +1,146 @@
+
+    
+      PHASE 1a - The Online Training Program - We will develop ten self-paced online learning
+      modules. These modules will enable OTs and RNs to participant to have anytime/anywhere access
+      to content and activities to aid their learning. The modules will include rich multimedia
+      content and interactive assessments to keep the learner engaged. The modules will allow for
+      easy packaging of the content into the latest interoperability standards for such content
+      including the latest Shareable Content Object Reference Model (SCORM) specifications, which
+      will allow for repurposing and sharing with other institutions.
+
+      To accommodate diversity of learning needs, the modules will be designed using a
+      hyperlearning model with four dimensions. The general principles will begin with the module
+      learning objectives and follow with a review of core concepts and required and/or
+      self-directed learning activities. The mini-lecture component of the modules will include
+      information on the major concepts of the module. Since the modules will be self-paced, the
+      learner can take his/her time going through them and perform in the embedded interactive
+      learning activities. The clinical reasoning dimension will provide the learner with an
+      opportunity for problem-solving and clinical decision-making. This dimension will contain
+      vignettes and case studies with questions requiring analysis and synthesis. The final
+      dimension will be evaluation/ assessment of learning outcomes. This dimension will use
+      teacher-made and standardized pre-and post-tests to assess attainment of specified learning
+      outcomes. The self-paced modules will be highly interactive featuring integrated multimedia
+      content, assessments, and learner evaluations to allow PACE staff to engage with the content
+      at a high level and practice application in simulated scenarios. Each module will require
+      approximately 45-60 minutes/module for the learner to complete. Participants can use the
+      modules separately at different times throughout a training curriculum or they can be
+      assigned at the beginning of a training time by having this information front-loaded.
+
+      To develop the modules, we will work intensely in year 01 with an instructional design team
+      at Drexel University with specialists in dementia care, the COPE program and experts in
+      simulation, use of standardized patients, and training of nurses and other health
+      professionals from Penn, Trinity Health and Jefferson. We anticipate the modules to contain
+      the following content: module 1 - introduction to COPE program, research evidence, and core
+      principles underlying the program; module 2 - overview of delivery characteristics, role of
+      RN and OT, three phases (assessment, implementation, generalizability) of the COPE program,
+      permissible adaptations; module 3 and 4-assessment phase, introduction to clinical interview
+      and all assessments and forms; module 5 and 6- implementation phase including helping
+      caregiver identify 3 problem areas, engaging in problem solving and brainstorming, developing
+      and providing an assessment report and offering prescriptions (strategies) for each
+      identified problem area; module 7 and 8 - generalizability phase or helping caregivers use
+      strategies for one problem area to address another and planning for the future; module 9-
+      developing rapport and working with family caregivers from different backgrounds, cultures,
+      living environments and relationships and helping families balance caregiving with other life
+      roles, adjusting approach by level of readiness; module 10 - challenging cases, motivational
+      interviewing, how to explain the program, how to meet caregivers where they are at and
+      provide validation and support.
+
+      Scripts for each module will be developed and shared with OTs/RNs who are not part of the
+      study but work within Trinity PACE programs. This will allow for continuous feedback loops to
+      assure that the scenarios meet the needs of PACE staff. We will compare the online program to
+      our traditional 3-day face-to-face training currently used with COPE.
+
+      The 3-day training program will be conducted by Dr. Piersol using a slide deck and case
+      presentations as we have previously done. The comparison of the two training programs is
+      described in Phase 2 and 3 below.
+
+      PHASE 1b -The Fidelity Monitoring Program- We seek to develop a scalable approach to assess
+      fidelity to the COPE Program when it is implemented in a real-world setting such as PACE
+      using computational linguistics techniques (e.g. natural language processing). The essence of
+      fidelity to the Core Principles of COPE program will be captured by using automatic
+      classification programs that evaluate both the content that should be included in COPE
+      sessions, and the style of delivery. While automatic classification programs have been
+      applied to measure quality metrics of transcribed narratives in the field of psychotherapy
+      (21), it has not been used to measure other aspects of quality- namely fidelity to
+      evidence-based practices or dementia care and caregiver supportive programs. The development
+      of the automated Fidelity Monitoring Program will occur in three steps and will be carried
+      out by a technical team consisting of an expert in content analysis, Dr. Ani Nenkova, and a
+      consultant expert in speech recognition and prosody, Dr Mari Ostendorf. Co- I Nenkova has
+      worked extensively on automatic summarization, evaluation of automatic summarization and
+      readability and linguistic style. The ultimate goal of our efforts is to develop a system
+      that- given a recording of a COPE delivery session (e.g. in real time immediately after
+      interaction between the clinician and the caregiver)- produces a three-tiered score,
+      indicating if the fidelity was 'excellent', 'acceptable' or 'problematic'. Special emphasis
+      will be given to the accuracy of identifying 'problematic' COPE fidelity which is not fateful
+      to training and may not produce the same desired outcomes as intervention delivered with
+      higher fidelity. First, we will obtain n-best list speech recognition of the COPE interaction
+      . This will help mitigate recognition errors in the next stage. Until recently, audio
+      recording transcription was fraught with challenges particularly in sessions involving two or
+      more speakers. Advances in audio signaling and speech recognition have brought technology for
+      automating language analysis within reach. Recent research has suggested that text based
+      features may be more effective than using audio features alone when classifying fidelity in
+      behavioral research (47). Automatic speech recognition software will be used to transcribe
+      sessions and the resulting words will be used in a text-based model of fidelity. All COPE
+      training, practice and implementation sessions will be audio taped with participant consent.
+      There are several of automatic speech recognition tools that we can use. We will pick the one
+      that best balances accuracy of recognition in our domain and privacy.Once the transcripts are
+      obtained, there are two approaches that we will develop and contrast: (1) comparison with a
+      reference delivery and (2) a supervised classification approach. The first has the advantage
+      of needing only a small number of excellent deliveries and several acceptable deliveries, for
+      each of the seven dimensions, while the other needs a larger set of labeled data but would
+      potentially lead to higher accuracy of prediction.
+
+      Comparison or similarity to reference (Steps A and B): Our approach will leverage techniques
+      widely used in the evaluation of automatically produced content, such as machine translation
+      and automatic text summarization. In these applications it is not feasible to track system
+      improvement with human judgments of quality. Instead, most of the progress is measured by
+      computing similarity between a set of sample reference text (i.e. what a 'good' translation
+      or a 'good' summary would be) and the system output. Such automatic evaluation approaches are
+      widely used for machine translation (48) and summarization (49). While there have been some
+      concerns that the automatic measures are not fine enough to distinguish between levels of
+      very good context, these measures show strong ability to distinguish 'very bad' content
+      (50,51), (or poor fidelity) aligns with the needs of our project.
+
+      In Step A we will compile 10 examples of 'excellent' COPE fidelity deliveries, with the
+      regions where desired aspects is expressed will be explicitly marked, i.e. marked parts where
+      person-environment fit is discussed, or parts of the interaction where the clinician asks
+      open ended questions or confirms the caregiver understanding of the content. Next, new
+      interactions will be ranked by their similarity with the reference 'excellent' interactions
+      (52). In Step 2 we will identify 'problematic' fidelity deliveries. We will make use of 10
+      negative examples of 'acceptable' but imperfect deliveries. If the new interaction ranks
+      lower than most of these, it will be considered unacceptable or 'problematic'. Parameters and
+      decision rules will be developed at this step to determine cut-off levels for declaring an
+      interaction problematic.
+
+      Determination of "excellent" versus "problematic" fidelity ratings of the audio recordings
+      will be assessed by Drs Hirshman and Renz (who were not the original developers of COPE and
+      thus they offer an independent review) using the COPE Adherence Scale developed for the
+      original clinical trial in order to evaluate the extent to which core treatment principles
+      were implemented effectively. Ratings from the Adherence Scale have been standardized such
+      that 1.00 represents perfect fidelity and 0.00 represent complete non-fidelity. The scale was
+      previously modeled off of the NIH REACH I and II fidelity approach. Findings from the
+      combined fidelity ratings will be used to refine the automated fidelity program into a "best
+      model" to be tested in Step C (53).
+
+      Supervised classification (Step C) For this approach, we will need to examine all recorded
+      sessions (600+). We will train a supervised classifier or a regression model to predict the
+      score (1 to 3, corresponding to excellent, acceptable and problematic) of a given
+      interaction. We will experiment with a number of classifiers, including deep learning
+      frameworks and more traditional support vector machine and (logistic) regression models.The
+      resulting final validation set of 100 labeled interactions will serve to finalize the best
+      model for fidelity prediction.
+
+      PHASE 2 - Evaluation of Online Training Program in Interventionist Uptake and Fidelity Phase
+      2 of this study involves a series of activities designed to evaluate the whether an online
+      training program is the same or better in improving interventionist uptake of- and fidelity
+      to- COPE principles and protocols compared to a high intensity face-to-face traditional form
+      of training.
+
+      PHASE 3 (Aim 3) - Efficacy of COPE on PACE participant outcomes by type of COPE training.
+
+      This aim will be accomplished by evaluating dyad outcomes of the COPE program under the two
+      different training approaches. Following training, each of the PACE organizations will enroll
+      5 persons with dementia and their caregivers in the study. This will yield 50 family dyads
+      (25 dyads in traditional training sites and 25 dyads in online training sites).
+    
+  

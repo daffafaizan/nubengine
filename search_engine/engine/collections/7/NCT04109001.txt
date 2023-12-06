@@ -1,0 +1,72 @@
+
+    
+      In this study the investigators will validate the impact of comorbidity on readmission to
+      intensive care unit (ICU) and mortality after ICU and which method of measuring comorbidity
+      and in which time-point it is most predictive.
+
+      The study population includes all critical care patients' registries in Swedish intensive
+      care registry (SIR) during the years 2005 to 2012 with valid personal identity number. SIR
+      delivers the population to Statistics Sweden directly or via the client for further delivery
+      to Statistics Sweden. For all individuals in the population, data are collected from
+      registers at Statistics Sweden. Statistics Sweden supplies social security numbers and serial
+      numbers to the National Board of Health for further data collection there. The National Board
+      of Health and Welfare delivers the data sample to the client who sends it to Statistics
+      Sweden for collaboration and anonymous. All data material is stored unidentified in the MONA
+      database where only persons connected to the project have access to the material.
+
+      The data set containing 293 342 observations and 223 495 unique individuals. Observations
+      which is totally covered in time by another observation are excluded. Two consecutive
+      observations with less than 24 hours between them consider as the same visit. The final set
+      of dates consists of 273 741 observations (223 495 individuals).
+
+      Patients with recurrent ICU stays during the study period were considered as recurrent events
+      that are not independent of each other. The interval between ICU discharge and readmission
+      was used both as an outcome variable and to characterize the patient at the time to
+      admission. In the analyzes the dependency between multiple admissions for the same individual
+      was handled using a robust sandwich estimator. Every ICU stay was included in the study but
+      handled as a time-updated exposure.
+
+      A composite outcome of death and readmission will be analyzed. Death and readmission will
+      also be analyzed separately. Follow-up starts at admission. A binary status variable (no/yes)
+      is created reflecting if the outcome has happened or not together with a corresponding time
+      variable. For each admission the follow-up ends with readmission, death or end of study
+      (2016-12-31) whichever comes first.
+
+      Hospital discharge diagnoses from five years preceding the index date for the ICU admission
+      were extracted from the National Board of Health and Welfare and linked to the SIR data using
+      exact person-based linkage. The Charlson comorbidity index was calculated based on this
+      information. A different categorization of comorbidity was also performed as modified based
+      from the categorization proposed by Elixhauser. For each of 36 defined comorbidity categories
+      the number of admissions with a primary diagnosis, the number of admissions with a secondary
+      diagnosis, the total length of stay with a primary diagnosis, and the interval from the last
+      admission with the comorbidity condition as a primary diagnosis, were calculated.
+
+      The underlying condition causing ICU admission was categorized according to diagnosis and
+      admitting department.
+
+      Analyzes with cox proportional-hazards regression, time to event, on the training data set
+      year 2005-2010 Charlson comorbidity index (CCI) categorical 0, 1, 2, 3-5, 6-9, 10-17
+      Elixhauser 36 categories
+
+        1. Number of primary diagnosis (count)
+
+        2. Number of secondary diagnosis (count)
+
+        3. Total care time primary diagnosis (count)
+
+        4. Time interval from latest primary diagnosis (missing, count)
+
+      Analyzes
+
+      A Age + sex B A + CCI C A + a D A + a + b E A + a + b + c F A + a + b + c + d
+
+      There was by definition no missing data in the comorbidity variables. Missing information
+      concerning age and sex were minimal and did not require imputation. The proportional hazards
+      assumption was checked using the Kaplan-Meier Curves.
+
+      The study population will be split in a training data set (2005-10) and a test data set
+      (2011-12) for validating our prognostic model. The predictive ability in the test data set
+      were evaluated based on discrimination, area under curve (AUC) (C index), Calibration and
+      Brier score.
+    
+  

@@ -1,0 +1,70 @@
+
+    
+      1. Acquisition of tumor samples : Tissue and 10ml of blood will be collected for genomic
+           examination of those histologically diagnosed with early gastric cancer or precancerous
+           gastric adenoma lesion, and additional tissue and blood will be collected at 2 months, 1
+           year after treatment, and recurrence.
+
+        2. Suitability of tmor samples
+
+           : Tumor areas (> 60%) are dissected under microscopy from 4-μm-thick unstained sections
+           by comparison with an H&E stained slide, and genomic DNA was extracted using a Qiagen
+           DNA FFPE Tissue Kit (Qiagen, Hilden, Germany) according to the manufacturer's
+           instructions. After extraction, we measured concentrations and 260/280 and 260/230 nm
+           ratios using a spectrophotometer (ND1000, Nanodrop Technologies, ThermoFisher
+           Scientific, MA, USA). Each sample was then quantified with an Qubit fluorometer (Life
+           Technologies, Carlsbad, CA, USA). Samples of genomic DNA with more than 10 ng measured
+           by the Qubit fluorometer were subjected to AmpliSeq library preparation. To identify
+           "druggable" CNVs, we used a 21-gene nCounter CNV assay.
+
+        3. Method of tumor molecular profiling
+
+             -  Ion Torrent PGM Amplieq Cancer Panel 2.0 : We use the Ion AmpliSep Cancer Panel
+                V2(Ion Torrent) to detect frequent somatic mutations that were selected based on
+                literature review. It examines 285 mutations in 50 commonly mutated oncogenes and
+                tumor supressor genes. First, 10ng of DNA from each 89 FFPE tumor samples underwent
+                single-tube, multiplex PCR amplication using the Ion AmpliSepCancer Primer Pool and
+                the AmpliSepKit reagents (Life Technologies).Treatment of the resulting amplicons
+                with FuPa Preagent partially digest the primers and phosphorylate the amplicons.
+                The phosphorylate the amplicons are ligated to Ion dapters and purfied. For
+                barcoded library preparation, we substitite barcoded adapters from the Ion XpressTM
+                Library Kit. The ligated DNA undergose nick translation and amplication to complete
+                the linkage between adapters and amplicons and to generate sufficient material for
+                dowmstream template treparation. Two rounds of Agencourt® AMPure® XP Reagent
+                binding at 0.6 and 1.2 bead- to- sample volum ratios removed input DNA and
+                unincorporated primers form the amplicons. The final library molecules are
+                125-300bp in size. We then transfer the libries to the Ion OneTouchTM system for
+                automated template preparation. Sequencing is performed on the Ion PGMTM sequencer
+                according to the manufacturer's instructions. We use IonTorrent Software for
+                automated data analysis.
+
+             -  nCounter copy Number Variation CodeSets : We custom designed a 21-gene CNV assay as
+                outlined in a previous study. The 21 genes included AURAKA, CCND1, CCNE1, CDK4,
+                CDK6, CDNK1A, CDNK2A, EGFR, ERBB2, ERBB3, FGFR1, FGFR2, IGFR1R, KLF5, KRAS, MDM2,
+                MET, MITF, MYC, PIK3CA, and TNIK. For detection of CNVs, nCounter Copy Number
+                Variation CodeSets were used with 200 ng purified genomic DNA. DNA was fragmented
+                via AluI digestion and denatured at 95°C. Fragmented DNA was hybridized with the
+                codeset of 21 genes in the nCounter Cancer CN Assay Kit (Nanostring Technologies)
+                for 18 h at 65°C and processed according to the manufacturer's instructions. The
+                nCounter Digital Analyzer counted and tabulated the signals of reporter probes.
+                Quantified data were analyzed using NanoString's nSolver Analysis Software.
+
+             -  Immunohistochemistry
+
+                : RET, ATM, PD-L1, FGFR2, MLH, EGFR, ALK, ROS, TRKA. MET, HER2, PTEN loss
+                (EGFR,CCNEI in selected cases)
+
+             -  Cancer Scan
+
+                : targeted deep sequencing at Samsung Genome Institute
+
+                : Illumina HiSeq2000/2500-based, MiSeq NGS targeted sequencing
+
+             -  ASFA™ Spotter
+
+        4. Statistics : Analysis of genetic research is primarily technical. Data are presented
+           using summary statistics tables and graphs. The total disease-free survival period is
+           calculated by the Kaplan-Meier method through medical records of subjects who have
+           undergone endoscopic resection.
+    
+  

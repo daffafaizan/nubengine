@@ -1,0 +1,81 @@
+
+    
+      This will be a historical prospective comparative effectiveness clinical trial where the
+      investigators plan to leverage their experience in extracting data from the EMR as well as
+      creating robust CDS pathways in order to create and implement a pathway to promote use of
+      best respiratory care in patients receiving general anesthesia who are at increased risk for
+      postoperative respiratory dysfunction. The overall study will consist of two parts:
+
+        1. Retrospective data analysis: The investigators will utilize the Perioperative Data
+           Warehouse, a custom-built data warehouse, to study the effect of the introduction of
+           sugammadex, a direct reversal agent for rocuronium, into clinical practice on time to
+           "fitness for discharge" from the recovery room, as noted by the time the
+           anesthesiologist places the discharge order, before and after intervention and
+           postoperative respiratory dysfunction (as defined as duration of oxygen saturation below
+           90% in the PACU).
+
+        2. Creation and implementation of a pathway to prevent postoperative respiratory
+           dysfunction: The investigators will design and implement a perioperative decision
+           support system which will identify high-risk patients and provide best practice
+           recommendations via electronic clinical decision support reminders.
+
+      Creation and implementation of a pathway to prevent postoperative respiratory dysfunction:
+
+      In order to improve outcomes for high-risk patients who receive general anesthesia and
+      paralysis the investigators will design and implement a perioperative decision support system
+      which will identify high-risk patients and provide best practice recommendations via
+      electronic clinical decision support reminders. While the exact parameters of the pathway
+      will be designed based upon feedback from a group of quality leaders in the department, in
+      general the pathway will function as follows:
+
+      When the anesthesiologist completes the preoperative evaluation for a patient who is flagged
+      as having either respiratory disease or OSA and will receive general anesthesia, the
+      anesthesiologist will receive an alert reminding them of the best practice guidelines for
+      pulmonary management in high-risk patients. As part of the study roll-out the investigators
+      will present these guidelines with their quality committee, but anticipate that they will
+      suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use
+      of objective train of four monitoring throughout the case and to confirm reversal 3) use of a
+      tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP.
+
+      The investigators anticipate running the prospective portion of the study for a one year data
+      collection period. Specifically, they will allow a one month "wash out" period for pathway go
+      live, followed by one year of data collection during which the pathway is live.
+
+      STUDY PROCEDURES
+
+      Pathway Design
+
+      The design of the pathway will undergo a well-established process that is designed to ensure
+      buy-in and support from a large variety of providers within the Department of Anesthesiology
+      and Perioperative Medicine at UCLA. The investigators will create a core group of individuals
+      who represent key stakeholders in quality, informatics, and clinical decision making
+      throughout our department. This group will be in charge of reviewing the existing literature
+      and creating the pathway guidelines and associated decision support. The decision support
+      will consist of preoperative alerts for high risk patients, intraoperative reminders for
+      events such as ventilator settings and reversal as well as postoperative feedback on
+      performance of identified best practices and outcomes. This pathway will include the
+      recommendation of the use of sugammadex to reverse neuromuscular blockade and use of
+      objective train of four (TOF) monitoring in high-risk individuals.
+
+      This core group will then present the recommended pathway for approval to our quarterly
+      Quality Council and then broader Faculty Meetings for approval. The investigators estimate
+      that the total time for pathway design and creation will be approximately 6 months.
+
+      Pathway Implementation
+
+      After approval, the investigators will work with the EMR build team in order to ensure the
+      necessary modification to the EMR. After the modifications are complete, the investigators
+      will establish a "go-live" date. After an initial period during which the investigators will
+      accommodate feedback and ensure that the modifications were made successfully, no further
+      modifications to the respiratory pathway will be made. The investigators plan to keep this
+      pathway in place for at least one year (the study period).
+
+      Data Collection and Analysis
+
+      As noted above, the team has the ability to automatically collect the data from the EMR for
+      analysis purposes. After the one year implementation period investigators will extract the
+      data elements noted above for the study period as well as an equivalent period prior to
+      pathway implementation. The data will be analyzed for the overall application of best
+      practices before and after as well as a change in primary and secondary outcomes.
+    
+  

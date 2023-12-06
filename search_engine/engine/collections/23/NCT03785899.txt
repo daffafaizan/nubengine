@@ -1,0 +1,40 @@
+
+    
+      BACKGROUND AND OBJECTIVE In preterm infants receiving supplemental oxygen, routine manual
+      control (RMC) of the fraction of inspired oxygen (FiO2) is often difficult and time
+      consuming. The investigators developed a system for closed-loop automatic control (SPOC) of
+      the FiO2. The objective of this study is to test a revised, "new" algorithm with 3 adaptions
+      against the former "old" algorithm and against RMC. The 3 adaptions are:
+
+        1. Faster re-adjustment to baseline-FiO2 (baseline FiO2: mean FiO2 during the previous
+           5min)
+
+        2. Delayed reduction of FiO2 below baseline FiO2
+
+        3. Maximum FiO2 adjustable by user
+
+      The first primary hypothesis is, that the application of SPOCnew in addition to RMC results
+      in more time within arterial oxygen saturation (SpO2) target range compared to RMC only. The
+      a-priori subordinate hypothesis is, that the revised algorithm is more effective as the old
+      algorithm to maintain the SpO2 in the target range.
+
+      The second primary hypothesis is, that the shortening of averaging time used for the SpO2
+      Signal from 8 seconds to 2 seconds results in more time within SpO2 target range for both,
+      SPOCnew and SPOCold.
+
+      Further hypotheses for exploratory testing are, that the SPOC new algorithm will achieve a
+      lower proportion of time with SpO2 above and below the target range, hyper- and hypoxia and
+      an improved stability of cerebral oxygenation (measured as rcStO2 and rcFtO2E determined by
+      Near-infrared spectroscopy) compared with SPOCold and RMC. Reduction of staff workload
+      (estimated by number of manual adjustments per hour) by SPOC. Validation of a clinical
+      scoring tool to monitor severity of apnea of prematurity.
+
+      STUDY DESIGN The Study is designed as a single-center, randomized controlled, cross-over
+      clinical trial in preterm infants receiving mechanical ventilation or nasal continuous
+      positive airway pressure or non-invasive ventilation and supplemental oxygen (FiO2 above
+      0.21). Within a 30-hour period the investigators will compare 6 hours of RMC with 12-hour
+      periods of RMC supported by SPOCnew algorithm or SPOCold algorithm, respectively. During
+      intervals with SPOC control the SpO2 Signal averaging time will be 2 second or 8seconds ,
+      respectively, for 6 hours each.
+    
+  

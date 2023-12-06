@@ -1,0 +1,52 @@
+
+    
+      Group sequential response adaptive randomized clinical trial of concomitant chemotherapy plus
+      endocrine therapy versus cyclin-dependent Kinase 4/6 (CDK4/6) inhibitor plus endocrine
+      therapy for advanced hormone receptor-positive, HER2-negative breast cancer Primary
+      Objective: To compare the efficacy of concomitant CDK4/6 inhibitor plus endocrine therapy
+      versus chemotherapy plus endocrine therapy (administered either concomitantly from the
+      beginning or sequentially) in terms of progression-free survival (PFS).
+
+      Secondary objectives: To compare between treatment arms:
+
+        -  quality of life (EORTC quality of life questionnaire(QLQ) QLQ -C30 and QLQ-BR23)
+
+        -  toxicity (CTCAE version 5.0)
+
+        -  time to treatment failure
+
+        -  best response rate
+
+        -  duration of response
+
+        -  clinical benefit rate
+
+        -  overall survival (OS)
+
+        -  PFS and clinical benefit with the subsequent line of treatment after cross-over: CDK4/6
+           inhibitors plus endocrine therapy in patients treated with chemotherapy plus endocrine
+           therapy, chemotherapy (with or without endocrine therapy) in patients treated with
+           CDK4/6 inhibitors plus endocrine therapy
+
+        -  correlative biomarkers of response to CDK4/6 inhibitors and chemotherapy:
+
+             -  tissue markers (on the primary tumor and / or metastatic tissue)
+
+             -  circulating markers (e.g. CTCs, ctDNA)
+
+      The patients will be allocated according to block randomization until two events are observed
+      in each arm, and then according to the time-to-event adaptation of the group sequential
+      Doubly-adaptive Biased Coin Design (DBCD) whose allocation probabilities are computed at the
+      end of the block randomization and after around 70% and 85% of the 150 maximum patients are
+      enrolled during a 23 month period. At these last two (i.e. after 105 and 128 patients,
+      respectively), interim analysis on efficacy will be carried out allowing for early stopping.
+      At the end of the 16-month follow up, administrative censoring is introduced. Therefore, the
+      total study duration is 39 months.
+
+      Previous results on palbociclib and fulvestrant combination in second line and the
+      characteristics of our target population lead us to assume a median PFS of 8 and 12 months
+      for arm A and B, respectively. Under this scenario, for a sample size of at the most 150
+      patients, the proposed design strategy has led to a simulated power of 0.911 compared with a
+      0.717 one for the Complete Randomisation design.
+    
+  

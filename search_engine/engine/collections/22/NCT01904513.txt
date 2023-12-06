@@ -1,0 +1,30 @@
+
+    
+      A group of 60 first year students from the Lake Primary School will be recruited for
+      inclusion into the study. After gaining consent from the child's caregiver, each child will
+      be given a participant number and blood, urine and fecal samples will be collected from each
+      child by qualified personnel from NIMR. Children will be randomized into two groups (n=30) to
+      match age, sex and weight, one of which will receive a 100 g probiotic yogurt containing
+      Lactobacillus rhamnosus GR-1 while the other group will receive an equivalent portion of
+      milk. After 30 days of consuming the yogurt or milk, samples will again be collected.
+
+      Samples will be shipped back to London, Ontario Canada on dry ice for analysis. Blood and
+      urine will be analyzed via high-resolution sector field inductively coupled plasma mass
+      spectrometry (HR-SF-ICP-MS) to determine levels of toxic heavy metals (Mercury, Lead,
+      Cadmium, Arsenic). This will be carried out by the London Health Sciences Trace Elements
+      laboratory in Canada. Urine will also be analyzed via gas chromatography/ mass spectrometry
+      (GC-MS) to determine levels of pesticides at the Biotron Facility (University of Western
+      Ontario). We will also examine urine via NMR for potential host metabolic changes in response
+      to probiotic instillation.
+
+      Bacterial community DNA samples will be extracted and analyzed to determine the
+      gastrointestinal microbiota of the children both before and after administration of the
+      probiotic yogurt to determine the effect of the yogurt on the gut microbiome. Briefly, DNA
+      will be extracted with the Qiagen Stool DNA extraction kit and bacterial community 16S rRNA
+      genes will amplified using barcoded primers specific for a variable region within the gene.
+      The samples will be pooled and sequenced on the Ion Torrent platform (London Regional
+      Genomics Center, Canada). Reads are then processed and analyzed using custom scripts as well
+      as the Quantitative Insights Into Microbial Ecology (QIIME) tool, which is the leading
+      package for microbiota analysis.
+    
+  

@@ -1,0 +1,46 @@
+
+    
+      Anesthesia providers have been using processed EEG parameters (brain monitors) to assess the
+      depth of anesthesia for many years. The Bispectral Index (BIS®; Aspect Medical Systems,
+      Inc.), one such brain monitor, provides a direct measure of the hypnotic state of the patient
+      [1, 2]. These clinicians use the BIS value, a number ranging from 0 (very deep anesthesia) to
+      100 (awake state), to help optimize anesthetic dosing. Using BIS technology, anesthesia
+      providers may adjust anesthesia doses to provide adequate sedation while avoiding over
+      sedation, resulting in faster recovery [3] and a reduced incidence of awareness with recall
+      [4].
+
+      While BIS technology helps anesthesia providers achieve desired levels of hypnosis, they
+      currently rely primarily on monitoring hemodynamic (blood pressure and heart rate), autonomic
+      (tearing, sweating), and somatic (moving) responses to noxious (painful) stimulation as a
+      means to detect potential patient arousals. Additional analgesics (narcotics, NSAIDS) are
+      often administered in order to suppress further response to noxious (painful) stimulation.
+      Several studies have shown that noxious stimulation can also affect EEG signals, resulting in
+      increased variability in the BIS index, suggesting that information in EEG signals could
+      potentially help clinicians anticipate and detect patient response to noxious stimulation.
+
+      Ropcke et al. [5] showed that BIS values were higher with surgical stimulation than without
+      any stimulation. Other reports have shown that focal noxious stimuli in volunteers and
+      patients induce transient increases in BIS [6-9]. Many of these studies show that adding
+      analgesics suppresses the BIS response to noxious stimulation, and the level of suppression
+      achieved was related to the dose of the added drugs [6, 8, 9].
+
+      Based on these findings, it is expected that insufficient analgesia would likely result in
+      transient increases in BIS due to ongoing surgical stimulation, increasing the overall
+      variability of BIS. Recently reported findings confirm that overall variability of BIS
+      increased prior to and following intraoperative somatic events [10]. These reports also
+      identified similar increases in variability of the EMG, with the largest changes realized
+      from a Composite Variability Index (CVI) which combined the BIS variability (sBIS) and EMG
+      variability (sEMG) into a single value. Other studies have also shown an association between
+      these variability measures and postoperative pain scores [11, 12]. These studies showed that
+      sBIS, sEMG, and CVI computed over the entire surgical procedure were all higher in both
+      adults and children with worse postoperative pain scores. However, the reliability and
+      optimum method of displaying these variability scores has yet to be been determined.
+
+      The present study is designed to compare whether sBIS, sEMG, or CVI can be used to predict
+      unwanted intraoperative somatic responses to stimulation, and to determine whether these
+      values are related to patient-assessed postoperative pain scores. Our hypothesis is that
+      increases in these variability measures are associated with increased probability of somatic
+      responses. If our hypothesis is confirmed, these variability measures may help clinicians by
+      highlighting periods of inadequate analgesia.
+    
+  

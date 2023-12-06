@@ -1,0 +1,24 @@
+
+    
+      Primary Objective: To collect pressure and flow rate measurements during shunt revision
+      surgeries in human patients.
+
+      Pressure recordings of the injected fluid will be obtained using disposable off-the-shelf
+      sterile pressure transducers (which are typically used for intracranial and arterial
+      pressures monitoring) readily available in the operating room. First, the surgeon will
+      attempt to flush the catheter using the Alcyone in-line Flusher device. If this fails, the
+      surgeon may elect to attempt to flush using a standard syringe attached to the catheter. The
+      flow rates will be measured by video, recording the syringe during the flushing maneuver, and
+      then extracting plunger motion information by applying image processing on the acquired
+      videos. In the event the recording equipment is not available (in that these operations are
+      usually unscheduled and sometimes urgent), the same irrigation techniques may be used without
+      the pressure recordings.
+
+      Secondary Objective: To analyze the collected data and establish maximal allowable injection
+      pressure and flow rate. The collected data segments for each patient will be analyzed and
+      maximal values for pressure and the saline injection rate will be recorded in a spreadsheet.
+      Inter-patient variation in the results, presumably due to different degrees of occlusion,
+      will be statistically evaluated. We will also determine if any of the catheters which appear
+      occluded in the operating room resume flow with the flushing maneuvers.
+    
+  

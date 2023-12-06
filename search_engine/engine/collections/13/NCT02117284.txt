@@ -1,0 +1,48 @@
+
+    
+      Primary Objectives: To evaluate performance of the rubidium elution systems (RBES)
+      manufactured by Jubilant DraxImage (JDI); specifically using the constant-activity-rate
+      intravenous infusion of rubidium-82 from the Ruby-Fill™ generator for diagnostic imaging of
+      myocardial perfusion with PET. The V3 elution system is more highly automated, therefore
+      requiring fewer manual performance checks.
+
+      Hypotheses:
+
+        1. Performance: system operation using constant-activity infusion is adequate to achieve:
+
+             1. elution activity (82Rb) bias < 5% (V2 and V3)
+
+             2. elution activity (82Rb) imprecision < 5% (V2 and V3)
+
+             3. elution time interval (30 s) bias < 5% (V2 only)
+
+             4. elution success-rate reliability > 98% (failure-rate < 2%) (V2 and V3)
+
+        2. Daily Quality Assurance: testing procedures are adequate to document:
+
+             1. Automated generator yield (82Rb) imprecision < 10% (V2 only)
+
+             2. Automated generator breakthrough (82Sr, 85Sr) imprecision < 10% (V2 and V3)
+
+             3. Manual generator yield (82Rb) imprecision < 10% (V2 only)
+
+             4. Manual generator breakthrough (82Sr, 85Sr) imprecision < 10% (V2 only)
+
+        3. Monthly Quality Assurance: testing procedures are adequate to document:
+
+             1. Dose calibrator non-linearity < 1% (V2 and V3)
+
+             2. Dose calibrator constancy > 99% (instability < 1%) (V2 only)
+
+             3. Dose calibrator bias < 10% (V2 only)
+
+             4. Peristaltic pump calibration bias < 10% (V2 only) 2.2 Secondary Objectives: To
+                evaluate the user documentation and training reliability for:
+
+        4. Installation of the Ruby-Fill generator and Ruby-Set tubing (V2 and V3)
+
+        5. Trouble-shooting and repair of system errors (e.g. high-pressure) (V2 and V3) 2.3
+           Tertiary Objective: To evaluate patient demographics or health status effects on system
+           performance
+    
+  

@@ -1,0 +1,56 @@
+
+    
+      Metastatic breast cancer (MBC) patients from eight Italian divisions of Medical Oncology,
+      with histologically confirmed HER2-negative MBC, treated with a first-line therapy including
+      bevacizumab 10 mg/m2 i.v. on days 1 and 15 combined with first-line paclitaxel 90 mg/m2 i.v.
+      on days 1, 8 and 15, every 4 weeks, will be enrolled for the present pharmacogenetic study.
+      MBC patients treated with a first-line chemotherapy including paclitaxel without bevacizumab
+      will be also enrolled as control group.
+
+      Sites of metastatic disease will be radiologically re-evaluated according to the Response
+      Evaluation Criteria in Solid Tumors (RECIST) criteria 1.1, in patients with measurable
+      disease. In patients without measurable lesions, progression of disease will be defined when
+      new lesions appeared or when existing lesions evolved. Likewise, in the case of non
+      measurable lesions, deterioration of clinical condition not due to treatment toxicity, will
+      be defined as progression of disease.
+
+      Progression-free survival (PFS) will be defined as the period of time from the beginning of
+      the treatment to the first observation of disease progression as above described, or death
+      from any cause. All patients will be assessed for response, PFS and overall survival. Each
+      patient entering the study will sign the informed consent. The protocol has been approved by
+      ethic committee of Azienda Ospedaliera-Universitaria Pisana, Pisa, Italy, (CESM 3077/2010).
+
+      Genotyping analyses Blood samples (3 ml) will be collected in ethylenediaminetetraacetic acid
+      (EDTA) tubes and stored at -80°C. Genes and polymorphisms involved in the angiogenesis
+      pathway and already suggested as predictors of bevacizumab response, will be chosen for the
+      present analyses. Germline DNA extraction will be performed using QIAamp DNA Blood Mini Kit
+      (Qiagen, Valencia, California, USA). Allelic discrimination of genes will be performed using
+      an ABI PRISM 7900 SDS instrument (Applied Biosystems, Carlsbad, California, USA) and with
+      validated TaqMan® SNP genotyping assays (Applied Biosystems). PCR reactions will be carried
+      out according to the manufacturer's protocol. Genotyping will be not performed until an
+      adequate number of events (>80% on study population) will be reported in terms of PFS.
+
+      Statistical analysis The first aim of this retrospective analysis will be to evaluate the
+      possible role of these investigated gene polymorphisms to predict the bevacizumab response in
+      terms of PFS. The secondary end-points will be the correlations with overall survival (OS)
+      and response rate. All polymorphisms will be analyzed for deviation from the Hardy-Weinberg
+      Equilibrium (HWE) by means of comparison between observed allelic distributions with those
+      expected from the HWE by on χ2 test. Any correlation between gene polymorphisms and response
+      rate will be analyzed by the two-sided Fisher's Exact Test. The association between each
+      individual polymorphism and the most relevant clinical-pathological characteristics with PFS
+      will be tested using a Cox proportional hazards model. The Multifactor Dimensionality
+      Reduction (MDR) methodology will be applied (using version 2.0 beta 6 of MDR software
+      available on http://sourceforge.net/projects/mdr/) to investigate the role of an interaction
+      between gene polymorphisms in identifying biomarkers of paclitaxel plus bevacizumab response.
+
+      The genotype combination with the highest PFS benefit correlated with an OS improvement will
+      be chosen for further analyses. The difference in PFS between favourable genetic profiles and
+      the unfavourable genetic profiles will be assessed with the log-rank test and the
+      Kaplan-Meier method to evaluate survival curves. A Cox proportional hazards model, with the
+      possible genetic profiles and the clinical and pathological patient characteristics
+      individually correlated with the PFS, will be used to calculate the adjusted hazards ratio
+      (HR) and the 95% confidence interval (95% CI). A P value of <0.05 will be accepted as
+      statistically significant. The Kaplan-Meier and Cox proportional hazards analyses will be
+      performed using the SPSS version 17.0 (SPSS, Chicago, IL).
+    
+  

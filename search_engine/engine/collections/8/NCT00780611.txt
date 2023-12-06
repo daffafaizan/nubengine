@@ -1,0 +1,76 @@
+
+    
+      JUSTIFICATION Among the various sites affected by cancer, statistics show that lung cancer is
+      the leading cause of death among both men and women. One major reason for this is that the
+      treatment of lung cancer has not improved drastically in the past few years. Lung tumors are
+      also potentially difficult to treat with radiation therapy due the patients' respiration
+      motion causing the tumor to be mobile.
+
+      A1) Detrimental effects of respiration motion Respiration motion affects all tumor sites in
+      the thorax and abdomen, although the disease of most prevalence and relevance for
+      radiotherapy is lung cancer. Many studies have been performed to study lung-tumor motion and
+      methods to compensate for this motion during radiation treatment imaging, planning and
+      delivery. The significance of the respiration motion compensation techniques is to reduce the
+      mobility of the tumors and thereby reduce the dose to the surrounding normal structures. If
+      no motion compensation methods are used then a margin must be added to ensure adequate
+      coverage of the tumor. Large margins results in radiation delivered to a larger volume of
+      critical structures.
+
+      A2) Compensation techniques Methods that reduce respiration induced intrafraction motion
+      include active breathing control, voluntary breath-hold, deep inspiration breath-hold,
+      respiratory gated techniques, and 4D or tumor-tracking techniques.1-6 Active breathing
+      control and the deep inspiration breath hold involves the patient holding their breath. While
+      these may improve the reproducibility of the position of the tumor within the lung, it is not
+      feasible for all patients especially those that have a compromised respiratory function.
+      Respiratory gating techniques involves turning on the beam during only a small window of the
+      respiratory cycle. Thus respiratory gating reduces the intrafraction motion but does not
+      totally eliminate it. During respiratory gating, since the beam is turned on and off based on
+      the respiration signal, the treatment time may increase up to 35-40% compared to a regular
+      treatment. Since the patient has to spend more time on the table, this could introduce more
+      errors due to patient movement on the table. 4D or tumor tracking techniques has it own share
+      of issues as is discussed in the following paragraph.
+
+      A3) During 4D radiotherapy (4DRT) delivery the tumor is continuously tracked with the
+      radiation beam as they move throughout the respiratory cycle. The benefits of 4DRT are a
+      reduction in dose to the healthy lung tissue and/or an increase in dose to the tumor. The
+      gains from 4DRT are clinically measurable, though much development is needed in the various
+      steps of 4DRT i.e. CT image acquisition, planning and delivery.
+
+      During 4D CT image acquisition, images are acquired during different respiration states of
+      normal breathing.7-9 The quality of images acquired by using the 4D CT image acquisition is
+      limited by patients respiration pattern. Since the images are sorted based on the patients
+      respiration motion, any change in pattern could lead to the images being sorted to a
+      different part of respiration. This effect is reflected as an artifact on the CT image.
+
+      Target volumes along with respiration motion can be determined by contouring the target in
+      the various respiratory states thus obtaining a volume that encompasses an entire breathing
+      cycle. The efficacy and accuracy of 4D CT will be maximized when patients breathe
+      reproducibly. However it is well-known that respiration motion varies not only from one day
+      to the next but also during one fraction.
+
+      A4) Effect of irregular breathing For 4D CT, minimizing the variation of patient breathing
+      within a treatment fraction and from fraction to fraction, i.e., increasing the
+      reproducibility of patient breathing, is important. Large variation in patient respiration
+      motion and irregular breathing lead to artifacts in the CT images as shown in. However,
+      respiration motion amplitude and period vary with time and from patient to patient because of
+      various anatomic and physiologic factors.
+
+      A5) Possible solutions Biofeedback/coaching techniques are being increasingly embedded in the
+      behavioral treatment of patients with lung disease such as chronic obstructive pulmonary
+      disease, asthma, and cystic fibrosis. For respiratory gating, several studies suggest that
+      verbal prompts improve respiration reproducibility. Kini et al.12 concluded that audio
+      prompts improve the stability of respiration frequency of the patient but does not maintain
+      the range of respiratory motion, whereas visual prompts control only the regularity of the
+      displacement and the frequency is not reproducible. Based on the results of Kini et al.12,
+      combined audio-visual biofeedback was devised to improve the reproducibility of respiration
+      motion. Recently Neicu et al.13 described results of audio and visual prompting and
+      demonstrated improvement in the efficacy of so-called synchronized moving aperture radiation
+      therapy, using respiratory traces from single-patient and volunteer sessions.
+
+      George et al.14 concluded based on a 24-patient, multisession study that audio-visual
+      biofeedback can significantly reduce residual motion variability for a given duty cycle, thus
+      potentially improving the accuracy of respiratory-gating. From the results of this study it
+      was seen that audio-visual biofeedback reduced motion by 0.5 cm (0.29 to 0.24 cm) for exhale
+      breathing and 1.5 cm (0.46 to 0.36 cm) for inhale breathing.
+    
+  

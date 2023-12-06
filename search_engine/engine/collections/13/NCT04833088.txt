@@ -1,0 +1,85 @@
+
+    
+      STUDY DESIGN Based on the aforementioned user scenarios, an explorative qualitive study will
+      be conducted investigating the recommendations and requirements of both patients and
+      healthcare professionals in the development of the smart devices. Focus groups will be
+      organized at UZ Brussel and AZ Sint Maria Halle to collect data from the participants. These
+      discussions will be organized until data saturation is reached. Based on expectations, the
+      investigators estimate on average 3 focus groups for every user scenario will be needed. The
+      recommendations proposed in these focus group discussions will be analyzed and tested in the
+      lab to determine what smart devices are eligible for rehabilitation. The data will also be
+      used to develop AI algorithms that will be implemented in the smart devices.
+
+      USER SCENARIOS The first scenario focuses on the registration and triggering of movement of
+      the upper limb in patients with spatial neglect. The aim is to develop a low-budget smart
+      device that stimulates and analyzes movement of the affected side and gives feedback when
+      needed.
+
+      The second user scenario aims to combine different smart devices and AI algorithms to create
+      a mobile device that can be placed on a walking aid. This smart device will give feedback in
+      terms of stride length and cadence through visual and auditive cues. A combination of sensor
+      analysis and computer vision will monitor the gait pattern of the patient and correct where
+      needed. These sensors will also incorporate a fall detection system that sends out a signal
+      when a fall is detected.
+
+      The third and final scenario describes a smart intravenous (IV) pole that monitors the
+      location of the patient relative to the IV pole and automatically follows the patient during
+      walking. This device consists of a tracker and an accelerometer placed on the patient, and a
+      motorized IV pole that follows the patient and avoid obstacles through computer vision.
+      Additionally, a fall detection system will be integrated to monitor falls.
+
+      PROCEDURE Firstly, with regard to the Sars-COV-2 pandemic, all obligated prevention measure
+      will be followed when conducting the focus group discussion. All participants and researchers
+      will wear face masks, maintain distance (1.5 meters) and frequently disinfect hands using
+      alcohol-based hand sanitizer. Additionally, an adequate ventilation of the room will be
+      maintained. If necessary, the focus group discussions will be organized online, using
+      Microsoft Teams (Microsoft, USA).
+
+      Before the start of the focus groups, all participants will be asked to complete a form
+      focusing on sociodemographic characteristics (age, gender, occupation, …). After this form is
+      collected, the focus group starts.
+
+      Each focus group discussion will be led by one moderator and one assistant.The moderator
+      directs the discussion and ensures that all participants are involved. The observer on the
+      other hand takes notes of the conversation with a focus on verbal and non-verbal signs,
+      seating of the participants and unexpected interruptions. Additionally, the observer also
+      watches the time limit of approximately one hour (with regard to limited concentration
+      duration) and ensures no key issues are overlooked. All focus groups will be recorded, after
+      obtaining ethical approval of the participants. As mentioned before, data-collection will be
+      completed after data saturation is reached, and no new data is gathered from the
+      participants.
+
+      The focus group discussions start with an introduction in which the moderator presents him or
+      herself and the observer, and explains the purpose of the study. Secondly, the participants
+      are asked to shortly introduce themselves and describe any previous experience with smart
+      devices or technology in their rehabilitation plan (what was good, what could have been
+      better, …). Thirdly, a short presentation is given that creates a global picture of the user
+      scenarios. Finally, the discussion between the participants and the moderator is started
+      following a question guide. If necessary, side questions are used to refocus the conversation
+      and avoid off-topic discussions.
+
+      ANALYSIS Firstly, a descriptive analysis will be done for the sociodemographic
+      characteristics of the participants based on the completed forms, using SPSS 27 (IBM, USA).
+
+      Secondly, the data from the focus group discussion will be analyzed. The recorded focus
+      groups will be transcribed verbatim using Word (Microsoft, USA). A thematic content analysis
+      will be performed by the researchers using NVivo (QRS International, USA). For this analysis
+      the six steps of Braun and Clarke (2006) will be followed. Firstly, the researchers will
+      familiarize themselves with the data through repeated reading of the data. Secondly, the
+      initial codes will be generated as the researchers begin to take notes on relevant data
+      items. Once the entire data set is coded, the researcher will start collating the data in
+      preparation of the third step. For this next step, the researchers will scan the collated
+      data and take note of all themes that are potentially of relevance to form a thematic map.
+      The forth step in the thematic analysis involves reviewing the themes. This review will be
+      done both within each theme, as between different themes. All codes within a theme will be
+      checked to ensure a proper fit within the theme, and all individual themes will be assessed
+      in relation to the entire data set, to see whether the thematic map accurately represents the
+      data. In the fifth step, the researchers will define each theme. Additionally, for each
+      theme, the importance to the broader study topic will be described. Lastly, the final
+      analysis will be written based on all previous steps. The researchers will first analyze the
+      data separately. Afterwards, both researchers will compare their analysis and adjust until
+      agreement is reached. Data will be stored on a secure and locked server of the
+      Erasmushogeschool Brussel and will be kept five years after final publication of the study
+      results.
+    
+  

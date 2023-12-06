@@ -1,0 +1,25 @@
+
+    
+      Using temporally resolved computed tomography images, the patient-specific geometry of the
+      stenosed aortic valve during peak systole is reconstructed. Using this geometry, the
+      projected area of the aortic valve's orifice (AVA) is calculated. Additionally, the left
+      ventricular geometry is reconstructed for the complete heart cycle. Using the information of
+      the left ventricular volume change, the patient-specific flow profile and peak-systolic flow
+      (Q)is calculated. Using this information, the pressure gradient is calculated using a power
+      law estimation of the form PG = a * AVA^b * Q^c. The model generation and parameter fit is
+      described in [1].
+
+      To validate this model, retrospective data of patients receiving a catheter-based replacement
+      of the aortic valve (TAVI) is collected. For those patients, CT images are already acquired
+      for treatment planning and the invasive pressure measurements are performed during
+      replacement of the aortic valve. Therefore, no additionally steps are required. Using the CT
+      images the patient-specific aortic valve area ad flow rate are calculated. This information
+      is then used for estimation of the pressure gradient using the power law model. The
+      catheter-based pressure gradient is calculated as the difference between the peak-systolic
+      pressure in the left ventricle and the ascending aorta before implantation of the prosthesis.
+
+      [1] Franke et al.; Towards improving the accuracy of aortic transvalvular pressure gradients:
+      rethinking Bernoulli; Medical & Biological Engineering & Computing (2020);
+      https://doi.org/10.1007/s11517-020-02186-w
+    
+  

@@ -1,0 +1,42 @@
+
+    
+      Treatment:
+
+      The patient's treatment will consist of combined Hypofractionated external beam (3750 cGray
+      in 15 fractions) and MRI-TRUS fusion HDR brachytherapy boost (1 fraction of 1500 cGray.
+
+      Brachytherapy performed under general anesthesia as an outpatient procedure
+
+      TRUS-MRI fusion:
+
+      T2 axial volumetric sequence (VISTA) is imported directly from the picture archiving and
+      communication systems (PACS). Then MR images are reconstructed and segmented. Target volumes
+      (prostate gland, dominant intraprostatic lesions (DILs)and Organs at risk (OARs) urethra and
+      rectum are delineated.
+
+      A transrectal sagittal volumetric ultrasound image is immediately adquired every 2 degrees, a
+      rapid reconstruction algorithm converts the series of 2D images into a 3D volume, which is
+      then displayed in axial, sagittal and coronal views and transferred to the module of fusion
+      with the MRI.
+
+      The MRI images and the real-time sonography examination are displayed on a split-screen with
+      the possibility of overlaying the images live in one image. A graphical user interface is
+      used for rigid manual registration of the ultrasound and MRI volumes. This interface allows
+      for displacements in the three dimensions and rotations, until both images are correctly
+      superimposed.
+
+      Then the contoured structures are transferred to the US dataset, and these contours are
+      slightly modified until a perfect matching with the US images is achieved.
+
+      Dose prescription:
+
+      The homogeneity parameters used for optimization aim for prostate V100 > 98%, V150 of 25-33%,
+      V200 < 8%, where Vn is the fractional volume of the organ that receives n% of the prescribed
+      dose, urethral dmax < 115% and rectal 1cc < 70% of prescribed dose.
+
+      The treatment plan will be manipulated such that the normally occurring high dose regions
+      (125%, 150%) are positioned at the site of the identified disease
+
+      Endpoints Feasibility of higher doses administration, toxicity and efficacy will be measured
+    
+  

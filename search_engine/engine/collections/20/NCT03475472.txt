@@ -1,0 +1,23 @@
+
+    
+      Investigators goal is to determine major bacterial activities and properties in the infected
+      patient as a basis for more targeted, efficient antimicrobial discovery. Investigators will
+      determine the abundance of dozens to hundreds of pathogen proteins in the samples and in in
+      vitro cultures of the same pathogen strains using cutting-edge ultra-sensitive proteomics
+      approaches (Parallel reaction Monitoring (PRM), Sequential Windowed Acquisition of All
+      Theoretical Fragment Ion Mass Spectra (SWATH-MS). Data will be analyzed using dedicated mass
+      spectrometry and proteomics packages using parametric and non-parametric statistics (false
+      discovery rate determination based on decoy databases; t-tests of log-transformed abundance
+      data with Benjamin-Hochberg corrections for multiple testing, normal distribution of the data
+      will be evaluated by Kolmogorov-Smirnov test).
+
+      Based on experience from in vitro and animal infection experiments, a sample size of 10 can
+      reveal 2fold differences in protein abundance among 500 top proteins at a significance of α =
+      0.05 and a power of β = 0.8 (after correction for multiple testing). However, it is possible
+      that human patient samples have higher variance compared to animal infection models.
+      Investigators will thus use a sequential statistics approach in which they continuously
+      adjust sample size estimates based on the variance of the accumulating data. It may be
+      possible that no sufficient sample sizes for all bacterial pathogens of interest will be
+      reached within two years.
+    
+  

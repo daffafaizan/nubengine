@@ -1,0 +1,11 @@
+
+    
+      This protocol is intended for use by external sites collecting clinical research specimens
+      for T2 Biosystems' use in developing the T2Bacterial Assay. Specimens and information on
+      patients' medical history, blood properties, medications, and blood culture history/results
+      are required from the T2Bacterial Assay's target patient population (i.e., candidates for
+      blood culture). Ideally, clinical specimens for use in developing the T2Bacterial Assay will
+      be collected from negative blood culture, positive non-bacteria blood culture and positive
+      bacteria blood culture patients.
+    
+  

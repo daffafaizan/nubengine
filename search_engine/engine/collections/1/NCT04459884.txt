@@ -1,0 +1,179 @@
+
+    
+      INTRODUCTION AND RATIONALE Mechanical ventilation (MV) is a frequently applied and often a
+      life-saving strategy in neurocritically ill patients. Paradoxically, ventilation itself has
+      the potential to cause further pulmonary and cerebral damage and can increase mortality and
+      morbidity [1].
+
+      The so-called 'protective lung ventilation' strategies include the use of low tidal volume
+      (TV), positive end expiratory pressure (PEEP), and eventually recruitment maneuvers (RMs),
+      and are aimed to prevent lung damage and to reduce morbidity and mortality in patients with
+      acute respiratory distress syndrome (ARDS) [2]. In particular, low tidal volume seems to have
+      the greater importance [3-5], and guidelines strongly recommend its use in critically ill
+      patients with ARDS [6].
+
+      Results from one multicenter randomized controlled trial suggest that also ICU patients
+      without ARDS could benefit from 'protective lung ventilation strategies [7]. A recent
+      meta-analysis showed a higher incidence of pulmonary complications and even increased
+      mortality in patients who received 'conventional ventilation' with traditionally sized or
+      higher tidal volumes compared to patients undergoing protective strategies [8].
+
+      Present ventilation guidelines for patients with acute brain injury The fourth edition of the
+      Guidelines for the Management of Severe Traumatic Brain Injury [10] suggests maintaining
+      normocapnia in this subset of patients and aiming for peripheral saturation of oxygen higher
+      than 90% to guarantee an adequate cerebral perfusion and avoid secondary brain damages due to
+      hypoxia or inappropriate cerebral vasodilatation [10]. However, BTF guidelines do not provide
+      any advice on ventilator settings or targets. There is still uncertainty regarding the use of
+      protective ventilation in neurologically ill patients. Brain injured patients have been
+      traditionally excluded from the major trials regarding mechanical ventilation and the use of
+      lung protective ventilator strategies because low tidal volumes, high PEEP and RMs can
+      increase carbon dioxide levels (CO2) and increase intrathoracic pressure, thus having
+      detrimental effects on intracranial pressure (ICP) and cerebral perfusion pressure (CPP).
+
+      METHODS
+
+      Objectives
+
+      This observational study aims to determine the ventilation practice of consecutive intubated
+      and ventilated neuro-ICU patients in the first week from admission in intensive care units.
+
+      Hypotheses
+
+        -  In patients with acute brain injury, protective ventilation strategies are not often
+           applied; in particular, tidal volumes are higher than those used in patients with no
+           brain injury. The adoption of protective ventilation in this group of patients might
+           result in a beneficial effect on outcome.
+
+        -  Ventilation practice, in particular tidal volume size, varies among patients with acute
+           brain injury and among different centers and different countries.
+
+        -  In patients with acute brain injury outcomes can be dependent on ventilator setting.
+
+      Study design
+
+      International multicenter prospective observational study of consecutive ventilated neuro-ICU
+      patients in the first week since admission to ICU.
+
+      Study population
+
+      We will collect data of consecutive patients with acute brain injury intubated and
+      ventilated, admitted to the intensive care unit (ICU).
+
+      Sample size calculation
+
+      The primary endpoint of the study is the exploration of the ventilator settings in clinical
+      practice in braininjured patients. The hypotheses of the study are exploratory; hence a
+      sample size calculation has not been conducted. This international prospective observational
+      study aims to recruit>3000 patients in coma after acute brain damage admitted to >200
+      Intensive Care Units (ICUs). Recruitment will last 12 weeks at each center, aiming to enroll
+      about 20 patients/center. To avoid any overrepresentation of some centers we ceil the data
+      collection to 30 patients/center. This number of enrolled patients and ICUs reflects an
+      adequate sample size to capture a range of variation in practice between ICUs. We aim to
+      include also low-middle income countries, in order to have a representation of the
+      variability worldwide.
+
+      Follow-up/Outcomes
+
+      Enrolled patients will be followed until ICU-discharge or death (whatever comes first), for
+      collection of patient demographics (on day of admission), and ventilation characteristics
+      (from start of ventilation till stop of ventilation). At 6 months, data on length of hospital
+      stay and outcome (Extended Glasgow Coma Scale) will be collected.
+
+      Outcomes will be assessed as:
+
+        -  6-months mortality and neurological outcome (as for extended Glasgow Outcome Scale,
+           eGOS)
+
+        -  Hospital length of stay (in days), in hospital mortality.
+
+        -  Mortality, duration of mechanical ventilation (in days), ventilator free days (days) at
+           ICU discharge.
+
+      Study procedures
+
+      Patients in participating centers are screened on a daily basis. ICU-patients under
+      mechanical ventilation and with diagnosis of acute brain injury will be included. Demographic
+      data on screened patients regardless of meeting enrollment criteria will be recorded
+      (registry).
+
+      The inclusion period will be flexible for participating centers and determined at a later
+      stage together with the study-coordinator.
+
+      Times points of data collection
+
+        -  Demographic data and baseline data, including severity scores (e.g. APACHE II- scores
+           and SAPS III) will be collected from clinical files on the day of start of mechanical
+           ventilation.
+
+        -  Ventilation settings, gas exchange variables and vital parameters will be collected once
+           daily in the morning till the day when ventilation is stopped or till day 7, whichever
+           comes first.
+
+        -  Chest radiography data from available chest X-rays (i.e., no extra chest X-rays are
+           obtained) in the first week.
+
+        -  Lung echography data are collected from clinical files in the first week.
+
+        -  Predefined complications are recorded from medical chart (Appendix 1)
+
+        -  At ICU discharge: mortality, duration of mechanical ventilation (in days), ventilator
+           free days (days).
+
+        -  At 6-months: mortality and neurological outcome (as for extended Glasgow Outcome Scale,
+           eGOS), length of stay (in days), in hospital mortality.
+
+      Inclusion During a 3 months period, all admitted patients will be screened daily by a local
+      investigator.
+
+      STATISTICAL ANALYSIS
+
+      Patient characteristics will be compared and described by appropriate statistics. Student's
+      t-test or Mann-Whitney U-tests will be used to compare continuous variables and chi-squared
+      tests will be used for categorical variables. Data will be expressed as means (SD), medians
+      (interquartile range) and proportions as appropriate. Comparisons between and within groups
+      will be performed using one-way ANOVA and post-hoc analyses for continuous variables.
+
+      Plan of analysis The primary analysis will concern the determination of (variation of) the
+      ventilator settings in neurologically critically ill patients. Univariate analysis will be
+      performed to identify potential factors associated with outcomes including, but not limited
+      to, GOS, mortality, duration of ventilation, or hospital LOS. A multivariate logistic
+      regression model will be used to identify independent risk factors. A stepwise approach will
+      be used to enter new terms into the model, with a limit of p < 0.2 to enter the terms. Time
+      to event variables will be analyzed using Cox regression and visualized by Kaplan-Meier.
+      Statistical analyses will be conducted using R. A p value of less than 0.05 was considered
+      statistically significant.
+
+      ETHICAL CONSIDERATIONS Ethical standards The PI and Steering Committee will ensure that this
+      study is conducted in full conformity with the Declaration of Helsinki and Good Clinical
+      Practices.
+
+      Ethics committee Each NC/PI will notify the relevant ethics committee, in compliance with the
+      local legislation and rules. The national coordinators will facilitate this process. The
+      approval of the protocol (if required by local authorities) must be obtained before any
+      participant is enrolled. Any amendment to the protocol will require review and approval by
+      the SC before the changes are implemented to the study.
+
+      Lack of capacity and Delayed Consent Informed consent will be obtained from patients with no
+      lack of capacity. For patients not be able to provide informed consent at the time of
+      recruitment, the responsible clinical/research staff will act as Consulter and consent
+      eligible patients after discussion with the next- of-kin.If the patient has a Power of
+      Attorney or a Legal tutor or an, he/she will act as Consultee and will be asked to
+      consent/decline participation to the study on legal behalf of the patient.
+
+      If patients have Advance Decision Plan including participation in research studies the Plan
+      will be respected and recruitment pursued/abandoned accordingly. At follow-up, patients who
+      have regained capacity will be asked to provide Informed Consent and will be given the
+      possibility to:
+
+        -  Provide Informed Consent for the acute data and follow-up.
+
+        -  Deny research participation and request destruction of acute data collected.
+
+      Expected impact of the study The investigators expect to obtain data of >3000 patients
+      admitted to ICU. These data will allow a detailed description of patient's characteristics,
+      management strategies resource use and correlation with clinical outcomes. In particular, the
+      study will provide insights in relation to clinical management, monitoring and treatment,
+      practice variation in neurointensive care units around the world, differences in the
+      ventilator management of brain injured patients and their potential association with outcome.
+    
+  

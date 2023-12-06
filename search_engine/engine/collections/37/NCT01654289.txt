@@ -1,0 +1,146 @@
+
+    
+      Acute respiratory infection (ARI), including common cold and influenza, is a leading cause of
+      morbidity and mortality, and has a major economic impact. Both mental and physical health are
+      linked to ARI burden. For example, people who report more negative emotion and higher stress
+      are more likely to get ARI. Exercise affects the immune system, improves physical and mental
+      health, and may protect against ARI illness. Mindfulness meditation reduces perceived stress,
+      influences the immune system, and may protect against ARI. The investigators' own recent
+      NCCAM-funded trial randomized 154 people to 3 groups: 1) meditation, 2) moderate intensity
+      exercise, or 3) wait-list control. For the 149 people followed to study completion, there
+      were 40 ARI episodes and 453 days of illness in the control group, 27 episodes and 257 days
+      of ARI illness in the meditation group, and 26 episodes and 241 days of ARI illness in the
+      exercise group. Corresponding reductions in ARI-related work days lost to ARI illness were
+      observed. The proposed research will build upon these findings with refined methodology in a
+      larger sample to: A) determine whether these findings are replicable, and B) investigate
+      potential explanatory pathways.
+
+      This research will use state-of-the-art randomized controlled trial (RCT) methodology to
+      assess potential effects of meditation or exercise on ARI outcomes. This will be a 5-year
+      project, with 4 yearly cohorts of n=99 per cohort randomized into 3 groups of n=33 each.
+      Assuming 9% loss to follow-up, the final sample size will be n=360 study participants, with
+      n=120 in each comparison group. Participants will be randomized to 1 of 3 groups: 1) an
+      8-week training program in mindfulness meditation, 2) an attention, duration and
+      location-matched program in progressive exercise, or 3) a non-interventional wait-list
+      control group. Each cohort will be observed for 8 months comprising the annual cold and flu
+      season. Enrollment, randomization and study interventions will begin in September of each
+      year. Participants will be monitored by weekly self-report through May. Summers will be used
+      for data cleaning, preliminary analyses, and for recruiting the next year's cohort.
+
+      The primary goal of this project is to determine whether behavioral training in mindfulness
+      meditation or moderate intensity sustained exercise can lead to reductions in acute
+      respiratory infection (ARI) illness, such as common cold and influenza like illness. The
+      primary outcome will be severity-weighted total days of ARI illness (global severity),
+      calculated as trapezoidal approximation to area under the time severity curve during ARI
+      illness, with severity assessed once daily using self-reports on the validated Wisconsin
+      Upper Respiratory Symptom Survey (WURSS-24).
+
+      Computer-assisted weekly monitoring will assure that ARI illness episodes are detected, and
+      will serve to document secondary outcomes, including health care utilization and work or
+      school absenteeism. Visits to health care facilities and time lost from work and school will
+      be documented, then classified as ARI-related (or not) by personnel blinded to allocation.
+      Questionnaire measures assessing perceived stress, self-efficacy, sleep quality, depression,
+      and general mental and physical health will also be analyzed as secondary outcomes. Degree of
+      stress reduction, mindfulness, positive and negative emotion, social support, self-efficacy
+      and sleep quality will be analyzed as potential mediators of effects of interventions on
+      outcomes.
+
+      Laboratory assessed objective measures will primarily serve to corroborate self-reports of
+      disease severity, but will also be analyzed as potential mediators of effects of behavioral
+      interventions on ARI illness incidence, duration, and severity. As potential mediators,
+      pro-inflammatory cytokines (CRP, IL-6, IL-8, IP-10) will be assessed as change from baseline
+      to one month after the 8 week behavioral interventions finish. These will serve as indicators
+      of a pro-inflammatory state. Repeating these assays 3 months later will assess whether
+      pro-inflammatory changes from baseline will be sustained. Cytokines from samples taken during
+      ARI illness will be assessed as corroborating biomarkers of disease severity. Identification
+      of viral agents using multiplex PCR will also serve to corroborate ARI self-reports.
+
+      Self-report measures of perceived stress, positive and negative emotion, self-efficacy,
+      social support, sleep quality, mindfulness, and general mental and physical health will be
+      used to assess potential pathways through which interventions may exert influence on primary
+      outcomes. Potential mediating effects of psychological and physical health domains will be
+      assessed using appropriate mediation (process) analysis statistical models.
+
+      Primary efficacy analysis will contrast total days of illness and area-under-curve global
+      severity in each intervention group with corresponding values in the control group.
+      Unadjusted contrasts will be done by t-test, using variable transformation if skewness
+      requires. Adjusted analyses will be based on zero-inflated regression models taking into
+      account the episodic and variable nature of ARI illness. Zero-inflated regression models
+      incorporate a logistic sub-model to account for people without ARI illness, and a linear
+      sub-model to account for the variability in continuous measures of severity and duration.
+      These will employ conservative estimates with standard error inflated using Huber/White
+      maximum likelihood estimation. Co-variates to be controlled for in this model will include:
+      age, sex, body mass index, smoking status, comorbidity, highest level of education achieved,
+      neuroticism, conscientiousness, general physical health and general mental health. The null
+      hypotheses of "no effect on primary outcome" will be rejected in favor of alternative
+      hypothesis of "some effect" if p-values are ≤0.025. Confidence intervals will be constructed
+      for all outcome variables, allowing estimation of effect size. Zero-inflated regression
+      models for primary efficacy analyses will be done using M-Plus version 6.1or similar
+      software.
+
+      Influence of interventions on secondary outcomes will be assessed using ANOVA-based
+      multivariate regression models using SAS software. Adjustment for multiple comparisons will
+      be incorporated, and interpretation will be cautious. In general, the investigators' will
+      want to see relationships with p<0.01 in order to justify tentative null hypothesis
+      rejection. Pre-planned secondary efficacy analyses will include effects of interventions on:
+      1) absenteeism, 2) health care utilization, 3) general physical health (SF-12), 4) general
+      mental health (SF-12); 5) perceived stress (PSS-10), 6) self-efficacy (MSES, ESE), 7) sleep
+      quality (PSQI), 8) body weight (BMI), 9) blood pressure and 10) pro-inflammatory cytokines.
+      One-sided testing will be based on the underlying hypotheses that the behavioral trainings
+      lead to improved physical and mental health, sleep quality and self-efficacy, and to
+      reductions in absenteeism, health care utilization, stress, body weight, blood pressure and
+      proinflammatory cytokines.
+
+      Apart from flu shots, hand-washing, smoke avoidance, and maintenance of general health, there
+      are no known safe and effective prevention strategies for acute viral respiratory infection.
+      Interventions to be tested are low risk, and more likely to confer benefit than harm.
+      Influenza vaccination (flu shots) will be provided free of charge to all participants, and
+      could be considered a benefit. Participants will not be required to forego any proven or
+      accepted preventions or treatments, and in fact will be encouraged to seek appropriate
+      medical attention for any condition, including respiratory infection, and to continue their
+      regular health care practices. Antibiotics, anti-influenza antivirals, and other ARI
+      treatments will not be disallowed, but instead will be tracked as secondary outcomes. In
+      general, participants will be asked to continue the study interventions they are assigned,
+      and to forego the study interventions they are not assigned. However, they will be informed
+      that they remain free to make their own health care, behavioral and life style decisions. In
+      particular, exercise will not be discouraged for participants in the meditation or wait-list
+      control group, as exercise is known to confer some health benefit. However, the
+      investigators' will ask participants in the exercise and control group to refrain from
+      starting a meditation program, and that all participants refrain from starting any
+      purportedly immune-modifying supplements (eg, echinacea, ginseng, zinc, elderberry, etc.),
+      unless advised to do so by their physicians. If any participants do choose to actively begin
+      an intervention they were not assigned (i.e. a person randomized to exercise chooses to take
+      the mindfulness meditation course instead), the investigators' will ask them to continue in
+      the study, and will use that "cross-over" information in secondary analyses using the
+      principles outlined in Section 4.3 of the protocol.
+
+      This proposed study was submitted to and approved by the Human Subjects Committee of the
+      Health Sciences Institutional Review Board of the University of Wisconsin - Madison (UW
+      HS-IRB), and will be in compliance with HIPAA and all other federally mandated human subjects
+      regulations. All members of the research team will complete the protection of human subjects'
+      tutorial required by the UW HS-IRB's Human Subjects Committee prior to the study's
+      initiation. All named UW Co-Investigators, Consultants, and current Project Personnel have in
+      fact already completed this tutorial. All study personnel, including research assistants,
+      will be trained in confidentiality, informed consent procedures, and other aspects of human
+      subject protection.
+
+      A Data and Safety Monitoring Committee (DSMC) will oversee human subjects recruitment and
+      monitoring, and will function independently of the principal investigator and
+      co-investigators. The investigators' expect that this committee will function similarly to
+      that established for the first MEPARI trial, and will choose to meet once or twice yearly to
+      monitor recruitment and retention, and to provide oversight and guidance in relation to
+      safety, bioethics, and other human subjects concerns that may arise.
+
+      Acute infection from influenza and other respiratory viruses leads to much human suffering
+      and loss of economic productivity. The investigators' own evidence suggests that training in
+      either meditation or exercise may lead to substantial reductions in ARI disease burden and
+      work absenteeism. In addition to testing whether the investigators' findings are replicable
+      in a larger sample with refined methodology, this proposed comparative effectiveness
+      translational research will investigate mechanisms of action and provide initial estimates of
+      cost-effectiveness. If positive findings are confirmed, this line of research could have
+      direct and immediate impact on public and private health-related policies and clinical
+      practice, as well as on scientific understanding of respiratory infection.
+
+      A copy of the full protocol (including references) is available upon request.
+    
+  

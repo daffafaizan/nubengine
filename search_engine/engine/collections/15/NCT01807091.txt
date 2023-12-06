@@ -1,0 +1,36 @@
+
+    
+      PRIMARY OBJECTIVES:
+
+      Assess the feasibility of outpatient induction therapy for acute myeloid leukemia (AML) or
+      advanced myelodysplastic syndrome (MDS) by examining whether:
+
+        1. > 50% of patients treated as outpatients can complete chemotherapy without being
+           admitted to hospital.
+
+        2. < 5% of patients die within 14 days of beginning outpatient chemotherapy.
+
+      OUTLINE:
+
+      Patients receive outpatient induction chemotherapy.
+
+      STATISTICAL CONSIDERATIONS:
+
+      The study was monitored to assure that there was not an excess probability of admission to
+      the hospital during receipt of outpatient chemotherapy or death within 14 days of initiating
+      chemotherapy as assessed by Bayesian posterior probabilities using the "predictive
+      probabilities" tool (MD Anderson Cancer Center Department of Statistics).
+
+      Stopping earlier would happen under 2 circumstances:
+
+        1. Excess probability that patients required admission to hospital during the 4-7 days of
+           outpatient chemotherapy (predictive probability be < 0.10, or 7 patients admitted and 3
+           not admitted among 10 patients enrolled versus the maximum acceptable rate of 4 patients
+           admitted and 6 not admitted among 10 patients enrolled).
+
+        2. Excess probability that patients die during the 14 days after beginning outpatient
+           treatment (predictive probability be >0.90, for example in cases where there are 2
+           patient deaths within 14 days and less than 5 patients without deaths within 14 days, or
+           in any case where there are 3 patient deaths within 14 days).
+    
+  

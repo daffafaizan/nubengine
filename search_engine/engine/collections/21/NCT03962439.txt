@@ -1,0 +1,82 @@
+
+    
+      All older adults experience some degree of cognitive compromise as they age and approximately
+      32 percent of adults aged 85 and older suffer from Alzheimer's disease (AD). The Alzheimer's
+      Association estimates that delaying the onset of AD symptoms by only five years would reduce
+      the rate of incidence by 50 percent! The present clinical trial builds on a wealth of
+      observational work and more recent experimental research conducted in the PI's lab, which
+      suggests that an important element of maintaining cognitive vitality for life is sustained
+      engagement in mentally-challenging activities. In a U.S. sample of cognitively normal adults,
+      we recently demonstrated that older adults who were randomly assigned to learn digital
+      photography, quilting, or both, in fast-paced, demanding classes for 15 hours per week for
+      three months, showed enhanced episodic memory function-both at the end of the engagement
+      period and, importantly, one year later (Park et al., 2014). The observed memory improvements
+      were in comparison to two active control conditions that were low in new learning: a social
+      engagement group that had fun but did not engage in active learning, and a placebo condition
+      where participants worked on low-effort cognitive tasks that relied on use of previous
+      knowledge. We also found similar facilitation effects when older adults were trained to use
+      many different applications on an iPad. The lab most recently reported that older
+      participants who participated in high-effort engagement conditions showed an increase in
+      neural efficiency, exhibiting a change in neural activity from a pre-intervention pattern
+      characteristic of older adults to a post-intervention pattern typical of young adults. Based
+      on these findings, which included relatively small numbers of subjects, we will conduct a
+      larger clinical trial to determine whether mentally challenging activities facilitate memory
+      in cognitively normal adults via changes of neural structure and function. We propose to
+      conduct a clinical trial study that will (a) evaluate the efficacy of different types of
+      engagement in improving cognitive function in older adults, (b) examine the likelihood that
+      mental effort invested is the underlying mechanism accounting for engagement effects, (c)
+      show whether engaging in high-demand activities results in reliable brain changes. We expect
+      to demonstrate that when older adults engage for a sustained period of time in high-effort
+      tasks (learning photography), both their memory and the modulation capacity of their brain
+      will increase.
+
+      Randomization Procedure and Statistical Analyses:
+
+      Potential participants will complete an initial eligibility form. We will contact those who
+      are deemed eligible, and we will follow up with a TICS cognitive phone interview screening
+      and provide the link to an on-line demographic enrollment questionnaire.
+
+      We will invite subjects who pass these screens to attend an informational session. At these
+      sessions, project RAs will consent potential participants and have them complete the MRI
+      screening form. We will schedule consenting participants for cognitive testing and MRI scans
+      (if applicable).
+
+      During the 3-week period set aside for cognitive and MRI testing, we will assign subjects
+      among the three treatment arms using a centrally created randomization scheme. Because
+      baseline data for all potential participants will be available at the time of randomization,
+      we will use the rerandomization method of Morgan and Rubin (2012 Annals of Statistics
+      40:1263), which can achieve improved covariate balance in this setting. We will generate a
+      series of randomizations and evaluate them for balance on age, education, and sex,
+      designating balance in terms of the MANOVA F statistic comparing the distributions of the
+      covariates across the treatment groups. Once we identify a randomization that meets this
+      criterion, we will apply it to the eligible participants.
+
+      Preliminary Analyses. In initial analyses, we will summarize categorical variables by
+      proportions and continuous variables by means and quantiles. We will graph continuous
+      variables and assess them for skewness, transforming if necessary (for example by logs or
+      square roots) to render them more nearly normally distributed. We will explore relationships
+      among variables by examining scatter plots and correlation matrices. We will conduct all
+      analyses in R (version 3.3.2 or later) or SAS (version 9.4 or later).
+
+      Analysis of Primary Outcome Variables. The primary cognitive outcome endpoint will be a
+      composite, scalar episodic memory score. This measure will exhibit substantial
+      between-subject variability, in that subjects who give high scores at baseline are likely to
+      give high scores at follow-up as well. To account for this, in primary analyses we will
+      adjust for baseline levels by analysis of covariance - i.e., including baseline values
+      together with treatment arm in a regression model for the post-treatment outcome.
+      Alternatively (and equivalently), we can analyze the outcome variable in a mixed model,
+      evaluating a treatment effect by estimating a time-by-treatment interaction, including
+      pre-treatment (baseline) and end-of-treatment (14-week) outcome. As a secondary analysis to
+      further elucidate the magnitude and timing of treatment effects, we will seek to create
+      parsimonious models of this outcome as a function of time, treatment arm, stratification
+      factors (age, sex, education) and potentially other factors measured at baseline.
+
+      The primary brain outcome will be a vector measure of fMRI activation in the four brain
+      regions of interest: mid-cingulate, precuneus, intraparietal suclus, and inferior temporal
+      gyrus. This measure is also likely to exhibit substantial between-subject variability. We
+      will again analyze the outcome variable in a mixed model, evaluating the treatment effect by
+      estimating a time-by-treatment interaction, and conduct a secondary analysis where we model
+      activation in the four regions as functions of time, treatment arm, stratification factors
+      (age, sex, education) and potentially other factors measured at baseline.
+    
+  

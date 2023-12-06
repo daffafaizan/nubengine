@@ -1,0 +1,100 @@
+
+    
+      Studies evaluating the use of customized healing screws/abutments have been performed aiming
+      to assess possible advantages with the use of this treatment modality. Despite the existence
+      of these investigations, there is a lack of information regarding a digital approach to
+      evaluate in an objective manner soft and hard tissue dimensional changes.
+
+      The aim of this study is to perform a volumetric analysis evaluating peri-implant tissues
+      dimensional changes on the effect of using customized healing abutments compared with the use
+      of collagen matrices as socket sealing options in maxillary immediate implant placement.
+
+      The present study was designed as a prospective, randomized, controlled clinical trial with a
+      parallel-group design, to document the response of using a customized healing abutment in
+      maxillary immediate implants. Twenty-eight consecutive patients in need of a single implant
+      restoration in the maxillary arch following tooth extraction were included in this study.
+
+      All patients were treated with cylindrical shape implants (OsseoSpeed EV™, AstraTech Implant
+      System, Dentsply Implants, Möhndal, Sweden) with a narrow diameter internal connection
+      platform following the surgical sequence protocol provided by the manufacturer. The implant
+      was placed in a correct three-dimensional position, engaging the palatal and apical bone to
+      achieve high primary stability. (Buser et al. 2004) After implant insertion, a gap of at
+      least 2 mm between the inner cortical buccal bone plate and the implant surface was filled
+      with DBBM material (Symbios®, Dentsply Implants, Möhndal, Sweden).
+
+      The two groups differ in the type of socket sealing. Control group fresh sockets were sealed
+      with a resorbable collagen membrane (Mucograf Seal®, Geistlish Biomaterials, Wolhusen,
+      Switzerland) stabilised with single interrupted 6/0 polyamide sutures (SeralonTM,
+      Serag-Wiessner, Nalia, Germany), whereas test group received a healing abutment customized
+      with a composite resin material allowing to close the socket without sutures.
+
+      Clinical examination and image acquisition Examination protocol and data collection consisted
+      of four appointments: 1) T0 (flapless tooth extraction and implant insertion; 2) T1 (1-month
+      follow-up after implant placement; 3) T2 (4-month follow-up after implant insertion) and 4)
+      T3 (1-year postoperative follow-up). An intraoral scan of the upper arch (Cerec Omnicam®,
+      Sirona Dental Systems GmbH, Bensheim, Germany) and a CBCT radiographic evaluation (Ortophos
+      XG 3D®, Sirona Dental Systems GmbH, Bensheim, Germany) were performed followed by tooth
+      extraction and implant placement (T0). At this point, two clinical parameters were assessed
+      with a periodontal probe to the nearest millimetre: BID (distance between implant shoulder
+      and the buccal bone plate) and KM (distance between the gingival groove and the mucogingival
+      junction). Intraoral scans were completed post-implant placement at one month (T1), four
+      months (T2) and twelve months (T3). In all follow-up appointments hygiene instructions were
+      given to the patients and a periodontal care was executed when necessary.
+
+      Matching digital models All digital models were exported from the intraoral scanner in STL
+      format. The T0 and T1, T0 and T2, and T0 and T3 STL files were overlapped and a strict
+      alignment was made into one common coordinate system. A final alignment was done through the
+      best fit alignment algorithm for a perfect match of digital models and executed with settings
+      adjusted to the oral cavity.
+
+      After the superimposition of digital models, a colour map was created to quantitatively
+      analyse the three-dimensional changes occurring in the surgical areas and adjacent tissues.
+      Green areas correspond to the perfect alignment of the model. The variation between yellow
+      and red represents variations of volumetric increase, whereas the variations between light
+      blue and dark blue represent the variations of volumetric decrease. A region of interest
+      (ROI) with 10 section planes, perpendicular to the coronal section of the tooth, was computed
+      at buccal and palatal aspect (Figure 2). These sections were set at the most apical point of
+      the gingival margin and ended 5 mm above it. Mesially and distally, a line passing through
+      the interproximal area limited the region of interest. The same ROI was used in each patient,
+      at the different comparison points. The intersection of these sections with the overlapping
+      models allowed the linear changes to be obtained in each area. The Mean Buccal Change
+      (MBC0-1, MBC0-2, and MBC0-3) and Mean Total Change (MTC0-1, MTC0-2 and MTC0-3) were
+      calculated in millimetres (mm) to evaluate the changes that occurred in peri-implant contour
+      (Figure 3).
+
+      Digital models superimposed in Geomagic Control X® were exported to Materialise Magics® for
+      volumetric assessment. A volumetric ROI was manually selected with "Cut or Punch" function
+      using interproximal areas as mesial and distal limits. All cuts were performed in the same
+      way in all digital models so that all measurements were carried out in the same areas. ROI
+      volume at T0 was computed for further comparison with consecutive volume variation values
+      (Figure 4). The 3D-analysis was conducted with "Boolean" functions, which allowed researchers
+      to obtain the volume variation in each time point from different variables like the Buccal
+      Volume Variation (BVv0-1, BVv0-2, and BVv0-3) and Total Volume Variation (TVv0-1, TVv0-2, e
+      TVv0-3), computed in cubic millimetres (mm3). To allow a direct comparison of different sites
+      at different time points, relative percentages of these variables were calculated based on
+      the ROI volume at T0 (Szathvary et al. 2015). All measurements were recorded to the nearest
+      0.01 mm.
+
+      Radiographic assessment The acquisition of radiographic images was performed with a
+      volumetric dimension of 8 x 8 cm for 14s with the tomography acquisition protocol, with a
+      voxel size of 0.1 mm in HD mode. The CBCT images were imported in a DICOM format to Mimics®
+      software to perform the measurements. Buccal plate thickness (BT) was assessed for 3D
+      radiographic analysis to evaluate the initial features of the alveolar bone. All measurements
+      were obtained through coronal slice reconstructions, using an adjacent line to the
+      sinus/nasal plate as a reference (Figure 5). BT was measured 1 mm above the coronal bone
+      margin using a central slice, as well at the mesial and distal slices, ranging 1 mm from the
+      central slice. Mean BT values were obtained as the average values of the three slices. One
+      independent examiner who was not involved in the study executed all measurements.
+
+      Statistical analysis The outcome variables were presented as mean values, standard deviation,
+      median and 95% confidence interval. Measurement time (T1, T2 and T3) was considered as a
+      factor and the following as covariates: age, gender, KM height, location, implant length, BID
+      and BT. The statistical analysis was performed using SPSS™ Statistical Package for the Social
+      Sciences, version 21.0 (IBM Corporation, Armonk, NY, USA). The Mann-Whitney U-test was used
+      to disclose differences for continuous non-paired variables. Moreover, the paired Wilcoxon
+      test was used when the normal distribution of the groups was proved. A multiple linear
+      regression model, using the stepwise forward method, was built to analyse the effect of the
+      tested treatment in the main outcome variables throughout the study. All hypothesis tests
+      were conducted at the 5% level of significance.
+    
+  

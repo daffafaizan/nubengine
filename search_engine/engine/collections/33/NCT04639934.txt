@@ -1,0 +1,84 @@
+
+    
+      The value of precision medicine within clinical care is becoming increasingly more evident.
+      Nowhere is this clearer than in the field of oncology. With recognition of the value of
+      genetics in clinical care, the National Cancer Centre Singapore (NCCS) established a Cancer
+      Genetics Service in 2006. This service performs a valuable function within NCCS by overseeing
+      the care of patients found to have hereditary cancer syndromes and providing consultation to
+      clinical oncologists on the appropriate, targeted role of genetic testing within cancer care.
+      While the Cancer Genetics Service is available to all clinicians within NCCS, with the
+      continually growing and evolving understanding of how genetics plays a role in cancer and
+      cancer treatment, there are no clear, consistent guidelines on when to request consultation.
+      This leads to both over- and underutilization of services with some patients being referred
+      who do not require it and others being missed whose care would benefit from the expertise of
+      a cancer geneticist.
+
+      In an effort to address these inconsistencies in care, the study team proposes to further
+      develop and evaluate the implementation of a Duke-developed precision medicine software
+      program, MeTree, within NCCS breast cancer clinics. MeTree is a patient-facing family history
+      based risk assessment tool and clinical decision aid that was developed by researchers within
+      Duke's Center for Applied Genomics and Precision Medicine (CAGPM). The initial intent of
+      MeTree was to assist clinicians in identifying patients at greater than population risk based
+      on a number of clinical and family health history (FHH) factors for a range of common
+      conditions (including cancer) and provide clinical decision support (CDS) with specific
+      recommendations based on common U.S. guidelines for prevention and screening.MeTree has been
+      thoroughly tested and validated and is currently being implemented across five U.S.
+      healthcare systems by way of a large cooperative grant through NHGRI's IGNITE network.2-7 Dr.
+      Orlando is co-PI of this study and Dr. Wu served as a site PI.
+
+      Through the efforts of Drs. Wu and Orlando, among others, a research agreement was recently
+      signed between Duke University and the National Heart Center Singapore (NHCS) to allow
+      testing of MeTree within a cardiovascular epidemiologic study, the Biobank study
+      (MeTree-Biobank pilot). The Biobank study is providing data to the SPECTRA healthy population
+      database developed by the SingHealth/Duke-NUS Institute of Precision Medicine (PRISM).
+      SPECTRA aims to collect detailed phenotypic and genomic information on 5,000 healthy
+      Singaporeans. MeTree will be used to collect detailed FHH on Biobank participants. This
+      collaboration is part of a larger partnership between CAGPM and PRISM to further develop
+      cross-institution collaborations. Enrollment in the Biobank study is currently underway and
+      incorporation of MeTree into the data capture flow started June 2017.
+
+      This proposal leverages the larger collaborative work already started to explore clinically
+      meaningful applications of MeTree within SingHealth. While MeTree has been shown to be
+      clinically effective within primary care clinics in the U.S., SingHealth's oncologists are
+      interested in leveraging MeTree's risk assessment features both to establish a more
+      organized, standardized, and systematic process for collecting information to enhance cancer
+      management and to maximize the advances in precision medicine for the benefit of cancer
+      patients. Therefore, in collaboration with SingHealth oncologist Dr. Ngeow, the principal
+      investigators propose to explore, develop, and pilot a prototype MeTree cancer module through
+      the following two aims:
+
+      Specific Aim 1: Create a Breast Cancer Clinical Decision Support Module in MeTree Specific
+      Aim 2: Validate and Pilot the Breast Cancer Clinical Decision Support Module in a clinical
+      setting within SingHealth.
+
+      APPROACH Specific Aim 1: Create a Breast Cancer Clinical Decision Support Module in MeTree.
+      The prototype will focus on breast cancer, as a demonstration case, since the prevalence is
+      high, the value of risk assessment is established, and MeTree already assesses risk for both
+      familial and hereditary forms. To achieve this aim the investigators will work with Dr.
+      Joanne Ngeow, head of the Cancer Genetics Service at NCCS, to understand current risk
+      assessment practices in the oncology clinics, identify gaps and inefficiencies in meeting
+      Singapore's risk assessment guidelines, and adapt MeTree to facilitate uptake of
+      guideline-based care. All aspects of risk assessment will be evaluated, from gathering the
+      right type of data to understanding the appropriate clinical actions that follow from each
+      risk assessment result. The goals will be to: 1) create a MeTree integration plan for both
+      patients and providers that will optimize its value, 2) incorporate additional data elements
+      and risk algorithms into MeTree as appropriate, 3) generate tailored clinical decision
+      support for the patient and their oncologist to facilitate appropriate ordering and
+      interpretation of genetic tests. Drs. Wu, Orlando, and Ngeow will work together on all three
+      steps, with Dr. Ngeow's expertise in genetics and oncology at SingHealth being critical for
+      ensuring the team develops a useful and facile tool that meets the needs of SingHealth
+      oncologists.
+
+      Deliverables These efforts will provide a breast cancer clinical decision support module that
+      is ready for implementation testing in a breast cancer clinical environment. It will be a
+      model upon which additional cancer CDS modules could be built, tested, and implemented.
+
+      Specific Aim 2: Validate and Pilot the Breast Cancer Clinical Decision Support Module in a
+      clinical setting within SingHealth. To assess the feasibility and potential clinical utility
+      of the Breast Cancer Clinical Decision Support Module, the investigators will perform a
+      mixed-methods hybrid type II implementation-effectiveness pilot in the NCCS cancer genetics
+      clinic and one additional surgical breast cancer clinic. The results of this 12-week pilot
+      will inform both its potential impact on clinical care and how further to optimize it for
+      broader clinical integration.
+    
+  

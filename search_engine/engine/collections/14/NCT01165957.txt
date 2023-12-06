@@ -1,0 +1,52 @@
+
+    
+      Polyethylene wear is a major factor limiting the longevity of total knee arthroplasty.
+      Evaluation of the volumetric wear of explanted polyethylene tibial inserts can provide
+      valuable insight into the performance of different designs. Current technologies available to
+      measure the volumetric wear of tibial inserts include gravimetric techniques, coordinate
+      measuring machines (CMM), laser-scanning, and micro-CT.
+
+      In this study, we will employ micro-CT to determine volumetric wear because it allows us to
+      obtain high-resolution three-dimensional images of the entire insert volume, including the
+      surfaces as well as the interior of the insert. The micro-CT images will be used to
+      reconstruct the entire three-dimensional geometry of the insert (including subsurface voids)
+      and we will use image analysis software to partition the reconstructed insert into discrete
+      regions (i.e. medial/lateral articulating surfaces, backside, and post), allowing us to
+      determine how various regions contribute to total implant wear. By subdividing the insert
+      into discrete regions, our analysis techniques will also enable us to account for material
+      removed from the insert during explantation when evaluating implant wear. By comparing
+      retrieved inserts with unworn controls using three-dimensional image analysis software, we
+      will also quantify plastic deformation by measuring the volume of material that has deformed
+      outside the confines of the control insert. Additionally, inspection of shape differences
+      between the worn and unworn specimens will enable us to distinguish between implant wear,
+      plastic deformation and volume differences associated with manufacturing tolerances. Although
+      partial voluming effects can make edge detection challenging, high resolution micro-CT images
+      tend to minimize these effects and we will use gravimetric measurements to determine an
+      insert-specific Hounsfield threshold that will be used to define the image volume for each
+      specimen. We will subsequently validate the accuracy of the reconstructed insert volume
+      derived from the micro-CT image by comparing it with linear measurements from the actual
+      specimen at several discrete locations.
+
+      The use of micro-CT scans to evaluate the in vivo volumetric wear associated with different
+      designs will enable accurate measurement of volumetric polyethylene loss from different
+      regions of the insert. This information will provide a better understanding of the clinical
+      outcome associated with different design strategies and provide data to guide future
+      development efforts. We hypothesize that fixed bearing inserts, where the polyethylene is
+      locked to the metal baseplate, will demonstrate more volumetric wear than the mobile bearing
+      inserts that are designed to slide or rotate on the metal baseplate.
+
+      Articular side wear will be measured by registering micro-CT images from retrieved and
+      control inserts on unworn portions of the articular surface using the Analyze image analysis
+      software (Mayo Biomedical Imaging Resource, Rochester, MN). Differences in volume among the
+      retrieved and unworn control inserts will be evaluated accounting for plastic deformation
+      that may occur in vivo. Volumetric wear for the entire insert and subregions will be
+      calculated by subtracting the volume of plastic deformation (corresponding to regions of the
+      retrieved insert outside the boundaries of the control insert) from the volume of material
+      lost within the confines of the original insert geometry. We will compare wear among the
+      mobile and fixed bearings using an Independent Sample t-test or Mann-Whitney U, depending on
+      the distribution of the data. We will also use multiple linear regression analysis to examine
+      the relationship between insert wear and other variables, including time in vivo, terminal
+      sterilization technique for the insert and patient-related factors such as gender, age, and
+      body mass index (BMI).
+    
+  

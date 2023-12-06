@@ -1,0 +1,176 @@
+
+    
+      STUDY SETTING
+
+      Both interventions (FOCUS+ and iFOCUS) will be administered in the homes of the
+      patient-caregiver dyads (or in the location of the dyad's preference).
+
+      The intervention will be conducted in six countries (Belgium, Denmark, Ireland, Italy, the
+      Netherlands and the United Kingdom). In each country, patients with advanced cancer and their
+      primary family caregiver will be recruited and enrolled via participating hospitals.
+      Inclusion criteria for hospitals participating in this study are having 1) to treat patients
+      with advanced cancer and 2) an oncology care regimen.
+
+      SAMPLE SIZE
+
+      For the emotional functioning the EF10 subscale from the EORTC is used. For self-efficacy the
+      CASE instrument is used. The investigators consider demonstration of an intervention effect
+      (for each of both interventions) on at least one of these primary outcomes for either the
+      patient or the caregiver at t1 as a success. A pre-determined strict fixed sequence (FS)
+      procedure defines prospectively hierarchical ordering of the endpoints, for this study the
+      hierarchical order is emotional functioning (1) and self-efficacy (2). Testing of null
+      hypotheses proceeds according to their hierarchical order, that is, H(1)0 is tested first at
+      a significance level of 5%, and if H(1)0 is rejected then H(2)0 is tested at the same
+      significance level, otherwise H(2)0 is not tested at all. The strict FS approach has the
+      highest power for testing the first hypothesis (outcome: emotional function) compared to the
+      other methods, as it does not save any portion of alpha for testing later hypothesis. The
+      reference mean value from EORTC for all cancer patients, stage III-IV is 71.5 (SD: 23.8).
+      Alpha is set at 0.0125 instead of 0.05 to account for multiplicity (2 comparisons with
+      control group * 2 participant groups [patients and caregivers]). 1-beta (i.e. statistical
+      power) is set at 0.9. The expected difference between the control group and the intervention
+      arms in the primary outcomes is 0.375 SD at t1 (12 weeks).
+
+      With these parameters n= 203 is needed in each arm across all countries (i.e. 609 in total).
+      Anticipating a 65% retention rate at t1, which is more conservative than found in previous
+      studies in the USA on the FOCUS interventions due to the advanced cancer population included
+      in this study, 938 dyads must be enrolled across the 6 countries (313 per group). This means
+      n= 156 need to be enrolled in total in each country (n=52 in each of the 3 arms per country).
+      Based on previous studies in the USA an enrolment rate of 55% is expected of those dyads
+      referred to the study, meaning that about 282 dyads will need to be screened and identified
+      in each country. The feasibility of recruitment has been evaluated based on previous research
+      and discussions with clinicians in eligible hospitals.
+
+      DATA ANALYSIS
+
+      Four main quantitative analyses will take place:
+
+        1. Primary hypotheses testing:
+
+             1. Testing the null hypothesis of the first primary endpoint: emotional functioning.
+                The effectiveness of the FOCUS+ face-to-face intervention and the iFOCUS web-based
+                intervention will be compared with the standard care (control group) for each
+                participant population (patients/caregivers) separately. In total, 4 comparisons
+                are performed for one outcome variable (alpha=0.0125). The hypotheses related to
+                the first primary outcome (emotional functioning) will be tested using a mixed
+                model (per participant population) with the T1 measurement value for emotional
+                functioning as outcome variable, recruitment center as random effect and
+                randomization group and baseline measure of emotional functioning (T0) as predictor
+                variables. Analyses will be performed on both 'intention-to-treat' and per-protocol
+                principles. The primary principle is intention-to-treat. After completion of the
+                baseline measurement (T0), dyads will be randomized to one of the trial arms. All
+                randomized dyads will be included in the mixed model. Multiple imputation will be
+                applied. Predictors for the imputation model will include the baseline measurement,
+                randomization group, age and other variables (e.g. severity of the illness). The
+                secondary principle is the per-protocol analysis that functions as a sensitivity
+                analysis. The per-protocol population will be defined as dyads who have completed
+                all sessions of the FOCUS+ or iFOCUS intervention (except for dyads in the control
+                group) and T1 measurement. By including the baseline measurement as a predictor
+                variable (ANCOVA), preexisting differences will be controlled, enhancing the
+                sensitivity of the analyses. To interpret the magnitude of the effects for the
+                different outcomes, effect sizes (Cohen's d) will be estimated.
+
+             2. Testing the null hypothesis of the second primary endpoint: self-efficacy (the
+                Lewis´ Cancer self-efficacy scale from FOCUS) As per the fixed sequence (FS)
+                procedure, the null hypotheses of the second primary endpoint (self-efficacy) will
+                only be tested if a significant result is found for the first primary endpoint
+                (emotional function). The same strategy is then followed for the analyses as for
+                the first primary endpoint, with an alpha level of 0.0125.
+
+        2. Secondary hypotheses testing:
+
+           All identified secondary endpoints (Quality of Life [including separate items of
+           hopelessness, anxiety, depression], benefits of illness, coping, dyad communication, all
+           at t1) will be evaluated by testing the FOCUS+ and iFOCUS will against care as usual
+           (control group) for each participant population (patients/caregivers) separately. In
+           total, 4 comparisons are performed for each outcome variable. For each secondary outcome
+           variable a mixed model is applied (per participant population) with the T1 measurement
+           value as outcome variable, recruitment center as random effect and randomization group
+           and baseline measurement of the variable (T0) as predictor variables. Analyses will be
+           performed on both 'intention-to-treat' and per-protocol principles, applying the same
+           principles as described above.
+
+           By including the baseline measurement as a predictor variable (ANCOVA), preexisting
+           differences will be controlled, enhancing the sensitivity of the analyses. To interpret
+           the magnitude of the effects for the different outcomes, effect sizes (Cohen's d) will
+           be estimated. All statistical tests will be two-sided and considered significant if p<
+           0.0125.
+
+           All primary outcomes and secondary outcomes as listed above will also be analysed at T2
+           (6 months) to evaluate longer term effects, using the same analysis procedures.
+
+           The cost-effectiveness of the interventions will be determined by analyzing patterns and
+           costs of healthcare utilization and effects on quality of life (measured by the EORTC,
+           EQ5D5L, FACT G and CQOLC). Data will also be collected on the types and amounts of
+           informal care provided to patients in each arm of the study, to investigate if amount or
+           patterns of informal care change as a result of the intervention. The outputs will be
+           mean costs of care for patients in each arm of the study, cost per year of life gained
+           (if survival is affected significantly by the intervention and the costs in the
+           intervention groups overall are higher) and (if appropriate) the additional costs of
+           achieving better quality of life outcomes (including estimates of cost per quality
+           adjusted life year gained).
+
+        3. Exploratory hypotheses testing:
+
+           For all exploratory endpoints, two-sided statistical tests will be considered
+           significant if p< 0.05
+
+             1. For the outcomes that are measured identical for the patient and the caregiver, the
+                effect on the dyad as a whole (i.e. both patient and family caregiver) will be
+                assessed. For the outcome instruments that led to comparable estimated differences
+                between FOCUS+ and standard care and iFOCUS and standard care, the effect will be
+                assessed on the dyad as a whole by adding an extra level (dyad) to the linear
+                regression model.
+
+             2. For each of the primary and secondary endpoints, subgroup analyses will be
+                performed using formal interaction tests to explore the extent to which the
+                outcomes of the trial differ by country, gender and socioeconomic status.
+                Interaction terms between respectively country, gender and socioeconomic status on
+                the one hand and the trial arms on the other hand will be added to the analysis
+                models. For the country variation a multilevel mixed model analyses will also be
+                performed to additionally account for potential clustering by country (i.e.
+                participants nested within a country). Outcomes will be analyzed with country as
+                random factor.
+
+        4. Other analyses:
+
+             1. Background reports describing care as usual for people with advanced cancer will
+                facilitate the understanding of the results of the between-country comparisons.
+
+             2. Process evaluation of the implementation of the interventions will be analyzed
+                following the MRC framework for evaluating complex interventions, integrating
+                normalization process theory (NPT) and the RE-AIM framework. Data analysis for the
+                process evaluation will include a) standard statistical descriptions of the
+                quantitative data from the intervention checklist and routine monitoring to
+                describe adherence to the implementation. This analysis will determine cut-off
+                points for good intervention adherence and, hence, inform the per-protocol
+                analyses; b) analyses of the qualitative data (semi-structured interviews with
+                patients and their family caregiver and post-intervention interviews with the
+                nurses who delivered the face-to-face FOCUS+ intervention) will be performed (see
+                below - Qualitative analysis).
+
+      Qualitative analysis:
+
+      With the transcription of interviews into the local language, the analysis process will
+      involve a collaborative process involving researchers from each partner site collecting data.
+      Thematic analysis allows for both inductive and deductive analysis and can be implemented
+      with a range of computer-based software to support the management of the analysis process
+      (e.g., NVIVO, MAXQDA).
+
+      Deductive analysis will be informed by semantic information sought from the interview (i.e.,
+      were participants satisfied, where particular elements of the programmes described as
+      positive or negative) and themes evident in previous evaluations of the FOCUS intervention.
+      This will involve developing themes in advance of the analysis process and assessing the
+      presence or absence of these themes across the data. Inductive analysis will be structured
+      using the objectives of the process evaluation to target key topics, with more latent or
+      interpretative themes isolating more experiential findings from the data. Qualitative
+      analysis will be conducted at two levels, an initial assessment of themes in each data source
+      (stakeholders, staff, researchers, patients and carers, different language groups) followed
+      by a higher-level analysis of superordinate themes of convergence and divergence evident
+      across groups. Additional strategies for managing the potential impact of multilingual
+      analysis are recommended, including peer debriefing during the process of coding and the
+      development of candidate themes, triangulation across researchers and language sources.
+      Analysis will be informed by open discussion of conceptual issues in the data to explore
+      variations in interpretation and identify shared meaning relevant to the focus of the process
+      evaluation.
+    
+  

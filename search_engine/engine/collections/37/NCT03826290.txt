@@ -1,0 +1,42 @@
+
+    
+      This study is a pragmatic clinic-randomized controlled trial of a diabetes dashboard
+      integrated with the electronic health record (EHR). The diabetes dashboard is available as a
+      tab in the EHR and enables clinicians to confirm relevant patient parameters, select
+      treatment goals, and review likely outcomes from alternative treatment strategies through an
+      interactive graphical user interface. In the review process, it enables providers and
+      patients to compare up to three potential therapies side-by side including weight-loss in
+      terms of a) personalized-predicted probability of achieving treatment goals; b) general
+      potential risks, benefits, and medication costs; and c) relevant financial information
+      specific to the patient's insurance. The personalized prediction is performed by a predictive
+      model developed by analyzing a data set of primary care clinic patients with diabetes
+      mellitus. The diabetes dashboard is seamlessly integrated with the EHR using an
+      interoperability standard known as SMART on FHIR (short for Substitutable Medical Apps
+      Reusable Technologies on Fast Healthcare Interoperability Resources).
+
+      The study is being conducted at University of Utah primary care clinics. In the intervention
+      group clinics, providers will be introduced to the tool and supported using targeted
+      implementation techniques including education feedback and tailored facilitation. Iterative
+      enhancements will be made to the tool if warranted based on the results of a formative
+      evaluation during the 1-year trial. Use of the tool and associated suggestions will be
+      optional and up to the discretion of the clinician. When patients are seen at clinics
+      randomized to the control arm, clinical providers will not have access to the tool. Following
+      introduction of the tool across intervention clinics, a 1-year trial will be conducted. Use
+      of the tool will be encouraged and supported through targeted implementation strategies. Use
+      of the tool will be regularly monitored, and a mixed-methods evaluation will be conducted of
+      the tool and its impact. The primary outcome measure will be hemoglobin A1c (HbA1c) levels,
+      which are an important physiological marker of diabetes control. Secondary measures will
+      include body mass index (BMI) and the cost of diabetes medications prescribed. Other measures
+      will include usage of the tool and clinical users' opinions of the tool.
+
+      The evaluation period will start once all intervention clinics have been educated/trained on
+      use of the tool. The primary study analyses will be limited to adult patients who were seen
+      at least twice in the intervention or control clinics during the evaluation period for office
+      visits with a visit diagnosis of diabetes mellitus, who are known to have diabetes mellitus
+      (but not type-1 diabetes mellitus), who had at least one HbA1c of >= 7.5% during the
+      evaluation period, and who are not already on maximal diabetes therapy (as defined by the use
+      of short-acting insulin) at the start of the study. Secondary study analyses will be
+      conducted on patient subsets, including a per protocol analysis of cases where the tool was
+      used.
+    
+  

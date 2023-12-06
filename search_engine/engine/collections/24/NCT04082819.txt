@@ -1,0 +1,28 @@
+
+    
+      The gold standard instrument for blood pressure measurement is a mercury-filled
+      sphygmomanometer with cuff and stethoscope (Canadian Agency for Drugs and Technologies in
+      Health; Canadian Electronic Library, 2012). However, such a device is not the most convenient
+      for client self-monitoring or virtual (remote) care. Thus, there is a desire for an accurate,
+      reliable alternative for the traditional mercury-containing sphygmomanometer.
+
+      HeartBeat Technologies Ltd. ("Heartbeat") has developed a novel approach to measuring blood
+      pressure after an initial blood pressure reading using the conventional measurement method,
+      supplemented by specific characteristics of a person (age, gender, height, weight, and heart
+      rate), has established a "baseline measurement" for the person. The "novel approach" uses a
+      finger pulse oximeter, the Contec CMS50EW device (Figure 1) (manufactured by Contec Medical
+      Systems Co., Ltd., Shanghai, People's Republic of China). The finger pulse oximeter detects
+      the changes in blood volume directly below the person's skin and indirectly measures oxygen
+      saturation in the blood. The measurement is in the form of a photoplethysmogram (PPG) which
+      is captured by the Contec oximeter and then, by Bluetooth technology, transmitted to a
+      smartphone or tablet. A HeartBeat application, called MediBeat, on the smartphone or tablet
+      then transmits the PPG to a server where a proprietary algorithm analyzes the baseline
+      measurement for the person and the PPG to calculate the person's current blood pressure.
+
+      Heartbeat's intent is that the current blood pressure reading would then be made available to
+      both the client and the health provider through separate web-based interfaces. Providers
+      would be able to log onto the HeartBeat web-based application from anywhere to review and
+      monitor the blood pressure of multiple clients, while clients can log onto the application to
+      track their own measurements.
+    
+  

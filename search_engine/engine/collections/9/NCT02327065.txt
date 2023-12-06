@@ -1,0 +1,106 @@
+
+    
+      The study subjects are divided into two groups: the EUS-FNA(22G EchoTip Ultra needles) Group
+      and EUS-FNB group(22G EchoTip ProCore needles).Take the malignant occupying lesion diagnosis
+      accuracy as the research major indicator to compare the EUS-FNB group and EUS-FNA group as
+      optimal efficiency test. Take the class I error a=0.05, class II error β=0.15, power=0.85.
+      Suppose the malignancy diagnosis accuracy is 80%, while that of FNB is 93%. The two trial
+      groups be randomly allocated in 1:1, suppose the malignancy cases take 70% of the whole case,
+      and considering the shedding factors , extra 20% cases should be included. So the estimated
+      cases numbers is 204 cases for EUS-FNB group and 204 cases for EUS-FNA group, totally 408
+      cases in this trial.
+
+      Done by professional statistical people with randomized block grouping method and SAS 9.2
+      statistical software to generate randomized serial number（001-408）for the two groups in 1:1
+      manner. The serial numbers are the randomized grouping numbers for the trial patients, block
+      capacity is 8, totally 51 randomized block. The randomized grouping will be generated in
+      duplicate copies and sealed. One copy send to trial centers for patient allocating, and the
+      another copy be saved by the trial applicant unit. Every trail centers will be responsible
+      for the screening of qualified patients, rank them in visit time to get the randomized
+      grouping number so as to determine them goes to the EUS-FNA or EUS-FNB.The research people
+      and patients in all trial centers should not know the the randomized grouping number and
+      relevant groups. The group name will be sealed under scratch card. Every trial patients will
+      get a unique randomized number, and it will not change through out the whole trial.
+
+      Use the inclusion and exclusion criteria to observe the patients and do relative inspections,
+      and confirm if the patients qualified or not to the trial. Record the result of last time
+      test before the treatment. Although it is better to get the informed consent before doing all
+      kinds of observation and tests, if for some reason, the medical imaging examination has
+      completed, as long as the imaging examination was done within 3 weeks before the needle
+      biopsy, it can still be collect as baseline data (imaging examination can be done at other
+      hospitals, but the trial center should issue a new evaluation report 1 week before the
+      patient join the trial group); other lab test items done at 2 weeks before the needle biopsy
+      can still be collect as baseline data for pre-research use, but these tests should be done at
+      the trail center hospital so as to guarantee the data trace ability.
+
+      The investigators will do the needle passes for 4 times for all of them:the 1-2 needle passes
+      with Slow-Pull and the 3-4 needle passes with Vacuum suction.If no core tissues obtained or
+      the operator/onsite pathologist determine insufficient specimen after the operations above,
+      then remedy procedures will be done, the operator use proper puncture method to continue the
+      remedy biopsy.After the first round of needle biopsy, if the trial patient cannot be
+      diagnosed, by getting the agreement of the patient, the patient will be cross-over to another
+      trial group and do needle biopsy again on the same lesion 1 week later with the method
+      mentioned above.Without knowing the needle biopsy type, the cytologist and pathologist
+      evaluate the specimen quality and make diagnosis. Every specimen will be independently
+      evaluated and diagnosed by 2 experts. If the 2 experts have different judgments, then these
+      two experts discuss together and make the final diagnose discussion. If the same sample has 2
+      or more cytology smear slides, than take the highest score slide as the result.Follow up
+      (outpatient follow up or telephone follow up) the patients at 1 week, 12 weeks and 36 weeks
+      after the needle biopsy and collect the patients clinical data and confirm their final
+      diagnosis.
+
+      During the trial, if severe adverse event occurs, the trialed center must take immediate
+      actions necessary to guarantee the trialed patients' safety. Once severe adverse event
+      occurs, the researchers should inform the trial applicant and the trail center's ethics
+      committee within 24 hours after the researchers gets to know the adverse event. And the
+      researchers should also fax the report to State Food and Drug Administration of China and the
+      local provincial food and drug administration. After receiving the report, the applicant
+      should inform other clinical trial centers within 24 hours. All the severe adverse events
+      should be filed at group leader medical center and other trial centers.
+
+      CRF(Case Report Form ) will be filled by the researchers, every involved patient must have
+      the CRF(Case Report Form ) filled. This will be audited by clinical monitor and handed over
+      to data administrator to input and manage data, the first copy will be kept by the applicant,
+      the second copy will go to the trial center, and the third copy will be kept by the trail
+      researchers.The data input and management will be taken care by specially assigned person. In
+      order to guarantee the data accuracy, data input will be done twice by two independent data
+      administrators, by computerized and manual verifying, hand over the data to statistical
+      experts to do blind check and statistic analyzing.For the questions and doubts within the
+      case report form, the data administrator make DRQ and via the clinical monitor asking the
+      researchers. The researchers will answer and feed back as soon as possible. According to the
+      researchers answer, data administrator will do the data modifying, confirming or inputting,
+      and when necessary send out DRQ again.After blind audition and confirming that the
+      established data base is correct, major researchers, applicant and the statistic analyzing
+      people lock the data. The locked data will not be changed, and the data base will be handed
+      over to statistical analyzer to do the statistic analyze according to the statistic analyzing
+      plan. Problems found after data locking can be modified during the statistic analyzing
+      procedure.This will be done by specialized statistic analyzing people according to the
+      predetermined statistic analyzing plan. The statistic analyze will be carried out according
+      to intention principle confirmed full analysis set and per-protocol set principle. After
+      completing the statistic analyzing, the statistic analyzer issue the statistic analysis
+      report and send this to major researchers to write the study report.
+
+      Statistic analyzing plan:⑴ General principle:① all the statistic tests are use the
+      two-tailed-test method, P<0.05 will be thought as the tested difference is statistical
+      significance. ② the quantitative indicator description will calculate the Mean and Standard
+      deviation. The classification indicator description will describe the cases and percentage of
+      all types of cases. ⑵ Statistic analyzing method:① for the measurement data, compare it with
+      the baseline value at selection period, use paired t-test or symbol rank sum test to compare
+      with the before-after-difference within the group.② for the counting data, use x2 test to
+      compare the groups. ⑶ Shedding analysis:Comparison of groups'total shedding rates and the
+      shedding rates caused by adverse events will use x2 test or Fisher's exact test method. ⑷ The
+      baseline value's equilibrium analysis: Use group t test or x2 test to compare the demography
+      info and vital signs, disease history, and basic treatment and other indicators of baseline
+      value, so as to measure the balance of the groups. The baseline evaluation will be done on
+      FAS（full analysis set) and PPs(per-protocol set). ⑸ Effectiveness analysis:The major
+      indicator of effectiveness analysis is the diagnostic accuracy on malignant disease, and the
+      indicators of second effectiveness include the percentage of Grade A specimen and
+      complications rate etc. while the two groups rate and the Youden index comparison will use
+      approximate normal Z test or use central effect x2 test.(6) Safety analysis:Use x2 test or
+      Fisher's exact test to compare the adverse event/adverse reaction (include biopsy
+      complications) rates between the groups. And use table to describe the adverse events during
+      this trial project; the lab test results before and after the trial, the normal/abnormal
+      changing condition and the relationship with this trial research when abnormal changes
+      happened.
+    
+  

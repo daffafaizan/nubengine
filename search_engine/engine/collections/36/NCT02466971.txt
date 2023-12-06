@@ -1,0 +1,59 @@
+
+    
+      PRIMARY OBJECTIVE:
+
+      I. To evaluate the efficacy of the experimental regimen of triapine (3AP), cisplatin, and
+      radiation to increase overall survival relative to the standard/control regimen of cisplatin
+      and radiation in women with uterine cervix or vaginal cancer.
+
+      SECONDARY OBJECTIVE:
+
+      I. To determine the relative progression-free survival impact of triapine-cisplatin
+      radio-chemotherapy and cisplatin radio-chemotherapy.
+
+      TERTIARY OBJECTIVES:
+
+      I. To evaluate incidence and severity of hematologic and gastrointestinal (GI) adverse events
+      by radiation modality; image guided intensity modulated radiation therapy (IG-IMRT) versus
+      conventional pelvic radiotherapy. (05/30/2017) II. To summarize and compare differences in
+      acute adverse events (Common Terminology Criteria for Adverse Events [CTCAE], version [v]4.0)
+      by treatment arm and by radiation modality. (05/30/2017) III. To summarize and compare
+      differences in chronic or late (>= 30-days from off study treatment date) adverse events
+      (CTCAE, v4.0) by treatment arm and by radiation modality. (05/30/2017) IV. To determine
+      peripheral blood methemoglobin proportion before and after triapine infusion (optional for
+      Arm 2 patients).
+
+      V. To explore whether knowledge-based planning (KBP) can improve IG-IMRT plans compared to
+      plans that would have been delivered without KBP, estimate the resulting toxicity reduction
+      using normal tissue complication probability (NTCP) models, and determine whether KBP should
+      be a requirement for future IG-IMRT protocols.
+
+      VI. To determine the post-therapy 3-month fludeoxyglucose F-18 (18F-FDG) PET/CT metabolic
+      complete response rate by treatment arm VII. To compare acute toxicity and chemotherapy
+      delivery for atlas-based IG-IMRT vs. positron emission tomography (PET)/computed tomography
+      (CT)-based IG-IMRT vs. conventional radiation therapy (RT), and assess the impact of
+      treatment on changes in hematopoietic compensatory response.
+
+      VIII. To develop and validate machine learning and radiomics techniques for dose
+      accumulation, automated treatment planning, and prediction of treatment response.
+
+      OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM I: Patients receive cisplatin intravenously (IV) over 90 minutes on days 2, 9, 16, 23,
+      30, (and day 36 or 37 at the treating physician's discretion). Patients then undergo external
+      beam radiation therapy (EBRT) (either conventional RT or intensity modulated radiation
+      therapy [IMRT]) once daily (QD) 5 days a week for 25 fractions followed by low dose rate
+      (LDR) or high dose rate (HDR) brachytherapy according to institution's standards. Treatment
+      continues in the absence of disease progression or unacceptable toxicity.
+
+      ARM II: Patients receive cisplatin and undergo EBRT followed by brachytherapy as in Arm I.
+      Patients also receive triapine IV over 2 hours on days 1, 3, 5, 8, 10, 12, 15, 17, 19, 22,
+      24, 26, 29, 31, and 33. Treatment continues in the absence of disease progression or
+      unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up at 1 and 3 months, every 3
+      months for 2 years, and then every 6 months for 3 years.
+
+      The patient data from NCI #9434 will be merged with NRG-GY006 per the Protocol Analysis Plan.
+    
+  

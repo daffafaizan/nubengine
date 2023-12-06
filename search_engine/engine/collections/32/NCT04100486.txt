@@ -1,0 +1,112 @@
+
+    
+      Biomarkers that reflect disease presence or intensity, or treatment efficacy are central to
+      medical advancements. Recorded biomarkers provide information about physiological processes
+      regulated by the autonomic nervous system (ANS), which include blood pressure, heart rate,
+      sweating, and body temperature. The ANS has two major divisions: sympathetic and
+      parasympathetic systems. Most organs receive reciprocal input from both systems to achieve
+      homeostasis through ANS balance. This regulation occurs without conscious control (i.e.,
+      autonomously). Dysregulation of the ANS can occur as the result of disorders or injuries,
+      including diabetes, sepsis, spinal cord injuries (SCI), Parkinson's disease, and many other
+      conditions.
+
+      The ANS is the part of the nervous system that regulates and integrates bodily functions that
+      typically run involuntary, particularly internal organs including blood vessels, lungs,
+      pupils, heart, sweat, and salivary glands. Along with immunological systems, it controls and
+      adapts homeostasis of the internal environment based on changes in the external environment.
+      Disturbances in autonomic regulation have been described in a variety of diseases and
+      disorders, including those that directly affect the nervous system, such as spinal cord
+      injuries and stroke, and those that afflict other organ systems, such as sepsis and
+      infection, rheumatoid arthritis, Crohn's disease, diabetes mellitus, and numerous heart
+      conditions. This dysregulation manifests differently for each of these conditions, even
+      inconsistently across patients, and the significance of symptoms due to ANS dysfunction are
+      not well understood.
+
+      The ANS can be divided into two major branches: the sympathetic and parasympathetic systems.
+      All internal organs are innervated by one or both component systems through the ANS main
+      conduits, which include the brainstem, spinal cord, and cranial nerves, such as the vagus
+      nerve. The branches typically function opposite and complementary of each other;
+      physiological changes associated with the sympathetic system include accelerating heart rate,
+      dilating pupils, and perspiration, while the parasympathetic system slows the heart, lowers
+      blood pressure, and relaxes muscles. Both systems work in tandem to modulate and maintain
+      blood pressure, vagal tone, heart rate, respiration, and cardiac contractility. While both
+      systems operate to maintain homeostasis, the sympathetic system can be considered a quick
+      response and mobilizing system, while the parasympathetic is a more slowly activated and
+      dampening system.
+
+      Instead of measuring the ANS directly from the central or peripheral nervous system through
+      invasive implants, it is possible to record physiological signals through advances in
+      noninvasive clinical testing. Laboratories are able to test autonomic function and rely on
+      batteries of accepted, noninvasive tests. According to the American Academy of Neurology
+      (AAN), standard techniques of autonomic testing include measuring heart rate and blood
+      pressure variability during deep breathing, tilt table, and the Valsalva maneuver to assess
+      cardiovagal (parasympathetic) and sudomotor (sympathetic) function. It is straightforward to
+      add to the limited necessary equipment (blood pressure cuff, electrocardiogram [ECG]) by
+      including electroencephalography (EEG) to measure brain activity, electromyography (EMG) to
+      measure muscle activity, and eye tracking glasses to measure pupillometry during this
+      battery. All noninvasive signals can be measured during controlled perturbations to
+      characterize the ANS. Assessment of ANS function is now used in multiple disciplines,
+      including neurology, cardiology, psychology, psychophysiology, obstetrics, anesthesiology,
+      and psychiatry.
+
+      Neural reflexes control responses in the cardiovascular, pulmonary, gastrointestinal, renal,
+      hepatic, and endocrine systems. The vagus nerve-based inflammatory reflex is of particularly
+      interest at the Feinstein Institute for Medical Research and has been shown to regulate
+      immune function. The nervous system interacts with the immune system by this pathway;
+      molecular mediators of innate immunity activate afferent signals in the vagus nerve to the
+      brainstem, which sends efferent signals down the vagus nerve to regulate inflammation and
+      cytokine release. Vagus nerve stimulation (VNS) has been shown to decrease production and
+      release of pro-inflammatory cytokines; bioelectronic devices have been used in preclinical
+      and pilot clinical trials to reduce inflammation in patients with rheumatoid arthritis and
+      Crohn's disease.
+
+      The auricular branch of the vagus nerve comes from the vagus and innervates cutaneous areas
+      of the outer ear. Transcutaneous auricular vagus nerve stimulation (taVNS) offers a
+      non-invasive means of stimulating the vagus nerve without surgical intervention. The device
+      consists of a clip that supplies electrical signals to processes of the auricle, and it has
+      been used in previous clinical studies for multiple conditions, including refractory
+      epilepsy, depression, pre-diabetes, tinnitus, memory, stroke, oromotor dysfunction, and
+      rheumatoid arthritis, with additional studies planned for therapy or treatment of stroke,
+      atrial fibrillation, and heart failure. These studies have used a range of electrical
+      stimulation settings and sites; the mechanism of taVNS and responses are not well understood,
+      as well as the effects of changes in stimulation parameters on ANS.
+
+      Recently, application of machine learning models and decoding algorithms permits utilizing
+      commonly used clinical measurement of physiological signals to better understand broader
+      phenomena of autonomic function and dysregulation. Research has been focused on developing
+      quantitative standards based on biomarkers to aid with diagnosis, prognosis, and estimates of
+      treatment efficacy. Autonomic data could potentially capture objective measures of disease
+      states, and machine learning techniques can be used to extract relevant features towards
+      building a predictive model of ANS balance. By training such a model on recordings from
+      healthy, able-bodied individuals, the investigators plan to characterize ANS balance, and
+      then apply this model to new data sets and individuals to diagnose or predict disease states.
+
+      Modern methods of computational science have been used to decode complex clinical and
+      experimental data by detecting patterns, classifying signals, and extracting information
+      towards new knowledge. Through signal processing techniques, it has been possible to decode
+      autonomic nervous system signals conveyed through the vagus nerve by identifying groups of
+      vagal neurons that fire in response to the administration of specific cytokines.
+      Additionally, machine learning has been used to quantify clinical pain using multimodal
+      autonomic metrics and neuroimaging, and large-scale ambulatory data has been used to monitor
+      physiological signals and develop multi-sensor models to detect stress in daily life.
+
+      Additionally, the investigators want to examine how these measurements are affected by the
+      use of non-invasive transcutaneous electrical stimulation of the vagus nerve. Stimulation of
+      the vagus nerve by a surgically implanted stimulator regulates and suppresses
+      pro-inflammatory cytokine release. This has now been used in a successful clinical trial to
+      treat rheumatoid arthritis and Crohn's disease. Non-invasive transcutaneous stimulation of
+      the vagus nerve has also been showing promising early results, indicating that non-invasive
+      methods of activating a specific part of the autonomic nervous system can be used
+      successfully to treat disease. However, real-time biomarkers of efficacy of this treatment
+      are not available.
+
+      Here, the study will develop a framework to decode a multitude of noninvasive physiological
+      signals during controlled autonomic testing to form a model that can quantify ANS balance, as
+      well as the effects of taVNS on the system, in healthy and able-bodied individuals. Data
+      derived from this study will enable the ability to detect early and significant deviations
+      from "normal" homeostasis and provide novel non-invasive real-time biomarkers that could be
+      used to assess disease onset or severity, as well as efficacy of a therapy in activating the
+      ANS in a specific way. In the long-term, this will improve current treatment protocols and
+      suggest new therapeutic opportunities.
+    
+  

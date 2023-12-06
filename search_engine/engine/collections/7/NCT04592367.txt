@@ -1,0 +1,45 @@
+
+    
+      Quality Assurance Plan: Clinical data reported by orthopedic surgeons at public and private
+      hospitals, while patients undergoing ACL-R report PRO.
+
+      Source Data Verification with the Danish National Central Person Registry. Degree of
+      completeness compared to Central Person Registry is approximately 85%.
+
+      Data dictionary provided by the data manager at RKKP - "Regionernes Kliniske
+      Kvalitetudviklingsprogram" - Regional Clinical Quality Development Program. Patients are
+      recruited when the ACL-R is performed, and approximately 35% report PRO 1 year after surgery.
+      Data collection, data management and the extract from the Danish Knee Ligament Reconstruction
+      Registry is performed by the Regional Clinical Quality Development Program. Data analysis
+      done with support from statistician from "Region Sjælland" - Region Zealand. Sample Size
+      Assessment not done. The cohort size is the largest we can get from the registry. The
+      estimated number of patients 30 years of age or older with complete PROs is 2,600 men and
+      1,600 women. This estimation is based on the numbers from the annual report of 2019 from the
+      Danish Knee Ligament Reconstruction Register, which states that 7,368 men and 4,656 women 30
+      years of age or older has undergone the procedure from 2005-2018. We expect that they report
+      PROs as frequently as the entire cohort, which is approximately 35%. Patients with missing
+      data will be described in table 3 and not used in table 2.
+
+      The study will present five tables.
+
+      Flowchart: Cohort size, excluded patients, patients with missing values, patients in each age
+      group
+
+      Table 1: Descriptive statistics of the cohort with reported PRO stratified in three strata
+      (0-14 years of age, 15-29 years of age or 30 years of age or older) with information about
+      gender, age, previous surgery in the knee, activity at time of injury, operational technique
+      and cartilage and meniscal status.
+
+      Table 2: Unpaired t-test if data shows normal distribution, otherwise Mann-Whitney, by change
+      in KOOS from before surgery to one year after surgery, overall KOOS one year after surgery,
+      Tegner one year after surgery, and Tegner from preoperatively to one year after surgery
+
+      Table 3: Descriptive statistics of population lost during follow-up
+
+      Table 4: Multivariate analysis for primary outcome
+
+      Sampling Method: Consecutive patients. Patients are enrolled into the registry when the ACL-R
+      is performed. The completeness of registry depends on physicians' reporting of pre-, intra-
+      and postoperative findings and patients' reporting of PROs.
+    
+  

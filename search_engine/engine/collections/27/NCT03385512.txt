@@ -1,0 +1,60 @@
+
+    
+      This is a three-arm, multi-site, cluster-randomized controlled trial, comparing three
+      approaches to improve communication between patients and their doctors. Three health systems
+      will participate in the study: UCSD Health, Reliant Medical Group, and Sutter Health.
+
+      The study will be carried out in 2 phases.
+
+      Phase 1: Phase 1 includes intervention and survey development work to take place prior to the
+      RCT.
+
+      OPEN High Touch intervention - The High Touch intervention will be modeled after the Open
+      Communication intervention developed in the pilot (ClinicalTrials.gov Identifier NCT02522286)
+      which contained three components: (a) a one question pre-visit survey delivered through the
+      patient portal of the EHR, asking patients what they most want to discuss with their
+      physician in the upcoming visit; (b) an animated video for patients providing coaching on how
+      to best prepare for their upcoming visits and get the most from the visits; and (c)
+      Standardized Patient Instructor (SPI) providing communication coaching for physicians on how
+      to incorporate what matter most to patients in the visit, with empathy, and clarity.
+
+      OPEN High Tech intervention - For the High Tech arm, the patient components of the
+      intervention will be identical to the patient components of the High Touch arm (i.e., the
+      pre-visit survey and patient coaching video). The difference will be in the PCP training: we
+      will replace the in-person SPI with a mobile app with embedded audio and video vignettes
+      demonstrating the communication challenges (e.g., patient with a big list of issues, patients
+      who resist physician recommendations, and patients who disagree with physician) and
+      recommended strategies. A mobile app offers several advantages, including being accessible at
+      a convenient time for busy providers, being easily disseminated, and easily updated. The app
+      will be interactive, posing questions to learners in association with video vignettes and
+      asking learners to answer how they would handle the situation. We will start with the idea of
+      building a set of short mobile modules that mirror the High Touch approach, honing skills on
+      acknowledging patient's agenda, negotiate a joint agenda, invite patient to teachback and
+      incorporate it in the After Visit Summary in the EHR.
+
+      ASK intervention - The ASK intervention is intended to activate patients by encouraging them
+      to ask three questions during their primary care visit: (1) What are my options? (2) What are
+      the possible benefits and risks of each option? (3) How likely are each of the benefits and
+      risks to happen to me? These questions will be printed on posters and placed in exam rooms
+      used by providers in clinics randomized to the ASK arm of the trial.
+
+      Phase 2: Phase 2 covers the trial recruitment, and three waves of data collection. Prior to
+      the start of the RCT we will collect baseline (T0) data to allow measurement of primary care
+      provider (PCP) performance prior to the trial. Patients participating in the T0 phase will
+      provide only post-visit ratings of their encounters; we will not collect other outcome data
+      or clinical indicators for these patients. For all patients in the intervention phase, we
+      will be collecting information at two time points: 1) immediately post-encounter (T1); and 2)
+      three months post-encounter (T2). We will further sample the top 5% high users of services
+      after the intervention and review their medical records including the indexed visit and
+      subsequent services that had occurred within four weeks after the indexed visit. The chart
+      review will enable us to decipher the reasons for high volume of services after the indexed
+      visit. We will also use existing patient survey data (Press-Ganey and/or NRC) to supplement
+      our data sources.
+
+      Analytical approach: We will apply intention to treat analysis, providing descriptive
+      statistics on relevant outcome measures across patients, PCPs, and clinics according to their
+      randomized assignments in the RCT. We will then use generalized estimating equations logistic
+      regression analysis to examine the impact of the assignment into the intervention arms and
+      the outcomes, while controlling for patient and physician covariates.
+    
+  

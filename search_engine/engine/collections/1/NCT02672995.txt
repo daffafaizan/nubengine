@@ -1,0 +1,40 @@
+
+    
+      For each group (two groups according to tumor size), the design proceeds with cohorts of
+      three patients, with the first cohort treated at a starting dose. If none of the three
+      patients in a cohort experiences a dose-limiting toxicity (DLT), the next cohort with three
+      patients will be treated at the next higher dose level. If one of the first three patients
+      experiences a dose-limiting toxicity, the next cohort will be treated at the same dose level.
+      The dose escalation continues until at least two patients among a cohort of three to six
+      patients experience DLTs and the maximum tolerated dose (MTD) will be the dose level just
+      below. If the highest planned dose was achieved without two patients experiencing DLTs, the
+      MTD will be that dose level.
+
+      The DLT is defined as grade 4 or above toxicities according to the Common Terminology
+      Criteria for Adverse Events (CTCAE) version 4.03 within 4 months after stereotactic
+      radiosurgery (SRS):
+
+      Grade 4 central nervous system necrosis (life-threatening consequences; urgent intervention
+      indicated) Grade 4 sensory or motor neuropathy (life-threatening consequences; urgent
+      intervention indicated) Grade 4 hemorrhage (life-threatening consequences; urgent
+      intervention indicated) or Grade 4 thromboembolic event (life-threatening consequences such
+      as pulmonary embolism, cerebrovascular event, arterial insufficiency; hemodynamic or
+      neurologic instability; urgent intervention indicated) Grade 4 hypertension (life-threatening
+      consequences such as malignant hypertension, transient or permanent neurologic deficit,
+      hypertensive crisis; urgent intervention indicated)
+
+      Study treatment:
+
+      Fractionated stereotactic radiosurgery:
+
+      Group 1: tumors 1.5~2.5 cm in diameter Dose level 1: 21 Gy in 3 fractions Dose level 2: 24 Gy
+      in 3 fractions Dose level 3: 27 Gy in 3 fractions Group 2: tumors 2.5~3.5 cm in diameter Dose
+      level 1: 18 Gy in 3 fractions Dose level 2: 21 Gy in 3 fractions Dose level 3: 24 Gy in 3
+      fractions Three fractions will be given in one week with at least 1 day break.
+
+      Concurrent bevacizumab:
+
+      Bevacizumab 7.5 mg/kg will be given one day before the first fraction of radiosurgery and 2
+      weeks after the first dose of bevacizumab.
+    
+  

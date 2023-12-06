@@ -1,0 +1,39 @@
+
+    
+      Some relevant studies have indicated that approximately 36% of these survivors (i.e. more
+      than 9 million in 2013 only) are left with significant disabilities 5 years after their
+      stroke, and >40% (i.e. more than 10 million) require assistance with activities of daily
+      living.
+
+      Despite evidence that participation in formal rehabilitative therapies lessens disability
+      after stroke, less than a third receive inpatient or outpatient therapies. Of those who do
+      access therapies, the frequency of use varies by geographic location and socioeconomic
+      status. In this context, the development of new strategies able to expand the access to
+      rehabilitation to an increased number of stroke patients, also enabling home-based conduction
+      and monitoring, are increasingly necessary both for patients, their families and for the
+      healthcare and social services sustainability. Since many barriers could limit access to
+      continuous physical rehabilitation for these patients, devices that complement or assist in
+      the rehabilitation process can be of great help.
+
+      Among different approaches proposed by the scientific community, technological systems based
+      on accelerometers seem to be among the most promising. Accelerometers are small low cost
+      electronic devices, able to measure body parts acceleration on three axes. Many researchers
+      have already highlighted that accelerometers have the capability to provide reliable and
+      objective information on quantity and intensity of patient limbs movements during recovery
+      process.
+
+      Wearable devices such as accelerometers allow to monitor exercises and daily activities.
+      Machine learning methodologies have already been applied for modelling and contextualizing
+      accelerometric signals to identify activity types (walking, dressing, eating, washing up,
+      etc.) or to recognize to which rehabilitative exercise these signals are linked to. These
+      techniques allow to estimate the recorded movement quality, providing information useful to
+      identify the context in which movements are performed. Results of these type of studies are
+      promising and they demonstrate that machine learning is a preferred approach for
+      accelerometric data analysis, since able to exceed actual limits that today are hampering
+      commercial product development for real time analysis of movement.
+
+      Within this scenario, Camlin-ARC takes its place. ARC is a platform based on wearable
+      inertial sensors and machine learning algorithms, designed to bring the rehabilitation at
+      post-stroke patients' home, following hospital discharge.
+    
+  

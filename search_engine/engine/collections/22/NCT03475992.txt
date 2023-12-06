@@ -1,0 +1,88 @@
+
+    
+      This is a single-site early-phase pilot clinical study, taking place at Galway University
+      Hospital/HRB Clinical Research Facility, Galway.
+
+      Patients will have a conventional history and breast examinations (Mammogram and / or
+      Ultrasound and Clinical assessment) performed by the physician, as per normal practice in the
+      Symptomatic Breast Unit of University Hospital Galway.
+
+      If patients are interested in the study, provide written informed consent and are deemed
+      eligible, they will attend the Clinical Research Facility Galway for a Microwave Breast
+      Imaging (MBI) scan. The data from the scan will be collected and stored securely. Patients
+      will be followed up 7-21 days after the microwave breast investigation or before surgery,
+      whichever comes first. Patients will be assessed for their experience of the microwave breast
+      investigation, and for any adverse events.
+
+      The investigational medical imaging device consists of two subsystems, both performing a
+      non-invasive examination:
+
+        -  the Microwave Breast Imaging subsystem (MBI subsystem);
+
+        -  the Optical Breast Contour Detection subsystem (OBCD subsystem);
+
+      The MBI subsystem is an active device which uses non-ionizing radiation. It illuminates the
+      breast with low-power electromagnetic waves in the microwave frequency spectrum, which
+      penetrate the breast under examination. The subsystem collects the scattered electromagnetic
+      waves and recovers useful information on the breast tissue consistency, given the dielectric
+      contrast of these tissues.
+
+      Multi-static radar detection technology is employed in the MBI subsystem for breast image
+      formation.The well-established Microwave Vision Group (MVG) technology for fast antenna
+      measurement, using multiple sensors in a vertical arch configuration, has been transposed to
+      a horizontal arch of sensors. In addition, vertical translation of the horizontal arch has
+      been enabled, such that 3D multi-static short-range radar imaging is possible.
+
+      The sensors are in contact with a cylindrical container filled with a liquid; the so-called
+      coupling liquid has been designed to have electromagnetic (EM) properties appropriately
+      selected such that the EM wave penetration in the breast is maximized.
+
+      During the MBI scan, the patient is lying in a face down position on a special bed,
+      integrated with the MBI subsystem. The breast under examination is immersed in the coupling
+      liquid, through a dedicated circular opening of the bed. The breast is then scanned. This
+      vertical scan takes approximately 10-15 minutes to complete, depending on the size of each
+      breast.
+
+      In order to compute the required volume of coupling liquid, such that the container of the
+      MBI subsystem is optimally filled after immersion of the breast, a simple process for optical
+      assessment of the total volume of the breast takes place just before starting the MBI scan.
+
+      The Optical Breast Contour Detection (OBCD) subsystem serves to provide the total volume of
+      the breast, and also its external contour, as a priori information to the MBI subsystem. The
+      OBCD subsystem consists of a 3D optical camera placed below the examination table, at a
+      distance of several tens of centimetres below the breast. An azimuthal scan of the 3D camera
+      permits to reconstruct the external surface of the breast.
+
+      In order for the breast contour to be a useful a priori information for the MBI subsystem, it
+      is important that the patient is lying in the same face down position during both the MBI and
+      OBCD scans. Thus, an identical examination table, as the one integrated with the MBI
+      subsystem, is also integrated with the OBCD subsystem. During the OBCD scan, the patient is
+      lying on the examination table, with her breast under examination inserted in the circular
+      opening of the examination table. For this scan, there is no coupling liquid; the breast is
+      in the air, hanging below the examination table.
+
+      Both the breast bearing the palpable lump and the contralateral breast will be scanned. The
+      contralateral breast scan will serve as control in the data analysis.
+
+      The MBI scan duration of each breast should not exceed 15 minutes. The recorded data will be
+      checked and in the case of non-optimal positioning of the patient, the scan may be repeated.
+
+      It is expected that the duration of the microwave breast investigation (including OBCD scan
+      of both breasts for breast volume assessment, preparation of the MBI subsystem, MBI scan of
+      both breasts, and data verification) should not exceed 1 hour. If the Data Quality Check
+      suggests repetition of the MBI scan, and upon agreement by the patient, the total duration of
+      the microwave breast investigation will be extended.
+
+      The written radiology reports from conventional imaging will be acquired and used to evaluate
+      the performance of the MBI subsystem in terms of detecting and estimating the size and
+      consistency of the breast lump.
+
+      MBI data analysis will be performed off-line, at MVG premises (France), and is expected to be
+      completed few months after the end-date of data collection. Following the assessment of the
+      MBI results by the medical experts involved in the study, a decision will be made regarding
+      the potential of this emerging imaging modality and the interest in proceeding with clinical
+      studies involving larger sample sizes. Based on these results, MVG will decide and plan
+      actions for refinement of the system, towards an upgraded version to be used for potential
+      future tests with a more significant impact.
+    
+  

@@ -1,0 +1,34 @@
+
+    
+      The study will involve adult volunteers who are willing to be scanned by a trained
+      sonographer to collect ultrasound video data for the following categories:
+
+        -  Adductor canal
+
+        -  Popliteal fossa
+
+        -  Fascia Iliaca
+
+        -  Rectus sheath
+
+        -  Axillary
+
+        -  ESP
+
+        -  PECS
+
+        -  Interscalene
+
+      Each volunteer will be scanned to collect data for every category in the list. Where
+      applicable, both sides of the body will be scanned.
+
+      The videos will be segmented by hand to identify the relevant anatomical regions for each
+      category.
+
+      The primary objective for this study is to provide the range of data required to develop
+      robust models in conjunction with additional data from patients undergoing a Peripheral Nerve
+      Block procedure that are able to produce the desired segmentation on the unseen validation
+      images. The models will be scored using the standard "Mean intersection over Union"
+      pixel-level metric for semantic segmentation.
+    
+  

@@ -1,0 +1,28 @@
+
+    
+      The eligible patients randomly into training cohort and validation cohort. The univariate
+      logistics regression analyses were performed to determine the independent risk
+      characteristics in the training cohort of the presence of in-hospital all-cause death. Odds
+      Ratios (ORs) and 95% confidence intervals (CIs) of these variables were estimated to quantify
+      the strength of these associations. All variables that showed a univariate relationship with
+      in-hospital mortality or that were considered clinically relevant were candidates for
+      stepwise multivariate analysis in the training cohort. A nomogram model, producing by using
+      the rms package, was formulated based on the results of independent risk factors in
+      multivariate logistic regression. Based on the nomogram model, the total scores and
+      prediction of in-hospital mortality risk of each patient were added by each eligible variable
+      and then were converted to predicted probabilities both in the training cohort and validation
+      cohort.
+
+      To evaluated the model for the prediction value of in-hospital mortality, firstly, the
+      investigators calculated the calibration of the model was measured by calibration with 1000
+      bootstrap samples to decrease the overfit bias. Model fitting was assessed using the
+      Hosmer-Lemeshow test to evaluate the goodness of fit. Secondly, the Harrell concordance index
+      (C index) and receiver operating characteristic curve (ROC curve) to evaluate the predictive
+      performance and discrimination of the nomogram. The ROC curve analysis was used to calculate
+      the optimal cutoff values that were determined by maximizing the Youden index. Third, the
+      clinical effectiveness of the resulting model was evaluated by decision curve analysis (DCA),
+      which was a method for evaluating alternative diagnostic or prognostic tools that had
+      advantages over others[16]. The increase in the discriminative value of MEWS and the
+      resulting model for mortality was assessed by the net reclassification index (NRI).
+    
+  

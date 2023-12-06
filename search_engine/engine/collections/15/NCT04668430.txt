@@ -1,0 +1,71 @@
+
+    
+      The general research framework is focused on predicting the functional outcome of orthopaedic
+      surgery for a given patient.
+
+      Since surgery is an invasive and irreversible procedure, it may be useful to carry out
+      surgical simulations on a digital clone before performing them on the real patient.
+
+      This simulation would therefore be a tool for optimized surgical planning, based on a
+      realistic functional objective.
+
+      The investigators' work in the design and evaluation of biomechanical models is now
+      applicable to orthopedic surgery.
+
+      So, it is necessary to verify that the digital procedures allowing the realization of virtual
+      surgical gestures are comparable to the procedures actually applied to the patient.
+
+      Thus, a first retrospective study (Imaging for the generation of personalized biomechanical
+      models of the musculoskeletal system before and after surgery - ORTHOSIM Retrospective)
+      Clinical Trial N° NCT03835000, is in progress in order to validate the possibility of
+      creating pre- and post-operative anatomical digital clones. The aim of this prospective study
+      is to integrate the functional characteristics of the patient before and after surgery with
+      the objective of dynamic validation of the biomechanical models created.
+
+      OrthosimPro is a bi-centric, longitudinal and prospective study.
+
+      10 patients needing orthopedic surgery will be enrolled after being informed about the study
+      and potential risks. They will give written informed consent.
+
+      This study will not modify :
+
+        -  the operative indication
+
+        -  the surgical procedure
+
+        -  the management before and after the surgery
+
+      Patients will have a pre and post operative assessment
+
+        -  Anatomical by sectional imaging
+
+        -  Functional by motion analysis
+
+      Thus, it allows creating 3 digital models for the same patient:
+
+        1. Creation of Model 1: preoperative dynamic model obtained from the anatomical and
+           functional preoperative assessment.
+
+        2. Creation of Model 2: Model 1 to which the surgery is applied according to the criteria
+           indicated by the surgeon.
+
+        3. Creation of Model 3: a dynamic postoperative model independent of Models 1 and 2
+           obtained from the anatomical and functional postoperative assessment.
+
+      Validation of each model:
+
+      Each model will be compared with the patient data used to build the model, there is no
+      comparison of patients regarding each other or models belonging to different patients. This
+      study therefore aims to validate an individual's model on his or her own data.
+
+        -  Comparison of model 1 (angle, forces, geometry) versus morphological and functional
+           assessment before surgery
+
+        -  Comparison of model 3 (angle, forces, geometry) versus morphological and functional
+           assessment after surgery
+
+      Evaluation the surgery simulation procedure:
+
+      Comparison of model 2 (angle, forces, geometry) versus model 3
+    
+  

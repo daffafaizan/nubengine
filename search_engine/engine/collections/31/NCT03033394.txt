@@ -1,0 +1,74 @@
+
+    
+      STUDY PARTICIPANTS
+
+        -  Participants receiving oral or intravenous therapy will be included in this study.
+
+        -  Drug level sampling will be undertaken once the participant is at steady state (after at
+           least 5 doses have been administered to those on treatment).
+
+        -  All patients will be consented using the participation information leaflet and consent
+           form provided in appendix 1.
+
+      DRUG LEVEL SAMPLING
+
+        -  Patients will be identified for inclusion, and researchers will discuss inclusion in the
+           study with the patient and provide clinical information for them to consider.
+           Individuals will be recruited from all areas of secondary care (including, general
+           medicine, general surgery, augmented care, and out-patient parenteral antimicrobial
+           therapy [OPAT]).
+
+        -  They will then be consented by researchers after being given at least 24 hours to
+           consider this information and as long as the patient has expressed interest in
+           participating to their treating physician.
+
+        -  This will include permission for basic, anonymised demographic and clinical data to be
+           collected related to the patients infection, for which they are receiving antimicrobial
+           therapy.
+
+        -  An extra 3mLs of blood will be collected during the patient's routine daily phlebotomy
+           round following their consent. They will be enrolled for up to 72 hours or two days of
+           routine blood tests (whichever is shorter). Up to 10 samples may be taken during the 2
+           days the patient is enrolled, depending on the number of routine blood tests the patient
+           receives during that day. No more than 3mLs will be taken per each routine blood sample.
+           For example, if the individuals will only have routine blood tests taken at 8am on day 1
+           and day 2. Then only two extra samples will be taken (3mLs on D1 and 3mLs on D2).
+
+        -  The time they received their dose of antimicrobials, the length of infusion time (if
+           available), and time the sample was collected will all be recorded.
+
+        -  PK/PD indices for evaluation will be calculated post-hoc during
+           pharmacokinetic-pharmacodynamic analysis. TDM sampling can occur at any time during the
+           dosing schedule (in line with routine blood testing).
+
+        -  A standard operating procedure for this study can be found in appendix 3.
+
+      SAMPLE PREPARATION AND ANALYSIS
+
+        -  All blood samples will be allowed to clot and placed on ice. They will be centrifuged at
+           2,400rpm for 10 minutes. Sera from each sample will be separated into three vials and
+           stored at -80C.
+
+        -  Beta-lactam concentrations will be measured using validated high-performance liquid
+           chromatography methods.
+
+        -  Samples will be stored for up to three years post completion of data collection.
+
+             -  Consent will be gained for samples to be used for calibration of electrochemical
+                sensors in ex-vivo studies. This will be performed within 90 days of the samples
+                being collected.
+
+      PHARMCOKINETIC-PHARMACODYNAMIC MODELLING
+
+        -  Data will be anonymised and analysed using Pmetrics in R.
+
+        -  Different pharmacokinetic models will be explored using in built statistical analysis
+           options and visual predictive checks.
+
+        -  Pharmacodynamic models will then be incorporated into the model using evidence
+           identified in the literature for selection of parameters.
+
+        -  Monte Carlo simulation will then be used to for simulation of target attainments and
+           analysis of pharmacodynamic outcomes
+    
+  

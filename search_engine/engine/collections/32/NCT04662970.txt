@@ -1,0 +1,13 @@
+
+    
+      Patient specific anatomic parameters taken from the cardiac magnetic resonance examination
+      will be the base for a semiautomatic model incorporating the conductivity of the heart, the
+      lungs, blood and the torso. For this reason, a software package (AMIRA Developer, TGS
+      Template Graphics Software, France) has been adapted to calculate a quasi static
+      approximation of Maxwell equations.
+
+      After fusion of the T1 CMR scan and the ECG electrodes a model-based bidomain FEM is used for
+      a step-wise measurement of the local activation times (resting potential: 290 mV; plateau: 0
+      mV; acceleration time: 3 ms) both Ende- and epicardially.
+    
+  

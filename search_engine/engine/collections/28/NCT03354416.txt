@@ -1,0 +1,45 @@
+
+    
+      Background:
+
+        -  Multiparametric MRI (mpMRI) has become an established method for localizing clinically
+           significant prostate cancer, and identification of imaging-based prognostic markers
+           represents an active research area.
+
+        -  Multiple treatments are available for patients with localized prostate cancer, including
+           radical prostatectomy, external beam radiotherapy, brachytherapy, and focal ablation;
+           however, therapy-specific indication and imaging-based response biomarkers are poorly
+           understood.
+
+        -  As mpMRI is considered a standard of care , there is no patient consent for research
+           related to imaging biomarkers and their correlation with other clinical and pathologic
+           features.
+
+        -  Translation of imaging, clinical, and pathological-based features into treatment
+           decisions has yet to be fully characterized for development of a decision-support
+           system.
+
+        -  Therefore, the purpose of this protocol is to enable the collection of data to enable
+           research in the development of computer aided diagnosis, decision support and deep
+           learning/artificial intelligence research.
+
+      Objective:
+
+      - To evaluate radiological profiling of patients with prostate cancer in support of the
+      Molecular Imaging Branch (MIB) for identification of imaging-based prognostic markers in
+      prostate cancer.
+
+      Eligibility:
+
+        -  Patients with an increased risk for prostate cancer, with a diagnosis of prostatic
+           cancer or suspicious for prostatic cancer lesions.
+
+        -  Age greater than or equal to 18 years.
+
+      Design:
+
+      - Imaging evaluation and clinical profiling of patients with an increased risk of prostate
+      cancer, with prostate cancer or suspected of prostate cancer obtained during visits to NCI
+      and long-term follow up will be collected and analyzed.
+    
+  

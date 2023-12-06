@@ -1,0 +1,136 @@
+
+    
+      Intraoperative hypotension (IOH) represents a common event during general anesthesia (GA),
+      with an estimated incidence between 5% and 99%, according to definition adopted [1].
+
+      Actually, a mean arterial pressure (MAP) below 65 mmHg is considered an appropriate
+      definition of IOH [2].
+
+      Hypotension mainly occurs during anaesthesia due to three pathophysiological dysregulations:
+      hypovolemia and consecutively decreased cardiac output, myocardial depression and low
+      systemic vascular resistance [3]. IOH has been associated with postoperative acute acute
+      kidney injury and myocardial injury; it seems that the cumulative time spent in hypotension
+      increases the risk, and this has implications as even relatively short episodes of
+      hypotension that are treated promptly can over time reach accumulated hypotension time
+      associated with increased injury rates [4-7]. Therefore, anaesthetic management that aims to
+      prevent IOH using a "pro-active" treatment protocol might potentially reduce the amount and
+      severity of IOH, perioperative complications and mortality. In order to detect and treat
+      these haemodynamic alterations, advanced haemodynamic monitoring combined with a treatment
+      algorithm can be used [8].
+
+      The Hypotension Prediction Index (HPI) algorithm was recently established by Edwards
+      Lifesciences (Irvine, USA). Based on the Edward´s monitoring platform (HemoSphere), HPI is a
+      monitoring tool which aims to predict IOH up to 15 min before its onset [9, 10]. HPI is a
+      unitless number that ranges from 1 to 100, and as the number increases, the risk of an event
+      occurring in the future increases. The HPI was developed using machine learning methods and
+      is a data-driven model developed from over 200,000 hypotensive patient events and it predicts
+      upcoming hypotensive events based on features of the arterial pressure waveform [9].
+
+      When HPI rises over 85, the monitor Hemosphere provides a secondary screen showing the
+      following hemodynamic parameters: stroke volume variation (SVV) as indicator of fluid
+      responsiveness - preload, radial dP/dtmax as indicator of cardiac contractility, and dynamic
+      elastance (Eadyn) as dynamic indicator of resistance - afterload. Hemodynamic variables,
+      hemodynamic diagnostic guidance and the definition of a treatment protocol, should allow for
+      determination and treatment of the underlying cause of the impending hypotension.
+
+      Using an early warning system to predict hypotension does not necessarily lead to reduce
+      hypotension. There are few randomized clinical trials to investigate the effectiveness of the
+      use of HPI in reducing the amount of hypotension as measured by time-weighted average [11]
+      during major noncardiac surgery [3, 12].
+
+      Eligible patients will be allocated in one of the two groups of the study according to a
+      computerized randomization form (ww.randomization.com). Once the patient arrives in the
+      premedication hall of the operating room, a peripheral intravenous access will be placed.
+      Based on the patient's allocation group, the following hemodynamic monitoring will be
+      started:
+
+        -  Group C - Control: through the EV1000 monitor (with Flotrac sensor)
+
+        -  Group HPI - Proactive: through the HemoSphere platform (with Acumen Flotrac sensor)
+
+      The following timepoints will be recorded:
+
+      T0: Machine calibration on the bed in neutral position, recordings of the parameters with
+      annotation of the baseline MAP; T1: Infusion of RLS at 3ml/kg/h as in standard clinical
+      practice; T2: cannulation of the radial artery under local anesthesia before induction of
+      general anesthesia, as in normal standard clinical practice; T3: performance of neuraxial
+      anesthesia if needed; T4: standard induction of general anesthesia GA) with propofol,
+      sufentanil and rocuronium bromide; maintenance of GA with sevoflurane and sufentanil; T5:
+      differentiated hemodynamic management based on the patient's allocation group; T6: surgery
+      under continuous monitoring.
+
+      Group C: Standard Protocol In group C the hemodynamic management will be performed based on
+      cardiac optimization. Fluid boluses will be given with the use of an individualized
+      goal-directed therapy (GDT) protocol aiming to optimize stroke volume index (SVI) [13].
+      Patients will receive 250 ml fluid challenges, within duration of 5 minutes, with a RL
+      solution. Fluid responsiveness will be defined as a SVI increase ≥10%. Maximal stroke volume
+      will be defined as the absence of a sustained rise in SVI of at least 10% sustained for 20
+      minutes or more in response to a fluid challenge. No more than 500 ml of fluid will be
+      administered for initial determination of the maximal value of SVI before start of the
+      surgical procedure. Once the maximal value of SVI will be determined after induction of
+      anesthesia, SVI must be maintained throughout the intervention period with subsequent boluses
+      of fluids as required.
+
+      For the treatment of eventual hypotensive episodes, etilephrine or efedrine will be used,
+      depending on the clinical situation. If needed, continuous infusion of noradrenaline and/or
+      other vasopressors or inotropes will be started.
+
+      All of the hemodynamic parameters detected with the EV1000 monitor and the measures adopted
+      will be recorded.
+
+      Group HPI: Proactive Protocol In case of HPI>85, hypotension will be prevented according to
+      the following modalities. The first step will be the optimization of SVV (in case of SVV>13%)
+      with bolus of 250 ml RLS. In case of dP/dtmax < 400 (or in decreasing trend) dobutamine
+      infusion 2.5 - 5 mcg/Kg/min will be started. In case of Eadyn < 0,9 norepinephrine infusion
+      0,1 mcg/kg/min will be started.
+
+      All of the data relative to the hemodynamic monitoring and the measures adopted will be
+      recorded and subsequently analyzed to compare the incidence and duration of the hypotensive
+      events in the 2 groups. To calculate the entity of the intraoperative hypotension the
+      following technique will be used: after removal of artifacts, the TWA MAP (time weighted
+      average mean arterial pressure) <65mmHg will be represented by the area between the threshold
+      of 65 mmHg and the curve of the measured MAP, divided by the total recorded time in minutes
+      [12].
+
+      Statistical plan The data will be described in their demographic and clinical characteristics
+      through the application of descriptive statistics. The qualitative variables will be
+      described using tables of absolute frequencies and percentages; the continuous quantitative
+      variables will be presented as a median and interquartile range or as a mean and standard
+      deviation when normally distributed; while the non-normal variables will be presented as
+      minimum, maximum and median values.
+
+      In the two groups of patients, the hypertensive events, defined as a MAP lower than 65mmHg
+      for > 1 minute (and the severe hypotensive events as having a MAP lower than 60 and 55 mmHg),
+      will be analyzed in terms of frequency and absolute duration and, to estimate their severity,
+      as the ratio between the area under the 65 mmHg threshold and the total length, expressed in
+      minutes, of intraoperative monitoring using the TWA-MAP method. The Chi-squared test will be
+      used to compare the two incidences. The t-student test for independent samples will be used
+      to evaluate statistically significant differences among the patients' demographic and
+      anthropometric characteristics.
+
+      The Shapiro-Wilk test will be used to assess the normality of data distribution, while the sd
+      test will be used to verify the equality of the variance.
+
+      The Mann-Whitney test will be used for independent samples to compare the data that are not
+      normally distributed.
+
+      Regarding the assessment of the secondary outcomes, the investigators will report the
+      relative risks with 95% confidence intervals and p-values based on either the chi square or
+      Fisher's exact test, as more appropriate according to the frequencies expected and detected.
+
+      A p-value <0.05 will be considered statistically significant. All of the analysis will be
+      performed through the STATA IC 15.1 (Stata Corp) for Windows, Microsoft Excel, Matlab (The
+      MathWorks Inc., Natick, MA, USA) and the Acumen Analytics software (Edwards Lifesciences,
+      Irvine, CA).
+
+      Sample Size International literature agrees to consider clinically significant a reduction of
+      75% of the hypotensive events in terms of entity and duration. According to one of our
+      internal databases (data not yet published), the mean TWA-MAP during gynecological oncology
+      surgery is 0,5 mmHg. Thus, the estimated mean difference between the two groups according to
+      the sample size calculations results to be 0.38 mmHg. Based on the previous clinical trials
+      11,12 the TWA-MAP standard deviation is estimated to be 0.51 mmHg. Dividing the mean
+      difference by the standard deviation, the resulting dimension has a size effect of 0.74. The
+      investigators calculated that a sample of 60 patients, 30 for each group, has 80% ability of
+      discriminating such effect (t-test with α of 0.05).
+    
+  

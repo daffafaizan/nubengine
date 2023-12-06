@@ -1,0 +1,65 @@
+
+    
+      Methods
+
+        1. Defining complex patient ventilator interactions The Investigators defined "Complex
+           Patient-Ventilator Interactions" (CP-VI) as the presence alone or in combination of a
+           change in the respiratory rate of more than 50%, and/or the occurrence of any kind of
+           asynchronies
+
+        2. Data acquisition and data analysis Paw and Flow signals will continuously recorded
+           throughout patient's stay in the Intensive Care Unit (UCI) using BetterCare® system
+           (Better Care®, Barcelona, Spain). BetterCare uses drivers specifically designed to
+           interact with the output signal of mechanical ventilators and bedside monitors rather
+           than directly with patients. Recorded signals are synchronized and stored for further
+           analysis. MATLAB (The MathWorks, Inc., vR2018b, Natick, MA, USA) will be used to perform
+           the signal processing, data analysis and visual assessment.
+
+        3. Study Population The Investigators will obtain data from an prospectively constructed
+           database from a connectivity platform (Better Care®) to interoperate signals from
+           different ventilators and monitors and subsequently compute algorithms to diagnose
+           patient-ventilator asynchronies (ClinicalTrial.gov, NCT03451461). All of those patients
+           corresponding to a self-extubation event previously recorded will be recruited for the
+           characterization and validation process, in order to guarantee at patient-ventilator
+           interactions and episodes when they fight the ventilator. Also, patients in whom an
+           spontaneous breathing trial previous to an attempt to librate him/her from the
+           ventilator will be recruited in order to obtain signals of Paw and Flow. Clinical and
+           demographic data will obtained from the medical chart. The institutional review board
+           approved the protocol and waived informed consent because the study was
+           non-interventional, posed no added risk to patients, and did not interfere with usual
+           care.
+
+        4. Visual validation of CP-VI Three researchers will visually review the Flow and Paw
+           recordings of events. The segments duration will selected based on previous studies
+           where asynchronous clusters are evaluated. The dataset will be previously selected by an
+           expert in mechanical ventilation ensuring balance by ventilation modes (grouped by
+           Pressure Support Ventilation (PSV) and Assist-Control Ventilation modes) and equal
+           distribution of CP-VI presence or absence. The controlled modes included volume
+           assist-control ventilation (VACV) and pressure assist-control ventilation (PACV). Flow
+           and Paw tracings will be randomly ordered in MATLAB prior to visual analysis to ensure
+           blinding of the scorers. Scorers will be provided with written description of CP-VI
+           characteristics before visual analysis, as a reference. On base of CP-VI definition
+           previously described, each researcher will score for the presence or absence of CP-VI
+           events, without time limitation. The visual assessment will considered as the gold
+           standard.
+
+        5. Entropy Entropy is a non-linear measure that allows assessing the randomness of a series
+           of data. Entropy calculation requires three parameters: the embedding dimension, m (a
+           positive integer); the tolerance value or similarity criterion, r (a positive real
+           number); and the total length, N, of the analysed series.
+
+        6. Automatic CP-VI detection An automated algorithm for CP-VI detection based on Entropy
+           tool will be implemented.
+
+        7. Statistical analysis Fleiss's kappa coefficient will be used as reliability of agreement
+           among raters for visual assessment. The automated algorithm for CP-VI detection will be
+           applied over the entropy series derived from the same Flow and Paw. The performance of
+           the automated algorithm will be evaluated on base of sensitivity (Se), specificity (Sp),
+           positive and negative predictive values (PPV and NPV, respectively), accuracy (ACC) and
+           Matthews correlation coefficient (MCC).
+
+        8. Selection of m, r and N In entropy studies, an important step is to determine the
+           optimal settings to robust extract the randomness of a series of data. Therefore, an
+           optimization procedure of m, r and N will performed to properly estimate CP-VI.
+    
+  

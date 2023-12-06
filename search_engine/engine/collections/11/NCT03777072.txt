@@ -1,0 +1,73 @@
+
+    
+      Background:
+
+      The management of postoperative pain in patients undergoing total ankle replacement is
+      routinely based on one of the two following drugs: tapentadol and oxycodone/naloxone (Nett,
+      2010). The drugs are used with similar frequencies. Indeed, previous studies compared the two
+      drugs in terms of efficacy in reducing postoperative pain and frequency of side effects, in
+      the field of orthopaedic and trauma surgery (Haeseler, 2017, Hartrick, 2009). The studies
+      demonstrated that there are no substantial differences.
+
+      With regard to pain monitoring, the gold standard is the visual-analogue scale (VAS), which
+      allows the patient to indicate the pain level as a score ranging from 0 to 10 (from minimum
+      to maximum) (Campbell, 1990). Recently, a pain monitoring web-based application has been
+      developed and distributed: 'NavigatePain' (NavigatePain, Aglance Solutions, Denmark). The app
+      can be used in a simple and intuitive manner by PC, smartphone or tablet devices (Boudreau,
+      2016; Matthews, 2018). Moreover, physicians can easily schedule postoperative self-monitoring
+      sessions for the patients (exploiting automatic notification messages sent by e-mail). The
+      app allows the user to draw the pain areas in the frontal, posterior and lateral body planes,
+      providing an index that quantifies the percentage of pain area with respect to the total body
+      area in the considered plane. VAS score and notes reporting side effects can be reported as
+      well in the app. Compared to VAS score, the pain area index is differentiated in the body
+      planes and can represent a complementary and more specific source of information in
+      monitoring postoperative pain.
+
+      Aim of the study:
+
+      The study evaluates the NavigatePain app for monitoring the postoperative pain in patients
+      undergoing total ankle replacement, from preoperative condition to 30 days follow-up. The
+      indexes provided by the app in terms of percentages of pain areas are compared to VAS
+      reference score. Moreover, the relation between the percentage of pain area and the presence
+      of side effects of the intervention are compared as well.
+
+      Methods:
+
+      A sample of 70 subjects undergoing total ankle replacement surgery will be consecutively
+      enrolled. Age range will be 18 to 60 years. A user account will be created in the app for
+      every subject, allowing to acquire data immediately visible to the physician. Pain areas, VAS
+      score and presence of side effects will be acquired using the app at the following times: i)
+      the day before surgery, without drug administration; ii) day 1 after surgery; iii) day 2; iv)
+      day of hospital discharge (corresponding to day 3); v) day 7; vi) day 15; vii) day 30.
+      Monitorings from i) to iv) will be acquired during hospitalization using a dedicated tablet
+      device. In v), vi) and vii), the monitoring sessions will be notified to patients by the
+      automatic notification service of the app (via e-mail); in these cases, patients will use own
+      devices (e.g. PC, tablet or smartphone) to connect to account and perform drawing.
+
+      Outcomes:
+
+      The mean value of pain area index, and of VAS score will be compared over time and tested
+      according to one way ANOVA for repeated measurements.
+
+      The relation between pain area index and VAS will be assessed according to Pearson
+      correlation coefficient, or Spearman rank correlation in case of not normal distribution.
+      Statistical significance of the coefficients will be tested according to two-tailed t-test or
+      permutation distribution test assessing Pearson and Spearman coefficients, respectively.
+      Linear regression analysis will be performed as well.
+
+      The relation between pain area index and presence of side effects (expressed as dichotomic
+      variable: 1 in case of reported effects, 0 otherwise) will be tested according to point
+      biserial correlation coefficient.
+
+      Correlation coefficient and linear regression will be evaluated in each time session. The
+      results will be compared among the consecutive times in order to assess the potential
+      dependence on the follow-up time.
+
+      The sample size of 70 subjects has been verified to guarantee identifying statistically
+      significant differences in the mean value along the follow-up times (ANOVA test, one group,
+      seven repetitions, 0.05 level alpha, power 95%, expected correlation 0.5, effect size 0.15).
+      Moreover, the sample size guarantees identifying as significantly different from zero a
+      correlation value larger than 0.7 (i.e. strong correlation), by t-test at 0.05 level alpha
+      and power 95% (G*Power software, Universitat Dusseldorf, Germany).
+    
+  

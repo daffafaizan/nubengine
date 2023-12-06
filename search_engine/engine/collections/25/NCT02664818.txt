@@ -1,0 +1,63 @@
+
+    
+      -  All sites were monitored randomly every year. Trained monitors were designated to
+           monitor the process, compliance of enrollment criteria and accuracy of original data by
+           visiting every site.
+
+        -  In order to make sure the accuracy of data collected, we make some restrictions (range
+           or format) and reminding functions in the electronic Case Report Form (eCRF).
+
+        -  Detail information of each variable has been pre-defined. Staffs were trained before
+           data entry.
+
+        -  Standard Operating Procedures: Case data were collected by printed Case Report Form
+           (CRF) and entered into a web-based data center (http://103.31.202.60/subFW/). Hospitals
+           that did not complete eCRF would send printed CRF to data center. Trained clinicians or
+           staffs were asked to enter these data into the web-based eCRF. Following variables were
+           included in the database: (i) demography and characteristics of patients: age, gender,
+           medical history, life style, precipitating factors of HF, laboratory tests, ECG, chest
+           X-ray and comorbidities diagnosed at discharge. Physical examination, echocardiography,
+           laboratory tests were performed at both admission and discharge; (ii) Heart failure
+           management included pharmacological treatments (before admission, during hospitalization
+           and at discharge), and nonpharmacological treatments (including coronary
+           revascularization, implantable cardioverter-defibrillator, cardiac resynchronization
+           therapy, pacemakers, and surgical or transcatheter valvular therapies, electrical
+           conversion, intra aortic balloon pump, continuous renal replacement therapy, and
+           invasive mechanical ventilation).The causes of in-hospital death included sudden death,
+           cardiac death and non-cardiac death. All patients were followed up after discharge in
+           outpatient department, or via electronic hospital records, or conversations with
+           patients or patients' families by telephone. Outcomes for post-discharge included death
+           (sudden death, cardiac death and non-cardiac death), and rehospitalization for heart
+           failure deterioration, acute coronary syndrome, cardiac shock, syncope, and cardiac
+           transplantation were recorded and entered into the web-based database. Information about
+           physical examination, laboratory tests, ECG, chest X-ray, echocardiography, and costs
+           and use of medications were collected at each follow-up visit.
+
+        -  Sample size: A total of 15000 patients with heart failure were planned to be recruited
+           from hospitals based on classification of economic-geographic regions in China, and a
+           minimum number of patients were expected to enroll according to the number of
+           hospitalized cases for each hospital. By September 2015, data from 13687 patients have
+           been collected.
+
+        -  Plan for missing data: Validated data was used to describe the clinical characteristics
+           and treatment of patients without considering those missing. As for September 2015, the
+           missing data on most of variables accounts for no more than 10% of all patients (n =
+           13687). Furthermore, variables obtained in multiple Logistic regression models (10318)
+           for death were from over three quarters of (75.4%) of all patients. Simple and multiple
+           imputation methods were not used in this study because of a large number of patients has
+           been validated for analysis.
+
+        -  Statistical analysis plan: Clinical characteristics, treatments, and outcomes were
+           described by using means ± standard deviation or interquartile range (IQR) for
+           continuous variables, and absolute numbers and percentages for categorical variables.
+           The comparison of subgroups were performed by Student t-test or ANOVA for symmetrical
+           continuous, Mann-Whitney U or Kruskal-Wallis H test for nonsymmetric continuous, and χ2
+           tests for categorical variables. Logistic regression was used to select potential risk
+           factors for outcomes. Candidate variables associated with mortality in univariable
+           Logistic regression analysis (P ≤ 0.20) were proceeded with multivariable analysis.
+           Variables with significant P values (P < 0.05) were retained in the final multivariable
+           model. Logarithmic transformation was performed to normalize the distribution of
+           variables with skewed distribution. All P values of less than 0.05 from two-sided tests
+           were accepted as statistically significant.
+    
+  

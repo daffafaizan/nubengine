@@ -1,0 +1,52 @@
+
+    
+      The primary objective of this study is to determine whether the findings of Shuhaiber et al.
+      [2013] (see citations) may be confirmed using national audit data from the United Kingdom.
+
+      A cohort of all acute ascending aortic dissection repair surgeries will be extracted from the
+      National Adult Cardiac Surgery Audit (NACSA) database. The current dataset version 4.12,
+      available for download from the website of the National Institute for Cardiovascular Outcomes
+      Research (see links), contains 168 fields that detail pre-operative patient characteristics,
+      operative details and post-operative outcomes. The dataset is revised intermittently to meet
+      the requirements of users and to respond to changes in the management of adult cardiac
+      surgery; however, the fields to be analysed in this study have not been subject to any
+      documented revisions. The extracted data are to be cleaned using version 9.9 of the NACSA
+      cleaning algorithm.
+
+      Seasons are to be coded in the same way as in the published study: autumn (September 21
+      through December 20), winter (December 21 through March 21), spring (March 22 through June
+      21) and summer (June 22 through September 20).
+
+      Three definitions are to be used for the phases of the moon. The first definition mirrors
+      that employed in the motivating work: each lunar cycle from new moon to new moon is to be
+      split into four parts and labelled "New", "Waxing", "Full" and "Waning". The second
+      definition centers each of those four labels around the named event: i.e., the "New" period
+      is to be centered around the new moon event itself, instead of starting on the day of a new
+      moon as in the first definition. The third definition will split the lunar cycle into 8
+      event-centred periods, called "New", "Waxing crescent", "First quarter", "Waxing gibbous",
+      "Full", "Waning gibbous", "Last quarter" and "Waning crescent".
+
+      There is no need to explore the individual univariate relationships of predictors to outcomes
+      in this work, given its limited purpose to confirm the earlier multivariate findings. The
+      relationship between the environmental factors (seasons and the lunar cycle) and in-hospital
+      mortality will be examined using multivariate logistic regression, controlling for
+      demographic and mortality risk factors. The specific variables that can be included in common
+      with the earlier work are age, sex, hypertension, diabetes, renal failure, and an indicator
+      of weekend admission. The national audit does not include information on dyslipidaemia, but
+      it is felt that its exclusion from our model will not effect the comparability of our work to
+      the earlier study because none of the earlier published models showed any effect of
+      dyslipidaemia on surgical outcomes. The relationship of the environmental factors to Length
+      of stay (LOS) in survivors will be examined using a multivariate linear regression that
+      includes the same risk factors as in the mortality model. As in the published study, LOS will
+      be transformed to the natural logarithmic scale prior to analysis.
+
+      We will run all analyses with and without a European system for cardiac operative risk
+      evaluation score (EuroSCORE) II risk adjustment. The EuroSCORE II was developed specifically
+      to adjust for risk of in-hospital mortality. It will be employed here despite its absence
+      from the published models to ensure that risk adjustment prior to estimation of the
+      contributions of the environmental factors will be as thorough as reasonably possible.
+
+      All analyses will be performed using R version 3.1.0. Environmental factors will be
+      calculated using the lunar package available from the CRAN software repository.
+    
+  

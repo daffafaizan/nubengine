@@ -1,0 +1,85 @@
+
+    
+      Clinical Background::
+
+      Postoperative encephalopathy known as "delirium" is a deleterious, potentially risky, and
+      often preventable complication representing a serious "brain failure" condition, commonly
+      seen in the intensive care unit (ICU) setting.
+
+      The etiology of postoperative delirium (POD) is likely to be a consequence of the
+      physiological and biochemical derangement induced by the underlying surgical pathology,
+      surgical trauma, pain, analgesia, and anesthesia. Common pathophysiological factors,
+      processes, and conditions leading to delirium are multifactorial and could involve
+      neurotransmitters, inflammatory processes, drugs, and oxygenation impairment. Multifactorial
+      perioperative factors, such as anesthesia and adjuvant drugs, also play important roles in
+      contributing to postoperative delirium. Perioperative care is, therefore, a potential focus
+      for investigation of data-driven evidence to understand the POD prior to developing effective
+      intervention tool.
+
+      Delirium Burden::
+
+      Delirium creates distinct emotional distress in patients, family and caregivers.
+
+      The burden of illness due to delirium is significant, with a higher incidence of
+      postoperative complications, prolonged length of ICU and hospital stay, resulting in 30-day
+      mortality and unplanned readmission when compared to patients without delirium. The long-term
+      prospects of delirious patients show poor quality of life ('QoL') indicators related to
+      functional decline, new institutionalization, persistent cognitive impairments and higher
+      mortality, with persistent cognitive impairments in 12% of previously "cognitively well"
+      patients, and an even higher percentage in elderly, obese, and previously admitted patients.
+      The postoperative delirium is associated with longer-term cognitive decline and potentially
+      'portends descent to dementia' .
+
+      The mortality rate associated with delirium is approximately 40% , as high as acute
+      myocardial infarction. The total cost estimates attributable to delirium ranged from $16,303
+      to $64,421 per patient, implying that the national burden of delirium on the health care
+      system ranges from $38 billion to $152 billion each year in US. This cost is highly
+      comparable to the substantial costs of falls and diabetes, which emphasizes the need to
+      address this costly disorder with increased timeliness and urgency.
+
+      Standard of Care::
+
+      Efforts to detect delirium have relied upon two major methods , both of which fall short of
+      the practical needs of a modern hospital environment. Screening instruments, largely based
+      upon chart review, well-investigated risk factors and patient interview, have been
+      unsuccessful due to the challenges of implementing these into clinical workflows and
+      providing ongoing training for healthcare providers to use such instruments. In addition,
+      they exhibit poor sensitivity in routine use. While the early detection of delirium provides
+      clear and significant advantages in effective treatment, the screening tools available for
+      the disorder are not efficient or effective enough to do so. Delirium is often
+      underrecognized and misdiagnosed, exemplified in a 2014 study that found that the successful
+      detection of the disorder by staff was only at 23%, even after extensive multimodal education
+      about the disorder and how best to detect it.
+
+      Despite its importance for patient safety and public health, delirium is often unrecognized
+      by clinicians, therefore the effective strategies of intervention remain elusive. Moreover,
+      the presentation of delirium is heterogeneous and multifaceted, and measurement of delirium
+      and its severity pose unique challenges.
+
+      Unmet Need::
+
+      The need exists for an objective, affordable and reliable modern assessment with the ability
+      of early recognition, improved screening, and continuous monitoring of postoperative
+      encephalopathy. The potential impact of such a tool has been recognized as highly important
+      for the establishment of evidence-based data for better tracking prognosis, monitoring
+      response to treatment and estimating the burden of care both during and after
+      hospitalization. Nurses themselves recognize this unmet need. Many have argued that the
+      current screening tests are too subjective and rely on each tester's interpretation.
+
+      Concept Creation::
+
+      The era of "Medical Big Data" and next-generation health analytics is well upon us.
+      Conceptually, "Big Data" may include data-driven clinical features considered to be hidden,
+      uncertain, unrecoverable and unmanageable for human interpretation without the help of
+      computerized data processing and advance data-driven algorithms. As delirium in post-surgical
+      patients is often hard to recognize and remains a largely untreated condition, it is
+      hypothesized that an exploratory analysis of historical medical records by using an advanced
+      algorithm could reveal novel and improved knowledge about the nature of delirium. However,
+      the quality, computability, reliability, accuracy and completeness of the data are
+      questionable.
+
+      Therefore this study aims to perform a retrospective exploratory analysis of historical
+      records locked in one or more clinical databases (i.e. Metavision, EHR, AIMS, etc.), and/or
+      in one or more hospital settings.
+    
+  

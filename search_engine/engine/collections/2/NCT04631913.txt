@@ -1,0 +1,165 @@
+
+    
+      RATIONALE Although oat beta-glucan has approved health claims in Canada, US, and Europe [1-3]
+      and is recognized by major cardiovascular guidelines [4,5] for its cholesterol-lowering,
+      there are no approved health claims for the maintenance or achievement of normal blood
+      glucose [6] and its role in the prevention and management of diabetes are less clear. We are
+      not aware of any systematic reviews and meta-analyses of prospective cohort studies of the
+      relation of the intake of whole oats, oat products, or oat beta-glucan with diabetes risk.
+      Although there are several systematic reviews and meta-analyses of randomized trials showing
+      that oats and oat beta-glucan improve markers of glycemic control and insulin resistance
+      [7-9], the census for theses analyses do not include new RCTs [10]. Similar to an evidence
+      synthesis that we conducted for all viscous fibers (inclusive of oat beta-glucan) [11], we
+      propose to conduct the "gold-standard: in evidence synthesis (a systematic review and
+      meta-analysis of randomized trials using Grading of Recommendations Assessment Development
+      and Evaluation [GRADE] system) to quantify and assess the certainty of the evidence for the
+      effect of oats and oat beta-glucan on established targets for glycemic control including
+      HbA1c, fasting glucose, fasting insulin, and measures of insulin sensitivity in participants
+      stratified by their risk of diabetes.
+
+      OBJECTIVES To quantify and assess the certainty of the evidence for the effect of oats and
+      oat beta-glucan on established targets for glycemic control including HbA1c, fasting plasma
+      glucose (FPG), 2h-plasma glucose (2h-PG), fasting plasma insulin, and measures of insulin
+      sensitivity and beta-cell function in participants who have diabetes, are at risk of diabetes
+      (prediabetes, metabolic syndrome, or overweight/obese), or are otherwise healthy.
+
+      DESIGN We will follow the Cochrane Handbook for Systematic Reviews of Interventions [12] and
+      report according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+      (PRISMA) [13]. The protocol will be registered at www.clinicaltrials.gov.
+
+      DATA SOURCES MEDLINE, EMBASE, and The Cochrane Central Register of Controlled Trials will be
+      searched for eligible trials. We will also supplement our search with manual searches.
+
+      STUDY SELECTION We will include randomized controlled trials of ≥2-weeks assessing the effect
+      of whole grain oats or oat beta-glucan compared with a suitable non-oat control on
+      established targets for glycemic control including HbA1c, fasting plasma glucose, 2h-plasma
+      glucose (2h-PG), fasting plasma insulin, and measures of insulin resistance in participants
+      with or without diabetes.
+
+      DATA EXTRACTION Two or more investigators will independently extract relevant data. Authors
+      will be contacted for additional information and any missing data will be computed/imputed
+      using standard formulae [12].
+
+      RISK OF BIAS Two or more investigators will independently assess risk of bias using the
+      Cochrane Risk of Bias 2.0 Tool.
+
+      OUTCOMES The outcomes will include established targets for glycemic control including HbA1c,
+      fasting plasma glucose (FPG), 2h-plasma glucose (2h-PG), fasting plasma insulin, and measures
+      of hepatic insulin sensitivity (HOMA-IR, hyperinsulinemic euglycemic clamp) whole body
+      insulin sensitivity (Matsuda OGTT-ISI, frequently sampled intravenous glucose tolerance test
+      [FSIGTT], hyperinsulinemic-euglycemic clamp) and beta-cell function (insulin secretion index,
+      ISSI-2).
+
+      DATA SYNTHESIS Data will be pooled using the Generic Inverse Variance method stratified by
+      risk of diabetes. Random effects models will be used with paired analyses applied to
+      crossover designs [14]. Heterogeneity will be assessed (Cochran Q statistic) and quantified
+      (I2 statistic). Sources of heterogeneity will be explored by sensitivity analyses. If ≥10
+      trial comparisons are available, a priori subgroup analyses will also be conducted to explore
+      sources of heterogeneity (dose, comparator, intervention form (whole grain oat or oat
+      beta-glucan) follow-up, baseline levels, design, body weight change, saturated fat intake,
+      carbohydrate intake, protein intake, intervention food matrix, oat beta-glucan molecular
+      weight and risk of bias). Meta-regression will assess the significance of subgroup analyses.
+      Linear and nonlinear dose-response analyses will be assessed by generalized least squares
+      trend (GLST) estimation models and spline curve modelling (MKSPLINE procedure), respectively.
+      When ≥10 trial comparisons are available, publication bias will be assessed by inspection of
+      funnel plots and the Egger and Begg tests. Adjustment for evidence of funnel plot asymmetry
+      or small study effects will be conducted by the Duval and Tweedie trim-and-fill method.
+
+      GRADE ASSESSMENT To assess the certainty of the evidence, we will use the GRADE system, an
+      evidence-based grading system adopted by >100 organizations
+      (http://www.gradeworkinggroup.org/). It grades the evidence as high, moderate, low or very
+      low quality based on the study design and a series of downgrades (risk of bias, imprecision,
+      inconsistency, indirectness, publication bias) and upgrades (large magnitude of the effect,
+      dose-response gradient, and attenuation by confounding). We will follow the GRADE handbook
+      (https://gdt.gradepro.org/app/handbook/handbook.html) and use the GRADEpro (GRADEprofiler)
+      software Version 3.2.
+
+      KNOWLEDGE TRANSLATION PLAN FOR IMPACT We will follow the Ottawa model of Research for
+      knowledge translation [15]. The results will be disseminated through interactive
+      presentations at local, national, and international scientific meetings and publication in
+      high impact journals. Target audiences will include public health and clinical communities
+      with an interest in nutrition and cardiovascular disease. Feedback will be incorporated and
+      used to improve public health messages and key areas for future research will be defined. The
+      PIs will network among opinion leaders to increase awareness and participate directly in the
+      development of future guidelines.
+
+      SIGNIFICANCE The proposed project will aid in knowledge translation related to the role of
+      whole grain oats and oat fiber as add-on therapy in the primary and secondary prevention of
+      cardiovascular disease, strengthening the evidence-base for guidelines development in the
+      U.S., Canada, Europe, and beyond and improving health outcomes, by educating healthcare
+      providers and patients, stimulating industry innovation, and guiding future research design.
+
+      REFERENCES
+
+        1. Food Directorate Health Products and Food Branch, Health Canada Oat products and blood
+           cholesterol lowering Bureau of Nutritional Sciences, Ottawa (2010). Available at
+           https://www.canada.ca/en/health-canada/services/food-nutrition/food-labelling/health-cla
+           ims/assessments/products-blood-cholesterol-lowering-summary-assessment-health-claim-abou
+           t-products-blood-cholesterol-lowering.html
+
+        2. U.S. Food & Drug Administration, Health and Human Services. Food Labeling: Health
+           Claims; Soluble Dietary Fiber From Certain Foods and Coronary Heart Disease. 21 CFR Part
+           101 [Docket No. 01Q-0313]. Available at
+           https://www.gpo.gov/fdsys/pkg/FR-2002-10-02/pdf/02-25067.pdf
+
+        3. EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) Scientific Opinion on the
+           substantiation of a health claim related to oat beta-glucan and lowering blood
+           cholesterol and reduced risk of (coronary) heart disease pursuant to Article 14 of
+           Regulation (EC) No 1924/2006 EFSA J, 8 (12) (2010), p. 1885, 10.2903/j.efsa.2010.1885
+           Available at www.efsa.europa.eu/efsajournal.htm
+
+        4. Anderson TJ, Grégoire J, Pearson GJ, Barry AR, Couture P, Dawes M, Francis GA, Genest J
+           Jr, Grover S, Gupta M, Hegele RA, Lau DC, Leiter LA, Lonn E, Mancini GB, McPherson R,
+           Ngui D, Poirier P, Sievenpiper JL, Stone JA, Thanassoulis G, Ward R. 2016 Canadian
+           Cardiovascular Society Guidelines for the Management of Dyslipidemia for the Prevention
+           of Cardiovascular Disease in the Adult. Can J Cardiol. 2016 Nov;32(11):1263-1282
+
+        5. Catapano AL, Graham I, De Backer G, Wiklund O, Chapman MJ, Drexel H, Hoes AW, Jennings
+           CS, Landmesser U, Pedersen TR, Reiner Ž, Riccardi G, Taskinen MR, Tokgozoglu L,
+           Verschuren WMM, Vlachopoulos C, Wood DA, Zamorano JL, Cooney MT; ESC Scientific Document
+           Group. 2016 ESC/EAS Guidelines for the Management of Dyslipidaemias. Eur Heart J. 2016
+           Oct 14;37(39):2999-3058
+
+        6. European Food Safety Authority (EFSA). Scientiﬁc Opinion on the Substantiation of Health
+           Claims Related to Beta-Glucans and Maintenance or Achievement of Normal Blood Glucose
+           Concentrations (ID 756, 802, 2935) Pursuant to Article 13(1) of Regulation (EC) No
+           1924/2006.2010; European Food Safety Authority (EFSA): Parma, Italy, 2010
+
+        7. Hou Q1, Li Y2, Li L3, Cheng G4, Sun X5, Li S6, Tian H7. The Metabolic Effects of Oats
+           Intake in Patients with Type 2 Diabetes: A Systematic Review and Meta-Analysis.
+           Nutrients. 2015 Dec 10;7(12):10369-87. doi: 10.3390/nu7125536
+
+        8. Shen XL, Zhao T, Zhou Y, Shi X, Zou Y, Zhao G. Effect of Oat β-Glucan Intake on
+           Glycaemic Control and Insulin Sensitivity of Diabetic Patients: A Meta-Analysis of
+           Randomized Controlled Trials. Nutrients. 2016 Jan 13;8(1). pii: E39. doi:
+           10.3390/nu8010039. Review
+
+        9. He LX, Zhao J, Huang YS, Li Y. The difference between oats and beta-glucan extract
+           intake in the management of HbA1c, fasting glucose and insulin sensitivity: a
+           meta-analysis of randomized controlled trials. Food Funct. 2016 Mar;7(3):1413-28. doi:
+           10.1039/c5fo01364j.
+
+       10. Li X, Cai X, Ma X, Jing L, Gu J, Bao L, Li J, Xu M, Zhang Z, Li Y. Short- and Long-Term
+           Effects of Wholegrain Oat Intake on Weight Management and Glucolipid Metabolism in
+           Overweight Type-2 Diabetics: A Randomized Control Trial. Nutrients. 2016 Sep
+           7;8(9):pii:E549
+
+       11. Jovanovski E, Khayyat R, Zurbau A, Komishon A, Mazhar N, Sievenpiper JL, Blanco Mejia S,
+           Ho HVT, Li D, Jenkins AL, Duvnjak L, Vuksan V. Should Viscous Fiber Supplements Be
+           Considered in Diabetes Control? Results From a Systematic Review and Meta-analysis of
+           Randomized Controlled Trials. Diabetes Care. 2019 May;42(5):755-766
+
+       12. Higgins JPT, Greens S (editors). Cochrane Handbook for Systematic Reviews of
+           Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011.
+           Available from www.cochrane-handbook.org.
+
+       13. Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for
+           systematic reviews and meta-analyses: the PRISMA statement. BMJ. 2009;339:b2535.
+
+       14. Elbourne DR, Altman DG, Higgins JP, Curtin F, Worthington HV, Vail A. Meta-analyses
+           involving cross-over trials: Methodological issues. Int J Epidemiol. 2002;31:140-149.
+
+       15. Graham ID, Logan J. Innovations in knowledge transfer and continuity of care. Can J Nurs
+           Res. 2004;36(2):89-103.
+    
+  

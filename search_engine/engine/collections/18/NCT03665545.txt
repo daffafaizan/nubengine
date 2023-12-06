@@ -1,0 +1,108 @@
+
+    
+      Brain tumors are the first cause of cancer mortality in children and the 3rd cause in young
+      adults. The most frequent brain tumors are gliomas and among them the most common type is
+      astrocytoma. The most malignant astrocytoma is Glioblastoma (GBM). Standard therapy of newly
+      diagnosed GBM patients includes surgery, irradiation and temozolomide (TMZ) chemotherapy with
+      1-year and 5-year survival rates at 30% and 3%, respectively. For the treatment of recurrent
+      GBM, TMZ is widely used even if the optimal dosing schedule and the minimal time interval
+      from first line are unknown. Other appropriate therapeutic options include Lomustine, an
+      alkylating drug, and Bevacizumab, an anti-angiogenic agent targeting VEGF-A, approved only in
+      selected countries (i.e. North America, Switzerland). Controlled trials are rare for
+      recurrent glioblastoma, consequently therapeutic decisions are mostly based on low-level
+      evidence.
+
+      Amongst innovative strategies, immunotherapy is considered as one of the most promising.
+      Immunotherapy stimulates the natural properties of the immune system to protect against
+      cancer growth. Therapeutic vaccines (active immunotherapy) are expected to elicit a cytotoxic
+      immune response to tumor-associated antigens, destroying malignant cells without harming
+      normal cells. The cells involved in this response are T lymphocytes, which can sense abnormal
+      peptides at the tumor cells surface. One critical step towards the development of therapeutic
+      vaccines was the identification and validation of glioma antigens. This is an obstacle the
+      investigators have circumvented with the characterization of several immunogenic glioma
+      peptides by screening the peptidome of ex vivo human glioma samples. This led to the
+      development of a multipeptide vaccine called IMA950.
+
+      IMA950 is composed of 9 synthetic tumor-associated HLA-A2-restricted peptides (TUMAPs), two
+      MHC class II-binding peptides and one HLA-A2-restricted HBV-derived peptide, the latter used
+      as marker of vaccine immunogenicity. The HLA-A2 allele is expressed by approximately 45% of
+      the Swiss population. As the interactions between peptides and their corresponding HLA
+      molecule are highly specific, only HLA-A*02 positive patients will be included in this trial.
+      The reasons why this set of peptides is very promising for vaccination are as follows:
+
+        1. Tumor peptides have been isolated from ex vivo samples:
+
+        2. They are over-expressed in glioma (compared to normal tissues)
+
+        3. They are derived from proteins involved in the malignant process
+
+        4. They are immunogenic in vitro in healthy donors and in glioma patients
+
+        5. This is a MULTI-peptide vaccine IMA950 was investigated in a monocentric phase I/II
+           trial for newly diagnosed glioblastoma and WHO grade III gliomas using poly-ICLC as
+           adjuvant (PI: P-Y. Dietrich, NCT01920191, study completed, final results in preparation
+           for publication). A total of 19 patients (16 with GBM and 3 with anaplastic astrocytoma)
+           were included, with a median number of 9 injections received per patient (range: 4-11).
+           The multipeptide vaccine did not show any serious safety issues, apart from some mild
+           inflammatory reactions at the injection site, peritumoral or resection cavity
+           edema/tumor flare manageable with steroids, as well as peri-vaccinational transient mild
+           headache, fatigue and flu-like syndrome (grade 3 events: 42.1%, grade 4 events: 21%, no
+           grade 5 events). Regarding vaccine immunogenicity, CD4 T-cell responses were detected in
+           the majority of patients (58%) and were usually sustained. The CD8 T-cell responses were
+           detected in 63% of patients, with 37% of them being multi-TUMAP responders. Median
+           overall survival from date of surgery was 21 months (range: 10 - 41 months) for the
+           overall cohort, with a 19 months survival for the GBM-only cohort (range: 10-41 months),
+           which compares favorably with the reported median survival of 15 months with the
+           reference treatment of temozolomide-based chemoradiation. PFS was 93% and 56% at 6 and 9
+           months respectively.
+
+      Despite the T cell ability to detect tumor peptides that are naturally presented by tumor
+      cells, these T cells do not normally become activated and do not protect the body against the
+      cancer, as tumor cells on their own are only poorly immunogenic. For effective T cell
+      activation, the help of co-stimulatory molecules, which are expressed on activated
+      professional APCs, e.g. dendritic cells, is required. During infections, the activation of
+      APCs is triggered by molecular patterns common to all pathogens of a class (e.g. RNA
+      viruses). These patterns, also referred to as "danger signals", are not provided by peptides
+      themselves. Consequently, artificial danger signals have to be provided with a tumor vaccine
+      to induce the required co-stimulation on APCs. In combination with a vaccine, such substances
+      with a non-specific immunostimulatory effect are called adjuvants. Poly-ICLC, (Hiltonol®,
+      Oncovir) is a synthetic double-stranded ribo-nucleic acid (dsRNA) mimicking viral pathogen
+      associated molecular patterns (PAMP) that activates multiple elements of innate and adaptive
+      immunity.
+
+      The importance of intact immune surveillance in controlling outgrowth of neoplastic cells has
+      been known for decades. The PD-1 receptor-ligand interaction is a major pathway hijacked by
+      tumors to suppress immune control. The normal function of PD-1, expressed on the cell surface
+      of activated T-cells under healthy conditions, is to down-regulate unwanted or excessive
+      immune responses, including autoimmune reactions. Binding of PD-1 ligands (PD-L1 and PD-L2)
+      to the PD-1 receptor inhibits T-cell activation triggered through the T-cell receptor.
+      Pembrolizumab (Keytruda™) is a potent and highly selective humanized monoclonal antibody
+      (mAb) designed to directly block the interaction between PD-1 and its ligands. Impressive
+      response rate and prolonged survival were first observed for metastatic melanoma, but the
+      clinical benefit of this mAb was recently shown to extend to several other cancer types.
+      There is a strong rationale to investigate the role of PD-1/PD-L1 blockade in malignant
+      glioma, since (i) we and others have previously reported that PD-L1 expression by glioma
+      cells may contribute to tumor-related immunoresistance; (ii) PD-L1 is also expressed by
+      tumor-infiltrating macrophages and circulating monocytes; (iii) expression of PD-L1 on
+      circulating monocytes was shown to correlate with worsened survival in patients who received
+      the HSPPC-96 vaccine for newly diagnosed and recurrent GBM. The 200 mg Q3W dose will maintain
+      individual patient exposures within the exposure range demonstrated to be well tolerated,
+      safe and established in melanoma as associated with maximal efficacy response. A fixed dose
+      regimen simplifies the dosing regimen so as to be more convenient for physicians and to
+      reduce the potential for dosing errors.
+
+      The combination of pembrolizumab with a vaccine therapy is currently being tested in several
+      trials for different tumors, such as melanoma, bladder, colorectal and prostate cancer
+      (NCT02574533, NCT02054520, NCT02432963, NCT02499835, NCT02515227). Here the investigators
+      postulate that Pembrolizumab may improve the immunogenicity of the IMA950 vaccine and the
+      function of vaccine-induced glioma-specific T cells, and that the multipeptide vaccine may
+      help to focus the immune response against antigens overexpressed by glioma, leading together
+      to an optimization of the antitumor immune effect whilst reducing the risk of collateral
+      damage to the brain.
+
+      The study aims to answer questions regarding safety (for the future clinical development of
+      this strategy), immunogenicity (synergy between multipeptide vaccine and pembrolizumab) and
+      clinical outcome. Ancillary translational research should help to identify possible
+      correlation between neo-epitopes, methylation status, immune response and clinical outcome.
+    
+  

@@ -1,0 +1,94 @@
+
+    
+      In recent years, large interest in the conduct and focus of clinical trials has focused to
+      patient related outcomes and value-based healthcare. Patient Reported Outcome MeasureS,
+      (PROMs) has become one of the standard instruments used for measuring outcomes; multiple
+      PROMS have been extensively validated and are used in many clinical studies, but also in
+      clinical routine. This is certainly the case for patients with breast disease, and in
+      particular, breast cancer, where therapeutic advances in systemic and locoregional treatment
+      have dramatically improved survival outcomes and shifted the interest in patient wellness,
+      quality of life and health economy. However, their introduction and implementation require
+      the development of certain logistics involving delivery to the patients, data procession and
+      finally inclusion in patient journals and/or trial case report forms (CRFs).Additionally,
+      Patient Reported Experience MeasureS (PREMS) allow for real-time feedback on the integration
+      of care and can subsequently drive changes in health provision systems.
+
+      Currently, the paper-version of these PROMs, pPROMs, has been the standard version. With this
+      comes some advantages, such as the ability to save and store filled PROMS, and for patients
+      to fill them out when it suits them best, not having to answer all questions at once. At the
+      same time, there are also disadvantages, such as that storing and processing the data is a
+      tedious and resource-consuming task. Additionally, patients occasionally find it inconvenient
+      to return the pPROMS by post; finally, the consumption of paper is not viewed as a
+      environmentally friendly behaviour. At the same time and in the new era of digitalization,
+      internet-based studies, such as surveys, become more popular. Most validated PROMS have been
+      utilised in several occasions, and there is an effort for their standardisation in health
+      care. These e-PROMs (electronic PROMs) seem to be more time-efficient since they do not have
+      to be processed manually, but instead can be directly connected to digital systems which
+      transform raw data (patient response) to big data and scores. It is also a more
+      environment-friendly option since there is no need to print the questionnaires on paper or
+      send them via mail to the patients and then back to the research centre. The question is how
+      patients feel about these electronic versions and if their implementation may simplify PROMS,
+      both for patients and healthcare givers and researchers alike. Even though the older
+      generation at greater length is connected to the internet than before, and are more used to
+      handling it, there are still those who are not comfortable with these new digital services.
+
+      Despite this being a reasonable hypothesis, no trials have examined this subject, that is to
+      map the patients' attitudes toward participating in studies, nor which form is the preferred
+      one, ePROMs or pPROMS. It would be reasonable to hypothesize that a more convenient mode of
+      delivery would facilitate patients and would therefore increase response rates. Additionally,
+      there is no randomized data on the optimal mode of PROMS delivery and process as far as
+      monetary, personnel and structural resources are concerned
+
+      Reference population for the trial are women from the breast radiology unit, breast
+      outpatient clinic and breast cancer patients from the oncology department of the
+      participating sites. Patients will be asked to participate to this study through a letter
+      sent they receive when receiving their appointment to the respective clinic/department. All
+      patients are asked, regardless of diagnosis, sex or age; at this point, the researchers are
+      not aware of individual information. If they consent, participants are randomised to either
+      e-PROMs or pPROMs.
+
+      Trial hypothesis is that ePROMs are more convenient and time-efficient and that with these
+      investigators can increase the response rate from 65% (which was observed in a pilot study
+      previously conducted at the breast outpatient clinic at Uppsala University Hospital) to
+      80%.The trial is designed as a superiority trial to detect for a 0.15 difference between
+      arms, with a 2-sided p-value=0.05 and 80% power. Sample size calculation was performed with
+      (SampleSize4ClinicalTrials and TrialSize packages). This responds to 109 patients per arm.
+      Patient allocation (1:1) is performed through permuted block randomisation performed on the R
+      statistical software (randomizeR package) in blocks of 8.
+
+      Patients that provide oral and written consent for the trial are anonymised and receive a
+      unique study number. They willingly provide contact details (address and e-mail address), in
+      order to receive PROMS after randomization. Patients may decline mode of PROMS delivery, if
+      they prefer otherwise. Patient preference is registered. In analyses, the
+      "intention-to-treat" principle will be followed, but per protocol analyses is intended if the
+      crossover is deemed significant (>10%).
+
+      Data process and analysis
+
+      Once filled out, the anonymised ePROMs will be automatically stored to the Uppsala University
+      servers. They are extractable as a Microsoft Excel data sheet. pPROMS will be stored in paper
+      form in a safe location at the participating site. All raw data from both arms will be
+      transferred in an Excel database. This raw data will be processed through algorithms specific
+      to each PROMS to allow for the calculation of the respective PROMS scores.
+
+      The time required for this procedure will be registered for statistical analyses.
+
+      Patient data to be utilised in the analysis is age and site of recruitment. Other data to be
+      registered are monetary costs for pPROMS postal, monetary costs for pPROMS related consumable
+      materials and hourly cost for the documentation and registration of PROMS in patient
+      electronic journals.
+
+      Data and patient safety
+
+      Patient data will be treated according to the General Data Protection Regulation (GDPR). The
+      trial is not expected to affect treatment of patients or affect diagnostic work-up or
+      treatment modality. Participants will not receive monetary compensation. For participants
+      that are wishing it, PROMS scores will be included in their journals.
+
+      Publication
+
+      Trial results are expected to be submitted for publication in peer-reviewed journals.
+      Positive and negative results as well as subgroup analyses for primary characteristics such
+      as patient age are expected to be reported.
+    
+  

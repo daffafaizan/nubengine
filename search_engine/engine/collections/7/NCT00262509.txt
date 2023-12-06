@@ -1,0 +1,78 @@
+
+    
+      The purpose of the proposed three-year research project is to develop and evaluate an
+      emergency egress system for persons with visual impairment. This system would use existing
+      lighted exit signage to provide egress information at a distance of up to 100 feet. The
+      distance is the same as the required visibility distance of lighted exit signs for sighted
+      persons. By offering egress information at an equivalent distance, the investigators
+      hypothesize that people with visual impairment can approach the egress performance of sighted
+      persons.
+
+      The information transmitted will be equivalent to what a sighted person obtains, namely, the
+      direction of the exit door. In addition, a description of the exit route will be provided
+      including the distance to the exit door; lighting conditions, hazards and obstacles that will
+      be encountered on the exit route; the distance down to the street; and where on the street
+      they will be when they get out of the building. A receiver worn by the person will include a
+      tiny optical array to sense the direction of each exit sign. The receiver will also translate
+      the transmitted signal into a spoken message. A low-profile stereo bone conduction headset
+      will indicate the direction to each exit sign along a path to the exit door. For people with
+      some hearing loss, this same low-profile headset will be used to simulate a light "tap" to
+      one side or other of the head to indicate direction. Such directional "tapping" output may
+      also prove effective when loud alarms are blaring.
+
+      The objectives are to:
+
+        1. develop Talking Exit Lights with a range of at least 100 feet,
+
+        2. write software for the user device to accurately indicate the direction of Talking Exit
+           Lights and provide spoken messages,
+
+        3. optimize the user interface to make it easy and intuitive to use,
+
+        4. test the accuracy and reliability of the developed system in terms of transmission range
+           and directional accuracy, and
+
+        5. conduct subject evaluations of the new system.
+
+      Two versions of transmitting exit signs will be developed:
+
+        1. a retro-fit design for existing fluorescent light exit signs, and
+
+        2. a Light Emitting Diode (LED) design for the LED exit signs now going into newly
+           constructed buildings.
+
+      For the retro-fit version, Talking Lights, LLC, will modify the physical shape and size of
+      their Talking Light digital ballast, making it a fully compatible replacement for existing
+      exit sign ballasts. VA investigators will develop the LED version, designing and constructing
+      a microprocessor-controlled system for storing and transmitting information using LEDs. Both
+      designs will use secure power line communications to upload transmittal information to
+      specific exit signs, each of which will have its own ID number. Finally, VA investigators
+      will write software for the existing Talking Lights PocketPC receiver to interpret sensor
+      signals, obtain sign location data, and convert this data into a stereo sound presentation of
+      exit sign direction.
+
+      This development will be accomplished via a Cooperative Research and Development Agreement
+      (CRADA) with Talking Lights LLC, which holds a patent on an electronic ballast that converts
+      standard fluorescent bulbs into digital information transmitters. The company will also
+      provide a PocketPC receiver that decodes their proprietary transmission signal, and a
+      5-sensor optical array capable of picking up their signal over a 150-degree field. As part of
+      this CRADA, Talking Lights will modify their ballast to match the form-factor of ballasts in
+      exit signs. Further, they will release their proprietary encoder design to VA investigators
+      so that the LED Exit Light design can be made fully compatible with the fluorescent light
+      design.
+
+      Once developed and optimized, investigators hypothesize a dramatic improvement in egress
+      performance for all ages of two populations:
+
+        1. people with severe vision loss who use a white cane or dog for mobility, and
+
+        2. people with low vision who do not use a white cane or dog for mobility, yet have
+           problems reading and locating exit signs.
+
+      Results will be published and presented for review to the National Fire Prevention Agency
+      (NFPA) for consideration as part of the Life Safety Code, and to the Building Officials and
+      Code Administrators (BOCA) for consideration as part of the National Building Code.
+
+      COMPARISONS: Egress using existing emergency exit signage.
+    
+  

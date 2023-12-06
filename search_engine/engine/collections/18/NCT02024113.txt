@@ -1,0 +1,70 @@
+
+    
+      Subjects Subjects with lung cancer detected by a computed tomography (CT)-scan and referred
+      to a positron emission tomography (PET)/CT-scan are included. The diagnosis of lung cancer is
+      confirmed by means of an pathological biopsy or by a medical doctor specialized in oncology
+      with respect to radiological or clinical data. The control group consists of subjects who
+      were referred to the department Nuclear Medicine for an examination of the heart. This
+      control group represents the average population, consists of healthy subjects and patients
+      with non-cancer diseases and did not undergo a PET/CT-scan. Exclusion criteria are as
+      follows: (1) not fasted for at least 6 hours, (2) poorly controlled diabetes (fasting plasma
+      glucose concentration ≥ 200 mg/dl) in cancer patients, (3) medication intake at the day of
+      blood sampling and (4) treatment or history of cancer in the preceding 5 years.
+
+      The training cohort consists of 80 subject with lung cancer and 80 controls. The validation
+      cohort consist of 250 subject with lung cancer and 250 controls.
+
+      Blood sampling and processing Fasting venous blood samples (BD Vacutainer® LH 17 I.U. 10 ml
+      tube) are collected and stored at 4°C within 5 to 10 minutes. Around 8 hours after blood
+      collection, blood samples are transported on crushed ice to the central laboratory and
+      centrifuged at room temperature (swinging bucket centrifuge, 1600 g, 15 minutes).
+      Subsequently, 4 plasma aliquots of 500 µl are transferred into sterile cryovials and stored
+      at -80°C until examination within 6 months. When subjects give permission to store their
+      biological material, 3 aliquots are stored at the University Biobank Limburg (UBiLim) for
+      biomedical research purposes.
+
+      Prior to NMR analysis, plasma aliquots are thawed and homogenized using a vortex mixer. After
+      centrifugation at 13000 g for 4 minutes at 4°C (fixed rotor Eppendorf centrifuge 5415 R,
+      Hamburg, Germany), plasma aliquots are diluted in deuterium oxide (D2O, 99.9%, Cambridge
+      Isotope Laboratories Inc, Andover, USA) containing 180 µg/µl
+      trimethylsilyl-2,2,3,3-tetradeuteropropionic acid (TSP, 98%, Cambridge Isotope Laboratories
+      Inc, Andover, USA) as a chemical shift reference. Finally, the prepared plasma samples are
+      transferred into a 5 mm NMR tube and analyzed.
+
+      1H-NMR analyses and assignment of present resonances The 1H-NMR spectra are recorded on a 400
+      Megahertz (MHz) NMR spectrometer (Varian/Agilent, Nuclear Magnetic Resonance Instruments,
+      Palo Alto, California, USA) with a magnetic field strength of 9.4 Tesla at 294 K. Slightly
+      T2- weighted spectra are acquired using a Carr-Purcell-Meiboom-Gill (CPMG) pulse sequence to
+      attenuate signals of macromolecules, such as proteins and polysaccharides. Additionally,
+      water suppression is performed in order to allow optimal detection and quantification of
+      low-molecular weight metabolites. The 1H-NMR spectra are phased manually, baseline corrected
+      and referenced to the TSP resonance at 0.015 parts per million (ppm). The assignment of the
+      present 1H-NMR resonances occurs by means of spiking experiments. A reference plasma sample
+      is alternately spiked with 34 known metabolites with a concentration of 1 mg compound per 100
+      µl plasma. The obtained chemical shifts are double checked with Chenomx NMR suite software
+      (Version 7.5, Chenomx Inc., Edmonton, Alberta, Canada). Finally, 1H-NMR spectra are divided
+      in 112 spectral regions, which are integrated and normalized relative to the total integrated
+      area of all spectral regions, irrespective of the remaining water, TSP, fructose and glucose
+      resonances. The end result corresponds to 110 normalized integration regions (all integration
+      regions except those of water and TSP).
+
+      Statistical analysis At first, the integration values of all 110 spectral regions are
+      analyzed by means of a student t-test with correction for multiple testing by
+      Benjamini-Hochberg to identify those which differ significantly between lung cancer patients
+      and controls (IBM SPSS Version 20.0, Chicago, Illinois, USA). Secondly, multivariate
+      statistical analyses are performed using SIMCA-P+ (Version 12.0, Umetrics, Umea, Sweden) to
+      investigate whether the metabolic composition of blood plasma allows to discriminate between
+      lung cancer patients and controls. An unsupervised principal component analysis (PCA) was
+      performed to identify intrinsic clusters and outliers within the dataset. After the removal
+      of outliers (detected by a Hotelling's T2 range plot), an orthogonal partial least squares
+      discriminant analysis (OPLS-DA), an extension of partial least squares discriminant analysis
+      (PLS-DA) with an integrated orthogonal signal correction filter, is performed to remove
+      variability not relevant to class separation. The predicted classification is expressed as
+      specificity (the percentage of controls that are actually classified as controls) and
+      sensitivity (the percentage of lung cancer patients that are actually classified as lung
+      cancer patients). The outcome of using the integration values of the significantly different
+      spectral regions, obtained by the student t-test with correction for multiple testing by
+      Benjamini-Hochberg, is compared to the outcome in which the integration values of all 110
+      spectral regions were used.
+    
+  

@@ -1,0 +1,84 @@
+
+    
+      Objective: To provide rigorous epidemiological data on diabetes risk and morbidity in Health
+      District 17D06 in Quito, Ecuador; and Eloy Alfaro District, located in the coastal region of
+      Esmeraldas.
+
+      Design: The investigators will undertake two cross-sectional population surveys, with
+      representative samples of the selected health districts, to estimate the prevalence of
+      diabetes, impaired glucose tolerance, and NCD risk factors.
+
+      Sample design: Participants will be selected using multi-stage cluster sampling. We will use
+      parishes or 'micro-areas' as primary Enumeration Areas (EA) for which official GIS shape
+      files and population estimates are available. The EAs will be randomly selected with a
+      probability proportional to its population density. In urban areas, after having sampled EAs,
+      buildings or homes will be identified by randomly generated GPS points. The investigators
+      will then sample one person at random in each household.
+
+      In rural areas, the investigators will randomly select villages from within the samples EAS,
+      and then undertake the simple random sampling of individuals by using an existing census
+      already developed by voluntary health promotors, and digitised by a local NGO. This census
+      will be updated in the 3 months preceding sample selection to ensure accuracy.
+
+      Sample size: The sample size is proposed assuming the prevalence of diabetes is no higher
+      than 10%, to provide an estimate with an absolute precision of +/- 3%, with a 95% confidence
+      level. The investigators assume a design effect of 1.5 (recommended in STEPS guideline for
+      complex designs in absence of locally available alternatives) and will further increased the
+      sample size to allow for up to 20% refusal or loss due to individuals not attending their
+      appointment for physical and biological measurements.
+
+      Survey procedures: The questionnaire will be designed according to the WHO STEPS NCD risk
+      factor survey forms , and some survey-specific questions. Detailed demographic information
+      will also be included following the WHO STEPS core questions and extended questions (highest
+      level of education, ethnicity, marital status, employment status and household income).
+      Cultural adaptations to the questions will be made as required.
+
+      The questions will be used to compile a purpose designed electronic survey form loaded onto
+      tablets purchased for the research. The survey tool will be pre-piloted before the survey,
+      after training the data collection team.
+
+      Thirty trained interviewers will establish survey eligibility, solicit informed consent, and
+      carry out the survey in the participant's home. Composition of the survey team will be gender
+      balanced, and include staff who represent local cultural, ethnic and religious groups. The
+      survey will be carried out in Spanish but some interviewers will also be fluent in Quechua,
+      Chachi and any other relevant indigenous language to translate questions verbally if
+      required. Data collection in rural areas will engage the volunteer health promotors. The
+      surveyors will arrange an appointment for physical and biological measurements together with
+      the participant considering geographical convenience and availability. Individuals with a
+      fasting blood glucose ≥ 126 mg/dl and/or a 2 hour plasma glucose ≥ 200 mg/dl, or blood
+      pressure over 140/90 mmHg will be referred to their local health facility for care. All
+      participants will receive the results of their physical measurements and blood analyses and
+      will receive a health promotion booklet about diabetes, cardiovascular risk, and the
+      importance of healthy diet and physical activity.
+
+      Physical measurements and laboratory: Weight, height, waist circumference will be measured
+      and we will include limited biochemical measurements (fasting blood glucose, cholesterol and
+      creatinine) analysed at regional reference laboratories. Participants will also undergo an
+      Oral Glucose Tolerance Test (OGTT). Survey participants will be invited to a well-lit
+      hygienic location after at least 8 hours fasting. Appointments will be first thing in the
+      morning and participants will be instructed to eat or drink nothing but water from 10pm the
+      night before. Instructions for fasting will be given on the appointment card given to the
+      participants the survey day and telephone reminders will be sent when possible. All
+      participants will receive breakfast after the OGTT test. Diabetic patients on medication will
+      be asked to bring their medication and take it immediately after their breakfast after blood
+      draw. They will not be asked to complete an OGTT. Similarly, pregnant women are eligible to
+      participate in the study but will not undergo an OGTT, only fasting blood glucose. In order
+      to ensure absence of pregnancy, the investigators will provide pregnancy tests to women in
+      fertile age who are unable to confirm the absence of pregnancy at the household interview.
+      Steps will be taken to minimise variability (at study zone level) in the pre-analytical
+      treatment of samples. Blood extraction, storage and transportation will follow standard
+      infection control measures.
+
+      Data management and analysis: Stickers with Quick Response (QR) codes that can be scanned by
+      the android devices at each step will be used to ensure linkage of data collected in
+      participant's home, their physical and biological measurements and laboratory results. The
+      investigators will use and modify the WHO STEPS forms where possible and import them to Kobo
+      toolbox free open source software (or ODK collect if necessary). Stata/SE (StataCorp, Texas,
+      U.S.A.) Version 12.1. will be used for statistical analysis. The prevalence of impaired
+      glucose tolerance, diabetes, and the other NCD risk factors will be calculated with 95%
+      confidence intervals. Outcomes will be disaggregated by sex, age group, ethnicity and
+      socioeconomic position. Geographical variation in survey outcomes will also be described.
+      Steps will be taken to prevent missing data, but some level is unavoidable and we will
+      incorporate methods analysing missing data or data from uncertain sources when necessary.
+    
+  

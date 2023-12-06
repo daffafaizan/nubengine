@@ -1,0 +1,94 @@
+
+    
+      Specific Aim 1 We will develop software to calculate the estimated glomerular filtration
+      rates for all patients presenting to primary care physicians randomized to the intervention
+      arm, and identify patients with an estimated glomerular filtration rates in the range of 30
+      to 59. We will create three electronic alerts that intervention clinicians will receive upon
+      accessing the patient chart based on whether the patient is high risk or low risk. These
+      alerts will focus on recommending overdue laboratory tests (urine protein, blood cholesterol,
+      etc), as well as recommending guideline appropriate medications (ACE inhibitors), and
+      nephrology referral when appropriate.
+
+      We will provide self management support materials to patients of primary care physicians
+      randomized to the intervention arm. We will rely on primary care physicians to enroll
+      patients by first recommending referral via the electronic alerts. On a monthly basis, we
+      will identify patient visits during which an alert fired and no referral was placed. We will
+      distribute a list of these patients to each physician via inter-office mail at least every
+      other month. The mailing will ask physicians to return the list indicating which patients
+      should be enrolled in the program, and our project manager will place the referrals. For
+      non-responding physicians, we will follow up with a reminder email. The patient mailings will
+      include recent clinical results and guideline-recommended targets, encouraging patients to
+      become more proactive in the management of their kidney disease. Once a patient is enrolled
+      in the program, they will receive similar mailings with updated personalized data and
+      recommendations every 3 months.
+
+      Electronic referrals placed by primary care physicians for management of chronic kidney
+      disease will first be routed to the renal nurse, who will then initiate contact with the
+      patient. A total of two telephone calls followed by a letter will be made to contact the
+      patient. The nephrology visits will occur per standard clinical operations, including
+      evaluation by an attending nephrologist, as well as educational sessions with the renal nurse
+      and nutritionist. We will create new template notes within the electronic record for use by
+      the nephrologists to communicate clinical care recommendations back to the primary care
+      physicians.
+
+      Prior to starting the intervention, the study team will travel to each of the 14 health
+      centers to conduct orientation sessions with the primary care physicians. These sessions will
+      provide general information regarding the goals and scope of the upcoming intervention,
+      including demonstrations of the electronic alerts and the self management support outreach
+      program. A similar overview will also be provided to the HVMA Division of Nephrology.
+
+      We will randomize approximately 170 physicians into the intervention and control groups.
+      Physicians in the intervention group will receive patient-specific alerts at the time of
+      office visits for patients with Stage 3 kidney disease. Physicians in the control group will
+      not receive active alerts.
+
+      Data will all be obtained electronically from automated extracts from the electronic health
+      record. Our study endpoints will be measured at 18 months and are specified according to risk
+      status. The primary endpoints among high risk patients will be 1) the presence of an office
+      visit in nephrology within the prior 12 months, and 2) the use of ACE inhibitors or ARBs for
+      those with hypertension or microalbuminuria. The primary endpoints among low risk patients
+      will include 1) a urine microalbumin result within the prior 12 months, and 2) the use of ACE
+      inhibitors or ARBs for those with hypertension or microalbuminuria. Hypertension will be
+      assessed based on the presence of a most recent blood pressure greater than 130/80 mmHg or a
+      current diagnosis of hypertension on the electronic problem list. A secondary endpoint for
+      both patient groups will be achieving a blood pressure less than 130/80 mmHg. We will also
+      assess primary care physician awareness of chronic kidney disease defined as use of
+      appropriate problem list and encounter diagnosis codes; and rates of annual serum LDL
+      cholesterol, hemoglobin, phosphorous, 25-OH-vitamin D, calcium, and parathyroid hormone
+      testing; as well as rates of LDL cholesterol control (<100 mg/ dL) and anemia management
+      (hemoglobin > 11 g/dL).
+
+      We will conduct an assessment of the self management support materials by surveying patients
+      directly to assess 1) their ratings of the delivery of self-management support by our
+      physician practice, 2) awareness of chronic kidney disease and treatment goals, and 3) the
+      utility of the information contained in the patient mailings. These surveys will be conducted
+      at two time points: baseline (first quarterly mailing) and completion of the study (final
+      quarterly mailing). We will conduct the survey at two time points to facilitate an analysis
+      of trends in patient experiences of care.
+
+      To assess the impact of the intervention on each of our primary outcomes we will fit
+      hierarchical logistic regression models with random effects for patients within physicians
+      and physicians within centers. We will fit a set of similar models among three subgroups
+      defined by number of patient visits with their primary care physician during the 18 month
+      period (0 visits, 1-2 visits, ≥ 3 visits). We will fit two secondary models that include a
+      third independent variable for race or sex. The effect of the intervention on reducing race
+      or sex-based disparities will be assessed by examining race*group and sex*group interaction
+      terms.
+
+      Specific Aim 2 We will use the physician survey to collect data on primary care physician
+      support for electronic reminders and patient self management, and preparedness to manage
+      kidney disease. Physician responses will be collected using 5 point and 4 point Likert
+      scales, and we will examine the distribution of responses for each survey item to create
+      three dichotomous predictor variables of 1) high support for electronic reminders, 2) high
+      support for patient self management, and 3) high preparedness for managing kidney disease.
+      The primary outcomes will be the proportion of electronic alerts accompanied by ordering of
+      1) the recommended treatment, or 2) referral for patient self management support. We will
+      construct three separate linear regression models for each dichotomous predictor variable
+      defined above, with the proportion of times that the appropriate decision support feature is
+      used as a continuous outcome variable. The dichotomous physician survey outcome measures will
+      be used as the primary independent variables. We will further assess the statistical
+      significance of an interaction term between physician randomization status and each of the
+      three dichotomous survey outcomes in our primary models from Specific Aim 2 to test whether
+      electronic alerts are more or less effective depending on physician reported attitudes.
+    
+  

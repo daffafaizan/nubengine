@@ -1,0 +1,67 @@
+
+    
+      Material and methods:
+
+      The study design is a cohort study with prospective register data follow up. The Danish
+      cohort "Diet, Health and Cancer" (DHC) will be used. The DHC Study is an ongoing Danish
+      cohort study designed to investigate the relation between diet, lifestyle and disease risk.
+      The cohort consists of 57,053 persons, recruited between December 1993 and May 1997. All the
+      subjects (50 to 64 years of age) gave detailed information on diet (food frequency
+      questionnaire) and other lifestyle data together with biological samples. Blood samples,
+      anthropometric measures and questionnaire data on diet and lifestyle were collected at study
+      entry. Data from the DHC cohort will be combined with Danish national registers (the National
+      Patient Registry (NPR), the Danish Civil Registration Register, and The Danish National
+      Prescription Registry).
+
+      Outcome measures and follow-up: The National Patient Registry (NPR) will be used to obtain to
+      identify patients with CID during follow-up. The NPR contains data on all patients admitted
+      to Danish hospitals since 1977. The register covers both inpatient and outpatient records and
+      indicates the main medical reason for diagnostic procedures or treatment (since 1994
+      according to the tenth version of the International Classification of Diseases (ICD-10)). For
+      this study there will be extracted data from NPR from 1993 to March 2018. The outcome CID is
+      defined as at least one of the following diseases in the NPR; inflammatory bowel disease
+      (IBD) (ICD10 codes: K50-K51), psoriasis/psoriatic arthritis (ICD10 codes: M073, M090, L40),
+      rheumatoid arthritis/ankylosing arthritis (ICD10 codes: M059. M060, M069, M089, M459, M46),
+      or multiple sclerosis (ICD10 codes: G35, G35.9), during the follow-up period. The Danish
+      National Prescription Registry will be used to identify the most severe cases of the
+      following diseases listed above, as it is expected that the patients have medication in
+      relation to the diseases. Follow-up information on death and immigration will be collected in
+      March 2018 from the Danish Civil Registration Register.
+
+      Exposure and possible confounders: Information on exposure is defined as high fibre intake
+      and high red and processed meat intake and were collected at enrolment of the DHC cohort
+      using questionnaires and interviews. In short, the food-frequency questionnaire, diet
+      consumption was assessed in 12 categories of predefined responses, ranking from "never" to
+      "eight times or more per day". The daily intake was then calculated by the software program
+      FoodCalc. FoodCalc is a simple program to calculate intake of nutrients when given a list
+      with amounts of different foods consumed and another list with contents of nutrients for the
+      different foods. Both intake of dietary fibre and red meat and processed meat were measured
+      as continues variable in g/day. Information on possible confounders will also be obtained
+      from the questionnaire data at enrolment in relation to sex, age, BMI, smoking and other
+      lifestyle factors and information on co-morbidity will be obtained from NPR.
+
+      Statistical analyses: The intention is to use data obtained from this prospective cohort
+      study to explore the ability to predict risk of CID (Y=primary endpoint) and to explore
+      whether diets low in fibre AND high in red and processed meat (X=assessed at baseline) are an
+      informative prognostic factor on disease risk. Descriptive analyses for categorical variables
+      will be presented as frequencies, and differences between CID cases and non-cases will be
+      evaluated by Chi-square test. Continuous variables will be tabulated as medians (with
+      quartiles, Q1 and Q3) and nonparametric tests on the equality of medians will be used to test
+      for differences between groups. P-values below 0.05 will be considered statistically
+      significant. Negative binomial regression will be applied to calculate incidence rates per
+      1000 patient years and incidence rate ratios (IRR) between exposures. To investigate the risk
+      of and time to CID-diagnosis the Fine-Gray competing risk regression model will be applied,
+      and thus competing risk of death will be taken into account while handling emigration as
+      censoring, and reporting cumulative incidences and sub-hazard ratios (SHR) and the
+      corresponding p-values for CID associated with specified food substitutions. Regressions will
+      be carried out as both crude regression, only including the exposure, and adjusted for age,
+      sex, lifestyle factors and selected comorbidities. Analyses will be conducted using Stata.
+
+      To test if the hypothesized causality between diet factors and development of CID is
+      applicable for all of the CIDs there will be conducted subanalyses on each of the
+      CID-diagnoses. Sensitivity analyses will be conducted on data from the Danish National
+      Prescription Registry to evaluate the validity of the CID diagnoses, as it is expected that
+      they get treatment in relation to the diseases. Data on medication and treatment of each
+      diagnosis will be analysed separately.
+    
+  

@@ -1,0 +1,52 @@
+
+    
+      The major challenge in thyroid and parathyroid procedures, is the safe identification of the
+      recurrent laryngeal nerve (RLN) and the localization of the parathyroid glands (to be
+      preserved or to be selectively removed). Iatrogenic injuries to the parathyroid glands during
+      thyroid surgery (resulting in transient or permanent hypocalcemia) or to the RLN (resulting
+      in hoarseness, dysphonia, dyspnea) do still occur, requiring often specialized management.
+
+      The percentage of incidental parathyroidectomies, in specialized endocrine centers, is around
+      16%. In these cases, it is more likely to observe clinical relevant hypocalcemia than after
+      planned parathyroidectomy for hyperparathyroidism. Therefore, there is a critical need for an
+      intra-operative method enabling a precise, real-time parathyroid identification.
+
+      Recently, it has been demonstrated that the parathyroid gland shows a significant
+      autofluorescence, which is caused by the optical properties of a still unknown intrinsic
+      fluorophore. When the gland is excited by a light source with a wavelength ranging from
+      750-785 nm, it emits a fluorescence peak around 820 nm. Taking advantage of this property,
+      Falco et al., using a commercially available NIR camera (Fluobeam®, Fluoptics©, France),
+      could clearly visualize the parathyroid glands by contrast-free fluorescence imaging and
+      could easily discriminate them from the thyroid and the surrounding tissue. The drawback with
+      this autofluorescence-based imaging is that it lacks real-time quantification of the
+      fluorescence intensity.
+
+      The hyperspectral imaging (HSI), which is a technology that combines a spectrometer to a
+      camera system, examines the optical properties of a large area in a wavelength range from
+      near infrared (NIR) to visual light (VIS). It provides diagnostic information about the
+      tissue physiology, composition and perfusion. The fact that the HSI produces pictures, thus
+      providing spatial information real time, in a contact-free, non-ionizing manner, makes it
+      potentially a very valuable tool for the intraoperative use.
+
+      HSI has exhibited its great potential in the medical field especially in the diagnosis of
+      various neoplasia (e.g. of the cervix, breast, colon, brain), in the detection of perfusion
+      pattern in patients with peripheral arterial disease and in the area of wound diagnostic.
+
+      As previously shown, it is possible to discriminate the thyroid from the parathyroid glands
+      according to the spectral characteristics, but the HSI technology would add the spatial
+      information, thus enormously enhancing the intraoperative performance.
+
+      In collaboration with the University of Leipzig, Germany, the investigators performed a
+      clinical pilot trial on 8 patients, which showed promising results. Hyperspectral images
+      during benign endocrine surgery procedures were able to demonstrate that thyroid and
+      parathyroid have specific hyperspectral signatures. Furthermore, the parathyroid glands
+      showed usually less oxygenated than the thyroid. A discrimination of the parathyroid glands
+      based on these characteristics is proven to be possible.
+
+      The aim of the proposed study is to identify the spectral features of the important neck
+      target structures, in particular the parathyroid glands, using an appropriate deep learning
+      algorithm, to perform an automated parathyroid recognition. Additionally, this study proposes
+      to compare the detection rate of the hyperspectral based parathyroid recognition with the
+      already existing NIR autofluorescence based recognition.
+    
+  

@@ -1,0 +1,47 @@
+
+    
+      The da Vinci robotic surgery system offers advantages such as immersive three-dimensional
+      visualization, intuitive control, and high degree of movement freedom to the chief surgeon.
+      However, major surgery remains a team-based effort. Apart from the chief surgeon who remotely
+      controls the da Vinci system at the console, the success of robotic assisted surgical
+      procedures also relies on the assistant surgeon positioned at the patient side, who provides
+      assistance laparoscopically. Throughout a robotic assisted operation, the patient side
+      surgeon is responsible for tasks such as the exchange of instruments, retraction of tissue to
+      enhance operative fields, manipulation of instruments, etc. Literature has demonstrated that
+      the performance of the assistant surgeon has an effect on the outcomes of robotic surgery
+      such as operative time.
+
+      Traditionally the patient side surgeon relies on the monitor mounted on the vision cart to
+      guide his/her movement. The monitor provides real-time relay of the image captured from the
+      endoscope, but does not provide the full three-dimensional stereo endoscopy view unless set
+      up with specialized stereo-vision equipment. The position of the monitor is also often
+      awkward, creating problems such as obstructed views and non-ergonomic positioning of the
+      patient side surgeon to overcome the view obstruction. The complex three-dimensional set-up
+      of endoscope, robotic instruments, and hand-held instruments inside the patient body could
+      prove difficult to imagine from the patient side surgeon's perspective, and guesswork could
+      be involved during transfer of instruments/objects towards the operative field as the
+      hand-held instruments are often out of the visualized field of the endoscope.
+
+      Augmented reality (AR) technology delivered via optical see-through head-mounted display
+      (OST-HMD) could potentially be the solution to the aforementioned issues. OST-HMD, such as
+      Microsoft HoloLens, can superimpose computer graphics on top of real-world view through
+      optical combiners. The clinical application of such a technology has been gaining interest in
+      the surgical community, with preliminary study demonstrating feasibility of AR technology in
+      ureteroscopic procedures.
+
+      The ARssist system is a novel AR system designed for the patient side surgeon in robotic
+      assisted surgeries. It integrates the da Vinci surgical system and Microsoft HoloLens, and
+      provides valuable AR information to the patient side surgeon including (i) three-dimensional
+      real-time rendering of the endoscope, robotic instruments, and hand-held instruments within
+      the patient body, and (ii) real-time stereo endoscopy that is configurable for the assistant
+      surgeon's preferred hand-eye coordination. The ARssist system would in theory grant the
+      patient side surgeon improved orientation and navigation of hand-held laparoscopic
+      instruments, thus improving their laparoscopic performance and the performance of the surgery
+      as a whole.
+
+      Based on the Innovation, Development, Exploration, Assessment, Long-term Study (IDEAL)
+      Collaboration group methodology of promoting surgical innovation and research through planned
+      prospective studies within an established staged process, we propose a stage 1 (Innovation)
+      study to evaluate the feasibility and safety of the ARssist system.
+    
+  

@@ -1,0 +1,64 @@
+
+    
+      1. Patient recruitment In The Netherlands, the participants will be recruited from the
+           sleep center of the Sint Lucas Andreas hospital in Amsterdam. The protocol of recruiting
+           the patients from The Netherlands is approved by Medical Ethic Committee of AMC with the
+           reference number NL44085.018.13/COSH.
+
+           In China, the participants will be recruited from the sleep disorder center of dental
+           school of Shandong University. The protocol of recruiting patients from China is
+           approved by Medical Ethic Committee of Shandong University.
+
+           Patients that fit the inclusion criteria will be approached to participate in the study
+           in both The Netherlands and China.
+
+        2. Polysomnography (PSG) For the diagnosis of OSA, all the Chinese patients included in
+           this study will undergo an overnight PSG recording (SOMNOscreenTM Plus PSG,
+           Randersacker, Germany) at Qilu Hospital in Jinan, while all Dutch patients included in
+           this study will undergo an overnight PSG recording (SOMNOscreenTM Plus PSG,
+           Randersacker, Germany) in Amsterdam.
+
+           PSG included the following variables: electroencephalogram, electro-oculogram, leg and
+           chin electromyograms, electrocardiogram, pulse oximetry, body position, neck microphone,
+           nasal cannula pressure transducer, and inductive plethysmography by means of thoracic
+           and abdominal bands. The PSG recordings will be scored manually in a standard fashion.
+           Apnea is defined as cession of airflow ≥90% for at least 10 seconds. Hypopnea is defined
+           as a decrease in airflow of more than 30% for at least 10 seconds, and an oxygen
+           desaturation greater than 4%. The mean apnea-hypopnea index (AHI) of the OSA group,
+           defined as the number of apneas and hypopneas per hour of sleep.
+
+        3. Cone beam computed tomography (CBCT) In The Netherlands, CBCT scans of the OSA patients
+           will be made at the department of Oral Radiology at ACTA. In China, CBCT scans of the
+           OSA patients will be made at the department of Oral Radiology at Shandong University.
+
+           The protocol for CBCT images in The Netherlands and China will be identical and is as
+           follows: CBCT scans will be taken in the participants with the Frankfort plane
+           perpendicular to the floor during their awake periods. The participants will be
+           instructed not to swallow, speak, or do any motor response other than breathing during
+           the CBCT procedure. The image detector and beam are positioned to maximize coverage of
+           the upper airway from the level of nasal choanae to approximately the inferior edge of
+           the fourth cervical vertebra.
+
+        4. Anatomical modeling of the upper airway Using Amira® (v4.1, Visage Imaging Inc.,
+           Carlsbad, CA, USA), the automatic process of the upper airway segmentation will be
+           performed following the same protocol as in previous study. First, a voxel set is built
+           to include all of the information of the upper airway; second, a new mask is built with
+           its thresholds ranging from -1000 to -400; and third, the superior boundary (i.e., the
+           plane across the PNS parallel to the FH plane) and the inferior boundary (i.e., the
+           plane across the base of the epiglottis parallel to the FH plane) of the upper airway
+           are selected in the corresponding axial planes and put into the voxel set. Finally, all
+           of the slices between the upper and lower boundaries are selected and put into the voxel
+           set.
+
+        5. Statistical analysis Whether the data are normally distributed was tested by the
+           Shapiro-Wilk W Test. The Mann-Whitney-U test (for non-normally distributed variables) or
+           Chi-squared test (for categorical variables) and the independent t-test (for normally
+           distributed variables) are used to compare the differences in the demographic
+           characteristics between the Chinese and Caucasian OSA patients. Patient characteristics
+           that are significantly different between the two groups will be used as covariate(s) in
+           the following between-group analysis. One-way multivariate analysis of covariance
+           (MANCOVA) is used to compare the differences in anatomical and aerodynamic
+           characteristics between the Chinese and Caucasian OSA patients. A significance level is
+           set at p<0.05.
+    
+  

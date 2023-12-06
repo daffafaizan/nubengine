@@ -1,0 +1,67 @@
+
+    
+      Behavioral task
+
+      The behavioral task consists in presentation of a para-foveal numerical target on a screen
+      for 16 ms either right or left of a central fixation point, followed by a visual mask, made
+      of letters surrounding the target, presented for 250 ms. The delay between the target and the
+      mask (Stimulus Onset Asynchrony - SOA) will be variable (16 ms, 33 ms, 50 ms, 66 ms or 83
+      ms). Participants will then be asked to perform two tasks. First (objective task),
+      participants will be asked to indicate as quickly as possible whether the target was bigger
+      or smaller than the digit "5". Second (subjective task), they will be requested to judge the
+      visibility of the presented target by indicating whether they had seen the target or not.
+
+      tACS
+
+      Study design
+
+      The study design is composed of three experimental sessions. In these sessions, participants
+      will first complete the behavioral paradigm as presented above while having their brain
+      activity recorded with EEG. Afterwards, they will re-perform the task during and after tACS
+      stimulation. tACS stimulation type will differ in each session : in-phase, anti-phase or sham
+      (see below for further details). Stimulation sessions will occur in a double-blind randomized
+      crossover design (neither the participant nor the experimenter knows which session includes
+      which stimulation type), with at least 2 days of interval between them.
+
+      Stimulation
+
+      During tACS sessions, 6 Hz stimulation (1000 μA) will be applied simultaneously over the left
+      prefrontal dorso-lateral cortex (F3 of the 10-20 international scalp EEG system) and the left
+      parietal cortex (P3) using an 8-channels stimulator (Starstim NE, Neuroelectrics, Barcelona,
+      Spain) with small round sponge electrodes (25 cm2 surface, maximal current density of 0.06
+      μA/cm2), controlled via Bluetooth. In the in-phase condition, the phase difference between
+      the two stimulation sites will be 0° which will entrain synchronization between sites. In the
+      anti-phase condition on the other hand, the phase difference will be 180°, which should
+      desynchronize the activity in the two cortices. In the sham condition, the stimulation (also
+      anti-phase) will start with a current intensity of 2000 μA lasting for 30 seconds.
+      Afterwards, the intensity will progressively decrease over 20 seconds until cessation. Each
+      stimulation session will take 20 minutes and the positions of stimulation electrodes and the
+      duration of the stimulation will be kept identical for all conditions.
+
+      tDCS
+
+      Study design
+
+      The study is composed of two experimental sessions: one tDCS session and one sham session. In
+      the tDCS session, participants will do the behavioral task (with an EEG recording) during and
+      after 20 minutes of 1000 μA tDCS stimulation. As a control, participants will do the
+      behavioral task in a second session (sham session) during which they will have a sham
+      stimulation instead of tDCS stimulation. The two sessions will occur in a double-blind
+      randomized crossover design (neither the participant nor the experimenter knows which session
+      includes which stimulation type), with at least 2 days of interval between them.
+
+      Stimulation
+
+      During tDCS session, 1000 μA stimulation will be applied simultaneously over the left
+      prefrontal dorso-lateral cortex (F3 of the 10-20 international scalp EEG system) and the left
+      parietal cortex (P3) using an 8-channels stimulator (Starstim NE, Neuroelectrics, Barcelona,
+      Spain) with small round sponge electrodes (25 cm2 surface, maximal current density of 0.06
+      μA/cm2), controlled via Bluetooth. In the sham condition, the stimulation will start with a
+      current intensity of 1000 μA lasting for 30 seconds. Afterwards, the intensity will
+      progressively decrease over 20 seconds until cessation. The reason for this subtle
+      manipulation is to make sure that participants will be unable to notice the difference
+      between active tDCS and sham tDCS stimulation. Each stimulation session will take 20 minutes
+      and the positions of stimulation electrodes and the duration of the stimulation will be kept
+      identical for all conditions.
+    
+  

@@ -1,0 +1,32 @@
+
+    
+      Patients referred to the Sleep Unit of a tertiary hospital in northern Greece during the
+      years 2005-2008 and who accepted to sign the informed consent form were included in the
+      study. One out of every five consecutive patients was selected in order to ensure
+      randomization. The study protocol was approved by the ethics committee of the hospital. All
+      the subjects reported symptoms consistent with OSAHS and had no significant comorbidities.
+      The presence of dementia, neuromuscular disorders, overlap syndrome or severe cardiac
+      problems was an exclusion criterion for the participants. The subjects underwent full
+      overnight attended polysomnography (Somnologica 7000, Flaga; Iceland) according to standard
+      criteria including respiratory recordings of thoracic and abdominal movements, nasal flow by
+      pressure cannula, snoring, and arterial oxygen saturation using pulse oximetry. Apnea and
+      hypopnea were defined in accordance with standard used criteria. All the recordings were
+      manually scored by the same experienced medical doctor.
+
+      Three nonlinear indices (Largest Lyapunov Exponent-LLE, Detrended Fluctuation Analysis-DFA
+      and Approximate Entropy-APEN) were extracted from two respiratory signals (nasal cannula
+      flow-F and thoracic belt movement-T). The oxygen saturation signal (SpO2) from pulse oximetry
+      was also selected. The above signals had a mean duration of 317.5 minutes and were first
+      exported in European Data Format (EDF) to be further processed with the use of signal
+      processing software (Matlab by Mathworks Inc.) in personal computers. The LLE calculation
+      required the use of a command line application by Rosenstein et al as well as a spreadsheet
+      program (Microsoft Excel).
+
+      The basic statistical analysis was performed with the use of SPSS for Windows, Version 15.0
+      (SPSS Inc, Chicago, Illinois). Correlations between the studied or derived parameters were
+      explored with the Pearson's correlation test and differences in the mean observed values
+      between the various OSAHS severity groups were analyzed using the Student's t-test. The
+      statistical significance level was set at p<0.05. The predictive model was created by
+      utilizing the linear regression tool.
+    
+  

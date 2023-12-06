@@ -1,0 +1,141 @@
+
+    
+      Background:
+
+        -  Improved treatments for a variety of treatment-resistant malignancies including B-cell
+           lymphomas, and chronic lymphocytic leukemia (CLL) and Hodgkin lymphoma are needed.
+
+        -  A particular need is development of new treatments for chemotherapy-refractory B-cell
+           malignancies.
+
+        -  T cells can be genetically modified to express chimeric antigen receptors (CARs) that
+           specifically target malignancy-associated antigens.
+
+        -  Autologous T cells genetically modified to express CARs targeting the B-cell antigen
+           CD19 have caused complete remissions in patients with leukemia or lymphoma. These
+           results have established anti-CD19 CAR T cells as an important therapy for relapsed
+           lymphoma, but only about 40% of patients receiving anti-CD19 CAR T cells have durable
+           complete remissions.
+
+        -  Most B-cell malignancies express CD19 and CD20, but expression of CD19 and CD20 can be
+           lost or diminished.
+
+        -  The malignant cells of Hodgkin lymphoma, Hodgkin Reed-Sternberg cells, originate from B
+           cells, which is the rationale for treating Hodgkin lymphoma with T cells targeting CD19
+           and CD20.
+
+        -  CD19 and CD20 are not expressed by normal cells except for B cells and some plasma
+           cells.
+
+        -  We have constructed a novel gene therapy construct that encodes a fully-human anti-CD19
+           CAR with a CD28 domain and a fully-human anti-CD20 CAR with a 4-1BB domain.
+
+        -  T cells expressing this CAR construct, called Hu1928-Hu20BB, can specifically recognize
+           CD19 and CD20-expressing target cells in vitro and eradicate CD19 or CD20-expressing
+           tumors in mice.
+
+        -  One CAR expressed in this CAR construct, Hu19-CD828Z has been tested in humans before.
+           The other CAR in the total construct, Hu20-CD8BBZ, has not been tested in humans before.
+
+        -  Possible toxicities include cytokine-associated toxicities such as fever, hypotension,
+           and neurological toxicities. Elimination of normal B cells is probable, and unknown
+           toxicities are also possible.
+
+      Objectives:
+
+      Primary
+
+      Determine the safety and feasibility of administering T cells expressing a novel fully- human
+      anti-CD19 and anti-CD20 CAR construct to patients with advanced B-cell malignancies and
+      Hodgkin lymphoma.
+
+      Exploratory
+
+        -  Evaluate serum cytokine levels and associations with anti-malignancy efficacy and
+           toxicity
+
+        -  Evaluate clinical predictors of anti-lymphoma responses and toxicity.
+
+        -  Evaluate phenotype of infused CAR T cells and CAR T cells from the blood of patients.
+
+      Eligibility:
+
+        -  Patients must have any B-cell lymphoma, or CLL/SLL, Gray-zone lymphoma, nodular
+           lymphocyte-predominance Hodgkin lymphoma, or classical Hodgkin lymphoma with any CD19 or
+           CD20 expression on Reed-Sternberg cells. Lower grade lymphomas transformed to DLBCL are
+           potentially eligible as is primary mediastinal B-cell lymphoma and all other subtypes of
+           DLBCL. Burkitt and mantle cell lymphoma are potentially eligible.
+
+        -  Patients must have malignancy that is measurable on a CT scan or by flow cytometry of
+           bone marrow or blood.
+
+        -  Patients must have a creatinine of 1.5 mg/dL or less and a normal cardiac ejection
+           fraction.
+
+        -  An ECOG performance status of 0-1 is required.
+
+        -  No active infections are allowed including hepatitis B or hepatitis C.
+
+        -  Absolute neutrophil count greater than or equal to 1000/micro Liters, platelet count
+           greater than or equal to 50,000/ micro Liters, hemoglobin greater than or equal to 8g/dL
+
+        -  Serum ALT and AST less or equal to 3 times the upper limit of the institutional normal
+           unless liver involvement by malignancy is demonstrated.
+
+        -  At least 14 days must elapse between the time of any prior systemic treatment (including
+           corticosteroids) and protocol-required leukapheresis or CAR T-cell infusion. Thirty days
+           must elapse from therapy with antibodies targeting CD19 or CD20 and CAR T-cell infusion.
+
+        -  The patient s malignancy will need to be assessed for CD19 and C20 expression by flow
+           cytometry or immunohistochemistry performed at the NIH. If unstained, paraffin- embedded
+           bone marrow or lymphoma tissue sections are available from prior biopsies, these can be
+           used to determine CD19 and CD20 expression by immunohistochemistry; otherwise, patients
+           will need to come to the NIH for a biopsy to determine CD19 and CD20 expression. The
+           sample for CD19 and CD20 expression must come from a biopsy obtained after any CD19 or
+           CD20-targeted therapies such as monoclonal antibodies if such antibodies or CAR T-cell
+           therapies have been received by the patient.
+
+      For classical Hodgkin lymphoma only, a biopsy from any time from any institution that shows
+      any CD19 or CD20 expression on Reed-Sternberg cells is adequate for eligibility. CD19 or CD20
+      expression on the Reed-Sternberg cells that is weak or only present on some Reed-Sternberg
+      cells by immunohistochemistry is compatible with protocol eligibility.
+
+      -For all lymphoma types except for classical Hodgkin lymphoma, either CD19 or CD20 expression
+      must be uniform . Uniform CD19 or CD20 expression is defined as no obvious lymphoma
+      population lacking antigen expression can be present. Antigen expression can be assessed by
+      either immunohistochemistry or flow cytometry.
+
+      Design:
+
+        -  This is a phase I dose-escalation trial
+
+        -  Patients will undergo leukapheresis
+
+        -  T-cells obtained by leukapheresis will be genetically modified to express the Hu1928-
+           Hu20BB CAR construct.
+
+        -  Patients will receive a lymphocyte-depleting chemotherapy conditioning regimen with the
+           intent of enhancing the activity of the infused CAR-expressing T cells.
+
+        -  The chemotherapy conditioning regimen is cyclophosphamide 500 mg/m^2 daily for 3 days
+           and fludarabine 30 mg/m^2 daily for 3 days. Fludarabine will be given on the same days
+           as the cyclophosphamide.
+
+        -  Two days after the chemotherapy ends, patients will receive an infusion of anti-CAR-
+           expressing T cells.
+
+        -  The initial dose level of this dose-escalation trial will be 0.66x10^6 CAR^+ T cells/kg
+           of recipient bodyweight.
+
+        -  The cell dose administered will be escalated until a maximum tolerated dose is
+           determined.
+
+        -  Following the T-cell infusion, there is a mandatory 9-day inpatient hospitalization to
+           monitor for toxicity.
+
+        -  Outpatient follow-up is planned for 2 weeks, and 1, 2, 3, 4, 6, 9, and 12 months after
+           the CAR T-cell infusion; less frequent follow-up is required more than 1 year after
+           infusion. Long-term gene-therapy follow-up for a total of 15 years after infusion is
+           required.
+    
+  

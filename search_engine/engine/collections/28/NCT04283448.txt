@@ -1,0 +1,96 @@
+
+    
+      Investigators will utilize a parallel intervention of lentil versus macronutrient-matched
+      (not including fiber) control treatment for 12 weeks in OW/OB adults with demonstrated risk
+      for T2D and CVD. Experimental diets will be provided to participants in the form of pre-made
+      midday meals to exploit the second meal effect and lower caloric intake at the evening meal.
+      Pre- and post-intervention assessments will be made for the following variables: makeup of
+      the gut microbiome (microbial species and relative abundance), gut metabolome, postprandial
+      response of TG, inflammatory cytokines, and serum metabolome to a high-fat meal challenge
+      (established inflammation stimulus), fasting serum glucose, lipid, insulin, inflammation
+      markers and metabolome, blood pressure, and anthropometric measures including weight, body
+      composition, waist circumference, and quantity of visceral adipose tissue. Physical activity,
+      sedentary behavior, and habitual diet will be measured so that these variables can be used to
+      aid in our characterization of participants and aid in analysis and interpretation of data.
+
+      Procedures:
+
+      Postprandial lipidemic and inflammation responses: High-fat meal challenges with 40 to 100 g
+      of dietary fat are an established laboratory test to measure both postprandial
+      triglyceridemic and inflammation responses. Investigators have used a 50 g dose of fat
+      delivered in the form of butter on toast on > 50 individuals because this particular dose is
+      effective at discriminating between low versus high TG and inflammation responders. In brief,
+      participants will report to the laboratory after an overnight fast, an indwelling venous
+      catheter will be placed in an antecubital vein, and blood samples will be collected before,
+      and 1, 2, 4, and 6 hours following ingestion of the high-fat meal. Samples will be analyzed
+      in real time for TG (and full lipid panel plus glucose) using a clinical chemistry analyzer
+      (Piccolo xpress), while serum samples will be aliquoted and stored at -80 C until analysis
+      for inflammatory cytokines, metabolomics, and insulin. Investigators will measure
+      inflammatory cytokines (TNF-α, interleukin (IL)-1β, IL-6 IL-17, IL-23, and granulocyte
+      macrophage colony stimulating factor (GM-CSF)) using high-sensitivity Luminex multiplexing
+      technology (Bio-Rad Bio-Plex® 200 HTS) prepared by Millipore.
+
+      Dietary intervention: Using methods established for an ongoing CRT with lentils,
+      investigators will prepare 7 meals per participant per week to deliver a dose of 4.6 or 0
+      cups of lentils per week for the experimental and control groups. Meals are matched for
+      macronutrient content (except for fiber), and ground turkey replaces lentils in the control
+      meals. Similar meals will be developed for black beans. Participants will be instructed to
+      consume food provided for their midday meal, and then to proactively reduce portion sizes and
+      to not eat beyond fullness at the evening meal. This strategy exploits the satiety effect of
+      pulses at the midday meal and the 'second meal effect' in which volitional consumption is
+      reduced at the next meal, the evening meal. Each participant will be surveyed once weekly to
+      determine whether they consumed the experimental meal that day, their perceptions of hunger,
+      fullness, satiety, and satisfaction with that day's meal (at 4:00 pm), and their
+      gastrointestinal comfort (level of bloating, flatulence, cramping, and comfort) throughout
+      the day (at 8:00 pm). This methodology has been successfully implemented in our ongoing study
+      to demonstrate that lentil meals are equally pleasing, produce greater satiety, and are
+      well-tolerated.
+
+      Gut microbiome analysis: Bulk DNA will be extracted from fecal samples using the Powersoil®
+      DNA Isolation Kit (Mo Bio Laboratories Inc.). DNA will be shipped overnight to the University
+      of Michigan, Center for Microbial Systems, for Illumina MiSeq amplicon sequencing of the 16S
+      V4 variable region. Raw sequencing reads will be processed and curated using the mothur
+      (v.1.39.5) software package, following the mothur MiSeq standard operating procedure,
+      potentially chimeric sequences will be identified and removed using the Uchime (v4.2.40)
+      algorithm, and taxonomic classifications will be assigned using the Bayesian classifier of
+      the Ribosomal Database Project, and operational taxonomic units (OTUs) will be assigned in
+      mothur using the VSEARCH distance-based clustering algorithm at the 97% sequence similarity
+      threshold.
+
+      Metabolomic analysis: Samples will be analyzed by high resolution liquid chromatography mass
+      spectrometry (LCMS). Hydrophilic interaction chromatography (HILIC) and reverse-phase (RP)
+      columns will be used for deep coverage. Metabolite identification will use fragmentation
+      pattern matching, authentic standards and database matching with METLIN and the Human
+      Metabome Database (HDB). Novel features of significant interest will be characterized with
+      liquid chromatography mass spectrometry solid phase extraction nuclear magnetic resonance
+      (LCMS-SPE-NMR). Pathway analysis will use XCMS and mummichog.
+
+      Dietary analysis. Long-term dietary habits may create adaptations that influence the response
+      to the short-term supplementation of Aronia and lentil. This study will use the most recent
+      version (2018) of the web-based Diet History Questionnaire (DHQ III), a food frequency
+      questionnaire designed for adults 19 and older, developed by staff at the Risk Factor
+      Monitoring and Methods Branch (RFMMB) of the NIH National Cancer Institute. The outputs of
+      the DHQ III include carbohydrate constituents, carotenoids and tocopherols, dietary
+      constituents from supplements, fats, fatty acids and cholesterol, macronutrients and energy,
+      minerals, protein constituents, and vitamins are dietary constituents and food groups
+      available in the DHQ III output files.
+
+      Physical activity and sedentary behavior monitoring: Participants will wear an Actical
+      omni-directional accelerometer during weeks 1 and 12 of the intervention to measure total
+      physical activity, time in low intensity activity, moderate to vigorous activity, and
+      vigorous activity, and sedentary activity in minutes.
+
+      Statistical analysis: H1 will be tested using two-sample t-tests to compare the difference
+      between pre- and post-intervention assessments. Using preliminary data for TG responses and
+      50% effect sizes consistent with published findings in animal models, it was estimated that
+      18-24 participants will be required per group to achieve power of 0.76 to 0.86 at alpha =
+      0.05. To test H2, investigators will identify changes in the gut microbiome using the methods
+      utilized in our preliminary research to identify characteristics of the gut microbiome that
+      differentiate low versus high TG responders, and then use regression analysis to determine
+      the level of variability in changes to the pulse and control treatments explained by changes
+      in relative abundance of gut microbial species. To test H3, investigators will identify
+      changes in the gut and serum metabolomes, and then determine the metabolic pathways
+      associated with the metabolomic changes to identify potential mechanisms underlying health
+      impacts of pulses.
+    
+  

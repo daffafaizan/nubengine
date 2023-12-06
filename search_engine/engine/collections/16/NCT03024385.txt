@@ -1,0 +1,166 @@
+
+    
+      Specific Aim(s) 1. Determine feasibility of implementing an ICC model as routine standard of
+      care during well child care visits 2. Assess how often physicians routinely implement this
+      model into their practice 3. Increase rates of screening for smoking, depression, folic acid
+      supplementation and family planning during routine visits.
+
+      4. Increase rates of referrals for mothers at risk Study Period (inclusive years) This
+      project will take place over a two year period. It will be re-evaluated at monthly intervals
+      to make sure that objectives are being met.
+
+      Study Design Study Entry: All mothers presenting with their children to an Ambulatory
+      Pediatric site (North Clinic, Eli Manning and the Pavilion) or Family Medicine (Lakeland and
+      Flowood) for 2 month, 4 month, 6 month, 9 month, 15 month, 18 month and 24 month well child
+      (WCC) visits will be screened for smoking, depression, folic acid supplementation and
+      contraception. Screening will take place at the time of each well child visit. The clinic
+      nurse will present the mother with the screeners for depression and will also ask whether she
+      is smoking, using contraception, and using a folic acid supplementation. Screening scores
+      will be reviewed by the patient's primary care provider. A positive score for PHQ 9 will
+      elicit a referral to Adolescent Medicine and/or Family Medicine for further evaluation. A
+      positive screen for smoking will elicit a referral to the ACT Center at UMMC. Negative
+      responses for contraception use will elicit a referral to Adolescent Medicine and/or Family
+      Medicine for further management. Primary care providers will provide mothers with information
+      and recommendations on folic acid use if they are not using a supplementation.
+
+      In Ambulatory Pediatrics mothers in need of services will be referred based on age. Mothers
+      who are 21 years or younger will be referred to Adolescent Medicine. Mothers who are 21 years
+      or older will be referred to Family Medicine. In Family Medicine, mothers will be referred
+      only for depression or smoking cessation.
+
+      This project is quality improvement hence screening will be offered to all mothers presenting
+      with their child for well child visits will be screened. Since this project is quality
+      improvement; examining provider behaviors, an exemption from informed consent is requested.
+      Foster parents and non-parental legal guardians will not be screened. Mothers presenting with
+      their child for sick visits will not be screened. Mothers of children older than 2 years of
+      age will not be screened.
+
+      All screening will take place at Pediatric primary care sites and at Family Medicine sites,
+      Monday through Friday, from 8am-4pm.
+
+      During Phase 2 of the project, mothers of NICU infants will be offered screening. Details of
+      Phase 2 will be presented as an amendment.
+
+      Measures: Validated questionnaires will be used to screen depression. Mothers will also be
+      screened regarding smoking, contraceptive use and folic acid supplementation.
+
+      Data will be collected monthly as quality improvement reports. Data will be shared with the
+      IMPLICIT Network every 6 months as continuous quality improvement throughout the network.
+
+      All de-identified data will be uploaded into REDCap, a password and encrypted database. Data
+      will be shared with March of Dimes to assess progress/process throughout the grant cycle.
+
+      On the IMPLICIT REDCap database, site names are listed to facilitate communication and
+      continuous quality improvement monitoring. The IMPLICIT REDCap is maintained on servers at
+      Lancaster General Hospital in Lancaster, Pennsylvania.
+
+      Depression Screening: The Patient Health Questionnaire is a validated screening tool for
+      depression. Both forms of the PHQ are graded on a Likert scale, from 0-3 and take just a few
+      minutes to complete. In adults, the PHQ2 has a 97% sensitivity and 67% specificity; the PHQ9
+      has a 61% sensitivity and 94% specificity. In youth (aged 13-17), the PHQ 9 has 90%
+      sensitivity and 78% specificity. A PHQ9 score of 10 or greater has 88% sensitivity and 88%
+      specificity for major depression. Numeric scoring for PHQ9 is as follows:
+
+      Score 5 = Mild Depression Score 10= Moderate Depression Score 15 = Moderately Severe
+      Depression Score 20 = Severe Depression A two item questionnaire (PHQ2) will be given to all
+      mothers of children 2 years or younger presenting for well child visits. If the mother
+      answers yes to either or both of the questions, the screen is scored as positive for
+      depression. The mother will then be screened further with the Patient Health Questionnaire 9
+      (PHQ9) - a nine item questionnaire.
+
+      If the PHQ9 score is positive for moderate depression (10 or greater) the primary care
+      provider will further inquire if the mother is actively suicidal. If so, the primary care
+      provider will send the mother to the Emergency Department for further psychiatric evaluation,
+      as per standard protocol. If the mother is not suicidal, she will be referred to either
+      Adolescent Medicine or Family Medicine Behavioral Health for further evaluation.
+
+      Smoking, Contraception and Folic Acid Screening: Screening for smoking, contraception and
+      folic acid supplementation will be "yes or no" items. All scores for mothers will be
+      documented in the child's progress note in the electronic health record.
+
+      Inclusion Criteria Mothers who accompany their infants to routine well child care visits will
+      be invited to be screened.
+
+      Exclusion Criteria Other legal guardians or foster parents of infants. Mothers of children
+      over 2 years of age will also be excluded.
+
+      Number of Subjects (anticipated): This is a feasibility project for quality improvement. It
+      is anticipated that 89 ambulatory care providers will be trained to use this model of ICC.
+      Training will include faculty in general ambulatory pediatrics (8 total) and family medicine
+      (4 total whose practice include pediatric patients). Residents in general pediatrics (47) and
+      family medicine (30) will also be trained.
+
+      These providers will have an estimated 1625 unique encounters with mothers. Estimated number
+      of WCC visits for target age group is 13000. Assuming each child gets 8 routine visits in the
+      1st two years of life (13000/8 =1625).
+
+      Outcome Measures Screening and referral rates will be collected and recorded as quality
+      improvement. Current rates of screening and hence referral for these health risks are
+      minimal. It is anticipated that screening rates will initially increase with a subsequent
+      increase in referral rates.
+
+      Study Endpoints Current screening and hence referral rates are minimal. This is the first
+      initiative to improve to screening and referral rates. At the end of 2 years, rates of
+      screening for depression, smoking, folic acid supplementation and family planning will be
+      increased to at least 80% of encounter for mothers infants aged 0-2 years of age. Mothers in
+      need of additional intervention will be referred 80% of the time.
+
+      Private Health Information Data will be collected in aggregate via chart reviews. Data will
+      be collected by pulling EPIC electronic health record smart-phrases. Private health
+      information will be collected in aggregate. Data pulled from EPIC (infant's name, date of
+      birth, date of visit, ethnicity, medical record number, visit type and demographics) will be
+      de-identified into an internal file and re-coded with a unique REDCap encounter ID.
+      De-identified information will be uploaded into REDCap (a HIPAA secure database) every 6
+      months. Private health information will not be transmitted to the IMPLCIT REDCap database.
+      REDCap is fully HIPAA compliant.
+
+      All 0-2 year well child visits will be pulled and chart review will be done to assess whether
+      screening for depression, contraception, cigarette and folic acid use was performed. Chart
+      review will be performed a monthly basis, at the end of the month. Every 6 months, process of
+      screening will be reviewed and if not at 80% or greater, screening process will be reviewed
+      with all primary care providers.
+
+      Data will be assessed for number of positive PHQ9 scores, number of positive smokers and
+      number of mothers not using a contraceptive method or folic acid supplementation.
+
+      Data will be assessed for the number of referrals offered to mothers with positive PHQ9
+      scores, positive smokers and no contraceptive use, to Adolescent Medicine, Family Medicine,
+      Family Medicine Behavioral health or UMMC ACT Center accordingly.
+
+      Only de-identified data will be collected (screening rates, questionnaire scores, referral
+      rates). Only the principal investigators and the data analyst (research assistant; a UMMC
+      employee) will have access to the data.
+
+      Risks: No identifying information will be collected on any of the screening data to reduce
+      the risk of loss of confidentiality. Mothers are free to withhold any information that they
+      wish to keep confidential.
+
+      There are minor risks or discomforts due to participation in this screening. Completion of
+      the screen may be associated with mild distress. Certain screening questions may make
+      participants feel embarrassed or uncomfortable; however, this is a risk that is highly
+      unlikely to be severe given the voluntary participation in the screening.
+
+      If such distress occurs for the mother she can discuss with the primary care physician. For
+      mothers who screen positive and are under the age of 18; their guardian will be notified of
+      the recommendation for referral (current standard of care for screening and treatment of
+      minors with depression).
+
+      Benefits of Participation in Study:
+
+      Subjects: There is a direct benefit to the mother from the screening. Mothers identified as
+      depressed or need of contraceptive services or tobacco cessation will be linked to
+      appropriate services.
+
+      Infants/Children: There is an indirect benefit to the children of the mothers screened, such
+      as improved maternal physical and emotional health, which could lead to improved care of the
+      infant/child.
+
+      Societal benefits: ICC has been demonstrated to decrease pre-terms births, hence this CQI
+      would ultimately contribute to lower pre-term birth rates in Mississippi
+
+      Statistical Methodology Because this is a feasibility study, no formal statistical testing
+      will be performed. Descriptive statistics along with 95% confidence intervals will be used to
+      describe rates of provider screening compliance. In examining the feasibility, we will
+      examine overall rates as well as rates stratified by clinic and age of child.
+    
+  

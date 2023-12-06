@@ -1,0 +1,30 @@
+
+    
+      1. Quality assurance plan that addresses data validation and registry procedures, including
+           any plans for site monitoring and auditing.
+
+        2. Data checks to compare data entered into the registry against predefined rules for range
+           or consistency with other data fields in the registry.
+
+        3. Source data verification to assess the accuracy, completeness, or representativeness of
+           registry data by comparing the data to external data sources .
+
+        4. Data dictionary that contains detailed descriptions of each variable used by the
+           registry, including the source of the variable, coding information .
+
+        5. Standard Operating Procedures to address registry operations and analysis activities,
+           such as patient recruitment, data collection, data management, data analysis, reporting
+           for adverse events, and change management.
+
+        6. Sample size assessment to specify the number of participants or participant years
+           necessary to demonstrate an effect.
+
+        7. Plan for missing data to address situations where variables are reported as missing,
+           unavailable, "non-reported," uninterpretable, or considered missing because of data
+           inconsistency or out-of-range results
+
+        8. Statistical analysis plan describing the analytical principles and statistical
+           techniques to be employed in order to address the primary and secondary objectives, as
+           specified in the study protocol or plan
+    
+  

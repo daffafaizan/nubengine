@@ -1,0 +1,12 @@
+
+    
+      The continuous variables (amount of bleeding during surgery) will be analyzed with linear
+      regression if they show normal distribution patterns.
+
+      The ordinal variables (postoperative bleeding complications) will be analyzed with ordinal
+      logistic regression.
+
+      Dichotomous variables (presence of other postoperative complications) will be analyzed with
+      logistic regression.
+    
+  

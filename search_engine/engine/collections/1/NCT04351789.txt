@@ -1,0 +1,137 @@
+
+    
+      INTRODUCTION Around 20% of people with COVID-19 becomes seriously ill with pneumonia and
+      multi-organ failure, requiring hospital admission to relieve the symptoms and reduce
+      mortality. To avoid any spreading of the virus, hospitalized COVID-19 patients are isolated.
+      Thus, patients hospitalized with COVID-19 are limited in their social support and their only
+      in-person contact is with healthcare staff in full personal protective equipment. Several
+      studies highlight that isolation due to infection may have negative psychological
+      implications. Moreover, Patients with confirmed or suspected COVID-19 may experience fear of
+      the consequences of the infection. A high prevalence of persistent mental health problems has
+      been found among patients during infectious disease outbreaks such as the 2003 outbreak of
+      Severe Acute Respiratory Syndrome (SARS). Researchers and policy makers have highlighted that
+      the psychological impact of the COVID-19 pandemic must be recognized alongside the physical
+      symptoms for all those affected. Moreover, evidence-based evaluations and mental health
+      interventions targeting hospitalized COVID-19 patients and their relatives are at present
+      lacking. If left untreated, these psychological symptoms may have long-term health effects on
+      patients and require treatment adding to the cost burden of managing the illness.
+
+      OBJECTIVE The objective of this project is to test the efficacy of a minimal
+      psychoeducational intervention versus standard of care at discharge for reducing symptoms of
+      anxiety in hospitalized patients during the COVID-19 outbreak
+
+      METHODS Design This is a Randomized Controlled Trial (RCT) among hospitalized COVID-19
+      patients.
+
+      Hypothesis The primary hypothesis is that a minimal psychological intervention will reduce
+      anxiety as assessed by the Hospital Anxiety and Depression Scale (HADS) subscale for anxiety
+      (HADS-A) by 1.5 points from baseline to follow-up 1 month after discharge from hospital. The
+      estimated decrease in HADS-A is based on the clinically important difference found in
+      patients with COPD and isolation studies.
+
+      Study population Patients will be recruited from the Department of Infectious Diseases and
+      the COVID-19 isolation wards at Copenhagen University Hospital, Hvidovre; one of the major
+      hospitals treating COVID-19 patients in Denmark.
+
+      Eligible patients are consecutively identified at time of admission. Included patients are
+      randomized 1:1 to either a psychoeducational intervention or standard care delivered at
+      discharge.
+
+      Sample size The primary outcome of interest is the intra-individual differences in HADS-A
+      scores between baseline and follow-up 1 month post discharge. The design is paired with a
+      power of 0.80 and an α at p=0.05. To identify a difference of 1.5 points, which is the
+      minimal clinically important difference based on COPD and isolation studies, with an SD of
+      2.5 points, 25 patients are required in each group. Since the trial population consists of
+      severely ill patients with high morbidity and mortality rates 2, approximately 30% of the
+      sample are estimated to drop out. Thus, the RCT study requires 66 patients, with 33 in each
+      group.
+
+      Intervention at discharge Patients randomized to the intervention group will receive a
+      minimal psychoeducational intervention just prior to discharge from the hospital. The goal of
+      the intervention is that patients will be prepared and learn to interpret and react to
+      physical and psychological symptoms that are related to recovering from a COVID-19 infection.
+      The intervention consists of both written and verbal information. While both the written and
+      verbal information will be primarily targeted the patient, the role of relatives and their
+      possible reactions will be part of the dialogue. A manual describing the content and
+      procedures of the intervention will be developed to ensure that the intervention is both
+      replicable and transparent. The intervention has a planned duration of 30 minutes and will be
+      conducted by a designated study affiliated researcher, who has a background in healthcare
+      (i.e. nurse or medical doctor).
+
+      Standard of care at discharge Standard of Care at discharge of patients with COVID-19 from
+      hospital is to inform the patients whom to contact in case of worsening of the physical
+      condition, such as increasing e.g. shortness of breath, and of precautions regarding further
+      isolation to avoid infection of household and other contacts, if relevant. Information
+      regarding the patient´s psychological condition is not part of a standard conversation at
+      discharge.
+
+      Blinding Due to the nature of the intervention, the RCT trial is not blinded, but the outcome
+      measures are masked for health professionals and staff until the end of the study.
+
+      Data collection Data is collected using standardized questionnaires at four timepoints;
+      baseline completed within 48 hours after admission (T0), at discharge, but prior to
+      intervention (T1), 1 month (T2), 3 months (T3), and 12 months (T4). Patients will answer the
+      questionnaires electronically in REDCap© or via phone interview conducted by a study nurse or
+      medical student. Clinical data is collected from the medical records and entered into the
+      REDCap© database.
+
+      The following internationally well validated PROMs will be used to assess mental
+      health/distress:
+
+        -  Anxiety and depression will be assessed using the Danish version of the HADS. The
+           primary outcome in the RCT study is anxiety measured by HADS-A.
+
+        -  Perceived stress is measured using the Perceived Stress Scale - 10 item (PSS-10).
+
+        -  Harvard Trauma Questionnaire (HTQ) is used to assess subjective distress caused by
+           traumatic events.
+
+        -  Health related quality of life is measured by SF-12, a short version of the Medical
+           Outcomes Study (MOS) 36-item Short-Form Health Survey SF-36.
+
+      Sociodemographic and clinical variables The following demographic and clinical data are
+      collected from the patients records: age, gender, marital status, residence in nursing home,
+      medicine, smoking status, BMI, previous history of psychiatric illness, physical symptoms,
+      and clinical parameters such as Temperature (>/> 38C); demand of oxygen support (< 5 litres
+      O2/minute; 5-10 litres O2/minute; >10-30 O2/minute or need for mechanical ventilation).
+      Biochemical parameters (Hemoglobin, White Blood Cell (WBC) count, lymphocyte count, Lactate
+      Dehydrogenase, Alanine Amino Transferase (ALT), CRP). Length of hospital stay is collected at
+      discharge. Information regarding contact to general practitioner and current psychological
+      treatment outside of the study is collected during follow-up.
+
+      Statistical analysis Descriptive statistics of demographic characteristics at baseline (T0)
+      will be computed. The primary analysis for the RCT study will be performed on the basis of
+      the intention-to-treat principle. Baseline data for the two groups will be compared with
+      Student's t test, the chi-square test, or nonparametric tests. To analyse within group
+      differences in outcome scores, a Student´s t test or Wilcoxon rank-sum test will be used. A
+      mixed regression model will be used to assess the change within-group and between groups over
+      time. The co-variables included in the models will be chosen based on an a priori hypothesis,
+      the bivariate analysis and clinical relevance. Analyses will be performed using the STATA 13
+      software and in collaboration with an experienced statistician. All reported p-values are
+      two-sided using a significance level of 0.05.
+
+      ETHICAL CONSIDERATIONS The study has been approved by the Danish Data Protection Agency
+      [P-2020-349]. The national Health Research Ethics Committee has assessed the intervention as
+      not being a significant biomedical intervention [jr. nr. 20025879]. All participating
+      patients will provide written informed consent before any data collection.
+
+      TIME SCHEDULE This is a two-year study initiated as soon as possible and no later than mid
+      April 2020.
+
+      DISSIMINATION Publication of positive, neutral or negative results in international,
+      peer-reviewed journals will be sought. In addition, results will be communicated at relevant
+      scientific meetings and conferences.
+
+      PERSPECTIVE The results from this study have a number of important potential implications.
+      First, by quantifying the magnitude of psychiatric symptoms among hospitalized COVID-19
+      patients, potential risk factors associated with these symptoms can be identified. Second,
+      there is a need to develop and test the efficacy of minimal psychological intervention for
+      reducing psychiatric morbidity among COVID-19 patients. Providing psychological treatment and
+      support may reduce the burden of comorbid mental health conditions both short and long-term.
+      The challenge is to provide mental health services in the context of patient isolation.
+      Hence, the intervention is designed to give healthcare professionals an instrument that is
+      clinically applicable and easy to implement even in isolated patients. Finally, the
+      longitudinal design of the study capturing experiences over time, can be used to identify
+      when in the trajectory psychological interventions are most needed.
+    
+  

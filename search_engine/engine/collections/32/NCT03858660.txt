@@ -1,0 +1,84 @@
+
+    
+      [Introduction] Aging usually results in a decline of motor function. However, elderly tends
+      to refuse the regular health examination because of travel issues or lack of self-health
+      awareness. Examination unit also has difficulty to intensively track and instantly feedback
+      the health status of elderly due to insufficient manpower. If elderly goes to the hospital
+      only when the health problem is getting worse, his/her health is often irreversible and the
+      cost of medical care would be increased. It is therefore an essential issue for the early
+      detection of functional changes in elderly to prevent the deterioration of the health and
+      function. Currently, the telemedicine cares provided by hospitals are not universal due to
+      the out-of-date legislation and non-successful business model. The wearing and operation
+      issues of the wearable devices used for health management are still a gap affecting the
+      acceptance of elderly. Accordingly, the objective of this project is to develop a handy and
+      easy-to-use smart physical examination system targeted on the unmet need of the elderly. With
+      the use of motion-sensing and big data analysis technology, the non-contact professional and
+      intelligent assessment could simplify the general health checkup procedures to promote the
+      health management and to reduce the manpower cost of health care. The ultimate goal is to
+      realize a commercial product aiming at the silver hair market with functional advantages to
+      meet the unmet needs of health management in elderly.
+
+      In this study, a new type of home-based health assessment platform will be proposed. The main
+      purpose is to help the elderly who may not be able to go to the hospital or health unit for
+      regular health check because of inconvenience to physical activity. The current health
+      assessment mode is also insufficient because Human and resource could not provide a more
+      intensive frequency of health testing. The physical condition of the elderly may rapidly
+      decline into a systemic disability due to some minor diseases. Therefore, the current limited
+      resource inspection mode cannot effectively monitor and recover the elderly's physical
+      condition. The home-based health assessment platform developed in this study can evaluate the
+      user's health status in hospitals, communities, or home environments. The non-contact
+      evaluation method allows users to start testing without wearing any device, which can
+      effectively improve The user's acceptance of health testing and rapid grading of the user's
+      health will also help to further design a personalized rehabilitation training program in the
+      future.
+
+      [Method]
+
+      Subject:
+
+      Inclusion criteria: 1) aged between 55-85 years old. 2) normal upper extremity function. 3)
+      walk for at least 10 meters without help.
+
+      Exclusion criteria: 1) any disease that could affect balance. 2) deficits in vision or
+      hearing. 3) mental issues preclude from the understanding of the protocol.
+
+      Protocol:
+
+        1. Basic information: including gender, age, height, leg length, weight, medical history,
+           medication, etc.
+
+        2. Clinical functional assessment: The results of following tests evaluated by the
+           Kinect-based health management platform will be compared with those of the physical
+           examination conducted by experts such as clinicians and therapists.
+
+           i. Flexibility test: The subjects sit in a chair with no backrest and backrest. One foot
+           bent stably on the ground and one foot extended forward (knee joint must be straight).
+           The heel hits the ground and the foot was in neutral position. They are then asked to
+           overlap the hands and straighten the upper body forward slowly, trying to touch the toes
+           in the middle pointing and holding for 2 seconds. The distance between the middle finger
+           and the toes is then measured. The test are repeated twice and the better measured value
+           will be recorded.
+
+           ii. Endurance test: evaluated by the 2-minute stepping test. iii. Muscle strength: Upper
+           limb strength is assessed using a 30-second arm curl test. And the lower limb strength
+           is assessed by the 30-second sit-to-stand test.
+
+           iv. Balance test: The subjects are asked to stand on the force plate looking straight
+           ahead with feet in shoulder width. There are two kinds of standing test situations: i)
+           single leg standing for a maximum of 60 seconds; ii) forward reaching as the arms
+           straight and parallel to the ground and remain in the maximum extended position for two
+           seconds.
+
+           v. Questionnaire: EuroQOL-5D will be used to evaluate their quality of life.
+
+        3. Data analysis: The concurrent validity of the Kinect-based health management platform
+           will be analyzed by the Pearson Correlation. And the balance parameters will be
+           evaluated by the movement of center of the pressure.
+
+        4. Adverse reactions and management: All the tests are non-invasive, so we won't expect any
+           major side effects. If the patient feels uncomfortable or feels dizzy during the fitness
+           test, he can stop the test, lie down and rest at any time, and the on-site medical staff
+           will monitor their breathing, heartbeat, and blood pressure to assess whether additional
+           treatment is required.
+    
+  

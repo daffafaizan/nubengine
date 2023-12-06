@@ -1,0 +1,13 @@
+
+    
+      This is a preliminary pilot study to generate data to optimize an insulin dosing algorithm to
+      regulate glucose levels in children with type 1 diabetes. There will be up to two 40-hour
+      test in outpatient settings, in which we will assess an insulin dosing algorithm. The two
+      tests will allow us to compare different tunings in the same patient (this allows easier
+      interpretation of the data). For example, if in a specific participant, the dosing algorithm
+      reduced insulin delivery at night to avoid low blood glucose levesl but led to a rebound
+      increase in glucose levels, then a second visit with a slightly different target range will
+      help answer this question. The objective of this clinical trial is to assess the safety of
+      our algorithm in children with type 1 diabetes in a free-living study.
+    
+  

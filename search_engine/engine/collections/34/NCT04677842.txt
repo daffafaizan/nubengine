@@ -1,0 +1,118 @@
+
+    
+      MAIN AIM OF THE STUDY The overall aim of the EPPICC Paediatric Protocol is to analyse
+      individual patient data from across collaborating European and international cohorts on
+      infections in children and young people, to inform optimal prevention and treatment
+      strategies.
+
+      MAIN AREAS OF FOCUS HIV: prevalence and incidence of immunological and virological failure,
+      HIV resistance, AIDS and non-AIDS events, mortality, cascade of care, engagement in care
+      (including after transfer to adult care); antiretroviral therapy status and toxicities
+      (adverse events, serious adverse events and discontinuation of drug) HCV: disease
+      progression, uptake and outcome (effectiveness and safety) of HCV treatment in HCV mono- and
+      HCV-HIV co-infected patients TB: incidence (including exploration of different
+      diagnostic/screening strategies across regions) of LTBI and TB disease; outcomes of TB
+      treatment including treatment of LTBI COVID-19: prevalence and incidence of infection and
+      disease among both the general population and specifically among children and adolescents
+      living with HIV; admission to hospital/ICU; outcomes (including resolution, death, sequelae
+      (e.g. paediatric inflammatory syndrome temporally associated with SARS-CoV-2)) COHORT /
+      INVESTIGATOR INCLUSION CRITERIA The study Sponsor has overall responsibility for site and
+      investigator selection.
+
+      The Principal Investigators of cohorts which have participated in previous EPPICC data
+      mergers will be approached to ascertain their interest in participating in future data
+      mergers. New cohorts may also be identified and may be invited to participate. The key
+      inclusion criterion for a cohort to participate is enrolment of children and adolescents with
+      the infection of interest. All cohorts who are able to commit to submitting and cleaning
+      data, obtaining any ethical, regulatory or other approvals required locally, and completion
+      of data sharing agreements in accordance with the project timelines will be included.
+
+      DATA COLLECTION Collected data are pseudonymised: no names, initials, hospital numbers,
+      national ID or addresses of patients are collected. Core data items included in most EPPICC
+      paediatric data mergers include the following; Demographic: Date of birth, sex,
+      ethnicity/country of origin, country of residence Therapeutic: Prophylaxis and treatment data
+      (HIV, HCV, TB and COVID-19 treatments) including start and stop dates, drug names, doses and
+      frequency of administration, and reasons for change/discontinuation Diagnostic: Diagnostic
+      tests for infections undertaken, including dates and results Concurrent treatments: Other
+      medications Clinical Infection status: (HIV, TB, HCV, HBV, SARS-CoV-2, other infection of
+      interest), mode of acquisition of infection, date of diagnosis, disease stage Clinical (other
+      events): Adverse events (e.g. severity, causal relation to drugs), AIDS- and non-AIDS-
+      defining malignancies, COVID-19 sequelae, weight, height, death, causes of death, pregnancy,
+      hospitalisations Laboratory: Absolute CD4 counts and percentage, HIV RNA, HCV RNA
+      measurements, other lab markers Other Follow-up status, reason for study drop-out, transfer
+      to adult care
+
+      For certain analyses, additional data items may be requested, and may include:
+
+        -  Biochemistry results
+
+        -  Further details of severe adverse events
+
+        -  Outcome of severe events. Data merger methods Individual cohorts collect data from
+           medical records in clinics. Cohorts then send electronic datasets to the EPPICC
+           Paediatric Data Manager, using a format and method defined in an EPPICC Standard
+           Operating Procedure. For the ongoing HIV analyses, data variables are based on HICDEP
+           data formats. HICDEP is the HIV Cohorts Data Exchange Protocol (www.hicdep.org) and is
+           based on a relational structure, with data presented in a series of tables, together
+           with the lookup tables for the codes to be used. For other future cohort collaborations,
+           the variables to be collected and the database format will be based on existing data
+           collection tools and standards where possible. Transfer of data to the EPPICC Paediatric
+           Data Manager takes place using Galaxkey or an equivalent secured method.
+
+      Submitted data are subjected to a range of logic and consistency checks. STATISTICAL
+      CONSIDERATIONS EPPICC analyses may cover a wide range of questions, although individual
+      Concept Sheets are specific to focussed research questions.
+
+      SAMPLE SIZE Data are collected on all eligible participants enrolled in the participating
+      centres who meet the inclusion criteria. Sample size calculations are carried out for
+      specific planned analyses to ensure that sufficient participants are available to
+      meaningfully answer each research question.
+
+      ANALYSIS PLAN Each Concept Sheet includes a brief analysis plan. Standard statistical methods
+      are used in the analysis of different types of exposure and outcome data. Adjustment for
+      confounding may be achieved through multivariable modelling or using alternative approaches
+      such as propensity scoring. Missing data are to be expected and, depending on the analysis
+      and the amount and likely mechanisms of missing data, may be approached using complete case
+      analysis or techniques such as multiple imputation. Details of specific analytical approaches
+      are included in each Concept Sheet. Previous analyses of EPPICC paediatric data have used
+      approaches including Cox regression, linear regression, logistic regression, and propensity
+      score matching. Cohorts may be grouped by region (as cohorts within the same region are often
+      similar in terms of epidemiology and treatment approaches), and region is then included as a
+      covariate in the analysis.
+
+      REGULATORY & ETHICAL ISSUES COMPLIANCE EPPICC is an observational study with no
+      study-specific interventions beyond those received in routine care. Nevertheless, it is
+      conducted in compliance with the approved protocol, the Declaration of Helsinki 1996, the
+      principles of Good Clinical Practice, the General Data Protection Regulation and the UK Data
+      Protection Act 2018 (DPA number: Z6364106), and the UK Policy Framework for Health and Social
+      Care Research.
+
+      Each cohort is responsible for ensuring compliance with local and national regulatory and
+      ethical processes.
+
+      DATA RETENTION
+
+      The paediatric study dataset will be stored at the MRC CTU at UCL, in accordance with
+      national data legislation. A final copy will be sent to the study sponsor, the Penta
+      Foundation. The dataset will be held for a minimum of 5 years after the end of the study.
+
+      DATA SHARING AGREEMENTS BETWEEN COHORTS AND EPPICC Individual cohorts, the Penta Foundation
+      and the MRC CTU at UCL are required to sign a Data Sharing Agreement (DSA), which allows
+      transfer of data between cohorts and the Penta Foundation and the MRC CTU at UCL. All data
+      will be handled and used in accordance with the DSA. Cohorts should return the DSA, once
+      signed, to the project coordinator at the Penta Foundation.
+
+      THIRD PARTY DATA SHARING REQUESTS Extracts of EPPICC data may be requested for other cohort
+      collaboration analyses, both nationally and internationally. Requests to access EPPICC data
+      will be considered on a case by case basis. Transfer of EPPICC data (partial or complete) to
+      third party collaborators requires approval from the PIs of cohorts contributing data (or
+      authorised cohort representatives) and is subject to a contract and Data Sharing Agreement,
+      if applicable. All data transfer is conducted through a secure process. Any data transferred
+      to third parties must be stored by third parties in compliance with all relevant data
+      protection regulations.
+
+      Researchers wishing to access EPPICC data should contact the EPPICC Study Team in the first
+      instance. A Concept Sheet is then required, which would be circulated to and discussed with
+      all potential contributing cohorts.
+    
+  

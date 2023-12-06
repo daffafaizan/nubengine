@@ -1,0 +1,72 @@
+
+    
+      HWA09 is a wrist-worn watch that enables to record a single-lead ECG similar to the standard
+      lead I configuration, and a photoplethysmogram (PPG).
+
+      Primary objective :
+
+      To validate the diagnostic performance of the ECG-SW1 software integrated into the HWA09
+      watch for the automatic identification of atrial fibrillation (AF) compared to a simultaneous
+      12-lead ECG (hereinafter referred to as the "gold standard" or "reference method").
+
+      The algorithm classifies the watch signals into four categories: normal sinus rhythm (RSN),
+      AF, arrhythmia other than AF, or non-interpretable. The latter category includes signals of
+      insufficient quality to be interpreted with confidence.
+
+      This classification will be compared to the diagnosis made by three independent, blinded
+      cardiologists based on a 12-lead ECG. The final diagnosis retained will be decided by
+      majority with adjudication by a consensus of 3 to 6 cardiologists. The sensitivity and
+      specificity of the device will then be estimated.
+
+      First secondary objectives:
+
+      The first secondary objective is to validate the diagnostic performance, compared to a
+      simultaneous 12-lead ECG, of the PPG-SW1 software integrated in the HWA09 watch for the
+      automatic identification of atrial fibrillation (AF) from the photoplethysmography (PPG)
+      signal.
+
+      Three independent blinded cardiologists will issue a diagnosis based on the ECG recording of
+      the HWA09 watch. The final diagnosis retained will be decided by majority with adjudication
+      by a consensus of 3 to 6 cardiologists. Sensitivity and specificity will be calculated in
+      relation to the reference ECG.
+
+      Second secondary objective:
+
+      To evaluate the quality of the single-channel strips measured with the HWA09 watch, as
+      follows:
+
+        -  Three independent cardiologists, having neither performed the data collection nor read
+           the reference ECG, will independently make a diagnosis based on the HWA09 single-channel
+           strips, blinded to the diagnosis made from the reference ECG. The ECG traces from the
+           watch will be exported in PDF format from the Withings Health Mate application and the
+           final diagnosis will be made by majority with adjudication by a consensus of 3 to 6
+           cardiologists. The final diagnosis will be compared to the diagnosis made by the
+           cardiologists who read the reference ECG. Sensitivity and specificity will then be
+           calculated.
+
+        -  The visibility and polarity of ECG waves (i.e. P waves, QRS complex and T waves) will be
+           determined by cardiologists for the single-channel strips recorded with HWA09 and for
+           the lead I of the reference 12-lead ECG. For each of the waves, the agreement on their
+           visibility and polarity (if visible) between the HWA09 and the reference ECG will be
+           calculated.
+
+        -  The durations of the major intervals of an ECG (i.e., QT interval, QRS complex, and PR
+           interval) will be determined by the cardiologists for the single-channel strips recorded
+           with HWA09 and for the lead I of the reference 12-lead ECG. For each interval (QT, QRS,
+           PR), the difference of duration between the signals from the watch and the reference ECG
+           will be calculated.
+
+        -  The heart rate will first be determined by cardiologists from each signal of lead I
+           (recorded by the HWA09 watch and the reference ECG) that has been diagnosed as NSR. The
+           difference between the heart rate of the watch and the reference will be calculated. In
+           a second step, the heart rate recorded by the HWA09 watch will be calculated by the
+           Withings software. The difference between the heart rate calculated by the Withings
+           software (from the signal of the watch) and the heart rate determined by the
+           cardiologists (from the lead I of the reference ECG) will also be calculated.
+
+      The sponsor will ensure that no cardiologist makes a diagnosis on both a signal from the
+      HWA09 watch and the reference ECG fomr the same patient. The sponsor will centralize
+      diagnostics on the HWA09 and reference ECG signals and perform agreement calculations on the
+      associated pairs.
+    
+  

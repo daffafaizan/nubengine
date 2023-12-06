@@ -1,0 +1,29 @@
+
+    
+      The annual incidence of sudden cardiac death in the United States has recently been estimated
+      at 450,000. Most of these patients die from ventricular tachyarrhythmias. Currently, there is
+      a limited ability to predict reliably which patients are at risk for these events.
+      Implantable cardioverter defibrillators (ICDs) are highly effective at treating the
+      arrhythmias that cause sudden death. Multiple clinical trials demonstrating the efficacy of
+      ICDs for the primary prevention of sudden death have been completed, leading to a relaxation
+      of the selection criteria for their use, and therefore a potentially large expansion in the
+      pool of patients eligible for these devices. This has major economic implications for the
+      health care system, and has led to a need for better prospective identification of patients
+      who are or are not at high risk for sudden death.
+
+      The existence of beat-to-beat changes in heart rate, termed heart rate variability HRV), has
+      long been recognized by physiologists. However, over the past 15 years, it has been
+      determined that HRV is not a random phenomenon but can be influenced by the brain through the
+      autonomic nervous system.
+
+      Promising work in the analysis of HRV may provide a means of predicting which patients are at
+      risk for sudden death. HRV analysis utilizes mathematical modeling of ECG data to gain
+      insight into the subtle variations in heartbeat patterns which occur from beat-to-beat.
+
+      The development of a system that could better identify the patients at risk of arrhythmic
+      events would have a significant impact on clinical and economical fields. This study will
+      test software developed by Vicor Technologies that can potentially identify patients at risk
+      of arrhythmic events. It works as a generic digital-electrocardiogram (ECG) device, as it
+      would normally be used by technical personnel in the routine care of outpatients.
+    
+  

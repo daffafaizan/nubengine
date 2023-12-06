@@ -1,0 +1,118 @@
+
+    
+      Background Point-of-care testing (POCT) is increasingly being used in general practice to
+      assist GPs in their management of patients with diseases. An accredited external quality
+      assessment (EQA) program and internal quality control system is recommended. In the
+      Copenhagen area external as well as internal quality control has been enforced by annual
+      outreach consultant visits and by split sample EQA procedures, where POCT results have been
+      compared with central laboratory results. However, the adherence to quality guidelines has
+      been seen to be less than anticipated among GPs in the Copenhagen municipality and in the
+      former county of Copenhagen.
+
+      Dissemination of guidelines alone rarely brings about improvements in clinical practice and
+      even an multifaceted implementation of guidelines may not change clinical practice. Multiple
+      strategies for implementing guidelines appear to be more effective than single ones 5;6.
+      However, well-designed empirical research looking into various implementation strategies is
+      still needed in this area.
+
+      E-mails have successfully been used in several studies to promote health behaviour change in
+      risk populations and our hypothesis is that electronic reminder letters (send to the GPs
+      electronic patient records) is an efficient and inexpensive way to influence the behaviour of
+      GP's.
+
+      Due to the low adherence, the Copenhagen General Practitioners' Laboratory (CGPL) plans to
+      introduce electronic reminder letters (alongside the standard implementation procedures)
+      during 2010 in order to increase adherence to the quality guideline.
+
+      The aims of this study are:
+
+      To evaluate the effect of electronic reminder letters versus postal reminder letters on
+      general practices adherence to clinical quality guidelines regarding POCT.
+
+      Participants All practices conducting POCT INR (Approximately 240 practices). Practices are
+      allocated to usual CGPL quality guideline activities and postal reminder letters (postal
+      reminder group) and usual CGPL implementation activities in addition to electronic reminder
+      letters (electronic reminder group).
+
+      Data collection Data on performed split test EQA procedures is retrieved from CGPL database.
+      These data do not contain any patient related data because all split test EQA are conducted
+      by a constructed identification code. Process indicators (sent reminder letters) are also
+      obtained from CGPL. The Capital Region databases provide information on the participating
+      practices and corresponding GPs.
+
+      Data from The Capital Region Information regarding: Sex, age, year of graduation from
+      university, working address, type of practice, patient listed to practice and use the
+      following tests: Hemoglobin, glucose, INR; CRP, HbA1C were retrospectively collected 4 months
+      before the start of the trial (tentative in order to establish a baseline). Every month in
+      the rest of the study period the investigators receive data from the Capital Region regarding
+      practices in the study areas and identify practices having used Hemoglobin or blood glucose
+      as a POCT. These data will be compared with the CGPL database every month and those practices
+      that have not done a split sample EQA will receive electronic reminder letters during the
+      following 4 months.
+
+      Randomization:
+
+      Practices are stratified by area and type of organization by means of SAS (Proc PLAN) by an
+      independent organization.
+
+      Outcome:
+
+      Primary outcome:
+
+        1. Total number of split tests performed in study period (three periods).
+
+           Secondary outcomes:
+
+        2. Proportion of practices with a high quality of tests defined as 75% of the performed
+           split tests for INR within the accepted interval according to the CGPL quality
+           guidelines1 in study period.
+
+        3. Proportion of practices conducting split tests in study period.
+
+      Power calculation:
+
+      The investigators use a 50% adherence estimate based on CGPL data from 2007 in order to
+      ascertain the power of the study. Given a MEREDIF at 25% and a power of 90% it is estimated
+      that 160 practices are to be included in this study.
+
+      Statistics:
+
+      Differences in the outcomes between allocation groups at baseline, intervention and outcome
+      period are tested by means of chi-square tests (outcomes 2 and 3) and t-tests (outcome 1).
+
+      In order to investigate the development of adherence relative to the intervention the
+      investigators will for the three periods use logistic (outcome 2 and 3) and linear (outcome
+      1) regression where the investigators use GEE methods to account for the repeated
+      measurements.
+
+      To identify predictors for adhering to guidelines adjusted odds ratios for the practice
+      characteristics are estimated in multivariate logistic (outcomes 2 and 3) and linear (outcome
+      1) regression analysis on the outcomes at baseline.
+
+      All statistical analyses are performed using SAS, version 9.2 (SAS Institute Inc, Cary, NC).
+
+      Intervention Standard implementation The standard implementation of EQA consists of invited
+      meetings and an annual facilitator visit in each practice. As part of the planned
+      implementation strategy GPs were invited to meetings, received written material from the
+      CGPL. At start each practice received written information from KPLL emphasizing the need of
+      adhering to the EQA.
+
+      Postal reminder letters
+
+      In this group, postal reminder letters are sent to practices not adhering to the guideline
+      recommendations of split testing within 30 days; i.e. a reminder letter is send when the CGPL
+      database registers that the last split test or last reminder letter was 31 days ago. Thus,
+      practices may receive up to four postal reminder letters:
+
+      Electronic reminder letters
+
+      In this group, electronic reminder letters are sent to practices not adhering to the
+      guideline recommendations of split testing within 30 days; i.e. a reminder letter is send
+      when the CGPL database registers that the last split test or last reminder letter was 31 days
+      ago. Thus, practices may receive up to four electronic reminder letters:
+
+      Time table Substudy A
+
+      Jan - Apr 2010 Sep - Dec 2010 Jan - Apr 2011 Baseline Intervention Outcome
+    
+  

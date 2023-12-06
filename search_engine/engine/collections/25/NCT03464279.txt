@@ -1,0 +1,27 @@
+
+    
+      National prescription rates for low-value antibiotics for uncomplicated upper respiratory
+      infections (URIs) remain unacceptably high, including at LAC+USC Medical Center-one of the
+      largest safety net medical centers in the U.S. Using a quasi-experiment (pre-post) design,
+      antibiotic prescriptions for URI at LAC+USC Urgent Care Center (intervention site) vs. Olive
+      View-UCLA Urgent Care Center (control site) will be compared. A three-part intervention at
+      LAC+USC consists of (1) the urgent care medical director emailing Choosing Wisely® guidelines
+      and presented journal club to all 16 urgent care clinicians, and then (2) leveraging EHR
+      performance data to provide individual clinicians with case-specific audit-feedback (both via
+      emails and in-person while precepting nurse practitioners) on low-value antibiotic
+      prescribing, and (3) using a behavioral "nudge", urgent care clinicians will sign a large
+      poster committing to avoid prescribing low-value antibiotics for uncomplicated URIs, which
+      will be displayed in the clinic. In contrast, the control site (Urgent Care Center at Olive
+      View-Medical Center) will receive Centers for Disease Control prescription pads for
+      non-antibiotic treatments (e.g., decongestants) that offer patients alternatives to
+      antibiotics, in a broader health system effort to reduce antibiotic prescribing. Patient with
+      URIs (e.g., acute bronchitis, bronchitis NOS, excluding guideline-based red flags such as
+      COPD, HIV) will be identified using electronic health record clinical billable data and
+      low-value antibiotic prescriptions rates per visit will be monitored at both sites.
+      Differences in prescriptions rates will be determined using an interrupted time-series
+      analysis comparing utilization between sites using a repeated measures logistic regression
+      model.
+
+      .
+    
+  

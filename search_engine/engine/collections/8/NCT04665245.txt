@@ -1,0 +1,25 @@
+
+    
+      One important approach for decreasing COVID-19 transmission in healthcare settings is to
+      prevent healthcare professionals from working while ill. Currently, facilities are asking
+      screening questions and measuring temperatures to help identify symptomatic healthcare
+      professionals and exclude them from providing patient care. Simulations can be used to inform
+      the effectiveness of different screening approaches, but the results of these simulations
+      depend upon the effectiveness of the intervention, e.g., the ability to identify healthcare
+      professionals on their way to work, or to study the impact of healthcare professionals
+      returning to work too early. Thus, simulations must necessarily depend upon realistic disease
+      parameters: for example, it is suspected that a non-trivial proportion of patients with
+      COVID-19 may be asymptomatic or have minimal symptoms, but the relative size of the
+      asymptomatic subpopulation is unknown.
+
+      The plan for this study is to develop a method for granular measurement of twice-daily
+      symptoms from healthcare professionals and other research subjects of similar ages. After
+      being diagnosed, the goal is to determine what symptoms participants have and how long they
+      have had them. This will be done using a previously-developed bidirectional texting platform
+      to query participants about symptoms at least twice a day for ten days post diagnosis.
+      Participants will be asked about subjective symptoms, including fevers, chills, cough,
+      shortness of breath, fatigue, gastrointestinal symptoms, etc. They will also take their
+      temperature twice daily during the recovery period, which will help determine the
+      effectiveness of screening based on symptoms and/or thermometer readings.
+    
+  

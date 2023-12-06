@@ -1,0 +1,82 @@
+
+    
+      Overview: This is a single-arm clinical trial, with historical controls as a comparison group
+      for select outcomes. Subjects with MAUD will receive 16 sessions of dual-target theta burst
+      stimulation to the DLPFC and MPFC over 4 weeks. We will follow outcomes for 12 weeks.
+      Outcomes include treatment retention, craving, self-reported MA or stimulant use, urine drug
+      screen results, depressive symptoms, anxiety symptoms, sleep quality, quality of life,
+      response inhibition, and functional connectivity. Magnetic resonance imaging (MRI) to measure
+      functional connectivity and a flanker task to measure response inhibition will be completed
+      at baseline and four weeks. More detail is provided in the outcome measures section. Subjects
+      will also complete the Big Five Inventory at baseline, a measure of personality
+      characteristics, to explore how these relate to outcomes including retention in treatment and
+      the study.
+
+      MR Image Acquisition: MRI will be completed at baseline and after the last TMS session. The
+      MRI sessions will be conducted using research dedicated MRI scanners at each site. Anatomical
+      images will include volumetric T1 and T2 weighted images with a 1.0 mm isotropic spatial
+      resolution. Resting state fMRI will be performed to collect 20 minutes worth of data.
+
+      Statistical Analysis:
+
+      Retention in the Study and Psychosocial Treatment: We will describe the proportion of
+      subjects who complete the 4-week TMS treatment period and complete each subsequent monthly
+      follow-up visit. We will use Kaplan-Meier curves to describe retention in the study and in
+      psychosocial treatment. If non-retention is common enough, we will use Cox regression to
+      explore baseline measures as predictors of retention. We anticipate that multivariate
+      analysis will not be feasible with the sample size.
+
+      Symptoms and Impulse Control Measures: Primary analyses for other measures will focus on
+      changes over the 4-week TMS treatment period. Changes in symptoms evaluated weekly or
+      biweekly (e.g. craving, depression, affect, anxiety, sleep) will be assessed using
+      generalized linear mixed models with appropriate distributions. We anticipate a Poisson
+      distribution for days of MA or other stimulant use and will use a binomial distribution with
+      a logit link to evaluate changes in positive urine drug screens. Time will be the primary
+      variable of interest to assess the slopes of change during treatment. Paired t-tests or
+      Wilcoxon signed-rank tests will be used to evaluate changes in measures completed at baseline
+      and after 4 weeks of treatment. We will compare measures at baseline and 4 weeks to those at
+      8 weeks and 12 weeks similarly, but in separate analyses since decay in effects may occur
+      after TMS ends.
+
+      Functional Connectivity Analysis: fMRI functional connectivity analysis will be performed
+      using a standard analysis pipeline. Functional images will undergo pre-processing including
+      brain extraction, motion correction, spatial smoothing (6 mm FWHM), and temporal filtering
+      (.008 Hz < f < 0.08 Hz). Following preprocessing, the fMRI signal will be corrected for
+      potential sources of noise using image-based estimates and motion correction parameters. The
+      resulting corrected time-series will be used for all functional connectivity analyses.
+      Functional connectivity will be measured by extracting time-series data from the
+      pre-processed imaging data for the regions of interest (ROIs). Multiple ROIs will be examined
+      and will be defined as spheres (6mm radius) based on coordinate locations previously
+      published by Yeo and colleagues. Specifically, we will focus on connectivity in the
+      cingulo-opercular network involved in cognitive control and salience (DLPFC - anterior
+      insula; DLPFC - anterior cingulate) and reward processing/motivation circuit (MPFC - ventral
+      striatum). Analyses will be averaged across right and left hemispheres but we will also
+      explore differences between right and left hemispheres. The time series from the ROIs will be
+      cross-correlated with the time-series from the other ROIs to determine the strength of
+      functional connectivity between regions. The resulting Pearson's r will be converted to
+      Fisher's z scores to improve normality for the statistical analysis. We will treat each ROI
+      pair connection (DLPFC - anterior insula, DLPFC - anterior cingulate, MPFC - ventral
+      striatum) as a dependent variable. Primary analyses will use paired t-tests or Wilcoxon
+      signed-rank tests to compare connectivity at baseline vs. after TMS treatment. We will
+      explore correlates of connectivity and changes using Pearson or Spearman correlations and
+      linear regression or mixed models.
+
+      Exploratory Analysis: Follow-up exploratory voxel-wise analyses will be conducted for
+      functional connectivity, which will provide thousands of individual predictors. This will
+      help confirm findings in large parcel ROI based analysis. We will use the same statistical
+      models as used for the ROI based analysis described above but at the voxel level. Voxel-wise
+      data creates a high-dimensional problem in which the number of predictors far exceeds the
+      number of participants. Machine learning methods, such as random forest will be used to
+      handle the high-dimensional sub-analyses. Random forest requires a minimum of data
+      assumptions, automatically accounts for non-linear and interaction effects, and it has proven
+      useful in identifying useful predictors in high-dimensional contexts.
+
+      Comparison with Historical Controls: We will compare retention in psychosocial treatment
+      programs and positive urine drug screens from chart review with a historical control group of
+      patients with MA use disorder matched on age, sex, site, and psychosocial treatment modality.
+      Treatment retention will be compared using a log-rank test. Positive urine drug screens in
+      each week of follow-up will be compared using generalized estimating equation models with a
+      logit link, clustered on subject, with participation in the TMS study as the variable of
+      interest.
+    
+  

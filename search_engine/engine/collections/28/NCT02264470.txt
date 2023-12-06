@@ -1,0 +1,89 @@
+
+    
+      Sample size assessment: According statistical consultation it is required to include at least
+      150 patients. The target figure is to include 500 patients. That number enables sub analyzes.
+
+      Inclusion criterion: All patients with clinical stroke (infarction as bleeding, first-time or
+      recurrent) at the stroke unit 354 will be asked for study participation.
+
+      Exclusion criterion: Patients not willing to participate in the study.
+
+      The response variable is fall. A fall is defined as an event which results in a person coming
+      to rest inadvertently on the ground or floor or other lower level. The definition of a fall
+      refers to the World Health Organization (http://www.who.int/mediacentre/factsheets/fs344/en/
+      2014-09-29). Data regarding falls will be collected from MedControl Pro (without any official
+      possible expansions). MedControl Pro is a web based program for deviations. For validation of
+      data concerning falls, assessment of medical journals will also be implemented.
+
+      The significance of the following covariates will be used in the analyses:
+
+        1. The patient's confidence in their own balance (postural control).
+
+           - Do you feel that your balance (postural control) is impaired?
+
+        2. Fear of falling
+
+           - Are you afraid to fall? (Fear of falling)
+
+        3. Postural control in everyday activities
+
+             -  The modified version of the Postural Assessment Scale for Stroke Patients (SwePASS)
+
+        4. Postural control; tandem stance (A decisive moment?)
+
+           - Do the patient manages tandem stance 30 s or not?/use of scale 0-4
+
+        5. Risk taking behaviour
+
+             -  Is the patient inclined to take a risk in tandem stance?
+
+        6. Self reported previous physical activity (PA) level.
+
+           - Grimby & Saltin scale and/or 150 minutes of PA/week or not
+
+        7. Cognitive ability
+
+           - Montreal Cognitive Assessment (MoCa)
+
+        8. Medication
+
+           - Registration of drugs and their Anatomical Therapeutic Chemical (ATC) classification
+           codes
+
+        9. Blood pressure
+
+           - Blood pressure and pulse lying and after 1 and 3 minutes standing
+
+       10. The use of walking aids
+
+       11. The use of wheelchair
+
+       12. Age
+
+       13. Sex
+
+       14. Length of stay (in days) on the stroke unit.
+
+      In addition, the National Institutes of Health Stroke Scale (NIHSS) result will be registered
+      and used to describe the study population.
+
+      Data collection:
+
+      Data collection will take place once, as fast as possible but at the latest 4 days after
+      admission to the stroke unit. There are two exceptions:
+
+      First, data collection regarding drugs will take place day 4 after admission. However, in
+      case of a fall before day 4 after admission, the data collection will be based on the drug
+      list the current fall day.
+
+      Second, data concerning cognition using MoCA will be performed once sometime during the
+      stroke-unit stay (due to organisation issues). That is, not at any particular time, but the
+      greater the suspicion of cognitive impairment, the later during the stroke unit stay.
+
+      Statistical analysis:
+
+      The poisson regression analysis will be used in order to address number of falls (fall risk)
+      per day and night at the stroke unit. Poisson regression takes into account the wide
+      variation in length of stay at the stroke unit.
+    
+  

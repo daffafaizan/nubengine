@@ -1,0 +1,126 @@
+
+    
+      PRIMARY AIMS:
+
+      This is a randomized trial testing a peri- and post-discharge pharmacist-led medication
+      management intervention on post-discharge utilization, including both readmissions and
+      emergency department visits within 30 days of discharge. The reason for targeting utilization
+      as the primary outcome is that the investigators believe prior work has already established
+      the efficacy of this type of intervention in preventing adverse drug events, but that it has
+      not been widely implemented because there is currently no business case for these types of
+      services, from the perspective of the hospitals and health systems who would need to fund
+      them. The intervention incorporates evidence addressing three main areas: medication
+      reconciliation, medication adherence, and polypharmacy. This study uses a pragmatic trial
+      randomized at the patient level and conducted in two large hospitals to achieve the following
+      aims (stratified by site):
+
+      Aim 1: To test the effect of this intervention on post-discharge utilization among patients
+      most at risk for post-discharge adverse drug events: recently discharged older adults taking
+      ≥10 medications or ≥3 high-risk medications using a prospective, randomized, pragmatic
+      multi-site study.
+
+      Aim 2: To study barriers and facilitators of implementing this intervention using a
+      qualitative study.
+
+      Aim 3: To analyze the costs of this intervention, including the incremental cost per
+      readmission averted and the net incremental cost from the health system perspective using a
+      time-and-motion study and a cost-effectiveness analysis.
+
+      The study population includes individuals being discharged from the hospital at high risk for
+      adverse drug events. Two sites will participate in this study: an academic medical center
+      (Brigham and Women's Hospital in Boston, Massachusetts) and a university-affiliated community
+      hospital (Cedars-Sinai Medical Center in Los Angeles, California) that has some community
+      physicians.
+
+      Eligible pharmacists (those with training in transitions of care) at the two sites will
+      receive a list of patients currently admitted to the hospital who have been randomized to the
+      intervention. Randomization is stratified by site. Intervention patients will be offered
+      intensive pharmacist services during and after discharge, most notably a chart review,
+      in-person or phone visit(s) during hospitalization, medication reconciliation at hospital
+      discharge, and a post-discharge phone call. Some or all of these activities may take place
+      over the phone. Other intervention components (e.g. phone calls to community pharmacies and
+      primary care physicians) may also be offered when indicated.a SECONDARY DATA ANALYSIS:
+      EXAMINE EFFECTS OF PHARM-DC INTERVENTION ON INITIATION AND DEPRESCRIBING OF
+      BENZODIAZEPINE-RECEPTOR AGONISTS
+
+      The following secondary analyses of trial data are planned to examine effects of the PHARM-DC
+      intervention on (1) the initiation of new outpatient prescriptions of benzodiazepine-receptor
+      agonists (BZRs) and (2) the deprescribing of BZRs among patients taking BZRs prior to
+      hospitalization:
+
+        1. Among patients without a BZR prescription on admission, the investigators will examine
+           the difference in adjusted predicted probability of having new BZR prescriptions from
+           admission to discharge between the intervention group and the control group. The
+           investigators will use logistic regression using a generalized estimating equations
+           approach and estimate adjusted predicted probabilities. The investigators will
+           hypothesize that among patients without a BZR prior to hospitalization, the
+           risk-adjusted probability of having a new discharge BZR prescription will be
+           substantially lower (e.g. 35% lower) among patients who are enrolled in the PHARM-DC
+           intervention compared to the control group.
+
+        2. Among patients taking BZRs prior to hospitalization, the investigators will use logistic
+           regression to estimate the adjusted predicted probability of dose intensification among
+           patients in the PHARM-DC intervention and the control group. The investigators
+           hypothesize that among patients with BZRs prior to hospitalization, the risk-adjusted
+           probability of experiencing a dose increase will be substantially lower (e.g. 35% lower)
+           among patients who are enrolled in the PHARM-DC intervention compared to controls.
+
+      Outcome measures: The investigators will create two measures: (1) a dichotomous variable for
+      a new discharge prescription of BZRs among patients not taking BZRs prior to admission, and
+      (2) a dichotomous variable for an increased dose prescription among patients taking BZRs
+      prior to admission.
+
+      SECONDARY DATA ANALYSIS: EXAMINE EFFECTS OF PHARM-DC INTERVENTION ON FALL-RELATED INJURIES
+      AMONG OLDER ADULTS WITH ALZHEIMER'S DISEASE AND RELATED DEMENTIAS:
+
+      The following secondary analyses of trial data are planned to examine effects of the PHARM-DC
+      intervention on post-hospitalization fall-related injuries among all trial participants and
+      among the subgroup of older adults with Alzheimer's disease and related dementias (ADRD):
+
+        1. The investigators will investigate whether the intervention reduces the severity of
+           fall-related injuries by using a two-sided Z test to compare the proportions of severe
+           injuries (e.g., hip fractures) and acute care utilization (hospitalization and ED
+           visits) between the intervention and control groups. The investigators hypothesize that
+           the PHARM-DC intervention reduces the severity of fall-related injuries by mitigating
+           medication-related risk factors.
+
+        2. The investigators will use a two-sided Z test to compare the proportion of those who
+           have post-hospitalization healthcare utilization for fall-related injuries within 30
+           days among all trial participants and among individuals with ADRD. The investigators
+           hypothesize that the PHARM-DC intervention reduces fall-related injuries among
+           individuals with ADRD. The investigators also hypothesize that the benefit of the
+           intervention is larger among individuals with ADRD compared to individuals without ADRD
+           by addressing both general and ADRD-specific medication-related risk factors for falls.
+
+        3. The investigators will examine the effect of the intervention among individuals with
+           dementia with Lewy bodies (ICD-10-CM code: G31.83) and individuals with an ADRD
+           diagnosis code associated with the ICD-10-CM code for Parkinson's disease (G20), because
+           previous literature suggests that these patients have a much higher incidence of
+           fall-related injuries, as compared to individuals with Alzheimer's disease.
+
+        4. The investigators will describe the difference in the nature of falls among individuals
+           with and without ADRD using external causes of morbidity codes (e.g., falls from bed vs.
+           falls while walking).
+
+      Variables: The investigators will check for balanced demographics and comorbidities across
+      arms in all analyses. In cases with imbalance, the investigators will consider post-hoc
+      adjustment, including by considering sex as a biological variable. Individuals with ADRD will
+      be identified by the ICD-10-CM codes based on hospital claims, adapting the algorithm from
+      the Chronic Conditions Data Warehouse.
+
+      Outcome measures: The investigators define post-hospitalization fall-related injuries as
+      healthcare utilization (hospitalization, ED visits, urgent care visits, or office visits) due
+      to fall-related injuries within 30 days of discharge of the index admission. The
+      investigators will link Medicare claims data to trial data to track this outcome at the
+      individual patient level.
+
+      Sensitivity analysis: It is possible that the investigators under-detect individuals with
+      ADRD diagnoses if the ADRD diagnoses are not coded diligently on hospital claims. To mitigate
+      this issue, the investigators will conduct a sensitivity analysis by using electronic health
+      record (EHR) data prior to the index admission, so that the investigators can include those
+      who were diagnosed with ADRD in the outpatient setting. Because this can only be done for
+      patients who receive outpatient care from doctors using the CSMC EHR, it would introduce bias
+      if used as part of the overall analysis. However, it can be done among this group to test the
+      sensitivity of detecting ADRD via claims.
+    
+  

@@ -1,0 +1,18 @@
+
+    
+      Methods:
+
+      60 Type 2 diabetes in our hospital will divide into 3 groups: group A (20 patients who give
+      basal treatment), group B (20 patients who give basal and Exenatide treatment, group C（20
+      patients who give basal and Gastric Bypass treatment). The age, height, weight, blood
+      glucose, glycosylated hemoglobin A1c（HbA1c）,homeostasis model assessment(HOMA-IR), lipid,
+      blood pressure, course of disease, ejection fraction (EF), fractional shortening(FS),
+      diameter of left ventricle in late diastolic stage(LVEDd), the thickness of the ventricular
+      septa（IVSD) and the posterior wall of the right ventricle in late diastolic stage (LVPWd)
+      will record respectively. Left ventricular mass index (LVMI), relative wall thickness (RWT)
+      will calculate and High-sensitive C-reactive protein (HsCRP), adiponectin and Tumor necrosis
+      factor-α（TNF-α） will detect as Baseline. After each group's treatment, Change from baseline
+      of all indexes will record, Multifactor logistic regression will be analyzed the correlations
+      between each positive indexes.
+    
+  

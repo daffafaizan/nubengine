@@ -1,0 +1,44 @@
+
+    
+      The subject recruitment will be performed within the Neuro-Urology outpatient clinic at the
+      Balgrist University Hospital and in collaboration with the Departments of Neurology, Urology
+      and Gynecology at the University Hospital Zürich.
+
+      The following subject groups will be recruited: 1) healthy controls (n=22), Non-neurogenic
+      overactive bladder (NNOAB) patients (n=20), multiple sclerosis (MS) patients with OAB (n=15),
+      MS patients without OAB (n=15), spinal cord injury (SCI) patients with neurogenic detrusor
+      overactivity (n=24).
+
+      After inclusion, all subjects and patients will undergo one to two functional magnetic
+      resonance imaging (fMRI) sessions. NNOAB patients might undergo an additional fMRI session
+      after receiving overactive bladder (OAB) treatment (such as antimuscarinics, intradetrusor
+      injections of botulinum toxin type A). Spinal cord injury (SCI) patients with neurogenic
+      detrusor overactivity will undergo an additional fMRI session 5-7 weeks after intradetrusor
+      injections of botulinum toxin type A.
+
+      High-resolution anatomical images and functional blood-oxygen-level-dependent (BOLD)-signal
+      sensitive images will be acquired. In addition to the fMRI, diffusion tensor imaging (DTI)
+      sequences will be recorded after the anatomical scans to provide information about the
+      structural supraspinal connectivity.
+
+      Study endpoints are changes of the BOLD signal in regard to location and intensity,
+      structural and functional connectivity (FC) between previously described supraspinal centers
+      involved in LUT control, and statistical differences of changes in BOLD signals, structural
+      and functional connectivity between patients and healthy controls.
+
+      All acquired fMRI data will be transferred to an off-line workstation running BrainVoyager QX
+      or Statistical Parametric Mapping (SPM) Version 8. The functional data will be pre-processed
+      for motion correction, spatial smoothing, linear trend removal, and temporal high-pass
+      filtering. With both programs statistical analysis and graphical presentation of the results
+      can be performed.
+
+      The DTI records will be evaluated with SPM8, BrainVoyager QX or other programs like
+      Functional Magnetic Resonance Imaging of the Brain (FMRIB) Software Library (FSL) and
+      DTI-Studio. To estimate FC we will use SPM8 or the brain connectivity toolbox. Both softwares
+      allow the estimation of rest- and task-related connectivity on single subject and group level
+      with corrected statistical threshold.
+
+      Overall, 96 subjects for the main study are estimated to be sufficient to demonstrate
+      significant differences between groups.
+    
+  

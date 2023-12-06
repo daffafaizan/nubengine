@@ -1,0 +1,102 @@
+
+    
+      Background and Rationale:
+
+      In daily clinical practice, core body temperature (CBT) of infants with fever symptoms is
+      monitored using sporadic rectal measurements. Because these sporadic invasive measurements
+      are time consuming for the medical staff and displeasing for patients, an alternative method
+      to assess CBT/fever is needed. The company greenTEG is developing a CBT algorithm which
+      calculates CBT continuously form skin temperature (ST), corresponding heat flux (HF) and
+      other skin-based parameters. The algorithm development will be achieved by collecting
+      skin-based parameters and reference CBT values from infants having fever in a clinical
+      setting.
+
+      Objective(s):
+
+      Develop and validate an algorithm that allows the detection of fever in infants through a
+      non-invasive sensor system, which calculates CBT from ST, HF and other skin-based data
+      streams, allowing a more effective patient management.
+
+      Endpoint(s):
+
+      ST, HF, heartrate (HR), SpO2 and CBT data are collected for 18-72 hours, depending on the
+      stationary stay of the patient. ST, HF, HR and CBT values from the different measurement
+      positions (lateral ribcage and foot) of the wearable prototypes, will be compared with each
+      other, and to the clinical invasive method. The invasive reference method will be rectal
+      temperature assessed every 8 hours (clinical standard care). For infants older than 6 months,
+      ear temperature will be assessed every 4 hours with an infrared ear thermometer.
+
+      Study Design:
+
+      Interventional-Single Group Assignment, monocentric, open label
+
+      Statistical Considerations:
+
+      The measures of quality will be: 1) The mean absolute difference (MAD) between the CBT
+      prediction and the reference signal where the mean is taken over the whole measurement of a
+      single patient. An aggregate performance measure over a group of patients is defined by
+      averaging the MAD values of each patient in the group. 2) the 2σ (standard deviation) range
+      of the Bland-Altmann-Plot between the CBT prediction and the reference signal. This is
+      calculated either for individual patient data or for the combined data of all patients
+      together. As we have defined a group of patients for algorithm validation, the total
+      improvement will be defined by comparing the above aggregate performance measures of old and
+      new algorithm for the validation group. We expect the factors age, sex to influence the
+      algorithmic prediction. Balancing the probability of occurrence of the factors in the
+      population and the overall size of the study, a final size of 50 patients is reasonable.
+
+      Inclusion criteria:
+
+        -  Infants from two weeks after birth and due date up to 18 months of age
+
+        -  Infants which are staying at the Nursery and the University Children's Hospital Zürich
+           for more than 1 day (in-patients)
+
+        -  Informed consent signed by parents or by its legal representative
+
+      Exclusion criteria:
+
+        -  Acute medical contradiction against medical plaster and adhesives (e.g. skin diseases or
+           allergies)
+
+        -  Irritated or damaged skin (e.g. burn, rush, eczema)
+
+        -  Infant with congenital anomalies (e.g. malformations of the anus)
+
+        -  Disease or brain injury which cause a disturbance of the thermoregulation
+
+        -  Comatose infant's
+
+        -  Infants with implants (e.g. pacemaker, cochlear implants)
+
+      Number of Participants:
+
+      50 patients are planned to be included in this study. The reason to plan with 50 patients is
+      that the data of 35 patients are needed to build/develop the fever detecting algorithm and
+      the data of 15 additional patients will serve the purpose to validate and adjust the
+      algorithm.
+
+      Study Intervention:
+
+      Two core body temperature sensing research prototypes will be applied to the skin of
+      recruited patients. These prototypes will not interfere with clinical standard monitoring
+      procedures and will measure inconspicuously without displaying any values. Furthermore,
+      rectal temperature will be measured every 8 hours by medical staff using the clinically
+      established method of the hospital. For infants older than 6 months, ear temperature will be
+      assessed every 4 hours with an infrared ear thermometer. The measurement will be between
+      18-72 hours, depending on the stationary stay of the patient.
+
+      Control Intervention:
+
+      Not applicable
+
+      Study procedures:
+
+      Infants will be recruited and screened 1 days before the measurements starts. Two research
+      prototypes will be applied to the patient on the left side of the body (lateral ribcage and
+      foot), after being admitted to the hospital and parents having signed the informed consent.
+      For all infants rectal measurement will be asses every 8 hours, as reference temperature. For
+      infants older than 6 months, in addition to rectal temperature, ear temperature will be
+      assessed every 4 hours with an infrared ear thermometer. The whole measurement procedure will
+      last 18-72 hours, depending on the stationary stay of the individual patient.
+    
+  

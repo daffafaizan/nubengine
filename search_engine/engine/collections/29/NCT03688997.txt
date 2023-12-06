@@ -1,0 +1,23 @@
+
+    
+      The simulator is a bench-top simulator with computer acquired assessments, designed to allow
+      novices to acquire basic surgical skills in knot tying. The simulator measures the forces
+      used and applied on the tissue while ligating a vessel.
+
+      Each participant received instructions for approximately 10 minutes with a standardized and
+      detailed explanation of the knot-tying technique. All knots were square knots (double-throw
+      knot) using the same type of sutures (SOLFSILK 3.0). Participants were asked to tie two knots
+      in four types: A superficial one hand square knot; A superficial two hand square knot; A deep
+      one hand square knot; A deep two hand square knot.
+
+      For each knot six parameters were extracted from the sensor data: maximum upward force,
+      maximum downward force, total upward force, total downward force, absolute non-zero force and
+      performance time. Maximum force is the highest force applied during the knot tying.
+
+      Participants were not aware of what exact parameters the simulator was assessing. Novices
+      were explained to avoid tissue rupture or loose knots. Knot integrity was evaluated by an
+      investigator present during the simulation that discarded "air knots". Videos were reviewed
+      by an investigator at post-study analysis to verify the appropriate technique and knot
+      integrity.
+    
+  

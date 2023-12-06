@@ -1,0 +1,140 @@
+
+    
+      This Safety & Efficacy Study will be a randomized controlled trial of 100 subjects (Parallel
+      design) aged 18 - 90 years who are scheduled to undergo vascular surgery at the University of
+      Maryland Medical Center (UMMC) hospital. 50 subjects will be recruited for the control arm
+      and 50 for the treatment arm. Subjects who meet the inclusion/exclusion criteria will be
+      randomized to receive the treatment device with Standard of Care or Standard of Care alone
+      (1:1). The most proximal (e.g., groin) incision (subject to safety exclusion) will be
+      studied.
+
+      The expected study treatment duration is 4 weeks. This means the subjects will be seeing
+      their physician weekly for the first 4 weeks following their surgery, once they are recruited
+      for the study.
+
+      During the study, there will be five study treatment visits: Study visit 1 (day 0) is the day
+      of the surgery and of randomization. For those randomized to the treatment arm of the study,
+      the EPIFLO device will be applied on this day immediately following surgery. For those
+      randomized to the control group, standard gauze dressing will be applied to their incision
+      site. The second study visit is 7 days following surgery (day 7) and the third, fourth, and
+      fifth study visits are on days 14, 21, and 28 respectively. On the third study visit (day
+      14), a new EPIFLO will be applied and the old one discarded for those in the treatment arm of
+      the study, because FDA has cleared each EPIFLO-15 device only for a maximum of 15 days of
+      use, after which the used device must be disposed (single use, single patient, disposable
+      device). The 5th study visit (Day 28), will be the final treatment study visit for all
+      subjects, regardless of which treatment group they are in.
+
+      Those subjects whose incisional wound has healed during the study treatment period (28 days)
+      will come in for a healing confirmation visit two weeks after it's noted to be healed. Note
+      that an incision is not declared healed until the healing is confirmed after a two-week
+      period after the first observation of complete healing. They will then have one final study
+      visit, approximately 90 days from the first observation of wound closure, as their last study
+      visit.
+
+      All subjects whose incisions have not completely healed by the fifth study visit (day 28)
+      will also come in for one final study visit, approximately 90 days following their surgery,
+      to have the study doctor assess the condition of the incision.
+
+      The investigational device of this protocol is the EPIFLO® Transdermal Continuous Oxygen
+      Delivery. Components of this unit include: Small, silent disposable, battery-operated oxygen
+      concentrator capable of delivering 98% to 100% oxygen (balance moisture) for fifteen days at
+      a rate of ~3.0 ml/hour; and 36" long sterile cannula (tube) that conveys the oxygen from the
+      concentrator device to the area beneath the bandage overlying the wound. EPIFLO is intended
+      to provide transdermal, continuous oxygen delivery to chronic wounds. EPIFLO concentrates
+      oxygen from atmospheric air and delivers the concentrated oxygen to the region of the wound
+      bed creating an oxygen-enriched environment intended to promote the healing process in
+      chronic wounds as an adjunct to standard wound care in wound management and treatment.
+
+      EPIFLO is worn in a convenient location in the body within 4-5 feet of the wound, beneath
+      clothing without impairing its operation, and the subject is free to ambulate and continue
+      with normal daily activities while being treated 24 hours per day for 15 days. The EPIFLO
+      unit measures 2" x 2.5" x 1" and weighs 3.5 oz. A pouch (with belt loop) and arm band are
+      provided to facilitate wearing of the device.
+
+      A Safety Monitor will be selected from unbiased wound care experts/vascular surgeons,
+      selected by the Investigator and will not be affiliated with the sponsor of this study. The
+      monitor charter will define the specific processes and procedures by which their assessments
+      will be conducted.
+
+      All study data will be presented in subject data listings. Statistical analyses, if
+      applicable, will be performed using SAS® for Windows, version 9.1 or later. Descriptive
+      statistics (n, mean, standard deviation, median, minimum and maximum) will be calculated by
+      treatment group for continuous variables. Frequencies and percentages will be presented by
+      treatment group for categorical variables. Missing data will not be imputed.
+
+      The disposition of all subjects who sign an ICF will be provided. The numbers of subjects
+      randomized, completed, and discontinued during the study, as well as the reasons for all
+      post-randomization discontinuations will be summarized by treatment group, for all centers
+      combined and each center separately. Disposition and reason for study discontinuation will
+      also be provided as a by-subject listing.
+
+      Demographics and baseline characteristics, including physical examination and medical history
+      will be summarized by treatment group for Intent to treat (ITT) and Safety populations.
+
+      Data will be summarized, descriptively, according to the variable type:
+
+        -  Continuous data: summaries will include the number of observations, mean, standard
+           deviation, median, and minimum and maximum values.
+
+        -  Categorical data: frequePrimary endpoint The primary endpoint of closure of the surgical
+           incision between the active and control populations will be tested using a repeated
+           measures analysis, specifically using a mixed model for repeated measures. This will be
+           tested with a necessary p-value of .05 or smaller to demonstrate significance regarding
+           the interaction between treatment and time of the follow-up visit when the measurement
+           was taken.
+
+      The test statistic will follow a t-distribution with n-2 degrees of freedom, where
+      t=(Interaction between time and treatment)/(Standard Error of the interaction) is the test
+      statistic for testing the significance of treatment on wound healing, where n is the total
+      number of patients in the study with at least one measurement taken for % of wound healed.
+
+      The test for significance will be conducted using a t-test against the Null Hypothesis that
+      the impact of the interaction between treatment and measurement period on wound healing is
+      zero. The test for significance will be made at α=.05. The statistical analysis will be
+      conducted in SAS using the MIXED procedure with the specifications of maximum-likelihood
+      estimation methods, model repeated measures, blocking by patient, and unstructured covariance
+      matrix.
+
+      Secondary endpoint The secondary endpoint regarding rate of infection between the EPIFLO
+      treatment and the control treatment will be tested at a significance level of .05 using
+      Barnard's test. A 2x2 contingency table will be made between patients in the Active and
+      Control arms, as well as the patients' incidences of at least one surgical site infection.
+      The statistical analysis will be conducted in SAS using the FREQ procedure with the
+      specification of EXACT BARNARD.
+
+      Any correlation between the primary and secondary endpoints will be assessed first by
+      calculating the correlation coefficients for the secondary end points. If the secondary
+      endpoint was found to be correlated with primary, then further analysis will be done only if
+      primary endpoint shows statistical significance as per the study success rule defined above.
+      If the secondary endpoint is not correlated with primary, then, further analysis of the
+      secondary endpoint will be carried out as described below. The secondary endpoint will only
+      be tested if the primary endpoint is statistically significant by the study success rule
+      defined above.
+
+      A multiplicity adjustment strategy (to be fully described in our Statistical Analysis Plan)
+      would be followed to control the overall Type I error at 0.05 level.
+
+      The SAP will fully describe the procedure to control the overall type I error rate at 5%
+      level (or below) using the methodology described in the literature (ICH E9 (1998) on
+      "Statistical principles for clinical trials")
+
+      Supportive Analysis To assess the consistency of the Primary Analysis results, supportive
+      analyses will be conducted using the Per Protocol (PP) population. Statistical methodology
+      for the supportive analyses will be the same as that of the primary analysis, with the
+      exception of the analysis population used. The PP population will be used for the supportive
+      analysis while ITT population will be used for the primary analysis. Subjects with no post
+      baseline value for the primary endpoint will be considered NOT HEALED in this analysis.
+
+      Safety Analyses The Safety population will be used for the analysis of safety endpoints. For
+      continuous variables data will be summarized by treatment using n, mean, SD, minimum and
+      maximum values. For categorical variables data will be summarized by treatment using
+      frequency and percentage. No inferential statistics are planned.
+
+      ncy counts and percentages will be used.
+
+      All aspects of the study will be conducted according to the principles of Good Clinical
+      Practice (GPD), the Declaration of Helsinki (1989), the provisions specified in Title 21
+      Parts 50, 54, 56, and 812 of the U.S. Code of Federal Regulations, this protocol, and all
+      federal, State, and local laws of pertinent regulatory authorities.
+    
+  

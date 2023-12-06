@@ -1,0 +1,32 @@
+
+    
+      The current standard therapeutic strategy for RA patients is to initiate a DMARDs therapy,
+      (e.g. MTX) with serious side effects. This also applies to some PSO or SNSA patients. MTX is
+      however inefficient in about 40% of the cases. Other treatments (biological DMARDs) must thus
+      be initiated, which have an overall similar effectiveness and side effects and an higher cost
+      (around 13kEUR/year/patient). Therapeutic choices are based on symptoms and blood tests
+      including markers of inflammation which are inadequate to predict disease evolution and
+      response to treatments. Improving RA management requires to improve the adequacy of the
+      therapeutic strategies. The earlier the disease is correctly addressed, the more likely its
+      progression and irreversible damages to the joints will be limited. DNAlytics recently
+      developed RheumaKit a differential diagnostic solution for UA patients. UA is a condition in
+      which joint inflammation is present, but a precise diagnosis cannot be made, due to the lack
+      of sensitivity of presently available diagnostic techniques. RheumaKit is a multi-gene
+      expression solution that discriminates RA from other joint conditions. A diagnostic model
+      train to identify patients suffering from RA, SNSA or OA. RheumaKit diagnostic accuracy is
+      higher than 90%, a performance that is better than any other diagnostic solution designed
+      until now, including the ACR/EULAR 2010 criteria for the diagnosis of RA. See working
+      principle below. Beyond diagnosis, DNAlytics wants to make RheumaKit evolve towards treatment
+      recommendation applications (theranostic applications) for patients eligible for biological
+      DMARDs. On one hand, the diseases of these patients have been more and more described in
+      terms of the activity of several metabolic pathways (T & B cells activation, Extra cellular
+      matrix, Inteferon, TNF). On the other hand, the existing treatments also have been more and
+      more described in terms of the pathways they target. The RheumaKit signature contains many
+      markers that are representative of these pathways of interest. RheumaKit thus now provides a
+      snapshot of the activity of seven metabolic pathways known from literature to be related to
+      diseases mechanisms, or to be target of existing treatments. In this study, DNAlytics wants
+      to show that based on a score defined on the RheumaKit platform, the response or non-
+      response to anti-TNFs, representing the largest category of biological DMARDs, can be
+      predicted before treatment initiation.
+    
+  

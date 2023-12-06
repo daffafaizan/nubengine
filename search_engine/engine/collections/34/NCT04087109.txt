@@ -1,0 +1,83 @@
+
+    
+      MedSafer is a Canadian-made electronic tool that automates deprescribing and generates
+      individualized, prioritized deprescribing opportunities for older adults based on existing
+      evidence from algorithms such as the Beer's criteria and STOPP/START in order to stop
+      potentially inappropriate medications. Its clinical content has been in place for over a year
+      in a Canadian Institutes for Health Research funded study and has been tested on over 5000
+      hospitalized patients. Software output has been analyzed and validated by Canadian experts in
+      internal medicine, geriatrics, palliative care, nursing, and pharmacy.
+
+      In the previous study funded by the Canadian Institutes for Health Research (expected total
+      recruitment: 6000), while deprescribing reports were generated automatically, data still had
+      to be entered manually, by trained research assistants. For this study, the next stage of
+      development involved creating an API that could accept medical conditions in the format of
+      ICD10 codes and medications as DINs.
+
+      "MedSafer e-Care" addresses the needs of patients and caretakers by facilitating safe
+      deprescribing. Deprescribing is time consuming, complex, and not all caretakers (clinicians)
+      are trained with the expert knowledge required to cross reference multiple medical conditions
+      with often 10 or more medications. "MED e-care" is an EMR (electronic medical record) that
+      contains patient medical conditions and medications stored as international disease
+      classification codes (ICD10) and drug identification numbers (DIN). The MedSafer team has
+      designed an API that cross-references ICD10 codes and DINs against existing evidence-based
+      algorithms for safe deprescribing. The API has been tested on a variety of medical conditions
+      and medications contained within the MedSafer rule set. This process can overcome barriers to
+      stopping medications including caretaker time constraints and knowledge gaps.
+
+      Data packets are processed by the MedSafer API and deprescribing reports are returned to MED
+      e-care and displayed to the user on the EMR interface. Reports will be available to
+      caretakers (nurses, physicians and pharmacists) who can choose to stop or taper medications
+      within the EMR. Opportunities are prioritized based on potential for harm and ease of
+      discontinuation, and factor in a measure of patient frailty and life expectancy. When
+      necessary, instructions for tapering medications are provided. Links to patient educational
+      brochures are included and can be printed for the patient and family detailing harmful
+      medications and deprescribing rationale. MED e-care has already entered negotiations with the
+      nursing home group OMNI Health Care to recruit at least five and up to 18 of the 18 care
+      sites from within the OMNI group of homes across Ontario.
+
+      The estimated duration of the study is 12 months. Deployment will approximate a Stepped Wedge
+      Cluster Randomized Trial Design (calculations performed with steppedwedge function in Stata
+      v. 15). To accomplish this, at least 10 unique patients would need to be enrolles per ACF
+      every 2 months following a 3-month baseline period (minimum total 300 patients).
+
+      The 5 OMNI ACFs will be grouped in 3 clusters. During the control phase, the MedSafer API
+      will not be accessible to the caretakers at the ACF. This serves to obtain baseline
+      deprescribing levels for each ACF. When the first cluster completes its baseline phase, the
+      MedSafer API feature will become accessible in MED e-care for the physicians, pharmacists and
+      nurses. Staff at the ACFs will receive a communiqué before entering the intervention phase as
+      well as a brief training on how to access this feature in the EMR. Following a 3 month
+      intervention period, the 2nd cluster will switch from its baseline phase to intervention. The
+      last cluster will enter the intervention phase 3 months after that. Once in the intervention
+      phase, users will receive quarterly deprescribing reports for their patients. MED e-care will
+      selectively allow access to the MedSafer feature for each site when it is their turn to enter
+      the intervention phase.
+
+      Cluster 1: 3 months control + 9 months intervention
+
+      Cluster 2: 6 months control + 6 months intervention
+
+      Cluster 3: 9 months control + 3 months intervention
+
+      During the control phase, residents at the 5 nursing homes or their proxy will be contacted
+      by a trained research assistant who will ask them to participate in the study. Their
+      participation will consist of a survey regarding their attitude towards deprescribing.
+
+      During the intervention phase, staff at the nursing homes (nurse, pharmacist, physician) will
+      be asked to distribute educational brochures regarding medications to patients/proxies, as
+      applicable to the medications the patient is taking.
+
+      During the intervention phase, this feature will provide users with individualized and
+      prioritized deprescribing opportunities: a) identifying the medication, b) explaining why
+      that medication is potentially inappropriate and c) providing instructions on how to safely
+      stop/taper the medication. The user will review these opportunities and appropriate candidate
+      medications for deprescribing can then be tapered or stopped directly in the EMR.
+
+      Structured feedback about MedSafer deprescribing opportunities is important and imperative to
+      optimize success and sustainability of any deprescribing intervention. Working with the user,
+      through rapid cycle interventions, the investigators will curate an output that minimizes
+      alert fatigue and is acceptable to stakeholders (caretakers/clinicians). Users of the
+      MedSafer feature will include physicians, pharmacists and nurses, including nurse
+      practitioners, at the 5 OMNI long-term care facilities.
+    
+  

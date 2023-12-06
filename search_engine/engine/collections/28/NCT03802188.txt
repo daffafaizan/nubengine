@@ -1,0 +1,154 @@
+
+    
+      B OBJECTIVES B1 To evaluate in SLE patients who lower but do not discontinue HCQ factors
+      associated with flare (significant increase in disease activity, augmentation of therapy or
+      hospitalization for SLE).
+
+      B2 To determine in SLE patients who discontinue HCQ factors associated with flare
+      (significant increase in disease activity, therapy augmentation or hospitalization for SLE).
+
+      B3 To evaluate temporal relationship between HCQ use and retinal toxicity in SLE patients and
+      how this may be associated with demographic and clinical factors.
+
+      B4 To assess SLE patient preferences for HCQ therapy and how preferences are associated with
+      demographic and clinical factors.
+
+      B5 To evaluate temporal relationship between antimalarial use and other forms of toxicity in
+      SLE patients and how this may be associated with demographic and clinical factors.
+
+      Team members have prospectively followed cohorts > 3700 adult SLE patients (90% HCQ exposed)
+      with collected and harmonized data on demographics and clinical factors. Team members
+      (Bernatsky Abrahamowicz Fortin Hazlewood) are founding members of CAN-AIM CIHR-funded Drug
+      Safety and Effectiveness Network team.
+
+      Members have history of working with patients as research partners (Bartlett Li Bernatsky
+      Fortin Hazlewood). Investigators' ties to stakeholders including patient research partners
+      and Lupus Canada facilitates knowledge translation.
+
+      METHODS C1 Cohorts: Investigators will use existing data on adult SLE patients enrolled into
+      study cohorts in Montreal Quebec Halifax Winnipeg Calgary and Toronto.
+
+      Investigators are members of national (Canadian Network for Improved Outcomes in SLE CaNIOS)
+      and/or international (Systemic Lupus International Collaborating Clinics SLICC) research
+      networks. CaNIOS and SLICC have worked decades on harmonized approach to
+      prospectively-collected. Cohorts enroll unselected patients when they present to clinic. At
+      annual assessments data are collected on drugs disease activity organ damage etc C2.1 Patient
+      selection for Objective 1: At baseline and follow up visits records are made of patient HCQ
+      doses. Starting with first visit with HCQ exposure investigators will determine how many
+      patients are recorded as receiving lower dose or discontinuing HCQ at follow-up visit.
+      Patients identified as having lowered HCQ dose will form sub-cohort for time-to-event
+      (survival) analyses. Investigators will evaluate only first-ever lowering of HCQ. Analysis
+      will evaluate patients from time zero (annual visit at which lower HCQ dose was recorded) to
+      assess combined outcome of earliest of a) increase in SLEDAI-2K of at least 4 points and/or
+      b) hospitalization for SLE and/or c) augmented SLE therapy defined as increase in HCQ or new
+      start or increase in corticosteroids or other immunosuppressant. In addition to accepted
+      minimal clinically significant SLEDAI-2K change investigators include drug changes and
+      SLE-related hospitalizations.
+
+      Patients studied in Objective 1 will be right censored if HCQ is discontinued completely;
+      these will enter into analyses for Objective 2. Otherwise patients will be followed until
+      outcome of interest or end of study.
+
+      C2.3 Subject selection for Objective 2 Analyses will be similarly conducted but time zero
+      will begin when individual discontinues HCQ. Objective 1 and 2 analyses conducted separately;
+      patients who have HCQ dose lowered but then discontinued will be in analyses for Objective 1
+      up to point of discontinuation then patients will be right censored for Objective 1. Subjects
+      are able to contribute data (from the point of HCQ discontinuation) to analyses for Objective
+      2. Patient can contribute to analyses for one or both objectives and contributing to
+      Objective 3. If not right-censored patients will be followed until outcome of interest or end
+      of study.
+
+      C2.3 Subject selection for Objective 3 Outcome is retinal toxicity assessed in HCQ-exposed
+      patients from time of first visit with HCQ exposure up to time of retinal toxicity
+      documentation or end of study for patients without outcome. Exposure to CQ (relatively
+      uncommon drug exposure) is also risk factor for retinal toxicity but essentially patients
+      exposed to CQ will have prior exposure to HCQ.
+
+      C3 Demographic and clinical factors C3.1 Variables assessed include sex age at SLE onset and
+      race/ethnicity. Analyses adjusted for education as education can alter adherence.
+
+      C3.2 Clinical factors for multivariable analyses include smoking BMI baseline disease
+      activity malignancy data and renal damage. Baseline refers to time zero. Renal damage is
+      captured with SLICC Damage Index measuring accumulated damage. Baseline disease activity
+      measured by internationally used SLEDAI-2K reliable validated widely used global score
+      index.Investigators will model time-varying drug exposures with step-up approach initially
+      with baseline use ie current, recent, ever or total past dose. Investigators use
+      sophisticated and novel weighted cumulative dose modelling to flexibly represent exposures
+      accumulated by individual subjects up to given time-point corresponding to each risk set for
+      time-to-event analyses. In multivariable analyses approach will allow investigators to
+      explore how risk of retinal toxicity may depend on details of past HCQ exposure including not
+      only total cumulative dose but temporal pattern of doses at various time in past with
+      differential weights for early versus later exposures.
+
+      C4 Outcome assessment: SLEDAI-2K and drugs are recorded. SLICC Damage Index has item for
+      retinal damage and updated yearly.
+
+      C5 Model development: Investigators will perform multivariable time-to-event analyses in
+      patients who lower or discontinue HCQ. Data for outcomes are available longitudinally at
+      annual visit with actual dates only available for addition/increase in corticosteroid or SLE
+      hospitalization. For other outcomes investigators will deal with interval-censored data
+      familiar issue in pharmacoepidemiology.
+
+      Models include baseline demographics education BMI SLE duration SLEDAI-2K renal damage and
+      medications. Simplistic survival analyses often assume linear effects of continuous
+      covariates and impose conventional proportional hazards (PH) assumptions; investigators know
+      that prognostic factors may have time-dependent and/or nonlinear effects that violate
+      assumptions. Investigators will account for this. Methods account for possible changes in
+      hazard ratio over time (violation of the PH) and allow estimation of relative risks (hazard
+      ratios) and actual probabilities of event of interest occurring.
+
+      Similar approach will be used for Objective 3 in time-to-event analyses of retinal toxicity
+      in patients exposed to HCQ.
+
+      Competing risks occur when subjects can experience one or more events that may compete with
+      outcome of interest and hinder observation of event of interest or modify chances for event
+      to occur. In sensitivity analyses investigators use competing risks models to simultaneously
+      estimate associations between HCQ exposures and hazards of competing event.
+
+      D POWER/SAMPLE CALCULATIONS D1 Power calculations for multivariate models Combined cohorts
+      include over 3300 patients have exposed to HCQ. Patients have had lowering of dose 45% or
+      discontinuation of HCQ during their follow-up. Power calculations are based on available data
+      suggesting that 45%-60% of SLE patients may flare over ten years of follow-up.
+
+      For baseline SLEDAI-2K assuming 35% of patients score less than 3 investigators would have
+      90% power to detect unadjusted HR of 1.30 and adjusted HR of 1.37 for variable. Assuming 20%
+      of patients have renal damage investigators will have 90% power to detect an unadjusted HR of
+      1.37 and an adjusted HR of 1.45 for variable.
+
+      E KNOWLEDGE TRANSLATION activities are informed by history of partnerships between
+      investigators and knowledge-users directed by Dr. Linda Li Canada Research Chair in
+      Patient-Oriented KT and Director of Knowledge Translation Research Program at UBC's Arthritis
+      Research Centre of Canada.
+
+      E1 Integrated KT Proposal developed in consultation patients from Lupus Canada patients
+      Canadian Alliance of Patients with Arthritis (CAPA) and Singer Family Fund for Lupus
+      Research. Wendy Singer (providing expertise health information dissemination and provides
+      insight of SLE patient who has been affected by HCQ-induced retinal toxicity) will assist
+      with educational tool developments. Co-PI Dr. Bartlett has over decade of work with patient
+      partners through OMERACT (Outcome Measures in Rheumatology) and other organizations to help
+      disseminate findings patient communities.
+
+      E2 Dissemination via MyLupusGuide: Data on HCQ from current study will be incorporated into
+      MyLupusGuide web-based patient-centred health-management tool developed by Dr. Fortin in
+      partnership with Jack Digital Productions CaNIOS Lupus Canada. Development
+      validation/dissemination of current version funded by CIHR operating and dissemination
+      grants.
+
+      E3 Clinicians and professional groups: Dr. Bernatsky is member of CRA Therapeutics Committee
+      which advises CRA on policies related to drug use for rheumatic diseases. Group monitors
+      information about adverse events related to drugs used in rheumatology including HCQ.
+      Investigators submit abstracts to scientific meetings (American College of Rheumatology,
+      European League Against Rheumatism, CRA meeting). Investigators will seek feedback on
+      feasibility/approaches to integrate MyLupusGuide as gold standard for patient education tool
+      concerning HCQ.
+
+      E4 Informing future guidelines: Team member Dr. S. Keeling has already produced Canadian SLE
+      care guidelines (funded by the CIHR and endorsed by the CRA and CaNIOS) . In 2019, again
+      mandated by these groups, Dr. Keeling will spearhead guidelines for SLE therapies.
+
+      E5 Health agency stakeholders: Investigators have connections Drug Safety and Effectiveness
+      Network (DSEN) Health Canada's Marketed Health Product Directorate and Canadian Agency for
+      Drugs and Technologies in Health (CADTH). Drs. Abrahamowicz and Bernatsky are co-leads
+      DSEN-funded team.
+    
+  

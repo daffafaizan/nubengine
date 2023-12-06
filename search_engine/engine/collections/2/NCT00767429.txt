@@ -1,0 +1,46 @@
+
+    
+      A first step to field measurement with target group is the measurement of elderly with a
+      certain fall risk in a simple field condition like a nursing home.
+
+      First fall risk is assessed in elderly using the Tinetti scale (score between 19-24) which is
+      the gold standard for fall risk assessment . This scale consist of a gait and balance score.
+      Only subjects who have a fall risk are included for further measurements.
+
+        1. A gait test will be performed to analyze movement parameters. Subjects have to walk 6
+           times a 20 meter distance at preferred speed while a small (56mmx61mmx15mm), light
+           weight (5g) and ambulant accelerometer is attached on the sacrum with an elastic belt.
+           The accelerometer measures accelerations of the body in three directions
+           (antero-posterior, media-lateral and cranial-caudal) with a sample frequency of 100Hz.
+
+        2. The balance ability will be tested by performing 4 balance tasks while the same
+           accelerometer measures the movements of the body. Subjects have to stand with feet
+           closed on a normal or foam surface while having the eyes open and closed.
+
+        3. The Get Up and Go test is performed: subjects start in sitting position, have to rise,
+           walk 3m, turn around, walk back and sit again. The time needed to perform this test is
+           measured.
+
+        4. 20 subjects (remaining in Scharweyerveld and Zorgboog) are monitored for one day and 20
+           elderly women (>70y) (recruited at the F&O policlinic MUMC)are measured for 5 successive
+           days, to investigate the mobility and more fall related movement parameters. The
+           accelerometer is attached to the sacrum in the morning. First the other 2 measurements
+           are performed, and then subjects wear the device during the whole day. The accelerometer
+           is small, light and ambulant which is not interfering with daily activities. Subjects
+           have to keep a diary to note all activities performed during that day. THis will be used
+           to explain the acceleration signal.
+
+      For the subject recruited from the F&O poli, a fall diary is kept for one year were subjects
+      have to note when a fall has happened. In addition muscle strength in measured in this
+      population and a questionnaire concerning quality of life (Euroqol) is completed in this
+      group.
+
+      All acceleration data will be analyzed using specific algorithms programmed in Matlab(c).
+      Statistical analysis will be performed in SPSS using pearson correlation to investigate
+      correlations between gait parameters, balance characteristics and the ability perform the Get
+      Up and Go test. Pearson correlation will also be used to validate the objective gait and
+      balance test with the Tinetti scale. Differences in function tests between elderly at risk
+      (measured in this study) and healthy subjects (measured in a previous study under lab
+      conditions) will be investigated using ANOVA (p< 0.005).
+    
+  

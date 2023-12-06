@@ -1,0 +1,19 @@
+
+    
+      The collected plaque samples were then freshly prepared for the DNA isolation using ABIOpure
+      TM Total DNA (version 2.0) (Cat No: M501DP100) according to the manufacturer's instruction.
+      All the samples were assessed for DNA quantification using spectrophotometry and further
+      quantified using the fluorometric method. This was performed using DeNovix DS-11 FX
+      (DeNovix). Further to the DNA quantification, assessment of DNA integrity was resolved on a
+      0.8% agarose gel with ethidium bromide. For NGS library preparation, all the samples
+      underwent PCR amplification of the 16S rRNA gene in the isolated bacterial DNA. The primers
+      used had targeted in the V3-V4 region of the 16S rRNA gene. The full length primer sequences,
+      using standard IUPAC nucleotide nomenclature, to follow the protocol targeting this region
+      are:
+
+      16SAmpliconPCRForwardPrimer=5' TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGCCTACGGGNGGCWGCAG
+      16SAmpliconPCRReversePrimer=5' GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGACTACHVGGGTATCTAATCC Gel
+      electrophoresis method was used for the size selection and the bioinformatics pipeline used
+      for processing microbiome 16S sequence data was QIIME
+    
+  

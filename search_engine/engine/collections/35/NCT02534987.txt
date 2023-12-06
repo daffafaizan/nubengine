@@ -1,0 +1,40 @@
+
+    
+      As the nation continues its efforts to contain healthcare costs and improve quality,
+      healthcare information technology provides some of our most potent yet underutilized tools.
+      Clinical prediction rules are frontline decision aids that combine state-of-the-art evidence
+      with real-time patient history, physical examination, and laboratory data. While often
+      well-validated, clinical prediction rules have been underutilized in practice. Recently, our
+      team developed the integrated clinical prediction rule (iCPR) system, embedding CPRs within
+      the nation's largest commercial electronic health record (EHR) system. Using this novel
+      system, we demonstrated high rates of provider utilization and a significant reduction in
+      antibiotic prescribing and diagnostic test ordering among suspected cases of strep throat and
+      pneumonia at a single healthcare facility. The objective of the proposed project is to
+      generalize this platform across diverse settings and create a toolkit for further
+      dissemination. Building on the success of the original iCPR project, the specific aims of
+      this proposal are to (1) integrate our previously tested and refined iCPR tool into the same
+      commercial EHR in three different clinical settings, adapting the innovation to provider
+      preference, culture, and local workflow rather than imposing a rigidly standardized tool, (2)
+      identify and measure rate and variability of iCPR uptake across different settings, (3)
+      determine iCPR impact on antibiotic prescribing and diagnostic test-ordering patterns across
+      diverse clinical settings with a randomized controlled trial, and (4) use a well-established
+      theory-driven implementation framework to identify facilitators and barriers to integration
+      in each setting, and develop a toolkit for adapting and implementing the tool in diverse
+      settings. To achieve these aims, we propose a five-year study in which we first adapt,
+      integrate and usability-test the original iCPR at three new diverse sites. We will then
+      conduct a two-year randomized controlled trial with a one-year post-trial open-access
+      observation period to determine the persistence of: 1) the tool's utilization and 2) its
+      impact on antibiotic- and test-ordering in patients with suspected strep throat or pneumonia.
+      In the final year, study findings will be compiled into a toolkit so that any healthcare
+      facility using the Epic EHR can integrate iCPR into its ambulatory workflow. The study uses
+      several innovative and significant approaches, including: 1) adapting the nation's most
+      widespread commercial EHR system; 2) building the new tool with "off-the-shelf" technology
+      included in every Epic EHR package, so the innovation can be easily ported to all Epic EHR
+      users; 3) using highly specific, well-validated clinical prediction rules as its core
+      content; 4) guiding the integration process with highly generalizable usability testing
+      techniques; and 5) using a hybrid RE-AIM and normalization process theory implementation
+      evaluation framework. Together, these innovative approaches make iCPR uniquely suited to
+      overcome longstanding barriers and integrate and disseminate evidence-based tools into the
+      primary care workflow at the point of care in real time.
+    
+  

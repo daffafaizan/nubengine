@@ -1,0 +1,37 @@
+
+    
+      EARLY-HEART is a multicentre prospective cohort study that will include 250 female primary
+      breast cancer cases aged 40-75 years treated with postoperative radiotherapy (RT) alone after
+      breast-conserving surgery using modern planning-CT based RT technologies and followed for 2
+      years after RT in one of the 5 participating hospitals. In addition to the standard
+      follow-up, patients will need to give repeated blood samples and will undergo repeated
+      cardiac imaging:
+
+        -  Functional and anatomical cardiac imaging biomarkers will be based on automated
+           2D-speckle-tracking echocardiography (ECHO-ST); Computed Tomography Coronary Angiography
+           (CT) and cardiac magnetic resonance imaging (MRI).
+
+        -  Circulating biomarkers (BLOOD) will be based on a panel of multiple classical or novel
+           blood-based biomarkers.
+
+      Imaging and circulating biomarkers measurements will be assessed at baseline before RT (ECHO,
+      CT, MRI, BLOOD); at the end of RT (BLOOD); 6 months after RT (ECHO, MRI, BLOOD) and 24 months
+      after RT (ECHO, CT, MRI, BLOOD).
+
+      Changes in functional and anatomical cardiac imaging and circulating biomarkers between
+      unexposed status before RT and exposed status after RT at different time points will be first
+      analysed to evaluate the effects of RT on the heart.
+
+      All relevant DICOM-data (including planning-CT scans and the ECHO, MRI and CT) will be
+      centralized to the MEDIRAD-ENACT database managed by University of Groningen for automated
+      segmentation of all cardiac substructures (including coronary arteries) to ensure uniformity
+      of the segmentation procedure between centres. The RT planning CTs will be used to generate
+      dose volume histograms and 3D dose maps of the heart and cardiac substructures in order to
+      correlate the localization of any cardiovascular change with the anatomical dose
+      distribution.
+
+      In the presence of a cardiac outcome, a multimetric Normal Tissue Complication Probability
+      (NTCP) individual risk model will be constructed and an integrative clinical-biologic risk
+      score will be developed for individual risk prediction.
+    
+  

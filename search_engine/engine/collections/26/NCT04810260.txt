@@ -1,0 +1,107 @@
+
+    
+      The study objectives and hypotheses are:
+
+      Objective 1. To adapt (including a single platform for multiple chronic conditions) and
+      refine WELLXcel for adult women with and without HIV. Hypothesis 1: WELLXcel will be
+      associated with a high level of adoption and will be successfully refined based on patient
+      feedback. Objective 2. To conduct a pilot study to assess the impact of the adapted and
+      refined WELLXcel program on clinical and process outcomes among women with and without HIV.
+
+      Hypothesis 2: WELLXcel will be associated with a high level of patient satisfaction and
+      usage, improved asthma and diabetes knowledge, improvements in health quality of life, and
+      improved self-reported asthma control and diabetes related quality of life compared to usual
+      care. Primary outcomes: Asthma control measured by the Asthma Control Test (ACT) and diabetes
+      quality of life measured by the Diabetes Quality of Life (DQOL) instrument.
+
+      Secondary outcomes: Process outcomes - patient satisfaction regarding the WELLXcel
+      intervention measured by the validated Questionnaire for User Interface Satisfaction (QUIS)
+      and the Unified Theory of Acceptance and Use of Technology (UTAUT) questionnaire; patient
+      usage of WELLXcel as determined by Google Analytics (integrated within the WELLXcel app) and
+      the WELLXcel backend administrative panel; asthma knowledge (measured by the Asthma Illness
+      Representation Scale and diabetes knowledge (measured by the Diabetes Knowledge
+      Questionnaire-24)[24] ; diabetes self-management and self-efficacy as measured by the
+      Diabetes Self-Management Questionnaire (DSMQ) and Diabetes Empowerment Scale-Short Form
+      (DES-SF), respectively. Clinical outcomes - Asthma quality of life measured by the
+      Mini-Asthma Quality of Life Questionnaire (mini- AQLQ); asthma and/or diabetes related
+      emergency department visits and hospitalizations; and the Patient Health Questionnaire-9
+      (PHQ-9) for depression.
+
+      Subjects:
+
+      Inclusion Criteria: English-speaking women >18 years with: (a) persistent asthma (diagnosis
+      via self-report) on a daily controller medication and/or Type 2 diabetes mellitus (diagnosis
+      via self-report) on at least one oral hypoglycemic medication and/or Insulin; (b) able to
+      give informed consent; and (c) Smartphone (iOS or Android) access. Exclusion Criteria: (a)
+      use of oral corticosteroids in the 2 weeks prior to the baseline visit; (b) pregnancy; (c)
+      chronic illness with organ failure (heart failure, severe liver disease, chronic kidney
+      disease stage 3-4 or dialysis) or requiring chemotherapy or steroid use; (d) severe
+      psychiatric or cognitive problems that would prohibit an individual from understanding and
+      completing the protocol; and (e) patients that previously received the ASTHMAXcel
+      application.
+
+      Investigators will recruit 30 HIV infected and 30 HIV uninfected adult women with persistent
+      asthma and/or Type 2 DM and fulfilling the study's inclusion criteria from the MWCCS cohort.
+      At each study site, patients will be prescreened for eligibility using data from WIHS
+      (Women's Interagency HIV Study) to identify those who meet the inclusion criteria. In
+      adapting with the ongoing COVID-19 pandemic and our existing AHRQ study protocols, patient
+      recruitment and study sessions will be conducted virtually to support physical distancing and
+      reduce the risk of contracting and transmitting COVID- 19 infection. The study coordinators
+      will call potential participants to describe the study and obtain voluntary informed consent
+      from interested patients.
+
+      Regarding the consent process, the study participant may choose to complete the e-consent (as
+      a form administered through our project's REDCap database via an e-mail link sent to the
+      patients who will read and electronically sign the consent) or verbal consent (the consent
+      will be read out to the patients who will subsequently provide verbal confirmation of having
+      understood the consent text and affirm consenting to the study).
+
+      Voluntary informed consent will include a discussion of the study purpose, study procedures,
+      research virtual visit schedule, reimbursement, confidentiality of research records, and
+      risks, benefits, and alternatives to study participation. Investigators will discuss that
+      research participation is voluntary, and participants will be notified that they can
+      discontinue participation at any time.
+
+      The study coordinator will document that the purpose, risks, benefits, and alternative
+      treatments were explained to the participant, that the participant agreed to participate in
+      this protocol, and the date and time consent was obtained. A copy of the HIPAA form and a
+      copy of the informed consent document will be given to the participant. In either case,
+      whether the e-consent or the verbal consent form is obtained, the participant will receive
+      the consent document, which will be printed and mailed out to them. All informed consent and
+      HIPAA documents will be submitted to, and approved by, the Albert Einstein College of
+      Medicine IRB. E-consent forms will be stored within our project's secure REDCap database.
+
+      Sixty patients who provide voluntary informed consent will be invited to the remotely
+      conducted (via Zoom) baseline visit, which consists of downloading the app to the patient's
+      smartphone, explaining the app's functionality, having the patients complete the WELLXcel
+      animated educational videos and baseline questionnaires administered by REDCap. Assessments
+      will be conducted at baseline followed by 1, 2, and 3 months after baseline. The baseline
+      survey and the subsequent assessments will include process outcomes (patient usage,
+      acceptance and satisfaction with the app) as well as measures of disease morbidity (asthma
+      and diabetes control, utilization measures in terms of asthma and/or diabetes-related ED
+      visits and hospitalizations) and quality of life questionnaires. Based on our preliminary
+      studies, patients with 1 condition will take approximately 20 minutes to complete the surveys
+      during a given study visit. Patients with 2 conditions will take approximately 45 minutes to
+      complete the surveys. Each study visit will also include brief semi-structured interviews to
+      gather patient feedback (e.g. problems with using the app). Investigators will also use the
+      Google Analytics and WELLXcel admin panel to evaluate app usage patterns and click-through
+      data to better understand how the app is used, which may lead to the identification of
+      additional usability pitfalls. Investigators will use our existing REDCap project database to
+      store app-collected data and responses to REDCap-administered questionnaires. At the 2 month
+      visit, we will conduct exit interviews with each study participant to enable us to refine the
+      app for our upcoming studies.
+
+      To assess digital health literacy and concurrently validate our digital health literacy tool,
+      the study baseline session will also include NVS, eHEALS, and our digital health literacy
+      tool. At the subsequent 1-month assessment, digital health literacy tool will be
+      re-administered to evaluate test-retest reliability. There is no previously defined cut-off
+      score on the eHEALS questionnaire which simply defines a patient as eHealth literate' or 'not
+      eHealth literate'. For this study, investigators will define literacy as follows: a score of
+      32 or higher (out of a 40 point maximum score) will indicate 'good EHL', a score of 24-31
+      will indicate 'moderate EHL', and a score below 24 will indicate 'low EHL'. On the objective
+      digital health literacy tool, 'good EHL' will be defined as a score from 8-10 (out of a
+      maximum of 10), a score of 5-7 will indicate 'moderate EHL', and a score below 5 will
+      indicate 'low EHL'. Patients will complete all health literacy questionnaires via REDCAP
+      generated e-mail survey links during the study sessions.
+    
+  

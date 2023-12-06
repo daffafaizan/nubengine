@@ -1,0 +1,85 @@
+
+    
+      Maintenance of tight glycemic control in critically ill patients has been demonstrated to
+      significantly reduce morbidity and mortality in critical care patients in the OR and ICU
+      settings. Numerous (>20) peer-reviewed publications have demonstrated the benefits of tight
+      glycemic control. For example, tight glycemic control has been shown to reduce surgical site
+      infections by 60% in cardiothoracic surgery patients (Furnary et al., 1999), and has been
+      shown to reduce overall ICU mortality by 40% with significant reductions in ICU morbidity and
+      length of stay (Van den Berghe, 2001).
+
+      Historically, caregivers treated hyperglycemia (high blood glucose) only when glucose levels
+      exceeded 220 mg/dL. However, based upon these recent clinical findings, experts now recommend
+      controlling blood glucose to within the normoglycemic range (80-110 mg/dL). Adherence to such
+      strict glucose control regimens requires near-continuous monitoring of blood glucose and
+      frequent adjustment of insulin infusion to achieve normoglycemia while avoiding risk of
+      hypoglycemia (low blood glucose). Surveys indicate that, in response to this demonstrated
+      clinical need, more than 50% of US hospitals have now adopted tight glycemic control
+      protocols for some critical care patients, with an additional 23% expected to adopt such
+      protocols within the next 12 months.
+
+      Currently, these TGC protocols require intravenous administration of insulin to achieve and
+      manage glucose control to within the normoglycemic range. The protocols also mandate frequent
+      monitoring of patient blood glucose levels by nursing staff. With existing technology, each
+      test involves removal of a blood sample and testing on handheld meters or blood gas
+      analyzers. This process is cumbersome, labor intensive, and often disruptive to the patient.
+      Although hospitals are responding to the identified clinical need, current technology has
+      limited adoption due to two principal reasons:
+
+        1. Fear of hypoglycemia: administering insulin to maintain the patient in the target
+           glucose range of 80-110 mg/dL exposes the patient to increased risk clinical
+           hypoglycemia (blood glucose less than 50 mg/dL). Critical care patients are often
+           sedated and do not exhibit typical signs of hypoglycemia, exacerbating the risk of
+           hypoglycemia. The need for frequent monitoring and concern about risk of hypoglycemia
+           increase caregiver stress and can limit adherence to tight glycemic control protocols.
+
+        2. Glucose monitoring by conventional methods represents a burdensome procedure: most tight
+           glycemic control protocols require frequent glucose monitoring and insulin adjustment at
+           30 minute to 2 hour intervals (typically hourly) to avoid hypoglycemia while maintaining
+           normoglycemia. Glucose determination with current technology (including instrument
+           preparation, blood sample acquisition and instrument analysis) typically takes 5 minutes
+           per measurement.
+
+      The Sponsor is developing an automated patient-attached blood glucose monitor that will
+      automatically make frequent blood glucose measurements. Frequent measurements will allow
+      better tracking of patient glucose status and will provide blood glucose trend information.
+      The system will alert caregivers to impending or actual hypoglycemia conditions. Automation
+      will reduce the labor burden associated with existing technology. The device is intended to
+      help caregivers to better manage tight glycemic control in their patients.
+
+      The device measures glucose in whole blood by flowing a patient blood sample through an
+      optical flow cell while transmitting near infrared light through the sample. The blood
+      constituents, including glucose, absorb a portion of the near-infrared energy in
+      characteristic fashion. The instrument measures the resulting transmission spectrum and
+      analyzes the spectrum to determine the concentration of glucose in the blood sample.
+
+      Though the proposed study will represent the initial measurements made by the device in ICU
+      patients, the Sponsor has collected data in volunteer studies conducted at InLight's
+      facility. In one study, we collected blood from volunteer donors and created individual blood
+      samples with variable glucose (glucose range 50-550 mg/dL) by spiking the samples with
+      concentrated glucose solution. We also induced hematocrit variation between 30-50% in these
+      samples by controlling the red cell to plasma ratio. Spectral measurements collected with the
+      prototype device were mathematically correlated with simultaneous blood glucose measurements
+      of the same samples obtained with a Yellow Springs Instruments YSI 2700 Select glucose
+      analyzer (an industry-standard laboratory glucose analyzer) to generate a spectral glucose
+      model and to provide baseline near-infrared glucose measurement results. This evaluation
+      demonstrated that the device's glucose measurements tracked the YSI 2700 glucose measurements
+      with an accuracy of 8.9 mg/dL (1 s.d.). See Figure 1.
+
+      In another study, we collected serial blood samples from 5 volunteer subjects with diabetes
+      undergoing dynamic glucose changes induced by carbohydrate ingestion and insulin
+      administration. We obtained spectral glucose measurements of the blood samples using the
+      prototype near-infrared device and compared them with simultaneous blood glucose measurements
+      of the same samples obtained with the YSI 2700 Select glucose analyzer. The Sponsor's results
+      compared favorably with the YSI 2700 results, demonstrating a root-mean-squared error (1
+      standard deviation) of 5.9 mg/dL (Figure 2). This accuracy level is comparable to current
+      handheld meter technology.
+
+      We anticipate that the OR and ICU environments will present new physiological and
+      pharmacological challenges for our instrument. The proposed study is essentially a screening
+      study that will give the Sponsor insight into these challenges. Access to the de-identified
+      ICU charts will allow the Sponsor to correlate the glucose measurements and measurement
+      errors with specific pharmacologic therapies and physiological events. In this manner, the
+      proposed study is in effect a screening study.
+    
+  

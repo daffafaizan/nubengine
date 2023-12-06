@@ -1,0 +1,16 @@
+
+    
+      Observational Study Model is selected as "Other" - Reason: Individual-level state transition
+      model simulating the number of events of CRC, CVD, safety events and deaths in hypothetical
+      cohorts of 1 million adults aged 50-59 years and 1 million adults aged 60-69 years followed
+      for 20 years or till death, whichever comes first. The hypothetical cohorts are reflective of
+      a population eligible for taking aspirin for primary or secondary CVD prevention.
+
+      Time Perspective is also selected as "Other"
+
+      - Reason: Individual-level state transition model built mimicking the UK population using
+      data published in scientific international peer-reviewed journals or published data from
+      government agencies. In a second phase, the model results will be extrapolated to other EU
+      countries, modifying the model parameters to reflect the other EU countries epidemiology.
+    
+  

@@ -1,0 +1,95 @@
+
+    
+      People with serious mental illness (SMI) such as schizophrenia, schizoaffective disorder and
+      bipolar affective disorder have a significantly reduced life expectancy in comparison to the
+      general population. Improvements to the primary prevention of physical health illnesses like
+      diabetes in the general population have not been mirrored to the same extent in people with
+      SMI.
+
+      Diabetes is a group of metabolic disorders characterized by a high blood sugar level over a
+      prolonged period of time. If left untreated or poorly managed, diabetes can lead to various
+      long term health complications including cardiovascular disease, stroke, chronic kidney
+      disease, foot ulcers, damage to the nerves and damage to the eyes. Diabetes accounts for
+      approximately 10% of healthcare resources in the UK, and this is set to rise to 17% with an
+      estimated cost of £39.8billion by 2035 when direct healthcare costs and indirect costs on
+      productivity are taken into account.
+
+      People with SMI have higher rates of cardiovascular disease (CVD) risk factors such as
+      central obesity, high blood pressure, raised cholesterol levels, and raised blood sugar
+      levels compared to the general population. Local rates of diabetes in people with a diagnosis
+      of established psychosis are 20% with a further 30% evidencing dysglycaemia (raised blood
+      sugar levels). Again locally, rates of glucose dysregulation (indicator for high risk of
+      developing diabetes) doubles in the first year after a first psychotic episode, creating a
+      unique window for prevention strategies to address these risks as early as possible.
+
+      A key inequality in healthcare provision in people with SMI is the less than adequate
+      assessment and treatment of physical health conditions such as diabetes in secondary mental
+      healthcare settings. There is therefore a need for more targeted and clinically informed
+      interventions, that improve the standard of physical healthcare screening and interventions
+      offered to people with SMI across both primary and secondary care settings.
+
+      Globally, studies evaluating the provision of care by clinicians reveal that there is a
+      sub-optimal uptake of guidelines into actual practice. The underlying factors for this are
+      complex and occur at a combination of patient, clinician and system levels.
+
+      Adoption of digital technology to improve physical health in people with a diagnosis of SMI
+      presents a unique opportunity, but requires evidence of acceptability, feasibility and
+      effectiveness. Given the rising disease burden from diabetes in SMI, and deficits in
+      providing evidence-based care for diabetes prevention and treatment, there is a pressing need
+      to identify more systems-focused solutions.
+
+      Electronic clinical decision support systems (eCDSS) are well established as a strategic
+      method of improving care for prevention and management of chronic conditions. eCDSS is
+      defined as "any electronic information system based on a software algorithm designed to aid
+      directly in clinical decision making, in which characteristics of individual patients are
+      used to generate patient-specific assessments or recommendations that are then presented to
+      clinicians for consideration".
+
+      Clinical guidelines remain under-utilized in clinical practice, thus eCDSS has the potential
+      to overcome problems associated with the use of traditional paper-based guidelines. However,
+      the existing evidence base for eCDSSs improving clinical performance and patient outcomes in
+      mental healthcare settings remains sparse. In addition, electronic systems that are not
+      accepted by their users cannot be expected to contribute to improving quality of care, hence
+      facilitators, barriers and other consequences need to be understood for successful
+      implementation of novel digital tools and could also serve as a basis for future system
+      re-engineering. Hence there is call for research to include evaluating its implementation for
+      successful future scalability.
+
+      The key digital tool to be used for eCDSS in this study is CogStack, a software platform
+      developed by the National Institute for Health Research Maudsley Biomedical Research Centre
+      (NIHR Maudsley BRC) and PhiDataLab. CogStack is an open source information retrieval and
+      extraction system with the capability to offer near real-time natural language processing
+      (NLP) of electronic health records. CogStack implements new data mining techniques,
+      specifically the ability to search any clinical data source (unstructured and structured),
+      and NLP applications developed to automate information extraction of medical concepts. The
+      platform has shown early potential to be of value to clinicians in monitoring, intervention
+      and follow up for their patients.
+
+      The primary objective of this study is to establish the feasibility and acceptability of an
+      eCDSS (Cogstack@Maudsley) compromising a real-time computerised alerting and clinical
+      decision support system for dysglycaemia management in secondary mental healthcare.
+
+      Our secondary objectives are to assess whether the system leads to changes in screening and
+      follow-up testing rates for dysglycaemia, and subsequent clinician-led evidence-based
+      interventions for dysglycaemia and diabetes (this will be measured using pseudonymised group
+      observational data gathered from the South London and Maudsley NHS Foundation Trust (SLaM)
+      Biomedical Research Centre (BRC) Clinical Records Interactive Search (CRIS) system once ward
+      access to the eCDSS has ended). Since 2006, South London and Maudsley NHS Trust has operated
+      fully electronic health records. The Clinical Record Interactive Search (CRIS) system,
+      established in 2008, is an ethically approved electronic health records interface system that
+      allows researchers to access deidentified electronic health records from this Trust for
+      research purposes.
+
+      We will conduct a process evaluation to assess the barriers, facilitators, unintended
+      consequences, and indicative costs of implementing the system onto inpatient general adult
+      psychiatry wards.
+
+      Data gathered from this study will allow the research team to refine the system, address
+      potential problems with future successful implementation, and inform a larger and more
+      definitive effectiveness trial which will examine for hypothesised improvements in;
+
+        1. Rates of clinician-delivered evidence-based interventions for patients with dysglycaemia
+
+        2. Clinical outcomes relating to diabetes care
+    
+  

@@ -1,0 +1,15 @@
+
+    
+      Data will be analyzed through GWAS analysis. The results will be analyzed by experienced
+      genotypic bioinformatics: Plink, Haploview, STATA, IMPUTE2, SNPtest, GTOOL, Galaxy
+      management. In addition, the investigators have support of Spanish Consortium for Genetics of
+      Stroke (Genestroke). The PLINK software is the main program for the analysis of GWAS. Using
+      this software we can clean the raw results of genotyping platforms and determine the presence
+      of risk alleles associated with resistance to the study drugs. Haploview software will be
+      used for data management and graphics for significance analysis. STATA statistical software
+      is a data management and very useful for the creation of Q_Q plots graphs that assist in the
+      interpretation of genotypic results. GTOOL, SNPtest and IMPUTE2 are software for data
+      imputation and analysis of imputed data through the information available in the 1000 Genomes
+      Project.
+    
+  

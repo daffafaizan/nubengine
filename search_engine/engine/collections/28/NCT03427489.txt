@@ -1,0 +1,158 @@
+
+    
+      INTRODUCTION:
+
+      Prediction of Coronary heart disease (CHD) events is based on conventional risk factors for
+      atherosclerosis such as age, sex, blood pressure, diabetes, lipid levels, and smoking status.
+      Because these risk factors are prevalent in much of the population, available risk prediction
+      algorithms lack desired sensitivity and specificity. For instance, Cooper et al showed that
+      the algorithms correctly predicted just ~11% of the CHD events occurring within 10 years.
+      Thus, there is an urgent need to develop and validate new biomarkers for early detection of
+      disease and more accurate risk stratification. According to the World Health Organization
+      (WHO) estimates, cardiovascular disease will be the leading cause of morbidity and mortality
+      by the year 2020. Developing countries including the Gulf States will be the major
+      contributors to this increased death and disability. A recent report by McKinsey & Company
+      forecast that the Gulf region will face an unparalleled and unprecedented rise in demand for
+      health care over the course of the next two decades, with an estimated total health care
+      spending of US$ 60 billion in 2025, up from US$ 12 billion today.
+
+      Knowledge of novel genetic and proteomic markers will provide more precise estimates of risk
+      while defining the pathways important in individual patients, revealing new targets for
+      intervention, and ultimately enabling an individualized approach to care. A biorepository of
+      Deoxyribonucleic acid (DNA), serum, and plasma samples will enable investigation of the
+      pathogenesis of CHD in Qatari adults, and provide an invaluable resource for preventive
+      cardiovascular research and development of biomarkers for early detection of CHD.
+
+      SIGNIFICANCE Significant recent progress has been made in identifying genetic susceptibility
+      variants as well as circulating proteomic markers of atherosclerotic vascular disease.
+      However, the generalizability of these results to patients belonging to diverse ethnic groups
+      is unclear. To translate recent advances in genomics and proteomics into clinical practice,
+      these newly discovered biomarkers will need to be evaluated in patients of diverse ethnic
+      groups with varying characteristics, environmental factors, and medication use. The
+      investigators propose to establish a biorepository of plasma and DNA linked to demographic
+      and clinical variables to facilitate biomarker studies of CHD risk, progression, and outcome.
+      The overarching goal in developing the Qatar Cardiovascular Biorepository (QCBio) is to
+      create a resource that fosters research aimed at identifying novel biochemical and genetic
+      markers of CHD.
+
+      RESEARCH DESIGN AND METHODS:
+
+      The investigators are leveraging the following resources available for this proposal:
+
+        1. The infrastructure and patient referral patterns of the cardiac catheterization
+           laboratory at Hamad Hospital, Doha, Qatar, where several thousand patients are seen
+           annually for coronary angiography and percutaneous coronary intervention;
+
+        2. The Electronic Medical Record (EMR) at Hamad Hospital that includes risk factors, drug
+           therapy, relevant laboratory data, and vital status; and
+
+        3. A multidisciplinary investigative team with significant experience and expertise in
+           biorepository science, including ethical, legal, and social implications (ELSI),
+           laboratory information management systems, informatics, and mining of the EMR to
+           annotate biospecimen with relevant clinical covariates.
+
+      SPECIFIC AIMS AND OBJECTIVES:
+
+        1. Establish a DNA and plasma biorepository (QCBio) of Qatari CHD cases and
+           ethnicity-matched controls to enable investigation of genomic and proteomic biomarkers
+           for early detection and prognostication as well as identification of new targets for
+           drug development.
+
+        2. Annotate the biorepository with a) demographic, laboratory, and clinical variables
+           derived from the EMR using electronic phenotyping algorithms, and b) detailed
+           information regarding history of cardiovascular diseases and risk factors derived from
+           surveys of the study subjects.
+
+        3. Develop processes to promote use of the biorepository by Qatari investigators by
+           facilitating access to the biorepository for biomarker research, while maintaining the
+           highest ethical standards with emphasis on patient confidentiality and stewardship of
+           the biospecimens.
+
+        4. Tracking Recruitment: A Patient Numbering Program (PNP) is being used to de-identify
+           subjects enrolled in the study and track patient recruitment. The program contains
+           demographic information and an assigned Personal Identification Number (PIN) for each
+           participant.
+
+      Consenting: Potential subjects are being identified by the study coordinators after review of
+      catheterization laboratory (Cath lab) and blood bank schedules. The study coordinator is
+      explaining the consent form and the study questionnaire to each participant. Wherever
+      possible, the investigators are attempting to collect blood specimens in the fasting state
+      before the receipt of any treatment and avoid the burden of additional venipuncture. For
+      those eligible ones, the study coordinator will provide the details regarding the objectives
+      of the study, risks and potential benefits from participation, the storage, future use and
+      privacy of the samples. In addition, the study coordinator is informing the participants
+      about the lack of immediate benefit for health and their right to withdrawal from the study
+      any time after consenting.
+
+      Collection and Processing of Blood Samples: Twenty-five milliliter of blood is being obtained
+      at the time of a procedure in the Cath lab, during admission in the Coronary care unit (CCU)
+      or at the time of the blood donation. Samples are collected from the special study area close
+      to the Cath Lab/CCU and the Blood Bank, respectively. Blood is being drawn into the
+      appropriate collection tubes, labeled with a hospital generated barcode Identification
+      number, and sent to the Molecular Genetics laboratory.
+
+      Freezer Monitoring: All freezer temperatures are being monitored round the clock by a
+      combination of project management facilities and Hamad Medical Corporation (HMC) Security.
+
+      Quality Assurance: Accurate sample handling is being achieved by adherence to Standard
+      Operating Procedures (SOPs) by following general laboratory quality assurance and control
+      standards.
+
+      Specimen Tracking: Sample tracking will be accomplished by a Laboratory Information
+      Management System (LIMS) program that is currently being used by the Lead PI's research
+      group.
+
+      Patient Confidentiality: The investigators will use informatics and data security features to
+      maintain patient confidentiality. The Patient Numbering Program (PNP) will be used to
+      de-identify patients enrolled in QCBio and to track patients after recruitment.
+
+      Ethical, Legal, and Regulatory Issues in DNA Biorepositories: The consent form is including
+      separate check-off boxes to seek permission for the collection of plasma and DNA use in
+      studies of diverse diseases, and the transmittal of specimens to collaborating investigators.
+      Banking of biospecimens raises new concerns regarding a patient's privacy and consent.
+
+      Informatics: Informatics and data security are critical components to a biorepository and key
+      to leveraging the power of biorepositories. QCBio will be linked to several databases.
+
+      Study Questionnaire: The investigators are using a questionnaire to collect information
+      regarding sociodemographic information, cardiovascular history, physical activity, lifestyle,
+      past medical information and family history. Data will be extracted from the questionnaire by
+      scanning or manual entry.
+
+      Annotation of Specimens with Clinical Data: The investigators are using the Hamad hospital
+      EMR viewer in addition to the laboratory databases to annotate the biorepository with
+      relevant clinical variables.
+
+      Ascertaining Risk Factors: The investigators are ascertaining conventional cardiovascular
+      risk factors, including hypertension, diabetes, and dyslipidemia. The EMR and survey data
+      will be used to establish presence of the following risk factors for atherosclerosis:
+      smoking, diabetes, hypertension, dyslipidemia, and obesity. The investigators are using
+      targeted manual review of paper records and EMR in tandem with access to electronic data sets
+      for laboratory values, medications, and diagnosis codes.
+
+      Biospecimen Management and Access to Biorepository: The investigators will develop protocols
+      to enable investigators to leverage the datasets associated with specimens, ensure compliance
+      with regulatory guidelines, encourage collaboration between Qatar, Gulf, and Mayo
+      investigators, and improve research productivity. The investigators will provide a flexible,
+      robust, secure, and validated information management workspace program to manage
+      biospecimens. Banked specimens will be available for researchers whose protocols have been
+      approved by the IRB and prioritized by the Scientific Review Panel.
+
+      Tracking Specimen Use: To maximize the use of the biospecimens, the investigator will use
+      LIMS to track all the specimens received by allotting unique identification for all input
+      (sample tubes) and output (DNA/plasma/white cell) tubes and record the sample movement,
+      processing, creation, and consumption. A designated computer analyst will maintain and manage
+      the system.
+
+      Access to Information: Only members of the research team will have access to the research
+      data. Participants will be identified by code numbers only in the database and in
+      transcripts; all data are tracked in databases by anonymous but linkable study numbers. No
+      identifiable information will be released outside the study.
+
+      Strategy for Project Continuation: The long-term goal of the investigative team is to create
+      a resource that enables discovery of genetic susceptibility variants and novel circulating
+      markers of CHD, thereby allowing individualized assessment of risk for CHD, a leading cause
+      of death and morbidity in Qatar. Creation of the biorepository is the first necessary step to
+      understand genomic and proteomic of CHD in Qatari individuals.
+    
+  

@@ -1,0 +1,66 @@
+
+    
+      In the Netherlands, approximately 10.000 new patients are diagnosed with lung cancer every
+      year. Of these, 80% present with non-small-cell lung cancer. Between 1995 and 2008, the
+      national incidence has risen with 16% caused by an impressive increase of 53% in women
+      suffering from this disease. The aggressive nature of this disease leads to a one-year
+      survival rate of 45% and a 5-year survival rate of only 14%.
+
+      It is widely accepted that surgery provides the best chance of cure in patients with operable
+      NSCLC (www.oncoline.nl). In practice, only 20% of patients are amenable for tumor resection
+      with curative intent. Alternatively, stereotactic body radiation therapy (SBRT) results in
+      excellent local control in localized early stage disease.
+
+      In locally advanced, inoperable disease, combined chemotherapy and external-beam radiotherapy
+      (EBRT) are increasingly being used. Evidence suggests that concurrent schedules are more
+      effective than sequential treatments despite increased toxicity, although the true magnitude
+      of the additional benefit remains uncertain. However, a large number of patients with locally
+      advanced NSCLC is not suitable for concurrent chemoradiotherapy due to their general
+      condition, age, comorbidity or tumor-related factors. Therefore, there is a need to increase
+      effectiveness of treatment for all patients with advanced stage NSCLC undergoing either
+      radiotherapy alone, neoadjuvant chemotherapy followed by radiotherapy, or concurrent
+      treatment.
+
+      Apart from the addition of chemotherapy, treatment modification by intensification of the
+      radiotherapy schedule or by dose escalation has been proven beneficial. Several phase I/II
+      trials explored altered EBRT fractionation schedules that increased the biological effective
+      dose to the primary tumor and reduced local relapse rate. Thereby, two main principles were
+      pursued: reduction of the dose per fraction (≤ 1.8 Gy), giving two or three fractions per day
+      (so-called hyperfractionation), aimed at sparing normal tissues while increasing the dose to
+      the primary tumor; increase of the fraction dose (≥ 2 Gy), combined with a reduction in the
+      total number of fractions (so-called hypofractionation) aimed at increasing the effective
+      tumor dose in less radiation-sensitive primary tumors. On the one hand, hyperfractionation
+      limits the treatment-related side-effects, on the other hypofractionation is attractive for
+      the patient and radiation department as the number of treatment fractions can be reduced.
+
+      Intensification of the irradiation schedule by continuous, hyperfractionated radiotherapy
+      (CHART) delivered in 12 consecutive days showed an absolute improvement in two-year survival.
+      With the advent of highly conformal dose planning and delivery techniques during the last
+      decade (i.e., 3-dimensional conformal radiation therapy, 3D-CRT; intensity-modulated
+      radiation therapy, IMRT; volumetric-modulated arc therapy, VMAT/RapidArc; Tomotherapy),
+      organ-sparing technology became widely available. Recently, van Baardwijk and collaborators
+      published an individualized dose prescription study in 166 stage-III NSCLC patients. Already
+      in 2006, Belderbos et al. reported favorable toxicity data and an encouraging failure-free
+      interval in 88 inoperable NSCLC patients treated with intensified, hypofractionated 3D-CRT
+      based on the MTD to the lung.
+
+      Apart from these reported studies, there are three hypofractionation trials being conducted
+      elsewhere. In the UK, two 3D-CRT based phase I/II trials have been approved investigating
+      individualized dose escalation based on normal tissue dose constraints in patients with stage
+      II or stage III NSCLC (ISRCTN12155469 and I-START; CRUK/10/005). In the US, the University of
+      Wisconsin is conducting a helical tomotherapy-based hypofractionation study (NCT00214123)
+      with pulmonary toxicity (pneumonitis grade 3 lasting for more than 2 weeks) as primary
+      endpoint.
+
+      The reported hypo- and hyperfractionation studies have a 'trial-and-error' approach for
+      dose-level estimation in common. In a recent in silico trial in 26 stage III NSCLC patients,
+      we have investigated the use of a dedicated software tool for individual dose escalation by
+      hypofractionation. Based on an existing, clinical IMRT/VMAT treatment plan (66 Gy in 33
+      fractions), radiation dose was escalated by scaling the radiation dose until the maximum
+      tolerated dose constraints for the healthy lung, the esophagus, spinal cord, brachial plexus
+      or heart was met. The aim of this present study is to test the feasibility and toxicity of
+      individualized hypofractionated radiotherapy, and to report outcome data. In case this phase
+      II trial has favorable results, a phase II/III trial on maximally tolerable, individualized,
+      hypofractionated radiotherapy within a shorter overall-treatment time is aimed for.
+    
+  

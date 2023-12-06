@@ -1,0 +1,158 @@
+
+    
+      Study Design:
+
+      This study will utilize a cluster randomized clinical trial design (Phase III) in primary
+      care settings. Eighteen practices will be randomized to 2 arms: A) provider-level CSM
+      theory-based didactic and skills training to deliver oral health facts to parents, a
+      prescription and a list of dentists accepting Medicaid + practice-level EMR changes for
+      documenting oral health; B) AAP based didactic training with no provision of resources or
+      changes to the practice EMR. Arm A parents/caregivers will receive oral health facts and
+      prescription to take their child to the dentist and improve oral health behaviors in the
+      home, while Arm B parent/caregivers will receive usual AAP-based care for oral health. Each
+      arm will consist of 9 practices (n= 18), 33 to 34 providers (n= 67), and 512 parent/caregiver
+      and child dyads (n= 1024). Each parent/caregiver and child dyads will be recruited at the
+      first WCV and then followed for two consecutive WCVs (for a 24 month duration). Each provider
+      will complete training prior to enrolling any parent/caregiver and will participate in the
+      study for a total of 24 months duration. Immediately after randomization of practices,
+      recruitment will be rolled-out, i.e. parent/caregivers will be recruited during a 3-month
+      period in 6 practices at a time, with recruitment at all 18 practices expected to be
+      completed in 9 months.
+
+      The primary outcome is receipt of dental care assessed through data abstracted from Medicaid
+      claims files, clinical dental screenings and parent/caregiver Dental Attendance Questionnaire
+      responses. The secondary outcomes are development of new caries, changes in oral health
+      behaviors and oral health quality of life, dental care costs, and implementation of the
+      interventions.
+
+      Participants:
+
+      Subjects will be pediatric providers (Pediatricians/Nurse Practitioners) and
+      parent/caregivers and their 3-6 year old Medicaid-enrolled children from 18 primary care
+      practices located in 6 counties in NE Ohio. The study is offered to all pediatricians/nurse
+      practitioners in the recruited practices and will be offered to all eligible caregivers and
+      their children excluding those with serious medical or behavioral conditions which would
+      preclude them from participating in the dental screening. All provider and parent
+      participants meeting the eligibility criteria will be enrolled in the study upon signing the
+      consent form.
+
+      Procedures:
+
+      WCV #1 (Baseline): Before WCV #1, Providers (pediatrician/nurse practitioners) will receive
+      oral health didactic education and skills training (based on study arm) to communicate core
+      OH facts to parents/caregivers. They will complete pre- and post-tests before and after the
+      OH didactic education session. During the well-child visit, caregivers will complete the
+      following self-administered Baseline questionnaires: Illness Perception Questionnaire-Revised
+      for Dental (IPQ-RD) and Parent Questionnaire. A dental hygienist will perform the child
+      dental screening examination and study staff will record results on the ICDAS Form. During
+      the WCV, the provider will deliver oral health facts, give a prescription to take the child
+      to the dentist + list of local Medicaid-accepting dentists, and document oral health in EMR,
+      based on study arm. Following the provider encounter, caregivers will provide feedback about
+      the OH information given to them during the visit with a short self-administered Exit
+      Questionnaire. At the end of the WCV, caregivers will be given the Follow-up IPQ-RD to be
+      completed and returned within 2 weeks (in postage paid envelope). At six months, caregivers
+      will report whether the child visited the dentist and also complete an annotated cost
+      questionnaire.
+
+      WCV #2 (12 month follow-up): Before WCV #2 Providers will receive an OH didactic education
+      booster session.
+
+      During and after the well child visit, providers and parent/child dyads will complete the
+      same assessments and procedures done in WCV #1.
+
+      WCV #3 (24 month follow-up): There is no provider education booster session before WCV #3.
+
+      During the well child visit, providers and parent/child dyads will complete the same
+      assessments and procedures done in WCV #1 and #2, except the IPQ-RD follow-up questionnaire.
+      The 6 month assessments will not be completed during the third well child visit.
+
+      Analysis Plan:
+
+      Primary Statistical Analysis: For the primary outcome, the investigators will use as an
+      overall dental attendance score the number of years (over the 24 months of follow-up) in
+      which the child visited the dentist. This will be an ordinal outcome with possible scores of
+      0, 1 or 2. To assess the intervention effect, the investigators will use a generalized
+      estimating equations (GEE) approach, with practices as clusters, based on a proportional odds
+      marginal model. The model covariates will include an intervention indicator variable (equal
+      to 1 for bundled intervention, 0 for enhanced usual care) and a set of baseline variables
+      representing potential confounders. A standard error correction (for example, the method by
+      Morel et al. 2003) will be used to adjust for a small number of clusters and 95% confidence
+      intervals will be computed. This will be an intent-to treat analysis as all randomized
+      participants providing the necessary measurements - regardless of any lack of compliance -
+      will be included in the analysis.
+
+      In the event of missing data (for either year) for dental attendance, the investigators will
+      conduct sensitivity analyses by imputing responses under conservative assumptions (favoring
+      the null hypothesis) and re-running the analysis described above on the completed data.
+
+      Analysis of Secondary Outcomes: Summary statistics (including means and standard errors) for
+      secondary outcomes will be calculated by intervention group. The same approach as above will
+      be used for binary or ordinal secondary outcomes (oral hygiene, frequency of sweet snacks and
+      beverages). Namely, ordinal outcomes for each variable will be defined that summarize
+      outcomes over time. For continuous outcomes (e.g., OH quality of life, cost), the above
+      method will be modified by using a linear model (identify link) for GEE, modeling the mean
+      response over time as a summary measure. These outcomes will each be tested for normality
+      using the Shapiro-Wilk statistic; outcomes for which normality is violated will be
+      transformed where appropriate or an alternative model used. For count outcomes (e.g., dft
+      accumulated over time), the investigators will use a loglinear model (log link) assuming a
+      negative binomial or other appropriate (e.g., zero-inflated negative binomial) distribution.
+      For proportion outcomes (e.g., dt/dft), the investigators will use GEE with a logit link,
+      assuming the proportion follows a beta binomial or zero-inflated beta binomial distribution.
+      Similarly, the investigators will fit appropriate GEE models to test for the effect of each
+      implementation strategy on the corresponding outcome (e.g., % prescriptions given as a
+      measure of adoption). As in the dental attendance analysis, the intervention indicator as
+      well as pertinent baseline variables will be included in the model. In addition, interaction
+      terms (baseline variables by intervention) will be included to test for possible effect
+      modification.
+
+      For secondary analyses, a GLIMMIX model approach will be considered as an alternative, which
+      may more easily allow for more than one cluster level if needed. Another alternative approach
+      is to model the repeated measurements (again using GEE or GLIMMIX) which will add an
+      additional cluster level - namely, for individuals). Goodness of fit of alternative models
+      will be compared using QIC for GEE (or AIC for GLIMMIX).
+
+      Missing Data: In the likely event of missing responses, the investigators will first assess
+      (In the context of repeated measures analyses) whether the data are missing completely at
+      random (MCAR), that is, whether missingness of the given outcome is dependent only on
+      participant baseline characteristics and not further on the observed outcome at an earlier
+      time. This will be done by modeling missing data indicators for the repeated measurements of
+      each outcome using a GEE (or GLIMMIX) approach with a logit link and including appropriate
+      baseline (control) variables and the outcome at the previous time if available. The MCAR null
+      hypothesis will be rejected if the previous outcome has a statistically significant effect on
+      the probability of missing. A nonsignificant effect would support the use of GEE (which
+      assumes MCAR). In addition to assessing the overall effects of the interventions, the
+      investigators will investigate the mechanisms (or paths) through which interventions impact
+      dental attendance.
+
+      Data Management:
+
+      The study staff will collaborate and interact with the NIH-appointed Coordinating Center (CC)
+      to perform data management and quality control activities. Study data will be collected and
+      stored using the REDCap platform hosted by University of California-San Francisco, the home
+      institution of the CC. REDCap is a secure, web-based application designed to support remote
+      data capture for research studies.
+
+      Study forms will be completed by participants on paper, and subsequently entered into REDCap
+      by study staff, or on a tablet directly into REDCap. Paper forms will be securely stored in a
+      locked file cabinet. Recorded audio will be deleted from the digital recording device
+      immediately after being stored on a secure CWRU School of Dental Medicine network drive.
+
+      Data for this study will include: (1) dental screening data, (2) study questionnaires, (3)
+      abstracted medical data, (4) abstracted Medicaid dental claims data, (5) cost data (6) data
+      from observation/audiotaping of providers, and (7) EMR audit data. Additionally, audio
+      recordings will be used for fidelity monitoring. Form revisions should be minimal; however,
+      should they occur, changes will be submitted to the CC for updating and dissemination to
+      study staff.
+
+      Quality control is primarily conducted at the study team level through internal processes of
+      data review/data monitoring using periodic custom reports generated by the CC. The CC will
+      assist with the design of project-specific custom reports. The CC will run regular validation
+      reports to detect data anomalies and will work with the local project staff to resolve any
+      data anomalies that arise during data entry. REDCap's native data resolution workflow will be
+      used to document and fix any data anomalies. The Data Manager will also respond to data
+      queries generated by the PI, Study Coordinator, or other study staff.
+
+      The CC will generate regular reports showing enrollment and potential data anomalies, which
+      will be sent to PIs, Project Coordinators, and other relevant study staff.
+    
+  

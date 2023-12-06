@@ -1,0 +1,11 @@
+
+    
+      In a first step, the team will build a multi-parametric algorithm on existing records issued
+      from the Epilepsy Monitoring Units. Each selected record will be analyzed by EMU medical team
+      in order to detect seizure on the EEG. The algorithm will adapt in order to obtain the best
+      sensitivity and specificity regarding seizure detection.
+
+      in a second step,algorithm will validate on a cohort of other recordings in patients with
+      epilepsy
+    
+  

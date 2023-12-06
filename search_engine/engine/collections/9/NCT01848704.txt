@@ -1,0 +1,135 @@
+
+    
+      The investigators planned a RCT in which the unit of randomization is the abstract. The
+      planning, implementation, analysis and writing of this study followed the CONSORT
+      Statement12.
+
+      Two types of abstracts were evaluated: abstracts with and without "spin". Randomization
+      characteristics
+
+      The randomization list was established in blocks of 30. So, each participant could evaluate 1
+      abstract with spin or 1 abstract with no spin.
+
+      The list and the block size were not disclosed to investigators. Allocation concealment was
+      obtained by use of a computerized randomization system.
+
+      If a participant logged on the system but did not evaluate any abstract, the assessments were
+      excluded and the abstracts were automatically allocated to the next participant.
+
+      Participants
+
+      Eligibility criteria
+
+      Evaluators participating in this study were as follows:
+
+        1. The "corresponding authors" of published RCTs in the field of cancer. The investigators
+           systematically searched Medline via PubMed to identify all publications of RCTs in 2012
+           and if needed 2011, 2010. The investigators collected all e-mails of "corresponding
+           authors" of these items.
+
+        2. Experts of a French national grant in the field of cancer All potential participants
+           were invited by e-mail to participate in a study on the interpretation of results of
+           abstracts of clinical trials. If they agreed to participate, they used an Internet link
+           that gave them access to abstracts to assess.
+
+        3. Investigators of trials registered in clinicaltrials.gov
+
+      Intervention and comparators
+
+      Selection of abstracts with spin We selected from previous work and personnel
+      collection13-16, 30 abstracts of 2 parallel arms negative RCTs (ie, non-statistically
+      significant primary outcome) evaluating treatment in the field of cancer and having spin in
+      the abstract conclusion according to a classification developed previously13. We excluded
+      abstract with very unusual type of spin such as a focus on another study objective, with spin
+      related only to safety, or study comparing the same treatment but with different dosage or
+      different mode of administration or different duration of treatment. We also excluded
+      abstract of RCTs with small sample size (<100). Abstract were numbered from 1 to 30 and were
+      classified in two categories: 10 abstracts (numbers 11/12/14/16/20/22/24/27/28/30) with high
+      level of spin (i.e., no acknowledgment of the non statistically significant primary outcome
+      in the conclusion) and 20 with low level of spin.
+
+      Development of abstracts without spin The abstracts with spin were systematically rewritten
+      without spin. One researcher rewrote each abstract according to specific guidelines described
+      in the box. All abstracts had the same number of words +/-25. All abstracts without spin were
+      evaluated independently by another researcher any disagreement were discussed and the
+      abstract was modified according to the consensus reached.
+
+      Thus, for each study, the investigators had 2 versions of the abstract: 1 with spin and 1
+      without spin.
+
+      Abstracts with and without spin were presented in the format of the original abstract with
+      the same typography. The names of authors, references, journal name, registration number,
+      trial name or acronym, and article title were deleted, and the treatment names and
+      description were systematically masked with generic terms (e.g., treatment A and comparator
+      B). If needed some information that could help identifying the treatment were deleted.
+
+      Outcomes
+
+      Primary outcome The primary endpoint was participants' interpretation of the abstracts. All
+      study participants evaluated each abstract. They answered the following question on a
+      numerical scale graded from 0 (not at all likely) to 10 (very likely)
+
+      • Based on this abstract, do you think treatment A would be beneficial to patients? (answer:
+      numerical scale from 0-10)
+
+      Secondary outcomes
+
+      The secondary endpoints were the assessment of the study quality, the study importance, the
+      interest in reading the full text and the probability of being published. For each abstract,
+      the participants answered the following:
+
+        -  Rate the overall rigor of the study methodology? (scale 0-10)
+
+        -  Rate the importance of the study (scale 0-10)
+
+        -  Are you interested in reading the full article for the study described in this abstract?
+           (scale 0-10)
+
+        -  Do you think it would be interesting to run another trial evaluating this treatment?
+           (scale 0-10)
+
+      Blinding
+
+      The primary endpoint is the interpretation of the abstract by participants. This outcome is
+      very subjective. A recent study has shown that lack of blinding is responsible for an
+      overestimation of treatment effect in randomized trials with subjective primary endpoints17.
+      To minimize bias, the investigators proposed to have participants blinded to the study
+      hypothesis. All participants were informed that they were participating in a survey on the
+      interpretation of abstracts of clinical trials. They were not informed of the objectives and
+      assumptions of the study before the end of the study when reporting the results.
+
+      Other data collected The investigators also collected the changes to abstracts in terms of
+      words deleted and words added to each abstract.
+
+      Sample size
+
+      Each participant will read 1 abstract with or 1 abstract without spin. A sample of 266
+      assessments of abstracts is needed to show an effect size of 0.4 with primary outcome
+      assuming a mean difference of 1 point and a common standard deviation based on a pilot study
+      of 2.5 with a power of 90% and an alpha risk equal to 5%. Thirty abstracts with spin and 30
+      abstracts without spin are available. Theoretically, each abstract must be read the same
+      number of times according to randomization group. Considering all these elements, it will be
+      necessary to include 300 participants (150 in each arm). Each abstract will be read 5 times
+      in each group (abstract with low level of spin will be read 200 times (100 in each group) and
+      abstract with high level of spin will be read 100 times (50 in each group)).
+
+      Statistical analysis
+
+      Statistical analysis will be undertaken independently and blindly with use of SAS v9.3 by a
+      statistician of the Centre for Clinical Epidemiology. A statistical analytic plan will be
+      developed and validated before searching the database. The statistical analysis plan will be
+      revised during the study to take into account any amendments to the protocol or any other
+      change having an impact on the statistical analysis originally planned. All versions will be
+      kept on file for review. A T test will be used for analysis of primary and secondary
+      outcomes. This statistical plan can be modified according to available data. For instance, if
+      the number of readings for a particular vignette is unbalanced in groups, a multi-level model
+      (a mixed model for clustered data) will be used to compare adjusted means for the primary
+      outcome measures between the 2 arms. This means that statistical analysis will be adjusted
+      for unbalanced repartition of abstracts in each group. The same model will be applied to
+      secondary outcomes and to the subgroup abstracts with high level of spin.
+
+      A secondary analysis will compare the ICC between readers of abstracts with spin and
+      abstracts without spin by computing the 95% confidence interval of the difference between
+      ICCs (by a bootstrap method).
+    
+  

@@ -1,0 +1,11 @@
+
+    
+      This proposal seeks to gather continuous blood glucose and physical activity data from
+      individuals with and without diabetes who are physically active and exercising for health
+      benefits. The investigators hypothesize that insulin requirements will be inversely related
+      to intensity of activity and an algorithm will be able to detect physical activity and
+      automatically adjust insulin doses. Once such an algorithm has been determined for an
+      individual, it can be applied to future similar situations, but ideally the algorithm will be
+      dynamically refined based on closed-loop feedback information.
+    
+  

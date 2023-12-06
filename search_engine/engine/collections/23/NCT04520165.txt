@@ -1,0 +1,123 @@
+
+    
+      Severe asthma is observed in 3 to 5% of the asthmatic population and is characterized by a
+      higher rate of exacerbations, poorly controlled asthma and/or a poor lung function. During
+      the last ten years, anti-IgE and anti-IL5 (and anti-IL5R) have considerably improved severe
+      asthma status. Treatment with chronic or oral course of corticosteroids is indeed responsible
+      for a lot of side effects. There is however a lack of biomarkers for the prediction of
+      responders to anti-IL5 and anti-IgE.
+
+      We have previously found that sputum eosinophil counts are good predictors for improvement in
+      lung function of severe asthmatics using anti-IL5 (Schleich et al, in press in Clin Exp
+      Allergy 2020). Sputum cells might not be the only relevant sputum marker for responders to
+      mepolizumab.
+
+      The objective is to evaluate the ability of sputum cytokines (protein levels and genes)
+      (IL-3, IL-4, IL-5, IL-13, IL-33 and GM-CSF) to predict the response of severe asthmatics
+      after 6 months treatment with biologics in terms of reduction in exacerbations and
+      corticosteroid use, improvement in FEV1, in asthma control, in asthma quality of life and the
+      effect on sputum and blood inflammation.
+
+      Severe asthmatics seen in the Asthma Clinic of CHU of Liege are very well characterized using
+      baseline measure of blood samples, induced sputum, lung function, FeNO, asthma control
+      questionnaires (ACT - ACQ) and asthma quality of life questionnaires (AQLQ).
+
+      Data on exacerbations during the previous year and current inhaled and oral treatment is also
+      recorded. If FEV1 value is upper than 70% of the predicted value, severe asthmatics also
+      perform a methacholine challenge to evaluate bronchial hyperresponsiveness.
+
+      All these measures are repeated after 6 months treatment with mepolizumab. All the sputum
+      supernatants are stored at -80°C and RNA from sputum cells is also available.
+
+      Target sample size: 50 patients
+
+      We plan to measure different cytokines in the sputum (IL3, GM-CSF, IL5, IL-13, IL-33, IL-4…)
+      and to evaluate their ability to predict the response after 6 months treatment with different
+      biologics in terms of reduction in exacerbations and corticosteroid use, improvement in FEV1
+      (+200ml), in asthma control (ACQ decrease >0.5, ACT increase >3), in asthma quality of life
+      (increase in AQLQ score > 0.5) and the effect on sputum and blood inflammation.
+
+      Asthmatic patients are recruited through the outpatient clinic and pulmonary rehabilitation
+      centre (CHU, Sart-Tilman, Liege). Asthma is diagnosed as described in the GINA guidelines
+      (http://ginasthma.org/).
+
+      Sputum induction and processing. The sputum is induced and processed as previously described
+      (Delvaux Thorax 2014). The whole sputum is collected in a plastic container, weighed, and
+      homogenized with three volumes of phosphate-buffered saline (PBS), vortexed for 30 s, and
+      centrifuged at 800g for 10 min at 4° C. The supernatant is separated from the cell pellet by
+      filtration through 2 layers of sterile gauze. A mucolysis is performed by adding an equal
+      volume of 6.5 mM dithiothreitol and the suspension is rocked during 20 min. After a
+      centrifugation of 10 min at 550g, the squamous cells and total cell counts as well as the
+      cell viability are checked by trypan blue exclusion with a manual hemocytometer. The
+      differential leukocyte count is performed on cytospins stained with May-Grünwald-Giemsa on
+      500 cells.
+
+      If the quality criteria (< 30% of squamous cells and viability > 50%) are respected, the cell
+      pellet is mixed with 5 volumes of RNAprotect cell reagent (Qiagen, Hilden, Germany) and kept
+      at -80 °C until RNA extraction.
+
+      In total, 50 patient with successful induced sputum supernatant samples before anti-IL-5,
+      anti-IL5R or anti-IgE therapy as well as 6 months after will be analysed. Regarding the
+      sputum cells, patients with good quality samples before and after therapy will allow gene
+      expression analysis.
+
+      Immunoassays: The concentrations of the mediators contained in the sputum supernatant are
+      assessed by ELISA Luminex performance assay (R and D systems, Minneapolis, USA) according to
+      the manufacturer's instructions. Spiking experiments of cytokines in sputum supernatants are
+      performed to check that the recovery is between 80% and 120% for all the analytes.
+
+      RNA extraction and RT-qPCR methods The mediator protein levels will be obtained using Luminex
+      performance XL discovery kit (R and D systems, Minneapolis, USA) for IL-3 and IL-4 (detection
+      limit : 0.09 pg/ml for both). A Luminex high sensitivity performance kit will be used for
+      IL-5, IL-13, IL-33 and GM-CSF. Detection limits are 0.4, 5.1, 1.8 and 1.6 pg/ml respectively.
+
+      Regarding the mediator gene expression levels, the steps will be performed exactly as
+      recently described. Primers and probes will all beobtained from IDT (Integrated DNA
+      Technologies, Skokie, IL, USA). PCR efficiencies will be calculated using qbase+ qPCR
+      analysis software (Biogazelle, Zwijnaarde, Belgium). The same program will be used to obtain
+      relative quantitation in gene expression using the 2-∆∆Ct method. HPRT1 and GNB2L1 will be
+      used as reference genes as also previously reported. The patients will be compared with a
+      cohort of 7 healthy subjects.
+
+      These steps are performed according to the description of da Silva et al [Clin Exp allergy
+      2017] except that the Taqman PCR step is performed in 96-well plates and that for each
+      sample, 2 µl of cDNA (diluted 1:4) is used in a total reaction volume of 12.5 µl including
+      500 nM forward primer, 500 nM reverse primer and 250 nM probe for all the tested genes. Every
+      qPCR are realized in duplicate and included non-template controls for each gene.
+      Amplification is performed on the LightCycler 480 Real-Time PCR (Roche, Pleasanton, CA, USA)
+      during 45 cycles as follows: initial activation step: 95 °C for 15 min; denaturation stage:
+      94 °C for 15 s; annealing and elongation stage: 60 °C for 1 min. Primers and probes are all
+      labeled with reporter and double-quencher dyes 5'6-carboxyfluorescein/ZEN/3' Iowa black FQ
+      (5'6-FAM/ZEN/3'IBFQ) and were obtained from IDT (Integrated DNA Technologies, Skokie, IL,
+      USA). Standard curves are generated for each gene using a 4 times serial dilution of stock
+      cDNA (pool of 4 cDNA) to check that all PCR efficiencies obtained are between 1.9 and 2.1.
+      Genomic DNA contamination is controlled by performing qPCR with each RNA sample without RT
+      step. Relative quantitation in gene expression is determined using qbase+ qPCR analysis
+      software (Biogazelle, Zwijnaarde, Belgium) using the 2-∆∆Ct method. HPRT1 and GNB2L1 are used
+      as reference genes as previously determined. All the procedure is done according to the MIQE
+      guidelines for the minimum information required for a qPCR experiment.
+
+      Cytokines will also be measured in the blood of a subset of patients.
+
+      Study Endpoints
+
+      Primary endpoint:
+
+      To identify predictors of reduction in exacerbations and in oral corticosteroids dose.
+
+      Secondary endpoint:
+
+      To identify predictors of improvement in ACQ (-0.5), ACT (+3pts), AQLQ (+ 0.5), sputum
+      eosinophils (<3%), FEV1 (+ 200ml).
+
+      Statistical Plan or Data analysis The results will be expressed as mean¡SD or mean¡SEM for
+      continuous variables; median (range) for skewed distributions. For categorical variables, the
+      number of observations and percentages will be given in each category. Comparisons between
+      different subgroups will be performed with a Kruskal-Wallis test or paired t-test / Wilcoxon
+      signed rank test. The Spearman correlation coefficient will be used to measure the
+      association between clinical parameters.
+
+      Power calculations indicated a required total sample size of 50 subjects to confirm a change
+      in outcomes.
+    
+  

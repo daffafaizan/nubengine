@@ -1,0 +1,42 @@
+
+    
+      This study will examine the impact of empiric antibiotic therapy on patients who present to
+      hospital with an acute lower respiratory illness and a diagnosis of COVID-19
+      present-on-admission.
+
+      The Premier Healthcare Database will be used as the data source for administrative data. In
+      addition, the subset of hospitals reporting microbiology and laboratory data will be used for
+      subset analyses and validation purposes. The primary population to be studied will be
+      non-intubated patients diagnosed with COVID-19 on admission (identified by diagnosis coding
+      and/or polymerase chain reaction result present-on-admission) who have diagnosis codes
+      supportive of acute lung illness (e.g. pneumonia). Patients with extra-pulmonary infections
+      present-on-admission for which antibiotics would be generally administered and/or those
+      requiring vasopressors and/or mechanical ventilation on the day of admission or day after
+      will be excluded.
+
+      Patients will be analyzed according to their antibiotic treatment status, using an overlap
+      weight matching strategy. Patients will be matched on age, gender, ethnicity, Elixhauser
+      comorbidity index and month of admission as well as severity of acute illness (need for
+      intensive care unit and acute organ failure score present-on-admission), performance of rapid
+      diagnostic testing for bacterial respiratory pathogens, and receipt of concomitant putative
+      COVID-19 directed therapy (remdesivir, tocilizumab, systemic corticosteroids,
+      hydroxychloroquine) initiated on the day of or day after admission respectively. Logistic
+      regression will be performed downstream to matching to mitigate the impact of residual
+      confounding.The primary outcome and secondary outcomes are reported separately below.
+
+      Effect modification of the relationship between empiric antibiotics and outcomes will be
+      examined across clinically relevant subgroups based on antibiotic regimens (separately
+      comparing community and hospital acquired type coverage to no empiric antibiotics
+      respectively), and those with or without need for non-invasive ventilation on admission as
+      well as quartiles of hospital's frequency of empiric antibiotic use and admission
+      procalcitonin level (when available) respectively among patients admitted with COVID-19.
+
+      Sensitivity analyses will be performed to examine outcomes with vs without coding for
+      conditions that may or may not suggest a definite indication for antibiotic on admission
+      (e.g. chronic obstructive lung disease exacerbation) and/or explicit diagnosis for "sepsis"
+      (as it remains unclear in whom this code was indicated to represent confirmed viral sepsis).
+      Sensitivity analyses will also be performed to include patients without diagnosis codes for
+      acute lower respiratory illness present-on-admission to include patients with COVID-19
+      pneumonia who may not have been coded for pneumonia per se.
+    
+  

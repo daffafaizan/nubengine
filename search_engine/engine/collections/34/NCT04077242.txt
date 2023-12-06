@@ -1,0 +1,106 @@
+
+    
+      Introduction and scientific background:
+
+      Hysteroscopy is an important tool in the evaluation of sterility. It allows direct
+      visualization of the uterine cavity and enables the diagnosis of numerous pathologies.
+      Hysteroscopy shows high reliability and is considered the gold standard for intrauterine
+      evaluation.
+
+      When performing hysteroscopy, experts often assess the patency of the tubes via the
+      visibility of flow of the hysteroscopic fluid going through the ostia of the tubes. In the
+      recently published study "Assessment of tubal patency: A prospective comparison of diagnostic
+      hysteroscopy and laparoscopic chromopertubation" - it has been demonstrated that visualizing
+      contrasting substances disperse through the ostia is a significant and meaningful metric for
+      tubal patency.
+
+      Pre- and posthysteroscopic vaginal sonography for the evaluation of the hysteroscopic fluid
+      in the pouch of Douglas, selective hysteroscopic pertubation of the tubes and the visibility
+      of air bubbles traversing through the Fallopian tube ostia after an air infusion into the
+      uterine cavity have been reported to be reliable methods for hysteroscopic tubal patency
+      assessment. Particularly the last one, also called the "Parryscope technique", named after
+      its inventor, seems to be highly reliable, easy to conduct and clinically relevant. The
+      "Parryscope technique" seems to perform even better than the technique evaluating the "tubal
+      flow".
+
+      Assessing tubal patency during hysteroscopy is highly relevant, particularly when it allows
+      for a low cost, fast, gentle, and accurate way of gathering information that may guide
+      clinical care. Therefore, it is important to know which of the above-mentioned techniques is
+      the best. This prospective randomized study aims to compare the hysteroscopic assessment of
+      the tubes via "tubal flow" and the "Parryscope technique".
+
+      Study aims:
+
+      The primary aim of this study is to evaluate the reliability of (1.) the hysteroscopic
+      visualization of a "tubal flow" and (2.) the "Parryscope technique" as compared to the gold
+      standard, namely laparoscopic chromopertubation.
+
+      Study hypotheses:
+
+      Null hypothesis: The hysteroscopically visualizable "tubal flow" and the "Parryscope
+      technique" are similarly reliable in the evaluation of tubal patency.
+
+      Alternative hypothesis: The hysteroscopically visualizable "tubal flow" shows a lower
+      sensitivity and specificity than the "Parryscope technique" for the evaluation of tubal
+      patency.
+
+      Study design:
+
+      Prospective, randomized study.
+
+      Recruitment:
+
+      Women will be invited to participate by medical professionals at the Department of Obstetrics
+      and Gynecology of the Medical University of Vienna using the above mentioned criteria in the
+      course of their admission to the ward one day before surgery. Potential participants are
+      informed about the procedure, clinical relevance and the balance of risk and benefits
+      incurred through study participation. Patients willing to participate will express this
+      through written affirmation (a "consent form").
+
+      Additional considerations:
+
+        1. Since in the "flow"-group air bubbles might develop spontaneously and, thus, should be
+           assessed, conducting the "Parryscope"-technique is only possible after the evaluation of
+           the tubal flow.
+
+        2. Reactive tubal spasms could occur especially during a prolonged hysteroscopy.
+
+        3. This is why in one particular patient only one technique should be performed.
+
+      Sample size calculation:
+
+      The calculation is based upon the following considerations:
+
+        1. Direct comparison of the two groups is not possible. Hence, separate evaluation of the
+           two methods will be performed. Evaluating both methods in one particular patient in the
+           course of a single intervention is impossible without a mutual interference (see:
+           "Additional considerations" above).
+
+        2. The "flow effect" is considered the less reliable method and thus, the sample size was
+           aligned to this method. An odds ratio of approximately 10, an alpha of 5%, a power of
+           80%, a general disease likelihood of 39% and a sensitivity of 66% for occluded tubes
+           result in a total amount of 59 tubes and, accordingly, 30 patients.
+
+        3. Thus, the group for the "Parryscope"-technique should also contain 59 tubes (= 30
+           patients).
+
+        4. The randomization of the total 60 patients is performed as block randomization in 4
+           blocks via the software "R".
+
+      Statistical analysis:
+
+      Numerical data will be reported as mean and standard deviations, nominal variables as number
+      and frequency. The McNemar Test will be used for the calculation of the reliability of the
+      hysteroscopic assessment of the tubes. The sensitivity, specificity, positive and negative
+      predictive values will be provided including the according 95% confidence intervals (95% CI)
+      for both study groups (evaluated technique versus gold standard laparoscopic
+      chromopertubation). Whether the according odds ratio is over 10 will be evaluated by the use
+      of a binary logistic regression model. Statistical analyses were performed with the software
+      "R". Differences were considered significant if p<0.05.
+
+      Data quality evaluation:
+
+      Extreme values will be double-checked. In addition, a random checks by two independent
+      investigators to ensure the accuracy of the data will be conducted.
+    
+  

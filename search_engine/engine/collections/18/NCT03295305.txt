@@ -1,0 +1,49 @@
+
+    
+      The trial will include outpatients with BD in full or partial remission (a score ≤14 on the
+      Hamilton Depression Rating Scale (HDRS) and Young Mania Rating Scale (YMRS). Recruitment will
+      be carried out through the ongoing Bipolar Illness Onset (BIO) study, the Copenhagen
+      Affective Disorder Clinic, Psychiatric Centre Copenhagen, Rigshospitalet, other mental health
+      centres, consultant psychiatrists in the Capital Region of Denmark, and through
+      advertisements on relevant websites.
+
+      Participants will undergo an eligibility assessment followed by randomisation. When 4 - 6
+      participants have been randomised to either the ABCR or the control group, the baseline
+      assessments are carried out. The baseline assessment is completed over two days, 1 - 3 days
+      apart. A fMRI scan is carried out on day 1 encompassing spatial and verbal working memory
+      N-back tasks, a picture encoding task, a resting state and a structural scan. On day 2, a
+      blood sample is drawn in the morning, followed by administration of a comprehensive
+      neuropsychological test battery. Participants fill in questionnaires concerning subjective
+      cognitive complaints, psychosocial functioning and quality of life and functional capacity is
+      assessed using a clinician-rated interview and a performance based assessment. Sleep quantity
+      and quality in the past three days is assessed. After two weeks of ABCR or control treatment,
+      functional MRI, neuropsychological testing an assessment of mood and subjective cognition are
+      repeated. These assessments, as well as assessments of functional capacity and quality of
+      life, are repeated within two weeks after treatment completion and six months after treatment
+      completion.
+
+      Block randomisation is carried out by Pharma Consulting Group, stratified by gender and age
+      (patients < or ≥ 35 years).
+
+      Power calculation was also carried out by Pharma Consulting Group based on findings from a
+      previous RCT in our group assessing the effect of 8 weeks of EPO treatment on the same
+      cognitive composite score. In PreTEC-ABC, a clinically relevant difference between the ABCR
+      and the control groups following 10 weeks of treatment is assumed to be 0.4 SD (corresponding
+      to a medium effect size) on the primary outcome, with a mean change in the cognitive
+      composite score of 0.5 SD. Assuming a 10% drop-out rate, we will recruit up to N=58 in order
+      to achieve complete datasets for N=52 participants.
+
+      Data will be analysed using mixed models using intention-to-treat (ITT) analyses.
+
+      Functional MRI-data will be pre-processed and analysed with the FMRIB Expert Analysis Tool
+      (FEAT) and the "randomize" algorithm implemented in FMRIB Software Library (FSL). Functional
+      MRI data will be analysed using a Region of interest (ROI) analysis to assess differences
+      between the ABCR and control group in neural activity in the dlPFC and the hippocampi after 2
+      weeks. Exploratory whole-brain analyses will be conducted to investigate any effects in other
+      brain regions. Any differences in neural activity will be correlated with potential changes
+      in the cognitive composite score at weeks 2 and post-treatment. If there is a significant
+      correlation with cognition at post-treatment, multiple regression analysis will be carried
+      out, adjusting for mood and demographic characteristics, to assess whether early change in
+      neural activity is predictive of pro-cognitive effects.
+    
+  

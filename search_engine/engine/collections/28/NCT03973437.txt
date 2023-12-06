@@ -1,0 +1,18 @@
+
+    
+      Ulcerative colitis is a non-specific chronic inflammation of gut characterized by referral
+      bloody stool, diarrhea and abdominal pain. Endoscopic features of the disease severity and
+      mucosal healing stage are strongly associated with treatment response and prognosis in the
+      future. Currently, the Mayo endoscopic sub-score (Mayo ES) and Ulcerative colitis endoscopic
+      index of severity (UCEIS) are commonly recommended to guide therapeutic adjustments. However,
+      the accuracy of these scales greatly relies on intra-observer and inter-observer consistency
+      for lack of objective measurements. Recently, deep learning algorithm based on convolutional
+      neural network (CNN) has shown multiple potential in computer-aided detection and
+      computer-aided diagnose of gastrointestinal lesions. Up to now, no randomized controlled
+      trials have been conducted to evaluate the performance of deep learning algorithm for
+      assessing disease activity in ulcerative colitis. This study aims to train a deep learnig
+      algorithm to assess severity and mucosal healing stage of ulcerative colitis using the Mayo
+      ES and UCEIS scale, then testify whether the engagement of AI can improve the evaluation
+      accuracy of physicians in a multi-center clinical practice.
+    
+  

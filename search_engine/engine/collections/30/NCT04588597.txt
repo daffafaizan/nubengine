@@ -1,0 +1,32 @@
+
+    
+      Twin pregnancies carry higher risks of maternal, fetal and neonatal adverse outcomes compared
+      to singleton pregnancy.They are associated with increased perinatal morbidity and mortality,
+      anemia, pregnancy- induced hypertension, increased incidence of cesarean section (CS),
+      postpartum hemorrhage, prematurity and low birth weight and Increased rate of perinatal
+      death.
+
+      This multicenter study aims at assessing the natural history of twin pregnancy, and
+      developing a machine learning-based algorithm to predict clinical outcomes of twin pregnancy
+      during pregnancy and delivery and to determine management strategies that are associated with
+      best maternal and neonatal outcomes.
+
+      Medical records of eligible women will be reviewed, and data abstraction will be performed
+      using a standardized excel sheet designed for this study. Target data include baseline
+      demographics and clinical data (e.g. age, parity, ethnicity, smoking, IVF pregnancy, history
+      of gynecologic surgeries, type of twin pregnancy, current medical disorders, current
+      obstetric complications, fetal anomalies, administration of antenatal steroids, Placental
+      site, and twin-specific complications). Information from serial ultrasound reports including
+      fetal growth and Doppler studies will be collected and data on fetal intervention will be
+      abstracted. Peripartum data include node of delivery, Method of induction, CS indication, and
+      type of cesarean incision. Clinical outcomes include postpartum hemorrhage, and perinatal
+      death, admission to neonatal intensive care unit (NICU), neonatal need for respiratory
+      support, neonatal intracranial hemorrhage, neonatal respiratory distress syndrome and
+      neonatal hypoxic ischemic encephalopathy. Data will not include any identifiable information.
+
+      Prediction model will be created using baseline demographic and obstetric features of
+      pregnancy and individual maternal and perinatal complications will be set as outcomes
+      (dependent variables). A composite outcome of major maternal and neonatal outcomes will be
+      created separately.
+    
+  

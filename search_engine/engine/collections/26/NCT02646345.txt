@@ -1,0 +1,52 @@
+
+    
+      The purpose was to determine the impact of the implementation of the World Health
+      Organization (WHO) Surgical Safety Checklist in terms of morbidity and mortality in adult
+      surgical patients in a tertiary healthcare institution in Chile.
+
+      After Institutional Review Board (IRB) approval (Facultad de Medicina, Pontificia Universidad
+      Católica de Chile, Santiago, Chile), a retrospective analysis of all surgical encounters on
+      patients age 15 and above from January 2005 to December 2012 at our center will be reviewed.
+
+      Encounter data will include up to 14 diagnostic and procedure International Classification of
+      Diseases, 9th Revision, Clinical Modification (ICD-9-CM) codes, demographic data, date of
+      admission and discharge, emergency status, healthcare system used and in-hospital death. A
+      5-level "high risk" variable was created in order to account for surgical complexity and
+      associated in-hospital mortality (level 1, surgeries with <1% in-hospital mortality; level 2,
+      1% to <5%; level 3, 5% to <10%; level 4, 10% to <15%; level 5, > or = 15%)6.
+
+      Surgical heterogeneity will be calculated by the Internal Herfindahl Index, which represents
+      the diversity or comprehensiveness of the types of procedures performed at a facility.
+
+      Statistics:
+
+      Propensity score (PS) analysis will be used to control for differences in baseline
+      characteristics. The PS is the conditional probability of receiving an exposure (e.g.
+      checklist) given a set of measured covariates. To estimate the PS, a logistic regression
+      model will be used in which "treatment" status (checklist performed vs. not performed) will
+      be regressed on the baseline (pre-treatment) characteristics.
+
+      PS analysis will be implemented in two ways to control for confounding:
+
+        1. PS matching: matching will be performed using a one-to-one nearest neighbor caliper
+           matching without replacement with a caliper size of 0.2 standard deviations. Balances in
+           the distribution of baseline covariates will be assessed by estimating absolute
+           standardized differences of the covariates between the two groups before and after
+           matching. Any imbalanced covariates (standardized difference >10%) after matching will
+           be adjusted for in the final analysis. As the PS matched sample does not consist of
+           independent observations, we will use a marginal regression model with robust standard
+           errors.
+
+        2. PS weighting: the entire sample will be weighted by the inverse probability of the
+           treatment weights derived from the PS. If a subject has a higher probability of being in
+           a group, it will be considered over-represented and therefore will be assigned a lower
+           weight. Conversely, if the subject has a smaller probability, it will be considered as
+           under-represented and will be assigned a higher weight. We then will fit a weighted
+           linear regression model using an indicator variable representing checklist intervention
+           status as the sole predictor, and mortality as our outcome variable.
+
+      Data will be expressed as mean (SD; standard deviation) or median (IQR, interquartile range)
+      unless otherwise stated. A two-sided p value less than 0.05 will be considered significant.
+      The analyses will be performed using STATA v.12.0 (StataCorp, College Station, TX).
+    
+  

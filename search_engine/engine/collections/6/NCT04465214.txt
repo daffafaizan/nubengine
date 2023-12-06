@@ -1,0 +1,82 @@
+
+    
+      Background:
+
+        -  A growing number of mobile health solutions are enabling the tracking, diagnosis, and
+           management of various physiological processes and disease conditions, and many common
+           devices such as smartphones (e.g., iPhone) have integrated robust sensors to collect and
+           track this data.
+
+        -  The two most commonly used tools in oncology include the Eastern Cooperative Oncology
+           Group Performance Status (ECOG PS) and Karnofsky Performance Status (KPS) scales that
+           were invented more than 50 years ago.
+
+        -  Although standard performance status (PS) measurements are simple to implement in the
+           clinic, they are retrospective, subject to bias and limitations including intra- or
+           inter-observer variability, they are intermittent, providing a snapshot of the patients
+           status at the time of assessment, they are largely subjective, relying on physician
+           judgement and patients ability to recall events and describe their symptoms. Also the
+           inability to retrospectively verify or confirm the accuracy of PS assessment is another
+           limitation.
+
+        -  The benefits to patient care of knowing the accurate PS are extensive, including making
+           the right treatment decision based on the side effect profile, and survival benefit and
+           eligibility on clinical trials.
+
+        -  Biometric data can also play a role in empowering patients to become active participants
+           in their own care, by providing them with quantitative feedback on activities of daily
+           living and other functions.
+
+        -  There are some studies exploring the accuracy of available electronic activity
+           monitoring systems (EAM), but the available data on use of EAM systems in oncology
+           patients is limited.
+
+        -  Continuous biometric data can provide actionable insights into fluctuations in not only
+           the activity level of cancer patients, but also their cognitive function and mood
+           throughout treatment episodes.
+
+        -  Given the current limitations in the overall clinical evaluation of cancer patients, the
+           use of remote sensor technologies can provide an objective, frequent, and near-real time
+           stream of data in a machine-readable format that is free of human bias and can greatly
+           enhance the ability of both clinicians and patients to manage the complexities of cancer
+           care.
+
+      Objective:
+
+      -Determine the feasibility of using an Apple iPhone alone or in conjunction with an Apple
+      Watch to collect data from patients with cancer to assess their fatigue, acoustic
+      neurotoxicity, and cognitive status.
+
+      Eligibility:
+
+        -  Inclusion criteria: Male or female subjects aged greater than or equal to 18 years with
+           histologically or cytologically proven malignant tumors who are under active treatment
+
+        -  Exclusion Criteria: Active central nervous system (CNS) metastases, known current
+           alcohol or drug abuse, any psychiatric condition that would prohibit the understanding
+           or rendering of informed consent
+
+      Design:
+
+      This pilot study will be done in two arms (enrolled concurrently) on a total of 60 evaluable
+      patients.
+
+      Patients assigned to Arm 1 will have all assessments done in the clinic. A specially
+      programmed iPhone, Apple Watch, an NIH iPad, and investigator conducted assessments will be
+      used to collect data assessing patient fatigue, reaction time, and cognitive functioning.
+      These data will be compared with data collected from questionnaires including: patient
+      reported outcome (PRO)- CTCAE fatigue and mood grading, ECOG/KPS, Neuro-QOL Ability to
+      Participate in Social Roles and Activities short form, the Delis-Kaplan Executive Functioning
+      System, and The NIH Toolbox.
+
+      Arm 2 of this study will be a subset of enrolled patients who have a personally-owned iPhone.
+      Patients in Arm 2 will complete the same battery of assessments in the clinic as those in Arm
+      1, with additional continuous measurement of their activity recorded by an Apple Watch at
+      home, between clinic visits. Patients in Arms 2 will have the option of having the apps
+      designed for this study installed on their personally owned iPhones so they can complete the
+      app assessments at home. The Apple Watch will be given to these patients (or they may use a
+      personally owned Apple Watch) who will be trained by study staff on using the device for
+      continuous monitoring. Patients who agree to have the study aps installed on their personally
+      owned iPhone will be trained by study staff on the use of the apps.
+    
+  

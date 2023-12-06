@@ -1,0 +1,135 @@
+
+    
+      Non-small cell Lung cancer (NSCLC) is the most frequent type of lung cancer worldwide. Brain
+      metastases (BM) are the most frequent neurological complications related to NSCLC and it is
+      estimated that 20% to 40% of these patients will present them at some point during the
+      progression of their disease, leading to a poor prognosis.
+
+      As only a selected group of NSCLC patients with single metastases or small lesions are
+      candidates for surgical resection or SBRT, the standard treatment for multiple BM is
+      whole-brain radiation therapy (WBRT). Although 80% of the patients who receive WRBT can
+      initially respond to treatment, 50% of these patients will have disease progression. This
+      further has been related to genetic and environmental factors that may lead to
+      radio-resistance, which is the capacity of a cell to stand the effects of radiant energy. To
+      face this problem, other options such as chemotherapy or radio-sensitizers have shown slight
+      benefit in terms of progression-free survival (PFS) but not in overall survival (OS).
+
+      Different studies have suggested tumor microenvironment (TME) has an important role in
+      treatment response of BM-derived from melanoma and NSCLC. The demand for O2 by tumors during
+      cancer is an unsteady phenomenon, caused by continuous metabolic profile changes, immune
+      response activity, and TME interactions. Hypoxia occurs in most tumors and plays an important
+      role in tumor progression. In NSCLC exists a clear relationship between hypoxia and
+      radioresistance. Hence, there is interest into modulate TME hypoxia to improve treatment
+      response. Hypoxia regulates the expression of genes that encode growth factors such as
+      endothelin-1 (ET-1), growth factor-derived platelets-B (PDGF) and vascular endothelial growth
+      factor (VEGF), as well as genes that regulate the production of gas molecules such as nitric
+      oxide (NO) and carbon monoxide (CO). The hypoxia-inducible factor (HIF) is a transcription
+      factor that regulates the cellular response to hypoxia, functioning as a regulator of oxygen
+      homeostasis. Several studies have shown that over-expression of HIF-1α is capable of inducing
+      resistance to chemotherapy, radiotherapy and decreasing overall survival in NSCLC primary
+      tumors.
+
+      The administration of nitric oxide donors, such as nitroglycerin, reduces the tumor
+      resistance related to hypoxia by inducing the direct proteolysis of HIF-1α. In tumor cells
+      increases oxygen pressure, increased blood flow, activation of p53 and apoptosis have shown a
+      synergistic effect with ionizing irradiation in an experimental model. According to several
+      randomized phase II studies, the addition of transdermal nitroglycerin to vinorelbine and
+      cisplatin treatment can significantly improve the OS and time to progression in patients with
+      locally advanced non-small cell lung cancer. However, in phase III the addition of
+      nitroglycerin to carboplatin-based did not show benefit in PFS, OS and health-related quality
+      of life (PMID: 26347110). Therefore, the aim of this study was to assess, if the addition of
+      transdermal NTG to standard WRBT treatment among stage IV NSCLC patients with BM, could have
+      a significant impact in PFS and OS as primary end-point and disease control rate (DCR) and
+      overall response rate (ORR) as secondary endpoints.
+
+      METHODS Experimental design We conducted a phase II clinical trial with a parallel design
+      study among patients treated at the Instituto Nacional de Cancerología from January 2014 to
+      May 2017. The Median follows up was 18 months. Patients with histologically confirmed NSCLC
+      and documented BM defined as the presence of one or more intra-axial enhancing lesions on
+      gadolinium-enhanced brain magnetic resonance imaging (MRI) were included. Candidate patients
+      who underwent radiosurgery or surgical resection were excluded.
+
+      Sample size. The sample size calculation was estimated for a two-sample proportion difference
+      in ORR for NSCLC patients who received WBRT plus TN. Although in one of our previous studies
+      we found a difference of 40% in ORR among locally advanced NSCLC patients 30, we prefer to be
+      more conservative in our estimations taking into account our different study populations.
+      Thus, our sample estimation assumptions were performed for a difference in ORR (delta) of 30%
+      between population (p1= 25% vs p2= 65%) with a study power was set at 0.80 and the two-sided
+      type I error (alpha) was set as 0.05. Therefore, the estimated sample number is 108 (54 per
+      group). We also add a 5% of extra patients, to prevent the possible loss of patients due to
+      the progression of the disease.
+
+      Endpoints. The primary outcome was overall response rate (ORR); Secondary endpoints were
+      disease control rate (DCR), intracranial progression-free survival (ICPFS) and overall
+      survival (OS). The radiographic response was assessed by two independent blinded radiologists
+      according to the Response Evaluation Criteria in Solid Tumors (RECIST) guideline version 1.1
+      by comparing the pre-and post-treatment images. Any in-field tumor progression or the
+      appearance of new malignant lesions denoted progressive disease. ORR was defined as the sum
+      of complete and partial response, whereas DCR was defined as the sum of ORR and stable
+      disease. For PFS, time to event was defined and calculated from the date of randomization
+      until radiographic disease progression, treatment discontinuation due to either unacceptable
+      toxicity death by any cause. For OS, time-to-event was defined as time from randomization
+      until death by any cause or loss to follow-up. Observations for patients who did not
+      experience the event were censored at patient-specific last follow-up. Finally, treatment
+      toxicity was evaluated with CTCAE criteria.
+
+      Intervention assignment and informed consent Patients were randomized 1:1 and allocated to
+      either the control arm who received whole-brain radiotherapy (WBRT) (30 Gy in 10 fractions,
+      in 10 days of treatment) or the experimental arm who received WBRT and the addition 36 mg of
+      transdermal nitroglycerin (TN) with release of 10 mg in 24 hours, for 24 hours with a 12-hour
+      rest interval (to avoid saturation of receptors). All patients signed the informed consent
+      letter, prior to any procedure. The project was approved by the local scientific and
+      bioethics committee (number). Further details can be found in clinicaltrials.gov (NCT¿?).
+      Patients received chemotherapy (CT) platinum-based or TKI according to mutation status.
+
+      Response assessment BM was documented among all patients at NSCLC diagnosis and staging by
+      either computed tomography (CT) of the head gadolinium-enhanced brain magnetic resonance
+      imaging (MRI) at baseline. Then, all patients underwent an MRI prior to treatment and at the
+      end of treatment (median 15 days). The imaging studies were carried out in a Signa HDxt 1.5 T
+      scanner (GE Healthcare). They include conventional sequences in multiple planes, T1, T2, T2
+      Flair, Echo gradient, Diffusion, volumetric acquisition in axial plane T1 Spoiled Gradient
+      recalled (SPGR), without contrast and after this (Gadolinium). Cerebral perfusion was
+      evaluated by echo-planar sequence with the following parameters: multiphase (25 - 45 phases)
+      with an acquisition time of 1:10, with a PSI of 5 and a flow rate of 5; with a volume of 15ml
+      of gadolinium (+) 20ml of saline at a speed of 5ml/second.
+
+      The radiographic response of intracranial tumors was assessed by two blinded and independent
+      blinded radio-oncologist (MY & FM) according to the Response Evaluation Criteria in Solid
+      Tumors (RECIST) guideline version 1.1 by comparing the pre-and post-treatment intracranial
+      images [15]. Any in-field tumor progression or the appearance of new malignant lesions
+      denoted progressive disease. Objective response was defined as the sum of complete and
+      partial response.
+
+      DNA Extraction Biopsies were taken using CT-guided tru-cut or bronchoscopy and were analyzed
+      by the pathology department for their histologic diagnosis and neoplastic cellularity
+      quantification (>50%); they were later embedded in paraffin until processed for DNA
+      extraction. Genomic DNA was extracted from the areas of paraffin slides using a standard
+      procedure and a QIAamp DNA FFPE tissue kit (TMQIAGEN), following manufacturer's instructions.
+
+      Determination of EGFR and KRAS mutational status EGFR exon 19, exon 20 and exon 21 gene
+      mutations were detected using the Therascreen RGQ PCR kit (TMQIAGEN, Scorpions ARMS method),
+      which combines both the ARMS and Scorpions technologies for detecting the mutations by
+      real-time polymerase chain reactions (PCR). Real-time PCR was performed using a Rotor-Gene Q
+      5plex HRM (TMQIAGEN), following manufacturer's instructions.
+
+      Statistical analysis Continuous variables were summarized as arithmetic means or medians,
+      with standard deviation or interquartile range for descriptive purposes according to normal
+      data distribution assessed by means of the Shapiro-Swilk test. Meanwhile, categorical
+      variables were summarized as frequencies and percentages. For dichotomous outcomes (eg.
+      objective response rate (ORR), disease control rate (DCR), the percentage (incidence rate)
+      and 95% CI are presented. Inferential comparisons were made using the T-test or two-way ANOVA
+      for continuous variables and with either Mann-Whitney U test or Kruskall-Wallis test,
+      conforming to the data distribution and a number of groups. The χ2 test or Fisher exact test
+      was used for assessing the statistical significance of categorical variables. To address the
+      effect of treatment of secondary outcomes (eg. OS, ICPFS) we performed univariate survival
+      analysis. Time-to-event was estimated using the Kaplan-Meier method and comparisons among the
+      subgroups were analyzed using the log-rank test. For survival curve analysis, all the
+      variables were dichotomized according to their median. After we performed a forward stepwise
+      Multivariable Cox regression model and hazard ratios (HR) were calculated along with their
+      corresponding 95% CIs as a measure of association. Statistically and clinically significant
+      and borderline significant variables (p <.10) were included for the adjustment in the
+      multivariate Cox regression model. Significantly Kaplan-Meir curves were plotted. Statistical
+      significance was determined as P <0.05 using a 2-tailed test. Stata software version 14 was
+      used for all statistical analyses.
+    
+  

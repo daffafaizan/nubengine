@@ -1,0 +1,81 @@
+
+    
+      The instrumental session consisted of the registration of sEMG signals during electrically
+      stimulated and voluntary contractions according to a consolidated standardized protocol. The
+      investigated muscle is the Anterior Tibial.
+
+      Each subjects sat comfortably on a chair with his/her ankle flexed at 90° degree and knee
+      extended; the leg was fixed at 90 degrees, in the isometric brace fixed on a plane (MISO1,
+      LISiN Bioengineering Centre, Turin Polytechnic, Italy Torque was measured with a modular
+      brace incorporating two independent torque transducers (model TR11, CCT Transducers, Torino,
+      Italy).
+
+      The signal from the two torque meters were amplified, summed and displayed by means of a
+      visual feedback system, which provided the subject with information regarding the torque
+      level produced. Torque signal were stored to be analysed later.
+
+      The sEMG signal of the right Anterior Tibial was investigated with a flexible adhesive linear
+      array of 16 electrodes (silver bars 10 mm long, 1 mm diameter, 10 mm apart) in single
+      differential (SD) configuration. The optimal position and orientation of the array was
+      determined at moderate contraction levels by visual inspection of the signal. It provided
+      clear motor unit action potentials with similar propagation in the two directions from the
+      neuromuscular junction to the tendons.
+
+      The reference electrode was positioned on the patient's leg. The skin was cleaned by slightly
+      abrading it with abrasive gel before positioning the array.
+
+      Since sEMG variables are affected by muscle temperature, the skin temperature was monitored
+      with an electronic thermometer throughout the whole examination and was kept between 31.5 C°
+      and 32.5 C° 30.
+
+      The protocol consisted in three evaluations: one stimulated contraction and two voluntary
+      contractions, according to a standardized protocol.
+
+      The stimulated contraction was executed through a button stimulation electrode (size: 10 mm)
+      positioned on the motor point using a monopolar configuration, a frequency of 25 Hz for a
+      duration of 30 seconds and a supramaximal stimulation. The motor point was selected as the
+      position of the stimulated electrode on the skin where the M-wave showed the maximum
+      amplitude for a specified stimulation intensity; the supramaximal stimulation level was
+      defined as the current intensity above which there was no significant increase of the
+      amplitude of the M-wave or the maximum level tolerated by the subjects.
+
+      A rest period of 10 minutes after stimulation was observed in order to avoid cumulative
+      fatigue phenomenon.
+
+      The subject then performed two test-contractions by dorsiflexion of the foot against the
+      resistance given by the braces, in order to get acquainted with the procedure and to verify
+      the correct posture and position of the array.
+
+      The subject was subsequently asked to produce three maximal voluntary contractions (MVC)
+      lasting 3 seconds each with a rest period of 2 minutes in-between. The reference MVC,
+      expressed in Nm, was established as the maximum of the three measurements. The last MVC
+      measurement was followed by a 10-minute rest period.
+
+      The subject then produced two voluntary contractions each lasting 30 seconds: one contraction
+      at 30% MVC and one at 60% MVC with a 5-minute rest in between. A visual biofeedback was used
+      to help the subject maintaining the requested contraction level; furthermore, the subjects
+      were verbally encouraged to obtain the best outcome during their performance.
+
+      The EMG signals were filtered with a 10-500 Hz bandwidth filter, amplified (EMG 16-16 channel
+      amplifiers LISiN Bioengineering Centre Turin Polytechnic). They were sampled at 2048 Hz
+      during voluntary contractions and 1024 Hz during electrically elicited contractions. Signals
+      were digitised by a 16 bit A/D converter (DAQCARD-6024E National Instruments, Austin, Texas,
+      USA) and stored on the disk of a personal computer.
+
+      Signal processing was performed using MATLAB. EMG variables of interest were: mean normalized
+      frequency (MNF), average rectified value (ARV) and muscle fibre conduction velocity (CV).
+      Spectral (i.e. MNF), amplitude (i.e. ARV) and CV variables were computed with numerical
+      algorithms described in previous papers.
+
+      CV was estimated from the consecutive double differential signals showing the best signal
+      propagation; MNF and ARV were estimated from the single differential channel in the middle of
+      the channels used for CV estimation. Epoch length for EMG variable estimation was 0.5 seconds
+      without overlapping.
+
+      A linear regression was used to fit all the scatter graphs of the EMG variables with time.
+      The rate of change was defined as the slope of the regression line. The normalized rate of
+      change for all variables was defined as the ratio between the slope and the intercept
+      (initial value of sEMG variables) expressed as percentage. Physiological myoelectric
+      manifestations of muscle fatigue consist in reduction of MNF and CV and increase of ARV.
+    
+  

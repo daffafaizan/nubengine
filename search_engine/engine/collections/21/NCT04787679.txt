@@ -1,0 +1,83 @@
+
+    
+      The study of the mechanisms of bone damage, which occur at the multiscale, is of fundamental
+      importance for the understanding of fracture processes. In particular, age-related fractures
+      are continuously increasing due to the increase in average age and widespread diseases such
+      as osteoporosis. They result in high economic burdens, morbidity (including psychological,
+      e.g., frailty), and increased mortality. In order to reduce the impact of bone fractures on
+      health and economy, early diagnosis is the key. In this context, one must consider that bone
+      is characterized by a complex hierarchical structure. Both the cortical and trabecular
+      sections consist of micrometric lamellae, composed of collagen fibrils, within which
+      osteocytes are found. They reside in sub-micrometer cavities called lacunae, which are
+      connected by a dense network of canaliculi. At the nanoscale, the fibrils consist primarily
+      of collagen and hydroxyapatite crystals. This complex architecture is reflected in fracture
+      patterns: damage, in fact, occurs at the multiscale. However, fracture patterns and their
+      associated physical phenomena are still not understood, especially at the microscale.
+
+      Recently, microscale imaging techniques have been combined with subject-specific numerical
+      models, which are able to calculate local values of bone stress and strain. Preliminary
+      studies have focused on evaluating a possible interaction between micro-cracks and
+      microstructural porosity. This particular research focuses on the lacunar network, which is
+      presumed to significantly affect bone resistance to fracture although the actual role of the
+      lacunar network is not yet elucidated. First, lacunae are areas of stress concentration,
+      which apparently lead to weakening of the bone structure. However, in most cases, the lacunae
+      make a positive contribution to toughness by deflecting the crack front. The connection
+      between the lacunae, determined by the network of canaliculi, is also reduced in osteoporotic
+      subjects, preventing the slowing of damage. In this sense, bone can be considered a damage
+      tolerant material. Donaldson et al developed computational models and estimated a threshold
+      for microdamage initiation and propagation. They used computerized micro-tomography of murine
+      femurs and evaluated the influence of different algorithms on the propagation of in-silico
+      damage. Further results showed that the damage always occurs on the surfaces of blood vessels
+      or porosities and does not instead start from the lacunae. However, further simulations and
+      models would be needed to verify the effectiveness of the damage models.
+
+      Computational damage models also require experimental validation. Preliminary studies have
+      been conducted in two main directions: in-vivo imaging and image-guided failure assessment
+      (IGFA) techniques. The first approach allows nondestructive monitoring of bone damage in
+      living animals. The second approach, implemented by A. Levchuk et al. (8), shows enormous
+      potential by allowing the study of microcrack initiation and propagation with sub-micrometer
+      resolution, but only on small animals.
+
+      The current research for the first time wants to perform tests on human bone samples applying
+      IGFA techniques.
+
+      Despite several studies on the characterization of damage models at the micro-scale, a
+      validation of computational models of fracture on human subjects is still lacking. In
+      addition, the role of morphological features at the micro-scale in samples is still unknown.
+
+      These micro-scale studies could improve clinical understanding of bone fracture and
+      prediction of fracture risk. Currently, clinicians use bone mineral density, which is a
+      macro-scale parameter, as the most common predictor of bone fracture. However, recent studies
+      demonstrate the importance of a thorough characterization of the geometric and morphologic
+      characteristics of the microarchitecture.
+
+      OBJECTIVES
+
+      General Objective The study aims at the experimental validation of computational models of
+      bone damage at the micro-scale. The general objective is pursued by controlled damage in a
+      micro-compression machine on human bone samples from femoral head. The machinery is placed
+      inside a synchrotron.
+
+      Primary Objective The primary objective of the present study is to evaluate the difference in
+      the attraction of bone damage with respect to gaps in the two groups considered (osteoporotic
+      and non-osteoporotic) following micro-compression testing.
+
+      The discriminating parameter chosen turns out to be the number of bone gaps encountered by
+      micro-damage. We expect to observe an effect size of 0.4 between the two groups with respect
+      to the chosen parameter.
+
+      Secondary Objectives
+
+        -  Determination of the role of gaps, canaliculi and other bone microstructures in damage.
+           Human bone samples are scanned by micro-tomograph for the definition of microstructural
+           morphological parameters and the realization and analysis of numerical models.
+
+        -  Validation of these numerical models of damage by micro-compression tests carried out in
+           situ in a synchrotron of adequate resolution
+
+        -  Quantification of damage in human bone samples affected by osteoporosis
+
+        -  Definition of micro-scale fracture indices, useful for the early diagnosis of
+           osteoporosis
+    
+  

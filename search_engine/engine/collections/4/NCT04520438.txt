@@ -1,0 +1,89 @@
+
+    
+      Materials and Methods Study design and Patient Selection A split-mouth, randomized controlled
+      clinical trial enrolling 13 patients (8 males and 5 females, mean age 52.3 ± 9.4 years) was
+      set-up. The patients were informed about the benefits and risks of the study and each
+      participant signed informed consent.
+
+      Non-surgical periodontal treatment A single periodontist (L.C.) performed all periodontal
+      treatments. NSPT consisted of two sessions of scaling and root planing (SRP) within 48 hours
+      under local anesthesia using ultrasonic and hand instrumentation. Additionally, the sites
+      associated with PPD ≥ 6 mm in the quadrant assigned to the test group were irrigated with
+      L-PRF exudate and filled with longitudinal pieces of L-PRF membrane. The patients received
+      instructions about soft diet, a carefully and soft mouth rinse with chlorhexidine 0.12%, and
+      no toothbrushing during 7 days in order to avoid the L-PRF removal. After this period, the
+      following instructions were given: modified Bass brushing technique, dental floss, and
+      interdental brushes, and chlorhexidine 0.12% mouth rinse for an extra 7 days. Strict hygiene
+      control by the clinician was also performed in each appointment.
+
+      L-PRF membrane preparation Two samples of venous blood were collected in 2 vacutainer tubes
+      (red cup) of 10 ml without anticoagulant. They were centrifuged at 408 g for 12 minutes using
+      a table centrifuge (IntraSpinTM, Intralock®, Florida, USA) according to the protocol
+      described by Temmerman et al.18 The L-PRF clots were removed from the tube, separated from
+      the red cells and placed in the Xpression box (IntraSpinTM, Intralock®, Florida, USA) to
+      gently compress them in membranes. The membranes were chopped in longitudinal pieces to fill
+      the periodontal pockets ≥ 6mm. The exudate, released during the compression, called L-PRF
+      exudate was aspirated to rinse the treated pockets. (Figure 1)
+
+      Clinical Measurements All clinical measurements were performed by a single trained and
+      calibrated examiner (N.J.) who was masked for the treatment assigned, using a basic
+      examination instrument kit and a University of North Carolina no. 15 color-coded periodontal
+      probe. The following clinical parameters were measured at baseline and 6 weeks, 3 months and
+      6 months after treatment: probing pocket depth (PPD), clinical attachment level (CAL),
+      gingival recession (GR), bleeding on probing (BOP), and O´Leary plaque index (PI).19
+      Additionally, the root sensitivity (RS) was evaluated using a 100-mm visual analogue scale
+      (VAS) (0 indicating no pain, 50 indicating average, and 100 indicating an unbearable pain) at
+      24 hrs., 6 weeks, 3 months, and 6 months after treatment. The change in PPD, CAL, GR, BOP,
+      PI, and RS (difference between baseline measures and at 1, 3, and 6 months) were calculated.
+
+      GCF collection GCF samples were collected from the deepest pocket from each quadrant before
+      recording the clinical measurement (baseline, and 6 weeks and, 3 months after treatment) in
+      order to evaluate the concentration of Porphyromona gingivalis (P.g), Aggregatibacter
+      actinomycetemcomitans (A.a), Prevotella intermedia (P.i) and Fusobacterium nucleatum (F.n).
+      The sample area was isolated with cotton rolls, and contamination with saliva was avoided
+      using an appropriate suction and air spray. Then, an endodontic #35 paper-point was inserted
+      until a slight resistance was felt and it was held for 30 seconds. The paper-points were
+      immediately inserted in an Eppendorf tube and stored at -80ºC for future analysis.
+
+      Microbiological processing After defrosting the samples, 1ml of phosphate-buffered saline
+      (PBS) was added and homogenized. Then, 400 μl of each sample was centrifuged at 13200 rpm for
+      3 minutes. The obtained pellet was dispersed in 200 μl InstaGene. DNA was extracted with
+      InstaGene matrix (Bio-Rad Life Science Research, Hercules, CA, USA) according to the
+      instructions of the manufacturer. Five microliters of the purified DNA were used for the
+      quantification of Porphyromonas gingivalis, Aggregatibacter actinomycetemcomitans,
+      Fusobacterium nucleatum, and Prevotella intermedia. A quantitative polymerase chain reaction
+      (qPCR) assay was performed with a CFX96 Real-Time System (Biorad, Hercules, CA, USA) using
+      the Taqman 5' nuclease assay PCR method for detection and quantification of bacterial DNA.
+      Taqman reaction contained 12.5 μl Mastermix (Eurogentec, Seraing, Belgium), 4.5 μl sterile
+      distilled water, 1 μl of both species-specific primers and probe (Table 1) and 5 μl template
+      DNA. Assay conditions for all primer/probe set consisted of an initial 2 min at 50°C,
+      followed by a denaturation step for 10 min at 95°C, followed by 45 cycles of 95°C for 15 sec
+      and 60°C for 60 sec. Quantification was based on a plasmid standard curve. The delta for
+      bacterial concentration at 6 weeks, 3 and 6 months (difference between baseline measures and
+      at 6 weeks, 3 and 6 months) were calculated.
+
+      Randomization, allocation concealment and calibration A coin toss method was used to assign
+      the patients' quadrants into two treatment groups: (SRP + L-PRF) or control (SRP alone).
+
+      Before beginning the study, two recordings of the following parameters were done: PPD, GR,
+      and CAL in five patients, with a 24-hour interval between first and second records in order
+      to validate the intra-examiner accuracy. All teeth, excluding third molars, were measured by
+      periodontal probing at 6 sites (mesiobuccal, mediobuccal, distobuccal, mesiolingual/palatal,
+      mediolingual/palatal, and distolingual/palatal). Calibration was accepted if the measurements
+      at baseline and after 24 hours were within 1 mm at the 95% level (correlation coefficients
+      between duplicate measurements; r = 0.95).
+
+      Statistical analysis To detect a mean difference in PPD of 1.2 mm with a standard deviation
+      of 1.0 at an α level of 0.05 and a β level of 0.10 (power = 0.9), a sample size of 10
+      patients was required. Despite the results but to anticipate potential drop outs during the
+      study, a sample size of n = 16 patients was considered.
+
+      Bacterial counts were log-transformed. A linear mixed model was applied with the variable
+      patient, as a random factor and time and treatment as two crossed fixed factors. Smoking and
+      PI were considered as covariables. Contrasts were set up to calculated the change from
+      baseline for the different time points between the treatments and for each treatment apart. A
+      correction for simultaneous hypothesis testing according to Sidak was applied. A normal
+      quantile plot and residual dot plot of the residual values were created showing that the
+      assumptions underlying the statistical model could be made.
+    
+  

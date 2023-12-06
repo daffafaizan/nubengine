@@ -1,0 +1,16 @@
+
+    
+      Colonoscopy is recommended as a routine examination for colorectal cancer screening. Adequate
+      bowel preparation is indispensable to ensure a clear vision of colonic mucosa，complete
+      inspection of all colon segments, and furthermore improves the detection rates of small
+      adenomas. Thus, the adequacy of bowel preparation should be accurately evaluated and
+      documented. However, the accuracy of current bowel preparation quality scales greatly relies
+      on intra-observer and inter-observer consistency for lack of objective measurements.
+      Recently, deep learning based on central neural networks (CNN) has shown multiple potential
+      in computer-aided detection and computer-aided diagnose of gastrointestinal lesions. While,
+      no studies have been conducted to evaluate the performance of deep learning algorithm in
+      bowel preparation quality scoring. This study aims to train an algorithm to assess bowel
+      preparation quality using the BBPS, and testify whether the engagement of AI can improve the
+      quality control parameters of colonoscopy.
+    
+  

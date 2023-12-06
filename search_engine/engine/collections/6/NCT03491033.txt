@@ -1,0 +1,60 @@
+
+    
+      DNA extracted from FFPE block will be used. Capture sequencing and immunohistochemistry will
+      be performed.
+
+      Immunohistochemistry The formalin-fixed, paraffin-embedded tissue blocks were sectioned at 4
+      µm thickness onto Superfrost Plus glass slides (Thermo Fisher Scientific, Waltham, MA, USA).
+      These sections were deparaffinized in xylene and rehydrated through graded alcohols.
+      Immunohistochemical staining was performed using an automatic immunostaining instrument
+      (Ventana Benchmark XT; Ventana Medical Systems), according to the manufacturer's
+      recommendations. Antigen retrieval was performed using a Cell Conditioning Solution (CC1;
+      Ventana Medical Systems). The sections were incubated with antibodies against PD-L1
+      (prediluted, clone SP263, Ventana Medical Systems), CD8 (prediluted, clone C8/144B, Dako,
+      Glostrup, Denmark), PD-1 (1:50, clone NAT105, Cell Marque, Rocklin, CA, USA), Foxp3 (1:50,
+      clone 236A/E7, Abcam, Cambridge, UK), ICOS/CD278 (1:50, clone SP98, Thermo Fisher
+      Scientific), and LAG-3 (1:100, clone EPR4392(2), Abcam). After chromogenic visualization
+      using an ultraView Universal DAB Detection Kit (Ventana Medical Systems), the slices were
+      counterstained with hematoxylin, dehydrated in graded alcohols and xylene, and then embedded
+      in mounting solution. Appropriate positive and negative controls were concurrently stained to
+      validate the staining method.
+
+      Targeted Capture Sequencing on NextSeq550 using SureSelect XT Sample Preparation DNA was
+      extracted from microdissected tumor rich areas from formalin fixed paraffin embedded tumor
+      sections using DNAeasy kit (QIAGEN, Venlo, Netherlands). Two hundred fifty nanogram of
+      genomic DNA in 50μl TE buffer was fragmented to a median size of 150bp using the Covaris-E220
+      AFA instrument (Covaris, Woburn, MA) with the following settings: peak incident power 175
+      watts, duty factor 10.0%, cycles per burst 200 cycles, run time 500 sec at 4oC. DNA fragments
+      were evaluated using capillary electrophoresis on High Sensitivity D1000 ScreenTape and
+      Reagents (TapeSation4200, Cat.No.5067-5584, 5585; Agilent Technologies, Santa Clara, CA,
+      USA). End repair, 3'-end adenylation and sequencing adapter ligation of DNA fragments were
+      performed following the manufacture's protocol (SureSelect XT Reagent kit, HSQ Cat.No.G9611A,
+      G9611B; Agilent Technologies, Santa Clara, CA, USA). After each steps, fragments were
+      purified using AMPure XP beads (Cat. No. A63382; Beckman Coulter, High Wycombe, UK). The
+      resulting DNA was amplified by 14 cycles PCR amplification (SureSelect Herculase Ⅱ Fusion
+      Enzyme with dNTP Combo 200 RXN kit, Cat. No. 600677; Agilent Technologies, Santa Clara, CA,
+      USA). The quality of the PCR product was assessed by capillary electrophoresis with DNA1000
+      TapeScreen and Reagents (TapeSation4200, Cat.No.5067-5582, 5583; Agilent Technologies, Santa
+      Clara, CA, USA) and the concentration was measured by Qubit 2.0 Fluorometer (Qubit dsDNA HS
+      Assay Kit, Cat. No. Q32854; Thermofisher Scientific, Inc, Waltham, MA).
+
+      Capture and Enrichment Target enrichment was performed according to the manufacturer's
+      instructions (SureSelect XT Custom 0.5Mb-2.9Mb library, Cat. No. 5190-4816, 4817; Agilent
+      Technologies, Santa Clara, CA, USA). The resulting captured libraries with indexing primers
+      were amplified by 12 cycles of PCR (SureSelect Herculase Ⅱ Fusion Enzyme with dNTP Combo 200
+      RXN kit, Cat. No. 600677; Agilent Technologies, Santa Clara, CA, USA) and purified again.
+      Quantity and quality of indexed library DNA were verified by capillary electrophoresis with
+      High Sensitivity D1000 ScreenTape and Reagents (TapeSation4200, Cat.No.5067-5584, 5585;
+      Agilent Technologies, Santa Clara, CA, USA) and Qubit 2.0 Fluorometer (Qubit dsDNA HS Assay
+      Kit, Cat. No. Q32854; Thermofisher Scientific, Inc, Waltham, MA).
+
+      Sequencing We diluted resulting libraries to 4nmol/l and pooled by combining 5μl of each
+      diluted library for normalization. Subsequently, pooled library was denatured into single
+      strands by using fresh 0.2N NaOH and 200mM Tris-HCl, pH7. A PhiX control was denatured in the
+      same way. The concentration of final loading library was 1.8pmol/l and Phix was spiked in at
+      1%. A standard flow cell was loaded on the Illumina NextSeq550 and sequencing was conducted
+      with 2X100bp paired-end reads using NextSeq550 reagent v2 kit with high-output 300 cycles.
+      (NextSeq550 System user guide part #15069765-V02 Mar 2016, NextSeq550 Reagent V2 Kit
+      High-output 300 cycles Cat. No. FC-404-2004; Illumina, CA).
+    
+  

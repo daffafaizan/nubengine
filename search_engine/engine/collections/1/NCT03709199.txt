@@ -1,0 +1,170 @@
+
+    
+      Background and Significance: Through advancements in critical care, PARDS mortality has
+      decreased from 50% to less than 20%. Therapeutic strategies for PARDS have sought to improve
+      survival, but have often ignored morbidity, despite extensive evidence that nearly 50% of
+      adult ARDS survivors are left with significant abnormalities in pulmonary, physical,
+      neurocognitive function and HRQL which may persist for years. Recent data highlight that
+      approximately 20% of children with respiratory failure have low HRQL 6 months after ICU
+      discharge, and 30% screen positive for post-traumatic stress (PTS). There are virtually no
+      data regarding pulmonary and neurocognitive deficits in PARDS survivors. More importantly,
+      there are no data identifying potentially modifiable factors during ICU care which are
+      associated with long term impairments.
+
+      It is increasingly recognized that ARDS ventilator management is associated with VIDD and
+      VILI, which increase length of MV and failed extubation.REDvent is currently testing whether
+      a MV strategy which uses esophageal manometry to target physiologic levels of patient effort
+      can prevent VIDD and shorten length of MV. In addition, the REDvent strategy results in more
+      lung protective management of Positive End Expiratory Pressure (PEEP), Peak Inspiratory
+      Pressure (PIP), and Delta Pressure (DP) which may prevent VILI. While the REDvent study is
+      designed for ICU related outcomes, there is strong biologic plausibility that the REDvent
+      strategy can improve long-term outcome. The investigators propose serial follow up of
+      subjects enrolled in the REDvent study (intervention and control patients) which will
+      leverage the infrastructure and data of an already enrolling clinical trial to fill crucial
+      knowledge gaps regarding how PARDS survivors recover from critical illness. The central
+      hypothesis is that preventing VIDD, VILI and shortening time on MV will have a measureable
+      impact on longer term function by mitigating abnormalities in pulmonary function (PFT),
+      neurocognitive function and emotional health, functional status and HRQL after ICU discharge
+      for children with PARDS.
+
+      Study Aims:
+
+      Specific Aim (SA1): To determine the frequency, severity and trajectory of recovery of PFT
+      abnormalities amongst PARDS survivors within 6 months of ICU discharge, identify risk factors
+      for their development, and determine if they are prevented by REDvent.
+
+      Specific Aim (SA2): To determine the frequency and severity of impairments in neurocognitive
+      function and emotional health amongst PARDS survivors in the first year after ICU discharge,
+      identify risk factors for their development, and determine if they may be improved by
+      REDvent.
+
+      Specific Aim (SA3): To determine the frequency, severity and trajectory of recovery of
+      respiratory and functional status and HRQL amongst PARDS survivors in the 12 months after ICU
+      discharge, identify risk factors for their development, and determine if they may be improved
+      by REDvent.
+
+      Study Design: This is a prospective observational follow-up study of children enrolled in a
+      single center randomized controlled trial (REDvent; RO1 HL134666, PI: Khemani).
+
+      Study Measurements and Outcomes: Assessments will be made serially from enrollment up to 1
+      year after ICU discharge . Data gathered from the parent REDvent study during the original
+      course of mechanical ventilation will also be used for analysis, to understand whether ICU
+      specific therapies, management strategies, or severity of illness are associated with long
+      term outcomes.
+
+      Expected Sample Size: REDvent plans to enroll 300 children over 4.5 years. 240 children are
+      expected to survive to hospital discharge, 200 (83%) are expected to consent for follow-up,
+      and allowing for 25% dropout, 150 will reach the primary follow-up endpoints.
+
+      A1.H1. At least 30% of PARDS survivors will have ventilation inhomogeneity (VI, primary
+      outcome measured with Lung Clearance Index (LCI)) which will persist 6 months after
+      discharge.
+
+      Analysis: LCI more than 7.5 will be considered abnormal for analysis, and is anticipated to
+      will occur in at least 30% of patients. This yields a 95% confidence interval from 23 to 38%
+      assuming 150 patients complete follow-up. Similar analysis is planned for secondary outcomes.
+      Analyses will be stratified by baseline pulmonary status or history of previous pulmonary
+      disease.
+
+      A1.H2. ICU management of PEEP and transpulmonary driving pressure will be independently
+      associated with VI after controlling for baseline co-morbidities and PARDS severity.
+
+      Analysis: The primary outcome for this sub aim is abnormal LCI 6 (VI) months after discharge,
+      as above. Analysis will compare median, mean, and extreme (min or max) transpulmonary
+      pressure at PEEP, plateau, and driving pressure during the acute phase of ventilation (prior
+      to the first SBT) stratified by normal or abnormal LCI. Length of exposure to these settings
+      will be modeled by including an interaction between transpulmonary pressure and length of
+      ventilation. All analyses will be adjusted with multivariable models, controlling for PARDS
+      severity, co-morbidities, and other ventilator and ancillary therapy management.
+
+      A1.H3. REDvent will be independently associated with lower VI and fewer abnormalities in
+      pulmonary function and respiratory muscle strength.
+
+      Analysis: The investigators will first analyze differences in median LCI between REDvent and
+      control patients using a Mann-Whitney U or t-test. From preliminary data, the investigators
+      anticipate a power >0.8 to detect > 10% improvement in LCI with the expected enrollment (150
+      patients). They will subsequently construct a multivariable linear regression model on LCI 6
+      months after ICU discharge to test whether REDvent management remains independently
+      associated with less VI after adjusting for short term-ICU outcome variables. In addition,
+      usual care acute phase arm (lack of REDvent exposure) will be considered as an independent
+      risk factor for abnormal VI in the multivariable logistic regression model described in
+      A1.H2.
+
+      A2.H1. At least 30% of previously unimpaired PARDS survivors will have impairment in
+      neurocognitive function 3 months after ICU discharge, and 20% will persist with deficits at 1
+      year.
+
+      Analysis: As with the previous aim, the primary outcomes are expressed as binary variables
+      for ease of interpretation. The investigators anticipate 100 previously unimpaired children
+      will complete this aim. The primary outcome is neurocognitive function using Batelle-2 or
+      WISC-5. They estimate approximately 40% of children will have impaired neurocognitive
+      function at 3 month follow-up, resulting in a 95% confidence interval from 30% to 50%.
+      Descriptive analysis will be provided by specific domain both as continuous data and
+      categorized as above. Emotional health assessments and PTS analysis will mimic what is
+      presented above for the subset with data available.
+
+      A2.H2. Duration of delirium while in the ICU will be independently associated with impaired
+      neurocognitive function.
+
+      Analysis: The primary outcomes will be categorical, evaluated 3 months after discharge. The
+      primary predictor variable is days with delirium (as identified by CAPD score > 9) modeled as
+      an ordinal variable. Additional confounding variables will be considered including length of
+      MV, illness severity, sedation doses, with selection as described in the previous aims.
+      Secondary analysis will generate a linear regression model on the continuous outcome of
+      normalized neurocognitive score from Batelle-2 or WISC-5, and will consider an interaction
+      term based on the tool used for measurement.
+
+      A2.H3. Lack REDvent exposure will be independently associated with impaired neurocognitive
+      function.
+
+      Analysis: The investigators will directly examine normalized neurocognitive score between
+      REDvent and control groups using a t-test or MWU test. The percentage of children with
+      abnormal values at 3 months will be compared between the groups with a Chi-Square test. In
+      multivariable linear regression modeling they will examine the independent relationship
+      between REDvent intervention arm and normalized neurocognitive score, using similar methods
+      as detailed above. In addition, usual care acute phase arm (lack of REDvent exposure) will be
+      considered as an independent risk factor in the multivariable logistic regression models
+      described in A2.H2.
+
+      A3.H1. At least 25% of PARDS survivors will have a new respiratory requirement, and 40% will
+      have a decline in overall functional status or a significant decrease in HRQL from baseline
+      at 3 months after ICU discharge, and at least 20% of children will persist with a deficit in
+      one of these domains at 12 months.
+
+      Analysis: As with the previous aims, the primary outcomes are expressed as binary variables
+      for ease of interpretation. However, additional analysis will consider all outcomes as
+      continuous variables. The primary outcomes under this aim consider 3 domains: 1) Functional
+      Status decline: FSS 2 or more points above (worse than) baseline 2) HRQL decline: PEDsQL 5
+      points or more below (worse than) baseline 3) New respiratory requirement (oxygen, positive
+      pressure, respiratory medications, and respiratory therapies). Based on the research
+      presented above, they estimate 40% of children will have impaired HRQL or functional status
+      at 3 month follow-up, with 95% CI ranging from 32% to 48%, and 25% of children will have a
+      new respiratory requirement, with 95% CI ranging from 18.5 to 32.4%. The same analysis will
+      be repeated at 12 month follow-up.
+
+      A3.H2. Cumulative exposure to neuromuscular blockade, corticosteroids, length of MV, and
+      delirium will be independently associated with decline in 1) functional status 2) HRQL and 3)
+      new respiratory requirement 3 months after ICU discharge after controlling for PARDS
+      severity, co-morbidities, and other confounding variables.
+
+      Analysis: The primary outcomes will be categorical, as described in the section above
+      (A3.H1), evaluated 3 months after discharge. The primary predictor variables include: days of
+      neuromuscular blockade, days receiving corticosteroids, days with delirium (CAP-D > 9120-124)
+      and days on MV, modeled as ordinal variables. Additional confounding variables will be
+      considered with selection as described in the previous aims. Multiplicative interaction terms
+      will be considered for inclusion (i.e. corticosteroids*neuromuscular blockade).
+
+      A3.H3. REDvent will be independently associated with improved recovery to baseline
+      respiratory status, functional status, and HRQL recovery 3 months after ICU discharge.
+
+      Analysis: The investigators will directly examine PEDsQL change from baseline and FSS change
+      from baseline at 3 month follow up in REDvent and control patients using Mann Whitney U
+      tests. The percentage of children reaching baseline pulmonary requirement at 3 months will be
+      compared between the previously stated groups with a Chi-Square test. In multivariable linear
+      regression modeling the investigators will examine the independent relationship between
+      REDvent intervention arms and change in FSS and HRQL outcomes using the methods detailed in
+      the previous aims. In addition, usual care acute phase arm (lack of REDvent exposure) will be
+      considered as an independent risk factor in the multivariable logistic regression models
+      described in A3.H2 on the categorical outcomes described above.
+    
+  

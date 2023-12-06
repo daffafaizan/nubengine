@@ -1,0 +1,64 @@
+
+    
+      The proposal will be conducted at six clinical sites of Columbia University Medical Center
+      (CUMC), using a customized version of our already operational technology platform. Our
+      proposed 12 month project will entail three phases: (a) 3 months of preparatory work, (b) 6
+      months of intervention rollout and (c) 3 months of data analysis and dissemination.
+
+      Preparatory work will include 3 areas:
+
+      Indepth interviews: We will conduct a series of interviews with patients and parents to
+      understand their perspective on vaccine safety and Flunet. We will also interview a sample of
+      providers to understand the most effective way for service promotion among providers. Design
+      of registration process and messages: We will use patient/parental feedback to refine
+      critical parts of the implementation, such as the registration process and the messages
+      (content, frequency, format) to maximize response rates and the quality of information
+      collected, which will be piloted in the next phase.
+
+      Technology set up and testing will occur prior to roll out in a HIPAA compliant data center.
+      The intervention rollout will begin with a 6week refinement period. The primary goals of the
+      refinement period are to: (1) validate/improve the methodology (e.g. registration, logic and
+      content of the interactive menus, data collection process (2) test the application and
+      infrastructure required for the full roll out (3) refine logistic details, such as printed
+      materials for patients and providers. We will interview 25 patients to learn about their
+      experience using Flunet. We will also evaluate the operations, technology and clinical
+      findings from the intervention and incorporate any adjustments needed. After the refinement
+      period, we will continue to monitor the systems and operations on an ongoing basis. All
+      patients receiving a vaccine(vaccinees) will be offered the service. For children <18 years
+      of age, a parent or guardian (parent) will be offered the service. By calling a registration
+      number vaccinees/parents will agree to receive a series of text messages following up on the
+      vaccinee's health.
+
+      Participating locations will include five community health centers and one hospital-based
+      clinic, affiliated with New York Presbyterian Hospital Ambulatory Care Network (ACN) and
+      Columbia University. These clinics include general pediatric, general medicine, Obstetric
+      Gynecology(OBGYN)and family medicine patients. These sites are all in Health Professional
+      Shortage Areas (HPSA).
+
+      Design and preparatory phase (months 13):
+
+      Preparatory work for implementing Flunet entails the 3 main activities: (a) Patient and
+      provider interviews (b)Technology setup and (c) Logistic tasks.
+
+      Rollout Phase (months 39):
+
+      The roll out will entail the 3 key activities: (a) Vaccinee enrollment/registration; (b)
+      Service delivery; (c) Refinement period and final evaluations (at 6 weeks and at the
+      intervention end). At the beginning, we will conduct a 6 week refinement phase to validate
+      and improve the initial design(e.g. registration methodology, best sequence and content of
+      the interactive messages, data collection process).
+
+      The key component of the intervention is the text messaging exchange of information between
+      our system and vaccinees. Information will comprise the following topics: (a) adverse events
+      and (b) additional messages(primarily health tips for the influenza season). We will send a
+      registration message and weekly messages through 6 weeks post-immunization. The first message
+      will be sent at enrollment. Messages monitoring AEs will be sent at week 1, 2, 4, and 6, and
+      messages containing tips and education at weeks 3 and 5. All messages detailed below are
+      preliminary and will be modified based on feedback from vaccinees/parents obtained from the
+      patient interviews. Messages are sent in the language selected during the telephone sign up.
+      Additional questions will be asked only to patients reporting AEs. Messages that may trigger
+      a reply will be designed so that vaccinees'/parents' responses are automatically parsed and
+      replied to using a rules-based algorithm. Final messages will be based on focus group and
+      interviews.
+    
+  

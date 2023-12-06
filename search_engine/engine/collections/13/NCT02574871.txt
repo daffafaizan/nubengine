@@ -1,0 +1,42 @@
+
+    
+      According to the WHO (World Health Organization) the stress has become a worldwide epidemic
+      and has been considered as the disease of the century, attaining people of different ages and
+      occupations. Stress is defined as a pressure or tension, of a physical, mental or emotional
+      type, which overwhelms the individual and adversely affects the performance of his physical
+      and intellectual functions. When stress is prolonged, the immune system is affected, leaving
+      the body subject to disease and premature aging. Among the psychophysiological reactions
+      associated with excessive stress are chronic fatigue, ulcers, depression, hypertension and
+      heart attack. In light of these consequences, it is important that measures are taken to
+      early identifying the symptoms of stress, allowing people to be properly treated and resume
+      their normal activities.
+
+      The studies presented in literature suggest the possibility of using biological signals as
+      indicators of the presence of stress. In these studies, certain physiological variables are
+      measured and related to this stress on the individual. However, most previous studies focused
+      on acute stress, meaning that short-lived. The objective of this study was to relate certain
+      physiological indicators with the presence of chronic stress, ie that long-lasting and often
+      not perceived by the individual.
+
+      To this end, the investigators performed the measurement of blood pressure values, skin
+      temperature, galvanic skin response and heart rate variability, and compared with the results
+      provided by the ISSL (Lipp's Inventory of Stress Symptoms for Adults), PSS (Perceived Stress
+      Scale) and SRRS (Social Readjustment Rating Scale), as the stress condition of the
+      individual. The heart rate variability was checked in both time and frequency domain. All of
+      the physiological signals were monitored by non-invasive and non-intrusive sensors and
+      totally safe for participants.
+
+      To investigate the relationship between the physiological variables and the existing chronic
+      stress condition the investigators used an algorithm for analysis of biological signals based
+      on Multilayer Perceptron Neural Network with Backpropagation Algorithm (MLP) and Principal
+      Components Analysis (PCA). To evaluate the performance of the classifier on the
+      identification of chronic stress the investigators check the indicators of precision,
+      sensitivity, specificity and accuracy. The results were then analyzed by Receiver Operating
+      Characteristic Curves (ROC).
+
+      Ethical approval was obtained from the Local Ethics Committee (CAAE-28201014.2.0000.5497) for
+      the participants. They had been informed about the methodology and confidentiality of their
+      personal information. All procedures were performed after written informed consent from all
+      participants. Data collection was completed in October 2014.
+    
+  

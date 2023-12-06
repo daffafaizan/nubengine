@@ -1,0 +1,36 @@
+
+    
+      Certain investigational agents have been described in observational series or are being used
+      anecdotally based on in vitro or extrapolated evidence. It is important to acknowledge that
+      there are no controlled data supporting the use of any of these agents, and their efficacy
+      for COVID-19 is unknown. FDA-approved drugs such as chloroquine/hydroxychloroquine,
+      lopinavir/ritonavir, monoclonal IL-6 antibodies, JAK inhibitors, thalidomide and the new
+      investigational drug, remdesivir have been proposed for repurposing to fight COVID-19 and its
+      complications.
+
+      A medication risk stratification strategy will be used to simulate the impacts of different
+      potential repurposed drugs for COVID-19 on the Medication Risk Score (MRS) which is used as a
+      predictive tool for ADEs. A retrospective study will be conducted using de-identified drug
+      claims data of elderly patients with polypharmacy.
+
+      Patients meeting all the following criteria will be included:
+
+        1. Patient enrolled in a PACE organization during the implementation period;
+
+        2. PACE organization contractually receiving pharmacy services from CareKinesis;
+
+      Exclusion Criteria
+
+      a) No drug claims data available for the period of 2019-2020
+
+      This retrospective cohort will utilize 178,867 drug claims from approximately 12,123 patients
+      enrolled in PACE. MRS will be calculated using the last available 3-month period of drug
+      claims in 2019. The data elements required for the calculation of the full set of risk scores
+      are: prescribed drugs, dose, age, gender. Medication risk stratification using 5 factors will
+      be performed to obtain the MRS. Various repurposed drugs (drugs associated with the highest
+      probability or efficacy or shown interest as per their inclusion in current clinical trials
+      will be prioritized) will be added to the patient drug regimen except for the patients that
+      are currently taking the repurposed drug. A new MRS will be generated for all stratified
+      patients.
+    
+  

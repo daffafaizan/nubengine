@@ -1,0 +1,45 @@
+
+    
+      The investigator proposes a randomized controlled clinical trial to be attended by
+      adolescents who are in the process of re-establishing their rights with the Colombian Family
+      Welfare Institute. The study team will compare the genome methylation states of saliva
+      samples from a group of 21 adolescents (children, ages 13 to 16), [both] before and after an
+      8-day residential intervention (IP-Colombia psychotherapeutic program). A randomized control
+      group (waitlist) (n=21) will be included, from which baseline samples and samples after 8
+      days in their usual living conditions will be collected. For randomization, the evaluation of
+      exposure to stress during childhood will be measured by using a questionnaire on adverse
+      experiences.
+
+      The IP-Colombia program is a multi-component intervention carried out in the context of
+      therapeutic camp, based on Eye Movement Desensitization and Reprocessing (EMDR) therapies and
+      mindfulness-based interventions. Alongside the interventions, activities are done to
+      facilitate healthy lifestyles, empathy, [and] the recognition and expression of emotions
+      through exercise, art workshops, musical creation, dance and theater. Previous studies
+      carried out by the Colombia Innocence in Danger Foundation have shown the significant effects
+      of the IP-Colombia protocol in the treatment of children with post-traumatic stress disorder
+      associated with severe interpersonal violence. The Colombia Innocence in Danger Foundation
+      team, which has 10 years of experience with this intervention that has benefited around 380
+      boys, girls, and teenagers, will be responsible for this intervention.
+
+      The molecular analysis will be coordinated by Dr. Perla Kaliman, a collaborating researcher
+      at the Center for Healthy Minds at the University of Wisconsin-Madison, directed by Dr.
+      Richard Davidson. Dr. Kaliman, in collaboration with Dr. Davidson, has conducted the first
+      studies showing the epigenetic effects of stress-reduction interventions. The DNA processing
+      and methylome analysis will be carried out at the University of Wisconsin-Madison, in Dr.
+      Reid Alisch's laboratory [by] a team recognized worldwide for its experience in the
+      epigenetics of adverse experiences in young people.
+
+      The saliva samples will be collected in duplicate, using Oragene kits for DNA methylation
+      analysis (DNA Genotek, Canada). The samples will be sent immediately after collection at room
+      temperature to the Center for Healthy Minds (Madison, Wisconsin).
+
+      The DNA will be extracted using the Qiagen kit for human saliva samples, following the
+      manufacturer's protocol. The genomic DNA samples will be analyzed in a 1% agarose gel, to
+      verify that the DNA is of high molecular weight, and they will be quantified using Qubit
+      (Qiagen, USA). DNA methylation levels will be determined using the HumanMethylation450
+      (Illumina) and the beta values will be obtained using the R min package. Methylation data
+      that correspond to the methylation in a Single nucleotide polymorphism (SNP) will be
+      eliminated from the analysis if they contain a SNP within the probe, if they are known to
+      cross-react, or if a sample has a detection P-value > 0.01.
+    
+  

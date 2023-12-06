@@ -1,0 +1,26 @@
+
+    
+      Brain Computer Interface (BCI) using Motor execution and Motor Imagery are known to aid motor
+      recovery in stroke. The purpose of this study is to demonstrate that Noninvasive Sensorimotor
+      Rhythm (SMR) based EEG based BCI using motor execution and Motor Imagery tasks can aid in
+      rehabilitation of upper limb movements in chronic stroke.
+
+      The project aims to explore an SMR-based BCI system that can exploit the sensorimotor rhythm
+      voluntary modulation to play a virtual game as neurofeedback using motor executory tasks and
+      imagined hand movements by stroke patients, who suffer from upper limb disability. Studies
+      have shown that movement and motor imagery (MI) (i.e., the mental rehearsal of a movement
+      without any activation of the muscles) induce similar EEG patterns over the motor cortex.
+
+      Movement execution, preparation and even observation are usually accompanied by a decrease in
+      µ- and β-rhythm in the cortical area representing the involved body segment. Such a reduction
+      is called event-related desynchronization (ERD).The increase in µ-rhythm, i.e. event-related
+      synchronization (ERS), is observed in the regions of the brain representing body segments,
+      which are not involved in the task.This study is a pilot study to examine the feasibility of
+      a SMR based EEG BCI using motor task and motor imagery and involve a gaming feedback for
+      same.
+
+      The first two days will be used for calibrating the BMI using commands in computer screen
+      followed by further two days for testing the BMI and feedback control during gaming in
+      computer to move the ball in the computer screen.
+    
+  

@@ -1,0 +1,25 @@
+
+    
+      European guidelines recommend that mammography exams in breast cancer screening are read by
+      two breast radiologists to ensure a high sensitivity. Double reading is, however, resource
+      demanding and still results in missed cancers. Computer-aided detection based on AI has been
+      shown to have similar accuracy as an average breast radiologist. AI can be used as decision
+      support by highlighting suspicious findings in the image as well as a means to triage screen
+      exams according to risk of malignancy.
+
+      Eligible women will be randomized (1:1) to the intervention (AI-integrated mammography
+      screening) or control arm (conventional mammography screening). In the intervention arm,
+      exams will be analysed with AI and triaged into two groups based on risk of malignancy. Low
+      risk exams will be single read and high risk exams will be double read. The high risk group
+      will contain appx. 10% of the screening population. Within the high-risk group, exams with
+      the highest 1% risk will by default be recalled by the readers with the exception of obvious
+      false positives. AI risk scores and Computer-Aided Detection (CAD)-marks of suspicious
+      calcifications and masses are provided to the reader(s). In the control arm, screen exams are
+      double read without AI (standard of care). Considering the interplay of number of interval
+      cancers and workload, the study will be considered successful if the interval-cancer rate in
+      the intervention arm is not more than 20% larger than in the control arm. If the
+      interval-cancer rate is statistically and clinically significantly lower in the intervention
+      arm than in the control arm, AI-integrated mammography screening will be considered superior
+      to conventional mammography screening.
+    
+  

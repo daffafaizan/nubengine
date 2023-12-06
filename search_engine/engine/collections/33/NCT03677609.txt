@@ -1,0 +1,255 @@
+
+    
+      Healthcare providers at four Stanford clinic sites will be the investigators' main
+      participants and the study will follow a wait-list control design. The investigators will
+      track patient health outcomes.
+
+      The intervention described in this study will only be for the healthcare team. The
+      investigators will track both provider outcomes (using self-report survey measures) and
+      patient outcomes (using health information already being collected by the clinic). Although
+      the investigators will be tracking the outcomes of all physicians at the clinics, only select
+      patient outcomes will be included as part of the study.
+
+      The study will begin with the care team filling out baseline self-report surveys online
+      and/or in person.
+
+      Prior to delivering the intervention, the clinics will be split, and half of the clinic sites
+      will be assigned to be wait-list control clinics, while the other half of sites will receive
+      the mindset training.
+
+      The intervention for the care team will be delivered in person by members of the research
+      team. The care team will be told that the investigators are assessing the impact of a novel
+      training program for providers.The care team will truthfully be informed that the training
+      they are receiving is designed to enhance their interactions with patients.
+
+      Questionnaires:
+
+      The care team: Physicians will be asked to fill out an initial brief survey about their
+      mindsets about connecting with patients, burnout, job satisfaction, and their efficacy using
+      harnessing mindsets in clinical practice. Care team members will then be asked to fill out
+      the same survey after receiving their training.
+
+      Charts will be reviewed to assess patient health outcomes. Data from the electronic medical
+      record will be used to assess patient health outcomes at all clinics.
+
+      Overview of Expected Outcomes: This training was designed to improve care teams' ability to
+      shape patient mindsets in clinical care, and therefore influence patient outcomes in the
+      following ways:
+
+        1. Increase adherence to medication, screening, and vaccination recommendations. When care
+           teams are better able to instill the mindset that treatment is likely to be beneficial
+           and not harmful, patients will be more motivated to adhere to treatment recommendations.
+           When care teams are better able to instill the mindset that patients are in good hands
+           (e.g. the provider/care team is both warm/"gets them" and competent/"gets it"), patients
+           will trust recommendations more and be more likely to follow through with them.
+
+        2. Reduce unnecessary antibiotic use. When care teams are better able to instill the
+           mindsets that an illness is manageable and the patient's body is capable, patients will
+           be more likely to believe care teams when they say antibiotics are unnecessary (e.g. in
+           the case of colds or certain respiratory illnesses), thereby reducing overall antibiotic
+           usage.
+
+        3. Improve health outcomes for patients with chronic illness. When care teams are better
+           able to instill the mindsets that chronic illness is manageable, that patients' bodies
+           are capable, that treatment is likely to be effective, and that they are in good hands,
+           patients will be more likely to manage their chronic illness through both medication and
+           lifestyle change, which will lead to improved health outcomes for these patients.
+
+      Outcome Computation Plans for Requested Data:
+
+      To assess the impact of the training, we will review patient-level primary care data from
+      January 1, 2016-June 1, 2020. Using the data requested, we will compute outcomes for each of
+      the three broad categories as follows. We will compare outcomes within each clinic before and
+      after the training was implemented, and will also compare outcomes at the two initial
+      intervention clinics to outcomes at the two initial-wait list clinics during the time period
+      in which two of the clinics had received the training and two had not.
+
+        1. Increase Adherence
+
+           Prescription fills, refills, & discontinuations Refill requests will serve as a proxy
+           measure for whether patients are taking their medications as prescribed.
+
+           • Medications of interest:
+
+           Prescriptions fills, refills, & discontinuations for medications for chronic disease
+           management medications such as:
+
+           o Antidepressants
+
+           • SSRIs & SNIs
+
+             -  Statins
+
+             -  Hypertension medication
+
+                • Beta blockers
+
+                  -  Ace inhibitors
+
+                  -  Calcium Channel Blockers
+
+                  -  Thiazide diuretics
+
+                  -  All common blood pressure medications
+
+             -  Diabetic medications
+
+                • Variable(s) we will compute:
+
+             -  We will compute the percentage of patients who re-fill new prescriptions.
+
+                  -  Denominator: Patients who have received a new prescription for one of the
+                     medications listed above. New prescriptions will be defined as any
+                     prescription not previously given in the past year (we will exclude patients
+                     for whom this is their first visit to this provider). Patients who are
+                     receiving a different prescription for the same condition will count as new
+                     prescriptions.
+
+                  -  Numerator: Patients from the above group who requested a refill request for
+                     their eligible prescription within one year after the clinic visit.
+
+             -  If possible, we will also use pharmacy data to assess the number of patients who
+                fill the new prescription initially.
+
+             -  If possible, we will also assess the number of patients whose medication is
+                discontinued because the patient stopped taking the medication.
+
+           Follow-up lab visit for patients with diabetes Patients with uncontrolled diabetes are
+           recommended to have lab work every 3 months, and patients with controlled diabetes are
+           recommended to have lab work every 6 months. Completion of such lab visits is an
+           indication of adherence.
+
+           • Variables we will compute:
+
+             -  We will compute the percentage of patients with uncontrolled diabetes (defined as
+                A1c > 8 or A1c > 9) coming in for lab work follow ups within 5 months after clinic
+                visit.
+
+                  -  Denominator: Patients with uncontrolled diabetes
+
+                  -  Numerator: Patients from the above group who come in for lab work within 5
+                     months after clinic visit
+
+             -  We will compute the percentage of patients with controlled diabetes (defined as 6.5
+                < A1c < 8 or 6.5 < A1c < 9) coming in for lab work follow ups within 12 months
+                after clinic visit.
+
+                  -  Denominator: Patients with controlled diabetes
+
+                  -  Numerator: Patients from the above group who come in for lab work within 12
+                     months after clinic visit
+
+           Referral adherence When providers refer patients for diagnostic screenings such as
+           Colonoscopy, Fit or Mammograms, completion of these referrals is a sign of adherence.
+
+             -  Variables we will compute:
+
+                o We will compute the percentage of patients following through with recommended
+                screening referrals.
+
+             -  Denominator: Patients who are referred for Colonoscopy, Fit, or Mammogram.
+
+             -  Numerator: Patients from the above group who completed their screening within 6
+                months of order date
+
+           Vaccine adherence Pneummococcol vaccinations are recommended to patients ages 65 and
+           older. Completed pneummococcol vaccinations are an indication of patient adherence to
+           provider recommendations.
+
+             -  Variables we will compute:
+
+                o We will compute the percentage of patients 65 and older who received the
+                pneumococcol vaccination.
+
+             -  Denominator: Patients in the clinic who are 65 and older
+
+             -  Numerator: Patients from the above group who completed the pneumococcol vaccination
+                within 6 months of visit
+
+                o We will compute the percentage of patients aged 65-67, who are newly eligible to
+                receive the pneumococcol vaccination, who received the pneumococcol vaccination.
+
+             -  Denominator: Patients in the clinic who are between 65 and 67 years of age
+
+             -  Numerator: Patients from the above group who completed the pneumococcol vaccination
+                within 6 months of visit
+
+        2. Reduce antibiotic use
+
+           Reduction in antibiotic prescriptions While in most cases we hope to increase adherence
+           to medication prescriptions, there are many cases in which antibiotics are unnecessary.
+           For example, antibiotics are often unnecessarily prescribed for common colds,
+           bronchitis, chest colds, flu, and sore throats. A 2016 CDC report found that an
+           estimated 30% of antibiotics prescribed in outpatient settings are unnecessary. In order
+           to combat antibiotic resistant bacteria, the CDC set a 2015 goal to reduce inappropriate
+           antibiotic use in outpatient settings by 50% by 2020. Thus, reduction in overall
+           antibiotic use is a desirable outcome.
+
+           ● Variable(s) we will compute:
+
+             -  We will compute overall antibiotic prescriptions by looking at the number of
+                patients prescribed antibiotics at clinic visits.
+
+                  -  Denominator: Number of clinic encounters
+
+                  -  Numerator: Number of antibiotics prescribed
+
+             -  We will compute antibiotic prescriptions for respiratory illness by looking at the
+                number of patients with respiratory illnesses prescribed antibiotics at clinic
+                visits.
+
+                  -  Denominator: Number of encounters with respiratory illness diagnoses
+                     (including bronchitis and cough/congestion)
+
+                  -  Numerator: Number of antibiotics prescribed at the above encounters
+
+        3. Improve health outcomes
+
+           Reduction in patient BMI Reduction in BMI for patients who are overweight is an
+           indication of improved health outcomes.
+
+           ● Variable(s) we will compute:
+
+             -  Overall reduction in BMI for patients who are overweight
+
+                ▪ First we will select patients with a BMI > 25
+
+                ▪ Then we will compute change in BMI between visits for these patients.
+
+             -  Reduction in BMI for patients with diabetes
+
+                  -  First we will select patients who have a diagnosis of diabetes and have a BMI
+                     > 25
+
+                  -  Then we will compute change in BMI between visits for these patients.
+
+           Reduction in patient blood pressure Reduction in blood pressure for patients with
+           hypertension is an indication of improved health outcomes.
+
+             -  Variable(s) we will compute:
+
+                  -  Overall reduction in systolic blood pressure for patients with hypertension ▪
+                     First we will select patients with a diagnosis of hypertension ▪ Then we will
+                     compute change in blood pressure between visits for the above patients
+
+                  -  Overall reduction in systolic blood pressure for patients with uncontrolled
+                     hypertension ▪ First we will select patients with blood pressure > 140/90 ▪
+                     Then we will compute change in blood pressure between visits for the above
+                     patients
+
+           Reduction in patient A1c levels Improved A1c control for patients with diabetes is an
+           indication of improved health outcomes.
+
+           ● Variables we will compute:
+
+             -  Overall reduction in A1c for patients with diabetes
+
+                ▪ First we will select patients with a diagnosis of diabetes
+
+                ▪ Then we will compute change in A1c between visits for the above
+
+             -  Reduction in A1c for patients with uncontrolled diabetes ▪ First we will select
+                patients with uncontrolled diabetes (A1c > 8 or A1c > 9) ▪ Then we will compute
+                change in A1c between visits for the above patients
+    
+  

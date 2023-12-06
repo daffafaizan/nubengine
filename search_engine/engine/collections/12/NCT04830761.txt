@@ -1,0 +1,188 @@
+
+    
+      Study design:
+
+      In this study, the MOST methodology (multiphase optimization strategy; Collins et al., 2014)
+      will be applied. First, the most effective intervention components for specific target groups
+      will be determined, which is called the optimisation phase. To this end, we run a parallel
+      randomized trial that investigates all combinations of three interventions modules (= 9
+      combinations) in terms of its usability and its effectiveness.
+
+      To collect in-depth information about usability and feasibility, we will additionally run a
+      qualitative survey with a small subsample of the trial.
+
+      After this optimisation phase, the intervention's effectiveness will be tested against a
+      control group in a randomized controlled trial, which is called the evaluation phase.
+
+      For the optimisation phase, participants will be randomly assigned to one of nine conditions.
+      All participants are randomized into one of nine intervention group in a 1:1:1:1:1:1:1:1
+      ratio. For the randomization, an even randomization procedure is applied using Qualtrics.
+      Because the randomization is even, the probability is fixed if the number of the participants
+      can be divided by 9, it means that at the end we will have exactly even number of
+      participants in each group.
+
+      In the evaluation phase, the optimised intervention from the optimisation phase will be
+      tested in an RCT. To this end, participants will be randomly assigned to one of two
+      conditions: final intervention vs. control group (TAU). The control group will not be given
+      access to the final intervention. Nonetheless, they will be working with the study
+      application for answering the three questionnaires (pre-test, post-test, follow-up) and the
+      short questionnaires (diary days). The control group will further have access to the public
+      information concerning the FOPHs recommendations on hand hygiene.
+
+      Recruitment and informed consent procedure:
+
+      The sample will be recruited via Facebook and Instagram. Those who click on the link of the
+      campaign will lead to a landing page with the relevant study information. Here, participants
+      read the study info and enter their e-mail address. When they click on "send", an info box
+      explains that an email has been sent including the link to the actual study.
+
+      In the mail, the participants can access via link to an eligibility and consent survey with
+      detailed information about the nature of the study (=optimization and evaluation phase), its
+      purpose, the procedures involved, the expected duration, the potential risks and benefits,
+      any discomfort it may entail and finally an e-consent form to give consent to the study
+      electronically. If people meet all inclusion criteria, the participants can directly sign
+      with the mouse (on computer) or finger (on mobile device) the consent form.
+
+      After the participants agree to participate in the study, they receive a registration code
+      via e-Mail to participate in the study as well as a signed copy of the consent form (at the
+      latest of one week after giving consent electronically).
+
+      In the mail, the participants are guided to download the app "soapp" from their app store
+      with the registration code. After downloading the app, they have to register and tip in the
+      registration code. After that, they start with the first questionnaire T1 (optimization
+      phase) or pre-test (evaluation phase).
+
+      Study procedure:
+
+      The duration of the study is 5 weeks (optimisation phase) plus a 6-month follow-up in the
+      evaluation phase. Each participant receives two different intervention modules which each
+      last 2 weeks.
+
+      After downloading the study app, the participants receive the first baseline questionnaire
+      (T1 or pre-test).
+
+      Optimization phase: The day after T1, people attend a diary day. The diary day includes five
+      1-minute-questionnaires during one day. People will be informed that the intervention starts
+      on the subsequent day after the diary day. The intervention will take four weeks and includes
+      two modules. During the first module, people will attend another diary day at the end of each
+      week (2 in total during one module). On the subsequent day of the last dairy day of the first
+      module, people will receive the second questionnaire (T2). After T2, the second intervention
+      module follows in the same structure: The participants follow the instructions of the
+      intervention and their hand hygiene behaviour is surveyed on the last day of each week using
+      the short questionnaire within the diary day. A day after the participants completed the last
+      diary day and with that the second module, they receive the last questionnaire (T3).
+      Additionally, to the normal questionnaire, the participants can indicate at T3, whether they
+      are willing to take part in a qualitative survey. Here, people will be interviewed via
+      telephone by a study member. This interview will take around 30 minutes for the participants,
+      where they will be asked questions about the usability of the app and their experience with
+      the intervention modules. This information will be used to improve the study app before
+      starting with the evaluation phase. By the end of the study, the participants will have
+      completed three questionnaires (T1-T3) and five short-questionnaires.
+
+      Evaluation phase: The day after the pre-test questionnaire, people attend a diary day to
+      assess their previous hand hygiene behaviour. People will be informed that the intervention
+      starts on the subsequent day after the diary day. The intervention will run for four weeks.
+      During these four weeks, people will attend another diary day at the end of each week (4 in
+      total during the total intervention). A day after the last diary day of the intervention,
+      participants are asked to fill in the second questionnaire (post-test). In the evaluation
+      phase, the participants will receive a six-month follow-up. They will first attend a diary
+      day after 6 months after the intervention started and will then receive the follow-up
+      questionnaire the subsequent day. By the end of the study, the participants will have
+      completed three questionnaires (pre-test, post-test, follow-up) and six short-questionnaires.
+
+      Hypotheses:
+
+      Optimisation:
+
+      Hyp.1: The intervention groups show a significant increase in correct hand hygiene behaviour
+      at key times (T3).
+
+      Hyp.2: The intervention groups significantly differ in their effects on correct hand hygiene
+      behaviour at key times (T1-T3).
+
+      Hyp.3. The intervention groups show a significant increase in (not correct) hand hygiene
+      behaviour at key times (T3).
+
+      Hyp.4. The groups attending a motivation module show a significant increase in a) intention,
+      b) self-efficacy, c) outcome expectancies and d) attitude from T1 to the post measures.
+
+      Hyp.5. The groups attending a habit module show a significant increase in a) habit strength,
+      b) action control, and c) planning from T1 to the post measures.
+
+      Hyp.6. The groups attending a social norms module show a significant increase in a)
+      injunctive norms and b) descriptive norms from T1 to the post measures.
+
+      Evaluation:
+
+      Hyp. 7. The intervention group show a greater increase in correct hand hygiene behaviour at
+      key times at the post measure (H7a) and at 6-month follow-up (H7b) compared to the control
+      group.
+
+      Hyp. 8 The intervention group show a significant increase in the targeted behavioural
+      determinants that are included compared to the control group at the post-intervention measure
+      (H8a) and at 6-month follow-up (H8b). [the exact behavioural determinants depend on the
+      results of the optimisation phase].
+
+      Statistics:
+
+      In the optimisation phase, 387 subjects are to be randomized. This sample size was determined
+      with an a priori power analysis with g*power (Faul et al., 2009). The aim is that a
+      statistical analysis using repeated-measures ANOVA with a within-between-interaction with a
+      power of 0.80 and α = 0.05, a small effect of f =0.1 should be detectable. Accounting for 20%
+      attrition, this leads to N = 465 for the enrolment in the parallel control trial.
+
+      In the evaluation phase, 204 new subjects are to be randomized. The aim is that that a
+      statistical analysis using an independent samples t-test adopting an error probability and
+      statistical power of α = 0.05 and β = 0.80, at least a small intermediate intervention effect
+      of Cohen's d = 0.35 should be detectable (Faul et al., 2007). Accounting for 20% attrition,
+      this leads to N = 245 for the enrolment in the RCT.
+
+      There is no statistical criterion of termination of trial. If more participate are included
+      in the study than 387 people in the optimisation phase and 204 people in the evaluation
+      phase, the results can be examined in more detail and more complex contexts in terms of
+      differential indication can be examined thereby helping to improve the intervention.
+
+      Planned Analyses:
+
+      The analysed sample includes all randomized participants. The analyses are carried out on the
+      basis of the intention-to-treat approach.
+
+      In the optimisation phase, the primary analyses will be conducted (T1-T3) to test the
+      hypotheses using R and SPSS after 387 participants have completed the study.
+
+      To address the primary research question, the main effect of a univariate analysis of
+      variance with repeated measures will be analysed. After, post-hoc comparison analyses with
+      independent t-test will be conducted between all groups. Last, multiple linear regression
+      analyses will be conducted to test the effect of the targeted behavioural determinants on the
+      outcome.
+
+      In the evaluation phase, the primary analyses will be conducted (pre-test, post-test,
+      follow-up) to test the hypotheses using R and SPSS after 204 participants have completed the
+      study. Secondary follow-up analyses will be conducted six months later. Multiple linear
+      regression analyses will be conducted to test the effect of the targeted behavioural
+      determinants on the outcome and to test mediation hypotheses.
+
+      The qualitative data in the optimisation phase are analysed by using thematic analysis (Braun
+      & Clarke, 2006).
+
+      No interim analyses or safety analyses are planned. Deviations from the planned analyses will
+      be reported in the final report.
+
+      Handling of missing data and drop-outs:
+
+      The main analysis will be performed according to the intention-to-treat (ITT) principle. The
+      ITT analysis includes every subject who is randomized according to randomized study group. It
+      ignores noncompliance, protocol deviations as not adhering to the intervention modules, and
+      anything that happens after randomization. Participants who withdrew consent are excluded
+      from ITT analysis. ITT analysis avoids overoptimistic estimates of the efficacy of an
+      intervention resulting from the removal of non-compliers by accepting that noncompliance and
+      protocol deviations are likely to occur in practice.
+
+      To analyse our hypotheses and research questions, we follow-the ITT analysis strategy. This
+      includes: 1) Attempt to follow up all randomized individuals, even if they withdraw from
+      allocated group. 2) Perform a main analysis that is valid under a plausible assumption about
+      the missing data and that uses all observed data 3) Perform sensitivity analyses to explore
+      the impact of departures from the assumption made in the main analysis 4) Account for all
+      randomized individuals, at least in the sensitivity analyses.
+    
+  

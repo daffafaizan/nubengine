@@ -1,0 +1,17 @@
+
+    
+      The development of a new automated method of measurement of the volume of the hippocampus
+      allows confirming these results in patients presenting with pre-dementia Alzheimer's Disease
+      (AD), treated with donepezil in order to verify if this product is capable of stopping the
+      speed of the atrophy of the hippocampus in patients and more specifically in those who will
+      evolve to AD, compared to a placebo. This method is a semi automatic segmentation of the
+      hippocampus from MRI, made by competitive region growing.
+
+      It was developed at the cognitive neurosciences and MRI laboratory in Pitié-Salpêtrière
+      hospital. This method was validated on healthy subjects and Alzheimer's disease patients by
+      comparison with manual segmentation.
+
+      Neuropsychological tests will be realized in order to supervise the clinical evolution of the
+      patients and to correlate these results to the progression of the atrophy of the hippocampus.
+    
+  

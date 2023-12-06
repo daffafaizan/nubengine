@@ -1,0 +1,131 @@
+
+    
+      Subjects and methods:
+
+      A. Cross-sectional study:
+
+      Patients with obesity previously scheduled at the Service of Endocrinology, Diabetes and
+      Nutrition (UDEN) of the Hospital "Dr. Josep Trueta" of Girona (Spain) will be recruited and
+      studied. Subjects without obesity will also be recruited through a public announcement.
+
+      A blood glucose sensor will be implanted for ten days, as well as a physical activity monitor
+      to record physical activity during this period of time. Interstitial subcutaneous glucose
+      concentrations will be monitored on an outpatient basis for a period of time of 10
+      consecutive days using a glucose sensor validated by the FDA (Dexcom G6 ®). The sensor will
+      be implanted in on day 0 and will retire on day 10 midmorning. Glucose records will
+      preferably be evaluated on days 2 to 9 to avoid the bias caused by the insertion and removal
+      of the sensor, which prevents a sufficient stabilization of the monitoring system. The
+      characteristic glycemic pattern of each patient will be calculated on average from the
+      profiles obtained on days 2 to 9.
+
+      At the end of the week an magnetic resonance imaging will be done to evaluate the iron
+      content in the brain and parameters of "Diffusion Tensor Imaging" in different brain
+      territories.
+
+      Cognitive tests will be carried out and feces will be collected for the study of the
+      microbiota.
+
+      The project will be carried out in subjects with obesity (20 men, 20 premenopausal women and
+      20 women postmenopausal, BMI > = 30kg/m2) and subjects without obesity, similar in age, sex
+      and menopausal status (20 men, 20 premenopausal women and 20 postmenopausal women, BMI
+      <30kg/m2).
+
+      B. Longitudinal study:
+
+      After one year of follow-up, in which, subjects with obesity will undergo conventional
+      treatment (hypocaloric diet and physical activity advise) or bariatric surgery for weight
+      loss, a second visit will be carried out.
+
+      For comparison, the same protocol of the cross-sectional study will be done again. See
+      information above.
+
+      Data collection of subjects of cross-sectional and longitudinal studies:
+
+        -  Subsidiary data: Age, sex and birth date.
+
+        -  Clinical variables: Weight, height, body mass index, waist and hip perimeters,
+           waist-to-hip ratio, blood pressure (systolic and diastolic), fat mass and fat free-mass
+           (bioelectric impedance and DEXA), smoking status, alcohol intake, registry of usual
+           medicines and registry of antecedent relatives with obesity, diabetes and comorbidities.
+
+        -  Laboratory variables: 15cc of blood will be extracted from fasted subjects to determine
+           the following variables using the usual routine techniques of the clinical laboratory
+           (hemogram, glucose, bilirubin, aspartate aminotransferase (AST/GOT), alanine
+           aminotransferase (ALT/GPT), gamma-glutamyl transpeptidase (GGT), urea, creatinine, uric
+           acid, total proteins, albumin, total cholesterol, HDL cholesterol, LDL cholesterol,
+           triglycerides, glycated haemoglobin (HbA1c), ferritin, soluble transferrin receptor,
+           ultrasensitive C reactive protein, erythrocyte sedimentation rate, lipopolysaccharide
+           binding protein, free thyroxine (free T4), thyroid stimulating hormone (TSH) and
+           baseline cortisol). An additional 15cc of blood (plasma-EDTA) will be extracted for
+           further analyses.
+
+        -  Stool samples collection: A stool sample will be provided from each patient. The sample
+           should be collected at home or in the hospital, sent to the laboratory within 4 hours
+           from the collection, fragmented and stored at -80ºC.
+
+        -  Magnetic Resonance Imaging: All MRI examinations will be performed on a 1.5-T scanner
+           (Ingenia ®; Philips Medical Systems). First, fluid-attenuated inversion recovery (FLAIR)
+           sequence will be used to exclude subjects with preexisting brain lesions. Brain iron
+           load will be assessed by means of R2* values. T2* relaxation data will be acquired with
+           a multi-echo gradient-echo sequence with 10 equally spaced echoes (first echo=4.6ms;
+           inter echo spacing=4.6ms; repetition time=1300ms). T2* will be calculated by fitting the
+           single exponential terms to the signal decay curves of the respective multi-echo
+           data.R2* values will be calculated as R2*=1/T2* and expressed as Hz. In addition, R2*
+           values will be converted to μmol Fe/g units as previously validated on phantom tests.
+           Brain iron images from control subjects will be normalized to a standard space using a
+           template image for this purpose (EPI MNI template). Subsequently, all normalized images
+           will be averaged for the determination of normal iron content. Normal values (mean and
+           SD) will be also calculated for anatomical regions of interest using different atlas
+           masks, addressing possible differences between gender and age. The brain iron comparison
+           between control and obese subjects will be performed using voxel-based analysis.
+           Obese-subjects images will be normalized to a standard space. The normalized image will
+           be compared to normal population using t-test analysis with age and sex as co-variables.
+           As result, a parametric map will show individual differences in iron deposition. Based
+           on previous observational studies showing increased brain iron load at some specific
+           regions and the evidence suggesting hippocampal and hypothalamic changes in association
+           with obesity and insulin resistance, the statistical and image analyses will be focused
+           on iron differences at the caudate, lenticular, thalamus, hypothalamus, hippocampus, and
+           amygdala.
+
+        -  Neuropsychological examination: General cognitive functioning will be measured using the
+           Vocabulary and Similarities subtests of the Wechsler Adult Intelligence Scale-III
+           (WAIS-III); attention and working memory by the Forward and Backward Digit Span subtest
+           of the WAIS-II; memory using the California Verbal Learning Test II; executive functions
+           by the Trail Making Test, the Color-Word Stroop Test and the Verbal Fluency; mood using
+           the Patient Health Questionnaire-9 and impulsive behaviors using the Iowa Gambling Task.
+
+        -  Microbiota composition: the microbiota composition will be analyzed according to a
+           previous described protocol. 16s rRNA qPCR and LPS-binding protein in blood samples will
+           be used for detection of bacterial translocation.
+
+      The information will remain registered in a notebook and will be computerized in the database
+      of the study.
+
+      Statistical methods:
+
+      Sample size: There are no previous data showing expected differences for sample size
+      estimation regarding glucose variability, physical activity, composition of gut microbiota
+      and cognitive function. In a previous study, differences in brain iron content were observed
+      in 20 obese vs. 20 nonobese subjects. Thus, the proposed sample size is at least 20
+      individuals per group, with balanced age and gender (pre- and postmenopausal women)
+      representation.
+
+      Statistical analyses: Firstly, normal distribution and homogeneity of variances will be
+      tested. To determine differences between study groups, it will be used χ2 for categorical
+      variables, unpaired Student's t-test in normal quantitative and Mann-Whitney U test for
+      non-normal quantitative variables. Nonparametric Spearman analysis will be used to determine
+      the correlation between quantitative variables. The same tests will also be used to study
+      differences before and after follow-up. The significant associations, whether positive or
+      negative, will be explored more-in-depth (simple and multivariate linear regression
+      analyses).
+
+      The microbiota composition will be analyzed and compared using HeatMaps, Principal Component
+      Analysis (PCA) and PLSDA. For multivariate statistics (PLSDA and hierarchical clustering),
+      variables comprising morphological tissue characteristics, gut microbiota and functional test
+      will be log transformed, filtered using interquartile range estimate and scaled using
+      auto-scaling calculation (mean-centered and divided by the standard deviation of each
+      variable) by using the Metaboanalyst ® platform, the R ® package ropls and MATLAB ® scripts.
+      Alpha and beta biodiversity will be compared according to obesity, insulin resistance and
+      iron status. It will also be used SPSS ® statistical software and Minitab ®.
+    
+  

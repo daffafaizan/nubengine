@@ -1,0 +1,47 @@
+
+    
+      For people with epilepsy (PwE) refractory to anti-seizure medication sometimes the
+      non-invasive presurgical evaluation using ElectroEncephaloGram (EEG) recorded directly from
+      the scalp is not sufficient to delineate the epileptogenic zone and to identificate the
+      eloquent cortex. In these cases, an invasive approach using intracranial
+      electroencephalography (iEEG) is needed Subdural electrodes are used frequently in the
+      presurgical evaluation of patients who are candidates for epilepsy surgery. Electrodes placed
+      directly on the surface of the cortex provide a signal with a much higher resolution than
+      that provided from scalp electrodes, and have a much clear view of small loci of activity
+      which is difficult to see on the scalp.
+
+      Subdural electrodes allow not only the localization of abnormal epileptic tissue but also the
+      localization of adjacent normal functions. Therefore, the precise anatomical localization of
+      the electrodes on the patient's brain plays a key role in the definition of the epileptogenic
+      zone or in the mapping of eloquent cortex.
+
+      From a clinical point of view, the accurate localization of the anatomical boundaries of the
+      epileptogenic zone allows to exclude eloquent areas, avoid deficits to patient and minimize
+      brain volume resection.
+
+      The localization of these electrodes is generally obtained by matching the locations of the
+      electrodes with the brain anatomy of the patient. Commonly, a pre-implant magnetic resonance
+      image (MRI) is co-registered to a post-implant computed tomography scan (CT) because MRI
+      offers higher brain tissue contrast, while CT supports electrodes localization , even if CT
+      images are affected by metal artifacts.
+
+      Various dedicated software tools that support pre-surgical evaluation are currently available
+      as Matlab-based packages or open source softwares, also with graphical user interfaces. They
+      mainly provide MRI-CT co-registration and offer only basic features for recognition of ECoG
+      electrodes from CT scans. Most dedicated softwares segment the electrodes via simple image
+      thresholding and allow manual interaction to correct the data. Manual methods are very time
+      consuming,user-dependent and prone to inaccuracy. On the other hand, the mere CT image
+      thresholding method is not able to recognize all the electrodes and to completely exclude
+      other metallic objects, such as wires, tooth filings, intracranial clips, splinters,
+      stitches, hearing aids or intracranial stents. Hence, manual intervention is often required
+      to adjust the data. For example, the ALICE tool considers the volume of segmented clusters to
+      identify the electrodes, but turned out to be unable to exclude other objects with comparable
+      volumes (e.g. wire clusters).
+
+      The aim of this project is to develop a novel, robust, automated method to recognize ECoG
+      electrodes in CT volumes. It consists of metal artifacts removal from CT volumes,
+      identification of groups/arrays of metal objects within the skull and shape analysis of
+      detected objects to achieve ECoG electrodes localization.The proposed approach could be
+      easily integrated in existing tools.
+    
+  

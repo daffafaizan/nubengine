@@ -1,0 +1,31 @@
+
+    
+      Investigators plan a single-center, 36 month prospective observational study of 50 patients
+      presenting with moderate to severe traumatic brain injury (TBI) at R Adams Cowley Shock
+      Trauma Center who require intracranial pressure monitoring. This is an interventional device
+      study utilizing the EVD/IVC and the IPM/Camino to provide and evaluate data for optimized
+      treatment for the control of elevated ICP and CCP in patients with severe TBI. Enrolled
+      patients will be randomized to one of two study groups listed below following the consent
+      process. Once a potential participant has consented to the study, we will use the excel
+      random number generator function (randbetween(0,1)) to generate random numbers between 0 and
+      1 for each participant. If 0 is generated participants will be placed in Group 1 (Hourly EVD
+      closures) and if 1 is generated, participants will be placed in Group 2 (EVD closure every 12
+      hours). There is no placebo or control group.
+
+      Standard of Care (25 patients): Standard EVD management with therapeutic drainage as
+      appropriate and hourly EVD ICP measurements with simultaneous IPM/Camino ICP measurements
+      collected.
+
+      Experimental (25 patients): Therapeutic CSF drainage as appropriate, with EVD closure and ICP
+      assessment every 12 hours with simultaneous IPM/Camino ICP measurements collected.
+
+      Data will be collected on age, mechanism of injury, time interval between injury and MRI,
+      past medical history, admission hemodynamics, admission component GCS, post-resuscitation
+      component GCS, injury severity score, abbreviated injury score for head injury, blunt carotid
+      or vertebral artery injury, and therapeutic interventions. Continuous vital signs streams
+      will be collected.
+
+      In addition, if available, video surveillance from the patient's stay in the Neurotrauma
+      Critical Care Unit will be collected and be stored with the patients study data.
+    
+  

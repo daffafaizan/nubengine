@@ -1,0 +1,46 @@
+
+    
+      Quality gaps that are relevant to the ambulatory setting include a high incidence of adverse
+      drug events and lack of compliance to established guidelines for preventive care, chronic
+      disease management and test result follow-up. Clinical decision support systems (CDSS) and
+      ambulatory computerized physician order entry (ACPOE) have been touted as powerful
+      interventions to address these concerns. However, doubts exist about the efficacy of these
+      systems in the ambulatory setting, especially when they exist in isolation. Also, despite the
+      evidence of the impact of inpatient CPOE, the impact of ACPOE has not been well studied.
+      Moreover, the adoption of CDSS and ACPOE systems is slow, and their value proposition remains
+      uncertain.
+
+      Tightly integrating CDSS with ACPOE serves as a promising strategy to improve quality and
+      efficiency in the ambulatory setting by facilitating physician action. When ACPOE is linked
+      with CDSS, clinicians can be prompted at various points during their workflow about the
+      desirable course of action and simultaneously be given the opportunity to execute the action
+      (by ordering it) with minimal effort. We hypothesize that the value of ACPOE integrated with
+      advanced CSDSS lies in improved medication safety and guideline compliance, but also improved
+      efficiencies for the provider and the health-care system. We further hypothesize that the
+      value added by these systems overall out weights their costs. This study will evaluate the
+      impact of integrating ACPOE with advanced CDSS on important safety and quality domains in the
+      ambulatory setting using randomized controlled trials. In addition, we will evaluate the
+      impact on organizational efficiency, physician workflow and satisfaction, and perform a
+      cost-benefit analysis.
+
+      There are 2 interventions periods. During Intervention Period 1, a randomized selection of
+      clinics (Arm 1) will receive basic order entry without integrated decision support (i.e. no
+      intervention) while another randomized selection of clinics (Arm 2) receive order entry
+      integrated with decision support in the form of delivery of reminders and alerts during a
+      clinical encounter (Intervention A). During Intervention Period 2, Arm 2 clinics will
+      continue to receive Intervention A. However, Arm 1 clinics receive Intervention A plus
+      additional decision support delivered in between clinic encounters (Intervention B).
+
+      Comparisons:
+
+      We will evaluate the impact of Intervention A (during visit) and intervention B (between
+      visits) in 2 clustered randomized controlled trials, giving us accurate estimates of their
+      individual efficacies. This is particularly important because these findings will highlight
+      the relative value of these 2 different modes of decision support and inform organizations
+      and vendors about how to invest their development resources. We also will be able to evaluate
+      the combined impact of interventions A and B (between visits) by comparing the outcome in Arm
+      2 across the 2 intervention periods while simultaneously controlling for any secular trends
+      (as observed in Arm 1 across the 2 intervention periods). All clinics, regardless of
+      randomization status, will have access to at least one intervention during study period.
+    
+  

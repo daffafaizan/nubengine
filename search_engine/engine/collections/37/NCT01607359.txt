@@ -1,0 +1,33 @@
+
+    
+      -  Data from patients collected from 4 US and 1 Canadian medical center
+
+        -  Retrospective record review of all patients that had undergone catheter ablation of
+           atrial fibrillation during the time period beginning with the initiation of dabigatran
+           therapy for stroke prophylaxis at each center and ending in November 2011.
+
+        -  Dabigatran study group comprised of all patients that received dabigatran for stroke
+           prophylaxis during the study time period.
+
+        -  Warfarin comparison group to be selected from all patients that received warfarin for
+           stroke prophylaxis during the identical study time period.
+
+        -  Warfarin patients will be numbered sequentially
+
+        -  A subgroup of warfarin patients identical in number to the dabigatran patients at each
+           center will be selected using random number generator.
+
+      Patient data sets will be de-identified and compiled
+
+        -  Master data set to be stored in Excel file
+
+        -  Statistics to be performed with SAS (Cary, NC)
+
+        -  Continuous data to be expressed as means ± S.D., compared with unpaired t-tests
+
+        -  Categorical data will be compared with Fisher's exact test or Chi-square
+
+        -  Complications including any thromboembolic events or any bleeding events will be
+           recorded and the prevalence compared.
+    
+  

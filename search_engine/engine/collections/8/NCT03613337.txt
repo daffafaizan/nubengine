@@ -1,0 +1,35 @@
+
+    
+      The design of the study was retrospective study using secondary data from medical records of
+      coronary heart disease patients who taking antiplatelet drugs and had genetic test at Peking
+      University First Hospital. These patients were enrolled in a previous study, which was
+      approved by the ethics committee of Peking University First Hospital (NO. 2013 [634]). The
+      study investigated the association between genetic polymorphism and clopidogrel
+      pharmacodynamics and drug adverse effect, and enrolled total 168 patients.
+
+      The primary endpoints clinical restenosis, defined as unplaned revascularization including
+      arget vessel revascularization (TVR) or target lesion revascularization (TLR) , either by
+      repeated percutaneous coronary intervention (PCI) or coronary artery bypass graft (CABG). The
+      platelet function was assessed using VerifyNow® P2Y12 (VN-P2Y12) assay (Accumetrics, San
+      Diego, California, USA).
+
+      To analysis the association of SNP with unplaned revascularization and PRU, the investigators
+      investigated pathways related to known platelet reaction (platelet production, platelet
+      apoptosis, platelet activity, antiplatelet, platelet resistance, platelet adhesion, and etc.)
+      and restenosis-related processes (inflammation, vascular function, proliferation and
+      transcription) from the KEGG, BioCarta and Gene Cards .
+
+      The genetic statistical analyses were performed using the set-based test of PLINK v1.07
+      adjusted by smoking statues. During the set-based test of PLINK the joint effect of all
+      genetic variation, fulfilling the test constraints, within the set of genes of pathway of
+      interest is evaluated. First a single SNP analysis of all SNPs within the pathway set was
+      performed, SNPs with the lowest p-value in the single SNP analysis were selected. This
+      analysis was repeated 10,000 times in simulated datasets, subsequently, a mean SNP statistic
+      was calculated from the single SNP statistics of a maximum amount of independent SNP with a
+      p-value <0.01 SNPs are considered independent when the LD expressed in R2 is lower than 0.5.
+      Analysis of gene mutation distribution conforms to the genetic equilibrium law of
+      Hardy-Weinberg by chi-square test, P <0.05 is considered possible deviations of population
+      distribution. The investigators use the result of 30 month as a replication, SNPs both
+      significant in 18 month and 30 month were reported in the study.
+    
+  

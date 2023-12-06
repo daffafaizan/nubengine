@@ -1,0 +1,62 @@
+
+    
+      Adult patients (18 years and older) from the Clinical Division of Orthodontics at the
+      University Clinic of Dentistry Vienna will be invited to participate in this pilot
+      microbiologic study according to defined inclusion/exclusion criteria after giving their
+      consent. This study is a pilot project and therefore no sample size calculation will be made.
+      Twenty patients will be treated with Invisalign® aligners and twenty patients will receive
+      multibracket therapy. A previous microbiological study showed that lingual orthodontic
+      therapy has a short-term effect on oral microflora. Another microbial study on colonization
+      on dental implants also reported bacterial shift upon implant therapy.
+
+      All patients will get instructions in oral hygiene on the day when clinical records are
+      gathered. On the day when the treatment plan will be presented to the patient, the Plaque
+      Index will be evaluated by a trained orthodontist. For the start of the treatment a Plaque
+      Index of < 20% is required. On the day before the orthodontic treatment is started, T0 sample
+      collection will be conducted and periodontal indices will be assessed. A clinical examination
+      including periodontal probing depth, bleeding on probing, and Plaque Index (PI) will be
+      performed before (T0), after 3 months (T1) and after 6 months of the beginning of either
+      aligner or bracket therapy. Microbiological sampling will be performed by stimulated saliva
+      collection according to our protocol. Saliva samples will be divided in aliquots in stored in
+      cryo-tubes at -80°C. Molecular detection of microorganisms by sequencing of 16S rDNA genes,
+      sequencing analysis and taxonomic assignment will be performed at the Department of
+      Laboratory Medicine at the Medical University of Vienna.
+
+      By sequencing of 16s rDNA genes with sequencing analysis and taxonomic assignment of bacteria
+      in saliva we expect to reveal possible shifts in microbial phyla/genera between various time
+      points. Metagenomic studies are commonly performed by analysing the prokaryotic 16S ribosomal
+      RNA gene (16S rRNA), which is approximately 1,500 base pairs long and contains nine variable
+      regions interspersed between conserved regions. Variable regions of 16S rRNA are frequently
+      used in phylogenetic classifications such as genus or species in diverse microbial
+      populations.
+
+      DNA Extraction:
+
+      Due to better quantitative and qualitative results in comparison to commercial DNA extraction
+      kits, DNA will be isolated with a modified CTAB SDS chloroform-based method. Mechanical
+      analysis will be carried out using 1mm silica spheres under addition of proteinase K (Qiagen,
+      Venlo, Netherlands) as well as the detergents SDS (sodium dodecyl sulfate) and CTAB
+      (cetyltrimethylammonium bromide). After extraction, the DNA quantity will be determined with
+      Qubit® 2.0 via the dsDNA HS kit (Life Technologies, Carlsbad, California) and NanoDrop 2000c
+      spectrophotometer (Thermo Scientific, Waltham, Massachusetts). Additionally, the absorption
+      ratios A260/280 and A260/230 will be used to estimate the purity of the DNA.
+
+      Metagenome Analysis:
+
+      The overall composition of the bacterial organisms in the samples will be evaluated by
+      analysing microbiome. Therefore, we will use high throughput sequencing with the MiSeq®
+      platform (Illumina, San Diego, California). We will analyse the variable V3 and V4 regions of
+      the 16S rRNA gene. For the phylogenetic classification, the bacterial 16S rRNA will be
+      amplified using primers 27F (5'-CCT ACG GGN GGC WGC AG-3') and 1391R
+      (5'-GACTACHVGGGTATCTAATCC-3').
+
+      Bioinformatic analysis:
+
+      The quality of the Next Generation Sequencing run will be assessed using the software FASTQC
+      0.11.4. The removal of low-quality bases will be carried out with the Trimmomatic-0.35
+      software . For sequence analysis and clustering similar sequences into clusters (OTUs) the
+      UPARSE pipeline will be utilized. For comparison and statistical analysis of the microbiome
+      data we will use RStudio (Team 2016) as platform with R as language (R Development Core Team
+      2010) and different R-packages.
+    
+  

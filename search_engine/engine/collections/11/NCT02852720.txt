@@ -1,0 +1,98 @@
+
+    
+      Introduction.
+
+      Post cesarean section pain control is a challenging task since it is one of the ten most
+      painful surgeries. Multiple strategies have been proposed for pain control, including
+      neuraxial analgesia, systemic opioids, non-opioid drugs and peripheral nerve blocks, among
+      others.
+
+      Transversus abdominal plane (TAP) blocks have been proven to provide effective analgesia when
+      used as part of a multimodal analgesic regimen after abdominal surgery and is becoming a
+      popular technique for post cesarean section analgesia, although recent reports of local
+      anesthesia toxicity have raised concerns about its safety in this population. Currently there
+      is no information on the pharmacokinetics of levobupivacaine of the technique in pregnant
+      patients to guide dosing in a safer way.
+
+      Our objective is to generate a pharmacokinetic model to characterize the plasmatic levels of
+      levobupivacaine co-administered with epinephrine and its effect on the ECG, for TAP block in
+      post cesarean section patients.
+
+      Methods.
+
+      After institutional ethics committee approval and written informed consent, 12 term pregnant
+      patients American Society of Anesthesiologists physical status I or II, scheduled for
+      elective cesarean section were recruited in this prospective, single-blind pharmacokinetic
+      study. Patients were excluded if they had any allergy/sensitivity to local anaesthetic,
+      significant renal or liver dysfunction.
+
+      An intravenous (18-gauge) catheter was placed under local anesthesia for co hydration. After
+      the initiation of standard monitoring (continuous electrocardiogram, noninvasive arterial
+      blood pressure, and pulse oximetry), all patients received a spinal anesthesia in the L3-L4
+      or L4-L5 interspace with hyperbaric bupivacaine 0,75% 1,4 ml plus 20 ug fentanyl to achieve a
+      bilateral anesthetic level of T4 determined by pinprick. After surgery, a TAP block was
+      performed with 20 mL of 0.25% levobupivacaine, with epinephrine 1:200.000 (5 ug/ml) on each
+      side, under ultrasound (US) guidance.
+
+      One anesthesiologist experienced in the technique performed all of the TAP blocks using a US
+      Sonosite M-Turbo US machine (Sonosite Inc, Washington) with an L38x 10-5 megahertz (MHz),
+      38-mm broadband linear array probe. A second anesthesiologist evaluated and approved the US
+      images before administration of the mixture. Blocks were performed with a 21 gauge (G),
+      110-mm spinal Quincke needle (N. Medical Industries Ltd., Japan) using an in-plane approach.
+
+      The extent of sensory blockade of the TAP block to temperature, light touch, and sharp touch
+      was determined using ice, cotton wool, and pinprick, respectively at 1, 2, 6 and 12 hrs post
+      block and the metameric extent of the blockade was recorded. 2 mL venous blood samples were
+      obtained at 2, 5, 10, 30, 45, 60, 90 and 180 minutes after the block. The duration of the
+      blockade was also recorded and symptoms of local anesthetic systemic toxicity were assessed
+      on every control.
+
+      Concomitantly we studied the effects of the local anesthetic on myocardial electrical
+      conduction to characterize the pharmacodynamics of TAP block. Briefly, a portable 12-lead
+      Holter (NorthEast Monitoring®, Boston, USA) will record continuously the electrocardiogram
+      (ECG). The information will be stored in an external flash memory card to be analyzed
+      retrospectively with ad hoc software (NorthEast Monitoring®, Boston, USA). We will correlate
+      the eventual changes in the QTc segment with levobupivacaine free plasma levels, which
+      translates the effect of local anesthetics on the heart.
+
+      Levobupivacaine Assay.
+
+      Levobupivacaine was extracted from plasma using liquid-liquid extraction according to the
+      methods described by Adams et al. The internal standard solution (10 mL of mepivacaine, 30
+      ug/mL) was added to 0.2 mL of plasma, 100 micro(u)L of sodium hydroxide (2 mol/L solution),
+      and 0.6 mL diethyl ether. The mixture was stirred for 1 minute and centrifuged for 5 minutes
+      at 3000 revolutions/min. Subsequently; the organic phase was transferred to another tube to
+      which 0.25 mL of 0.05 N sulfuric acid was added. The mixture was stirred again for another
+      minute and centrifuged for 5 minutes at 3000 revolutions/min. The aqueous phase was
+      transferred to another tube for subsequent injection. An aliquot of 100 micro(u)L was
+      injected into the high-performance liquid chromatography system. The linearity of the method
+      was evaluated in the range of 0.125 to 10 ug/mL, and 3 concentrations (0.75, 3, and 7.5
+      ug/mL) were extracted during each protocol as controls.
+
+      Knudsen have recently reported the unbound bupivacaine plasma levels thresholds for
+      neurologic symptoms in volunteers of 0,11 ug/ml (SD 0,1 ug/ml). Ikeda et al. found that
+      although there were no differences between the concentrations of bupivacaine and
+      levobupivacaine in plasma, levels of unbound bupivacaine in the cerebral extracellular fluid
+      were significantly higher than levobupivacaine. Consequently, we opted to guide our analysis
+      using bupivacaine pharmacokinetic (PK) data.
+
+      Statistical analysis.
+
+      Based on the design of relatively frequent sampling planned for each patient and assuming a
+      interindividual variability of 50%, similar to that found in a previous study, which allowed
+      the investigators to characterize the pharmacokinetics of levobupivacaine in 11 healthy
+      volunteers with good accuracy, an estimated number of 12 patients is suitable for the
+      purposes of this study.
+
+      Pharmacokinetic Analysis
+
+      Population parameter estimations
+
+      A one-compartment model with first-order input and elimination was used to describe the time
+      profile of serum levobupivacaine concentrations. Population parameter estimates were
+      calculated using nonlinear mixed effects modelling implemented in the program NONMEM (NONMEM
+      7.3, Icon Development Solutions, USA). The population parameter variability was modeled in
+      terms of random effect (η) variables. Each variable was assumed to have a mean = 0, and a
+      variance, denoted by ω2, was estimated.
+    
+  

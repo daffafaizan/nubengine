@@ -1,0 +1,107 @@
+
+    
+      Vitamin K antagonists (VKA) such as warfarin are very effective anticoagulants for the
+      prevention of thrombosis. However, warfarin is also a leading cause of emergency room visits
+      and hospitalizations for bleeding complications. A laboratory test of coagulation, the
+      prothrombin time (PT), is used to monitor warfarin's anticoagulant effect on the hemostatic
+      system. For warfarin monitoring the PT is expressed as an international normalized ratio
+      (INR) to reduce the impact of interlaboratory PT variation. For individuals not on warfarin,
+      the INR is about 1.0 while most patients on VKA require an INR between 2.0 and 3.0 to best
+      balance the competing risks of thromboembolism and bleeding.
+
+      The INR response to warfarin can fluctuate as a result of changes in health status,
+      interactions with other drugs, changes in dietary vitamin K intake, alcohol consumption, as
+      well as for no apparent reason. In addition, the response to a change in warfarin dose varies
+      between patients as does the time required for the INR response to reach steady state. A
+      substantial proportion of patients treated with warfarin have stable INRs and remain on the
+      same weekly maintenance dose month after month. Patients with variable INRs resulting in a
+      low proportion of time in therapeutic INR range (TTR) have a higher risk of both bleeding
+      complications and thromboembolic events. Good TTR is generally considered to be over 60% and
+      TTR above 72% is considered excellent. One quarter to one third of patients have unstable INR
+      results and require more frequent monitoring and warfarin dosing adjustments. This is
+      demanding for patients and also for health care systems. Many of these patients remain
+      unstable even when drug interactions, irregular dietary vitamin K intake, and missed warfarin
+      doses have been excluded indicating the need for improved approaches to adjusting VKA doses
+      in response to out-of-range INRs.
+
+      Interventions aimed at improving INR stability during warfarin therapy have been
+      investigated. Using warfarin dosing algorithms is one intervention associated with improved
+      INR stability and decreased risk for thromboembolic and bleeding complications and lower
+      mortality. Patient self-management (PSM) of warfarin therapy using INRs obtained by patients
+      in their home environment using point-of-care INR monitoring devices has also been shown to
+      improve INR stability and decrease the risk of thromboembolic complications and mortality.
+      Unfortunately, the US healthcare system lags behind other countries in widespread adoption of
+      these evidence-based interventions for improving warfarin therapeutic outcomes.
+
+      Potential explanations for the underutilization of warfarin dosing algorithms and PSM include
+      mistrust of algorithms among anticoagulation providers, complexity associated with algorithm
+      use, lack of algorithm validation, and the effort required to train patients in
+      self-management. As most patients receiving warfarin therapy in the US are outside the
+      targeted INR range approximately 40% of the time, there is a critical need for approaches
+      that remove barriers to adopting proven interventions like using warfarin dosing algorithms
+      and PSM.
+
+      The Fearon Algorithm Mike Fearon, PhD has developed a patient-individualized warfarin dosing
+      algorithm (the Fearon Algorithm [FA]) to predict INR results using parameters derived from
+      the patient's prior warfarin dosing history. Key FA parameters not available with existing
+      warfarin dosing algorithms include: 1) warfarin dose sensitivity (i.e. the likely change in
+      INR from an increment change in warfarin dose), 2) optimal warfarin tablet strength for a
+      given patient, 3) time required to reach INR steady state, and 4) inherent variability of the
+      INR.
+
+      Warfarin dosing algorithms generally suggest a fixed percentage change (e.g. 10% to 20%) to
+      the weekly warfarin maintenance dose in response to out-of-range INR results. While seemingly
+      straightforward, training patients to use such algorithms during PSM has proven challenging.
+      In contrast, the FA includes a personalized dose-effect curve for each patient and predicts
+      the optimum warfarin dose required to center the patient's expected INR in the therapeutic
+      range. Patient warfarin dose sensitivity is used to compute an optimal tablet strength for
+      dose changes; sensitive patients require lower tablet strengths to facilitate small step
+      increments in warfarin dosing. The tablet strength is used to provide the closest
+      approximation to the optimum warfarin dose in mg/week. The FA discourages warfarin dose
+      adjustments for INRs moderately deviating from the therapeutic range and encourages instead
+      earlier repeat INR testing to confirm a suspected trend or to demonstrate stabilization.
+      Earlier repeat INR testing is best accomplished with patient testing using point-of-care INR
+      monitors.
+
+      Another unique feature of the FA is assigning likelihood probabilities expressed as the
+      percentage of times the INR will fall in a range of INR values for each patient. This enables
+      clinicians or patients to evaluate whether an extreme INR value requires immediate
+      intervention or is simply to be expected occasionally.
+
+      Rationale The FA provides an understanding of the individual dose-response to warfarin. With
+      a personalized approach to warfarin dose adjustments, we may be able to improve TTR and on a
+      larger scale reduce clinically-important adverse events. In addition, the simplicity of the
+      FA may facilitate the use of PSM in more patients in the US.
+
+      Despite the introduction of direct oral anticoagulants (DOACs) warfarin will be used by many
+      patients in the US into the foreseeable future. DOACs are contraindicated in patients with
+      mechanical heart valves and in patients with impaired renal function. Also, some patients
+      prefer warfarin over DOACs and others are unable to afford DOACs.
+
+      A previous FA pilot study showed promising results but also identified improvement
+      opportunities. In this study, the stability of INRs improved in 7 out of 10 patients during
+      the study period. It was also demonstrated that the management of some patients would improve
+      by switching warfarin tablet strengths to allow better dose fine tuning. The study also
+      showed that an INR retest before the warfarin dose is changed from the optimum dose may
+      reduce INR instability arising from unnecessary warfarin dose changes. A major flaw of this
+      study was the failure of anticoagulation providers to adhere to the algorithm following out
+      of range INRs.
+
+      Therefore, another study is necessary to demonstrate the feasibility of the FA. It is also
+      important to demonstrate the ability of both anticoagulation providers and patients to use
+      the FA in order to expand the use of PSM among US anticoagulated patients.
+
+      Study Objectives Primary objective: Compare measures of INR control (TTR, percent INRs in
+      range (PIR), and control error distribution) between patients managed by anticoagulation
+      management service (AMS) providers without the FA (standard management phase), patients
+      managed by AMS providers using the FA (FA AMS phase), and patients using the FA to support
+      PSM (FA PSM phase).
+
+      Secondary objectives: Compare 1) proportion of INRs associated with a warfarin dose change
+      (DC), 2) inherent INR variability, 3) major bleeding events, 4) clinically relevant non-major
+      bleeding events, 5) any bleeding event, and 6) thromboembolic events (TE) between the
+      standard management, FA AMS, and FA PSM phases as defined previously.
+
+      Study Design Open label single-center cross-over study
+    
+  

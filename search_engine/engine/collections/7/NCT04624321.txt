@@ -1,0 +1,108 @@
+
+    
+      Considerable evidence suggest that lifestyle interventions can prevent or delay the onset of
+      type 2 diabetes, and self-care behaviors largely determine HbA1c. Modifiable lifestyle
+      factors have been established as key drivers of disease onset, progression, and prognosis,
+      motivating the use of "lifestyle as medicine". Despite this, a substantial number of patients
+      with type 2 diabetes (T2D) have difficulties attaining adequate glycemic control.
+
+      Lifestyle interventions are often complex and difficult to implement on a large scale.
+      Digital health interventions are increasingly incorporated into diabetes care, and have the
+      potential to improve both behavioral and clinical outcomes on a broad basis. However, low
+      levels of uptake, reduced user engagement over time, and low acceptance among patients, raise
+      concerns about their effectiveness. Knowledge on how to design interventions aimed at
+      inducing change by promoting motivation and personal engagement, as well as a better
+      understanding of patient interaction with digital health interventions, could help overcome
+      these challenges and inform the development of a novel and effective health support.
+
+      The objective or this study is to evaluate a new web-based tool, developed at the University
+      Gothenburg, Sweden, that aims to support patient autonomy and motivation to make sustainable
+      lifestyle changes.
+
+      The investigators will test the hypothesis that users of the tool get improved HbA1c relative
+      to baseline as compared with controls on usual care.
+
+      Overall study design The study is an investigator-initiated single-center study conducted at
+      Skåne University Hospital, Sweden, and will follow participants over three years.
+
+      Participants with T2D will be recruited by sending letters with study information to patients
+      in the ANDIS (All New Diabetics In Scania) registry in Sweden or by advertisements. If HbA1c
+      is 52 mmol/mol or above participants are included and attend study visits every three months
+      during the first year and every sixth month during the following two years for blood sampling
+      and physical examination.
+
+      The study has an initial 3-month randomization period. Thereafter, all participants get
+      access to the tool and used it during an open-label observation period of up to three years.
+
+      Study procedures All participants receive an email with a link to their personal account on
+      the tool. This email is sent immediately after the initial visit. Via the link participants
+      set a password, complete an initial questionnaire and are then randomized to immediate access
+      the tool or to be on a three-month wait list (1:1 ratio).
+
+      The randomization is performed by a web-based system, using a block size of eight.
+      Randomization is unknown to all participants when completing the initial questionnaire and is
+      also unknown to the study personnel at the initial study visit. Thereafter, randomization is
+      non-blinded, i.e. there is full transparency as to who get access to the tool and not.
+
+      Those randomized to the wait list receive usual care, which means that participants are
+      followed by their ordinary healthcare provider. Those participants do not receive any
+      information about the tool or its content during the three-month period. Participants who are
+      randomized to wait receive an invitation to a second study visit after three months.
+      Following the visit, an email is sent with a link to complete the questionnaire after which
+      the tool can be accessed.
+
+      Study visits Every physical study visit lasts appr. 20 minutes and includes measurements of
+      length and weight, blood pressure, and estimations of fat and muscle mass by bioimpedance.
+      Fasting blood samples are taken for analysis of HbA1c and other cardiometabolic proteins.
+      Participants will not receive any counselling or lifestyle advice at the study visits.
+      Technical problems are referred to the study coordinator, who may also respond to requests to
+      clarify content in a general manner without providing personal advice. Patients are followed
+      by their ordinary physician throughout the study, i.e. the tool is provided on top of
+      ordinary anti-diabetic treatment and healthcare contacts.
+
+      The intervention The tool is web-based and used via a computer or mobile phone. It is used at
+      each individual's preferred pace but participants are recommended to login at least every
+      other week. Every round the participants choose a themes (out of appr. 80 possible covering
+      e.g. food, exercise, stress, self-reflection aspects), which takes appr. 15-30 minutes to
+      complete. Participants then reflect on the content and how it could be implemented in daily
+      life. When returning for next round participants are asked to reflect on any changes done
+      since last time. There is no interaction between individual participants.
+
+      Statistics As one primary endpoint an intention-to-treat analysis is used to compare HbA1c
+      between the two randomization groups based on data between first and second visit
+      (DeltaHbA1c). Patients lost to follow-up between first and second visit will not be included
+      in the analysis.
+
+      The standard deviation of DeltaHbA1c is 6 mmol/mol over 3 months in ANDIS patients with
+      baseline HbA1c at 52 mmol/mol or above. With 80% power at alpha=0.05, 142 participants are
+      needed to each randomization arm to detect a significant difference between the groups,
+      assuming that the true treatment effect of the intervention is 2 mmol/mol over 3 months.
+
+      Enrollment will continue until the required number of participants are reached, accounting
+      for those lost to follow-up during the randomization period.
+
+      As another primary endpoint, investigators will during the open-label observation period
+      compare DeltaHbA1c at one year relative to baseline between patients using the tool as
+      recommended and matched controls with usual care(1:2 ratio between exposed and controls).
+
+      The standard deviation of DeltaHbA1c is 7 mmol/mol over one year (as observed in patients
+      with baseline HbA1c at 52 mmol/mol or above in the ANDIS cohort). With 80% power at
+      alpha=0.05, 24 participants using the tool as recommended and 48 matched controls are needed
+      to detect a significant difference between the groups, assuming that the true treatment
+      effect of the intervention is 5 mmol/mol.
+
+      Subanalysis of MOD patients A data-driven cluster analysis of 9,000 diabetes patients has
+      been performed in the ANDIS registry based on six variables measured at diagnosis: GAD
+      antibodies, age, BMI, HbA1c (reflecting long-term blood glucose), HOMA2-B (reflecting insulin
+      secretion) and HOMA2-IR (reflecting insulin resistance). Four clusters of T2D patients were
+      highlighted, each with different characteristics and risk of complications. One of these
+      cluster, MOD (Mild Obesity-related Diabetes), is characterized by high BMI and insulin
+      resistance but relatively well-preserved insulin secretion. It has been suggested that
+      patients with MOD characteristics would benefit particularly from lifestyle changes. The
+      investigators therefore hypothesize that patients with MOD characteristics would benefit
+      particularly well from the intervention. As a subanalysis the investigators will therefore
+      analyse the interaction between MOD/non-MOD subgroup and exposure to the intervention using a
+      linear model with a term for the cluster variable, a term for the exposure to the
+      intervention and an interaction term.
+    
+  

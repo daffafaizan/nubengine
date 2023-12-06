@@ -1,0 +1,28 @@
+
+    
+      The next generation of PRO-React by CANKADO is designed to predict impending incident threats
+      at an earlier stage than previously feasible and -- by more timely intervention -- help
+      physicians to eliminate or mitigate the severity of an unfavourable event, reduce the
+      required intensity of countermeasures, or otherwise reduce patient risks.
+
+      A highly reliable identification of situations classified as "low-risk" by CANKADO could also
+      enable a more focused utilization of resources as well as enhanced patient comfort and
+      decreased stress, e.g., due to less frequent monitoring visits or reduced need for invasive
+      diagnostics.
+
+      The OMCAT Register aims to provide learning databases in cancer comprising both PRO data
+      using PRO-React and "ground truth" (outcome data verified by the physician during patient
+      examinations). Intelligent learning and knowledge engineering procedures will utilize this
+      PRO data to provide high-quality event prediction algorithms. The ground-truth data enables
+      so-called "supervised learning" techniques of artificial intelligence, because predicted
+      events can be verified with a high level of certainty from ground-truth data.
+
+      The PRO data of a patient provide what is known in engineering, physics, and statistics as
+      "time series" of observations. The unique feature of PRO time series for applications in
+      cancer is the very high "sampling frequency" (e.g., daily or better) compared to
+      examinations, which generally occur at fixed, and much less frequent intervals. Prediction
+      algorithms based on PRO data would thus be ideally suited to reduce the delay in detecting
+      events, for example, by triggering physician appointments or indicating the need for more
+      intensive medical diagnostics.
+    
+  

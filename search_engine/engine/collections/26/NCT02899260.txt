@@ -1,0 +1,85 @@
+
+    
+      This study is designed as a prospective, randomized controlled trial that will compare the
+      use of the peanut exercise ball in laboring patients compared with no use of the exercise
+      ball. The investigators plan to include all pregnant women over the age of 18 who present to
+      VCU Labor and Delivery in labor or for induction of labor with a fetus in cephalic
+      presentation. They will have the peanut shaped exercise ball placed between the maternal legs
+      in either the supine or upright position during labor. The peanut ball can be seen at this
+      link, which is similar to the ball the investigators use on Labor and Delivery
+      (http://www.amazon.com/Isokinetics-Inc-Brand-Peanut-Ball/dp/B0026N2JWG). We use various sizes
+      of this durable, non-latex exercise ball. There is a small size (for women ,5'3" that is
+      40inches), medium size for women 5'3" to 5'"7 (50inches) and a large for women >5'7"
+      (60inches). The length of time using the peanut ball will be quantified by charting in OB
+      TraceVue software (which is currently standard practice with peanut ball use).
+
+      Each patient will be assigned a number in order starting at 1. Each patient will then be
+      randomized using a block randomization scheme with pre-assigned envelopes in the labor and
+      delivery team room starting at number 1. Each participant will have an envelope pulled in
+      order of their number assignment when admitted to labor and delivery and consent obtained.
+
+      Exclusion criteria for this study include women with multifetal gestations, fetus in breech
+      or transverse position, musculoskeletal abnormalities in the mother which might preclude them
+      from proper positioning on the peanut ball.
+
+      This study is a prospective, two-armed randomized controlled trial (RCT) with interim
+      analyses planned after 50% and 75% of the patients have completed the study. Using nTerim
+      2.0, 2000 total subjects (1000 per group) will be needed to have a study powered at 80% to
+      detect a difference in the C-section rate if the treatment and control groups have C-section
+      rates of 11.25% and 15%, respectively, using a one-sided test at the 0.05 level. The primary
+      outcome will be the observed incidence of cesarean section delivery in the two populations of
+      randomized, laboring women.
+
+      Bayesian stopping rules, for expected success and futility, are to be added to this study.
+      Bayesian stopping rules have advantages over other traditional types of interim analyses.
+      Specifically, they can be used for Bayesian or frequentist (e.g. traditional) trial designs
+      without requiring the statistical analysis or study design to be altered. Additionally, the
+      study is not penalized for additional 'looks' at the data, as is the case in traditional
+      interim analyses. A drawback of this strategy is that the methods used to analyze the data
+      (e.g. frequentist and Bayesian) have different interpretations and may not come to the same
+      conclusion.
+
+      The investigators plan on conducting three interim analyses, after sample sizes of 500, 1000,
+      and 1500 have been achieved. At each look, the predicted probability of trial success,
+      assuming the full 2004 subjects are accrued, will be calculated. The predictive probability
+      is defined as the probability that the unanticipated C-section rate for the Peanut Ball (PB)
+      group is lower than that of the control (C), as measured assuming the full 2004 subjects are
+      accrued and conditional on the data obtained from the subjects that the study has already
+      accrued. If this probability is small (e.g. < 0.10), then the study will stop for futility.
+      If the predicted probability with the current sample size is large, meaning it is likely that
+      the Peanut ball group has a lower unanticipated C-section rate, then the study will be
+      stopped for expected success. Predicted probabilities of 0.95, 0.90, and 0.90 for the interim
+      analyses at 500, 1000, and 1500 subjects will be used to determine expected success,
+      respectively. If neither of these conditions are met, the study will continue to accrue
+      subjects until a maximum of 2004 subjects.
+
+      The calculation of the predictive probabilities are slightly different for futility and trial
+      success. For the futility analysis, the posterior distribution of an unanticipated C-section
+      will be will be specified as a beta distribution with Xig +1 and Nig - Xig +1 degrees of
+      freedom (Beta(Xig +1, Nig - Xig +1)), where Xig denotes the total number of unanticipated
+      C-sections for the group g (PB, C) for assessment i (1,2,3) from the total sample size in
+      each group (Nig). This distribution comes from the commonly used beta-binomial posterior
+      distribution using and uninformative (uniform) prior. For each treatment group and interim
+      analysis, an unanticipated C-section rate will be simulated from the respective posterior
+      distribution (pigj) and, based on this simulated value, a simulated number of additional
+      unanticipated C-sections will be calculated. This process will repeat itself 10,000 times,
+      and for each iteration, the total estimated rate of unanticipated C-sections will be
+      calculated. The posterior probability for futility, P(pi,PB+0.0375<pi,C) after accruing the
+      total 2004 subjects will be calculated by summing up the instances where pi,PBj+0.0375<pi,Cj,
+      where pi,gj is the predictive probability of an unanticipated C-section after full enrollment
+      for simulation j. The offset, 0.0375, is calculated from the hypothesized difference from the
+      original power analysis (0.15-0.1125=0.0375)
+
+      A similar process will be used for efficacy, however, the predictive probability will be
+      calculated from the inequality P(pi,PB<pi,C).
+
+      The investigators will collect the data, perform data entry and review charts to ensure
+      accuracy of information. Medical Record Numbers will be collected with data collection to
+      ensure that we can adequately review the chart of the patient for data collection.The
+      investigators will also collect information on mode of delivery (vaginal, operative vaginal,
+      csection), gravidity, parity, age, bmi, epidural anesthesia (yes/no), induction vs
+      spontaneous labor, gestational age at delivery, dilation at admission, fetal position at
+      delivery, birth weight, cord ph, Apgars, dystocia, length of active phase of labor and second
+      stage of labor.
+    
+  

@@ -1,0 +1,121 @@
+
+    
+      Methods Setting Investigator designed a single center, retrospective, observational study
+      conducted from February 2020 to April 2020 in the emergency department (ED) of Princesse
+      Grace Hospital center, a general hospital in Monaco. The study was monitored by the research
+      department of the Hospital Center. No specific funding was obtained for this study. The
+      institutional review board for the protection of human subjects approved the study protocol
+      and waved the need for written informed consent for inclusion.
+
+      Objectives The primary objective was to assess sensitivity of routine biomarkers and blood
+      cell count for diagnosis of COVID-19-related pneumonia in low and high probability groups for
+      level of certainty using the adjudication committee classification.
+
+      Secondary objectives were :
+
+        -  to compare values in the four different categories of level of certainty and between low
+           and high probability groups;
+
+        -  to assess performance of combined routine biomarkers and blood cell count for diagnosis
+           of COVID-19-related pneumonia;
+
+        -  to assess whether usual biomarkers and blood cell count were associated with diagnosis
+           of COVID-19-related pneumonia using sensitivity analyses in two predefinite subgroups
+           chosen a priori; Group 1 : when considering patients classified as having low
+           probability and high probability COVID-19-related pneumonia; Group 2 : when patients
+           with excluded COVID-19-related pneumonia and diagnosed extra-pulmonary infectious
+           disease were not taken into account, in the low probability COVID-19-related pneumonia
+           group.
+
+      Adjudication committee Based on data collected from baseline on standardized case report
+      forms, results of low dose chest CT-scan, of SARS-Cov-2 specific RT-PCR, and full access to
+      all available data including patients' discharge summary, an adjudication committee
+      consisting of three independent senior experts in infectious diseases, pneumology and
+      radiology retrospectively assigned the probability of COVID-19-related pneumonia diagnosis
+      using the 4-level Likert scale. For this study, the gold standard was the diagnosis assessed
+      by the adjudication committee. Alternative diagnoses were established for low probability
+      COVID-19-related pneumonia and classified as non-COVID pulmonary diseases and extra-pulmonary
+      infectious diseases and others.
+
+      A Likert scale allowed distribution of patients in four categories:
+
+        1. absence of COVID-19-related pneumonia hereafter referred to as excluded;
+
+        2. possible COVID-19-related pneumonia;
+
+        3. probable COVID-19-related pneumonia;
+
+        4. definite COVID-19-related pneumonia. After this first classification, patients were
+           distributed in two groups: low probability COVID-19-related pneumonia (excluded and
+           possible) and high probability COVID-19-related pneumonia (probable and definite).
+
+      Study population For the study purpose and to ensure quality of the final adjudication
+      committee diagnosis, investigator selected consecutive adults (18 years of age and above)
+      visiting the COVID-19-dedicated ED if they presented with clinically suspected
+      COVID-19-related pneumonia and had SARS-Cov-2 RT-PCR and/or low dose chest CT-scan.
+
+      Patient management and usual biomarkers and blood cell count Patients' management in the
+      COVID-19-dedicated ED was based on local protocoled practices based upon collegial
+      multidisciplinary decision if they presented with suspected COVID-19-related pneumonia.
+      Recorded baseline data consisted of demographic data (age, gender), coexisting illnesses,
+      treatments, symptoms, clinical findings and predetermined laboratory tests including:
+      SARS-Cov-2 specific RT-PCR obtained on nasopharyngeal swab; low-dose chest CT-scan; standard
+      blood analysis (complete blood count, hemostasis, metabolic panel, creatinine, blood urea
+      nitrogen, liver enzymes), D-dimers (Vidas, Biomérieux), procalcitonin, C-reactive protein
+      (CRP), high sensitive cardiac troponin T (cTnT-hs, Cobas, Roche diagnostics), NT-pro-brain
+      natriuretic peptide (NT-proBNP, Cobas, Roche diagnostics). For each individual, CRB65 and
+      Pneumonia Severity Index (PSI) were calculated.
+
+      Microbiological samples Naso-pharyngeal swabs were collected at admission and placed in a
+      Middle Virocult MWE (Sigma®) transport medium. Samples were kept at room temperature and sent
+      to the laboratory immediately after collection. For the presence of SARS-COV-2, swabs were
+      sent to French referent centers of virology (Nice, Marseille, Paris). Routine microbiological
+      examinations were also performed at the discretion of the emergency physicians and included :
+      presence of influenza A and B viruses and respiratory syncytial virus (RSV) A and B on
+      nasopharyngeal swabs, blood culture, urine antigens for Streptococcus pneumoniae and
+      Legionella pneumophila type I, serodiagnosis of Mycoplasma pneumoniae. These results were
+      available to the adjudication committee.
+
+      Low dose chest CT-scan data and COVID-19-related pneumonia diagnosis classification
+      Multidetector low dose thoracic CT-scan was performed for each individual patient and
+      interpretation was recorded using a standardized report form according to guidelines. The
+      level of COVID-19-related pneumonia probability according to low dose chest CT scan were
+      defined.
+
+      Statistical analysis Baseline and follow-up characteristics were described by means and
+      standard deviations (SD) or by median and interquartile range (IQR) for continuous variables
+      with normal or with skewed distribution, respectively, and by percentages for categorical
+      variables. Chi-square or Fisher exact tests were performed when appropriate for qualitative
+      variables. The Student or Mann-Whitney tests were used to compare baseline characteristics
+      and study outcomes between study groups for continuous variables with skewed distributions.
+
+      The distribution of values for usual biomarkers and blood cell count were determined in the
+      different populations of patients using boxplots. The performances of current laboratory data
+      in predicting definite COVID-19-related pneumonia were evaluated by sensitivity analysis
+      (definite vs excluded COVID-19-related pneumonia). CRP was evaluated at several cut-off
+      points of 20 mg/L, 30 mg/L, 50 mg/L, 70 mg/L, and 100 mg/L, values used in previous studies.
+      Several cut-off points for PCT were chosen at the level of 0.10 μg/L, and at the two levels
+      for suspected bacterial infection as stated by the manufacturer, i.e., 0.25 μg/L and 0.50
+      μg/L. Cut-offs for cTnT-hs were 0.014ng/mL and 50ng/mL. Cut-offs for D-dimers test were
+      500µg/ml and age-adjusted threshold. Sensitivities, specificities, positive predictive values
+      (PPVs), negative predictive values (NPVs), and likelihood ratio were calculated. Receiver
+      operating characteristic (ROC) curves were drawn, area under the curve AUC was computed and
+      optimal cut-off was identified by the maximization of the Youden's index, comparing
+      laboratory results values in patients with excluded COVID-19-related pneumonia and definite
+      COVID-19-related pneumonia. From these optimal cut-offs for laboratory results, sensitivity
+      analyses were performed combining cut-offs.
+
+      A multivariate logistic regression model was built to identify factors associated with having
+      definite COVID-19-related pneumonia as compared to having an excluded COVID-19-related
+      pneumonia diagnosis. Investigator excluded from the excluded CAP diagnosis group, patients
+      with an extra-pulmonary infectious disease. All variables with a p value of < 0.25 in the
+      bivariate analysis were entered into a multivariate logistic regression with a backward
+      stepwise approach; the discrimination was evaluated by the C-index and its 95 % confidence
+      interval (95 % CI) and the calibration was evaluated by the Hosmer Lemeshow goodness-of-fit
+      test.
+
+      All tests were two-sided, and p-values below 0.05 were considered to denote statistical
+      significance. All statistical analyses were performed using SPSS statistical software version
+      21.0 (SPSS Inc., Chicago, IL, USA).
+    
+  

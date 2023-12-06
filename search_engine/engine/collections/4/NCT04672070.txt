@@ -1,0 +1,124 @@
+
+    
+      1. Randomisation and Blinding Teeth will be randomised to receive either SCR or Pulpotomy
+           blindly, with 50 teeth in each group. Teeth allocated to Pulpotomy that do not
+           subsequently have caries extending deep to reach the pulp will be excluded from the
+           Study. Recruitment will continue until the target sample size in each group is attained
+           , up to a maximum of 120 teeth (surplus to account for teeth that are not able to
+           complete the allocated treatment).
+
+           Investigators trained in SCR and Pulpotomy will perform both treatment procedures.
+
+           For patients with multiple teeth with deep carious lesions suitable for this study, the
+           unit of randomisation will be the individual tooth and not the patient. If it is not
+           possible to perform treatment on all the teeth in the same visit, the operator will
+           start on the tooth which displays the deepest lesion measured radiographically and
+           according to clinically exigencies.
+
+           In the event of emergency/unscheduled return visits due to pain, the patient's treatment
+           notes will be made available to the attending dentist and emergency treatment rendered
+           as appropriate (e.g. root canal treatment). This tooth and its relevant research data
+           will be included as an event in the survival analysis but the tooth will be discontinued
+           from the Trial.
+
+        2. Study Visits and Procedures Dental clinicians at National University Polyclinic (NUP)
+           Dental Clinics and NUCOHS will follow a case selection template for patient referral.
+           Timeframe for recruitment is up to 6months after referral to NUCOHS. The patients will
+           be provided standard of care by their dentists according to the respective Institutional
+           Practice, which may include Oral Health Education, Oral Health Instruction and/or
+           scaling and polishing.
+
+           Consent: Patients will be informed of the Study at their first visit to NUCOHS and given
+           time to consider participation and ask questions. Written informed consent will be
+           obtained before proceeding to Screening.
+
+           Screening and Enrolment: Clinical and radiographic examination in line with current
+           clinical practice to save teeth with deep caries will be conducted. When inclusion and
+           exclusion criteria are fulfilled, the tooth will be enrolled into the study. One patient
+           may contribute more than one tooth.
+
+           Randomisation: This will be performed after tooth is enrolled.
+
+           Treatment - SCR or Pulpotomy: After allocation to SCR or Pulpotomy, in both groups,
+           interventions will be performed in a single visit under local anaesthesia and rubber dam
+           isolation. Caries will be removed using high speed burs with water coolant starting from
+           the periphery.
+
+           In the SCR group, selective caries are removed only for secure sealing with a direct
+           restoration, without removing deep caries next to the pulp.
+
+           In the Pulpotomy group, complete caries removal and excision of the coronal pulp to the
+           level of the root canal orifices will be performed. After haemostasis, sealing with
+           Biodentine® and restoration.
+
+           In either group, if the tooth is unable to complete the allocated treatment, this tooth
+           will be excluded from the study.
+
+           In both groups, direct restoration (e.g. composite resin or amalgam) or crowns will be
+           provided based on remaining tooth structure, number of remaining functioning units,
+           location of the tooth and its opposing counterpart.
+
+           Review Appointments: Four Review visits will be conducted at the following time points:
+
+             -  6-7 months post treatment
+
+             -  12- 13 months post treatment
+
+             -  36-37 months post treatment
+
+             -  60-61 months post treatment
+
+           Data Collection:
+
+           Baseline data will include:
+
+             -  Relevant pain history
+
+             -  Clinical examination of the tooth, pulp and surrounding bone and mucosa
+
+             -  Routine dental radiographic examination for tooth restoration
+
+           After treatment is completed, the following treatment data will include:
+
+             -  Time to achieve haemostasis for teeth in the pulpotomy group
+
+             -  Time taken for the procedure
+
+             -  Type of restoration placed
+
+             -  Cost of treatment
+
+             -  Cumulative time spent at the dental clinic to complete treatment
+
+           At follow-up appointments, the review data will include:
+
+             -  Relevant pain history since the last visit
+
+             -  Clinical examination of the tooth, pulp and surrounding bone and mucosa
+
+             -  Routine dental radiographic examination to evaluate supporting bone response to the
+                preserved pulp
+
+             -  Relevant additional procedures for teeth during review period if needed (e.g.
+                replacement of restoration)
+
+             -  Cumulative treatment fees charged to preserve teeth (since enrolment)
+
+             -  Cumulative number of treatment visits (including any additional procedures during
+                the review period, if any)
+
+        3. Statistical and Analytical Plans Unit of analysis is per tooth level. Descriptive
+           analysis (mean & standard deviation and frequency and proportion, where appropriate)
+           will be performed to summarize the baseline characteristics of recruited subjects
+           between the two treatment groups. To study the primary objective - comparing the tooth
+           survival without pulp pathosis between the two treatment groups at 6 months, 1 year, 3
+           years and 5 years, proportional z-test will be performed.
+
+      Generalized estimating equation (GEE) with binomial family distribution and log link function
+      will be employed to study the change in tooth survival over the study follow-up period.
+      Potential confounders and clinical predictors will be adjusted in the model.
+
+      Significance level for all statistical test is set at p-value<0.05. SPSS Statistical Package
+      (IBM SPSS Statistics) will be used for all statistical analysis.
+    
+  

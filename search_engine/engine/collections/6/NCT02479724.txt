@@ -1,0 +1,23 @@
+
+    
+      The object of the work presented here was to validate a new approach to tracking blood
+      pressure that is based on the pulse analysis of the peripheral arterial pressure pulse. The
+      approach, referred to as the Pulse Decomposition Analysis (PDA) model, goes beyond
+      traditional pulse analysis by invoking a physical model that comprehensively links the
+      components of the peripheral pressure pulse envelope with two reflection sites in the central
+      arteries.
+
+      In these experiments, approved by the University of Virginia Institutional Review Board, the
+      arterial blood pressures of patients (23 m/11 f, mean age: 44.05 y, SD: 13.9 y, mean height:
+      173.3 cm, SD: 9.4 cm, mean weight: 95.3 kg, SD: 27.4 kg) hospitalized in University of
+      Virginia Medical Intensive Care Units (MICUs) were monitored using radial intra-arterial
+      catheters, while the CareTaker system collected pulse line shapes at the lower phalange of
+      the thumb of the ipsilateral hand.
+
+      Systolic and diastolic blood pressures continuously collected from the arterial catheter and
+      CT were compared. Pearson correlation coefficients were calculated between arterial catheter
+      and CT blood pressure measurements and a Bland-Altman analysis was created. Results were
+      within the limits established for the validation of automatic arterial pressure monitoring
+      (AAMI/ANSI/ISO 81060-1:2013).
+    
+  

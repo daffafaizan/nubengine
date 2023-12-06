@@ -1,0 +1,101 @@
+
+    
+      Description of methods and plan of operation
+
+      Our research plan consists of the following steps:
+
+        1. Cohort assembly. For each of the above aims the investigators will use the unique
+           database of the Sheba Medical Center to identify the relevant individuals and invite
+           them to take part in the study. Prof. Achiron has much experience in conducting many
+           research projects that utilize the unique patient database available to the Center. For
+           the first aim comparing MS patients to healthy individuals the investigators will select
+           sex-, age- and diet-matched healthy individuals, ideally selecting spouses of MS
+           patients as healthy controls as individuals living in the same environment have more
+           similar microbiota. In our second aim comparing MS patients with similar time from
+           diagnosis but different disease severity, the investigators will select MS patients that
+           span the largest possible spectrum of disease severity as judged by the EDSS score
+           employed by the Center. For the final aim individuals at high risk of relapse will be
+           invited for profiling every 6 months and if relapse occurs, they will be profiled upon
+           their visit to the Center as well as one month after the relapse event.
+
+        2. Cohort profiling. From each patient, the investigators will obtain a multi-dimensional
+           data from the MS database consisting, as appropriate, of a subset of: (1) Clinical
+           metadata, including: Consent form; Medications; annual relapse rate; (2) Blood tests,
+           including a complete blood count, complete biochemistry, lipid profile, cholesterol
+           profile; (3) Complete neurological examination for obtaining an EDSS score, cognitive
+           assessment, gait assessment; MRI imaging data, evoked potentials, treatment response;
+           (4) Blood samples will be processed for protein mRNA expression and peripheral blood
+           mononuclear cells (PBMCs) will be separated on Ficoll-Hypaque gradient, total RNA
+           purified, labeled, hybridized to Genechip array (U133A2), and scanned (GeneArray-TM
+           scanner G2500A; Hewlett Packard) according to the manufacturer's protocol (Affymetrix,
+           Santa Clara, CA). MAS5 software (Affymetrix) will be used to analyze the scanned arrays
+           containing ~22,000 gene transcripts corresponding to 14,500 well-annotated human genes.
+           (5) Gut microbiota profile obtained from stool samples will be processed for shotgun
+           metagenomic sequencing and 16S rRNA profiling. Gut microbiota profiling will be done
+           from stool samples that will be immediately flash-frozen in liquid nitrogen and
+           preserved at a minimum of -80°C until further processing. Samples will then be processed
+           by an automated robotic pipeline that was developed in the Segal lab at Weizmann. This
+           pipeline works in 96-well format and can extract DNA from 96 stool samples within one
+           day, prepare DNA Illumina libraries for shotgun metagenomic sequencing within another
+           day, and carry out multiplexed polymerase chain reaction (PCR) amplification of the 16S
+           rRNA gene in another day. Thus, every 96-stool sample group collected can be processed
+           robotically for both 16S and metagenomic sequencing within 3 days under the supervision
+           of one lab technician.
+
+        3. Data analysis and algorithmic development. (I) Microbiota: To comprehensively study the
+           role of the microbiome in MS, the investigators will go much beyond the standard 16S
+           rRNA analysis and into analysis of full shotgun metagenome samples. By sequencing the
+           entire DNA content of stool samples, metagenome sequencing can potentially provide much
+           more information as compared to 16S, as it allows to study genome structure, structural
+           variants, and gene and metabolic pathway functions. After extracting these features from
+           the microbiome (see below in Preliminary Results), the investigators will start by
+           employing basic univariate and multivariate association tests, and continue with more
+           complex machine learning models that attempt to distinguish individuals with MS from
+           those without based on microbiome features (aim 1), to classify disease severity (aim
+           2), to predict relapse risk (aim 3), to differentiate between MS disease phenotypes
+           i.e., radiologically isolated syndrome (RIS), clinically isolated syndrome (CIS),
+           relapsing-remitting MS (RRMS), primary-progressive MS (PPMS), (aim 4), and to identify
+           treatment responders (aim 5). (II) Blood: To analyze protein expression Partek Genomics
+           Software (www.partek.com) will be used.
+
+        4. Univariate and multivariate analyses. The investigators will first compute the
+           correlation (Pearson and Spearman) between all microbiome features extracted across all
+           profiled individuals and the different patient measurements (EDSS score, time from
+           relapse, etc.), and correct for the multiple hypotheses performed. Since the
+           investigators will generate a vast number of microbiome features and many of them are
+           highly correlated to each other, this analysis may suffer from lack of statistical
+           power, especially given that the number of participants will be far smaller than the
+           number of features. For this reason, the investigators will also perform multivariate
+           analyses (e.g., singular value decomposition, principal component analysis) since the
+           key components identified by these methods capture the main variation in the data in a
+           way that takes into account the internal structure and relationships between the
+           different input features. The investigators will then test whether projections of the
+           data by any of the main principal components in this analysis provides a significant
+           segregation of the participants by their measured metabolic parameters. As a different
+           type of multivariate analysis, the investigators will also employ different unsupervised
+           clustering methods (e.g., hierarchical clustering, naïve Bayes) to cluster the
+           participants by their microbiome feature data, and then examine the clusters for
+           enrichment in normal or abnormal metabolic parameters.
+
+      Machine learning algorithms. As a more global approach aimed at quantifying the overall
+      contribution of the microbiome to MS and at unraveling the relative contribution of the
+      different microbiome features, the investigators will classify the study participants into
+      several groups in each aim (e.g., in aim 1 patients versus healthy individuals; in aim 2
+      individuals with high versus low EDSS score for the similar time from MS diagnosis), and
+      develop different computational methods (e.g., boosted decision trees, Support Vector Machine
+      algorithms (SVMs)) for this classification problem using only the microbiome features
+      generated above. The investigators will use a cross validation scheme, whereby the model
+      training is done on the data of a randomly chosen subset of participants and then tested on
+      the data of the remaining held out participants. In addition, the investigators will leave
+      aside a test set on which the investigators will evaluate the final model that is derived in
+      cross validation, allowing a true estimate of the performance of our models. As the number of
+      microbiome features and thus the number of dimensions is large, the investigators will employ
+      various feature selection approaches as means of avoiding overfitting and reducing
+      dimensionality. The Segal lab (Weizmann) has pioneered the development of several such
+      methods in similar settings in the area of gene regulation. The investigators will also use a
+      similar scheme to predict the continuous EDSS score representing MS severity. The problem
+      setup is similar to classification, but the method development is quite different as the
+      classification methods are replaced with regression type of methods (e.g., linear regression,
+      probabilistic models, stochastic gradient descent).
+    
+  

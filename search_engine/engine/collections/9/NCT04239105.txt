@@ -1,0 +1,58 @@
+
+    
+      Circulating tumor cells (CTCs) are a new type of breast cancer molecular marker. CTCs in
+      peripheral blood originate from breast cancer (primary and metastatic lesions) shedding.
+      Utilization of CTCs as novel and noninvasive tests for diagnosis confirmation, therapy
+      selection, and cancer surveillance is a rapidly growing area of interest. At present, there
+      is a great challenge to create an effective platform that can isolate these cells, as they
+      are extremely rare: only 1-10 CTCs are present in a 7.5mL of a cancer patient's peripheral
+      blood. The majority of the CTC capture methods are based on EpCAM expression as a surface
+      marker of tumor-derived cells. However, EpCAM protein expression levels can be significantly
+      down regulated during cancer progression as a consequence of the process of epithelial to
+      mesenchymal transition. Although many technologies have been reported to achieve the capture
+      and counting of CTCs, these methods study little information of cells and limited biological
+      information can be obtained, leading to a lack in clinical diagnosis.
+
+      Microfluidics has demonstrated great potential as an effective technique for the medical and
+      biological sciences. Inspired by the bed topography in river meanders, here, the
+      investigators report a novel river meander-like cross-section in helical microchannels for
+      size-based inertial focusing and enrichment, aiming to realize more functional geometries as
+      well as reduce the extensive laborious requirement in traditional fabrication process. This
+      device can facilitate particle focusing at a larger scale than traditional channels. Compared
+      to the circular, rectangular and trapezoidal channels, the river meander-like microfluidic
+      channel can successfully realize 26 μm particle focusing with a thinner focusing band in a
+      shorter channel length. Also, in a single test, this structure can achieve 85.4% recovery and
+      the enrichment ratio of 1.86 of spiked MDA-MB-231 cells in the whole blood, overcoming the
+      dependence on traditional cell manipulation microfluidic devices. These results indicate that
+      this river meander-like microfluidic chip has the great potential of size-based cell/particle
+      sorting and enrichment for clinical application. Meanwhile, Surface-enhanced Raman scattering
+      (SERS) has such advantages as high sensitivity, flexible excitation wavelength, high spectral
+      resolution, non-invasiveness to biological samples, resistance self-fluorescence,
+      photobleaching, etc., which is considered as a promising and powerful real-time detection
+      technology for unlabeled cells. But SERS spectrum of cell contains information about
+      different molecules, so it usually requires complex data interpretation. Therefore, the
+      application of Raman spectroscopy combined with chemometrics in biological problems has
+      attracted more and more attention. However, analysis result of chemometrics can be influenced
+      by the complex background of Raman spectroscopy. Therefore, a pre-processing is needed to
+      remove these influencing factors.
+
+      Based on these previous work, the investigators have developed a novel technology for the
+      detection of CTCs of breast cancer. The detection platform constructed by the combination of
+      microfluidic chip and surface-enhanced Raman spectroscopy is used to detect the blood sample
+      of the subject, obtain the high quality of breast cancer circulating tumor cells from the
+      aspects of cell specificity, surface structure and molecular activity of surface-enhanced
+      Raman spectrum information, and extract the characteristics of different breast cancer
+      circulating tumor cells by related signal feature extraction methods, establish a standard
+      surface-enhanced Raman spectral feature database for the main types of breast cancer
+      circulating tumor cells.
+
+      This technology aims to build a platform allowing for cell detection, synthesize particles
+      for surface plasmon Raman enhancement, fabricate microfluidic devices, study the collection
+      and analysis of the Raman spectra of CTCs, establish the database of CTC Raman spectra and
+      develop the evaluation method of the biological detection. The primary objective is to
+      demonstrate that the CTC assay counts technology can distinguish between healthy subjects and
+      malignant breast cancer subjects. The secondary objective is to demonstrate that the CTCs
+      detection technology can evaluate the efficacy of chemotherapy and neoadjuvant chemotherapy,
+      as well as dynamic treatment monitoring and prognosis evaluation.
+    
+  

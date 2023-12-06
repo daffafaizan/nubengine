@@ -1,0 +1,70 @@
+
+    
+      Preanestes@s is a web based application conceived to lead patients through the preoperative
+      period. The application includes a patient interface which offers general and individualized
+      information on the perioperative process, with the possibility of generating a dynamic
+      interaction between patients and medical staff. Patient interface incorporates a web based
+      preoperative questionnaire that once fully completed, will automatically indicate which
+      preoperative tests are necessary and will address patients to a virtual (non face to face)
+      consultation or to traditional outpatient assessment. Both virtual and outpatient assessment
+      will be performed by an anesthesiologist. The web based questionnaire will automatically
+      assign patients an ASA grade (from the American Society of Anesthesia Physical Status
+      Classification); this being the determining variable, although not the only one, when
+      directing patients to the virtual or face-to-face consultation.The questionnaire therefore
+      serves both for collection of clinical information, and as a patient classification tool as
+      well.
+
+      Virtual assessment will be the performed by evaluating both the filled web based
+      questionnaire together with participants´ electronic records. Face to face assessment will be
+      performed in the traditional way by means of an interview with the participant together with
+      the consultation of participant´s previous electronic records.
+
+      The virtual assessment will be reserved for participants without significant comorbidity,
+      which would correspond to patients classified as grade ASA 1-2; this means participants
+      without diseases or with diseases that do not significantly compromise the integrity of the
+      participant: well-controlled hypertension, active smoking without major lung disease,
+      non-morbid obesity, etcetera. Participants with significant comorbidity (grade ASA ≥ 3), will
+      always be referred to a face-to-face consultation.
+
+      This study has been approved by the local Ethics Committee -Comité de Ética e Investigación
+      de Huelva-and signed by its Secretary María Dolores Santos Rubio, date 18.12.2019.
+
+      The investigators´objective is to evaluate whether the information recorded through the web
+      based questionnaire and the virtual assessment is of a comparable quality to that obtained
+      with the gold standard, the traditional face to face outpatient interview.To answer this
+      question, the investigators have designed a prospective paired stud. After obtaining the
+      correspondent informed consent, the investigators will ask participants to fill the web based
+      questionnaire. In participants submitted to virtual assessment after completing the
+      questionnaire, an investigator will perform the virtual preoperative evaluation; these
+      participants will also be submitted to traditional outpatient evaluation in order to compare
+      both types of evaluation. In participants submitted to outpatient assessment, the
+      investigators will compare traditional face to face visit with the questionnaire information.
+
+      The investigators will study the degree of concordance in the recording of preoperative
+      variables between different methods (web based questionnaire, virtual assessment and
+      outpatient assessment). The variables to be analysed are described in the Outcomes Measure
+      section.
+
+      The investigators will also compare the suitability of information recorded in the anesthetic
+      paper based informed consent (pIC) versus the electronic informed consent (eIC) included in
+      the application. The investigators hypothesis is that Preanestes@s web based questionnaire
+      together with the virtual assessment allows a collection of preoperative information at least
+      as reliable as the classic face to face interview format.
+
+      Statistical analysis: the investigators will analyze the agreement between observers
+      (Interrater reliability) for the qualitative variables selected, making comparisons between
+      the different methods of recording information for each variable included in the analysis
+      (study of paired samples). The investigators will use the Fleiss Kappa coefficient to study
+      the concordance in the measurement of the categorical variables.
+
+      For the estimation of the sample size, the investigators will group the categories ASA grade
+      1-2 versus ASA grade 3 and 4, since in the model proposed , the ASA grade ≥ 3 leads patients
+      to a face-to-face outpatient visit. The investigators assume, therefore, the ASA grade as a
+      dichotomous variable (ASA ≥ 3 present or absent). With these considerations, and based on the
+      Table of Concordance of the work of Sankar et al and their results (Kappa index 0.68 (95% CI
+      0.67-0.69)), the investigators estimate a sample size of 318 patients for a Kappa index of
+      0.68 with a precision level of 0.08 and an 95% CI. The investigators will recruit, in
+      principle, a total of 382 participants, assuming a potential loss of 20% of the patients
+      initially included.
+    
+  

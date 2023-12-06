@@ -1,0 +1,83 @@
+
+    
+      Because of the non-invasive nature of ductal carcinoma in situ (DCIS), patients treated with
+      available therapies have excellent outcomes and very low rates of breast cancer mortality.
+      Considerable debate exists as to how the DCIS lesion should be treated, although there is a
+      movement toward less intensive intervention by the identification of patient subsets with
+      favorable prognoses. Some prospective studies have found that the rate of ipsilateral
+      invasive cancer occurrence is still high after receiving breast conserving surgery (BCS)
+      alone, even among patients with favorable pathologic characteristics. Such findings argue
+      against active surveillance for DCIS treatment. However, evidence exists that older DCIS
+      patients have a lower rate of ipsilateral recurrence because DCIS among older patients tends
+      to be indolent. Identifying suitable subgroups among this lower risk group who may be safe to
+      receive a less aggressive treatment could change the current practice pattern of aggressive
+      treatment.
+
+      Even when DCIS patients opt to receive a less intensive treatment such as BCS without
+      radiation therapy, they and their providers need to decide whether to undergo sentinel lymph
+      node biopsy (SLNB). A systematic review has shown that evidence gaps exist regarding the
+      benefits of SLNB for DCIS. Given that the likelihood of axillary recurrence is low among DCIS
+      patients who received radiation therapy, routine SLNB is not recommended for DCIS patients.
+      Of note, radiation therapy can control axillary disease if present. If the investigators plan
+      to empower DCIS patients to choose less intensive management options, such as BCS forgoing
+      radiation therapy (RT), it will be crucial for patients and providers to understand the role
+      of SLNB.
+
+      The overarching goals of this study are to compare side effects and outcomes between
+      receiving SLNB vs. not receiving SLNB among older DCIS patients who received BCS. With this
+      data, the investigators also aim to identify sub-populations for whom less intensive
+      treatments may be appropriate. Using the Surveillance, Epidemiology, and End Result
+      (SEER)-Medicare linked data, our project's overarching aims are:
+
+      Among older women with DCIS who have received BCS as their first surgery, to compare the
+      outcomes of receiving sentinel lymph node biopsy (SLNB) vs. not receiving SLNB within 6
+      months of DCIS diagnosis:
+
+      Aim 1: The investigators will determine associations between SLNB and acute/subacute side
+      effects, including lymphedema, pain, and limitation of movement of upper extremity from the
+      first BCS to 9 months post-diagnosis Aim 2: The investigators will determine associations
+      between SLNB and long-term outcomes, including breast cancer specific mortality, ipsilateral
+      invasive breast cancer diagnosis, subsequent mastectomy as treated recurrence, and lasting
+      side effects, from > 9 months' post-diagnosis to death or the end of the study period.
+
+      Our study is a retrospective cohort study with the study population being DCIS patients older
+      than 67 years (hereafter referred to as older women) who were enrolled in a fee-for-service
+      Medicare program and resided in the SEER areas from 1998 to 2011 (2001 to 2013 for Aim 2) and
+      who were followed up to 2012 (2015 for Aim 2). The investigators selected age 67 years as a
+      cut-off value because the investigators plan to use two years of claims data to identify
+      patient comorbidities and control for them in our statistical models, and data is first
+      available at age 65. Given the nature of our observational study design, the investigators
+      will apply standard multivariate analyses and propensity score methodology to reduce the
+      influence from confounders. The investigators will control for patient demographics,
+      comorbidities, functional status, tumor characteristics, and prior healthcare utilization.
+      Using distance to the nearest provider that uses SLNB for DCIS or surgeon's tendency in using
+      SLNB for stage I/II breast cancer, the investigators also plan to conduct instrument variable
+      analyses if necessary. Stratifying patients by key DCIS characteristics (including grade,
+      comedonecrosis, and tumor size) and their predicted life expectancy (given their age and
+      comorbidities), the investigators also hope to identify patient subgroups who may safely
+      forgo SLNB.
+
+      In comparisons of baseline characteristics between intervention and control groups, the
+      investigators will conduct standard descriptive statistics using chi-square tests for
+      categorical variables and t-tests for continuous variables. The investigators will tabulate
+      the frequencies of outcomes of interests by the intervention vs. control group. For
+      multivariable analyses, the investigators will apply proportional hazards models to test
+      whether the intervention is associated with better outcomes.
+
+      the investigators plan to control for this issue using propensity score matching methodology.
+      Prior literature has suggested inclusion of either all measured variables or those variables
+      that are associated with treatment selection (SLNB status) when conducting an analysis using
+      the propensity score method. Specifically, our approach to matching will be based on the
+      Mahalanobis distance calculated using age, race, residence in a metropolitan county,
+      comorbidity, prior influenza vaccination or prior visit to a primary care physician (both as
+      proxies for access to care), income, preoperative MRI use, and tumor characteristics. Tumor
+      characteristics include size, grade, comedonecrosis, and estrogen receptor status. By
+      incorporating these factors in matching, the investigators expect to substantially decrease
+      bias and balance the risk for outcomes of interest between the SLNB and non-SLNB groups. The
+      difference in outcomes between the control and intervention groups will be estimated in a
+      Kaplan-Meier curve. The investigators will estimate the relative risk in the propensity score
+      matched sample using the standard method for matched-pair data. The investigators will use
+      the Cox proportional hazards models to investigate the association between various factors
+      (grade, tumor size, and estrogen receptor status) and outcomes.
+    
+  

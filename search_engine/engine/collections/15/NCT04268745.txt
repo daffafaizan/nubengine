@@ -1,0 +1,143 @@
+
+    
+      System: The testing platform runs at 120 frames per second with either HTC Vive or Oculus
+      Rift, on a Windows 10 laptop with 8GB RAM, Intel i7-7820HK CPU, Nvidia GTX 1080 Max-Q GPU,
+      and Bose SoundTrue around-ear headphones II. The software was developed in C# with Unity3D
+      2018.2.0f1(64-bit) (Unity Technologies, San Francisco, California). The system utilizes
+      SteamVR. Oculus Rift and HTC Vive both operate at 90 Hz refresh rate, 110 degrees field of
+      view, and a high-definition video of 1080x1200 resolution for each eye. The graphics of the
+      subway station, airport terminal building, and subway trains are modeled in Maya and imported
+      to Unity3D. The rest of the 3D objects are modeled in Unity3D. The subway station model and
+      airport model replicate a real subway station in New York City and a real airport terminal in
+      the US. The contents in the system are fully controllable by the user interface (see Figure
+      3). Three-dimensional sounds were implemented using Wwise middleware and Google Resonance
+      audio plugin. Using the head-tracking data, audio is modulated according to the position of
+      the listener's head. The technology allows for creation of a rich soundscape in all
+      directions around the listener. Audio assets used in the system are divided into two main
+      groups: sound objects and ambiances. Sound objects are attached to the visual objects in the
+      scene and their position is changing accordingly. Sounds include: footsteps, trains,
+      announcements, cars, balls, airplanes, etc. Ambiances are created from original recordings
+      from different locations in New York. These include different background sounds, i.e. sounds
+      of the crowd chatter, distant trains, wind, birds, traffic, and general room tone of each of
+      the spaces. All of the sounds used in the system are assigned to three different intensity
+      levels which relate to the increasing complexity of the soundscape.
+
+      Data Collection: The first assessment session will include a well-established postural
+      control assessment that the investigators had translated to a HMD paradigm and added an
+      auditory layer. The protocol will include all possible combinations of the following: 2
+      levels of visual perturbation (static stars; stars moving in the AP direction, 0.2 Hz,
+      0.032m); 2 levels of auditory perturbation (quiet room; white noise that cycles from 0 to 1
+      dB at 0.3Hz), and 2 levels of support surface (floor; memory foam). Each scene will be 60
+      seconds long, there are 8 combinations, and each will be repeated 3 times for a total of 24
+      trials. Power spectral density (PSD) of sway in 3 frequency segments will be derived from a
+      laboratory force plate and will serve to explore sensory integration mechanism. Participants
+      will also complete the FGA (primary), VVAS (primary), ABC (descriptive), and DHI
+      (descriptive).
+
+      Participants will complete the baseline assessment twice, one week apart, to assure stability
+      of the measures. Following the baseline assessments, participants will be randomized to a
+      C.S.I. experimental group (EG, n = 14) or a standard rehabilitation control group (CG, n =
+      14). The participants will commence the intervention program within a week of the second
+      assessment. The setting will be a vestibular rehabilitation clinic at the New York Eye and
+      Ear Infirmary of Mount Sinai.
+
+      Both groups: Eligible participants will be provided with patient education and a basic home
+      exercise program (gait, balance, no exercises with eyes closed) while they are considering
+      participation in the study.
+
+      Program Dose: 8 weeks, 1 visit per week, 30 minutes long EG: Progressive immersive training
+      with the C.S.I. app; Scenes: start from most salient to the patient, eventually do all
+      Duration: start at 60 seconds, increase over time up to 3 minutes per scene Complexity: start
+      minimal, gradually increase up to most complex Tasks: standing with diverse base of support
+      (BOS), head turns (progress with speed, planes); stepping, turning CG: Progressive gait, gaze
+      stability and balance exercises. Gait: walking with head turns, progress with range, speed
+      and planes of head movement; change of walking BOS: wide, normal, tandem Gaze: focus on a
+      target while moving head side to side / up down. Progress with speed, duration, busier
+      background, standing to walking.
+
+      Balance: standing balance tasks, progress with BOS (wide to narrow to tandem), support
+      surface, eyes closed, duration, head turns.
+
+      Both Groups Progression / Regression rule: The highest level of challenge that can be done
+      for 60 seconds with no loss of balance (LOB); No more than moderate symptoms in clinic based
+      on the Simulator Sickness Questionnaire; If symptoms persisted over 2 hours post-session,
+      scale the intensity back the next time. If symptoms improved immediately, repeat the task
+      with the same intensity and duration.
+
+      Home program for both groups: 8 weeks, 6 times per week, twice per day, 10 minutes long,
+      Highest level of challenge that is safe (no LOB, no increased symptoms) for 60 seconds per
+      task Home EG: Gait and balance exercises, No exercises with eyes closed Home CG: Gait, gaze
+      stability and balance exercises, including exercises with eyes closed
+
+      A post-assessment, identical to the baseline assessment, will be conducted within one week
+      from the completion of the 8th intervention session.
+
+      Sample Size: For Aim 1, the investigators will recruit 28 patients and 28 age and sex-matched
+      controls. For Aims 2 & 3, the 28 patients will be randomized into an experimental (N=14) and
+      control (N=14) groups. Assuming ~20% attrition during the course of the intervention, it is
+      expected to have 11-12 participants per intervention group. Given our history of recruitment,
+      this number is feasible for the duration and resources of the 12-month pilot grant. With that
+      the investigators will determine the sample size needed for a future, adequately powered,
+      study, as described below.
+
+      Internal Validity: To avoid selection bias and to balance potential confounders, the
+      investigators will use block-randomization strategy for participants using the blockrand
+      package in R.21 This procedure uses a two-stage process: first, the size of the block is
+      selected to 2, 4, 6, or 8; next, a block of that size is generated. Therefore, no researcher
+      will be able to predict which group a participant will be assigned to or change that
+      assignment (i.e. allocation concealment). Participants will only be randomized into groups
+      after the baseline assessment and consent to participate in the study have been completed.
+      Although, due to the nature of the intervention, participants and treating clinicians cannot
+      be blinded to group assignment, bias will be minimized by blinding the post-treatment
+      assessors to treatment status. To control for attrition bias, in addition to an
+      intent-to-treat approach, the investigators will ascertain whether any predictors of
+      missingness exist. If so, the investigators will use a pattern mixture model to multiply
+      impute (5 replications) any missing responses.
+
+      Consideration of Relevant Biological Variables: The eligibility criteria specified above
+      represent adult individuals with unilateral vestibular hypofunction of both sexes and of
+      diverse age range. The control group will be matched for age and sex with the vestibular
+      group. A wide age range (18 and up) will be recruited. Obesity is known to affect posture and
+      could alter postural control strategies. Should the sample include overweight individuals,
+      the model will be tested while adjusting for weight. Because the sample will include aging
+      individuals, the investigators anticipate additional health conditions that will be similar
+      between groups, e.g., age-related hearing loss. The exclusion criteria will eliminate health
+      conditions critical to postural control, such as: visual impairment, peripheral neuropathy,
+      and other neurological conditions.
+
+      Data Analysis: Aim 1: For each of the four measures of interest (PSD 1-3 and overall PSD),
+      the investigators will fit a linear mixed effects model to compare the age-matched controls
+      to patients with vestibular hypofunction while accounting for the inherent multi-level study
+      design (person, conditions, repetitions). The models will include main effects of group,
+      visual condition, auditory condition, surface condition, as well as their interactions, while
+      adjusting for age. P-values for the fixed effects will be calculated through the
+      Satterthwaite approximation for the degrees of freedom for the T-distribution. The analysis
+      will be repeated following the intervention, adjusting for group assignment and
+      pre-intervention values. ABC and DHI will be used to describe the sample.
+
+      Aim 2: No statistical analysis needed. Aim 3: First, following the intent-to-treat principle,
+      a linear regression model will be fit with the VVAS and FGA as the primary dependent
+      variable, on treatment group, controlling for baseline covariates (age and other
+      self-reported questionnaire measures) to improve the precision of the treatment effect
+      estimate, as well as pre-test scores. The potential efficacy of the intervention will be
+      assessed based on a significant coefficient for treatment status. Second, as described above,
+      the investigators will fit a pattern mixture model to multiply impute any missing values, and
+      use Rubin's rules to pool coefficients and their standard errors from the regression models
+      fit to each imputed dataset. Data generated from this pilot randomized trial will be used to
+      calculate the sample size needed for future, adequately powered, randomized controlled trials
+      by estimating the difference in means for the treatment groups (i.e. a future expected effect
+      size) as well as the variance of the primary outcomes and the values of other parameters
+      necessary to compute the power function.
+
+      Safety and Reporting: Preliminary work showed minimal to no cybersickness and no falls or
+      adverse reactions to the virtual reality training. Only 1 patient dropped out due to concern
+      about symptoms. Others dropped out due to anxiety, physician's request, cessation of therapy,
+      or other orthopaedic injuries that occurred after enrollment. In the current study, Dr. Maura
+      Cosetti, MD, will provide oversight and monitoring of the conduct of the trial as a
+      preliminary DSMB. This will ensure the safety of participants and the validity and integrity
+      of the data. The PI and Dr. Kelly will perform continuous monitoring of participant safety
+      (falls, symptoms on every session) with frequent reporting to Dr. Cosetti. The investigators
+      will follow the Consolidated Standards of Reporting Trials (CONSORT) 2010 statement checklist
+      and diagram in reporting the results of the trial.
+    
+  

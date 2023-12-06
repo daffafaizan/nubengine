@@ -1,0 +1,95 @@
+
+    
+      Outcome Analysis of antiplatelet therapy with Aspirin in Liver Transplantation
+
+      BACKGROUND Arterial complications after liver transplantation (LT) are still one of the most
+      serious complications, which might result in liver necrosis, abscess formation, ischemic
+      cholangiopathy, and eventually graft loss. The sequel of these adverse events has a negative
+      impact on graft and patient survival and remains a life-threatening complication with a high
+      mortality and retransplantation rate. Therefore, an uncompromised inflow of the hepatic
+      artery is crucial to avoid any occlusion after LT.
+
+      In the literature, the incidence of hepatic artery thrombosis ranges between 2.5 and 10%. So
+      far, the possibility of preventing hepatic artery thrombosis through specific pharmacological
+      prophylaxis with antiplatelet agents (Aspirin) has been poorly investigated, which may be in
+      part due to the impaired coagulative state at the time of transplantation and the early
+      postoperative period. On the other hand, platelets, the chief effectors of vascular
+      homeostasis, have been identified as important players in the pathogenesis of both acute and
+      chronic liver diseases in animal models.
+
+      In the experimental setting inhibition of platelet activation was able to reduce
+      immune-mediated necro-inflammatory liver disease and consecutively hepatocellular carcinoma
+      development. Therefore, antiplatelet therapy may not only have a preventive effect on hepatic
+      artery patency but also on tumor recurrence.
+
+      So far and to the best of our knowledge, no study investigated the effect of antiplatelet
+      therapy on hepatic arterial patency, tumor recurrence and graft survival after primary liver
+      transplantation.
+
+      STUDY OBJECTIVES The primary goal of this study is to conduct a multicentre cohort analysis
+      to investigate whether antiplatelet therapy with Aspirin has an impact on hepatic arterial
+      patency after primary liver transplantation.
+
+      Specific aim #1: To evaluate if antiplatelet therapy with Aspirin has a protective effect on
+      arterial patency after primary LT.
+
+      Specific aim #2: To identify if antiplatelet therapy with Aspirin has a protective effect on
+      acute cellular rejection.
+
+      Specific aim #3: To identify if antiplatelet therapy with Aspirin has protective effect on
+      tumor recurrence (HCC).
+
+      Specific aim #4: To investigate whether antiplatelet therapy with Aspirin has a protective
+      effect on graft survival.
+
+      STUDY DESIGN This will be a multicentre single cohort study including only cases of deceased
+      donor primary liver transplantation. Primary endpoint is 30-day arterial patency in patients
+      with or without antiplatelet therapy with Aspirin after liver transplantation. Secondary
+      endpoints include postoperative complications, tumor recurrence, graft- and patient survival.
+      The study protocol has received approval by the local ethics committee (2016-01889) as well
+      as published here prior to data collection.
+
+      SETTING This multicentre cohort study will include several high-volume centres worldwide.
+      Each participating centre requires a prospective database from that data can be extracted.
+      All consecutive cases of deceased donor liver transplantation requiring from 1st of January
+      2013 until 31st of December 2015 are included allowing a minimum follow-up time of 24 months.
+      Data collection at Aspirin4olt.org will be prospective, structured, anonymized, and
+      encrypted.
+
+      PUBLICATION POLICY For upcoming publications, two authorships of the participating centres
+      will be guaranteed as a group-authorship indexed in PubMed.
+
+      INSTITUTIONAL REVIEW POLICY / ETHICAL POLICY Each participating centre is responsible to
+      contact their local ethics committee and receive approval for participation, if applicable.
+      For example, this project is considered as an audit in some countries and thus there is no
+      need for formal approval in the form of a protocol submission.
+
+      ELIGIBILITY CRITERIA
+
+      Inclusion criteria:
+
+      Adult Liver transplantation (age ≥18 years) Deceased donor after brain death (DBD) or
+      deceased donor after circulatory death (DCD) Primary liver transplantation, whole graft
+      Arterial anastomosis: end-to-end, back table reconstruction
+
+      Exclusion criteria:
+
+      Split liver and living donor liver transplantation Paediatric liver transplantation
+      (recipient age <18 years) Arterial conduits Multivisceral transplantations Retransplantations
+
+      ESTIMATED SAMPLE SIZE Each centre should provide at least 30 cases that meet the inclusion
+      criteria to allow adequate event rates for each outcome.
+
+      Statistical methods The primary and secondary endpoints will be compared with patient and
+      operation characteristics with univariate analysis. ROC Curve analysis will be performed to
+      dichotomize continuous variables. Multivariable analysis (binary logistic and Cox regression)
+      will be performed to identify independent risk factors. Statistical analysis will be
+      performed using R Studio version 1.0.44 (RStudio, Inc. GNU Affero General Public License v3,
+      Boston, MA, 2016) with the graphical user interface rBiostatistics.com beta version
+      (rBiostatistics.com, London, UK, 2017, GNU License).
+
+      Christian E. Oberkofler Philip C. Müller Dimitri A. Raptis Henrik Petrowsky On behalf of the
+      Aspirin4olt.org team Swiss HPB Center, Department of Surgery and Transplantation, University
+      Hospital Zurich, Switzerland
+    
+  

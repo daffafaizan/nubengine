@@ -1,0 +1,56 @@
+
+    
+      The education material currently available in the Transport Canada website will be enhanced,
+      by adding an introduction that describes how seat belts and booster seats work (i.e., these
+      devices help redirect crash forces to stronger parts to the body: rib cage and pelvis).
+
+      Objective of the trial: To determine if the enhanced material is better than the current
+      Transport Canada information at increasing perceived safety benefit and intention to use
+      booster seats.
+
+      Design: Concurrent two-group parallel randomized controlled trial.
+
+      Randomization: Block randomization will be used to assign participants to either intervention
+      or control groups. Participants and researchers will be blinded to allocation.
+
+      Participants. 303 mothers and 303 fathers of children 4 to 8 years old will be invited to
+      participate, irrespective of whether they use booster seats always, occasionally, or never. A
+      sample of 606 participants provides sufficient power to detect a mean difference in perceived
+      benefit that separates those parents who consistently restrain their child in booster seats
+      from those who do not. Sample size was estimated with the TwoSampleMean function for trials
+      that test superiority of interventions (TrialSize package for R). Participants in the trial
+      will receive $1/each for the completion of the survey. Based on information from studies with
+      similar characteristics, the expected response rate is 40%.
+
+      Setting and Procedures. The trial will be conducted entirely online. Participants will be
+      recruited through an online market research firm, Maru/Matchbox, which maintains a nationwide
+      panel of 130,000 individuals whose distribution represents the Canadian population.
+      Maru/Matchbox will send an email invitation to participate along with a link to the online
+      survey. The landing page of the survey will provide description of the study for parents to
+      read. The online survey will be set up in such a way that participants won't be able to start
+      answering questions, unless they consent by clicking the "I agree" button. Participants, will
+      be advised to print and keep a copy of the consent form either as PDF or as hard copy. After
+      consenting to participate, the online trial will proceed as follows:
+
+        1. Participants will complete a baseline questionnaire.
+
+        2. The system will randomly assign the participant to either the intervention or the
+           control group. Randomization will be stratified by sex, child age, and jurisdiction to
+           ensure both groups are equal.
+
+        3. Participants in the intervention group will be presented the enhanced booster seat
+           material, while participants in the control group will be presented the current
+           Transport Canada booster seat material. Material provided to both groups will be
+           stripped of logos (Transport Canada logos and corporate identity), but will be properly
+           cited.
+
+        4. Participants will complete post-intervention questionnaire.
+
+        5. Participants in the intervention group will be asked one or two questions to ensure they
+           did not misunderstood the information in an unintended way. If a parent answers
+           incorrectly, the system will clarify the information immediately after.
+
+        6. Participants in the control group will be given the option to view the enhanced booster
+           seat material, in order to give them the opportunity to benefit from the intervention.
+    
+  

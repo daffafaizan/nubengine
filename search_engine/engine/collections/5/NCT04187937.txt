@@ -1,0 +1,39 @@
+
+    
+      Surgical resection is the current gold standard for curative care of primary and metastatic
+      hepatic tumors. This procedure involves the removal of the part of the liver where the tumor
+      is located. This is typically achieved by removing the segments containing the tumor, so
+      called anatomical resections. The downside of this technique is that it also removes a large
+      part of healthy liver tissue. Recently, non-anatomical resections are becoming more popular,
+      as they spare more healthy liver tissue than anatomical resections with similar oncological
+      outcomes. In a non-anatomical resection, only the part of the liver with the tumor and a
+      safety margin of 5 - 10 mm are resected. This is done to ensure a negative resection margin,
+      which means that no tumor cells are at the boundary of the resection. These non-anatomical
+      resections can be performed repeatedly in case of recurrence. However, compared to anatomical
+      resections, it is more challenging to keep a negative resection margin as anatomical
+      landmarks cannot be used for intra-operative guidance.
+
+      In the beginning of a non-anatomical resection, a resection line is drawn onto the liver
+      surface to visualize where the resection shall be started. During the resection process,
+      intra-operative ultrasound is used to confirm a safe distance to the tumor. Finally, once the
+      depth is reached, the distance to the tumor is again confirmed on ultrasound and the tumor is
+      removed. This is a challenging process which depends on the operator's ability and experience
+      with mentally reconstructing the spatial relationships of the ultrasound image and the
+      intra-operative scene. Additionally, the resection margin introduces artifacts and makes it
+      harder to visualize the safety distance to the tumor on ultrasound.
+
+      To overcome these challenges, image-guidance systems have been introduced into the surgical
+      workflow. These systems measure the pose of the surgical instruments and display their
+      position on a virtual model of the anatomy. They mainly rely on a registration process to
+      align a preoperative model with the patient's anatomy intraoperatively. This process is
+      time-consuming, complex and error prone which is the main reason why such systems are rarely
+      used.
+
+      In this study, the investigators aim to clinically evaluate a different approach, where
+      navigated intra-operative ultrasound data is used to create a virtual model and a surgical
+      plan on the spot. This does not require a separate registration process. With this approach a
+      virtual draft of the surgical plan is created, which serves as a rough guidance map through
+      the procedure. The investigators hypothesize that using such an intra-operative surgical
+      draft allows the surgeon to acquire a negative resection margin.
+    
+  

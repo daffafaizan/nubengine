@@ -1,0 +1,117 @@
+
+    
+      Background:
+
+      Coronary Computed Tomography Angiogram (CCTA) is a non-invasive imaging modality that has
+      high sensitivity and negative predictive value for the detection of coronary artery disease
+      (CAD). The main limitations of CCTA are its poor specificity and positive predictive value,
+      as well as its inherent lack of physiologically relevant data on hemodynamic significance of
+      coronary stenosis, a data that is provided either by non-invasive stress tests such as
+      myocardial perfusion imaging (MPI) or invasively by measurement of the Fractional Flow
+      Reserve (FFR). Recent advances in computational fluid dynamic techniques applied to standard
+      CCTA are now emerging as powerful tools for virtual measurement of FFR from CCTA imaging
+      (CT-FFR). These techniques correlate well with invasively measured FFR [1-4]. The primary
+      purpose of this study is to evaluate the incremental benefit CT-FFR as compared to CCTA in
+      triaging chest pain patients in ED settings who are found to have obstructive CAD upon CCTA
+      (generally > 30% and < 90% stenosis). Invasive FFR and short term clinical outcomes (90 days)
+      will be correlated with each diagnostic modality in order to evaluate positive and negative
+      predictive value of each when used incrementally with CCTA.
+
+      Investigational Agent:
+
+      CCTA is increasingly becoming a preferred non-invasive imaging modality because of its high
+      sensitivity and negative predictive value for the detection of CAD. It has been shown to be a
+      robust imaging modality for evaluation of chest pain, and is associated with decreased
+      unnecessary hospital admission, length of stay, major adverse cardiovascular event rates,
+      recidivism rates, and downstream resource utilization compared to standard evaluation [5].
+      While findings so far are highly suggestive of CCTA's significance as a gatekeeper for ICA by
+      ruling out obstructive CAD, fewer than half of obstructive stenosis identified by CCTA are
+      ischemia-causing, signifying its poor positive predictive value and inherent lack of
+      physiological information [6-8]. Consequently, utilization of CCTA has not entirely averted
+      need for downstream testing for functional assessment of CCTA-detected obstructive lesions
+      either by stress testing or ICA. Recently a major treatment modality, associated with the use
+      of CCTA, has become available that offers promise for improving positive predictive value and
+      physiological relevant hemodynamic data. Advances in computational fluid dynamic techniques
+      applied to standard CCTA are now emerging as a powerful tool for virtual measurement of FFR
+      from CCTA imaging (CT-FFR). This technique correlates well with invasively measured FFR
+      [1-4]. While HeartFlow, Inc. has established an FDA approved process to assess coronary
+      artery flow using noninvasive CT-FFR, this data requires 24 to 48 hours for processing.
+
+      Toshiba CT-FFR processing is non-FDA approved. The analytic method for vessel evaluation
+      differs from that used by HeartFlow. Currently Toshiba is operating studies at four
+      organizations around the world to assess the product's performance. Recently, the company
+      published results from a study conducted Australia that showed positive findings on a sample
+      of 42 patients, with positive predictive value of 74% vs. 60%.[9] The technology was
+      presented at European Society of Cardiology (ESC) by Dr. S. Seneviratne and at Radiological
+      Society of North America (RSNA) and the American Heart Association (AHA). Using the
+      technology for ED patients offers potential advantage over the HeartFlow process, because the
+      turnaround time for the procedure is one to three hours. However, the early positive findings
+      need to be validated with a more robust study.
+
+      Preclinical Data:
+
+      While few publications regarding the use of CT-FFR specifically address the cost of
+      diagnostic work-up for obstructive disease, it is clear that the cost structure resulting
+      from changes in diagnostic testing will also change. Deferral or avoidance of cardiac
+      catheterization and nuclear stress testing will likely yield significant reductions in the
+      cost of the diagnostic testing. In addition, because the results of the CT-FFR are available
+      in the ED, CT-FFR has the potential to offer financial savings from reduced length of stay,
+      while increasing patient satisfaction and reducing exposure to increased risk related to the
+      emergency department environment.
+
+      Clinical Data to Date:
+
+      From 1/1/2009 to 3/31/2015 the investigative team introduced and operated a CCTA Chest Pain
+      triage program for low to intermediate risk patients at Stony Brook University Hospital ED
+      and non-emergency outpatient services, the only tertiary care hospital in Suffolk County, New
+      York (NY). Concurrently, the investigators established a registry to monitor patient outcomes
+      for all patients receiving CCTA at Stony Brook Medicine. The registry contained nearly 15,000
+      patient CCTA procedures. The major registry study established the effectiveness of CCTA as an
+      imaging modality for evaluating ED chest pain in a cost efficient manner with a false
+      negative rate less than 1% [5]. However, the registry reflects the poorer positive predictive
+      values documented by other industry studies [6-8].
+
+      False positive workup results in the necessity of performing cardiac catheterization on
+      patients at risk for obstructive disease based on assessment with current standard of care
+      (combined screening with CCTA and stress MPI). Reduction in the rate of false positive
+      testing would lead to reduction in risk from invasive procedures and radiation exposure to
+      patients and reduced cost to the health care system.
+
+      Study Objectives:
+
+      The purpose of this study is to evaluate the incremental benefit of Fractional Flow Reserve
+      derived from CCTA (FFR-CT) compared to invasive FFR as the gold standard for patients with
+      obstructive disease (generally, >= 30% stenosis).
+
+      General Study Design:
+
+      This will be a prospective clinical trial designed to evaluate the incremental benefit of
+      virtual FFR measured from CCTA, compared to invasive FFR and CCTA alone for the detection of
+      flow-limiting coronary stenosis, as defined by invasive FFR <=0.8 and vessel diameter of
+      >=2mm.
+
+      1,142 consecutive patients who present to North Shore University Hospital Emergency
+      Department (ED) for CCTA due to chest pain or angina over a two year period and meeting the
+      study inclusion criteria are eligible for the study (Figure 1). The investigators will employ
+      CCTA-appropriateness criteria to ensure proper selection of patients, derived from the
+      Appropriate Use Criteria for Cardiac Computed Tomography published in 2010 and jointly
+      authored by multiple societies including American College of Cardiology Foundation (ACCF),
+      Society of Cardiovascular Computed Tomography (SCCT), and American College of Radiology (ACR)
+      [11]. FFR-CT measurements will be performed following CCTA scan acquisition on software
+      developed by Toshiba America Medical Systems, Inc. All eligible patients will undergo
+      320-slice multi detector CCTA and CT-FFR measurements. The severity of the stenosis will be
+      determined on site by level III CCTA readers.
+
+      Patients with borderline (50% - 70%) or positive CCTA (>70%) stenosis readings will undergo
+      ICA with invasive FFR measurement in accordance with accepted guidelines and established
+      practice standard. Those patients with invasively measured FFR<=0.8 and with vessel diameter
+      of >= 2mm, or those who require revascularizations based on invasively estimated stenosis
+      severity (for patients who are totally obstructed) will be considered to have flow-limiting
+      obstructive CAD, while the rest will be considered to have non-flow limiting obstructive CAD
+      (if also >50% stenosis on ICA). If stenosis severity turns out to be < 50% after ICA, these
+      patients will have been shown to have non-obstructive CAD. (Figure 1). Patients with 30% to
+      49% obstructive stenosis by CCTA standards and with positive CT-FFR, will also undergo
+      invasive FFR and follow the protocol for those with > 50% obstruction. Patients with 0 to 49%
+      obstructive disease and negative CT-FFR will be referred to optimal follow up care only.
+    
+  

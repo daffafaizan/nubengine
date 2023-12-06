@@ -1,0 +1,187 @@
+
+    
+      Aim:
+
+      To evaluate the long-term effects of the PreVenture program on delaying the onset of drug and
+      alcohol use in adolescence when delivered through a train-the-trainer (TtT) implementation
+      model.
+
+      Questions:
+
+      This is a hybrid effectiveness [E] and implementation-facilitation [IF] trial on delaying the
+      onset of drug and alcohol use in adolescence. In the [E] part, the effects of a personalized
+      prevention program will be tested against usual school-based prevention curricula. PreVenture
+      is delivered through a TtT implementation model with or without [IF], e.g. with ongoing
+      supervision and web-based support. The [IF] package is designed to support long-term
+      sustainability of PreVenture after a community accesses PreVenture training.
+
+      [E] questions: Does the personalized intervention delay the onset and reduce the severity of
+      problem substance use among secondary school students when schools are trained through a TtT
+      model (primary)? Does the intervention impact the onset and frequency of binge drinking,
+      cannabis and illicit drug use, and uptake of non-medical prescription drug use at (i) one
+      year and (ii) two years post-intervention (secondary)? What are the factors which impact the
+      delay of onset and reduction of severity?
+
+      [IF] questions: What are the best conditions under which the program implementation is
+      sustained to a high quality from one year to the next? What are the costs and potential
+      economic benefits of the intervention with and without additional implementation
+      facilitation?
+
+      Design:
+
+      Three sites (NS; ON; BC) will participate in the trial. Each site will recruit 9 high schools
+      randomized to one of three intervention conditions:
+
+        1. Treatment-As-Usual (TAU) control: standard curriculum and mental health care
+
+        2. TtT PreVenture delivered through local trainers (PTtT): Each site will identify two
+           Trainers to be trained to deliver high fidelity PreVenture training to 4 school-based
+           professionals per school assigned to this condition and condition 3 (see below). Each
+           school will identify the 4 staff members to receive training and administer practice
+           sessions using structured manuals with assessment of quality of the interventions.
+
+        3. TtT PreVenture with Implementation Facilitation (PTtT+IF): three new components designed
+           to increase the likelihood that schools will continue to implement the program with high
+           quality and satisfaction: a) Involvement of youth in promoting the program, b) ongoing
+           coaching/supervision sessions for group facilitators, c) access to easy-to-use
+           performance metrics.
+
+      Each school will screen all assenting grade 10 students (N=150 per school) in 2019 (Cohort 2
+      followed up until 2021), 2020 (Cohort 3 followed up until 2021) and 2021 (Cohort 4 no
+      follow-up), which will result in approximately 4,050 students screened across 27 schools in
+      Canada each year totaling 12,150 students over 3 years. [Cohort 1 is training-only in 2018]
+
+      All 4050 students will be invited to participate in the trial each year and will be followed
+      annually to facilitate coordination of assessments at the school level and to reduce any
+      stigma to targeted youth. Youth who assent to being randomized to an intervention condition
+      and who score above the personality threshold will be considered the Intent-to-Treat [ITT]
+      sample, regardless of whether or not the school managed to deliver the intervention. The
+      whole grade will be followed to assess secondary outcomes at the whole grade level as
+      reported in Conrod et al, 2013.
+
+      The PreVenture program is a personality targeted prevention program designed to help youth
+      understand the target personality trait and develop adaptive coping strategies for managing
+      that trait using motivational and cognitive restructuring techniques. Four
+      personality-specific motivational pathways to substance misuse are targeted hopelessness
+      (HOP), anxiety sensitivity (AS), impulsivity (IMP) and sensation seeking (SS). PreVenture
+      involves 2 90-minute group sessions, with one week separating each session. The interventions
+      are conducted using structured manuals that incorporate psycho-educational, motivational
+      enhancement (MET), and cognitive-behavioural (CBT) therapy components, and include real life
+      'scenarios' shared by local youth with similar personality profiles.
+
+      Main Hypotheses:
+
+      [E] primary outcome: PreVenture will result in less severity of substance use problems as
+      measured by the CRAFFT score after 12- and 24-month follow-up (comparison of both arms with
+      PreVenture against treatment as usual using Cohort 2 in all three conditions)
+
+      [E] secondary outcome: PreVenture will result in lower prevalence of binge drinking, lowered
+      frequency of cannabis use, other illicit drug use and non-medical prescription drug use after
+      12- and 24-month follow-ups (comparison of both arms with PreVenture against treatment as
+      usual using Cohort 2 in all three conditions)
+
+      [IF] primary outcome: In the PreVenture group with implementation-facilitation, the rate of
+      successful interventions (less severity on CRAFFT score) after 12-month follow-up is higher
+      than in the PreVenture group without implementation-facilitation (comparison of 12-month
+      results of Cohort 3 between both conditions)
+
+      [IF] secondary outcome: In the PreVenture group with implementation-facilitation, the rate of
+      interventions in Year 4 after the start of PreVenture interventions is higher than in the
+      PreVenture group without implementation-facilitation (comparison of Cohort 4 between both
+      conditions)
+
+      Data analyses strategy for [E]:
+
+      The core data for exploring effectiveness will be in Cohort 2, followed up for 24 months.
+      This allows for the use of growth models, which can model intra-individual change over time.
+      The dependent variables for these models change, may be dichotomous (e.g., onset of substance
+      use: yes/no), ordinal, expressing counts or have interval properties (for example, the CRAFFT
+      scale can be used as an ordinal or count variable - i.e. this poses a number of problems -
+      but has also been used as a scale with interval scale properties). Different scale types
+      require different types of regression analyses to be used in growth modelling (i.e., linear
+      regression, logistic regression, Poisson regression, etc.).
+
+      For the CRAFFT score, three aspects require consideration:
+
+        1. proportion of people with 0 values, i.e., no onset of substance use or no problems
+
+        2. left-hand censoring, as values cannot be lower than 0
+
+        3. assumption that the change from 0 to 1 is a structurally different change than the
+           changes involving values greater or equal to 1 The first problem can be dealt with by
+           using specific models for zero inflation, which started with zero-inflated Poisson
+           distributions, but by now has been extended to most forms of regression analyses.
+           Censoring should not be a problem as the investigators are dealing with increasing
+           slopes, and will treat the CRAFFT as a count variable, which by definition has 0 as
+           starting values. As for structural changes between the transition from 0 to 1 vs. other
+           changes, the investigators will explore via the Heckman model, which will model the
+           transition from 0 to 1 separately, allowing for different influence factors.
+
+      For the primary outcome, the following statistical procedures will be used (ITT analyses):
+
+        -  Dependent variable: CRAFFT score
+
+        -  Regression type used for growth modelling: zero-inflated Poisson regression
+
+        -  Adjustment variables: sex, age, province
+
+        -  Relevant statistics: adjusted CRAFFT score after combined 12- and 24-month follow-up of
+           combined PreVenture groups vs. treatment as usual (TAU) group.
+
+      For the secondary hypotheses, similar procedures will be used, with the specific regression
+      type to be determined by the dependent variable. In addition to ITT analyses, sensitivity
+      analyses with different assumptions on missing values will be conducted. The investigators
+      will also test if the effect of PreVenture is significant in each of the two time points
+      (i.e., not only for the combined time points).
+
+      Other analyses will explore different influencing factors on the effectiveness of PreVenture
+      and these analyses will be conducted in the same framework, adding different independent
+      variables. The investigators will combine this framework with a latent framework (latent
+      growth analyses); to separate groups with different trajectories, and will model influences
+      on these separate trajectories.
+
+      Data analysis strategy for [IF]:
+
+      It is important for an intervention such as PreVenture, which has proven efficacy under
+      certain conditions, to show effectiveness in the real world under less optimal conditions,
+      and to measure the various impacts on effectiveness. Accordingly, one of the experimental
+      conditions systematically varies implementation conditions by introducing three additional
+      components: a) Involvement of local youth in promoting the program, b) ongoing
+      coaching/supervision sessions for group facilitators, c) access to easy-to-use performance
+      metrics.
+
+      The impact of facilitation will be tested in the following primary implementation hypothesis:
+
+        -  Dependent variable: rate of implemented interventions
+
+        -  Regression type used for growth modelling: fractional response regression
+
+        -  Adjustment variables: sex, age, province
+
+        -  Relevant statistics: adjusted rates of implementations at the 12-month follow-up between
+           the two PreVenture groups (with vs. without implementation-facilitation) The alternative
+           hypotheses will be accepted, if the PreVenture group with implementation-facilitation
+           has a higher rate.
+
+      There will be more analyses to explore the implementation facilitation. One key will be
+      measurement of the fidelity and quality of implementation, and the investigators will be
+      using a specifically developed measure, the PreVenture Intervention Fidelity and Adherence
+      (PIFA) scale, for the latter.
+
+      Overall, the analyses will include the infrastructure, the number of interventions produced,
+      and the success rates of these interventions.
+
+      Economic considerations:
+
+        -  For (IF), a cost-utility analysis of the two PreVenture conditions to determine the
+           incremental cost-utility ratio per improvements of the Child Health Utility (CHU9D)
+           scale (based on the primary hypothesis in [IF]) will be conducted. Analyses can be
+           widened to include comparisons between TAU and PreVenture conditions.
+
+        -  Alternatively, a cost-benefit analysis on the impact of PreVenture from a societal cost
+           perspective could also be conducted. The costs of the implementation would then be
+           compared to cost-savings in resources necessary to cope with the substance use problems,
+           where the latter could either be derived from the literature, and/or from a subsample
+           analysis for health and judicial service utilization.
+    
+  

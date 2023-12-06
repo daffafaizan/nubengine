@@ -1,0 +1,33 @@
+
+    
+      AIM 1: Determine urine TXB2, platelet aggregation function testing (VerifyNow® ASA Test),
+      salicylate level, CBC with differential, and hs-CRP, in 18 healthy volunteers across BMI
+      classes of 22-25 (Normal Weight), >25-30 (Overweight), and > 30 kg/m2 (Obese).Total enrolled
+      cohort: 60 patients and planned treatment cohort: 54 completed patients (anticipated dropout
+      rate of 10% = 6 patients). The investigators have powered this sample size based on estimates
+      of effect sizes from published studies examining platelet activation in patients across a
+      range of BMIs and assuming an alpha = 0.05, with 80% power. In addition, height and weight as
+      predictors will be evaluated independently of BMI. BMI patient groups (22-25, >25-30, and >
+      30 kg/m2) will be randomized to low-dose ASA (81mg standard-release), moderate dose ASA
+      (325mg) or high dose ASA (500mg) (6 patients/each dose).
+
+      All patients will have a CBC with differential (to measure blood cell counts including
+      platelets) and hs-CRP at baseline, serial urine TXB2 (-1, and 2 and 5 hours post ASA dose),
+      platelet aggregation function testing using VerifyNow® ASA Test 15 min post ASA dose, serial
+      salicylate levels (0, 15", 2 hours post-ASA dose) and again 10-14 days after chronic dosing
+      (urine TXB2 2 hours post ASA dose and platelet aggregation function testing using VerifyNow®
+      Test 15 min post ASA dose only).
+
+      AIM 2: Model associations between construct variables (BMI and aspirin dose) with predictive
+      variables as collected in AIM 1. Multiple and Linear Regression with backward selection will
+      be used. In addition, a Structured Equation Model will be applied to the data. Statistical
+      assessment of model fit will be conducted for all models.
+
+      AIM 3: Build an Aspirin Dose Estimator to predict aspirin dosing. Model associations from AIM
+      2 will create demand estimates that will feed into a user-friendly aspirin dosage estimator.
+      The simulator will comprise: 1) Entry: An entry screen. In this screen the user will enter
+      the features of patient clinical information attributes. The user then clicks a 'run' button.
+      2) Demand Output: The simulator will then create an output screen that will show graphically
+      aspirin dosing options.
+    
+  

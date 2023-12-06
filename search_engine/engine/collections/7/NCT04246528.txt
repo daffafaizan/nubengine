@@ -1,0 +1,121 @@
+
+    
+      ----------------------- OBJECTIVES
+
+      The primary objective of the SPIN-SELF feasibility trial with progression to full-scale RCT
+      is to evaluate the disease management self-efficacy of participants who use SPIN's online
+      self-management program (SPIN-SELF), compared to usual care. Secondary objectives are to
+      assess the effect of SPIN-SELF on functional health outcomes, as well as usage of the
+      SPIN-SELF program and patient satisfaction with the format and delivery.
+
+      ----------------------- RECRUITMENT
+
+      The SPIN Cohort currently includes over 2000 SSc patients from 47 sites in Canada, the United
+      States, Mexico, Australia, and France, Spain, and the United Kingdom. SPIN Cohort
+      participants complete outcome measures via the Internet upon enrolment and subsequently every
+      three months. Eligible patients, based on questionnaire responses (Self-Efficacy for Managing
+      Chronic Disease (SEMCD) Scale ≤ 7), will be invited to participate in the SPIN-SELF
+      feasibility trial with progression to full-scale trial. Additionally, recruitment
+      announcements for the SPIN-SELF feasibility and full-scale trials will be posted on SPIN's
+      Facebook page and Twitter account and distributed for posting via SPIN's patient organization
+      partners in countries with large English and French-speaking populations. The non-SPIN Cohort
+      participants' eligibility will be assessed with the SEMCD Scale. In the feasibility portion,
+      only English-speaking participants will be included. In the full-scale trial, English and
+      French-speaking participants will be included. An anticipated 40 eligible participants will
+      be recruited into the feasibility portion, and an anticipated 518 eligible participants will
+      be recruited into the SPIN-SELF full-scale RCT.
+
+      ----------------------- PROGRESSION FROM SPIN-SELF FEASIBILITY TRIAL TO FULL-SCALE TRIAL
+
+      The investigators will launch the SPIN-SELF trial as a feasibility trial with possible
+      progression to full-scale trial. Thus, in the feasibility portion of the proposed study, the
+      trial team will collect data to improve several aspects of the trial's processes. At the
+      completion of the feasibility portion, the trial team plans to proceed directly to the
+      full-scale trial, including results from the feasibility stage in the full-scale trial,
+      unless one or more of the stoppage criteria occur. In that case, the trial team will address
+      issues that are identified and begin the full-scale trial anew, separate from the feasibility
+      trial. The stoppage criteria are the following:
+
+        1. Recruitment and enrolment of trial participants: If participants who are eligible based
+           on their self-efficacy scores (SEMCD ≤ 7) are not recorded as eligible in the
+           eligibility report on the new SPIN Cohort platform (gen2) and not recruited, then the
+           programming errors in the new platform will need to be addressed and procedures will
+           need to be re-set before the full-scale trial can commence. If more than 6 non-eligible
+           participants (15% of 40 enrolled in feasibility trial) are erroneously identified as
+           eligible and assigned to the intervention or waitlist control, the trial team would
+           address programming errors, modify procedures and conduct the full-scale trial as a new
+           trial.
+
+        2. Fidelity of the delivery of the intervention (i.e., group sessions): If by the end of
+           the feasibility trial > 20% of the components of the 8 sessions were not delivered
+           according to the pre-specified program, the trial team will investigate to identify
+           barriers to the delivery of the intervention and will modify the intervention procedures
+           accordingly, before proceeding to the full-scale trial. The full-scale trial would need
+           to commence as a new trial.
+
+        3. Group format of the SPIN-SELF sessions: If participants across groups consistently
+           suggest similar changes to the format of the SPIN-SELF program, then the trial team
+           would modify the format of the intervention sessions according to this consensus
+           feedback. These modifications would be made before commencing the full-scale trial as a
+           new trial.
+
+           At the end of the SPIN-SELF feasibility trial, the investigators will use the collected
+           information and evaluation of the stoppage criteria to decide whether to: (1) Continue
+           to the full-scale RCT without modifications to the trial procedures, (2) Modify trial
+           procedures based on participant feedback before continuing to the full-scale trial, or
+           (3) Modify the trial procedures before re-setting them and conducting the full-scale RCT
+           as a new trial (in this case, outcome data collected during the feasibility phase will
+           not be included in the analyses of the full-scale trial).
+
+           ----------------------- RANDOMISATION
+
+           Monthly, consented participants will be entered into pools based on language and
+           scheduling availability. De-identified codes for participants in each pool will be
+           provided to an external randomisation service. Starting with the largest pool, the
+           service will randomly select the largest possible even number of participants (12 to 20
+           participants) then randomly allocate half to intervention and half to control via single
+           block randomisation using R version 3.6.3. This will be repeated to form as many groups
+           of 6-10 participants and paired waitlist participants as possible each month until the
+           enrolment target is met.
+
+           ----------------------- INTERVENTION
+
+           The SPIN-SELF Program is an 8-session group videoconference intervention that is
+           delivered over the course of 12 weeks. Each videoconference-based intervention group
+           will be led by a facilitator who has been trained in the SPIN- Scleroderma Support Group
+           Leader Education (SSLED) Program.
+
+           ----------------------- STATISTICAL ANALYSES
+
+           For continuous outcomes, we will use an intent-to-treat analysis to estimate score
+           differences between intervention and waitlist participants with a linear mixed-effects
+           model fit using the lmer function in lme4. Score differences and Hedges' g SMD effect
+           size will be presented with 95% confidence intervals (CIs). To estimate odds ratios for
+           the dichotomous MCID, intent-to-treat analysis will be done with a binomial generalized
+           linear mixed-effects models with a log link function fit using the glmer function in
+           lme4.
+
+           For all models, to account for clustering in the blocked PN-RCT design, we will fit a
+           random intercept and slope for treatment effect by randomisation block and an additional
+           random slope for treatment by intervention group cluster. In main analyses, in addition
+           to a fixed effect for assignment to the intervention arm, we will include a fixed effect
+           for baseline score. In adjusted analyses, we will also control for age (years), sex
+           (male vs. female), SSc disease subtype (diffuse vs. limited), disease duration (years
+           since diagnosis), and country (Canada, France, USA, other) as fixed effects.
+
+           In the event of missing outcome data, to minimize the possibility of bias, we will use
+           multiple imputation by chained equations using the mice package to generate 20 imputed
+           datasets, using 15 cycles per imputed dataset. Variables in the mice procedure will
+           include randomisation block, intervention arm, number of intervention sessions attended,
+           measures of all primary and secondary outcomes at baseline and post-intervention, age,
+           sex, SSc disease subtype, years since diagnosis, country, and race/ethnicity. Pooled
+           standard errors and associated 95% CIs will be estimated using Rubin's rules.
+
+           To estimate average intervention effects among compliers, which will be defined based on
+           the number of sessions completed, we will use an instrumental variable approach to
+           inflate intent-to-treat effects from main models by the inverse probability of
+           compliance among intervention arm participants; 95% CIs will be constructed via a
+           cluster bootstrap approach, resampling at study randomisation block and participant
+           levels.
+    
+  

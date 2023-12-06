@@ -1,0 +1,188 @@
+
+    
+      2.0 SPECIFIC AIMS
+
+      2.1. Aim 1. Improve intervention acceptability, buy-in, and usability by engaging a diverse
+      group of stakeholders to collaboratively design key details of the study.
+
+        -  Aim 1A: The stakeholder group work to identify and agree upon key principles and
+           practical aspects of ACP in the NH setting.
+
+        -  Aim 1B: Using the key principles and practical aspects, and existing evidence about
+           beneficial approaches to ACP in NHs, the investigator group will devise an
+           evidence-based, integrated ACP intervention that can be applied by existing NH
+           personnel.
+
+        -  Aim 1C: Guided by the results of the stakeholder meeting, the investigator group will
+           identify characteristics of NH residents -- available from RAI data routinely and
+           repeatedly available in Canadian NHs -- to identify a cohort of residents who are at the
+           highest risk of dying in the following 6-12 months.
+
+        -  Aim 1D: Informed by the results of the stakeholder meeting, and existing data, the
+           investigator group, will agree upon the outcomes to be assessed in this study.
+
+      2.2. Aim 2. Design and implement training of NH personnel in application of the systematic
+      approach to ACP devised in Aim#1B.
+
+      2.3. Aim 3. For each participating NH, devise an approach for real-time access to, and use
+      of, the RAI data for residents.
+
+      2.4. Aim 4. Applying the systematic approach to ACP devised in Aim#1B, to high-risk NH
+      residents identified in Aim#1C, will result in improvement in relevant outcomes identified in
+      Aim#1D.
+
+      3.0 METHODOLOGICAL APPROACH
+
+      3.1. Aim 1A. During a 1 day meeting in Toronto, the investigators will convene stakeholders
+      including: investigators, NH residents and families, advocacy groups for the elderly, legal
+      experts, NH management, NH staff, an expert on inter-professional care, NH physician,
+      geriatrician, palliative care physician, ethicist, ICU physician, and dietitian. Directed
+      discussions and breakout sessions will be utilized to identify key principles and practical
+      components of ACP in the NH setting. All sessions will be recorded.
+
+      3.2. Aim 1B. After the stakeholder meeting, the investigator group will conduct weekly
+      telephone conferences to design an integrated, systematic, evidence-based ACP intervention --
+      which will be referred to as "The BABEL Approach to ACP". It will be informed by both: (a)
+      the stakeholder meeting, and (b) existing, published evidence about approaches to ACP in the
+      long-term care setting that have been demonstrated to improve relevant outcomes. These latter
+      include, but are not limited to: (i) "Let Me Decide", (ii) the methods of Morrison et al.,
+      and (iii) "Respecting Choices". Criteria will include: likelihood to improve relevant
+      outcomes, practicability, feasibility, scalability, sustainability and general acceptability.
+
+      3.3 Aim 1C. This aim will utilize national RAI data on NH residents, maintained at the
+      University of Waterloo by Dr. John Hirdes. Preliminary work in this direction indicates that
+      44% of all NH residents in the country have one or more of the following, high-risk
+      characteristics, all available from the RAI data: CHESS score ≥3, cancer, congestive heart
+      failure, leave >25% of their food uneaten.
+
+      3.4. Aim 1D. There will be discussion during the stakeholder meeting, specifically addressing
+      which potential outcomes are relevant and should be tracked. Informed by those discussions,
+      and outcomes studied in prior studies of ACP in long-term care, the investigator group will
+      compile a final list of outcomes for the study.
+
+      3.5. Aim 2. After design of The BABEL Approach to ACP, the investigator group will continue
+      weekly conference calls to develop a detailed plan to train NH staff in implementing it. The
+      investigators and study coordinators in each province will provide the training, which is
+      expected to include (but may not be limited to) applied learning, intentional case studies,
+      role-playing exercises, targeted discussions and adjunctive print, video, and web-based
+      materials. Criteria for the training methods include: practicability, feasibility,
+      acceptability, scalability, and sustainability. Training will occur in the NHs, and will not
+      include actual residents.
+
+      3.6. Aim 3. Local investigators and study coordinators will visit each participating NH, and
+      working with NH personnel will: (i) locate how the NH staff conduct the quarterly RAI
+      surveys, (ii) locate where the data is maintained in the NH, and (iii) devise a method, with
+      the direct assistance of NH personnel, for using the RAI data to identify residents who meet
+      targeting criteria (Aim#1C).
+
+      3.7. Aim 4.
+
+      3.7.A. GENERAL METHODS: This will be a cluster-randomized study in 24 NHs in Ontario,
+      Manitoba, and Alberta, divided equally between intervention and control (total counts are:
+      Ontario=13, Alberta=6, Manitoba=5). Informed consent will be obtained from cognitively intact
+      residents, and from their substitute decision-maker (SDM).
+
+      3.7.B. ACP IN CONTROL NURSING HOMES Eligible residents in the 12 control NHs will receive the
+      prevalent approach to ACP. No elements of The BABEL Approach to ACP will be introduced in the
+      control homes.
+
+      3.7.C. ACP INTERVENTION NURSING HOMES The intervention comprises: (i) training on, and
+      introduction of The BABEL Approach to ACP for targeted NH residents, and (ii) after these ACP
+      discussions occur, notifying the resident's primary care physician of the residents' ACP
+      preferences, as elicited by the ACP. Intervention homes will be asked to use the systematic,
+      evidence-based approach to ACP for targeted residents. They will be free to use it in
+      non-targeted residents, but it will not be specifically requested that they do so.
+
+      3.7.D. INFORMED CONSENT In both intervention and control homes informed consent will be
+      sought from eligible residents (or surrogate consent from SDMs, for residents deemed to lack
+      capacity to provide informed consent), and separately from SDMs. As the ACP approach of our
+      intervention is not investigational, the investigators believe it does not require informed
+      consent, per se. However, informed consent from residents is required to obtain their
+      personal information, track the course of their ACP wishes/decisions, obtain their clinical
+      outcomes, and include their data in group form in analyses, reports and manuscripts from the
+      research study.
+
+      Residents' clinical outcome information will be obtained from a combination of: their nursing
+      home records, their physician, emergency departments, urgent care, and hospitals. A separate
+      page on the consent form serves specifically as consent to obtain such medical information.
+
+      Informed consent from SDMs is required to contact them separately in order to send them a
+      survey assessing their satisfaction with care at end-of-life provided to the NH resident.
+
+      3.7.E. ANALYSIS OF RESIDENT OUTCOMES Most of these analyses will use hierarchical (2-level)
+      random effects models to account for clustering within NHs, and possible differences between
+      intervention and control groups that might occur, despite randomization. The provinces will
+      be included as fixed effects; interaction terms between province and Intervention/Control
+      will be included to account for possible influences of existing approaches to ACP undertaken
+      by provinces (e.g. PoET in Ontario). Logistic regression will be used for binary outcomes,
+      Poisson regression for rates, OLS regression for continuous variables. The time-to-event
+      analysis will use Cox proportional hazards regression with fixed effects to represent the
+      nursing homes.
+
+      Resident-level covariates, obtained from NH records and RAI will be: age at NH admission
+      (stratified), gender, marital status at study entry, elapsed time from NH admission to study
+      entry (stratified), location immediately prior to NH entry (as home, assisted living, other
+      LTC facility, hospital or other acute care facility, Chronic Continuing Care facility [in ON
+      only]), medical conditions/diagnoses, CHESS score at study entry, whether at study entry
+      resident was leaving ≥25% of NH food uneaten, and use of specific medications at study entry.
+      Nursing home-level covariates will be: # of beds (stratified), ownership (public vs.
+      private), and elements of pre-existing ACP approaches as derived from the Nursing Home
+      Environmental Scan (specific variables still to be determined, but will do so before doing
+      any analysis).
+
+      3.7.F. ANALYSIS OF SDM OUTCOMES Analysis will use hierarchical (2-level) mixed models to
+      account for clustering within NHs, and possible differences between intervention and control
+      groups that might occur, despite randomization. The provinces will be included as fixed
+      effects; interaction terms between province and Intervention/Control will be included to
+      account for possible influences of existing provincial approaches to ACP (e.g. PoET in
+      Ontario). Covariates, obtained from the SDM participants, NH records, and RAI will include
+      all of the covariates from Section 3.7.E, and in addition: SDM age at resident death
+      (stratified), SDM gender, and SDM relationship to deceased resident.
+
+      3.7.G. ANALYSIS OF NH STAFF OUTCOMES Analysis of NH staff self-efficacy in ACP will compare
+      the pre-study to post-study difference in self-efficacy ratings between intervention and
+      control NHs.
+
+      Analysis, in intervention NHs only, of NH staff perceptions of The BABEL Approach to ACP, and
+      to the training in it's use will be mainly descriptive.
+
+      Analysis of the semi-structured interview of NH personnel will involve thematic analysis,
+      compared between Control and Intervention homes.
+
+      3.7.H. ANALYSIS OF PROCESS OUTCOME OF THE RATE OF DOCUMENTED ACP DISCUSSIONS Analysis will
+      use the hierarchical (2-level) random effects Poisson modeling strategy of section 3.7.E.
+
+      3.7.I. SAMPLE SIZE CALCULATION
+
+        -  For this calculation, use was made of PASS 2008 sample size software (NCSS, LLC,
+           Kaysville, Utah). Specifically, the calculation for Two Independent Means with a
+           cluster-randomized design.
+
+        -  This calculation was for the co-primary outcome of the ACP Audit survey given 6 weeks
+           after study entry, specifically the fraction of items #1-7 answered 'Yes'. Thus, the
+           scale goes from from 0-7.
+
+        -  It used the following assumptions:
+
+           • Mean±SD score:
+
+        -  In Control homes = 5.0±1.5 (72% 'yes') (33, 34)
+
+        -  In Intervention homes = 5.6±1.5 (85% 'yes')
+
+             -  5% Type I error rate
+
+             -  Average of 150 residents in each NH, of whom 0.5% are in respite care (2)
+
+             -  44% of NH residents are at high risk of death or other acute outcomes, defined as
+                any of: CHESS ≥ 3, cancer, congestive heart failure, or leave >25% of their food
+                uneaten. (personal communication, Dr. John Hirdes, University of Waterloo)
+
+             -  75% rate of consent among eligible NH residents
+
+             -  Equal proportion of NHs in intervention and control groups
+
+             -  Intraclass correlation coefficient (ICC) for the primary outcome = 20% Using these
+                assumptions, 12 NHs in each group (24 total) gives power of 83% (total N=1164).
+    
+  

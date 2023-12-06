@@ -1,0 +1,70 @@
+
+    
+      Study method as follows:
+
+        -  All subjects will be provided the information on this research study and informed
+           consent will be sought for every subjects.
+
+        -  All subjects (30 PD patients and 30 others tremor patients) will be interviewed by a
+           movement disorders specialist or a trained interviewer for their demographic and
+           clinical data.
+
+        -  All PD patients will be examined for the severity of Parkinson's disease by a movement
+           disorders specialist according the Unified Parkinson's disease Rating Scale (UPDRS),
+           Hoehn and Yahr score, and tremor rating scale, during the 'on period' in order to
+           determine the additional effect of EMS for suppression of tremor. Physical examinations
+           of each patient will be recorded by the video recording for later reviewed.
+
+        -  All essential tremor and dystonic tremor patients will be examined by a movement
+           disorders specialist for the tremor severity according to the Fahn, Tolosa, Marin Tremor
+           Rating Scale. Physical examinations of each patient will be recorded by the video
+           recording for later reviewed.
+
+      All patient will be determined for feasibility to use EMS and safety of EMS. Pain will
+      determined by visual analog scale.
+
+        -  All patients will be monitored their hand tremor at resting position and postural
+           position. The tremor analysis with accelerometer and gyroscope system (Parkinson Monitor
+           V0.006 Beta) and the surface EMG (Nicolet EDX Viking) will be conducted. The surface EMG
+           electrode will place over thenar muscle of the hand, which is the most predominant sided
+           of tremor, for quantitative measurement and determination of tremor physiology.
+
+        -  All participants data from surface EMG will be applied to The Matlab™ program (MathWorks
+           Inc.) in order to modify the qualitative signals into quantitative parameters and
+           performing the high-dimensional feature vectors, and later to determine the different
+           efficacy in pulse amplitude of electrical muscle stimulation on feature vectors.
+
+        -  The electrical muscle stimulation (Intensity™ Twin Stim® III) will be conducted by
+           placement the 2 self-adhesive electrode (size 1.5 inches * 1.5 inches) over thenar
+           muscle and 1st&2nd interrosseous muscle of the hand, which is the most predominant sided
+           of tremor. The EMS will be stimulated PD patients on the rest position, whereas the
+           other tremors patients in both rest position and postural position. The pulse amplitude
+           will be slowly titration until provided the tetanic muscle contraction (motor threshold)
+           without pain (all applied frequency is 50 Hz).
+
+        -  All of examination will be taken for 30 minutes for each one subject.
+
+      Data Collection
+
+        -  Demographic and clinical data: age, gender, clinical diagnosis, disease's duration and
+           severity score for each subject according to establishing standard rating scale.
+
+        -  Tremor parameters form Parkinson Monitor V0.006 Beta will be collected in both before
+           and during EMS as 5 parameters: Peak magnitude, RMS, Angle, Frequency, Q
+
+        -  The pulse amplitude from EMS will be recorded in every titration in order to determine
+           the efficacy of EMS in difference pulse amplitude.
+
+        -  The surface EMG and acceleration signal in difference pulse amplitude will be extracted
+           and clustered data in order to analyze by using Matlab™, and performed the
+           high-dimensional feature vectors for quantitative interpretation.
+
+      Data Analysis The statistical analysis in this study is based from SPSS program version 17.
+      Categorical data will be analyzed for frequency and percentage. Continuous data will be
+      analyzed by mean and standard deviation (SD). Non-parametric study would be preferred if the
+      small sample size or in case of distribution of data do not present as normal distribution
+      (determined by Kolmogorov-Smirnov test). The repeated ANOVA will be used for determined the
+      efficacy of difference pulse amplitude on tremor suppression and the efficacy of EMS in the
+      difference times in follow up periods.
+    
+  

@@ -1,0 +1,121 @@
+
+    
+      Echocardiography is a common and essential tool in the diagnosis of cardiovascular disease.
+      Using ultrasound, this technique allows for non-invasive assessment of cardiac function,
+      including systolic function, diastolic function, heart chamber quantification, and diagnosis
+      and quantification of valvular abnormalities. Usage of echocardiography has increased each
+      year; over 7 million echocardiograms were performed in 2011 in the Medicare Population alone.
+      Cardiovascular disease remains the leading cause of death worldwide, and allowing for
+      widespread usage of echocardiography could result in earlier diagnosis and treatment of
+      cardiovascular disease and potential reduction in healthcare disparities.
+
+      The procedure of an echocardiogram first requires image acquisition which is then followed by
+      image analysis and interpretation. Image acquisition is traditionally performed by cardiac
+      sonographers (technicians) or physicians. Image review and interpretation is performed by
+      specialist physicians, typically cardiologists or radiologists. Each step in the process
+      historically requires a high level of training and specialized equipment which limits its use
+      in under-resourced areas. However, given the high level of skill required to operate this
+      equipment there remains a need for additional technologies to aid in the acquisition and
+      interpretation of imaging. As ultrasound technology has improved, however, costs and size of
+      equipment have decreased and use of bedside ultrasound to guide clinical decision making has
+      become increasingly common. This bedside ultrasound is focused on specific questions, such as
+      diagnosis of a pleural or pericardial effusion, and can be readily taught to non-experts.
+
+      One of the potential tools to overcome these limitations is artificial intelligence (AI). AI
+      is the use of computer programs to mimic the cognitive function of the human mind in order to
+      learn and solve problems. Echocardiology is a particularly ripe field that may benefit from
+      the use of artificial intelligence. Due to anatomical differences and dynamic clinical
+      situations, the process of image acquisition and analysis can vary widely between patients.
+      Although simple computer algorithms fail to integrate these differences, artificial
+      intelligence may allow for machine-assisted image acquisition and analysis. In the last
+      several years, there have been numerous studies of computer-assisted analysis of
+      echocardiography. The use of this technology may speed the acquisition of echocardiographic
+      images, reduce the amount of training needed to acquire and analyze images, improve
+      diagnostic quality, and reduce interobserver variability in the analysis of echocardiographic
+      images.
+
+      By integrating artificial intelligence-assisted image acquisition and analysis with
+      ultrasound technology, it may be possible for minimally trained operators in underserved
+      areas to use echocardiography to accurately diagnose cardiovascular disease.
+
+      This study will be supervised by the Echocardiography Laboratory and the Internal Medicine
+      Residency Program in the Department of Medicine at the NewYork Presbyterian Columbia
+      University Medical Center. The study will take place on the medical resident inpatient
+      cardiology ward services which are primarily housed in the Milstein Hospital 5 Garden South
+      ward. The primary subjects of the study are the medical residents in the Department of
+      Medicine who are rotating through the inpatient cardiology ward services.
+
+      During this study, the medical residents will undergo a training session introducing them to
+      the basic concepts of echocardiography and the usage of either the Bay Labs echocardiology AI
+      ultrasound system or a standard echocardiography system (a native Terason echocardiography
+      machine). In this protocol, the echocardiographic images they obtain using these tools will
+      be called a "study echocardiogram." This is in contrast to a "formal echocardiogram" that is
+      performed by cardiac sonographers, cardiology fellows, or cardiology attendings and analyzed
+      by cardiology attendings who specialize in echocardiography. The medical residents will use
+      either the Bay Labs system or the native Terason system to perform echocardiograms on
+      patients admitted to the cardiology ward teams who either have undergone or are planned to
+      undergo a formal echocardiogram within 1 day of the study echocardiogram. The explicit goals
+      of this project are (1) to determine if it is possible for the medical residents as novice
+      users to acquire and interpret echocardiographic images and (2) whether the use of the Bay
+      Labs system aids in education over the standard system. The Bay Labs echocardiogram that is
+      performed as part of this study is not FDA approved to aid in clinical decision making, and
+      as such the results of the study echocardiograms will not be used to change clinical
+      management.
+
+      There are a total of 4 cardiology resident teams on the inpatient cardiology wards, and the
+      teams are designated using a letter system: A, B, C, and D. Each of these teams is comprised
+      of a first-year medical resident and a third-year medical resident. The A and C teams form
+      one team dyad and the B and D teams form a second team dyad. The teams are covered at night
+      by a separate team of medical residents. Each dyad is primarily supervised by a pair of
+      cardiology attendings who oversee the care of the general cardiac patients. In addition to
+      the service cardiology attendings, the teams may manage patients under the care of heart
+      failure cardiologists or other private cardiologists. Each team can carry a total of 10
+      patients. The admitting structure of the teams allows for 7 new patients to be admitted to
+      the cardiology ward services per 24 hour period. During the day, 3 patients can be admitted
+      to the long-call team and 1 patient to the short-call team. At night, 3 patients can be
+      admitted to the overnight (long-call) team.
+
+      Prior to the initiation of the study, a schedule will be created where each 4 week cardiology
+      inpatient ward rotation block will be assigned to use Bay Labs technology or the native
+      Terason system. At the start of their cardiology inpatient ward rotation, the medical
+      residents will be approached to consent to take place in the study. The medical residents who
+      consent to the study will undergo a pre-test asking them about their comfort with the
+      performance of and interpretation of echocardiography. They will then undergo a training
+      session introducing them to the basics of echocardiography, the study protocol, and the
+      operation of either the Bay Labs echocardiography system or the native Terason
+      echocardiography system. After receiving this training, they will be able to start performing
+      echocardiograms in the study.
+
+      Each morning, each medical resident will able to designate between 1-3 patients on their
+      service to undergo an echocardiogram. The inclusion and exclusion criteria are listed in the
+      protocol. The patients will be approached by the an investigator or research assistant to
+      consent them for the study. Participants will then undergo an echocardiogram performed by the
+      medical residents and images will be stored for later analysis. After each echocardiogram,
+      the medical residents will fill out a short form documenting the echocardiogram. Questions on
+      this form will include demographics, clinical features, technical aspects about the test
+      (such as whether specific views could be obtained), and ask basic questions about operator
+      estimated cardiac function that was observed during the test.
+
+      At the end of the rotation, the participating residents will take a post-test on their
+      comfort with the performance of and interpretation of echocardiography. They will be offered
+      the opportunity to provide feedback on the study. The medical residents will be offered
+      feedback on their echocardiograms during and after the study period to aid in learning.
+
+      After the end of the study period, the data will be analyzed. Results from the pre-test and
+      post-test will be analyzed to determine if the medical residents had improvement in their
+      knowledge of echocardiography during the rotation. The echocardiograms will be analyzed and
+      compared with the formal echocardiograms by the study investigators and attending
+      echocardiographers to determine if the designated image views could be obtained, the time
+      needed to obtain the images, and the quality of the images in comparison to the formal
+      echocardiogram. The left ventricular systolic function visually observed by the medical
+      residents during the study echocardiogram, the autoEF calculated by the Bay Labs software in
+      those patients in those groups, and the left ventricular ejection fraction from the formal
+      echocardiogram will be compared.
+
+      This study is of no more than minimal risk to the patients enrolled. The test itself (a
+      transthoracic echocardiogram) is noninvasive and has no radiation exposure. In addition, the
+      medical teams will be prohibited from making clinical decisions based on the Bay Labs
+      echocardiogram which will instead be based on the formal echocardiogram. At the end of the
+      study, the data will be permanently de-identified.
+    
+  

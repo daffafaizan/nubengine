@@ -1,0 +1,15 @@
+
+    
+      The wobble board is an unstable equilibrium platform, constant training on this platform
+      generates an improvement in balance and strengthens the muscles, it is ideal for
+      rehabilitation exercises and balance conditioning. However, these platforms do not provide
+      quantitative data on exercises performed on it. And the force platform that provide this
+      quantitative data is static, offering no difficulty in maintaining balance. In this way, a
+      sensor board wobble board was developed using a conventional wobble board with a plate
+      attached to it, between the plate and the platform are eight strain gauges sensors that are
+      activated according to the position of the force applied on the platform, the values of the
+      sensors are collected by software that demonstrates the point of greatest pressure on the
+      disk and its displacement during the exercises, with this data it is possible to determine
+      the stability of the user and observe their behavior during the exercises.
+    
+  

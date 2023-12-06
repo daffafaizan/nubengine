@@ -1,0 +1,199 @@
+
+    
+      Sample Size:
+
+      Calculations resulted in a sample size of 10 participants for each of the three groups to
+      detect a significant difference with 80% power at a significance level of 0.05 (G*Power 3.1).
+      To account for missing data and loss to follow-up, the sample size was increased by 15% such
+      that each of the three groups will consist of 12 participants for a total of 36 participants.
+
+      Participant honorariums:
+
+        -  All participants will receive $15 for each of the three testing sessions
+
+        -  Participants randomized to either of the intervention groups (practice or training) will
+           receive $5/ visit (excluding the testing session) to partly compensate for their travel
+           cost.
+
+      Assessment for Eligibility:
+
+      Participants interested in participating in this study will be screened for eligibility over
+      the phone to ensure that they meet the age and weight requirements, do not have injuries to
+      the upper limbs, and that they understand the potential time commitment. Participants will be
+      told that they will need to fill out one questionnaire to confirm their eligibility when they
+      come in for their first appointment. Participants will complete the Mini Mental Exam after
+      providing informed consent to screen for cognitive impairment.
+
+      Demographics descriptive information (baseline):
+
+      Variables that are important in describing the participant population will be collected at
+      baseline including: age; height; sex; exposure to family members or friends that use a manual
+      wheelchair.
+
+      Physical participant information (baseline, post-intervention, and two-weeks
+      post-intervention):
+
+      Physical variables that are required for the testing procedures or that may influence the
+      outcomes will be measured at each point of data collection, including: weight; grip strength;
+      upper limb joint flexibility; and self-perceived physical fitness rating.
+
+      Assessments:
+
+      Measurements will be taken before intervention (baseline), four weeks and at 6 weeks
+      post-baseline. One trained assessor will administer all of the assessments.
+
+      Randomization:
+
+      As participants are enrolled they will be randomly assigned to either the Motor
+      learning-based training, practice, or control groups by a randomization algorithm.
+
+      Data Collection:
+
+      After providing informed consent and demonstrating approval to exercise by a physician-signed
+      copy of the Physical activity readiness medical examination (PARMED X) if over 69 y or the
+      Physical activity readiness questionnaire (PAR-Q+) if under 69 y, participants will complete
+      a demographics questionnaire including sex, height, weight, age, general fitness level, and
+      manual wheeling experience.
+
+      After completing the questionnaires, participants will be fitted to an appropriately sized
+      Elevation wheelchair (Instinct Mobility, Vancouver, BC). Participants will be fitted so that
+      their elbows form an angle of approximately 100 degrees when their hands are placed at the
+      top of the wheel while they are seated in the wheelchair. To ensure consistency across
+      measurement points, details of the wheelchair fitting will be recorded and reproduced during
+      post-testing to minimize bias. The instrumented measurement wheel for collecting kinetic and
+      temporal variables (SmartWheel -Three Rivers Holdings, Mesa, AZ) will be exchanged with the
+      right wheel of the wheelchair and an inertia-matched dummy wheel will be applied to the left
+      side of the wheelchair. Tire pressure will be inflated to the recommended level of 100 psi.
+
+      A drag test will then be performed to determine the drag force of the wheelchair-user system
+      on the treadmill (Max-Mobility). During the drag test, the participant will sit passively in
+      a fitted-laboratory wheelchair, which is connected by a rope to a force transducer. At a
+      constant speed (1.1 m/s or 4.0 km/h), the angle of the treadmill will be increased in 10
+      steps (by 0.5% grade), and at each angle, the drag force will be determined. These 10 force
+      measurements will be used to calculate the power output (PO) for each angle of inclination on
+      the treadmill. A linear regression will be used to determine PO (calculated by multiplying
+      the drag force with velocity according to PO (W) = drag force (N) · belt velocity (m/s)). The
+      drag test takes approximately 5 minutes to complete.
+
+      Safety straps located on the sides of the wheelchair treadmill will be attached to the front
+      of the Elevation wheelchair (on the metal frame above the front caster wheels). Prior to the
+      data collection, participants will have five minutes to become acquainted with the wheelchair
+      treadmill and will gradually be brought up to the set velocity of 1.1 m/s (4.0 km/h) that
+      will be used for data collection. Previous research has used the speed of 1.1m/s for
+      biomechanical testing because it is the minimum speed required to cross some intersections in
+      the United States. To ensure that all participants perform the same amount of work for the
+      testing trials, the power output will be standardized to 0.15 W/kg at an incline of 0.7%
+      because an incline of 0.7% produced results most similar to over ground wheeling at speeds of
+      4-6 km/h. Resistance will be applied to the back of the wheelchair via a pulley system to
+      ensure that the PO is 0.15 W/kg. The oxygen cost of wheelchair propulsion is affected by the
+      PO, therefore standardizing the PO allows us to remove differences in drag force resulting
+      from differences in bodyweight and wheelchair configuration. Standardizing the PO also will
+      account for variations in participants' weight from pre-testing to post-testing to one-month
+      post-testing.
+
+      After the participant is comfortable wheeling on the treadmill, the mouthpiece and nose plug
+      for the Parvo Medics' TrueOne 2400 metabolic measurement system will be fitted to the
+      individual. Ten minutes of baseline (resting state) data will be collected to ensure
+      participants are breathing normally (i.e., not hyperventilating) and their respiratory
+      exchange ratio value is appropriate (less than 0.9). Participants will then begin wheeling
+      with the speed gradually increasing to 1.1 m/s, once the achieved speed is reached
+      (approximately 15 s) the five minutes of data collection will begin.
+
+      Kinetic and spatial-temporal characteristic:
+
+      Data from the SmartWheel will be collected at 240 Hz using proprietary software and filtered
+      using a 4th order low-pass Butterworth filter with a cut-off frequency of 20 Hz. Variables
+      collected with the SmartWheel™ will include three dimensional forces, total force
+      (√(Fx2+Fy2+Fz2)), tangential force (force acting on forward propulsion), cadence (cycles/s),
+      push angle, and velocity.
+
+      Wheeling pattern Two Optotrak 3020 (NDI, Waterloo, ON) position sensors will be used to
+      record sagittal-plane 2D kinematic data of the position of the 3rd metacarpophalangeal joint.
+      The marker placed on the 3rd metacarpophalangeal joint will be used to define the wheeling
+      strategy for each subject. Kinematic data will be collected at a sampling frequency of 200
+      Hz. All data will be filtered using a fourth order, 7 Hz low-pass Butterworth filter.
+
+      Data analysis:
+
+      Kinetic and kinematic wheeling data will be synchronized by an external trigger pulse,
+      divided into cycles based on initiation of force applied to the push rim, and normalized in
+      time to 100% of the cycle. Data from wheeling cycles that occur within the final 5th minute
+      will be averaged for each participant.
+
+      Hand trajectory profiles of wheeling cycles that occur within the final 5th minute will be
+      used to categorize the wheeling pattern into one of four categories. Two investigators,
+      blinded to the participants group allocation will independently categorize the wheeling
+      strategies according to their definitions. Wheeling strategies will be compared between two
+      investigators to ensure consistency.
+
+      Motor learning-based training intervention:
+
+      Motor learning-based training will be administered by 1 trainer. She has over 6 years of
+      experience studying wheelchair propulsion and has experience providing other ML-based
+      training relating to manual and power wheelchair skills. Three trained volunteers will assist
+      with pre and post-testing as well as the one-month retention testing on a rotating schedule.
+      Volunteers will undergo 3 hours of training on the testing protocol. Participants will be
+      asked to participate in 6 x 20 minute one-on-one training sessions over a 3 week period (2
+      sessions/ week). Six sessions have been selected because improvements in biomechanical
+      variables have been observed in as little as 12 minutes of training, however improvement in
+      movement efficiency of other continuous skills has been observed within 6 sessions.
+
+      The motor learning-based training will focus on some of the core concepts in the field of
+      motor learning. The motor learning concepts will include variable practice with respect to
+      speed, feedback (both intrinsic and extrinsic but focusing on extrinsic), feedback focusing
+      on three main variables (wheeling pattern, speed of hand when contacting push rim, push
+      angle), sequential learning (specifically relating to wheeling pattern), and mental imagery
+      (during the rest breaks).
+
+      Practice intervention:
+
+      The practice intervention will be administered by 1 trainer. She has over 6 years of manual
+      wheelchair propulsion research experience. Participants will be asked to participate in 6 x
+      20 minute one-on-one training sessions over a 3 week period (2 sessions/ week). Six sessions
+      have been selected because improvements in biomechanical variables have been observed in as
+      little as 12 minutes of training, however improvement in movement efficiency of other
+      continuous skills has been observed within 6 sessions.
+
+      Although general practice offers experience through exposure and the repetition obtained from
+      practice can be considered as an element of motor learning, it is important to determine if
+      there is an added benefit to one-on-one training with an emphasis on motor learning
+      principles over what an individual could perform on their own. It is anticipated that some
+      'motor learning' will occur during the practice intervention, however it is postulated that
+      it will occur to a lesser extent.
+
+      Motor learning-based training and practice scheduling and equipment:
+
+      For this study, the training will be held in Vancouver at the Blusson Spinal Cord Centre at
+      the Human Mobility Laboratory. The Blusson Spinal Cord Centre is a community-based facility
+      that has a spine medical clinic as well as several research labs.
+
+      Control group:
+
+      The control group will not receive any training but will be tested at the same time points as
+      the intervention groups.
+
+      Other:
+
+      Participants will be provided with a brief overview of the practice or motor learning-based
+      training, depending on which of the two groups they are assigned to, after completing the
+      pre-testing. Participants will be informed that there is a 'motor learning-based training'
+      and 'control' group, however the fact that we are exploring two different types of training
+      will not be disclosed so that the practice group does not feel that their training is
+      inferior to the motor learning-based training group.
+
+      Upon completion of the practice or motor learning-based training, participants will be asked
+      to complete an open-ended exit questionnaire about what they liked and disliked about the
+      training and whether they thought it would be useful for a new wheelchair user.
+
+      Data synthesis and analysis:
+
+      Descriptive Statistics will be synthesized for demographic and physical information.
+
+      The effectiveness of the motor learning-based training on the primary outcome (gross
+      mechanical efficiency as well as the secondary outcomes will be estimated using a 3 x 3 mixed
+      factorial repeated measures Analysis of Variance (ANOVA). An adjusted p-value will be used to
+      correct for multiple comparisons between baseline characteristics. A chi-square test will be
+      used to determine differences in the categorical variable (propulsion technique) pre and post
+      testing based on training exposure. Significance will be alpha = 0.05.
+    
+  

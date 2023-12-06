@@ -1,0 +1,42 @@
+
+    
+      The primary hypothesis is that angiography-derived FFR-guided strategy will show non-inferior
+      rate of patients-oriented composite outcomes (POCO) at 12 months after randomization,
+      compared with IVUS-guided strategy in patients with CAD.
+
+      2. Study population and sample size calculation： Sample size calculation based on the event
+      rates of previous trials, investigators predicted the rates of POCO at 12 months after PCI
+      will be 7% in the Angiography-derived FFR-guided arm, and 8% in the IVUS-guided arm
+
+        -  Primary endpoint: patient-oriented composite outcome (a composite of all-cause death,
+           MI, any revascularization) at 12 months after PCI
+
+        -  Design: non-inferiority, delta = 2.5%
+
+        -  Sampling ratio: angiography-derived FFR-guided strategy: IVUS-guided strategy = 1:1
+
+        -  Type I error (α): One-sided 2.5%
+
+        -  Accrual time: 2 years
+
+        -  Total time: 3 years (accrual 2 years + follow-up 1 years)
+
+        -  Assumption: POCO 7.0% vs. 8.0% in angiography-derived FFR or IVUS-guided strategy,
+           respectively
+
+        -  Statistical power (1- β): 80%
+
+        -  Primary statistical method: Kaplan-Meier survival analysis with log-rank test
+
+        -  Estimated attrition rate: total 5%
+
+        -  Stratification in Randomization: Presence of diabetes mellitus (35% of patients in each
+           group) Based on the above assumption, we would need total 1,872 patients (936 patients
+           in each group) with consideration of an attrition rate.
+
+           3.Research Materials and Indication for Revascularization： For the angiography-derived
+           FFR-guided strategy arm, Criteria for revascularization: angiography-derived FFR ≤ 0.80.
+           For the IVUS-guided strategy arm, the criterion for revascularization is MLA ≤ 3mm2 or
+           [3mm2 < MLA ≤ 4mm2 and plaque burden > 70%].
+    
+  

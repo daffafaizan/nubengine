@@ -1,0 +1,17 @@
+
+    
+      In a first phase of data collection (pre-implementation) all alarms of an intensive care unit
+      population are recorded.
+
+      In an interim period an Alarm Advisor software will be introduced to the unit.
+
+      In a second phase (post-implementation) the same set of alarm data will be recorded.
+
+      The "Alarm Advisor" Software can identify alarms based on criteria set by the medical staff
+      and provide hints to reduce alarms and alarm nuisance (e.g. by proposing adjustments of alarm
+      limits).
+
+      The effect of reduction of recurring nuisance alarms through the implementation of the Alarm
+      Advisor shall be evaluated.
+    
+  

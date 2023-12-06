@@ -1,0 +1,53 @@
+
+    
+      Abdominal aortic aneurysm (AAA) is a condition in which the abdominal aorta, a large artery,
+      dilates gradually, secondary to a degenerative process within its wall. This can lead to
+      rupture of the weakened wall with subsequent exsanguination into the abdomen. This scenario
+      is usually fatal. The diameter of the aneurysm positively correlates with the risk of
+      rupture. Aneurysm size is therefore the primary determinant when considering whether or not
+      to electively repair AAAs.
+
+      Endovascular aneurysm repair (EVAR) has become the standard treatment for AAAs in the vast
+      majority of patients. It is a minimally invasive technique that aims to exclude the aneurysm
+      from the circulation by placement of a synthetic "stent-graft" within the aortic lumen.
+      Metallic barbs as well as radial force maintain stent-graft position in non-aneurysmal aorta
+      above the aneurysm as well as in the iliac arteries below the aneurysm.
+
+      Level 1 evidence has consistently demonstrated improved perioperative survival with EVAR as
+      compared to traditional open surgery. However, there are concerns regarding the long-term
+      durability of EVAR stent-grafts, with 1 in 5 patients requiring further surgery to the
+      aneurysm in the 5 years after the operation. This is often due to failure of the position and
+      integrity of the stent-graft. Therefore, standard international practice is to keep patients
+      are life-long surveillance after EVAR. This is usually in the form of plain radiographs in
+      combination with either computerised tomography (CT) or duplex ultrasound scans, all
+      performed on an annual basis.
+
+      Stent-grafts are visible on plain radiographs of the abdomen and by comparing series of
+      images taken over time, it is possible to diagnose a myriad of stent-graft problems including
+      migration, disintegration and distortion. But these changes can be subtle on plain
+      radiographs and difficult to spot, even to the most trained human eye. As a result, patients
+      undergo more detailed scans that unfortunately carry a risk of nephrotoxicity and
+      radiation-induced malignancy.
+
+      The aim of our research is to improve the diagnostic potential of plain radiographs by
+      applying modern deep learning computer algorithms for interpretation.
+
+      Artificial intelligence (AI) in the form of deep learning has shown great success in recent
+      years on numerous challenging problems. The success of deep learning is largely underpinned
+      by advances in powerful graphics processing units (GPUs). GPUs enable us to speed up training
+      algorithms by orders of magnitude, bringing run-times of weeks down to days.
+
+      Our study will explore the use of artificial intelligence in interpreting series of
+      anonymised plain radiographs to identify features of a failing stent-graft.
+
+      A deep-learning algorithm will be applied to post-EVAR plain radiographs that have already
+      been performed at our institution in England over the last 10 years. We will then compare the
+      effectiveness of the machine in identifying stent-graft related problems to the known
+      outcomes identified by human interpretation previously.
+
+      This project will rely on recent advances in deep learning techniques. It is expected that
+      deep learning will bring good performance for EVAR surveillance in line with its successful
+      application in domains such as the recognition of digits, Chinese characters, and traffic
+      signs where computers have produced better accuracy than humans.
+    
+  

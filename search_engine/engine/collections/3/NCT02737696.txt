@@ -1,0 +1,143 @@
+
+    
+      This description will focus on the randomized, controlled trial to evaluate the effectiveness
+      of the web-based prevention intervention the investigators are developing.
+
+      Recruitment. Youth will be recruited for study participation via the social networking
+      website, Facebook. This site allows advertisers to choose the demographics of the audience
+      that ads target. This will lead to significantly fewer clicks on the ad from advertising site
+      users who do not meet inclusionary criteria for the study. The investigators plan to post
+      banner ads that promote the study to 12-17 year olds living in the U.S. To increase
+      credibility, the investigators will ensure the ad references the organizations involved in
+      this research project and the funding source. The investigators anticipate running ads for
+      about 3 months to obtain an adequate sample size of approximately 400 for the study.
+
+      Screening and Enrollment. Upon clicking on a study ad, individuals will be taken to the study
+      website and presented with a brief introduction to the study and an anonymous screener.
+      Individuals who are eligible but who decline participation will be asked to indicate reasons
+      for non-interest. Persons who click on the ad but are ineligible or who decline participation
+      will be provided with the link to the Drug Enforcement Administration's website
+      (JustThinkTwice.gov).
+
+      The investigators will employ several procedures to ensure that prospective participants are
+      indeed youth within the targeted sample. All prospective participants will be asked to
+      complete an electronic form with participant parents' name, address and phone numbers. An
+      information packet will then be mailed to parents, which will include a letter describing the
+      study and a brief summary of why parents are receiving the packet, 2 copies of a
+      consent/assent form, investigators' contact information (including a toll-free number), a
+      request for the participant's email address and phone number, and a self-addressed, stamped
+      envelope for returning 1 signed copy of the consent/assent. To verify parental consent once
+      received, a research team member will call parents to confirm the child's participation. A
+      research team member will also visually inspect parents' and child's signatures on
+      consent/assent forms, and any that are suspiciously similar will lead to non-enrollment.
+
+      Youth who provide appropriate consents/assents will be emailed a unique study identification
+      (ID) and temporary password to use on the study's secure website. During the initial login,
+      participants will be required to change their password. Participants will be invited to
+      complete baseline assessments online. As a further validity check, participants will be asked
+      for their Date of Birth twice at baseline. If an individual provides discrepant dates, s/he
+      will not be invited to move forward with randomization but will be referred to the Drug
+      Enforcement Administration's website (JustThinkTwice.gov).
+
+      Randomization and Study Conditions. Minimum likelihood allocation will be used to randomize
+      participants, with stratification on race (Caucasian vs. Other), given the disproportionately
+      high rates of prescription opioid misuse among Caucasian youth. Youth in the control group
+      will be informed that they will be prompted when the next online survey is available to
+      complete. Participants assigned to the web-based intervention will immediately (post-group
+      assignment) be asked to start completing modules. Youth will be encouraged to complete 1-2
+      modules per login, 2x/week (about 30 mins. minimum per login). The core module content for
+      the web-based intervention is as follows: What are Prescription Opioids? Misconception that
+      Prescription Opioids are Safe and Non-addictive, Misconception that Using Prescription
+      Opioids Without a Prescription is Not Illegal, Risks of Prescription Opioid Misuse,
+      Non-medication Alternatives for Pain Management, Refusing Offers to Misuse Prescription
+      Opioids, Refusing Requests From Others for a Prescription Opioid Prescribed to You, How to
+      Know if You or Someone You Know May be Addicted.
+
+      Data to be collected. Assessment data will be obtained at: Baseline, post-intervention, and
+      at 3- and 6-month post- intervention follow-ups (or comparable time-points for controls). If
+      results are promising, longer follow-ups may be incorporated into future research projects
+      that allow for longer evaluation periods than the Phase II grant mechanism. Participants in
+      the experimental arm will be asked to complete the post-intervention assessment immediately
+      after they complete all modules. Consistent with an intent-to-treat analysis, participants
+      who do not complete all modules within a 4-week period will still be provided with the
+      opportunity to complete a post- intervention assessment at 4-weeks post-group assignment and
+      to complete follow-ups. The investigators plan to collect the following data in addition to
+      the data captured by the primary and secondary outcome measures (described in that section):
+      basic demographic information; other substance use information; feedback survey data
+      (post-intervention time point only); assessment of usage data (e.g., number of times each
+      module is accessed, duration of usage of modules, time to quiz mastery within modules, and
+      extent of module completion). Participants will complete all assessments online (in a secure
+      manner; see protection against risk).
+
+      Analysis. Although random assignment is designed to account for baseline differences, groups
+      will be compared for differences on demographics and other characteristics using analysis of
+      variance for continuous variables, Wilcoxon Rank Sum Tests for non-normal variables and
+      chi-square tests for categorical measures. If a specific characteristic is predictive of
+      outcome, it will be considered as a potential covariate in subsequent analyses using
+      mixed-effects analyses of covariance. Primary analyses will include all participants
+      randomized to a study condition independent of early dropout, consistent with an
+      intent-to-treat approach to clinical trials. The investigators also will compare demographics
+      and baseline characteristics of those who do and do not complete the study. Analyses will be
+      performed using 'SAS' statistical software (type I error =.05).
+
+      Given the pervasive misconceptions that many youth have in their understanding of the risks
+      associated with prescription opioid misuse, the investigators will primarily focus analyses
+      on knowledge about prescription opioid misuse as well as measures that are highly predictive
+      of future use (attitudes, intentions, skills and perceived risk). Actual rates of use will be
+      a secondary focus, because of the planned evaluation window and because this is a primary
+      prevention trial and is not primarily focused on recruiting and promoting behavior change
+      among a select sample of youth who are misusing prescription opioids at baseline. The
+      investigators will be able to assess if the web-based program results in lower rates of use
+      up to 6 months post-intervention.
+
+      Outcome measures will be evaluated in separate analyses. Data from primary outcomes will be
+      evaluated using mixed-effects analyses '(SAS, PROC MIXED),' which allows for incomplete data
+      and covariance structures other than compound symmetry. In addition to the study condition
+      indicator, these models will include, in the fixed effects portion of the model, a main
+      effect for time as well as a two-way interaction between study condition and time. The key
+      estimate from this model is the two-way interaction effect, which indicates whether changes
+      in outcome (e.g., knowledge) over time are different for the two conditions.
+
+      Protection Against Risk. During the trial, both the web-based intervention and the online
+      assessment tool will be accessible to participants by password protection by an encrypted
+      Internet connection via 128-bit (256-bit if available) Secure Sockets Layer (SSL), the
+      e-commerce industry standard for securing communications on the World Wide Web. The server
+      that houses the web-based prevention program will be protected behind two firewalls and
+      physically secured in a locked cabinet. Administrative access (e.g., by the Server
+      Administrator) to the machines will only occur using secure shell (SSH), a secure, encrypted
+      protocol for remotely connecting to a machine. Servers will be backed up nightly to external
+      hard drives using an encrypted file system. Additionally, the offsite back-up process
+      encrypts critical data (using a 'FIPS' 140-2 certified encryption algorithm) and uploads that
+      data to a private, secure Amazon S3 bucket (a generic "cloud computing" storage service
+      offered by Amazon).
+
+      All data provided by participants when using the interactive prevention program (e.g., when
+      completing quizzes to test learning) or completing online assessments will be transmitted via
+      encrypted 'SSL' to secure servers and will not be accessible to anyone not affiliated with
+      the research project.
+
+      Consistent with the Health Insurance Portability and Accountability Act (HIPAA), the
+      investigators will store personally identifiable data separately from all other data obtained
+      from participants. To accomplish this, two applications will be created. The first
+      application will store the (limited) personally identifiable data that is planned to be
+      obtained from participants, including participant email address, participant
+      username/password, participant parent name/parent contact info (for purposes of Informed
+      Consent) and participant date of birth (as part of planned age verification checks). This
+      "personal" application will also store a unique ID string consisting of 32 randomly generated
+      characters, which would be passed back and forth between this application and the application
+      storing all non-personally identifiable data ("anonymous data"). The "anonymous data"
+      application will store the bulk of data collected from participants (data from online
+      assessments as well as data of participants' usage of the web-based intervention) but will
+      not have any knowledge of users' personal information and can only communicate with the
+      personal data application through a strict set of Application Programming Interfaces (APIs).
+      This approach will ensure that personally identifiable data and other data collected from
+      participants are never stored together.
+
+      Emails sent to youth to prompt them to access the program or complete assessments will not
+      contain any identifiable information or any references to substance abuse or other
+      confidential or sensitive issues. Participants and participant parent/legal guardian will be
+      explicitly informed about how the participant's sensitive data will be handled in the
+      Informed Consent form. To further protect participant confidentiality, a Certificate of
+      Confidentiality from the National Institute of Drug Abuse will be obtained.
+    
+  

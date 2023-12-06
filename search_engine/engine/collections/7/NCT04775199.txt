@@ -1,0 +1,56 @@
+
+    
+      63 4- to 7-year-olds who have not yet begun 1st grade, who are monolingual speakers of
+      English, and who have SLI will participate. Note that we may recruit extra participants to
+      allow for attrition. We will adopt a Randomized Controlled Trial design, randomly assigning
+      participants into three intervention conditions: science only (the control arm), science +
+      vocabulary supports, and science + grammar supports. Pre- and post-measures will reveal the
+      extent of learning in each condition and comparisons between conditions will reveal whether
+      the grammar and vocabulary supports improved learning.
+
+      We hypothesize that the language and learning of science are integrally related. Therefore,
+      we will use evidenced-based language interventions to improve the children's science-relevant
+      language skills, with the prediction that this will cascade into changes in the acquisition
+      of science concepts and practices:
+
+        1. Children in the science + language intervention conditions will show greater gains in
+           taught science concepts across the 6-week intervention period than children in the
+           control arm.
+
+        2. Children in the science + language intervention conditions will show greater gains from
+           pretest to posttest on measures of generalized science concepts and practice than
+           children in the control arm.
+
+        3. Children who demonstrate the greatest improvement in the use of the language targets
+           will also demonstrate the greatest improvements in taught concepts, generalized
+           concepts, and generalized practice knowledge.
+
+        4. Children will benefit from language supports directed at vocabulary as well as those
+           directed at grammar, but these supports may differently benefit the science learning
+           process.
+
+      First we will document that the language supported interventions resulted in improved
+      language abilities by comparing performance on probes of grammar and vocabulary at posttest
+      to pretest performance. We expect significant improvements in vocabulary knowledge for the
+      vocabulary intervention condition as compared to the other two conditions, and significant
+      improvements in use of complement clauses for the grammar intervention condition as compared
+      to the other two conditions. Next, we will test the predictions associated with our specific
+      aims via a series of logistic mixed models. Mixed models are appropriate for designs with
+      unbalanced cell sizes due to missing data (due to non-response and dropout). There will be
+      one model for targeted science concept outcomes with condition (control arm, science +
+      vocabulary, science + grammar) and time as independent variables (Predictions 1 and 4). There
+      will also be one model each for generalized concepts and generalized practice outcomes with
+      condition (control arm, science + vocabulary, science + grammar) and time (pretest and
+      posttest) as independent variables (Predictions 2 and 4). Within-subject correlation will be
+      accounted for with random subject intercepts. Additional random effects (including random
+      item intercepts or random condition slopes by item) will be determined by selecting the model
+      with the best model fit (lowest AIC value). In each of the models, it is further expected
+      that amount of improvement in grammar and vocabulary are mediators between the outcome and
+      the other factors (Prediction 3). To assess this prediction, we will include performance on
+      the language probes as covariates. We expect that performance on the language probes after
+      instruction will be a significant predictor of science learning, and that including
+      performance on the language probes as a covariate will reduce or eliminate the effect of
+      condition because language performance will be the main factor predicting science
+      performance.
+    
+  

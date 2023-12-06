@@ -1,0 +1,114 @@
+
+    
+      The problem: Surgery is essential for approximately 1/3 of healthcare needs, and its volume
+      needs to double out to 2040. However, it has risks, with serious postoperative complications
+      occurring frequently (5%-30% of patients) and postoperative death being the third most
+      prevalent cause of death globally.
+
+      Complications result in increased patient suffering and mortality, late adverse events such
+      as re-admission, and two to three-fold increases in resource use (cost). They can be
+      considered 'the hidden pandemic' of modern healthcare and, because of an ageing comorbid
+      population, are estimated to increase by 300% in Australia by 2027.
+
+      An Australian National Summit on Postoperative Complications (March 2020), chaired by G
+      Ludbrook, acknowledged the importance of this problem. Its report identified the need for a
+      Systems approach, with an evidence base, clear pathways of care matched to individual
+      patients' risks and needs, techniques to minimize unnecessary practice variation, and
+      relevant performance measures: outcomes (institution- and consumer-centred) and cost.
+
+      One solution: In 2017, an Advanced Recovery Room Care model (ARRC) was trialled at RAH. This
+      utilized all the Summit Systems elements and Principles - early validated risk assessment
+      (NSQIP), triage of moderate-risk patients (predicted 30-day mortality: 1-4%) to mid-level
+      high-acuity postoperative care overnight (ARRC), appropriate staff and capacity, precise
+      regular checklist-based assessment, specific physiological goals, repeated re-assessment and
+      re-triage, formal handovers, and evaluation with relevant metrics. This trial revealed that:
+      early serious adverse events were unexpectedly common (50% of patients); these mainly
+      occurred for 12-18 hours postoperatively; and re-admissions were very common (34%).
+
+      Reduced complications and sequelae: ARRC resulted in fewer ward-based complications; and an
+      80% reduction in hospital re-admission days, p=0.1. A 10-bed unit should free up 4000 RAH bed
+      days annually.
+
+      Overall, ARRC findings align with (i) UK findings in moderate-risk patients - removing high
+      acuity care increased mortality and in-hospital days, (ii) RAH Health Roundtable data -
+      moderate-risk patient groups with unplanned re-admission rates of 35%.
+
+      Iterative better risk prediction and triage: The data also suggested that by formal repeated
+      re-evaluation of risk over time (in theatre and ARRC), based on adverse events and
+      physiological parameters, the 50% of patients unlikely to have subsequent major complications
+      can be identified, and triaged to lower-acuity ARRC care, further reducing costs. This aligns
+      with RAH data showing early Recovery adverse events as a major predictor of subsequent
+      postoperative complications, and large databases associating pre-operative, in-theatre and
+      post-operative events with delayed complications.
+
+      Cost-effectiveness: Critically, ARRC appears cost-effective. Markov modelling of the ARRC
+      data reveal improved outcome (Days at Home) and costs, with an Incremental Cost Effectiveness
+      Ratio (ICER) of -$600. This aligns with Peter McCallum Cancer Centre's finding $1M annual
+      savings from implementation of a 2-bed unit (unpublished data).
+
+      The primary hypothesis is that ARRC, through rapid detection and management of early serious
+      postoperative adverse events, will reduce subsequent complications, thus increasing patient
+      Days-at-Home at 30 and 90 days (DAH30/90).
+
+      The secondary hypotheses are: (i) that ARRC will be cost-effective, producing a negative
+      Incremental Cost-Effectiveness Ratio (ICER) when compared to conventional treatment, and (ii)
+      that continuous re-evaluation of individual patient risk during surgery and ARRC will allow
+      accurate identification of the lower risk sub-group of patients unlikely to have adverse
+      events overnight, allowing care to be downscaled earlier, this incrementally reducing cost
+      and improving ICER.
+
+      This is a prospective unblinded pragmatic trial of ARRC versus conventional care. CALHN has
+      committed to re-starting ARRC, but excellent data are required to confirm efficacy on
+      outcomes and cost.
+
+      Cohort: Patients are moderate-risk patients (NSQIP-predicted 30-day mortality = 0.7-5%)
+      undergoing elective or emergency Colorectal, Orthopaedic, Gynae-Oncology, Neurosurgery, and
+      other surgeries over time, and scheduled for postoperative ward care.
+
+      System of Care: NSQIP risk is calculated early (elective surgery - outpatients; unscheduled
+      surgery - on admission), to quantify risks and highlight and address modifiable risks.
+      Allocation to conventional care or ARRC is pragmatically based on bed availability, thereby
+      producing minimal selection bias in the ARRC pilot and the observational UK study by Swart et
+      al. Intraoperative management will be consistent, guideline-based care, something
+      successfully implemented at RAH previously.
+
+      ARRC will be the system piloted at RAH, located in close to the Recovery Room (PACU).
+      Critical elements include regular checklist-based assessment, and defined physiological
+      goals. ARRC involves multidisciplinary staff - anaesthesia, nursing, surgery, internal
+      medicine, allied health.
+
+      This system includes all Summit report-recommended Principles for excellent high-value care,
+      and its Implementation recommendations that one institution take the lead.
+
+      Data collection: Enabled throughout the perioperative journey by our EMR and our
+      Theatre/Recovery e-record system (AIMS) and managed by the PARC Clinical Research staff who
+      ran the ARRC pilot.
+
+      Data are an extension of the pilot. In brief, this includes: (i) Preoperatively: patient
+      demographics / comorbidities; (ii) Intraoperatively: surgery type/duration, complications,
+      vitals sign variation, adverse events. Advanced monitors (ANI antinociception, continuous
+      blood pressure monitoring) aid development of the risk prediction algorithms, (iii) ARRC:
+      vital signs, adverse events, checklist completion, MET-level events (iv) post-ARRC: ward
+      adverse events, ICU transfers, re-operation, length of stay, re-admissions, days-at-home (30
+      and 90 days). Costs are from RAH Finance - ARRC, ICU, Ward, ED (re-admissions).
+
+      Data analysis Primary hypothesis: U Adelaide statisticians, who managed the ARRC pilot, will
+      use linear regression to find the mean difference in days-at-home (DAH) at 30/90 days between
+      the case and control groups. Power analysis from the ARRC pilot, conservatively assuming a
+      DAH difference of 1.5 days, suggests a sample size of N=876 cases and N=438 controls
+      (weighting 2:1). Interim analyses will be conducted to assess progress. Based on 16
+      patients/week, study duration is to be 82 weeks. With positive outcome trends, we expect ARRC
+      will expand to 32 patients/week, potentially reducing study duration to 61 weeks.
+
+      Cost-effectiveness: The CIA will update the Markov model transition probabilities and ICER as
+      data emerge. Sensitivity analysis determines uncertainty. Interim analysis will also be
+      conducted at the half-way point. Lower costs emerging from better risk prediction (e.g. lower
+      ARRC nursing ratios, earlier transfers from ARRC to the ward) will be incorporated.
+
+      Improved risk prediction: U Southampton Clinical Informatics Unit colleagues will use their
+      ALEA platform. Predictive analytics expertise will be utilised to generate a hierarchical set
+      of novel predictive algorithms (based on available data inputs categories) and start to
+      create real-time clinical risk prediction dashboards. RAH data may ultimately be added to
+      other pilot sites worldwide.
+    
+  

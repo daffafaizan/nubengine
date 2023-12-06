@@ -1,0 +1,40 @@
+
+    
+      This study aims to compare two techniques for controlled hypotension during FESS. In both
+      cases, the patients will be evaluated during the preoperative anesthetic visit, and will be
+      given care by an anesthesiologist during the perioperative period.
+
+      Patients who are scheduled for an elective FESS operation will be included in the study.
+      During the preoperative anaesthetic visit, patients who do not meet any of the the exclusion
+      criteria will be offered to participate in hte study. Patients accepting to contribute tot he
+      study will be randomised into one of the two groups via closed envelope technique.
+
+      A pilot study with 20 patients resulted in similar means and slightly different standard
+      deviations of mean blood pressure. This pilot study showed that 44 patients in each group are
+      sufficient to obtain 80% power with an alpha error of 0.05 and beta error of 20%. To
+      compensate for missing/inconsistent data, or allow for better matching of the demographic
+      variables, 3-5 additional patients will be recruited.
+
+      The anesthesiologist in charge of the patient will not be blinded to the groups, and will be
+      responsible for maintaining the hypotension (and patient safety) with either remifentanil in
+      one group, or tramadol and metoprolol in the other group. Systolic, diastolic, and mean blood
+      pressures, and heart rate will be recorded into a spreadsheet every three minutes during the
+      anaesthetic and surgical period. The data will be recorded via an excel form, which will
+      validate the entries upon entrance. The accuracy and completeness of registry data will be
+      verified by a third investigator, who will compare the registry data to the medical monitor
+      records at the end of each operative day.
+
+      The surgeon will be blinded to the groups, and will be responsible for scoring the surgical
+      vision and bleeding with the intraoperative bleeding score. The study drugs will be
+      administered via the same type of infusion pump to facilitate the blinding process.
+
+      Any adverse event will be reported in the patient chart and study records.
+
+      Statistical analysis will be carried out using R and Statistical Package for the Social
+      Sciences (SPSS) programs. Demographic variables (age, gender, American Society of
+      Anesthesiologists (ASA) score, comorbidities) will be analysed using descriptive statistics.
+      Study variables such as duration of operation, variance of the hemodynamic parameters, amount
+      of bleeding, bleeding score, occurrence of adverse events will be analysed with the
+      appropriate statistical tests.
+    
+  

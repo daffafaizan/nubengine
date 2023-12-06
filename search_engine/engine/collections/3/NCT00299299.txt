@@ -1,0 +1,13 @@
+
+    
+      The study will use a real time position management (RPM) system for respiratory gating. The
+      RPM system senses the respiration motion of the patient by tracking a pair of reflective
+      markers on a lightweight "marker block" constructed of a synthetic material. This block is
+      placed on the patient's abdomen.
+
+      During Radiotherapy, the beam is only switched on at pre-determined phases of respiration.
+      The appropriate phase of respiration is determined by the RPM system. This implies a reliable
+      correlation of external block motion to internal hepatic movement. This correlation is not a
+      simple one, and requires "modeling".
+    
+  

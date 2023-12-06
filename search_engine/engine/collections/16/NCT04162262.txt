@@ -1,0 +1,75 @@
+
+    
+      Plantar fasciopathy (PF) is the most common cause of inferior heel pain, and approximately
+      40% of patients report symptoms two years following initial diagnosis. Exercise therapy,
+      including gastrocnemius and plantar fascia stretching, and high-load strengthening have been
+      shown to improve plantar fascia pain and function; however, not everyone improves with these
+      interventions, and they require several weeks or months to be effective. The addition of
+      instrument-assisted soft tissue mobilization (IASTM) techniques may improve these outcomes.
+      Moreover, shear wave elastography (SWE) is an imaging technology that may provide helpful
+      information regarding PF diagnosis and prognosis. Therefore, research is required to
+      investigate changes in plantar fascia stiffness following exercise and IASTM interventions.
+
+      This study is divided into two Parts. Part I is a parallel-group, pre-test post-test
+      randomized controlled superiority trial comparing the long-term effects of stretching and
+      strengthening exercises (SS) (Group 1, n=35) versus SS plus IASTM (SS+IASTM, Group 2, n=35)
+      in subjects with PF. The study is approved by the local Intuitional Review Board. The
+      Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) guidelines for
+      reporting of randomized interventional trials will be followed. Exercise interventions will
+      be reported according to the Consensus on Exercise Reporting Template (CERT) guideline. Part
+      II is a pre-test, post-test comparison of the short-term effects of IASTM on PF. Subjects
+      from Group 2 of Part I (n=35) and a age and sex-matched healthy comparison group (Group 3,
+      n=35) will participate in Part II.
+
+      Random group allocation into SS and SS+IASTM Groups will be performed by an independent
+      statistician using the R Statistics package using a 1:1 allocation ratio with permuted block
+      sizes of 2 to 6. Although it is not possible to blind study participants, the investigators
+      performing the weekly interventions and measurements will be blinded to the subjects' group
+      allocation.
+
+      After randomization subjects will receive a booklet that describes their condition and
+      contains exercise instructions and an exercise training and medication usage diary. Group 1
+      will receive a sheet listing evidence for the beneficial effects of stretching and high-load
+      strengthening. Group 2 will additionally receive information regarding the hypothesized
+      benefits of IASTM. After group allocation and reading the appropriate booklet, subjects will
+      complete the Credibility/Expectancy Questionnaire (CEQ), which contains six items requiring
+      subjects to rate the credibility of the intervention and their expectations.
+
+      Both groups will perform an identical exercise program but will additionally receive once
+      weekly IASTM treatments over an 8-week period. The weekly and total treatment time in Groups
+      1 and 2 will be the same, 15 minutes/week for 8 weeks. Group 3 (Comparison Group) will be
+      recruited in clusters of five after every 5 subjects are recruited into Group 2 (SS+IASTM)
+      and will be matched to that group's age and BMI.
+
+      Overall, subjects in Groups 1 and 2 will visit the lab 10 times. First, they will attend
+      eight weekly sessions, which will include initial screening tests and exercise education on
+      visit 1, treatments according to group allocation on visits 1-8, and follow-up testing on
+      visits 5, 9, and 10. Both groups will additionally perform daily stretching and strengthening
+      exercises at home. Between sessions 9 and 10 (i.e., weeks 9-11), these subjects will be
+      contacted via telephone for follow-up testing and encourage continued home exercise program
+      compliance. Group 3 will attend one session. This session will include screening tests before
+      and after one IASTM treatment.
+
+      Data will be summarized in descriptive statistics such as mean (standard deviation), median
+      (interquartile range), and frequencies (percentage) as appropriate depending on the variable
+      levels of measurement. Associations among categorical variables will be assessed using
+      Chi-square or Fisher's exact test. Associations among continuous or ordinal level variables
+      will be assessed using appropriate parametric or non-parametric correlation tests.
+      Differences among demographic groups on continuous baseline variables will be assessed using
+      t-test and ANOVA or their non-parametric alternatives (Mann-Whitney or Kruskal Wallis tests)
+      where appropriate.
+
+      The examined data in this study are clustered (nested) in nature. For example, the Foot
+      Health Status, a dependent variable which is measured for both groups (the SS and SS + IASTM)
+      through different subscales including pain subscale, function subscale, footwear subscale,
+      and general foot health subscale (level 1), at different time points (level 2), within each
+      individual participant (level 3). Therefore, linear mixed modeling is a suitable analytical
+      technique to handle the data and answer research questions.
+
+      Since the levels of the examined factors in the study constitute all the levels of interest
+      for statistical inference, a covariance pattern fixed effects model that accounts for the
+      covariance and correlational patterns among repeated measures could be the most suitable for
+      this study to be utilized (among other different Mixed Model approaches that would be tested
+      and implemented).
+    
+  

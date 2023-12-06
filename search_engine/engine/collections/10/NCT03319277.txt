@@ -1,0 +1,146 @@
+
+    
+      This is a randomized controlled trial to assess the hypothesis that patients prescribed fewer
+      or no opiates will have no difference in satisfaction with pain control.
+
+      Safety/Data Monitoring:
+
+      Any adverse event or unanticipated events will be reported immediately to the IRB using IRB
+      WebKit. All events will be recorded and kept in a research binder assigned to this study in a
+      locked office. Monthly reviews during the study period will be done by all involved study
+      staff members to ensure that events are not occurring, and if they are, that they are being
+      handled and reported properly. The study will be terminated if over 50% of patients in the
+      decreased opiate group request more or stronger medication during interim analysis or have
+      >20% decreased satisfaction to the control group; this will be assessed monthly at the
+      reviews mentioned above.
+
+      STUDY PROCEDURES Study Identification and Recruitment Potential subjects will be identified
+      by members of the Center for Urogynecology and Pelvic Reconstructive Surgery at the Cleveland
+      Clinic Main Campus. At the time of decision for surgery, attending staff who have been
+      counseled about how to discuss the study will bring up the study. Fliers will be available to
+      give to patients. Patients will be offered a visit with research staff at this time. They
+      also will have the opportunity to meet research staff at their preop visit which is when
+      consent forms would be signed and prescriptions given. Phone calls from research staff will
+      also be made to interested patients or potential subjects. Eligible patients who agree to
+      participate will be provided written informed consent administered by the collaborators
+      listed on the IRB. Consents can be obtained at the Cleveland Clinic Main Campus or Fairview
+      hospital.
+
+      Randomization All subjects will be scheduled for surgery by their surgeon. Consenting
+      patients who meet inclusion criteria will be randomized into one of two arms: "routine opiate
+      prescription" or "decreased opiate prescription" according to a computer-generated
+      randomization schedule with random block sizes with the use of the JMP statistical software.
+      The routine arm will receive twenty-eight tabs of oxycodone at discharge - thirty was the
+      usual number prescribed for these surgeries, but new opiate prescribing guidelines limit the
+      amount prescribed as 28 tablets based on morphine equivalent doses and a 7 day prescription
+      limit. The decreased prescription arm will receive five tabs of oxycodone. All subjects will
+      be instructed to use the opiate pills only as a back-up pain plan after the NSAID and
+      acetaminophen. All subjects will be instructed to use the same schedule: schedule ibuprofen
+      and acetaminophen for 3 days followed by these as needed. Subjects will have their
+      prescriptions filled on day of discharge at the Cleveland Clinic pharmacy based on the
+      randomization in addition to the following medications that per protocol all patients will
+      receive unless contraindicated due to allergy/medication interaction: Colace (100mg tablets
+      to take PO BID, #60), Miralax (17gm packets to take PO daily, #30), and ibuprofen (600mg
+      tablets to take PO every 6 hours for 3 days postoperatively then as needed, #60. The use of
+      scheduled NSAIDs is based on benefit of multimodal therapy in an effort to minimize opiate
+      use. Despite these medications' potential effect to decrease effect seen between the study
+      groups, their use in the trial provides increased clinical applicability.
+
+      Dispensing Medication If the patient approves to participate in the study, they will receive
+      the allotted post-operative medication at time of discharge prescriptions for their
+      postoperative medications as above at their preoperative visit. In addition, patients will
+      also receive a sealed envelope with a prescription for a back-up supply of pain medication
+      (10 pills of oxycodone 5mg). They will be instructed to fill these only if they run out of
+      the previous supply and are still requiring stronger pain medication. Because of the way the
+      prescription will be written (with instructions to the pharmacy not to fill before the date
+      of post-operative day 2), they cannot automatically fill the same day as discharge
+      (post-operative day 1) and this prescription is only valid for two weeks after this date.
+      They will be instructed that if they require more pain medication than this, they will need
+      to be seen. Patients will be provided with a daily pain and activity diary and medication
+      log. At their 6-week postoperative visit, patients will bring in this diary as well as any
+      remaining opiate medication and/or the sealed envelope containing the back-up prescription.
+
+      Data Collection & Management:
+
+      Other than the study forms, the electronic medical record (EPIC) will be used to obtain basic
+      medical information including medical problems, height & weight/BMI, past surgeries, current
+      medications, and allergies.
+
+      Preoperative data will include the following:
+
+      • Patient age, race and ethnicity, menopausal state, tobacco use, BMI, education level,
+      patient income level
+
+      Peri-operative data will include the following:
+
+        -  Surgery performed
+
+        -  Surgical complications
+
+        -  EBL (estimated blood loss)
+
+        -  Hospital complications
+
+        -  Delayed complications
+
+        -  Prescribed medications (with detail given to agreement with randomization arm and if
+           multimodal agents were not prescribed and for what reason)
+
+        -  Post-operative pain scores at last RN assessment on day of discharge
+
+        -  Medication records of quantity of narcotics used perioperatively (to be standardized to
+           morphine equivalents)
+
+      Postoperative data will include the following:
+
+        -  Patient's daily pain diaries including medications used which can be completed on paper
+           diaries to be turned in at their post-operative visit OR entered electronically using
+           REDCap (see below)
+
+        -  Patient satisfaction with post-discharge pain control
+
+        -  Patient's daily activities
+
+        -  Whether patient received additional narcotic prescription through the following:
+
+             -  Study protocol through a phone call
+
+             -  Study protocol through an outpatient visit
+
+             -  Other (e.g. emergency room, urgent care)
+
+        -  Patient satisfaction with bowel symptoms and constipation treatment as needed
+
+        -  Number of pills used (as calculated by pill count or pain diary if pills not returned)
+
+        -  Number of remaining pills (as calculated by pill count or pain diary if pills not
+           returned)
+
+        -  Patient's willingness to destroy remaining pills
+
+      Protection of each subject's personal health information will be a priority in this study.
+      One master excel file containing subject personal information including name and medical
+      record number will be kept in a password-protected file, on a designated protected research
+      drive on a password-protected computer in a locked office at the Cleveland Clinic. In that
+      file, each subject will be assigned a subject identification number that will be used for the
+      purposes of data collection in order to de-identify subjects.
+
+      All paper forms used for data collection will be kept in a research cabinet dedicated to this
+      project which will be locked at all times, in a locked office at the Cleveland Clinic. All
+      forms will contain de-identified information - identification numbers will correspond to the
+      subjects listed in the master excel file.
+
+      All study data will be transferred and managed electronically using REDCap (Research
+      Electronic Data Capture). Each subject will be entered into REDCap using the assigned
+      identification number from the master excel file. REDCap is a secure, web-based application
+      designed to support data capture for research studies, providing user-friendly web-based case
+      report forms, real-time data entry validation, audit trials, and a de-identified data export
+      mechanism to common statistical packages. They system was developed by a multi-institutional
+      consortium which was initiated at Vanderbilt University and includes the Cleveland Clinic.
+      The database is hosted at the Cleveland Clinic Research Datacenter in the JJN basement and is
+      managed by the Quantitative Health Sciences Department. The system is protected by a login
+      and Secure Sockets Layers (SSL) encryption. Data collection is customized for each study
+      based on a study-specific data dictionary defined by the research team with guidance from the
+      REDCap administrator in Quantitative Health Sciences at the Cleveland Clinic.
+    
+  

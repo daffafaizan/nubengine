@@ -1,0 +1,13 @@
+
+    
+      The Sensor Dot wearable device measures electroencephalography (EEG). It records from 2
+      electrodes behind each ear. The device was designed as a wearable for seizure detection in
+      epilepsy patients. The purpose of this study is to test its ability to capture the
+      information necessary for sleep monitoring in elderly patients. Trained electrophysiologists
+      are unable to stage sleep on data from novel wearable devices, since AASM sleep scoring rules
+      are only defined for standardized recording positions on the head. Therefore, we need an
+      automated algorithm to perform sleep staging with data from the Sensor Dot device. We will
+      train this algorithm using manual annotations made with the polysomnography simultaneously
+      acquired with the wearable EEG.
+    
+  

@@ -1,0 +1,23 @@
+
+    
+      For patients hospitalized with an acute illness, the days following discharge constitute a
+      critical period. Patients must adjust to changes in their medications, follow up with family
+      doctors and other specialists and know what symptoms should prompt a return to hospital. The
+      community physicians who follow them rely on information from their hospitalization to
+      facilitate this transition, and provide continuity of care.
+
+      Communication between hospital and community physicians is essential to this process, and has
+      traditionally been accomplished by a dictated discharge summary. Previous studies have shown
+      that while dictated discharge summaries can be inaccurate, incomplete, or untimely, computer
+      generated summaries are produced more quickly and accurately. Moreover, database-generated
+      discharge summaries are preferred by physicians in the community.
+
+      We have designed a web-based computer program with quality assurance features that
+      automatically generates timely discharge summaries. We aim to study this program over a 2
+      month period on our general medicine unit by means of a randomized controlled trial. Our
+      hypothesis is that community physicians will prefer the computer generated summaries, over
+      the standard dictated summaries. If effective, our system could be implemented more widely,
+      and would stand to improve communication with community physicians, continuity of care, and
+      patient safety.
+    
+  

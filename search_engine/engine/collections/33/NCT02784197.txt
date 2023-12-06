@@ -1,0 +1,13 @@
+
+    
+      This clinical protocol is primarily designed to collect resting phase signals from eligible
+      subjects using the Phase Signal Recorder (PSR) prior to coronary angiography to machine learn
+      and test an algorithm for detecting the presence of significant coronary artery disease in
+      symptomatic adult patient. In addition to this primary objective, machine-learned algorithms
+      will be developed and tested to report the left ventricular ejection fraction and to identify
+      the location of significant coronary artery disease. The performance of the machine-learned
+      algorithm will be evaluated using a comparative paired trial design. In this study, the
+      physician will not be provided the results of analysis performed and, accordingly, the
+      results of the analyses will not be used to guide treatment decisions for the patient.
+    
+  

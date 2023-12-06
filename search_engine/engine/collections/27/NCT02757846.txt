@@ -1,0 +1,12 @@
+
+    
+      Radiomics is emerging fields that is based on quantitative analysis of medical images.
+      Tri-phasic CT images are currently the standard imaging modality for the management of HCC.
+      Our goal is to improve treatment decisions of HCC patients through better understanding of
+      their prognosis based on radiomics modeling of HCC. Radiomics is defined as the extraction of
+      quantitative image features from medical images. We will use triphasic CT data of at least
+      200 patients and develop a robust strategy to extract imaging features from CT. We will use
+      deep learning in the form of a Convolutional Neural Network to segment HCC lesions and use
+      image feature extraction algorithms with supervised classification to predict prognosis.
+    
+  

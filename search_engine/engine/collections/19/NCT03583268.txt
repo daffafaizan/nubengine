@@ -1,0 +1,41 @@
+
+    
+      Sedentary Arm: This portion of the study is complete. 10 participants completed the study in
+      its entirety. Maximal exercise testing utilized a Parvomedics Metabolic cart to analyze
+      oxygen consumption in ml/kg/min and maximum heart rate. Results from this test were used to
+      estimate intensity using heart rate for the exercise sessions. Prior to each exercise
+      session, participants arrived at 4:00 PM ate a Glucerna bar (to prevent drastic falls in
+      glycemia with exercise) and had an IV inserted. A total of six blood samples were taken at
+      each session at the following timepoints: (1) 0 mins-baseline, (2) 10 mins- end of warm up,
+      (3) 35 mins-end of intervals, (4) 45 mins-end of exercise, (5) 75 mins-mid recovery, and (6)
+      105 mins-end of exercise. Each blood draw was sampled for glucose, cortisol, and growth
+      hormone. Before exercise, blood glucose was measured on a handheld glucometer. If blood
+      glucose was <5.7 mmol/L glucose was administered via Dex4 tablets. Exercise did not begin
+      until blood glucose was at least 5.7 mmol/L. If blood glucose was greater than 16.7 mmol/L
+      but less than 20.0 mmol/L ketones were tested on a urine ketone strip. If ketones were
+      negative or trace exercise began.
+
+      The first exercise session was 45 minutes of moderate intensity exercise at 45-55% of heart
+      rate reserve (HRR). The intensity determined from this session (speed and incline) was used
+      as the recovery intensity for the high intensity sessions. The high intensity sessions were
+      allocated in a random order from www.random.org where 1=70%, 2=80%, and 3=90%. Each high
+      intensity session started with 10 minutes of moderate intensity exercise (at the same speed
+      and incline from the first session) and six one minute bursts of high intensity every four
+      minutes followed by a 10 minute cool down.
+
+      Because of the small sample size and non-normal glucose profiles, data was analyzed using a
+      Friedman analysis of variance (non-parametric test).
+
+      Active Arm: This portion is still recruiting participants. The procedures for this experiment
+      are very similar to the sedentary component. Blood glucose targets prior to exercise are the
+      same however no blood samples will be taken. Participants will arrive at the lab for 4:30 PM
+      and eat a Glucerna bar (to avoid drastic falls in glycemia with exercise). The two exercise
+      sessions, moderate and 90%, will be allocated in a random order from a coin flip where heads
+      is moderate exercise and tails is the 90% intervals. The moderate intensity session will
+      consist of 45 minutes of exercise at 45-55% of HRR. The 90% session will consist of 15
+      minutes of moderate intensity at 45-55% of HRR followed by six one minute bursts of exercise
+      at 90% of HRR every two minutes followed by a 10 minute cooldown.
+
+      Data will be analyzed using a general linear model and logistic regression.
+    
+  

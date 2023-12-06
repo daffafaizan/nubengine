@@ -1,0 +1,127 @@
+
+    
+      OBJECTIVE:
+
+      To compare the effectiveness of different text message reminders sent through an interactive
+      mobile system (VEText) at increasing Covid-19 vaccine uptake among at risk Veterans.
+
+      OVERVIEW:
+
+      This is a prospective, randomized controlled trial that will evaluate the effectiveness of
+      two different targeted outreach interventions at increasing Covid-19 vaccine uptake. Veterans
+      who are eligible for Covid-19 vaccine receipt by priority status (based on institutional
+      guidelines) will be identified. Veterans must be enrolled into VHA care and meet age or
+      illness institutional priority guidelines to be eligible. Veterans eligible for enrollment
+      into the trial will be randomized in a 1:1:1 allocation at an individual level, using
+      permuted block randomization (with random block sizes of 3 and 6) to the following
+      interventions:
+
+        1. Control arm - receives a text message with standard messaging
+
+        2. Arm 2 - receives a text message with a behavioral scarcity message
+
+        3. Arm 3 - receives a text message with a behavioral social good message
+
+      Randomization will be stratified by VA center (VA Puget Sound or American Lake).
+
+      Due to operational constraints, only one type of text message can be sent per day/batch. In
+      order to account for any potential differences with the day of the week the text message is
+      received, the three arm messages will be randomized by day of the week each week. For
+      example, week 1 will have the control group message sent on Monday, the arm 2 message sent on
+      Tuesday, and the arm 3 message sent on Wednesday. Week 2 will have the arm 2 message sent on
+      Monday, the control group message sent on Tuesday, and the arm 3 message sent on Wednesday.
+      Text messages will be sent based on the randomized order generated and will continue on those
+      days of the week that the center has vaccine available.
+
+      Our primary outcome of interest is the vaccine scheduling and/or completion rate within 7
+      days of receipt of the text message. Enrollment in the trial will occur between March 15,
+      2021 and May 1, 2021.
+
+      Primary aims:
+
+      Aim 1a: Investigate differences in vaccine scheduling/completion rates among different
+      outreach strategies. Will test the hypothesis (HA1) that the proportion of Veterans either
+      scheduling a vaccine appointment for a first dose or receiving a first vaccine dose varies
+      between targeted behavioral messaging and standard messaging (arms 2 + 3 vs. control) at 7
+      days post randomization.
+
+      Aim 1b: Investigate differences in vaccine scheduling/completion rates among different
+      outreach strategies. Will test the hypothesis (HA1) that the proportion of Veterans either
+      scheduling a vaccine appointment for a first dose or receiving a first vaccine dose varies
+      between different types of behavioral messaging (arm 2 vs. arm 3) at 7 days post
+      randomization.
+
+      Secondary aims:
+
+      None
+
+      Sub-analyses:
+
+      None
+
+      STUDY POPULATION:
+
+      All Veterans who are eligible for a first dose of Covid-19 vaccine by priority status (based
+      on institutional guidelines).
+
+      STUDY TIME PERIOD The enrollment period for the study is March 15, 2021 and May 1, 2021. Data
+      collection and analysis will continue through at least 6 months post enrollment for the last
+      Veteran evaluated.
+
+      DATA SOURCES:
+
+      Table: CDWWork.SVeteran.SMVIPerson Time period: Screening/enrollment Description: Contact
+      information for kit/letter mailing and subsequent reminder calls Variable of interest: Name,
+      address, zip code, phone number, SSN.
+
+      Table: CDWWork.SVeteran.SMVIPerson Time period: Screening/enrollment Description:
+      Demographics Analytic variable(s) of interest: DOB, age, gender, marital status, DOD (if
+      applicable), service connectedness, copay.
+
+      Table: Communicator report (not CDW table) Time period: Post randomization Description:
+      Provides automated call information Analytic variable(s) of interest: Call date/time, Patient
+      response, Result from non-response.
+
+      Table: CDWWork.Appt.Appointment, CDWWork.Dim.Location Time period: Post randomization
+      Description: Scheduled vaccination appointments Analytic variable(s) of interest: Appointment
+      date/time, location.
+
+      Table: CDWWork.Immun.Immunization, CDWWork.Dim.ImmunizationName Time period: Post
+      randomization Description: Detailed vaccination receipt records Analytic variable(s) of
+      interest: Vaccine receipt date/time, location.
+
+      STATISTICAL ANALYSES AND DESCRIPTION OF MAIN TABLES Sample size analysis assuming a baseline
+      vaccination proportion of approximately 33% among Veterans aged 65 and older (estimates based
+      on vaccination data pulled 03/10/21) the estimated total sample size required to provide at
+      least 80% power to detect a 5% difference between Arms 2 + 3 and the control arm is 4311
+      total (1437 per group).
+
+      Descriptive patient-level statistics will be presented using the Pearson chi-square test for
+      dichotomous variables and the Student's t test for continuous variables. The primary
+      intention-to-treat analysis will use logistic regression to test the association between
+      randomization group and vaccine scheduling/completion 7 days post randomization, adjusting
+      for VHA center as a stratification variable. Odds ratios and predicted probabilities from
+      this model will be reported.
+
+      All descriptive and main analyses will be performed using R version 3.6.1. P-values < 0.05
+      will be considered statistically significant.
+
+        1. Aim 1a Statistical Analyses Will test the hypothesis (HA1) that the proportion of
+           Veterans scheduling an appointment for the first vaccine dose or receiving a first
+           vaccine dose varies between targeted behavioral messaging and standard messaging (arms 2
+           + 3 vs. control) at 7 days post randomization.
+
+        2. Aim 1b Statistical Analyses Will test the hypothesis (HA1) that different types of
+           behavioral messaging will have differing effects on vaccine scheduling/vaccine
+           completion at 7 days post randomization (arm 2 vs. arm 3)
+
+      STUDY OUTCOMES Primary analyses: % of first-dose vaccine appointments scheduled/vaccines
+      completed at 7 days post randomization
+
+      STUDY COVARIATES
+
+      Primary analyses:
+
+      Covariate of interest: intervention group indicator
+    
+  

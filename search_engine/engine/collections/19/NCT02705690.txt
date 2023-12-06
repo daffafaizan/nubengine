@@ -1,0 +1,21 @@
+
+    
+      'Project Balance' aims to make balance an actionable component of an individuals health,
+      allowing a long term intervention via a monitoring and training of balance health much before
+      a fall happens. Towards this end, we have designed an iOS application and a belt. The phone
+      is kept stable against the lower back of the participant using the belt. The application
+      turns on the accelerometer in the phone to sample acceleration along x (media lateral) and z
+      (anterior posterior) axis. These displacements from the mean are used to calculate the Root
+      Mean Square of a person which acts a proxy score for Postural Sway. (Postural sway is defined
+      as the phenomenon of constant displacement and correction of the position of the center of
+      gravity within the base of support)
+
+      Studies in the past have compared the use of accelerometers to the use of the clinical
+      measured of Timed Up (TUG) test and Berg Balance Scale (BBS) in the assessment of postural
+      stability and indicated that there is a high correlation between BBS, TUG and Accelerometry.
+      Accelerometry has also found to be able to distinguish between sway responses to differing
+      balancing conditions and between fallers and non-fallers.
+
+      We aim to conduct a benchmarking study for our iOS application against the BBS.
+    
+  

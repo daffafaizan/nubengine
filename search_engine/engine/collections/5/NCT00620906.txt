@@ -1,0 +1,29 @@
+
+    
+      The Sacroiliac (SI) joint is a diarthrodial joint with the contradictory biomechanical
+      function of transmitting compressive loads from the lumbar spine to the lower extremity while
+      maintaining a nutating motion in the pelvis.
+
+      Recent studies identify the Sacroiliac (SI) joints as a significant source of pain in
+      patients with chronic low back pain, contributing up to 27%. Recent studies have demonstrated
+      that historical and physical examination findings and radiological imaging alone are
+      insufficient to diagnose SI joint pain.
+
+      The purpose of this study is to examine the effects of manipulation on sacroiliac joint
+      motion using a Polhemus motion capture system. The Absolute angular deviation of sacroiliac
+      joint motion will be assessed during the normal gait cycle with the Polhemus Liberty motion
+      capture system. Six sensors will be attached to specific anatomical landmarks of the pelvis
+      which recorded motion characteristics while walking on a treadmill at 5 mph. The subjects
+      then receive a HVLA manipulation to the SI joint and were retested at the same treadmill
+      speed.
+
+      The Motion capture system tracks objects at a speed of 240 updates per second on all sensors
+      simultaneously. The latency of data sampling is less than 4ms; 240 x 60 sec x 8 Sensors
+      totaling 115,200 data points per minute. The system generates and tracks electromagnetic
+      fields (EMF), computes position and orientation of sensors in an X, Y, and Z coordinate
+      system while interfacing with a computer. The EMF source contains electromagnetic coils that
+      emit a magnetic field. The source is the system's reference frame for sensor measurements.
+      The sensor contains electromagnetic coils (accelerometers) that detect the position and
+      orientation of the magnetic fields emitted by the EMF source.
+    
+  

@@ -1,0 +1,77 @@
+
+    
+      Sample size estimation:
+
+      The previous trial (the CAPRIT study) showed that 2.0 g/dL increase of hemoglobin (Hb)
+      reduced 69% of 2-year decline in estimated glomerular filtration rate (eGFR) (Choukroun G, et
+      al. J Am Soc Nephrol, 2012). Given that the annual eGFR decline in our patients with Hb level
+      <10.5 g/dL was 1.66 (SD, 2.47) mL/min per 1.73 m2, the investigators hypothesized that the
+      2-year eGFR decline in the conservative anemia management group and the aggressive anemia
+      correction group should be 3.32 (SD, 4.94) and 1.03 (SD, 4.94) mL/min per 1.73 m2,
+      respectively. In order to compare the actual efficacy of the intervention with the
+      assumptions above and to evaluate the need for an early termination of the trial, the
+      investigators will perform one interim analysis using a Pocock type α-spending function when
+      a total of 50-60% of the target sample size completed this study or dropped out. Assuming 20%
+      of dropout or lost-to-follow, the planned sample size of 272 patients would yield a power of
+      90% for group comparison by using t-test with a type I error of 5%.
+
+      Regarding cholecalciferol supplementation, 1,000 IU/day would increase serum
+      25-hydroxyvitamin D level by 11.8 ng/mL in patients with BMI <30, as suggested by the
+      previous trial (Gallagher JC, et al. Ann Intern Med, 2012). The investigators found in our
+      prospective cohort study that the 98.2% of Japanese kidney transplant recipients had BMI <30,
+      and that 10 ng/mL increase in 25-hydroxyvitamin D level was significantly associated with
+      0.75 mL/min/1.73 m2 less decrease in annual eGFR change independent of potential confounders
+      (in submission). As with the anemia intervention arms above, the investigators will perform
+      one interim analysis using a Pocock type α-spending function when a total of 50-60% of the
+      target sample size completed this study or dropped out in order to compare the actual
+      efficacy of the intervention with the assumptions above and to evaluate the need for an early
+      termination of the trial. Therefore, the investigators expect 1.77 mL/min per 1.73 m2 in eGFR
+      would be preserved by 1,000 IU/day of cholecalciferol supplementation for 2 years. Based on
+      this assumption, this study size will provide a power of 70%.
+
+      Estimating kidney function:
+
+      In primary analyses, eGFR will be calculated by using the Japanese equation as in sample size
+      calculation (Matsuo S, et al. Am J Kidney Dis, 2009). However, this formula has not yet been
+      validated in kidney transplant recipients. Therefore, the investigators will use the
+      creatinine-based CKD-EPI equation with Japanese coefficient (Stevens LA, et al. Nephrol Dial
+      Transplant, 2010. Horio M, et al. Am J Kidney Dis, 2010) and an available formula if
+      validated in Japanese kidney transplant recipients at the time of analysis.
+
+      Statistical analyses:
+
+      For group comparison in a primary analysis, the investigators will use t-test or Wilcoxon
+      rank sum test according to the distribution of eGFR change. In the further analyses, to
+      analyze the time course of eGFR with respect to treatment assignment, changes in eGFR over
+      time will be analyzed with a linear mixed model for repeated measures with both fixed and
+      random intercept and slope. The multivariate model will contain time-varying eGFR as
+      dependent variable and treatment group as well as the number of measurements (time) as
+      independent variables. The study hypothesis will be tested by adding appropriate interaction
+      terms between the exposures and time. For secondary endpoints, the investigators will use
+      t-test, Wilcoxon rank sum test, or log-rank test for group comparison, and generalized linear
+      models or Cox proportional hazards models to estimate each effect of the interventions,
+      appropriately. The investigators will also adjust for baseline levels or past history of each
+      outcome. Other potential confounders, such as age, sex, time since transplantation, blood
+      pressure, urinary protein level, and diabetes, will be adjusted in sensitivity analyses.
+
+      The interaction will be checked between anemia management and cholecalciferol supplementation
+      as well as between each intervention and baseline levels of urinary protein, eGFR, Hb,
+      25-hydroxyvitamin D, the use of active vitamin D compounds, and the length of time since
+      transplantation. Additionally, stratified analyses will be conducted according to 0.2
+      g/g･creatinine of urinary protein and the date of transplantation (November 1999, the release
+      date of mycophenolate mofetil in Japan). However, the study size is not large enough to
+      statistically evaluate these interactions. The results from these analyses should be
+      interpreted with caution and regarded as exploratory and hypothesis generating.
+
+      Missing values:
+
+      Missing values will not be imputed in primary analyses. In sensitivity analyses, the
+      investigators will use multiple imputation method and last-observation-carried-forward
+      method.
+
+      Note:
+
+      The interim analysis plan was added to the protocol with an increase in the sample size from
+      246 to 272, which has been approved by the local ethics committee on August 27, 2018.
+    
+  

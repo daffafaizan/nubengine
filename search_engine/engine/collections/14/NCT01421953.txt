@@ -1,0 +1,17 @@
+
+    
+      Many PET studies have been interested in lung radiotherapy volumes definition, however
+      lacking any standardisation. Effectively, the use of PET images is difficult because of the
+      poor image quality resulting from noise and partial volume effects induced blurring.
+      Moreover, due to the long duration of PET acquisitions, respiratory motions are inevitable
+      and result in artifacts in the PET images affecting the volumes and contrast of the tumour:
+      tumours may appear larger while their activity can be lower. To overcome these limitations,
+      we propose to use a 4D PET-CT, ie a PET-CT acquisition system synchronized with respiration
+      in order to compare CT-simulation target volumes and PET target volumes after application of
+      different approaches for partial volume effect correction, respiratory motion correction and
+      automatic segmentation method of functional volumes. For this purpose, patients with a non
+      small cell lung cancer and having to be treated with radiotherapy or radio-chemotherapy
+      underwent CT-simulation and 4D PET-CT in radiotherapy treatment position. The target volumes
+      and the dosimetries obtained with both modalities were compared.
+    
+  

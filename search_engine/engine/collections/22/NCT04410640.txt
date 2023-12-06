@@ -1,0 +1,89 @@
+
+    
+      2.1.Research Design This study group are general surgery residents present in Faculty of
+      Medicine, Ege University (n=19). A quintet with stations composed of normal
+      pancreaticobiliary anatomy, common bile duct tumor, stony cholecystitis, pancreatic head
+      cancer and cholelithiasis is assembled for the study. Each station containes CT, 3D-STL
+      images and 1:1 solid models of cases. Each imaging method (CT, 3D-STL image and 3D solid
+      model) associated with the scenarios of the quintet is created in the residents of the study.
+      An explanatory assessment measure is being used as data collection method where the
+      perception of each imaging method is being investigated based on their effectiveness in
+      problem identification as well as their efficiency in diverse diagnosis and pre-surgery
+      organization.
+
+      2.2. Selection of the sample cases The patients are chosen among the CT examinations of the
+      ones who referred to Ege University Faculty of Medicine, Department of General Surgery for
+      diagnose and treatment between 2016 and 2018. CT archives are screened and 5 eligible
+      patients (age: 18-62 year) who required hepatopancreatobiliary surgery were selected.
+      Selection of the cases is based on patients with no previous hepatopancreatobiliary
+      operation, pathology leading to dilated biliary duct, and whose radiological imaging results
+      are suitable for modeling. Virtual modeling of pancreaticobiliary pathways of the cases is
+      performed and clinical histories of each case were created.
+
+      2.3. Scenarios As a mutual agreement among the specialists in medical education, general
+      surgery, anatomy and radiology, 5 cases identified, are elected to be samples for
+      pancreaticobiliary surgical processes. Having defined these cases, they are further converted
+      into genuine scenarios fully equipped with a past story, medical analysis results and imaging
+      procedures.
+
+      Scenarios for 5 cases:
+
+      Case 1. Case with normal extrahepatic biliary tract with pancreas. Case 2. Choledochal tumor
+      leading to advanced dilatation and hydropic gallbladder appearance in extrahepatic biliary
+      tract.
+
+      Case 3. Acute cholecystitis characterized with extrahepatic biliary dilatation, hydropic
+      gallbladder, thickness in gallbladder wall and biliary sludge with multiple millimeter-sized
+      stones.
+
+      Case 4. Pancreatic head cancer with severe dilatation in the pancreatic canal and
+      extrahepatic biliary tract.
+
+      Case 5. Choledocholithiasis characterized with dilatation at the extrahepatic biliary tract
+      and 7 mm diameter stone at the distal end of the common bile duct.
+
+      2.4. Image post-processing and segmentation Original CT images in Digital Imaging and
+      Communications in Medicine (DICOM) format are converted to a separate workstation with
+      Analyze 12.0 for post-processing and segmentation. A free 3D slicer (version 4.10.1) is
+      employed in the process of attaining DICOM output from CT and MRI segments of the patients.
+      Special attention is paid to the anatomical structures of the biliary tract including left
+      hepatic duct (LHD), right hepatic duct (RHD), and common hepatic duct (CHD) which are
+      segmented. The surface condition of the model is enhanced by implementing a softening filter
+      to the segmented section output. The output is extracted into STL format to enable 3D
+      printing.
+
+      2.5. Creating Life-size Patient-Specific 3D Model 3D printers of Mass Portal Pharaoh xd 20
+      and Form Labs2 are employed throughout the process of preparing the models for printing.
+
+      2.6. Quantitative assessment of model accuracy To ensure the model accuracy, measurements of
+      the anatomical landmarks are performed and compared at three stages of the model production,
+      namely, the original CT images, STL file and 3D model. The internal diameter of four
+      anatomical locations is measured from left to right and from anterior to posterior in the
+      following landmarks: CHD, LHD, RHD and common bile ducts. .
+
+      2.7. Workshop We performed a systematic review to evaluate of bile tree modelization and 3D
+      printing, as well as the proof of concept of the benefit of 3D solid model in planning
+      interventions. CT images of a patient diagnosed with dilated extrahepatic ducts are used to
+      create the patient-specific, 1-1 scale 3D pancreaticobiliary models including five scenarios
+      as the normal anatomy, common bile duct tumor, stony cholecystitis, pancreatic head cancer
+      and cholelithiasis. For this purpose, scenarios for each case and a five-station carousel are
+      based on the research. For each station, a period of 5-10 minutes is given.
+
+      2.8. Survey Participants' perception of residency training is evaluated with a multi-entry
+      survey. In these scenarios, normal pancreaticobiliary organs and cases leading to
+      extrahepatic biliary tract dilatation such as choledochal tumor, acute stone cholecystitis,
+      pancreatic head tumor and cholelithiasis are discussed. Assessment forms for the normal
+      structure of the cases, differential diagnosis and imaging methods in preoperative planning
+      and the location of the 3D solid model are prepared. The forms are then asked to be filled by
+      the residents to discover their opinions on all models. The evaluaton is done on a scale of
+      10, where (01-10) defines 0 = very low and 10 = the highest rank.
+
+      2.9. Statistical analysis Analysis will be submitted into SPSS 24.0 for statistical
+      evaluation mean ± standard deviation format is employed for continuous variables. Any
+      significant differences in the measurements between the original CT images, 3D-STL images and
+      the 3D model are studied by using Wilcoxon Signed Test. Wilcoxon Signed Ranks Test is used to
+      determine any significant differences in the measurements between the original CT images,
+      3D-STL images and the 3D model. Statistical relevance is stated as a p value of less than
+      0.05.
+    
+  

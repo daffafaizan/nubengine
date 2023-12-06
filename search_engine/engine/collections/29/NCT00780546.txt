@@ -1,0 +1,48 @@
+
+    
+      This is a Geographic Information System (GIS)-based retrospective study. Data will be
+      extracted from the NTUH medical records database, including the date of notification, sex,
+      birth date, residence address, etc of each tuberculosis case. Each case will be geocoded to
+      generate spatial coordinates for mapping purpose based on the street address and postal code.
+      To protect the privacy of these patients, the personal identification data of TB patients,
+      including name and ID numbers, will not be encoded. The encoded data file will also be
+      strictly kept confidential.
+
+      Disease mapping is the usual means of presenting descriptive geographic data on disease
+      occurrence and creating accurate maps of disease morbidity and mortality. Maps convey instant
+      visual information on the spatial distribution of disease and can identify subtle patterns
+      which may be missed in tabular presentations. The purpose is to display variations in
+      ill-health (for example, related to the underlying sociodemography), formulate etiologic
+      hypotheses, aid surveillance to detect areas of high disease incidence, and help place
+      specific disease.
+
+      In detecting the spatial patterns of the points geocoded from the addresses, point pattern
+      analytical methods are used. Quadrat Analysis is one of them. This method evaluates a case
+      distribution by examining how its density changes over space. The density measured by Quadrat
+      Analysis is then compared with the density of a theoretically constructed random pattern to
+      see if the case distribution in question is more clustered or more dispersed than the random
+      pattern. Another one is Nearest Neighbor Statistic, which is derived from the average
+      distance between cases and each of their nearest neighbors and captures information on cases
+      between quadrats. Using ordered neighbor statistic can evaluate the pattern at different
+      spatial scales. A case pattern is said to be more clustered if its observed average distance
+      between nearest neighbors is found to be less than that of a random pattern. Ripley's K
+      statistic is an extension of the ordered neighbor statistics, which can be used to depict the
+      randomness of a case distribution over different spatial scales and capture the
+      characteristic of local variations.
+
+      To measure and test how dispersed/clustered the case locations are with respect to their
+      attribute values, e.g. socioeconomic status, spatial autocorrelation can be performed. If
+      significant positive spatial autocorrelation exists in a case distribution, cases with
+      similar characteristics tend to be near each other.
+
+      For polygon data in interval or ratio form, such as the tuberculosis incidence of different
+      districts, Moran's I index, Geary's Ratio and the G-statistic can be used. Moran's I uses the
+      mean of the attribute's data values as the benchmark for comparison when neighboring values
+      are evaluated; Geary's Ratio is based on a direct comparison of neighboring values;
+      G-statistic is based on the concept of spatial association or cross-product statistics and is
+      capable of detecting the presence of hot spots or cold spots. In case of spatial
+      heterogeneity, i.e. the magnitude of spatial autocorrelation varies over space, modified
+      versions of the previous three statistics can be used to evaluate spatial association at the
+      local scale.
+    
+  

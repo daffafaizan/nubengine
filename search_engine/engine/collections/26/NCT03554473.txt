@@ -1,0 +1,106 @@
+
+    
+      BACKGROUND:
+
+        -  Small cell lung cancer (SCLC) is an aggressive cancer with a poor prognosis. Although
+           highly responsive to chemotherapy initially, SCLC relapses quickly and becomes
+           refractory to treatment within a few months.
+
+        -  The inability to destroy residual SCLC cells despite initial chemosensitivity suggests
+           the existence of a highly effective DNA damage response network. SCLC is also
+           characterized by high DNA replication stress (RB1 inactivation, MYC and CCNE1
+           activation).
+
+        -  There is only one FDA approved treatment for patients with relapsed SCLC after
+           first-line chemotherapy: topotecan, which inhibits religation of topoisomerase
+           I-mediated single-strand DNA breaks leading to lethal double-strand DNA breaks.
+           Temozolomide, an oral alkylating agent, which causes DNA damage by alkylating guanine at
+           position O6 also has activity in relapsed SCLC, particularly for brain metastases.
+
+        -  Preliminary evidence indicates that disruption of the immune checkpoint PD-1/PD-L1
+           pathway can yield responses in a subset of SCLC patients, but response rates
+           (approximately equal to 10%) are lower than NSCLC and other tumors with comparable tumor
+           mutational burden indicating additional immunosuppressive mechanisms at play in the SCLC
+           tumor microenvironment.
+
+        -  M7824 is a bifunctional fusion protein consisting of an anti-programmed death ligand 1
+           (PDL1) antibody and the extracellular domain of transforming growth factor beta
+           (TGF-beta) receptor type 2, a TGF-beta trap.
+
+        -  Safety data from the dose-escalation study in solid tumors as well as preliminary data
+           from expansion cohorts show that M7824 has a safety profile similar to other checkpoint
+           inhibiting compounds.
+
+        -  Combining immunotherapy, and chemotherapy could synergistically improve the anticancer
+           activity of immunotherapy. Combination of chemotherapy with immunotherapy have improved
+           outcomes in NSCLC and melanoma leading to FDA approvals of such combinations.
+
+        -  We hypothesize that increased DNA damage induced by topotecan and temozolomide will
+           complement the anti-tumor activity of M7824, in recurrent SCLC.
+
+      OBJECTIVE:
+
+      - The primary objective of the trial is to determine the efficacy (using objective response
+      rate) of M7824 plus topotecan or temozolomide in relapsed SCLC.
+
+      ELIGIBILITY:
+
+        -  Subjects with histological or cytological confirmation of SCLC.
+
+        -  Subjects must be greater than or equal to 18 years of age and have a performance status
+           (ECOG) less than or equal to 2.
+
+        -  Subjects must not have received chemotherapy, or undergone major surgery within 2 weeks
+           and radiotherapy within 24 hours prior to enrollment.
+
+        -  Subjects must have adequate organ function and measurable disease.
+
+      DESIGN:
+
+        -  Arm A (M7824 monotherapy): Up to 10 patients may be treated with M7824 monotherapy to
+           obtain safety and PK data, and a preliminary estimate of clinical responses to M7824 in
+           SCLC. Patients with progressive disease on Arm A may then receive M7824 plus
+           temozolomide as per description of treatment for Arm C.
+
+        -  Arm B (M7824 plus topotecan) and Arm C (M7824 plus temozolomide) will be administered in
+           3 and 4-week cycles respectively; these arms will have a safety run-in followed by
+           efficacy analysis. Up to 10 patients with extrapulmonary small cell cancer will be
+           enrolled in arm C to receive the combination of M7824 and temozolomide.
+
+        -  Optional tumor biopsies will be obtained at pre-treatment on C1D1 and C1D15 for Arm C;
+           pre-treatment on C1D1 and C2D1 for arms A and B.
+
+        -  Every subject of each arm of the safety run-in will be observed for at least 7 days
+           after first dose of M7824 before the subsequent subject can be treated. Subjects who are
+           not evaluable for DLT will be replaced and not included into evaluation
+
+      ARMS:
+
+        -  Arm A (3-week cycles): M7824 monotherapy 2400 mg every 3 weeks until disease progression
+           or a criterion in Protocol is met. Patients with progressive disease on Arm A may then
+           receive 1200 mg M7824 every 2 weeks plus temozolomide 200 mg/m^2/day on days 1-5 every 4
+           weeks.
+
+        -  Arm B (3-week cycles): M7824 2400 mg plus topotecan 1 mg/m2 on days 1-5 every 3 weeks
+           until disease progression or a criterion in Protocol is met.
+
+        -  Arm C (4-week cycles): M7824 1200 mg every 2 weeks plus temozolomide 200 mg/m2/day on
+           days 1-5 every 4 weeks until disease progression or a criterion in Protocol is met.
+
+      Dose de-escalation Schedule Arm B
+
+      Dose Level: M7824 - Topotecan
+
+      Level 1 2400 mg every 3 weeks - 1 mg/m(2) on days 1-5 every 3 weeks
+
+      Level-1 2400 mg every 3 weeks - 0.75 mg/m(2) on days 1-5 every weeks
+
+      Dose de-escalation Schedule Arm C
+
+      Dose Level: M7824 - Temozolomide
+
+      Level 1200 mg every 2 weeks - 200 mg/m(2)/day on days 1-5 every 4 weeks
+
+      Level-1 1200 mg every 2 weeks - 150 mg/m(2) day on days 1-5 every 4 weeks
+    
+  

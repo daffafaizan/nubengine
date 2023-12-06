@@ -1,0 +1,67 @@
+
+    
+      In numerous recent studies, deep neuronal networks (DNN) have been leveraged to examine the
+      usefulness of artificial intelligence (AI)-based DNN for diagnostic purposes. In essence,
+      they have successfully proved to recapitulate state-of-the-art diagnoses currently performed
+      by humans.
+
+      Specifically, the use of artificial intelligence for pattern recognition showed that DNN
+      could categorize complex and composite data points, chiefly images, with high fidelity to a
+      specific pathogenic condition or disease. The majority of these studies are primarily based
+      on extensive training sample collections that were categorized a priori. Subsequently, this
+      "training" provided the necessary input to classify newly delivered specimens into the
+      correct subgroups, frequently even outperforming independent human investigators. So far,
+      these studies have thus provided the rationale for the use of DNN in real-world diagnostics.
+      However, the prerequisite for using DNN in a real-world setting, where specimen sampling and
+      analysis would need to outperform human diagnosis prospectively, would be a blinded and
+      prospective trial. Currently, there is a lack of prospective data, therefore still
+      challenging the notion that DNN can outperform state-of-the-art human-based diagnostic
+      algorithms. Here we want to investigate the validity and usefulness of AI-based diagnostic
+      capabilities prospectively in a real-world setting.
+
+      Hematologic diagnostics heavily rely on multiple methodically distinct approaches, of which
+      phenotyping aberrant blood or bone marrow cells from affected patients represents a
+      cornerstone for all subsequent methods, such as chromosomal or molecular genetic analyses. At
+      the MLL, five different diagnostic pillars are required to provide diagnostic evidence for a
+      specific malignant blood disorder faithfully: cytomorphology and immunophenotyping first,
+      guiding more specific methods such as cytogenetics, FISH, and a diversity of molecular
+      genetic assays.
+
+      +++ Objectives +++
+
+      Phenotyping of blood cells is primarily based on two distinct challenges; (1) the
+      morphological appearance and abundance of specific cell types and (2) the presence of
+      particular lineage markers detected by flow cytometry. These two methods are critical for
+      each subsequent decision-making process and, thus ultimately, the final diagnosis.
+      Simultaneously, these two methods are ideally suited for automated analysis by DNN due to
+      their inherent image-based nature. This has been recently illustrated by a publication by
+      Marr and colleagues (Matek et al., 2019; https://doi.org/10.1038/s42256-019-0101-9)
+
+      In BELUGA, we want to investigate whether the automated analysis of blood (from peripheral
+      blood and bone marrow aspirates) smears and flow-cytometry-based analyses can provide a
+      benefit for diagnostic quality and, ultimately, patient care. Moreover, BELUGA will provide
+      evidence for the cooperative nature of image-based diagnostic tools for other pillars of
+      hematologic diagnostic decision making such as genetic and molecular genetic
+      characterization.
+
+      BELUGA, therefore, consists of three parts (A-C) (See Figure in the attached File). In A, we
+      want to train a DNN with an unprecedented collection of blood smears and flow-cytometry-based
+      data points collected during the course of 15 years. These samples consist of all
+      hematological malignancies currently identified and recognized by the current WHO
+      classification for hematologic malignancies. Due to the varying incidences of these entities,
+      the total number of training items varies from 1,000 to 20,000 for 15 years. However, we deem
+      this discrepancy a benefit to this trial's overall aims, because this diverse spectrum will
+      inform us on the number of training items needed for outperforming the state-of-the-art
+      diagnostics in cytomorphology or flow cytometry.
+
+      In part B, we will compare the overall performance of our trained DNN prospectively to new
+      yet undiagnosed samples arriving at our laboratory (see the main section for details). The
+      superiority of DNN based categorization will be challenged based on the pre-defined outcome
+      parameters accuracy with respect to state-of-the-art diagnostics, mismatch-rate, and time
+      needed to provide a diagnostic probability.
+
+      Lastly, in C, we will investigate the effects on faster and more accurate diagnostic power by
+      leveraging our trained DNN to aid downstream diagnostic methodologies such as chromosomal
+      analysis or panel sequencing of patient samples.
+    
+  

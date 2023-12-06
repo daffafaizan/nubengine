@@ -1,0 +1,40 @@
+
+    
+      As the burden of liver disease reaches epidemic levels, there is a high unmet medical need to
+      develop robust, accurate and reproducible non-invasive methods to quantify liver tissue
+      characteristics for use in clinical development and ultimately in clinical practice.
+      Repeatability and reproducibility validation studies are important in evaluating metrics,
+      such that any changes can be confidently attributed to disease progression or regression,
+      rather than inter-examination variability in the instrument.
+
+      Magnetic resonance (MR) techniques offer an attractive non-invasive option for liver
+      assessment. Multiparametric MRI is a safe and non-invasive method for quantification of liver
+      tissue characteristics. Images for quantification of hepatic fat from proton density fat
+      fraction (PDFF) maps, T2*, and iron-corrected T1 (cT1) can be rapidly obtained during
+      abdominal breath-hold acquisitions without the need for contrast agents or additional
+      external hardware. Iron correction of T1 is necessary to address the confounding effects of
+      excess iron, which is common in chronic liver disease. LiverMultiScan™ (LMS, Perspectum
+      Diagnostics, Oxford, UK) is a software application that can be used with supported MR-systems
+      to correct T1 for the effects of excess iron, and thus, to calculate cT1 from T1 and T2*
+      maps, and standardise to a 3T field strength.
+
+      This method has been shown to have high diagnostic accuracy for the assessment of liver
+      fibrosis compared to histology, predict clinical outcomes in patients with mixed liver
+      disease aetiology, stratify patients with non-alcoholic steatohepatitis (NASH) and cirrhosis,
+      reliably exclude clinically significant liver disease and is cost-effective in diagnosing
+      NAFLD.
+
+      In addition to demonstrating accuracy, imaging biomarker validation requires precision and
+      repeatability (US Department of Health and Human Services, 2015). From a clinical
+      perspective, it is essential to ensure that there is good inter-examination repeatability, so
+      that any changes seen can be correctly attributed to disease progression or regression,
+      rather than inter-examination variability. This is tested by examining the closeness of
+      repeated measurements made in different MR examinations (with both subject and coil
+      repositioning) over a time frame in which physiologic conditions are assumed constant.
+
+      This study aims to systematically test the repeatability and reproducibility of each
+      multiparametric MRI measurement, cT1, T2* and PDFF, corresponding to hepatic
+      fibro-inflammation, iron and fat respectively, across scanner field strength, manufacturer
+      and model in human participants and phantoms.
+    
+  

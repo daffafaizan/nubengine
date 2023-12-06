@@ -1,0 +1,31 @@
+
+    
+      All women attending mammography screening at Karolinska University Hospital will have their
+      mammograms analyzed by AI (Figure 1). The specific AI-implementation (AI tool) in this study
+      is a result of AI predictions from three equally weighted component AI models analyzing
+      mammograms: (i) masking predictor, (ii) risk predictor and (iii) cancer signs predictor (by
+      one commercial CAD model and one in-house academic CAD model); the age of the woman is also
+      taken into account by multiplying the score with (110-age)/70. The purpose of the age factor
+      is to attain a relatively similar proportion of MRI exams in the lower and higher age groups.
+      The aim of the AI tool is to identify women with the highest probability of having a delay in
+      cancer detection, i.e., having had a false negative screening mammogram.
+
+      The specific AI tool and its settings will remain the same during the study. For each
+      examination, the AI tool will produce an AI Joint Score and an AI Masking Score. Women having
+      an AI Masking Score above the threshold and an AI Joint Score above the threshold will be
+      invited to the study unless they met exclusion criteria. Women who decide to participate,
+      will be randomized to MRI or no-MRI (standard-of-care).
+
+      A Signa Premier 3T MRI scanner from GE Healthcare will be used. The MRI protocol will contain
+      a T2-weighted Dixon sequence and a T1-weighted dynamic contrast enhanced series, and will
+      remain the same through the course of the study. All MRI exams will be assessed by two
+      radiologists, where the second reader will have access to the assessment of the first reader.
+      In case of disagreement, a consensus discussion between two radiologists will be held. The
+      MRI exams will be assessed according to BI-RADS, and follow-up will depend on the BI-RADS
+      category (Figure 2). Women with BI-RADS 1-2 will have no further diagnostics and will be sent
+      a 'healthy letter'. Women with BI-RADS 3 to 5 will be recalled for 2nd look ultrasound. Women
+      with BI-RADS 4-5 will be included in the regular process for established cancer suspicion and
+      be discussed in a multidisciplinary team conference. For women with BI-RADS 3, the follow-up
+      will be handled within the breast radiology unit.
+    
+  

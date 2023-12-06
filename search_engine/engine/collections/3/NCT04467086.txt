@@ -1,0 +1,138 @@
+
+    
+      Background and Rationale:
+
+      Critically ill patients often require sedation for comfort and to tolerate mechanical
+      ventilation. There are internationally accepted guidelines for sedation of critically ill
+      patients, and dexmedetomidine and propofol are recommended as sedative agents over
+      alternatives, such as benzodiazepines. There is now a worrying shortage of propofol in
+      Canada, the European Union, and parts of the US. The supply of dexmedetomidine, an expensive
+      alternative to propofol, is now considered to be at risk. It is unsuitable as monotherapy for
+      deep sedation, and most hospitals in Canada limit use to 48h, due to high costs. This
+      therefore makes it inadequate for COVID-19 treatment. Other sedative agents for mechanical
+      ventilation include benzodiazepines (e.g. midazolam), but these are associated with higher
+      mortality from sepsis, higher incidence of delirium, and longer length of stay in the ICU.
+      That notwithstanding, midazolam is also currently in short supply. Shortages of sedative
+      medications will be as impactful on critical care practice as shortages of mechanical
+      ventilators; propofol, midazolam, and dexmedetomidine were all listed on March 31, 2020 as
+      "Tier 3 Shortages" by Health Canada - having "the greatest potential impact on Canada's drug
+      supply and health care system….based on low availability of alternative supplies, ingredients
+      or therapies."
+
+      In critically-ill patients, the sympathetic nervous system can become hyperactive, producing
+      neurotransmitters such as norepinephrine (NE) to increase blood pressure and heart rate. In
+      the brain, a pontine nucleus called the locus ceruleus (LC) provides the majority of brain
+      NE. LC adrenergic input to the medial septal area and medial preoptic area of the forebrain
+      mediates arousal.
+
+      Sympatholytics have previously been prescribed to manage agitation in critical illness.
+      Dexmedetomidine is one such example, an intravenous alpha-2 agonist, which readily penetrates
+      the central nervous system. It has an anti-noradrenergic effect in the locus ceruleus,
+      consequently increasing inhibitory GABA neuron activity in the forebrain. Clonidine, is an
+      oral and intravenous agent that is highly lipid soluble, with good penetration of the Central
+      Nervous System, has been well studied in the ICU environment. However a recent meta-analysis
+      showed clonidine use did not reduce length of stay or length of ventilation for critically
+      ill patients, and only led to a small reduction in the use of opioids. Propranolol is a
+      non-selective beta-adrenergic antagonist, approved for treating hypertension, angina,
+      arrhythmias, migraines and pheochromocytoma in Canada. It has also been used off label to
+      treat anxiety disorders such as Post-Traumatic Stress Disorder. It is a lipophilic molecule,
+      crosses the blood brain barrier, and can block the locus ceruleus' ability to activate the
+      forebrain, similar to alpha 2 agonists. In rat models, propranolol delays arousal from a
+      state of anaesthesia.
+
+      An extensive search of PubMed and Web of Science did not reveal published trials of
+      propranolol as a sedative agent in critical illness or mechanical ventilation. However,
+      propranolol was shown to significantly reduce agitation in a randomized controlled trial in
+      patients with traumatic brain injury. Observational studies in traumatic brain injury have
+      shown that propranolol use is associated with a shorter length of hospital and ICU stay, and
+      possibly a lower mortality risk, without reports of significant side effects. A meta-analysis
+      of 10 randomized controlled trials in severely burned patients found propranolol reduced
+      hospital length of stay. Other studies have shown that propranolol may have beneficial
+      effects on catabolism in critical illness, and improve cardiac function and survival in
+      animal models of cardiac resuscitation. This study team published a single centre
+      retrospective study of 64 mechanically-ventilated patients which found that the initiation of
+      propranolol was associated with an 86% reduction in propofol dose, and an approximately 50%
+      reduction in midazolam dose, while maintaining the desired sedation target.
+
+      If propranolol reduces sedative doses required by mechanically ventilated patients (either
+      with or without COVID illness) to the degree seen in this team's retrospective study, this
+      would effectively reduce usage of sedatives two- to seven-fold. The cost of the average daily
+      dose of propranolol used in the retrospective study (~120mg) would be $0.27 (pharmacy cost at
+      The Ottawa Hospital), and propranolol is in abundant supply in Canada and around the world.
+
+      Based on this data, propranolol may enable critical care providers to sedate mechanically
+      ventilated patients using their usual approaches except with substantially lower doses of
+      sedatives. This would not only extend the use of currently limited supply of sedatives, it
+      would significantly reduce medication costs in critical care units in Canada and worldwide.
+
+      Trial Objective:
+
+      Does the addition of propranolol to a standard sedation regimen reduce the dose of sedative
+      needed in critically ill patients requiring mechanical ventilation?
+
+      Study Design:
+
+      Open-label, Randomized Controlled Trial (RCT), 1:1 allocation
+
+      Patient Population:
+
+      Participants are adult patients admitted to an intensive care unit who are anticipated to
+      require mechanical ventilation >48h, who are requiring intravenous sedatives to achieve a
+      sedation goal that is anticipated to be stable for >48h.
+
+      Intervention:
+
+      Patients randomized to the intervention arm will receive propranolol enterally at a starting
+      dose of 20mg every 6 hours for two doses, and then 30mg every 6 hours for four doses. This
+      dose will be titrated upwards every 24 hours depending on clinical response (40mg every 6
+      hours for four doses, 50mg every 6 hours for four doses, and 60 mg every 6 hours thereafter).
+      The maximum dose to be used in the intervention group is 60mg every 6 hours. Daily dose
+      titration will be guided by hemodynamic markers indicative of the expected sympatholysis from
+      propranolol. Upward titration of propranolol should coincide with a downward titration in
+      sedatives until a minimum level of sedative infusion is reached (propofol <0.5mg/kg/h or
+      midazolam <0.5mg/h). For each participant, the intervention will be administered from
+      enrollment until approximately 48h after the patient is liberated from the mechanical
+      ventilator, and the study will continue until hospital discharge or 28 days after enrollment,
+      if the patient is still alive. Enrollment can begin as early as 24h after the start of a
+      sedative infusion in the ICU.
+
+      Primary Outcome and Sample Size:
+
+      The primary outcome will be a comparison of the change in primary sedative dose from baseline
+      to Day #3 of the study in the intervention group compared with the same change in the control
+      group- the difference in differences. Given the global need for a substantial reduction in
+      sedative consumption for mechanically ventilated patients, this study assumes that a 70%
+      reduction in sedative dose would be clinically meaningful, which corresponds to the
+      difference between the sedative infusion doses required for study eligibility (ie. propofol
+      >1.5 mg/kg/h or midazolam >1.5 mg/h) and the minimum doses below which propranolol would no
+      longer be increased (ie. propofol <0.5 mg/kg/h or midazolam <0.5 mg/h). Based on the mean +/-
+      SD daily dose of propofol at baseline (942 +/- 1629 mg) and on Day #3 (155 +/- 641mg) in
+      observational study, this trial should enroll 98 patients in a 1:1 randomized controlled
+      trial to have 80% power to detect a significant difference with a one-tailed alpha of 0.05.
+      Allowing a 10% dropout rate (a previous study of sedation strategies at these sites reported
+      a dropout rate of 3%), this study will aim to enroll 108 patients (54 control; 54
+      intervention).
+
+      Statistical Analysis:
+
+      The primary outcome will be analyzed as a difference in differences- the change in sedative
+      dose from baseline to Day #3 (defined as the 24h period starting 60h after enrollment) in the
+      intervention group vs the same change in the control group. The Mann-Whitney U test will be
+      used as a nonparametric test of independent samples for this outcome, as well as the
+      secondary outcomes that relate to sedative dosing on Day #3 compared to baseline. For
+      secondary outcomes, groups will be compared using unpaired statistical tests- Chi-square for
+      proportions, and unpaired t-tests or Mann-Whitney tests as appropriate for parametric and
+      non-parametric data. The effect of age, sex and gender, and pre-ICU beta-blocker prescription
+      will be analyzed as planned subgroup analyses.
+
+      Ethical Considerations:
+
+      A No Objection Letter from Health Canada, Division 5, has been obtained to conduct this
+      clinical trial. Research Ethics Board approval is pending. An established data safety
+      monitoring committee will evaluate adverse events. An interim analysis will be conducted
+      after 50 enrolled patients, and the study will be terminated if the data safety monitoring
+      committee determines the risk of adverse events, based on the rate of adverse events reported
+      in this clinical trial to the committee, outweighs the potential benefits. Informed consent
+      will be obtained from each participant or their legal substitute decision maker.
+    
+  

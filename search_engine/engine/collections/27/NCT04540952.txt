@@ -1,0 +1,125 @@
+
+    
+      EXPERIMENTAL TRIAL WITH THE TCD VERSUS THE STANDARD HYSTEROSCOPY DRAPE IN A PELVIC MODEL
+      SIMULATION
+
+      The investigators sought to document whether or not a prototype design of the "Total Capture"
+      drape (TCD) would perform under replicated clinical conditions in a superior fashion compared
+      to the currently marketed hysteroscopy drape. The experimental testing was performed at an
+      operating room suite using the hysteroscopy fluid management system, conventional
+      hysteroscopy drape, the Total Capture drape and the ZOE Gynecologic pelvic model. The pelvic
+      model was configured so that all fluid introduced into the artificial vagina would not be
+      absorbed by the model but would flow out of the artificial vagina.
+
+      A total of four trials per drape were conducted. One trial from each product had procedural
+      difficulties making results invalid.
+
+      Results of the Simulation Trial: In four trials of the total capture drape, there was no
+      deficit observed. It was concluded that no major design iterations would be required to move
+      the TCD prototype to the next phase of development
+
+      COMPARATIVE TRIAL FOR "PROOF OF CONCEPT" TESTING TO EVALUATE THE EFFICIENCY OF THE TOTAL
+      CAPTURE DRAPE COMPARED TO THE CONVENTIONAL HYSTEROSCOPY DRAPE DURING HYSTEROSCOPIC SURGERY
+
+      All women undertaking hysteroscopy are required to have a sterile surgical drape with a fluid
+      capture pouch system to collect the distention media not absorbed by the patient to calculate
+      fluid deficits. Both the TCD and the standard hysteroscopy drape possess the characteristics
+      described above, although design features of the standard drape are deficient. The TCD falls
+      under Class II status, exempt from the 510(k) clearance process in consideration of FDA's
+      approach to similar devices like the standard hysteroscopy drape (Regulation number 21 CRF
+      878.4370, product code KKX.
+
+      The hysteroscopy fluid deficit will be measured by the fluid management system during each
+      hysteroscopy procedure. The uncollected fluid volume seen on the operating room floor and
+      absorbed by the operation blankets and drapes will also be captured, as well as the estimated
+      fluid loss from leaking hysteroscopy joints and gaskets not captured in the collection bag.
+      Procedure time and alarm sounding for exceeding fluid deficit limit will also be recorded.
+
+      MEASURES OF DRAPE USABILITY, QUALITY, AND CONVENIENCE
+
+      Staff will be asked to complete the System Usability Scale (SUS) to evaluate their perceived
+      clinical usefulness of the TCD and the standard drape. The SUS is a validated 10-item survey
+      for assessing perceived usability that uses a 5-point Likert scale ranging from strongly
+      disagree to strongly agree. To further subjectively and objectively assess the TCD, a human
+      factors and design researcher will observe the surgeries. The human factors researcher will
+      attend the first surgeries to ensure consistent rating with the design researcher who will
+      subsequently observe the remaining surgeries until data saturation is reached. Staff will be
+      asked to speak aloud using the system, which the researcher will record. Further, the
+      researcher will complete an objective human factors assessment tool. These metrics will allow
+      us to quantitate clinical usefulness and usability of both the operating surgeons and
+      operating room staff. These results will not only provide this assessment of the TCD compared
+      to the standard hysteroscopy drape (which is used across ORs within Atrium Health) but will
+      also provide important information to improve the drape if deficiencies are identified.
+
+      DATA MANAGEMENT
+
+      Case report forms will be developed by the OBGYN clinical research nursing staff in
+      collaboration with Dr. Marshburn and Dr. Zhao. A REDCap database will be created for secure
+      electronic data capture. The data flow will consist of paper data collection for eligibility
+      assessment, baseline data, randomization, operational procedure, fluid measures, surgery
+      outcomes, adverse events, and protocol deviations. The data will be entered into the
+      electronic database within 3 business days of the enrollment.
+
+      STATISTICAL METHODS AND SAMPLE SIZE JUSTIFICATION
+
+      The primary outcome for the study is the hysteroscopy fluid deficit (HFD) as determined by
+      the fluid management system by subtracting the outflow volume (OV) from the inflow volume
+      (IV) (HFD=IV-OV). Our null hypothesis is Ho: μStandard=μTCD where μ=mean fluid deficit. Our
+      alternative hypothesis is Ho: μStandard>μTCD due to the underestimation of the outflow volume
+      created by the loss of outflow fluid to floors and blankets. If it is assumed the true
+      absorption rates by the patients are the same between the groups due to randomization, by
+      estimating and testing the difference HFD between the two groups a more accurate measure of
+      the uncollected fluid volume (UFV) will be estimated and tested as shown below:
+
+      μStandard - μTCD = (μStandard, true absorption + μStandard, UFV) - μTCD, true absorption
+
+        -  (μ true absorption + μStandard, UFV) - μtrue absorption
+
+        -  μStandard, UFV The primary analysis for the study will use a general linear model on the
+           HFD with a fixed effect for study group (TCD versus Standard drape) controlling for
+           surgeon and indication for hysteroscopy, the stratification factors for the
+           randomization.
+
+      Secondary outcomes include estimated uncollected fluid volume from floor and blankets,
+      occurrence of the fluid deficit alarm sounding, stopping of the operation due to concerns of
+      overabsorption by the patient, and adverse events. Estimated uncollected fluid volume will be
+      analyzed similar to the primary outcome. All other outcomes are categorical and will be
+      compared using Chi-square analyses.
+
+      The investigators will sample 10 procedures(or until data saturation) from each arm (TCD vs
+      standard) to conduct qualitative assessments on Usability using the Human Factors Assessment
+      Tool /Acceptance for the for the surgeons and operating team members.For the SUS, the design
+      strategist will collect data on attending physicians only on their first and fifth procedures
+      (the study team may change it to 1st and 3rd if deemed appropriate). The investigators will
+      estimate means or medians with standard deviations (or interquartile ranges) for the items
+      and total scores for the measuresSUS. Both within (1st vs. 5th) and between arms (TCD vs.
+      standard) comparison on total scores of SUS will be conducted. The investigators will compare
+      the two groups using linear mixed models or generalized linear mixed models (depending on the
+      distribution) with a random effect for the procedure to control for correlation of the
+      measures among team members participating in the same procedure.
+
+      There is no prior data on HFD in patients to estimate the variability need for the sample
+      size estimation. There is preliminary data from the simulated experiment showing a 100%
+      recovering of loss deficit by the TCD. If it is conservatively assumed the loss deficit will
+      decrease from 40% to 20% of the inflow volume, this would result in a clinically meaningful
+      improvement with an approximate effect size of 0.92 based on the variability of loss deficit
+      in the simulation. Given this, effect size (relative to standard deviation) is used as the
+      primary justification for the number of patients needed for the study. With a sample size of
+      n=34 per arm, there would be 81% power to detect an effect size of 0.7 (0.7*standard
+      deviation of the HFD) with a two sided, two sample t-test (α=0.05). To account for potential
+      missing data of 10%, it is proposed randomizing 76 women (n=38 per arm). With n=34 women in
+      each group, there would also be 80% power to detect an absolute 33% reduction in the
+      proportion of procedures with the alarm sounding due to fluid deficit threshold being reached
+      assuming the proportion in the standard drape arm is 50%. This power was calculated using a
+      Fisher's Exact test for testing proportions between two independent samples. The same power
+      would apply for detecting differences in the proportion of procedures terminated.
+
+      DATA SAFETY AND MONITORING
+
+      The PI and the study team will meet biweekly to review the study procedures, enrollment
+      (screening and randomization), implementation, protocol deviations, data collection, and
+      adverse events. The biostatistical team will generate monthly reports to monitor screening,
+      enrollment, completeness of data for intervention implementation and outcomes, adverse
+      events, and protocol deviations.
+    
+  

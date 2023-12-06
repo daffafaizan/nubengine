@@ -1,0 +1,184 @@
+
+    
+      Control and quality assurance will be applied in the investigation site. The monitor mandated
+      by the sponsor Nurea will ensure the follow-up and the proper completion of the study, the
+      collection of data in writing, their documentation, recording and report, in accordance with
+      the procedures in place and in accordance with good clinical practice as well as the laws and
+      regulations in force.
+
+      Quality control visits realised at regular intervals will be realised by the monitor. During
+      those visits, the following elements could be demanded:
+
+        -  Informed consent forms, information note
+
+        -  Respect of the plan of the study and the procedures defined in it
+
+        -  Quality of the data collected in the Case Report Form (CRF): accuracy, missing data,
+           consistency of data with the "source" documents (medical file, appointment book,
+           originals of laboratory results).
+
+        -  Management of any products
+
+        -  Security data All contacts made will give rise to a specific written report
+
+      Three type of visits (quality control) will be realised:
+
+        -  The initiation visit (realised in person) will concern every person potentially involved
+           in the investigation. This visit will be about presenting the plan, redefine inclusion
+           objectives, recall everyone's responsibility and the regulation, as well as answering
+           question.
+
+        -  The monitoring visits will be realised by the monitor after the first inclusion to
+           ensure the respect of the plan and the regulation, as well as the quality of the
+           collected data. Those visits will be realised every 2weeks, but the frequency can vary
+           regarding the complexity of the study, of the number and the pace of inclusions.
+           Therefore, there will be at least one visit per month.
+
+        -  The close-out visit will be realised after the last data have been collected. The
+           purpose of this visit is to verify the quality of the collected data, to update the
+           documents before archiving.
+
+      In addition to these on-site travels, a regular monitoring over the phone will be realised in
+      order to best support the participating physicians throughout the study.
+
+      These quality controls are supplemented by regular follow-up audits in order to evaluate the
+      quality of collected data and to crop the study. An audit may be conducted at any time by
+      persons appointed by the sponsor and independent of the persons conducting the research. Its
+      purpose is to verify the participants' safety and respect for their rights, compliance with
+      applicable regulations and the reliability of data.
+
+      An inspection can also be carried out by a competent authority (ANSM for France or EMA in the
+      context of a European study, for example).
+
+      The audit, as well as the inspection, can be applied at all stages of the research, from the
+      development of the protocol to the publication of the results and the classification of the
+      data used or produced as part of the research.
+
+      Data management Access to data
+
+      Only participating physicians and the monitor (or clinical research staff) will have access
+      to source files during the monitoring visits.
+
+      During quality control visits, the principal investigator must make the following documents
+      available:
+
+        -  informed consent,
+
+        -  briefing notes,
+
+        -  observation notebooks,
+
+        -  source documents (medical records, appointment books, etc.) In accordance with the law
+           in force, patients have a right of access to their medical file. According to the law of
+           January 2002, patients will be told where they can inquire about the results of the
+           study.
+
+      Guidelines for collecting data
+
+      The term "Case Report Form (CRF)" designates any document whatever its support (for example
+      paper, optical, magnetic or electronic) intended to collect in writing all the information
+      required by the protocol concerning each person who is suitable for research and to be sent
+      to the sponsor.
+
+      All the information required by the protocol must be recorded in case report forms and an
+      explanation must be provided for any missing data. The data will have to be collected as and
+      when they are obtained and transcribed in these notebooks in a clear and legible way.
+
+      It is the responsibility of the investigator to complete the CRF, but he may delegate this
+      task to the clinical trial technicians or to the research nurse, provided that he has
+      previously completed a task delegation form.
+
+      Data collection will be done using e-CRF that will include patient characteristics and study
+      data. The patient will be identified by an alphanumeric code and the data concerning him/her
+      will be anonymized in the form. The code will be reported on all pages of the observation
+      book.
+
+      Modification of e-CRF data
+
+      Corrections of errors which have occurred in an e-CRF will be carried out via the correction
+      module thereof, and must be dated, initialed, and justified.
+
+      The copies of the observation notebooks will be kept for at least 15 years on the
+      investigation site while the original copy, once the quality control has been carried out,
+      will be archived by the sponsor for the same duration.
+
+      Standard operating procedures
+
+      Investigators will determine whether patients meet the inclusion criteria, and whether the
+      use of one or the other device will bring them beneficial results.
+
+      Screening / pre-selection The selection of the patients is realised by the principal
+      investigator. A first screening of the patient that could be included in the study is
+      realised.
+
+      To be pre-included, those patients shall:
+
+        1. be still followed by the hospital for the duration of the study,
+
+        2. have at least one scheduled visit in the Vascular and General Surgery unit over the
+           study period
+
+        3. respect the selection criteria (inclusion and exclusion criteria), The discrimination of
+           the group of patients is carried out according to the list above.
+
+      Pre-inclusion visit The presentation of the clinical study and the proposition to participate
+      to it will be presented to the patient by an investigator doctor during one of his follow-up
+      routine visit (regarding his care pathway).
+
+      The investigator surgeon verifies the match to the eligibility criteria. The information
+      notes and the consent form are given to the patient at this same visit. A reasonable response
+      period is given to the patient to return the consent form signed. Its inclusion will be
+      effective upon the return of this signed consent.
+
+      Reception of the consent form / inclusion
+
+      When the consent of the patient has been received, the following data are registered in the
+      e-CRF:
+
+        -  Demographic data: Birth date, age, gender
+
+        -  Investigation data: Patient number, date of signature of the consent
+
+        -  Images data: Pre-operation scan, post-operation scan The inclusion is validated when all
+           data (cited above) are registered in the e-CRF.
+
+      Sample size assessment
+
+      To answer the main objective of this study, we set up a precision of the proportion of
+      volumes calculated by the software PRAEVAorta in adequation with the volumes hand calculated
+      by the healthcare professionals.
+
+      For this statistical analysis, variables are quantitative: volume of the aneurysm in mm3. We
+      consider over here the proportion of patients' images who have a volume ratio less or greater
+      than 90%.
+
+      Volume ratio : \frac{PRAEVAorta\ volume-hand\ volume}{PRAEVAorta\ volume}
+
+      Hypothesis are the following:
+
+      H0: 90% of the segmented patients have a volume ratio < 90% H1: 90% of the segmented patient
+      have a volume ratio ≥ 90% We would like to have a precision of this proportion of 10%.
+      Therefore, the numbers of patients needed, with an α risk of 5% and a β risk of 0.9% is 35.
+
+      n=\ \frac{\varepsilon_\alpha^2\bullet p\bullet q}{i^2}=\
+      \frac{{1.96}^2\times0.9\times0.1}{{0.1}^2}=34.5 With i: precision, p: proportion, q: 1 -
+      proportion, εα: obtained with the reduced table of the normal law.
+
+      For security reasons and to anticipate the possible withdrawals, we choose to include
+      approximately 10% more subjects, for a total of 40 patients.
+
+      Patients will be divided in two groups: 20 patients will see their pre-op images analysed and
+      20 patients will see their post-op images analysed.
+
+      Satistical analysis plan
+
+      To evaluate the segmentation obtained with the software, a quantitative comparison with the
+      results obtained from a semi-automatic segmentation manually corrected by a senior and a
+      junior surgeon shall be realised. The Dice Similarity Coefficient (DSC), Jaccard index(JAC),
+      Sensitivity, Specificity, volumetric similarity (VS), Hausdorff distance (HD), maximum aortic
+      transverse diameter, and the duration of segmentation will be calculated between the two
+      methods and, for the semiautomatic software, also between the two observers. A Pearson's
+      coefficient correlation is done to evaluate the correlation between the volumes, surfaces,
+      and diameters measures with the fully automatic and manually corrected segmentation methods.
+    
+  

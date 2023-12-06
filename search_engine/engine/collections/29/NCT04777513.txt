@@ -1,0 +1,78 @@
+
+    
+      Stage 1
+
+      After a patient declares their consent, a doctor or another member of the study team trained
+      by the sponsor will perform procedures in the following order:
+
+        -  Define the unique patient ID to be recorded in the CRF with the patient's demographic
+           data
+
+        -  Assess the quality of CCTA imaging data according to guidelines agreed upon with the
+           sponsor and record the number and location of the significant (≥50%) stenosis sites in
+           the CRF based on CCTA
+
+        -  No later than one hour before ICA starts, perform a physical examination consisting in
+           instantaneous peripheral blood pressure (systolic and diastolic) resting measurement
+           performed with a standard sphygmomanometer and Continuous Non-Invasive Blood Pressure
+           measurement (1-3 min).
+
+      Stage 2
+
+      After the procedures mentioned above are performed, the patient will undergo elective ICA
+      with the outcomes, i.e.:
+
+        -  video material showing the location of the wire during the FFR measurement,
+
+        -  digital pressure signals exported from the FFR measuring device used to determine the
+           value of the invasive FFR,
+
+        -  values of FFR measurements obtained during ICA will be entered after being anonymised in
+           a dedicated HEMOFLOW PMS_2020 reference database.
+
+      Stage 3
+
+      Within 48 hours of ICA completion a doctor or another member of the study team trained by the
+      sponsor:
+
+        -  will enter the following data in the iSIL-FFR system:
+
+             1. Patient's data, i.e. patient's ID, gender, height, body mass, exercise
+                tolerability, information on used medications and smoking cigarettes. Optionally,
+                i.e. if upon admission for ICA a blood test was performed as a part of the standard
+                diagnostic workup - haematocrit levels and total protein concentration
+
+             2. Files containing CCTA imaging data in the DICOM format.
+
+             3. Values of instantaneous peripheral blood pressure (systolic and diastolic) resting
+                measurement performed with a standard sphygmomanometer as well as the digital
+                signal obtained during the CNBP measurement (1-3 min)
+
+        -  Based on the CCTA description or meta data contained in the imaging data the doctor or
+           another member of the study team will record the following information in the CRF:
+
+             1. Radiation dose during CCTA
+
+             2. Contrast medium dose during CCTA
+
+        -  Will enter the following information in the CRF:
+
+             1. Radiation dose during the diagnostic part of ICA
+
+             2. Contrast medium dose during the diagnostic part of ICA
+
+             3. Number and type of adverse events
+
+             4. Duration of the diagnostic workup.
+
+      Stage 4
+
+      Within 48 hours of entering all the stage 3 data the investigator (a cardiologist) trained by
+      the sponsor will measure the value of the virtual FFR with the iSIL-FFR system at locations
+      corresponding to ICA FFR measurements (based on video recording entered in the database
+      during stage 2)
+
+      Based on results obtained from the iSIL-FFR system vs reference data an analysis will be
+      performed on meeting the primary and secondary end points of the trial.
+    
+  

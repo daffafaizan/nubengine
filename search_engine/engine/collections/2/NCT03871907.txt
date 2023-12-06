@@ -1,0 +1,115 @@
+
+    
+      DESIGN: DigTech is a parallel-group, single-blind, randomized clinical trial investigating
+      the changes in cardiovascular risk factors (low-density lipoprotein cholesterol [LDL-C]
+      level, blood pressure, body mass index [BMI]) according to personalized intervention, based
+      on individual short messages in CHD patients after PCI.
+
+      BACKGROUND AND AIMS:
+
+      Cardiovascular disease prevention, including lifestyle modification, is important but
+      underutilized. Mobile health strategies could address this gap but lack evidence of
+      therapeutic benefit.
+
+      This trial aims at the examination of the effect of a lifestyle-focused personalized support
+      program delivered by mobile phone text message on cardiovascular risk factors.
+
+      PARTICIPANTS: 700 participants aged 18-75 with CHD after PCI.
+
+      RECRUITMENT: Tyumen Cardiology Research Center, branch of the Tomsk NRMC
+
+      CONFIDENTIALITY: All information and documents collected will be stored securely and kept in
+      strict confidence in compliance with regulatory acts.
+
+      Study samples, investigation results and incidental findings. The use of the participants'
+      study samples and investigations are clearly defined in the participant information leaflet
+      and will be explained during the informed consent process.
+
+      CONSIDERATION OF NULL HYPOTHESES: A null hypotheses that personalized lifestyle intervention
+      based on received 4 text messages per week for 6 months in addition to usual care in CHD
+      patients after PCI does not reduce LDL-C levels, blood pressure and BMI" was not selected.
+
+      SAMPLE SIZE SELECTION: Prior study shows that a sample size of 634, increasing to 704 to
+      allow for a10% loss to follow-up, would have 90% power (2-tailed and at a 5% significance
+      level) to detect a difference of 10 mg/dL in LDL-C level.
+
+      INTERVENTION: The text message will be based on the prevention program involved delivery of
+      regular personalized text messages (some messages personally addressed through a
+      "mail-merge"-type function with the participant's preferred name) providing advice,
+      motivation, and information that is aimed to improve diet, increase physical activity, and
+      encourage smoking cessation (if relevant). Content for each participant will be selected
+      using a re-specified algorithm dependent on key baseline characteristics. Participants will
+      receive 4 messages per week for 24 weeks. Each message will be sent on 4 of 5 randomly
+      selected days and arrived at random times of the day during working hours. The content of
+      messages will be based on national guidelines on cardiovascular disease prevention.
+
+      STUDY PROCEDURES AND DATA COLLECTION
+
+      SCREENING VISITS: Screening Visit Procedures (Visit 0). Evaluation of inclusion and exclusion
+      criteria. Patients will provide written informed consent on this visit.
+
+      MAIN STUDY VISITS COMPLETION OF STUDY VISITS 1-3
+
+      There are three main visits planned for each participant:
+
+      Visit 1: conducted at the beginning of trial (baseline).
+
+        -  Questionnaire. It will collect detailed information about physical activities
+           (International Physical Activity Questionnaires short form) and also lifestyle
+           information such as daily routines and use of alcohol and tobacco, information about
+           previous treatment.
+
+        -  Physical Measures. Investigators will measure blood pressure, height, weight, BMI, heart
+           rate.
+
+        -  Cardiovascular Measures:
+
+             1. Electrocardiogram (ECG).
+
+             2. Echocardiogram
+
+             3. Six Minute Walk Test.
+
+             4. Coronary angiography
+
+        -  Blood Sampling including blood lipid spectrum (total cholesterol, triglycerides,
+           cholesterol high-density lipoproteins and cholesterol low-density lipoproteins). Fasting
+           blood samples will be analyzed by local laboratories.
+
+      Visit 2: Randomization. Randomization will be performed after PCI, prior to discharge from
+      the hospital.
+
+      Randomization will occur via a computerized randomization program that will access through a
+      secure web interface. The random allocation sequence will be in a uniform 1:1 and will be
+      concealed from study personnel. Study staff will enroll patients by entering data into the
+      secure web interface. The computerized randomization program interfaced with the
+      message-sending program to trigger the sending of messages to patients randomized to the
+      intervention. To maintain blinding of personnel study, patients will be informed of their
+      allocation in a text message sent after hospital discharge. Prior to their follow-up
+      appointment patients also will receive a text message to ask them not to reveal their
+      allocation status to study personnel or clinicians in follow-up visits. Intervention
+      participants will receive, in addition to usual care, the 6-months prevention program of
+      approximately 96 messages. Control participants will receive usual care, which generally
+      included community follow-up with the majority referred to inpatient cardiac rehabilitation,
+      as determined by their usual physicians.
+
+      Visit 3: conducted after 24 weeks (at the end of the trial, Follow-up visit).
+
+      ANALYSIS: Patient demographic characteristics and other baseline information will be
+      summarised by treatment group. Numbers (with percentages) for binary and categorical
+      variables and mean (standard deviation), or median (interquartile or full range) for
+      continuous variables will be presented. Normality of variables will be assessed by visual
+      assessment of the normality curves and the Kolmogorov-Smirnov test. The analysis of the
+      primary outcome will be assessed using analysis of covariance (ANCOVA) adjusting for baseline
+      values and minimisation factors used in the randomisation process. Results will be presented
+      as adjusted mean difference in change in ambulatory blood pressure between randomised groups
+      at 4 months with 95% confidence intervals (CI) and associated two-sided p value. The above
+      method was also used for continuous secondary outcomes. With respect to management of
+      combined risk factors, the proportion of patients achieving control of risk factors was
+      analyzed in terms of relative risk at month 6 and compared between groups using a
+      log-binomial regression. If the model assumptions are not met and evidence of departure from
+      Normality is observed, transformations of the data will be employed or non-parametric tests
+      will be carried out. Statistical analysis will be carried out using SPSS statistical
+      software.
+    
+  

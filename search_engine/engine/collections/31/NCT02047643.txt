@@ -1,0 +1,59 @@
+
+    
+      Regular aerobic exercise confers a plethora of health benefits to all individuals and is
+      considered an essential component of the management of type 1 diabetes (T1D) [1]. However, in
+      contrast to non-diabetic subjects - in whom the increased muscle energy requirement during
+      exercise leads to suppression of endogenous insulin secretion - patients with T1D are
+      dependent upon exogenous insulin and are thus at risk for exercise-associated hypoglycemia
+      [1]. Exercise-associated hypoglycemia is the most frequently reported adverse event related
+      to exercise in diabetes [2] and hypoglycemia can occur during exercise or several hours
+      afterwards [3,4]. Although previous research has shown that pre-meal dose reduction of
+      subcutaneous insulin can be effective at decreasing the incidence of exercise-associated
+      hypoglycemia [5], patients with T1D often do not perform such adjustments [6,7].
+
+      In contrast to subcutaneous insulin injections, which are reliant upon the patient or
+      caretaker to determine dosage, the insulin pump provides a unique opportunity to avoid
+      hypoglycemia via user-independent, computer-based algorithms for determining insulin
+      delivery. Previous research conducted here at Stanford has demonstrated that algorithms based
+      on continuous glucose monitor (CGM) data can prevent hypoglycemia in the sedentary setting by
+      inducing insulin pump suspension [8-10]. In addition, a study of children and adolescents
+      conducted at Stanford (as a center in the DirecNet group) demonstrated that suspending an
+      insulin pump at the beginning of a period of moderate aerobic exercise reduces the risk of
+      hypoglycemia during that exercise period and subsequently overnight [11]. Thus, by utilizing
+      exercise-detecting accelerometers and an algorithm to initiate pump suspension during
+      exercise, it is likely possible that people with diabetes could avoid exercise-associated
+      hypoglycemia even if they failed to manually alter their pump settings. However, to date, no
+      published studies have utilized accelerometer-derived data in an insulin pump suspension
+      algorithm during exercise.
+
+      Accelerometers are light-weight motion-sensing devices that can be worn to provide
+      information about the intensity and duration of physical activity [12]. They are small,
+      inexpensive, and could easily be incorporated into current sensors and "patch" pumps. They
+      can also be used independently or combined with a heart rate monitor (HRM) [13], although
+      most commercially available HRMs currently require a chest strap that can be uncomfortable to
+      wear. Previous studies evaluating the effect of physical activity on insulin sensitivity have
+      utilized accelerometers (worn on a belt at the small of the back, the right side of the trunk
+      in the mid-axillary line, or the left side of the chest) with and without HRMs for activity
+      recognition during subjects' everyday lives. These data were used to classify activity as
+      sedentary, light, moderate, or vigorous based on acceleration signal counts measured over
+      one-minute intervals [13-17]. One study investigated four different accelerometers in a
+      clinical research setting and found each to be very accurate in assessing the intensity of
+      physical activity, regardless of subjects' body habitus [18]. Thus, these devices can provide
+      a reliable means by which the onset, duration, and intensity of exercise can be recognized
+      and reported in real-time to the other components of an artificial pancreas. When combined
+      with CGM and insulin delivery data, this exercise information is a valuable tool in designing
+      an algorithm to decrease or stop insulin delivery in order to decrease the risk of
+      exercise-associated hypoglycemia.
+
+      In the first phase of this study (in press), 22 subjects with type 1 diabetes went about
+      their everyday lives while wearing an insulin pump, CGM, and accelerometer/heart rate
+      monitor. After the monitoring period, the devices were downloaded and the data were used to
+      augment an existing predictive low glucose suspend (PLGS) algorithm to incorporate activity.
+      In a computer simulator, the PLGS algorithm reduced hypoglycemia by 64%, compared to 73% and
+      76% reductions for the accelerometer-augmented and HRM-augmented algorithms, respectively.
+
+      In the next phase of this study, we seek to test the newly developed algorithm in a real-life
+      setting in the form of a structured sports (soccer) camp to further see if modifications to
+      the algorithm are required.
+    
+  

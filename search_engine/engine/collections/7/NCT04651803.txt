@@ -1,0 +1,63 @@
+
+    
+      The investigators conducted a multicentre, retrospective, observational study from April 2013
+      to February 2019 in the surgical ICUs of 5 level 1 Trauma centers in France. The
+      investigators collected data from the "regional intensive care network of the great west of
+      france" (AtlanRéa) database. The AtlanRéa database registers prospectively and consecutively
+      numerous informations about brain injury and trauma patients hospitalized in ICUs, in order
+      to provide epidemiologic informations for this population. Data were collected by clinical
+      research assistants in each participating ICU, using an electronic case report form. The
+      investigators assessed data regarding outcomes after discharge from ICUs through phone
+      interview led by dedicated clinical research assistants.
+
+      The following data were entered in the database: Age, gender and body mass index, previous
+      medical history, and more specifically the presence of cardiac insufficiency, chronic renal
+      failure defined as an estimated glomerular filtration rate less than 60 ml/min.1.73 m-1,
+      chronic respiratory illness, neurologic background, diabetes, neoplasia history, previous
+      TBI, active smoking and chronic alcoholism. Mechanism of injury (domestic accident, road
+      traffic crash, fall from heights or others). The Glasgow Coma Score (GCS) score determinates
+      in the prehospital setting or at admission at hospital before intubation and/or sedation, and
+      the presence of at least one nonreactive and dilated pupil at the initial management.
+      Severity of illness according to the Simplified Acute Physiology Score II (SAPS II) the
+      Sequential Organ Failure Assessment (SOFA) score, and the Injury Severity Score (ISS). The
+      investigators also specified the severity of TBI by the abbreviated Injury Score (AIS) and
+      reported the associated injuries from 5 territories (face, chest, abdomen, extremity
+      (including pelvis) and external). Initial CT-scan was classified according to the Marshall
+      classification in six categories (Diffuse injury I, II, III, IV, evacuated mass (V) and
+      non-evacuated mass lesion (VI)).
+
+      The following data during the patients' hospitalization are also entered in the database: use
+      of an intracranial pressure (ICP) catheter, occurrence of intracranial hypertension (defined
+      as an ICP above 20 mmHg in absence of confounding factors), and use of barbiturates and/or
+      osmotherapy, decompressive craniectomy, and other neurosurgical procedure. The occurrence of
+      intercurrent events occurring during ICU stay, including infections, Acute Respiratory
+      Distress Syndrome (ARDS), need of vasopressor drugs, acute renal failure, thrombophlebitis,
+      pulmonary embolism, hemorrhage, infection and tracheostomy. The investigators specified the
+      need for intubation and durations of mechanical ventilation, central venous catheterism and
+      vasopressor. The investigators also recorded the decision in ICU to withdraw or withhold life
+      support.
+
+      The length of stay in ICU, ICU and 3-month mortalities and patient outcome were assessed
+      using the Glasgow Outcome Scale Extended (GOSE) score at 3 months. The investigators
+      dichotomized the GOSE score between the four lower values (corresponding to unfavorable
+      outcome- GOSE 1 to 4) and the four upper values (corresponding to favorable outcome- GOSE 5
+      to 8).
+
+      Statistical Analysis All statistical analysis will be performed using R software 3.3.1
+      (package pROC) and SAS 9.1 Statistical Software (SAS Institute, Cary, NC, USA). For
+      quantitative continuous variables, position and dispersion parameters (mean, standard
+      deviation, median, interquartile range) will be calculated. For qualitative variables,
+      proportion rates will be calculated. For groups' comparison, we used independent-samples
+      t-tests for normally distributed continuous variables, and Mann-Whitney U-tests for
+      non-normally distributed continuous variables. Χ² tests will be performed for categorical
+      variables. To build the model for multivariate analysis, the investigators selected among the
+      variables with a p ≤ 0.20 according to the univariate analysis. The investigators performed
+      logistic regression model to identify factors associated with in-ICU mortality and
+      dichotomized GOSE score at 3 months. The Odds Ratios (ORs) and 95% confidence intervals (CI)
+      will be calculated. For continuous variables, diagnosis of log linear behavior was
+      established, and if not confirmed, the variable will be divided into categories and treated
+      as categorical variables. Model's fit will be assessed by checking residual plots and Cook's
+      distance. The calibration of the model will be tested by Goodness of Fit Hosmer-Lemeshow
+      test. A p ≤0.05 will be considered statistically significant for all the comparisons.
+    
+  

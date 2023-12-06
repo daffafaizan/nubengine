@@ -1,0 +1,95 @@
+
+    
+      1-1 PD-1 pathway as a novel and effective pathway in cancer treatment The programmed death 1
+      (PD-1) receptor, which is expressed on activated T cells, is engaged by ligands PD-L1 and
+      PD-L2, which are expressed by tumor cells and infiltrating immune cells 1. Tumor PD-L1
+      expression is commonly seen in a broad spectrum of cancers, and the interaction between PD-1
+      and PD-L1, PD-L2 ligands inhibits T-cell activation and promotes tumor immune escape (i.e.,
+      the mechanism by which tumor cells escape recognition and elimination by the immune system)
+      2, 3. Immune checkpoint inhibitors (ICI) developed on the basis of the above mechanism have
+      shown their success with good treatment efficacy in patients with melanoma4-8, lung cancer3,
+      7, 9-21, and renal cell carcinoma12, 22-24 to date. Owing to the mechanism of targeting
+      probably very common pathways of cancer (PD-1 pathway), ICIs seems to be equally effective in
+      a wide range of cancers with a similar response rate of 20-30% 25, which indicates a common
+      immune defect on PD-1 pathway exists amongst the various type of cancer.
+
+      1-2 Subpopulation selection could possibly contribute better efficacy Recently, two PD1
+      inhibitors, Nivolumab and Pembrolizumab, showed their different results in large-scale
+      clinical trials 11, 14. Subpopulation selection strategies in these 2 trials have been widely
+      considered as one of the major reasons. A precise selection of patients with the best
+      response is critically warranted and a truly unmet need, given PD-L1 cannot clearly stratify
+      patients who will benefit most from Nivolumab.
+
+      1-3 No available biomarkers to predict severe irAEs is an unmet need Another problem is that
+      all ICIs have occasionally severe and sometimes life-threatening immune-related adverse
+      events (irAEs). At present, no good biomarker is available to predict such irAEs. It is
+      imperative to identify the biomarkers that can predict the risk of severe irAEs 25.
+
+      1-4 NGS technology could probably provide solutions to the above 2 problems Next-generation
+      sequencing (NGS) technology has been introduced in recent years (Fig. 1), and allows the
+      analysis of genomes, including those representing disease states 26, 27. Generally speaking,
+      there are three NGS approaches to improve diagnostics for cancer gene mutations: (1) targeted
+      enrichment of a set of genes (gene panel), (2) whole-exome sequencing (WES), and (3)
+      whole-genome sequencing (WGS) 28. When comparing the three options, it is clear
+      that-theoretically-WGS is the superior approach as it will produce the most complete data set
+      on an individual's genome (Table 1)28. A recent study 29 concluded that WGS offers signiﬁcant
+      advantages of (a) more coverage of the exome, (b) detection of intronic variants, and (c)
+      calling of all structural variants, including single exon deletions; however, the costs and
+      testing time limited the routine use of WGS. In brief, WGS for cancer patients before
+      treatment could most possibly help to select patients with specific signature(s) to receive
+      specific treatment in a manner of precision medicine 30-37.
+
+      1-5 Host immunity (inherent, host) and Cancer (somatic, acquired) interaction could only be
+      seen in whole genome analysis By means of WGS, we could approach the question of how to
+      identify the responders from Nivolumab in the direction of "cancer part (somatic)"
+      conventionally. In another way, we could also approach this question by "host part", which is
+      also the advantages of WGS testing.
+
+      In WGS analysis, we could use genome-wide association studies (GWAS) analysis to compare
+      common genetic variants in large numbers of affected cases to those in unaffected controls to
+      determine whether an association with disease exists 38, 39. GWAS have been made possible by
+      the identification of millions of single nucleotide polymorphisms (SNPs) across the human
+      genome and the realization that a subset of these SNPs can capture ("tag") common genetic
+      variation via linkage disequilibrium 40. By SNP analysis in WGS, we proposed to find
+      genotypic characteristics to predict which patients could more possibly respond to Nivolumab.
+
+      In further hypothesis, we could analyze the upstream and downstream of the B cell signaling
+      pathway in addition to T cell pathway. Currently, almost all studies addressed the T
+      functional analysis when investigating PD-1-PD-L1 inhibitors. We hypothesize that B cell or
+      even Natural killer's pathway could play some roles to T cell activation to help us to
+      predict the response of immunotherapy.
+
+      1-6 Current evidence of NGS for stratification before ICIs Currently, there are only very few
+      data available carrying out a design using the WGS method. In 2016, Kimura et al. 25 from the
+      U.S.A used targeted panel NGS to prove a strong T cell response and further suggested to
+      exclude of patients with subclinical autoimmune disease is very important for treatment with
+      immune checkpoint inhibitors 25. Yaghmour et al. (2016) also used a panel NGS (Foundation One
+      panel) and found that the use of immune checkpoint blockade in tumors with higher mutational
+      load was associated with improved OS. They further suggested that the evaluation of tumor
+      genomes may be predictive of immunotherapy benefit 41. Voss et al. (2016) presented their
+      preliminary data using WES and RNA-Seq in patients with RCC in ASCO. They found that somatic
+      mutations, particularly those causing tumor neoantigens, and the counterbalance between
+      molecular immune compartments may be determinants of treatment benefit from Nivolumab and
+      warrant future study 42. Another team (de Velasco et al.) also found that both DNA- and
+      RNA-level data may be relevant for explaining clinical benefit from nivolumab in mRCC. In
+      contrast with results from other tumor types, responders to nivolumab did not have more
+      mutated tumors, though immune-related gene expression may be related to response 43. However,
+      their sample sizes of study, retrospective in nature, study scale, and NGS methods are all
+      relatively small.
+
+      Fig. 1. Recent advances of genetic analysis.44
+
+      Fig 2. The differences between several methods of NGS analysis. 45
+
+      1-7 The purpose of the study and brief design To choose a subgroup who could clearly benefit
+      from Nivolumab, we are proposing a prospective observational study. Whole-genome study (WGS)
+      analysis will be performed on archived cancer tissues from patients who were (1)
+      cisplatin-refractory and subsequently (2) received Nivolumab (at least 4 doses) and (3) had
+      completed imaging response evaluation at 3-4 month after Nivolumab. The estimated sample size
+      was designed to be 80, including 20 responders and 60 non-responders (1:3 design) after
+      Nivolumab alone at a dosage of 2-3mg/kg every 2 weeks (+/- 7 days could be allowed), given
+      the minimal requirement of statistical significance. The specific bio-signature(s) found in
+      this prospective observational study could possibly greatly contribute to precision
+      immuno-oncology medicine, especially Nivolumab.
+    
+  

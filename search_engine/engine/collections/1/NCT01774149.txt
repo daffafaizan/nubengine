@@ -1,0 +1,22 @@
+
+    
+      All patients will be given access to a mobile phone with the diabetes diary known as the Few
+      Touch Application (FTA) installed. They may use either their own compatible Android handsets,
+      or provided handsets. The study uses a delayed start design. Participants are randomized into
+      two groups, who get access to the module "Diastat" after 4 and 12 weeks post-enrollment
+      respectively. Each group uses the FTA with Diastat for 8 weeks post-intervention (i.e. access
+      to Diastat).
+
+      Diastat is a module within FTA that provides data-driven feedback to the patients using their
+      own data. This module is based on the data recorded in a previous trial [1]. Three submodules
+      are part of Diastat; Periodicity detection and visualization, multiscale trend detection
+      based on the c-SiZer algorithm [2], and situation matching for insulin dosage [3].
+
+        1. Skrøvseth SO et al, Diabetes Technol Ther (2012)
+
+        2. Skrøvseth SO et al, PLoS ONE (2012)
+
+        3. Skrøvseth SO et al, Accepted for Advanced Technologies and Treatments for Diabetes,
+           Paris, France, 2013.
+    
+  

@@ -1,0 +1,80 @@
+
+    
+      Aim: In this proof-of-concept study, the investigators will seek to establish whether imaging
+      changes in Dopaminergic transmission and receptor function has the potential to improve
+      localisation and management of pituitary adenomas.
+
+      Methods:
+
+      Patients will be recruited from the general endocrine and pituitary multidisciplinary clinics
+      at the University Hospital of Wales. Patients will comprise those with a confirmed pituitary
+      adenoma for whom pituitary imaging is indicated as part of standard clinical management.
+      Tumour functionality (Cushing's syndrome, Acromegaly, Prolactinoma, TSHoma) and
+      hypopituitarism will be established in accordance with established clinical practice.
+      Detailed surgical, pathological and post-operative data will be collected in each case, in
+      order to facilitate correlation of PET/MRI findings with key clinical outcomes.
+
+      Histopathological examination:
+
+      Surgical specimens will be fixed in 10% neutral buffered formalin and embedded in paraffin as
+      per standard clinical practice. Histopathological confirmation of the presence and type of
+      pituitary adenoma will be established by typical microscopic appearances of an adenoma
+      supported by immunohistochemical staining for the relevant hormone (Growth hormone, ACTH
+      [Adrenocorticotrophic Hormone], Prolactin, TSH [Thyroid Stimulating Hormone], LH/FSH
+      [Luteinising hormone/Follicle Stimulating Hormone]). Tumour will also be stored snap frozen
+      for subsequent RNA and protein extraction, in order to quantify dopamine D2 short and long
+      isoform receptor expression. This will allow comparison of ex vivo receptor expression levels
+      with in vivo 18F-fallypride uptake.
+
+      PET-CT imaging:
+
+      Subjects will undergo 18F-FDOPA and 18F-Fallypride imaging according to established protocols
+      in the PET imaging centre (PETIC) at the University Hospital of Wales. Both compounds will be
+      synthesised in compliance with good manufacturing practice, and have been produced and
+      validated for human use in PETIC since 2015. Subjects will refrain from taking alcohol and
+      caffeine for 4 hours before the PET scanning session. PET scans will be acquired using a
+      PET-CT (Positron Emission Tomography-Computed Tomography) scanner with Time of Flight and a
+      64 slice CT in 3D list mode. Patients will be placed in the scanner in the supine position,
+      with the brain centred in the axial field of view. A CT scout view will be acquired to aid in
+      positioning of the patient following which the head will be fixed using a piece of surgical
+      tape.
+
+      18F-FDOPA protocol: For 18F-FDOPA, participants will be pre-treated with 150 mg (milligrams)
+      carbidopa and 400 mg entacapone 1 hour prior to radioisotope administration in order to block
+      peripheral metabolism of FDOPA and enhance specific signal detection. A low dose CT scan will
+      be acquired for positioning and attenuation correction. A single position Dynamic PET scan
+      will be acquired as 26 time-frames over 94.5 minutes (1 × 30 sec, 4 × 1 min, 3 × 2 min, 3 × 3
+      min, and 15 × 5 min). Immediately after the scan commences 111 MBq (Megabecquerels) of
+      18F-DOPA in normal saline will be administered via a long connecting tube as an intravenous
+      bolus at the start of scanning (avoiding brain stimuli). Data will be reconstructed using
+      OSEM (ordered-subsets expectation maximisation) following corrections for attenuation,
+      normalisation, scatter and patient movement. The cerebellum will be used to represent the
+      reference region for the data analysis and enable the generation of binding potential
+      parametric images using Logan plots.
+
+      18 F-Fallypride protocol: Dynamic acquisition of the PET scan will be started with a 30
+      second bolus administration of 18F Fallypride (2.6 MBq/kg body weight). Patients will undergo
+      3 hours of dynamic imaging (3 × 20 s, 3 × 1 min, 3 × 2 min, 3 × 3 min, 21 × 5 min, 2 × 8 min
+      and 4 × 10 min; 180 min in total)(with rest periods during the scan to reduce discomfort and
+      allow urinary voiding to reduce radiation dose to the bladder wall). Data will be
+      reconstructed using OSEM following corrections for attenuation, normalisation, scatter and
+      patient movement. The cerebellum will be used to represent the reference region for the data
+      analysis and enable the generation of binding potential parametric images using Logan plots.
+
+      Standard and 3D gradient echo MRI:
+
+      MR imaging will be performed on a 1.5T (Tesla) MRI unit. High resolution coronal T2-weighted
+      images and coronal and sagittal T1-weighted spin echo (SE) images of the pituitary gland will
+      be obtained before contrast injection. After intravenous injection of gadopentetate
+      dimeglumine contrast the investigators will repeat the acquisition of the coronal and
+      sagittal T1-weighted SE images of the pituitary gland and will also record a high resolution
+      T1-weighted spoiled gradient (SPGR) acquisition sequence of the whole head to optimise
+      co-registration with the PET/CT data.
+
+      Image processing and analysis:
+
+      Image analysis techniques to include detailed profiling of tracer uptake across the sella
+      will be applied. Image processing will be performed using commercially available software
+      packages.
+    
+  

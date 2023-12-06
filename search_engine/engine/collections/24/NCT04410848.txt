@@ -1,0 +1,37 @@
+
+    
+      Choledocholithiasis refers to the presence of gallstones within the common bile duct. It is
+      proposed to look for markers that help in the diagnosis and in differentiating between
+      retained and migrated gallstones. The selection of patients to perform endoscopic retrograde
+      cholangiopancreatography (ERCP) is a very important aspect, due to the economic aspects and
+      possible complications. By making a proper patient selection for additional studies or
+      procedure, then the costs, complications and days of stay would be reduced. Avoiding the
+      unnecessary use of ERCP would avoid its complications. Taking advantage of the development of
+      technology, the improvement in computer systems, the use of artificial intelligence and a
+      Symbolic Regression Model that works to predict the presence of choledocholithiasis and
+      provide evidence that clarifies the treatment of patients with this pathology, especially in
+      this group where there is a bigger controversy.
+
+      Having the historical database of the University Hospital (HU), regarding clinical,
+      laboratory and image variables of patients with suspected choledocholithiasis, using a
+      symbolic regression method, several randomly formed equations are generated. Each equation
+      deducts its coefficient of linear correlation (Pearson's correlation).
+
+      For the following study we admitted to the emergency department of adults at the University
+      Hospital all patients with clinical suspicion of choledocholithiasis, who meet the inclusion
+      criterion. The study which is realized is a normal one based on the method of clinical
+      predictors, obtaining laboratory studies, image studies, and patient management will be
+      carried out based on the method of clinical predictors. The calculation is made with the
+      equation obtained, and the patient is monitored until discharge. The calculation obtained
+      from the equation will not be taken into account for the decisions in the management of the
+      patient. The variables studied as white blood cells, total bilirubin values, direct
+      bilirubin, indirect bilirubin, Serum alanine aminotransferase (ALT) and aspartate
+      aminotransferase (AST), alkaline phosphatase (AP), gamma-glutamyl transpeptidase (GGT) at
+      admission will be taken from the clinical record. Transabdominal ultrasonography will be
+      performed upon admission by the diagnostic radiology department of the HU and the size of the
+      bile duct in mm, presence of gallbladder gallstones and bile duct stones will be taken from
+      the report. ERCP, magnetic resonance cholangiopancreatography (MRCP) or intraoperative
+      cholangiography will be performed and one will be taken as a confirmation of
+      choledocolithiasis, and its absence would rule it out.
+    
+  

@@ -1,0 +1,34 @@
+
+    
+      Patients with unilateral middle cerebral artery (MCA) moderate to severe stenosis were
+      consecutively enrolled. MRI protocols including diffusion weighted image, magnetic resonance
+      angiography , 3D pCASL with two PLD of 1.5s and 2.5s were performed.
+
+      Cerebral blood flow(CBF) map of 3D pCASL with PLD 1.5s and 2.5s were postprocessed on
+      workstation. Subtraction images were obtained by CBF 2.5s subtracted CBF 1.5s. Slices
+      involving MCA downstream territory were equally separated as upper slices,middle slices and
+      inferior slices corresponding to CIS system referring to previous study of Al-Ali F. Slices
+      with residual signal areas more than 1/3 MCA territory involved would count 1, or would be 0.
+      Total ASL collateral score(ASLCS) was calculated from 0-3. Then ,favorable collaterals were
+      graded as total ASLCS 2-3 and poor collaterals were graded as total ASLCS 0-1.
+
+      Early-arriving flow perfusion proportion was defined as [CBF 1.5s at lesion side/CBF 2.5s of
+      the contralateral side]×100%. Late-arriving perfusion proportion was defined as [(CBF 2.5s
+      minus CBF 1.5s) at lesion side minus (CBF 2.5s minus CBF 1.5s) at normal side]/CBF 2.5s at
+      the contralateral side ×100%. Antegrade scales and collateral grades were evaluated in
+      patients with conventional angiography. Spearman correlation was analyzed between
+      early-arriving and late-arriving flow and angiographic antegrade and collateral scales.
+
+      Baseline characteristics of patients were recorded including age, gender,
+      hypertension,hypercholesterolemia,diabetes mellitus,smoking,obesity,qualifying stroke event,
+      admission National Institute of Health stroke scale (NIHSS), diffusion-weighted
+      image-ASPECTS.
+
+      One year stroke event recurrence and three months modified Rankin Scale (mRS) were followed
+      up by neurologist by phone call or face to face.
+
+      Multi-variants Logistic Regression is performed to exam whether ASL collateral score and
+      collateral perfusion quantification is significantly correlated with future ischemic event
+      and functional outcome.
+    
+  

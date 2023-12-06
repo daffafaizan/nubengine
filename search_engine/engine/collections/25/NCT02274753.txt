@@ -1,0 +1,49 @@
+
+    
+      The project aims:
+
+      (i) to combine at time of diagnosis the immunoscore with parameters related to the patient,
+      its tumor and the associated microenvironment (ii) to detect events occurring during the
+      follow up period that could modify the initial prognosis and lead to a repositioning of the
+      patient, to move towards a dynamic personalized medicine.
+
+      (iii) to explore the Theranostic aspect of the parameters monitored at the time of diagnosis
+      for patients with colonic cancers treated with adjuvant chemotherapy.
+
+      To this end we will investigate:
+
+        -  Tumor's features:
+
+           - We will determine the microsatellite instability status and search for mutations of 46
+           genes (ABL1, AKT1, ALK, APC, ATM, BRAF, CCDH1, CDKN2A, CSF1R, CTNNB, EGFR, ERBB2, ERBB4,
+           EZH2, FBXW7, FGFR1, FGFR2, FGFR3, FLT3, GNA11, GNAQ, GNAS, HNF1A, HRAS, IDH1, IDH2,
+           JAK2, JAK3, KDR, KIT, KRAS, NOTCH1, NPM1, NRAS, PDGFRA, PDGFRA, PIK3CA, PTEN, PTPN11,
+           RB1, RET, SMAD4, SMARCB1, SMO, STK11, TP53, VHL) by next generation sequencing (NGS).
+
+        -  Tumor immune microenvironment features:
+
+           - 24 immune related genes, 24 miRNA and co-inihibitory molecules (PD1, PD1-L, LAG-3,
+           TIM3, CTLA-4) will be explored on tumor samples.
+
+        -  Systemic disorders:
+
+             -  Autoimmunity, allergy or inflammatory diseases will be sought with a dedicated
+                questionnaire filled out by the patient and a serum examination for the screening
+                of immune disorders at the time of diagnosis and during the survey.
+
+             -  The nutritional status (% of weight loss) and the deficiencies in vitamins, folic
+                acid, trace elements and thyroid hormones that synergise with immune cells will be
+                determined at the time of diagnosis.
+
+        -  Psychological status:
+
+           - The impact of the psychological profile of the patient will be investigated with a
+           dedicated questionnaire, given at the time of diagnosis and every six months.
+
+        -  Data mining to achieve a dynamic personalized medicine:
+
+      The integration and statistical analysis of heterogeneous data types (clinical and different
+      experimental data) will be performed using with tranSMART, an open source platform and with
+      bioinformatic tools (TMEdb, ClueGO, CluePedia, Genesis) developed by participant teams.
+    
+  

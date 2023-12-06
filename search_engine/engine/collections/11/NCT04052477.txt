@@ -1,0 +1,19 @@
+
+    
+      This study is composed of two steps :
+
+        1. 9 subjects were recruited. After patients agreement, computer scientists were accessing
+           to patient social network profile. Computer scientists were not able to visualize the
+           content of publications, just run the algorithm that will analyse the content of
+           messages (text, frequency, emoticons…)
+
+           The algorithm defines the 3 most at-risk periods of suicide behaviors, on the next
+           month. This result were compared to periods found by psychiatric interview. The
+           psychiatrist then confirmed or not to LIRM whether periods found by the algorithm
+           conrrespond to those defined by the psychitrist. No data of the social network were
+           collected.
+
+        2. the 2nd step aim to improve the algorithm by collecting sociodemographic and clincal
+           data related to patients included.
+    
+  

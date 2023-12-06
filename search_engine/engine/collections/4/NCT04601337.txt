@@ -1,0 +1,107 @@
+
+    
+      A broad range of surgical procedures involve locating and identifying nerves and neural
+      structures. In cases like brachial plexus reconstruction, the surgeon needs to identify
+      specific nerve fascicles for grafting. While in other cases like dorsal root rhizotomies, the
+      surgeon needs to identify hyperactive nerve rootlets for transection. The ability to
+      accurately identify and localize nerves is critical in avoiding unintentional and detrimental
+      consequences which can be costly source of medicolegal litigation. Surgeons commonly depend
+      on their anatomical knowledge and visualization of the surgical field to identify and locate
+      nerves. The distribution of nerves, however, varies from person to person often deviating
+      from anatomical atlases. To account for this interpatient variability, surgeons also utilize
+      electrical stimulation (ES) methods to identify and locate nerves and nerve fascicles
+      intraoperatively. After ES, surgeons rely on electromyography or the presence of visible
+      muscle contractions to confirm the identity and location of the stimulated nerve. ES,
+      however, is constrained by inherent physical limitations. Current spread, in which electrical
+      current disperses into the surrounding tissue, has long plagued ES methods. As a result of
+      current spread, the electrical stimulus will extend beyond the point of contact with the
+      stimulation probe activating adjacent nerve fascicles. Consequently, ES' poor stimulation
+      focality makes it a non-ideal means to target small neural targets or to precisely monitor
+      neural structures in immediate contact with the stimulation electrode. In clinical
+      procedures, the activation of distant neural tissue or multiple neural structures can
+      introduce ambiguity and uncertainty as to identity and location of specific neural structures
+      that causes concern among surgeons. Thus, there is a need for a neural stimulation technique
+      with a higher degree of spatial selectivity to improve nerve localization and identification
+      during surgery.
+
+      Infrared neural stimulation (INS) is a label-free optical method used to excite neural tissue
+      with low energy pulses of infrared light. As an optical neurostimulation technique, INS
+      possesses a high degree of spatial specificity without the need for direct contact with the
+      tissue (Figure 1). Our group has repeatedly demonstrated the spatial specificity of INS to
+      activate individual nerve fascicles in rats, nonhuman primates, and humans in vivo. The
+      initial findings from our group have also lead other groups to leverage the spatial
+      selectivity of INS for other clinical applications such as nerve monitoring and cardiac
+      pacing. The inherent spatial precision of INS is a direct result of its underlying
+      biophysical mechanism. The deposition of infrared light into the neural tissue causes a
+      transient thermal gradient that depolarizes the cell membrane through a thermally induced
+      change in membrane capacitance. The thermal energy from the infrared pulses is spatially
+      confined to the irradiated volume as determined by laser spot size and the penetration depth
+      of the light into tissue. Our group as well as others have histologically proven that INS can
+      safely and reliably excite nerves without inflicting damage. Given these advantages over
+      traditional means of ES, the investigators believe INS is a viable alternative stimulation
+      technique especially in surgical cases where there is a need for confined neurostimulation.
+      The goal of this proposal is to take advantage of INS' intrinsic strengths and apply them to
+      upper limb surgeries where spatially precise neurostimulation is necessary for nerve
+      identification and localization. This study will build upon our group's previous clinical
+      work and further establish INS as a valuable addition to clinical neurostimulation methods.
+
+      The objective of this proposal is two-fold: to demonstrate the efficacy of INS for spatially
+      selective nerve stimulation in the upper extremity and to determine the histological safety
+      of INS using diode laser systems in human patients. To do so, the investigators will recruit
+      patients undergoing brachial plexus reconstruction (BPR) and nerve transfer surgeries wherein
+      both the effectiveness and spatial selectivity of INS can be demonstrated and histological
+      samples can be obtained without detriment to the patients' quality of care or recovery. To
+      accomplish these objectives, the investigators propose the following aims:
+
+      Aim 1: Design and fabricate a clinical fiberoptic probe for a diode-based INS system Using
+      our existing diode lasers, the investigators will create a clinical diode laser INS system by
+      constructing INS fiberoptic probes. Fiberoptic probes will be designed and characterized to
+      collect light from our diode lasers and deliver that light to the nerve. The probes will be
+      sterilizable, ergonomic and maneuverable, transmissive at the relevant wavelengths, and
+      provide consistent stimulation parameters. The probe design will be based on existing
+      clinical ES probes and modified based on surgeon feedback.
+
+      Aim 2: Demonstrate the efficacy of INS in nerve transfer cases While INS with expensive
+      clinical lasers has been shown to be an effective means of nerve stimulation, INS with diode
+      lasers has yet to be demonstrated in human patients. Here, the investigator will stimulate
+      nerves identified for transfer or grafting over a range of simulation parameters (pulse
+      width, spot size, energy per unit area, etc) to determine the stimulation threshold. Only
+      portions of the nerve that are no longer functionally required will be stimulated optically.
+      Successful INS events will be determined by visual muscle contractions. Stimulation
+      thresholds will be determined by fitting the data to a cumulative distribution function.
+
+      Aim 3: Determine the histological safety of the diode-based INS system In conjunction with
+      Aim 2, stimulation sites on the nerve will be harvested and histologically examined for
+      evidence of INS-induced damage. Stimulation sites will be marked with a tissue dye and
+      excised for histological preparation. Regarding the tissue dye, the study surgeon will use a
+      sterile surgical marking pen to mark the stimulation site. These sterile surgical marking
+      pens are meant to be used in-vivo to mark tissue. The sterile surgical marking pens are used
+      regularly in routine care to mark tissue intraoperatively. There is no additional risk to
+      study participants who will have their stimulation site marked with a sterile surgical
+      marking pen. The stimulation site (nerve segment) that will be marked with the sterile
+      surgical marking pen will be excised for histological preparation.
+
+      Once the samples are fixed and sliced, they will be stained with toluidine blue and/or Luxol
+      fast blue-Periodic acid Schiff stains and imaged. Imaged slides will be examined for evidence
+      of myelin disruption, collagen hyalinization, and charring among other criteria. A
+      histological damage grading scheme will also be developed based on the severity and depth of
+      the damage with respect to the nerve itself. Damage thresholds will similarly be determined
+      using Probit Analysis and compared to the stimulation threshold to determine the margin of
+      safety.
+
+      INS has the potential to serve as valuable neural stimulation technique in the clinic. Due to
+      its high degree of spatial selectivity, INS could improve upon current electrical methods of
+      stimulation that can excite multiple nerves or fascicles at once due to current spread and
+      therefore reduce uncertainty during nerve identification procedures. While INS has been
+      successfully and safely utilized in humans, cost-effective laser diode systems have yet to be
+      evaluated. This proposal will allow for the development and testing of a clinical diode-based
+      INS system in terms of both efficacy and safety. This proposal brings together a
+      complementary team of investigators with unique expertise in both the clinical and technical
+      aspects of INS and its applications. The utilization of INS in BPR and nerve transfer cases
+      will allow us to determine the stimulation and safety thresholds of diode-based INS in humans
+      will pave the way for this technique to be employed in other procedures where improved
+      spatial specificity is highly advantageous. By extending the use of INS to upper limb cases,
+      this technique could significantly impact the standard of care in surgeries utilizing
+      stimulation to identify specific nerves and nerve fascicles.
+    
+  

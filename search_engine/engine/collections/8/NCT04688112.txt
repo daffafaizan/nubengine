@@ -1,0 +1,29 @@
+
+    
+      Photoplethysmography (PPG) makes uses of low-intensity infrared (IR) light. When light
+      travels through biological tissues, it is absorbed by bones, skin pigments and both venous
+      and arterial blood. However, as light is more strongly absorbed by blood than the surrounding
+      tissues, the changes in blood flow can be detected by PPG sensors as changes in the intensity
+      of light.
+
+      The signal from PPG is proportional to the quantity of blood flowing through the blood
+      vessels and even small changes in blood volume can be detected using this method. Analysis of
+      the waveform can provide information on a range of physiological measurements affecting the
+      cardiovascular and respiratory systems. PPG is widely used in medicine in the form of pulse
+      oximeters using sensors applied to peripheral digits.
+
+      Recently, it has been shown that PPG data can be obtained using images acquired from videos
+      taken using the camera on smartphones and there is now a significant and growing body of
+      published literature to support this.
+
+      perfexia Health Technologies has developed a system of obtaining these data using a 15 second
+      video selfie.
+
+      At this time, the technology has been shown to be reasonably accurate when compared to home
+      devices in healthy subjects. However, to make the technology more widely useful, the results
+      obtained by video selfies need to be formally validated.
+
+      The aim of the study therefore is to compare measurements obtained from video selfies with
+      measurements taken using already validated machines in the same patients.
+    
+  

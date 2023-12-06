@@ -1,0 +1,43 @@
+
+    
+      Diabetes accounts for an enormous fraction of the cost of health care in the United States
+      and presents a major burden on Military Medical Facilities for care of retirees and
+      dependents. There are insufficient endocrinologists and other diabetes specialists to manage
+      all patients with diabetes mellitus (DM) and a significant fraction of these patients have
+      less than optimal control (hemoglobin A1C's [A1Cs] over 7%). Multiple barriers prevent the
+      necessary improvement in glycemic control that would result in savings in lives and costs.
+      The implementation of a telemedicine and web-based approach for patients to send their blood
+      glucose data which, when combined with relevant laboratory, pharmacy, and A1C targets as set
+      individually for each patient by the Primary Care Physician (PCP), triggers a clinical
+      decision support system (DSS) for the providers can be expected to improve quality of care
+      and efficiency of care. The computer assisted decision support (CADS) system has been
+      integrated with the Comprehensive Diabetes Management Program (CDMP), a web-based,
+      multi-platform, interactive patient and provider tool which is currently operative in the
+      Walter Reed Health Care System (WRHCS), Wilford Hall Medical Center (WHMC) at Lackland Air
+      Force Base (AFB), and five community clinics affiliated with the University of Hawaii (UH).
+      This existing infrastructure permits CADS to be tested in a multiple sites that are
+      geographically diverse with diverse patient populations.
+
+      This study will test the safety and efficacy of CADS as used by PCPs in a multi-site,
+      ethnically and geographically diverse study in a 12-month, open, prospective,
+      cluster-randomized, controlled clinical trial. The specific aims of the study are to: (1)
+      monitor the impact of the intervention on: a) measures of glycemic control, b) the number of
+      diabetes -related hospitalizations and emergency room visits, c) the control of
+      co-morbidities, hyperlipidemia and hypertension, d) the number of clinic visits, e) the
+      change in the patients' quality of life as a result of the intervention; and (2) evaluate the
+      PCPs' satisfaction with the technology.
+
+      We will employ a cluster-randomized, controlled, clinical trial involving 30 PCPs who will
+      each recruit approximately 19 patients from their respective geographic site. After
+      completion of recruitment, PCPs and their patients will be randomly assigned to 1 of 2
+      "treatment" categories: CADS, or "Usual Care". Input data for use by the CADS system will
+      come from the electronic medical record (laboratory and pharmacy data) and from the PCP who
+      will set goals for each individual patient's glycemic control. Patients will upload blood
+      glucose data through a modem to a password-protected, secure server at least every 2 weeks
+      and receive modification in their treatment regimen at least every three months from their
+      PCP, based in part on the recommendations provided by the CADS system to the PCP. We will
+      compare quantitative outcome measures of glycemic control (the primary outcome is the change
+      in the patient's A1C), blood pressure, and lipid levels from the two treatment groups. In
+      addition, subjective qualitative data from the patients and providers will be obtained.
+    
+  

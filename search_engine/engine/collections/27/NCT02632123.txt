@@ -1,0 +1,117 @@
+
+    
+      The objective of this study is to validate the RISE as a reliable tool to predict survival in
+      patients newly diagnosed with IPF and prospectively followed for a period of at least 3
+      years, or until death or lung transplant.
+
+      This is an observational, prospective cohort study.
+
+      Inclusion criteria will be:
+
+        -  a new diagnosis of IPF based on the American Thoracic Society/European Respiratory
+           Society criteria (Am J Respir Crit Care Med 2018;198:e44-e68) and based on
+           multi-disciplinary discussion with Chest Radiologist and, when a surgical lung biopsy is
+           available, Lung Pathologist.
+
+        -  a pattern consistent with UIP/IPF will be further confirmed by at least 2 expert
+           radiologists, unless a surgical lung biopsy is available and MDD confirms a diagnosis of
+           IPF.
+
+      Exclusion criteria:
+
+        -  diagnosis of ILD other than IPF.
+
+        -  not a new diagnosis of IPF.
+
+      Patients newly diagnosed with IPF will be included in the study.
+
+      Patients will be reassessed at 4 months intervals and at each visit the MRC dyspnea score
+      (MRCDS), pulmonary function tests (FEV1, FVC and DLCO), and 6-minute walk distance (6MWD)
+      will be recorded. RISE will be calculated ad described in Eur Respir J 2012;40:101-109.
+
+      MRCDS, PFTs and 6MWD are part of the standard of care in IPF and are routinely obtained at
+      each visit of IPF patients in the ILD clinic (every 4 months).
+
+      Pulmonary function tests will be performed according to the ERS/ATS guidelines (Eur Respir J
+      2005;26:319-38).
+
+      A 2nd HRCT will be repeated at 24 months from the time of diagnosis, or sooner if clinically
+      indicated. The HRCT visual fibrosis score on each HRCT will be calculated, as described in
+      Respir Res 2020;21(1):119. Longitudinal changes will be considered as well.
+
+      All relevant comorbidities (cardio-vascular disease, diabetes, sleep apnea, chronic
+      obstructive pulmonary disease) will be taken into consideration.
+
+      Enrollment in pulmonary rehabilitation physiotherapy will be considered and recorded. The
+      length of the enrollment will be considered.
+
+      Hospital admission for respiratory reasons will be considered and recorded.
+
+      Treatment start and stop dates will recorded. Each switch of therapy will be recorded as
+      well.
+
+      All protocol violations will be recorded.
+
+      Patients will be prospectively followed for a period of at least 3 years and mortality events
+      will be recorded. Three-year lung transplant-free survival will be the primary endpoint.
+
+      Acute exacerbations (AEs) of IPF, as defined in AJR Am J Roentgenol 1997;168:79-83, will also
+      be recorded. AEs will be a secondary endpoint.
+
+      Progression of disease will be defined as either: >10% absolute reduction in forced vital
+      capacity (FVC) % pred; >50 m decline in 6-minute walk distance (6MWD); admission to hospital
+      for respiratory causes; lung transplantation assessment; or death Progression of disease will
+      be a secondary endpoint.
+
+      Patients who received a lung transplant will be censored.
+
+      At the end of the study period, both baseline RISE and longitudinal changes of RISE will be
+      tested as predictors of mortality. Other individual variables that will also be tested as
+      predictors of mortality will include: age at the time of diagnosis; time between onset of
+      symptoms and diagnosis (months); gender; body mass index; smoking history (pack-years); PFTs;
+      6MWD (both meters and % predicted); desaturation during the 6-minute walk test; HRCT visual
+      fibrosis score; Gender-Age-Physiology (GAP) Index (Ann Intern Med 2012;156:684-691);
+      Composite Physiologic Index (Am J Respir Crit Care Med 2033;167:962-969) and Mortality Risk
+      Scoring System with Ascertainable Predictors (Am J Respir Crit Care Med 2011;184:459-66).
+      Longitudinal changes of these variables will be considered as well.
+
+      Planned secondary analyses include the comparison of 3-year survival in the following
+      subgroups:
+
+        -  Patients with HRCT pattern typical for UIP vs. non-typical.
+
+        -  Patients with autoimmune markers (although not meeting criteria for interstitial
+           pneumonia with autoimmune features) vs. those without.
+
+        -  Patients with concomitant emphysema vs. those without.
+
+        -  Patients on pirfenidone vs. patients on nintedanib.
+
+      Values will expressed as mean±SD. Comparisons between survivors and non-survivors will be
+      made with unpaired t-test or with the Mann-Whitney U-test, where appropriate.
+
+      The optimal cut-off value for different variables to detect mortality or AE will assessed
+      using receiver operating characteristics (ROC) analysis.
+
+      Survival will evaluated using Kaplan-Meier curves and the log-rank test. Cox proportional
+      hazards regression analysis will used to identify significant variables predicting survival
+      status.
+
+      Variance inflation factors of variables predicting endpoint will be calculated to rule out
+      the possibility of multicollinearity and demonstrate that the variables are truly
+      independent.
+
+      Results will be summarized as hazard ratios, representing the relative risk of dying as a
+      result of a specific characteristic during the observation period.
+
+      Variables selected via univariate analysis (p<0.05) will evaluated in the multivariate Cox
+      regression analysis.
+
+      Areas under the curve (AUC) were compared according to the methods of DeLong et al.
+      (Biometrics 188;44:837-845).
+
+      Fine-Gray competing risk regression analysis will be used to account for the competing risks
+      of lung transplant and death (J Am Stat Assoc 1999;94:496-509). p-values <0.05 will regarded
+      as significant.
+    
+  

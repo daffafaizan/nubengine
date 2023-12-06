@@ -1,0 +1,103 @@
+
+    
+      Evidence-based interventions for autism spectrum disorders (ASD) are limited. Currently,
+      there is no FDA approved medical therapy that addresses either core ASD symptoms or
+      pathophysiological processes associated with ASD. For example, the two FDA approved
+      antipsychotic medications for treating ASD are indicated for symptoms associated with ASD,
+      not core ASD symptoms. Based on strong preliminary evidence, this study aims to improve core
+      ASD symptoms with folinic acid. Two biological mechanisms for response to the intervention
+      are proposed and investigated in this study.
+
+      Folate is an essential B vitamin required for normal neurodevelopment. Folinic acid is a
+      reduced form of folate that has been shown to improve both the metabolic and core symptoms
+      associated with ASD in an open-label study and large case-series. This study will extend this
+      preliminary evidence to demonstrate clinical efficacy of folinic acid in a double-blind
+      placebo-controlled manner while also evaluating the biological mechanisms associated with the
+      clinical response.
+
+      Preliminary evidence for the efficacy of folinic acid is two-fold: First, several independent
+      studies have demonstrated that a folinic acid intervention improves ASD core symptoms in ASD
+      patients diagnosed with cerebral folate deficiency - a metabolic disorder in which the
+      primary pathway for the transport of folate across the blood-brain barrier is dysfunctional.
+      The primary transport pathway for folate across the blood-brain barrier uses the folate
+      receptor α (FRα) and energy dependent endocytosis. A secondary pathway, the reduced folate
+      carrier (RFC), can transport reduced forms of folate, such as folinic acid, across the
+      blood-brain barrier. In case-series of children with ASD and cerebral folate deficiency,
+      folinic acid (0.5 to 2 mg/kg/day) improved communication, social interaction, attention, and
+      stereotypical behavior in some (3-6) and completely ameliorated ASD symptoms in others (6,
+      7).
+
+      The major cause of cerebral folate deficiency is an autoantibody that binds to the FRα and
+      interferes with its ability to bind and transport folate. Recently, Frye et al. found that
+      (a) autoantibodies to the FRα were present in approximately 75% of children with ASD, and (b)
+      an intervention with folinic acid (2mg/kg/day; max 50mg) in children with ASD and FRα
+      autoantibodies resulted in significant improvements in parental ratings of receptive and
+      expressive language, verbal communication, stereotypic behavior, and attention as compared to
+      parental rating for children that did not undergo any intervention (wait group) over a
+      similar time period. This proposal will extend these preliminary findings by documenting
+      response to a folinic acid intervention in a double-blind placebo-controlled manner and test
+      whether FRα autoantibody titers predict response to a folinic acid intervention. If FRα
+      autoantibody titers are found to predict response to the intervention, such titers could
+      provide a biomarker to identify a subset of children with ASD that may benefit from a folinic
+      acid intervention and may even predict the development of ASD symptoms in high risk siblings
+      during the presymptomatic period.
+
+      Second, the ratio of reduced-to-oxidized glutathione (GSH/GSSG) is an established measure of
+      systemic redox status and oxidative stress that has been shown in three independent
+      case-control studies to be significantly decreased in many ASD children. James et al. have
+      shown in a 3 month open-label clinical trial that an intervention of folinic acid and
+      methyl-B12 significantly improved GSH/GSSG and Vineland scores for expressive language,
+      receptive language, and socialization in ASD children. Important unanswered questions are (a)
+      whether this preliminary data can be confirmed in a larger double-blind placebo-controlled
+      study, (b) whether redox status before the folinic acid intervention can predict response to
+      intervention and (c) whether improved systemic redox status is associated with improvement in
+      core ASD symptoms.
+
+      This study will assess whether a folinic acid intervention can improve both core symptoms of
+      ASD (i.e., communication, socialization, stereotyped movements) and associated comorbid
+      symptoms (i.e., attention) in a double-blind placebo controlled clinical trial. This study
+      will address whether improvements in core ASD symptoms associated with the intervention are
+      related to biomarkers of either (or both) biological mechanisms proposed to be influenced by
+      the intervention (i.e., GSH/GSSG, FRα autoantibody titer). Thus, using these biomarkers, it
+      may be possible that children with ASD who optimally respond to the folinic acid intervention
+      can be readily identified early after diagnosis or even during the pre-symptomatic period.
+
+      This double blind, placebo-controlled (DBPC) study will evaluate the efficacy of Folinic Acid
+      for the treatment of language impaired autism spectrum disorder patients aged 3-14 years. The
+      study will consist of a single site trial with approximatley 48 entering the DBPC phase.
+      Subjects will be male or female with current or prospective diagnosis of Autism Spectrum
+      Disorder (ASD). Language Impairments will be defined by the CELF, or PLS when warranted.
+
+      Phase 1 will consist of approximately 57children aged 3-14 with a diagnosis of Autism
+      Spectrum Disorder (as defined by the Autism Diagnostic Observation Schedule or the Autism
+      Diagnostic Interview-Revised), until approximately 48 children with confirmed ASD are
+      enrolled into a randomized control trial (RCT; Phase 2). Enrollment will continue as needed
+      until approximately 43 complete Phase 2. Approximately 40 will enroll into phase 3.
+
+      Initial analyses will be undertaken to inspect data for errors, inconsistencies, and
+      incomplete information. This will include examining the data with simple frequency tables and
+      dot plots for univariate data and scatter plots and multi-way dot plots with bivariate and
+      multivariate data. To summarize bivariate relationships among predictors and between
+      predictors and outcomes, Spearman's rank correlation coefficient will be used. For reporting
+      inferential statistics, regression coefficients along with the 95 percent confidence
+      intervals will be used extensively to quantify degree of clinical importance.
+
+      The primary population will be the Intent-to-Treat (ITT) population and is defined as all
+      subjects who have completed at least one post treatment primary outcome measure. A secondary
+      analysis will be performed on the "as treated" population defined as those subjects who had
+      at least 75% compliance of prescribed medications and have not significantly deviated from
+      the protocol.
+
+      To determine whether the folinic acid intervention over a 12-week period improves core
+      symptoms of autism spectrum disorder in Phase 2, the procedure Proc Mixed in SAS will be used
+      to fit a mixed model analysis of covariance. For the multisite study, the full model with the
+      response variable language assessment will include predictors such as: intervention, time,
+      autoantibody, intervention by time interaction, autoantibody by intervention interaction,
+      redox status, redox status by time interaction, and baseline covariates. However, for the
+      single site study, the number of variables in the model will be limited due to the smaller
+      sample size and separate models will be performed on subgroups to compare the effects of the
+      treatment in various subgroups. The results from the mixed model will determine if the
+      biomarkers of physiological abnormalities, both autoantibodies and redox status, predict
+      intervention response. Similar analysis will be performed for the secondary outcomes.
+    
+  

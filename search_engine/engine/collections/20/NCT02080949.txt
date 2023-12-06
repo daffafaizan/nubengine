@@ -1,0 +1,123 @@
+
+    
+      RADIOTHERAPY WBRT Patient in supine position Immobilization of the head with a thermoplastic
+      mask Simulation with computed tomography (CT) with contrast.
+
+      Design:
+
+      Clinical target volume (CTV): brain and meninges to the foramen magnum Planned treatment
+      volume (PTV): 5 mm from the CTV in all directions
+
+        -  Planning:
+
+        -  Technique: Two latero-lateral fields, with permission to use field inside the fields,
+           known as "field-in-field".
+
+        -  Isodose prescription: 95% of the dose covering 95% of PTV
+
+        -  Maximum dose allowed in the PTV: 15% higher than the prescribed dose
+
+        -  Dose / fractionation: 30 Gy in 10 fractions of 3 Gy once a day, five times a week
+
+        -  Treatment Equipment: Linear accelerator of 6-MeV photons (Varian Clinac 600 CD, Varian
+           Medical Systems, Palo Alto, CA, USA)
+
+      HSRT Planning HSRT
+
+        -  Held on the seventh day post-WBRT(or next business day if the date coincides with a
+           weekend or holiday):
+
+        -  Patient in supine position
+
+        -  Preparation of individualized mask "Mask Patient One set is 41,100 (BrainLAB AG,
+           Heimstetten, Germany)
+
+        -  Brain MRI with contrast and volumetric reconstruction of 1 mm without mask and without
+           fiducial markers
+
+        -  Brain CT with contrast, 1-mm slices with tracking and stereotactic fixation.
+
+        -  Fusion of MRI and CT in the planning system iPlan version 4.1 (BrainLAB AG, Heimstetten,
+           Germany)
+
+        -  Delineation Gross tumor volume (GTV): metastasis(es) of the brain displayed in the MRI
+           signal in T1 with contrast Clinical target volume (CTV)= GTV Planning target volume
+           (PTV)= CTV with 3 mm margins in all directions
+
+        -  Physical Planning
+
+        -  Technique: multiple dynamic arcs, multiple static conformal fields, multiple static
+           modulated fields, multiple static arcs
+
+        -  isodose prescription: higher isodose that meets the following criteria: Coverage of at
+           least 95% of the PTV with the prescription dose (V100 ≥ 95%) and 95% Of the prescription
+           dose covering at least 99% of the PTV (V95 ≥ 99%).
+
+        -  Maximum dose allowed in or outside the PTV: 20% of prescription dose, while respecting
+           the tolerance of the organs described below.
+
+        -  Scores compliance with RTOG
+
+        -  Dose escalation scheme
+
+      Study model It'll be recruited 3 patients to the initial scheme of 4 fractions of 5 Gy on
+      each brain metastasis with HSRT and if no patient has unacceptable toxicity, more 3 patients
+      for subsequent scheme will be recruited. If 2 patients had unacceptable toxicity, the study
+      ends and it'll be considered the study initiated with toxic regimen. If 1 patient has
+      unacceptable toxicity, it'll be recruited 3 more patients for this scheme and if 1 or more
+      patients had unacceptable toxicity, the scheme will be considered toxic and the study will be
+      closed. If no patient develops unacceptable toxicity, the study will follow to the next
+      cohort of 3 more patients with next dose level. The same criteria of recruitment will be
+      performed till any scheme reach the MTD or up to the scheme of 4 fractions of 9 Gy.
+
+        -  The number of fractions of HSRT will be kept in 4 fractions for all cohorts.
+
+        -  The initial dose is 5 Gy per day.
+
+        -  Increasing the dose of one cohort to another will be more than 1 Gy per day of HSRT. For
+           example: If the scheme of 4 fractions of 5 Gy will not have unacceptable toxicity, the
+           study continues to recruit patients for the scheme of 4 fractions of 6 Gy, and so
+           subsequently.
+
+        -  The study will recruit patients to the fractionation scheme up to four fractions of 9 Gy
+           according to the BEDGy3 be similar to a maximum dose of RS studies to brain metastasis
+           of 24 Gy in one fraction.
+
+        -  At the discretion of the responsible investigator for the safety of the study, the
+           number of patients may be increased in each cohort during the study.
+
+        -  Restrictions of radiation dose on critical organ
+
+        -  optic chiasm: BEDGy3: 90 Gy
+
+        -  optic nerves: BEDGy3: 90 Gy
+
+        -  optic tract: BEDGy3: 90 Gy
+
+        -  brainstem: BEDGy3: 110 Gy
+
+        -  retina: BEDGy3: 72 Gy
+
+        -  lens: BEDGy3: 16.7 Gy
+
+        -  Simulation of HSRT
+
+        -  Ten days post-WBRT(or next business day, if the date coincides with a weekend or
+           holiday)
+
+        -  Tests of collision safety and quality control testing to ensure the alignment of
+           isocenters radiation, mechanical and coincidence of lasers (Winston-Lutz test).
+
+        -  Treatment of HSRT
+
+        -  Eleventh day post-WBRT(or next business day, if the date coincides with a weekend or
+           holiday)
+
+        -  Treatment equipment
+
+        -  linear accelerator of 6-MeV photons (Varian Clinac linear accelerator 600 CD, Varian
+           Medical Systems, Palo Alto, CA, USA)
+
+        -  Micromultileaf m3 System(BrainLAB AG, Heimstetten, Germany).
+    
+  

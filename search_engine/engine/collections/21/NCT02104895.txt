@@ -1,0 +1,31 @@
+
+    
+      The surgeons were requested to place clips at the borders of the surgical bed, using a
+      minimum of four clips. The presence of surgical clips was a selection criterion to avoid
+      geographic misses. Computed tomography (CT) scanning was performed using 0.3-cm thick-slices
+      and a slice spacing of 0.3 cm.
+
+      In patients assigned to APBI arm, the clinical target volume (CTV) was drawn with a uniform
+      1-cm three-dimensional margin around the surgical clips. The CTV was limited to 3 mm from the
+      skin surface and 3 mm from the lung-chest wall interface. A second uniform, three-dimensional
+      1-cm margin was added to the CTV to obtain the planning target volume (PTV). The PTV was
+      allowed to extend 4 mm inside the ipsilateral lung and was limited to 3 mm from the skin. The
+      ipsilateral and contralateral breast, ipsilateral and contralateral lung, heart, and spinal
+      cord were contoured as organs at risk.
+
+      All the regions of interest were contoured according to the International Commission on
+      Radiation Units and Measurements reports 50 and 62 recommendations. No respiratory control
+      was used.
+
+      Concerning the experimental Arm (accelerated partial breast irradiation), a dose of 30 Gy in
+      five fractions at 6 Gy/fraction was prescribed.
+
+      The following constraints were adopted for plan optimization: PTV coverage: 100% of PTV
+      covered by 95% of the prescribed dose (V28.5 = 100%); maximal dose to PTV <105% (31.5 Gy);
+      minimal dose to PTV 28 Gy; uninvolved breast (i.e., ipsilateral breast without PTV): not >50%
+      covered by a dose of >50% of the prescribed dose (V15 <50%); ipsilateral lung: not >20%
+      covered by a dose >10 Gy (V10<20%); contralateral lung: not >10% covered by a dose >5 Gy
+      (V5<10%); contralateral breast: maximal dose <1 Gy; heart: not >10% covered by a dose >3 Gy
+      (V3 <10%).
+    
+  

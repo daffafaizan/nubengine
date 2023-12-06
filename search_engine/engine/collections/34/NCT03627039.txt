@@ -1,0 +1,28 @@
+
+    
+      Baseline Covariates: All covariates will be assessed prior to cohort entry. Covariates will
+      reflect diagnoses and procedures recorded during health encounters, including chronic medical
+      conditions (e.g., hypertension, coronary artery disease), diabetes severity (e.g., hemoglobin
+      A1C, end-organ damage), overall healthcare utilization (e.g., recent hospitalization,
+      emergency department visit), prescriber characteristics (e.g., endocrinologist, general
+      practitioner), and medications (e.g., anti-hypertensives, diuretics).
+
+      Statistical analysis Propensity score matching will be used to adjust for confounding. The
+      probability of initiating an SGLT2-inhibitor will be calculated through a multivariable
+      logistic regression model containing all of the baseline covariates. Using this propensity
+      score, patients prescribed an SGLT2 were matched 1:1 with patients prescribed metformin using
+      a caliper of up to 0.1 on the probability scale. Covariate balance between the matched
+      cohorts was assessed using standardized differences. Since laboratory data were not available
+      for all patients, these were not included in the propensity score estimation.
+
+      After propensity score matching, proportional hazards models will be used to estimate the
+      incidence rate, hazard ratios and 95% confidence intervals for the primary outcome without
+      further adjustments. Schoenfeld residuals will be plotted to assess the proportional hazards
+      assumption. Predefined sensitivity and subgroup analyses included an intention to treat
+      analysis where the censoring criteria of drug discontinuation, switching or augmentation are
+      removed. The investigators will also assess the primary risk in a cohort restricted to
+      patients with a past-history of cardiovascular disease if our sample size allows it. To test
+      the specificity of our findings, the investigators will also conduct a tracer analysis using
+      cellulitis as an outcome, since cellulitis is not associated with SGLT2s or metformin.
+    
+  

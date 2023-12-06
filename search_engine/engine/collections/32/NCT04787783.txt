@@ -1,0 +1,81 @@
+
+    
+      Preanestes@s is a web based application conceived to lead patients through the preoperative
+      period. The application includes a patient interface which offers general and individualized
+      information on the perioperative process, with the possibility of generating a dynamic
+      interaction between patients and medical staff. Patient interface incorporates a web based
+      preoperative questionnaire that once fully completed automatically indicates which
+      preoperative tests are necessary and addresses patients to a virtual (non face to face)
+      consultation or to traditional outpatient assessment. Both virtual and outpatient assessment
+      are performed by an anesthesiologist. The web based questionnaire automatically assigns
+      patients an ASA (from the American Society of Anesthesia Physical Status Classification)
+      grade; this being a determining variable, although not the only one, when directing patients
+      to the virtual or face-to-face consultation.The questionnaire therefore serves both for
+      collection of clinical information and as a patient classification tool as well.
+
+      Virtual assessment is performed by evaluating both the filled web based questionnaire
+      together with patient´s electronic records. Face to face assessment is performed in the
+      traditional way by means of a clinical interview together with the consultation of patient's
+      previous electronic records.
+
+      The virtual assessment is reserved for participants without significant comorbidity, which
+      would correspond to patients classified as grade ASA 1-2; this means without diseases or with
+      diseases that do not significantly compromise the integrity of the patient: well-controlled
+      hypertension, active smoking without major lung disease, non-morbid obesity, etc. Patients
+      with significant comorbidity (grade ASA ≥ 3), are referred to a face-to-face consultation.
+
+      This study has been approved by the local Ethics Committee -Comité de Ética e Investigación
+      de Huelva-and signed by its Secretary María Dolores Santos Rubio, date 18.12.2019, and
+      corresponds to the Phase 2 of the study "Evaluation of the utility and quality of the
+      clinical information obtained through Preanestes@s, a web based application for preoperative
+      assessment. Comparison of the virtual preanesthetic visit and the outpatient face-to-face
+      visit.". Phase 2 is independent of Phase 1, entitled "Evaluation of the Quality of
+      Preoperative Information Obtained Through Preanestes@s, a Web Based Application: Paired
+      Comparison of a Web Based Questionnaire, a Virtual Non Face to Face Assessment and Outpatient
+      Visit", registered in Clinical Trials with number of reference NCT04259268. Primary
+      completion of Phase 1 have been concluded with date February 19, 2021, and preliminary
+      analysis of data is currently being conducted by investigators.
+
+      In this study, the objective of the investigators is to assess whether the use of a web based
+      application for the preoperative assessment allows an adequate completion of the preoperative
+      process when compared to traditional face to face outpatient interview. The quality of the
+      information recorded by this web based application has been previously tested by the
+      investigators showing promising results in terms of security and accuracy.
+
+      The investigators have designed a prospective two-arm study to compare the performance of the
+      two modalities of preoperative assessment: web based versus face to face outpatient visit.
+
+      The investigators will base their evaluation of performance on previously published criteria:
+      the Andalusian Regional Government Health Council defines a "suboptimal preoperative
+      assessment" (SOPA) as one that potentially generates "inadequate preparation of the patient
+      that may affect the expected results". Specific criteria defining SOPA are detailed in the
+      Outcomes Measures section of the present document.
+
+      Allocation of participants to each study arm will be consecutive and based on daily
+      distribution of the clinics: participants submitted to one of two surgeries of any of the
+      following (Orthopedics, General Surgery, ENT) will be allocated to either web based
+      preoperative assessment or traditional face to face outpatient visit. Written informed
+      consent will be obtained of all participants prior to their recruitment.
+
+      Statistical analysis Data collection and subsequent analysis will be performed by the
+      investigators team. Qualitative variables will be represented through the absolute and
+      marginal frequencies. The investigators will analyze the incidence of SOPA in both groups,
+      using Chi square to study the difference between the proportions in the case of normal
+      distribution, or, failing that, the Mann-Whitney U. In the same way, the investigators will
+      study the differences for each of the defining criteria of SOPA.
+
+      Sample Size Following the model of Kinley et al in the study comparing the quality of the
+      pre-anesthesia record carried out by anesthesia trainees versus trained nurses, the
+      investigators will use the variable "incomplete studies that could have affected
+      perioperative management" for the calculation of the sample size. This variable would be
+      equivalent to the variable SOPA in present work. Based on Kinley data, the investigators will
+      use an incomplete study rate of 15%, a figure that coincides with the standard "inadequate
+      assessment" in the Guide for the Perioperative Process published by the Andalusian Regional
+      Government Health Council, which establishes a maximum "acceptable" rate of inadequate
+      completion of the preoperative protocols in 15%. In this study of equivalence between the two
+      formats, the investigators will assume equivalence if a maximum difference of 25% between
+      both formats is observed, which represents a differential of 3.75% over the initial 15%.
+      Thus, for a two-sided calculation and assuming an alpha error of 0.05 and a beta error of 0.2
+      (80% power), it would be necessary to include 1,127 participants per group.
+    
+  

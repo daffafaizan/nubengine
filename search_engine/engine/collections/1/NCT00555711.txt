@@ -1,0 +1,32 @@
+
+    
+      While compatible with time-modulation methods, MI alternatively uses spatially-modulated
+      illumination for imaging of tissue constituents.
+
+      The Modulated Imaging system consists of
+
+        1. a light projection system that illuminates the tissue with spatial sinusoid patterns.
+
+        2. a CCD camera which collects the diffusely reflected light in a non-contact geometry. The
+           wavelength of illumination can be selected by bandpass filtering of a broadband
+           source,or by use of a monochromatic source.
+
+      Lastly, tissue fluorescence measurements can be performed by placing a combination of
+      source-blocking and bandpass emission filters in front of the camera.
+
+      The diffusely reflected amplitude of the modulated wave carries both optical property
+      (absorption, fluorescence, scattering) and depth information. Specifically, the sampling
+      depth of the spatially-modulated wave is a function of the frequency of illumination and the
+      tissue optical properties.
+
+      During neurosurgery when nervous tissue is exposed by the attending neurosurgeon,
+      intraoperative pictures will be taken using the modulated imager by the investigators.
+
+      The imaging procedure may delay completion of the surgical case by an estimated 10 to 20
+      minutes. This is minimal prolongation considering most brain tumor resections take several
+      hours.
+
+      The images acquired will be processed after the surgical procedure and will not be available
+      to the surgeon during the operative procedure.
+    
+  

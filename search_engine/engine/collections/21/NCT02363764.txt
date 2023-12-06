@@ -1,0 +1,62 @@
+
+    
+      I. Protocol design:
+
+      The current protocol is designed to compare:
+
+        -  Group 1: nasal swab, cough swab and spontaneous expectorated sputum in expectorating CF
+           patients
+
+        -  Group 2: nasal swab, cough swab and induced sputum in non-expectorating CF patients
+
+        -  Group 3: nasal swab, cough swab, induced sputum and BAL in both expectorating and
+           non-expectorating CF patients requiring clinically indicated bronchoscopy
+
+      II. Flow chart:
+
+        1. Nasal swab obtained by the physiotherapyst (PT)
+
+        2. Patient rinses his mouth with water, followed by autogenic drainage
+
+        3. Cough swab obtained by the PT
+
+        4. Obtainment of 3rd (4th) sample:
+
+             -  Group 1: Sputum sample voluntary expectorated by the patient
+
+             -  Group 2 and 3: Induced sputum sample --> voluntary coughed up and expectorated by
+                the patient after inhalation of 4ml of HS OR
+
+             -  Group 3: BAL -->obtained by the pulmonologist during bronchoscopy
+
+        5. Filling out questionnaire on acceptability of the different sampling methods by patients
+           >6 years of age (not in Group 3)
+
+      III. Analysis of the samples:
+
+      (Induced) Sputum samples, cough and nasal swabs are aseptically collected in the appropriate
+      disposable and are immediately sent to the Laboratory for Microbiology and Infection Control
+      of the Universitair Ziekenhuis Brussel, where analyses are carried out within 24h
+      post-sampling.
+
+      These analyses include:
+
+        -  Culture and identification of respiratory pathogens on selective and non-selective media
+
+        -  Each type of colony will be identified by MALDI-TOF mass spectrometry, completed by
+           other identification tests if needed
+
+        -  When appropriate, susceptibility tests will be performed on the isolated bacteria
+
+      IV. Statistical analysis:
+
+        -  Determination of sensitivity, specificity, positive predicted value, negative predicted
+           value of the different sampling methods
+
+        -  Preference for one method over another: crosstabs, Chi-square test
+
+        -  Pain experienced with any method (Yes/No): Student's t-test
+
+        -  VAS-scale pain per method: ANOVA
+    
+  

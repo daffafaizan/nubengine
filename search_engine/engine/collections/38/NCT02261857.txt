@@ -1,0 +1,136 @@
+
+    
+      Obstructive sleep apnea (OSA) is a common problem in the general pediatric population,
+      generally cited as between 1-5%, with morbidity ranging from daytime behavioral problems and
+      inattention to cardiopulmonary effects including hypertension and ventricular hypertrophy.
+      OSA is dramatically more prevalent among children with certain craniofacial anomalies and
+      syndromes (e.g. Pierre-Robin, Treacher Collins, etc.), generally because of small, short
+      jaws, midface hypoplasia, and/or disproportionally large tongues . While tonsillectomy and
+      adenoidectomy is considered first line therapy for OSA in the general pediatric population,
+      children with OSA due to craniofacial anomalies frequently require more aggressive
+      intervention to improve their breathing at night, which often includes continuous positive
+      airway pressure ventilation (CPAP). Most children who require CPAP therapy are able to find a
+      mask that will adequately seal while providing acceptable comfort, however a small percentage
+      of children encounter significant difficulty finding a functional CPAP interface, most often
+      because of dysmorphic facial features. This can prove a significant barrier to effective CPAP
+      therapy and lead to frustration on the part of patients' caregivers and providers, as well as
+      the associated morbidity of untreated severe OSA. The purpose of this feasibility study is to
+      investigate the use of patient-specific computational design and three-dimensional (3D)
+      printing to produce personalized CPAP masks for children intolerant of standard CPAP masks
+      due to poor fit secondary to craniofacial anomalies who encounter significant difficulty
+      using CPAP because of poorly fitting masks despite exhausting available commercial mask
+      options.
+
+      Study Design
+
+      This will be a prospective case study examining the feasibility of using patient-specific CAD
+      and 3D printing technology to produce personalized CPAP masks for children intolerant of
+      commercially available masks due to poor fit. Patients will be recruited from the pediatric
+      otolaryngology, pediatric oral maxillofacial surgery, and pediatric sleep clinics at the
+      University of Michigan Medical Center, with a target cohort of five.
+
+      Only patients of study team members will be included in the study, and no recruitment will
+      take place outside the clinics of participating study team members. We anticipate the study
+      period to last 3 years, though it may terminate sooner if recruitment targets are reached
+      expeditiously.
+
+      After recruitment and consent of a potential study subject, each subject will undergo an
+      initial mask-design evaluation with members of the research team. At this initial visit, the
+      following will be performed:
+
+        1. A head & neck physical exam, which a focus on characteristics important for treatment of
+           OSA (e.g. jaw size and position, tongue size and position, characteristics of palate,
+           presence or absence of cleft, external nasal deformity, external or internal nasal
+           valvular collapse)
+
+        2. Review of patient's photographs
+
+        3. Generation of a topographic model of the patient's facial anatomy utilizing the 3dMDface
+           system (specifics below) which will be export as a Stereolithography (.STL) file.
+
+      The patient's facial .STL file will then be imported into a computer-aided design (CAD)
+      modeling program (MimicsTM or MagicsTM, Materialise, Belgium). Contact points along the
+      topographic model are drawn out and utilized for modeling of the custom mask. The custom mask
+      model is then exported in .STL format for import into the 3D printer for fabrication using a
+      fused-deposition modeling (FDM) method (Object Pro, Stratasys, Israel).
+
+      Once the mask has been fabricated, patients will undergo a mask-fit evaluation. If a mask
+      appears to fit well, the patient will use it at home with home CPAP for one month of
+      consistent use. They will then return for debriefing and re-evaluation, with subsequent
+      iterations of mask design as needed. If the mask functions for the patient better than any
+      other alternatives, the patient will be allowed to continue to use the mask for up to one
+      year, with ongoing surveillance by the research team, assessing for mask durability and
+      ongoing usage/compliance.
+
+      Data collection will include:
+
+        -  Objective data regarding the nature of each patient's obstructive sleep apnea and CPAP
+           pressure requirements sleep-disordered breathing from the most recent available
+           polysomnograms (sleep study, abbreviated PSG)
+
+        -  Information regarding all prior CPAP masks attempted
+
+        -  One month compliance data downloads from CPAP machines - with both the prior "best
+           alternative" if usable, and with the customized mask, including percentage of days used,
+           average hours usage, residual apnea-hypopnea index (AHI) and time spent in large leak
+           per night.
+
+        -  Standardized interview with patients and their parents regarding other masks used and
+           experience with the customized mask(s).
+
+        -  Descriptive anatomic information regarding facial anomalies contributing to poor mask
+           fit, obtained from physical exam, photographs, and imaging studies.
+
+        -  Validated quality of life measures taken before and at completion of trial period with
+           customized CPAP mask, including the Pediatric Sleep Questionnaire (PSQ) and the OSA-18 ,
+           to assess the impact of successful CPAP use for our patients.
+
+      Analysis will involve basic descriptive statistics to describe both the objective outcomes
+      (e.g. compliance data from CPAP machines) and quality of life measures (PSQ and OSA-18
+      surveys) as well as information on individual experiences collected during interviews.
+
+      Additional Data on 3D Photography System
+
+      Patient facial modeling information will be obtained utilizing a 3dMDface system (3dMD,
+      Atlanta, GA). The 3dMD system is a three-dimensional photography system which generates a
+      three-dimensional model of the patient's face utilizing multiple convergent cameras (see
+      Figure 1 below). The three-dimensional model is generated utilizing hybrid
+      stereophotogrammetry, with software algorithms using both projected random patterns and
+      texture of the skin (pores, freckles, etc.) to stereo-triangulate and generate a 3D surface
+      image. The 3D model of the patient's face is created within the 3dMDvultus software system,
+      which can then export the model in .STL format. No patient identifying information is stored
+      within the .STL file.
+
+      All 3D photography sessions with study subjects will be performed or supervised by one of the
+      members of the study team. There will be no cost associated with using the 3dMDface system.
+      Utilizing 3D photography allows us to obtain the most time-accurate topographic information
+      of the patient's face while avoiding the cost and risk associated with conventional CT or MRI
+      imaging.
+
+      Data Included in Registry:
+
+        -  Pre- and post- intervention OSA-18 and PSQ questionnaire aggregates. Data to be recorded
+           includes: sum score and mean score for each questionnaire.
+
+        -  Pre-intervention AHI and oxygen saturation (SpO2) nadir based on most recent sleep PSG.
+
+        -  Pre-intervention CPAP requirements based on most recent CPAP titration PSG.
+
+        -  Pre-intervention compliance data downloads from subject's CPAP machines from prior 1
+           month's use. Data to be recorded includes: percentage of days used, average hours usage,
+           residual apnea-hypopnea index (AHI), size of leak in liters per minute, and time spent
+           in large leak per night.
+
+        -  Post-intervention compliance data downloads from subject's CPAP machines from prior 1
+           month's use. Data to be recorded includes: percentage of days used, average hours usage,
+           residual apnea-hypopnea index (AHI), size of leak in liters per minute, and time spent
+           in large leak per night.
+
+      Data Registry QA:
+
+      • Physical and electronic PDF versions of each data registry primary source (questionnaires,
+      polysomnograms, and CPAP compliance reports) will be kept for the 5 years past the duration
+      of the study. Data uploaded to the patient registry will be verified with the institutional
+      IRB.
+    
+  

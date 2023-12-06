@@ -1,0 +1,31 @@
+
+    
+      At the end of the successful spontaneous breathing trial, clinical and gasometric parameters
+      will be recorded and extubation will be performed. HFNC is placed with a flow of 50 l / m
+      (only the flow is reduced before intolerance, at 5 l / min but only up to 40 l / min).
+      Inspiratory oxygen fraction (FiO2) initially at 1 and progressively decreases until pulse
+      oximeter saturation (SpO2) ≥ 92% is achieved. Said configuration is maintained for 60
+      minutes. After this time, arterial blood samples are taken and clinical and gasometric
+      parameters are recorded in the follow-up chart. Based on them, behavior to be followed is
+      defined. If "Fault criteria" are presented, a higher ventilatory support will be initiated.
+      If not, continue with HFNC for the next 23 hours without exception. In this period the
+      initial flow is maintained (40 to 50 l / min) and the FiO2 is programmed according to the
+      SpO2 objective (≥ 92%). At 6 o'clock a new clinical and gasometric evaluation and data
+      loading is carried out. 24 hours after the start of HFNC, a blood gas sample is taken and
+      clinical and gasometric parameters are recorded. Treatment with HFNC is only suspended if the
+      "Failure criteria" or the "Interruption criteria" are met. In the presence of the "Failure
+      Criteria" and prior to delivering a greater ventilatory support, the clinical and gasometric
+      parameters are recorded in the spreadsheet.
+
+      The data of categorical variables will be presented as frequency and percentage, while in
+      quantitative variables, after testing normality by Shapiro-Wilks test, they will be presented
+      as mean and standard deviation or median and interquartile range depending on their
+      distribution. For comparisons between groups, chi-square or Fisher tests will be used,
+      depending on the frequency expected in discrete and categorical variables, and in the
+      continuous T or Mann-Whitney tests, depending on the type of distribution and variance. To
+      determine the factors of risk of failure to extubation, a logistic regression study will be
+      carried out with a system of selection of variables by forward steps. The odds ratio and its
+      95% confidence intervals will be calculated. Variables that are significant in the univariate
+      study (p value <0.2) will be included in the multiple logistic regression study.
+    
+  

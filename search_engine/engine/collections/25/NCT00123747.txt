@@ -1,0 +1,103 @@
+
+    
+      Concurrent chemotherapy and 3-dimensional conformal radiation therapy (3D-CRT), using
+      computed-tomography (CT) simulation, is the current standard approach in the treatment of
+      inoperable non-small-cell lung cancer (NSCLC). Despite such therapeutic benefit, local
+      recurrence nonetheless remains a significant impediment to cure. Attempts to improve the
+      accuracy of CT-scanning in radiotherapy treatment planning have been increasingly studied.
+      One such approach is the attempted correlation of CT imaging temporally with the physiologic
+      breathing cycle, a process known as gating. By imaging the tumor only when the tumor is
+      immobilized, gating effectively eliminates the effect of motion, thus leading to typically
+      smaller visible tumor masses and the loss of motion-induced distortions. Lung-tumor
+      immobilization using self-gated breath-holding at extremes of inspiration has been validated
+      clinically, and is associated with improved lung-outcome predictors and normal tissue
+      complication probability overall. Several recent studies have demonstrated PET to be both
+      highly sensitive and moderately to highly specific in the staging of NSCLC, and even more
+      sensitive and specific than CT-scanning in the detection of mediastinal and distant
+      metastases from NSCLC. The co-registration of CT and PET images enables even greater accuracy
+      than either modality alone, while the functional imaging inherent in PET may better
+      facilitate the distinction between benign and malignant structures. Overall, the superior
+      tumor staging capability of PET (or PET-CT fusion) together with the improved dosimetry &
+      diminished normal-tissue toxicity associated with deep inspiration breath-hold (DIBH) is
+      expected to confer considerable clinical advantage to the use of gated PET in the
+      radiotherapeutic planning and treatment of NSCLC.
+
+      The first objective is to define the effect of respiratory-gating on PET-based radiotherapy
+      planning in comparison to the free-breathing condition for patients with NSCLC. The endpoints
+      here will be to quantify the variation of both PTV and normal-tissue complication probability
+      (NTCP) for certain relevant organs (lung, esophagus, heart) via a direct analysis of
+      calculated volumes.
+
+      The second objective is to identify the correlation between PET-based radiotherapy planning
+      volumes and CT-based planning volumes for respiratory-gated patients with NSCLC. The endpoint
+      for this objective will be to quantify the breath-held, PET-based PTVs and NTCPs in
+      comparison to the breath-held, CT-based PTVs and NTCPs.
+
+      This study will consider patients with locally advanced non-small-cell cancer of the lung
+      (NSCLC) who are eligible for radical (i.e. with curative intent) combined-modality therapy.
+      Patients will be accrued from the new patient lung clinic at the Cross Cancer Institute.
+      Following a complete clinical assessment comprising a thorough history and physical
+      examination, a thorough analysis of all available imaging, a consideration of all available
+      laboratory results and consideration of any ancillary test results (e.g. pulmonary function
+      testing), a decision will be made whether or not to offer a patient radical therapy. In the
+      case of any uncertainties, further tests, such as repeat CT scanning or diagnostic PET
+      scanning may be arranged to define eligibility.
+
+      Eligibility Criteria:
+
+        -  Histologically-proven, unresected lung cancer of the following histologic types:
+           *squamous cell carcinoma, *adenocarcinoma, *undifferentiated large cell carcinoma,
+           *non-small cell, not otherwise specified (NOS, diagnosis on cytology alone)
+
+        -  AJC Stage I-III disease (if all detectable tumor can be encompassed by radiation therapy
+           fields, including both the primary tumor and the involved regional lymph nodes);
+           patients with positive supraclavicular nodes (N3) are not eligible.
+
+        -  Age > 18 and Karnofsky performance status > 70
+
+        -  Measurable disease on the CT and PET images
+
+        -  Patient must be deemed eligible for radical combined-modality therapy
+
+        -  All patients must sign a study-specific informed consent form.
+
+      Ineligibility Criteria:
+
+        -  M1 disease
+
+        -  Karnofsky performance status < 70 and age < 18
+
+        -  Patients who have undergone complete tumor resection
+
+        -  Patients with post-resection intrathoracic tumor recurrence
+
+        -  Evidence of small cell histology
+
+        -  Prior or concurrent malignancy except non-melanomatous skin cancer (unless disease-free
+           for at least 5 years)
+
+        -  Prior radiotherapy to the thorax or neck
+
+        -  Prior chemotherapy
+
+        -  Patients with myocardial infarction within the preceding 6 months or symptomatic heart
+           disease, including angina, congestive heart failure and uncontrolled arrhythmias
+
+        -  Pregnant women; patients with childbearing potential must practice appropriate
+           contraception.
+
+        -  Inability to maintain a state of deep inspiratory breath-hold for a minimum length of
+           time
+
+      Statistical Analysis: In a previous study comparing DIBH-gated CT-scanning to free-breathing
+      CT-scanning performed at this institution, it was found that a sample size of 10 patients was
+      appropriate to illustrate both a statistically significant reduction in PTV and a
+      statistically significant reduction in V20 (the volume of lung treated to a dose of =20Gy).
+      For the current study, given that the patient population is essentially the same as the last
+      one, and the fact that PET and CT are comparable imaging modalities for NSCLC in terms of
+      their sensitivity, a total sample size of 10 patients would be an appropriate number to
+      assess the difference between breath-held PET and free-breathing PET (i.e. the first
+      objective). This difference, in terms of both PTV and NTCP, will be assessed for statistical
+      significance with a paired Student's t-test.
+    
+  

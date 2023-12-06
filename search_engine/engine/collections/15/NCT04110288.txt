@@ -1,0 +1,34 @@
+
+    
+      The VQI-DELTA Paclitaxel Device Safety Analysis seeks to assess the comparative safety of
+      paclitaxel coated balloons and stents in the treatment of PAD through analysis of the
+      Vascular Quality Initiative (VQI) Peripheral Vascular Intervention (PVI) registry module
+      using the DELTA system.
+
+      The objective of the VQI - DELTA Paclitaxel Phase I Study is to evaluate the relative safety
+      of Paclitaxel used as an antiproliferative agent in the treatment of symptomatic PAD. The
+      study will analyze Paclitaxel Drug Coated Balloons (DCB) and Paclitaxel Drug Eluting Stents
+      (DES), both together and as unique exposures using propensity score matched survival
+      analysis. If a mortality signal is detected, factors associated with late mortality will be
+      further explored. Phase I is the retrospective component of the planned study, evaluating the
+      2-year survival of patients treated with a paclitaxel containing/eluting device to matched
+      patients treated with non-paclitaxel devices for symptomatic PAD.
+
+      All proposed analyses will be performed using DELTA v3.x, which has the capability to
+      prospectively monitor clinical data repositories for safety signals, and is designed to
+      support risk-adjusted prospective safety surveillance analyses of complex clinical datasets.
+
+      Three principle analyses are planned:
+
+        1. Paclitaxel DCB (including the Bard Lutonix, Medtronic In.Pact and Philips Spectranetics
+           Stellarex DCB's) as compared with propensity matched patients treated with plain
+           balloons.
+
+        2. Paclitaxel delivering DES (including the Cook Zilver PTX and Boston Scientific Eluvia
+           DES) as compared with propensity matched cases using bare metal stents (BMS).
+
+        3. Patients treated with either Paclitaxel DCB or Paclitaxel DES compared with propensity
+           matched controls (with DCB patients matched to patients treated with plain balloons, and
+           DES patients matched to patients treated with BMS).
+    
+  

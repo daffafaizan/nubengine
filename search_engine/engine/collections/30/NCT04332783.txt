@@ -1,0 +1,56 @@
+
+    
+      SPECIFIC AIMS Radiological scans are critically important for the health and well-being of
+      millions of patients [1]. Despite advances in machine learning and computer vision, reading
+      and searching in radiological scans still depends on the visual system of human observers
+      (radiologists), who receive continuous training to best detect tumor masses and anomalies.
+      Radiologists can examine hundreds and hundreds of x-rays on a daily basis, seeing several
+      images one after the other. A main underlying assumption of their work is that radiologists'
+      percepts and decisions on a current x-ray are completely independent from prior viewings.
+      However, participants recently demonstrated that the visual system has visual serial
+      dependencies (VSDs) at many levels, from perception to decision making [2, 3]. These
+      sequential dependencies mean that what was seen in the past influences (and captures) what is
+      seen and reported at this moment. Theoretically, VSDs would be helpful in an autocorrelated
+      natural world, but they are suboptimal in search tasks conducted in artificial situations
+      where images may not always be related. Importantly, serial dependences in perceptual
+      processing could thus produce significant errors during diagnostic searches through
+      radiological scans. The investigators' central hypothesis is that VSD can have a disruptive
+      effect in radiologic searches that impairs accurate detection and recognition of tumors or
+      other structures. This hypothesis is supported by the investigators' robust pilot data, which
+      show that VSD strongly biases object classification in naïve observers and expert
+      radiologists. The rationale for the proposed research projects is that once it is known how
+      serial dependence arises and how it impacts visual search, we can understand how to control
+      for it. Hence, accuracy of tumor detection and diagnosis can significantly improve. The
+      specific objectives of this proposal are to establish (Aim 1), identify (Aim 2) and mitigate
+      (Aim 3) the impact of VSD on visual search tasks in a clinical setting.
+
+      Aim 1: Establish the presence of sequential effects in perceptual decision making in
+      clinically relevant tasks.
+
+      The investigators' previous theoretical work on sequential dependencies, based on simplified
+      laboratory experiments, predicts that there should also be sequential effects in clinically
+      relevant tasks such as tumor search and recognition in images. The investigators will test
+      tumor recognition in four different domains: tumor detection, tumor classification, tumor
+      localization, and search times. Pilot data in both naïve observers and expert radiologists
+      supports the investigators' hypothesis that there are sequential effects in clinically
+      relevant perceptual judgments.
+
+      Aim 2: Identify that the sequential effects in Aim 1 are, in fact, VSD. The investigators
+      will test our prediction that the sequential effects in Aim 1 are, in fact, VSD, which is
+      operationally defined by a set of diagnostic criteria: VSDs are spatially, temporally, and
+      feature-similarity tuned. Aim 2 will therefore identify the tuning and boundary conditions of
+      VSD in tumor search. This is crucial to develop strategies to mitigate the harmful
+      consequences of VSD in Aim 3. Pilot data supports the feasibility of this aim.
+
+      Aim 3: Improve visual search performance in radiologists by mitigating VSD. Aim 2 will define
+      the boundary conditions under which VSD operates in tumor search. Aim 3 will develop task
+      manipulations to mitigate the impact of VSD. As a result of these manipulations, visual
+      search performance should improve in measurable ways in several domains (detection,
+      classification, localization, and search times). Aim 3 is particularly crucial because it
+      will allow the investigators to propose new guidelines that will improve tumor recognition in
+      radiological scans, making radiologists' judgments more effective and reliable. More
+      globally, taken together, the proposed studies in Aims 1, 2 and 3 will allow the
+      investigators to establish and work toward mitigating the deleterious role of VSD in a
+      critically important clinical task.
+    
+  

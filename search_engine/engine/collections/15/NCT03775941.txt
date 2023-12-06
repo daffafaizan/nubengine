@@ -1,0 +1,27 @@
+
+    
+      Sample: Participant data from the "Cross-Sectional Lifespan Connectomics Study" of the Nathan
+      Kline Institute - Rockland Sample (NKI-RS) will be analyzed for the present study. Zip
+      code-based recruitment and monitoring enrollment for key demographic variables (e.g., age,
+      sex, ethnicity) were used to maintain adequate representation of Rockland County and prevent
+      sampling biases (e.g., cohort effects). NKI-RS eligibility was designed for inclusivity.
+
+      Procedure: All participants completed a medical evaluation, psychiatric interview,
+      self-report questionnaires, standardized battery of cognitive tests, and neuroimaging at NKI.
+      Complete details about the MRI measurement parameters can be located on the NKI-RS website
+      for DTI and MPRAGE and protocols. Quality assurance of raw data, inclusive of monitoring
+      standard operating procedures, error-handling, and compiling the data dictionary, is
+      maintained by NKI-RS. Raw neuroimaging data was acquired by NKI-RS and processed at Suffolk
+      University using TRACULA and FreeSurfer 5.3.
+
+      Statistical Plan: Analyses will be performed on de-identified phenotypic and neuroimaging
+      data from adult NKI-RS participants available at the start of this study (October 2016).
+      Analyses will evaluate the potential for CRF to modulate decline in WM integrity and EF
+      observed with aging. Mixed-effects modeling will investigate the extent to which CRF predicts
+      WM integrity, as both a global measurement of fractional anisotropy (FA) and FA within nine
+      major WM tracts. Structural equation modeling will examine whether higher FA within frontal
+      WM tracts partially mediates a positive relationship between CRF and EF. The role of age and
+      clinical characteristics (e.g., cardiovascular risk factors, depression) will also be
+      explored as covariates in the link between CRF, WM, and EF.
+    
+  

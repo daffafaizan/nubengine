@@ -1,0 +1,204 @@
+
+    
+      1. Introduction With diseases such as Type 2 diabetes (T2D), adiposity and cardiovascular
+           diseases rapidly increasing, cost effective management is needed (World Health
+           Organization, 2017). Lifestyle improvements such as weight loss, diet and exercise
+           managed in a primary care setting has shown significant impact on reduced risk of
+           cardiovascular disease and reversing T2D for 46-56% of patients with T2D (Lean et al.,
+           2017, Johansen et al., 2017). Based on these findings, weight loss among overweight
+           patients with T2D and patients at risk of developing T2D has important clinical and
+           societal effects.
+
+           Traditional lifestyle interventions are mostly ineffective and expensive long-term.
+           Internet and mobile technology-based interventions aiming at promoting healthy
+           lifestyles have shown potential for scalability, accessibility, and cost effective use
+           in primary care settings both for overweight patients and T2D patients (Brandt et al,
+           2011, Haste et al., 2017, Komkova et al 2018). However, there is only sparse knowledge
+           about whether the beneficial effects are long-term (Afshin et al., 2016, Levine et al.,
+           2015).
+
+           Qualitative research studies comprising patients, general practitioners and the
+           healthcare professionals' perspectives suggest that the establishment of an empathic
+           relationship is key to long-term lifestyle change (Brandt et al., 2018a, 2018b and
+           2018c). An observational study among 103 diabetes patients using the collaborative
+           eHealth tool (LIVA) demonstrated a clinically significant self-reported weight loss of
+           4.7 kg among users who had been on the platform for 90+ days (Komkova et al., 2018).
+           Modelling the association between weight reduction and decreased health care costs, the
+           same study estimated that the program will save 2,667€ annually for every patient and be
+           cost effective from a municipal perspective even with only 1 year of implementation data
+           for T2D patients (Mukherjee et al., 2016, Nichols et al., 2016, Bell et al., 2014).
+
+           In the present study, the model to be tested is a lifestyle intervention using a
+           cost-effective eHealth coaching tool (LIVA) model: following an initial meeting,
+           frequent digital communication is established between health coach and patient,
+           supplemented by machine learning. Machine learning is performed using data automatically
+           gathered from patients' relevant daily lifestyle registrations such as activity level,
+           step count, diet goals fulfilment, sleep, etc. Data will be analysed to predict
+           attrition and outcome. The developed algorithms and models will then be used to increase
+           outcome and decrease dropout by supporting the health coaches with information and
+           guidance how to deliver better coaching directly and indirectly. This intervention will
+           be compared with standard lifestyle interventions in a municipality setting.
+
+        2. Study objectives and hypothesis The aim of this study is to evaluate the clinical
+           efficacy of the LIVA intervention for overweight patients at risk of developing a
+           chronic disease and overweight type 2 diabetes patients in a primary care setting. We
+           hypothesize that the LIVA intervention will lead to significant weight loss, reduced
+           HbA1C, and reduced need for medication compared to usual care.
+
+        3. Methods and analysis Study design and setting The study is a randomized controlled trial
+           with one year of intervention and one year of subsequent maintenance, with continued
+           collection of clinical and questionnaire data, where the primary endpoint is weight loss
+           and the secondary endpoint is HbA1c. The intervention is conducted in a real life
+           setting; all data management will be at the Research Unit for General Practice,
+           Department of Public Health, Primary trial sponsor, J.B. Winsløwsvej 9A, 5000 Odense C,
+           Denmark. Recruitment of patients to the study is in 8-10 municipalities within the
+           Region of Southern Denmark and the Capitol Region of Denmark. The study has been
+           registered at https://register.clinicaltrials.gov. On-boarding of patients began in
+           March 2018 and the results are expected to be accessible during 2021.
+
+           Study population and inclusion criteria Flow of patients is described in figure 1. In
+           each municipality, advertising through social media will be used to recruit eligible
+           patients for municipal preventive offers, fulfilling the inclusion criteria in the study
+           (Table 1). These patients will be contacted by phone and/ or email, and informed about
+           the study and asked to register if they accept the offer to participate.
+
+           Table 1. Inclusion and exclusion criteria
+
+           Inclusion criteria:
+
+           BMI 45 ≥ 30 kg/m2 Aged 18 -70 years
+
+           Exclusion criteria:
+
+           Fails to provide informed consent Fails to complete the initial questionnaire or
+           understand Danish No Internet access in own home through computer or smartphone Is
+           pregnant or actively trying to get pregnant Experiences mental or serious
+           life-threatening disease
+
+           The 340 eligible patients will be invited to an introduction meeting with an healthcare
+           professional with a master's in human nutrition or a clinical dietician. This
+           introductory appointment is scheduled within 7-14 days after the information material is
+           received by the patient. The patient is weighed and measured according to defined
+           clinical indicators. Blood indicators are measured through a finger prick blood sample.
+           The patient is then instructed to use a web link to complete a standard quality of life
+           questionnaire (SF-12) combined with registration of medication intake and questions
+           concerning the patient's sociodemographic characteristics, such as educational level,
+           labour market affiliation, questions concerning work performance, and disease history.
+
+           Randomization:
+
+           After patients have successfully completed the web questionnaire, they will be
+           randomized via an automated computer algorithm. This procedure ensures that drop-out
+           characteristics can be recorded. Patients are randomized in a 60:40 sequencing, where
+           60% of recruited patients are randomized for the intervention group while the remaining
+           40% will constitute the control group, based on sample size calculations (Please see
+           Sample size calculations, below). Randomization is controlled to ensure that 50% of
+           intervention group and controls will be overweight patients at risk of developing
+           chronic disease and the other 50% of intervention group and controls will be overweight
+           diabetes patients.
+
+           Intervention:
+
+           The intervention is summarised in Table 2. Based on results in the applicant's PhD
+           thesis, the core of the intervention is the initial establishment of an empathic
+           relationship with a healthcare professional who is a clinical dietician by profession
+           and has been working with eHealth lifestyle coaching for more than 2 years (referred to
+           as the health coach) and who delivers effective remote and/or digital coaching
+           responsive to the users' own data registrations (Brandt et al, 2018a). Patients in the
+           intervention group receive a login to the eHealth tool at a personal meeting (either
+           physical or digital) during which the health coach introduces the program. Together, the
+           patient and the health coach agree on goals for diet, physical exercise, sleep, etc.
+           (Brandt et al, 2018b). Using the app, patients fill in a daily record as well as their
+           comments, concerns and questions for the health coach, who will have access to patient
+           profiles. The health coach provides individual asynchronous advice according to the
+           patients' needs based on the patients' own real-time registrations (Brandt et al,
+           2018c); the health coach's advice is supported by artificial intelligence predictions
+           using machine learning (Holzinger A. et al, 2017). The coach advises on goal setting
+           based on the SMART model: Specific, Measurable, Attainable, Relevant, Timely, and
+           according to a predefined guideline structure (Ryan et al, 2009).
+
+           Asynchronous advice will be provided on a weekly basis during the first 6 months.
+           Subsequently, advice will be given monthly for 6 months. After 12 months, the
+           participant enters maintenance for 12 months, where the coach will still follow
+           patients' registrations and may give four to twelve coaching sessions during that year.
+           Patients can also participate in usual municipally provided preventive medicine
+           offerings, such as "diabetes school", to the extent that the municipalities normally
+           provide such offers.
+
+           Conventional care (control group):
+
+           Patients randomized to the control group will be offered standard municipal secondary or
+           tertiary preventive offers.
+
+           Study endpoints and assessment:
+
+           Measurement of endpoints (weight, HbA1c etc.) will be conducted by the health coach at
+           baseline and at 6, 12 and 24 months' follow-up.
+
+           Primary outcome:
+
+           Weight loss from baseline to 12 months' follow-up.
+
+           Secondary outcome Reduction in HbA1c for all patients from baseline to 12 months for
+           patients with T2D.
+
+           Other outcomes
+
+           The following tertiary outcomes will be measured at baseline and at 12 months:
+
+             -  Retention rates among users
+
+             -  Patient waist circumference
+
+             -  Blood pressure
+
+             -  Total cholesterol, LDL, HDL and TG
+
+             -  Patients' quality of life
+
+             -  Changes in patterns of medication Apart from these outcomes, patient demographic
+                characteristics (gender, age, highest educational level) will be measured at
+                baseline.
+
+           Analysis strategy Primary analyses will be performed blinded by statisticians and
+           comprise subgroup analyses based on stratification according to patient characteristics
+           and experiences. Statistical significance will be inferred at a two-tailed and p<0.05
+           significance level. All data will be accessible on the Internet in anonymised form to
+           allow full peer scrutiny and facilitate secondary research.
+
+           Sample size calculations The primary objective of this study is measurement of changes
+           in body weight and waist circumference. Weight loss in the intervention group and
+           control group will be analysed using appropriate statistical procedures. Based on a
+           recent study by Haste and colleagues evaluating a web-based weight loss intervention
+           among men with diabetes, we expect a weight loss of at least 4.5 kg at 12 months in the
+           intervention group, compared to 2.5 kg in the control group, as well as dropout rates of
+           39% among the intervention group and 57% among control group at 12 months (Haste et al.,
+           2017). A power calculation based on the standard deviations observed in the study
+           performed by Haste et al shows that to detect a difference in weight loss of 2 kg with a
+           power of 0.95% requires 55 patients in the intervention group and 32 in the control
+           group. To be able to stratify analyses according to overweight patients at risk of
+           developing chronic disease and overweight diabetes patients we will therefore recruit
+           200 (100+100) in the intervention groups and 140 (70+70) controls.
+
+        4. Ethics The intervention is not expected to cause any side effects or discomfort except
+           for the ones a change in lifestyle can bring. The only recognized risk is in relation to
+           eating disorders (pre-existing or developing during the study) and the dieticians and
+           nurses involved in the study will specifically look out for indications of this. The
+           Regional Ethical Committee (Regional Videnskabsetisk Komité) have accepted the study in
+           according to Danish law. Participant data will be handled and stored in accordance with
+           rules approved by the Danish Data Inspectorate (Datatilsynet). Permission to handle
+           individual patient data from the national registries will be obtained from patients and
+           the Danish Data Inspectorate. All data will be analysed in anonymous form.
+
+        5. Publication The results of the studies will be published in international journals in
+           accordance with the Vancouver rules. Furthermore, participants will be invited to a
+           presentation of results at the end of the study and news media will be informed.
+
+        6. Conflict of Interests Carl J. Brandt has co-founded and works as a medical consultant
+           for LIVA Healthcare A/S, the company that has developed parts of the technical platform
+           and will host some of it during the study. Carl J. Brandt works at the Research Unit for
+           General Practice and CIMT at SDU. Camilla Sortsø is working for LIVA Healthcare A/S,
+           Jens Søndergaard, Jesper B. Nielsen and Jørgen T. Lauridsen have no financial interest
+           in LIVA Healthcare A/S or any other aspects of this study.
+    
+  

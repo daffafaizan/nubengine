@@ -1,0 +1,28 @@
+
+    
+      We hypothesise that molecular imaging-based RADIOMICS analysis of FDG PET/CT data (termed
+      iRADIOMICS) provides more information than standard anatomical imaging-based irRC analysis
+      regarding the assessment of the effectiveness of immunotherapy and will have a stronger
+      predictive power. It is widely accepted that molecular imaging (e.g. PET/CT) reflects changes
+      in tissues much sooner than anatomical imaging (CT, MRI). Therefore, we expect that an
+      immunotherapy assessment tool based on FDG PET/CT should outperform anatomical-imaging-based
+      irRC also timewise. Although we do expect an initial increase in FDG PET uptake (mainly due
+      to the metabolic activity of tumour infiltrating lymphocytes (TILs)), followed by a late
+      decrease, we argue that the predictive power of FDG PET can be even further increased by
+      including an in-depth analysis of additional imaging features - the aforementioned "radiomics
+      texture features". Many studies across different types of cancer have found a correlation
+      between the presence of TILs and patient survival. Therefore we expect that iRADIOMICS
+      signature of responders will be different from the irRADIOMICS signature of non-responders to
+      antiPD1 immunotherapy due to the different levels of TILs infiltration, different TILs
+      spatial distribution within the tumour, and different composition of immunosuppressive tumour
+      microenvironment containing different levels and spatial distribution of various
+      immunosuppressive cells, such as myeloid-derived suppressive cells (MDSC), regulatory T cells
+      (Treg), tumour-associated macrophages (TAM), regulatory dendritic cells (DCreg) and others
+      30. Thus we anticipate that it might be possible to assess the response to immunotherapy at
+      just one imaging time-point, preferably already in the pseudo-progression phase, thus much
+      earlier than with irRC. Based on the assumption that irRADIOMICS might be able to detect
+      differences in tumour immunosuppressive microenvironment, we further hypothesise that it
+      might be also possible to predict, which patients are most likely to benefit from anti-PD1
+      immunotherapy already before the therapy.
+    
+  

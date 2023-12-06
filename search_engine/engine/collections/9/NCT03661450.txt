@@ -1,0 +1,21 @@
+
+    
+      Clinical decision-support systems (CDSS) are designed to solve knowledge-intensive tasks for
+      supporting decision-making processes. Although many approaches for designing CDSS have been
+      proposed, due to high implementation costs, as well as the lack of interoperability features,
+      current solutions are not wellestablished across different institutions. Recently, the use of
+      standardized formalisms for knowledge representation as terminologies as well as the
+      integration of semantically enriched clinical information models, as openEHR Archetypes, and
+      their reuse within CDSS are theoretically considered as key factors for reusable CDSS. The
+      investigators already successfully transferred their concept into a prototype and evaluated
+      the practicability on clinical data sets and in close cooperation between the clinicians and
+      the technical experts. To the author's knowledge, currently, there are no openEHR based CDSS
+      approaches which have been implemented and evaluated with such complex and important clinical
+      contexts. Hence, the first clinically evaluated CDSS based on openEHR was successfully
+      designed. When enhancing the described approach and implementing a live system, it might
+      support clinicians to identify the patient's course of disease at an early stage, which can
+      lead to better outcome for the patient. Furthermore, the system can serve as a basis for
+      integrating (cross-institutional) machine learning components that could facilitate dealing
+      with other high-complex decision problems or revealing yet unknown disease patterns.
+    
+  

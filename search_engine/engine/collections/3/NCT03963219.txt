@@ -1,0 +1,74 @@
+
+    
+      The novel decision support algorithm is based on case-based reasoning (CBR). CBR is an
+      artificial intelligence technique that tries to solve newly encountered problems by applying
+      the solutions learned from solved problems encountered in the past (10).
+
+      The CBR algorithm requires the following input for each insulin dose recommendation:
+
+        -  Time of day
+
+        -  Capillary blood glucose
+
+        -  Meal carbohydrate intake (g)
+
+        -  Type of meal CHO (fast, medium or slow absorption)
+
+        -  Pre- or post-meal exercise if within 4 hours of the meal (intensity: moderate or
+           intense) These parameters make up the case problem presented to the CBR algorithm. Using
+           this information the algorithm will find a similar case scenario from the pool of
+           previously encountered cases and recommend an improved solution (insulin dose) to
+           achieve the best possible outcome (post-prandial blood glucose).
+
+      The insulin recommendation application runs locally on a standard operating system such as
+      iOs5.x or Android within a commercially available smartphone. It contains the CBR based
+      decision support algorithm as well as information of past successful cases. Opening the
+      decision support application on the smartphone leads to the main menu, which provides a link
+      to the submenu for requesting a new recommendation. Every calculated recommendation needs to
+      be accepted or declined manually, and the latter option requires the user to enter the
+      adjusted amount of insulin that has been delivered. In addition, the main menu enables the
+      user to view logged data such as recent glucose levels, meal/exercise events and previous
+      insulin dose advices.
+
+      The glucose sensors that will be used throughout the clinical validation studies are the
+      Enlite sensor (CE marked,manufactured by Medtronic) or the Dexcom sensor (CE marked,
+      manufactured by Dexcom). They are subcutaneous sensor which sit just under the skin and
+      sample interstitial fluid using an enzyme electrode. A small voltage is applied across the
+      sensor and a current is fed back to the sensor instrumentation. This current is proportional
+      to the glucose concentration in interstitial fluid and is calibrated against blood glucose a
+      minimum of 12-hourly. In phase 2 and 3 the CGM will be blinded and either calibrated
+      retrospectively using the iPro2 system (CE marked, manufactured by Medtronic) or calibrated
+      in real-time using the Dexcom CGM system (however the CGM will be blinded to the subject).
+      The iPro2 consist of a recorder that will be attached to the Enlite sensor and at the end of
+      6 days the data will be downloaded to the Medtronic Carelink iPro software. The Dexcom CGM
+      data will be downloaded to the DiaSend/Dexcom Studio software. In phase 4 Dexcom real-time
+      CGM (i.e subjects will be able to see their CGM data at all times) will be used continuously
+      throughout the study. In Phase 5 the latest commercially available version of the Dexcom
+      RT-CGM (Dexcom G6) will be used in accordance with manufacturer's user guide and data will
+      automatically be stored to Dexcom Clarity. All data will be anonymised. The non-CE marked
+      component of the intervention (The ABC4D device which is a novel bolus calculator for type 1
+      diabetes) remains the same and any adjustments to the algorithm will be documented with new
+      version numbers as usual. The latest commercially available version of the Dexcom RT-CGM
+      (Dexcom G6) will be used and this has got CE-mark approval. Two additional components to
+      automatically collect additional information will be used in Phase 5:
+
+        1. Insulin pen caps allow automatic logging insulin doses delivered from the insulin pen.
+           The participant will be provided with the pen cap that is compatible with their insulin
+           pen.
+
+           InPen (Companion Medical). The InPen is a CE-marked device. GoCap (Common Sensing). The
+           GoCap is classed as a non-medical device and therefore does not require CE-mark in
+           Europe.
+
+        2. FitBit Charge 2 HR (Fitbit) to collect physical activity data. The Fitbit Charge 2 HR is
+           classed as a non-medical device.
+
+      An overview of the components of the ABC4D system for Phase 5 has been included in the Phase
+      5 section of the protocol and in the corresponding PIS.
+
+      In order to demonstrate safety and efficacy of the CBR algorithm, an in-silico study using
+      the UVa-Padova T1DM simulator (11) was done and showed good results. The simulator was
+      developed from human data and takes into account sensor errors, sensor placement, route of
+      insulin administration and meal-time glucose absorption.
+    
+  

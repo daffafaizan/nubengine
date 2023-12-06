@@ -1,0 +1,18 @@
+
+    
+      The measurement of individual segments, instead of the body as a whole, with BIA has not been
+      fully explored. The prototype device is capable of directly measuring multiple body segments
+      (arm, trunk, and leg) simultaneously, and the final version will be able to provide
+      composition about each segment and the body as a whole. Current devices on the market are not
+      capable of this.
+
+      The reference devices will be used to measure segments as well, and the raw measurements will
+      be compared. The Multiscan 5000 provides segmental body composition for the arm or leg, but
+      requires measuring it separately. The SFB7 is designed only for measuring the whole body, but
+      the raw impedance measurement data from the SFB7 can be used for comparison, as the impedance
+      magnitudes of individual segments will be within its measurement range. The Seca 514 doesn't
+      directly measure segments, but it can provide segmental data by measuring from hand to foot,
+      then from hand to hand, and finally from foot to foot. It then uses these measurements, and
+      assumptions about the subject to provide segmental composition data.
+    
+  

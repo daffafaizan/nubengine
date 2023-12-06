@@ -1,0 +1,54 @@
+
+    
+      The primary objective of breast cancer screening is to identify early stage cancer, or
+      precancerous lesions, at a time before symptoms emerge and when treatment is likely to result
+      in a cure. Screening is beneficial when it averts progression of disease to metastasis and/or
+      death, but adverse effects to patients (and unnecessary medical expense) may result
+      downstream from false positives and indiscrimination of masses that will not respond to
+      treatment. The sensitivity of digital mammography, the current screening standard in the US,
+      has been reported in the range of 0.40 to 0.85, with a positive predictive value of 0.31.
+      Sensitivity is increased by augmenting mammography with MRI and B-Mode ultrasound, but false
+      positive rates may also increase3. There exists a vital need for a screening technology that
+      exhibits high sensitivity and specificity for cancer detection with early identification of
+      unresponsive masses.
+
+      This urgent need could be met by exploiting new imaging biomarkers. Specifically, the
+      mechanical properties of breast tissue have been used for cancer detection, with both
+      elasticity and viscosity demonstrated for discriminating malignant from benign lesions.
+      Further, tissue anisotropy has been shown to correlate with core biopsy result and tumor
+      grade, with large cancers significantly more anisotropic than small cancers. Importantly,
+      while both MRI and ultrasound can be used to measure these biomarkers, ultrasound's cost
+      effectiveness and ease of implementation render it an efficient platform to pursue.
+
+      The long-term goal of this research program is to develop a new ultrasound-based
+      breast-screening tool to augment mammography. As a critical first step toward achieving this
+      goal, the primary objective of the proposed research is to evaluate in vivo the diagnostic
+      relevance of ultrasound-derived metrics for stiffness, elasticity, viscosity, and anisotropy.
+      These biomarkers will be measured using novel, noninvasive ultrasound technologies under
+      development in Dr. Gallippi's laboratory: 1) Acoustic Radiation Force Impulse (ARFI)
+      ultrasound for interrogating tissue stiffness, 2) Viscoelastic Response (VisR) ultrasound for
+      assessing tissue elasticity and viscosity, and 3) Dynamic Displacement Anisotropy Imaging
+      (DDAI) for measuring tissue anisotropy. These technologies have been demonstrated previously
+      for delineating atherosclerosis, muscular dystrophy, and renal dysfunction.
+
+      A.1.2.State the research question(s) (i.e., specific study aims and/or hypotheses).
+
+      The investigators hypothesize that ultrasound-derived stiffness, elasticity, viscosity, and
+      anisotropy will correlate with lesion malignancy and response to treatment. To test this
+      hypothesis, they will pursue the following specific aims:
+
+      Aim #1: Quantify the ability of ultrasound-derived stiffness, elasticity, viscosity, and
+      anisotropy to detect malignancy. ARFI, VisR, and DDAI imaging will be performed on suspicious
+      breast lesions in 40 women with BIRADS-4a, 4b, 4c, or -5 ratings. The diagnostic accuracy of
+      imaging metrics will analyzed, with malignancy confirmed by histology as the outcome.
+
+      Aim #2: Quantify the ability of ultrasound-derived stiffness, elasticity, viscosity, and
+      anisotropy to predict a positive response to treatment. ARFI, VisR, and DDAI imaging will be
+      performed serially - once every four weeks over the course of neoadjuvant chemotherapy (NAC)
+      - on malignant breast lesions in 40 women. Changes in outcome metrics over time will be
+      correlated to overall reduction in tumor size (diameter and area). The ability of ultrasound
+      metrics to predict a positive response to treatment will be examined. A positive response to
+      treatment will be determined according to the Response Evaluation Criteria in Solid Tumors
+      (RECIST) guidelines.
+    
+  

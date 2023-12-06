@@ -1,0 +1,25 @@
+
+    
+      Data sources :
+
+      The hospital administrative data for this study are from the SNIIRAM (Syste'me National
+      d'Informations Inter Regimes de l'Assurance Maladie) which also includes the national
+      hospital reporting system (PMSI - Programme de Medicalisation des Systemes d'Information. The
+      SNIIRAM is a centralized administrative database of all health services reimbursed under
+      France's NHI program. The PMSI, based on diagnosis-related groups (DRGs), is a centralized
+      administrative database of hospital discharge records by diagnosis, procedure, age and
+      residence of patients from all hospitals in France. It is managed by a national agency
+      (ATIH).
+
+      To calculate the proportion of rehospitalized patients (65þ) who received outpatient visits
+      (all physician consultations in community-based practice, as well as hospital outpatient
+      visits) between the time of discharge and rehospitalization, we collaborated with analysts at
+      the French NHI fund (CNAMTS). We linked the individual identifying variable for
+      rehospitalized patients and extracted the outpatient visits from the SNIIRAM database for all
+      medical and surgical admissions. Of the total number of hospitalized French patients aged 18
+      years and over (5,804,677) with identifiers in 2010, only 299,364 (5%) were unidentified
+      after linking these datasets. These patients are most likely to have been foreigners and
+      newborns who had not yet received an identifier. Outpatient visits include all physician
+      consultations in community-based practice, as well as hospital outpatient visits.
+    
+  

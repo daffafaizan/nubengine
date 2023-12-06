@@ -1,0 +1,9 @@
+
+    
+      From the Italian VATS Group Database, we selected patients who underwent video-assisted
+      thoracoscopic lobectomy for non-small cell lung cancer. We calculated the aggregate risk
+      score and the corresponding class of 90-day mortality risk for each patient. The correlation
+      between risk classes and mortality rates was tested by Spearman's rho-test. Model calibration
+      was evaluated by Hosmer-Lemeshow goodness-of-fit test.
+    
+  

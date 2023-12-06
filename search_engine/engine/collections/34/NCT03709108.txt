@@ -1,0 +1,43 @@
+
+    
+      Individuals with Type 1 Diabetes (T1D) require exogenous insulin to keep their blood glucose
+      concentration in a safe euglycemic range, because of the absent internal insulin secretion
+      caused by the autoimmune destruction of pancreatic beta-cells. As a consequence, the quality
+      of glycemic control in T1D is heavily dependent on multiple daily treatment decisions by the
+      patients, which are complicated by a wide variety of factors influencing insulin demand
+      (e.g., circadian rhythms, physical activity, food, stress, etc.). Insulin sensitivity (SI) is
+      a key metabolic parameter in diabetes as it informs on how sensitive the body is to the
+      effects of insulin. In general, if someone has higher SI, the amount of insulin required to
+      lower his blood glucose levels is smaller than that needed by someone who has low
+      sensitivity. However, SI levels within the same person are not constant, and fluctuations of
+      SI happen very frequently in the life of subjects with diabetes, making insulin dosing very
+      difficult to tune.
+
+      In this context, the aim of this research project is to develop an SI-informed insulin bolus
+      calculator, with the aim of tailoring the insulin dose to the individual's insulin need at
+      the time the bolus is administered. The SI-informed bolus calculator relies on a Kalman
+      filter-based algorithm which uses continuous glucose monitoring (CGM) data, insulin, and meal
+      records to estimate SI. For each subject, a 24-hour SI profile is computed using data
+      collected over several days of monitoring, and the optimal bolus is then computed by
+      adjusting the standard insulin dose by the ratio between usual SI (from the profile) and
+      real-time SI of the individual at the time the bolus is administered. In this way, if the
+      real-time SI is larger/smaller than the profile SI at that time of day, the insulin dose will
+      be reduced/incremented accordingly.
+
+      The study is thus designed as a single-center randomized clinical trial targeting completion
+      of 15 subjects, who will undergo a 28-day at home Data Collection Period followed by two
+      24-hour admissions (Control and Experimental Admission) performed in random order in a
+      semi-controlled environment (i.e., hotel). The Data Collection is meant to collect data
+      needed to build the 24-hour SI profile for the subject. During the admissions, subjects will
+      undergo a 45-minute afternoon exercise session designed to alter the late-afternoon/evening
+      SI. The dinner meal will then be controlled, and the postprandial glycemic control obtained
+      using the standard bolus calculator (Control Admission) will be compared to the control
+      obtained in response to the optimized SI-informed bolus calculator (Experimental Admission).
+      Metrics computed on CGM data will be compared between the two admissions, including mean
+      blood glucose, time above 250 and 300 mg/dL, time below 70 and 54 mg/dL, and time in 70-180
+      mg/dL, the primary outcome being the postprandial exposure to hypoglycemia as measured by the
+      Low Blood Glucose Index (a glycemic variability indicator which summarizes the number and
+      extent of low blood glucose events in one single number). If successful, this study will
+      provide a novel, data-oriented paradigm for insulin dosing in T1D.
+    
+  

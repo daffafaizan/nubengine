@@ -1,0 +1,104 @@
+
+    
+      METHODS Objectives
+
+      Primary: To describe the observed surgical needs of COVID-19 patients in Canadian centers.
+
+      Secondary: To measure the association between preoperative characteristics and postoperative
+      outcomes in COVID-19 patients.
+
+      Tertiary: To quantify the operating room workload and modified workflow associated with the
+      surgical care of COVID-19 patients as well as impact of a viral pneumonia pandemic on
+      surgical activities.
+
+      Exposure variables:
+
+      To answer the primary objective, the main variables of interest will be the surgical disease
+      that brought the patient to the operating room, its urgent nature and the invasiveness of the
+      surgical approach.
+
+      To answer the secondary objective, the investigators will gather baseline characteristics of
+      the COVID-19 presentation as the main exposure variables: presence of symptoms at time of
+      surgery, number of days since first symptoms, number of days since diagnosis, recovery,
+      presence of pulmonary infiltrates, preoperative hospitalization, preoperative need for
+      mechanical ventilation (still in use or weaned), oxygen need at time of surgery and received
+      treatments (antiviral, steroids, antibiotics). The investigators will also gather other
+      demographic characteristics, baseline comorbidities, baseline laboratory values, preoperative
+      SOFA (Sequential Organ Failure Assessment) score and intraoperative variables (type of
+      anesthesia, type of intubation technique, blood loss, fluid balance, transfusions, duration
+      of surgery).
+
+      To answer the tertiary objective, the investigators will gather the type and number of
+      personal protective equipment used per case in the operating room, the required time for
+      operating room preparation and cleaning, patient extubation localization and patient disposal
+      after surgery.
+
+      Surgical care impact variables:
+
+      The investigators will collect from operating room administrative databases the number of
+      surgeries performed during the period of observation and the number of surgeries performed
+      during a comparative period of observation of the preceding year in all sites. The
+      investigators will also collect the mean time from operating room entry to room exit and the
+      mean time from operating room exit to end of cleaning both in surgeries of the preceding year
+      and in surgeries of the period of observation.
+
+      Variable definitions:
+
+      All COVID-19 variables will be based on either the day when symptoms start as reported by the
+      patient or the first day of diagnosis (either clinical or by RT-PCR from either an
+      oronasopharyngeal swab or an endotracheal specimen). The investigators will also capture
+      asymptomatic SARS-CoV-2 carrier. Recovery at surgery will be defined based on the latest
+      available definition of a healed patient as provided by health authorities. . Surgical
+      disease will be defined as the one reported by the surgeon. Surgeries will be further
+      categorized into the following categories: neurosurgical (head, neck and spine), cardiac,
+      thoracic, major vascular (intrathoracic and/or intra-abdominal), non-vascular abdominal
+      (laparotomy or laparoscopy), urogenital (urology and/or gynecology), non-spine orthopedics,
+      peripheral vascular, ENT and other. Any neurosurgical, cardiac, thoracic, major vascular or
+      non-vascular abdominal surgery will be defined as a major surgery. The investigators will
+      capture the surgical approach (minimally invasive or invasive) and the urgent nature of the
+      procedure. Minimally invasive surgery will be defined as a one that does not need to open an
+      anatomical cavity (laparoscopy, thoracoscopy, endoluminal). Urgency of surgery will be
+      defined as one that needs to be done within 6 hours (emergent), between 6 and 24 hours
+      (urgent) and can wait for more than 24 hours (non-urgent).
+
+      The investigators will measure survival up to 30 days after surgery and survival up to 6
+      months will also be captured. The investigators will use existing definitions for the
+      postoperative pulmonary complications outcome. Non-pulmonary infectious complications will be
+      defined as any infection that needed antibiotics for more than 72 hours. Acute kidney injury
+      will be defined by the creatinine difference of the KDIGO-AKI criteria. Myocardial infraction
+      and stroke will be defined as reported by treating physicians. Mechanical ventilation will be
+      defined as any mechanical support (non-invasive or invasive). All 30-day outcomes will
+      include any day with the outcome and the 30-day organ dysfunction free days will use existing
+      definitions. Time of room cleaning will be defined from patient transfer out of the operating
+      room to end of cleaning.
+
+      Sample size:
+
+      The investigators plan a convenient sample size depending on the number of patients and
+      center included. Inclusion will start on the 13th of March 2020. A formal statistical
+      analytic plan (SAP) will be proposed according to the power this cohort may provide. The SAP
+      will be published before any statistical analysis is conducted.
+
+      Analyses:
+
+      Descriptive analyses of baseline characteristics and outcomes of COVID-19 confirmed patients
+      (symptomatic and asymptomatic) will be conducted. The primary analysis will be a
+      determination multivariable model on survival of these patients up to 30 days after surgery.
+      A multivariable Cox model will include presence of symptoms, preoperative oxygen need and
+      urgency of surgery as independent variables and a frailty factor a center random effect.
+
+      The secondary analyses will be descriptive analyses of suspected and healted patients and a
+      similar multivariable survival model on all patients included in this study (confirmed,
+      suspected or healed. Preoperative oxygen need, urgency of surgery and disease status
+      (confirmed, suspected or healed) will be included as independent variables in this analysis.
+
+      Also, the following outcomes will be reported descriptively: proportion of patients with
+      pulmonary complications, thromboembolic complications, non-pulmonary infectious
+      complications, need for a new postoperative ICU admission, mean hospital length of stay,
+      30-day mechanical ventilation free-days and 30-day organ dysfunction free days.
+
+      The number and types of surgeries on all patients during the observed period will be
+      reported. The number of surgeries performed during the year before and the mean time of room
+      usage and cleaning in all patients of both observation periods will also be reported.
+    
+  

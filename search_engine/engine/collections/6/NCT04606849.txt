@@ -1,0 +1,49 @@
+
+    
+      Clinicians' ability to accurately diagnose pneumonia and then choose the most appropriate
+      treatment options is enhanced by well-designed clinical decision support (CDS). Pneumonia CDS
+      has historically been focused on inpatient settings, but ambulatory care settings with high
+      pneumonia patient volumes also might benefit. The investigators propose to adapt an
+      innovative, validated emergency department (ED) CDS tool based on consensus guidelines for
+      pneumonia care (ePNa) and deploy it to urgent care centers (UCC) using the CFIR framework.
+      Electronic tools such as ePNa may become even more useful within UCCs as the COVID-19
+      pandemic evolves, since recommendations can be readily updated as better methods of diagnosis
+      and effective treatment develop. ePNa within the ED has already been adapted to recommend
+      SARS-coV-2 testing for patients with pneumonia and signs and symptoms characteristic of viral
+      pneumonia.
+
+      The proposal supports four aims:
+
+        1. Adapt ePNa for UCC and after in silico testing, pilot it among "super user" clinicians
+           during UCC shifts and assess its usability. ePNa needs adaptation for more limited
+           patient data available in UCCs, calibration of severity measures for lower observed
+           mortality, and a chest imaging prompt in patients with pneumonia signs and symptoms.
+           ePNa for UCC will incorporate Stanford University's artificial intelligence CheXED model
+           to provide electronic classification of chest images in <10 seconds for elements of
+           pneumonia diagnosis and treatment (radiographic pneumonia, single vs multiple lobes, and
+           pleural effusion).
+
+        2. Using the CFIR framework, our prior ED implementation experience, a focus group of UCC
+           clinicians, semi-structured interviews, and direct observations of workflow including
+           ePNa guided transitions of care between clinicians, the investigators will identify
+           barriers and facilitators to adaptation and implementation of ePNa to UCCs.
+
+        3. Test the implementation strategy by deploying ePNa at one of two randomly chosen
+           Intermountain Healthcare UCC clusters each with about 800 annual pneumonia patients -
+           the other a usual care control.
+
+        4. Co-primary outcomes are a) accuracy of pneumonia diagnosis defined by compatible chief
+           complaint plus ≥ 1 pneumonia sign/symptom and radiographic confirmation will be ≥10%
+           higher in the ePNa cluster, and b) the percent of UCC pneumonia patients transferred to
+           an emergency department for further evaluation will decrease by ≥ 3% in the ePNa cluster
+           replaced by more direct hospital admissions or discharge home. Safety measures will be
+           unplanned subsequent 7-day ED visits/hospitalizations and 30-day mortality. Based on
+           this rigorous pilot study, the investigators anticipate a subsequent multi-system
+           cluster-randomized trial.
+
+      Our work incorporates the Five Rights of CDS to ensure that the strengths of this technology
+      are optimized in the clinical environment. The investigators will leverage experience in
+      innovative pneumonia research, pioneering CDS, and implementation science available at
+      Intermountain to successfully complete this proposal.
+    
+  

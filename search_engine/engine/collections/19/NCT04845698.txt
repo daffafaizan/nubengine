@@ -1,0 +1,69 @@
+
+    
+      Background: More than 5.7 million people are admitted into intensive Care Units (ICUs) in the
+      United States each year. The ICU level of care that helps people with a life-threatening
+      illness is provided by a multi-disciplinary team of specially-trained healthcare providers.
+      These patients require more frequent assessment compared to those who do not need critical
+      care. Essential parameters in the ICU settings include, but not limit to, vital sign
+      monitoring, laboratory data, ventilator settings and vasoactive drugs. Therefore, information
+      overload is a common problem in ICUs. Caring for ICU patients generates approximately 1200
+      data points per patient per day. The use of electronic medical records (EMRs) increases the
+      data accuracy compared to handwritten notes. An effective management strategy for patient
+      information in ICUs may be needed for clinicians to avoid being overwhelmed by data overload.
+
+      Data overload in ICUs may result in communication failures, possibly in association with
+      worse patient outcomes. A delay between condition onsets and the beginning of therapeutic
+      interventions may dramatically impact the prognosis of patients with sepsis or
+      cardiopulmonary emergencies. Although EMR use has been increasingly adopted worldwide,
+      whether EMRs are being used effectively and efficiently to enhance clinical workflow in ICUs
+      remains a question. A large cross-sectional study of primary care practitioners have
+      investigated the predictors of missed test results in the setting of EMR alerts. Of the 2590
+      responders, 86.9% perceived the quantity of alerts they received to be excessive, 69.6%
+      reported receiving more alerts than they could effectively manage (a marker of information
+      overload), 55.6% reported that the current EMR notification system made it possible for
+      practitioners to miss test results, and 29.8% reported having personally missed test results
+      that led to care delays. These results suggested that primary care practitioners using
+      comprehensive EMRs are vulnerable to information overload, leading them to miss important
+      information. To address the nature of the high volume of metrics monitored and the urgent
+      responses to patients' condition changes in ICUs, a display tool that facilitates retrieval
+      of crucial clinical information has excellent potential to attenuate information overload and
+      benefit workflow.
+
+      Visualization transforms data into visual representations, making the cognitive processing of
+      data more effective and efficient. The use of visualization techniques in the clinical
+      setting provides an overview to improve display and recognition of patients' conditions,
+      potentially reducing cognitive overload among specially-trained healthcare providers. A
+      dashboard is a data-driven clinical decision support tool capable of retrieving data from
+      multiple databases and providing a quick representation of key metrics for each patient. The
+      utility of a dashboard comes from its ability to provide a concise overview of crucial
+      information. In addition to being designed based on user experiences, a dashboard for
+      clinical use should be designed based on several proposed principles, including 1) one view
+      should contain single patient data, 2) data should be summarized or titled for overview and
+      details should be given on-demand, 3) data should be displayed in time-series, 4) data should
+      be categorized by primary type, and 5) more data should be displayed at the same time. While
+      being applied to the ICU settings, a dashboard may allow healthcare providers in a
+      multi-disciplinary team to identify patients' active problems that need prompt interventions.
+
+      Hypothesis and Specific Aims: The implementation of multi-disciplinary rounds in ICUs
+      exhibits a positive effect on both patient care outcome and staff satisfaction with team
+      dynamics. In Taiwan, multi-disciplinary ICU rounds have been an important item to be
+      evaluated in hospital accreditation. The study participants include ICU healthcare providers,
+      i.e. physicians, nurse practitioners, nurses, respiratory therapists, pharmacists and
+      dietitians. In this project, we aimed to evaluate the efficacy and clinical satisfaction of a
+      team-designed, patient-centered electronic medical record viewer, i-Dashboard, to facilitate
+      multi-disciplinary rounds in our surgical intensive care units. To achieve these research
+      goals the applicant proposed studies with the following specific aims:
+
+        1. The use of i-Dashboard reduces time spent on pre-round data gathering.
+
+        2. The use of i-Dashboard increases communication accuracy during multi-disciplinary ICU
+           rounds, including vital signs, catheters, laboratory data, medications, input/output
+           balance and warnings on redline values.
+
+        3. The use of i-Dashboard enhances recommendations actively made by multi-disciplinary team
+           members, including respiratory therapists, pharmacists and dietitians.
+
+        4. The use of i-Dashboard enhances healthcare provider satisfaction, as evaluated by
+           questionnaires modified from previous studies.
+    
+  

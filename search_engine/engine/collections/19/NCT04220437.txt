@@ -1,0 +1,34 @@
+
+    
+      Drug Eluting Stents (DES) reduce the rate of in-stent restenosis (ISR) to 3.6-10%. Based on
+      the large population of patients, ISR is still an important problem in the field of
+      cardiovascular disease. How to reduce the incidence of ISR and the treatment of ISR has
+      become the focus and hot spot. The 2018 ESC Guidelines for Cardiovascular Intervention
+      recommends treatment of ISR under the guidance of intravascular ultrasound (IVUS), or optical
+      coherent tomography (OCT). The European Expert Consensus on Intravascular Imaging, published
+      in 2018, recommends finding the underlying mechanisms of ISR through intravascular imaging
+      guidance (IVUS or OCT), and determining therapeutic strategies based on the mechanisms.
+      Circulation published a new Waksman ISR classification based on mechanisms and components of
+      the restenosis tissue, which provides guidance of treatment strategy. The use of
+      intravascular imaging to identify and classify the types and mechanisms is very important for
+      ISR treatment strategy. Because of its good resolution, OCT makes it more accurate to
+      distinguish the components of vascular tissue, thus providing a decision-making basis for
+      interventional therapy. OCT examination can obtain the characteristics of ISR more precisely.
+      Neoatherosclerosis (NA), is one of the ISR types and accounts for more stent failure and
+      target lesion failure than other types. Identification of NA is important for decision-making
+      of interventional therapy. However, the acquisition and analysis of OCT images not only need
+      the digital angiography machine (DSA) equipped with the majority of hospitals, but also need
+      professional OCT imaging equipment and technicians. Patients with severely CKD cannot bear
+      OCT examination because of the large amount of contrast agent. OCT catheter is more than ten
+      times the price of the CAG catheter. Therefore, identification of NA by the use of artificial
+      intelligence (AI) is of significance to set therapeutic strategy for ISR patients, especially
+      in patients with CKD. Our study retrospectively analyzed CAG images and OCT images of ISR
+      patients obtained from Jan 1st,2015 to Jan 31st,2020. Offline OCT analysis was performed
+      using dedicated software (Light Lab Imaging Inc, Westford, MA). All images were analyzed at
+      every frame in the stents by 2 independent investigators, who were blinded to the
+      angiographic and clinical findings. Identify NA by analyzing OCT images, build up U-net and
+      V-net to analyze the CAG and OCT images, and finally build up an identification system of NA
+      based on CAG images by AI. This study has been approved by Ethics Committee of Chinese PLA
+      General Hospital (S2018-033-01)
+    
+  

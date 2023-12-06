@@ -1,0 +1,60 @@
+
+    
+      A community-level seroprevalence survey was conducted in a cross-sectional design during a
+      Participatory Action Research (PAR).
+
+      Starter PAR team: researcher who developed the Elisa Test, virologist that perform the
+      analysis of the test and physician that served as volunteer field epidemiologist at the
+      surveillance system (DetectAr Barrio 31) offered technical cooperation to test people
+      experiencing homelessness.
+
+      PAR-First step: A sample for convenience of homeless people was tested during 3 days in a
+      popular dining room managed by a non-governmental organization. Samples were collected by a
+      DetectAr nurse and a volunteer epidemiologist.
+
+      PAR-Second step: feasibility was determined by the DetectAr coordinators of the Community
+      Health Division of the Ministry of Health and the 12 health community workers (HCWs) when two
+      volunteer epidemiologists from a University Institute explained the field organization
+      (sample technique, data collection and database entry) for obtaining a probabilistic sample
+      of residents. The PAR process was a cornerstone for reaching the sample size.
+
+      PAR-Third step: A cross-sectional study for seroprevalence survey was carried out.
+
+      Sample size and sample method Sample size was calculated for a seroprevalence of 5% according
+      to evidence. A two-stage random sampling method was applied. First level: sector of the slum,
+      Second level: geographical areas determined by the Department of Statistic and Census. Thirty
+      houses were selected at this level. People over 14 years old were tested at the front door of
+      their houses.
+
+      Serological test An enzyme linked immunosorbent assay [ELISA] developed in Argentina, by a
+      laboratory in Buenos Aires, Argentina, was used. Performance characteristics are a high
+      specificity (>95%) and a high sensibility (>95%) for SARS-COV-2 IgG. The test detects
+      antibodies against two viral antigens, trimeric spike and the receptor binding domain (RBD)
+      of the spike. Viral proteins were expressed in human cells. This kit has obtained regulatory
+      approval by Argentina's national drug regulatory agency (ANMAT, National Administration for
+      Drugs, Food and Medical Devices)[. Blood samples were collected in a capillary tube from a
+      finger prick, taken at the front door of each house. All HCWs were trained and
+      epidemiological data was entered in a database. Samples were processed and analyzed at the
+      virology laboratory in a pediatric hospital of Buenos Aires.
+
+      Statistical analysis To obtain the weighted prevalence, sample dataset was expanded to that
+      of the last census by 3 factors: at neighborhood level, at household level and at individual
+      level. The calculation of expansion factors at the household level is the inverse of the
+      joint probability of selecting the last sampling unit (a household). The expansion factors at
+      the household level imply three types of adjustments. The first one is related with
+      non-response (given that some households did not want to answer the survey); the second one
+      corresponds to the projection of sample to the entire population, and the third one to
+      calibration techniques with a final adjustment by groups of age and gender, using external
+      information from population census. Therefore, calibration variables were people 14 year-old
+      or more, grouped by sex and by intervals of age: 14-30; 31-45; 46-59; 60 and more.
+
+      Prevalence of IgG antibodies were adjusted using sampling weights and post-stratification to
+      allow for differences in non-response rates based on age group, sex, and census-tract income.
+
+      As household members share exposure to COVID-19, thus the outcome (prevalence of COVID-19
+      IgG) should show some correlation within the household. To test clustering effect, a random
+      effects logistic regression model (multilevel model) was applied as it includes the variation
+      between clusters explicitly in the likelihood and therefore takes account of intracluster
+      correlation.
+    
+  

@@ -1,0 +1,50 @@
+
+    
+      Radiation therapy is an effective and frequently utilized modality for the treatment of
+      clinically localized prostate cancer. Traditionally, external beam radiation has been
+      delivered in a fractionated manner using daily doses of 1.8-2.0 Gy. This daily dose was
+      derived from early animal experiments and clinical experience, supported by mathematical
+      models of normal tissue and tumor response to fraction size. The most widely used of these
+      models is the linear-quadratic formula, which predicts responses to different fraction sizes
+      based on the alpha/beta ratio of any given tissue.
+
+      One of the main motivations for delivering a treatment at low dose rate or with many
+      fractions is that late-responding normal tissue are generally more sensitive than
+      early-responding tissues (i.e. tumor) to increases in fraction size. So increasing the number
+      of fractions generally spares late-responding tissues more than the tumor. This can be
+      quantified in terms of the alpha/beta ratio:
+
+        -  Small alpha/beta ratio (2-4 Gy), typical of late sequelae, means high sensitivity to
+           fractionation changes.
+
+        -  Large alpha/beta ratio (>8 Gy), typical of tumor control, means low sensitivity to
+           fractionation changes.
+
+      It is generally assumed that the mechanistic basis for the different fractionation response
+      of tumors and late-responding normal tissues relates to the larger proportion of cycling
+      cells in tumors. But prostate tumors contain unusually small fractions of cycling cells.
+      Brenner and Hall as well as Duchesne and Peters have reasoned that prostate tumors might not
+      respond to changes in fractionation in the same way as other cancers; both papers hypothesize
+      that prostate tumors might respond to changes in fractionation or dose rate more like a
+      late-responding normal tissue. , In mathematical terms, the suggestion is that the alpha/beta
+      ratio for prostate cancer might be low, comparable to that for late-responding tissues or
+      even lower. Previous estimates of alpha/beta ratios of normal tissue and tumor tissue have
+      generally been 3 and 10, respectively. Recent evidence has estimated the alpha/beta ratio of
+      prostate cancer to be as low as 1.5. If these hypotheses are true, then the optimal
+      therapeutic ratio for prostate cancer would be achieved using daily doses higher than 2 Gy.
+
+      Several preliminary clinical reports have found reasonable PSA control rates and no increase
+      in late toxicity using doses of 2.5 to 3 Gy. Kupelian from the Mayo Clinic found PSA-free
+      survival rates of 97%, 88%, and 70% in low-, intermediate-, and high-risk patients,
+      respectively. The dose regimen used was 70 Gy in 2.5 Gy daily fractions. Both acute and late
+      toxicity were not higher than seen with typical dose regimens. A group from Christie Hospital
+      reported 82%, 56%, and 39% 5-year biochemical disease free survival rates (low, intermediate,
+      and high risk, respectively) in patients treated with 50 Gy in 16 fractions (3.125 Gy per
+      fraction), with acceptable bowel and bladder toxicity.
+
+      These results, although promising, require further validation. If the hypothesis that
+      prostate cancer alpha/beta ratio is lower than normal tissue is correct, then the optimal
+      fractional dose is likely to be even higher than the doses tested thus far, but if incorrect,
+      the result may be increased normal tissue toxicity.
+    
+  

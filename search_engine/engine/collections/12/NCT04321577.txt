@@ -1,0 +1,16 @@
+
+    
+      -  Sample size: 30 (minimum).
+
+        -  Statistical analysis: populations will be compared with chi-square test or Fisher's
+           exact test (categorical variables) and Student's t test or Mann-Whitney U test
+           (continuous variables). A univariate and multivariate logistic regression analysis will
+           be performed to evaluate the predictive factors of residual disease. The Kaplan-Meier
+           method will be applied for survival analysis and curves will be compared using log-rank
+           test. Univariate and multivariate Cox proportional hazards ratio will be applied to
+           determine the predictive factors of survival. Variables with p values inferior to 0.1 in
+           the univariate analysis will be used to perform the multivariate analysis. Statistical
+           significance is defined when p < 0.5. The statistical program used will be SPSS version
+           23.
+    
+  

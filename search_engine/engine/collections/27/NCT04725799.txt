@@ -1,0 +1,56 @@
+
+    
+      The focus of the proposed work is to determine the most informative variables for meals,
+      exercise, acute stress and sleep (MESS), identify select sensors that report these variables,
+      and develop the algorithms to detect the occurrence of MESS, to discriminate them and to
+      determine their characteristics. Research is needed to identify which wearable devices report
+      the most informative and predictive variables of MESS with desired precision and accuracy,
+      determine the best location to wear them for collecting reliable and informative data, and to
+      distill accurate knowledge from data reported by wearable sensors. Data and their
+      interpretation should be informative for various types of physical activities, stages of
+      sleep, and types and intensities of acute stress, and concurrent occurrence of MESS factors.
+
+      In the first year of the research, the investigators will use several devices to collect data
+      and evaluate their information content and contribution to improvement of serum glucose
+      prediction, best locations for collecting accurate and reliable information, and their
+      acceptance by users. In the second year of the project, we will select a single wearable
+      device, conduct additional clinical and free-living experiments at-home to assess the
+      contributions of the information from the wearable device selected in improving the accuracy
+      of glucose prediction and the performance of the multivariable AP.
+
+      The objectives of the proposed research are to determine the most informative variables and
+      sensor locations to capture reliable and accurate information that complement glucose
+      concentration measurements (CGM) and to develop algorithms to determine the presence of
+      exercise, stress or sleep at any given time for estimating glucose concentrations and making
+      control decisions by a multivariable artificial pancreas system. The proposed research will
+      be conducted by achieving the following specific aims:
+
+      To systematically perturb the MESS factors within standardized experiments in the laboratory
+      and at home for analyzing their effects and interactions on glucose concentrations; to
+      identify the most informative and reliable measurement approaches (i.e. types of wearable
+      sensors and locations on body) for discriminating MESS factors; to develop quantitative
+      relations that identify the type and features of specific MESS activities, to develop
+      algorithms to detect the presence of specific MESS activities, identify them, and predict
+      glucose concentrations with recursive models in real time (for future integration with
+      adaptive AP control systems); and to evaluate the performance of the multivariable models
+      with data from wearable devices and CGM in closed-loop control with AP during exploratory
+      clinical experiments.
+
+      The study will take place over a period of 3-4 weeks for a total of 6 study visits. The
+      subjects will be continuously monitored using CGM (DEXCOM [US G5 PLATINUM]); 3 activity of
+      the following activity monitor(s); (Empatica E4, BiostampRC™, Equivital™ Life Monitor) and
+      Actigraph throughout the night. In addition, the subjects will use a sleep monitor (Zmachine®
+      Insight & Insight+ Model DT-200 and Zephyr Bioharness) throughout the 3-week period. Subjects
+      will come in for a study visit 3 times during the first week during which the investigators
+      will measure the subjects' oxygen capacity and muscular strength during a peak exercise
+      stress test (peak V02) and a test of maximal muscle strength (1-RM), respectively. The
+      results of this testing will establish a baseline from which we can calculate the intensity
+      of submaximal aerobic and resistance exercise bouts. The next 3 study visits will occur over
+      the following 3-4 weeks. During this time the subjects will perform activities that produce
+      physiological and psychological stress alone, in combination or proximal to each other. Women
+      will have a urine pregnancy test before each day of data collection. In addition, the
+      subjects will perform a number of physical activities at home that will be scheduled with the
+      research assistant. The research assistant will telephone the subjects periodically and have
+      the subjects perform stressful activities, such as mental challenges.
+    
+  

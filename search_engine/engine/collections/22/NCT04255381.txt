@@ -1,0 +1,19 @@
+
+    
+      The artificial pancreas platform employed under study is centered about the following four
+      key innovations: 1) A zone model predictive control strategy that is at the same time very
+      safe with respect to hypoglycemia, and can simultaneously and independently be tuned with
+      respect to its response to hyperglycemia; 2) Zone control with diurnal blood-glucose target
+      zones; 3) Models of insulin-glucose physiology and insulin on board; 4) A system for alarming
+      and notification of impending hypoglycemia and technical malfunctions: the Health Monitoring
+      System. These features have been evaluated in several clinical trials in adults with
+      unannounced meals and exercise.
+
+      The proposed study will evaluate enhancements to our previous system tailored for the special
+      needs of pediatric subjects: 1) A control strategy with responses to hyperglycemia and
+      hypoglycemia spanning wide ranges, as is typical with children; 2) The use of time-dependent
+      zones specific for pediatric subjects; 3) The development of models for young children,
+      capturing the greater physiologic variability, and ensuring cautious insulin delivery; 4)
+      remote alarming and notification systems that are useful to parents.
+    
+  

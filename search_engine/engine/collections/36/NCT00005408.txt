@@ -1,0 +1,31 @@
+
+    
+      BACKGROUND:
+
+      The results of these longitudinal analyses yielded new insights on genetic effects affecting
+      CVD risk factors during the aging process.
+
+      DESIGN NARRATIVE:
+
+      The analyses utilized maximum likelihood estimators of genetic variance which were
+      asymptotically more efficient than the method-of-moments estimators used in previous
+      analyses. The models used incorporated terms to partition the variance in a trait from twin
+      data into either i) additive genetic variance and unshared environmental variance (the AE
+      model), ii) additive genetic variance, dominance genetic variance, and unshared environmental
+      variance (the ADE model), or iii) additive genetic variance, shared environmental variance,
+      and unshared environmental variance (the ACE model). The AE, ADE, and ACE models were fitted
+      separately to data from each of the three exams to obtain a cross-sectional analysis. The
+      investigators also extended these models for use with longitudinal data by incorporating
+      terms to represent the covariance of variance components from different exams.
+
+      Two important additional objectives of this study were i) to introduce resistant estimation
+      techniques in twin modeling, which trimmed the effect of outlier data points smoothly, and
+      ii) to carefully study the performance of maximum likelihood and method-of-moments estimators
+      when assumptions of the twin model were violated. The results of these parts of the study
+      should yield a more complete understanding of the relative merits and limitations of twin
+      modeling procedures.
+
+      The study completion date listed in this record was obtained from the "End Date" entered in
+      the Protocol Registration and Results System (PRS) record.
+    
+  

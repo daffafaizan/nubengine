@@ -1,0 +1,176 @@
+
+    
+      1. MIDCAB procedure introduction
+
+             1. Surgery preparation:
+
+                General anesthesia, double lumen tracheal intubation. In the supine position, tilt
+                15° to the right. An automatic defibrillation electrode is attached to the right
+                front and left rear chest wall, and the external defibrillator is connected. A
+                small incision of 8-10 cm into the left anterior lateral 5th intercostal space was
+                performed into the chest.
+
+             2. Internal mammary artery acquisition:
+
+                After entering the chest, the IMA is exposed through a new minimal invasive
+                retraction system. Single or bilateral IMA is obtained as needed. Separate the IMA
+                From the middle segment (non-fat muscle coverage area) applied with an electric
+                scalpel (15J), and the free range was up to the first rib to the fifth or sixth
+                intercostal(IMA bifurcation).
+
+             3. Bypass strategy:
+
+                All procedures were performed under a non-cardiopulmonary situation, and vascular
+                anastomosis was performed with the aid of a laparoscopic cardiac stabilizer. The
+                stabilizer is smaller and does not occupy the operating space. The head of
+                stabilizer can be rotated 360 degrees and the target vessel can be fixed at any
+                angle. Bilateral internal mammary artery, radial artery and saphenous vein can be
+                used as graft vessels. The bypass strategy is not particularly different from
+                conventional bypass surgery, including aorta(AO)-saphenous vein graft (SVG) or
+                radial artery(RA)-X1-X2-...( sequential anastomosis), left internal mammary
+                artery(LIMA)-right internal mammary artery(RIMA) -RA or SVG(Y)-X, RIMA-left
+                anterior descending(LAD), LIMA-RA or RIMA or SVG(I)-X1-X2 and so on.
+
+             4. Vascular anastomosis:
+
+                The target vessel is exposed through the pericardial suture, the heart is locally
+                fixed with the aid of a cardiac stabilizer, and the target vessel is inserted shunt
+                to avoid hemodynamic disorder and arrhythmia. Vascular anastomosis is performed by
+                8-0 polypropylene suture.
+
+             5. Aortic exposure and proximal anastomosis:
+
+                Place gauze behind the aorta, expose the aorta with the right pericardial
+                suspension suture, temporary block aortic anterior wall with a soft-chain sidewall
+                clamp, Punch on the aortic anterior wall with 3.5mm puncher, anastomose SVG or RA
+                on AO with 6-0 polypropylene suture.
+
+             6. postoperative management: Patients go to the cardiac ICU ward postoperatively. The
+                investigators closely observe the electrocardiogram and myocardial enzyme changes,
+                maintain a mean arterial pressure more than 70 mmHg perfusion pressure, and the use
+                of nitrate ester drug to relax coronary, Begin with oral aspirin (100 mg, qd)
+                antiplatelet therapy as soon as tracheal intubation is removed. Complete chest
+                X-ray, cardiac ultrasound and coronary angiography before discharge.
+
+             7. Patient selection Because MIDCAB requires the heart to be exposed through the
+                lateral incision, it is necessary to avoid the difficulty of exposure caused by
+                thoracic deformity, adhesion or obesity; it is not suitable for MIDCAB in patients
+                with extremely low cardiac function and severe heart enlargement; Because of the
+                necessity of single-side ventilation, such as patients with severe pulmonary
+                dysfunction before surgery, should also avoid small incision surgery. See the
+                eligible and exclusion criteria for details.
+
+        2. Baseline matching problem MIDCAB is more rigorous in terms of patient selection, such as
+           weight, EF%, and lung function, thus the study will use a propensity score method to
+           match the baseline of two groups to eliminate the baseline bias.
+
+           Baseline factor： General: gender, age, BMI History and comorbidities：Smoke, Diabetes
+           (diagnostic criteria: oral hypoglycemic agents, insulin therapy, HbA1c greater than
+           7.0%, postprandial blood glucose greater than 11.1mmol/L, fasting plasma glucose greater
+           than 7.0mmol/L), previous stroke(CT showed large area softening lesion) and presence of
+           neurological dysfunction (paralysis, weak muscles, aphasia, paresthesia, and difficulty
+           urinating), Hyperlipidemia (administered or admitted to hospital serum cholesterol
+           greater than 5.17mmol / L or 200mg / dl), high blood pressure (blood pressure greater
+           than 140 / 90 mmHg without medication), renal insufficiency (dialysis or serum
+           creatinine level greater than 140mmol / L ), Peripheral vascular disease (preoperative
+           ultrasound or CT confirmed peripheral vascular stenosis greater than 50%), previous
+           history of cardiac surgery, previous PCI history (balloon dilatation or stent
+           implantation)
+
+           Preoperative status: Classification of angina (stable angina pectoris, unstable angina
+           pectoris, non st-t segment elevation myocardial infarction, st-t segment elevation
+           myocardial infarction), previous myocardial infarction history(pathological Q wave on
+           ECG, abnormal segment motion on lesion area accompany with low EF% or clear and
+           definitely evidence of elevation of creatine kinase(CK-MB) or troponin(cTnI), New York
+           Heart Association(NYHA) heart function classification.
+
+           Preoperative examination:creatinine(Cr), N-terminal pro brain natriuretic
+           peptide(NT-proBNP), total cholesterol(TG) and low density lipoprotein(LDL) level,
+           preoperative cardiac function (EF%, LVEDmm), SYNTAX score (evaluation by cardiologist).
+
+           Preoperative medication (within 1 week): aspirin, clopidogrel
+
+        3. statistical methods The primary endpoint of 12 months MACCE will be analysis by
+           non-inferiority method. The small incision surgery has advantage of little trauma and
+           the aesthetics of the incision. According to the results of previous studies and
+           literature reports, the 1 year graft's patency is assumed to be 96% in the MICS group,
+           96% in the control group, test performance β=90%, in the single-tail test α=0.025,
+           △=0.06, the investigators expected the sample size of each group is required to be 168,
+           and assume drop rate is about 15%, and finally 190-200 cases are needed in each group.
+           In the OPCABG group, considering the propensity score matching efficiency of 0.5, it may
+           be need more cases.
+
+      The other primary endpoints of Physical Component Scale (PCS) will be analysis by superior
+      effect test. The higher the PCS score of SF-36 scale, the better the patient's physiological
+      health. According to previous studies and literature reports, the average PCS score of SF-36
+      scale on the 30th day after CABG was 43 with a standard deviation of 10. The PCS difference
+      of SF-36 scale with the smallest clinical significance reported in literature was 2. Through
+      previous studies, the average PCS score on the 30th day after CABG in MICS group was 50.
+      Assuming that the lower line of 95% confidence interval of PCS score difference between
+      MICS-CABG group and OPCABG group is greater than 2, it is considered that the PCS score of
+      MICS-CABG group is better than OPCABG group, with inspection level α=0.025 (one side) and
+      inspection efficiency 1-β=0.80. The sample size of OPCABG group and MICS group is calculated
+      to be 65 cases, with an estimated miss rate of 20%, and each group needs to include at least
+      82 people.
+
+      Based on the above conclusions, The investigators calculated sample size is 200 cases in each
+      group.
+
+      After establishing the database, the logistic regression model will be established，the
+      dependent variable is surgery procedure（MICS surgery）, the independent variable are baseline
+      factor, and the receiver operating characteristic curve(ROC) will be drawn. The logistic
+      regression model will be used to calculate the prone score(PS) of each subject. The nearest
+      neighbor matching method will be used to select the thoracotomy OPCABG cases in a 1:1 ratio
+      according to the priority matching method.
+
+      According to the basic principles of Intention-to-Treat (ITT), the whole analysis set was
+      used. The analysis of the main indicators will include all randomized subjects, whether or
+      not they will complete the test, the data will be included in the analysis.
+
+      Statistics data include baseline analysis, primary endpoints, secondary endpoints,
+      observations, and compliance indicators. Measurement data that conformed to the normal
+      distribution will be statistically described using mean ± standard deviation (χ ± S，using t
+      test). Non-normally distributed measurement data will be statistically described using median
+      and quartiles (using variance or nonparametric tests). The grade data will be tested using
+      rank sum test. The count data will be statistically described as a percentage, and two or
+      more independent sample rates will be compared using a chi-square test. Fisher's exact
+      probability analysis will be used for indicators with low index positives (expected value
+      <5). Survival-related data will be applied by proportional hazards model(COX) regression and
+      survival curve risk.
+
+      Describe the missing value processing method: The estimation of the missing value of the main
+      indicator is carried forward using the closest observation when selecting the full analysis
+      set for statistical analysis,
+
+      5、 Ethics and safety Ethics: This research has been reviewed and filed by the Ethics
+      Committee of the Third Hospital of Peking University. Informed consent will be signed before
+      each participating patient was enrolled Safety: Through pre-research, MICS is a safe and
+      effective new surgical procedure. At present, the investigators have completed more than 200
+      MICS operations. Only 2 of these patients died, and the postoperative complications and
+      mid-term follow-up results were counted. The rate of graft patency and complications is not
+      inferior to thoracotomy OPCABG surgery.
+
+      6、 Quality control Access system: MICS surgery is limited by the operation space. Although
+      the multiple minimal invasive bypass surgery can be achieved routinely at present in our
+      center, this surgery requires high skill and long learning curve. The cardiac surgery will
+      strictly implement the surgeon's access qualification and have regular bypass surgery 300.
+      For example, in the case of a small incision, only 50 patients with more than one bypass
+      surgery, after a discussion within the department and approved by the core group, can perform
+      small incision multi-bridge surgery.
+
+      Safeguard plan: For each case of small incision surgery, the patient's clinical data will be
+      evaluate preoperative in our center by more than 3 senior surgeons. The surgical plan is
+      strictly according to the standard of admission; Femoral arteriovenous will be routinely
+      prepared for emergency cardiopulmonary bypass(CPB) and intraaortic balloon pumping(IABP)
+      implantation. Transformation to thoracotomy surgery will be carried out if hemorrhage,
+      uncontrollable hemodynamic disorder and malignant arrhythmia occured.
+
+      Termination of research criteria:
+
+      To ensure the safety of all candidates, a quality and safety management team will be
+      established to monitor the complications and major safety indicators of the MICS group. The
+      data were collected monthly to monitor serious complications (death, MACCE, unplanned
+      revascularization, reoperation etc.) Our research will be terminated when any of the serious
+      complications happen more than 5 cases .
+    
+  

@@ -1,0 +1,17 @@
+
+    
+      Cancer patients who undergo thoracic irradiation receive a certain amount of dose to the
+      heart. Cardiotoxicity may occur in some patients several years after radiotherapy due to the
+      late effect of radiation. Considering that cardiotoxicity is often lethal, screening and
+      preventing radiation-induced cardiotoxicity is crucial in patients receiving thoracic
+      irradiation.
+
+      Patients in this cohort will undergo cardiac evaluation before and after thoracic
+      irradiation. The dose-volume parameters for each cardiac substructures will be estimated
+      using artificial intelligence-based auto-segmentation of the heart in CT images. Dose-volume
+      parameters that predict cardiotoxicity will be analyzed. Among the patients who developed
+      cardiotoxicity, blood sampling will be performed to establish cardiomyocytes derived from
+      induced pluripotent stem cells, which will be used for identifying the mechanisms of
+      radiation-induced cardiotoxicity and therapeutic targets.
+    
+  

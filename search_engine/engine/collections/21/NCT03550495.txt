@@ -1,0 +1,54 @@
+
+    
+      This is a prospective, single institution, controlled pilot study of adult patients admitted
+      to the surgical ICU. A sample size of 104 (52 per group) is targeted. Patients in the control
+      group will undergo usual care which includes ABCDEF bundle (Appendix 1) use, including daily
+      delirium screening using the CAM-ICU score (Appendix 2), but will not have routine
+      psychiatric involvement. Patients in the intervention group will also have ABCDEF bundle
+      performed, and additionally have psychiatry routinely participating in ICU rounds. A member
+      of the psychiatry team (attending, resident, or fellow) will round with the surgical ICU team
+      in the surgical ICU daily. On a daily basis, the ICU attending will review the list of the
+      ICU patients with the psychiatry team to determine if there are any changes to the patient's
+      management required.
+
+      Inclusion criteria are: 1. any patient >18 years of age admitted to the surgical ICU for >48
+      hours; 2. Patients admitted to the ICU <24 hours who have been in the hospital >48 hours; 3.
+      Patients who return to the ICU after being discharged from the ICU to the floor due a
+      complication or need for higher acuity care. Exclusion criteria are: 1. Patients in whom
+      CAM-ICU cannot be performed (severe dementia, stroke or other neurological condition,
+      encephalopathy, mental retardation, severe psychiatric disorder, vegetative state, severe
+      traumatic brain injury, deaf/blind, etc.); 2. Vulnerable patient populations (i.e. transplant
+      recipients); 3. Patients who don't speak or understand English; 4. Current alcohol or
+      substance abuse. Patients will be screened for eligibility on rounds daily. Study personnel
+      will obtain informed written consent from patients or their families.
+
+      A psychiatry attending, psychiatry resident, or psychiatry nurse practitioner will round with
+      the surgical ICU team on 7W daily until the target subject enrollment # of 52 is achieved. On
+      a daily basis, the ICU attending will review the list of the ICU patients with the psychiatry
+      team to determine if there are any changes to the patient's management required. The ABCDEF
+      bundle will be implemented on daily rounds, which includes daily screening for delirium using
+      the CAM-ICU scale.
+
+      Data which will be collected includes: age, gender, body mass index, history or alcohol or
+      substance abuse, admitting diagnosis, dementia, comorbid conditions, admitting SOFA score,
+      deliriogenic medications used during study enrollment, the interventions/medications used to
+      treat delirium as designated by psychiatry (in intervention group) and the ICU team (control
+      group), and the number of days from admission to study enrollment. Data on the incidence of
+      ICU delirium, duration of delirium/mechanical ventilation, in-house mortality, ICU and total
+      hospital length of stay will also be collected.
+
+      Descriptive statistics, including Student's t-test or Mann-Whitney U-test, for continuous
+      variables and χ2 or Fisher's exact test, for categorical variables, will be used to summarize
+      the data and compare characteristics between the 2 groups. The incidence of delirium will be
+      compared using χ2 test and multivariable logistic regression. Differences in the duration of
+      delirium and MV between the intervention and control groups will be analyzed by analysis of
+      variance (ANOVA). The length of stay will be compared by truncated negative binomial
+      regression, while mortality rates will be compared via logistic regression. A sensitivity
+      analysis will be performed in order to assess the possible confounding effect of the
+      non-randomized nature of our study design. A propensity score model for receipt of standard
+      care vs. psychiatric involvement will be performed in order to approximate a balanced
+      covariate distribution between the 2 groups as that would be expected by randomization. The
+      investigators will then use the propensity score for each subject to perform an inverse
+      probability weighted comparison of the groups on our trial outcomes.
+    
+  

@@ -1,0 +1,119 @@
+
+    
+      BACKGROUND: High walking levels reduce myocardial infarction, stroke, and mortality rates in
+      overweight/obese patients with diabetes and/or hypertension, but our own work, led by
+      Nominated Principal Applicant K. Dasgupta, indicates low daily step counts in these patients,
+      at approximately 5,000 steps/day on average with a further 15% reduction during fall and
+      winter. A meta-analysis of physical activity programs indicates that pedometer-based
+      monitoring programs can lead to higher daily step counts, but evidence for impact on arterial
+      health is limited, as is evidence for the effectiveness of a pedometer-based strategy
+      specifically implemented into the usual clinical care of patients with diabetes and/or
+      hypertension. The SMARTER trial will address these knowledge gaps.
+
+      PRIMARY RESEARCH QUESTION: Among sedentary overweight/obese adults with diabetes and/or
+      hypertension do physician-delivered step count prescriptions integrated into usual care
+      reduce arterial stiffness more than usual care alone, over a one-year period? Arterial
+      stiffness (primary outcome), a summative indicator of arterial health, is more precise and
+      reliable than individual risk factors. An analysis of the Framingham Heart Study demonstrated
+      that, even after adjustment for traditional risk factors, increased arterial stiffness was
+      independently associated with a 48% increase in vascular disease risk. Co-Principal Applicant
+      S. Daskalopoulou is an expert in the noninvasive assessment of arterial stiffness and has a
+      well-equipped Vascular Lab funded through a CFI grant.
+
+      STUDY DESIGN: Randomized, allocation concealed, single-blind (outcome assessors),
+      intervention allocation ratio 1:1, multisite clinical trial. This design will allow for the
+      level A evidence necessary to justify widespread change in clinical practice.
+
+      TRIAL SYNOPSIS: Given that the majority of diabetes and hypertension patients are managed in
+      primary care settings, the SMARTER trial interventions will be delivered through the large
+      network of primary care clinics accessible to Co-Principal Applicant E. Rosenberg as well as
+      diabetes and internal medicine clinics throughout Montreal where patients may receive their
+      primary diabetes and hypertension follow-up. Twenty-four collaborating physicians have been
+      identified. Physicians/clinic staff will obtain assent from candidates within their practice
+      for contact by the SMARTER coordinator. The number of collaborating physicians continues to
+      be increased, including physicians at primary care, diabetes, hypertension, internal
+      medicine, and endocrinology clinics. Eligibility: Candidates will be adults with 25≤BMI<40
+      kg/m2 followed for diabetes and/or hypertension and sedentary to somewhat active.
+      Evaluations: Formal trial evaluations, conducted at baseline and 12 months, will include
+      assessments of arterial stiffness (carotid femoral pulse wave velocity measured noninvasively
+      with applanation tonometry); step counts (pedometer with concealed window) and physical
+      activity (accelerometer) worn for one week; fitness (exercise stress test; ˙VO2max);
+      anthropometric parameters; and individual vascular risk factors. Intervention arm: The
+      physician gives the active trial participants a pedometer, log book, and a step count
+      prescription based on the baseline daily step count. The time frame for a > 3,000 steps/day
+      net increase is 10 months for sedentary participants (<5,000 steps/day), 7 months for low
+      active participants (5,000-7,499 steps/day), and 5 months for somewhat active participants
+      (7,500-9,999 steps/day). There will be four clinic visits over one year. Control arm: Same
+      visit frequency with advice to engage in 30-60 minutes of activity on most days of the week.
+      Sample Size: Allowing for a loss to follow-up of up to 17% based on our previous studies,
+      investigators will require a sample size of 364 individuals (i.e. 182 per arm) to detect a
+      10% difference in change in arterial stiffness between our active and control arms to an
+      accuracy of +/- 5% over a one-year period. Analysis: Intention-to-treat. Between-arm
+      differences in 'after minus before changes' with 95% CIs for main analysis.
+
+      Addedum to stress testing: Due to timeline limitations, we were obliged to forego stress
+      testing assessments as of October 20, 2014. This does not impact our primary outcome.
+      Moreover, stress testing is not required when engaging in a walking program in type 2
+      diabetes. We will be able to assess impacts of the intervention on fitness (secondary
+      outcome) in a subgroup of patients (i.e., those who completed assessments before October 20,
+      2014).
+
+      IMPORTANCE: With increasing numbers of diabetes and hypertension patients, there is a
+      pressing need for effective and efficient clinical practice strategies to help physicians
+      support their patients to achieve the arterial health benefits of higher physical activity
+      levels. The SMARTER trial seeks to provide such a tool. If effectiveness is demonstrated, all
+      efforts will be made for the inclusion of our approach in Clinical Practice Guidelines for
+      diabetes and hypertension, and investigators will develop training tools (manuals, websites,
+      CD-ROMs) to allow maximal uptake of our proposed strategy.
+
+      AN OBSERVATIONAL SUBSTUDY: Novel Real-Time Measurement of Physical Activity Patterns in Type
+      2 Diabetes and Hypertension Through GPS Monitoring and Accelerometry
+
+      In addition to the main clinical trial, we are conducting additional measurements among
+      consenting type 2 diabetes patients in order to examine the effects of the walkability of
+      their home neighbourhood on their baseline step count and time at different physical activity
+      intensities (accelerometer measurement already being performed through SMARTER). The
+      additional measurements include wearing a Geographical Positioning Systems (GPS) device for
+      the 7-day period that they wear the pedometer with concealed viewing window and
+      accelerometer. The GPS device collects time-stamped location information such that X,Y
+      coordinates are collected. These are used to determine the times that they are within or
+      outside neighbourhood buffer zones.
+
+      For the assessment of neighbourhood walkability,the parameters assessed include population
+      density, pedestrian-friendly design and diversity of destinations - commonly referred to in
+      the urban planning literature as the 3D's. The variables that best capture density, design,
+      and diversity include residential density, street connectivity and land use mix. Residential
+      density is defined as the number of residences per square kilometre of residential land area.
+      Street connectivity is defined as the number of ≥3-way intersections per square kilometre in
+      neighbourhood, where a greater number of intersections facilitates movement between origins
+      (e.g., residences) and destinations (e.g., shops and parks).Land-use mix is a measure of the
+      number of different land uses located within a neighbourhood.Land use mix is assessed via an
+      entropy score - a value between zero and one that captures the degree of heterogeneity of
+      land uses in a neighbourhood. A subcomponent of land use mix that may be a particularly
+      important for encouraging individuals to walk within their neighbourhood and that is easily
+      incorporated into the design of new neighbourhoods is greenspace/recreational land area.
+
+      We are using Geographical Information System (GIS) mapping (computer-based assessment of
+      neighbourhood characteristics derived from existing data sources that have some spatially
+      referenced identification, such as a home address) to measure these facets of neighbourhood
+      walkability.In brief, each of the variables will be derived by geocoding participants
+      six-digit home postal codes, constructing 1-kilometre polygonal buffers zones around each
+      participants home address (i.e., a geographical zone around the centroid of the postal code
+      area) and calculating the measures of interest for each neighbourhood using tools within a
+      GIS software package (ArcGIS) and publically available shape files.
+
+      Means and standard deviations will be used to describe the number of steps per day occurring
+      specifically in home neighbourhoods (i.e., as determined through GPS) and overall. Multiple
+      linear regression analyses will be used to assess the relationship between 1) home
+      neighbourhood environments and the number of steps taken per day in the home neighbourhood
+      and 2) home neighbourhood environments and the number of steps taken per day taken in any
+      location. These analyses will be repeated with time at moderate to vigorous activity in lieu
+      of steps as the outcome variable. Several variables measured through SMARTER will be
+      considered for exclusion in models (e.g., age, sex, educational level, BMI).
+
+      This observational substudy is partly funded by an operating grant from the Heart and Stroke
+      Foundation (Quebec) awarded to K. Dasgupta (Principal Investigator) and Nancy Ross
+      (Co-Principal Investigator on substudy) and is being led by Samantha Hajna, their doctoral
+      candidate student.
+    
+  

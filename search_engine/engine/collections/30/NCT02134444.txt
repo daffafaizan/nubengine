@@ -1,0 +1,130 @@
+
+    
+      Protocol
+
+      Design & Methodology:
+
+      This study will adopt a randomized clinical trial design. Recruitment and screening
+      (including diagnostics) will be coordinated by co-applicant, Dr. Jordon Hochman, department
+      of Otolaryngology, Karen Reimer, and Andrea Giacobbo,; Physical Therapists.
+
+      Inclusion criteria:
+
+      Consist of (a) age 18 to 65 , (b) diagnosed with unilateral peripheral vestibular hypo
+      function based on a detailed neuro-otological and neuro-orthoptic analysis to include
+      binocular electro-oculography with caloric testing, and (c) have a home computer running
+      Windows or Mac OS.
+
+      Exclusion criteria:
+
+      Consist of those with CNS disorders for example CVA, Multiple Sclerosis, epilepsy, migraines,
+      concussion recent fractures of the lower extremities or vertebra, advanced hip/knee OA , and
+      cardiac disease. Participants will be randomly assigned to either the Control group (active
+      comparator) or Experimental group (therapeutic gaming). Participants will be blinded to the
+      treatment. The treating therapist will know who is receiving the home or out-patient clinical
+      program.
+
+      Control group will receive; (a) Herdman gaze stabilization exercises, (b) optokinetic
+      exercises, and (c) balance exercises using sponge pads. These exercises are presently a
+      standard of vestibular care. Participants will attend an out-patient physical therapy clinic
+      once a week for 8-10 weeks. The program also includes a 20 minute home exercise program
+      prescribed four times per week.
+
+      Experimental group: Will receive the game-based rehabilitation program delivered at home. The
+      program for gaze will include provision of the motion mouse (Gyration). This approach
+      provides a highly flexible treatment tool applied to train gaze control, and allows
+      incorporation of graded balance demands. The use of this HID compliant computer input device
+      allows many different therapeutic exercises to be coupled to a wide range of inexpensive
+      commercial computer games. Though initially designed for clinical use, with the easy to use
+      and inexpensive motion sense mouse and computer games this intervention approach can be
+      extended to home settings. Many therapeutic exercises and activities (singly or in
+      combination) can be used to practice a variety of gaze and balance skills, and, importantly,
+      while playing fun computer games.
+
+      Participants will attend three clinical sessions during which time the home therapy programs
+      will be established and training in the use of the computer, motion mouse and games will be
+      provided. Based on clinical experience and pilot data, three sessions is sufficient before
+      initiating the home program.16 The treating physiotherapist will attend the participant's
+      home to ensure proper set-up and operation of the TRP equipment and computer applications.
+      Participants will be asked to perform their respective home programs four times per week for
+      20 minutes per session. They will receive a phone call at one week to assess their ability to
+      manage their home program. Thereafter participants will attend for clinical follow-up once
+      per month.
+
+      Recording and Data Analysis The following information will be collected at baseline prior to
+      start of the interventions; age, gender, work history, occupation and (history of
+      disease/injury process, and current medications. Assessor will be blinded to participant
+      assignments.
+
+      Primary Outcome Measures:
+
+        1. Clinical Test of Sensory Interaction in Balance (CTSIB); performance-based measure of
+           balance under altered sensory conditions).
+
+        2. Dizziness Handicap Inventory (DHI), is a self-rating questionnaire based on 25 questions
+           used to quantify a client's perception of his or her dizziness and its impact on their
+           life.
+
+      Secondary outcome measures:
+
+        1. Computerized Visual tracking test (CVT), involves tracking a bright visual target moving
+           horizontally left and right on a computer display in a sinusoidal fashion for several
+           cycles, and at predetermined speeds. The application records (80 Hz) coordinates of both
+           reference and head cursors. Coefficient of determination (COD) will be computed based on
+           total and average residual difference between trajectories of the reference and head
+           cursor motions. A value approaching one equates to excellent gaze performance. This test
+           will be performed in standing and while walking on a treadmill at 0.9 m/s.
+
+        2. Participants in the experimental group will be given the visual tracking game
+           application for home use. The game software automatically logs reference and head cursor
+           coordinates (gaze performance) during the visual tracking task and saves the data to a
+           coded and time stamped computer file (anatomized). Participants will be asked to play
+           the tracking task (in standing at the beginning of every training session. This will
+           involve three short tests of 45 seconds at three tracking speeds. The application
+           automatically saves the logged data file, and the clients can either e-mail the files to
+           the investigator, or save on a flash drive provided and return at a follow-up visit.
+
+        3. Spatiotemporal gait variables and walking stability measures. This is included to
+           examine whether the exercise program transfers to walking. A treadmill instrumented with
+           a pressure mat (Vista Medical, CA) will be used to record vertical foot forces for each
+           step during walking trials of 1 minute at 0.9 m/s, and thus data for 40 consecutive
+           steps.
+
+        4. Participants will be ask to complete a log of dates and duration of each exercise
+           session, and submit either a paper version or by e-mail.
+
+      Statistical Analysis & Power Assessment: Descriptive statistics, including means, standard
+      deviations, frequencies, and percentages, will be used to describe the experimental and
+      control groups on the baseline demographic variables. Differences between the groups on the
+      outcomes will be tested using t-tests and tests of independence.
+
+      To achieve Objective 1, we will test the difference between experimental and control groups
+      on continuous and normally distributed outcome measures using analysis of covariance, with
+      the dependent variable being the post-intervention measurement of the outcome, the covariate
+      being the pre-intervention measurement, and group membership as the between-subjects effect.
+      Descriptive statistics, including measures of skewness and kurtosis, will be used to assess
+      departures from the assumptions of a normal distribution of responses. If the distribution
+      contains extreme observations, a robust ANCOVA statistic will be adopted. To test differences
+      between experimental and control groups on discrete outcomes, such as counts of number of
+      times participants feel dizzy during their daily activities, we will use a Poisson regression
+      model, with the dependent variable being a count of the number of relevant events, the
+      covariate being the pre-intervention measurement, and group membership as the
+      between-subjects effect.
+
+      To analyze the longitudinal data associated with Objective 2, we will use a mixed-effects
+      regression model with time as the random effect and group as the fixed effect. This model
+      will be adopted because it accounts for clustering of repeated measurements within study
+      participants and uses all available longitudinal data (i.e., it does not result in case-wise
+      deletion of study participants due to missing observations.
+
+      Based on pilot data for the primary outcome (i.e., CTSIB), we conducted a power analysis of
+      the required sample size to test the difference between the experimental and controls groups
+      at the post-intervention measurement occasion (i.e., objective 1). The pilot data showed a
+      standardized effect size of 0.80. Assuming the number of model covariates to be 3, the
+      proportion of variance explained by these covariates to be 10%, and a two-tailed test of the
+      null hypothesis of no group difference at p = .05, a sample size of 46 is required. We expect
+      an attrition rate of 20% over the study observation period for objective 2. Given this, we
+      propose to recruit a sample of N = 56 individuals to participate, with equal numbers to be
+      recruited to the treatment and control groups.
+    
+  

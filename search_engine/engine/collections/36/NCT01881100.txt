@@ -1,0 +1,29 @@
+
+    
+      -  To determine the number of patients, sample size was based on data from studies
+           assessing fluoride varnish efficacy in children with deciduous teeth (progression of
+           caries reduction by 33 %)(95% CI, from 19 to 48%, P<0.0001); (α = 0.05; power = 80%;
+           chi-square test2). The calculated sample size was 60 children and 120 white spot
+           lesions. The initially planned number of participants was increased by expected 20%
+           drop-out after 1 year, at least 72 children; the minimal number of treated active caries
+           lesions amounted to 144.
+
+        -  Participants were allocated to the "test" and to the "control" group, respectively, by
+           computer-generated randomly permuted blocks using package blockrand in R statistical
+           software, sealed in envelopes.
+
+        -  The children were re-examined clinically by the same 2 examiners as at baseline
+           evaluation.
+
+        -  Statistical analyses were performed using statistical software STATISTICA 10 (StatSoft),
+           the level of significance was set at 0.05. Intra-examiner reliability was assessed by
+           kappa statistics.
+
+        -  To compare average values between two independent groups U Mann-Whitney test was used
+           (for e.g. to compare experimental group with the control one); Wilcoxon signed-rank test
+           was used for paired samples (for e.g. to compare first measurement with final
+           measurement for experimental group). Comparison of fractions was conducted using
+           Pearson's chi-square test of independence and Z test. The 95% confidence intervals were
+           calculated on the basis of normal approximation.
+    
+  

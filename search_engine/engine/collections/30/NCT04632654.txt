@@ -1,0 +1,32 @@
+
+    
+      Among head and neck cancer (HNC) patients, 92% report fatigue and 73% have pain. A 10%
+      increase in fatigue or pain is associated with a 10-25% reduction in HNC survival. During the
+      critical transition period from the end of active treatment to 6 months post-treatment,
+      untreated physical symptoms negatively impact functional status (ADL) and quality of life
+      (QOL). Fatigue and musculoskeletal pain are known to improve in response to physical activity
+      (PA). However, 51% of HNC survivors rarely engage in any type of PA because of complicated PA
+      barriers. Our overall objective is to test an intervention to overcome these PA barriers for
+      HNC patients during the critical transition period to self-management. PAfitME, a
+      personalized Physical Activity intervention with fitness graded Motion Exergames, is a
+      telehealth program built on Social Cognitive Theory and the exercise principle of adaptation.
+      PAfitME, delivered via a tested mix of FaceTime calls and home visits, uses commercially
+      available exergaming platforms (Wii Fit and Xbox Kinect). We propose the following specific
+      aims: (1) When compared to an attention control group, determine the effect of PAfitME on
+      fatigue and musculoskeletal pain at week 6, when controlling for age and sex; (2) when
+      compared to an attention control group, determine the effect of PAfitME on functional status
+      and QOL at week 6, when controlling for age and sex; and (3) explore if PA self-efficacy, PA
+      enjoyment, and exergame minutes mediate the effect of PAfitME on fatigue and musculoskeletal
+      pain. This study will evaluate 150 post-treatment (radiation, chemotherapy, or
+      chemoradiation) HNC patients in an RCT with an attention control. For 6 weeks, the
+      experimental (PAfitME) group will receive the PAfitME intervention, and the attention control
+      group will receive NCI-based survivorship education and exergame equipment. For Aims 1 and 2,
+      using an intention-to-treat framework, we will fit a series of linear mixed-effects models
+      with each of the outcome variables. For Aim 3, we will conduct our exploratory analyses in
+      ml_mediation (STATA 15), which will compute direct and indirect effects for multi-level data.
+      This study aligns with the NCI Cancer Moonshot goal to minimize cancer treatment-associated
+      side effects and the key recommendation in the National Comprehensive Cancer Network Clinical
+      Guidelines of the need for evidence-based non- pharmacological fatigue/pain treatments
+      (National Priority).
+    
+  

@@ -1,0 +1,59 @@
+
+    
+      The first part of this study will collect buccal view of intraoral photo and clinical gum
+      indices from 300 patients visiting Prince Philip Dental Hospital (PPDH). These intraoral
+      photo will be taken by patients using smartphone (iphone) mounted with apparatus (Scanbox) in
+      a standardized way and the quality supervised by clinical staff. Clinical gum indices will be
+      taken by a trained and calibrated clinical staff. Alternatively clinical photo may be
+      assessed by an experienced clinician to locate the inflamed/health gum. This synthesized data
+      set imported into neural network to learn the image characteristics of inflamed and health
+      gum and train the computer.
+
+      The second part of this study will recruit 150 patients with gingivitis and longitudinally
+      follow up their gum condition pre- and post- gum treatment in PPDH using standardized
+      intraoral photo and clinical gum indices. The clinical gum indices are the gold standard
+      reflecting the changes in the gum condition.
+
+      All photos collected would be analyzed by computer (software: MatLab) to identify key
+      features that help with screening and monitoring of gum condition. Data would then be
+      collected for building a program that quantifies the identified features which may include
+      the following:
+
+        1. Color of marginal gum tissues
+
+        2. Texture of marginal gum tissues
+
+        3. Volume of marginal gum tissues, with reference to the clinical gum indices.
+
+      Data and sample size analysis: The computer will be trained with the photo and clinical
+      indices/assessment obtained in the part I of this study. The trained computer will then use
+      to monitor changes of periodontal condition of patients in part II of this study based on
+      photo only. The sensitivity (detect true disease), specificity (detect true health) and the
+      area under these curves (with reference to the gold standard clinical gum indices) will be
+      calculated and are the main outcome of this study. The training of computer is a continuous
+      process and the endpoint comes when the sensitivity, specificity and the area under these
+      curves (AUC) reach plateau (saturation). Therefore, the training of computer will be staged
+      into three phrases with 100, 200 and 300 of cases in the part I of this study and observe the
+      changes in the sensitivity, specificity and AUC.
+
+      Patient reported outcome on the use of smartphone selfie would be recorded in visual analogue
+      scale (VAS) as secondary outcome.
+
+      Sample size determination: Each tooth represents one unit and assume each subject has 20
+      teeth, there will be more than 300 subjects X 20 teeth =6000 units for training. For the part
+      2 study, 150 subjects will be recruited and 130X20=2600 units for testing of the computer.
+
+      All new patients attending Prince Philip Dental Hospital will be screen for gum inflammation
+      and periodontal diseases by clinical examination.
+
+      Basic periodontal examination (BPE, including visual examination and mechanical probing of
+      gum) will be performed for all of them and assign to the undergraduate students for patient
+      care according to the severity.
+
+      Computer record can retrieve patients with gum inflammation (BPE score 2). Data handling All
+      data will be kept reviewed by unblended member (YHL) to check the quality. Only the data that
+      related to the study outcomes will be disclosed. All the data will be kept for another two
+      years since the study finishes. After that, the data will be destroyed completely. Primary
+      investigator will have access to the personal data during and after the study.
+    
+  

@@ -1,0 +1,15 @@
+
+    
+      Finding the localized retinal nerve fiber layer (RNFL) defect and measuring the RNFL
+      thickness are two main issues for early glaucoma detection. A recently developed imaging
+      device, the Cirrus HD OCT, offers more detailed informations about retina architecture
+      including optic nerve head. To calculate the RNFL thickness, the software of the Cirrus HD
+      OCT supposes an ideal optic nerve head. However, in the cases with not ideal optic disc
+      configuration, the measurement of the RNFL thickness is not correct. Because the measurement
+      of the RNFL thickness is extremely sensitive to the position of measurement, patients with
+      the tilted disc are in danger of misdiagnosis. In the present study, we want to correct the
+      RNFL thickness measurement according to the optic nerve head configuration using the Cirrus
+      HD OCT. If the corrected RNFL thickness is more sensitive to detect the localized RNFL
+      defect, the present software should be upgrade to reflect the optic nerve head configuration.
+    
+  

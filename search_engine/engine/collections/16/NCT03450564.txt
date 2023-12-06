@@ -1,0 +1,78 @@
+
+    
+      The study hypothesized that doing on women education and men education/involvement in family
+      planning utilization would be a practical way to achieve for an increment of family planning
+      utilization in Pastoralist community of Afar region. The study was carried out in Afar
+      region, North Eastern Ethiopia from Jan1, 2018, to September 5, 2018. A three-arm, parallel
+      randomized controlled trial was used to answer the objective of the study. The type of
+      randomization will be a cluster randomized controlled trial where kebele are randomized to
+      two different interventions and one control groups together. These interventions are women
+      education to use family planning and male education/involvement to enhance family planning
+      use in the community.
+
+      The unit of randomization was clustered which are kebeles in a different districts. From a
+      given district 11 Kebele were selected randomly gives a total of 33 kebele. The 33 cluster
+      were allocated to the 2 interventions and one control arms. The detail description of the two
+      interventions and one control arm is described below.
+
+        -  Arm 1): existing standard family planning service provision by the government health
+           sectors.
+
+        -  Arm 2): It focuses on the involvement of men to enhance the utilization of family
+           planning by their wives and educating the women in the male intervention area.
+
+        -  Arm 3): It deals with educating married women to use family planning.
+
+      Data collection tool, procedures, and follow-up We develop the quantitative tool based on the
+      previous finding in the region. It contains baseline and end line data collection with a
+      nine-month duration. The tool was piloted on 10% (118) of the sample and it was tested for
+      reliability and validity test for items of of knowledge, attitude, subjective norm, perceived
+      behavioral control over FP use, intention to use for FP and male involvement. Accordingly,
+      modification was made based on the finding of reliability and validity test. A tool which has
+      a All items were subjected to exploratory factor analysis to identify the relevant
+      constructs. Items with low load factor (less than 0.3) to the identified constructs were
+      deleted. Then the reliability test was done to assess the consistency of items in each
+      construct (Cronbach's Alpha > 0.7). At the end, a final tool was prepared based on the
+      finding of the reliability and validity test. Then, it was pretested in 5% (45) of the
+      sample. 6 clinical nurse data collectors and 2 supervisors were used to collect the data
+      after they got training on the items and how to use mobile based application. They were
+      assigned to a different cluster of a given district. The data was collected using mobile
+      based application called open data kit (ODK) for a one month. A similar procedure was used in
+      the end line data collection. Immediately after the data checked for its completeness, it was
+      sent to the Mekelle University (MU) Server. Hence, at the middle of the intervention,
+      qualitative data was collected to identify the participants acceptability and documenting
+      best experience of the intervention.
+
+      Intervention description:
+
+      The community-based intervention in this study includes two components. These are educating
+      women to use family planning and male involvement for use of family planning.
+
+      Analysis plan and statistics methods The type of data used in the intervention study was a
+      repeated cross-sectional. The data collected using ODK, was exported to R software version
+      3.4.2 for analysis.Intention to treat analysis was used as a framework of analysis. All the
+      analysis was used with 95% confidence interval and p-value <0.05 to declared statistically
+      significant. Since the number of clusters per arm was 11, a cluster level summary was used to
+      compare the control group with the intervention (women education and male involvement). A
+      separate cluster level summaries analysis was done for control Vs the women arm and control
+      with the male arm by considering the effect of cluster. Finally, the result was described
+      with t-test, df, P-value, mean value of both group and 95% CI of the adjusted risk. Moreover,
+      prevalence ratio of the end line FP user over the baseline FP was done.
+
+      Ethical consideration Permission to undertake the study was obtained from Mekelle University
+      College of Health Sciences institutional review board with a reference number ERC 1435/2018.
+      And an official letter of cooperation was given to Afar Regional Health Bureau. Permission
+      was obtained from all relevant authorities in the Afar regional health bureau and
+      participating district health offices (Afambo, Kori and Mille). At the beginning community
+      consent was secured from the influential group (religious and clan leader). Verbal consent
+      was secured before conducting interviews and parental/guardian consent was waived to include
+      the minors to the study by the ethical board. The informed consent was secured continuously
+      every three months. A one-page consent letter was attached to the cover page of each
+      questionnaire as an information sheet which includes a detail description about the benefit
+      and risk of participating in the study, participation is on voluntary basis, the right to
+      withdraw from the study, identification of informant was possible only through specific
+      identification numbers and the privacy of collected information. Data collection was
+      conducted through electronically smartphone mobile based application (ODK) and it was
+      confidentially.
+    
+  

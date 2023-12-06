@@ -1,0 +1,157 @@
+
+    
+      Recovery of upper limb movement after stroke is incomplete. Stroke is a leading cause of
+      long-term sensorimotor disability including persistent deficits in upper limb (UL) function.
+      Understanding how to improve UL recovery is a major scientific, clinical and patient
+      priority. Yet, despite numerous studies attempting to identify the most effective
+      rehabilitation interventions based on established principles of motor learning and neural
+      plasticity, post-stroke UL recovery remains incomplete. Indeed, even with therapy, UL
+      sensorimotor deficits persist in a large proportion (up to 62%) of stroke survivors for >6
+      months leading to a high socio-economic burden.
+
+      MOTOR CONTROL DISORDERS: A consequence of the underlying control deficit after stroke is
+      hemiparesis, characterized by a diminished capacity to recruit agonist muscles,
+      unwanted/inappropriate muscle activation (i.e., spasticity, agonist and antagonist muscle
+      co-contraction), abnormal muscle activation timing, weakness and muscle fiber property
+      changes. This leads to deficits in the ability to isolate joint movement and appropriately
+      combine different joints to accomplish task-related functions. We have accumulated
+      substantial evidence suggesting that movement deficits and spasticity are associated with a
+      common control deficit in the specification and regulation of spatia thresholds (ST) of the
+      stretch reflex and other proprioceptive reflexes. STs are expressed in the spatial (angular)
+      rather than the temporal (latency) domain. ST regulation is a well-established mechanism of
+      control of stretch reflexes in animals and reflexes and movements in humans.
+
+      ST DEFINITION AND ACTION MECHANISMS: Spatial threshold (ST) is the joint angle at which
+      muscles begin to be recruited and postural reflexes and other reflexes begin to act. By
+      shifting ST, the brain resets posture-stabilizing mechanisms to a new limb or body position.
+      These mechanisms combine to regulate STs in multi-muscle systems according to body
+      configuration and task demands. Stroke results in deficits in ST regulation. Central nervous
+      system (CNS) injuries affecting descending and spinal mechanisms and intrinsic lead to
+      limitations in ST regulation. As a result, passive or active movements past the angular
+      threshold, ST (spasticity range), elicit abnormal reflex muscle activation. The ST is
+      velocity-dependent reducing the active control range in stroke patients and their ability to
+      make faster movements.
+
+      INTERVENTION APPROACH: Our approach is designed to increase the reflex-free range of elbow
+      motion in stroke. Adaptation of elbow movement to a new load (i.e., the ability to correct
+      errors) in patients with chronic stroke was substantially improved when movement was made
+      within the active control range (where spasticity did not affect muscle contraction) compared
+      to when the reflex-free range was not identified. Accordingly, the potential for motor
+      learning may be improved by considering the range of impaired elbow movement in properly
+      designed trials. To avoid eliciting movements made with abnormal muscle activation patterns
+      and other compensations (bad plasticity), training programs will be tailored to the movement
+      capacity of the individual and incorporate approaches that quantify and enlarge the joint
+      range made with typical muscle activation patterns. In this proposal, we will use a robot and
+      a novel VR learning interface to manipulate the ability to produce controlled movement at the
+      elbow, which is a common impairment in people with moderate to severe stroke. The proposed
+      personalized training approach focuses on providing specific feedback to increase an
+      individual's ST regulation range.
+
+      ERROR AUGMENTATION FEEDBACK (EA): Error Augmentation feedback will be used to increase the
+      active control ST zone of the elbow. EA uses intrinsic error-driven learning to enhance the
+      CNS's ability to take advantage of kinematic redundancy and find meaningful motor task
+      solutions. Specifically, subjects are provided with feedback that enhances their motor
+      errors. Manipulation of error signals has been shown to stimulate UL sensorimotor improvement
+      in both healthy and stroke subjects with greater learning gains occurring when errors are
+      larger. EA feedback will be used to dynamically remap the active elbow control range. Visual
+      feedback about elbow angle will be modified, to make it seem as if the elbow moves less than
+      in reality. Thus, when the actual elbow moves, the subject perceives the elbow as having
+      moved less and attempts to correct the error by extending the elbow further. The active
+      control range will be expanded by having subjects working near or just at the limit of their
+      ST range. Remapping of the perception/action relationship will occur when the afferent
+      feedback becomes associated with a greater elbow angle. Given the key role of errors in motor
+      learning, artificially increasing the performance error via EA will increase each
+      individual's active control range and cause learning to occur more quickly.
+
+      IMPACT ON REHABILITATION: Results will build knowledge that can guide clinicians and their
+      patients in identifying the best type of training for UL functional recovery - an essential
+      component of reintegration into daily life activities. Findings can also support a paradigm
+      shift in clinical practice, encouraging rehabilitation practitioners to consider personalized
+      intervention options for improving outcomes. Increasing therapeutic options can also
+      contribute to personalized care that is tailored to the patient's particular needs and lead
+      to better functional outcomes.
+
+      Objective 1 - Determine the effectiveness of personalized exercise using EA to expand the
+      range of active elbow control in post-stroke subjects. Hypothesis 1: Intrinsic feedback about
+      movement error at the elbow will lead to dynamic remapping of muscle-level control
+      mechanisms, and improve the range of active elbow joint movement. Hypothesis 2: Subjects
+      practicing with EA will be able to incorporate the greater elbow joint range into functional
+      reaching movements, as reflected in better clinical outcomes.
+
+      Objective 2 - Determine the patient-specific optimal dose of intensive exercise to maximize
+      arm motor recovery. Hypothesis 3: Increased training dose will lead to better kinematic and
+      clinical outcomes and better motor learning.
+
+      Objective 3 - Relate the amount of CST damage to UL recovery based on kinematic and clinical
+      measures. Hypothesis 4: Greater CST damage will be correlated with poorer motor learning and
+      clinical outcomes.
+
+      Two groups, training duration,
+
+      TRAINING DURATION: 54 subjects will perform ~30 min/session of target reaching with their
+      affected arm. To control for intensity, practice will be extended to the time needed to
+      complete 138 reaches/session with 6-10s between reaches. Sessions will be done 3 times/wk for
+      9 wks (i.e., 27 sessions, 810 mins, 3,726 trials) - considered to be high-intensity exercise
+      as recommended by the Stroke Recovery & Rehabilitation Roundtable. Kinematic and clinical
+      measures will be made before (PRE), after 3 (POST3), 6 (POST6), and 9 wks (POST9) and after a
+      4 wk follow-up (FOLL-UP).
+
+      SAMPLE SIZE: The Minimal Clinical Important Difference (MCID) of the primary outcome measure
+      (ST) was used to compute the sample size. The MCID of the ST was determined to be 18.07°
+      using an anchor-based method (change in FMA> MCID 5.25). Considering an α level of 5% and a
+      95% power (effect size=1.39) to detect differences using a mixed model ANOVA (G*Power
+      3.1.9.4), the minimal sample size is 21/group. Sample size was increased to 27 per group
+      considering a drop-out rate of 25% given the need to attend multiple training/evaluation
+      sessions for a final cohort of 54 subjects.
+
+      STATISTICAL ANALYSIS: We will relate changes in motor behavior to initial clinical status
+      (PRE) and to post-treatment changes (POST) at 3 time points (POST1, POST2, POST3), and at
+      follow-up (FOLL-UP). Statistical approaches are based on intention-to-treat analysis.
+      Descriptive/distribution analysis will highlight main demographic and clinical
+      characteristics and control for differences in the baseline prognostic indicators between
+      groups. For Obj. 1-3, we will use a repeated measures mixed model ANOVA for primary and
+      secondary outcomes where the model includes one between-subject factor - group with 2 levels
+      (EA, no EA) and one within-subject factor - time (5 levels), using normalized change scores
+      (i.e., POST-PRE/PRE; FOLL-UP-PRE/PRE). We will consider changes in the primary and secondary
+      outcomes significant if their 95% confidence intervals (CI) exceed MCIDs for each measure. To
+      control for %CST injury as a potential confounding factor, we will run a parallel ANCOVA
+      using %CST as a covariate. This will increase the statistical power and adjust for baseline
+      group differences estimating an unbiased difference on primary outcomes. This study design
+      has been used in our previous RCT. For the active arm workspace, significance will be
+      indicated by a >10% change of PRE-test area, based on an increase of the TSRT of at least
+      18°. For elbow range of motion, a significant change will be 15% of the Pre-test range. For
+      secondary outcomes, MCID values will be used when known. For measures for which MCIDs are not
+      known, we will consider a minimally significant change as >15% of the pre-test value.
+      Multiple linear regression analysis on pooled data will identify relationships between
+      subjects with different levels of initial clinical impairment (%CST injury) and primary and
+      secondary outcome measures. All analyses will consider sex as a confounding factor. While men
+      have a higher age-adjusted stroke incidence, women experience more severe strokes and have
+      higher short-term mortality. Better understanding of the influence of sex on therapeutic
+      interventions can lead to improved stroke management. For all models, residual plots will be
+      examined to verify linearity, normality and homoscedasticity. Co-linearity will be assessed
+      based on tolerance, variation of inflation and eigenvalues. Partial correlation and
+      standardized (beta) coefficients will be examined to demonstrate which explanatory variables
+      have a greater effect on the dependent variable in the multiple regression models. For each
+      outcome, variability will be estimated based on 95%CIs. Missing data will be checked for
+      non-random patterns.
+
+      TRIAL MANAGEMENT: Daily trial management will be the responsibility of the steering committee
+      (Levin, Archambault, Piscitelli). Randomization will be done by Levin. Trial coordination and
+      data handling will be done by Piscitelli. The team has complementary expertise directly
+      relevant to the proposal and extensive experience conducting stroke research. A former
+      patient (GG) who has participated in our previous studies will help assess the feasibility
+      and acceptability of the technology and the protocol, including clinical and kinematic tests.
+      Piscitelli will coordinate the trial, help supervise students and take care of daily
+      management. Prevost (Clinical Research Coordinator) will recruit and assess patients from 3
+      centers within CRIR. Levin and Wien have expertise in imaging and Feldman in motor control.
+      Wein is a Stroke Neurologist at the MNI where he has conducted several RCTs. Trivino
+      (physiotherapist) has participated in several clinical research projects at the JRH using
+      technology-supported rehabilitation in patients with stroke. Berman (rehabilitation engineer)
+      designed the robotic/VR intervention and conducted the initial feasibility studies with
+      Levin. We will disseminate findings to stroke teams at CRIR affiliated hospitals through
+      in-service presentations and discuss problems of UL measurement and management. Diagnostic
+      imaging tools and motor control knowledge will be shared with researchers, clinicians and
+      patients. Feasibility of incorporating the developed technology into clinical settings will
+      be evaluated with clinicians Trivino and Wein and patient GG.
+    
+  

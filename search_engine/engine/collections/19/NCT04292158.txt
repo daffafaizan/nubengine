@@ -1,0 +1,33 @@
+
+    
+      Data will be collected at the three sites using the SomnoTouchTM and MOXTM devices,
+      commercially available and CE approved. Every month, the data will be sent to the KUL and UM
+      to develop the algorithm. Study centers will also send some pre-defined patient
+      characteristics extracted from the patient's EMR to better contextualize the data.
+
+      The EWS formula has a free interpretation of the vital parameters weighting and the vital
+      parameters to be taken into account in the scoring system. Therefore, many variants of the
+      EWS arose the past decade (i.e. MEWS, NEWS). The algorithm developed in this study should
+      define an objective approach for the EWS formula, diminishing the discordances regarding the
+      weight per parameter. Using a patient-personalized approach, the definite algorithm should be
+      based on the patient's vital parameter measured during his/her whole hospitalization,
+      generating a patient-personalized weight per parameter and an overall reliable EWS scoring
+      system.
+
+      The EWS score is often only measured twice per day per patient, creating a large window for
+      disease worsening. The algorithm developed in this study could be deployed along the wearable
+      device developed in the WearIT4Health project. The device would continuously feed the
+      algorithm with data acquired from its sensors. Thus, the EWS would be computed every 10
+      seconds.
+
+      The EWS scoring system has already been proven to be an effective approach in reducing
+      clinical deterioration, reducing the admission to intensive care units and thus overall
+      reducing mortality. However, as mentioned above the EWS is measured in a rather low
+      frequency. Therefore, estimation of the EWS score via continuous monitored parameters should
+      further increase patient survival.
+
+      The primary objective of the EAGLE study is to collect continuously monitored vital and
+      activity parameter data and use it to develop an algorithm that can early identify clinical
+      deterioration to optimize the application of the EWS system.
+    
+  

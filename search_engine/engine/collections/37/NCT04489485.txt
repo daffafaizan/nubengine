@@ -1,0 +1,88 @@
+
+    
+      Phase II Summary for finalizing and testing the CHADIS Teen Depression Module (TDM) These
+      aims are unchanged except that health screening visits may be in-person or conducted via
+      telehealth.
+
+      II-1. Revise programming and training materials: TDM- an addition for primary care screening
+      and care for teen depression as part of the Comprehensive Health and Decision Information
+      System (CHADIS) online questionnaire delivery system with decision support including
+      "motivational interviewing teleprompters", care coordination functionality for referrals, and
+      text chats- will be revised and programmed as needed to adjust for Phase 1 feedback and
+      training materials created.
+
+      II-2 Recruit 20 study PCP's, set up care coordination with MH specialists and assess:
+      Investigators will recruit 20 primary care providers (PCPs), assuring representative
+      Medicaid-insured teens, and randomize to intervention or control. Intervention PCPs will
+      identify their local Mental Health (MH) resources to recruit for referrals and use of care
+      coordination functionality. 2 Therapists, 2 PCPs, and 2 Psychiatrists (Psy) using the care
+      coordination will give feedback on functionality, acceptability and likelihood of continued
+      use as well as use of a text messaging robot messaging about referrals after the baseline.
+      Investigators will document current PCP access to MH services.
+
+      II-3 Baseline (3 mo.), refine implementation strategies using QI Maintenance of Certification
+      (MOC-4) sessions:
+
+      All 20 PCPs will use the Patient Health Questionnaire-9 (PHQ-9) for depression (without
+      follow-up questions) for a baseline, and have implementation issues addressed using Quality
+      Improvement (QI) methods. Data will be collected from teens and parents before in person or
+      telehealth Health Supervision Visits (HSV) using CHADIS. Data on rates of depression
+      screening using CHADIS and billing data will be shared with PCPs as part of Maintenance of
+      Certification Part 4 (MOC-4) sessions for intervention and controls. Teens (<=480) will be
+      sent a text survey post visit of any strength- or emotion- supporting care received.
+
+      II-4 Create child psychiatry version of TDM: Denver team will modify TDM for Psy including
+      care plans.
+
+      II-5 Obtain MOC-4 approval for child psychiatry by American Board of Medical Specialties
+      (covering American Board of Psychiatry and Neurology) for Child Psychiatrists for use of the
+      TDM created in II-4 and MOC-4 will be offered to participating Child Psychiatrists.
+
+      II-6 Intervention trial: (See Figure) Primary Question 1 (PQ1). For teens PHQ positive, does
+      TDM use result in lower Short Mood & Feelings Questionnaire (SMFQ) scores at 3-, 6-and
+      11.5-months vs at start of intervention? Primary Question 2. For teens PHQ positive, does TDM
+      use result in lower teen and parent SMFQ scores at 3-, 6-and 11.5-months vs controls?
+      Secondary Question 1 (SQ1): Of teens PHQ positive, does TDM use result in higher rates of
+      accessing treatment at 3-, 6-and 11.5 months vs controls? Secondary Question 2. Does QI
+      method increase rates of teens screened? Secondary Question 3. Does QI method increase rates
+      of Ask Suicide Questions (ASQ) screening? Design: A cluster randomized trial with a 2-group
+      pretest-posttest design clustered at the PCP level will determine pre-post differences within
+      patients and intervention vs control group differences.
+
+      Sample size estimates consider the design effect and use an Intent to Treat model. Sample
+      sizes of 107/PCP in both intervention and control will achieve 89.5% power to detect a
+      difference between group means of >=2; also sufficient power for Secondary Questions 1-3.
+      Procedure: Both groups: All teens before HSV will do: Visit Priorities, Teen Health & Goals
+      comprehensive of standard guidelines, and PHQ-9 with follow up to SMFQ, if positive and get
+      health information chats with links to education/advice in their CHADIS Care Portal. All
+      parents will do Visit Priorities and Pediatric Symptom Checklist-17 (PSC) for behavior/mood
+      with follow-up parent SMFQ if the internalizing subscale is positive and can access
+      "handouts" in the parent Care Portal. All PCPs see questionnaire results and earn MOC-4.
+      Intervention group: Teens: will do: goals/strengths/values and ASQ. If PHQ-9 is >=8 they will
+      get follow-up questions and SMFQ. Teens will get follow-up text message robot dialogues with
+      topic based on if a referral was accepted and other priorities. Chats may encourage strengths
+      and provide resources, goals, mindfulness apps, journaling or depression-Cognitive Behavior
+      Therapy dialogues for PHQ positive teens. Parents: get resources. PCPs: will use TDM results
+      and decision support to detect, educate on depression, and motivate for intervention. They
+      earn MOC.
+
+      Follow Up Measures: All teens and parents: get email/text reminders to do questionnaires 3, 6
+      and 11.5 months (pre next HSV) after initial HSV. Teens positive on initial PHQ-9 in both
+      groups will be paid (and called) to do a repeat PHQ-9 with follow-up about interval treatment
+      and parents will do SMFQ and provide impressions of PCP management and success of any
+      referrals. Rates for Ask Suicide Screening Questions (ASSQ) will be in the intervention group
+      only, as it is not usual care, but any PCP may use it. Evaluation will include: depression
+      screening rates, decision support use, proportions of positive teens referred via care
+      coordination and teen use of resources.
+
+      II.7 Analysis of Results of Intervention: Initial: Descriptive analyses. Primary Questions
+      1&2: t-tests adjusted for design effect, categorical statistical tests of inference
+      appropriately matched to the underlying distributions of the measures used at T1 and T2,
+      adjusted for design. Secondary Question 2: Chi-Squared Test of Independence on two
+      cross-sectional samples tabulated at T0 and T1. Rates of ASQ use will be assessed for T2-T3.
+      Tests will be applied to 2 cross-sectional samples regardless of treatment arm. Multi-Level
+      Linear Regression models for Primary Questions 1-2 and Logistic Regression models for
+      Secondary Questions 1-3 will assess impact of patient characteristics and item responses, and
+      control for design effect of a cluster-randomized design.
+    
+  

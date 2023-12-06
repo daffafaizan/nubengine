@@ -1,0 +1,89 @@
+
+    
+      BACKGROUND:
+
+      In February, the first case of SARS-CoV2 positive patient was recorded in Lombardy (Italy), a
+      virus capable of causing a severe form of acute respiratory failure called Coronavirus
+      Disease 2019 (COVID-19).
+
+      Qualitative assessments of lung morphology have been identified to describe macroscopic
+      characteristics of this infection upon admission and during the hospitalization of patients.
+
+      At the moment, there are no studies that have exhaustively described the parenchymal lung
+      damage induced by SARS-CoV2 by quantitative analysis.
+
+      The hypothesis of this study is that specific morphological and quantitative alterations of
+      the lung parenchyma assessed by means of CT scan in patients suffering from severe
+      respiratory insufficiency induced by SARS-CoV2 may have an impact on the severity of the
+      degree of alteration of the respiratory exchanges (oxygenation and clearance of the CO2) and
+      have an impact on patient outcome.
+
+      The presence of characteristic lung morphological patterns assessed by CT scan could allow
+      the recognition of specific patient clusters who can benefit from intensive treatment
+      differently, making a significant contribution to stratifying the severity of patients and
+      their risk of mortality.
+
+      This is an exploratory clinical descriptive study of lung CT images in a completely new
+      patient population who are nucleic acid amplification test confirmed SARS-CoV2 positive.
+
+      SAMPLE SIZE (n. patients):
+
+      The study will collect all patients with the inclusion criteria; a total of 500 patients are
+      expected to be collected.
+
+      About 80 patients will be enrolled for each local experimental center.
+
+      The following patient data will be analyzed:
+
+        -  blood gas analytical data assigned to the CT scan, checks performed upon entering the
+           hospital, at the time of performing the CT scan, admission to intensive care and 7 days
+           after entry
+
+        -  patient characteristics such as age, gender and body mass index (BMI)
+
+        -  comorbidity
+
+        -  presence of organ dysfunction with the Sequential Organ Failure Assessment (SOFA)
+
+        -  laboratory data relating to hospital admission and symptoms prior to hospitalization.
+
+        -  ventilator and hemodynamic parameters upon entering the hospital, at the time of
+           carrying out the CT scan, upon admission to intensive care and 7 days after entry.
+
+      The machine learning approach of lung CT scan analysis will aim at evaluating:
+
+        1. Quantitative and qualitative lung alterations;
+
+        2. The stratification of such morphological characteristics in specific morphological lung
+           clusters identified by the means of artificial intelligence using deep learning
+           algorithms.
+
+      ETHICAL ASPECTS:
+
+      The lung CT scan images will be collected and anonymized. Images will be subsequently sent by
+      University of Milano-Bicocca Institutional google drive account to the University of
+      Pennsylvania, Department of Anesthesiology and Critical Care and the Department of Radiology
+      in a deidentified format for advanced quantitative analysis taking advantage of artificial
+      intelligence using deep learning algorithms.
+
+      The data will be collected in a pseudo-anonymous way through paper Case Report Form (CRF) and
+      analyzed by the scientific coordinator of the project.
+
+      Given the retrospective nature of the study and in the presence of technical difficult in
+      obtaining an informed consent of patients in this period of pandemic emergency, informed
+      consent will be waived.
+
+      STATISTICAL ANALYSIS:
+
+      Continuous data will be expressed as mean ± standard deviation or median and interquartile
+      range, according to data distribution that will be evaluated by the Shapiro-Wilk test.
+      Categorical variables will be expressed as proportions (frequency).
+
+      The deep learning segmentation algorithm will segment the lung parenchyma from the entire CT
+      lung. Lung volume, lung weight and opacity intensity distribution analysis will be applied.
+      Second, clustering analysis to stratify the patients will be performed. Both an intensity and
+      a spatial clustering algorithm will be tested. Third, a model will be trained to predict the
+      injury progression using the images and all other patient data. Statistical significance will
+      be considered in the presence of a p<0.05 (two-tailed).
+    
+  

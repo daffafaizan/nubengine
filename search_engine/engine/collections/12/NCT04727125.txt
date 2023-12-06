@@ -1,0 +1,122 @@
+
+    
+      Screening:
+
+      Participants will be recruited from the NICU at Prentice Women's Hospital. A member of the
+      study team will screen all NICU patients for inclusion and exclusion criteria by reviewing
+      electronic medical records. A screening and enrollment log will be kept to track families who
+      have been approached and agreed or declined to participate in the study. The screening and
+      enrollment log will be kept on a secure REDCap server housed by Northwestern University. Only
+      the study team will have access to this log.
+
+      Kangaroo Care (KC) Intervention:
+
+      After enrollment, families will be scheduled to participate in two sessions of KC over two
+      sequential days. The goal will be to schedule the KC sessions for the same time of day (i.e.
+      morning, afternoon, or evening). However, if this is not possible given the parents', the
+      sessions will be scheduled for any time of day that participating parents are able to visit
+      their infant in the NICU. Each session will include two hours of continuous KC, with one day
+      focused on Kangaroo Mother Care (KMC) and the other on Kangaroo Father Care (KFC), in a
+      randomized order. These sessions will include continuous skin-to-skin holding of the infant
+      by the parent, per standard of care protocol.
+
+      Physiologic Recording:
+
+      1) Infant: Prior to the first scheduled KC session, two wearable, wireless biosensors will be
+      placed on the infant to continuously capture physiology measures including electrocardiogram
+      (ECG), heart rate (HR), oxygen saturation (SpO2), body temperature, respiratory rate,
+      movement, systolic blood pressure (BP-S), and others for the duration of the study. One
+      device will be placed on the infant's chest or back. A second device will be placed
+      peripherally, on the infant's leg, foot, arm, or hand. The devices are encapsulated in a
+      medical-grade silicone and will be adhered to the infant's skin using a medical-grade
+      adhesive, similar to the adhesives standardly used in the NICU. The biosensors will be left
+      in place for up to 48 hours, but will be checked by study staff at least once every 24 hours
+      to ensure skin integrity and signal quality. The adhesives will be changed between uses. 2)
+      Parent: The same type of wearable, wireless biosensor will also be used to record 4 hours of
+      continuous physiology including ECG, HR, temperature, movement, SpO2, and others in the
+      infant's parents. The biosensor will be placed on the parent's chest 1 hour before the start
+      of a scheduled KC session and worn for 1 hour preceding the scheduled KC session, during the
+      2-hour KC session, and for 1 hour after the completion of the KC session. The biosensor will
+      be worn by the parents for approximately 4 hours in total.
+
+      Skin Monitoring:
+
+      Before and after the wearable biosensors are placed on the infant, the infant's skin
+      integrity will be evaluated using the age-appropriate, NICU standard of care protocol for
+      monitoring skin integrity. Study staff will take photographs of the skin at the site of
+      biosensor placement before the biosensors are placed and after the biosensors are removed.
+      Skin changes occurring while the biosensor is adhered to the infant's skin will be documented
+      photographically. No faces will be photographed. The study team will consult the bedside care
+      team within 1 hour for any ≥2 changes in skin integrity (based on the age-appropriate skin
+      integrity scale score).
+
+      Video Monitoring:
+
+      In some patients, video monitoring of patient position and movement will be utilized during
+      the study. This is an optional, additional part of the study in which families can choose to
+      participate or not participate. For participating patients/families, a video camera will be
+      mounted in the patient room for the duration of the KC sessions.
+
+      Saliva Sample Collection:
+
+      Saliva will be collected from enrolled infants and parents non-invasively to evaluate the
+      effects of KFC on established biomarkers of stress (cortisol and testosterone) and
+      father-infant bonding (oxytocin). Before, during, and after each KC session, saliva will be
+      collected from the participating parent, and their infant. A trained member of the study team
+      will collect saliva from infants using oral swabs made from an inert polymer and
+      appropriately sized for an infant mouth (approximately 5 mm). Oral swabs will be taken from
+      the infant immediately prior to beginning a KC session (T1), 30 minutes into the KC session
+      (T2), and 30minutespost-session (T3). Parents will self-collect saliva samples at the time
+      points outlined above, using an adult-sized oral swab. At T2, the trained study team member
+      will be able to help the parent collect the saliva sample, if necessary, while the parent
+      continues to hold their infant. This approach to salivary sample collection and biomarker
+      analysis is similar to that established by previous studies of kangaroo care and takes into
+      consideration the30-minute delay before cortisol reactivity in saliva.
+
+      Saliva Questionnaires:
+
+      When saliva is collected from parents at time points T1, T2, and T3, parents will also be
+      asked to complete a brief saliva questionnaire. These questionnaires will take approximately
+      five minutes each to complete and will be completed on paper or directly in REDCap, depending
+      upon the participant's preferences. At T2, a study team member will be able to help the
+      parent complete the survey, if necessary, while the parent continues to hold their infant.
+      Data provided on surveys completed on paper will be transferred to secure REDCap forms by
+      study staff and destroyed within 24 hours. All questionnaire data will be stored long term on
+      the secure REDCap server housed by Northwestern University.
+
+      Psychosocial Questionnaires:
+
+      This study will employ psychosocial measures to capture the short- and long-term impacts of
+      KFC. Specifically, validated measures of parenting confidence, relationship quality, infant
+      bonding, and father involvement will be assessed via a set of paper or REDCap surveys
+      administered in the NICU (short term) at baseline and the day before discharge (T-1) , and at
+      home (long term) at 2 weeks (T+14) and 4 weeks (T+30) after discharge. Each of these sets of
+      surveys will take approximately 30 minutes to complete. At baseline, each parent will
+      complete the Revised Dyadic Adjustment Scale (RDAS) and the Postpartum Bonding Questionnaire
+      (PBQ). At T-1, each parent will complete the RDAS , the PBQ, and the Parenting Sense of
+      Competence Scale (PSOC). These questionnaires will be completed on paper or directly in
+      REDCap, depending upon the participant's preferences. Data provided on surveys completed on
+      paper will be transferred to secure REDCap forms by study staff and destroyed within 24
+      hours. At T+14 and T+30, each parent will complete the RDAS, the PBQ, the PSOC, and a Father
+      Involvement Questionnaire. These questionnaires will be completed directly in REDCap only.
+      Each parent will receive an email containing a link to their set of questionnaires at both
+      post-discharge time points. All questionnaire data will be stored long term on the secure
+      REDCap server housed by Northwestern University.
+
+      Wearable Sensor Data Collection:
+
+      The wearable sensor that will be used in this study can stream data continuously using near
+      field communication (NFC) or Bluetooth technology. An encrypted laptop, iPad, or similar
+      device will be left in the patient room and used to capture the continuous data stream from
+      the wearable sensor. Additionally, wearable biosensors can include onboard memory, and
+      physiologic streams may be recorded to this onboard memory until transfer to an encrypted
+      laptop for analysis.
+
+      Standard of Care Data Collection:
+
+      In all patients in rooms where data from standard of care monitoring is recorded on the
+      BedMaster system, this data will be used for comparison to data captured using the wearable
+      sensors. In participants in rooms where this system is not available, the MediCollector
+      system will be used to capture background data during the approximately 48-hour study.
+    
+  

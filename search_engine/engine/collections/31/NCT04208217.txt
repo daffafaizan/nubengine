@@ -1,0 +1,63 @@
+
+    
+      Background: Evidence-based practices (EBPs) are the most high value treatments to meet
+      Veterans' addiction and mental health needs, reduce chronic impairment, and prevent suicide
+      or overdose. Over 10 years, VA invested in dissemination of evidence-based psychotherapies
+      and pharmacotherapies based on substantial evidence of effectiveness as compared to usual
+      care. Quality metrics also track progress. Despite these investments, patients with prevalent
+      needs, such as depression, PTSD and opioid use disorder often don't receive EBPs. Systems
+      theory explains limited EBP reach as a system behavior emerging dynamically from local
+      components (e.g., patient demand/health service supply). Participatory research and
+      engagement principles guide participatory system dynamics (PSD), a mixed-methods approach
+      used in business and engineering, shown to be effective for improving quality with existing
+      resources.
+
+      Significance/Impact: This study is proposed in the high priority area of VA addiction and
+      mental health care to improve Veteran access to VA's highest quality care. The PSD program,
+      Modeling to Learn (MTL), improves frontline management of dynamic complexity through
+      simulations of staffing, scheduling and service referrals common in healthcare, across
+      generalist and specialty programs, patient populations, and provider disciplines/treatments.
+
+      Innovation: Recent synthesis of VA data in the enterprise-wide SQL Corporate Data Warehouse
+      (CDW) makes it feasible to scale participatory simulation learning activities with VA
+      frontline addiction and mental health staff. MTL is an advanced quality improvement (QI)
+      infrastructure that helps VA take a major step toward becoming a learning health care system,
+      by empowering local multidisciplinary staff to develop change strategies that fit to local
+      capacities and constraints. Model parameters are from one VA source and generic across health
+      services. If findings show that MTL is superior to usual VA quality improvement activities of
+      data review with facilitators from VA program offices, this paradigm could prove useful
+      across VA services. The PSD approach also advances implementation science. Systems theory
+      explains how dynamic system behaviors (EBP reach) are defined by general scientific laws, yet
+      arise from idiographic local conditions. Empowering staff with systems science simulation
+      encourages the safe prototyping of ideas necessary for learning, increasing ongoing quality
+      improvement capacities, and saving time and money as compared to trial-and-error approaches.
+
+      Specific Aims:
+
+        1. Effectiveness: Test for superiority of MTL over usual QI for increasing the proportion
+           of patients (1a) initiating, and (1b) completing a course of evidence-based
+           psychotherapy (EBPsy) and evidence-based pharmacotherapy (EBPharm).
+
+        2. Scalable: (2a) Evaluate usual QI and MTL fidelity. (2b) Test MTL fidelity for convergent
+           validity with participatory measures. (2c) Test the participatory theory of change:
+           Evaluate whether 12 month period EBP reach is mediated by team scores on participatory
+           measures.
+
+        3. Affordable: (3a) Determine the budget impact of MTL. (3b). Calculate the average
+           marginal costs per 1% increase in EBP reach.
+
+      Methodology: This study proposes a two-arm, 24-clinic (12 per arm) cluster randomized trial
+      to test for superiority of MTL over usual QI for increasing EBP reach. Clinics will be from
+      24 regional health care systems (HCS) below the SAIL mental health median, and low on 3 of 8
+      SAIL measures associated with EBPs. Computer-assisted stratified block randomization will
+      balance MTL and usual QI arms at baseline using Corporate Data Warehouse (CDW) data.
+      Participants will be the multidisciplinary frontline teams of addiction and mental health
+      providers.
+
+      Next Steps/Implementation: MTL was developed in partnership with the VA Office of Mental
+      Health and Suicide Prevention (OMHSP) and if shown to be effective, scalable, and affordable
+      for improving timely Veteran access to EBPs, MTL will be scaled nationally to more clinics by
+      expanding MTL online resources, and training more VA staff to facilitate MTL activities
+      instead of usual QI.
+    
+  

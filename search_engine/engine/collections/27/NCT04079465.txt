@@ -1,0 +1,42 @@
+
+    
+      Closed-loop control of oxygen therapy is described in the literature used for preterm
+      infants, trauma patients, medical emergency use, and for patients with Chronic Obstructive
+      Pulmonary Disease (COPD). O2matic is a closed-loop system that is based on continuous and
+      non-invasive measurement of pulse rate and oxygen-saturation (SpO2). The algorithm in O2matic
+      controls oxygen delivery with the aim of keeping the SpO2 within the desired interval, which
+      could be 88-92 % for patients at risk of hypercapnia or 94-98 % for patients with pneumonia,
+      asthma exacerbation, heart failure and other medical emergencies, according to guidelines
+      from British Thoracic Society (BTS). SpO2-interval can be set for the individual patients, as
+      can the range of acceptable oxygen-flow. If SpO2 or oxygen-flow cannot be maintained within
+      the desired intervals an alarm will sound.
+
+      All studies on closed-loop systems have shown that this method is better than manually
+      control by nurse to maintain saturation within the desired interval. Furthermore, some
+      studies have indicated that closed-loop has the possibility to reduce admission time and to
+      reduce time spent with oxygen therapy, due to more efficient and faster withdrawal from
+      oxygen supplementation.
+
+      In the present study O2matic will be tested versus manual control, for patients admitted to
+      the emergency department with acute hypoxemia due to any reason, except for carbon monoxide
+      (CO) poisoning and other conditions where SpO2 is not a reliable measure of hypoxemia. During
+      the study the patients will either have oxygen controlled with O2matic or manually by nursing
+      staff for 24 hours or until discharge or weaning from oxygen supply. All patients will have
+      continuous logging of pulse rate, oxygen-saturation and oxygen-flow with O2matic, but only in
+      the O2matic active group, the algorithm will control oxygen-delivery.
+
+      The primary hypothesis is that O2matic compared to manual control allows for faster weaning
+      from oxygen supplementation, and that more patients will be weaned from oxygen
+      supplementation within a time frame of 24 hours. Furthermore it will be tested if O2matic
+      compared to manual control allows for earlier hospital discharge. It will be tested if
+      O2matic is better than manual control in maintaining oxygen-saturation within the desired
+      interval and reducing time with unintended hypoxia and hyperoxia.
+
+      No safety issues has been reported in the literature. O2matic is approved in Europe with
+      "Conformité Européenne" (CE) mark, and approved for clinical testing by The Danish Medicines
+      Agency, The Ethics Committee in the Capital Region of Denmark and by the regional Data
+      Protection Board. The study will be conducted according to Good Clinical Practice (GCP)
+      standards with independent monitoring. All adverse events and serious adverse events will be
+      monitored and serious adverse events will be reported to Danish Medicines Agency.
+    
+  

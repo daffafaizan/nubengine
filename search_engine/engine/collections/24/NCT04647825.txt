@@ -1,0 +1,103 @@
+
+    
+      About 50 million people worldwide are affected by epilepsy, which is one of the most frequent
+      neurological diseases. It is characterized by unpredictable and sudden seizures which could
+      led to loss of consciousness and uncontrolled motor reactions, severely impacting the quality
+      of life of epilepsy patients. Only two-thirds of epilepsy patients can control seizures with
+      anti-epileptic drugs or through epilepsy surgery. For the remaining patients, other
+      therapeutics approaches should be considered. These approaches include the development of
+      interventional closed-loop device, able to detect seizures and trigger an interventional
+      operation, such as administer anti-epileptic drugs or electrically stimulate the
+      epileptogenic focus to abort the seizure. In order to provide efficient therapeutic
+      approaches to these patients, in the last decades many efforts have been made to develop
+      automatic methods to find reliable markers in electroencephalographic (EEG) signal, which is
+      the gold standard for epilepsy diagnosis, able to predict or early detect seizures in EEG.
+      Such methods are based on mathematical or computational approaches for EEG signal analysis,
+      whose aim is to extract complex measures (the so-called "features") from EEG signal, which
+      are not recognizable with classical visual inspection of EEG signals made by epileptologists
+      during the diagnosis of epilepsy, in order to use such features as precursors of incoming
+      seizures (seizure prediction) or as indicators of an ongoing seizure (seizure detection).
+      Many methods have been proposed in the last years, using linear or non-linear, to extract
+      features from EEG signal. Recently, some studies used also electrocardiographic signal (ECG),
+      which is normally recorded together with EEG in epilepsy monitoring, in order to extract
+      promising features from it. Although these studies showed promising results, nevertheless
+      they suffer of many limitations. Among them, the use of a limited number of patients and
+      seizures and the use of only recordings belonging to the phase preceding the seizures (the so
+      - called pre-ictal period). Such limitations do not allow to determine, for example, the
+      specificity of such algorithms, because they don't consider also recordings acquired in time
+      intervals far from the seizures (inter-ictal data) and could led to a overfitting of the
+      seizure prediction/detection model. The only thing on which all the researchers on epilepsy
+      agree is the existence of a pre-ictal phase, which is the phase preceding the seizure, the
+      ictal phase, where the seizure is "active" and inter-ictal phase, which is a period
+      temporarily far from the seizure. Normally, automatic methods for seizure
+      prediction/detection consist of three different phases: the pre-processing (artifact removal,
+      band-pass filtering, data segmentation, …) of EEG signals, feature extraction and feature
+      selection and classification. This last step usually consists in the use of machine-learning
+      and statistical methods in order to make decision about the prediction/detection. Basically,
+      these models should be able to classify each EEG instance in two classes, "seizure" or "no
+      seizure", using the features extracted from EEG signal. The efficacy of these models highly
+      depends on how efficiently they are trained and normally the more are the data used to
+      trained them, the more they are able to take the right decision. Therefore, the availability
+      of large database of data could allow to develop efficient models for epilepsy
+      detection/prediction. The possibility for researchers to have access to large database of
+      continuous and long-term EEG data of epilepsy patients could be a big opportunity to develop
+      efficient and reliable automatic seizure prediction/detection methods. For these reasons, in
+      the last years some research groups have proposed and shared public EEG database with
+      researchers who wants to test their automated seizure detection/prediction models. In
+      particular, such database have been proposed by Epilepsy Center of University of Bonn and
+      Freiburg and also by Children's Hospital of Boston and have been made available for free
+      downloading to researchers. These databases contain long-term EEG recordings acquired during
+      pre-surgical monitor of epilepsy patients. The number of patients included in these databases
+      is quite low (from a minimum of 5 to a maximum of 23 patients) and also the number of
+      seizures is limited (from a minimum of 59 to a maximum of 189). Furthermore, the duration of
+      the recordings ranges from 40 minutes to 142 hours and the number of metadata (other
+      information about patients and seizures) is very low. The last database has been proposed in
+      2008 in the framework of a EU-founded project (EPILEPSIAE), in which 6 different partners
+      (hospitals, universities, companies) of 4 different countries (Germany, Italy, France,
+      Portugal) have been involved. This database is not free but is made available for the
+      download upon payment in 2012. Nowadays, it is the largest epilepsy EEG database available
+      worldwide (http://epilepsy-database.eu/). It contains data from 275 patients, including EEG
+      and ECG recordings, metadata, clinical and technical annotations on the data and clinical
+      information about the patients. Actually, only 60 out of 275 datasets are available for the
+      download. The aim of this study is to create a long-term EEG database acquired on epilepsy
+      patients during the non-invasive presurgical monitor at Epilepsy Surgery Unit at IRCCS
+      Neuromed. The database will include, besides EEG and ECG recordings, clinical and technical
+      annotations on the data made by expert epileptologists and also clinical information about
+      the patient, including neuropsychological evaluations. All the data will be first anonymized,
+      crypted and then made available for the free download. The database will include data from
+      200 epilepsy patients underwent non-invasive presurgical epilepsy monitoring at Epilepsy
+      Surgery Unit at IRCCS Neuromed. At the end of non-invasive EEG monitoring, two expert
+      epileptologists will inspect EEG/ECG data in order to identify the seizures, in particular
+      the channels where the seizure starts and the time, and everything could be of interest for
+      the project. All the recordings will be exported in ASCII (American Standard Code for
+      Information Interchange) format using the DMS Data Management System (Nihon Kohden Europe
+      Gmbh) software, version 2.9.8 and stored locally. At the same time, clinical and demographic
+      (only gender and age) data will be acquired for each patient. In particular, for each patient
+      the following data will be available:
+
+        -  Demographic data (gender and age);
+
+        -  Clinical information (epilepsy type, seizure frequency,…);
+
+        -  Neuropsychological data;
+
+        -  EEG data acquired according to international 10-20 system;
+
+        -  ECG data;
+
+        -  Information about the recordings and the seizures (start and end time, start and end
+           time of each seizure, …)
+
+      All data from all the patients will be included in a single database, and each patient will
+      be stored in a single compressed archive. The database will be made available after the
+      completation of a request which can be forwarded by each researcher using a dedicated URL, in
+      which the researcher will fill in a form when it will be asked to provide the following data:
+
+        -  Information about the applicant (name, address, affiliation, …)
+
+        -  GDPR consent Once the request will be received, the compressed archive containing the
+           whole database will be protected with an ad-hoc alphanumeric password. Such password
+           will consist of two parts: the first part will be sent by email to the applicant, the
+           second part will be sent using the regular mail service (two-way authentication).
+    
+  

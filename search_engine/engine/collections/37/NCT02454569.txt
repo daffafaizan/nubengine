@@ -1,0 +1,44 @@
+
+    
+      Andhra Pradesh is the state with highest burden of HIV in India. Anantapur is a district
+      situated in the South border of Andhra Pradesh with 72% rural population and adult literacy
+      rate of 74.1% in men and 54.3% in women. In Anantapur, the HIV epidemic is largely driven by
+      heterosexual transmission and it is characterized by poor socioeconomic conditions and high
+      levels of illiteracy.
+
+      Rural Development Trust (RDT) is a nongovernmental organization, which provides medical care
+      to people living with HIV free of charge, including medicines, consultation and admission
+      charges. In Bathalapalli Hospital, outpatient clinics and 71 beds are allocated exclusively
+      for HIV or tuberculosis infected patients.
+
+      The Vicente Ferrer HIV Cohort Study (VFHCS) is a prospective open cohort study of all HIV
+      infected patients who have attended Bathalapalli RDT Hospital. Routine clinical data from
+      patients are collected prospectively since September 2009 and entered in a SQL-server
+      database using C# as front end. Details of route of transmission, HIV associated risk factors
+      and socio-demographic data are collected at enrolment. Data collected include medical
+      treatment (antiretroviral treatment and other medications), laboratory investigations
+      (haemogram, renal function tests, liver function tests, CD4 lymphocyte count, bacterial
+      infections), and standardized diagnoses.
+
+      The objective of the VFHCS is to describe social and medical aspects related to HIV in the
+      investigators setting, including:
+
+        1. Epidemiology: trends in HIV incidence, transmission mechanisms, socioeconomic risk
+           factors associated with HIV.
+
+        2. Incidence and prevalence of opportunistic infections, especially tuberculosis and
+           cryptococcosis.
+
+        3. Life expectancy and factors associated with mortality
+
+        4. Describe the retention across the continuum of care and investigate factors associated
+           with loss to follow-up.
+
+        5. Toxicity and effectiveness of antiretroviral therapy.
+
+        6. Effectiveness of programmes to prevent mother to child transmission.
+
+        7. Incidence and prevalence of non-communicable diseases such as cancer or cardiovascular
+           diseases.
+    
+  

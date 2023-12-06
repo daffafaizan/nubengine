@@ -1,0 +1,121 @@
+
+    
+      STUDY DESIGN AND METHODS
+
+      Overview:
+
+      This pilot randomized control trial (RCT) will enroll 92 children from 6 months to 6 years of
+      age that have chronic lung disease (CLD) such as bronchopulmonary dysplasia during two
+      pulmonary illness seasons. If the minimum number of patients (n=92) in Season 1 is achieved,
+      we will then perform an interim analysis of the data. However, if recruitment does not reach
+      92patients during the first season we will continue to recruit in Season 2 (2016-2017). These
+      children will all be patients who receive their primary medical care from either the High
+      Risk Children Clinic or the similar High Risk Infant Clinic that cares for premature infants
+      from discharge until age 2. Clinic records will be screened to determine eligibility.
+      Patients that have parental consent will be given a baseline EKG, a nasal aspirate, an
+      oscillometer reading (over 2 years of age only), and a six month supply of either the
+      medication or the placebo at an initial study or office visit. The medication/placebo will be
+      taken once a day for three days a week: Monday, Wednesday and Friday. The azithromycin
+      medication will be dosed at 5 mg/kg/day. Adjustments in dosage amount will not be made during
+      the 6 month trial. Any child that is eligible to receive Synagis will be given this every
+      28-30 days in clinic. Patients will be followed on a monthly basis and closely monitored for
+      adverse reactions; this will occur by phone, in clinic during their regularly scheduled
+      appointments, and/or during any necessary illness visits. Any children with adverse reactions
+      will discontinue the medication, but will continue to be followed clinically. At any clinic
+      visit in which a child presents with respiratory infections, including pneumonia, upper
+      respiratory illness, bronchiolitis, etc., he/she will have an additional nasal aspirate and
+      an oscillometer reading performed. At the completion of the six month treatment phase, each
+      child will have a final EKG, final nasal aspirate and an oscillometer reading performed. Data
+      will continue to be collected for the following twelve months, to monitor for respiratory
+      illnesses.
+
+      Study Procedures:
+
+      Patients will be randomized by the REDCap statistical program in a double blind manner.
+      Parents will then be provided with an entire 6 months of medication or placebo. Half of the
+      patients will receive azithromycin at a dose of 5 mg/kg to be given once a day on Monday,
+      Wednesday, and Friday. The dosage will not be adjusted during the trial period. The other
+      half, the control group, will be provided with a placebo medication of similar taste, color,
+      texture, and consistency, also to be taken once a day on Monday, Wednesday, and Friday. Both
+      the study medication and the placebo will be dispensed from Corner Compounding Pharmacy,
+      mixed with a fish-oil base to ensure a shelf life of more than six months, and flavored with
+      citrus to improve palatability. Parents will be contacted monthly, either in clinic or by
+      phone, to monitor for any adverse reactions, including rash, nausea, vomiting, diarrhea, or
+      abdominal cramping. If a significant adverse reaction occurs, the medication will be
+      discontinued. If an allergic reaction (such as rash or shortness of breath) is noted, the
+      blind will be broken by Claudia Pedroza, the statistician, who is not involved with the
+      project. This un-blinding will be done to note if it is an allergy to the medication.
+
+      After the initial appointment, at any face to face encounter (unscheduled sick visit or
+      hospital admission/ER admission Monday through Friday) in which the patient presents with
+      respiratory symptoms, the patient will be evaluated by the research coordinator or one of the
+      co-investigators. Specifically, if a patient presents with the following symptoms: cough,
+      wheeze, tachypnea, rhinorrhea, increased respiratory secretions, hypoxemia, and/or an
+      increased oxygen requirement, an additional nasal aspirate sample and an oscillometry reading
+      (for patients over 2 years of age) will be performed. These samples will also be stored in
+      the office of Dr. Piedra. At the conclusion of the six month treatment phase, a final nasal
+      aspirate sample, an oscillometer reading and EKG will be performed while the patients are in
+      clinic for an office visit. There will be no expected study visits and no compensation will
+      be provided for parents or patients.
+
+      Research Aims
+
+      Primary Aim: To determine if the prophylactic use of azithromycin will reduce the total
+      number of days when one or more unscheduled medical encounters occur in a clinic, urgent
+      care, emergency room (ER) or hospital setting during the 3-6 month study period and
+      subsequent 2 months.
+
+      Secondary Aims:
+
+        1. To determine if the prophylactic use of azithromycin will reduce the total number of
+           days when one or more unscheduled medical encounters occur for acute respiratory illness
+           in a clinic, urgent care, ER or hospital setting during the 3-6 month study period and
+           subsequent 2 months.
+
+        2. To determine if the administration of azithromycin will have a similar number of adverse
+           side effects, or adverse events leading to unscheduled face-to-face clinic, urgent care,
+           ER or hospital visit as compared to placebo during the 3-6 month study period and
+           subsequent 2 months.
+
+        3. To determine if the prophylactic use of azithromycin will reduce healthcare costs during
+           the 3-6 month study period and subsequent 2 months.
+
+      Exploratory Outcomes:
+
+        1. To determine if the prophylactic use of azithromycin will reduce the level of
+           pro-inflammatory cytokines and additional biomarkers of disease including Lactate
+           Dehydrogenase and Myeloid Peroxidase, by 10%.
+
+        2. To determine if the prophylactic use of azithromycin during the 3-6 months intervention
+           will reduce the level of airway resistance of patients with CLD during respiratory
+           illness from their baseline when compared to the placebo group as measured by an Airwave
+           Oscillometry System
+
+        3. To determine if prophylactic use of azithromycin will reduce the total number of
+           unscheduled face-to-face provider visits for respiratory related illness in a clinic,
+           urgent care, emergency room or hospital setting in the 12 months after the intervention
+           phase.
+
+      Data Analysis Plan:
+
+      Patients will be randomized to one of two different branches by the REDCap data base
+      randomization program. This will be a double-blind placebo controlled study. Standard
+      frequentist and Bayesian analyses will be performed using an intent-to-treat approach. Total
+      hospital days, total ER visits (counting one day for each ER visit), and unscheduled clinic
+      visits (counting one day for each visit) will be analyzed and related to treatment
+      (Azithromycin vs Placebo), with logistic regression models and the treatment group as a
+      covariate and random intercept to account for within patient correlation (due to multiple ED
+      visits). To assess the probability of benefit, we will use Bayesian hierarchical models with
+      interaction terms between treatment groups (Azithromycin vs Placebo) and predefined potential
+      moderators. The groups will be stratified by synagis use and if they have a tracheostomy.
+
+      Sample size and power:
+
+      Based on data from our HRCC, we expect the control group to have 1.6 encounters per
+      child-year (SD=1.66). Assuming a two-sided alpha = 0.05, a sample size of 92 (46/group) will
+      have 80% power to detect a difference of 1 in the encounter rate between placebo and
+      azithromycin groups (i.e., 1.6 vs 0.6 in encounter rate or 38% reduction). Power will be more
+      limited for secondary outcomes but Bayesian analyses will provide an estimate of the
+      probability of benefit in these outcomes.
+    
+  

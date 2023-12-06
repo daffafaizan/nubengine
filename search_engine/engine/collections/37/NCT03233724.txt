@@ -1,0 +1,162 @@
+
+    
+      Background:
+
+      -Non-small cell lung cancers (NSCLC) esophageal carcinomas (EsC) and malignant
+
+      pleural mesotheliomas (MPM) account for approximately 185,000 deaths annually in the United
+      States, with over two thirds of patients presenting with advanced, incurable disease.
+      1st-line platinum-based chemotherapy for advanced NSCLC, EsC or MPM produces transient
+      responses at best, with most patients succumbing to disease within 12-16 months following
+      diagnosis.
+
+        -  Recent randomized clinical trials have demonstrated response rates approximating 20% in
+           unselected patients with advanced NSCLC or EsC, and nearly 45% in patients with tumors
+           exhibiting high level expression of programmed death ligand 1 (PD-L1) following
+           administration of pembrolizumab, a humanized monoclonal anti- PD-1 antibody.
+
+        -  Approximately 17% of unselected MPM patients have exhibited objective responses
+
+      following administration of pembrolizumab or other PD-1 inhibitors.
+
+        -  Preclinical studies have demonstrated that epigenetic drugs such as DNA demethylating
+           agents and histone deacetylase (HDAC) inhibitors can prime cancer cells and tumor
+           microenvironments thereby enhancing efficacy of immune checkpoint inhibitors.
+
+        -  Although a potent DNA demethylating agent, Decitabine has poor bioavailability and
+           inconsistent distribution in solid tumors due to rapid inactivation by cytidine
+           deaminase (CDA) which is present in high levels in many organs.
+
+        -  Recent studies in rodents and nonhuman primates, as well as a Phase 1 clinical trial
+           (NCT#01685515) in patients with sickle cell disease have demonstrated that oral
+           tetrahydrouridine (THU), an inhibitor of CDA, significantly enhances
+           bioavailability/solid-tissue-distribution of low dose oral DAC, thereby enhancing
+           systemic DNA demethylation with acceptable toxicities.
+
+        -  Preliminary results of recent clinical trial suggest that oral DAC-THU can increase the
+           frequency and magnitude of responses to immune checkpoint inhibitors in lung cancer
+           patients with low or absent intra-tumoral PD-L1 expression.
+
+        -  These data support further evaluation of oral DAC-THU in combination with immune
+           checkpoint inhibitors for therapy of thoracic malignancies.
+
+      Objectives:
+
+      Phase I
+
+      -To define pharmacokinetics, toxicities and maximum tolerated dose of oral DAC-THU in
+      combination with pembrolizumab in patients with inoperable, or unresectable locally advanced
+      or metastatic NSCLC, EsC, or MPM.
+
+      Phase II
+
+      -To determine clinical response by RECIST criteria to oral DAC-THU in combination with
+      pembrolizumab in patients with inoperable, or unresectable, locally advanced or metastatic
+      NSCLC, EsC, or MPM.
+
+      Eligibility:
+
+      Inclusion Criteria
+
+        -  Male or female, 18 years or older with histologically or cytologically-proven,
+           inoperable, or unresectable locally advanced, or metastatic NSCLC, EsC, or MPM.
+
+        -  Measurable disease.
+
+        -  Patients with high PD-L1 expression ( (Bullet) 50%) and low PD-L1 expression (0-49%) in
+           cancer cells by immunohistochemistry are eligible.
+
+        -  NSCLC patients with no prior systemic treatment, or those with prior first line
+           treatment including an immune checkpoint inhibitor are eligible for study.
+
+        -  MPM patients who have received, refused, or are ineligible for first line chemotherapy
+           are eligible.
+
+        -  Patients with EsC including Seiwert-Stein Type I and Type II gastro-esophageal junction
+           (GEJ) carcinomas who have received or refused standard of care first line therapy and/or
+           targeted therapy are eligible.
+
+        -  Patients who received DNA demethylating agents or PD-1/PD-L1 inhibitors for another
+           malignancy may be eligible for study if there were no dose-limiting immune related
+           events, and there has been either no clinical evidence of disease or minimal residual
+           disease that has been stable for at least three years.
+
+        -  Willingness to undergo tumor biopsies if safely accessible per PI discretion before and
+           after treatment.
+
+        -  ECOG performance status 0 2.
+
+        -  No evidence of unstable or decompensated myocardial disease; adequate pulmonary reserve.
+
+        -  Adequate renal, hepatic and hematopoietic function.
+
+      Exclusion Criteria
+
+        -  Patients with any targetable mutation for which there is approved first or second line
+           therapy.
+
+        -  Serious cardiovascular conditions.
+
+        -  Active Hepatitis A, Hepatitis B or Hepatitis C.
+
+        -  Human immunodeficiency virus (HIV) or acquired immunodeficiency syndrome (AIDS)-related
+           illness.
+
+        -  Other active infection requiring systemic therapy.
+
+        -  Pregnant or breastfeeding women.
+
+        -  Patients who are receiving systemic corticosteroids.
+
+        -  Patients receiving another investigational agent.
+
+        -  Another malignancy.
+
+      Design:
+
+        -  The Phase I component will be a standard 3+3 design combining high and low PD-L1
+           expressers with incremental dose escalation of oral DAC-THU to define MTD.
+
+        -  Simon 2-stage design for Phase II studies will be used to determine clinical response at
+           the MTD.
+
+        -  Patients will receive oral DAC-THU- on T-W for two weeks out of every 3 for 9 weeks
+
+        -  Pembrolizumab will be administered on Wednesday, Thursday or Friday at a fixed
+           intravenous dose of 200 mg every 3 weeks.
+
+        -  One cycle is three weeks; one course is 9 weeks. Treatment evaluation using RECIST 1.1
+           every 10 +/- 1 weeks.
+
+        -  Those patients exhibiting disease progression or unacceptable toxicities will be removed
+           from study. Patients exhibiting stable disease or disease regression will be offered an
+           additional course of therapy followed by treatment evaluation. Treatment will continue
+           in this manner until off-study criteria have been met.
+
+        -  Once the MTD for DAC/THU has been identified, the MTD dose level will be expanded by 4
+           patients to confirm its safety. Then, including these 10 patients at the MTD, a total of
+           10 NSCLC patients with high (50% or greater) intratumoral PD-L1 expression and 10 NSCLC
+           patients with low (0-49%) intratumoral PL-L1 expression will be accrued to the first
+           stage of each of two separate Phase II cohorts using individual Simon optimal designs.
+           If 5 or more patients of the 10 first stage NSCLC patients in the high PD-L1 cohort
+           respond to treatment, the cohort will be expanded to 23 patients. If 11 of 23 of these
+           patients respond to treatment, the trial will be deemed positive for NSCLC with high
+           PD-L1 expression. If 2 or more of the 10 first stage NSCLC patients in the low PD-L1
+           expression cohort respond to treatment, the cohort will be expanded to 29 patients. If 6
+           or more of these 29 patients experience a response, the trial will be deemed positive
+           for NSCLC with low PD-L1 expression. Up to 10 EsC patients, including those considered
+           to be part of the Phase I component after the MTD has been identified, will be enrolled
+           into a separate cohort to examine responses to DAC-THU/pembrolizumab at the MTD. If 2 or
+           more of these 10 EsC patients respond to treatment, these findings may warrant an
+           amendment or a separate Phase II trial to determine response rates to
+           DAC-THU/pembrolizumab in EsC patients. Similarly, if 2 or more of 10 MPM patients
+           respond to treatment, these findings may warrant an amendment or a separate Phase II
+           trial to determine response rates to DACTHU/pembrolizumab in MPM.
+
+        -  Biopsies of index lesions will be obtained at baseline and at treatment evaluation
+           following the first course of therapy for analysis of pharmacodynamic endpoints.
+
+        -  Patients will be followed for toxicity for at least 30 days after treatment has been
+           discontinued, start of new anti-cancer treatment or until death, whichever occurs first.
+    
+  

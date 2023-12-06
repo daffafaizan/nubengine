@@ -1,0 +1,72 @@
+
+    
+      This study examines the effect of a multimodal psycho-music therapy intervention on
+      respiratory symptoms (dyspnea), depression, and quality of life of patients with pulmonary
+      disease during Pumonary Rehabilitation, in the combined effort of two departments of Mount
+      Sinai Beth Israel: The Alice Lawrence Center for Health and Rehabilitation and The Louis
+      Armstrong Center for Music and Medicine
+
+      1. Desing The study cohort included patient with at least moderate COPD according to the GOLD
+      classification as well as other chronic disabling respiratory diseases. Inclusion criteria
+      were defined as being enrolled in a Pulmonary Rehabilitation (PR) program as well as the
+      ability to attend music therapy sessions at least once a week for 5 of 6 weekly sessions. The
+      patients were required to be medically stable simultaneously allowing them to participate in
+      the pulmonary rehabilitation program. Standard, routine pulmonary rehabilitative medical care
+      was used as the control to music therapy plus PR and patient selection was provided by a
+      computer generated randomization protocol. The intervention included live music listening
+      with visualization, wind playing and singing undertaken to study their effects on perceived
+      dyspnea, depression and quality of life. Patients were allowed to choose between easy to play
+      wind instruments i.e recorder, slide whistle, harmonica, etc. and instructed on their use.
+      Ninety- eight subjects were evaluated as potential candidates for the study. Thirty of them
+      were excluded because they would not commit to participate in the required number of music
+      therapy sessions either due to the anticipated time commitment or personal/medical concerns.
+      The 68 patients who agreed to participate in the investigation (Age Mean: 70.1), were
+      randomize and 38 were allocated to the treatment group and 30 to the control group. These 68
+      patients who were newly enrolled in the Alice Lawrence Center had voluntarily sought to
+      participate active PR through advertising and flyers posted in the community and throughout
+      the hospital and affiliated office practices. The weekly music therapy sessions lasted 45
+      min, for a period of 6 weeks, in groups of 6 participants or less.
+
+      2- Method At the beginning and end of each session the patients were asked to score the
+      intensity of current breathlessness by drawing a circle on different pictures of lungs that
+      represented extent of dyspnea (VAS) These recorded measures would be collected at the end of
+      each session, in order to evaluate the subjective effect of the treatment on the patients
+      perception of dyspnea. CRQ and BDI were also administered at the beginning of the PR program
+      and subsequently at 6 weeks, the end of the PR program. In the music therapy group, every
+      session included music visualizations, wind instrument playing, and singing, providing direct
+      methods of working with the breath control and offering active music-making experiences to
+      support optimal breathing, foster self-expression, and increase opportunities for coping with
+      the challenges of chronic respiratory disease.
+
+      3-Outcome measures
+
+      Primary outcomes were depressive symptoms, disease-specific quality of life factors, and
+      patients' perceived dyspnea:
+
+        -  Depressive symptoms were evaluated using the Beck Depression Inventory 2nd edition-Fast
+           Screen (BDI-FS), a 7-item subscale of the BDI-II. The BDI-FS measures signs and symptoms
+           such as sadness, pessimism, past failure, anhedonia, self-dislike, self-criticalness,
+           and suicidal thoughts or ideation.
+
+        -  Disease-specific quality of life as measured by the Chronic Respiratory Questionnaire
+           Self-Reported (CRQ-SR) is divided into four dimensions of dyspnea, fatigue, emotional
+           function and mastery, with a 7-point Likert scale response for each question. Dyspnea
+           relates to a patient's symptoms of shortness of breath and difficulty breathing. Mastery
+           relates to a patient's sense of having control over his or her disease and symptoms.
+           Emotion relates to a patient's general mood. Fatigue relates to a patient's energy
+           level. We measured CRQ-SR domain scores at the time of enrolment in the study and again
+           at completion, immediately following the final session after six weeks).
+
+        -  Visual Analogue Scale (VAS) scale. This measures perceived dyspnea or breathlessness in
+           participants during the music therapy sessions. The VAS is widely used in the
+           measurement of breathlessness as well as other symptoms, e.g. pain, anxiety (annotate to
+           appendix)
+
+           4-Statistical analysis Each of the dependent measures of primary outcomes (Depression,
+           Dyspnea, and Health-Related Quality of Life) was analyzed using a generalized linear
+           mixed model (SAS Proc GLIMMIX, SAS 9.3) involving a single between subjects factor
+           (Treatment vs. Control) and a single within subjects factor (Period - enrollment vs.
+           follow up 6 weeks later) Test of Treatment Group differences at Enrollment and at 6
+           weeks were made using planned contrast on the Least-Square means.
+    
+  

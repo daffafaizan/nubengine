@@ -1,0 +1,11 @@
+
+    
+      A procalcitonin order bundle will be created for admitted patients with pneumonia. This
+      prepopulated bundle includes an initial and 24 hour procalcitonin level, much like the
+      current initial and 4 hour lactate orders are set-up. These patients will receive treatment
+      for their pneumonia as is deemed appropriate by their care teams, both in the Emergency
+      Department and while an inpatient. Then, after discharge, the 30 day mortality, length of
+      stay, choice of antibiotic therapy, and qSOFA score (which will be retroactively calculated)
+      will be compared to the patient's initial and 24 hour procalcitonin level.
+    
+  

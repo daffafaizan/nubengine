@@ -1,0 +1,47 @@
+
+    
+      Glioblastoma (GBM) represents about 15% of all primary brain tumors with approximately 19,000
+      new cases diagnosed annually. The one-, five- and ten-year survival rates for patients with
+      GBM is 37.2%, 5.1% and 2.6% from diagnosis respectively, making it one of the most lethal
+      cancers known, among all cancers. GBMs can be challenging to treat and new cancer therapies
+      are continuously being developed for GBM treatment.
+
+      The high cost and potential risks associated with human trials for these experimental
+      therapies have emphasized the need for sensitive monitoring of tumor response. Imaging
+      approaches can play an important role in the evaluation and selection of potential new
+      therapies with non-invasive longitudinal monitoring of treatment response. Currently, the
+      radiological assessment of treatment outcomes predominantly relies on morphological (i.e.
+      size) changes using the Response Evaluation Criteria in Solid Tumors (RECIST) and other
+      similar scores. This is a major limiting factor as the effects of many therapeutic agents at
+      the microscopic level precede the eventual changes in tumor size. One such tumor property
+      that has gained increased attention is angiogenesis, which has been shown to support tumor
+      proliferation and infiltration. Increasing numbers of clinical trials have begun targeting
+      tumor vascular supplies either directly inhibiting angiogenesis (e.g. antiangiogenic therapy)
+      or indirectly disrupting cell proliferation and eventually angiogenesis (e.g. cytotoxic
+      chemoradiation). Such clinical trials and the eventual clinical use of these therapies would
+      be greatly assisted by the availability of robust imaging indicators of angiogenesis (i.e.
+      tissue perfusion).
+
+      Positron Emission Tomography (PET) using 15O-labeled water (15O-PET) is considered the gold
+      standard for non-invasive measurement of tissue perfusion. However, the use of 15O-PET
+      requires a cyclotron in close proximity to PET to produce short lived 15O-water (half life
+      2.4 min), limiting its applicability in clinical settings. Alternative imaging techniques
+      include ultrasound using microbubbles, perfusion computed tomography (CT) using iodinated
+      contrast agent and perfusion MRI using gadolinium based contrast agents. All of these
+      techniques require exogenous agents, restricting their use in longitudinal monitoring of
+      treatment response.
+
+      Arterial spin labeled (ASL) MRI has recently emerged as a quantitative imaging (QI) method to
+      measure perfusion (or capillary blood flow) without the administration of exogenous contrast
+      agents. ASL magnetically "labels" the highly permeable water in the blood as a tracer and
+      measures their accumulation in the tissue of interest, without injecting any exogenous
+      contrast. Various versions of ASL have been validated in animals using microspheres, and in
+      humans using 15O-PET in the brain. ASL also has a number of advantages compared to dynamic
+      contrast enhanced (DCE) and dynamic susceptibility contrast (DSC) based MR perfusion
+      measurements. Specifically, ASL does not require exogenous agent alleviating the concerns of
+      gadolinium accumulation or nephrogenic systemic fibrosis (NSF) in patients with impaired
+      renal function and, unlike DCE/DSC, the contribution of vascular permeability to ASL measured
+      perfusion is negligible enabling absolute perfusion quantification in physiological units
+      (ml/100g/min).
+    
+  

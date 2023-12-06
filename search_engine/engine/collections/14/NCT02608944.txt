@@ -1,0 +1,15 @@
+
+    
+      This project aims to determine the validity of quantitative MRI perfusion methods by
+      comparison with quantitative PET imaging. First pass dynamic contrast enhanced MRI scans will
+      be performed at rest and during hyperemia caused by either adenosine infusion or regadenoson.
+      After custom reconstruction and post-processing the data will be fit to a compartment model
+      and quantitative perfusion and MPR values obtained.
+
+      On another day, the subjects will have quantitative PET imaging with O-15 labeled radioactive
+      water. This will be done at rest and hyperemia caused by either adenosine or regadenoson. A
+      low dose CT scan will be acquired to perform attenuation correction of the PET images. The
+      images will be reconstructed and processed as reported in the literature to provide reference
+      standard perfusion and MPR values. These values will be compared with those obtained by MRI.
+    
+  

@@ -1,0 +1,66 @@
+
+    
+      Art therapy
+
+      QUALITY ASSURANCE PLAN. The researchers will review and report the process during the trial
+      covering participant enrolment, consent, eligibility and allocation to trial groups, policies
+      to protect participants, including reporting of harm and completeness, accuracy and
+      timeliness of data collection.
+
+      STANDARD OPERATING PROCEDURES. Participants will be recruited over a period of three months
+      by mental health professionals (mental health nurses, psychologists, psychiatrists and
+      occupational therapists). Participants will not receive financial reimbursement for taking
+      part in this trial. Participants will be identified from outpatient services who meet all the
+      study eligibility criteria (listed in section Eligibility). ICD-10 (International
+      Classification of Diseases) and GAF (Global Assessment of Functioning) will be used to screen
+      participants at recruitment.
+
+      DATA DICTIONARY. All variables collected in this study will be listed and described in a case
+      report form, with associated guidelines, to ensure consistency in all gathered data. The
+      following data will be collected in this trial:
+
+      Sociodemographical data. Medical history. Global Assessment of Functioning Scale (GAF)
+      Questionnaire about the Process of Recovery (QPR-15) Personal Resiliency Nursing Outcomes
+      Classification=1309 Duke-UNC Functional Social Support Questionnaire Service Utilisation:
+      Client Service Receipt Inventory (CSRI)
+
+      SAMPLE SIZE ASSESSMENT. The estimated sample size is n = 102, for a t test with two
+      independent samples, with one tail, an effect size of 0.5, an α of 95% and a power of 80%.
+
+      For the validation of the QPR-15, taking into account the subject-item ratio of at least 5: 1
+      (15 items), and considering the minimum number of recommended subjects to perform an
+      Exploratory Factor Analysis, The minimum number of participants must be 100.
+
+      Thus, estimating losses of 20%, the total number of participants estimated for the study is n
+      = 127.
+
+      STATISTICS ANALYSIS PLAN. The results will be analyzed by intention to treat. The change of
+      means in the main outcome variable between the two study groups will be analyzed with the
+      Student's t-test and if the criteria for its application with the nonparametric Mann-Whitney
+      U test are not met. For the categorical secondary variables, the Chi square test will be
+      used. We will also consider the performance of a multivariate analysis of variance (ANCOVA)
+      to introduce some possible covariate that differs between the two comparison groups in the
+      first evaluation. For all comparisons, a confidence level of 95% will be used. The program R
+      version 3.5.1 will be used. for all statistical analyzes.
+
+      ECONOMIC ANALYSIS. A cost-effectiveness from a Health Service perspective (finances
+      perspective) will be performed. The time horizon is one year and will include only direct
+      costs. This refers to direct health costs (medication and healthcare use of mental health and
+      social services including outpatient and emergencies visits and hospital admissions). .
+
+      PLAN FOR MISSING DATA. Each researcher is responsible for ensuring that any missing data will
+      be reported as missing in the study database. Procedures can sometimes be considered when
+      using statistical methods that fail in the presence of any missing values, or when in the
+      case of multiple-predictor statistical models all the data for an individual would be omitted
+      because of a missing value in one of the predictors. For analyzes involving multiple
+      regression analysis, a multiple imputation approach will be considered and used if
+      statistically sound, depending on the proportion and pattern of missing values.
+
+      METHODS TO ENSURE VALIDITY AND QUALITY OF DATA. Accurate and reliable data collection will be
+      assured by verification and cross-check of the case report form (CRF) against the
+      researcher´s records (source document verification). Source document verification will be
+      conducted for 5% of data in subjects. Discrepancies and queries will be generated accordingly
+      in the CRF for online resolution by the researcher at the site. In addition, the CRF data
+      will be reviewed on an ongoing basis for medical and scientific plausibility.
+    
+  

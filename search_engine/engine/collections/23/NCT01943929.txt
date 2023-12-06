@@ -1,0 +1,10 @@
+
+    
+      Every patient older than 18 years old whom underwent sinuses or facial computed tomography
+      will be asked to answer a questionnaire, where he will be able to describe his headache
+      features (if present) . This information will be correlated with patient images findings,
+      which are going to be evaluated by head and neck radiologists blinded for clinical
+      information. Logistic regression model will be used to verify this association; the presence
+      of sinusitis and fever will used be as covariates.
+    
+  

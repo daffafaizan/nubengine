@@ -1,0 +1,153 @@
+
+    
+      This randomised controlled clinical trial was based on our previous clinical trial
+      "Three-Dimensional Printing of Patient-Specific Titanium Plates in Jaw Surgery: A Pilot
+      Study" (HKU/HA HKW IRB, No. UW 16-315; registered in ClinicalTrials.gov with a No. of
+      NCT03057223; supported by HMRF Project no.: 05161626).
+
+      Over the past few decades, autologous vascularized bone flaps have become the preferred
+      choice for head and neck reconstruction. The anastomosed blood supply endows vascularized
+      bone flaps with improved survival rate and inherent anti-infection performance. Along with
+      the development of microvascular surgery, surgeons are seeking more accurate reconstruction
+      to enhance better aesthetic and functional outcomes. However, a main disadvantage of
+      autologous bone flaps is the mismatch in the shape of donor bone, which need to be cut and
+      trimmed to fit the defects and better restore the natural appearance. Much efforts have been
+      devoted to facilitate bone manipulations, and then the computer-assisted surgery (CAS)
+      emerged in the 21st century as a viable option. In CAS, surgeons do virtual plans in
+      computer, which then guide the precise harvest and arrangement of bone segments for repairing
+      defects in the operating theatre. Bone segments can be fine-navigated to best restore the
+      original skeleton. In previous researches, various devices have been developed to navigate
+      bone segments according to virtual plans, including cutting templates, skull models, and
+      surgical navigation system.
+
+      However, the missing link between bone navigation and accurate reconstruction is the plate
+      fixation procedure. In a conventional manner, bone segments are fixed using commercial
+      off-the-shelf titanium plates, which should be manually bent and twisted to fit bone anatomy.
+      The manual contouring process is often tedious and technique-demanding, and adversely affect
+      the precise location of bone segments. What's worse, repeated bending can even lead to poor
+      fatigue performance. The disadvantages of conventional surgical plates make it necessary to
+      develop patient-specific surgical plates. Compared to conventional plates, patient-specific
+      surgical plates are designed and manufactured in 3D structures aligned with individual bone
+      contours. Instead of contouring plates based on anatomical structure of bones in conventional
+      plates, patient-specific surgical plates navigate the folding and precise location of bone
+      segments, and hopefully improve the accuracy of reconstruction. Meanwhile, since no plate
+      bending is required, patient-specific surgical plates can be used to optimize bone
+      reconstruction in a more efficient and standardized manner.
+
+      In recent years, with the rapid development of additive manufacturing (3D printing), it is
+      now feasible to manufacture patient-specific metal implants with topologically optimized
+      structures. Many efforts have been made to develop porous bone scaffolds for regenerative
+      medicine, which are endowed with customized porosity to achieve optimal biomechanical
+      properties. However, although additively manufactured bone scaffolds demonstrate excellent
+      performance in some complicated cases, they still cannot replace the dominant role of
+      autologous vascularized bone flaps in head and neck reconstruction. Therefore, it is of
+      crucial importance to explore the application of additive manufactured (3D printed)
+      patient-specific surgical plates, albeit not much research has been done in this direction.
+
+      In our previous study (HKU/HA HKW IRB, No. UW 16-315) supported by Health and Medical
+      Research Fund (Project no.: 05161626), the investigators have successfully manufactured
+      patient-specific titanium plates with high precision through selective laser melting (SLM)
+      technology, which is a high-tech 3D printing technology that fully melts titanium powders
+      into complete entities in the layer by layer manner. SLM enables the fabrication of
+      patient-specific titanium surgical plates with tailored structures and outstanding
+      biomechanical properties. Our results showed promising clinical outcomes in the application
+      of 3D printed patient-specific titanium plates in head and neck reconstruction. Furthermore,
+      the investigators did a retrospective study comparing the patients who had undergone jaw
+      reconstructive surgery using 3D printed patient-specific surgical plates versus conventional
+      titanium plates and the result showed superior accuracy of reconstruction outcomes in the
+      study group with the use of 3D printed patient-specific surgical plates. However, there were
+      significant limitations in our study. First, as a retrospective study, the innate flaw of
+      study design was unavoidable, such as selection bias. Second, there was significantly
+      difference in follow-up periods between the study group and control group. The imaging data
+      used for accuracy analysis were obtained during different post-operative periods, which
+      compromised the final outcomes. Finally, surgical efficiency endpoints, such as operation
+      time, blood loss, and post-operative hospital stay, which could be significantly affected by
+      multiple confounding factors, are difficult to control by retrospective study design. Hence,
+      there is still lack of high-level evidence concerning the advantages of 3D printed
+      patient-specific surgical plates in head and neck reconstruction. Whether 3D printed
+      patient-specific surgical plates improve surgical accuracy and efficiency compared to
+      conventional plates in computer assisted jaw reconstruction should be further investigated
+      before large-scale clinical application.
+
+      Therefore, the investigators aim to evaluate surgical accuracy and efficiency of
+      computer-assisted jaw reconstruction using 3D-printed patient-specific titanium surgical
+      plates versus conventional plates in a prospective randomised controlled clinical trial. Our
+      study is expected to provide high-level evidence to push forward the popularity of using 3D
+      medical printing new technology in the surgical field.
+
+      Methods
+
+      The methodology has already been set up and has been proved feasible in our earlier studies.
+      The PI has been working on computer aided surgical simulation, virtual planning, and 3D
+      printed surgical templates in the maxillofacial surgery for several years and has published a
+      series of articles.
+
+        1. Computer-assisted Surgery
+
+           The CAS techniques used in head and neck reconstruction are well established in our unit
+           and have been described previously. Briefly, CAS is composed of three main phases: the
+           pre-operative phase of the virtual surgery and 3D printing of patient-specific devices,
+           intra-operative phase involving precision-enhanced surgery to install the
+           patient-specific devices, and post-operative phase involving the accuracy analysis. The
+           patient-specific devices can include cutting guides, positioning guides, and the
+           patient-specific titanium plates. In our trial, the study group will use cutting guides
+           and patient-specific titanium plates, whereas the control group will use cutting guides,
+           positioning guides, and conventional plates.
+
+           In the pre-operative phase, the virtual surgery will be performed by surgeons using the
+           ProPlan CMF 2.0 software (Materialise, Leuven, Belgium). The patient's CT data is
+           initially segmented to rebuild 3D virtual models of the maxilla or mandible using
+           ProPlan's interactive interface. Next, bone resection is performed in the 3D models for
+           en bloc removal of any tumours. Meanwhile, bone grafts are harvested from fibula or
+           iliac crest to repair defects and restore the normal appearance. Finally, the virtually
+           reconstructed maxilla or mandible is used to design patient-specific devices to navigate
+           the bone segments.
+
+        2. Additive Manufacturing of Patient-specific Devices
+
+           Compared to the conventional approach of designing patient-specific devices using
+           engineering companies, we have adopt an in-house approach that allow the surgeons to
+           design and manufacture the devices. All patient-specific devices are designed in 3-matic
+           13.0 (Materialise). Cutting guides, which guide and adapt to bone surface for accurate
+           bone resection, are generated by wrapping to the bone surface.
+
+           For the study group, patient-specific surgical plates are designed by delineating the
+           plate path on the bone surface, followed by the placement of screw holes. Surgical
+           plates are generated by a built-in command in 3-matic. Next, the surgical plates are
+           fabricated by SLM using grade 2 titanium powder. For the control group, positioning
+           guides will be designed for the bone segment alignment and inset.
+
+           Both cutting and positioning guides will be additively manufactured by Fused Deposition
+           Manufacturing (FDM) using ULTEM 1010, or by Stereolithography using MED610 resin
+           (Stratasys Ltd, Eden Prairie, MN, USA). Both ULTEM 1010 and MED610 are FDA cleared
+           biocompatible materials usable in high-temperature autoclaving.
+
+        3. Surgical Procedures
+
+           In the present study, all patients in both groups will undergo CAS carried out by the
+           same chief surgeon (PI). During the surgery, patient-specific cutting guides will enable
+           precise jawbone resection and bone flap osteotomy.
+
+           In the control group, the arrangement of bone segments will be manipulated according to
+           the positioning guide. Bone segments will be stabilized using commercial titanium
+           surgical plates (DePuy Synthes, United States), which are bent manually before fastening
+           with screws. In the study group, patient-specific surgical plates will be designed and
+           fabricated to custom-fit the bone contours of reconstructed maxilla or mandible. The
+           screw holes embedded in cutting guides correspond to the 3D-printed patient-specific
+           surgical plates, which will guide the position of surgical plates and bone segments,
+           thereby facilitating folding, positioning, and fixation of bone segments in the real
+           surgery. Standard peri-operative management will be similar in both groups.
+           Post-operative follow-up will be conducted in a routine manner.
+
+        4. Data collection procedures
+
+      CT scan will be obtained at baseline (before surgery) and post-operatively (within 1 month
+      after the surgery). The accuracy of reconstruction will be independently assessed by two
+      assessors. Training will be provided using previous cases, and calibration between the two
+      assessors will be done with the aim of achieving over 90% inter-assessor agreement in three
+      consecutive training cases before starting the measurement of subject cases in this study.
+      Other information such as reconstruction time, total operative time, intra-operative blood
+      loss, length of post-operative hospital stay, and post-operative adverse events will be
+      recorded.
+    
+  

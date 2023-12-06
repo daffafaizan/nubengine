@@ -1,0 +1,71 @@
+
+    
+      Drop out:
+
+      If subjects drop out, due to any kind of reason, a new participant will be included in order
+      to obtain the predetermined number of participants. Data collected from the participant that
+      dropped out will be deleted and not taken into account in the further analysis.
+
+      Analysis of the samples:
+
+      Sample size is based on data from (Dailey et al. 2013). Researchers found a significant
+      difference in the reduction of movement-evoked pain (pain during the 6 minutes' walk test
+      (6MWT)) ((4.0 ± 2.5) on a 0-10 VAS) when compared to no TENS (5.0 ± 2.6) (p<0.05) in patients
+      with primary fibromyalgia.
+
+      In this study the response within each subject group was normally distributed. If the true
+      difference in the experimental and control means is 1.0, effect size is calculated to be 0,2
+      (by means of G*Power version 3.1.9.3). 29 experimental subjects and 29 control subjects need
+      to be included to be able to reject the null hypothesis that the population means of the
+      experimental and control groups are equal with probability (power) 0.8. The Type I error
+      probability associated with this test of this null hypothesis is 0.05. To take into account a
+      15% loss of data sample size is inflated up to 33 per group (n/0.85). Sample size is
+      augmented by 10% per potential confounding factor (i.e. age and sex). The total sample size
+      to be recruited will be 70 subjects.
+
+      Statistical analysis:
+
+      The person to conduct the statistical analyses will be Lynn Leemans (Human Physiology and
+      Anatomy (KIMA), Vrije Universiteit Brussel).
+
+      An intention-to-treat analysis will be performed so that the integrity of the randomization
+      is ensured. Normality will be checked via the Shapiro-Wilk test.
+
+      To ensure good balance of participant characteristics in each group at baseline,
+      stratification is used. Changes in differences between both treatment groups after the
+      intervention period (at 4w) will be analyzed using repeated measures ANOVA for the following
+      variables: sensitivity to movement-evoked pain, quality of life, pressure pain thresholds,
+      temporal summation and conditioned pain modulation.
+
+      If the modulus of the partial correlation of potential confounding factors age and sex with
+      the primary outcome values equals minimum 0.3, these covariates of prognostic values will be
+      added as covariates in the ANOVA model.
+
+      As a secondary analysis, a linear regression analysis will be used with the following
+      dependent factors: BMI, and as independent factors: sensitivity to movement-evoked pain,
+      pressure pain thresholds, temporal summation, conditioned pain modulation, fear avoidance
+      beliefs and quality of life.
+
+      Significance value for all tests will be set at p < 0.05. All analyses will be performed
+      using SPSS 20 for Mac.
+
+      Quality control and quality assurance:
+
+      All electronic data will be stored on the shared drive of a university computer, which is
+      encrypted; and on a password protected laptop belonging to the principal researcher (Lynn
+      Leemans). Transfer of data will only be done if essential.
+
+      All anonymised data will be stored for up to four years to allow for access before
+      publication, and may be required at a later date for further analysis and auditing. All
+      personal data, including health questionnaires and signed consent forms, will be destroyed
+      within 12 months of the study finishing.
+
+      Publication policy:
+
+      Both parties (VUB and Omron) acknowledge the importance of public disclosure of information
+      collected of generated because of this clinical study. Omron retains the ability before
+      publication to verify and ensure correct and accurate information is represented of the
+      product and the brand used (product names, product types, brand name, product code) with no
+      influence of the scientific results and conclusions of the integrity of the publication.
+    
+  

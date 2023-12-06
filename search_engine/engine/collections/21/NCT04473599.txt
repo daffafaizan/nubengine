@@ -1,0 +1,37 @@
+
+    
+      The investigators will send participants supportive text-messages for a period of 2 months.
+      These text-messages will include tips about behavioral activation and coping skills to deal
+      with worries and stress. The investigators generated a message bank balanced such that 50% of
+      all messages are related to behavioral activation (BA) and 50% messages involve different
+      coping skills. Participants will receive one of these messages per day between 9:00 am and
+      6:00 pm. Participants will also receive a message asking them to rate their mood on a scale
+      of 1-9 once a day 3 hours after the BA or coping message.
+
+      Participants will be randomized to:
+
+        1. a uniform random messaging group (micro-randomized trial design).
+
+        2. a reinforcement learning group with a learned decision mechanism for the timing and type
+           of text-message. The algorithm learns from previous data (which messages were sent, what
+           was the participants' mood) to maximize an increase in participants mood. No other data
+           are collected from participants' phones.
+
+      The investigators will compare the effect of sending text-messages by a random schedule, and
+      text-messaging chosen by the RL algorithm. This allows to both evaluate the effect of the
+      individual intervention components over time within a micro-randomized trial design, and
+      assess the added value of using RL to adapt the messaging scheme.
+
+      The investigators hypothesize that:
+
+        -  Participant will show improvements in depression, anxiety symptoms and mood during the
+           60 day study.
+
+        -  The participants in the group receiving reinforcement learning will have a greater
+           improvement in depressive symptoms, anxiety and positive mood during the study than
+           participants in the micro-randomized group.
+
+        -  The investigators will find differential effects on mood ratings for the two categories
+           of messages
+    
+  

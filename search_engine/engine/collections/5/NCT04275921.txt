@@ -1,0 +1,53 @@
+
+    
+      Firstly, 3 stage III NSCLC patients receiving radiotherapy will be imaged, each for a single
+      MRI session using TWIST and HASTE sequences. Initial sequence parameters will be those
+      determined during the preceding technical development, but these will be fine-tuned to
+      maximize tumour visualisation as this part of the study progresses, achieving the most
+      practically useful trade-off between image resolution and noise, qualitatively and
+      quantitatively assessed by a radiologist to determine and fine-tune image quality.
+
+      Then a further 12 patients will be imaged, each for two MRI sessions taking place during the
+      radiotherapy schedule and separated by at least a week. Each MR session will consist of the
+      following sequence: 15 seconds of TWIST, 15 seconds of HASTE, 90 seconds off, 15 seconds of
+      TWIST and 15 seconds of HASTE. For each patient an on-treatment 4D cone-beam CT will also be
+      collected (standard process), alongside the diagnostic quality planning 4DCT. Patient
+      breathing coaching will be consistent between CT and MR, as will patient positioning; that
+      is, patients will be imaged with their arms above their heads. The images will be analyzed to
+      determine -
+
+        1. Do extents of tumour movement seen in TWIST 4D-MR images differ from those seen in
+           planning 4D-CT scans, judging the movement extent according to differences in internal
+           target and gross tumour volumes (ITVs and GTVs) defined from the two sets of images, and
+           in the range of motion of the tumour centre of mass? This may well be the case, since
+           the 4D-MR scans catalogue movement over several breathing cycles, whereas 4D-CTs
+           describe a single composite cycle, synthesised from slices collected at various times
+           over multiple cycles.
+
+        2. How reproducible is the movement seen at the two MR imaging sessions? Additionally, how
+           reproducible is the movement seen within each MR imaging session?
+
+        3. How similar according to volume, Dice similarity index (percentage of overlap) and
+           Haussdorf distance (maximum distance between the contours of two structures) are GTVs
+           outlined on single phases of 4D-CT and TWIST 4D-MR images, after rigidly registering the
+           centres-of-mass of the two GTVs to allow for movement?
+
+        4. How consonant are tumour contours defined on single slice HASTE MR images with those
+           defined on a phase of the 4D TWIST images? Answering question 1 will allow us to
+           determine the utility of gauging tumour movement over extended 4D-MR imaging sessions,
+           rather than from 4D-CT sessions which have to be short to avoid excessively irradiating
+           patients. Question 2 will cast further light on the same issue, allowing us to determine
+           the stability over the course of RT schedules of motion assessed over the course of
+           around 1 minute during an individual TWIST scan.
+
+      Answering question 3 will allow us to understand how fully 4D-MR images can be used within
+      the treatment planning process. If outlined GTVs differ greatly between MRI and CT, then
+      4D-MRI might only provide more complete movement data; whereas if CT and MRI-based GTVs are
+      similar the 4D-MRI may have more uses in treatment planning, particularly if some tumour
+      regions are more clearly visible on MRI than on CT.
+
+      Question 4 will allow us to gauge the accuracy and precision of tumour definition on
+      real-time single MRI slices, compared to definition on 4D-MR and 4D-CT. Answering this
+      question is an essential precursor to the development of automatic algorithms
+    
+  

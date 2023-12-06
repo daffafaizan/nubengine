@@ -1,0 +1,87 @@
+
+    
+      Subjects who are eligible for the clinical trial initially will use a Veo insulin pump and
+      Enlite CGM sensor at home for a minimum of 6 days/week over a 2-week period to verify that
+      the subject is able to use the CGM and insert sensors.
+
+      The first 10 subjects enrolled will be 11 to <15 years of age and will participate in an
+      Algorithm Assessment Phase of approximately 10 nights of system use each with PLGS and Hyper
+      Minimization active. Results of the approximate 100 nights will be reviewed with the study
+      DSMB to assess safety and determine whether any adjustments to the algorithm parameters are
+      needed. If adjustments are needed, the Algorithm Assessment Phase will be repeated with the
+      same age restriction, using the same 10 subjects if possible. If no adjustments are needed
+      and the DSMB judges it safe to continue the study, enrollment will continue across the full 6
+      to <15 age range.
+
+      Subjects who enroll in the study after the completion of the Algorithm Assessment Phase will
+      use the closed-loop system at home for 5 nights of system use each with PLGS and Hyper
+      Minimization active to demonstrate their ability to use the system and submit study data to
+      the Coordinating Center.
+
+      Subjects who successfully demonstrate their ability to use the system at home as described
+      above will be eligible for the randomized trial phase. This phase consists of use of the full
+      system in the home for approximately 42 nights:
+
+        -  Each night the blood glucose level will be checked with the BG meter and used to perform
+           a calibration of the CGM. This calibration must occur no more than 90 minutes prior to
+           activation of the system. NOTE: Subjects will be instructed to calibrate the CGM per
+           manufacturer guidelines.
+
+        -  Then the system will be activated, linking the CGM and insulin pump to the computer at
+           the bedside.
+
+        -  A randomization schedule on the laptop will be used to determine whether the system will
+           run in PLGS+Hyper Minimization mode or PLGS-only.
+
+             -  Subjects will be blinded as to whether the system is running in PLGS+Hyper
+                Minimization mode or PLGS-only.
+
+             -  There will not be an alarm if the pump shuts off or if automated insulin dosing
+                occurs. The CGM alarm will be set to 60 mg/dL (3.3 mmol/L). When a CGM alarm
+                occurs, the subject will be asked to measure the blood glucose with a BG meter, if
+                he/she is aware of the alarm.
+
+             -  The time period for outcome assessment each night will be from the time the system
+                is activated until it is turned off in the morning.
+
+             -  Pump shut off, when it occurs, will be for up to 120 minutes in a 150-minute
+                period, and no more than 180 minutes for the entire night. Multiple instances of
+                pump suspension can occur if there are recurrent predictions of hypoglycemia during
+                the night.
+
+        -  Small correction boluses of insulin will be delivered when the system predicts that
+           hyperglycemia above a pre-set threshold will occur, with insulin-on-board constraints
+           and cumulative delivery limits to minimize the likelihood of excessive insulin delivery.
+
+        -  Subjects will be asked to check blood glucose with the study BG meter each morning prior
+           to breakfast and enter the results using the controller software interface. The subject
+           will be instructed to contact the study physician if the morning blood glucose value is
+           <60 mg/dl (3.3 mmol/L) or >300 mg/dl (16.7 mmol/L). Monitoring processes will ensure
+           that the subject can be contacted if these values are not reported as required or are
+           out of range.
+
+        -  Subjects will be asked to record all overnight carbohydrate intake using the controller
+           software interface.
+
+        -  Subjects will be asked to perform periodic CGM data uploads using the controller
+           software interface. Monitoring processes will ensure that the subject can be contacted
+           if these uploads do not occur as required, or if review of an upload reveals any
+           extreme, prolonged episodes of hypoglycemia or hyperglycemia, or elevated morning blood
+           glucose values.
+
+      Once approximately 200 nights of randomized clinical trial phase data are available, the
+      study DSMB will perform another data review to determine whether it is safe to continue the
+      study. Subjects already using the study system at home will continue to use it during the
+      DSMB review process, but no additional subjects will begin home use of the system until the
+      DSMB review is complete.
+
+      Upon completion of the study, subjects as well as study clinicians will be asked to complete
+      a human factors usability questionnaire regarding use of the study system.
+
+      There will be a follow-up (optional) extension phase for subjects who exhibit safe and
+      competent use of the system at home. They may be given the option to continue home use of the
+      system for up to 56 days to assess whether data-driven, subject-level customization of
+      algorithm parameters improves glycemic outcomes compared with generic algorithm parameters
+      that are identical for each subject.
+    
+  

@@ -1,0 +1,62 @@
+
+    
+      Research design
+
+        1. Research on the molecular typing of breast cancer based on imaging features
+
+        2. Establish a Luminal breast cancer recurrence risk prediction model
+
+        3. Establish HER2 targeted therapy sensitivity prediction model
+
+        4. Establish TNBC molecular subtype prediction model Research methods Research Object This
+           study used a multi-center study to prospectively enroll breast cancer patients diagnosed
+           with pathology. All enrolled patients had complete clinical data, including demographic
+           characteristics (gender, age, menstrual status and fertility history), and pathological
+           data (histopathological data). Staging, immunohistochemical status and FISH, genetic
+           testing records the recurrence score and genotype), imaging data, complete treatment and
+           follow-up (whether there is local recurrence and metastasis, and the time of diagnosis).
+
+      Magnetic resonance examination In order to maintain the comparability between the images and
+      reduce the systematic errors, each center selects a fixed MR device for scanning. Among them,
+      a. Oncology Hospital chose to scan images with 3.0T (Siemens Skyra) MR equipment. A special
+      breast coil is used to add high-definition diffusion-weighted scanning and multi-b value
+      diffusion-weighted scanning before the dynamic enhancement scan. Dynamically enhanced
+      acquisition in 5 phases with a time resolution of 65s. b. Renji Hospital uses Netherlands
+      Philips Achieva 3.0 T superconductor MR scanner, 4-channel dedicated breast phased array
+      coil. Scanning sequences include T1WI, T2WI, T2WI fat suppression, DWI and DCE-MRI. The
+      contrast agent was Gd-DTPA, with a dose of 0.1 mmol/kg, an injection rate of 2.0 mL/s, and an
+      additional 20 mL of saline was added to the tube after injection. The T1WI scan was performed
+      first, and 5 time phases were continuously scanned after the injection of contrast agent, and
+      each time phase was separated by 61 s, for a total of 6 time phases. c. Chinese women and
+      babies are scanned with 1.5T SIEMENS AERA MR equipment and special breast coils. Scanning
+      sequence includes 5 phases of T1WI, T2WI fat suppression, DWI and dynamic enhancement scan,
+      time resolution 71s.
+
+      Image processing Use software to make semi-automatic and automatic outlines of the tumor
+      interest area, and make the outline of the tumor solid enhancement part, the entire tumor
+      area and the surrounding edema zone in the transverse position. In order to accurately
+      delineate the tumor, compare the T1 and T2 weighted and dynamically enhanced images, two
+      imaging physicians are responsible, one is responsible for delineation and the other is
+      reviewed, and the disputed area is determined after discussion by a third person. Create a
+      dynamic enhanced tumor texture analysis program to automatically extract imaging omics
+      features in the region of interest. Using a labeled data set, a computer-based automatic
+      segmentation algorithm model based on machine learning is constructed to automatically
+      extract regions of interest, and segmentation performance evaluation is performed on manually
+      delineated labels.
+
+      Statistical analysis Perform statistical analysis on the obtained images and clinical data,
+      extract image omics features and use machine learning algorithms to screen important
+      features. Use statistical tools such as SPSS and R language. Paired t test (continuous
+      variable) and chi-square test (discontinuous variable) were used to compare the clinical and
+      imaging characteristics of patients with different prognosis; correlation analysis was used
+      to evaluate the imaging histology characteristics and different pathological tissue grades,
+      Correlation between lymph node metastasis and specific gene expression; use Kaplan-Meier
+      survival curve to analyze the prognostic difference between patients with different imaging
+      omics characteristics, and use log-rank method to test the difference; use cox survival model
+      to compare clinical characteristics and imaging omics The characteristics and prognosis of
+      patients (tumor-free survival, progression-free survival, overall survival) were analyzed by
+      multiple factors. Further, deep learning algorithms can be used to automatically learn
+      imaging omics features that may be related to molecular subtypes and prognosis to build
+      prediction models.
+    
+  

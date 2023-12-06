@@ -1,0 +1,52 @@
+
+    
+      Introduction: Surgery for abdominal aortic pathology usually occurs in the setting of
+      advanced cardiovascular disease. The repair can be relatively simple or complex with multiple
+      steps including open repair, placing a stent with a catheter, and placing a complicated stent
+      that allows for crossing vessels without occluding them. All these repairs require imaging
+      follow up.
+
+      Rationale: The most commonly accepted tool for follow up is Computed Tomography (CT) scan
+      which involves ionizing radiation and potentially nephrotoxic iodinated contrast. Routine
+      ultrasound with Doppler, CT, and MRI has all been employed utilizing various imaging
+      protocols. Concerns over cost, potential nephrotoxicity of contrast agents and repeated
+      radiation exposure has led to investigation of alternate imaging modalities such as contrast
+      enhanced ultrasound (CEUS). CEUS also allows continuous (dynamic) or real-time monitoring of
+      the aneurysm and endoleak throughout the study.
+
+      Objectives:
+
+      Aim 1: To determine the consistency/discrepancy of endoleak detection (positive/negative) for
+      contrast enhanced ultrasound (CEUS) versus various phases of CTA versus delayed phase CTA.
+
+      Aim 2 (Exploratory): To explore the consistency/discrepancy of endoleak type (type 1-5)
+      between CEUS and delayed phase CTA.
+
+      Aim 3 (Exploratory): To explore the consistency/discrepancy of endoleak source detected
+      (positive/negative for each source) for type II endoleaks between CEUS and CTA.
+
+      Aim 4 (Exploratory): Re-assess Aims 1-3 for the follow-up scans. The goal for this aim is to
+      examine whether the consistency/discrepancy patterns discovered in Aims 1-3 can be repeated
+      at the follow-up scans.
+
+      Population: 40 patients who have undergone an EVAR or FEVAR for abdominal aortic aneurysms
+      and are expected to have CTA as part of their standard of care will be enrolled in the study.
+
+      Methodology: Patients will be evaluated with research contrast ultrasound at one month
+      post-op, six months post-op and at one year.
+
+      Data Analysis Plan: Binomial 95% confidence interval will be calculated for sensitivity and
+      specificity. One- sided binomial test will be conducted to test whether the target
+      sensitivity and specificity are superior to the null value, e.g. a minimal acceptable level
+      of sensitivity and specificity. In detecting the rate of endoleak positive on CEUS or other
+      phases of the CTA but negative on CTA in the delayed phase, we will compute Clopper Pearson
+      Exact 95% confidence interval since such a rate could be small. To assess consistency of
+      endoleak type (type 1-5) between CEUS and delayed phase CTA, Kappa coefficient will be used.
+      In the situation with high agreement biased towards one endoleak type, or extremely
+      unbalanced distribution of endoleak types, prevalence-adjusted bias-adjusted kappa
+      coefficient (PABAK) (Byrt, Bishop, and Carlin 1993) will be used. The discrepancy of endoleak
+      type between CEUS and delayed phase CTA will be reported as rate, for example percent of case
+      rated as type 1 in CTA but type 2 in delayed phase, with Clopper Pearson Exact 95% confidence
+      interval. SAS9.4 will be used for all statistical analyses.
+    
+  

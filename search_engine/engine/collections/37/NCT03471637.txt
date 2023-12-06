@@ -1,0 +1,58 @@
+
+    
+      Pain Management Programmes help people to manage their pain and improve quality of life, and
+      this research will look into the processes by which this happens. This study will look at two
+      psychological concepts: 'self-compassion' (kindness to self) and 'psychological flexibility'
+      (willingness to tolerate difficult experiences in order to meet meaningful goals). These
+      concepts help in understanding how people think about themselves in the context of pain.
+
+      Principle Research Question: Do self-compassion and psychological flexibility mediate change
+      (anxiety/depression/well-being) in a Compassion-Focused Therapy group for adults with chronic
+      pain?
+
+      Primary Outcome Measure: Strength of mediation effects
+
+      Sample Size:
+
+      [Reference 1] propose guidelines for recommended sample sizes in order to detect mediation
+      effects with .8 power. These guidelines are informed by existing literature in the field.
+      There is less robust research on self-compassion and chronic pain, therefore, this
+      calculation is based on research in psychological flexibility and chronic pain.
+
+      [Reference 2] conducted correlational analyses on the processes of psychological flexibility
+      following a group intervention based on ACT. These processes included acceptance of pain,
+      mindfulness, psychological acceptance and values-based action (r values between 0.33 and
+      0.55). These positive correlations indicate that the group intervention was related to higher
+      levels of psychological flexibility.
+
+      [Reference 3]'s review identified several studies that reported correlational effect sizes
+      between acceptance, and depression/anxiety/daily functioning related to chronic pain (r =
+      -0.58/-0.66/0.47 respectively). These negative correlations illustrate that higher levels of
+      psychological flexibility were related to better outcomes.
+
+      Based on these correlational effect sizes, guidelines in [Reference 1] suggest that a sample
+      size of 53-71 is required.
+
+      Analysis:
+
+      The analysis will focus on the proposed mediating factors (self-compassion and psychological
+      flexibility) and how they explain the outcome of the CFT-incorporated group intervention. In
+      order to study the processes of change, this study will measure change in mediators and
+      outcomes over the course of the group.
+
+      In a mediation model, the effect of the independent variable (IV; CFT group) on a dependent
+      variable (DV; outcome/change in symptoms) is conveyed through a third mediating variable. In
+      order to be a mediator, a variable must change during the intervention, be associated with
+      the intervention, and have an impact on the outcome.
+
+      In this study, it is hypothesised that self-compassion and/or psychological flexibility are
+      the mediating variables that explain the influence of the group intervention on eventual
+      outcome, i.e. the overall change in symptoms at the end of the group. Linear regression and
+      nonparametric bias-corrected bootstrap, which corrects for skew in the data, will be applied
+      to the data using SPSS, using the PROCESS macro. An effect of mediation will be indicated if
+      the confidence interval does not contain zero.
+
+      Missing data will be handled using either the maximum likelihood or multiple imputation
+      method, as recommended in literature.
+    
+  

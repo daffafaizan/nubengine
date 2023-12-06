@@ -1,0 +1,147 @@
+
+    
+      Background
+
+      Severe mental disorders (SMD) are a group of diverse conditions which principally affect
+      perception, cognition, emotion and behavioural control (Hyman et al. 2016). SMD has a
+      significant health impact worldwide, both in economic terms as well as in mortality rate due
+      to suicide or associated medical illnesses (Charlson et al. 2016), due to its high
+      prevalence, frequent early age of onset, and its clinical course (usually chronic or with
+      temporary improvements followed by relapse), and the cognitive deterioration of important
+      mental capabilities.
+
+      The results of the different meta-analyses have shown that suffering adverse events in
+      infancy significantly increases the risk of developing SMD in adult life (Bortolato et al.,
+      2017; Palmier-Claus, Berry, Bucci, Mansell, & Varese, 2016). What is more, it is important to
+      take into account that the presence of this comorbidity has important clinical implications,
+      such as an increase in suicides, greater severity of symptoms, an increase in risky sexual
+      behaviours, more hospital admissions, a worse disease course and a greater risk of being
+      retraumatized (Rosenberg et al. 2007; Ford et al. 2007; Oquendo et al. 2005). However, at
+      clinical level it is still an element which receives very little focus and may interfere in
+      the correct evolution of the disease (Mauritz et al. 2013).
+
+      Two recently published studies in the severe psychiatric population have shown that the
+      specific treatment of trauma improves in all cases the symptoms related to it in patients
+      diagnoses with schizophrenia (van den Berg et al. 2015) and bipolar disorder (Novo et al.
+      2014), as well as showing an improvement in other clinical symptoms such as psychotic
+      symptoms, paranoid ideation and hallucinations in the case of schizophrenia, and
+      sub-syndromic symptoms in the case of bipolar disorder. In both studies, the intervention
+      strategy used to treat traumatic events was EMDR (Eye Movement Desensitization and
+      Reprocessing), a psychotherapeutic approach whose use in recent years has grown exponentially
+      in clinical practice due to its great efficacy and safety, as well as being recommended by
+      the World Health Organisation (WHO) and the American Psychiatric Association (APA) as a first
+      line treatment for Post-traumatic Stress Disorder (PTSD) (Shapiro, 2014). It was developed at
+      the beginning of the nineties by the North American psychologist Francine Shapiro to treat
+      the consequences of psychological trauma. EMDR is an 8-phase psychological treatment composed
+      of protocols and standardized procedures applicable to both adults and children. The eight
+      phases (patient history, patient preparation, evaluation of the main aspects of the memory,
+      desensitization of the traumatic memory, installation of the positive cognition, body scan,
+      close and re-evaluation) and the protocol of the time line of past-present-future, allow a
+      holistic evaluation of the image of the traumatic memory, and allow for the patient to be
+      well-prepared before processing past events which underlie current pathology, current
+      situations which cause perturbation, and challenges and possible future stimuli which might
+      lead to the appearance of symptoms (Shapiro, 2014). The distinctive feature of this technique
+      is the incorporation of bilateral stimulation, in the majority of cases through horizontal
+      saccadic eye movements, into the combination of different theoretical and practical
+      psychological orientations, in order to desensitize the suffering cause by traumatic memories
+      and, as a consequence, achieve the reprocessing and the integration of these memories into
+      the normalized biographic memories of the patient (Shapiro 2001). One of the main advantages
+      of EMDR is that all protocols, both the standard and more specific ones, are standardized and
+      scientifically validated both for clinical use and scientific scrutiny (Novo et al. 2016).
+
+      Evaluation & Diagnostic Protocol
+
+      In the baseline visit, sociodemographic data will be taken through a data collection notebook
+      (CRD) and the validated Spanish versions of clinical, neuropsychological and trauma-related
+      scales will be administered. Prior to discharge from the unit, the measures will be taken
+      again, along with a measure regarding satisfaction of the treatment. Finally, all measures
+      will be repeated at 6 and 12 months post-discharge as follow-up.
+
+      Side Effects and Follow Up
+
+      EMDR therapy is a safe and well tolerated psychological treatment. However, some may feel
+      discomfort or suffer when the horizontal eye movements are carried out. If this occurs,
+      bilateral stimulation will be achieved via tapping, which consists of small taps on the
+      hands. Likewise, therapeutic work on difficult life experiences can accentuate psychological
+      distress symptoms. The patient will be taught a variety of self-control techniques to be able
+      to deal with the disturbing information which may arise during and between sessions. Any
+      incident will be registered in the patient's clinical history as well as the CRD of the
+      investigation project to later report the data.
+
+      Data Collection: Selection and Evaluation of Study Sample
+
+      Study participation is voluntary after being informed of the study objectives and having
+      signed the informed consent document. The participants will be evaluated individually by
+      specially trained health professionals (psychiatrists and psychologists qualified to make
+      diagnoses). The project has been sent to the Ethical Committee for Clinical Investigations in
+      Parc de Salut Mar for approval. Following the baseline evaluation, randomization will be
+      carried out, stratified by age, sex and presence of prior trauma. Data will be collected
+      after the EMDR sessions are finished, and participants will be contacted again at 6 months
+      and 12 months follow up. Motives for refusal to participate in the study will be collected to
+      determine the presence of selection bias in the sample and the causes of non-participation.
+
+      Statistical Analysis
+
+      Calculation of Sample Size: The study aims to evaluate the efficacy of the EMDR intervention
+      protocol with TAU compared to TAU only in terms principally of clinical stabilization and
+      improvement - a reduction in psychotic, anxiety, depressive and somatic symptoms amongst
+      others. For this reason, the main variable will be the number of clinical relapses following
+      the intervention, with a 12 month follow-up. Taking previous studies into account (Meyer &
+      Hautzinger, 2012), the calculation of the size of the sample has been calculated based on a
+      survival analysis with the statistical package "powerSurvEpi" for R
+      (http://www.r-project.org) using an alpha of 0.005 instead of 0.05 to allow correction for
+      multiple comparisons. The number of patients required to detect a hazard ratio = 2 in a Cox
+      regression with a statistical power of 80% and an alpha of 0.005 is n=36 per intervention
+      group (two groups: total n = 72). According to Chambless & Hollon (NO REFERENCE), a sample of
+      this size should show clinically relevant differences. Assuming a dropout percentage of
+      approximately 10-15% in trial patients, it will be necessary to recruit approximately 132
+      patients, 66 for each intervention condition.
+
+      Analysis of the main study variables The distribution of the between-group socio-demographic
+      and clinical characteristics at baseline will be analysed using descriptive statistics. The
+      continuous variables with a normal distribution will be analysed with a Multivariate Analysis
+      of Variance (MANOVA). The change in clinical and biological variables compared to baseline at
+      strategic times during the intervention will be analysed using an ANOVA with repeated
+      measures including time factors, treatment conditions and their interaction. For cases which
+      do not meet the normality premise, the Wilcoxon test will be used. The differences between
+      groups, for the categorical and main clinical variables, will be analysed using the
+      Chi-squared test. Those variables which are statistically significant can be used as
+      covariables in a logistic or linear regression of the factors associated with the effect
+      size, and to determine which variables are the best predictors of function. The effect size
+      index will be estimated (Hedge's g or Pearson's r) for the correlation index of each analysis
+      carried out. The statistical software used for all analyses will be the latest available
+      version of SPSS (v. 24).
+
+      Analysis of Clinical Efficacy: For the main statistical analysis, the Intention to Treat
+      (ITT) principal will be applied. The Last Observation Carried Forward (LOCF) will be used as
+      the measure in cases of dropout.
+
+      Ethical Issues
+
+      The current Project will be carried out in accordance with the basic principles of protection
+      of human rights and dignity as per the Helsinki Declaration and as per current legislation.
+      The Law 14/2007 of Biomedical Investigation (LIB) will be followed for the biological
+      samples. The study will not begin until the Ethical Committee for Clinical Investigations
+      (CEIC) gives approval and all information gathered will be treated confidentially, as per
+      constitutional law 15/1999, 13th December. Patients will be informed verbally and need to
+      sign the attached informed consent.
+
+      Study limitations The fact that pharmacological treatment is not controlled for is a
+      potential source of bias. To partially counteract this limitation, in the statistical
+      analysis of the results the variable of pharmacological treatment will be taken into account.
+
+      Implications
+
+      The growing scientific interest in recent years regarding the impact of the presence of
+      psychological trauma in the course and prognosis of mental disorders has demonstrated the
+      great need to treat this risk factor from a clinical viewpoint, given the important negative
+      consequences it means for patients. For this reason, and given the limited interest currently
+      shown by the majority of mental health professionals, the investigators believe that proving
+      the efficacy of implementing a trauma-focused treatment in an in-patient psychiatric setting
+      is an innovative and pioneering proposal which can bring benefits not only to patients with
+      psychotic symptoms, but also to the public health system through being cost-effective. This
+      study has the potential to demonstrate the usefulness and the benefits of treating
+      psychological trauma in psychiatric in-patients with clinical symptoms in a safe and
+      effective way.
+    
+  

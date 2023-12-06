@@ -1,0 +1,36 @@
+
+    
+      Converting knowledge on actual need for opioid pain medications after surgery into tangible
+      benefits can prevent over-prescription of opioids that become available for non-medical use.
+      The objective of this aim is to prescribe pain medications after surgery in a
+      patient-centered fashion. The investigators have used the average amount of opioid
+      medications (in milligram morphine equivalents - MME) taken prior to discharge to inform the
+      clinical decision support tool. This tool will reduce the amount of opioid medications
+      prescribed while maintaining patient post-operative pain control. The calculated "prior to
+      discharge daily MME dose" will be applied to generate a recommendation for the prescription
+      of a cumulative opioid dose that will be displayed when the electronic order entry for the
+      post-discharge pain medication is made in the EHR using a best-practice alert (BPA). In
+      addition, the provider will be prompted to also prescribe non-opioid analgesic medications.
+      This BPA was developed by the Principal Investigator under guidance of the UCHealth System
+      Multidisciplinary Opioid/Pain Management Committee as well as published guidelines.
+
+      Based on the relationship between opioids taken prior to discharge and post-discharge opioid
+      intake described above as well as published guidelines for post-discharge prescriptions after
+      surgery will use a tiered approach towards determining the total amount of opioids to be
+      prescribed. Accordingly, the investigators have integrated an algorithm into the BPA such
+      that opioid intake from the EHR only triggers the BPA if the total amount of prescribed
+      opioids exceeds the predicted thresholds.
+
+      The opioid prescribing BPA will be assessed over a 44-week period in all eligible patients.
+      At the time of writing the prescription an automatic notification will appear on the care
+      provider's screen that identifies a suggested post-discharge opioid dose within the
+      electronic prescription pad. If approved by the provider, opioid-only prescriptions will be
+      written as suggested. Final dosing decisions and drug choices will remain at the discretion
+      of the treating provider and will be tracked. The investigators will use an all "ON" vs. all
+      "OFF" configuration to answer the questions if the average amount of total opioids per
+      post-discharge prescription is lower with the BPA active. The investigation will commence
+      with two "OFF" periods to assess if reduction in prescribing patterns occurs over time
+      regardless of the intervention. Two "ON" periods at the end of the study will determine if
+      any observed changes in prescribing patterns stabilize or continued changes take place.
+    
+  

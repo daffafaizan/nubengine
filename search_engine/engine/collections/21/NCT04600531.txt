@@ -1,0 +1,187 @@
+
+    
+      STUDY DESIGN
+
+      The investigators will conduct a single-blind, sham-controlled, counterbalanced study. For
+      the sequence-specific aspect of IMSL (primary outcome), a mixed factorial repeated measures
+      ANOVA will be carried out with "device" (2 levels: conventional tDCS, HD tDCS) as
+      between-subjects factor and "stimulation" (2 levels: anodal, sham), "blocks" (2 levels:
+      random block, mean of adjacent blocks) and "time" (3 levels: during, post5min, post1week) as
+      within-subjects factors. Similarly, for general learning (secondary outcome), a mixed
+      factorial repeated measures ANOVA will be executed with "device" (2 levels: conventional
+      tDCS, HD tDCS) as between-subjects factor and "stimulation" (2 levels: anodal, sham),
+      "blocks" (7 levels: Blocks 1-6, Block 8) and "time" (3 levels: during, post5min, post1week)
+      as within-subjects factors. Participants are randomly assigned to either the conventional
+      tDCS group or the HD tDCS group by block randomization. All participants will receive both
+      anodal (real) and sham (placebo) tDCS in a random order. Counterbalancing will be done by an
+      independent investigator using Microsoft Excel®.
+
+      RECRUITMENT STRATEGY
+
+      Healthy young adults will be recruited from the Vrije Universiteit Brussel. There are no
+      restrictions or prohibitions for the subjects.
+
+      MATERIALS
+
+      For the Conventional tDCS, a 1x1 Low Intensity Direct Current Stimulator (Soterix Medical
+      Inc, New York, USA) will be used to generate and deliver tDCS through a pair of identical
+      square rubber electrodes (size 35 cm2), placed in rectangular saline-soaked sponges. For the
+      stimulation of M1, electrodes will be placed over C3 or C4 according to the international
+      10-20 electroencephalogram system, matching with the M1 contralateral to the performing hand.
+      The reference electrode will be positioned on F1 or F2, ipsilateral to the performing hand.
+
+      The current stimulation will be slowly ramped up from 0 milliampere (mA) to 2 mA in one
+      minute. For the anodal tDCS condition, this intensity will be maintained for the duration of
+      the SRT-task (approximately 20 minutes), which is well within evidence-based safety standards
+      for tDCS. This will result in a current density of 0,057 mA/cm2. For the sham tDCS condition
+      - unbeknown to the subject - stimulation will be gradually decreased towards 0 mA immediately
+      after the one-minute ramp-up. During the last block of the SRT-task, this gradual ramping-up
+      and -down of the current stimulation will be repeated to optimize the process of blinding of
+      participants. To control for blinding of the subjects, after the last session subjects will
+      be asked whether they were aware of the stimulation condition or not. Transient side-effects
+      will be inventoried by the experimenter during and two weeks after the tDCS protocol, and may
+      include a slight itching sensation under the electrode, redness of the skin under the
+      electrode, headache, nausea, fatigue or insomnia.
+
+      For the High Definition tDCS, a 4x1 Multichannel Stimulation Adapter (Soterix Medical Inc,
+      New York, USA) will be used to deliver HD tDCS over M1. By connecting the conventional tDCS
+      device (described above) to this Multichannel Stimulation Adapter, the direct current is
+      delivered along the 4x1 HD tDCS configuration, allowing for neuromodulation restricted to the
+      desired area. In contrast to the relatively large sponge-electrodes used in conventional tDCS
+      montages (Figure 1A), stimulation via HD tDCS is delivered by means of one central
+      gel-electrode and four return-electrodes placed in plastic encasings embedded in an EEG cap
+      (Figure 1B). Set-up of the device will be done according to the extensive experimental
+      protocol provided by Villamar and colleagues (2013). For the stimulation of the left M1,
+      contralateral to the performing right hand, the anodal stimulation will be delivered via the
+      central electrode corresponding with C3 and held in place using the specially designed
+      synthetic cap to hold the HD-tDCS electrodes on the head. The return-electrodes are
+      positioned at Cz, F3, T7 and P3 (international 10-20 electroencephalogram system), see Figure
+      2. For the right M1, contralateral to the performing left hand, the central electrode will be
+      positioned at C4 with the return-electrodes at Cz, F4, T8 and P4. The stimulating (anodal)
+      direct current will be ramped up for 60 seconds to an intensity of 2 mA, and maintained for
+      the duration of the SRT-task (about 20 minutes).
+
+      The Serial Reaction Time task (SRT-task) will be used to determine IMSL. The SRT- task will
+      be performed on a laptop using E-Prime® software (Psychology Software Tools, Inc.,
+      Pittsburgh, Pennsylvania, USA). Participants will be asked to press the horizontally aligned
+      response keys C, V, B, N of a standard azerty keyboard for a leftmost, left, right, rightmost
+      target, respectively. Responses will be given with the index finger of the least affected
+      hand in the case of the persons with PD and with the dominant hand in the case of the healthy
+      controls. If both hands are equally affected in the persons with PD, the dominant hand will
+      be used as well. The response keys C, V, B and N will be the only visible keys, all other
+      keys will be covered.
+
+      PROCEDURE
+
+      The experiment will take place at a laboratory of the Vrije Universiteit Brussel (VUB) or in
+      a silent room at the participant's home, under supervision of the investigator.
+
+      Following a screening session (T0), in which baseline demographic characteristics (gender,
+      age, dominant hand) will be collected. Participants will be assigned to either the
+      conventional tDCS group or the HD tDCS group and will be seen four times (T1-T4) over the
+      course of minimally five to maximally eleven weeks. All four sessions will start with a
+      practice SRT-task of one random block of 25 trials, followed by the actual experimental
+      SRT-task of eight blocks of 72 trials with a thirty second break between consecutive blocks.
+      In Blocks 1 through 6 and Block 8, the order of the target (i.e. black dot) locations will
+      follow a repeating sequence. This is unbeknown to the participant. The rationale is that
+      reaction times will decrease with repetition of the sequence throughout Blocks 1-6 and 8,
+      denoting a general training effect (secondary outcome measure). When the repeating sequence
+      suddenly changes to a random sequence in Block 7, reaction time will increase in Block 7 and
+      decrease once more in regularly sequenced Block 8, denoting a sequence-specific learning
+      effect (primary outcome measure). To control for possible carry-over effects, the SRT-task
+      will follow a different sequence in each stimulation condition (e.g. 132342134142 in T1-T2
+      and 243413241213 in T3-T4). To make sure IMSL is independent of a specific sequence, six
+      different, structurally identical, sequences of 12 elements long will be counterbalanced
+      between the participants.
+
+      The first interventional session (T1) will be planned at least 1 week after the screening
+      session (T0) and will consist of active (anodal) tDCS or sham (placebo) tDCS administered
+      during the SRT-task. Five minutes post-tDCS, subjects will be asked to carry out a short,
+      three-block version of the SRT-task without application of tDCS to investigate potential
+      short-term consolidation effects: Blocks 1 and 3 following the same regular sequence as
+      earlier; Block 2 following a random sequence.
+
+      The second session (T2) will be planned one week later. During this one-week post-tDCS
+      session the same, full version of the SRT-task from one week earlier will be performed, this
+      time without the application of tDCS, to determine potential long-term consolidation effects.
+      After T2, a washout period of at least three weeks will be planned to control for carry-over
+      effects between the two stimulation conditions (active/sham tDCS). Cross-over will take place
+      and the same procedure with the opposite stimulation condition will be repeated during the
+      third (T3) interventional and fourth (T4) follow-up session. Half of participants in each
+      group will have received active tDCS during T1 and sham tDCS during T3, while the other half
+      of participants will have received these conditions in reversed and randomized order.
+
+      The current stimulation will be slowly ramped up from 0 mA to 2 mA in one minute. For the
+      anodal tDCS condition, this intensity will be maintained for the duration of the SRT-task
+      (approximately 20 minutes), For the sham tDCS condition - unbeknown to the subject -
+      stimulation will be gradually decreased towards 0 mA immediately after the one-minute
+      ramp-up.
+
+      A post-SRT-task questionnaire will be completed after the last session (T4) to determine
+      whether participants became aware of the sequential nature of the task. If participants
+      indicate that they believe a specific sequence appeared, they will have to reproduce the
+      sequence of the last session as correct as possible.
+
+      STATISTICAL ANALYSES
+
+      All statistical analyses will be carried out using International Business Machines (IBM)
+      Statistical Package for the Social Sciences (SPSS) Statistics version 26. The level of
+      significance will be set at α = 0.05. A trend towards significance will be defined as 0.05 ≤
+      α < 0.10. Appropriate corrections for multiple comparisons will be made when necessary.
+      Cohen's f effect sizes will be reported, with values of .10, .25, and .40 representing small,
+      medium, and large effect sizes, respectively.
+
+      In the event of null-effects, the investigators will conclude that there is no evidence of a
+      difference between conditions. However, the investigators will also calculate post-hoc Bayes
+      factors for each group (conventional tDCS, HD tDCS) to assess whether a lack of difference in
+      sequence learning between the anodal and sham stimulation conditions could be interpreted as
+      evidence for the absence of an effect of tDCS on sequence learning.
+
+      Correlation analyses, Bonferroni-corrected for multiple comparisons, will be performed to
+      investigate if the amount of IMSL correlates with demographical, variables (including
+      clinical subtypes of PD). If assumptions for parametrical testing are violated, the
+      non-parametric alternative Spearman's Rho will be calculated.
+
+      The outcomes of the SRT-tasks during, at 5 minutes post and one week post sham tDCS will
+      serve as baseline measures to be compared with the outcomes following actual anodal tDCS.
+
+      The analyses of the SRT-task performance will be based on median reaction time (RT) per block
+      instead of mean RT to minimize potential outlier effects. Practice trials, the first response
+      after each break, erroneous responses and responses following an error will be excluded from
+      the analyses. Median RTs per block will be analyzed to determine (1) a general learning
+      effect (secondary outcome measure) and (2) a sequence-specific learning effect (primary
+      outcome measure).
+
+      General learning effects during and at one-week post-tDCS will be derived from a decline in
+      median RTs over the seven regularly sequenced blocks (i.e. Blocks 1-6 and Block 8). This will
+      not be applicable to the 5-minutes post-tDCS SRT-task as it is a short version with only
+      three blocks. A 2x2x2x7 repeated measures ANOVA will be carried out with device (conventional
+      tDCS, HD tDCS) as between-subjects factor and stimulation (active, sham), time (during,
+      post1week) and block (Blocks 1-6, Block 8) as within-subjects factors.
+
+      Sequence-specific learning effects during, 5 minutes and 1 week post-tDCS will be analyzed by
+      subtracting the mean of the median RTs of adjacent sequenced blocks (Blocks 6 and 8 during
+      stimulation and at one week post-tDCS; Blocks 1 and 3 at 5 minutes post-tDCS) from the median
+      RT of the random block (Block 7 during stimulation and at 1-week post-tDCS; Block 2 at
+      5-minutes post-tDCS). A 2x2x2x3 repeated measures ANOVA (or Friedman and Wilcoxon signed rank
+      tests as non-parametrical alternatives) will be carried out with device (conventional tDCS,
+      HD tDCS) as between-subjects factor and stimulation (active, sham), sequence (random block,
+      mean of adjacent sequenced blocks) and time (during, post5min, post1week) as within-subject
+      factors.
+
+      In case assumptions of sphericity are violated, Greenhouse-Geisser or Huynh-Feldt corrections
+      will be reported. Bonferroni-corrected t-tests will be implemented to further analyze
+      significant main and interaction effects.
+
+      Error percentages in the SRT-task are generally small and thus, because of a limited number
+      of observations, less sensitive to IMSL. The percentage erroneous reactions per block will be
+      calculated for both stimulation conditions (anodal, sham) and for the three measurements over
+      time (concurrent, post5minutes, post1week). The Shapiro-Wilk test of residuals will be
+      carried out to evaluate normality of distribution.
+
+      The sequential score, as outcome measure for explicit knowledge, will be taken up as a
+      covariate in the analyses. An independent samples t-test (or non-parametrical alternative
+      Mann-Whitney U test) will be carried out to ascertain whether the sequential scores (x/12) of
+      the conventional tDCS group are different from the HD tDCS group.
+    
+  

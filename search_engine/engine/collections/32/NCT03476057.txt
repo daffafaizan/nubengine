@@ -1,0 +1,35 @@
+
+    
+      Sample DNA handling： Peripheral blood lymphocytes (PBLs), and plasma were collected for
+      analysis for each patient. 10mL tubes containing blood samples with EDTA added were
+      centrifuged at 1000g for 10min. The cell pellets containing peripheral blood lymphocytes were
+      stored at -20 °C. The supernatants were centrifuged again at 10,000 g for 10 min, and plasma
+      was collected and stored at -80°C.Tiangen whole blood DNA Kit (Tiangen, Beijing, PRC) were
+      used to extracted DNA from peripheral blood lymphocytes, respectively. QIAamp Circulating
+      Nucleic Acid Kit (Qiagen, German) was used to extract cfDNA form plasma. All kits were used
+      according to the manufacturers' instructions.
+
+      Library preparation and sequencing： For each sample, DNA was quantified with the Qubit dsDNA
+      HS Assay kit (Life Technologies,USA) as manufacturer's recommended protocol. Targeted
+      amplification and Illumina adapter-ligated library preparation was performed using Amplicon
+      Sequencing-Illumina Compatible Kit following manufacturer's instructions (Questgenomics,
+      Nanjing, PRC). All samples were subjected to Illumina HiSeq X-Ten for paired-end sequencing
+      (150bp each end). The AmpliSeq Cancer Panel covers 1406 cancer-associated genes which
+      developed by Co. Roche.
+
+      Variant calling： Initial data from HiSeq X-Ten were evaluated by using fastQC (v0.11.3). Raw
+      reads were mapped to reference genome hg19 by using BWA (0.7.12-r1039). Program Samtools and
+      VarScan (v2.4.1) was used for variant calling: (1) the average total coverage depth was
+      defined as >1000 and each variant coverage as >10; for called variant, at least one sample
+      with variant frequency >1%, variant frequency of each sample >0.5%, and P value <0.01; (2)
+      visual examination of the mutations was performed using Samtools software
+      (http://samtools.sourceforge.net) and possible errors specific to one DNA strand were
+      filtered out. Software ANNOVAR (v2015-06-17) and snpEff (v4.2) was used for variant
+      annotation
+
+      Statistical analysis： For variant frequency less than 0.5%, 0 was replaced. R (hclust,
+      v3.2.4) was used for variant frequency clustering analysis to show what types of samples from
+      cancer patients are more similar. Student's T test was applied for comparison of cfDNA
+      concentration and p<0.05 was considered statistically significant.
+    
+  

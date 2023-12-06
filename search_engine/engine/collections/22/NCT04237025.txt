@@ -1,0 +1,112 @@
+
+    
+      Parkinson's disease (PD) is a highly prevalent neuro-degenerative disorder in older adults
+      that leads to reduced activity levels, physical disability, and accelerated age-related
+      decline in mobility. Gait dysfunction and postural instability are key motor problems that
+      develop with disease progression and adversely affect independent mobility, fall risk and
+      activity participation. Prevention of balance, gait and functional decline are priority goals
+      in physical therapy management for individuals with PD. Early activity-based and exercise
+      interventions are supported as critical components for disease management and slowing disease
+      progression. Furthermore, the underlying mechanisms by which exercise-based interventions
+      effect changes in motor and non-motor symptoms in PD need to be further elucidated.
+
+      Individualized aerobic exercise prescription that is task-specific, challenging, and feasible
+      for an independent exercise program is needed for individuals with PD to optimize their
+      walking and motor function and sustain long-term engagement in regular physical exercise.
+      Walking as a form of aerobic exercise has been reported to be safe in a community setting and
+      to improve functional and gait outcomes and quality of life in PD. Nordic walking (NW) is a
+      form of fitness walking using specialty poles that mimics the full body movement pattern of
+      cross-country skiing, can be performed in varied terrains and may offer additional benefits
+      beyond simple treadmill or over ground walking. NW technique has specific benefits for
+      Parkinson gait, as it incorporates rhythmic timing of inter-limb coordination, increased
+      engagement of upper extremities and upright trunk, and high energy expenditure resulting in a
+      beneficial aerobic conditioning effect.
+
+      There is also consistent scientific evidence in both clinical and animal studies that shows
+      the benefits of exercise at the cellular level in PD. Moderate to intense aerobic exercise
+      enhances PD brain health and supports neural plasticity. Cellular changes include increased
+      blood flow and angiogenesis, up-regulated neurotrophic factors, reduced neuro-inflammation,
+      and enhanced immune responses. This project will evaluate the effects of NW in persons with
+      PD at the molecular level with 3 known exercise-related bio-markers. These 3 bio-markers are
+      brain-derived neurotropic factor (BDNF), cortisol, and alpha-amylase (α-amylase) proteins.
+
+      Study objectives:
+
+      Given the rapid accumulation of evidence showing the benefits of exercise in PD, there is a
+      need to investigate which modes of exercise training have positive effects both on clinical
+      measures and on bio-markers that are indicative of biochemical changes to support PD brain
+      health. With a previously reported moderate aerobic conditioning effect following NW in both
+      healthy elderly and PD cohorts, the premise is that this intensive fitness walking may
+      produce changes at the cellular and molecular levels. Investigating changes in walking and
+      motor/non-motor function following NW exercise and correlating these changes with
+      exercise-related bio-markers may provide foundation support for the neuro-protective benefit
+      of NW in persons with PD. Thus, the purpose of this proof-of concept study is to investigate
+      the immediate and long-term effects of NW exercise on walking function, motor/non-motor PD
+      symptoms and exercise-related bio-markers in persons with mild to moderate idiopathic PD.
+      Additionally, this study will examine independent NW exercise engagement after a supervised
+      training program to assess feasibility and sustainability of this mode of task-specific
+      aerobic exercise.
+
+      Study Design:
+
+      This study will employ a prospective, single cohort pre- and post-intervention research
+      design. Rationale for this design is twofold: 1. proof-of-concept in order to assess
+      intervention effects based on functional and clinical measures following NW training and
+      examine if these measures are associated with changes in exercise-related bio-markers in PD;
+      and 2. assessment of feasibility of independent engagement in NW exercise after a supervised
+      program in persons with mild to moderate PD as a mode of task-specific physical activity
+      engagement. This research design will involve a 4-week baseline phase with two time points
+      for assessment of dependent measures (T0-A and T0-B) to assess for a stable baseline,
+      followed by a 6-week NW training intervention phase with a post-training assessment (T1) at
+      the end of the 6 weeks, and a 3-month independent NW exercise phase with a follow-up
+      assessment at the end of the 3 months (T2). Previous work in our lab has demonstrated
+      significant improvements in walking and balance measures following a 6-week treadmill and
+      rhythmic over ground auditory cuing protocols, and therefore, a 6-week training duration is
+      expected to be sufficient for inducing training effects. Supervised NW adherence and
+      independent NW exercise adherence, as well as any adverse effects will be monitored to
+      determine feasibility and safety, particularly for independent NW phase of the study.
+
+      Data Analysis:
+
+      Descriptive statistics on patients' demographic characteristics (e.g. age, disease duration,
+      stage, PD sub-type, fall history, activity level classification, medications and
+      co-morbidity) will be documented. PD sub-type is categorized as tremor dominant, posture
+      instability/gait difficulty, and indeterminate, based on MDS-UPDRS score. Descriptive
+      statistics on patient's training sessions and training progression across the six weeks will
+      be synthesized and analyzed. This training session data will include: training activities,
+      walking speed, duration and distance of NW, Rating of Perceived Exertion, and walking
+      terrain. Data from activity logs will be examined to reflect independent NW exercise
+      adherence and activity level (number of steps/day) both during the 6-week training program
+      and the follow-up independent exercise phase. Fall report data and any adverse events will be
+      documented. This adherence and safety descriptive data during 3-month follow-up phase will
+      reflect feasibility of independent home NW exercise program following a supervised NW
+      training program.
+
+      Descriptive statistics for the gait, clinical PD-motor and non-motor, and bio-marker outcome
+      measures will be calculated. Comparison of the two-baseline gait and clinical measures
+      (Baseline-week 1 T0-A vs baseline week 4 T0-B) will be analyzed using dependent t-tests to
+      determine if there was a stable baseline for these dependent measures. If analysis reveals no
+      differences between baseline measures, then measures taken at T0-B will be used for
+      comparison to T1 and T2 measures. If analysis reveals differences between baseline measures,
+      then the average of the two measures will be used for comparison to T1 and T2 measures.
+      Dependent measures distribution across the three time points (T0, T1, T2) will be analyzed to
+      assess if meet the assumption of normal distributions. If the data are normally distributed,
+      one-way repeated measures analysis of variance (ANOVA) with planned contrasts will be used
+      for each outcome measure to compare baseline to T1, baseline to T2, and T1 to T2. ANOVA is a
+      statistical method to test differences between two or more means (mean = average of a data
+      set). A repeated measures ANOVA can be used to determine whether there is any statistically
+      significant difference between the means of three or related groups (in this study, a related
+      group is a specific time point). Repeated measures ANOVA will also be used to assess the
+      changes in means over 8 collection time points in the BDNF, cortisol, and α-amylase data and
+      show a time-course of the NW exercise effects in persons with PD. P value was set at p <.05
+      for all statistical tests. To examine the magnitude of the training effects, the Cohen effect
+      size will be calculated for those variables that demonstrated statistically significant
+      change.
+
+      Raw data of gene expression will be normalized and background corrected to set the data set
+      to a common scale and remove the effects of non-specific binding across the micro arrays. The
+      Limma package in R, a computational programming language for statistical computing and
+      graphics will be used. Differential-expressed genes can then be identified to show gene
+      expression changes that are statistically significant between different time points.
+    
+  

@@ -1,0 +1,18 @@
+
+    
+      This clinical trial is a study to assess the performance of an automated glucose control
+      system (Artificial Pancreas, AP) device in home settings for subjects with type 1 diabetes.
+      Specifically, the investigators will test zone model predictive control AP that will be
+      enhanced by run-to-run optimizations of basal rates (BR) and insulin to carbohydrate ratios
+      (CR). This protocol builds on the investigators previously validated Zone-MPC and Health
+      Monitoring System (HMS) algorithms (ClinicalTrials.gov: NCT01929798) integrated into the
+      Diabetes Assistant (DiAs) system (ClinicalTrials.gov: NCT02463682). The same AP system used
+      in NCT02463682 will now be used with algorithmic adjustment of CR's prior to closed-loop
+      initiation, and continued BR and CR algorithmic optimization during closed-loop use for a
+      longer duration.
+
+      The system will be evaluated on up to 12 subjects per site (n=36 subjects) for 15 weeks at 3
+      different sites (William Sansum Diabetes Center, University of Virginia, and Mayo Clinic,
+      Rochester, MN).
+    
+  

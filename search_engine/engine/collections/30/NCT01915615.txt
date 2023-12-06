@@ -1,0 +1,166 @@
+
+    
+      2.2 Rationale Presently used risk predictors in HCM for the clinical outcomes of SCD and HF
+      are still insufficient and limit clinical trials and institution of novel therapies in this
+      disease. This large scale, prospective clinical registry will systematically answer the
+      important question whether, through addition of a combination of advanced CMR phenotyping,
+      genetic and biomarker analysis, risk stratification in HCM could be substantially improved
+      over presently used clinical risk predictors. Emerging novel blood, genetic, and CMR markers
+      offer the paradigm-shifting promise of reliably identifying those at risk. In addition, this
+      will be the largest genotyped population of HCM available to correlate with comprehensive CMR
+      and biomarker evaluation. This will allow unique opportunities to evaluate genotype-phenotype
+      correlations and compare specific genetic subsets in a manner that has not been possible in
+      the past. This study will also establish a predictive model that can be used to assess risk
+      given a patient's combination of risk factors. This will help to select patients for future
+      clinical trials to prevent SCD and HF. In addition, it will identify surrogate endpoints to
+      monitor treatment response in HCM. In this way, the evidence base will be established in HCM
+      to enable clinical trial design to reduce morbidity and mortality in HCM in a cost-effective
+      manner.
+
+      3 OBJECTIVES The Specific Aim of this study is to develop a predictive model of
+      cardiovascular outcomes in hypertrophic cardiomyopathy by: 1) using exploratory data mining
+      methods to identify demographic, clinical, and novel CMR, genetic and biomarker variables
+      associated with the outcomes and 2) develop a score from the predictive model that can be
+      used to assess risk given a patient's combination of risk factors, thus establishing the
+      evidence base to enable clinical trial design to reduce morbidity and mortality in HCM in a
+      cost-effective manner.
+
+      To understand the relationship between these novel risk markers in HCM and clinical outcome,
+      the investigators propose a natural history study of 2750 patients with clinically diagnosed
+      HCM studied at baseline with collection of demographic data, clinical risk factors, as well
+      as novel markers from CMR, genotyping, and serum biomarkers of collagen turnover and
+      myocardial injury, enrolled over a 2-year period and followed for 3-5 years (mean of 4
+      years). The study will be powered to identify risk markers in a Cox model (imaging, serum,
+      and genetic beyond standard clinical risk factors) with a hazard ratio of 1.5 or greater for
+      the primary endpoint, which will be cardiac death (including SCD and HF death), aborted SCD
+      (appropriate discharge of an implantable cardioverter-defibrillator), and need for heart
+      transplantation. Secondary endpoints include all-cause mortality, ventricular
+      tachyarrhythmias, hospitalization for heart failure, atrial fibrillation, and stroke. This
+      study will enable establishment of a predictive model that will help to identify patients at
+      risk as well as patients for future clinical trials to prevent SCD and HF. In addition, it
+      will identify surrogate endpoints to monitor treatment response in HCM.
+
+      4 STUDY DESIGN 4.1 Selection of the Study Population
+
+      Patient characteristics:
+
+      2750 patients will be recruited and will include at least 51% females and 30% minorities.
+
+      Recruiting locations:
+
+      Inpatient or outpatient setting from 35-40 sites in North America and Europe
+
+      Serum Biomarker and DNA Samples Blood will be collected by peripheral venipuncture at
+      enrollment as a source of serum and plasma for biomarker analysis, as well as a source of DNA
+      for genetic testing. Fasting samples are requested but if this is not possible logistically,
+      non-fasting samples can be acquired and noted as such. The investigators will also ask
+      subjects to refrain from strenuous exercise for 24 hours prior to blood draw to decrease the
+      potential for spuriously elevated biomarkers that reflect the influence of vigorous physical
+      activity.
+
+      Cardiac MRI
+
+      A cardiac MRI will be performed and will take approximately one hour. 0.15mM of gadolinium
+      contrast will be infused through an intravenous line during the MRI.
+
+      Full details of the protocol will be in the Study Manual. Laboratory Evaluations 5.1.1
+      Specimen Collection, Preparation, Handling and Shipping Biomarker samples (Full details are
+      provided in the separate Biomarkers Technical Manual) 1. Collect 3, 10 ml tubes each of serum
+      and K3 EDTA plasma in the fasting state (or indicated non-fasting if fasting samples cannot
+      be obtained) DNA samples
+
+      1. Collect one 10ml EDTA tube. 6 STUDY SCHEDULE 6.1 Screening Patient's medical records will
+      be reviewed to be certain of diagnosis and eligibility.
+
+      Informed consent must be obtained by a member of the study team. 6.2 Baseline visit
+
+      Initial visit will be scheduled for study procedures as listed in #5 above. 6.3 Follow-up
+      Visits Yearly telephone follow-up will be obtained for up to 5 years and review of applicable
+      hospital or death records. Health status will be assessed with the SF-12 at this time.
+
+      10 STATISTICAL CONSIDERATIONS 10.1 Study Outcome Measures
+
+      The primary endpoint of this prospective study is the composite of cardiac death (SCD and HF
+      death), aborted SCD including appropriate ICD firing, and need for heart transplantation.
+
+      Secondary endpoints include all-cause mortality, ventricular tachyarrhythmias,
+      hospitalization for heart failure, atrial fibrillation, and stroke.
+
+      10.2 Sample Size Considerations Assuming a 3-year event rate of 4.2% based on recently
+      published literature10;11;26;27 and alpha error rate of 5%, 2500 patients provides over 90%
+      power to detect a hazard ratio of 1.5 for at least one risk factor in the Cox model. An
+      additional 250 (2750 total) patients will be enrolled to compensate for a projected dropout
+      rate of 2% per year.
+
+      10.3 Participant Enrollment and Follow-Up 2750 enrollees, will be followed up to 5 years.
+      10.4 Analysis Plan Because the anticipated event rate is small (4-5%), and the number of
+      potential predictive risk factors is large (20+), an exploratory, tree classification
+      analysis will be used to identify the strongest predictors and eliminate any that are judged
+      to have little or no predictive power. Based on the risk factors identified in the
+      exploratory analysis, a regression prediction model will be developed from which a summary
+      risk score for HCM can be calculated and easily used in clinical settings.
+
+      Tree-based data mining methods will be used to identify key variables in the prediction of
+      the primary outcome, a composite of cardiac death (SCD and HF death), aborted SCD including
+      appropriate ICD firing, and need for heart transplantation. Secondary endpoints will include
+      all-cause mortality, ventricular tachyarrhythmias, septal myectomy or alcohol ablation,
+      hospitalization for heart failure, atrial fibrillation, and stroke. Tree-based modeling is an
+      exploratory technique for uncovering structure in multivariate data28;29. It is particularly
+      useful for deriving prediction rules from a large number of screening variables or risk
+      factors. Tree models can be used for both classification (binary outcome) and regression
+      (continuous outcome). In either case, the collection of prediction rules (from the predictor
+      variables) is displayed in the form of a tree. The terminology mimics that of trees: the root
+      is the top node of the tree that displays the mean (regression) or proportion
+      (classification) of the outcome for the entire sample. A split is the rule for creating new
+      branches, and a leaf is a terminal node. Each node is a binary split of the predictor
+      variable that contains two sub-groups of the sample with the largest possible difference
+      between the groups. The same variable can appear in more than one level of the tree
+      (recursive partitioning).
+
+      The advantage of tree-based models over linear and additive models is that they are more
+      adept at capturing non-additive relationships and more easily uncover complex interactions
+      between predictor variables. Continuous variables or categorical variables with more than two
+      levels need not be dichotomized prior to the analysis - the tree algorithm determines the
+      cutoff value that produces the most homogenous nodes. Missing data can be treated as a
+      separate category. Initial tree models will include risk factors listed in the following
+      table as well as demographic variables, age, sex, and race.
+
+      Clinical CMR Genetic Biomarkers Family history of HCM-related SCD LV ejection fraction MYH7
+      NT-pro BNP Unexplained recent syncope LV mass/mass index MYBPC3 Singulex cardiac troponin
+      Massive LVH (wall thickness >30mm) Maximum diastolic wall thickness Thin filament mutations
+      PICP Multiiple burst of nonsustained VT LGE extent (% of LV mass) Compound/double
+      heterozygotes ST2 Hypotensive BP response to exercise Global extracellular volume fraction
+      Sarcomere mutation negative The initial tree is reduced in size (pruned) by comparing
+      misclassification error rates of smaller trees to larger trees to assess the reduction of the
+      predictive ability of trees resulting from the pruning process. The goal is to identify the
+      strongest predictors of HCM, any interactions of the predictors, and eliminate any factors
+      that have little predictive power. While tree models give rapid identification of the
+      strongest predictors and combinations of predictors, they do not usually result in clinically
+      useful prediction models that generalize well to patients in other settings. Regression
+      methods, using test-validation re-sampling procedures, will be used to develop the most valid
+      model possible.
+
+      Using the demographic, clinical, imaging, biomarker and genetic measures, plus any
+      interactions, identified in the tree analysis, Cox proportional hazards regression will be
+      used to develop a predictive model from which a summary risk score can be calculated and
+      applied in clinical settings. Parametric regression methods may be used if the proportional
+      hazards assumption is not met. The regression model will be developed using a 100-fold
+      validation procedure whereby 50% of the observations will be randomly selected for model
+      development (test sample) and the remaining 50% used to assess the model's predictive ability
+      (validation sample). This procedure will be repeated 100 times with a different random
+      selection of test-validation samples for each iteration. The c-index will be calculated to
+      assess model discrimination for both test and validation samples30. The ensemble of
+      test-validation models provides an estimate of the attenuation of the c-index when the model
+      is applied to a different sample as well as consistency of specific risk factors appearing in
+      the models. A final model will be constructed that includes the combination of the strongest
+      (high c-index and frequency of appearance) predictors. This model will then be applied to the
+      entire sample to estimate regression coefficients and hazard ratios and calculate a summary
+      risk score30. Nomograms will be constructed from the final model to provide predicted
+      probabilities of the risk scores. To increase the ease of use of a nomogram, variables which
+      are statistically significant but have little effect on prediction may be excluded. The model
+      will also be used to develop a prediction algorithm that rapidly calculates risk on a
+      hand-held electronic device. This analysis may also inform the design of clinical trials to
+      evaluate therapeutic efficacy by providing effect sizes (hazard ratios) to calculate sample
+      size requirements.
+    
+  

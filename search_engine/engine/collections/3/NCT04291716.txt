@@ -1,0 +1,21 @@
+
+    
+      Seizures are paroxysmal, abnormal behaviors which usually are associated with altered
+      awareness and amnesia. The frequency of seizures is not easily documented. The individual who
+      suffers from seizures may be unaware that a seizure is occurring. Many seizures, including
+      generalized major motor seizures, have stereotyped, vigorous motor activity associated with
+      the events.
+
+      Currently, accurate seizure detection relies on EEG and video which are limited by time, size
+      and mobility. Seizure detection can also use biomarkers such as movement patterns described
+      by gyroscopes. These devices can monitor patterns of movement which correspond to the
+      activity during seizures and kept in a log of seizures without patient input. The log can be
+      used to notify patients or caregivers of seizures.
+
+      This study is to determine the accuracy of a system using a commercial, wearable device
+      linked to a computer algorithm based in the cloud which stores the movement pattern and
+      notifies the patient and others of a generalized major motor seizure. The accuracy will be
+      determined by a comparison of the system detections to simultaneously recorded video
+      electroencephalogram, considered the "gold standard" of seizure detection.
+    
+  

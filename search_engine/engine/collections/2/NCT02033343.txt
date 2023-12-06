@@ -1,0 +1,32 @@
+
+    
+      Prostate cancer now accounts for one third of all new cancer diagnoses in men and
+      approximately 30% of men will have external beam radiotherapy as their primary local therapy.
+      Prostate motion during radiotherapy can be divided into interfraction and intrafraction
+      motion. Interfraction motion has been well established and has been largely overcome by daily
+      online image verification with either ultrasound, online CT or implanted fiducial markers,
+      however motion during the radiation beam on time (intrafraction motion) is not corrected and
+      can be the cause of significant errors in radiation dose delivery.
+
+      The most common technology utilised in 2012 to allow prostate gating is the Calypso system.
+      The Calypso system consists of implantable electromagnetic transponders, an array that
+      contains source and receiver coils, computers for data analysis and display purposes, and an
+      infrared camera system to localise the electromagnetic array in the treatment room. The array
+      is placed over the patient, and the source coil in the array emit an electromagnetic signal
+      that excites the transponders. Once the transponders are excited, the source coils are turned
+      off and the receiver coils detect the signal emitted from the excited transponders. This
+      process is repeated at a rate of 10 Hz, providing a realtime radiofrequency localisation of
+      the prostate triangulating three implanted beacons. The current study will investigate using
+      the continuous prostate positioning data from Calypso to integrate with the treatment beam
+      delivery and allow real-time adaptation based on the prostate motion. This is called Realtime
+      Dynamic Multileaf Collimator (DMLC) tracking. In this technique the multileaf collimator
+      motion is altered in the gantry head in real time during beam delivery to account for the
+      measured prostate motion.
+
+      The proposed study is examining the dosimetric impact of accounting for intrafraction motion
+      with Calypso and DMLC tracking. We hypothesise the improvements in delivered prostate dose
+      with DMLC tracking will be even greater than gating. This improved treatment delivery will
+      ensure that the prostate cancer receives the appropriate dose and that normal tissues are
+      spared from extra radiation.
+    
+  

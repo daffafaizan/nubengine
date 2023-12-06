@@ -1,0 +1,43 @@
+
+    
+      Background and aim:
+
+      The vital signs are critical in assessing the severity and prognosis of infections, i.e.,
+      Covid-19, influenza, sepsis and pneumonia. Quick and accurate triage is critical when facing
+      a pandemic with an overwhelming number of cases (confirmed and suspected). This study aims a)
+      to evaluate a new method for rapid camera-based non-contact measurement of five vital signs;
+      body temperature, heart rate, blood oxygen saturation, respiratory rate, and blood pressure,
+      and b) if an AI can predict hospitalization or death within 30 days.
+
+      Methods:
+
+      A method-comparison study design is used comparing each vital sign measured with the new
+      method to the corresponding standard reference method. Furthermore, a cohort design is used
+      to follow up any hospitalization or death within 30 days. The investigated new system
+      consists of a high-speed digital video camera, a digital radiometric infrared camera, LED
+      lights and a computer for data recording. This system faces the subject at a distance of
+      approximately one meter, capturing a 30 second recording of the subject's face. First, all
+      vital signs will be measured using one set of reference devices. Secondly the investigated
+      device will record a 30 second video of the patient's face. Thirdly, and last, all vital
+      signs will be measured using the same set of reference devices. A copy of the vital sign
+      readings (using the standard reference methods) will be handed over by an investigator to the
+      clinical professionals responsible for the subsequent medical care for each subject.
+      Afterwards, the collected 30-second recordings will be run through specific software
+      algorithms to extract the vital signs. The results from the new camera-based contactless
+      measurement of vital signs and the outcome of the AIs prediction of risk for hospitalization
+      or death will not be presented in the care situation of the patient.
+
+      Expected Findings:
+
+      It is expected that the proposed study will show that the new method can estimate body
+      temperature, heart rate, respiratory rate, blood oxygen level, and blood pressure with an
+      acceptable agreement compared with the reference method and also estimate hospitalization or
+      death within 30 days.
+
+      Implications of the expected findings:
+
+      Being able to measure vital signs quicker than before by using a new contactless method would
+      greatly facilitate triage of large number of patients. Also being able to predict
+      hospitalization or increased risk for death would further improve the triage of patients.
+    
+  

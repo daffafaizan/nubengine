@@ -1,0 +1,20 @@
+
+    
+      The investigators collected 340 plasma samples from 144 clinically annotated patients with
+      detailed clinical data. All plasma samples were already analyzed by plasma-Seq, an approach,
+      which measures copy number from sequence read depth, for a first evaluation of somatic copy
+      number alterations (SCNAs). As this project represents a feasibility study, the investigators
+      want to evaluate to what extend cis-acting alterations can be determined, i.e. establish the
+      corresponding gene expression changes via nucleosome position mapping as previously published
+      by our group. The results will be corroborated by analyses of the corresponding primary tumor
+      by SCNA-seq and RNA-seq.
+
+      From the 340 plasma samples the investigators selected 59 as representative for being either
+      luminal (i.e. those with amplifications at 17q23, 11q13/q14, 8p12, 8q, and gains of 16p and
+      1q; n=25), basal (i.e. gains of 8q, 10p, 12p and various amplifications occurring due to the
+      high-genomic instability; n=25), and ERBB2/HER2 (i.e. high-level amplification on 17q,
+      centered and including the HER2 gene; n=9). These samples will be sequenced with high
+      coverage (70x) so that both mutations and nucleosome positions can be extracted from the
+      obtained sequences.
+    
+  

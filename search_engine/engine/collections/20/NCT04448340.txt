@@ -1,0 +1,12 @@
+
+    
+      The algorithm will be develop using dataset from two specialized memory centers, employing a
+      sample of PDD and DLB subjects whose diagnostic follow-up is available for at least 3 years
+      after the baseline assessment. A restricted set of information regarding clinico- demographic
+      characteristics, 6 neuropsychological tests (mini mental, PD Cognitive Rating Scale, Brief
+      Visuospatial Memory test, Symbol digit written, Wechsler adult intelligence scale, trail
+      making A and B) was used as predictors. Two classification algorithms, logistic regression
+      and K-Nearest Neighbors (K-NNs), will be investigated for their ability to predict
+      successfully whether patients suffered from PDD or DLB.
+    
+  

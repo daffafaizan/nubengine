@@ -1,0 +1,146 @@
+
+    
+      A total of 36 communities have established a testing site with testing events held every
+      other week (bi-weekly). The study randomized counties at the site level within county. The
+      investigators used a priori stratification by county as sample size is small. Half of all
+      sites in a county were assigned to the control condition (services as usual), and the other
+      half to the intervention condition (Promotores de Salud). Randomly assigned communities
+      receive one of two outreach strategies: Services as usual (culturally tailored flyers, radio
+      announcements, social media posts, health behavior pamphlet on site) or services as usual
+      plus the Promotores de Salud intervention, where a paid, trusted community member reaches out
+      to community members to motivate them to utilize the free testing services and improve
+      COVID-19 related health behaviors. The Promotores de Salud intervention was designed to build
+      relationships with Latinx community members and facilitate trust.
+
+      To assess the proportion of Latinx community members tested at each site, the investigators
+      will use de-identified health information provided to the study by the University of Oregon's
+      (UO) COVID-19 clinical genomics laboratory, who are processing the tests. To assess health
+      behaviors, a subset of adult participants at each site will be invited to participate in a
+      research survey, administered at baseline and again 30 days later. For both approaches, the
+      study anticipates engaging a greater proportion Latinx community members, relative to overall
+      county demographics. The overall study population is expected to be 85% Hispanic and 15%
+      non-Hispanic, with 84% of individuals identifying as White in both ethnic groups and the
+      remaining 16% identifying as African American, Asian, Pacific Islander, American
+      Indian/Alaska Native, or more than one race. There will be 18 sites per study group (36
+      total) and up to roughly 3,600 adult individuals assigned to the intervention (n = 1,800) or
+      control conditions (n = 1,800).
+
+      This study also leverages data from a patient registry from the University of Oregon's
+      COVID-19 clinical genomics laboratory.
+
+      Quality Assurance, Data Checks, Source Data Verification, Data Dictionary, and Standard
+      Operating Procedures: Data and biospecimens will be collected in-person at testing sites,
+      requiring direct interaction with participants. In order to report SARS-CoV-2 infection
+      results back to each participant, name, date of birth, and contact information are collected.
+      To fulfill reporting requirements to the Oregon Health Authority, county of residence and zip
+      code are also collected for each person tested. Data used to evaluate the efficacy of
+      intervention will involve aggregate variables derived from data collected as part of the
+      diagnostic testing procedure and will be aggregated at the level of the testing site (e.g.,
+      tests performed, race and ethnicity percentages, etc.).
+
+      For the collection of SARS-CoV-2 samples, testing facilitators will guide participants in the
+      self-collection process. For anterior nares, participants are instructed to place the nasal
+      swab about 1cm into their nostril and rotate it, making contact with the nasal membrane for
+      10 seconds, then repeating the process with the same swab in the other nostril. For saliva
+      collection, participants spit 1 - 5 ml of saliva into a sterile container, which may take a
+      participant up to 10 minutes to produce. Parents are instructed to collect the sample for
+      their child if the child is under 10 years old, or if the minor child requests parental
+      assistance. Testing site staff can assist participants who have low dexterity or physical
+      impairments in sample collection. In case of an injury during sample collection, the
+      partnering community organization staff will direct the participant to the appropriate
+      medical resources. Samples will be placed into sterile barcoded vials (1 ml Matrix, barcoded
+      screw-cap tubes) that each contain 500 microliters (μl) of DNA/RNA Shield. Each Matrix tube
+      will then be closed tightly and will be placed in a standard plastic laboratory
+      microcentrifuge tube rack with eight rows and twelve columns (8-by-12 rack with 96
+      positions). This rack will then be externally decontaminated by brief submersion in
+      accelerated hydrogen peroxide (H202). Each 96-position microcentrifuge tube rack will then be
+      labeled and placed in a sterile temporary container with wet ice at 4Cdegrees. If possible at
+      each site, racks will be periodically transferred either to a refrigerator (4C) or freezer
+      (-20C) for storage. At the end of the day all racks will be transported on wet ice to the
+      COVID-19 clinical genomics Laboratory at UO, ensuring that they will arrive no longer than 48
+      hours after collection and preferably within 12-24 hours. If the testing site is located too
+      distally for hand transport, tube racks will be secured and shipped by express methods on dry
+      ice.
+
+      Each 96 well collection plate will next proceed to molecular processing using the standard,
+      FDA approved Thermo Fisher TaqPath analysis protocol. All steps of this approved protocol
+      will be followed exactly, including the appropriate reagents, volumes, and inclusion of
+      appropriate positive and negative controls. In addition, investigators will employ the
+      software analysis system and parameters exactly as specified. First, RNA will be extracted
+      from each well using the MagMax Viral/Pathogen Nucleic Acid Isolation Kit (ThermoFisher,
+      #100081242) which removes potentially inhibiting contamination and increases the sensitivity
+      and consistency of subsequent qPCR protocols. Depending upon the number of samples to be
+      processed, the RNA extraction will either occur by hand using multichannel pipettors or
+      through the use of the Hamilton Robot. The purified RNA will then be retrotranscribed for
+      analysis using the TaqPath RT-PCR COVID-19 Kit on either 96 well or 384 well QuantStudio5
+      (QS5) thermocyclers depending upon the number of samples to be processed. If the lab
+      technicians need to process 384 samples, they will use the Hamilton liquid handling robot
+      (Hamilton, Microlab VANTAGE 2.0) to aliquot from each of four-96 well plates into the 384
+      well plate format for subsequent qPCR amplification. In this RT-PCR process, probes anneal to
+      three unique forward and reverse primers for three SARS-CoV-2 genes: ORF1ab, N Protein and S
+      Protein.
+
+      All laboratory and reporting will be automated through the use of barcodes, robotics, 96 and
+      384 well qPCR machines, and the use of a fully HIPAA and CAP3 compliant Laboratory
+      Information Management System (LIMS) built by L7 informatics (https://l7informatics.com/).
+      These system automations and use of LIMS allow increased throughput (up to several thousand
+      samples per day) and rapid analysis and automated reporting of results through the LIMS. The
+      qPCR data are stored in the LIMS system for analysis using the Applied Biosystems COVID-19
+      Interpretive Software to allow a qualitative assessment of whether the virus is present in
+      the sample (a 'positive' case), absent, or uncertain. The LIMS system in the COVID-19-MAP lab
+      allows the integration of this analysis software into the appropriate step of the overall
+      sample tracking workflow pipeline, and therefore the immediate result can be linked to the
+      appropriate barcode in the database. Furthermore, the LIMS system is connected and
+      communicates via a local area network (LAN) with all equipment (e.g., robots and qPCR
+      machines) to document each step of the process for CLIA validation. The results for each
+      sample, and associated metadata on the steps during processing, are then associated with each
+      assigned barcode and can then be disseminated, as appropriate, to the Oregon Health
+      Authority, the appropriate county health department, and the individual. Test results will be
+      available within 48 hours and no later than 4 days to the individual and/or the health
+      authority.
+
+      After testing occurs, researchers will have access to aggregate, community-level (e.g.,
+      counts and prevalence rates), de-identified data prepared by the UO's CLIA clinical genomics
+      laboratory. The data will include three protected health identifiers: site zip code,
+      participant zip code, and testing date. It will also include demographic data this is not
+      protected health information such as age range, race, and ethnicity. These data will be used
+      to assess outreach activities aimed at increasing participation of Latinx community members
+      in SARS-COV-2 testing. The primary outcome for this aspect of the study is site-level testing
+      rates of Latinx individuals.
+
+      Sample Size Assessment, Plan for Missing Data, Statistical Analysis Plan: For the primary
+      efficacy evaluation of the Promotores intervention, the investigators will employ standard
+      normal theory analysis of covariance (ANCOVA) and auto-regressive linear modeling for
+      continuous outcomes such as COVID-19 knowledge; and they will employ pre-post generalized
+      linear modeling for count and ordered categorical outcomes such as proportion of Latinx
+      tested at each geographic site. To address the non-independence of participants in the
+      intervention design, investigators will estimate linear mixed models. Two primary sources of
+      missing data are expected, item non-response and attrition over time. For dropout,
+      investigators will conduct standard attrition analyses to compare baseline characteristics
+      between attriters and completers. They will consider propensity score matching procedures and
+      complier average causal effects models to address substantial differences. For item
+      non-response and scale score development, investigators will require 70% of scale items be
+      present for scoring. They will test whether scale level data are missing completely at random
+      (MCAR) within waves and then across waves. If data are not MCAR, under assumptions of missing
+      at random (MAR, i.e., data are not dependent on missing values of the intervention response
+      variable), investigators will employ one of two recommended approaches for SEM, full
+      information maximum likelihood (FIML) or multiple imputation (MI). Although these approaches
+      can be problematic when data are non-ignorable missing, they are still recommended for
+      handling missingness, particularly with covariates associated with attrition. Both methods
+      provide more efficient standard errors than listwise or pairwise deletion, or mean
+      substitution. Should missing data or attrition be associated with covariates, investigators
+      will include appropriate covariates in hypothesis testing. For the pre-post individual level
+      criterion outcomes, 36 sites with roughly 50 to 100 participants per site plus attrition (n =
+      2160) an alpha level of .05 and intra-class correlations ranging from .05 to .20 provides
+      power to detect effects ranging from .19 to .32, respectively (small to moderate).
+
+      Finally, data will be collected in accordance with Tier 1 "common data elements" from the
+      national Duke Coordination and Data Collection Center (CDCC). The CDCC directly assists each
+      individual RADx-UP project to optimize engagement, outreach, testing strategies, and to
+      facilitate co-learning opportunities between and among RADx-UP projects. Key outcome data and
+      the testing procedures for obtaining the sample, analysis platform, analysis procedures, and
+      test resulting will be collected and represented in a consistent manner for harmonization
+      across the consortium, integrated with test reporting requirements under the Coronavirus Aid,
+      Relief, and Economic Security Act (CARES Act).
+    
+  

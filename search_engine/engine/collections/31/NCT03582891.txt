@@ -1,0 +1,38 @@
+
+    
+      In this project investigators will develop adaptive DBS algorithms based on cortical and
+      subcortical signals using the RC+S. This bidirectional neural interface is rechargeable (for
+      up to 9 years of use), and is capable of delivering therapeutic open-loop stimulation or
+      closed-loop stimulation. Its sensing capability includes four simultaneous time series
+      channels at up to 1000 Hz sampling rate. In addition the device can stream time series data,
+      and calculate and stream spectral power within a preset bandwidth. Twenty patients with
+      idiopathic PD and motor fluctuations, or medically intractable tremor, will be implanted with
+      unilateral or bilateral RC+S devices, each connected to a standard quadripolar DBS lead
+      implanted in STN or globus pallidus, and to a 4-contact paddle type electrode placed
+      subdurally over sensorimotor cortex. The basal ganglia lead will be used for both stimulation
+      and LFP recordings, while the cortical lead will be used only for recording ECoG potentials,
+      not for stimulation.
+
+      Patients with motor fluctuations cycle between a hypokinetic state (too little movement) and
+      a hyperkinetic state (excessive movement). During open-loop DBS, brain state continues to
+      fluctuate between these states and stimulation may induce dyskinesia or inadequately relieve
+      akinesia.
+
+      With the goal of maintaining motor function within a normal range away from these two
+      extremes, investigators will develop and test stimulation algorithms that utilize putative
+      markers of both kinetic states. The basic strategy is to automatically adjust stimulation
+      parameters until the physiological signature of abnormal function is minimized. First,
+      investigators will prototype adaptive stimulation paradigms and briefly (2 hours) test them
+      in clinic, using a "distributed" configuration (streaming to a computer). Then, investigators
+      will embed these algorithms in RC+S to test chronic and fully closed-loop DBS in a small
+      double-blinded clinical trial. Investigators will pay careful attention to the possibility of
+      progressive reduction in stimulation currents over the course of the study, which could
+      support the hypothesis that "adaptive stimulation" might make the brain progressively less
+      dependent on the device. In quantifying DBS amplitude and comparing open loop with adaptive
+      stimulation, an important parameter is the total electrical energy delivered (TEED). TEED is
+      calculated by the following equation as suggested by Koss and colleagues (TEED1sec =
+      ((voltage2 x frequency x pulsewidth)/impedance) x 1sec). This can be used as measure of the
+      energy saved when stimulation is delivered in closed-loop mode relative to empiric open-loop
+      stimulation.
+    
+  

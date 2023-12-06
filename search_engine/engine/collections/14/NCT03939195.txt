@@ -1,0 +1,28 @@
+
+    
+      This quantification is based on the analysis of fractal dimension (FD, without unit),
+      lacunarity (Lac, without unit), vascular density (VD,%) and surface area of choroidal
+      neovascular ( CNV, mm2).
+
+      The fractal dimension of a vascular structure corresponds to its degree of complexity.
+      Fractals are models found in nature and biological systems that show self-similarity at
+      different magnifications. It is obtained from the "box counting" method calculating the
+      number of vascular segments contained in squares of varied size. Normal retinal vessels have
+      a known and quantified complexity (FD = 1.7).
+
+      A neovascular tumor treated with anti-angiogenics will reduce vascular density, losing its
+      random architecture; the investigators observe a return to a model standardized. NVCs have a
+      random organization. The lower the FD, the more random the vascular architecture.
+
+      Lacunarity represents the texture or the homogeneity of a lesion, this one is heterogeneous
+      when it is little vascularized and homogeneous if the vascularization is very dense. The
+      lower the lake, the more homogeneous the lesion.
+
+      FD and Lac are obtained in Angiography Optical Coherence Tomography (OCTA) by the analysis of
+      the hypersignal detected on the cut of the external retina.
+
+      The image is automatically binarised and skeletonized. NVC delineation is automatic and
+      associated with automatic background noise processing. This software is fully automatic whose
+      inter and intra grader reproducibility will be evaluated.
+    
+  

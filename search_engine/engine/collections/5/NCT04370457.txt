@@ -1,0 +1,96 @@
+
+    
+      The MyPal eHealth system coincides with the MyPal intervention. The system will be used
+      primarily by the patients that participate in the intervention arm of the trial and
+      secondarily by the participating healthcare professionals (HCP). Patients participating in
+      the standard arm of the trial won't use the system. Access to the MyPal eHealth system will
+      be granted to the patients and HCP right after their enrollment in the trial. Patients will
+      have access to the system continuously for 12 months; HCP will have access to the system
+      until the end of the trial.
+
+      The main modules (software and hardware) of the system are outlined below:
+
+        -  MyPal smartphone application (app). This is the interface of the patient to the system.
+           The MyPal smartphone app is available for smartphones running on the Android and iOS
+           operating systems and it is installed on the personal smartphone of the patient.
+
+        -  Commercial smart wristband. This is a commercial activity tracking device that will be
+           employed for monitoring the physical activity and the sleep quality of the patient,
+           provided by the site personnel. Wearable to be worn. Ionic™ (Fitbit) will be employed by
+           the trial as the smart wristband.
+
+        -  MyPal web application (app). This is the main interface of the HCP to the system. It is
+           accessible as a web portal through any modern web browser.
+
+        -  System backend. This module resides at the backend of the system and it is not directly
+           accessible by the aforementioned types of users. The system backend interfaces the MyPal
+           smartphone app and the MyPal web app.
+
+      In brief, the intervention revolves around the reporting by the patient of physical and
+      psycho-emotional symptoms (via the MyPal smartphone app) and the immediate delivery of the
+      reported symptom-related information to the HCP (via the MyPal web app). Of note, the
+      reported symptom-related information becomes instantly available to the HCP in the MyPal web
+      app; however, this does not imply that the HCP is guaranteed to review it at the same time.
+      The intervention is described in more detailed below, first from the standpoint of the
+      patient and then from that of the HCP.
+
+      The patients interact with the MyPal smartphone app in 3 sequential phases. Additionally,
+      during the enrollment in the study, the patients are handed the commercial smart wristband
+      and they are instructed to wear it as much as possible (also while sleeping) throughout their
+      participation in the study.
+
+      Registration Phase. This phase is completed the first time the patient uses the MyPal
+      smartphone app, which take place right after the patient is enrolled in the study. The
+      mission of this phase is (1) to register the patient into the MyPal system, (2) to initially
+      set a number of preferences, (3) to collect via self-reporting the baseline assessment of the
+      patient's physical and psycho-emotional symptom, and (4) to screen for motivational targets
+      and non-adherence risk. The smartphone app guides the patient throughout the entire
+      registration process in a wizard-like fashion, where the user has to provide some information
+      (1)-(2) and complete certain questionnaires (3)-(4). The latter is elaborated in the next
+      phase.
+
+      Main usage phase. As soon as the registration phase is completed, the MyPal smartphone app
+      enters into its main usage phase. This lasts 6 months (Month 0 to Month 6 of the patient's
+      participation in the study) and, during this time, the patient is given access to a number of
+      user-initiated functionalities (i.e., functionalities that the user has access to at all
+      times) and system-initiated ones (i.e., functionalities for which the system decides when
+      they become available to the user). More specifically, the functionalities of the second
+      category are initiated via notifications that are presented by the smartphone app to the
+      user. We can distinguish two main types of notifications, namely the intervention
+      notifications (i.e., notifications associated with functionalities that are part of the
+      interventions) and the assessment notifications (i.e., notifications informing the patient
+      it's time to complete the assessment questionnaires that have been foreseen by the study
+      protocol). The intervention notification frequency is once every a multiple of 1 week (e.g.,
+      1 week, 2 weeks, 6 weeks), depending on the specific system-initiated functionality, while
+      the intervention notifications are issued once per month. Whenever possible, messages
+      concerning multiple functionalities are grouped in a single notification, either intervention
+      notification or mixed one.
+
+      Follow-up usage phase. The follow-up usage phase starts immediately after the completion of
+      the main usage phase and it also last 6 months (Month 7 to Month 12 of the patient's
+      participation). This phase is identical to the previous phase (all the previously described
+      functionalities are available) with a single exception. This is that the smartphone app does
+      not issue assessment notification monthly; instead it issues only one such notification at
+      the end of Month 12.
+
+      In contrast to the case of the patients, the HCP interact with the MyPal web app (i.e., their
+      interface to the MyPal system) in the same manner throughout their participation in the study
+      (this is considered to be from the first to the last month of the study). The only exception
+      to this (main usage) is a short procedure that registers them into the MyPal system; the
+      registration takes place the first time the HCP accesses the MyPal web app.
+
+      In brief, during the main usage of the MyPal web app, the HCP get access to the data that are
+      collected by (1) the MyPal smartphone app and (2) the commercial smart wristband and stored
+      in the system backend. The collected data become available to the MyPal web app as soon as
+      they are stored. At individual level, the HCP is authorized to access only the data of the
+      patients of the associated clinical center; however, access to aggregated and summarized data
+      coming from all the patients (descriptive statistics such as min, max, average and
+      percentiles) will also be provided to all the HCP. In contrast to the notification-heavy
+      approach that was adopted for the patients, the HCP are not actively notified by the MyPal
+      system at any point. To compensate for this, the study protocol mandates that the individual
+      data of the participating patients of a given clinical center are reviewed by the associated
+      HCP at least once every 72 hours. The data review and any action related to this will be
+      recorded through the web interface. The absence of notifications means that all
+      functionalities offered to the HCP are user-initiated.
+    
+  

@@ -1,0 +1,14 @@
+
+    
+      This study trials a new Vital signs-controlled patient-assisted intravenous analgesia (VPIA)
+      regimen using a purpose-built pump that aims to enhance the efficacy, safety and
+      personalization of remifentanil therapy for labouring women. The system studies the
+      parturient's pattern of analgesic use in 15 minute epochs and titrates the demand doses and
+      basal infusion rate to maintain a plasma level of remifentanil that is appropriate for the
+      degree of pain felt.
+
+      The system incorporates vital signs (pulse oximetry and heart rate values) into the algorithm
+      which would temporarily stop the pump and step down doses accordingly when predefined
+      critical values are reached.
+    
+  

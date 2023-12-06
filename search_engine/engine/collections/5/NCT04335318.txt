@@ -1,0 +1,26 @@
+
+    
+      Recently, there have been remarkable breakthroughs in the introduction of deep learning
+      techniques, especially convolutional neural networks (CNNs), in assisting clinical diagnosis
+      in different medical fields. One of these artificial intelligence (AI) devices to diagnose
+      colon polyps during colonoscopy was launched in October 2019. Its intended use is to work as
+      an adjunct to the endoscopist during a colonoscopy with the purpose of highlighting regions
+      with visual characteristics consistent with different types of mucosal abnormalities.
+
+      It is essential to know whether deep learning algorithms can really help endoscopists during
+      colonoscopies. Several studies have already addressed this issue with different approaches
+      and results. However, one common drawback of these type of Machine vs Human retrospective
+      studies is endoscopist bias. It is usually generated because of human natural competitive
+      spirit against machine or human relaxation because of AI-reliance. This can have an effect in
+      the overall results.
+
+      The investigators perfomed colonoscopies with the use of a commercially available AI system
+      to detect colonic polyps and recorded them during clinical routine. Additionally from March
+      2019 - May 2019, 120 colonoscopy videos were performed and captured prospectively without the
+      use of AI.
+
+      In this study, the investigators plan to retrospectively compare those two video sets
+      regarding the polyp detection rate, withdrawal time and polyp identification characteristics
+      of the AI system.
+    
+  

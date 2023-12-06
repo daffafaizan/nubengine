@@ -1,0 +1,98 @@
+
+    
+      1. Purpose
+
+           The purpose of the present study is to evaluate the clinical efficacy of belly breathing
+           using a smartphone-based biofeedback application to reduce procedural anxiety and pain
+           in children having their blood drawn in the blood collection lab at BC Children's
+           Hospital. This phase of the study will focus on evaluating 1) the efficacy of the
+           application in children ages 5-17 for reducing self--reported pain and anxiety during
+           blood collection and 2) the ability of the application to increase belly breathing
+           compliance and engagement compared to traditional teaching methods.
+
+        2. Objectives
+
+           The proposed project aims to answer the following questions:
+
+             1. Will the smartphone-based biofeedback game for belly breathing reduce self-reported
+                procedural anxiety and pain in children during a blood collection procedure
+                compared to a) standard of care b) belly breathing + standard care procedures or c)
+                belly breathing with visual components of the application with no coaching or
+                biofeedback distraction?
+
+             2. Will the smartphone-based biofeedback game increase compliance with belly breathing
+                compared to self-directed belly breathing?
+
+             3. Will belly breathing with the smartphone-based biofeedback game be more engaging
+                compared to self-directed belly breathing?
+
+        3. Justification
+
+           Belly breathing, a type of deep diaphragmatic breathing that typically produces a
+           relaxed state, is a popular behavioural intervention used to reduce anxiety in children
+           undergoing medical procedures. Studies have shown that decreased anxiety is not only
+           associated with decreased distress but also with decreased pain and less negative
+           attitudes towards future medical procedures. Biofeedback is a tool that is used to teach
+           children about the connection between mind and body. Very little research currently
+           exists on using biofeedback applications to teach relaxation to children in a clinical
+           setting; however, some evidence suggests that it could be effective. This study will
+           examine the efficacy of using such a tool to teach belly breathing to children in order
+           to reduce procedural anxiety and pain.
+
+        4. Research Methods
+
+           To explore the above hypotheses, the study design will employ a randomized control trial
+           design. Expected and experienced self-report anxiety and pain scores in children
+           assigned to the belly breathing biofeedback group will be compared to control group
+           scores. The experimental group will be taught to belly breathe using the biofeedback
+           game application and will be instructed to use it during the blood collection procedure.
+           Control Group 1 will receive standard of care. Control Group 2 will receive belly
+           breathing training without the application and be instructed to continue with
+           self-directed belly breathing during the procedure. Control Group 3 will be taught belly
+           breathing without the application plus receive distraction of watching the cartoon
+           avatar in the hot air balloon rising through space; however, the avatar will not 'coach'
+           the child as the visual cues for breathing (words and bubbles) will not be present and
+           the avatar will not rise in response to correct belly breathing. Belly breathing
+           compliance will be measured using extracted respiratory rates from collected PPG data.
+
+           Two trained volunteers will recruit participants in the waiting room of the main blood
+           collection in BC Children's Hospital. They will approach parents and children and invite
+           them to participate in the study. If the parents and child are interested, they will be
+           given consent and assent forms that they can read return to the volunteers at any time
+           before the procedure should they decide to participate.
+
+        5. Data Analysis
+
+      Pain Scores: An analysis of covariance will be used to determine whether experimental
+      subjects report significantly less pain during blood collection than the control patients. To
+      determine whether belly breathing with the application will alter the expectation of pain,
+      the sample will be divided into high and low expectations of pain using a median split on
+      pain scores. A 2x3 repeated measures analysis of variance will be carried out comparing high
+      and low expectations groups at Time 1, 2, and 3. Paired t-tests will be carried out on the
+      high and low expectation groups within the experimental and control conditions to determine
+      whether there will be any change in expected pain from Time 1 to Time 2.
+
+      In order for a clinically significant difference of 2 out 10 in pain score to be detected
+      (alpha=0.05, power 80%) 70 children will be needed per group. In order to allow for
+      non-compliance and post-study exclusions of children with cardiovascular/respiratory
+      conditions or the use of topical anaesthetics, the investigators will need to recruit
+      approximately 300 children.
+
+      Anxiety scores: Changes over time in the four groups will be analyzed by time x group
+      interaction in a repeated analysis of variance. Paired T-Tests will be carried out on each of
+      the four groups to determine whether there is any change in anxiety from Time 1 to Time 2.
+
+      A Pearson correlation will be used to investigate the relationship between anxiety scores and
+      pain scores in each of the four groups.
+
+      Belly Breathing Compliance: Photoplethysmograph (PPG) data collected during blood collection
+      from the experimental group and Control Groups 2 and 3 will be analyzed using a standard peak
+      detection method. Independent Sample T-tests will be carried out on the amplitude of the RSA.
+      Level of significance will be set at p=0.05.
+
+      Engagement Scores: The responses to each question on the Study Completion Questionnaires from
+      the Experimental Group and Control Groups 2 and 3 will be analyzed separately using
+      Independent Sample T-Test. Level of significance will be set at p=0.05. The Bonferroni
+      Correction will be used to adjust for multiple measures.
+    
+  

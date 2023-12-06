@@ -1,0 +1,106 @@
+
+    
+      BACKGROUND Health-care workers face an elevated risk of exposure to - and infection with -
+      SARS-CoV-2. It is imperative to ensure the safety, health and fitness of hospital personnel
+      in order to safeguard continuous patient care. Strategies to prevent COVID-19 or to mitigate
+      its clinical consequences are urgently needed.
+
+      Bacillus Calmette-Guérin (BCG) was developed as a vaccine against tuberculosis, but our group
+      has shown that it can protect against death from other infections, it has what we have called
+      non-specific effects (NSEs).[3] In clinical studies, BCG vaccination was associated with less
+      child mortality, mainly as a result of reduced neonatal sepsis and respiratory infections. In
+      a WHO-commissioned meta-analysis, BCG was associated with 42% (95%CI: 24-55%) lower child
+      mortality.
+
+      NSEs of BCG are not limited to children. An Indonesian trial has shown that consecutive BCG
+      vaccination for 3 months reduced the incidence of acute upper tract respiratory infections by
+      80% (95%CI=22-95%).
+
+      It has been recently demonstrated that the non-specific beneficial effects of BCG vaccination
+      are due to epigenetic and metabolic reprogramming of innate immune cells, a process termed
+      'trained immunity'. E.g. among humans receiving yellow fever vaccine virus, those who had
+      received BCG had - compared to placebo treated subjects - lower viral load, and improved
+      anti-viral responses.
+
+      We hypothesize that BCG vaccination may induce (partial) protection against susceptibility to
+      and/or severity of COVID-19. This study will evaluate the efficacy of BCG to improve the
+      clinical course of COVID-19 and to prevent absenteeism.
+
+      Given the immediate threat of the COVID-19 epidemic the trial has been designed as a
+      pragmatic study with a highly feasible primary endpoint, that can be continuously measured.
+      We have therefore chosen unplanned absenteeism from work as primary outcome, in line with an
+      ongoing clinical trial of BCG in the Netherlands.
+
+      OBJECTIVES Primary objective: To reduce absenteeism among HCW with direct patient contacts
+      during the COVID-19 epidemic. Secondary objective: To reduce the number of HCW that are
+      infected with SARS-CoV-2 during the COVID-19 epidemic and to reduce the number of hospital
+      admissions amongst HCW with direct patient contacts during the COVID-19 epidemic.
+
+      HYPOTHESIS BCG vaccination of HCW will reduce absenteeism by 20% over a period of 6 months.
+
+      METHODS
+
+      Study design and follow-up:
+
+      A multi-center randomized placebo-controlled trial.
+
+      STUDY POPULATION As the COVID-19 epidemic has already started in Denmark, our intention is to
+      start as soon as possible. Recruitment of study participants will take place at participating
+      hospitals, at departments were COVID-19 patients are treated and, thus, the risk of exposure
+      to SARS-CoV-2 is high.
+
+      Participating hospitals Hospital PI Odense University Hospital Isik Somuncu Johansen Sygehus
+      Lillebælt, Kolding Poul-Erik Kofoed Hvidovre Hospital Thomas Lars Benfield Nordsjællands
+      Hospital Ellen Løkkegaard Aarhus University Hospital Christian Wejse Herning Hospital Lars
+      Skov Dalgaard Sygehus Sønderjylland Christian B. Mogensen
+
+      TREATMENT OF SUBJECTS Participants will be randomized 1:1 to receiving one intradermal BCG
+      vaccine or placebo. Participants that are randomized in the active arm will receive a BCG
+      vaccine (BCG-Denmark, AJ Vaccines). Placebo will be 0.1 ml sterile 0.9 % NaCl, which has a
+      similar color as the resuspended BCG vaccine.
+
+      STUDY PROCEDURES Day 0: Participants fill in a short questionnaire regarding baseline
+      characteristics. A blood sample will be drawn for subsequent testing for SARS-CoV-2
+      antibodies. Participants will be randomised to BCG or placebo in a 1:1 ratio. Randomisation
+      will be done centrally using the REDCap tool with stratification per hospital and by age
+      groups (+/- 45 years of age) in blocks of 8.
+
+      Participants will be blinded to treatment. The physicians administering the BCG vaccine or
+      placebo will not be blinded. In case of serious adverse events, the participant can be
+      unblinded after consultation with the coordinating PI or sponsor.
+
+      The end of the trial is defined as whichever comes latest: the last patient's last
+      registration in the online data collection, or 180 days.
+
+      Day 0 till end of trial (weekly): Short electronic questionnaire regarding work absenteeism,
+      symptoms and side effects through REDCap. In case a participant reports acute respiratory
+      symptoms indicating COVID-19, he or she will be tested depending on test availability.
+
+      End of trial: Participants are asked to fill in a final questionnaire. A blood sample will be
+      drawn for subsequent testing for SARS-CoV-2 antibodies.
+
+      STATISTICAL ANALYSIS All analyses will be performed from the intention-to-treat principle.
+
+      Primary study parameter:
+
+      The primary endpoint will be analysed as counts per week (i.e. multiple observations per
+      subject) using a Bayesian negative binomial regression. Similar regression models will be
+      used for secondary endpoints: Number of days of unplanned absenteeism because of documented
+      COVID; number of days of self-reported fever. Documented COVID, death for any reason, death
+      due to documented COVID, cumulative incidence of Intensive Care Admission for any reason,
+      cumulative incidence of Intensive Care Admission due to documented COVID, cumulative
+      incidence of Hospital Admission for any reason, cumulative incidence of Hospital Admission
+      due to documented COVID will be analysed in Cox proportional hazards models.
+
+      When applicable (i.e. in the event that one or more participants have died during the
+      follow-up period) a competing events analysis will be performed in addition.
+
+      Interim analysis Every month, an interim analysis will be conducted by the independent
+      statistician of the trial. The parallel Dutch trial will enable combined analysis that will
+      strengthen the conclusions and increase the power to analyse the secondary outcomes and more
+      rare outcomes as intensive hospitalization.
+
+      ETHICAL CONSIDERATIONS The study has ben approved by the Ethics Committee and by the Danish
+      Medicines Agency.
+    
+  

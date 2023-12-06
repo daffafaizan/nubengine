@@ -1,0 +1,102 @@
+
+    
+      In immune-competent adult patients admitted to a hospital ward with a diagnosis of
+      community-acquired pneumonia, does a multi-faceted ASP utilizing prospective chart audit and
+      feedback compared with usual care reduce the LOS without increasing the risk of death or
+      readmission at 30 days post-discharge from hospital? In Ontario, pneumonia is the leading
+      cause of death from bacterial infections and accounts for over 18,000 years of life lost
+      annually due to premature mortality. Pneumonia accounts for the majority of antibiotic
+      utilization in both hospital and outpatient settings. Evidence-based guidelines for the
+      diagnosis and management of pneumonia are available to physicians. Adherence to these
+      evidence-based guidelines is associated with both reduced mortality and antibiotic
+      utilization.
+
+      Antimicrobial stewardship is defined as any intervention that minimizes unwarranted variation
+      in antimicrobial utilization from evidence-based best practice with the intent of improving
+      patient safety and quality of care. Unwarranted refers to the absence of patient- or
+      disease-specific reasons to justify practice variation from evidence-based practice
+      standards. Antimicrobial stewardship can be operationalized in many different ways, but
+      prospective audit and feedback (persuasive approach) and restricted antimicrobial prescribing
+      policies (restrictive approach) appear to be the most efficacious interventions to achieve
+      the goals of antimicrobial stewardship. Antimicrobial stewardship programs have demonstrated
+      efficacy in improving antimicrobial prescribing and reducing rates of hospital-acquired
+      infections. Antimicrobial stewardship programs directed to CAP patients have demonstrated
+      reductions in mortality, but have failed to demonstrate reductions in length of stay.
+
+      All participants will be admitted patients to the Royal Victoria Regional Health Centre
+      (RVRHC), a 319 bed community-based, university-affiliated, acute care hospital located in
+      Barrie, Ontario, Canada.
+
+      All patients enrolled in the study will be admitted to one of four medical wards. All study
+      patients will be admitted to a hospitalist service. Admission to any medical ward is
+      controlled by bed allocation, a non-medical administrative service within the hospital
+      responsible for patient flow and assigning patient care. Hospitalists are not assigned to any
+      one specific medical ward, but provide care across all medical wards.
+
+      All eligible CAP who meet the ASP review criteria will be exposed to the ASP intervention.
+      The ASP intervention (ASP-i) consists of a prospective chart audit and physician feedback
+      (persuasive) approach . The ASP members who conduct all the audits and make recommendations
+      consist of an infectious diseases-trained pharmacist (LM) and an infectious diseases trained
+      physician (GD). All patients are reviewed by both members. The ASP intervention (ASP-i)
+      recommendations are guided by the Infectious Diseases Society of America CAP guidelines and
+      the Canadian Thoracic Society guidelines for the management of chronic obstructive pulmonary
+      disease. The possible ASP-i recommendations are based on those recommended by the National
+      Health Service in the United Kingdom and include the following:
+
+      i) No change to current care ii) Discontinue antibiotic(s) iii) Intravenous to oral
+      conversion iv) Duration of therapy v) Dosing change vi) Narrow or broaden spectrum of therapy
+      The ASP-i recommendations are not mutually exclusive. All recommendations are documented in
+      the patient's electronic medical record and communicated directly to the attending physician
+      by the ASP members.
+
+      This is a pragmatic controlled clinical study intended to measure the effectiveness of a
+      'real world' program. The ASP-i will be implemented in a modified stepped wedge design;
+      baseline patient data will be collected for all enrolled patients on each of the medical
+      wards for the first three months of the study, and then the ASP-i will be introduced to each
+      medical ward in a non-randomized sequential fashion in two month intervals until all medical
+      wards are exposed to the intervention.
+
+      The unit of analysis will be individual patients adjusted for potential clustering effects
+      within hospital wards.
+
+      The primary outcome is length of hospital stay (LOS) measured in minutes from the documented
+      time of admission to the documented time of discharge (or censoring). All patients will be
+      administratively censored at 14 days after hospital admission if they have not been
+      discharged home.
+
+      Enrollment of patients started on April 1, 2013. The study is expected to enroll patients
+      until March 31, 2015. All consecutive patients that meet the inclusion criteria and have no
+      exclusion criteria will be eligible for the intervention. The ASP-i intervention may be
+      implemented anytime after 48 hours post-admission in those patients who meet the criteria for
+      ASP review. All patients who have not experienced an outcome at 14 days after admission will
+      be censored from the study. Patients who die or are transferred from the ward (to the
+      intensive care unit or other hospital) will also be censored. Patients who are discharged
+      from hospital and are not censored will be contacted at 30 days post-discharge to determine
+      their adherence with antibiotic prescription (if relevant), survival status and readmission
+      status.
+
+      The sample size expected for the current study is 'fixed' and has been previously estimated
+      to be between 400 to 500 CAP patients per calendar year. The accrual period will be 24
+      months. Assuming 70% of patients in the control arm will achieve the primary outcome of being
+      discharged alive from hospital, and setting power = 0.8 and statistical significance
+      (2-sided) α = 0.05, the detectable ASP-i effect size is estimated to be up to an
+      approximately 20% reduction in length of stay.
+
+      An extended Cox regression analysis will be used to compare the primary and secondary
+      outcomes between the control and intervention groups. Violations of the proportional hazards
+      assumption for each covariate will be identified by using the method of Schoenfeld residuals.
+      Results will be reported as hazard ratios with 95% confidence intervals. Time to ASP-i will
+      be modeled as a time-variant covariate in the final model to account for any time-dependent
+      bias.
+
+      Other variables known to be associated with the primary and secondary outcomes will also be
+      included in the final model, and include; age, sex, charlson comorbidity index, CURB-65
+      score, time (days) to clinical resolution, and complications from pneumonia such as empyema.
+      Fixed effects of wards on the outcomes will accounted for by including them as indicator
+      variables in the final model. Maturation of ASP-i effect on outcomes over time will be
+      adjusted by including a categorical time variable in the final model (time variable will be
+      defined as 'quarter' from start of study). A dichotomous variable for acceptance or rejection
+      of the ASP-i will be part of an interaction term with the control/intervention group variable
+      to permit a per protocol analysis.
+    
+  

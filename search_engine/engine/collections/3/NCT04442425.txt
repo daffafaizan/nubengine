@@ -1,0 +1,66 @@
+
+    
+      Background:
+
+        -  Pain related to cancer can be widespread, wield debilitating effects on daily life, and
+           interfere with otherwise positive outcomes from targeted treatment.
+
+        -  The underpinnings of this study are chiefly motivated by the need to develop and
+           validate objective methods for measuring pain using a model that is relevant in breadth
+           and depth to a diversity of patient populations.
+
+        -  Inadequate assessment and management of cancer pain can lead to functional and
+           psychological deterioration and negatively impact quality of life.
+
+        -  Research of objective measurement scales of pain based on automated detection of facial
+           expression using machine learning is expanding but has been limited to certain
+           demographic cohorts.
+
+        -  Machine learning models demonstrate poor performance when training sets lack adequate
+           diversity of training data, including visibly different faces and facial expressions,
+           which yields opportunity in the proposed study to lay a guiding foundation by
+           constructing a more general and generalizable model based on faces of varying sex and
+           skin phototypes.
+
+      Objectives:
+
+      -The primary objective of this study is to determine the feasibility of using facial
+      recognition technology to classify cancer related pain in a demographically diverse set of
+      patients with cancer who are participating on a clinical trial.
+
+      Eligibility:
+
+        -  Adults and children (12 years of age or older) with histologically or cytologically
+           proven advanced malignancies who are undergoing treatment for cancer.
+
+        -  Participant must have access to internet connected smart phone or computer with camera
+           and microphone and must be willing to pay any charges from service provider/carrier
+           associated with the use of the device
+
+      Design:
+
+        -  The design is a single institution, observational, non-intervention clinical study at
+           the National Institutes of Health Clinical Center.
+
+        -  All patients will participate in the same activities in two different settings (remotely
+           and in-clinic) for a three-month period.
+
+        -  At home, patients will utilize a mobile application for self-reporting of pain and will
+           audio- visually record themselves reading a passage of text and describing how they
+           feel. In the clinic, patients will perform the same activities with optimal lighting and
+           videography, along with infrared video capture.
+
+        -  Visual (RGB) and infrared facial images, audio signal, self-reported pain and natural
+           language verbalizations of patient feelings feel will be captured. Audio signal and
+           video data will be annotated with self-reported pain and clinical data to create a
+           supervised machine learning model that will learn to automatically detect pain.
+
+        -  Care will be taken with the study sample to include a diversity of genders and skin
+           types (a proxy for racial diversity) to establish a broad applicability of the model in
+           the clinical setting. Additionally, video recordings of patient natural language to
+           describe their pain and how they feel will be transcribed and auto-processed against the
+           Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events
+           (PRO-CTCAE) library to explore the presence and progression of self-reporting of adverse
+           events.
+    
+  

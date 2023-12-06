@@ -1,0 +1,34 @@
+
+    
+      Patients were matched with for age, sex and IQ (as determined by National Adult Reading Test
+      scores) controlled volunteers.
+
+      Participants were assessed for the following domains: verbal ability, verbal and visual
+      learning, short-term memory, working memory, executive function, attention and processing
+      speed. The domains were assessed with the following validated cognitive tests: The Hopkins
+      Verbal Learning Test, Trail making parts A and B, phonemic, semantic and switching verbal
+      fluency as well as the Cogstate computerised battery: Identification speed, Detection speed,
+      One Card Learning accuracy, One Back test accuracy, Two Back test accuracy, International
+      Shopping List total correct answers and Groton Maze Learning total errors. Evidence of
+      neuroinflammation was assessed using an fMRI protocol (Resting state MRI, T1w-MPR, T2 Space,
+      Diffusion Tensor Imaging with 30 directions, right frontal white matter and posterior
+      cingulate gyrus Single Voxel Spectroscopy, and patient group Susceptibility Weighted Imaging.
+
+      Quality of life was measured using the EuroQoL 5 Dimensions and visual analogue scale.
+      Independent Activities of Daily Living was also assessed. Mental Health (as a confounder) was
+      measured using the Patient Health Questionnaire 9, the Beck Depression Index II, the Beck
+      Anxiety Inventory and the Trauma Screening Questionnaire.
+
+      Statistical methods include significant differences between the patient and control group
+      using the Student t test (parametric data), the Mann Witney U test (non parametric data) or
+      the Fisher's Exact test (qualitative scoring systems). MELODIC in FSL software was used to
+      decompose the rs-fMRI data into brain networks using independent component analysis (ICA) and
+      connectivity in these networks patients and controls was compared using dual regression.
+      FreeSurfer was used to extract brain regions from T1 images and compare the normalised volume
+      of the hippocampus, amygdala and precuneus for patients and controls. DTI data were analysed
+      using tract based spatial statistics (TBSS) in FSL and using FreeSurfer regions for the
+      hippocampus, amygdala and precuneus. Cho/Cr, Cho/NAA and Ins/Cr ratios were extracted from
+      MRS data using Tarquin. SWI images were reviewed for the presence of microbleeds by two
+      Radiologists.
+    
+  

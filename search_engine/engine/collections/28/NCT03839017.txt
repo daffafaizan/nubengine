@@ -1,0 +1,101 @@
+
+    
+      The epidemiology of battlefield mortality highlights the need for safety and speed of care in
+      an environment under very high stress. Indeed, it has been found that about 90% of those
+      killed in action die before reaching the first hospital or care unit. Management algorithms
+      such as ABCDE, SAFE MARCHE RYAN and local protocols are among the many doctrines to be
+      applied by military health professionals when dealing with serious trauma in emergencies in
+      different practice settings. During combat, their actions are carried out under enemy fire,
+      in darkness, in extreme environments, for a significant number of victims and with limited
+      means. As a result, on the battlefield, this multitude of choices and specific conditions of
+      practice can make it difficult to apply the guidelines for the management of war-wounded in
+      critical and stressful situations and can be a source of medical error. Health simulation is
+      one of the main tools for training and preparation in a safe environment for unsafe
+      situations ("never the first time on the patient"). A new decision-making and protocolization
+      tool is available for health professionals: the MAX (Medical Assistant eXpert) cognitive aid,
+      which has already proven its effectiveness in reducing the number of errors in the management
+      of vital distress in anesthesia and in basic combat casualty care.
+
+      Materials and Methods:
+
+      Population studied: military doctors and nurses from the forces, both male and female, of
+      varying ages and operational experience, planned to be deployed on External Operations (OPEX)
+      or Short-term Mission (MCD), designated by the Val-de-Grâce School as learners for the "
+      Survival Conditioning of the War Wounded " (MCSBG) continuing training course.
+
+      Study design (conduct): analytical, prospective, randomized, controlled, unblinded study
+      conducted during the MCSBG training courses as part of the operational preparation of
+      military doctors and nurses of the forces within the Center for Education and Simulation in
+      Operational Medicine (CESimMO) in Toulon. The investigators had four pairs of learners work
+      on one afternoon during each week-long training session. Each pair of learners completed two
+      different scenarios of similar difficulty and complexity. Four blocks of scenarios were
+      defined on which the pairs were able to work. The pairs were initially randomly assigned to
+      two groups: Group 1 where the first scenario was performed with the MAX CA and Group 2 where
+      the CA was used in the second scenario. Each group therefore performed a simulated scenario
+      with and without MAX. The scenarios used either high-fidelity mannequins (SimMan 3G / ALS,
+      Laerdal, Stavanger, Stavanger, Norway) or hybrid standardized patients (standardized subjects
+      equipped with anatomical prostheses that allowed their management including technical
+      procedures).
+
+      MAX CA Description: MAX is a digital AC, developed by J.C. CEJKA, and initially intended for
+      the management of anesthesia and resuscitation emergencies. For the MARCHE RYAN protocol,
+      each action was presented sequentially by the CA and had to be validated before the next one
+      was displayed (READ and DO mode). It was possible to go back in order to review the validated
+      actions and at the end of the procedure, the user had the possibility to make a final check
+      of all his actions. The evaluation of the effectiveness of MAX was previously carried out at
+      the Lyon center for teaching through health simulation (CLESS, UCBL1 - Claude Bernard
+      University Lyon 1), but also during the training of Medicalization in hostile environments
+      (MEDICHOS) and the continuing training in 2nd level combat rescue / casualty care (SC).
+
+      Use of the AC MAX in the study: Each participant disposed of a MAX application when dealing
+      with war wounded in simulated situations. The presentation of the application and its
+      handling was done on the first morning of each course, and a license for downloading and
+      using the application was granted to each participant. The instructors were present to answer
+      any questions about this CA. The anonymity of the study participants was ensured and their
+      volunteering as well as the authorization to take pictures and use the videos collected at
+      the beginning of each course.
+
+      Participants were requested to absolutely use the application for one of the two scenarios
+      (randomized choice). The fact of being able to use MAX was communicated to them each time
+      during the scenario briefing. More precisely, the one running the MARCHE RYAN algorithm had
+      to use the MAX AC for a complete sequence, from the beginning of the scenario and follow
+      MAX's prompts until the end of the protocol. The participants decided who in the pair will
+      use MAX, however this person had to use both MAX+ and MAX- scenarios according to the MARCHE
+      RYAN protocol. One of the instructors/facilitators who followed this process was to remind
+      them of this requirement during the care of war wounded when necessary, and to impose the use
+      of CA, if applicable.
+
+      Randomization by block allocation was performed using open source software R (randomizr
+      library, R Foundation for Statistical Computing, Vienna, Austria, version 3.4.1), to have a
+      homogeneous distribution of participants in Group 1 (MAX first) and Group 2 (MAX second),
+      according to four blocks (1 block per scenario passage). The types of scenarios, the
+      locations where the training took place and the distribution of trainers were the same for
+      all MCSBG courses included in the study. The designation of the pairs was made on the first
+      day of each course by the trainers in title of the CESimMO of Toulon, from the list of
+      trainees participating.
+
+      The calculation of the number of subjects required was carried out a priori on the basis of
+      data from the work of R. Lelaidier and M. Truchot studying the effect of MAX CA on technical
+      and non-technical performance. In this work, the scenarios being of similar difficulty,
+      investigators do not expect any significant effect from this factor, so the differences in
+      means will be influenced by the use of MAX. The size of the expected effect was calculated
+      from a mean difference of 13 points, and a standard deviation of sd=11, with n=8 groups (4
+      scenario blocks with or without MAX), which equates to a MAX CA effect size of 0.4 between
+      the eight groups. The recruitment of 32 pairs will allow investigators to have a power of
+      0.88 with a first species risk of 0.05. In other words, a population of 32 pairs will allow
+      investigators to show a minimum effect size of f=0.35, with a power of 0.8 and a first
+      species risk of 0.05. There was no interim analysis planned for this study.
+
+      Data collection and analysis:
+
+      All performances were filmed (using GoPro Hero 4 cameras, San Mateo, California, USA) and
+      anonymized. Each video recording of the MAX+ and MAX- scenarios was remotely rated by two
+      independent evaluators (NP and PR), using the technical and non-technical performance rating
+      grids. The scales used have already been published in international journals. If a difference
+      of more than one point out of 10 was found between the two ratings, a third assessor (AP)
+      would act as mediator.
+
+      A questionnaire (quiz) was also distributed to participants at the end of each course to find
+      out how they felt about the influence of the use of the AC MAX on their performance.
+    
+  

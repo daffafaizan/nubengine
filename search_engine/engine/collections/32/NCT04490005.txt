@@ -1,0 +1,177 @@
+
+    
+      Introduction Pupillary examination, and in particular pupillary light reactivity (PLR), is
+      fundamental for intensive care unit (ICU) monitoring and follow-up of patients with acute
+      brain injury (ABI), and has both diagnostic and prognostic values. Secondary cerebral
+      insults, e.g. elevated intracranial pressure (ICP) may alter midbrain function and cause
+      abnormalities in pupil size, symmetry and PLR. Sustained or newfound pupillary abnormalities
+      are associated with a worse outcome, and indeed PLR is a robust validated predictor in
+      several prognostic models, such as the CRASH (Corticosteroid Randomization after Significant
+      Head Injury) and the IMPACT (International Mission for Prognosis and Analysis of Clinical
+      Trials) scores. In current clinical practice however, pupillary examination is performed
+      using a manual, hand-held light source (e.g. pen torch), implying that the evaluation of
+      pupillary size and reactivity remains essentially based on a visual qualitative assessment.
+      This traditional approach has several limitations, such as limited precision (especially in
+      patients with small pupil size), significant intra- and inter-observer variability,
+      differences in ambient light exposure between measurements, or the technique used to direct
+      the stimulus (i.e. intensity, proximity, duration and orientation of the light source).
+
+      The use of quantitative, automated, infrared technology for pupillary examination has long
+      been used in ophthalmology and anesthesiology research. Its interest in neurocritical care
+      has progressively grown, in parallel with the advancements in device technology. In this
+      regard, the use of the noninvasive NPi®-200 pupillometer (Neuroptics, Laguna Hills, CA, USA)
+      allows the measurement of a series of dynamic pupillary variables (including the percentage
+      pupillary constriction, latency, constriction velocity, and dilation velocity), which can be
+      integrated into an algorithm, to compute the Neurological Pupil index (NPi). The NPi is a
+      proprietary scalar index with values between 0 and 5 (with a 0.1 decimal precision), an NPi
+      value < 3 indicating an abnormal pupillary reactivity. Importantly, the NPi is not influenced
+      by sedation-analgesia, at the doses used in neurocritical care practice, and by mild
+      hypothermia.
+
+      Preliminary single-center data recently demonstrated that abnormal NPi is associated with
+      worse outcome in patients with traumatic and hemorrhagic ABI, and can be a useful adjunct for
+      ICP monitoring and therapy. There is currently a great need for quantitative tools to predict
+      early prognostication in ABI patients, and the NPi appears of potential great value. For this
+      purpose, large multicenter studies are required. The Investigators recently conducted an
+      international multicenter study that demonstrated the prognostic value of NPi in the setting
+      of early prognostication of ABI following cardiac arrest. Here, the Investigators aim at
+      evaluating the prognostic value of the NPi in patients with ABI following traumatic brain
+      injury (TBI), aneurysmal subarachnoid hemorrhage (SAH) or intracerebral hemorrhage (ICH) at
+      risk of secondary ICP elevation.
+
+      Research questions
+
+      The Investigators hypothesize that:
+
+        1. Abnormal NPi (defined as NPi <3) are strongly predictive of poor GOS-E (1-4) at 6 months
+           after the acute event.
+
+        2. NPi=0 is strongly predictive of mortality (GOS 1).
+
+        3. Abnormal NPi is predictive of a higher ICP 20 index (number of end-hourly measures of
+           ICP >20 mm Hg divided by the total number of measurements, multiplied by 100) and a
+           greater burden of interventions needed to control ICP (measured by the Therapy Intensity
+           Level scale for ICP management, TIL 4).
+
+      Methods
+
+      Prospective, observational, international cohort study focused at identifying the
+      relationship of NPi with:
+
+        -  long-term outcome defined as 6-months mortality and neurological recovery, measured with
+           the extended Glasgow Outcome Score, GOS-E;
+
+        -  intracranial hypertension.
+
+      Sample size calculation No formal sample size calculation has been performed due to the
+      exploratory nature of the study. However, the Investigators expect to recruit a total of 420
+      patients, 140 per pathology for whom GOSE will be performed (i.e. TBI, ICH, SAH), over a
+      12-months period. Therefore, the twelve participating centres will contribute, based on their
+      potentiality of recruitment, with a minimum of 20 patients.
+
+      Screening All patients admitted to the participating ICUs in coma after ABI will be screened
+      daily and entered into a screening log . Each ICU will recruit eligible patients for 12
+      consecutive months and collect data for each recruited patient daily in an expanded
+      electronic case report form (eCRF). Both common-data elements and etiology-specific data will
+      be collected.
+
+      Demographics and Medical History Demographic characteristics and medical history information
+      will be extracted from patients' medical records including gender, age, co-morbidities,
+      diagnosis, timeline and clinical presentation of acute brain injury. All NPi and ICP
+      monitoring data, as well as additional neuro-monitoring and neuroimaging data will be
+      extracted from patients' medical records too and documented in the eCRF.
+
+      NPi Data and Daily eCRF The daily eCRF Data Capture will be completed for NPi (collected
+      every 4 hours) and for ICP (matched to NPi), every day, from admission up to day 7 . Data
+      collected will also include additional ICP derived variables and interventions.
+
+      Outcome measures Glasgow Outcome Scale-Extended (GOS-E) as main outcome will be collected at
+      ICU/hospital discharge and at 6 months). Data on the cause of death will be collected as
+      well. The GOS-E at the End-of-Study will be collected via telephone-structured interviews to
+      patients and/or family members using a validated questionnaire.
+
+      Statistical methods No formal sample size calculation has been performed due to the
+      exploratory nature of the study. However, the Investigators expect to recruit a total of 420
+      patients, 140 per pathology (i.e. TBI, ICH, SAH), over a 12-months period.
+
+      Therefore, the twelve participating centres will contribute, based on their potentiality of
+      recruitment, with a minimum of 20 patients.
+
+      Data will be summarised by counts and percentages and quartiles or means and standard
+      deviation, as appropriate, for qualitative and quantitative characteristics, respectively.
+
+      Unsupervised and supervised methods will be applied with explorative purposes using the
+      individual NPi longitudinal measurements. For example, the pattern recognition of
+      longitudinal profiles and the cluster trajectory analyses will be used in order to identify
+      patterns of NPi trajectories associated with prognosis. NPi trends will be also described
+      graphically and modelled by longitudinal mixed models using splines.
+
+      A Cox and a logistic model will be then applied to evaluate the association between the NPi
+      process with the 6-month mortality and the neurological recovery (GOSE≤4 vs GOSE>4) at 6
+      months, respectively. This will be done considering NPi in categories identifying different
+      potential patterns in NPi profiles or using summary measures that have been already
+      introduced in this context, such as the percentage of NPi<3 observed in the time interval of
+      observation or the area under the trajectory in time. The two eyes will contribute to these
+      analyses with the worst result. This analysis will be done overall on a multivariable model
+      that will also explore a potential interaction effect with the different pathologies, while
+      the improvement with respect to the standard risk factors (e.g. the components of the IMPACT
+      model for TBI patients) will be evaluated by multivariable models on each of the three
+      specific pathologies.
+
+      Lastly, the association between NPi and mortality will be evaluated by the use of shared
+      frailty joint models, in which NPi trend in left and right eye will be evaluated by a
+      multivariate mixed model, which outcome will be used to model mortality. Model-based
+      mortality prediction will be computed based on individual NPi trends. The same kind of
+      approach will be used for the binary outcome.
+
+      Potential Risks and Benefits Risks The ORANGE study is observational. It does not introduce
+      any interventional procedure. The data is extracted from the patients' medical records and
+      does not affect local standard of care. Hence, the study does not add any interventional risk
+      to the patients recruited.
+
+      Confidentiality breach is a potential risk, which will be addressed by patients' data
+      codification. A unique code will be generated by the e-CRF and allocated to every site and
+      every enrolled patient.
+
+      Benefits No individual benefit is expected for the study participants. Nevertheless, the
+      results of the study could possibly help us improving the knowledge for a better medical care
+      for similar patients in the future and the generation of hypotheses for further collaborative
+      research.
+
+      Data Collection ICUs willing to participate will register electronically and collect data via
+      an electronic Case-Report Form (RedCAP platform). An online training module will be developed
+      to help data collectors in completing the study eCRF. Data collection will be web based,
+      permitting conditional Data Collection screens, i.e. data collectors will be automatically
+      guided as to which sections to complete based on data entered indicating whether Inclusion
+      Criteria are met.
+
+      Ethical standards This study is conducted in compliance with the protocol version 3.0 , the
+      current version of the Declaration of Helsinki, the ICH-Good Clinical Practice (GCP)
+      guidelines, as well as local relevant legal and regulatory requirements of every site.
+
+      Ethics committee Each investigator will notify the relevant ethics committee, in compliance
+      with the local legislation and rules.
+
+      The approval of the protocol (if required by local authorities) must be obtained before any
+      participant is enrolled. Any amendment to the protocol will require review and approval by
+      the 3 chief investigators before the changes are implemented to the study.
+
+      Lack of capacity and Delayed Consent Patients recruited in this study will not be able to
+      provide informed consent at the time of recruitment. The responsible clinical/research staff
+      will act as Consultee and consent eligible patients after discussion with the next-of-kin.
+
+      If the patient has a Power of Attorney or a Legal tutor or an, he/she will act as Consultee
+      and will be asked to consent/decline participation to the study on legal behalf of the
+      patient.
+
+      If patients have Advance Decision Plan including participation in research studies the Plan
+      will be respected and recruitment pursued/abandoned accordingly.
+
+      At follow-up, patients who have regained capacity will be asked to provide Informed Consent
+      and will be given the possibility to:
+
+        -  Provide Informed Consent for the acute data and follow-up.
+
+        -  Deny research participation and request destruction of acute data collected.
+    
+  

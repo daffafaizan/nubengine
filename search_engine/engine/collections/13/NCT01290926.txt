@@ -1,0 +1,67 @@
+
+    
+      Treatment doses :
+
+      Sorafenib 200mg in the morning,400mg in the evening; escalation to 400mg twice daily after 1
+      cycle Capecitabine 850mg/m2 twice daily Oral Days 1-14, weeks 1-2
+
+      Fluoro-Deoxy Glucose Positron Emitting Tomography (FDG-PET)imaging at baseline and after
+      17-21 days while on therapy.
+
+      Sample size justification/statistical analysis
+
+      Sample size has been estimated in order to be able to test the null hypothesis that the
+      overall survival rate at 6 months is less than 30%. This hypothesis will be tested using a
+      binomial distribution. The study should be able to reject the null hypothesis, using a
+      1-sided test with α = 0.025, with a power of 90% in case of a true overall survival ≥ 50%
+      (rate at 6 months). The sample size required is 66 eligible patients (to be followed for 6
+      months minimum). Analysis will be done on all registered patients using an ITT approach on
+      all eligible patients.
+
+      A co-primary endpoint is to compare the overall survival of patients assessed as early PET
+      responders and of patients assessed as early PET non responders (the clinicians will remain
+      blinded for PET response assessment). For this primary analysis, patients who will undergo
+      the second PET assessment will be eligible and time zero for measuring survival will be the
+      date of this second PET examination. It is anticipated that 95% of the patients will be
+      eligible for the analysis with a 50% expected rate of early PET non-responders (result
+      obtained from an unpublished study conducted at Jules-Bordet Institute). With 66 patients
+      registered, we anticipate then that 63 patients will be available for the co-primary
+      endpoint. With 63 patients and our assumption that the HR for the comparison between the
+      survival distributions will be around 0.385 (based on the previously mentioned unpublished
+      study), we will need using a two-sided logrank test at the 2.5% level (2.5% chosen because of
+      the existence of 2 co-primary endpoints), 54 events (power of 90%). With 63 patients and a
+      follow-up after accrual of 1 year, we should reach this number of 54 events. However, to
+      account for another possible 5% drop-out (patient's refusal for undergoing the second PET
+      examination for instance), sample size should be increased to 70 eligible patients.
+
+      However, our estimation of 50% expected rate of early PET responders is coming from a
+      prospective unicentric cohort of 38 patients undergoing chemotherapy for 1st line or 2nd line
+      treatment of advanced colorectal cancer with a few of them having received biological agents
+      together with chemotherapy. Our estimation may then not be reliable due to small sample size
+      and different patients population. If this rate of early PET responders proves to be higher,
+      we should be prepared to increase our sample size for targeting the same power of 90%. For
+      instance, if the rate is 67% instead of 50%, the required number of events would be 62
+      in-stead of 54. If the rate is 75%, the number of events should be increased to 73. The
+      number of patients would have then to be adapted according to the rate of evaluable patients
+      for this PET objective and the rate of patients lost to follow-up. For reassessing the
+      required numbers of events, we did not change our hypothesis of detecting, if true, a hazard
+      ratio of 0.385 in favor of early PET responders.
+
+      We plan, during the course of accrual, to assess the rate of patients evaluable for the PET
+      objective, of early PET responders and, if possible the rate of patients lost to follow-up in
+      order to check whether we need to review our planned sample size. However, no interim
+      analysis will be done on the primary endpoints.
+
+      Secondary endpoints are to estimate progression-free survival and objective response rate,
+      and to describe the adverse reactions associated with the study regimen in the study
+      population. Also, to determine the correlation of early metabolic response, as assessed by
+      FDG-PET/CT immediately before the first and the second cycles of treatment with the study
+      regimen, with overall survival, progression-free survival, and response rate, and to
+      determine the correlation of growth modulation index (GMI), defined as the time to
+      progression under the study regimen over the time to progression under the latest regimen
+      administered to the patient, with overall survival and progression-free survival.
+
+      The study is designed as a single-arm phase II study, with all patients accrued in one stage.
+      No early stopping rules will be used.
+    
+  

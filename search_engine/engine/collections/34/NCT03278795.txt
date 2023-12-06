@@ -1,0 +1,55 @@
+
+    
+      Acute exacerbations may occur during the management of stable COPD which can negatively
+      impact health status, rates of hospitalization and re-admission. During exacerbation, some
+      patients need immediate admission to the respiratory intensive care unit (RICU). Ventilatory
+      support in an exacerbation can be provided by either noninvasive (nasal or facial mask) or
+      invasive (oro-tracheal tube or tracheostomy) ventilation.
+
+      Mechanical ventilation may be complicated by barotrauma, volutrauma, and also unfavourable
+      impacts on cardiovascular system and organ perfusion. Moreover, prolonged mechanical
+      ventilation enhances the risk of nosocomial pneumonia. So it is Important to minimize the
+      duration of mechanical ventilation and perform extubation as soon as possible. In recent
+      years, development of numerous models of artificial respiration, which could support
+      spontaneous breathing, has made it possible to gradually decrease the mechanical ventilatory
+      support.
+
+      From these new modes, PSV (pressure-support ventilation) which is a well known weaning mode
+      will be compared in our study to a new weaning mode which is a volume support ventilation
+      (VSV).
+
+      VSV could be viewed as "PRVC for spontaneous breathing" as it delivers a variable pressure to
+      meet a target VT.
+
+        -  The ventilator gives a test breath with an inspiratory pressure of 10 cmH2O above PEEP
+           (5 cmH2O in earlier software versions)
+
+        -  It measures the volume delivered and calculates system Compliance
+
+        -  For each subsequent breath, the ventilator calculates compliance of the previous breath
+           and adjusts the inspiratory pressure level (pressure level) to achieve the set VT on the
+           next breath
+
+        -  The ventilator will not change the inspiratory pressure by more than 3 cm H2O from one
+           breath to the next
+
+        -  Maximum available inspiratory pressure level is 5 cm H2O below the preset upper pressure
+           limit (alarm will sound at this point and the breath will switch into exhalation)
+
+        -  The minimum pressure limit is the baseline setting (PEEP)
+
+        -  If apnea occurs, back up pressure control is activated and an alarm sounds
+
+        -  If Auto mode is on and patient becomes apneic, the mode will automatically switch to
+           PRVC(pressure regulated volume control).
+
+      In PSV patients in whom a 8 cm H2O pressure support level could be achieved,a 2-h trial of
+      spontaneous breathing with this pressure support level will performed before extubation .
+
+      In the VSV group, VT(tidal volume) will be adjusted at 6 ml/ Kg and If the patients showed
+      good tolerance with an acceptable ABG (arterial blood gas)analysis (pH o7.35, PaO2(partial
+      pressure of arterial oxygen)/FIO2 .150 with an FIO2(fraction of inspired oxygen) f 40%, RR
+      (respiratory rate) f 35 breaths/min), they will ventilated for 2-h trial of spontaneous
+      breathing and then extubated
+    
+  

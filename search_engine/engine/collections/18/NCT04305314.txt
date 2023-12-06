@@ -1,0 +1,115 @@
+
+    
+      Subjects of study (inclusion criteria): All patients over 18 years of age who will be
+      operated on a scheduled basis for colorectal cancer within an intensified recovery program
+      (PRI) and who do not present any exclusion criteria.
+
+      Exclusion Criteria: - Urgent surgery; -Existence of other concomitant surgical processes;
+      -Patients diagnosed in stage IV cancer; -Patients who refuse to participate.
+
+      Participating hospitals: Selected for their interest in intensified recovery and for having
+      established a multidisciplinary team with the program (PRI) for colorectal surgery
+      recommended by the Spanish Ministry of Health. Each center will select from the
+      multidisciplinary team the researchers who will be part of this project as collaborators,
+      ideally the facilitators of the PRI program in that center.
+
+      Variables: Patients will be recruited by local researchers from the Anesthesiology and
+      Resuscitation and/or General Surgery services of each participating center before performing
+      the surgical intervention. Informed consent will be requested from all subjects who
+      voluntarily participate in the study.
+
+        1. Compliance: As we have commented before and according to the literature, we will define
+           a hospital with an intensified recovery program (PRI) that has a consensus protocol,
+           based on evidence, multidisciplinary, with the support of the center (management) and
+           that has fulfilled more than 70% of the protocol (annex 1) according to the process
+           indicators. The rest of the hospitals will be considered a non-PRI hospital.
+
+        2. Demography: Age, sex, BMI, smoking and fitness level of the American Society of
+           Anesthesiologists (ASA). BMI in the surgical indication. Blood transfusion.
+
+        3. Comorbidities: Presence of hypertension, diabetes mellitus, coronary artery disease,
+           heart failure, cirrhosis, stroke or transient ischemic attack, COPD / Asthma, atrial
+           fibrillation, heart failure, OSAS. Anemia
+
+        4. Related to Surgery and Treatment: Date IQ. Surgical procedure, approach, duration of
+           surgery, estimated bleeding. Curative surgery (R0) or non-R0 (R1-R2). Adjuvant
+           chemotherapy Adjuvant radiotherapy Perioperative transfusion.
+
+        5. Variables related to staging: Tumor typology. Growth pattern. Degree of differentiation.
+           Presence of Vascular / lymphatic / perineural invasion / Satellites. Margin affectation.
+           Seal ring cells. K-ras. T tumor piece. No tumor piece. Tumor m. Tumor stage according to
+           AJCC classification.
+
+        6. Related to the follow-up:
+
+      In-hospital complications at 30 days of follow-up that will be recorded are: surgical
+      complications, infectious complications, cardiovascular complications and other types of
+      complications. Each complication will be classified as mild, moderate or severe.
+      Perioperative mortality: The number and percentage of deaths within 30 days of surgery.
+      Hospital Stay: hospital stay is defined as the duration in days from the date of admission to
+      hospital discharge. Quality of life according to the EuroQol Five questionnaire. (EQ-5D).
+
+      Overall mortality: The number and percentage of deaths occurred since the intervention until
+      the end of the follow-up period. Overall survival: patients alive from surgery to the last
+      control. Disease-free survival: number of patients alive and without cancer recurrence from
+      the intervention period until the end of follow-up.
+
+      Disease recurrence: detected by CT or FCC, from the day of the intervention until the end of
+      the follow-up.
+
+      Patient Follow-up Plan: 5 years after surgery. Data collection: The data will be collected in
+      individual hospitals on a paper CRD for each patient recruited. This will include patient
+      identification data in order to allow monitoring of clinical results. The data will be
+      encoded by generating a unique numerical code and transcribed by local researchers in a
+      database using an electronic CRD (eCRD). The data collection platform used will be Castor EDC
+      https://www.castoredc.com/. Castor EDC complies with all applicable laws and regulations:
+      good clinical practice (GCP), 21 CFR Part 11, EU Annex 11 and the European Data Protection
+      Directive. Each patient will only be identified in the electronic CRD by their numerical
+      code. In each center a list of patients will be used to match the identification codes of the
+      individual patients' database in order to record the clinical results and provide any of the
+      missing data. All identifiable data collected, processed and stored for the purposes of the
+      project will be kept confidential at all times and will comply with the guidelines of Good
+      Clinical Practice for Research (GCP) and the General Data Protection Regulation (GDPR)
+      (Regulation (EU) ) 2016/679).
+
+      Data analysis: Sample size: understanding, according to the literature, that only 60% of the
+      centers with a PRI achieve more than 70% of compliance, we consider the scenario of 6 PRI and
+      4 non-PRI centers adequate among the 10 who collaborate in this research project. Estimating
+      a difference in overall survival between centers around 10% (65% vs. 75%), with a power of
+      80%, a 95% confidence and 5% of possible losses, a minimum sample size of 366 is estimated
+      patients in each group (732 patients in total). For the study of survival, only patients with
+      a minimum follow-up of two years (first 12 months of the study) will be considered. However,
+      they will continue to be recruited until the end of the three years for the study of
+      secondary objectives.
+
+      Understanding that the main objective, study of survival, may be subject to inherent aspects
+      of each center, independent of the intervention, it is necessary to create comparable
+      treatment and control groups for which the Propensity Score (Propensity Score Matching)
+      method will be used. A descriptive analysis of the data will be carried out: Qualitative
+      variables will be presented by frequency distribution of the percentages of each category.
+      The quantitative variables studied will be explored with the Kolmogorov - Smirnov conformity
+      test. Bivariate Analysis Comparison between variables (factors): The association between the
+      factors will be investigated by hypothesis contrast tests, with comparison of proportions
+      when both variables are qualitative (chi square, Fisher's exact test), mean comparisons when
+      one of them is quantitative (Student's t, ANOVA, and if they do not follow the normal
+      distribution, the Mann-Whitney U test or the Kruskall-Wallis test) and bivariate correlations
+      (Coef. Pearson Correlation) when both are quantitative or, if the conditions are not met of
+      application, the Spearman correlation. For comparisons in related samples when one of them is
+      quantitative, Student's t-test and/or ANOVA will be used for repeated measurements and
+      Wilcoxon or Friedman's test when do not follow normal distribution). Multivariate analysis:
+      To study the relationship of each variable controlling the possible effect caused by third
+      variables. The analysis will be completed using multivariate regression models. Survival
+      analyzes will be performed using the Kaplan-Meier method for survival comparisons the
+      log-rank test will be used. The effects will be considered significant if p <0.05.
+
+      Monitoring and audit: The data collection documents will be audited to ensure that study
+      activities are carried out in accordance with the protocol, good clinical practice and
+      applicable regulatory requirements. In the participating hospitals, local study documents can
+      be selected for local auditing. The quality of the data will be audited.
+
+      Limitations of the study: Those of a prospective non-randomized study. Difficulty in
+      recruiting patients for potential structural or multidisciplinary team problems.
+      Inappropriate number of patients in any of the arms due to a very high or very low level of
+      compliance.
+    
+  

@@ -1,0 +1,189 @@
+
+    
+      • Introduction:
+
+      CENTER-TBI (Collaborative European NeuroTrauma Effectiveness Research in TBI)
+      (www.center-tbi.eu) is a project embedded within the International Initiative on TBI Research
+      (InTBIR) (http://intbir.nih.gov/), as a collaboration between the European Commission (EC),
+      the US National Institute of Neurological Disorders and Stroke (NIH-NINDS) and the Canadian
+      Institute of Health Research (CIHR).
+
+        -  Research aims:
+
+      The basic concept of this project is to exploit the existing heterogeneity in biology, care
+      and outcome of TBI patients to discover underlying pathophysiology, to refine
+      characterisation, and to identify effective clinical interventions. The key driver of our
+      research plan is to collect data from a large number of European centres and sufficiently
+      large cohort to enable 'Comparative effectiveness research' (CER) analyses of differences in
+      clinical care and management pathways in TBI.
+
+      Improved disease characterization will aid Precision Medicine, a concept recently enunciated
+      by the US National Academy of Science. Such improved characterization and stratification will
+      allow for more targeted therapies. Further, CER provides a promising framework to identify
+      best practices and improve outcome after TBI. CER is the generation and synthesis of evidence
+      that compares the benefits and harms of alternative methods to prevent, diagnose, treat, and
+      monitor a clinical condition or to improve the delivery of care. The purpose of CER is to
+      assist consumers, clinicians, purchasers, and policy makers to make informed decisions that
+      will improve health care at both the individual and population levels.
+
+        -  Cohort:
+
+      A large core cohort of patients across the severity spectrum in TBI will be recruited at
+      approximately 77 sites in Europe and Israel (the CENTER-TBI Core Study): 5400 patients
+      differentiated into 3 equal strata of approximately 1800:
+
+        -  ER stratum: patients seen and discharged from the ER;
+
+        -  Admission stratum: patients admitted to the hospital but not to the ICU;
+
+        -  ICU stratum: patients admitted directly to the ICU. Balance in numbers between the
+           strata will be aimed for, but sites will be allowed to arrange recruitment strategies to
+           best suit their local requirements.
+
+      The core cohort will be underpinned by comparison with a larger registry (the CENTER-TBI
+      registry) based on pragmatic data collection of all patients with TBI seen in participating
+      centres (to establish the internal generalizability of our study), and by comparison with
+      national trauma registries (to establish the external generalizability of our findings).
+
+      In the core cohort, detailed data will be collected on clinical parameters, neuroimaging
+      studies, biomarker analyses, DNA analyses, and longitudinal outcome assessments. In selected
+      centres, extended studies will additionally focus on advanced magnetic resonance (MR)
+      imaging, detailed coagulation profiling and high resolution ICU monitoring.
+
+        -  Sample size assessment:
+
+      The sample size estimate (n=5400) was based on:
+
+        -  Practical logistic considerations
+
+        -  Power calculations for the different strata, targeting comparative effectiveness
+           analyses, assuming a between-centre and between-country heterogeneity as identified in
+           previous research (expressed by variance parameter from a random effects model, Tau^2 of
+           0.431)
+
+        -  Postulated odds ratios for intervention effects of approximately 5% improvement in
+           outcome.
+
+      Overall, these calculations provided a statistical power to detect odds ratios of ~1.2
+      associated with differences in process or intervention variables across the core dataset with
+      a power of 80%; and require somewhat larger odds ratios in each of the three individual
+      strata. In the registry we expect to be able to detect differences (predominantly in
+      organizational or system variables) with an odds ratio of 1.2 with a power of 82%.
+
+        -  Quality control and assurance:
+
+      Continuous monitoring of enrolment and completeness of data will be performed by ICON as
+      contract research organization (CRO). Source data verification (SDV) will be performed in 10%
+      of subjects by the CRO. The quality of data collection will be further enhanced by
+      implementing automated data entry checks for impossible/implausible values and implementing
+      data checks for consistency between variables. A task force of study personnel will evaluate
+      the completeness, consistency and validity of submitted data and function as support desk for
+      participating sites.
+
+        -  Data management:
+
+      Prior to upload to the study database, all acquired data will be stored locally. All patients
+      will be allocated a random Global Unique Personal Identification number (GUPI) which will be
+      linked locally to hospital identifiers. All uploaded data will be de-identified and images
+      will be defaced prior to upload. While blood samples and clinical data will be linked, both
+      sets of data will be kept confidential and anonymised beyond the initial stage of correlation
+      for analysis. All imaging and electronic data will be kept on individually password protected
+      servers. All clinical data will be entered into electronic Case Report Forms (eCRFs) and
+      managed by the 'QuesGen data management platform' (http://www.quesgen.com/) which will be
+      developed in collaboration with Karolinska Institutet International Neuroinformatics
+      Coordinating Faculty (KI-INCF). As data is entered into each form, the system will run data
+      validation checks that include conditionally required data, validation across fields, and
+      validation requirements based on subject type. If any validation check fails, the user is
+      alerted immediately that the data does not meet Quality Assurance (QA) criteria and the issue
+      can be addressed and corrected at that point. All de-identified electronic study data in the
+      CENTER-TBI database will be stored securely in the European data space under supervision of
+      KI-INCF for the duration of subject enrolment and follow-up and for a period afterwards for
+      data analysis and preparation of publications. We estimate that the analysis and publication
+      period will last for several years after the conclusion of subject enrolment.
+
+      Together with QuesGen Systems, KI-INCF will ensure that data standards are established for
+      the data model e.g. conformity of field formats, field codes and names to ensure consistency
+      across all datasets. Any approved changes will be fully documented with dataset updates to
+      maintain data quality and accuracy. KI-INCF will be responsible for importing cleaned
+      datasets to other analytic platforms as determined by the coordinators.
+
+      Where applicable, information relevant to the patient's care will be made available to the
+      physician responsible. Data, including blood samples collected as part of this study will be
+      shared in an anonymised form with collaborators from other European states (this is part of a
+      European Commission Framework7 funded program), and with selected collaborators in other
+      countries who form part of an emerging International Traumatic Brain Injury Research
+      initiative.
+
+        -  Computing platform and Neuroinformatics Resource:
+
+      The KI-INCF will coordinate the establishment of an informatics platform for acquisition,
+      storage and analysis of CDE-based clinical data. The goal is to develop a next generation
+      open standards-based platform to support advanced large-scale analytics and model building.
+      Such a platform also provides a model for future clinical studies on brain diseases and
+      disorders. This development will receive additional support from One Mind for Research.
+
+        -  Statistical analysis plan:
+
+      Statistical analyses for the Comparative Effectiveness Research (CER) questions will
+      primarily apply random effects modelling, in which center is included at the higher level,
+      and patients are considered clustered within centers. In some analyses, higher levels of
+      clustering will also be considered, e.g. country, or European region; or lower levels, e.g.
+      physicians within hospitals. Confounding factors as measured at the individual patient and/or
+      center level, will be considered extensively, and will be targeted to the specific research
+      question.
+
+      Statistical analyses for better characterization of TBI will be exploratory, aiming to better
+      understand the complexity of the disease and to discover new associations. In addition to
+      standard statistical descriptive and inferential techniques, we will also employ novel
+      machine learning techniques as appropriate.
+
+      Prognostic analyses will consider a range of variables, including genetic, demographic and
+      clinical data, physiological signals, imaging results, and biomarkers as predictors of early
+      endpoints and physiologic derangement (e.g. raised ICP), and late outcome, including
+      mortality, functional outcome, quality of life and neuropsychological performance. Previously
+      and newly developed prediction models will be validated by comparison of observed to
+      predicted outcome risks, with predictive performance summarized by measures for model fit,
+      discrimination, and calibration.
+
+        -  Missing data:
+
+      Every effort will be made to limit the number of missing data in the CENTER-TBI study.
+      Missing values are, however, inherent to any clinical study. Missing values may confound the
+      descriptive, prognostic and CER analyses. Thus, appropriate techniques for dealing with
+      missing values are required. First, we will evaluate the various reasons for missingness per
+      centre. Next, we will explore the use of alternative statistical approaches, including
+      inverse probability weighting and multiple imputation. We will consider missing values in
+      baseline characteristics as well as in short and long term outcomes. Based on simulation
+      studies and practical considerations we will develop standard operating procedures towards
+      the analyses with missing values, respecting the differences in multiple research questions.
+
+        -  Informed Consent:
+
+      Informed consent procedures will follow local and national requirements in all cases. We
+      anticipate that many potential patients will not be able to consent themselves to participate
+      in this project. The nature of TBI means that some patients may lack capacity to decide to
+      participate in this study especially at the earliest time point. It is important to try and
+      include these patients to ensure that representative samples of patients are included to
+      avoid bias in the study findings. Every step will be taken to ensure that a test of capacity
+      is undertaken before a decision on a person's capacity to consent or not to consent to
+      participation in research is taken. If the subject is not capable of self-consent, all
+      efforts will be made to locate a legally acceptable representative to act on behalf of the
+      subject. When a legally acceptable representative (e.g. consultee/proxy) is identified, their
+      opinion will be sought about the potential participant's wishes and feelings in relation to
+      the project, and whether he or she would have wanted to take part in the study.
+
+      Subjects are free to withdraw, or be withdrawn by their consultee/proxy if appropriate, at
+      any point in the study, and they need not state a reason.
+
+        -  Impact:
+
+      The CENTER-TBI project will contribute towards the overall goals of InTBIR, by identifying
+      more effective and efficient treatment provision, thus improving outcome and reducing costs.
+      The science in the project will provide novel information on disease processes, treatment,
+      outcome, and prognosis in TBI, identifying new therapeutic targets and therapies; while the
+      CENTER-TBI repositories will ensure opportunities for legacy research. Thus, the project has
+      the potential to improve current health care and its delivery at both population and
+      individual levels, deliver early scientific advances that could improve the care of patients
+      with TBI, and provide a rich investment for future biomedical research.
+    
+  

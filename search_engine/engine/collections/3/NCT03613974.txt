@@ -1,0 +1,10 @@
+
+    
+      The response of a patient determined the lidocaine concentration given to the next patient (a
+      biased-coin design up-down sequential method). If a patient had a negative response, the
+      lidocaine concentration was increased by 0.1% w/v in the next patient. If a patient had a
+      positive response, the next patient was randomized to receive the same lidocaine
+      concentration (with probability of 0.89), or to receive a concentration 0.1% w/v less (with
+      probability of 0.11).
+    
+  

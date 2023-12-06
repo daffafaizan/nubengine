@@ -1,0 +1,114 @@
+
+    
+      STATISTICAL ANALYSIS PLAN
+
+      The primary analysis will be a stratified cox regression model.
+
+      STRATIFICATION:
+
+        -  type of surgery/condition (ruptured AAA vs intact AAA vs aorto-iliac occlusive disease,
+           source: DVR)
+
+        -  sex (CPR)
+
+        -  Center (Rigshospitalet vs. Gentofte vs. Slagelse vs. Odense vs. Kolding vs. Aarhus vs.
+           Viborg vs. Aalborg, source: DVR)
+
+      COVARIATE ADJUSTMENT:
+
+        -  calendar time (DVR)
+
+        -  age (CPR)
+
+        -  Carlsons comorbidity index score (DNPR)
+
+        -  Priority (Acute vs. Sub-acute vs. Elective, source: DVR)
+
+        -  Use of anti-thrombotic drugs (DPDB). A covariate of 4 levels (ATC code is noted in
+           parenthesis).
+
+             1. None vs.
+
+             2. Anti-platelet therapy
+
+                  -  acetylsalicylic acid (B01AC06) or
+
+                  -  dipyridamole (B01AC07, eg. persantin or asasantin)
+
+             3. Anti-platelet therapy "thienopyridines-like drugs"
+
+                  -  clopidogrel (B01AC04) or
+
+                  -  ticagrelor (B01AC24, eg. Brilique) or
+
+                  -  prasugrel (B01AC22, eg. Efient) Comment: patients prescribed thienopyridines
+                     in combination with aspirin will be included in this "thienopyridine
+                     anti-platelet group 3"
+
+             4. Anti-coagulant therapy
+
+                  -  Vitamin K antagonists (B01AA, eg. warfarin or phenprocoumon)
+
+                  -  Low-molecular weight heparine (B01AB01-10)
+
+                  -  Direct thrombin inhibitors (B01AE, eg. Pradaxa/Dabigatran)
+
+                  -  Direct factor Xa inhibitors (B01AF, eg. Rivaroxaban/Xarelto). Comment:
+                     patients prescribed both anticoagulant- and antiplatelet therapy and will be
+                     included in this "Anti-coagulant group 4".
+
+      ADDITIONAL ANALYSES:
+
+        1. Stratify the population into 4 groups according to the total transfusion requirement
+
+             1. patients receiving 10 units or less of any blood product < 24 hrs or 11-15 units <
+                48 hrs.vs.
+
+             2. patients receiving 11-15 units of any blood product < 24 hrs. or 16-20 units < 48
+                hrs. vs.
+
+             3. patients receiving 16-20 units of any blood product < 24 hrs. or 21-25 units < 48
+                hrs. vs.
+
+             4. patients receiving more than 20 units of any blood product < 24 hrs. or more than
+                25 units < 48 hrs.
+
+        2. Outcome predicted by a joint function (general interaction) of total plasma transfusion
+           and total blood cell transfusion will be assessed in an exploratory way by inspection
+           and by agnostic modelling in the mold of Multivariate Adaptive Regression Splines (MARS)
+           and recursive partitioning, i.e. Classification And Regression Trees (CART).
+
+        3. Redefine intervention and control group as 4th and 1st quartile of FFP:RBC ratio.
+           Initially, the population will be divide into 4 groups according to quartiles and
+           compared the population below 1st quartile with the population above the 4th quartile,
+           which will define the low vs. the high FFP group, resp. However, to allow for
+           stratification for operation type (ruptured AAA vs. intact AAA vs. occlusive disease) it
+           may be necessary to adjust the percentile cut to retain power in the analyses. For
+           instance, the population may be cut according to tertiles, or, if there is sufficient
+           data, cut by quintiles (5 groups) or deciles (10 groups).
+
+        4. Confine the population to patient with blood loss above 50 % of total blood volume
+           (calculated by Naddler's equation accounting for sex, weight and height). If height and
+           weight are not available, the registered blood loss must exceed 2 L in females and 2.5 L
+           in males.
+
+        5. Adjusting exclusively for calendar year, sex, age, Charlson's comorbidity index score,
+           and center (ie, excluding priority and antithrombotic therapy).
+
+      MISSING DATA
+
+      Missing data will not be an issue for the number of blood transfusions because units of blood
+      products transfused are used as an inclusion criterion. All remaining covariates are
+      discrete, and missing data for each of those will be included as separate parameters (factor
+      level).
+
+      STATISTICAL SIGNIFICANCE LEVEL
+
+      Bonferroni adjustment of the significance level will be applied to control for multiple
+      testing.
+
+      With one primary and four secondary outcomes, only a P-value below 0.01 (0.05/5) will be
+      considered statistically significant. A P-value between 0.01 and 0.05 will be considered
+      borderline significant.
+    
+  

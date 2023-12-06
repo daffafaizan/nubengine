@@ -1,0 +1,93 @@
+
+    
+      Seventy-two health anxious patients with a diagnosis of Illness Anxiety Disorder or Somatic
+      Symptom Disorder will be randomly assigned to either receive brief cognitive-behavioral
+      therapy (CBT) administered by a medical assistant in the primary care practice where the
+      patient receives their primary care services (intervention condition) or receive a referral
+      to a mental health provider within the outpatient psychiatry clinic or another community
+      provider of their choice (usual care condition). Randomization will be determined by a random
+      number generation program at the point of enrollment. The randomization scheme will be
+      stratified by primary care site to reduce site effects. The primary care sites from which
+      patients will be recruited include the General Internal Medicine clinic at
+      Dartmouth-Hitchcock Medical Center, Dartmouth-Hitchcock Heater Road clinic, and
+      Dartmouth-Hitchcock Manchester. Recruitment will be evenly distributed across sites. The
+      investigators will over-sample racial and ethnic minority patients at Dartmouth-Hitchcock
+      Manchester due to the higher proportion of minority patients receiving services at that
+      location.
+
+      The brief CBT intervention is a 4-session psychotherapy comprised of techniques guided by
+      cognitive-behavioral theory and specifically derived from previously published materials.
+      Each technique has support from prior randomized controlled trials demonstrating their
+      efficacy for reducing symptoms of health anxiety and expert consensus. The techniques
+      employed include motivational interviewing, psychoeducation, cognitive restructuring, and
+      situational and interoceptive exposure. Each session of brief CBT is 45-minutes in duration
+      and is delivered by a medical assistant who is principally located at the patient's primary
+      care practice. All sessions are based on a manual developed by the Principal Investigator
+      that includes essential elements to deliver at each session, scripts to guide delivery of the
+      intervention, and homework assignments for the patient to complete between sessions and after
+      completion of the final session. The Principal Investigator provides clinical supervision of
+      the intervention over the course of the study.
+
+      The referral process employed in the usual care condition consists of an electronic referral
+      made by the patient's primary care provider to a mental health provider within the
+      Dartmouth-Hitchcock Health system, or a community provider outside of the system identified
+      by the patient in consultation with the primary care provider. The nature of the intervention
+      provided by the mental health provider is not prescribed or guided by the study protocol.
+
+      Examination of distributions of all variables using descriptive analyses will precede
+      inferential statistical analysis. Transformations or recoding will be applied to normalize
+      continuous data when necessary. The success of random assignment will be evaluated by
+      comparing the two study groups on baseline characteristics using chi-square tests for
+      categorical variables and t-tests for continuous covariates. If baseline variables are
+      significantly different between groups and are significantly associated with the outcomes
+      (e.g., medical comorbidity), the investigators will include them as covariates in the
+      analytic models.
+
+      The primary outcome of change in health anxiety will be tested using a model that
+      accommodates attrition and is appropriate for correlated data due to clustering (by 3 sites
+      and 6 medical assistants) and repeated measures (baseline, 4 and 12 weeks) on the outcomes.
+      Because there are only three assessment points, time will be treated as discrete and fitted
+      to a covariance pattern model to compare average change between groups over time. Group (CBT
+      vs usual care), time (baseline, 4 and 12 weeks), and the group by time interaction will be
+      specified for the model. The treatment effect of intervention relative to control will be
+      evaluated by testing significance of the group by time interaction term. An unstructured
+      variance-covariance structure will be specified to account for the correlated nature of the
+      data due to repeated measures.
+
+      The cluster size at site and provider levels are too small to be treated as random effects;
+      therefore, the analysis will take clustering effects due to site and provider into account
+      using small-sample robust estimate correction options implemented in the Statistical Analysis
+      Software (SAS) generalized linear mixed models procedure (PROC GLIMMIX) procedure. GLIMMIX
+      facilitates conducting mixed-effects and generalized estimating equation (GEE) modeling in
+      the same procedure simultaneously.
+
+      The sample size was determined by a combination of recruitment feasibility, study therapist
+      (medical assistant) availability, and power analysis. Given two groups, 3-assessment points,
+      and sample size of 72 (36 per arm) with 15% attrition at 12 months (N = 58), and assuming
+      cross-time correlation of 0.60, alpha of 0.05, and two-tailed tests, the study achieves 80%
+      power to detect a minimum effect size of 0.69, between medium (0.50) and large (0.80) in
+      Cohen's d-metric. If the analysis takes clustering effects due to site and providers into
+      account by adjusting the sample size with an intraclass correlation (ICC) of 0.01, the study
+      achieves 80% power to detect an effect size of 0.72. Statisticians recommend ICC between 0.01
+      and 0.02 in clinical studies with clustering; the investigators used ICC = 0.01 for this
+      power calculation. A larger sample size is needed to detect effect sizes smaller than 0.69
+      and 0.72; however, sample size for pilot study should be based on pragmatics of recruitment
+      and the necessities for examining feasibility, and not for purpose of inferential statistical
+      tests.
+
+      The investigators will assess acceptability of the intervention and strategy using scores on
+      a self-report measure of treatment acceptability using mean scores above a predetermined cut
+      score denoting moderate acceptability across all participants. The investigators assess study
+      therapist fidelity to the treatment by compiling standardized fidelity ratings for each
+      session, nested within each provider, and converted to a percentage fidelity score.
+
+      Finally, the investigators will assess acceptability qualitatively using qualitative
+      interviews with medical assistants, primary care providers, and clinic administrators.
+      Interview data will be transcribed and entered verbatim into a qualitative data management
+      software package for content analysis. Content analysis consists of reviewing the responses
+      of interviewees to identify responses that are coded to correspond to Consolidated Framework
+      for Implementation Research constructs. Coding will be conducted by two independent coders
+      (the Principal Investigator and a research assistant) and overseen by a medical
+      anthropologist.
+    
+  

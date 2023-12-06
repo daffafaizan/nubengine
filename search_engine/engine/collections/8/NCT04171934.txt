@@ -1,0 +1,63 @@
+
+    
+      Proper seizure documentation is an important tool to evaluate treatment outcomes and risks
+      associated with epileptic seizures. Apart from a costly in-hospital video
+      electro-encephalogram (VEEG) monitoring, most patients with epilepsy log and track their
+      seizures with the help of the seizure diaries only. However, the reliability of the diaries
+      is heavily dependent on an accurate recognition and recording of the seizures. There is an
+      obvious need for a more objective and reliable seizure detection method. The investigators
+      propose a low-cost video-based examination system, designed to detect motor seizure behaviors
+      in patients at rest.
+
+      The main aim of this study is to clinically validate the ability of the Nelli system
+      (video-based epilepsy examination system) to detect epileptic motor seizure behaviors in
+      patients at rest, using simultaneous VEEG as the ground truth with the reference to all motor
+      seizures and individual motor seizure types.
+
+      Study design established as follows:
+
+        1. Study population is represented by 90 epilepsy patients with suspected history of motor
+           seizures undergoing a standard VEEG examination for clinical evaluation of epilepsy.
+
+        2. Co-registration of standard VEEG with the Nelli video- and audio-based system is
+           performed, duration of the registration is 1-4 days.
+
+        3. The inclusion criteria for seizures:
+
+             1. Epileptic motor seizures appearing from rest while patients are in supine position
+                in their monitoring bed.
+
+             2. The seizures are determined to be epileptic based on electroclinical
+                characteristics by the responsible neurophysiologist / epileptologist.
+
+             3. The seizures can be classified into motor seizure types (both focal and
+                generalized) using the 2017 International League Against Epilepsy (ILAE) seizure
+                classification.
+
+        4. The registrations are analyzed by the Nelli system blinded to any clinical information.
+           Nelli system consists of two evaluation components:
+
+             1. Algorithmic component (pre-trained machine learning model based on video and audio
+                signals)
+
+             2. Supervisory component (performed by experienced VEEG technicians)
+
+        5. Reports containing the seizure type classification (time-stamped) are provided by the
+           VEEG laboratory, the performance of the Nelli system is assessed using these reports as
+           the ground truth.
+
+           a. Specificity and sensitivity of the Nelli system are evaluated with reference to both
+           all motor seizures and individual motor seizure types.
+
+        6. The secondary outcome measures are established as follows:
+
+             1. To assess the latency from the onset of the seizure detection by the Nelli system
+                in comparison to VEEG registration.
+
+             2. To determine an inter-rater agreement for the supervisory component of the Nelli
+                system.
+
+             3. To investigate the performance of the algorithmic component of the Nelli system
+                alone.
+    
+  

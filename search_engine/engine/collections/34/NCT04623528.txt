@@ -1,0 +1,87 @@
+
+    
+      Although liver biopsy is the current standard for histological characterization of the liver
+      parenchyma, this invasive procedure has a significant risk of - potentially lethal -bleeding.
+      Moreover, as liver disease may focally or heterogeneously affect the liver, histological
+      findings may be false negative or not be representative. Non-invasive imaging modalities
+      (e.g. ultrasound (US), computed tomography (CT) and magnetic resonance imaging (MRI), on the
+      other hand, provide valuable information with regard to global and regional tissue
+      characterization, and may be of help in guiding/targeting liver biopsy. Moreover, in recent
+      years new developments have opened the door towards a better, more comprehensive appreciation
+      of the status of the liver. One of these is elastography assessing the mechanical,
+      viscoelastic properties of the liver, thus providing valuable information with regard to the
+      liver stiffness (or elasticity), and be used for accurate staging of liver fibrosis (1,2).
+      Another approach is tissue characterization using the relaxation behaviour of liver tissue in
+      a high-field magnetic environment ('relaxometry'). As relaxation times are tissue specific,
+      focal or diffuse pathology may alter (i.e. shorten or prolong) relaxation times. These
+      alterations can be used to depict and to quantify disease severity. In the field of cardiac
+      imaging relaxometry has caused a paradigm shift, but for liver imaging this has received
+      relatively limited interest so far. Best known is T2* relaxometry allowing to diagnose and
+      follow-up patients with haemochromatosis. Recently, a few papers have described the use of T1
+      and T1-rho relaxometry to diagnosis liver congestion in Fontan patients, and to depict liver
+      fibrosis, respectively (3,4).
+
+      As part of a comprehensive cardiac MRI exam, we started performing routinely T1 and T2
+      relaxometry of the heart in 2014. The technique was validated against a standardized,
+      commercially-available phantom in an inter-national study (5). Practically, T1 and T2 mapping
+      includes measurements in both cardiac short-axis and horizontal long-axis before and after
+      the administration of intravenous commercially available gadolinium chelates. As in cardiac
+      short-axis direction the liver is partially encompassed, we will use these images to measure
+      T1 and T2 relaxation times of the liver. As all data are stored on PACS, it is our aim to
+      re-use these T1 and T2 mapping studies to determine the T1 and T2 relaxation of the liver in
+      normal conditions.
+
+      Firstly, we will derive from our cardiac MRI database a representative group of studies
+      labelled as normal (i.e. normal cardiac MRI findings). In the medical patient file the serum
+      biomarkers for liver disease will be checked (see below), as well as findings at
+      echocardiography (exclusion of right heart failure, exclusion of severe tricuspid
+      insufficiency), abdominal ultrasound / computed tomography (exclusion of liver disease, i.e.
+      hemochromatosis, steatosis, hepatic congestion, and liver cirrhosis). Only MRI studies will
+      be included if liver disease is excluded. In a next step, a representative region of interest
+      will be manually drawn (> 100 pixels) in a region not including the liver vessels. These
+      analyses will be performed on the pre- and post-contrast T1 map, and on the T2 map. The goal
+      is to determine normal values in at least 100 subjects, allowing to assess the impact of
+      aging and gender.
+
+      Secondly, we will measure liver T1 and T2 values in patients with different forms of right
+      heart failure, and assess the relation between liver T1 and T2 values and findings at
+      echocardiography, serum biomarkers, and right heart catheterization indicative of right heart
+      failure. The latter information will be retrieved from the medical patient file. As in right
+      heart failure, the filling pressure increases in the caval and hepatic veins, hereby causing
+      hepatic congestion. It is the hypothesis that in these circumstances T1 and T2 liver values
+      are increased. Also, in latter stages when liver fibrosis initiates and evolves towards
+      cardiac cirrhotic liver, we hypothesize increased T1 values. The aim is to evaluate whether
+      mean T1 and/or T2 of the liver parenchyma obtained at MRI can be used as imaging biomarker of
+      right heart decompensation. As concomitant liver disease (see above) may hamper correct
+      interpretation of our findings, pre-existing liver disease needs to be excluded. For this, a
+      similar approach as in the normal population will be used. The target patient population is
+      three-fold. First, patients with pulmonary hypertension with/without evidence of right heart
+      failure, who underwent a right heart catheterization with invasive pressure measurements (if
+      not available, pulmonary artery pressure estimations at transthoracic echocardiography will
+      be used), and signs of right heart failure at transthoracic echocardiography can be used.
+      Second, patients with dilated cardiomyopathy, defined as LV ejection fraction < 35% with and
+      without concomitant right ventricular (RV) dysfunction (i.e. RV EF < 35%). Third, patients
+      with constrictive pericarditis or inflammatory pericarditis with constrictive physiology
+      (i.e. increased respiratory-related ventricular coupling/interdependence). This group will be
+      compared to a group of patients with inflammatory pericarditis without constrictive
+      physiology (i.e., preserved ventricular coupling).
+
+      Thirdly, to assess the inter- and intra-observed reproducibility of liver T1 / T2 values,
+      measurements will be performed by two readers independently performing the measurements. One
+      reader will repeat the measurements respecting one week interval between the analyses. This
+      group involves 10 randomly selected studies in the normal group and 10 studies in the patient
+      group. Analysis include assessment of the intraclass correlation coefficient (ICC) and
+      coefficient of variation (CoV).
+
+      Finally, as step towards a more automated approach, we will evaluate/develop texture
+      analysis. This mathematical approach looks at patterns between pixels not visible by the
+      human eye and results in image 'features' that go beyond the typical mean (or median) and
+      deviations. It has shown to be a robust technique in many applications in the field of
+      medical imaging, and most likely will be useful for liver imaging as well. The large group of
+      derived image features needs to be further analysed using machine learning approaches
+      (with/without other clinical readouts). Machine learning of features coupled to a diagnosis
+      ('target') has the potential to augment traditional risk scores with novel imaging
+      biomarkers. Regularization approaches based on e.g. support vector machines, random forests
+      or convolutional neural networks (CNNs) will be implemented.
+    
+  

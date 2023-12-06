@@ -1,0 +1,86 @@
+
+    
+      Subject recruitment procedures:
+
+      Recruitment of participants will be conducted by using bulk electronic mails, promotional
+      brochures, posters and campus booths. An invitation card with a QR code of the web-based
+      intervention will be used for inviting female university students to enrol the study. Online
+      enrolment will be done for screening participants for eligibility. From the investigators'
+      past experience in recruiting university students, the investigators shall be able to reach
+      over 30,000 female university students in five universities.
+
+      Participants will be asked to complete the web-based baseline survey at enrolment. The
+      web-based questionnaire will be set up under an online platform. Participants may use their
+      mobile devices including laptop computers and smartphones to complete the questionnaire.
+      Participation is entirely voluntary. Written informed consent will be obtained via the
+      web-based platform before completing the baseline questionnaire.
+
+      After completion of the questionnaire, the recruited students will then be randomized to
+      either intervention group or control group, according to a list prepared by blocked
+      randomization of a size decided by a randomizer. The block size and order of allocation will
+      be kept securely in the randomizer to avoid selection bias. Allocation concealment will be
+      done at the online platform according to the participants' enrolment sequence. The
+      participants will then be guided to a web-page according to their group allocation.
+
+      At 3-month and 6-month after the entry of the study, participants will receive a link through
+      their e-mail to complete a follow-up questionnaire (T2). Three months later, another e-mail
+      link will be sent to participants for completing the last follow-up questionnaire (T3). If no
+      response from a participant, a follow-up telephone text-message and/or telephone call will be
+      sent after 1 week as a reminder.
+
+      Sample size assessment:
+
+      Female university students (n = 500), across disciplines and year of study, will be recruited
+      from five universities with dormitory or residential halls in Hong Kong. The sample size
+      calculation is based on the primary comparison of behavioural change in consistency of condom
+      use. A previous study showed the mean percentage of condom use was 67.8% (SD 39.3%) in people
+      under an ICBI and 23.5% (SD 35.3%) in those under usual care, corresponding to a moderate to
+      large Cohen effect size of 0.6.(20) To detect a conservative small Cohen effect size of 0.3
+      with 80% power and maximum 5% false positive error rate by a two-sided two-sample t-test, the
+      investigators need a total of 352 (176 per group) female university students. Assuming 30%
+      attrition based on a previous study using web-based intervention (21), the investigators plan
+      to recruit a total of 500 female university students.
+
+      Quality assurance plan:
+
+      The web-based intervention is password-protected and "Pseudo-Codes" will be used to ensure
+      anonymity and confidentiality to minimize social desirability of the responses. By asking the
+      participant to create his/her own "pseudo-code", a code that can be accurately retyped each
+      time the participant completes pre-test and post-test. There will otherwise no other
+      vulnerable subjects involve in the study.
+
+      Data check and analysis method:
+
+      To assess the efficacy of ICBI in increasing consistency of condom use, a linear mixed
+      effects model will be adopted with intervention group and baseline consistency of condom use
+      as the covariates. The group by time interaction shall be assessed for changes of ICBI
+      effects over time. When the interaction effect is insignificant, it will be removed from the
+      model and the overall ICBI will be estimated. Otherwise, liner contrasts will be used to
+      assess the ICBI effect at each time epoch. In case of baseline imbalance, additional analysis
+      with adjustment of variables that show imbalance at baseline will be performed. The mixed
+      effects model was to take account of the extra covariance of repeated measurements at 3 and 6
+      months. The intention-to-treat principle will be adopted and all study subjects will be
+      included in the analysis. Missing values at 3- and 6-month follow-up will be replaced by the
+      last observed value and multiple imputation. The analysis will be repeated on the
+      per-protocol set comprising individuals without missing values.
+
+      For secondary outcomes that were assessed approximately on a continuous scale, the same
+      analysis approach as mentioned above will be adopted. For those assessed on a dichotomous
+      scale, e.g. sexual coercion, similar approach by a non-linear mixed effects model with a
+      logit link will be used.
+
+      The analysis will be performed by using the IBM SPSS (IBM Corp, Armonk, NY, USA). Each
+      estimated effect will be accompanied by a 95% confidence interval and 5% level of
+      significance.
+
+      Data collection and management:
+
+      The investigators and the research assistants of the research team are responsible for data
+      collection and they will be permitted to access to source data and study record. Daily logs
+      will be recorded by the research assistants to monitor the study progress including the
+      number of respondents approached, interviews completed or refused and incomplete interviews.
+      All data entered in the database will be verified and cleaned. After completion of data
+      entry, computer logic checks will be run for consistency of related code. Necessary
+      corrections will be made to the database.
+    
+  

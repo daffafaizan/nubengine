@@ -1,0 +1,35 @@
+
+    
+      There will be two aims. Aim 1 will describe and categorize high-need, high-cost populations.
+      The investigators will use CareMore inpatient, outpatient, and pharmacy claims from years
+      2010-2014. The investigators will construct mortality and readmission risk category and they
+      will utilize traditional claims-based risk models developed on out of sample data to
+      categorize patient risk level. For the high health expenditure category, they will examine
+      inpatient, outpatient, and pharmacy data to identify groups of patients who drive
+      disproportionate health spending. Finally, for utilization the investigators will use claims
+      and outpatient visit data (to the extent any electronic health record (EHR) data becomes
+      available) to identify patients with disproportionate visit intensity. The approach to
+      describe patients within these groups will be to categorize patients into deciles and utilize
+      multivariate regression models to identify demographic, clinical, socioeconomic, and
+      geographic characteristics associated with presence in a top decile along each metric. For
+      example, the investigators will describe individual and clusters of diagnoses that are
+      associated with high spending. They will also examine patients who meet multiple criteria and
+      describe associated characteristics. Aim 2 will examine the impact of CareMore's end stage
+      renal disease (ESRD) care model. They will use CareMore inpatient, outpatient, skilled
+      nursing facilities (SNF), inpatient rehabilitation facilities (IRF), other facilities,
+      pharmacy, and post-acute care claims and Center for Medicare and Medicaid (CMS)
+      Fee-For-Service (FFS) data from matched geographies. They will also attempt to obtain the
+      healthcare effectiveness data information set (HEDIS) data from health plan at patient and
+      physician level, CMS stars measure data, available electronic medical record (EMR) data, and
+      physician characteristics data to the extent CareMore can provide. They will perform a
+      retrospective analysis of claims data. The investigators will use a primary comparison group
+      of ESRD patients in Medicare FFS, particularly in localities where no ESRD special need plans
+      (SNP) is offered to mitigate some effects of selection. The team will also explore a second
+      comparison group of CareMore traditional MA plan enrollees who develop ESRD. They will first
+      examine patient, physician, and plan or site characteristics associated with variation in
+      utilization of the specialized services including enhanced nutritional counseling,
+      personalized care plans, dialysis treatment evaluation, and supplemental medical evaluations
+      -- using logistic regression. Second, they will perform a descriptive analysis of the
+      association between use of these services and cost and quality outcomes.
+    
+  

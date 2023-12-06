@@ -1,0 +1,135 @@
+
+    
+      Background:
+
+      Encephalitis is defined as an acute inflammation of the central nervous system associated
+      with neurologic dysfunction. The most common etiologies are infections by either viruses or
+      bacteria although parasites and fungi can also be occasionally detected, especially in
+      immunocompromised patients. Because of high mortality and long-term neurological sequelae,
+      encephalitis is of public health concern worldwide. Reported incidences range between 3.5 and
+      7.4 cases per 100,000 patient-years with higher incidences in children than adults. Various
+      encephalitis outbreaks have recently emerged in Asia such as the fatal outbreak of
+      enterovirus 71 (EV71) that occurred in mid-2012 in Cambodia affecting very young children
+      (most below 3 years, all below 12 years). In Asia where many of the possible etiologies are
+      of major public health concerns (i.e. dengue, Japanese encephalitis, West Nile virus, EV71),
+      acute encephalitis is among the most frequent and severe causes of pediatric hospitalization.
+
+      Despite extensive microbiological investigations and the use of the most advanced molecular
+      biology-based assays, no pathogen is identified for a significant proportion of encephalitis
+      patients in both industrialized and developing countries (28-85% of cases remain
+      unconfirmed). Previous studies support the hypothesis that unknown and sometimes new emerging
+      infectious agents may be responsible for cases of currently unknown etiology and strongly
+      argue for an intensive effort to identify and characterize them. This hypothesis is also
+      strengthened by the recent apparent increase in emerging infectious diseases, many of which
+      have been linked to human activities that impact the environment and to the spreading of
+      pathogens to new geographic regions. From this perspective, the Southeast Asian region, a
+      particularly significant biodiversity hotspot, is at high risk for new pathogen emergence.
+      Indeed, growing human populations, increasing urbanization and frequent contact with wildlife
+      and domesticated animals have created novel opportunities for the emergence of pathogens such
+      as SARS at the end of 2002, and highly facilitated the spread of infectious diseases such as
+      H5N1 high-pathogenicity avian influenza virus since 2004, and H1N1 pandemic influenza virus
+      in 2009. The population in developing Southeast Asian countries is particularly at risk for
+      the circulation of emerging or reemerging infectious agents and for this reason the
+      surveillance and investigation of acute encephalitis syndrome in this region is of utmost
+      public health importance, both locally and globally.
+
+      Surveillance and diagnostic capabilities for encephalitis remain poor and still suffer from
+      serious shortcomings in most Southeast Asian countries and beyond. Although the burden of
+      non-infectious encephalitis in this region remains to be ascertained, the best laboratories
+      only identify etiological infective agents in less than half of patients. Moreover, because
+      of the absence of reliable microbiological diagnostic capacity in the majority of public
+      referral hospitals, local clinicians have to treat acute encephalitis syndromes mostly
+      empirically, with little evaluation of the effectiveness of their clinical approach. Even if
+      some of the most common causes of acute encephalitis syndrome may be vaccine-preventable,
+      systematic data regarding the contribution of these diseases are lacking and no reliable data
+      are available to define the burden of these infections, to describe the full clinical
+      spectrum and characteristics of acute central nervous system infections, and to develop
+      diagnostic and therapeutic algorithms to improve patient care. Besides, whatever the nature
+      and magnitude of the encephalitis burden in Southeast Asia and the criteria used to assess it
+      (i.e. morbidity, mortality, handicap, impact on families' budget or livelihood), this burden
+      is borne principally by underprivileged populations with limited access to prevention and
+      health care.
+
+      Project partners The proposed project is an ambitious and multidisciplinary research
+      consortium associating: (i) national health authorities in Cambodia, Lao PDR, Vietnam and
+      Myanmar; (ii) local major university and clinical sites (national hospitals and provincial
+      health centers); (iii) key French stakeholders of life and health sciences with research
+      activities carried out in the Southeast Asian region such as: Institut Pasteur and the
+      Institut Pasteur International Network, Institut National de la Santé et de la Recherche
+      Médicale (Inserm), Centre de Coopération Internationale en Recherche Agronomique pour le
+      Développement (Cirad), Institut de Recherche pour le Développement (IRD) - Aix-Marseille
+      University - Ecole des Hautes Etudes en Santé Publique (EHESP); and (iv) teams from the
+      Southeast Asian Wellcome Trust Oxford University Major Overseas Programme.
+
+      Objectives:
+
+      The SEAe project aims to reduce the morbidity and mortality associated with infectious
+      encephalitis in Southeast Asia by improving diagnosis and medical care for patients.
+
+      The SEAe project specific objectives are:
+
+        -  To fill-in the biomedical knowledge gaps regarding acute encephalitis syndrome;
+
+        -  To strengthen hospital laboratories capacities to enhance health by improving diagnosis
+           and care for patients;
+
+        -  To identify unknown pathogens responsible for encephalitis;
+
+        -  To document and analyze factors related to clusters of encephalitis cases integrating
+           human health, animal health and environment through a "One Health" approach;
+
+        -  To provide reliable information and a sustainable regional and sub-regional surveillance
+           network to clinicians and public health stakeholders that will help them to better
+           define prevention policies, vaccination strategy, and build preparedness to emerging
+           infectious risks.
+
+      Population study: patient with suspected encephalitis hospitalized in in 4 different
+      Hospitals, Kantha Bopha IV children's Hospital, Phnom Penh, Cambodia, National paediatrics
+      Hospital, Hanoi, Vietnam and Mahosot Hospital, Vientiane, Lao PDR, Yangon Children Hospital,
+      Yangon, Myanmar. Inclusion criteria were adapted from the International Encephalitis
+      Consortium 2013: all patients should be older than 28 days and presenting an altered mental
+      status (i.e. confusion or inability to talk, decreased or altered level of consciousness or
+      personality change) lasting more than 24 hours without alternative cause identified. These
+      criteria should be associated with at least one of the following: (i) fever (>=38°C axillary)
+      for less than 72 hours before or after presentation; (ii) seizure (febrile seizure excluded);
+      (iii) focal neurologic finding.
+
+      Data collection:
+
+      Clinical data entries are required for this study.
+
+      Data entries:
+
+      A single data entry person (a medical doctor) enters clinical information and fill in a paper
+      form at admission, at 24 hours, at discharge and one year after discharge and enter the data
+      into an OpenClinica (hosted in CIRAD server, Montpellier, France ) anonymized online
+      database.
+
+      Laboratory data is entered into a customized ACCESS (Microsoft database). The results are
+      entered into dedicated tabs for the different techniques.
+
+      A data manager dedicated to the study is in charge of the database. The CIRAD and the
+      Institut Pasteur share the co-ownership of the database.
+
+      First statistical analysis will be performed in Institut Pasteur du Cambodge, Phnom Penh,
+      under epidemiology unit responsibility. Continuous data will be described with descriptive
+      statistics, including mean ±SD and/or median (range) as appropriate and categorical data with
+      frequencies (%). Categorical data will be analyzed by univariate analysis with χ2 or Fisher
+      exact test as appropriate and continuous data by nonparametric Mann-Whitney test. Statistical
+      analyses will involve use of R software. Relationships between clinical, biological,
+      radiological variables, etiologies and outcome will be assessed by using a univariate and
+      multivariate logistic regression analyses to identify determinants for poor outcome.
+
+      Study Calendar
+
+        -  Provisional inclusion starting date: July 2014
+
+        -  Provisional inclusion duration: 3 years and half
+
+        -  Patient participation duration: 1 year
+
+        -  Study provisional duration: 5 years
+
+        -  Data archiving duration: 15 years
+    
+  

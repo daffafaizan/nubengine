@@ -1,0 +1,65 @@
+
+    
+      Patients with critical illness and/or respiratory failure tend to display better outcomes at
+      hospitals that manage higher volumes of these patients. However, during a COVID-19 pandemic,
+      this relationship may have been altered by the strain of higher patient volume on resources
+      and personnel. A retrospective cohort study will be conducted using a large administrative
+      database to understand the volume-outcome relationship among patients hospitalized with
+      COVID-19. Understanding the COVID-19 volume-outcome relationship in U.S. hospitals may help
+      identify the optimal care setting and transfer thresholds, and inform triage policies and
+      risk-adjustment.
+
+      The Premier Healthcare Database (PHD), an all-payer administrative data repository covering
+      approximately 20% of U.S. hospitalizations from 48 states will be queried for adult (18+
+      years) in-patient encounters that recorded diagnosis coding for COVID-19 March 1st through
+      August 31st, 2020 at continuously-reporting hospitals. Hospitals with <15 COVID-19 encounters
+      over the study period will be excluded from the primary cohort to preserve statistical
+      reliability.
+
+      A surge index will be calculated for each hospital month that incorporates
+      care-complexity-weighted COVID-19 case burden and will be normalized for nominal (2019) bed
+      capacity and non-COVID-19 case burden and will represent the primary covariate. Hospital
+      months will be stratified by the percentile of the surge index (e.g. <50th, 50-75th, 75-90th,
+      90-95th and ≥95th percentile).
+
+      The impact of COVID-19-case burden (surge index) on the risk-adjusted odds ratio (aOR) of
+      mortality (or discharge to hospice) among overall COVID-19 cohorts will be determined using a
+      hierarchical generalized linear mixed model controlling for case-mix, treatment-related,
+      time-varying and other hospital-level factors. Variables will be selected based on their
+      representing "baseline" status upon presentation to the hospital to minimize effect of
+      mediators.
+
+      Variables for case mix adjustment: age, gender, race/ethnicity, comorbidity burden, insurance
+      status, admission source and acuity, acute organ failure score and code status
+      present-on-admission, use of pharmacologic agents (remdesivir, corticosteroids,
+      hydroxychloroquine and azithromycin), severity of hypoxia (acute respiratory failure codes,
+      need for non invasive positive pressure ventilation, need for invasive mechanical
+      ventilation), vasopressor use within two days of admission respectively.
+
+      Variables for temporal and hospital-level adjustment: hospital teaching status, urbanity,
+      geographic region, bed capacity, hospital proportion of Medicaid/uninsured admissions,
+      proportion of COVID-19 patients intubated within 2 days of admission, hospital's technologic
+      index (stratified by availability of extracorporeal membrane oxygenation, more than one ICU
+      and continuous renal replacement therapy), hospital availability of remdesivir, attending
+      physician to patient ratio, pre-COVID-19 mechanical ventilation volume, proportion of overall
+      admits tested for COVID-19 and admission month (1st vs 2nd wave).
+
+      Effect modification by (1st vs. 2nd ) pandemic wave, the previous month's surge index and
+      rate of acute hospital transfers and/or tracheotomies will assessed using interaction terms.
+      Sensitivity analyses will be performed using alternative iterations/strata of the surge
+      index, excluding fewer patients for statistical reliability, models with and without
+      treatment-related variables and using Elixhauser comorbidity index instead of US Centers for
+      Disease Control and Prevention-defined poor prognostic underlying conditions in COVID-19 to
+      test robustness of results. Analyses will be repeated using in-hospital mortality (without
+      reported discharges to hospice). The magnitude of an unmeasured confounder that would be
+      necessary to alter the direction of statistically significant findings will be assessed. More
+      selective subgroups of patients in ICU and mechanical ventilation will not be used as a
+      primary study population given the potentially dynamic nature of admission and intubation
+      criteria over the course of the pandemic and its relationship to volume.
+
+      Depending on availability at the time of analysis, an de-identified curated electronic health
+      record-based dataset will be used for clinical validation of select variables in
+      administrative data (e.g. reliability of respiratory failure codes in representing patients
+      requiring high-flow oxygen alone i.e. not non-invasive or invasive mechanical ventilation.)
+    
+  

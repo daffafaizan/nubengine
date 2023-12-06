@@ -1,0 +1,29 @@
+
+    
+      5.1 Subjects will undergo bronchoscopy and BAL based on clinical indications. Techniques and
+      equipment will be per current clinical practice at Westchester Medical Center (WMC). The
+      bronchoscope is usually introduced either via an artificial airway (endotracheal tube or
+      laryngeal mask airway). The lavage is performed with sterile normal saline. The site of
+      performing the lavage is selected based on radiologic or clinical data and on the appearance
+      of the airways during the bronchoscopy. The typical volume of the lavage is 3 aliquots of 1
+      ml/kg each, with a max of 20 ml per aliquot.
+
+      5.2 When 10 ml or more of BAL fluid is received by the WMC laboratory, the BAL fluid will be
+      divided by the WMC laboratory for all physician ordered clinical laboratory tests and for
+      massively parallel sequencing research tests. This will ensure that sufficient BAL material
+      is available for all clinical tests.
+
+      5.3 The BAL fluid for research will be held by the WMC laboratory and picked up by research
+      personnel for processing at New York Medical College Genomics Core Facility.
+
+      5.4 The research portion will be further divided for isolation of viral, bacterial, and
+      fungal nucleic acid isolation. A control sample of fluid used for the BAL will be prepared in
+      parallel. Bacterial/fungal DNA and viral DNA and RNA will be isolated. Whole genome
+      sequencing libraries will be generated and sequenced in batches on the Illumina MiSeq.
+
+      FASTQ files will be demultiplexed and then aligned to microbial genomes using Phylosift.11
+      DNA sequences present in both the patient and control samples will be discarded as
+      contaminant. The preponderant organism(s) identified will be matched to the results of the
+      culture based techniques used to verify the culture independent results.
+    
+  

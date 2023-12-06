@@ -1,0 +1,172 @@
+
+    
+      The burden of chronic adult diseases is surging worldwide, particularly type 2 diabetes, the
+      prevalence of which is expected to double by 2030. The diabetes epidemic will primarily
+      impact developing countries, with 80% of adult cases occurring in low- and middle-income
+      countries (LMICs). Because many LMICs currently face a shortage of health professionals, the
+      increasing burden of noncommunicable diseases, like type 2 diabetes, will tax already
+      strained health systems. Furthermore, because many LMIC health care systems were developed to
+      target acute illnesses and communicable disease, they are ill-prepared to treat and manage
+      chronic adult disease. The divergence between the growing burden of chronic disease and the
+      development of the health systems necessary to treat these diseases indicate the potential
+      for a grave health, economic, and human crisis in the following decades. The WHO has
+      consequently demanded that physicians designs systems providing "Innovative Care for Chronic
+      Conditions" to meet this challenge4.
+
+      However, existing tools may provide a foundation for solutions to this growing crisis.
+      Community Health Workers (CHWs, as known as health promoters) have become central to global
+      health strategies since the Alma Ata Declaration of 1978, particularly in regions with
+      physician shortages. In recent years, CHWs have had notable success in targeting childhood
+      disease, particularly malnutrition and diarrhea, and offer a growing variety of primary care
+      services. The success of these programs in providing consistent, sustainable care at the
+      local level implies that longitudinal treatment for chronic adult diseases could be provided
+      through parallel structures. While the treatment of chronic disease has become increasingly
+      complex, the proliferation of smartphone and tablets across the globe have raised hopes that
+      mobile health technology (mHealth) platforms can provide CHWs with algorithmic guidance on
+      assessing and treating a broader set of diseases. The potential use of mHealth is a
+      burgeoning field of global health research. The combination of CHWs and mHealth guidance may
+      provide a solution to the rise of chronic disease in regions with physician shortages and
+      weak health systems.
+
+      While many mHealth applications have been developed for Diabetes (over 1,000 are commercially
+      available), only a small percentage (7.6%) are targeted to providers - and even fewer to
+      providers in LMICs. Instead, these tools most commonly serve as tools for patient
+      self-management, patient education, and medication adherence. A handful of programs have
+      utilized smartphone technology to connect remote patients to health care workers in LMICs as
+      well as to provide clinical guidance to providers, but such programs have been minimal and
+      publications have been process oriented. In addition to improving diabetes care in the target
+      population, the project also seeks to add to the evidence for this approach by designing an
+      application-based algorithm that can assist CHWs in providing long-term diabetes care,
+      titrating first- and second-line oral diabetes medications, and identifying dangerous
+      diabetes complications in a setting of a lower middle-income country with a low physician
+      density.
+
+      To test this delivery approach,the investigators focused on developing a diabetes treatment
+      program in San Lucas Tolimán, Guatemala. This program seeks to provide treatment to diabetics
+      living in the group of 19 rural villages with a combined population of 17,000, which surround
+      San Lucas. San Lucas is an ideal community for studying these topics because it is facing a
+      heavy burden of untreated Type II Diabetes, has medical personnel with mHealth experience,
+      and has a well-developed CHW program. This CHW program is sponsored by the San Lucas Mission
+      (SLM), an NGO providing health services in the area and a University of Wisconsin and
+      Stanford University partner organization. Local health workers describe the increase in Type
+      II Diabetes as an epidemic and there are few systems in place to provide community members
+      with diabetes screening or effective and consistent treatment. Startling regional data on
+      Type II Diabetes supports this concern: in Guatemala, the prevalence of diabetes has been
+      estimated at 9.1-9.4%, with over 40% of cases undiagnosed22-24. The prevalence of diabetes
+      has doubled over the past 30 years25. Fortunately, San Lucas has already developed a strong
+      CHW program, including a tablet-based mHealth application that targets early childhood
+      malnutrition, through a collaboration between the San Lucas Mission and Stanford School of
+      Medicine. This application has enhanced the successful malnutrition program, allowing CHWs to
+      more easily identify and manage malnutrition and decreasing training requirements for CHWs26.
+      Utilizing the existence of the CHW program infrastructure and the established mHealth
+      platform, the project seeks to develop and implement a CHW-led diabetes treatment program in
+      San Lucas that is assisted by a smartphone application.
+
+      In order to inform the development of the smartphone application and program protocols, the
+      investigators conducted a community needs assessment during the summer of 2016. Clinical data
+      was used to provide a baseline estimate of diabetes prevalence and distribution in the
+      communities as well as demographic risk factors. Interviews were conducted with local
+      physicians, CHWs, and managers of the CHW system to understand current methods of diabetes
+      treatment and define the limitations of these systems. Out of the 119 patients currently
+      diagnosed with diabetes in the rural communities, 31 were interviewed to illuminate how the
+      disease is currently diagnosed and treated, the effect the disease has on patient lifestyles,
+      and patients' desired attributes for a diabetes treatment program. Finally,the investigators
+      visited local diabetes clinics to determine the current state of diabetes treatment, the
+      availability of medications and resources, and the level of care provided to patients.
+
+      Key findings of the community needs assessment were as follows:
+
+        1. Patients with diabetes in the rural communities have poor access to quality diabetes
+           care. Only 58% of patients are taking medication on a regular basis and only 13% have
+           achieved good glycemic control
+
+        2. Outreach clinics run by CHWs are disorganized, undersupplied, sporadic, and ineffective
+
+        3. CHWs lack the experience and training to effectively titrate oral diabetes medications,
+           assess for possible complications, and provide health education for patients
+
+        4. Patients lack basic diabetes knowledge, particularly regarding self-management
+
+      Utilizing the knowledge gained with this needs assessment, established treatment guidelines
+      for diabetes, and the expertise of SLM medical director Dr. Rafael Tun and the coordinators
+      the SLM CHW program, the investigators developed protocols for the diabetes program,
+      including a smartphone application to allow for algorithmic management. This process was
+      iterative and collaborative and involved local partners at every step.
+
+      The investigators then trained a group of 10 CHWs, including 5 CHW coordinators (who have
+      more clinical experience and take on a supervisory and training role for less-experienced
+      CHWs) in the basics of diabetes management, program protocols, and the use of the smartphone
+      application the investigators had developed. With close physician supervision, the
+      investigators have beta-tested the use of the application with a small group of patients.
+      Based on this experience, the investigators have further refined the application and program
+      protocols. The investigators now endeavor to implement this program on a wide scale in the
+      San Lucas area to both improve access to care for patients with diabetes and to establish the
+      efficacy, feasibility, and safety of CHW-led, smartphone application-guided diabetes
+      treatment.
+
+      An overview of study activities is as follows:
+
+        -  The investigators will train additional CHWs in basic diabetes care, use of
+           point-of-care (POC) testing technology, and use of the smartphone application that will
+           guide their management of patients with diabetes.
+
+        -  CHWs will recruit patients with diabetes in the rural villages outside of San Lucas to
+           participate in the program.
+
+        -  At the enrollment visit, CHWs will use the smartphone application to screen patients for
+           appropriate inclusion in the program, establish glycemic targets, assess current
+           glycemic control with hemoglobin A1c and blood glucose, measure height, weight, blood
+           pressure, and waist circumference, assess for the presence of diabetes complications
+           (diabetic ulcers, angina, diabetic eye disease), administer oral medications (metformin
+           and/or glyburide, known locally by its alternate name glibenclamide) based on a
+           medication dosing algorithm, and provide diabetes self-management education.
+
+        -  CHWs will meet with patients on a monthly basis to assess medication adherence and for
+           adverse effects, glycemic control (with blood glucose), screen for diabetic
+           complications, refill medications with titration as needed (if experiencing medication
+           adverse effects or blood glucose is significantly above or below treatment goals), and
+           provide further diabetes education. Again, these activities will be guided by the
+           smartphone application. Every 3 months, the monthly visit will also include A1c
+           measurement for a more definitive measurement of diabetes control and to allow for
+           titration of medications. Patients who are identified as having complications or who are
+           not meeting treatment goals despite maximal dosing of metformin and glibenclamide
+           allowed by the algorithm will be referred to SLM medical director Dr. Rafael Tun for
+           definitive management.
+
+        -  After all visits, including enrollment and monthly visits, Dr. Tun, in addition to the
+           study investigators, will review data for all patients seen, including treatment
+           recommendations made by the application and carried out by the CHWs, and make any
+           changes to the treatment plan as needed based on his clinical judgement.
+
+        -  Mean hemoglobin A1c and proportion of patients meeting treatment goals (primary
+           endpoints) will be assessed at 6 months and compared to baseline, in addition to a
+           number of secondary endpoints and safety measures as described in the relevant sections
+           of this protocol. If possible, patients will also be followed out to 12 months with
+           reassessment of primary and secondary endpoints.
+
+        -  SLM hopes to continue this rural diabetes treatment program indefinitely, with the
+           results of this study informing a quality improvement process to ensure the provision of
+           high quality care.
+
+      The investigators believe that the novel aspect of this intervention, the use of a smartphone
+      application to guide treatment decisions, improves on previous protocol-driven approaches in
+      several ways. The use of a mobile computer-based algorithm as opposed to a paper algorithm
+      allows for greater complexity and the incorporation of additional factors relevant to patient
+      safety, such as the patient's current dose of medication, medication adherence, and
+      medication side effects, in order to provide more specific recommendations. In this way, it
+      decreases the cognitive burden placed on CHWs and the potential for human error. Rather than
+      having to follow a complicated paper flowchart, CHWs will input information into the
+      smartphone application, which will process the data and present the CHW with a concrete
+      recommendation. Additionally, a computer-based system allows for easier review by the
+      supervising physician and auditing and analysis of both program process measures and
+      outcomes.
+
+      While CHWs will be acting on recommendations from the smartphone application without direct
+      physician supervision at that moment, they will in essence be acting on "standing orders"
+      from the physician because the treatment algorithms were designed by physicians and approved
+      by the SLM medical director. CHWs will also be able to obtain point-of-care treatment
+      recommendations from the medical director via telephone if there are questions about
+      application recommendations or if a situation arises that falls outside the scope of the
+      protocols.
+    
+  

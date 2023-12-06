@@ -1,0 +1,52 @@
+
+    
+      Administration of propofol to achieve a target of moderate sedation is a challenging task for
+      which anesthesia providers receive minimal training. Undersedation results in a noncompliant
+      patient, while oversedation results in airway obstruction, respiratory depression, and
+      hypotension. Considerable variability in patient pharmacokinetics (the distribution of drug
+      within the body) and pharmacodynamics (the translation of drug concentration to clinical
+      effect) has been demonstrated. The skill of titrating propofol to the desired target and
+      maintaining this state is slowly acquired in the clinical environment of the endoscopy center
+      with frequent reliance on rescue skills. An automated system that facilitates this process
+      would be useful.
+
+      Pharmacokinetic models allow us to make predictions of the results of drug administration. If
+      we know the age and size of the patient, we can determine a quantity of propofol that will
+      attain a desired concentration at some point in the future (within the predictive accuracy of
+      the model). If they are old, this is less than if they are young. If they are obese, this is
+      more than if they are thin. By adjusting the dosing, we can achieve similar concentrations at
+      a specified time in a wide range of patients.
+
+      Pharmacodynamic models allow us to relate drug concentration to a probability of response.
+      Sensitivity is a randomly distributed variable, and the cumulative probability of response to
+      propofol is well represented by a sigmoid curve. While we do not know the concentration that
+      will suffice for a given individual, we can determine the probability that this individual
+      will lose responsiveness within an interval of concentrations. For example, the probability
+      of loss of responsiveness between 1 µg/ml and 6 µg/ml is around 99%. For any given age and
+      size, an infusion sequence can be determined so that we traverse this interval smoothly. The
+      infusion sequence is determined by minimization of the difference between the simulated
+      probability and the target (1). We predict that 90% of 50 year old 70 kg patients will lose
+      responsiveness between one minute and three minutes after initiating the infusion, and 99% by
+      five minutes. The infusion sequence for this patient is comprised of a bolus of 287 µg/kg
+      followed by an initial infusion of 216 µg/kg/min, with an increase to 550 µg/kg/min after 147
+      seconds. By selecting the infusion sequence based on the age and size of the patient, all
+      patients will track the same target line. These infusion rates are determined prior to
+      initiation of sedation, and the clinician can verify that they are appropriate for the
+      patient before beginning sedation.
+
+      Once the endpoint of adequate sedation is observed, the effect site concentration associated
+      with this endpoint is inferred, and the infusion that will maintain this concentration can be
+      determined. This allows the clinical observation to be translated into an infusion rate, much
+      as a driver accelerates to a desired speed and then engages the cruise control to maintain
+      that speed.
+
+      The intent of this study is to demonstrate equivalent safety and efficacy of PRC to control
+      by a skilled clinician.
+
+      References
+
+      1. Mandel JE, Sarraf E. The Variability of Response to Propofol Is Reduced When a Clinical
+      Observation Is Incorporated in the Control: A Simulation Study. Anesthesia & Analgesia.
+      2012;114:1221-9.
+    
+  

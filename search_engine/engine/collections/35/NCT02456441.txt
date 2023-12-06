@@ -1,0 +1,66 @@
+
+    
+      Hypothesis True:Electrical stimulation of the tibial nerve (TENS) decreases the activity of
+      the parasympathetic nervous system and increases the activity of the sympathetic nervous
+      system in women with overactive bladder.
+
+      Null Hypothesis: The electrical stimulation of the tibial nerve (TENS) does not decrease the
+      activity of the parasympathetic nervous system and does not increase the activity of the
+      sympathetic nervous system in women with overactive bladder.
+
+      Alternative Hypothesis: The electrical stimulation of the tibial nerve (TENS) increases the
+      activity of the parasympathetic nervous system and decreases the activity of the sympathetic
+      nervous system in women with overactive bladder.
+
+      Intervention Programmes
+
+      The randomization technique is carried out through sequential numbers kept in opaque
+      envelopes, not translucent and closed. This takes into account that a major goal of
+      randomization is to prevent the researcher to identify which intervention will be performed
+      in each patient. The generation of sequence numbers will be made by researcher "blind" the
+      study after patient selection criteria for inclusion and exclusion. The sequence of numbers
+      to be used for randomization will be kept confidential until the exact moment of the
+      beginning of the intervention.
+
+      In this study, two self-adhesive electrodes, one immediately behind the medial malleolus and
+      the other 10 cm above will be used. Through a chain of 1Hz, the aim is to correctly identify
+      the tibial nerve. This position is confirmed with the rhythmic movement of the finger
+      flexion. The frequency is then changed to 10Hz, the pulse width set at 200 "microseconds" and
+      adjusted according to the intensity threshold for each patient, below motor threshold. This
+      current generator also has a device, the VIF (variation in intensity and frequency) that aims
+      to ease the accommodation of sensory receptors and enhance its effects. The application time
+      is 30 minutes.
+
+      The placebo group will receive active current for 30 seconds and then will gradually decrease
+      by 15 seconds to not pass any current.
+
+      It is noteworthy that all study participants will be instructed not to eat, not drink, not
+      smoke and do not exercise two hours prior to data collection.
+
+      Evaluation of the sympathetic and parasympathetic system For the analysis of Heart Rate
+      Variability (HRV) time series of RR intervals obtained from continuous ECG signal recorded
+      (sampling frequency = 1 kHz) for the MP150 system (Biopac, California, USA) will be
+      interpolated and decimated to obtain equally spaced in time series and then subjected to a
+      Fast Fourier Transform (FFT) algorithm developed using a Matlab (Matlab 6.0, Mathworks Inc.,
+      USA) language. The spectral power is calculated by integrating each frequency band of
+      interest. The time series of RR will be analyzed in the time domain and the frequency and
+      variability parameters and autonomic balance will be obtained. In the time domain we
+      calculate the mean values of RR intervals, standard deviation and the square root of the sum
+      of the square of successive differences (rMSSD). The evaluation of the sympathetic and
+      parasympathetic nervous system will be held at the Federal University of Health Sciences of
+      Porto Alegre (UFCSPA), the Laboratory of Physiology before, during and after application of
+      TENS.
+
+      Calculation Sample
+
+      Due to lack of studies relating to study the effects of the sympathetic and parasympathetic
+      TENS in women with overactive bladder nervous system, a pilot study will be conducted which
+      will consist of:
+
+      Group A: TENS Group, composed of 15 women with overactive bladder and Group B: placebo group,
+      consisting of 15 women with overactive bladder.
+
+      Based on the obtained values the actual sample size calculation for the study will be
+      conducted.
+    
+  

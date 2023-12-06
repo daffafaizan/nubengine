@@ -1,0 +1,17 @@
+
+    
+      This study is a 12-week parallel group multi-center randomized trial designed to compare
+      CGM+DSS with CGM alone. The DSS to be implemented contains a "smart" bolus advisor that
+      adjusts the size of correction insulin boluses based on short term blood glucose predictions.
+      It is able to complete this function by evaluating CGM values, insulin usage and carbohydrate
+      intake record. It also contains an exercise advisor, a bedtime advisor, hypoglycemia risk and
+      long-term tracker of HbA1c.
+
+      inControl-Advice, a smart-phone based medical software platform, is designed to provide
+      advice to users. It receives data from an insulin pen and then adjustments the insulin
+      delivery every 5 minutes. The system provides a series of real-time alerts and on-demand
+      advice, for both dosing of insulin and ingestion of carbohydrates, based on data collected
+      from T1DM patients (i.e. carbohydrate consumption, insulin injected, CGM) and inConrol Cloud
+      analytics.
+    
+  

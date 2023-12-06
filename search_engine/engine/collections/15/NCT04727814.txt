@@ -1,0 +1,48 @@
+
+    
+      Worldwide colorectal cancer (CRC) is the second most common cancer in women and the third in
+      men. Early detection and removal of the colon polyps (cancer precursors) reduce the incidence
+      of CRC. However, interval colon cancers still occur within 3-5 years after colonoscopy among
+      patients of colonoscopists with low adenoma detection rate (ADR), defined as the proportion
+      of patients with at least one adenoma. ADR was widely variable, suggesting that some adenomas
+      were missed. Twenty six percent of adenomas were missed during tandem examination reported in
+      a recent meta-analysis. Missed adenomas accounted for about 58% of interval cancers. Adenomas
+      are more likely to be missed in the right colon than in other segments because of their flat
+      morphology and hiding behind the accentuated folds and curvatures. Innovations in colonoscopy
+      to increase ADR and decrease adenoma miss rate (AMR) hold the potential to reduce interval
+      cancers.
+
+      The consensus statements in a recent modified Delphi review confirmed water exchange (WE) as
+      a standardized insertion method produced less insertion pain, better bowel cleanliness and
+      higher ADR than gas insufflation. It is characterized by infusing water to guide insertion in
+      an airless lumen and almost simultaneous suctioning of the infused water during insertion,
+      aiming at near-complete removal of the infused water and debris upon cecal intubation.
+      Although an RCT with tandem examination showed WE significantly decreased right colon adenoma
+      miss rate (rAMR) compared with CO2 insufflation (18.0% [33/183] vs. 34.6% [62/179], P =
+      0.0025), a considerable percentage of polyps in the right colon were still overlooked.
+
+      In recent years, the field of machine learning and artificial intelligence has made
+      remarkable progress, and an increasing number of publications showed improved polyp detection
+      rate (PDR) and ADR using computer-aided detection (CADe). CADe can detect polyps overlooked
+      by the colonoscopist due to human limitations of inattention or inexperience. However, one
+      major drawback of current CADe systems is false alarms (FAs), or false positives (FPs).
+      Usually triggered by bubbles and fecal debris, FAs might distract the endoscopists with
+      potential unfavorable effect on ADR. One study reported a FP rate of up to 60%.
+
+      In an overview on applying deep learning algorithms and WE in colonoscopy to improve adenoma
+      detection, the authors noted that WE could enhance the performance of artificial intelligence
+      (CADe) by improving bowel cleanliness and thus the exposure of polyps. In a follow-up review,
+      the authors reported that artificial intelligence might mitigate operator-dependent factors
+      that limited the potential of WE, while WE might provide the platform to optimize the
+      performance of artificial intelligence by increasing bowel cleanliness and improving
+      visualization, Therefore, the strengths of WE and artificial intelligence may complement the
+      weaknesses of each other to maximize adenoma detection.
+
+      One of our recently completed studies compared right colon ADR evaluated by a blinded
+      endoscopist using either air insufflation or WE for insertion, with all the colonoscopies
+      video recorded (NCT02737514). We developed and applied a CADe system to detect the polyps in
+      the videos. The current report is a proof of principle study to test the hypothesis that WE
+      could yield a significantly higher additional PDR (APDR) and reduce false alarms rate (FAR)
+      as compared to air insufflation in the right colon.
+    
+  

@@ -1,0 +1,28 @@
+
+    
+      Already existing and coded tumor biological material and health-related personal data will be
+      retrospectively collected. FL diagnosis will be confirmed by central pathology review. Tumor
+      somatic mutations, immunoglobulin gene rearrangement and mutation status will be analyzed by
+      targeted deep next generation sequencing of tumor genomic DNA. Gene expression profiling will
+      be performed by targeted RNA-Seq of biopsy-derived RNA.
+
+      An immunohistochemistry panel assessing both tumor phenotype and microenvironment cellular
+      composition will be assessed by Tissue macroarray. FISH will be performed to characterize the
+      most recurrent follicular lymphoma chromosomal translocations.
+
+      The adjusted association between exposure variables and progression free survival will be
+      estimated by Cox regression. This approach will provide the covariates independently
+      associated with progression free survival that will be utilized in the development of a
+      hierarchical molecular model to predict progression free survival at 24 months. The
+      hierarchical order of relevance in predicting 24 months progression free survival among
+      covariates will be established by recursive partitioning analysis. Overall, this approach
+      will allow the development of a multilayer dynamic model for anticipating progression within
+      24 months from treatment.
+
+      The model developed in the training set will be tested in the validation sets and the model
+      performance (c-index and net reclassification improvement) in the validation set will be
+      compared with that in the training set. The accuracy of the multilayer model in predicting
+      progression free survival at 24 months will be compared against the FLIPI using c-index and
+      net reclassification improvement.
+    
+  

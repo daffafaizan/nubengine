@@ -1,0 +1,19 @@
+
+    
+      Method: In the first year, we will record 60 patients who received general anesthesia, their
+      EEG data recorded from bi-spectral index (BIS) monitor. Under the same anesthesia depth, the
+      experimental group use ketamine 0.5mg/kg; while the control group using alfentanil 0.01mg/kg
+      injection. Both perioperative data were recorded included heart rate, blood pressure and
+      surgical time. We decompose the raw EEG data from BIS monitor with EMD, and we observe
+      difference between IMFs, and quantifying energy change. Second year: We will extend the EEG
+      monitor to temporal lobe, parietal lobe and occipital lobe. Besides the whole brain mapping
+      method for detecting energy change after ketamine injection; we also tried to find the
+      interactions between oscillations. Finally, we want to apply the analysis method to pediatric
+      patients, try to find the difference of ketamine reaction between generations. Anticipated
+      Results: We anticipate that we can quantify the energy of EEG by Emperical mode
+      decomposition(EMD), and ketamine injection can cause different energy change with other
+      sedatives. We will find the energy traveling in EEG with EMD decomposition. We will find that
+      HHT is more suitable for EEG analysis in clinical practicing. With the whole brain mapping
+      method, we can understand the electrical activity during general anesthesia.
+    
+  

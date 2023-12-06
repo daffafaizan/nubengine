@@ -1,0 +1,60 @@
+
+    
+      Title: The Australian Parental Supply of Alcohol Longitudinal Study (APSALS): Can parents
+      teach their children to drink alcohol responsibly? Or, is one drop a drop too many?
+
+      Background: The Australian Parental Supply of Alcohol Longitudinal Study (APSALS) was
+      established to investigate the short- and long-term associations between exposure to parental
+      alcohol provision, early adolescent alcohol initiation, subsequent alcohol use, and
+      alcohol-related harms, controlling for a wide range of parental, child, familial, peer, and
+      contextual covariates. The cohort commenced with 1927 parent-child dyads comprised of
+      Australian Grade 7 school students, and a parent/guardian. Baseline, one- and two-year
+      follow-up data have been collected, and a three-year follow-up is underway. The data
+      collected include child, familial, parental, and peer factors addressing demographics,
+      alcohol use and supply, parenting practices, other substance use, adolescent behaviours, and
+      peer influences. Baseline data show that only 5.8% of the Grade 7 adolescents had initiated
+      alcohol consumption (of a whole serve of alcohol). Thus, the cohort is ideal for
+      prospectively examining predictors of initiation and progression of alcohol use, which
+      increases markedly through adolescence. Results to date have highlighted the importance of
+      distinguishing between sipping and drinking of full serves of alcohol in the measurement of
+      adolescent alcohol use as these represent distinct behaviours which occur in different
+      environments.
+
+      Aims: The aims of this study are to determine if:
+
+        1. Parental supply is associated with the progression (acceleration/deceleration) in
+           adolescent drinking over time;
+
+        2. The immediate and broader contextual factors mediate or moderate the relationship
+           between parental supply and progression in adolescent drinking over time.
+
+      Design: A longitudinal study across three states in Australia (New South Wales, Tasmania, and
+      Western Australia).
+
+      Recruitment: Catholic, Independent and Government school in NSW, Tasmania and Western
+      Australia.
+
+      Data analysis: Logistic and binomial regression, and multi-level modelling will be used, and
+      latent growth curve modelling (LGCM) within the framework of structural equations modelling
+      (SEM). Moderating and mediating variables, both time variant (e.g., association with alcohol
+      using peers) and time-invariant (e.g. gender) will be modelled. Outcome variables will be
+      modelled using appropriate parametric distributions - Poisson distributions for count data
+      outcomes and binomial distributions for categorical data outcomes. All analyses will be
+      conducted in MPlus v5.2 or Stata. As recommended by Graham imputation of missing data will be
+      done.
+
+      Sample size calculations: Due to the flexibility of the modelling approach taken (i.e., the
+      number of parameters allowed to vary), there are a number of different scenarios that can be
+      tested to determine an adequate sample size. The primary interest is in differences in
+      drinking over time between groups who were supplied or not supplied alcohol. Thus, regression
+      analysis will address drinking on a dummy-coded "parental supply" variable. It is
+      hypothesised that parental supply of alcohol would alter the trajectory of harmful drinking
+      by a regression coefficient of ±0.2. This regression coefficient is equivalent to a medium
+      effect size difference between groups, a result which is not unexpected given past research.
+      It was assumed that attrition would result in around 20% missing data on each subsequent
+      measurement occasion. Based on simulation studies, and factoring in potential mediators and
+      moderators, 600 children are required at a minimum. However, as small cell sizes for some
+      associations may affect power, a final sample of ~1800 children and parents has been
+      recruited.
+    
+  

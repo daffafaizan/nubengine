@@ -1,0 +1,126 @@
+
+    
+      Year 1: Recruiting 100 ADHD patients and 100 healthy control subjects (Training Set) to
+      develop a miRNA diagnosis panel for ADHD
+
+      1. One hundred eligible ADHD patients that are being treated in the Outpatient Department of
+      Child Psychiatry at Kaohsiung Chang Gung Memorial Hospital in Taiwan will be recruited for
+      this study. One hundred age- and gender-matched control subjects will be found in the same
+      catchment area as that of the patients. After obtaining informed consent from their parents
+      or guardians, research psychiatrists shall interview the participants using the K-SADS-E to
+      confirm the diagnosis. The participants will also undergo WISC-IV assessment to exclude
+      intellectual disabilities.
+
+      2. For both the ADHD patients and the healthy control subjects, experienced child
+      psychologists will administer Conners CPT and Conners CATA testing in a room designed to
+      reduce inconsistent testing conditions. Parents or guardians will be required to complete the
+      SNAP-IV parent form and the SAICA; patients' teachers will be required to fill out the
+      SNAP-IV teacher form; and the ADHD-RS and the CGI will be completed and rated, respectively,
+      by a child psychiatrist.
+
+      3. Venous blood will be collected from each participant in an EDTA anticoagulant tube. The
+      blood samples will be further processed with the mirVana miRNA isolation kit (Life
+      technology) to extract total RNAs. Based on the preliminary findings, the ΔCt values of the
+      22 candidate miRNAs will be determined for the 100 ADHD samples and 100 control samples. Then
+      the 10 miRNAs with the smallest p-value will be chosen to develop a miRNAs diagnosis panel
+      for ADHD in the second year.
+
+      4. The ADHD patients and healthy control subjects will have 12 months of follow-up. The
+      treatment procedures during that time for patients with ADHD will be determined by the
+      patients' psychiatrists' traditional practice and the agreement of patients and their
+      parents.
+
+        1. ADHD patients who decide to receive medical treatment will be prescribed oral
+           short-acting MPH (MPH-IR) two or three times daily, with each dose ranging between 0.3
+           and 1.0 mg/kg, which shall be determined based on the severity of their clinical
+           symptoms, as well as their age, height, and body weight.
+
+        2. The dosage will be adjusted every two weeks to properly improve ADHD symptoms. Changes
+           to long-acting MPH (Ritalin-LA) or extended-release methylphenidate (Concerta) are
+           permitted depending on clinical requirements. The maximum doses of MPH-IR and Ritalin-LA
+           per day are 60 mg and of Concerta is 54 mg, as these are the maximum daily doses
+           approved in Taiwan. The dose will be decreased should any clinically intolerable adverse
+           conditions arise. The final titration dose of MPH with an acceptable response will be
+           maintained through the follow-up period.
+
+        3. Concomitant medications are prohibited. Compliance with the drug regimen will be
+           verified at each visit based on reports by the patients' parents and how much of the
+           prescription remains. Patients that start a new medication between the different
+           time-points of the study will be considered dropouts.
+
+        4. The ADHD Patients that decide not to receive medical treatment are usually reassessed by
+           a child psychiatrist in the outpatient department once a month and may receive
+           behavioral therapy or re-educative psychotherapy for the duration of the study.
+
+        5. The healthy control subjects will be assessed only once, at the baseline. 5. Patients
+           with ADHD will be reassessed at the twelfth month after baseline. The assessment
+           procedures, including miRNAs analysis and ADHD measures, that were administered at
+           baseline will be replicated.
+
+      Year 2: Developing a SVM classification model and enrolling an independent validation group
+      with 50 ADHD patients and 50 healthy control subjects (Testing Set)
+
+        1. Based on the samples already gathered, the 10 most differentially expressed miRNAs
+           between the ADHD group and control group can be determined. Those 10 values can be used
+           to derive the SVM classification model and create a dependable and strong miRNA
+           diagnosis panel for ADHD. Receiver operating characteristic (ROC) curves will be applied
+           to evaluate the validity of this miRNA diagnosis panel. Both the specificity and
+           sensitivity of this panel are expected to reach 80%.
+
+        2. For the independent validation group (Testing Set), 50 eligible patients with ADHD and
+           50 age- and gender-matched healthy control subjects will be recruited. Research
+           psychiatrists will interview the participants using the K-SADS-E to confirm the
+           diagnosis, and the participants will also undergo WISC-IV assessment to exclude
+           intellectual disabilities.
+
+        3. All ADHD patients and healthy control subjects will have experienced child psychologists
+           administer Conners' CPT and Conners' CATA testing. The parents or guardians of the
+           participants are required to complete the SNAP-IV parent form and the SAICA; the
+           patient' teachers are required to complete the SNAP-IV teacher form; and the ADHD-RS and
+           the CGI will be completed and rated, respectively, by a child psychiatrist.
+
+        4. Venous blood will be collected from each participant using an EDTA anticoagulant tube.
+           The blood samples will be further processed with the mirVana miRNA isolation kit (Life
+           technology) to extract total RNAs. The levels of the 10 miRNAs elected for the SVM
+           classification model will be determined by qRT-PCR.
+
+        5. To verify the results of the Training Set, the miRNAs data of the Testing Set (both the
+           50 ADHD patients and the 50 healthy control subjects) will be used for blind testing by
+           the miRNA diagnosis panel. The discrimination validity expects both the sensitivity and
+           specificity to reach 80%.
+
+        6. The treatment and follow-up procedure for ADHD patients will be the same as in the first
+           year. The 100 ADHD patients recruited in the first year will be followed and reevaluated
+
+      Year 3: Completion of the 12-month follow-up of ADHD patients and performing analysis of
+      target genes and enrichment pathways of the miRNAs
+
+        1. No new participants will be recruited in the third year. The 12-month follow-up of all
+           150 patients with ADHD will be completed during this year.
+
+        2. The second assessment of patients with ADHD will be carried out to conclude this study
+           (twelfth month after baseline). The same assessment procedures that were administered at
+           baseline will be replicated.
+
+      (1) Blood samples will be collected and be processed again to extract miRNAs-. (2) A research
+      psychiatrist will interview the ADHD patients using the K-SADS-E in order to confirm that the
+      patients still meet the diagnostic criteria of ADHD.
+
+      (3) Patients with ADHD will undergo neuropsychological testing (WISC-IV, Conners CPT and
+      Conners CATA) and have their behavioral symptoms rated (SNAP-IV, SAICA, ADHD-RS and CGI) by
+      the same rater at baseline. To avoid any bias derived from medication, ADHD patients will be
+      told not to take their medication on the day of the neuropsychological assessment.
+
+      3. The trends of the miRNA levels during the 12-month follow-up will be identified. The
+      differential miRNA levels between patients with versus without MPH treatment and between
+      patients who continue versus those who remit from the ADHD diagnosis will be evaluated.
+      Whether miRNAs can function as a biomarker that portrays the ADHD condition after treatment
+      will be determined.
+
+      4. The predicted target genes and their enrichment pathways of the differentially expressed
+      miRNAs will be obtained using TargetScan v6.2, miRWalk, and DIANA-microT. The search will
+      focus exclusively on the 3'-UTR regions of the target miRNAs with a p-value of 0.05 defining
+      the probability distribution of random matches set in the software with a minimum miRNA seed
+      length of 7.
+    
+  

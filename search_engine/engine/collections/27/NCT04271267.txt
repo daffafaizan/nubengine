@@ -1,0 +1,108 @@
+
+    
+      Chronic lung disease is the third leading cause of death in the United States. Lung
+      transplantation is an effective short-term intervention for select patients with advanced
+      lung disease. Nearly 4,000 adult lung transplant operations were performed in 2014 according
+      to International Society for Heart and Lung Transplantation (ISHLT) registry data(1). AR,
+      however, is more common among recipients of lung, as compared with other solid organ,
+      transplants with approximately 35% of lung recipients experiencing at least one AR episode
+      within first year of transplantation(1). Importantly, AR is the principal risk factor for
+      chronic allograft dysfunction; the leading cause of late death in lung transplant recipients
+      the primary obstacle to improved long-term lung transplant outcomes(2-5).
+
+      AR is distinguished upon observation of perivascular or peribronchiolar lymphocytic
+      infiltrates in transbronchial lung biopsy specimens(6). Prior studies have demonstrated even
+      low grade AR events (AR events of minimal or mild severity) increase the risk of chronic
+      graft dysfunction, yet most of these episodes are asymptomatic(4, 5). As such, the majority
+      of lung transplant centers perform surveillance lung biopsies at three-month intervals
+      throughout the first posttransplant year and some continue annual surveillance biopsies over
+      the lifetime of the allograft. Accordingly, lung recipients incur an enormous burden of
+      invasive procedures and the inherent risks associated with this practice. There is a critical
+      unmet need, therefore, to establish a less invasive biomarker of AR to minimize the number of
+      biopsies after lung transplantation.
+
+      It has been proposed that damage to the lung allograft in AR disrupts the endothelial
+      barrier, causing release of donor-derived cell-free DNA (dd-cfDNA) into the recipient
+      circulation(7). This hypothesis is based on studies establishing dd-cfDNA as a useful
+      biomarker of AR in heart transplant recipients(8). Specifically, a prospective study of heart
+      recipients demonstrated dd-cfDNA facilitated the diagnosis of AR with a sensitivity and
+      specificity comparable to that of endomyocardial biopsy(8). Similarly, a proof-of-concept
+      study in a small number of lung transplant recipients demonstrated dd-cfDNA significantly
+      increased in association with moderate or severe lung AR and also suggested dd-cfDNA
+      increases in association with signs of chronic graft dysfunction(9). Gaps in this prior work
+      lie in defining the utility of dd-cfDNA as a biomarker for mild/minimal AR events, which are
+      far more common than moderate/severe AR and confer a similar increase in risk for chronic
+      graft failure. Additionally, no prior work has sought to understand whether dd-cfDNA may
+      correlate with treatment response in AR or whether dd-cfDNA can be detected in the lung
+      allograft fluid. As such, it remains unknown whether lung fluid, obtained through BAL may be
+      a more sensitive matrix for detecting clinical events in lung recipients.
+
+      WORK ON cfDNA TO DATE IN MULTICENTER LUNG TRANSPLANT COHORT (CTOT-20) CTOT-20 is an NIH
+      funded, multicenter, observational cohort study enrolling lung transplant recipients at the
+      time of transplantation with longitudinal follow up over approximately 5 years. The study
+      enrolled over 800 lung recipients from 2015 to 2018 at five North American lung transplant
+      centers. As part of CTOT-20, protocol mandated peripheral blood samples are collected at 1,
+      3, 6, 9, and 12 months posttransplant. The five centers enrolling in CTOT-20 all follow
+      similar clinical care practices that call for surveillance BAL and transbronchial lung
+      biopsies at intervals generally corresponding to these blood collection time points.
+      Importantly, all biopsies performed on CTOT-20 subjects are assessed for the presence and
+      severity of AR according to international guidelines(6) by an experienced lung transplant
+      pathologist at the collecting center and these results are entered into the CTOT-20 eCRF. As
+      such, we have accrued a unique biorepository of well-phenotyped paired plasma and BAL samples
+      from lung transplant recipients.
+
+      As part of an NIH-funded CTOT ancillary study, we isolated total cfDNA from 320 paired plasma
+      and BAL samples on 126 CTOT-20 participants. The majority of these samples were collected
+      within the first ~6 months of transplant. A total of 60 patients in this cohort have at least
+      one AR event represented, all of which are minimal or mild in severity. cfDNA was isolated
+      using an automated nucleic acid purification system (Maxwell RSC, Promega). Up to 1ml of
+      plasma or BAL was used. cfDNA yields were quantified using the Quantifluor (Promega)
+      fluorescent dye system and isolated cfDNA is being stored at -20°C. TapeStation has been
+      performed on the cfDNA isolated from approximately one-third of the BAL samples. This limited
+      analysis suggests the majority of the BAL samples contain largely very small fragment DNA,
+      without significant contamination by genomic DNA.
+
+      Prior studies have demonstrated even low grade AR events (AR events of minimal or mild
+      severity) increase the risk of chronic graft dysfunction, yet most of these episodes are
+      asymptomatic(4, 5, 10). As such, the majority of lung transplant centers perform surveillance
+      lung biopsies at three-month intervals throughout the first posttransplant year and some
+      continue annual surveillance biopsies over the lifetime of the allograft. Accordingly, lung
+      recipients incur an enormous burden of invasive procedures and the inherent risks associated
+      with this practice. There is a critical unmet need, therefore, to establish a less invasive
+      biomarker of AR to minimize the number of biopsies after lung transplantation.
+
+      For the current collaboration, isolated cfDNA from the subjects/samples detailed herein (126
+      subjects, 320 BAL samples paired with 320 plasma samples, 640 samples in total) will be
+      transferred to CareDx for determination of the dd-cfDNA fraction using the Allosure
+      platform(11). Additionally, as it is completely plausible that the donor will not always be
+      the lower contributor to the BAL cfDNA, we request CareDx perform genomic alignment of the
+      paired BAL and plasma samples to inform the selection of the unknown contributor that most
+      likely represents the donor fraction.
+
+      Results on the fraction of dd-cfDNA from the transferred samples will be returned to Duke for
+      integration with the clinical data and statistical analysis supported by our CTOT-20
+      statistical team with sharing of results in a collaborative manner with the CareDx team. A
+      detailed statistical analysis plan will be developed in collaboration with CareDx prior to
+      data analysis. In general, our analytic approach for the descriptive and inferential analyses
+      to address the primary hypothesis/outcome will be as follows:
+
+      For the descriptive analyses, biopsies will binned into the following groups based on time of
+      measurement: 20 to 60 days / 61 to 140 days / 141 to 220 days / >220 days (roughly windowing
+      1, 3, and 6 months posttransplant). To describe the distribution of fraction of dd-cfDNA, the
+      mean (standard deviation), the 5-number summary, and the deciles of levels will be computed.
+      The distribution of fraction of dd-cfDNA levels will be described using a split-time boxplot
+      by AR status and by transplant type across the biopsy time points. Pearson's correlation
+      coefficient will be used to describe the correlation between paired blood and BAL fraction of
+      dd-cfDNA.
+
+      For the inferential analyses, to test whether fraction of dd-cfDNA is elevated in transplant
+      patients at the time of an AR event, fraction of dd-cfDNA levels will be modeled as a
+      function of AR status and time from transplant using a linear mixed effect model with a
+      random intercept and a random slope on time. Linear mixed modeling will be used to account
+      for dependencies in the observations. The model will also adjust for potential confounders
+      including transplant type (entered as a binary indicator of bilateral vs. single), time from
+      transplant to biopsy (entered as a continuous covariate, centered and scaled). Additionally,
+      concurrent infection will be entered into the model as a binary indicator. The model will be
+      fit twice, once for plasma and once for BAL.
+    
+  

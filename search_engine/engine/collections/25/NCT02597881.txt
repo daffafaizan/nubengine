@@ -1,0 +1,34 @@
+
+    
+      The purpose of this protocol is to create an electronic registry to house phenotypic
+      information from patients with all types of bone conditions. The initial focus of this
+      registry will be to include U.S. patients with achondroplasia. Once populated by
+      co-investigators with particular interest, expertise and large clinical populations with
+      these bone conditions, the collective data can be queried to pursue clinical research
+      questions pertaining to health outcomes and treatment options for patients with these complex
+      conditions. The registry is longitudinal in nature with the functionality to retrospectively
+      enter patients' clinical data from the prenatal period up through the most recent encounter,
+      with all intervening data entered in a chronologic fashion. The database has been created in
+      RedCap, a publicly available database format created by researchers at the University of
+      Miami specifically for academic researchers collaborating across multiple research sites. The
+      rationale for creating such a database is simple; achondroplasia is relatively rare so
+      collaboration among researchers is essential to gather similarly affected patients to answer
+      common clinical research questions. The goal is to better understand the natural history and
+      treatment outcomes for these patients.
+
+      This registry was built by, based at and maintained by personnel from the Greenberg Center
+      for Skeletal Dysplasias in the McKusick-Nathans Institute of Genetic Medicine (IGM) at Johns
+      Hopkins. The registry is web-based and therefore easily accessible to our co-investigators at
+      other sites across the U.S., including Alfred I. DuPont in Wilmington, Delaware, University
+      of Wisconsin in Madison and University of Texas.
+
+      Our goal is to enroll at least 1500 patients with achondroplasia from the aforementioned
+      sites. Access to the registry is password-protected and the data will be backed up on the IGM
+      server daily. A co-investigator will be able to enter and access the identifying information
+      (i.e. name, address, contact information, DOB) for their patients only in the registry.
+      Thereafter, a unique study identification number, calculated age of the subject (based on the
+      date of data entry) and diagnosis will be the only identifiers accessible to the other
+      co-investigators. The total deidentified phenotype data will be available to the
+      co-investigators during data analysis.
+    
+  

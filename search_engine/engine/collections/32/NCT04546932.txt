@@ -1,0 +1,145 @@
+
+    
+      Study population. We performed a randomized, double-blind controlled trial at Vietnam
+      National Cancer Hospital from January 2020 to July 2020. The trial protocol was approved by
+      the medical ethics committee of Vietnam Military Medical University and Vietnam National
+      Cancer Hospital, simultaneously written informed consent was obtained from all patients
+      before inclusion.
+
+      Randomization and blinding technique. Participants were randomly assigned to receive either
+      lung-protective ventilation (LPV group) or conventional ventilation (CV group) at a ratio of
+      1:1. The randomization was performed using the R program with the "runif", "as.integer",
+      "int" and "replace" functions. As a result, a list of random numbers was created in each
+      group. The patients were numbered according to their orders of hospital registration and then
+      were allocated into the group of their numbers. The intervention protocol was stored in
+      sealed, opaque numbered envelopes. An anesthesiologist who did not involve in the study set
+      the ventilator in accordance with the protocol in the envelopes. Another anesthetist who was
+      in charge of the patient collected data during surgery. The surgeons taking part in the
+      procedures and patients were not informed of the ventilator setting. Physicians in
+      post-anesthesia care unit who were not responsible for intraoperative care carried out the
+      postoperative evaluation. The analysis of the postoperative chest X-ray was completed by a
+      radiologist who was not involved in the study.
+
+      Standard procedure. All patients fasted for 12 hours before the procedure but still consumed
+      clear water until 2 hours prior to surgery in order to avoid preoperative dehydration.
+      Participants were premedicated with intravenous midazolam 1-2 mg 30 minutes before the
+      surgery. In the operating room, a radical arterial cannula was inserted to monitor invasive
+      blood pressure, collect blood gas sample, and measure the pulse pressure variation (PPV)
+      index to guide intraoperative fluid therapy. The ASA standards for monitoring such as pulse
+      oximeter, capnography, electrocardiography, thermometer were applied prior to the insertion
+      of an epidural catheter at level T7-T12 for postoperative analgesia.
+
+      All patients received intravenous fentanyl 2 µg/kg, lidocaine 40 mg, propofol 2 mg/kg, and
+      rocuronium 1 mg/kg for the induction. Intubation was performed 90 seconds after the
+      administration of muscle relaxant and then 8 mg dexamethasone was injected. Anesthesia was
+      maintained using sevoflurane of which the concentration was justified to achieve the
+      end-tidal concentration within the range of 1,4-1,8 in oxygen and the PRST score less than 3.
+      If the PRST score was greater than 3, then an additional bolus dose of 20-30 mg propofol and
+      25-50 µg fentanyl was injected along with increasing sevoflurane concentration. On the
+      contrary, if signs of deep anesthesia were presented (PRST score=0, blood pressure decreased
+      by more than 20% of the baseline values, bradycardia), then the sevoflurane concentration was
+      cut down and 100 ml of crystalloid solution was rapidly infused within 2 minutes. A bolus
+      dose of 100-200 µg phenylephrine was added if the blood pressure was still less than 20% of
+      the baseline value in spite of these above-mentioned steps. Rocuronium was continuously
+      infused at the rate of 10 µg/kg/min. The solution of bupivacaine 0,1% combined with fentanyl
+      2 µg/ml was infused via the epidural catheter at the rate of 5 ml/hour after a loading dose
+      of 5 ml prior to skin incision. Normothermia was maintained during surgery. The
+      pneumoperitoneum was implemented by CO2 insufflation at a pressure of 12 mmHg with room
+      temperature in all patients. The intraoperative fluid was managed based on the goal-directed
+      fluid therapy with a crystalloid solution. In brief, no additional fluids were provided if
+      PPV was lower than 10%, otherwise, additional boluses of 250 ml ringer lactate solution were
+      given over 10-15 minutes. After each bolus dose, PPV was re-assessed and further bolus was
+      administered until reaching a PPV of lower than 10 %.
+
+      Intravenous 8 mg ondansetron was injected 30 minutes before the end of surgery to prevent
+      postoperative nausea and vomiting. Rocuronium infusion was stopped 30 minutes before
+      abdominal closure. The neuromuscular blockade was reversed in the postoperative care unit
+      using intravenous neostigmine 40-60 µg/kg combined with atropine 0,5 mg. Patients were
+      extubated when they met the extubation criteria (spontaneous tidal volume > 6 ml/kg and
+      respiratory rate = 12-20 breath/minute, SpO2>95%, normocarbia, body temperature > 350C,
+      positive gag reflexes and ability to follow a verbal command, hemodynamic stability without
+      vasopressor support and ability to lift their heads and hold for 30 seconds [23]).
+      Postoperative epidural analgesia for 48 hours was executed using bupivacaine 0,1% combined
+      with fentanyl 2 µg/ml at a speed of infusion 5-10 ml/hour to maintain a visual analogue scale
+      (VAS) score < 3. If the score was greater than 3, then a bolus dose 5 ml of the anesthetic
+      solution was provided along with an increase in the speed of infusion. After extubation,
+      patients were oxygenated via nasal cannula 3-5 ml/minute (1 ml/minute raises the FiO2 by 3%)
+      to keep the SpO2>95%.
+
+      Ventilation protocol. Mechanical ventilation protocol was performed on the anesthesia machine
+      GE healthcare carestation 620. The patient's ideal body weight was predefined according to
+      formula: 45.5 + 0.91×[height(cm)-152.4] for women or 50 + 0.91×[height(cm)-152.4] for men. In
+      both groups, the mechanical ventilation was set up at the volume-controlled mode, inspiration
+      to expiration ratio of 1:2. After being lifted to 100% in the induction period, FiO2 was
+      maintained at the level of 40% until extubation. Respiratory rate (starting with 18
+      breaths/minute) was justified to keep the end-tidal carbon dioxide (EtCO2) in the normal
+      range of 35-40 mmHg. In the CV group, the tidal volume was set at 10 ml/kg IBW without PEEP
+      and RM. In contrast, in the LPV group, patients were provided with a tidal volume of 7 ml/kg
+      IBW and an intraoperative 10 cmH2O in PEEP. Simultaneously, in the LPV group, alveoli were
+      recruited applying a stepwise increase in PEEP (from 4 to 10 cmH2O for 3 breaths, 10 to 15
+      cmH2O for 3 breaths, and 15 to 20 cmH2O for 10 breaths) with maximum PIP = 50 cmH2O [24]. The
+      recruitment maneuvers were performed right after intubation, 30 minutes after CO2
+      insufflation, then every hour, and finally before extubation.
+
+      Data source and collection. The demographic characteristics including age, gender, height,
+      weight, BMI, ASA physical status and history of coexisting diseases, and smoking were
+      recorded. Vital signs (heart rate, blood pressure, SpO2, EtCO2, core temperature) were also
+      recorded at 15 minutes intervals throughout the surgery. The volume of intravenous infusion
+      (crystalloid, colloid solution), blood loss, urine output, total dose of anesthetics,
+      fentanyl, and muscle relaxant were recorded as well. The dynamic compliance (Cdyn) was
+      measured directly on the ventilator, while the static compliance (Cstat) was calculated in
+      accordance with the pre-defined formula as Vt/(plateau pressure of the respiratory system -
+      PEEP) with the plateau pressure measured during the normal ventilation setting using an
+      inspiratory pause at 10% of the inspiratory time. Both types of pulmonary compliance were
+      recorded at H0 (after intubation), H1 (30 minutes after pneumoperitoneum), H2 (1 hour after
+      pneumoperitoneum), H3 (2 hours after pneumoperitoneum), Hkt (10 minutes after
+      pneumoperitoneum stopped) and Hro (before extubation). Arterial blood samples were withdrawn
+      from the radical arterial cannula for blood gas analysis before induction, 1 hour after
+      pneumoperitoneum, and day 1 after operation. The pulmonary oxygenation index (OI) and the
+      alveolar-arterial oxygen gradient (A-aO2) was calculated respectively as OI= PaO2/FiO2 and
+      A-aO2= (PB-PH2O)×FiO2 -PaCO2/R - PaO2 where PB (atmospheric pressure) was 760 mmHg, PH2O
+      (saturated vapor pressure at room temperature) was 47 mmHg, and the R (respiration quotient)
+      was 0.8. SpO2 in the first postoperative day was measured in the room air (the nasal oxygen
+      catheter was removed for 10 min) with the patient in bed. If SpO2 dropped to lower than 90%,
+      the measurement was stopped and the supplemental oxygen was immediately re-provided via the
+      nasal cannula.
+
+      Pre- and postoperative (day 1) chest radiography was obtained at the bedside and was analyzed
+      in a blinded way by a radiologist who did not get involved in the study. Pathological chest
+      X-ray was defined as the presence of at least one of the following: an increase in thickness
+      of the interstitium, atelectasis, pleural effusion, localized or diffused infiltrates, and
+      other chest radiological alterations.
+
+      Modified Clinical Pulmonary Infection Score (mCPIS). The modified original version of the
+      Clinical Pulmonary Infection Score described by pelosi et al. (2008) was applied in the first
+      postoperative day.
+
+      Incidence of postoperative pulmonary complications (PPCs). PPCs were defined by the European
+      Perioperative Clinical Outcome (EPCO) definitions .
+
+      Primary and secondary endpoints. Our hypothesis was that the intraoperative lung-protective
+      ventilation strategy could improve the pulmonary mechanics, oxygenation function, and
+      ameliorate early postoperative pulmonary complications. The primary endpoints were the
+      intraoperative fluctuation of Cdyn and Cstat, the intra- and postoperative changes in
+      pulmonary oxygenation function including OI, A-aO2. The secondary endpoints were the
+      alteration on chest x-ray, mCPIS, and the incidence of PPCs on the first postoperative day.
+
+      Statistical analysis. The sample size was calculated in accordance with the formula: n=
+      (2×C)/δ2 +1 with δ=|µ1-µ2|/σ, where n is the sample size in each group, µ1= mean of OI in the
+      LPV group, µ2 = mean of OI in the CV group, σ is the common standard deviation and c = 7.9
+      for 80% power. Based on the study of Xin Pi (2015) whose primary outcome was the OI after 2
+      hours of ventilation in the two groups was 382.21 ± 88.03 µg and 450.10 ± 70.29 µg
+      respectively. Replacing µ1=382.21, µ2=450,10, σ=88,03 in the formula, n was equal to 27,5 for
+      each group, which represented that the minimum sample size for each group was at least 28
+      patients.
+
+      Statistical analysis was completed using SPSS software version 20.0 (IBM, USA) on an
+      intention-to-treat basis. Whether variables distributed normally was tested with the
+      Kolmogorov-Smirnov and Shapiro-Wilk test. Continuous variables were compared applying either
+      Student's t-test or the Mann-Whitney U test, depending on the characteristics of the
+      distribution of the variable, and consequently were presented as mean ± SD or median and
+      interquartile range (25-75%) as appropriate. As for categorical variables, the χ2 test was
+      employed for comparison and the Fisher exact test was used for small frequencies. All the
+      tests were two-tailed, and statistical significance was accepted at p<0,05.
+    
+  

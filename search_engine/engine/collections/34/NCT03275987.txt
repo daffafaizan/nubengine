@@ -1,0 +1,42 @@
+
+    
+      This trial was conducted between April 2014 and July 2015 and implemented through Sage, the
+      National Breast and Cervical Cancer Early Detection Program (NBCCEDP) in Minnesota and housed
+      within the Minnesota Department of Health (MDH). The target population was all Minnesota
+      Medicaid recipients ages 50-74 overdue for breast cancer and colorectal cancer screening.
+      Claims data, obtained from MDHS, were used to determine patient characteristics and outcomes.
+      Individuals who were not enrolled in Medicaid, who were not overdue for BC or CRC screening,
+      or who were not in the 50-74 age range were excluded prior to analysis.
+
+      To determine the efficacy of the interventions we used a two group posttest-only randomized
+      design with all eligible MA beneficiaries randomly assigned to one of two groups: Direct Mail
+      plus Incentive (with patient navigation) versus usual care.
+
+      The primary outcomes were completion of mammography or colonoscopy within 12 weeks after
+      implementation of the intervention. Current Procedural Technology (CPT) codes from Medicaid
+      claims data were used to determine if an individual had received either mammography or
+      colonoscopy. Specific CPT codes used for mammography were conventional mammography
+      (77055-77057), digital mammography (G0202, G0204, G0206), and computer-aided detection
+      mammography (77051, 77052). CPT codes used for colonoscopy were G0105, G0121, 45378, and
+      45380-45385. Mammography and colonoscopy outcomes were measured dichotomously. Outcomes were
+      based on the presence of screening mammography and colonoscopy claims occurring for 10 weeks
+      after the first mailings.
+
+      The mammography and colonoscopy interventions were examined separately. Across treatment and
+      control, study sample characteristics were compared and absolute differences were assessed
+      using t-test and χ2 statistics. Main outcome analyses consisted of logistic regression to
+      compute odds ratios for receiving mammography or colonoscopy and for covariate adjustment.
+      Two separate logistic regression models were examined for both mammography and colonoscopy
+      interventions: (1) a bivariate model that examined treatment versus control, and 2) a
+      multivariate model that adjusted for covariates. All analyses were conducted using Stata,
+      version 13.
+
+      Some individuals lost Medicaid coverage on a monthly basis during the study period, and
+      others had inaccurate mailing addresses (< 2% of each study sample). Therefore not everyone
+      received the treatment as intended, and individuals that received the intervention may not
+      have had Medicaid claims available post-intervention. Our outcome analyses were
+      intent-to-treat analyses that included all individuals randomized to treatment or control
+      groups at initiation of intervention regardless of whether they lost coverage
+      post-randomization or if they had an inaccurate mailing address.
+    
+  

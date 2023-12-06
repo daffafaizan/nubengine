@@ -1,0 +1,53 @@
+
+    
+      This study will include the patients who signed the subject informed consent form among the
+      patients with MDS who were chosen to be treated with Decitabine (Part I), plus additional 140
+      MDS patients as a historical control (Part II). Approximately, 68 patients will be included
+      who satisfy the following inclusion and exclusion criteria in the Part I study.
+
+      Prospective collection of DNA from peripheral blood will be performed in the patients with
+      MDS before commencement of decitabine therapy. We will evaluate the efficacy decitabine
+      therapy according to the DNMT or HDAC gene SNPs in terms of following parameters: 1)
+      hematolotic response (HR) or improvement (HI), or requirement of decitabine dose to achieve
+      HR or HI, 2) complete (CR) or partial response (PR), or requirement of decitabine dose to
+      achieve CR or PR, and 3) time to relapse or progression of MDS.
+
+      Genotyping will be undertaken using the Sequenom® iPLEX platform™, according to the
+      manufacturer's instructions (www.sequenom.com; Sequenom Inc, San Diego, CA, USA). Whole blood
+      samples will be obtained according to the declaration of Helsinki. DNA will be extracted
+      using the Puregene DNA purification Kit (Gentra Systems Inc, Minneapolis, MN, USA). The
+      detection of SNPs will be performed by the analysis of primer extension products generated
+      from previously amplified genomic DNA using a Sequenom chip-based matrix-assisted laser
+      desorption / ionization time-of-flight (MALDI-TOF) mass spectrometry platform. Multiplex SNP
+      assays will be designed using SpectroDesigner software (Sequenom). Ninety-six well plates
+      containing 2.5 ng DNA in each well will be amplified by PCR following the specifications of
+      Sequenom. Unincorporated nucleotides in the PCR product will be deactivated using shrimp
+      alkaline phosphatase. Allele discrimination reactions will be conducted by adding the
+      extension primer(s), DNA polymerase, and a cocktail mixture of deoxynucleotide triphosphates
+      and di-deoxynucleotide triphosphates to each well. MassExtend clean resin (Sequenom) will be
+      added to the mixture to remove extraneous salts that could interfere with MALDI-TOF analysis.
+      The primer extension products will be then cleaned and spotted onto a SpectroChip. Genotypes
+      will be determined by spotting an aliquot of each sample onto a 384 SpectroChip (Sequenom),
+      which is subsequently read by the MALDI-TOF mass spectrometer.
+
+      All statistical tests will be two-sided with the significance level set as 0.05 unless
+      otherwise stated. The statistical data will be obtained using an SAS version 9.1 (SAS
+      Institute, Cary NC, USA). Followings are the endpoints for the study.
+
+        1. Primary endpoint evaluation data
+
+           • Response rate: A response rate will be obtained and its confidence interval estimated
+           to be evaluated through chi-square test. If the main endpoints which may influence the
+           final evaluation must be controlled, stratified analysis (Cochran-Mantel-Haenzel, etc.)
+           will be conducted. If all the subjects' characteristic endpoints must be controlled, the
+           logistic regression model will be used for analysis.
+
+        2. Secondary endpoint evaluation data
+
+             -  Overall survival: survival will be evaluated from the registration day to death
+                through Kaplan-Meier method.
+
+             -  Progression free survival: : The time of progression from MDS to AML and death from
+                any cause. Progression free survival will be analyzed through Kaplan-Meier method.
+    
+  

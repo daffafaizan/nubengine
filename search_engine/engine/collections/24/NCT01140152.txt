@@ -1,0 +1,90 @@
+
+    
+      INTRODUCTION:
+
+      Intestinal transplantation (ITx) offers a potential means of survival for patients with
+      intestinal failure who have developed life threatening complications. Approximately 200 ITx
+      procedures are performed worldwide per year, with 2200 such procedures having been performed
+      in total, two thirds of which have been in children. Overall, patient and graft survival
+      rates have improved significantly over the past several years due to innovations in surgical
+      techniques, immunosuppression and post-transplant management. One year patient survival rates
+      approach 80-90% at experienced centers. Nonetheless, acute cellular rejection (ACR) continues
+      to pose major challenges in these patients.
+
+      Currently, the gold standard for diagnosing ACR is histological examination of biopsy samples
+      obtained at the time of endoscopy. Limitations include the fact that endoscopy is by
+      definition invasive, costly, associated with risks of bleeding, infection, or perforation,
+      and potentially inaccurate. ACR can present as a patchy process which may be missed by
+      endoscopic surveillance up to 30% of the time. It also presents in a similar fashion to
+      infection, leading to a diagnostic dilemma as to the optimal management of the patient. Such
+      delays and inaccuracies in the diagnosis and management of ITx recipients have the potential
+      to lead to patient and graft loss. New noninvasive techniques to monitor for ACR are clearly
+      needed to continue to drive the field of ITx forward.
+
+      Proteomics allows the identification of proteins as possible biomarkers. Protein profiles can
+      be easily detected in body fluids, making these protein combinations potentially innovative
+      biomarkers useful in diagnosis or disease monitoring. Following protein and metabolite levels
+      may prove to be an accurate screening tool for patients suspected of having ACR.
+
+      In this study, we use high-throughput proteomic analysis and candidate immunoassay protein
+      detection of ostomy effluents to search in a non-invasive manner for molecular profiles of
+      epithelial stress and innate immunity during ACR.
+
+      IMMUNOSUPPRESSION:
+
+      All patients are managed with tacrolimus-based triple immunosuppression. Our standard
+      immunosuppression regimen includes induction with an interleukin-2 receptor antagonist such
+      as daclizumab or basiliximab, versus rabbit antithymocyte globulin. Maintenance therapy
+      consists of tacrolimus, corticosteroids, and mycophenolate mofetil. Target tacrolimus trough
+      levels are 10-15 ng/mL. Sirolimus is used as a rescue agent and as part of a renal sparing
+      regimen. ACR is diagnosed by histopathology and treated with high dose steroids. In patients
+      with severe ACR, ATG is used as a rescue agent. In highly sensitized patients or patients
+      suspected of antibody mediated rejection, a combination of plasmapheresis, Rituximab and IVIG
+      is used.
+
+      INTESTINAL SURVEILLANCE:
+
+      Protocol biopsies of the transplanted intestine are obtained once weekly beginning
+      postoperative day 7-14 for the first 3-4 weeks, then once every 2 weeks until 8 weeks after
+      ITx. Endoscopy and biopsies are also obtained for clinical symptoms indicating abnormal
+      allograft function. Multiple targeted biopsies are obtained, and paraffin-embedded sections
+      stained with hematoxylin and eosin (H&E) are graded for ACR using standard rejection criteria
+      by one of three UCLA gastrointestinal pathologists. Abnormal results prompt further
+      endoscopic surveillance as indicated.
+
+      OSTOMY EFFLUENT COLLECTION AND PROTEOMIC EVALUATION:
+
+      Ostomy effluents are collected, immediately placed on ice, and batch processed at the UCLA
+      High Throughput Clinical Proteomics mass spectrometry core laboratory. All samples are
+      processed and analyzed in triplicate using MALDI mass spectrometry. MALDI-MS spectra are
+      converted to text files, and preprocessed using an established protocol. The preprocessed
+      MALDI data are then exported from SpecAlign and further analyzed in R.
+
+      ENZYME LINKED IMMUNOSORBENT ASSAY AND IMMUNOHISTOCHEMISTRY:
+
+      Human HNP 1-3 is quantified in duplicate processed protein samples by an ELISA kit following
+      manufacturer's instructions (Cell Sciences, Canton, MA), using an HNP1-3 standard curve
+      constructed for each plate. Protein concentrations are also determined for each test sample
+      (BCA, Pierce Thermo Scientific, Rockford, IL), and HNP1-3 levels normalized to total protein
+      (pg/mg).
+
+      For IHC, biopsy sections are deparaffinized, blocked for background peroxidase activity and
+      goat antibody binding by standard methods, and stained with human anti-HNP 1-3 antibody
+      (rabbit, 1:2000) or pre-immuned serum (rabbit, 1:2000) as negative control. The sections are
+      further incubated with an anti-Rabbit IgG biotinylated secondary antibody and
+      streptavidin-peroxidase conjugated tertiary antibody from the Vectastain Elite ABC kit
+      (Vector Laboratories) according to the manufacturer's protocol, and developed by
+      diaminobenzidine tetrahydrochloride (DAB) substrate solution (Pierce, Rockford, IL). For IHC
+      quantitation, 10 crypts in three different fields on the biopsy slide are evaluated for
+      evidence of significant defensin staining. The number of defensin positive crypts are counted
+      and averaged.
+
+      LUMINEX:
+
+      An aliquot of processed ostomy effluent is used for Luminex evaluation, with the Bio-Rad
+      human cytokine 17-plex assay according to the manufacturer's instructions (Bio-Rad, Hercules,
+      CA). Data is acquired on a Bio-Plex 200 system and analyzed with associated software
+      (Bio-Rad), and cytokine concentrations are normalized to protein concentration and log
+      transformed.
+    
+  

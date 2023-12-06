@@ -1,0 +1,88 @@
+
+    
+      This clinical trial will utilize a randomized, controlled, crossover design. Participants
+      will be randomized to (A) 12 weeks of FES-RT followed by 12 weeks of treatment as usual or
+      (B) 12 weeks of treatment as usual followed by 12 weeks of FES-RT.
+
+      Randomization will be computer generated and the study statistician will keep the key to
+      appropriately conceal allocation of treatment until after obtaining baseline measures.
+
+      Exercise Intervention:
+
+      FES-RT occurs in two distinct steps - an initial strength training step, followed by FES-RT.
+      Those with SCI can require at least two weeks and up to six weeks of strength-training. For
+      the strength training, electrodes are placed over motor points of the quadriceps and
+      hamstrings and intensity of the stimulus is set at the level producing full knee
+      flexion-extension. Training is performed until subjects can complete a flexion extension
+      protocol for 30 min without rest. During this time, the first set of PET-MR data will be
+      obtained.
+
+      Subsequently, the FES-RT commences.
+
+      Measurements / Assessments Exercise Capacity: Volunteers will perform an incremental exercise
+      test of FES- or arms-only rowing to determine maximal oxygen uptake on a day normally
+      scheduled for regular exercise training. Exercise capacity and aerobic power will be
+      determined from on-line computer-assisted open circuit spirometry. Subjects will row with
+      increasing resistance every 2 min until volitional fatigue. To ensure attainment of maximal
+      exercise capacity, at least 3 of these criteria will be met: 1) O2 consumption plateaus
+      despite increasing workload, 2) respiratory exchange ratio >1.10 at end exercise, 3)
+      age-predicted maximal heart rate is achieved, and 4) perceived exertion is rated at least 16
+      on the Borg scale of 6-20.
+
+      Exercise Volume: The progression of the exercise stimulus across the training program will be
+      assessed from duration, frequency, and intensity derived from heart rate monitored during
+      each exercise bout (i.e., Training Impulses or TRIMPs) as well as the product of average
+      wattage and total duration for each week. TRIMPs are routinely used to quantify the exercise
+      load and is specific to the cardiopulmonary system. The investigators will also calculate
+      exercise load or work as the product of the weekly average of wattage and weekly total of
+      exercise time.
+
+      PET-MR imaging
+
+      Neuroimaging metrics will be obtained at baseline, after 12 weeks and after 24 weeks. MR-PET
+      scanning will be performed at 3 Tesla, using a Siemens whole-body MRI, whole-body PET camera
+      (Biograph MMR). MRI data will be acquired simultaneously to the PET data.
+
+      In response to injury, microglia migrate to the site of injury, and express multiple cell
+      surface proteins, including the translocator protein (18kDa) (TSPO). This conditional
+      expression makes TSPO a prime target for PET imaging (127). There are multiple candidate PET
+      tracers for glial activity , whereof 11C-PBR28 is a sensitive, second generation, high
+      affinity TSPO radioligand suitable for imaging of microglial and astrocytic activation in
+      neuroinflammation in humans. For glial imaging, 11C-PBR28 will be injected intravenously with
+      a slow bolus over a 30s period (130). Dynamic data will be collected over the brain for 90
+      minutes in list mode, and framed post-collection. The dose will be up to 15mCi, which is
+      equivalent to ~3.7 mSv.
+
+      For opioid imaging, 11C-diprenorphine will be injected intravenously, Dynamic data will be
+      collected over the brain for 90 minutes in list mode, and framed post-collection. The dose
+      will be up to 12mCi, which is equivalent to ~2.5 mSv.
+
+      For both scans, MR-based attenuation correction maps are created based on the MPRAGE data.
+      For glial imaging, standardized uptake values (SUV), normalized to whole brain PBR28 ligand
+      uptake, will be used. For 11CDiprenorphine, kinetic modeling is carried our using subject
+      specific bilateral occipital cortices as the reference tissues. Nondisplaceable binding
+      potential maps (BPND), representing the relative amount of specifically bound radioligand to
+      that of non-displaceable radioligand, are calculated from the 90 min of dynamic PET data
+      using a simplified reference tissue model with the occipital cortex used as the reference
+      tissue.
+
+      A high resolution structural volume will be collected for the purposes of longitudinal
+      structural analyses. All longitudinal data analyses will be done in native space as repeated
+      measurements, thereby avoiding spatial normalization errors typically associated with cohort
+      studies.
+
+      A battery of pain, quality of life and psychological well-being questionnaires to the
+      participants on four occasions: immediately after enrollment, at the start of the 12 week
+      wait-list or FES-RT period, at the end of the first arm, and at the end of the cross-over arm
+      (24 weeks).
+
+      Conditioned pain modulation: Conditioned pain modulation (CPM) is a psychophysically-based
+      laboratory method to reliably ) evaluate the individual capabilities to inhibit pain in
+      humans. Briefly, CPM is based on the "pain inhibits pain" phenomenon when Stimulus A
+      (test-pain) given together with Stimulus B (conditioning pain) is perceived less painful than
+      when Stimulus A was given alone. Although the literature is not entirely consistent, CPM can
+      be reduced with naltrexone, suggesting at least partial dependence of inhibition on
+      endogenous opioids. CPM will be determined at baseline, 12 weeks and 24 weeks, with the
+      hypothesis that FES-RT will lead to increased CPM.
+    
+  

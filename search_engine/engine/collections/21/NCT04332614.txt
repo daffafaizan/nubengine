@@ -1,0 +1,19 @@
+
+    
+      Online patient portals are convenient tools that improve patient access to healthcare
+      services while often reducing burden to both patients and providers. However, fewer than half
+      of patients have enrolled in Geisinger's patient portal, myGeisinger.
+
+      The purpose of the current study is to assess what kind of messaging improves the
+      effectiveness of an email campaign targeted at enrolling patients into Geisinger's online
+      patient portal, called myGeisinger. Currently, Geisinger sends an email every month to
+      patients who have started but not completed the enrollment process (they have had an
+      activation code generated but have not yet used that code to enroll). This study will A/B
+      test 5 email messages to assess if they perform better than the current standard email
+      message.
+
+      Performance will be assessed based on whether patients open the email, click on the
+      myGeisinger enrollment link, and enroll in myGeisinger. Statistical analyses will employ
+      generalized linear models with a binary distribution and log-link function.
+    
+  

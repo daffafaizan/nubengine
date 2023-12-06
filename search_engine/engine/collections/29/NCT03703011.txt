@@ -1,0 +1,30 @@
+
+    
+      Accelerometers enhance physical activity. Only one study assessed accelerometers' validly in
+      an elderly robust population, over 100m walking distance. The accelerometers' validly was
+      demonstrated especially for the ankle position (Floegel et al., 2017). The primary objective
+      was to assess accelerometers validity for counting steps in an elderly frail population ready
+      for discharge from a rehabilitation unit. The comparison gold standard was steps count by 2
+      physicians blind to accelerometers data, over a filmed 10-meter walk (minimal capacity to
+      walk inside their own living place). The second objective was to evaluate the best position
+      of the accelerometer: wrist, ankle, hip.
+
+      Investigators included prospectively subjects aged ≥ 70 years, hospitalized in the Paul
+      Brousse geriatric rehabilitation ward, able to walk at least 10 meters (maximum functional
+      recovery according to the physiotherapist opinion) and with a Mini mental state examination ≥
+      20/30 (able to understand). All subjects gave written informed consent and the study was
+      approved by the local ethics committee. The secondary objective was to evaluate the position
+      of the accelerometer that give the most accurate step count: wrist, ankle, hip. The study
+      took place in the Paul Brousse hospital in Villejuif in rehabilitations units. Falls during
+      the protocol were considered as the only risk. To prevent this risk a physiotherapist walked
+      behind the participants during the 10-meter walk. Demographic, clinical, physiological data
+      were recorded and anonymized. In this monocentric non-randomized study, the number of
+      participants to include was 120. Twenty participants were planned to be included each month
+      during 6 months. Statistical analysis will be made by a T test to measure the difference
+      between the gold standard and the count of the accelerometers. To eliminate measurement bias,
+      Bland Altman analysis will be performed. Interclass correlation will be performed to measure
+      the differences between accelerometers' positions. Logistic regressions will be done with
+      measurement's variability determinants. In all analyses, the 2-sided α-level of 0.05 was used
+      for significance testing.. All analysis will be performed using R statistical software.
+    
+  

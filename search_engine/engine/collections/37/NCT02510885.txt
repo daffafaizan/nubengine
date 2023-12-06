@@ -1,0 +1,46 @@
+
+    
+      OCT is an optical ranging and imaging technique first described in 1991 that has since been
+      used successfully to provide high-resolution, micrometer-scale depth imaging in clinical
+      ophthalmology (and other fields). It can be thought of as the optical analogue of ultrasound
+      imaging. For the ocular posterior segment, OCT provides rapid acquisition of high-resolution,
+      cross-sectional images of the retina that approximate tissue histology. In vivo imaging of
+      the retina with OCT has thus dramatically improved clinicians' diagnostic capabilities,
+      allowing earlier and more accurate diagnosis of disease and more precise assessment of
+      response to therapies over time.
+
+      While OCT provides important information on retinal anatomy, it is currently limited in its
+      ability to provide information on retinal vasculature and blood flow. Angiography is the
+      current gold-standard imaging modality for retinal vascular imaging. Angiography involves
+      intravenous injection of a fluorescent dye (typically either fluorescein or indocyanine green
+      for the retinal or choroidal vessels, respectively) that circulates through the body. A light
+      source emitting light at the specific excitation wavelength of the dye is placed in front of
+      the patient's eye, and a camera equipped with a filter corresponding to the emission
+      wavelength of the dye is then used to image vessel morphology and retinal perfusion, either
+      through still images or through a short movie. Angiography provides physiologic information
+      about the retina that complements the anatomical information provided by OCT. While generally
+      well tolerated by most patients, angiography does have drawbacks: it often requires the use
+      of a separate imaging system, it requires several minutes for image acquisition, and it
+      involves intravenous injection of a dye. Patients occasionally experience side effects of
+      intravenous dye administration, including nausea, discomfort, and rarely, anaphylaxis.
+
+      Several retinal imaging companies are developing the next generation of OCT technology: OCT
+      angiography (OCT-A). OCT-A allows noninvasive, high-resolution imaging of the
+      microvasculature of the retina and choroid (the vascular plexus subjacent to the retina),
+      without the need for intravenous dye administration. OCT-A platforms currently under
+      development include both spectral domain (SD) and swept-source (SS) based technologies.
+      Whereas SS-based OCT-A utilizes a longer wavelength (~1060 nm) light source, SD-based units
+      use the same light source used in commercially available and FDA-cleared OCT units on a
+      modified platform. Optovue, Inc. (Fremont, CA) has developed one such unit, a customized,
+      high-resolution SD-OCT system that implements a novel algorithm, the amplitude-based method
+      of split-spectrum amplitude-decorrelation angiography (SSADA) for OCT-A. This SSADA algorithm
+      allows for detection of motion in the blood vessel lumen by measuring the variation in
+      reflected OCT signal amplitude between consecutive cross-sectional scans. Optovue has
+      integrated the novel SSADA algorithm into their commercially approved RTVue SD-OCT unit for
+      their OCT-A unit, the AngioVue. The AngioVue can generate high-quality angiograms of both the
+      retina and choroid. Additionally, this refined method has produced images of the smallest
+      retinal vessels (capillaries) in normal healthy control participants. In this proposed
+      prospective interactive clinical study, we will use the AngioVue unit to image patients and
+      characterize vascular abnormalities that are present in the setting of retinal diseases.
+    
+  

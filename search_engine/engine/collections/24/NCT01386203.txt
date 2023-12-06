@@ -1,0 +1,160 @@
+
+    
+      Scientific background:
+
+      Lung cancer is the most lethal cancer, responsible for 28% of cancer deaths and killing ~1.3
+      million people worldwide every year. Diagnosis and treatment of lung cancer in its early
+      stages could increase the 5-year-survival rate 3-4 fold with a potential for cure4, 7.
+      Therefore, the main goal of this study is early detection of lung cancer, and specifically
+      focusing on the volatile biomarkers of lung cancer that will assist in easy, inexpensive
+      diagnosis based on our previous findings.
+
+      Currently available diagnostic tests of lung cancer are not suitable for screening, are
+      extremely costly and involve invasive procedures (e.g. bronchoscopy), that are not free of
+      complications. The goal of cancer screening is to detect tumors at an early stage in order to
+      give treatment a better chance of success. Recently, the biggest lung cancer screening trial
+      (NLST) has shown a mortality benefit of 21% per 5 years study favor low dose CT screening
+      protocol compare to chest X-rays1. Therefore, there is an urgent requirement for a tool to
+      allow a better definition of the high-risk cohort. Such a tool might be a panel of
+      biomarkers.
+
+      Focusing on the volatile biomarkers of lung cancer, our group has recently defined a volatile
+      VOCs signature that can distinguish the breath of lung cancer patients from the breath of
+      healthy individuals and from cancerous cells 2, 9. These significant findings have led us to
+      the understanding that volatile biomarkers would fit for early detection of lung cancer and
+      for discrimination between subtypes of lung cancer. Such discrimination will have significant
+      implications on clinical decisions and on patients' benefits.
+
+      Exhaled Breath Analysis as a Diagnostic Tool and Preliminary results:
+
+      Analysis of volatile organic compounds (VOCs) is a new attractive non-invasive field in
+      medical diagnostics. The principle behind this approach is based on the fact that cancers
+      cells are distinguished from normal cell in their metabolism rate, cell apoptosis pathways
+      and protein expression patterns and thus emit and or consume various VOCs. These VOCs can be
+      detected either directly from the headspace of the cancer cells or via the exhaled breath.
+
+      Together with Prof Haick group at the Technion Inst (Israel), our data shows that there is a
+      relation between the VOCs patterns of NSCLC and control cell lines and equivalent states in
+      exhaled breath. We demonstrated that there is a clear discrimination between the lung cancer
+      and the healthy clusters. We also analyzed the headspace of NSCLC and SCLC cell lines and we
+      could discriminate significantly between SCLC versus NSCLC based on their VOCs patterns. This
+      analysis allowed us to identify the specific VOCs consumed or omitted by cancerous cells.
+      This finding has clinical applications since SCLC is distinguished from NSCLC by its
+      sensitivity to chemotherapy and radiotherapy and other characteristics. Therefore, a
+      non-invasive and highly sensitive test would be extremely valuable for the classification and
+      early screening of lung cancer and for targeted therapy.
+
+      Breath Collection and the Artificial NOSE
+
+      In a typical collection, after normal exhalation, the subject will breath through a
+      mouthpiece a filtered air to remove all VOCs of any ambient contaminants. Individuals will
+      exhale in a constant flow rate. The exhaled air will be contained through the mouthpiece by
+      Mayler bags and/or will be passed through a container. The collected air breath samples will
+      be analysed for VOC by gas-chromatography mass spectrometry (GC-MS), highly-sensitive
+      nano-sensors (Nanomaterial-Based Devices, Technion - Israel Institute of Technology, Haifa,
+      Israel) or as online mass spectrometry (Ionimed, Austria). Further, the signals will be
+      analyzed by a pattern recognition algorithms, such as principal component analysis (PCA),
+      supported vector machines (SVM), or neuronal network analysis can then be applied on the
+      entire set of signals to acquire information on the identity, properties and chemical
+      composition of the vapor exposed to the sensors array 5, 10.
+
+      Research Objectives:
+
+      Our goal is to isolate and define a volatile signature, which allows discrimination between
+      lung cancer from a normal state. That will potential serve as a unique biomarker for lung
+      cancer.
+
+      Our Objectives are:
+
+        -  To test the feasibility for detecting early stage lung cancer via analysis of exhaled
+           breath irrespective of the sub-histology.
+
+        -  To test the feasibility of the breath biomarkers for monitoring the response to lung
+           cancer treatment (surgery, chemotherapy or other cancer treatments)
+
+        -  To compare sensitivity and selectivity of the breath analysis to conventional cancer
+           markers and/or diagnostics (CT, PET, circulating tumor cells, blood markers etc.)
+
+        -  Correlation of histology and/or other clinical measures to the breath signature.
+
+      Study Population
+
+      On the clinical setup, we will sample three populations:
+
+      Group A - patients with lung cancer (NSCLC and SCLC), any stage; this group will be divided
+      later as for:
+
+        1. SCLC (before and after therapy).
+
+        2. NSCLC:
+
+             1. Surgically treated (Before and after therapy 3 years follow up).
+
+             2. Advanced disease (Before and after therapy, 3 years follow up). Group B - high risk
+                patients who are undergoing investigation related to Lung cancer or pulmonary
+                nodule.
+
+      Group C - age and co-morbidity matched controls without proof of cancer/pre-cancer.
+
+      All collections will follow local IRB guidelines. Information will be collected from all
+      subjects, including epidemiologic data, histologic characteristics, tumor's metabolic
+      activity (SUV avidity through PET scan). The clinical information will include health status,
+      lung cancer subtype, pathology sub-classification and differentiation, advanced analysis and
+      staining if available, imaging results (including CT, PET scan and its SUV avidity), location
+      of the cancer, total volume of the tumor, stage of disease, genetic classification of the
+      tumor and epidemiological data, e.g. age, gender, smoking and family history, family history,
+      respiratory disease, exposure to asbestos etc.
+
+      If cancer, the selection for therapy are as per the standards of care and the routine
+      established care provided by the staff at the local institute. This protocol is not intended
+      to interfere with or dictate this process.
+
+      Examination procedure
+
+      The total duration of the study for each subject takes 10-20 minutes while subjects will stay
+      on followup for up to 3 years.
+
+      The study will continue for 5 years.
+
+      Newly diagnosed patients with non small cell lung cancer:
+
+      Breath tests:
+
+        1. Two tests immediately prior to any therapy (surgery/other; One week apart to test
+           reproducibility).
+
+        2. If was operated for cure, then at 3,6,12,18,24,36 months later.
+
+        3. If was radiated, then at mid & end of radiation and at 3,6,12,18,24,36 months.
+
+        4. If chemotherapy, then every 3 months, between cycles.
+
+      Follow up phase:
+
+      Every three months to coincide with patients regular follow up their treating physicians. As
+      per the standards of care, at this point every patient will be monitored with a CT scan of
+      chest and abdomen at regular intervals. This CT will be used for determination of disease
+      recurrence or to document remission.
+
+      Correlative studies
+
+        1. Sputum Cytology (Induced Sputum will be collected for cytologic examination).
+
+        2. Blood samples will be taken for Circulating tumor cells analysis and other systemic
+           markers.
+
+      Collection of the Breath Samples
+
+      In a typical collection, after normal exhalation, the subject will breath through a
+      mouthpiece a filtered air to remove all VOCs of any ambient contaminants. Individuals will
+      exhale in a constant flow rate. The exhaled air will be contained through the mouthpiece by
+      Mayler bags and/or will be passed through a container. The collected air breath samples will
+      be analysed for VOC by gas-chromatography mass spectrometry (GC-MS), highly-sensitive
+      nano-sensors (Nanomaterial-Based Devices, Technion - Israel Institute of Technology, Haifa,
+      Israel) or as online mass spectrometry (Ionimed, Austria). Further, the signals will be
+      analyzed by a pattern recognition algorithms, such as principal component analysis (PCA),
+      supported vector machines (SVM), or neuronal network analysis can then be applied on the
+      entire set of signals to acquire information on the identity, properties and chemical
+      composition of the vapor exposed to the sensors array 5, 10.
+    
+  

@@ -1,0 +1,26 @@
+
+    
+      In general, the statistical analyses based on raw data and the data using propensity score
+      matching (PSM) will be primarily descriptive in nature. The statistics are as in the
+      following:
+
+        -  Continuous variables: N, mean, standard deviation, lower quartile Q1, median, upper
+           quartile Q3, minimum, maximum;
+
+        -  Categorical variables: frequencies and percentages of patients at each category.
+
+      Before the statistical analyses, the medical history and co-morbidities need to be coded
+      using ICD10. At the same time, the data collected should be clearly understood and provide
+      the following information but not limited to the number of subjects enrolled in each site,
+      the list of variables, the number of observations of each variable and the missing proportion
+      of the variable.
+
+      The factors involved into the logistic model for propensity score matching include but not
+      limited to demographic, baseline characteristics, severity of COPD, etc. A factor research
+      will be performed before the matching is performed aiming to include appropriate factors into
+      the model. Matching ratio could be exact or approximate.
+
+      Programming software is SAS 9.3 (SAS: Statistical Analysis System) or higher in Windows
+      system. R statistical software could be another tool for the exploration.
+    
+  

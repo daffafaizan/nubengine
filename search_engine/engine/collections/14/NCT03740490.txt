@@ -1,0 +1,135 @@
+
+    
+      Smoking is becoming increasingly concentrated among individuals with the lowest levels of
+      income, education, and occupational status. In fact, smoking rates in the United States among
+      people living below the poverty line is nearly twice as high as those above the poverty
+      threshold. Highly flexible and low burden technology-based treatment approaches may overcome
+      many of the barriers that have limited the use and effectiveness of traditional smoking
+      cessation treatments among low SES adults. Ecological momentary assessment (EMA), in which
+      mobile devices are used to capture moment-to-moment experiences, allows for the measurement
+      of phenomena in real-time within natural settings. Smartphone-based smoking cessation apps
+      could offer easily accessible, highly tailored, and intensive interventions at a fraction of
+      the cost of traditional smoking cessation counseling. The Smart-T app uses a lapse risk
+      estimator to identify moments of heightened risk for lapse, and the algorithm tailors
+      treatment messages in real-time based upon level of imminent smoking lapse risk and currently
+      present lapse triggers.
+
+      The study aims are to:
+
+      Determine the impact of treatment condition (i.e., Smart-T vs. QuitGuide app; n=225 per
+      group) on biochemically verified smoking abstinence. Hypothesis 1: Participants randomly
+      assigned to Smart-T will have significantly higher rates of biochemically-verified abstinence
+      than those assigned to QuitGuide at 26 weeks post-quit.
+
+      Determine the effect of Smart-T treatment messages on key lapse risk factors. Hypothesis 2:
+      Smoking urge, stress, and cigarette availability will decline more and cessation motivation
+      will increase more following tailored messages that target these lapse triggers in real-time
+      (Smart-T condition) compared with similar situations wherein no messages are provided
+      (QuitGuide condition).
+
+      EXPERIMENTAL DESIGN:
+
+      Participants (N=550) will be recruited through the TSET Health Promotion Research Center
+      (HPRC) Tobacco Treatment Research Program (TTRP) which is directed by Dr. Darla Kendzor
+      (Co-I). Participants will also be recruited through advertisements. Individuals seeking
+      smoking cessation services at the TTRP will be given a verbal description of the study during
+      their first visit, and those interested will be screened for study eligibility. Those who
+      respond to study advertisements will complete a brief RedCap screener online (i.e.,
+      OKSmokerstudy.com), and those who qualify for the study will contacted by study staff and
+      scheduled for a screening/baseline visit. Consistent with our previous research with low SES
+      populations, we have limited exclusion criteria so that the sample is as broad and
+      representative of the population as possible. Interested individuals will be included in the
+      study if they: 1) earn a score ≥ 4 on the Rapid Estimate of Adult Literacy in Medicine-Short
+      Form (REALM-SF)56 indicating > 6th grade English literacy level (required to complete EMAs;
+      at least 88% of all individuals screened for our EMA studies have met this inclusion
+      criterion), 2) are willing to quit smoking 7 days after the baseline assessment, 3) are ≥ 18
+      years of age, 4) have an expired CO level ≥ 7 ppm suggestive of current smoking for those who
+      attend in person baseline visits or substantiate smoking status (e.g., produce a pack of
+      cigarettes) during baseline assessments by sending picture of cigarettes to staff 5) are
+      currently smoking ≥ 5 cigarettes per day, 6) have no contraindications to using NRT, 7) agree
+      to complete EMAs and CO tests on a study provided or personal smartphone, 8) have household
+      income < 200% of the federal poverty guideline,57 and 9) agree to complete the 26 week
+      post-quit follow-up assessment over the phone and via EMA.
+
+      Eligible and interested individuals will be randomized to 1 of 2 groups: 1) Smart-T smoking
+      cessation intervention plus NRT, or 2) NCI QuitGuide smoking cessation intervention plus NRT.
+      Stratified randomization will be used to assign participants to groups based upon race, sex,
+      and cigarettes smoked per day. Participants will be followed for 27 weeks and will attend
+      either 1 in-person visit or complete phone-based baseline visits. Participants will be
+      prompted to complete daily EMAs and tests of smoking status using a portable, low-cost,
+      carbon monoxide monitor (Bedfont iCO Smokerlyzer) on 3 days each week. This data will be used
+      to address primary (i.e., biochemically verified 7-day point prevalence abstinence at 26
+      weeks post-quit) and secondary outcomes (e.g., 30-day point prevalence abstinence, number of
+      days to first lapse, longest period of smoking abstinence). Geographic location data will be
+      captured multiple times per day to link characteristics of the present environment (e.g.,
+      proximity to tobacco outlets) with cessation-related outcomes. We have already created
+      software that integrates the iCO sensor into our InsightTM mobile application platform.
+
+      Sub-Study Update: A sample(n=30) of American Indian/Alaska Native participants who have
+      completed the 6 month follow-up assessment will be asked to participate in another
+      qualitative interview designed to assess the perceived utility and cultural fit of the
+      Smart-T App.Information gathered from these qualitative interviews will be used to culturally
+      modify and then experimentally test a new, culturally tailored, version of the Smart-T app
+      for AI/AN smokers who want to quit smoking. In addition, this will serve as an incredibly
+      valuable training opportunity for an emerging Native American scientist to learn tobacco
+      cessation, mHealth, and qualitative methods research from an interdisciplinary team of
+      leading experts in the field.
+
+      PROPOSED PROCEDURE:
+
+      Individuals who provide informed consent and meet the study inclusion criteria will complete
+      the baseline assessment in TTRP clinic space (the TTRP is located in Research Parkway in a
+      building that is adjacent to the PI's office). Participants may alternatively complete the
+      baseline assessment via phone calls with study staff. Following the baseline assessment,
+      participants will be given instruction on how to complete phone-based EMAs and carbon
+      monoxide assessments. All participants, regardless of condition, will be compensated for
+      completing the baseline assessments, phone-based follow-up, and EMAs. In addition,
+      participants will complete expired breath carbon monoxide tests using the portable iCO device
+      3 days per week (weeks 1-27).
+
+      Baseline and follow-up measures will assess demographic and smoking characteristics, multiple
+      constructs that are known to be related to lapse (e.g., depression, stress, affect, social
+      support), and document intervention effects (See Table 3 and Appendix). We will also access
+      participant perceptions of each app feature. The Baseline process will take approximately
+      60-90 minutes to complete and data will be collected either on laptop/tablet computers using
+      Questionnaire Development System (QDS) software or remotely via RedCap surveys. QDS uses a
+      computer-administered self-interview format (i.e., ACASI), which reduces data entry errors
+      and the need to retain paper copies of raw data. Each item appears on the computer screen
+      while the program simultaneously reads the item (participants touch the screen to select
+      answers only after QDS reads each item). Participants wear headphones so that others do not
+      hear the survey items. Participants from our previous studies in similar populations,
+      including those with no computer experience, have reported few problems using the QDS
+      program. Staff will be available to help participants who may have difficulty. The RedCap
+      surveys have been designed to replicate the QDS version as closely as possible. The 26 week
+      post-quit follow-up assessment, which includes a longer EMA (i.e., 20-30 minutes) and a phone
+      call based interview (i.e., The Treatment Improvement Survey, 10-15 minutes) that will be
+      recorded for qualitative analysis.
+
+      Participants who own an Android smartphone (OS version 6.0 or higher) will be encouraged to
+      download and use the study app on their own phone. Those who do not own this type of
+      smartphone and those who do not have a data plan will be loaned a Samsung smartphone (or
+      equivalent) for 27 weeks so that they may complete EMAs. Participants will navigate through
+      the EMA program and enter data simply by touching the screen. The study app (i.e., Smart-T
+      app or EMA only app) includes a "Call Staff" function/button that automatically calls study
+      staff (e.g., if they have problems completing EMAs). The EMA app also includes a "Payment"
+      button which, when pressed, indicates the number of EMAs that have been prompted and
+      completed and the current level of compensation based upon the up-to-the-moment percentage of
+      EMAs completed. Smartphones will automatically collect data when on-demand features are
+      accessed for both the QuitGuide and Smart-T groups (e.g., number of times features are used).
+      Use of personal vs. study provided phones will be examined as a covariate in all analyses.
+
+      IMPORTANCE OF KNOWLEDGE REASONABLY EXPECTED TO RESULT FROM THE RESEARCH:
+
+      Although many smartphone based smoking cessation apps exist, none have been developed and
+      empirically validated via a randomized controlled trial in socioeconomically disadvantaged
+      populations of smokers who are seeking to quit smoking. This study is the next step in a line
+      of research that aims to develop and disseminate effective and automated treatments for
+      smoking cessation for this underserved and understudied population. Thus, the knowledge that
+      will be gained from this study is important. Furthermore, the Smart-T app will allow us to
+      reach a population that frequently lacks access to traditional intervention programs, due to
+      limited availability, income, and/or transportation, among other barriers. In addition, the
+      proposed smartphone app is highly versatile and may be easily modified for use in other
+      populations or communities. The risks to subjects are minimal, especially considering the
+      protections against risks that will be implemented for this study.
+    
+  

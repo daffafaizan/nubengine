@@ -1,0 +1,49 @@
+
+    
+      This study is designed to explore the potential efficacy of using internet-based incentive
+      programs to promote smoking cessation. We also hope to document that we can recruit
+      participants through a web site, as well as investigate what forms of incentives show the
+      most promise. We seek to achieve three specific objectives: (1) assess our ability to recruit
+      participants for several different types of intervention-based smoking programs; (2) document
+      the feasibility of using the internet to accrue and disburse incentive payments; (3) obtain
+      preliminary assessments of which incentive structures show the most promise for future study.
+
+      Potential participants will be directed to the Way to Health research portal and will be
+      assessed for eligibility. The web application will automatically verify eligibility based on
+      the results of the survey. If a person is deemed eligible, he or she will be invited to
+      consent to participate in a non-pharmacologic smoking cessation study lasting 3 months.
+      Participants who consent will be randomized automatically to one of the 5 intervention arms
+      (including the no-incentive arm) by the web application.
+
+      Once the participant consents and submits the necessary financial information, he will gain
+      access to the participant interface. At this point, they will receive detailed descriptions
+      of their assigned incentive structures (or usual care provisions), will indicate their
+      acceptance of their assigned structure and, for those in arms 3, 4, or 5, make their required
+      deposits. Also, he will be prompted to take an initial survey on his baseline smoking habits.
+      The participant will be able to log into this interface at anytime and see a graph of his
+      self-reported smoking habits along with a graph of approximately how much money he has saved
+      compared to his baseline smoking levels. Participants will indicate their preferred method of
+      contact: email, text-messaging, or both. Every week the participant will receive an email or
+      text-message reminder to log in and complete a weekly smoking report. Participants can also
+      log in at any time and report on their smoking habits for a given day or days to improve
+      accuracy. After three months all subjects will be e-mailed to prompt them to log into the web
+      application to take a final smoking habits survey. Participants who report having remained
+      smoke free for the last month of the study will submit saliva (or urine, for participants
+      using any form of nicotine replacement therapy) samples to test for cotinine (or anabasine)
+      to verify that they have quit. Once this has been verified, the participant will be sent
+      whatever financial incentives he has earned and any deposit will be returned.
+
+      The design of this study differs from a traditional RCT in two important ways. First, because
+      the goal of this RCT is to focus on mechanisms of behavior change, we include a primary
+      per-protocol analysis designed to determine incentive structures' efficacy by analyzing only
+      participants who accept their assigned incentive structure at the time of randomization. In
+      this analysis, the randomization arm will be entered into the analytic model as an
+      instrumental variable to mitigate potential selection bias. As in a traditional RCT, we will
+      also analyze each incentive structures' effectiveness using an intention-to-treat analysis
+      that includes all randomized participants, regardless of whether they accept the randomly
+      assigned arm. The second difference is that because acceptance rates of the different
+      structures may differ (as we will test in Aim II), we will adapt the probabilities of being
+      randomized to each arm on a weekly basis during the enrollment period to achieve the target
+      numbers of participants in the per-protocol analysis.
+    
+  

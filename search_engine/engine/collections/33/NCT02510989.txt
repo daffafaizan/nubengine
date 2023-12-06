@@ -1,0 +1,82 @@
+
+    
+      Sequencing of exons :
+
+      To date, most of syndromic obesities have not been elucidated. But, the lack of
+      identification of molecular abnormalities involved limits information to families about the
+      risk of recurrence and optimal support of patient.
+
+      A new molecular biology tool called sequencing of exons ("exome") or targeted sequencing
+      subset of the genome that code for proteins showed its power to identify mutations
+      responsible for rare diseases, in a small number of individuals achieved unrelated. Indeed,
+      this tool helped to identify two mutations in the gene TSPAN12 (Tetraspanin 12) in 23
+      subjects with exudative vitreo-retinopathy, 3 mutations in the gene PRRT2 (proline-rich
+      transmembrane protein 2) in 8 Chinese families with kinesigenic paroxysmal dyskinesia, 2
+      nonsense mutations in the gene ANGPTL3 (angiopoietin-like 3) in 2 subjects with familial
+      combined hypolipidemia, a mutation of the gene RBM10 (RNA binding motif 10) in 3 patients
+      with syndromic form of cleft palate (TARP syndrome) or a mutation of the gene PALB2 (partner
+      and localizer of BRCA2) in a patient with pancreatic cancer. The investigators believe that
+      this tool could identify new molecular abnormalities in individuals with syndromic obesity.
+      The detailed analysis of phenotypic data could identify a group of obese patients (at least
+      10) sharing clinical and biological phenotype and in which this technique would be used.
+
+      The exome sequencing will be conducted in subjects selected from their phenotype but also
+      among their relatives (2 parents and a sibling) to provide additional discriminative
+      capacity. Every new variant found at the homozygous state in obese patients and unaffected
+      relatives will be immediately excluded from the list of candidate mutations. Conversely, any
+      variant found in patients but absent in both parents and sibling is a potential de novo
+      mutation. The presence of any variant candidate will be sought in the different exome public
+      databases (dbSNP, 1000 Genomes, Exome Variant Server) and, in the case of an unlisted
+      variant, it will be possible to genotype in cohorts of children with common obesity and
+      non-obese in order to determine its frequency and thus provide additional information about
+      its potential involvement in the syndromic obesity phenotype. The last step that will
+      validate the role of the variant gene in the clinical picture will be in vitro analysis of
+      the functional consequences on the protein and then in vivo in an animal models.
+
+      The sequencing of all exons ("exomes") of the 40 selected subjects (10 probands with both
+      parents and non-obese sibling) will be performed on genomic platform using a new type of
+      generation sequencer Illumina HiSeq 2000. To do this, DNA 3μg (15μL concentration to 200
+      ng/uL) will be needed per sample with then sequencing of type "paired-end" on 2 x 75bp. The
+      generated sequences will be aligned with the reference genome (build hg19) using the BWA
+      Software. Duplicates (PCR duplicates' and 'optical duplicates') will be eliminated as
+      non-paired and misaligned sequences (Q-score <20). The generated sequences will then be
+      recalibrated by GATK software to improve detection of such variations insertion / deletion.
+      Detecting variants will be carried out using tools software and annotation will use the
+      annovar software. Analyzes will focus on detected variants with a depth of at least 10x. The
+      investigators will select any variant found in the homozygous state in the patient and in the
+      heterozygous state with his parents (recessive hypothesis). Variants also found homozygous
+      among the unaffected relatives will be excluded from the list of candidates. Any variant
+      found in patients but absent in both parents may also be a potential candidate in case de
+      novo The investigators believe that this strategy could facilitate diagnosis but also, after
+      validation of the role of this variant in the pathology, assess the risk of recurrence for
+      families by offering prenatal diagnosis if necessary. It also will provide a support as early
+      as possible to these children, like the medical, psychological and social care of children
+      with Prader-Willi syndrome. Indeed, the existence of a genetic diagnosis responsible for the
+      phenotype allows the development of specific life project adapted to the patient and
+      facilitates the development aid for disability through the reference centers and
+      collaboration with departmental homes of disabled people (MDPH). Finally, the progress in
+      understanding the mechanisms of these obesities may help to better understand the
+      pathophysiology of the most common forms of obesity and improve the management.
+
+      Patient Selection :
+
+      For children and adults with syndromic obesity, day hospitalization is systematically planned
+      in usual care to perform a complete clinical and biological assessment. The information about
+      the various examinations made during the day of hospitalization are given during a
+      consultation. The genetic study will be proposed It was proposed during this consultation to
+      patients, children and adults, and their families. The hospitalization date is usually in the
+      month following the consultation.
+
+      Inclusion - patient day hospitalization :
+
+      As part of usual care, a precise phenotypic characterization is performed by the investigator
+      day hospitalization : family weight history, retrospective analysis of the personal weight
+      history, clinical examination, anthropometry, dietary consultation, measures of body
+      composition and expenditure energy of rest, food and physical activity questionnaires,
+      endocrine and metabolic balanced.
+
+      The research will consist of a blood sample of 20 mL extra for the genetic study and will be
+      conducted in obese subjects after signing a consent. Patients for whom analyzable samples are
+      already stored in the DNA bank No. DC2009-957 will not be sampled again.
+    
+  

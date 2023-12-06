@@ -1,0 +1,138 @@
+
+    
+      A reader study with at least ten (10) participating radiologists will be conducted. A
+      localized receiver operating characteristic curve will be used to evaluate radiologists'
+      diagnostic performance (in terms of the trade-off between the sensitivity and specificity
+      when the decision criteria changes) in the detection of lung nodules on lung CTs with and
+      without the usage of the ClearRead CT Insight (CRCTI) system. The time needed for the review
+      and interpretation of each case will also be recorded.
+
+      An initial (baseline) interpretation will be made by each of the radiologists based on the
+      Lung CT in its original form. At a minimum of one month later, each radiologists will again
+      interpret the same images viewing the pair of CRCTI CT series: Two sets of CT images
+      (standard with CADe marks and processed with vessel suppression will be presented on either
+      one large monitor or two adjacent monitors.
+
+      During the baseline reading the radiologist will mark the location of the actionable nodules
+      and assign a score. The radiologist will also indicate the recommended method of follow-up
+      (Contrast CT, PET-CT, CT Follow-up, Biopsy).
+
+      During the second reading session (concurrent read), the radiologist will be presented with a
+      standard appearing CT with computer-aided detection (CADe) marks placed and the vessel
+      suppressed same slice with the vessel suppressed view (right image). The second image, vessel
+      suppressed, will be grayed out until the radiologist move the mouse to the second panel. The
+      radiologist will mark locations. These may or may not correspond to the locations of the CAD
+      markers. As before, the radiologist will assign a level of suspicious to each mark and
+      indicate the need, if any, of an additional diagnostic action (CT Follow-up, Contrast CT,
+      PET-CT, or Biopsy).
+
+      Based on the levels of suspicion for each nodule and the associated likelihood ratings, LROC
+      curves will be constructed for both the baseline and the concurrent reads and the
+      significance of any difference will be calculated. The recommendations for further action (CT
+      Follow-up, Contrast CT, PET-CT, or Biopsy) will be used to calculate sensitivity and
+      specificity, PPV and NPV.
+
+      Number and types of cases:
+
+      Retrospective lung CT image series from approximately 300 patients will be included in the
+      study. Approximately one hundred (100) of the patients will have pathology confirmed cancers
+      and approximately two hundred (200) of the patients will be CTs associated with normal
+      patients. Also included as nodule images are those where the actionable nodule was not acted
+      on at that time, but was detected and acted on based on a subsequent CT. These are the prior
+      images where the nodule can be identified and its location is the same as on the "current"
+      image confirmed by the radiologist expert panel (using a majority of three as the decision
+      criterion).
+
+      The selected sample, randomly selected from a larger pool of CT cases will be enriched in the
+      following way:
+
+        1. Lung nodules (cancers in this study) will be tumor size T1a (20 mm or less). The
+           proportion of nodules 20 mm or less may be increased since this is where the
+           investigators expect the major impact of this software to be.
+
+        2. Non-Solid (ground glass) nodules will be added to the sample (based on availability) to
+           determine the performance of the system on non-solid nodules. For this group, to have
+           sufficient cases, the investigators may have to include benign (non-malignant) non-solid
+           nodules.
+
+        3. In this project, the investigators will perform a Machine Test of the ClearRead CT
+           Insight algorithm followed by a reader performance evaluation study. Riverain will
+           provide a system configured with the operating point set to be used for the reader
+           studies and a configuration for an "open" system to be used for machine testing and FROC
+           generation.
+
+      Arm 1: a baseline read (no secondary content) and Arm 2: concurrent, CAD augmented read.
+
+        1. st Arm: Do baseline (measure time, readers score regions according to action and
+           suspiciousness) - mark all locations of concern
+
+        2. nd Arm: Concurrent read (measure time, readers score regions according to action and
+           suspiciousness) - mark all locations of concern
+
+      The primary study hypothesis is that the adjunctive use of ClearRead CT Insight is superior
+      to use of standard lung CT images alone, as measured by the area under the LROC curve.
+
+      STATISTICAL ANALYSES Accuracy
+
+      To evaluate the hypothesis of superiority in terms of improvement in accuracy for ClearRead
+      CT Insight vs. unaided, a mixed effects model (DBM) will be implemented (similar to the model
+      outlined in Dorfman, Berbaum and Metz, 1997), where variance components will be included to
+      account for reader, case, reader by case, reader by modality, case by modality and reader by
+      case by modality. However, it is anticipated that the three-way interaction will be
+      inestimable and will subsequently be dropped from the statistical model. Specifically, the
+      hypothesis to test for superiority of ClearRead CT Insight vs. unaided is:
+
+      H0: AUCunaided - AUCClearRead CT Insight ≥ 0.0 vs. HA: AUCunaided - AUCClearRead CT Insight <
+      0
+
+      The AUC of the LROC is the primary endpoint to evaluate accuracy and the test of interest
+      will be a two-sided 95% confidence interval on the effect of modality (i.e. ClearRead CT
+      Insight minus unaided). Significance will be concluded if the upper bound of the two-sided
+      95% confidence interval does not include zero. If the null hypothesis (H0) is rejected, the
+      alternative hypothesis (HA) is accepted and the superiority of using the ClearRead CT Insight
+      system will be established.
+
+      Time
+
+      The second co-primary objective is to evaluate reduction in time spent per image for
+      ClearRead CT Insight vs. unaided. Specifically, the hypothesis to test for superiority of
+      ClearRead CT Insight vs. unaided is:
+
+      H0= Tunaided - TClearRead CT Insight ≤ 0 vs. HA= Tunaided - TClearRead CT Insight > 0
+
+      To evaluate the hypothesis of non-inferiority in terms of improved read time for ClearRead CT
+      Insight vs. unaided, a mixed effects model will be implemented (similar to the model outlined
+      in Dorfman, Berbaum and Metz, 1992), where variance components will be included to account
+      for reader, case, reader by case, reader by modality, case by modality and reader by case by
+      modality. However, it is anticipated that the three-way interaction will be inestimable and
+      will subsequently be dropped from the statistical model.
+
+      The read times will be tested using a two-sided 95% confidence interval on the effect of
+      modality (i.e. ClearRead minus unaided). Significance will be concluded if the upper bound of
+      the two-sided 95% confidence interval does not include zero.
+
+      With either analysis, the use of the mixed model could be modified to employ a bootstrap
+      sampling approach if the model assumptions of the DBM method have been violated. The upper 95
+      % confidence limit for the difference in the areas under the curves would be calculated using
+      10,000 bootstraps in the MultiReader MultiCase (MRMC) ROC method.
+
+      POWER AND SAMPLE SIZE
+
+      The power to detect differences in the AUC of the LROC curve for the proposed statistical
+      analysis using the current design baseline, i.e. 300 cases, each corresponding image read by
+      10 readers, was assessed through a simulation study. Specifically, the model outlined above
+      was used to simulate 500 datasets across a range of effect sizes, where power was defined as
+      the proportion of datasets that yielded a significant p-value for testing the fixed effect of
+      modality. The method of Dorfman, Berbaum and Metz, 1992 (DBM) was implemented utilizing
+      statistical mixed model theory with jackknife estimates.
+
+      These simulations required assumptions regarding the magnitude of the variance components
+      associated with the different random effects. As a pilot study to obtain estimates of
+      variance components was not conducted, variance component estimates from Riverain study
+      SoftView 510(k) (Record # BSSI-PR-09-00006) that uses a similar technology as the proposed
+      ClearRead CT Insight device were used in all power simulations. Please note that the variance
+      components were scaled by the total variance to represent the proportion of total variance
+      explained by each component. All power estimates are dependent upon the appropriateness of
+      the assumed variance components.
+    
+  

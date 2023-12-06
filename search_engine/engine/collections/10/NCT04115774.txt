@@ -1,0 +1,51 @@
+
+    
+      The common way to collect patient information is frequently chaotic and inconvenient
+      (sometimes even unsafe), particularly when dealing with rare diseases. The need to simplify
+      the diagnostic process and to overcome the difficulties of data storage and analysis,
+      suggested in 2013 to implement the Registry of Osteogenesis Imperfecta (ROI).
+
+      The ROI relies on an IT Platform named Genotype-phenotype Data Integration platform
+      -GeDI.This solution, realized by a collaboration among Medical Genetic Department and a local
+      software-house (NSI - Nier IT Solution), is a General Data Protection Regulation
+      (GDPR)-compliant, multi-client, web-accessible system and it has been designed according to
+      current medical informatics standards (Orphanet code, ICD-10, Human Genome Variants Society,
+      Findability Accessibility Interoperability Reusability Principles). GeDI is continuously
+      implemented to improve management of persons with Osteogenesis Imperfecta and to help
+      researchers in analysing collected information. ROI is articulated in main sections:
+
+        1. Personal data: it comprises general information, birth details and residence data
+
+        2. Patient data: including the patients internal code, the hospital code and other details
+           on patients
+
+        3. Diagnosis: the diagnosis, the status (affected, suspect, etc.), age at diagnosis,
+           comorbidities, allergies, etc.
+
+        4. Genogram: a tool to design family transmission of the disease, flanked by info on
+           diseases status of all included relatives
+
+        5. Clinical events: records 23 signs and symptoms of Osteogenesis Imperfecta (representing
+           the main Osteogenesis Imperfecta features) and 12 additional items to describe the
+           disease
+
+        6. Genetic Analysis and Alteration: including technique, sample information, duration of
+           analysis, etc. In addition, this section comprises detailed information on detected
+           pathological variants (gene, international reference, DNA change, Protein change,
+           genomic position, etc.)
+
+        7. Visits: it includes the typology of the visit (genetic, orthopaedic, rehabilitation,
+           paediatric, etc.), the date of the visit, treatment, prescription, imaging, etc.
+
+        8. Surgeries: this section contains information on the surgeries type, the age of the
+           patients, the site/localization of the procedures, etc.
+
+        9. Documents: this repository is allowed to store all type of documents (radiological
+           reports, imaging, consents, clinical reports, etc.)
+
+       10. Consents: this section comprises a complete overview of all collected consents,
+           including the date of collection.
+
+       11. Samples: it comprises the type of samples (DNA, tissue, whole peripheral blood, etc.)
+    
+  

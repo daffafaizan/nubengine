@@ -1,0 +1,25 @@
+
+    
+      T2D is a condition that combines insulin resistance and relative insulin deficiency. The T2D
+      naturally progresses towards an increasingly pronounced insulin deficiency that leads to the
+      need for pancreatic replacement, by administering insulin.
+
+      Type 1 diabetes (T1D) requires a complete and immediate substitution of pancreatic insulin
+      secretion. Currently, patients need to be involved in managing their disease by deciding how
+      much insulin to administer based on the results of glucose monitoring. Artificial
+      intelligence, thanks to a self-learning algorithm, enables the automation and customization
+      of insulin administration. These devices, known as closed loops, bring real benefit to the
+      patients included in the studies, by improving glycemic balance, by decreasing the number of
+      hypo- and hyperglycemia but also by decreasing the mental load associated with the disease,
+      improving their quality of life.
+
+      These very significant benefits in the T1D treatment open the possibility of obtaining
+      similar benefits in the T2D treated by the basal-bolus type insulin regimen. This study aims
+      to develop a specific algorithm of T2D to meet its particular characteristics.
+
+      The objective of this study is to collect the evolution of blood glucose levels in T2D
+      patients under different conditions of their daily life: physical activity, meals, sleep,
+      etc. This data will be used to develop a test bench to evaluate insulin delivery algorithms
+      to treat patients with insulin-resistant T2D using a closed loop.
+    
+  

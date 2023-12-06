@@ -1,0 +1,304 @@
+
+    
+      APPROACH PHASE I The University of Washington has demonstrated diagnostic proof of principle;
+      however, further optimization and validation is needed for industrial scale deployment. In
+      Phase I the UtL filtration method will be optimized (Aim 1), analytical performance on the
+      commercial workflow validated (Aim 2) and a sample collection milestone met (Aim 3). Aim 1.
+      Determine utility of uterine lavage filtration to maximize enrichment for tumor derived DNA.
+      Preliminary testing with two samples indicated that filtration of UtLs to remove clusters of
+      endometrial cells could increase sensitivity for tumor mutations several folds. This data set
+      will be expanded by analysing the filtration effect in 10 UtLs from patients with HGSC with
+      known TP53 mutations. Each UtL will be divided in half: the first half will be filtered and
+      the second will remain unfiltered. DNA will be extracted from the filtered, filtrate, and
+      unfiltered fractions and analysed by TP53 DS (total of 30 samples). For each UtL, the DNA
+      yield in each of the fractions and the MAF of the tumor mutation will be compared. It is
+      anticipated that the filtered fraction will contain less DNA then the unfiltered fraction but
+      the tumor mutation will be present at a higher frequency. If sensitivity is improved (i.e.
+      more is gained by enrichment than is lost by reduction from less available DNA), filtration
+      will be used on all future samples collected. Aim 2. Validation of optimized assay: accuracy,
+      precision, limit of detection, and reproducibility. TwinStrand has developed a streamlined DS
+      workflow using improved adapters, ligation chemistry and a high throughput 96 well
+      plate-based format amenable to liquid handling robots and compatible with CLIA laboratory
+      standards.
+
+      TwinStrand has also developed an optimized cloud-based analysis pipeline that supports
+      automated parallel processing of multiple samples. The optimized process for the detection of
+      TP53 mutations in UtL samples will be validated. To assess accuracy, technical precision, and
+      lower limit of detection, DNA samples from two individuals that differ in genotype at >5 SNP
+      sites in or near TP53 will be mixed, in ratios from 1:100 1:5,000, two UtL. The mixtures will
+      be sequenced at ~10,000x molecular depth in two independent experiments. SNP allele fraction
+      (AF) will be compared at different dilutions to determine accuracy (expected AF vs. observed
+      AF), precision (AF variation among replicates), and lowest limit of detection achievable. To
+      test assay reproducibility in its intended clinical use, sequencing will be repeated on the
+      30 samples used Aim 1, which will encompass a wide range of tumor MAFs. The Sponsor will
+      calculate the coefficient of variation among replicates. Based on pilot studies The Sponsor
+      anticipate excellent reproducibility (CV<5%). Aim 3. Sample collection. Collection of samples
+      proposed in Phase II will be started under appropriate IRB/Ethic Committee approval at each
+      participating institution.
+
+      After collection, samples are shipped to the Institute for Cancer Research at the Medical
+      University of Vienna who will perform UtL filtration and DNA extraction.
+
+      Paired DNA from Pap smears and peripheral leukocytes will also be extracted. Isolated DNAs
+      will be assigned a de identification number and shipped to TwinStrand for Duplex Sequencing.
+
+      Phase I Milestones:
+
+        1. Confirm utility of UtL filtration on tumor mutation enrichment.
+
+        2. Quantify streamlined assay's accuracy, precision, lower limit of detection, and
+           reproducibility on UtLs.
+
+        3. Start samples collection for Phase II.
+
+      Phase I Products:
+
+        1. DS workflow ready for application to UtL DNA at commercial scale in Phase II and Phase
+           III.
+
+        2. Sample bank for Phase II
+
+      APPROACH PHASE II Phase II will validate the use of TP53 DS on UtLs for early ovarian cancer
+      detection in expanded case control patient cohorts encompassing both average and high risk
+      populations. Predefined parameters that may affect the sensitivity and specificity of TP53
+      mutation frequency will be examine, and statistically modeled. Clinical sensitivity and
+      specificity will be maximized by building personalized diagnostic threshold statistical
+      models using multivariate clinical characteristics, as well as each individual's unique
+      background mutation load based on leukocyte sequencing. In a subset of patients, the superior
+      performance of UtL over Pap smear sampling will be confirmed. In addition, a proof of concept
+      study will be conducted in a sub-set of included patients to study a set of 96 methylation
+      markers relevant to HGSC in UtLs and corresponding tumor tissue/STICs.
+
+      AIM 1. GENERAL POPULATION OVARIAN CANCER SCREENING This aim will develop a biomarker for HGSC
+      detection in an average risk population. The Sponsor will conduct a case control study that
+      integrates TP53 DS mutational data with clinic pathological information in order to identify
+      women with HGSC with maximum sensitivity and specificity. More than 98% of HGSCs carry
+      mutations in TP53, which means that ultra-deep DS can be cost effectively focused on just a
+      small genomic region. The product of this aim will be a 200 patient biomarker data set that
+      demonstrates the cost effective, commercially robust performance of this critically needed
+      ovarian cancer diagnostic.
+
+      Aim 1A: To assess the test performance of TP53 DS on UtLs for HGSC detection in average risk
+      patients.
+
+      Methods: UtL samples from 200 subjects from average risk population will be analyzed via DS:
+      100 subjects with HGSC (cases) and 100 subjects with lesions that were ultimately found to be
+      benign after resection, i.e., without cancer (controls). In all patients UtL will be
+      collected prior surgical intervention for an ovarian mass. Lavage will be carried out during
+      the luteal phase of the menstrual cycle if pre-menopausal. Surgical specimens will be
+      pathologically assessed, and a patient will be counted a HGSC positive or a control depending
+      on the histological results. For cancer patients, the primary tumor will be sequenced via
+      conventional methods by the Medical University of Vienna for a panel of genes that includes
+      TP53, BRCA1 and BRCA2. For all de-identified patient samples, collected clinical information
+      will include: age, smoking history, prior chemotherapy exposure, parity, age-of-menopause,
+      age-of-menarche, history of oral contraceptive use, cancer family history, and seven-gene
+      mutation status of the primary tumor. Cases and controls will be aged matched and as wide an
+      age range as possible will be included to assess the effect of age on sensitivity and
+      specificity.
+
+      Statistical Analysis: A detailed mutation profile for each sample will be generated from the
+      duplex sequencing output files including: mutant allele frequency (MAF) for all mutated
+      positions, mutation spectrum, predicted pathogenicity to protein function, relationship to
+      known hotspots, and overall mutation load (number of mutant nucleotides divided by the total
+      number of nucleotides sequenced). Following this, samples will be unblinded for
+      cases-controls status. TP53 MAF from DNA collected by UtLs will be used as predictor for
+      differentiating between average risk patients (AIM I) with and without HGSC by logistic
+      regression modelling. Age, smoking history, prior chemotherapy exposure, parity,
+      age-of-menopause, age-of-menarche, history of oral contraceptive use, cancer family history
+      and germline mutation status will be considered as potential confounders. Model prediction
+      will be assessed by cross-validation. An analogous analysis will be applied to the group of
+      high risk patients (AIM II) where presence and absence of STIC is defining the outcome
+      variable. Cut off values for mutant allele frequency will be suggested in both cases and
+      specificity and sensitivity will be estimated including appropriate confidence intervals.
+
+      Aim 1B: Improving diagnostic performance with personalized calibration by background mutation
+      load.
+
+      The unprecedented sensitivity of DS led us then others to the novel discovery that cancer
+      like mutations accumulate at very low levels with age in multiple human tissues. In a pilot
+      study the sponsor discovered that the average BB mutation load is somewhat higher in UtLs
+      than other tissues, potentially because of DNA contribution from endometrial tissue, which
+      replicates extensively prior to menopause. While this did not compromise specificity in the
+      pilot study, the sponsor recognize that BB could pose an obstacle with some very early tumors
+      where MAF signal is low, or with very elderly women where background is high. The Sponsor
+      expect that lavage filtration and luteal phase collection in premenopausal women will reduce
+      BB signal, but as an added measure the sponsor will examine whether performance can be
+      further improved by normalizing for an individual's background mutation load. The sponsor
+      hypothesize that the level of TP53 mutations in circulating leukocytes can serve as an
+      empirically measured personal calibrator that captures, not only known factors that increase
+      BB, such as age, but also unknown mutagenic exposures or other factors occurring during a
+      person's life. Although DNA from leukocytes probably only contributes a minimal amount to the
+      total pool of BB mutations in UtLs, the sponsor posit that they may serve as a proverbial
+      "canary in a coal mine" that will be proportionally representative of BB mutations elsewhere
+      in the body. The BB mutation load in a lavage, itself, cannot be directly measured in a real
+      world setting when the mutation(s) contributed by a tumor are unknown. The plausibility of
+      this concept was shown by our initial study of TP53 mutations in peritoneal fluid, which
+      included a subset of matching blood samples and indicated a strong association between BB and
+      age.
+
+      Methods: DNA from the peripheral blood mononuclear cells (PBMC) component - collected
+      immediately prior to a surgery - of randomly chosen 50 from 100 HGSC cases and 50 from 100
+      controls from Aim 1A will be extracted and subjected to TP53 DS at ~10,000x molecular depth.
+      TP53 mutations from PBMCs will be subtracted from TP53 mutations found in the UtL.
+
+      Statistical Analysis: The Sponsor will examine the association between TP53 mutation
+      frequencies in UtL and leukocytes and will determine whether false negatives in Aim 1A
+      correspond to cases with increased BB in leukocytes. In addition, the sponsor will analyze
+      TP53 mutation frequencies in leukocytes as a predictor of case control status, again using
+      the leave out 10% procedure. This innovative calibration method will be compared with the
+      simple ROC metrics achieved with the univariate model using a fixed mutation fraction as well
+      as the adjusted multivariate model developed based on other patient characteristics such as
+      age. As a scientific question unrelated to the present aims, the sponsor are eager to see
+      whether leukocyte TP53 mutation load will serve as an independent predictor of patient age,
+      overall health or history of mutagenic exposures.
+
+      Aim 1C. Comparison of diagnostic performance of uterine lavage vs. Pap smear collected DNA.
+
+      The first report of using NGS for ovarian cancer detection from a trans vaginal liquid biopsy
+      relied on Pap smear collection and SafeSeqS as the sequencing technology. The cited
+      sensitivity of 41% provided an important proof of principle, but also ample room for
+      improvement. The sponsor have definitively demonstrated the superior accuracy of DS over
+      SafeSeqS like methods and ongoing studies in our lab indicate limited sensitivity of Pap
+      smears compared to UtL. However, a direct comparison of the two collection methods on the
+      same patients remains to be performed. Formally demonstrating the degree of superiority of
+      UtL over Pap smears will help with commercial market entry (the sponsor note that a related
+      NCI SBIR has been awarded to PapGene Inc, a company founded by the above-mentioned study's
+      authors). The superiority of UtL is expected based on the fact that the lavages reach the
+      fallopian tubes and ovarian surfaces whereas Pap smears rely on disseminated cancer cells
+      reaching the cervical canal. Nevertheless, in the event that TP53 DS on Pap smears does not
+      drastically underperform UtL, the sponsor would further explore this complementary collection
+      method. Because Pap smears are routinely performed by primary care providers, the ability to
+      use these could help accelerate market adoption. However, current evidence points to the
+      probable inferiority of Pap smears.
+
+      Methods: The sponsor will carry out TP53 DS as above but using DNA from Pap smears collected
+      prior to surgery of randomly selected, age matched subset of 25 cancer cases and 25 controls
+      from Aim 1A.
+
+      Statistical Analysis: Data on TP53 MAF from DNA collected by conventional pap smear tests
+      from a subsample of average risk patients will be considered as additional predictor in
+      models developed within aim 1A and 1B.The sponsor will investigate if any additional power to
+      discriminate cases from controls can be gained by combining information from Pap smears and
+      UtLs.
+
+      AIM 2. HIGH RISK POPULATION OVARIAN CANCER SCREENING This aim will take a similar approach to
+      that of Aim 1 but will focus on women at high risk for ovarian cancer due to hereditary
+      breast and ovarian cancer (HBOC) mutations. HBOC women will have been identified by a strong
+      family history of breast or ovarian cancer and found to carry mutations in cancer
+      susceptibility genes, usually BRCA1 and BRCA2, which confer a lifetime HGSC risk of 35%, 46%
+      and 13%, 23%, respectively. Standard of care is risk reducing salpingo oophorectomy (RRSO) at
+      an early age, typically after completion of child bearing. Although this approach does
+      decrease mortality, it is imperfect: approximately 10% of ovarian cancers in this population
+      develop before age 40. In the Vienna case series, cancers have been seen at as young an age
+      as 20, which is well before a prophylactic surgery would normally have been undertaken. Thus,
+      even with standard of care, HBOC women in their reproductive years are at a significantly
+      elevated risk of ovarian cancer relative to other women their need for an effective screening
+      tool is even greater. At present, affected women must make the decision to either accept the
+      increased risk of a highly lethal cancer or elect to forgot (or prematurely end)
+      childbearing. This is an excruciatingly challenging decision faced by hundreds of thousands
+      of women in the US alone. In certain ethnic groups, particularly Ashkenazi Jews, the risk of
+      being a carrier is as high as 1 in 40. Yet the majority of BRCA carriers, even those who do
+      not have surgery, will never develop HGSC. There is an urgent need for early detection
+      diagnostic tools in women at high risk of HGCS in order to save lives and preserve the choice
+      of fertility. The product of this aim will be a 115 patient biomarker data set that
+      demonstrates commercially robust performance of such an assay.
+
+      Aim 2A. To assess the test performance of TP53 DS on UtLs for HGSC detection in high risk
+      patients.
+
+      The sponsor will approach this study per the general methods of Aim 1A. One significant
+      difference is that UtL will be collected from HBOC women undergoing RRSO, rather than from
+      women with known ovarian masses. After RRSO, the ovaries and fallopian tubes undergo a
+      meticulous sectioning protocol known as SEE-FIM to carefully examine the tissues,
+      particularly the fimbriae, for STICs and occult cancers. Among this high risk population,
+      such lesions are found in roughly 5% of resections. The cancer group will encompass women
+      where STICs or occult tumors were found during SEE-FIM the control group will include women
+      with no lesions. This study design is innovative in that it focuses, not only on high risk
+      women, but specifically on the ability of our assay to detect very early stage, potentially
+      even microscopic, cancers when they remain surgically curable.
+
+      Methods: UtL samples from up to 115 women with hereditary high risk ovarian cancer syndromes
+      will be analyzed via DS: 15 with STICs or occult cancer (cases) and up to 100 cancer free
+      (controls). Case and control will be matched by age. UtLs will be performed immediately prior
+      to RRSO. Surgical specimens will be pathologically assessed by a centrally standardized
+      SEE-FIM protocol. After RRSO, the ovaries and fallopian tubes undergo a meticulous sectioning
+      protocol known as SEE-FIM to carefully examine the tissues, particularly the fimbriae, for
+      STICs and occult cancers. The sponsor expects to have identified 5 to 15 women with STIC or
+      occult cancers in this cohort, 100 age matched women will have no detected lesions. The
+      smaller number of cancer cases than controls reflects the low percentage of lesion positive
+      surgeries and the sample number the sponsor project realistically being able to achieve.
+      Although a larger number would be optimal, such samples are extremely limited. The cancer
+      group will encompass women where STICs or occult HGSC were found during SEE-FIM the control
+      group will include women with no lesions Statistical analysis: This will be as per Aim 1A.
+
+      Aim 2B. Diagnostic threshold calibration in high risk women by background mutation load.
+
+      This sub-aim will use the same protocol and statistical methods of aim 1B and apply them to
+      the high- r i s k population of Aim 2.
+
+      Methods:Leukocyte DNA from all available cancer cases and a randomly chosen 30-woman subset
+      of the control group will be evaluated. It is well-established that the risk of malignancy in
+      HBOC women is elevated relative to others by virtue of defects in DNA repair that increase
+      the probability of oncogenic mutations arising. As such, the sponsor anticipate that the
+      non-cancer-derived background mutation load measured in UtLs as well as in peripheral blood
+      may be proportionally elevated as well. Adjusting for the high background mutation load
+      measured in blood may be particularly important to increase specificity in this group.
+
+      Statistical analysis: This will be as per Aim 1B.
+
+      AIM III To define a methylation signature for HGSC detection in UtLs. Over the last 15 years,
+      the value of DNA methylation analysis for the detection of epigenetic, tumour-specific
+      changes has been demonstrated, particularly in cancer diagnostics. Studies of DNA-methylation
+      in ovarian cancer (OC) focused on detecting DNA fragments shed by OC cells into the
+      bloodstream (i.e. cell-free DNA - cfDNA) suggest that DNA methylation patterns in cfDNA have
+      the potential to detect a proportion of OCs up to two years in advance of diagnosis. This
+      study also clearly shows the limitation of this approach because only 50% of all patients who
+      finally developed high-grade serous ovarian cancer (HGSC) within two years could be detected.
+      The underlying problem is that due to the low concentration of cfDNA in the blood stream a
+      very weak signal needs to be detected. With the aim of potentially increasing the sensitivity
+      of HGSC detection the sponsor will in cooperation with Prof. Andreas Weinhäusel, Austrian
+      Institute of Technology (AIT), Competence Unit Molecular Diagnostics, perform a proof of
+      concept study in a sub-set of patients included in this project. Prof. Andreas Weinhäusel,
+      identified 96 methylation markers relevant to HGSC. Only a very small amount of DNA is
+      required for DNA methylation. It is therefore advisable to use the already available DNA from
+      the lavages and the corresponding tumor tissue, which has been extracted in the course of
+      this study, for the further development of the specificity and sensitivity of the test
+      procedure. The product of AIM3 will be a 140 patient methylation markers data set that
+      demonstrates high sensitive performance of such an assay.
+
+      Methods: Genomic DNA from UtLs and corresponding tumor tissue from 30 HGSC patients and 10
+      STICs/occult cancers will get enriched for methylated DNA with the aid of methylation
+      sensitive restriction enzymes. This DNA will be analyzed by performing a highthrough put-qPCR
+      in which 5 x 96 marker x 96 DNA will be analyzed in parallel. The most informative markers
+      will be combined to a methylation signature. To proof the specificity of the signature DNA
+      from UtLs from 60 controls will be analyzed (30 average risk and 30 high risk cases).
+      Assessment of DNA methylation pattern will be carried out on the pre-resection lavages and on
+      up to 10 STIC lesions/occult cancers. When local pathology results identify STICs or occult
+      cancer cells (FFPE tissue), laser microdissection and DNA isolation will be performed.
+      Subsequently applying standard NGS TP53 sequencing will be performed as described in AIM 1
+      and AIM 2. In this pilot sub-study, high-through put-qPCR will be applied to remaining DNA
+      material for assessment of methylation status.
+
+      Statistical analysis: Aiming to evaluate the potential for defining a DNA-Methylation
+      signature for simple PCR testing, dCT-PCR values from 96-plexed high-throughput MSREqPCR
+      analysis will be analysed by bioinformatics & biostatistics to conduct 1) class comparison
+      between the relevant clinical subtypes and classes for defining significantly differentially
+      methylated genes; 2) multivariate class prediction analysis using different feature selection
+      approaches based on single-marker p-values. Different classification algorithms (e.g.
+      k-nearest neighbor, support vector machines, linear discrimination analyses etc.) will be
+      applied, using 10-fold cross validation and/or leave-one-out cross validation for selecting
+      best candidate methylation markers - and algorithms; in addition, the top-AUC values of
+      single candidate methylation-marker's will be defined in ROC analysis and considered for
+      marker selection.
+
+      A subset of 48 candidate markers will be selected for confirmation in a separate sample set.
+      The methylation data derived thereof will be analyzed using class comparison and class
+      prediction analysis in a similar manner as the first set of data derived from 480plexed
+      analysis. Best performing single markers and combinations of markers from multivariate
+      analysis will be defined. Classification results and methylation data will be compared with
+      p53 mutation test-results to evaluate potential of methylation-based diagnostic
+      classification, as a sole and in combination with p53 mutation analysis. This will be
+      conducted applying different class-prediction approaches integrating both p53 and methylation
+      data in multivariate models.
+    
+  

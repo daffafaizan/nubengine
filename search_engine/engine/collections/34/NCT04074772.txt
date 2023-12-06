@@ -1,0 +1,68 @@
+
+    
+      Aim 1: Develop 3D tracking capable of capturing behavior of healthy controls during physical
+      exams. In aim 1, the investigators will recruit healthy volunteers to perform a simplified
+      physical exam in a replica exam room while being recorded with three synchronized FLIR
+      cameras. The simplified exam will consist of four tasks: assessment of tremor, finger chase,
+      finger-to-nose movements, and finger tapping. Study staff will then use DeepLabCut (DLC)
+      software -technology that trains artificial neural networks to identify user defined features
+      in an image - to recognize body parts of interest in physical exam videos. Once the network
+      is fully trained the investigators will test its ability to generalize on different patients
+      and different contexts. Additional analysis of volunteers' movement during the physical exam
+      will be performed to assess for characteristics such as tremor, speed, and tortuosity of
+      movement.
+
+      Aim 2: Apply 3D tracking to the clinic to track physical exam behaviors in motor disorder
+      patients. In aim 2, the investigators will apply the trained network to the clinic to examine
+      the physical exam characteristics of movement disorder patients. Aim 2a will test the DLC
+      network's ability to capture movement disorder abnormalities during the physical exam in
+      patients and healthy age-matched controls. DLC scores of each test variable will be compared
+      to the physician's score of movement according to a standardized scale. The investigators
+      expect to find that the DLC tracking method is able to objectively score movement disorders
+      in ways that mirror and surpass the ability of the physician. In Aim 2b, the investigators
+      will explore the population of recruited patients to see whether it is possible to pull out
+      characteristic movements that correspond to certain disease states. In this exploratory aim,
+      the investigators expect to be able to separate different disease groups (e.g.: Parkinsonian
+      and ataxic patients) from each other based simply on the tracked movement characteristics.
+
+      Research Methods:
+
+      In Aim 1, a movement arena will be built on the University of Colorado Denver Graduate School
+      campus using three FLIR cameras with a custom built synchronization and initiation system.
+      The investigators will recruit up to 30 healthy 18-70-year-old controls from the University
+      of Colorado Denver Graduate School to perform the simplified physical exam (assessment of
+      tremor, finger chase, finger-to-nose movements, and finger tapping) while video is captured
+      from three angles at 100 Hz. The investigators expect this testing to take no more than 5
+      minutes per subject. This video will be used to train the DLC artificial neural network to
+      recognize limb features. The investigators will measure the ability of our trained DLC
+      network to characterize twelve points of interest on each limb during a physical exam: the
+      tips of the four fingers and the thumb, all four metacarpophalangeal joints, the center of
+      the hand, the elbow, and the shoulder. A successful outcome will be a network that maintains
+      the ability to recognize features of interest at high confidence between different
+      individuals and different room contexts.
+
+      In Aim 2a, a tracking arena will be set up in a University of Colorado Movement Disorder
+      Clinic exam room. The investigators will recruit up to 100 patients between 18-70 years old
+      that are visiting for a movement disorder related appointment as well as spouses and
+      relatives of the patients at the appointment for healthy age-matched controls. Patients in
+      the clinic will be asked after their visit if they would like to participate in the study. If
+      they consent, the physician will obtain written consent and fill out a patient form that
+      includes the patient's age, race, sex, and diagnosis (or putative diagnosis). Video recording
+      will be started and the physician will perform the simplified physical exam mentioned above.
+      The physicians will judge the finger chase and finger-to-nose task as is described in the
+      Scale for the Assessment and Rating of Ataxia (SARA, items 5 & 6) from 0-4. The postural
+      tremor and finger tapping will be judged according to the Unified Parkinson Disease Rating
+      Scale (UPDRS, items 21 & 23) from 0-4. If the patient is visiting with a person that consents
+      to be an age-matched control (within 10 years of the patient's age) the physical exam will be
+      repeated as above. The investigators expect this testing to take no more than 5 minutes per
+      subject, beginning to end. The investigators will then use the DLC algorithm to score the
+      physical exam in a way analogous to the physician scoring to assess the accuracy of the
+      system.
+
+      In Aim 2b, the investigators will explore the patient data from Aim 2a for movement features
+      specific to individual diseases. Data clustering methods (PCA and t-SNE) will be used to
+      separate data into groups using high-dimensional DLC tracking data from each physical exam
+      task. Success will be measured as the ability to separate diseases from one another based
+      solely on the analysis of movement data.
+    
+  

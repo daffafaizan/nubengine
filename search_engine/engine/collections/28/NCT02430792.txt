@@ -1,0 +1,80 @@
+
+    
+      PLAN FOR THE STATISTICAL ANALYSES
+
+      This plan has been prepared and is laid forward before any follow-ups are conducted. The plan
+      delineates the analyses of the FC PC trial; any deviations will be laid forward and discussed
+      in the final publication.
+
+      The primary statistical analysis targets the effect on prostate cancer (PCa) specific Quality
+      of Life (QoL) of a treatment policy offering community based football to men with prostate
+      cancer. In particular, patients will be analysed in the treatment group to which they were
+      randomly allocated respecting the intention-to-treat principle (ITT). The appropriate method
+      for addressing this effect depends on the assumptions made about missing data (drop-outs).
+      Our main analysis is valid under the missing at random assumption but we will also present
+      sensitivity analyses robust to non-ignorable patterns among patients with incomplete data.
+
+      Per protocol analyses will be performed to estimate the de jure effect of the treatment for
+      compliant patients. The "per protocol" population will be defined as those trial participants
+      from the intervention group that have attended the football intervention at least 12 times in
+      the first 12 weeks and 24 times in 6 months intervention period.
+
+      Significance tests will be two-sided with a maximal type I error risk of 5 %. To address the
+      problem of multiple comparisons for secondary analyses when several outcomes are tested or
+      multiple constracts are extracted from the same statistical model p-values will be adjusted
+      using the step-down Bonferrroni method of Holm (Holm 1979) or appropriate modern
+      alternatives.
+
+      Trial profile A CONSORT diagram will show trial participant flow. Number of screened patients
+      fulfilling inclusion criteria and trial subjects included in analyses together with reasons
+      for exclusion of trial subjects will be reported.
+
+      Primary outcome The continuous outcome score of FACT-P will be calculated using the official
+      scoring guideline. As described in the scoring guideline missing items will be prorated by
+      multiplying the sum of the subscale with the number of the items in the subscale, then
+      divided by the number of items answered. This will only be done if more than 50% of the items
+      are answered in the subscales and 80% are answered in the total questionnaire. The change
+      score of the total FACT-P at 12 weeks will be calculated by subtracting the total 12 week
+      score from the respective trial participant's baseline score. Analysis of covariance will be
+      used (Vickers and Altman 2001), group and ADT-status will be set as factors, the response
+      will be change in FACT-P and covariates are age and baseline score. The results will be
+      presented as least squares means (LSMEANS) differences between the two groups with 95 %
+      confidence intervals and p-values.
+
+      Secondary outcomes including safety outcomes Changes from baseline to 6 month for LBM, BMC,
+      BMD, and total body fat mass will be analysed in the same manner as the primary outcome.
+
+      QoL, Functional Well-Being and Physical Activity (based on MET values derived from the IPAQ
+      questionnaire) measured at baseline, 12 weeks and 6 months will be analysed using a mixed
+      model for repeated measurements. Changes from baseline to 12 weeks or 6 months will be
+      treated as the response, the model will include fixed effects of factors: group, ADT,
+      sampling time and their interactions, and the analysis will be adjusted for age and baseline
+      value. The correlation between measurements on the same patient will be modeled using a
+      random effect of patient.
+
+      Safety outcomes will be listed for each group and the number of fractures and falls that
+      resulted in seeking medical assessment will be compared across groups using Fisher's exact
+      test.
+
+      Subgroup analyses are planned to be reported for the patients treated with androgen
+      deprivation therapy therefore results will be given both for the overall treatment effect and
+      for subgroup obtained by stratifying level of according to androgen deprivation therapy. To
+      verify the credibility of our subgroup analyses, we apply the criteria proposed by Sun and
+      colleagues (Sun et al. 2012), i.e. the subgroup variable is a baseline characteristic, is a
+      stratification factor, is specified a priori and includes only a small number of analyses.
+
+      Outline of figures and tables The first figure in the main publication will be a CONSORT flow
+      diagram. The second figure will illustrate changes in the primary and secondary outcomes,
+      except safety outcomes, at 12 weeks and 6 months, according to treatment group.
+
+      A third figure will display mean curves for the primary outcome for patients in different
+      groups according to pattern of missing data. In particular, mean curves will be shown
+      separately for completers and patients with missing data at one or more assessment times. The
+      figure will be used to guide the type of sensitivity analyses performed to adjust results for
+      a potentially deviating pattern for patients with incomplete observations.
+
+      Tables will be in following order; first a table delineating trial subjects characteristics,
+      secondly a table showing changes in primary and secondary outcomes both at 12 weeks and 6
+      months. Thirdly safety outcomes will presented according to group and type.
+    
+  

@@ -1,0 +1,14 @@
+
+    
+      In a retrospective cohort of radiotherapy patients, time stamps of various steps in the
+      radiotherapy process (diagnosis, multi-disciplinary board, referral, intake, simulation,
+      treatment planning, quality control, first fraction of radiotherapy) will be collected. These
+      will be combined with patient, tumor and patient-process (e.g. referring physician, treating
+      physician, busy-at-the-time, referring hospital) related features. Based on these a
+      predictive model will be learned that can estimate the probability at various stages of the
+      process that the patient waits too long. Visual management will be developed that can
+      visualize the predicted waiting time.
+
+      Process interventions aimed at reducing waiting times will be tested prospectively.
+    
+  

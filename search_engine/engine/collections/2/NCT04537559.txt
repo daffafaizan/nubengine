@@ -1,0 +1,33 @@
+
+    
+      The analysis of the various results will be carried out on all HUGs and on the various
+      hospitals / clinics in the canton.
+
+      A survival analysis for the outcome of death or rehospitalization will be performed, with a
+      comparison according to each period.
+
+      The outcomes will be compared between two periods: the 5-month period in 2020 (2-month
+      per-COVID period + 3-month post-COVID period) and the same period in 2019.
+
+      A description will be made in number (%) for numerical data and in median (IQR) for
+      quantitative data. Univariate comparisons between the different periods will be carried out
+      by statistical tests, parametric or not, adapted according to the data (Chi2 or Fisher's test
+      for qualitative data, Student's test or Mann-Whitney-Wilcoxon for quantitative data).
+      Statistical significance will be retained in the event of p <0.05.
+
+      Multivariate analysis will be performed by logistic regression for the main outcome and by
+      cox model for survival analysis. Different variables will be included in the models,
+      including data on gender, age and comorbidity, as well as any variable having a difference
+      with p <0.2 in univariate analysis.
+
+      Secondary analyzes will be carried out by pathology (as the main diagnosis) according to the
+      specific results defined for each situation. In retrospective analysis, these specific data
+      will be relatively limited on the HUG area of full analysis brings together around 20,000
+      hospital stays. Data from more than 40,000 hospital stays will therefore be analyzed (in 2019
+      and 2020).The main outcome data will be complete with no missing data. On the other hand,
+      since this is retrospective data, it is possible that some important variables are missing.
+      In this case, other patient data with missing data will not be included in the multivariate
+      analyzes. In the event of missing data greater than 10%, a second sensitivity analysis may be
+      performed after replacing the missing data with a multiple imputation method.
+    
+  

@@ -1,0 +1,58 @@
+
+    
+      This will be a prospective intervention trial by intention to treat, controlled, blinded,
+      with random distribution. Patients will be assigned according to the randomization to the
+      clinical monitoring group or Bispectral index (BIS) group. Sedation will be applied as
+      follows:
+
+        -  Clinical monitoring group: The BIS monitor will be placed on the patient, but blind to
+           the nursing team, with the objective to measure the BIS values and the time remaining
+           under suppression. The Richmond Agitation Sedation Scale (RASS) of the patient will be
+           evaluated twice per nursing shift (every 4 hours). According to the patient's RASS at
+           the time of evaluation, the dose of sedative administered in a continuous infusion pump
+           will be increased or reduced in order to reach the target RASS.
+
+        -  BIS Group: The BIS value of the patient will be evaluated twice per nursing shift (every
+           4 hours). The objective of BIS will be between 40 and 60. According to the BIS of the
+           patient at the time of the evaluation, the dose of sedative administered in a continuous
+           infusion pump will be increased or reduced in order to reach the target BIS.
+
+      After weaning from deep sedation, the BIS sensor will be removed from the patient. The
+      evaluation of delirium will begin when the patient is in RASS of> -3. This will be measured
+      with the Confusion Assessment Method for the ICU (CAM-UCI) scale in both groups. The
+      measurement will be made by personnel of the research team that did not participate in the
+      randomization. It will also measure the time they remained under suppression, days of
+      ventilation, days of hospitalization and the total dose of sedatives received. The safety
+      outcomes will be the number of unwanted awakenings (recognized as RASS events> -3 during the
+      indication of deep sedation).
+
+      The data entry in charge of loading the data of the electronic clinical history will not know
+      the group to which the patient is randomized.
+
+      b. Statistical analyses Will be done with the program "STATA 14". The results that present a
+      normal distribution will be evaluated as mean ± SD and analyzed statistically by means of an
+      ANOVA followed by the post-hoc test of Dunnett and Tukey. The differences between proportions
+      will be evaluated through χ2 tests. p <0.05 will be considered significant.
+
+      c. Sample size: A study with a power of 80% is projected, a confidence level of 95%, the
+      case: control ratio will be 1: 1 due to randomization. Is expect a delirium incidence of 55%
+      vs 37% in the sedation group guided by BIS (an absolute reduction of 32% in the incidence of
+      delirium). The incidence of delirium in the control group arises from the DECCA trial. In
+      turn, the reduction in the incidence of delirium arises from reviewing the studies included
+      in the meta-analysis by MacKenzie et al. 2018, which reports a reduction of between 20 and
+      55% in the incidence of delirium due to the use of BIS-guided sedation during surgical
+      procedures. The patients included in this study will have between 24 and 96 hours of deep
+      sedation due to the pathologies that require patients to be deeply sedated (RASS of -4 or
+      -5), which is why is expected to find a reduction in the incidence of delirium and in the
+      dose of sedatives administered equal to or greater than that reported in the studies
+      evaluated by MacKenzie et al.
+
+      With this data, a sample size of 240 patients is calculated according to the Fleiss formula
+      for sample size calculation. It is suspected that 10% of the patients will be lost, for which
+      a total number of 264 patients is needed. A single-center study is planned, which will be
+      carried out in the critical care unit of the Hospital Italiano de Buenos Aires. It has 38
+      beds and an average monthly flow of 140 patients. Of these, 10% have the objective of RASS -4
+      or -5 (according to the measurement made in April 2018). It is calculated taking into account
+      these data that a duration of 19 months will be required to achieve a necessary sample size.
+    
+  

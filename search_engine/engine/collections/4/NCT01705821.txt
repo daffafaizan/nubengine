@@ -1,0 +1,59 @@
+
+    
+      At some time in their lives, 1 in 5 people will have a pituitary tumor, and 1 in 600 of these
+      will have the tumor grow large enough (>1 cm in diameter) that surgical resection is
+      required. Traditionally, surgery to remove pituitary tumors or other tumors at the skull base
+      requires transcranial or transfacial access. In these approaches, large traumatic, often
+      disfiguring, openings must be created in the patient's forehead or cheek. Endonasal skull
+      base surgery reduces invasiveness resulting in less trauma, fewer complications, and shorter
+      surgical time. However, despite the compelling advantages for the patient, only a small
+      percentage of skull base surgeries are done endonasally. While exact statistics are not
+      available, the current best estimate in the literature is that less than 50% and most likely
+      less than 20% of these tumors are addressed by endonasal surgery.
+
+      The endonasal approach is underemployed despite its demonstrated benefits to the patient
+      because existing surgical instruments have limited dexterity and approach angles, and
+      simultaneously manipulating several of them through a nostril while performing complex
+      surgical procedures is so technically challenging that only a small number of expert surgeons
+      can accomplish it. Even for these experts, mortality rates are non-negligible (0.9%), and
+      there remain contraindications to the endonasal approach, including occlusion of the surgical
+      site by delicate and critical neurovascular structures (e.g. carotid arteries, optic nerves),
+      inability to fully reconstruct the dura due to lack of surgical tool dexterity, and long
+      surgical duration. All of these contraindications are directly related to limitations in
+      instrument dexterity and visualization, which motivates the development of a robotic system
+      for endonasal skull base surgery. Such a robot can potentially increase surgical dexterity
+      and reduce the technical complexity of the procedure for surgeons, thereby increasing the
+      percentage of patient who benefit from the endonasal technique.
+
+      While many robotic systems have been developed for intravascular interventions as well as
+      natural orifice surgery though other orifices, comparatively few systems have been targeted
+      at endonasal surgery. This is likely due to the smaller size of the nasal cavity and nostril
+      compared to other natural orifices.
+
+      For endonasal robots, the limited space available in the nostril opening, combined with the
+      need to work dexterously within the cavities in the head, implies that instrument shafts must
+      be small in diameter while enabling dexterous motions of instrument tips. A recently invented
+      robot design that matches these characteristics is the concentric tube robot concept, which
+      is also known as by the name active cannula.
+
+      A robot suitable for endonasal surgery is being developed (see reference #3), however in
+      order to optimize this robotic system, intraoperative data must be obtained to determine how
+      the robot interacts with the patient's tissues. The aim of this study is to modify a
+      traditional tool used in the operating room to allow determination of forces at the skull
+      base on both hard and soft tissues. This surgical curette will be used in the standard
+      fashion during endonasal skull base surgery, however will provide valuable information.
+
+      The modified curette will consist of two segments joined by a Nano17 6-axis force sensor.
+      (Image 1) The force sensor is integrated into the shaft of the instrument (a standard
+      neurosurgical ring curette) and insulated from the shaft with two polyetherimide (also known
+      as ULTEM) disks so that no current can be transmitted from the force sensor to the curette.
+      The sensor is held to the shaft by medical grade adhesive and set screws.
+
+      The patients will be recruited from the PIs clinical practice. Informed consent will be
+      obtained. At the appropriate time during surgery this curette will be used to collect force
+      date. This force transducer operates at 5V (4.8-9V range). These transducers are commonly
+      used in medical and dental research (see reference #5).
+
+      No additional operating room or anesthesia time will be required.
+    
+  

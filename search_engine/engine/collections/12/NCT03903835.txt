@@ -1,0 +1,77 @@
+
+    
+      ProBio is an outcome-adaptive, multi-arm, open-label, multiple assignment randomized
+      biomarker driven platform trial in patients with metastatic castrate resistant prostate
+      cancer.
+
+      Patients will be randomized to control or experimental treatment arms. Patients in the
+      control arm will receive standard of care following national guidelines. Patients in the
+      experimental arm will be randomized to treatments based on a biomarker signature. The
+      biomarker signatures are defined as tumor properties or mutations in certain genes/pathways
+      identified in the scientific literature as important in prostate cancer treatment response.
+      The biomarker signatures are identified using a circulating tumor DNA (ctDNA) panel
+      specifically designed for mCRPC.
+
+      Alterations in the following genes/pathways or combinations thereof constitute the biomarker
+      signatures:
+
+        -  Androgen receptor
+
+        -  DNA-repair deficiency
+
+        -  TP53
+
+        -  TMPRSS2-ERG gene fusion
+
+      Patients in the experimental arm can be randomized to the following treatments:
+
+        -  Enzalutamide
+
+        -  Abiraterone
+
+        -  Cabazitaxel
+
+        -  Docetaxel
+
+        -  Carboplatin
+
+      ProBio will use outcome-adaptive randomization, adapting the randomization based on the
+      observed progression free survival (PFS) within biomarker signatures. Treatments will
+      initially be assigned to patients based on the biomarker signatures for which that treatment
+      is most likely to be effective. The trial will be analyzed within a Bayesian framework, which
+      allows for calculations of the probability for each treatment that it is superior to standard
+      of care within a given signature. Each experimental arm will be evaluated for efficacy
+      relative to the control arm with the same biomarker signatures.
+
+      Participants and treating physicians will be blinded to ctDNA profile of each patient. The
+      biomarker signatures will thus not influence treatment choice among controls (reflecting
+      today's standard of care).
+
+      Further, ProBio will use the sequential multiple assignments trial (SMART) concept, where
+      each patient who progresses within the trial will re-enter the trial and be re-assigned to
+      another treatment based on the patient's current ctDNA profile. Patients will be withdrawn
+      after in total two randomized consecutive treatments after inclusion into the study.
+
+      The randomization probabilities within the experimental arm are defined in proportion to the
+      probability that each treatment is superior to standard of care within a given biomarker
+      signature, and therefore change as data accumulates in the trial and knowledge accumulates
+      for what biomarker signatures and specific treatments that are more probable to be effective.
+
+      Trial results will be evaluated regularly by an independent data and safety monitoring board
+      (DSMB). The DSMB will evaluate treatment-signature combinations with respect to:
+
+      Graduation for superiority: A treatment-biomarker signature combination will be graduated
+      from the trial if it has a Bayesian predictive probability of success in a future
+      confirmatory phase III trial exceeding a pre-specified threshold (85%).
+
+      Termination for futility: Treatment-biomarker signature combinations will be dropped from the
+      trial for futility when success probabilities drop sufficiently low (less than 10% using a
+      minimum of 20 patients assigned to the specific treatment-biomarker signature combination).
+      Alternatively, if the maximum sample size of 150 patients assigned to a treatment biomarker
+      signature is reached without graduation for superiority, assignments to that combination will
+      end.
+
+      ProBio is a platform study. This means that new treatments and biomarker signatures can be
+      added to the experimental arm in the future. This will be done after protocol amendments.
+    
+  

@@ -1,0 +1,59 @@
+
+    
+      The aim with this proposal is to better understand how in-shoe foot orthoses achieve
+      improvements in foot and ankle function for people with ankle osteoarthritis (OA) and/or
+      adult acquired flatfoot resulting from posterior tibial tendon dysfunction (PTTD). The
+      investigators also aim to be able to predict what the optimal, personalized orthotic device
+      is for each patient is. These are common, painful, and often highly debilitating conditions,
+      with ankle OA estimated to affect around 6% of the adult population and adult acquired flat
+      foot around 3.3% percent of females. It has been shown that foot orthoses can be an effective
+      conservative intervention for these conditions, and can help to postpone or negate surgery.
+      However, for a significant proportion of patients foot orthoses are unsuccessful, and there
+      is evidence that this may be a result of significant inter-individual variability in joint
+      movement and loading response to the intervention. This may be due to a number of factors,
+      including foot bone shape, muscle strength, and/or joint range of motion. In addition, the
+      design of foot orthoses is often inconsistent between suppliers, largely because of the
+      manual approach that is used to design and manufacture them. A further complicating factor is
+      that prescriptions for foot orthoses are often vaguely written. Improving the investigators'
+      understanding of different foot and ankle responses to variation in foot orthotic design is
+      essential if the investigators are to improve how these devices function at the level of the
+      individual patient. To measure how the individual bones of the foot move using traditional
+      techniques is, however, very difficult. Such methods rely on skin-mounted markers that are
+      tracked in space to determine foot and ankle kinematics. However the size and position of the
+      foot and ankle bones means that it is not possible to measure them all of them individually.
+      Moreover, the movement between the skin and the underlying bones, known as soft tissue
+      artifact, introduces significant errors into the measurements. This is further complicated by
+      the need to wear shoes for orthoses to function properly. The group has developed a biplane
+      fluoroscopy system that is tailored to address the unique issues of measuring foot
+      kinematics. This system has the additional advantage of being able to measure the effects of
+      foot orthotics in unmodified shoes. To achieve the objective of understanding and being able
+      to predict the effects of orthoses, the specific aims are:
+
+        -  [1]: To collect, via biplane fluoroscopy, kinematic data describing the effect of
+           varying the angle of hindfoot posting in foot orthotics. These data will be obtained
+           from 90 participants: 30 with ankle OA; 30 with symptomatic PTTD; and 30 healthy
+           controls.
+
+        -  [2]: Using the data from SA1, carry out a regression analysis to identify factors
+           obtained from biplane fluoroscopy and clinical exam that significantly influence an
+           individual's response (i.e., hindfoot kinematics) to the orthotic intervention. These
+           factors include: foot type, bone geometry, static foot posture, joint axis location,
+           range of motion, and muscle strength.
+
+        -  [3]: Using the data from SA1, generate a musculoskeletal model of the foot that allows
+           detailed analysis of the muscles and ligaments controlling ankle movement. This will be
+           developed in the OpenSim modeling platform and made freely available upon project
+           completion.
+
+        -  [4]: To compare the kinematic responses to orthotic devices prescribed using standard
+           methods and those prescribed using algorithms and insight from SA2 and SA3 in a separate
+           group of participants. Biplane fluoroscopy will be used to collect kinematic data from
+           10 patients with ankle OA and 10 with PTTD to compare the performance of the three pairs
+           (one traditional, one from SA2 and one from SA3) of orthotics. This data will also be
+           used to validate the predictions resulting from SA2 and SA3. This proposed research
+           project will improve the investigators' understanding of how foot orthotics work and
+           will help us to prescribe more effective devices to patients. This will benefit the
+           large number of people in the population with ankle osteoarthritis and adult acquired
+           flat foot.
+    
+  

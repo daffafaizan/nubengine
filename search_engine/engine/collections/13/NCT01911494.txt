@@ -1,0 +1,73 @@
+
+    
+      We have designed a two-phased community (including PHC-level) cRCT encompassing both rural
+      and urban settings to be fully powered in each of:
+
+        -  Ogun State, Nigeria
+
+        -  Maputo and Gaza Province, Mozambique
+
+        -  Hyderabad and Matiari districts in Sindh Province, Pakistan.
+
+        -  Belgaum and Bagalkot districts in Karnataka State, India The trial will be phased from
+           the Pilot CLIP trial to Definitive CLIP trial on the basis of a satisfactory rate of use
+           (≥50%) of the CLIP 'package of care' in appropriate women in all countries but
+           Mozambique. Mozambique will be unique in that they will rely on an extended period of
+           feasibility to pilot test all Trial systems and tools before directly beginning a
+           definitive trial. Foregoing the Pilot in Mozambique was felt to be appropriate based on
+           their experience with community-based surveillance and will ensure timelines of the
+           trial are met within a manageable budget.
+
+      For all other countries, use of the package in the Pilot phase will be defined as appropriate
+      referral (urgent or non-urgent) to a facility able to provide comprehensive emergency
+      obstetric care (CEmOC) in appropriate women during the first six months of the Pilot CLIP
+      trial.
+
+      A primary component of the CLIP intervention is antenatal risk assessment guided by the PIERS
+      on teh Move mHealth decision aid. The CLIP version of the PIERS on the Move tool (CLIP POM)
+      integrates the miniPIERS predictive score and a clinical data collection system into a single
+      application. Community health workers in each country will assess women according to the
+      visit protocol, entering clinical data into the CLIP POM mobile application. The application
+      will provide recommendations for care according to meeting one of the trigger events listed
+      below, as per this protocol. Triggers identified that will indicate treatment and/or
+      transport (urgently, defined as within 4hrs) to a CEmOC facility are as follows:
+
+        1. Unconsciousness (MgSO4 if sBP ≥160 mmHg [to be reasonably sure that the unconsciousness
+           is associated with severe pre-eclampsia and not due to obstetric sepsis], urgent
+           transport)
+
+        2. Signs of recent stroke or seizure (methyldopa if sBP ≥160 mmHg [to ensure BP is not
+           lowered too much], MgSO4, urgent transport)
+
+        3. Significant vaginal bleeding (MgSO4 if sBP ≥140 mmHg [presumed abruption associated with
+           severe pre-eclampsia], urgent transport).
+
+        4. No fetal movements felt in the previous 12 hrs (urgent transport [a threshold for
+           identifying at risk fetuses that are alive at the time of screening] 39)
+
+        5. sBP ≥160 mmHg (or dBP ≥ 110 mmHg in Nigeria only) (methyldopa, MgSO4, urgent transport
+           [consistent with severe pre-eclampsia])
+
+        6. Heavy proteinuria (≥4+ by dipstick - predictive of stillbirth in miniPIERS cohort,
+           urgent transport)
+
+        7. miniPIERS predicted probability ≥25% (MgSO4, urgent transport)
+
+        8. Shock index >1.7 in Nigeria only (the Shock index is a ratio of pulse/sBP; high shock
+           index is an indication of poor prognosis in women with postpartum haemorrhage)
+           Non-urgent transport (by non-ambulance services), meaning assessment at a CEmOC facility
+           within 24 hours, will be advised for all women with non-severe hypertension (sBP 140-159
+           mmHg) who do not meet criteria for one of the above 7/8 triggers.
+
+      In Mozambique and Pakistan additional CLIP triggers based on use of the audio oximeter will
+      also be included in the POM decision aid. As with the original miniPIERS model, the enhanced
+      model including SpO2 uses a risk threshold of ≥25% predicted probability to identify
+      high-risk cases. Recommendations based on the updated miniPIERS model will include treatment
+      with MgSO4 and urgent referral. An additional independent trigger of SpO2<93% will also be
+      used in Mozambique and Pakistan to indicate urgent referral.
+
+      In Nigeria where the updated Microlife CRADLE VSA blood pressure device is being used
+      additional triggers will be included for severe diastolic blood pressure or severe shock
+      index to coincide with the traffic light warning signs included in this device.
+    
+  

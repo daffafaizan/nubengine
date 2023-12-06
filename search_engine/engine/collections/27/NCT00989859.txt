@@ -1,0 +1,13 @@
+
+    
+      The plethysmographic signal is typically strong on children. This provides a reliable heart
+      rate monitor. However, to measure oxygen saturation, a quantitative value of the strength at
+      two wavelength regions (green and red) is required. It is also not known if the normal
+      ambient light is spectrally appropriate to analyze the video signals for oxygenation. With
+      the current prototype of our system, we can monitor heart rate reliably and estimate oxygen
+      saturation in adults, using normal artificial light or daylight, entering through a window.
+      Heart rate and oxygen saturation will be extracted from the plethysmographic signal off the
+      cheek, forehead or hand while the respiration rate may be retrieved from the plethysmographic
+      signal off the chest area.
+    
+  

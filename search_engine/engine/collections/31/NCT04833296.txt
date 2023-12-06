@@ -1,0 +1,16 @@
+
+    
+      -  Before induction of general anesthesia, all patients will receive interscalene block
+           using 15ml of ropivacaine which concentration will be based on the response of the
+           previous patient.
+
+        -  Based on biased-coin design up-down sequential method: if patient has pain free
+           recovery, a successful block, the next patient will be randomized to receive either the
+           same ropivacaine concentration or a concentration 0.01% w/v less. However, if he has an
+           unsuccessful block, the next patient will receive a concentration 0.01% w/v higher.
+
+        -  Patients with pain free recovery will be considered to have positive response.
+
+        -  Patients' responses will be analyzed to calculate the MEAC90.
+    
+  

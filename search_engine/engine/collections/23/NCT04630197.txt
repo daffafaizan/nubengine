@@ -1,0 +1,110 @@
+
+    
+      Study Design:
+
+      A non-randomized pilot study design will be employed. Functional magnetic resonance imaging
+      (fMRI) will be conducted at baseline and post-treatment to evaluate activation level changes
+      in the basal ganglia and frontal cortex. Clinically validated symptomology questionnaires
+      will be used to evaluate treatment efficacy. Additionally, qualitative interviews will be
+      conducted to gather personal demographic information as well as information regarding
+      participant experience while using the online psychotherapy clinic. This study has been
+      registered on the ClinicalTrials.Gov Protocol Registration and Results System (NCT04630197).
+      Additionally, ethics approval has been obtained from the Queen's University Health Sciences
+      and Affiliated Teaching Hospitals Research Ethics Board (HSREB).
+
+      Participants:
+
+      Participants (n = 10) will be recruited from family medicine and psychiatric clinics at
+      Queen's University and Kingston Health Sciences Centre sites (Hotel Dieu Hospital and
+      Kingston General Hospital) in Kingston, Ontario, Canada. Additionally, local and social media
+      advertisements will be utilized. Participants will be enrolled in the study based on
+      referrals from outpatient clinics, family doctors, as well as self-referrals. Those invited
+      and interested in participating will have the study protocol explained along with an
+      evaluation by a psychiatrist on the research team through a secured video appointment.
+      Participants will be evaluated for a diagnosis of OCD based on the Diagnostic and Statistical
+      Manual of Mental Disorders, 5th Edition (DSM-5) [48]. Once a diagnosis of OCD is confirmed
+      and the participant is given written and verbal instructions on how to participate in the
+      online therapy, informed consent will be obtained. Inclusion criteria include the following:
+      between the ages of 18 and 65 years at the start of the study, a diagnosis of OCD according
+      to DSM-5, competence to consent to participate, ability to speak and read English, and
+      consistent and reliable access to the internet. Exclusion criteria include having any metal
+      implants or additional factors deemed not safe to undergo an MRI scan, active psychosis,
+      acute mania, severe alcohol or substance use disorder, and/or active suicidal or homicidal
+      ideation. Additionally, if a participant is receiving another form of psychotherapy, they
+      will be excluded from the study.
+
+      e-CBT Protocol: Weekly sessions of e-CBT will be conducted through the Online Psychotherapy
+      Tool (OPTT), a secure, online, cloud-based mental health care delivery platform. These online
+      sessions will consist of approximately 30 slides and interactive therapist videos, with 16
+      modules in total (1 module per week). The content and format of these online sessions will
+      mirror in-person CBT for OCD. The connection between thoughts, behaviours, emotions, physical
+      reactions, and the environment will be a focus. Moreover, mindfulness, body scanning,
+      self-care, goal setting, thinking errors, the 5-part model, and thought records will be
+      employed as techniques for participants. ERP will be incorporated into the e-CBT program as
+      this is the first-line route of treatment. Slides will highlight different topics each week
+      and include general information, an overview of skills, and homework on that topic. The
+      homework included in each session will be submitted through OPTT and reviewed by therapists
+      with personalized feedback provided within 3 days of submission. Weekly homework submission
+      for feedback will be mandatory before being eligible for the next session. After each
+      completion of the e-CBT program, participants will be interviewed to investigate their
+      experience using OPTT and their perception of how the treatment went. Participants can access
+      their therapy sessions from any device with internet access (desktop computer, laptop,
+      cellphone, tablet) and can be run on a variety of internet browsers.
+
+      fMRI Protocol: All imaging procedures will occur at the Queen's University MRI Facility in
+      Kingston, Ontario, Canada using a Siemens 3.0 Tesla whole-body MRI scanner with a standard
+      coil. Scans will occur at baseline (pre-treatment), after week 16 (post-treatment, and at a
+      6-month follow-up. During scanning, participants will lay on the scanning table on their
+      back, with their head resting on a foam pad to reduce movement. Appointments will be 1 hour.
+
+      Anatomical reference images will be captured initially. Following this, fMRI scans will occur
+      while participants are shown neutral images and anxiety-inducing images (i.e., dirty dishes
+      if cleanliness is an anxiety-inducing concept for a specific participant). The frontal cortex
+      and basal ganglia will be the focuses of the imaging procedures as we are interested in the
+      activation level changes during neural anxiety processing. These images will be standardized
+      pictures from the International Affective Picture System (IAPS) that will be selected
+      specifically for each patient by members of our research team.
+
+      Participants will be shown a total of 40 images (20 neutral, 20 anxiety-inducing; R = 0.5)
+      during the fMRI scans. There will be 4 fMRI runs that occur in the following sequence:
+
+        -  5 neutral images (30s per image, 5s break between), 1-minute break, 5 anxiety-inducing
+           images (30s per image, 5s break between), 1-minute break.
+
+        -  5 new anxiety-inducing images (30s per image, 5s break between), 1-minute break, 5 new
+           neutral images (30s per image, 5s break between), 1-minute break.
+
+        -  5 new anxiety-inducing images (30s per image, 5s break between), 1-minute break, 5 new
+           neutral images (30s per image, 5s break between), 1-minute break.
+
+        -  5 neutral images (30s per image, 5s break between), 1-minute break, 5 anxiety-inducing
+           images (30s per image, 5s break between).
+
+      The images will be shown in sets (groups of 5) as opposed to intermingled as we hope this
+      will produce a more sustained emotional state and allow for more distinct readings. The
+      reasoning of the sets being repeated in the middle (back-to-back of the anxiety-inducing
+      images in the example above) is for participants to not become as accustomed to the ordering.
+      Moreover, we will change this ordering for every participant (i.e, The next participant would
+      receive back-to-back sets of the neutral imaging in runs 2 and 3). This is done to
+      counterbalance the imaging sets. Participants will be prompted to imagine themselves in the
+      situations described in the images. The images will appear on a screen and then be reflected
+      into the scanner for participants to view. 0.5% blood oxygen level-dependent (BOLD) signal
+      difference between conditions (p < 10-6) will be considered a detectable change (eff =
+      0.005).
+
+      Anatomical reference images will be captured with the phase encoding direction collected
+      sagitaly from anterior to posterior. These images will be captured with T1-weighted
+      high-resolution magnetization prepared rapid acquisition gradient echo (MPRAGE) images with 1
+      x 1 x 1 mm3 isotropic voxels. For the stimuli-exposed image acquisitions, T2*-weighted
+      gradient-echo echo-planar imaging (GE-EPI) with 1.5 x 1.5 x 2 mm3 voxels will be used. A flip
+      angle of 90 degrees and a bandwidth of 1500 Hz will be used. The field of view will be 192 x
+      192 mm with a 64 x 64 mm matrix resolution. With this phase encoding, the spatial resolution
+      will be 3 mm, with an echo time (TE) of 25 ms, a repetition time (TR) of 2.5 s, and a
+      multi-slice imaging factor of 2 being employed. With these parameters, 170 volumes will be
+      captured. To un-distort images, the GE-EPI fMRI data will be mapped to a non-distorted set of
+      GE images from the same participant. Next, the non-distorted GE images will be mapped to the
+      T1-weighted MPRAGE image. Finally, the T1-weighted MPRAGE will be mapped to the Montreal
+      Neurological Institute (MNI) standardized brain template. In doing this, the GE-EPI fMRI data
+      will be mapped to the MNI template with maximum accuracy.
+    
+  

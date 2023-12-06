@@ -1,0 +1,22 @@
+
+    
+      -  Female and male observers will be analyzed.
+
+        -  Human upper central incisors (UCI) will be shade matched to shade tabs from Vita
+           Classical (VC) shade guide.
+
+        -  The spectral reflectances from the four UCI and from the 16 VC shade tabs will be
+           measured using a spectroradiometer (SP).
+
+        -  Measurements will be performed over a gray background, inside a viewing booth and under
+           D65 illuminant (diffuse/0º geometry).
+
+        -  CIELAB coordinates (L*, a* and b*) will be calculated according to CIE D65 illuminant
+           and CIE 2º Standard Observer.
+
+        -  Two color difference metrics (CIELAB and CIEDE2000(2:1:1)) will be used to find the best
+           option for each UCI, using VC shade guide.
+
+        -  Data will be analyzed using descriptive statistics and McNemar test (α=0.05).
+    
+  

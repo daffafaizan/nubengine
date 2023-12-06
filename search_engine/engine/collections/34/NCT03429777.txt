@@ -1,0 +1,72 @@
+
+    
+      Age-related hearing loss, or presbycusis, is highly prevalent among the elderly. It can have
+      a major impact on the quality of life due to progressive communication difficulties that may
+      lead to psychosocial dysfunction and in extreme cases to social isolation and depression.
+      Hearing aids and cochlear implants have evolved rapidly over the past decades and may
+      strongly improve quality of life in elderly with hearing loss. Nevertheless, it is estimated
+      that in the US and Europe only one out of five to six people with substantial hearing loss is
+      actually using hearing aids. In fact, nearly 50% of people with hearing loss never underwent
+      a hearing test at all. This may be due to denial of illness associated with aging or to
+      disbelieve in bene t from hearing aids or cochlear implants. Hearing screening could increase
+      awareness of hearing loss among elderly and identify those who might bene t from
+      amplification. However, classical audiometry (i.e. pure- tone thresholds and
+      speech-recognition in quiet) is not ideal for screening purposes as it is time consuming and
+      it requires expensive equipment including a soundproof booth and a calibrated audiometer.
+
+      Over the past decades, several Speech-In-Noise tests were developed to get a better
+      assessment of a person's hearing ability in real-life situations. These tests generally
+      measure the speech reception threshold (SRT) in dB signal to noise ratio (SNR). SRT is
+      determined as the difference between the level of presented speech and background noise at
+      which the tested per- son can correctly reproduce 50% of words or sentences. It is now
+      generally recognized that the SRT is more representative of a patient's hearing ability in
+      real-life situations than pure- tone audiometry or speech recognition in quiet. The Speech-
+      In-Noise test, based on spoken sentences, is still being used in clinical practice. However,
+      its general use for a broad clinical population has been disputed because not every person is
+      able to understand and repeat complete sentences in noise, regardless of his hearing loss.
+      This test is there- fore considered as an assessment of the entire auditory system, including
+      memory and certain linguistic aspects, rather than of hearing loss alone.
+
+      In 2013, the Digits-In-Noise (DIN) test was developed, overcoming several shortcomings of the
+      previous telephone test. It uses, for example, wideband signals instead of the limited
+      telephone bandwidth and concatenating digits, spoken by a male voice. The DIN test requires
+      listeners to repeat three spoken numbers (a so-called digit triplet) presented through a
+      headphone, while a continuous noise is presented synchronously to the same ear. The response
+      is then scored correct or incorrect automatically by the computer. Depending on the test
+      setting, the response can either be imputed by the listener him- self or by an administrator.
+      By using simple digits in a closed set paradigm, the contribution of top-down processing and
+      thus the influence of cognitive status is thought to be minimized. For this test, no learning
+      effect was detected, low measurement errors were reported (0.7 dB SNR for normal-hearing
+      listeners) and high validity was claimed by comparing measured digit- triplet SRTs and
+      sentence SRTs. Although SRT-in-noise reflects different aspects of hearing acuity than
+      pure-tone thresholds, both measures are also highly correlated. Previously reported
+      correlation coefficients vary from 0.77 to 0.86. These studies included populations with a
+      wide range of hearing losses, varying from severe to no hearing loss at all.
+
+      Based on this relationship, the DIN test could potentially be used as a screening instrument
+      for hearing loss. However, these two studies did not report specifically on a population of
+      elderly subjects, and this is one of the main target groups for hearing screening. It is
+      important to validate the assumed relationship between SRT-in-noise and hearing loss for this
+      particular population with a smartphone, as it may be influenced by general aging, for
+      example, a decline in cognitive skills.
+
+      The purpose of this project is to validate a quick, easy-to-use and administer smartphone
+      hearing-in-noise test. The app (called HearMe) can potentially be used to easily and quickly
+      collect hearing-in-noise and speech-in-noise measurements. The smartphone app developed is a
+      hearing-in-noise test that presents the subject with a series of stimuli consisting of a
+      spoken three-digit sequence presented at a varying hearing-to-noise ratio. For each stimulus
+      presentation, the user tap the three-digit sequence. The duration of the app is less than 3
+      minutes. For this project we will test at least 50 participants with hearing loss and 50
+      control subjects between the ages of 18-80. The participants will be invited to take the app.
+      The approach for this pilot study is to characterize hearing-in-noise thresholds (also
+      referred to as a speech-reception threshold) as measured by the app in both participant
+      groups, and relate it to the phenotype of each group as a preliminary evaluation of the app
+      as well as a preliminary validation against their routinely collected measurements of hearing
+      function (pure-tone audiometry thresholds).
+
+      With this study, the investigators aim to evaluate the developed smartphone HINT/DIN test for
+      its ability to screen the elderly for hearing loss. The investigators hope to examine the
+      relationship between pure-tone thresholds and SRT-in-noise as measured by the HearMe
+      smartphone application.
+    
+  

@@ -1,0 +1,25 @@
+
+    
+      Hepatitis B virus (HBV) is a major human pathogen which causes high morbidity and mortality
+      worldwide. HBV is one of the leading causes for rapid deterioration of liver function, which
+      is a serious condition termed as "acute-on-chronic liver failure (ACLF)" with high mortality.
+      There is a high prevalence of HBV in Asian developing countries where acute-on-chronic
+      hepatitis B liver failure (ACHBLF) accounts for more than 70% of ACLF and almost 120, 000
+      patients died of ACHBLF each year. The transplantation of liver is the basic and strong
+      effective therapeutic option for ACHBLF patients. However, liver transplantation is difficult
+      to be extensively applied due to the shortage of liver donors and other socioeconomic
+      problems. Thus, an early predictive model, which is objective, reasonable and accurate, is
+      necessary for severity discrimination and organ allocation to decrease the mortality of
+      ACHBLF.
+
+      MELD-based scoring systems still failed to predict the mortality of a considerable proportion
+      of patients and their predictive accuracy was not satisfying enough.
+
+      The ANN is a novel computer model inspired by the working of human brain. It can build
+      nonlinear statistical models to deal with the complex biological systems. In the recent
+      years, ANN models have been introduced in clinical medicine for clinical validations,
+      including predicting the hepatocellular carcinoma patients' disease-free survival and
+      preoperative tumor grade, predicting the mortality of patients with end-stage liver disease
+      and identifying the risk of prostate carcinoma.
+    
+  

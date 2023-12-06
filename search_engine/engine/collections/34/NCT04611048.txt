@@ -1,0 +1,65 @@
+
+    
+      Diabetic polyneuropathy is a frequent complication of diabetes mellitus. The impairment of
+      peripheral nerve fibre function can be very variable, predominantly affecting large-diameter
+      fibres (subserving touch), small-diameter fibres (subserving thermonociception), or both.
+
+      Thermal detection threshold evaluation can be used to quantify the extent of function loss
+      (hypoesthesia) and, to a lesser extent, gain (hyperesthesia) in patients with
+      thermonociceptive impairments. They are important features of quantitative sensory testing
+      (QST) protocols (Rolke, Baron, et al., 2006; Rolke, Magerl, et al., 2006) and are pivotal to
+      the determination of sensory phenotypes (Baron et al., 2017; Raputova et al., 2017). Their
+      role is particularly important in the diagnostic workup of neuropathies affecting small
+      fibers (i.e., the subgroup of primary afferents responsible for thermonociception and
+      autonomic functions) such as painful diabetic neuropathies (Terkelsen et al., 2017; Tesfaye
+      et al., 2010).
+
+      Currently, clinical measurements of thermal detection thresholds are mainly performed using
+      the method of limits (Fruhstorfer, Lindblom, & Schmidt, 1976), in which a continuous heating
+      or cooling ramp (usually at a slow rate, 1°C/s in the case of the DFNS QST protocol (Rolke,
+      Magerl, et al., 2006)) is applied to the skin of the patient who is instructed to press a
+      button as soon as he/she feels a warm or cold sensation. The detection threshold is then
+      considered to be the temperature reached at the moment the patient pressed the button. The
+      method of limits has been known for a long time to be methodologically biased due to its
+      reliance on the reaction time (Yarnitsky & Ochoa, 1991), which lead to an overestimation of
+      the threshold value corresponding to the temperature change that occurred between detection
+      and it's signalling by a motor response. This is problematic as reaction times are under the
+      influence of decision and motor reaction response speeds which may be affected by factors
+      irrelevant to the assessment of sensory discrimination, such as cognitive or motor
+      impairments.
+
+      A methodologically sounder approach for threshold measurement is the method of levels or
+      constant stimuli (Kingdom & Prins, 2010). A number of preselected stimulus intensities are
+      presented a number of times in random order and the subject is asked whether he/she felt each
+      stimulus. Unlike the method of limits, this approach is not biased by decision speed and
+      motor function. Furthermore, this method enables the fitting of a psychometric function
+      (probability of detection as a function of stimulus intensity) to the results, therefore
+      moving thermal detection performance assessments from the outdated High Threshold Theory
+      framework to that of the currently leading Signal Detection Theory (Kingdom & Prins, 2010).
+      Whereas High Threshold Theory conceptualized detection as an ON/OFF process (below threshold,
+      no detection occurs, above threshold detection always occurs), Signal Detection Theory sees
+      detection as a probabilistic process (each stimulus intensity is associated with a
+      probability of detection). This theoretical framework implies to redefine the threshold as
+      the stimulus intensity for which detection probability equates 0.5. In addition to the
+      threshold, the psychometric function is also defined by its slope, i.e. the rate at which
+      detection probability changes around the value of the threshold. . Unfortunately, the method
+      of levels has some important drawbacks. First, it is time consuming as it requires collecting
+      responses to a large amount of stimuli (usually several hundreds) (Gescheider, 1997). Second,
+      the range of stimulus intensities must be approximately centered on the actual threshold
+      value and cover the transition range of detection probability.
+
+      To overcome these limitations, several adaptive procedures have been proposed. These
+      procedures actively adjust the intensity of the presented stimuli depending on the previous
+      responses of the subject (Kingdom & Prins, 2010). In the present study, we implemented for
+      the first time the Psi method (a Bayesian adaptive algorithm proposed by Kontsevich and Tyler
+      (1999)) to estimate the thresholds and slopes of the psychometric function for heat and cold
+      detection. This algorithm associates each potential values of slope and threshold with a
+      probability, updates this probability distribution based on the response recorded after each
+      stimulus presentation (detected/not detected), and selects the next stimulus intensity so
+      that the response to its presentation maximizes the entropy (i.e. the uncertainty around the
+      values of slope and threshold) reduction.
+
+      In this study, we will test healthy controls with the conventional method of limit and the
+      new psi method, in order to establish normative values for the new test.
+    
+  

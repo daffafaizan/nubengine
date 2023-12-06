@@ -1,0 +1,30 @@
+
+    
+      Statistical analysis plan for objective 3 (relationship between the total number of
+      differences and country features)
+
+      Plots will be generated to show the relationships between variables. Correlation coefficients
+      will be calculated where appropriate. Two separate multivariate models will be fit to the
+      data for outcomes 2a and 2b [continuous, between 1 and 500]. A similar model will be fit the
+      total number of differences. The analytical method will be determined by the data and may be
+      liner regression.
+
+      Predictors:
+
+      Region-Categorical (6)
+
+      Population-Continuous
+
+      Life expectancy-Continuous
+
+      Infant mortality rate-Continuous
+
+      GDP per capita-Continuous
+
+      Health expenditure per capita
+
+      Inequality-Continuous
+
+      Corruption Perception Index-Continuous
+    
+  

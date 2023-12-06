@@ -1,0 +1,112 @@
+
+    
+      A multidimensional approach is needed to meet the Millennium development Goals (MDG) to
+      address Water and Sanitation Hygiene Knowledge, Attitudes and Practices. The MDG of reducing
+      child mortality by 2015 will require an increased focus on countries and regions where
+      children death rates are the highest, and a renewed commitment to reach the most vulnerable
+      children (UN, 2013). India and Nigeria account for more than one third of all deaths in
+      children less than five years of age (UN, 2013). Using a combination of a research based
+      literature review, expert opinion and the policy reports a multifactor model was developed to
+      determine the necessary variables that need to be addressed so that an integrated approach to
+      WASH related problems could be designed.
+
+      Variables were identified that impact WASH outcomes. These variables have been classified
+      into several categories including:
+
+        1. Socio-demographics
+
+        2. Environmental and Access
+
+        3. Knowledge, Attitudes, and Practices
+
+        4. Family Health Profile
+
+        5. School Characteristics
+
+      The proposed study is to conduct a randomized control clinical trial to meet the overall
+      study objectives by evaluating Planet Water Foundation's Program through the developed
+      multidimensional framework. The proposed clinical trial will include 12 schools (6
+      residential and 6 non-residential). Six schools (n=3 residential; n=3 non-residential) each
+      will be included into Group 1 (No Planet Water intervention) and Group 2 (With Planet Water
+      intervention) from two locations including districts of Pune and Thane in the State of
+      Maharashtra. Locations were matched based on similar water sources at school, toilet
+      facilities, water quality testing, water purification techniques, geographic setting, and
+      geographic population size.
+
+      Planet Water Foundation's Program (PWP) provides a school-based program with an aim to
+      improve health outcomes in children using three components: (a) access to safe water, (b)
+      access to hand washing facilities, and (c) access to water-health and hygiene education. As
+      part of the PWP, access to safe water is provided through the use of an AquaTower, which
+      incorporates an Ultra Filtration (UF) system. PWP's Water-Health & Hygiene education program
+      is a four week program including four modules: (1) importance of clean water, (2) how to wash
+      your hands, (3) when to wash your hands, and (4) protecting against germs through a hands-on,
+      activity-based program that incorporates games, drama, song, and dance.
+
+      A mixed methods approach was used with open-ended and multiple-choice questions in the form
+      of questionnaires. Questionnaires were translated from English into the local language
+      (Marathi), and back-translated to English for analysis by BAIF Development Research
+      Foundation in India. Students, household caregivers/parents, and teachers were given separate
+      questionnaires. Three different interviews were conducted: (1) a household questionnaire
+      conducted at the home of each student included in the study, (2) a teacher questionnaire
+      administered at the schools, and (3) a student questionnaire administered with each student
+      individually by the interviewer in a separate room away from other students. Group 1 and
+      Group 2 were given the same questionnaires. All questionnaires were administered in
+      cooperation with BAIF Development Research Foundation, a local foundation in India. The
+      foundation received data collection and data entry training prior to the study. Data will be
+      gathered on paper forms and all the data will be entered in Microsoft Excel®. The online data
+      repository will be stored in an encrypted manner and will be password protected. The
+      information will be stored behind a secure firewall provided by the local research foundation
+      in India. All the data gathered on the paper forms will be stored in a locked cabinet, and
+      information will be accessed to only those individuals who are directly involved in the
+      research. Consent will be obtained ensuring that (1) only approved personnel are present
+      during the consent process, (2) fewest number of individuals possible are aware of the
+      subject's participation in the research, and (3) research activities are performed in as
+      private of a place as possible.
+
+      The study sample will include six Group 1 (no PWP intervention) schools and six Group 2 (With
+      PWP intervention) schools, with 60 students per school for a total of 360 students in Group 1
+      schools and 360 students in Group 2 schools. The sample size among the 12 schools was
+      calculated assuming an intra-cluster correlation coefficient of p=0.01, this design will
+      provide 80% power (Donner and Klar, 1996) to detect a medium effect size (Cohen 1992) of
+      0.50. The sample size will be increased by 15%, to 414 for intervention and control, to
+      account for attrition.
+
+      Descriptive statistics will be computed for all variables to ensure data quality and to
+      evaluate the assumptions of statistical tests. Variable distributions will be described with
+      histograms, box plots, central tendencies, measures of variation and frequency distributions.
+      We will test the assumption of normality for the outcome measures, within the PWP and control
+      groups. Additionally, we will test the assumption that the PWP and control groups have equal
+      variances. Generalized linear mixed models (GLMMs) with unequal variances (McCulloch et al.,
+      2008) can be applied when the ideal conditions of normality and equal variances are not met.
+      Testing for the equality of variances is available with the COVTEST statement, which is based
+      on the ratio of residual likelihoods or pseudo-likelihoods. Residuals at each level of the
+      model will be examined to assess model fit. Generalized linear mixed models using SAS PROC
+      GLIMMIX also provides the flexibility to model different types of outcome variables (binary,
+      count and continuous data). All analyses will be conducted using SAS/STAT® software for
+      Windows version 9.2 or higher.
+
+      Prior to testing the study hypotheses, we will examine data for possible covariates.
+      Potential confounding variables will be controlled for by entering these variables as
+      covariates in the regression models. These explanatory variables will improve the detection
+      of treatment effects by entering these variables as covariates in the GLMMs. These variables
+      will be entered as a covariate if the univariate two-sided chi-square test comparing the PWP
+      and control groups is significant at the alpha level of 0.20. In preliminary analysis, we
+      will examine potential covariates using single-level however will we also examine potential
+      covariates using hierarchical linear models. We will use a liberal alpha of 0.20 for the
+      decision of whether to adjust for a covariate so that important confounding effects are not
+      overlooked.
+
+      Hierarchical, correlated data structure: A hierarchical linear models (HLM) approach
+      (Raudenbush and Bryk, 2002) will be used to account for the correlation induced by repeated
+      measurements over time for students nested within schools. School will be modeled as a random
+      effect. These HLMs will be implemented in SAS using generalized linear mixed models, which
+      can be applied to analyze binary, count and continuous repeated measurement data, collected
+      at unequal time intervals following a hierarchical structure (McCulloch and Searle, 2001;
+      Liang and Zeger 1986). These models address the correlated nature of multiple measurements
+      that come from each subject over time. We anticipate that generalized linear models will be
+      appropriate for the data, but will also explore using the method of generalized estimating
+      equations (GEE) (McCulloch and Searle, 2008). The GEE method does not require assumptions of
+      normality and equal variances, but uses less information than linear mixed models since only
+      the first two moments of the distribution are employed in GEE.
+    
+  

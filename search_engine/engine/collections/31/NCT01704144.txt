@@ -1,0 +1,65 @@
+
+    
+      Efavirenz-based antiretroviral therapy (ART) is the preferred regimen in children older than
+      3 years on rifampin-containing anti-TB therapy. Efavirenz trough plasma concentrations below
+      1000 ng/mL have been associated with increased risk of virologic failure among HIV-infected
+      adults, while concentrations above 4000 ng/mL have been associated with risk of central
+      nervous system side effects. Efavirenz is primarily metabolized by hepatic CYP2B6, with
+      secondary contributions from CYP2A6. On average, rifampin co-administration causes a 26%
+      reduction in efavirenz plasma exposure but some individuals have paradoxically elevated
+      efavirenz concentrations with co-administration in adult pharmacokinetic studies. The
+      inter-individual variability in the drug-to-drug interactions suggest that efavirenz dose
+      adjustment with concomitant anti-TB therapy may not be necessary in some patients. In
+      children, there is very limited data on the pharmacokinetic interactions between
+      rifampin-containing TB treatment and efavirenz. To our knowledge, there is only one published
+      study in children to date. Among 15 TB/HIV co-infected children treated with standard
+      efavirenz-based active antiretroviral therapy and rifampin-containing TB treatment, a wide
+      inter-patient variability in efavirenz concentration as well as a bimodal distribution of
+      efavirenz trough concentrations were observed. Overall, rifampin-containing anti-TB treatment
+      had no significant influence on the mean change in efavirenz concentration in the study
+      population as a whole, but 60% and 53% of children had efavirenz trough concentration < 1000
+      ng/mL during and after anti-TB, respectively. This data suggest that current dosing of
+      efavirenz may be suboptimal in a large proportion of children irrespective of anti-TB
+      therapy. To overcome the risk of under-dosing of efavirenz especially with concurrent anti-TB
+      treatment, the WHO recommended prescribing the maximum dose for each weight-band when
+      efavirenz is coadministered with anti-TB treatment. This study seeks to evaluate whether the
+      current dosing of efavirenz provides adequate efavirenz concentrations in children, as well
+      as explore how genetic factors influence efavirenz pharmacokinetics with concomitant anti-TB
+      treatment. The specific hypotheses to be tested are:
+
+        1. At the population level, efavirenz plasma concentrations in TB/HIV co-infected children
+           who are treated with the maximized weight-based efavirenz dosage during
+           rifampin-containing anti-TB therapy will be comparable to concentrations in HIV-infected
+           children receiving ART without anti-TB treatment.
+
+        2. Co-treatment with rifampin- and efavirenz-containing therapies will lead to
+           substantially decreased (by at least 40%) efavirenz concentration in the children with
+           CYP2B6 extensive but not in those with intermediate or slow metabolizer genotypes.
+
+      A two-arm, as well as a two-period pharmacokinetic study in HIV-infected children with and
+      without TB will be performed at the Komfo Anokye Teaching Hospital (KATH), Kumasi, Ghana.
+      Eligible participants will include children aged 3 - 14 years with HIV with or without TB
+      coinfection, ART-naïve and eligible to initiate ART. The ART regimen will consist of the WHO
+      recommended weight-band dosing of efavirenz (10-13.9kg - 200 mg; 14-24.9kg - 300mg; 25-39.9kg
+      - 400 mg and > 40Kg - 600 mg), plus ZDV 180 - 240 mg/m2 and 3TC 4 mg/kg twice daily.
+      Tenofovir may be used in place of ZDV. Standard anti-TB therapy will be prescribed to the
+      co-infected patients and will start immediately upon TB diagnosis.
+
+      A complete medical history, physical examination, and staging of HIV disease will be
+      performed before initiation of ART. Baseline measurements prior to initiation of ART will
+      include CBC, blood urea nitrogen, creatinine, LFTs, CD4 cell count determination and plasma
+      HIV-1 RNA level. Weeks 12 and 24 CD4 cell count and plasma HIV-1 RNA will obtained at
+      scheduled follow-up. Pharmacokinetic sampling will be performed at week 4 of ART in both arms
+      and at 4 weeks after anti-TB treatment in the co-infected group. At each sampling time, 3 mL
+      of blood will be collected into an EDTA tube. Blood samples will be collected at times 0 2,
+      8, 12 and 24 hours post-dose for determination of efavirenz concentrations. Efavirenz
+      concentrations in plasma will be measured using a HPLC-MS. After sample analysis, a data set
+      will be constructed. Anticipated covariates included in this data set to be explored will
+      include age, sex, weight, relevant drug-metabolizing enzyme genotype, TB therapy status
+      (on/off), and CD4 cell count. Nonlinear mixed-effects modeling (using NONMEM, version VI)
+      will be used to estimate pharmacokinetic parameters (CL/F, V/F, AUC, Cmin, Cmax, elimination
+      rate constant), inter-individual error, and residual error. Results of this population
+      analysis may be used to simulate alternative efavirenz dosing strategies in this TB/HIV
+      co-infected population, or in relevant sub-populations with variant PK/pharmacogenetics.
+    
+  

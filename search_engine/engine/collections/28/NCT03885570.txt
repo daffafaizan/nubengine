@@ -1,0 +1,19 @@
+
+    
+      1. Select 8 hospitals to form a multi-center team, and enter the keyword "mitral valve
+           replacement" in the case system of 8 hospitals to collect information on 2000 heart
+           surgery patients.
+
+        2. Mainly collect information on preoperative, intraoperative and postoperative test
+           indexes (blood routine, liver and kidney function, coagulation function, blood gas),
+           cardiac color Doppler, blood transfusion and prognosis of patients undergoing cardiac
+           surgery, using statistical methods for analysis. Identify key observations.
+
+        3. Gradually incorporate and exclude data, and use statistical methods to conduct
+           preliminary analysis on the collected data.
+
+      The AI prediction model was established by machine learning algorithm to predict
+      intraoperative blood transfusion, verify the specificity and sensitivity of the blood
+      transfusion prediction model, and scientifically guide clinical blood use.
+    
+  

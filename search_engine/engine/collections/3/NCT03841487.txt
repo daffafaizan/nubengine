@@ -1,0 +1,26 @@
+
+    
+      Data source and study population Using the National Health Insurance Research Database of
+      Taiwan, STEMI patients from July 2009 to December 2011 who received aspiration thrombectomy
+      during PPCI were defined as the thrombectomy group, and the remaining patients were defined
+      as the PCI alone group. ICD-9-CM codes were used to identify underlying comorbidities. Data
+      regarding the prescription of in-hospital and outpatient medications and the utilization of
+      medical devices were also extracted from the NHIRD using ICD-9-CM procedure codes and
+      pharmacology and device codes.
+
+      Study outcomes The primary endpoints of this study were all-cause mortality and stroke during
+      hospitalization and at 30 days and 1 year of follow-up. Ischemic and hemorrhagic subtypes of
+      stroke were further identified according to ICD-9-CM codes. All patientswere followed for 1
+      year or until the outcomes were achieved, whichever came first.
+
+      Statistical analysis Propensity score weighting was used to reduce potential differences
+      between the two study groups. The incidence rates of all-cause mortality and stroke were
+      estimated as the total number of events during the follow-up period divided by the
+      person-months at risk. For all-cause mortality, a Cox proportional hazard model was used to
+      obtain hazard ratios (HRs). For stroke, Fine and Gray's competing-risk regression was used to
+      obtain sub-hazard ratios (SHRs). The cumulative incidence of stroke versus follow-up time was
+      plotted rather than the event-free rate, because cumulative incidence function can take the
+      competing risk of death into account. For the thrombectomy group, 95% confidence intervals
+      (CIs) of the HRs and SHRs were calculated using the PCI alone group as the referent group.
+    
+  

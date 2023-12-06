@@ -1,0 +1,178 @@
+
+    
+      Definitions and nomenclature:
+
+      Spinal cord stimulation (SCS) will be performed using a 32-electrode paddle array implanted
+      in the dorsal epidural space along the thoracolumbar region of the spinal cord. The array
+      will be powered by a multiple independent current-controlled (MICC) implantable pulse
+      generator (IPG) connected to the paddle per standard of care procedures for SCS implantation.
+      In addition, as per standard of care, motor evoked potential (MEP), somatosensory evoked
+      potential (SSEP) and electromyography (EMG) will be performed via the IOMAX intraoperative
+      neuromonitoring system. The SCS system will be placed for clinical purposes, i.e., treatment
+      of chronic pain, however, the investigators will collect data at various points during the
+      placement. The study procedures will add 15 minutes to the surgery. MUSC's Locomotion
+      Rehabilitation Laboratory - located at the College of Health Professions Building C - houses
+      a Biodex Pro System 4 isokinetic/isometric dynamometer. The Biodex will standardize
+      application of passive isokinetic knee flexion/extension trials to each blinded subject for
+      proprioceptive investigations, which will be referred to as threshold to detect passive
+      movement (TTDPM) throughout the rest of this document. Finally, MUSC's Locomotor Energetics
+      and Assessment Laboratory - also located at the College of Health Professions Building C -
+      houses a dual belt Instrumental Treadmill that is coplanar with the floor and will be used
+      during all walking events. The laboratory also has a 12-camera motion capture system that
+      utilizes active infrared LED tracers to track kinematic positioning data and will be used
+      during all walking events. Another tool offered by the lab is a 16-channel EMG system which
+      utilizes surface electrodes to detect target muscle activity and will also be used during all
+      walking events. In all, expected total duration of the study to be approximately 30 days.
+
+      Device use:
+
+      The epidural stimulator paddle and IPG are FDA-approved, commercially available devices
+      designed to treat chronic pain of the back and lower extremities and will be used for their
+      intended clinical purpose - electrical stimulation of dorsal column fibers to mitigate pain
+      perception. The research use of this device, which will add approximately 15 minutes to the
+      surgery, involves recording/stimulating from the device during the standard of care
+      intraoperative neuromonitoring protocol. Regardless of study participation, the stimulator
+      paddle and IPG will be implanted according to standard of care for the pre-planned SCS
+      surgery. The IOMAX intraoperative neuromonitoring system, equipment owned by MUSC and
+      operated by MUSC neurophysiology staff, is a commercially available device used during
+      standard of care spinal surgical procedures, such as SCS implantation. Regardless of study
+      participation, intraoperative neuromonitoring via IOMAX will take place according to standard
+      of care for the pre-planned SCS surgery. The following devices are used for research purposes
+      only. The Biodex Pro System 4, used regularly by physical rehabilitation researchers here at
+      MUSC, is a commercially available device that will be used solely as a research tool to
+      deliver passive isokinetic knee flexion/extension during the TTDPM. The Instrumental
+      Treadmill, GAITRite mat, motion capture system, and MA300 EMG system are all commercially
+      available devices that are used by MUSC researchers at the College of Health Professions to
+      perform extensive gait analysis in subjects with various neurological deficits. Gait analysis
+      is being performed for research purposes only, and is not standard of care for patients
+      receiving SCS surgery.
+
+      Number of Subjects:
+
+      Investigators propose to study 5 individuals with CLBLP. A prior study conducted by Formento
+      et al, 2018 using SCS and proprioceptive testing published a standard error and 95%
+      confidence interval using successful and unsuccessful SCS trial attempts (p < 0.05 among LFTS
+      parameters and no stimulation, with a minimum of 10 trials per stimulation setting.) Based on
+      this, investigators expect that a small population will exhibit similar variance. The subject
+      sample size is in direct comparison to sample sizes of previous proof of concept studies
+      regarding SCS for spinal cord physiology biomarker sampling. The research team plans to use a
+      two-way repeated measures ANOVA model in order to investigate the varying differences in
+      stimulation type and kinematic parameters. A Post hoc comparison will be made using a Tukey
+      adjustment.
+
+      Recruitment Methods:
+
+      During the subject's preoperative clinic visit, the PI will ask the potential participant if
+      they would like to learn more about the study. If so, the PI will introduce the study and ask
+      if he can answer any further questions about the study before inviting in the PI's physician
+      assistant (listed as a study team member). If not, the PI will leave the room and the PI's
+      physician assistant will review a prescreening checklist to determine whether subjects may be
+      eligible for the study (no information obtained during the prescreening will be documented as
+      research data). Potential participants will be asked to confirm that they are between the
+      ages of 18 and 80, that they have been previously diagnosed with CLBLP by a pain specialist,
+      whether they feel they cannot provide research consent physically and/or cognitively, and
+      whether they have any prior history of spinal neoplasm, infection, arteriovenous malformation
+      and/or radiation to the spine. If potential participants answer no to either of the first two
+      questions or yes to either of the remaining questions, they will be considered ineligible for
+      the study.
+
+      Careful attention will be placed on good communication. It will be emphasized that
+      participation in the study is not necessary for standard of care medical treatment for their
+      condition. It will also be emphasized that the subject can withdraw from the study at any
+      time.
+
+      Data Management:
+
+      Once a potential participant is asked if they would like to learn more about the study, they
+      will be assigned a participant ID. Participant IDs will be assigned consecutively.
+      Investigators will maintain a database that accurately reflects all potential subjects that
+      were approached about the study and the results of eligibility evaluation. For eligible
+      subjects, the specific types of data that will be collected include: 1) analog local field
+      potentials from the SCS, MEP, SSEP and EMG electrodes, 2) digital and analog output signals
+      from the IOMAX intraoperative neuromonitoring device, 3) digital, time-stamped, physical
+      displacement data captured from the Biodex machine, 3) digital, time-stamped, positioning
+      data produced by the PhaseSpace software, 5) videography data, and 6) any available imaging
+      data (dicom files). Raw data will remain on lab-owned data acquisition machines with
+      encrypted hard drives and stored behind a locked door when not directly supervised. Data will
+      be copied from all lab-owned data acquisition machines and/or hospital-owned data servers to
+      a password protected network server accessible from the lab under the IRB protocol number and
+      participant ID. This will constitute the master copy of all data for the lab and will consist
+      of separately stored coded and identifiable folders. The purpose of keeping a copy of the raw
+      data is in case the server is interrupted, and it is necessary to reconstruct the data.
+      Portions of data will be copied to end-user devices (e.g., desktop, laptop, etc) for data
+      analysis, however only the portion needed for analysis will be copied. Any end-user device
+      such as a laptop that physically leaves the lab will be encrypted with MUSC-approved software
+      which uses the AES encryption algorithm in cipher block chaining or XTS mode with a 256-bit
+      key. Desktop machines used for analysis that do not leave the lab and are stored in a locked
+      laboratory will not be encrypted. All data on data acquisition and end-user devices will be
+      deleted at the conclusion of the study. No PHI will be stored on any data acquisition machine
+      or end-user device. A linking database associating the participant ID and subject identifiers
+      will be maintained on MUSC Box, separately from the research data. Subject identifiers to be
+      collected include first and last name, gender, date of birth, social security number, medical
+      record number, mailing address and telephone numbers. Telephone and medical record numbers
+      are required for an approximate 7-day phone call made to subjects following SCS implantation.
+      Additionally, investigators will collect information pertaining to disease severity for each
+      subject, including Visual Analog Scale (VAS) scores, a common pain scale, and any other
+      available rating scale scores. These measures will assist in correlating our physiological
+      data with severity of disease for each subject. Videography data will be stored in the
+      identifiable folder on the password protected network server. The purpose of this data is to
+      correlate movement dynamics with physiology data. Finally, investigators will save imaging
+      data on a password protected network server in order to analyze and correlate with the
+      collected physiological data. Only IRB-approved personnel will have access to the linking
+      database. Consent forms will be stored in a locked cabinet in a locked laboratory in the
+      Clinical Sciences Building at MUSC.
+
+      Risks to Subjects:
+
+      All procedures will follow standard of care guidelines. Research staff will follow up with
+      each participant by phone approximately one week after the surgical procedure, and during the
+      approximate 30-day return, to make sure the participants are not having any problems.
+      Nevertheless, this study still poses certain risks as outlined in the following sections:
+
+      Surgical complication
+
+      Due to the 15 extra minutes added to the surgery, connection of the paddle terminals outside
+      the surgical field, and extra personnel in the room, there is a slightly increased risk of
+      surgical infection. The extra risk of infection due to the research protocol does not
+      increase this risk beyond the 1-5% overall historical risk of complications from the SCS
+      surgical procedure.
+
+      TTDPM
+
+      While testing for proprioception retention of the lower extremities, subjects may encounter
+      discomfort due to non-volitional muscle activation that hinders passive movement. To mitigate
+      this risk, the Biodex system has a subject-controlled trigger that immediately stops the
+      dynamometer's passive motion and may be activated at any time a subject experiences
+      discomfort of pain during the test.
+
+      Overground and Treadmill Walking
+
+      Subjects will be asked to walk on a pressure sensitive mat at self-selected walking speeds
+      and on a treadmill at self-selected walking speeds with each scenario having the subject in
+      an upper thoracic safety harness which is tethered to the ceiling for fall protection.
+      Despite the aforementioned safety measures, there still exists a risk of loss of balance,
+      fall and potential injury. The risk to subjects through these tasks do not exceed risks
+      involved with general physical therapy settings and may result in mild muscle fatigue or
+      discomfort that generally subsides within a few days. Subjects will be given ample rest time
+      and may have additional rest time at any point throughout data collection periods.
+      Furthermore, subjects will be assisted during large movements or during potential transfers
+      across different surfaces by an IRB-approved study member.
+
+      Photography and videography
+
+      Subjects will be videotaped during performance of supine / walking SCM and EMG moduling
+      protocols. Investigators will also photograph and/or videotape any other aspect of the
+      subject's research participation that will help investigators correlate the subject's
+      condition with the EMG and kinematic data. The videos and photos recorded can include the
+      full face, upper body, arms, and legs. Photography and videography carry a risk of loss of
+      privacy. Photos and videos will be stored on a secure server. Only approved study personnel
+      will have access to these files.
+
+      Loss of Confidentiality
+
+      Additional risks include loss of confidentiality. To mitigate this risk, a linking database
+      associating the participant ID and subject identifiers will be maintained separately from the
+      research data on a password protected server and only IRB-approved personnel will have access
+      to the linking database.
+    
+  

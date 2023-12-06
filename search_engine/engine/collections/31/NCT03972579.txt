@@ -1,0 +1,139 @@
+
+    
+      Psychosocial factors are known to affect recovery from concussion, but are not sufficiently
+      taken into account by current treatment approaches. Distinct behavioral profiles after
+      concussion have emerged in our research: (1) avoidance, where individuals perceive activity
+      as overly dangerous and take care to avoid overexertion, and (2) endurance, where individuals
+      persist with high levels of activity despite worse symptoms until they "crash," requiring
+      recuperative rest. The researchers hypothesize that patients with these behavioral profiles
+      likely benefit from different treatment approaches. The next step in our research program is
+      to evaluate the feasibility and potential impact of tailoring therapies based on an
+      Avoidance-Endurance Model adapted from the chronic pain literature.
+
+      The proposed project aims to evaluate whether matching patients with concussion to tailored
+      therapies based on their behavioral profile (avoidance vs endurance) is feasible. A secondary
+      aim is to test our hypothesis that participants receiving the intervention matched to their
+      behavioral profile will have less post-treatment disability than mismatched participants.
+
+      In a pilot double-blind (patient, assessor) RCT with 1:1 allocation stratified by behavioral
+      profile (avoidance vs. endurance), 64 adults with persistent symptoms after concussion will
+      complete an initial evaluation, an activity diary over the following week, and then be
+      randomized to receive an interdisciplinary treatment package tailored to avoidance or
+      endurance profiles.
+
+      In brief, the program designed for avoidance will involve graded exposure to cognitively
+      demanding activity (e.g., mental math exercises), physical exertion (e.g., treadmill
+      jogging), and sensory stimulation (e.g., scenes with visual motion). The focus of the
+      endurance program will be pacing, i.e., shifting from symptom-contingent to time-contingent
+      behavior. A blinded assessor will administer outcome measures 12 weeks after enrollment.
+      Feasibility criteria include acceptability of randomization and treatment tolerability,
+      fidelity, and adherence.
+
+      Proposed changes to "profile matching" study due to COVID-19 pandemic (March 30, 2020)
+
+      Due to the COVID-19 pandemic, there will be no new enrollments as of March 30, 2020. The
+      study will continue to be advertised at concussion clinic group education sessions, which are
+      now being held virtually, but inform prospective participants that enrollment will be
+      postponed by at least one month. Interested patients will be added to a waitlist for
+      screening when the study resumes enrollment (once COVID-19 social distancing restrictions are
+      lifted and non-essential business/services are resumed).
+
+      For participants who have expressed interest in the study and/or have already been screened,
+      but have not completed their baseline assessment: Defer baseline assessment. Inform the
+      participant that the study will resume enrolling when COVID-19 restrictions have been lifted.
+      They will keep their place on a study waitlist. Patients who have been screened will need to
+      be re-screened when enrollment resumes.
+
+      For participants who have completed their baseline assessment or are already active in
+      treatment: Continue treatment per protocol. However, participants who have completed no more
+      than 25% of treatment (4 of 16 sessions) should be offered the option of a temporary stoppage
+      for at least one month (i.e., the target of completing all 16 sessions within 10 weeks can be
+      dropped). If the therapists believe that treatment progress is being significantly impeded by
+      COVID-19 restrictions, they may suggest a stoppage. The final decision about stoppage should
+      be made by the participant. If they prefer a stoppage, the therapists should contact the
+      participant in one month to decide whether to resume treatment or delay by another month. Any
+      stoppages should be communicated to the study coordinator.
+
+      For participants who completed treatment, or at least 75% of their treatment (12 of 16
+      sessions), by March 13, 2020 but did not complete their outcome assessment until after that
+      date: Complete the outcome assessment per protocol, but add one question immediately
+      following the WHODAS. Introduce the question as follows:
+
+      "These questions were about how much difficulty you had with various activities due to your
+      health conditions over the past month. In other words, I asked you focus on difficulties
+      caused by your concussion and/or other health conditions. However, the investigators
+      recognize that it might be hard to ignore circumstances other than your health conditions
+      when answering these questions." Ask: "To what extent were your answers to these questions
+      affected by the COVID-19 pandemic?" If they ask what "affected by the COVID-19 pandemic"
+      means, the research assistant may provide examples: "Such as all of sudden being laid off or
+      asked to work overtime, or not being able to go out because of social distancing policies."
+      Provide responses: 0=minimally or not at all, 1=somewhat, 2=quite a bit, 3=very much or
+      entirely.
+
+      Confirm their response by asking "So, were it not for the COVID-19 pandemic, would you have
+      answered these questions ___________ differently?" Please also record (free text) notes if
+      participants provide explanations or reasons. Note that this additional question is being
+      asked only for the primary study outcome (WHODAS). This question will be removed from the
+      protocol one month after COVID-19 social distancing restrictions are lifted and non-essential
+      business/services are resumed.
+
+      Changes to the statistical analysis plan:
+
+      Participants whose treatment progress and/or outcome assessment was likely substantially
+      impacted by COVID-19 will be excluded from the primary analysis. Participants who treatment
+      progress and/or outcome assessment was possibly mildly impacted, but not likely substantially
+      impacted, by COVID-19 will be included in the primary analysis. This will be operationalized
+      according to the Table 1 below.
+
+      Participants who are eligible (completed no more than 4 therapy sessions by March 30, 2020)
+      and choose to temporarily stop treatment during the COVID-19 disruption period will not be
+      counted in the numerator or denominator for calculating the retention rate as a feasibility
+      outcome.
+
+      Coding the COVID_status variable: 0
+
+      Operational definition:
+
+      0a. Participants who completed their outcome assessment by March 13, 2020. 0b. Participants
+      who completed at least 75% of their treatment (12 of 16 sessions) by March 13, 2020 and the
+      outcome assessment between March 14 and on April 30*, and answered 0 or 1 to the WHODAS COVID
+      question.
+
+      0c. Participants who completed no more than 25% of their treatment (0-4 therapy sessions) by
+      March 30, 2020 and agreed to temporarily stop treatment (before their 5th therapy session)
+      until after April 30, 2020*.
+
+      0d. Participants who enrolled after April 30, 2020*. 0e. Participants who meet criteria 1b or
+      1c (below) but both of their therapists agreed with the statement "therapy goals and progress
+      were not affected by COVID-19" and the participant answered 0 or 1 to the WHODAS COVID
+      question.
+
+      -Represents participants whose therapy progress and outcome assessment were minimally or not
+      affected by COVID-19 disruptions. It captures participants who did most or all of their
+      therapy outside of the COVID-19 disruption period, as well as the few who continued therapy
+      unimpeded by COVID-19 disruptions. These participants will be included the primary analysis.
+
+      Coding the COVID_status variable: 1
+
+      Operational definition:
+
+      1a. Participants who completed at least 75% of their treatment (12 of 16 sessions) by March
+      13, 2020 and their outcome assessment between March 14-April 30, 2020*, and answered 2 or 3
+      to the WHODAS COVID-19 question.
+
+      1b. Participants who completed more than 25% but less than 75% of their treatment (i.e., 5-11
+      sessions) by March 30, 2020, and do not meet criterion 0e.
+
+      1c. Participants who completed no more than 25% of their treatment (0-4) by March 30, 2020
+      and chose to continue treatment during the period in which COVID-19 social distancing
+      restrictions, and do not meet criterion 0e.
+
+      -Represents participants whose therapy progress and/or outcome assessment were likely
+      affected by COVID-19 disruptions. These participants will be excluded from primary analysis.
+
+      *Note: March 14, 2020 is the start of the COVID-19 disruption period in British Columbia,
+      when the first social distancing policies were introduced. April 30, 2020 is a placeholder
+      date for when COVID-19 social distancing restrictions are lifted and non-essential
+      business/services are resumed. The actual date will be updated.
+    
+  

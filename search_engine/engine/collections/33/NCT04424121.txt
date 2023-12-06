@@ -1,0 +1,57 @@
+
+    
+      Symptom-based pre-test probability (PTP) scores that estimate the likelihood of obstructive
+      CAD in stable chest pain have moderate accuracy. Appreciating and integrating the myriad risk
+      predictors in an individual patient is a challenge for the clinician. To date, efforts to
+      improve risk-stratification by using CCTA have largely relied upon luminal stenosis severity.
+      The emphasis placed on this variable over others is in alignment with prior studies using
+      invasive coronary angiography but ignores an array of other parameters important in the CAD
+      pathogenic process, including coronary artery geometry, coronary calcium content, plaque
+      composition, and plaque burden. As an increasing number of CCTA variables along with all
+      clinical and metabolomic variables affecting risk need to be considered, the complexity of
+      assessment increases, making it more difficult for a clinician to draw an overall conclusion
+      regarding risk in an individual patient. Furthermore, the potential influence of unexpected
+      interactions between several weaker predictors in an individual patient is often overlooked.
+      In this study, we are seeking to develop an Artificial Intelligence (AI)-based model,
+      utilizing clinical and metabolomic risk factors, serum biomarkers, CCTA imaging biomarkers,
+      coronary artery calcium score and ECG stress testing variables, to predict the presence and
+      the complexity of CAD. Moreover, we are trying to introduce an easy to use, cost-effective,
+      clinical decision supporting tool. In clinical practice, the utilization of such an approach
+      could improve risk stratification and help guide downstream personalized management. Briefly,
+      the research objectives of the study are: 1. predict the risk of obstructive coronary artery
+      disease, 2. quantify the burden and complexity of coronary atherosclerosis, 3. evaluate the
+      prognostic risk in individual patients with suspected CAD, 4. provide more accurate diagnosis
+      and risk stratification, 5. provide an easy to use, cost-effective clinical decision support
+      tool, 6. improve decisions in low to intermediate risk patients regarding the need for
+      further testing such as cardiac SPECT and invasive coronary angiography, as well as for the
+      need for preventive therapies and finally, compare three diagnostic strategies in patients
+      with suspected CAD in terms of efficacy and cost-effectiveness.
+
+      The "DATASET-PRECISE" is a prospective, multi-center, open-label, 3-arm parallel randomized
+      study. Following clinical consultation, participants will be approached and randomized 1:1:1
+      to receive standard care plus ECG-stress testing or standard care plus ECG-stress testing and
+      CACS or standard care plus ≥ 64-multidetector CCTA and CACS (Collaborating Organizations: 1st
+      Cardiology Department of AUTH, 1st Cardiology Department of NKUA, Lefkos Stavros-The Athens
+      Clinic & Affidea Kozani Cardiac Imaging Center). Randomization will be conducted using a
+      web-based system to ensure allocation concealment. The trial will enroll consecutive patients
+      with stable symptoms and suspected CAD admitted to study clinical sites over a period of 12
+      months. Patients with a previous history of CAD and/or prior revascularization will be
+      excluded. Subjects will undergo screening during the first day of examination, a 5ml blood
+      sample will be collected one minute prior examination for metabolomic analysis (collaboration
+      with the Lab. of Bioanalysis & Toxicology, School of Medicine, AUTH) and will be followed for
+      18 months afterwards. The overall recruitment period is expected to last 12 months. The
+      estimated total duration of the study from first patient screened to last patient last visit
+      is 30 months.
+
+      Based on previous studies for 80% power at a two-sided P value of 0.05, we will need to
+      recruit about 250 patients per group to detect a relative reduction in the combined MACE rate
+      (cardiac death, non-fatal myocardial infarction, revascularization or chest-pain
+      rehospitalization) of 10% in the CCTA arm. A sample size of N = 900 patients is a pragmatic
+      approach for such a first clinical study in the Greek population. Health service costs will
+      be assigned to the type and intensity of resource use, measured by the number of diagnostic
+      and therapeutic procedures or interventions, medications, hospital clinic attendances and
+      hospitalization episodes from randomization to 18 months of follow-up. Costs will be
+      attributed to the need for: 1. additional invasive or noninvasive imaging, 2. drug therapy,
+      3. coronary revascularization and 4. hospitalization for chest pain.
+    
+  

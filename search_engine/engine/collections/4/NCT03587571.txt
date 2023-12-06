@@ -1,0 +1,73 @@
+
+    
+      Ankle fractures are one of the most common fractures in adults resulting in hospital stays
+      and inability to work. Instable or dislocated ankle fractures are mostly treated by surgery.
+      Treatment of stable lateral ankle fractures is still discussed controversial. They can be
+      treated conservatively as well as by surgery.
+
+      Furthermore, optimal aftercare is part of on-going discussion in both groups. Goal of any
+      treatment is a fast, good functional outcome with pain free patients at low overall costs.
+      Long-term results in terms of osteoarthritis should be kept in mind.
+
+      Primary study objective is the comparison of functional result after conservative versus
+      operative treatment in stable lateral ankle fractures.
+
+      Secondary study objectives are the return to work, pain, and osteoarthritis. It is a
+      prospective, randomised (site stratified block randomisation) multi-center clinical trial.
+      The two treatment options are split in two study arms and compared to each other.
+
+      Measurements and procedures:
+
+      People with acute stable lateral malleolar fracture type Weber B are potential participants.
+      Patients are recruited at their first visit in the emergency department or on the first
+      contact with the orthopaedic department. They have to live in Switzerland in order to be able
+      to show up at the regular visits. They have to work in order to gain information concerning
+      the timeframe for return to work.
+
+      No vulnerable participants are included. The two treatment options (operative versus
+      conservative) are split in two study arms and compared to each other. Patients are randomly
+      allocated to one of the two study arms. A central block randomisation with 80 participants
+      per block is installed in REDCap. At time of participating in the study, REDCap is assigning
+      the patient to one of the study groups.
+
+      After enrolling in the study at the first visit a split cast is applied in both group.
+      Surgical intervention should be performed within 2 weeks after trauma. The exact time of
+      surgery is determined by the treating surgeon and documented. In the surgical group open
+      reduction and osteosynthesis by plating is done.
+
+      In the conservative group clinical and radiological re-evaluation is done within the first 2
+      weeks after trauma.
+
+      Both groups are further treated with an orthosis and allowed to bear weight as possible.
+
+      At time of accident, within the first two weeks, after 6 and 12 weeks, after 1, 3 and 5 years
+      the patient is examined clinically and radiologically. Olerud Molander Ankle Score (OMAS),
+      Foot Function Index (FFI), American Orthopaedic Foot and Ankle Society Score (AOFAS), Visual
+      Analogue Scale Foot and Ankle (VAS FA) and epidemiological and clinical findings are
+      gathered. Patients who do not reach the 12 weeks follow-up will be considered drop-outs and
+      must be replaced. In accordance to the intention to treat analysis (ITT-analysis) data will
+      be included in the statistical analysis. Multiple imputation technique will be used to
+      analyze missing data. Every effort will be undertaken to complete any trial participation.
+      Data are recorded by paper Case Report Forms (CRF). For each enrolled study participant a CRF
+      is maintained. The CRFs in this trial are implemented electronically using a dedicated
+      electronic data capturing (EDC) system (REDCap).
+
+      Number of Participants with Rationale:
+
+      According to the power analysis (power=0.8, one sided Wilcoxon rank sum test, alpha-error
+      0,05, SD=7, unimportant difference≤3) 69 patients are needed per study arm to state a
+      non-inferiority in both groups. A drop out or lost to follow up rate at approximately 10-15%
+      is expected. Therefore 80 patients are needed per study arm (overall 160 patients).
+
+      Statistical Considerations:
+
+      Descriptive statistics are used in order to analyse demographic data (age, gender, inability
+      to work, return to work, distribution of occupation, etc.) The main outcome is the OMAS after
+      12 weeks. The hypothesis is that there is no difference between conservative and surgically
+      treated stable lateral malleolar fractures regarding pain, function, and return to the
+      workplace.
+
+      Descriptive statistic with specification of the 95% confidence interval is used for the
+      secondary outcome parameters. If applicable a multivariance analysis is intended.
+    
+  

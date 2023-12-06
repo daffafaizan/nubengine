@@ -1,0 +1,17 @@
+
+    
+      The objective of the current human study is to verify the components of the Artificial
+      Pancreas Control Software during an outpatient study. This master controller software is
+      designed to be used in conjunction with two subcutaneous continuous glucose monitoring
+      systems to regulate blood glucose levels as well as two Omnipod pumps, one for administering
+      insulin and one for administering glucagon. The sensors communicate wirelessly with two
+      sensor receivers which will be interfaced with the APC by wireless USB connection. The
+      insulin and glucagon pumps will be controlled by the APC through a wireless USB connection.
+      The algorithm included in the APC is an automated version of the Adaptive Proportional
+      Derivative (APD) insulin and glucagon control algorithm, which was previously studied as an
+      investigational device. The Automated APD has been studied in vivo (in 13 experiments, each
+      28 hr in length, with automated adjustment of pumps) and no serious adverse effects were
+      noted. The APC will be tested in vivo during 28 hour experiments in an outpatient setting in
+      preparation for home testing.
+    
+  

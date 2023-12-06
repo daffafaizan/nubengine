@@ -1,0 +1,19 @@
+
+    
+      A computerized alert will be deployed through the electronic health record. The alert will
+      trigger when a provider orders platelet transfusion above a threshold supported by current
+      guidelines. The alert will provide information on current evidence and give the provider the
+      option to cancel the order or proceed. The alert will not be triggered in procedural areas
+      such as the operating room or as part of any emergency orders to prevent any delays to urgent
+      patient care.
+
+      The proposed project will evaluate this alert by randomizing its implementation by patient
+      chart. The investigators will observe the prevalence of this alert and its impact on ordering
+      practices for the next 3 months. For patient charts randomized not to receive the
+      intervention, the providers will not receive any alerts, but the analytics tool will record
+      if the alert would have been triggered and the pertinent clinical information. After a period
+      of three months, the investigators will review patient and provider information through
+      analytics tools, assessing differences in platelet usage between the patients whose charts
+      showed the alerts vs. those (control) patient charts not showing alerts.
+    
+  

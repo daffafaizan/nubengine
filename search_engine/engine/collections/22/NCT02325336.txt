@@ -1,0 +1,22 @@
+
+    
+      The ADIM system (Aide a la Distribution Informatisee des Medicaments) consists of 2 machines
+      with photographic reconnaissance and readers: one for preparation assistance that can be
+      placed at the pharmacy or in the clinical service and one to assist the administration by the
+      nurse in the clinical service.
+
+      The system ADIM preparation consists of a working area with 2 reader devices (a RFID reader
+      and a bar code reader) and a touch screen . It allows selection from the list of patients,
+      the patient's prescription for which the preparation will be made. It is linked to the drug
+      data base.
+
+      The system ADIM administration is composed of a laptop with touch screen, 2 readers (a RFID
+      reader and a barcode reader) , the elements needed to care and a work plan and drawers
+      containing unit dose drugs for patients for a specific nurse. The nurse scans her/his badge,
+      the patient's wristband and each dose administered and prepared by the pharmacy. If the dose
+      is not prepared by the pharmacy, the nurse takes the dose in the automat cabinet. The nurse
+      scans the drug's barcode or select on the touch screen the drug and the required dose of the
+      drug. In case of discrepancy with the prescription, there is a visual alert. However, the
+      alert can be override by the nurse if she/he gives a justification.
+    
+  
