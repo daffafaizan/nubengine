@@ -1,0 +1,22 @@
+
+    
+      Because of the increasing adoption of Electronic Medical Record (EMR) systems, the data
+      access of EMR is more and more convenient. However, there still have difficulties in
+      analyzing all the clinical data directly due to a large number of records using the narrative
+      format. In order to perform research smoothly, the process of information extraction is
+      required for translating data in clinical text into available format for analysis and
+      statistic. In medical research, the problem of missing data occurs frequently. It is
+      important to develop the method with better imputation performance in the stability and
+      accuracy. The purposes of this project are to provide the data integration and extraction
+      methods for handling the structured and unstructured data sources in more efficient ways, to
+      provide the validation scheme for facilitating the data reviewing of extracted results
+      produced by information extraction modules, to increase the quality of clinical data by
+      comparing the data from different data sources and correcting data errors and inconsistent,
+      to handle the clinical data with the properties of time series and incompleteness, to
+      increase accuracy of data analysis and increase quality of health care by improving the
+      completeness and correctness of clinical data, to provide flexibility of methods in the
+      platform. In the project, the disease topic is focused on the liver cancer patients' clinical
+      data and we hope the methods in the projects can be extended to handle other diseases by
+      replacing these knowledge models in the future.
+    
+  

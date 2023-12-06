@@ -1,0 +1,39 @@
+
+    
+      Osteoarthritis (OA) is a major cause of disability in the elderly, second only to
+      cardiovascular disease. The medical treatment of OA alleviates symptoms, but does not halt
+      disease progression. Exercise is an effective intervention but for patients who do not get
+      adequate relief from exercise and whose disease is not so severe as to warrant joint
+      replacement, there are a variety of intermediate steps including medication and joint
+      injection. There are nontrivial tradeoffs between these choices.
+
+      This project explores the choices made by patients who have significant osteoarthritis of the
+      knee using specialized computer software as a decision aid. Traditional decision aids present
+      information in ways that help patients make decisions that are consistent with their values.
+      However, this sort of decision aid usually provides no feedback for the clinician or
+      researcher about the patient's thoughts, preferences, or reasoning. We propose to use
+      conjoint analysis, an analytic tool for assessing preferences that has been used extensively
+      in marketing but has only recently been introduced into medical decision making.
+
+      In conjoint analysis, the consumer (in the marketing context) or subject (in the medical
+      research context) is presented with pairs of choices. The marketing researcher might ask, for
+      instance, if the consumer would rather have a $1000 laptop with 250 MB of RAM, or a $1200
+      laptop with 500 MB of RAM. The answer allows the accurate calculation of the subject's
+      utilities for both money and RAM. Extending the questions to other elements allows utilities
+      for the laptop's speed, weight, battery life, and screen size to be calculated and allows the
+      computer maker to optimize its product lines. Instead of one sweet spot where price and
+      features are at a happy medium, every laptop offered can be perceived by potential consumers
+      as offering reasonable value for the money.
+
+      Fraenkel and others have used conjoint analysis in the study of osteoarthritis and rheumatoid
+      arthritis. Conjoint analysis presents choice pairs to subjects; for instance, how would you
+      feel about a cream that offered an extremely low risk of complications with only moderate
+      relief in symptoms, versus a medication that offered a moderate risk of major complications
+      and better symptom relief? As a result of this process, utilities are generated
+      mathematically for each of the preferences.
+
+      Because we know relatively little about how patients feel about using conjoint analysis, and
+      about making tradeoffs among the factors that conjoint analysis permits us to assess, this
+      project will also utilize patient focus groups to explore these issues.
+    
+  

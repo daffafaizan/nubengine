@@ -1,0 +1,86 @@
+
+    
+      All experiments and data analysis will be performed in the Magnetic Resonance Imaging (MRI)
+      and Radiotherapy departments respectively, at the Queen Elizabeth Hospital.
+
+      Five volunteers will be recruited to this study. They will each be required to follow a
+      documented drinking protocol prior to each of three scan sessions. The drinking protocol is
+      specific to this study and will not be intended for use with patients. To address the primary
+      endpoint of the study (i.e. the precision of the ultrasound probe for measurement of bladder
+      volume), measurement of a wide range of bladder volumes is required. In order to address this
+      aim while making efficient use of the limited available MRI scanner time, the drinking
+      protocol has been designed such that the volunteer will begin each scan session with an empty
+      bladder and finish it with a full bladder. To this end, each volunteer will be required to
+      void their bladder upon arrival and then consume 500ml of water immediately prior to the
+      start of the scan session.
+
+      Each volunteer will then be positioned on the scanner couch according to the same protocol
+      used for patients and alternate MRI and ultrasound scans will then be acquired. Given the
+      time required for each scan it is anticipated that five MRI scans and fifteen ultrasound
+      scans (three scans at a time to reduce the noise on the results, i.e. ultimately giving five
+      ultrasound bladder volume measurements) will be acquired in each session. Each volunteer will
+      be asked to attend for three sessions over the course of a number of weeks so that the
+      repeatability of bladder filling patterns can be determined.
+
+      Data processing and analysis
+
+      The volume measurements from the ultrasound probe will be recorded and each of the MRI images
+      will be exported to the Radiotherapy department where the bladder volume will be determined.
+      The precise timings of all scan acquisitions will be recorded during the imaging session.
+      Bladder volumes measured by the ultrasound probe, which can be read instantly, will be
+      recorded during the session. To evaluate the primary endpoint, the precision and accuracy of
+      the ultrasound probe will be quantified by comparing the measured values to those expected
+      from the MRI volumes. Each volume measurement from the MRI scans will be checked by a second
+      observer to minimise any associated researcher error.
+
+      To evaluate the secondary endpoint, the imaging protocol described above will provide up to
+      15 MRI images for each volunteer that can be used to inform a comparison of the different
+      adaptive strategies. However, since patients are always asked to empty their bladder prior to
+      radiotherapy treatment (in order to minimise the volume that receives radiation), the
+      deliberately wide-ranging bladder volumes that will have been measured in this study will not
+      be representative of those that would be observed in clinical practice. To address this
+      problem, a suitable dataset that quantifies the distribution of bladder volumes encountered
+      in a typical patient cohort will be used (Christie dataset, permission obtained.Software will
+      be written to randomly assign a bladder volume to each day of each volunteer's 'treatment'.
+      The MRI scan from that volunteer that most closely corresponds to the selected volume will
+      then be assigned for that day's treatment. This will be repeated for the full 20 days of
+      treatment and the importance of each MRI scan can then be factored into the results analysis
+      accordingly.
+
+      The treatment planning system within the Radiotherapy department will then be used with the
+      MRI scans to simulate a range of different 'treatments' according to each of the different
+      adaptive bladder radiotherapy strategies to be compared. The different strategies are
+      summarised here:
+
+        -  Conventional strategy: This is the current standard treatment, in which the patient plan
+           is prepared based on an initial CT scan of the patient with an empty bladder and no
+           account is made of subsequent daily variations in bladder shape and volume.
+
+        -  Plan-of-the-day strategy: Based on an initial CT scan of the patient with an empty
+           bladder, three different treatment plans are created based on an assumption of how the
+           bladder might expand. These are intended to simulate empty, partially full and full
+           bladders. The patient is scanned before treatment each day and the most appropriate plan
+           is selected for treatment.
+
+        -  Dynamic strategy: Three different treatment plans are created based on a series of
+           initial CT scans of the patient with empty, partially full and full bladder. These would
+           be expected to directly represent the empty, partially full and full bladders for the
+           individual patient. The patient is scanned before treatment each day and the most
+           appropriate plan is selected for treatment.
+
+        -  Composite strategy: The patient is CT scanned with an empty bladder and treated
+           according to the Conventional strategy for the first 7 days of treatment with daily
+           imaging. The first 5 daily scans of the patient are used to generate plans based on
+           small, partially full and full bladder. From the 8th day of treatment the daily image is
+           used to select which of these plans is appropriate for treatment.
+
+      Data processing of the MRI scans will be carried out retrospectively. The MRI scans will be
+      anonymised and exported to the Radiotherapy department. The data will then be used to (i)
+      acquire bladder volume information to compare with that acquired from the ultrasound probe
+      and (ii) prepare and evaluate radiotherapy treatment simulations to investigate the benefits
+      of different adaptive bladder radiotherapy strategies
+
+      Comparison of different adaptive techniques will focus on how much radiation is received by
+      the bowel and the extent to which the radiation misses the disease on any day of treatment.
+    
+  

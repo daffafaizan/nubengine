@@ -1,0 +1,99 @@
+
+    
+      Study design and participants
+
+      A quasi-experimental pre-posttest control group design, with purposive sampling, was used to
+      recruit participants from the Endocrinology department of a hospital in southern Taiwan from
+      January to May of 2014. The inclusion criteria were (i) being at least 20 years old at the
+      time of recruitment (ii) having no cognitive impairment and severe complications, (iii) being
+      able to express opinions in either Mandarin or Taiwanese, and (iv) having a diagnosis of
+      diabetes. To ensure participants' anonymity, all questionnaires were marked with an
+      encryption code to facilitate data analysis, but with no personal identifiers.
+
+      Sample size calculation
+
+      Sample size calculation for this analysis of repeated measures to detect an effect size of
+      0.2 at 80% power and a 0.05 significance level indicated that a sample size of 68 patients is
+      needed (according to G- POWER 3.1 analytical software, Franz Faul, Universitat Kiel,
+      Germany). A sample of at least 89 participants for both groups combined was required on the
+      basis of these parameters, allowing for a 30% attrition rate.
+
+      Intervention
+
+      Because continued participation was essential for this study, the participants were divided
+      into the experiment or control group in accordance with the personal willingness. The control
+      group received routine health education lasting for about 30 minutes per medical visit, which
+      consisted of consultation about disease symptoms, related treatments, and self-care skills.
+      They would receive health education instruction leaflets for reference purposes if necessary.
+
+      The experiment group received seven Diabetes Conversation Map Program (DCMP) -based group
+      education sessions (10-12 participants, 1.5 hours each) for seven consecutive weeks in
+      addition to routine health education at a private room in the outpatient unit. One registered
+      nurse who received DCMP facilitator training, from the Taiwanese Association of Diabetic
+      Educators, served as the class facilitator. DCMP sessions were conducted using seven colored
+      "maps" covering different topics, including "walk with diabetes," "what is diabetes?", "a
+      healthy diet and exercise," "walk with insulin," "diabetes complications and related risk
+      factors," "foot care for diabetes patients," and "a type 1 diabetes patient in the home."
+      Each map, a laminated 3-by-5-foot table-top visual with colorful drawings as metaphors of
+      situations familiar to DM patients, was placed on a table with participants gathered around
+      it. This procedure served to create mutual imagery to be shared with participants. In
+      addition to using these colored maps, the facilitator further offered participants
+      self-designed conversation cards and asked them to share individual glycemic control
+      experiences based on the questions shown on the cards.
+
+      Outcome measures
+
+      The primary outcomes comprised the weekly self-monitoring of blood glucose (SMBG) times and
+      some biochemical parameters containing BMI, HbA1c and fasting plasma glucose (FPG). In
+      addition, the depressive symptoms as well as the level of diabetes health literacy were also
+      measured, which were determined by the Taiwanese Depression Questionnaire (TDQ) and a
+      self-administered questionnaire regarding diabetes health literacy.
+
+      The TDQ was developed according to the criteria specified by the Diagnostic and Statistical
+      Manual of Mental Disorders (Third Edition) and consists of 18 self-reported items. Its total
+      score ranged from 0 to 54, with higher scores indicating more severe depressive symptoms.
+
+      On the other hand, as to the diabetes health literacy, it was measured by a self-developed
+      questionnaire. This scale contained 20 items and was scored using a 5-point Likert scale,
+      with higher total scores indicating more positive diabetic health literacy.
+
+      Covariates Additional items addressing demographic and disease characteristics were developed
+      based on clinical experience and literature review, and were collected at study entry via
+      patient interviews and medical records. Demographic data included sex, age, marital status,
+      education level, religion, household status, monthly income, and certain lifestyle factors,
+      such as smoking, exercise habits, and presence of sleep disturbances. Smoking status was
+      recorded as "non-smoker" or "current or ex-smoker." Those who exercised regularly (i.e.,
+      weekly) were classified as having "exercise habits." Sleep disturbances were defined as
+      waking up at night more than twice without external factors during the week before the
+      interview. Disease characteristics included the presence of chronic disease (i.e., stroke,
+      hypertension, heart disease, renal disease, or cancer), medication regimen, and duration of
+      diabetes.
+
+      Data collection procedure
+
+      The study protocol was approved by the Ethics Committee of Dalin Tzuchi Hospital (No.
+      B10002009) prior to the recruitment of participants. Researchers explained the purpose of
+      study and its procedure to all participants. Signed informed consent was obtained after they
+      understood and agreed to participate in this study. Thereafter, investigators applied an
+      observer-blind approach for data collection. A trained interviewer, who was not familiar with
+      the participants, was assigned to collect the participants' information on demographic and
+      disease characteristics. All data were obtained at three time points: before DCMP (T0), three
+      days after DCMP (T1), and three months after DCMP (T2). To reduce the dropout rate,
+      researchers asked participants to return the hospital for the completion of assessments via
+      phone reminders. However, participants were still given the option to withdraw from the study
+      at any time without any penalty.
+
+      Statistical analysis
+
+      Descriptive and inferential statistical analyses were conducted in accordance with the study
+      aims and the nature of the variables. Descriptive parameters, including mean, standard
+      deviation (SD), and percentage, were used to describe the distributions of demographic and
+      disease data. Differences between the two groups were compared initially using t-test and χ2
+      test as appropriate. For inferential analysis, investigators used generalized estimating
+      equation (GEE) procedure with identity link function with normal distribution to assess the
+      long-term effects of DCMP, while taking into account within-subject correlations between
+      measurements over time and the influence of potential confounding covariates. All analyses
+      were conducted using SAS statistical software, Version 9.3. A p value of < .05 was considered
+      statistically significant.
+    
+  

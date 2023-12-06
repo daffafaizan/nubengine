@@ -1,0 +1,116 @@
+
+    
+      Adolescents (ages 13 to 18) with TTH will be randomly assigned to either a Hatha yoga
+      intervention (n = 20) or a wait-list control condition (n = 20). The yoga intervention will
+      consist of 8 weekly classes lasting one hour each taught by an experienced yoga teacher. Each
+      class will have a maximum of 10 participants. A baseline assessment including an experimental
+      pain protocol, questionnaires, and hair samples (to determine cortisol concentrations in the
+      past month) will be completed prior to the intervention. Biweekly questionnaires will be
+      completed by both intervention and wait-list groups during the 8-week intervention period.
+      The post-intervention assessment will include the experimental pain protocol, questionnaires,
+      and hair samples (to determine cortisol concentrations in the past month). The wait-list
+      control group will subsequently receive the yoga intervention and complete post-intervention
+      and follow-up assessments (i.e., the wait-list group will complete one more experimental pain
+      protocol and will provide one more hair sample than the intervention group); these data will
+      then be merged with that of the yoga group to examine pre- and post-intervention effects.
+      Both intervention and wait-list groups will complete questionnaires 3 months following
+      completion of the yoga protocol.
+
+      Specific Aim 1: To determine the safety, feasibility, and acceptability of an 8-week Hatha
+      Yoga Protocol (HYP) in adolescents (ages 13 to 18) with tension-type headache (CTTH).
+      Hypothesis: At least 80% of adolescents will complete the HYP. Attrition rates will be
+      compared between HYP and control groups to determine whether results may be biased given
+      different durations of the study protocols between the two groups and interval between
+      recruitment and intervention (i.e., control group will be in the protocol for two additional
+      months and the intervention will be delayed by 8 weeks).
+
+      Specific Aim 2: To evaluate changes in primary outcomes (frequency and intensity of
+      headaches, pain-related functional disability, health-related quality of life, medication
+      use) from baseline to post-intervention in the HYP and usual care wait-list controls.
+      Hypothesis: Participants in the HYP group will demonstrate greater reduction in headache
+      frequency and intensity, decreases in pain-related functional disability, improvement in
+      health-related quality of life, and reduction in medication use compared to wait-list
+      controls from baseline to post-intervention. Secondary analyses will examine changes from
+      pre- to post-intervention for the entire sample once the waitlist group has completed the
+      HYP; in addition, sustained intervention effects will be determined by examining changes from
+      post-intervention to 3-month follow-up for the entire sample.
+
+      Specific Aim 3: To assess changes in potential mediators of clinical outcomes following the
+      HYP, including responses to experimental pain [conditioned pain modulation (CPM), temporal
+      summation to second pain (TSSP)], alterations in stress response systems [hair cortisol
+      concentrations, self-reported stress levels, stress hormone responses to experimental pain
+      (cortisol, alpha-amylase, DHEA), heart rate variability responses to experimental pain] and
+      pain-related cognitions (catastrophizing, self-efficacy, acceptance). Hypothesis:
+      Participants in the HYP group will show increased CPM, decreased TSSP, reduced hair cortisol
+      concentrations and self-reported stress levels, lower cortisol and alpha-amylase responses to
+      experimental pain, higher DHEA responses to experimental pain, lower heart rate variability
+      prior to experimental pain, reduced pain catastrophizing, increased pain self-efficacy, and
+      increased pain acceptance compared to wait-list controls at post-intervention.
+
+      Although yoga has shown promise as a complementary health approach for chronic pain in
+      adults, few studies have examined the potential efficacy of yoga for adolescents with chronic
+      pain. Anticipated findings from the proposed study will help to determine whether - and how -
+      an 8-week yoga intervention can improve pain-related outcomes in adolescents with TTH; these
+      findings will be critical for refinement of the HYP for youth with TTH and for the design and
+      implementation of a larger-scale, randomized controlled trial with an active control
+      condition.
+
+      Background and Significance
+
+      TTH is common in youth and associated with significant functional disability. Complementary
+      health approaches such as Hatha yoga, which emphasize physical postures, breathing exercises,
+      and meditation, have been shown to reduce chronic pain-related disability. The only known
+      pilot study of yoga for youth with headache showed moderate but non-significant improvement
+      in daily functioning from baseline to post-intervention (Hainsworth et al., 2014). A
+      randomized controlled trial of yoga for headache pain in adults found that the yoga group
+      exhibited reduced migraine frequency and intensity, lower pain severity, and less medication
+      use for headache compared to the control group after 12 weeks. Potential mechanisms
+      underlying improvements in pain outcomes following yoga interventions include physiological,
+      behavioral and psychological changes. Adults with TTH are characterized by impaired CPM and
+      enhanced TSSP. Moreover, increased pain sensitivity in adults with TTH appears to be
+      exacerbated by chronic stress, sustained physiological arousal, and negative cognitions. The
+      proposed study addresses a critical gap in the literature by investigating the safety,
+      feasibility, and efficacy of Hatha yoga as a complementary treatment approach for youth with
+      TTH.
+
+      Preliminary Studies
+
+      Members of this research team have previously employed a similar experimental pain protocol
+      to demonstrate elevated TSSP in female adolescents with functional abdominal pain, elevated
+      TSSP in adolescents with both functional abdominal pain and a history of physical or sexual
+      assault/abuse, and racial differences in both TSSP and CPM in healthy youth ages 10 to 17.
+
+      Sample Size Justification and Statistical Analysis Plan
+
+      Sample size estimation: Prior yoga interventions in youth with chronic pain suggest
+      medium-to-large effect sizes (Cohen's d comparing mean changes from baseline to
+      post-intervention) for indices of changes in pain-related functional disability. For power
+      calculations, G*Power 3.1.9.2 was used to estimate the sample size required for estimated
+      effect sizes ranging from .50 to .80. Assuming a Type I error rate of α = .05 and statistical
+      power of 0.80, results indicated a range from 16 to 34 total participants. Assuming a 20%
+      attrition rate and adopting the more conservative anticipated total n = 34, the investigators
+      estimate that 40 total subjects will need to be recruited (20 per group).
+
+      Data analytic strategy: Group differences in primary outcomes (Specific Aim 2) will be tested
+      using analysis of covariance, controlling for baseline scores on these outcome variables. An
+      intent-to-treat analysis of primary outcome measures (including all enrolled participants and
+      utilizing the last observation carry forward approach) will be conducted to confirm findings
+      in participants who complete the HYP.
+
+      A series of linear regressions will test the direct effects of the intervention on outcome
+      variables and the indirect effects of mediators on the relationship between mediator and
+      outcome (Specific Aim 3). Mediation analyses will be run using the Preacher and Hayes (2008)
+      SPSS Macro for Multiple Mediation. In order for statistical mediation to occur, two criteria
+      are necessary: 1) there is an effect to be mediated (i.e., a significant association between
+      intervention and the outcome), and 2) the indirect effect of intervention on outcome via
+      mediator was significant. The indirect effect will be considered significant at the p < .05
+      level if the corresponding bootstrapped confidence interval does not contain zero.
+      Bootstrapping procedures will test each mediation model by generating a 95% confidence
+      interval (bias corrected) around the indirect effect test statistic in a series of 1000
+      Bootstrap samples repeatedly drawn from the full sample.
+
+      Potential limitations. The pilot study sample size is modest but will yield critical data
+      regarding effect sizes for primary pain-related outcome variables as well as potential
+      mediators of treatment effects.
+    
+  

@@ -1,0 +1,55 @@
+
+    
+      Snake-bite envenoming (SBE) was re-categorized as a priority neglected tropical disease by
+      the World Health Organization (WHO) in 2017. Antivenom is considered to be one of the most
+      cost effective health interventions. Despite this, due to challenges in manufacture, reliance
+      on cold chain for transport and storage, and geographically remote location of most envenomed
+      patients, many patients do not receive the antivenom they require in a timely manner. The WHO
+      strategy for a globally coordinated response to SBE highlighted the need to prioritize
+      clinical research into the safety and effectiveness of antivenoms.
+
+      Myanmar is a country with a high incidence of snake-bite with an estimated 25,000 snake-bites
+      and 1250 deaths per year. Daboia siamensis (Eastern Russell's viper) is responsible for 85%
+      of snake-bites presenting to hospitals in Myanmar. Given their natural habitat and abundance
+      of prey within the paddy fields, envenoming predominantly occurs in rural areas affecting
+      agricultural workers.
+
+      Following a recent 4-year collaborative initiative between institutions in Myanmar and
+      Australia entitled the Myanmar Snakebite project, antivenom production facilities have
+      improved resulting in the production of a new monospecific lyophilized F(ab)'2 antivenom
+      (Viper antivenom BPI). The new lyophilized antivenom has replaced the former liquid antivenom
+      and has been distributed countrywide. The current dosing strategy is based on unpublished
+      results of pre-clinical testing and stratified into two doses according to absence or
+      presence of clinical features of severity at presentation (80 mL and 160 mL, respectively).
+      No clinical trial data or post marketing data has been published to support the efficacy or
+      toxicity of these recommended doses. This lack of robust clinical evidence to support dosing
+      of antivenom is mirrored across the world with few well conducted trials to determine the
+      safety and efficacy of antivenoms.
+
+      This paper presents a novel phase 2, model based, Bayesian adaptive design to determine
+      optimal antivenom dosing for Russell's viper envenoming. In this context there are two
+      concurrent considerations for dose optimality. Firstly, the efficacy of the dose, defined in
+      this context as restoration of blood coagulation within 6 hours; secondly, the dose-related
+      toxicity, defined as the occurrence of an anaphylactic reaction within 180 minutes post
+      antivenom administration. The model based design estimates dose-response curves for both the
+      efficacy outcome and the toxicity outcome, and thus derives a user-defined 'optimal dose'.
+      Patients will be randomized at a ratio of 4:1 to either adaptive dose or standard of care
+      respectively.
+
+      The study team will perform a number of nested studies within the dose finding trial:
+
+        -  An assessment of the pharmacokinetic properties of Daboia siamensis venom pre and post
+           antivenom administration.
+
+        -  A parallel observation study of severely envenomed patients who will be administered
+           160mL (current standard of care).
+
+        -  Sensitivity and specificity analysis of the 20WBCT and point of care International
+           Normalized Ratio at detecting coagulopathy.
+
+        -  A prospective follow up of envenomed patients to define the envenoming sequelae of
+           Daboia siamensis envenoming.
+
+        -  An assessment of ferryl-haem derivatives in urine of envenomed patients.
+    
+  

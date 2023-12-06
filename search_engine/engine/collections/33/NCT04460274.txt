@@ -1,0 +1,16 @@
+
+    
+      Coronavirus Disease 19 (Covid-19) is an infectious disease initially defined in December 2019
+      before becoming pandemic. Respiratory disease is the main form of disease causing acute
+      respiratory distress as the main cause of death.
+
+      Increased number of cases worldwide had put an enormous load on public health resulting
+      lockdowns, quarantines and curfews. Predicting number of cases is hard as the increment of
+      cases between communities differ.
+
+      Time series had been used in different fields of science to predict, such as signal
+      processing, mathematical finance, weather prediction. In medicine, time series analysis were
+      used in number of admitted patients to hospitals. Aim of this study is to predict the total
+      number of Covid-19 cases worldwide using time series anaylsis.
+    
+  

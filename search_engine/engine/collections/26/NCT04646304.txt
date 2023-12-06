@@ -1,0 +1,62 @@
+
+    
+      This will be a two-phase study that will take 2 years to complete.
+
+      Phase 1 will recruit staff surgeons, surgical fellows, and residents from the departments of
+      Obstetrics and Gynecology, Urology, General Surgery, and Thoracics at The University of
+      Ottawa and The Ottawa Hospital to complete a set of FLS tasks. Logistic regressions will be
+      used to identify significant factors that differentiate surgical experience level (junior
+      residents, senior residents, fellows, and staff). Classification of residents will depend on
+      their current cohort in the CDB or traditional time-based system: A target interval will be
+      computed for each significant factor based on the staff surgeons' average performance. This
+      target interval will be used to assess resident performance in Phase 2.
+
+      Phase 2 will recruit Transition to Discipline residents from each department to complete 3
+      sets of FLS tasks. Participants will be randomized into an "objective feedback" group or a
+      "no feedback" group. Participants randomized to the objective feedback group will receive a
+      report that compares their performance in Set 1 to that of the staff surgeons' using the
+      target interval as a reference. Participants receiving objective feedback will then complete
+      Sets 2 and 3 knowing what factors to improve upon. Participants receiving no feedback will
+      complete all sets with no intervention. Phase 2 data collection will start once Phase 1 is
+      completed.
+
+      Trajectories of retro-reflective markers will be recorded using a 6-camera motion analysis
+      system (40MXF-40 Vicon cameras, Oxford Metrics, Oxford, UK) sampling at 100 Hz with
+      supporting Nexus software (v2, Oxford Metrics, Oxford, UK). Retro-reflective markers will be
+      placed on various anatomical landmarks on the participant's body based on a cluster marker
+      set. Laparoscopic surgical tools (grasper, scissors, or dissector) will have a marker triad
+      fixed to the upper shaft while a laparoscopic trainer (FLS Trainer System, Limbs & Things,
+      Savannah GA) will have markers placed at its corners. Using Vicon Nexus software, raw marker
+      trajectories will be filtered and used to compute local coordinate systems of the upper body,
+      joint centers, and subsequent joint angles while filtered marker trajectories on the
+      laparoscopic tools will compute the tool tip's motion and orientation relative to the box
+      trainer's workspace. Inertial measurement units (IMUs) will also be used to capture motion of
+      the upper body and compare to motion capture outcomes (Secondary Objective). Wireless IMUs
+      will be placed along the long axis of the forearm, upper arm, upper spine and lower spine.
+
+      Surface electromyography (EMG) signals of the biceps, triceps, anterior deltoid, upper
+      trapezius, wrist extensors and flexors will also be recorded using a wireless EMG system
+      (Trigno, Delsys Inc., Natick MA) and recorded using Nexus. Sensors will be placed over the
+      muscle bellies following SENIAM guidelines [34] and signals will be sample data 100Hz with a
+      20-450Hz bandpass. All experimental EMG signals will be appropriately conditioned and
+      normalized to maximum EMG value elicited during maximum voluntary isometric contraction
+      (MVIC) exercises. Three repetitions of each MVIC exercise will be performed before the
+      experimental task and will include elbow flexion and extension, arm abduction, arm flexion,
+      and wrist flexion and extension. A minimum of 30 seconds rest will be given between each
+      exercise to mitigate effects of fatigue.
+
+      Motion and EMG data will be exported to a custom MatLab (2019, Mathworks, Natick, MA)
+      application to compute objective measures of laparoscopic performance: instrument tip
+      pathlength, average (±1 stdev) excursion velocity, average (±1 stdev) excursion error,
+      average (±1 stdev) upper body kinematics (shoulder, elbow, wrist, neck and trunk) in all
+      three planes of motion, and integrated EMG.
+
+      Video of the surgical tasks will be recorded and synced to marker trajectory data using an
+      external trigger. Videos will be de-identified, and the last repetition assessed by three
+      staff surgeons. First, the raters will categorize each video as Transition to Discipline
+      resident, Foundation of Discipline resident, Core Discipline resident, Transition to Practice
+      resident, fellow, or staff surgeon based other their general perception of the performer's
+      experience level. The raters will then score each video following the FLS scoring system
+      (based on timing and penalty scores), and the OSATS evaluation grid.
+    
+  

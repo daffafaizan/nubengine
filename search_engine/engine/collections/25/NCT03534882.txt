@@ -1,0 +1,53 @@
+
+    
+      Quality assurance plan: Paper copies of all registry data is securely stored at the site of
+      data collection. Registry data is first de-identified and then stored in an encrypted Master
+      data excel sheet that only research staff have access to.
+
+      Data Checks and Source Data Verification: Data is monitored closely and re-assessed
+      frequently by multiple members of the research team to ensure the accuracy of the Master data
+      excel sheet. Registry data will be compared to paper registry copies and patient medical
+      records to ensure accuracy and completeness.
+
+      Standard Operating Procedures:
+
+      All patients currently being seen by Dr. Hutnik (~6000) will have their charts reviewed.
+      Personal information will be recorded to allow research staff to contact eligible
+      participants. Clinical information recorded includes: diagnosis, intraocular pressure (IOP)
+      at baseline, IOP at subsequent follow up visits with medication use, medication history,
+      surgical and laser intervention history, visual acuity at baseline and follow-up visits, and
+      visual field mean deviation. Patients fulfilling the inclusion and having none of the
+      exclusion criteria are contacted via telephone by the research staff to invite them to
+      participate in the trial. If they are interested, participants are met with in-person and
+      provided with an information package including a form of consent. Research staff provide
+      detailed description of this study's protocol, risks, and benefits for the patient prior to
+      obtaining informed consent. Patients are also provided with the research teams' contact
+      information should they have any questions or concerns. As part of the information package,
+      participants receive notice that should they experience worrisome signs and symptoms, they
+      should contact their ophthalmologist's office immediately. Following enrolment, participants
+      are given an enveloped that randomizes them two either the control group (continues their eye
+      drop medications) or experimental group (temporarily discontinues eye drop medications). In
+      order to eliminate measurement bias, this allocation is concealed to research staff until
+      completion of the trial. Participants' IOP is measured by Goldmann applanation tonometry at
+      day of allocation (Day 0) and subsequently 7, 21, and 42 days after. In addition, should
+      their IOP increase back to baseline levels prior to their final day of pressure measurement,
+      participants are asked to restart their eye drops and are closely followed to ensure their
+      IOPs return back to their pre-study values. Paper copies of participant signed consent and
+      information form are stored in the research database. Once the assessment is complete, all
+      participants will be debriefed on the nature of the study and potential findings. At the end
+      of trial, participants will resume standard therapy according to Canadian Ophthalmology
+      Society (COS) 2009 Glaucoma Guidelines.
+
+      Power analysis using a General Linear Multivariate Model for Power and Sample Size (GLIMMPSE)
+      found that a total patient N value of 87 (154 eyes) was sufficient power for our study
+
+      Missing Data: All missing data is documented in the Master data record and will be reported.
+      Participants with missing baseline (pre-treatment) IOP values are excluded from the study.
+      Within-study missing IOP values are accounted for in statistical analysis.
+
+      Statistical analysis: Statistical analysis is performed on R. Data is analyzed using a linear
+      mixed effects model fit by restricted maximum likelihood (REML) t-tests with Satterthwaite
+      approximations to compare mean intraocular pressure between control and washout groups at day
+      0, 7, 21, and 42.
+    
+  

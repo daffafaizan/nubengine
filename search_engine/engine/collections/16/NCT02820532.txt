@@ -1,0 +1,47 @@
+
+    
+      Radiation therapy is one of the main options in cancer treatments, alongside surgery and
+      chemotherapy. Its efficacy largely depends on the absorbed radiation dose of the tumor cells.
+      However, the irradiation of healthy cells results in negative side effects for the patient.
+      Therefore, a big challenge in radiation therapy is to irradiate the tumor with sufficient
+      dose, while keeping the irradiation of the healthy tissue reasonably low. Currently, the
+      radiation treatment is planned by defining a volume enclosing the tumor, but with added
+      margins to account for any uncertainties. These margins ensure that the tumor receives the
+      prescribed dose.
+
+      Tumor motion contributes to the uncertainties. The tumor motions of tumors in different sites
+      have different causes, but for this project the focus is on thoracic, liver, and adrenal
+      gland tumors. The motion of these tumor types is mainly caused by the patient's respiration.
+      So, the tumor motion pattern depends on the respiration pattern of the patient. The motion of
+      lung tumors has been reported to have a peak-to-peak amplitude of up to 24 mm. Currently, the
+      tumor motion is handled by enlarging the margins, such that the tumor is always inside the
+      defined volume. But enlarging the margins also results in an increase of irradiated volume
+      consisting of healthy tissue.
+
+      Tumor motion mitigation is concerned with reducing the margin increase caused by the motion
+      of the tumor. There are several approaches to tumor motion mitigation and the one under
+      consideration in this project is the tumor tracking approach, the technically most difficult
+      approach. In tumor tracking the tumor motion is continuously compensated by moving the
+      radiation source modifying the radiation beam, or moving the patient, which is denoted as
+      couch tracking.
+
+      In couch tracking, the patient is moved by the robotic treatment couch. Such robotic
+      treatment couches are in use with conventional, widely available C-arm linear accelerators,
+      and, therefore, are readily available for implementing couch tracking. The patient is placed
+      on a couch which moves in the opposite direction of the tumor motion. The goal is to minimize
+      the patient's tumor motion relative to the radiation, which in turn allows the margins to be
+      decreased. The margin decrease might ultimately lead to a reduction of side effects, e.g.
+      pneumonitis.
+
+      The motion of the couch depends on the motion of the tumor, which in turn depends on the
+      respiration of the patient. However, the couch motion may influence the patient's well being
+      or the patient's respiration. So the question arises: Does the motion of the couch have an
+      influence on the respiration behavior? And also: Does the motion of the couch have an
+      influence on the well being (motion sickness)? And are the well-being and the respiration
+      behavior connected? If the respiration behavior does depend on the couch motion, it may be
+      necessary to control the respiration behavior. Additionally, in the study, the investigators
+      will check an assumption in couch tracking, namely that the patient's body is rigidly fixed
+      to the couch. If this assumption does not hold, the motion of the patient's body relative to
+      the couch will have to be taken into account in couch tracking.
+    
+  

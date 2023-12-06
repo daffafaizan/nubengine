@@ -1,0 +1,47 @@
+
+    
+      -  Eligible patients will receive both external beam radiotherapy ( EBRT) and concomitant
+           chemotherapy and brachytherapy ( BT). Summation of EBRT and BT doses will be performed
+           by calculation of a biologically equivalent dose in 2 Gy per fraction (EQD2) using the
+           linear-quadratic model with α/β = 10 Gy for tumor effects and α/β = 3 Gy for late normal
+           tissue damage. The repair half time is assumed to be 1.5 hrs.
+
+        -  EBRT will be delivered as IMRT/VMAT with daily cone beam Computed Tomography ( CT )
+           Image Guided Radiotherapy (IGRT) in 25 fractions with 1.8 Gy to a total dose of 45 Gy
+           given in 5 weeks.
+
+        -  3D image-based cervical cancer brachytherapy will be delivered as 4 sessions x 7 Gy High
+           Dose Rate (HDR) brachytherapy , with ''Pre-radiotherapy Magnetic Resonance Imaging ( MRI
+           ) examination'' to provide sufficient information about tumor extent in three dimension
+           (3D) at the time of diagnosis and ''BT MRI examination'' is alse needed to provide
+           sufficient information about tumor/target extent at the time of brachytherapy with the
+           applicators in place .
+
+      For EBRT ; Using the cumulative Dose-volume histograms ( DVH ) to ensure that minimum dose to
+      the target 95%, maximum dose limited to 107%, also, the dose to the organ at risk will be
+      kept to the minimum according to the Radiation therapy oncology group ( RTOG )
+      recommendation.
+
+      For BT ; Dose volume adaptation will be performed with the aim of dose escalation in large
+      tumors (prescribed D90 > 85 Gy , Dose volume constraints (D2cc) were 70-75 Gy for rectum and
+      sigmoid and 90 Gy for bladder.
+
+      Differential DVH, the dose standard deviations will be used to asses dose homogeneity.
+
+      The conformity index and dose gradient measure will be calculated . Collection of data : Data
+      will be collected by doctor himself in Excel sheet . Statistics : numerical Data will be
+      reported with mean , median , standard deviation & variance and represented with suitable
+      graph like histograms and frequency polygon . Discrete data will be analyzed with suitable
+      tests like Chi-square test & fisher's exact test and will represented with suitable graph
+      like pie graph .
+
+      Inferential statistics will be reported with 95 confidence interval & A P-value <0.05 will be
+      considered as statistically significant .
+
+      Survival analysis will be analyzed using the actuarial Kaplan Meier method , time will be
+      calculated with date of diagnosis .
+
+      Data from patients who had not reached the endpoint at the time of last follow -up will be
+      treated as censored observations
+    
+  

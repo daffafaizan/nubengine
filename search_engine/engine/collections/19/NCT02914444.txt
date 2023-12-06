@@ -1,0 +1,29 @@
+
+    
+      Capture and storage of vital signs data are performed with our own developed data gathering
+      program, Vital Recorder. The Vital Recorder program is a Windows® software and acquires
+      time-synced patient monitoring data from the serial ports of multiple anesthesia devices like
+      patient monitor, anesthesia machine, bispectral index monitor, cardiac output monitor,
+      infusion pumps, etc. The retrieved data are stored on the local or network data storage.
+
+      Variables captured by the Vital Recorder program are as follows: heart rate, blood pressure,
+      saturation, temperature, respiratory parameters, bispectral index, infusion history of
+      target-controlled infusion pump, cardiac output, cerebral oxygen concentration, etc.
+
+      Time interval of the data is 1-2 sec for numeric variables. Resolution of waves (analog data
+      such as ECG, plethysmogram, and pressure waves) is usually 500 Hz. Captured data of a patient
+      is stored as a *.vital file.
+
+      A laptop is connected to 4-6 anesthesia devices at the same time via serial connections.
+      Patients enrolled (all of the surgical patients who undergo surgery at our hospital) receive
+      routine anesthesia and surgery. Due to the program's automatic function, the program
+      identifies the start and end of a case then automatically records the vital signs of every
+      patient 24/365, once the program starts.
+
+      Patient information is additionally gathered from the electronic medical recording system
+      (EMR). Data from the EMR are as follows: sex, age, weight, height, diagnosis, operation,
+      anesthesia and surgery times, premedical history, perioperative lab data and medication.
+
+      List of vital files and patient information is integrated in an encrypted spreadsheet file.
+    
+  

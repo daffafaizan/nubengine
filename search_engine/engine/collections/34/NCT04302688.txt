@@ -1,0 +1,12 @@
+
+    
+      1. First we collect the medical records, according to the time sequence, the patients were
+           divided into two groups, one is the model group, and the other is the validate group.
+
+        2. Responsible for the risk factor of regression equation according to the model. The
+           patients were divided into three groups according to their total score of risk
+           responsibility.
+
+        3. Compared with SEPSIS and CURB-65 grading system with the grading system we established.
+    
+  

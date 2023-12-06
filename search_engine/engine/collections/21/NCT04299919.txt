@@ -1,0 +1,25 @@
+
+    
+      The prognosis prediction of early stage hepatocellular carcinoma (HCC) after minimally
+      invasive treatment involves clinical decision of treatment and follow-up. Magnetic resonance
+      imaging (MRI) has become the main approach for monitoring and following up of HCC, however
+      it's difficult to predict HCC prognosis before surgery. We found the following limitations
+      among previous researches: multimodal MRI using different sequences shows uncertain
+      boundaries of HCC, which makes precise segmentation more difficult, and also leads to an
+      additional workload for extracting high throughput radiomics features, which are limited in
+      quantity and repeatability. Regarding to prognosis aspect, the MRI images, clinical data, and
+      follow up information have not been fully exploited yet. In addition, the prognosis result
+      obtained by radiomics workflow is difficult to be explained and applied to clinical
+      application. Therefore, we conduct a study to solve the problems mentioned above: (1) To
+      explore an effective deep learning neural network method and a pre-training model for
+      improving tumor segmentation accuracy. (2) To establish a method for extracting
+      high-throughput multi-dimensional and multimodal MRI radiomics features related to HCC
+      prognosis. (3) To explore a correlation between "multimodal MRI based pathological features
+      of early stage HCC" and the results of "multimodal MRI based prognosis depth network of early
+      stage HCC after minimally invasive treatment". Based on above approaches, we aim to establish
+      "multimodal MRI based prognosis model of early stage HCC after minimally invasive treatment"
+      in different clinical application scenarios guiding to clinical decision-making. Moreover, we
+      also aim to explore the correlation between MRI radiomics features and pathology, which
+      provides theoretical foundations for the MRI radiomics based pathological researches.
+    
+  

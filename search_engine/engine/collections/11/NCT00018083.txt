@@ -1,0 +1,39 @@
+
+    
+      BACKGROUND: There are two concerns regarding rifabutin and INH pharmacokinetics in this
+      population: 1) Malabsorption of anti-TB medications is frequent in this population and 2)
+      Many antiretrovirals and other drugs frequently used in the management of HIV-infected
+      individuals are inhibitors of the cytochrome p450 3A4 isoform and result in increased levels
+      of rifabutin. Correlation of the pharmacokinetic and clinical outcomes in the setting of
+      these interactions is essential.
+
+      METHODS: The study will be done on the General Clinical Research Center at Duke University
+      Medical Center, on an inpatient basis (depending on where the patient lives). No one who is
+      suspected of being infectious or is infectious from TB will be enrolled on the GCRC. After
+      informed consent is obtained, each subject will be admitted to the GCRC twice; the first
+      admission will occur after at least four twice weekly doses of intermittent rifabutin and
+      prior to beginning antiretroviral therapy and the second admission will occur two to six
+      weeks following the institution of an antiretroviral regimen including efavirenz. During
+      Admission #1, blood will be drawn at 0, 1, 3, 5, 7, 9, and 21 hours post dosing with INH and
+      rifabutin. During Admission #2, blood will be drawn at 0, 2, 4, 6, 8, 10, 12, and 24 hours.
+      Efavirenz will be given at time points 0 and 24 hours post sampling. TB drugs will be given
+      at 3 hours (so that sampling times subsequent to INH/rifabutin dosing will correspond to
+      those of Admission #1). Patients will be interviewed regarding concomitant medications,
+      gastrointestinal symptoms and meals relative to study drug dosing. Sixty days following the
+      last dose of PK study medicines, a follow-up visit or phone call (including review of medical
+      record) will identify any adverse events.
+
+      DATA ANALYSIS: Frequency distributions will include plots of the data, distribution curves to
+      test for normality, parametric and non-parametric measures of central tendency and
+      dispersion, as well as the Shapiro-Wilk W test for normality. Means will be reported + the
+      standard deviation (SD). The percent coefficient of variation (CV) will be calculated as
+      (SD/mean) multiplied by 100%. Correlation analysis (JMP) will be performed across the subject
+      and outcome variables using non-parametric techniques (Spearman Rho, continuous data only).
+      The dependence of outcome variables (the pharmacokinetic parameters) upon subject
+      characteristics (demographic data such as age, weight, CD4 count, etc.) will be determined by
+      using Y by X analyses, one parameter at a time (continuous or nominal data). Subsequently,
+      models with multiple X variables will be constructed using forward addition and backward
+      deletion. Correlations between parameters and covariates will be considered statistically
+      significant at p 3/4 0.05.
+    
+  

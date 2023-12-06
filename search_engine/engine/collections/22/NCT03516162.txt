@@ -1,0 +1,54 @@
+
+    
+      Pathologies of the central nervous system (CNS), as well as their surgical treatment, may
+      interfere with the physiological and behavioural functions of the human brain. Commonly,
+      before and after surgical treatment, the neurosurgeon examines the patient carefully for
+      neurological deficits and additionally asks neuropsychologists to evaluate higher cognitive
+      functions. These examinations, however, only represent the situation at a given point in
+      time, and currently longitudinal or continuous evaluation of physiological and behavioural
+      functions of the human brain is highly limited. Furthermore, in the conventional examinations
+      the complex human behaviour is reduced to very simplified scores (e.g. the NIHSS for
+      neurological or MoCA for neuropsychological functioning). Fluctuations in physiological and
+      behavioural functions are very likely, but are unlikely to be captured with current
+      evaluations at single (discrete) pre- and postoperative points in time. To date, "on-line"
+      continuous evaluation of brain function in patients undergoing (potentially risky)
+      neurosurgical procedures has not been established.
+
+      The touchscreen interface of smartphones offers a fresh avenue to capture day-to-day
+      behaviour (engagement of finger tips) by exploiting the technology intrinsic to a smartphone.
+      For instance, the speed of touchscreen use, the distinct behavioural contexts
+      (compartmentalised into Apps) and the corresponding habits can be seamlessly and
+      non-obtrusively captured. More importantly, compared with current discrete approaches of
+      evaluation, this continuous approach can account for - and even exploit - the natural
+      fluctuations in brain functions.
+
+      Nevertheless, behavioural data from touchscreens is new to scientific exploration and various
+      fundamental questions remain to be answered, such as what are the basic statistical features
+      of smartphone behaviour, how does this behaviour vary from one day to another, and how does
+      this behaviour reflect basic demographic information? This gap in our understanding of
+      smartphone behavioural data also implies that the exact statistical methods to be employed
+      may need to undergo adjustments. For instance, the common central tendency measure of the
+      sample mean may be highly unstable if the parameter/s occupy a power-law distribution rather
+      than a Poisson or Gaussian distribution. In summary, ever-new exploration of the neuroscience
+      of touchscreen behaviour must trigger the right choice of analytical and statistical methods.
+
+      The focus of this study is laid on patients with pathologies of the CNS. The investigators
+      aim to examine both patients with diffuse and focal pathologies. In order to study diffuse
+      pathologies, the investigators will include patients with hydrocephalus. In order to study
+      focal pathologies, the investigators will include patients with brain tumours or
+      arteriovenous malformations (AVMs) - which are localised and described using clinical
+      neuroimaging. Patients will be examined before and after a neurosurgical procedure.
+
+      At the "UniversitätsSpital Zürich", both patients with hydrocephalus that are scheduled for
+      ventriculo-peritoneal (VP)-shunting and patients with brain tumours/AVMs that are scheduled
+      for microsurgical resection routinely undergo a neurosurgical, neuropsychological and
+      neuroradiological examination (by MRI) preoperatively and at 3 months postoperative (for
+      clinical purpose). Patients that agree to participate in this study will install a free App
+      (programmed by the University of Zurich (UZH) spin-off QuantActions and freely available on
+      the Google Play store) on their smartphone that records their day-to-day physiological and
+      behavioural status associated with use of the hand (smartphone touchscreen). The study will
+      examine behaviour changes before and after surgery, and how this change in measured behaviour
+      with the smartphone relates to the neuropsychological examination and quantification of brain
+      damage on imaging studies (MRI).
+    
+  

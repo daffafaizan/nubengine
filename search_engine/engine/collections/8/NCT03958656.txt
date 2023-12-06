@@ -1,0 +1,111 @@
+
+    
+      Background:
+
+        -  Multiple myeloma (MM) is a nearly always incurable malignancy of plasma cells.
+
+        -  T cells can be genetically modified to express chimeric antigen receptors (CARs) that
+           target malignancy-associated antigens.
+
+        -  SLAMF7 is highly and uniformly expressed on MM cells but is absent on normal tissues
+           except for some leukocytes, including a subset of CD8+ T cells, natural killer (NK)
+           cells, B cells, plasma cells and monocytes.
+
+        -  We have constructed a novel anti-SLAMF7 CAR that can specifically recognize SLAMF7-
+           expressing target cells and eradicate SLAMF7-expressing tumors in mice.
+
+        -  This protocol will test genetic modification of autologous T cells with genes encoding
+           an inducible caspase 9 (IC9) cell-suicide system plus the anti-SLAMF7 CAR.
+
+        -  Administration of the dimerizer drug Rimiducid (AP1903) is necessary to activate the IC9
+           suicide gene and eliminate CAR T cells.
+
+        -  In this protocol, the suicide gene system will be used to eliminate CAR-expressing T
+           cells in case of severe toxicities caused by the CAR T cells.
+
+        -  Possible toxicities include cytokine-associated toxicities such as hypotension, and
+           neurological toxicities. Elimination of NK cells and normal plasma cells could make
+           patients more susceptible to infections. Unknown toxicities are also possible.
+
+      Objectives:
+
+      Primary
+
+      - Determine the safety, feasibility of administering T cells expressing an anti-SLAMF7 CAR
+      plus IC9 cell-suicide system to patients with MM.
+
+      Eligibility:
+
+        -  Greater than or equal to 18 years of age and less than or equal to age 73.
+
+        -  Patients must have measurable MM defined as a serum M-protein >=0.6 g/dL or a urine
+           M-protein >=200 mg/24 hours or an involved serum free light chain (FLC) level >=10 mg/dL
+           (provided FLC ratio is abnormal) or a biopsy-proven plasmacytoma of 1.5 cm or more in
+           largest dimension, or greater than or equal to 30% bone marrow plasma cells.
+
+        -  Patients must have previously received at least 3 different treatment regimens for MM.
+
+        -  Patients must have prior exposure to an immunomodulatory drug (IMiD) such as
+           lenalidomide, and a proteasome inhibitor
+
+        -  Patients must have a creatinine level of less than or eual to 1.5 mg/dL
+
+        -  Patients must have a cardiac ejection fraction >= 50%.
+
+        -  An ECOG performance status of 0-2 is required.
+
+        -  Patients on any anticoagulant medications except aspirin are not eligible.
+
+        -  No active infections are allowed.
+
+        -  Absolute neutrophil count >= 1000/microL, platelet count >= 55,000/microL, hemoglobin >=
+           8g/dL
+
+        -  ALT and AST less thanor equal to 2.5-fold higher than the upper limit of normal.
+
+        -  At least 14 days must elapse between the time of any prior systemic treatment (including
+           corticosteroids) and the required leukapheresis.
+
+        -  At least 14 days must elapse between the time of any prior systemic treatment and
+           initiation of protocol treatment. Systemic therapy includes corticosteroids at a dose
+           equivalent to more than 5 mg of prednisone.
+
+        -  Bone marrow plasma cells must make up less than or equal to 50% of total bone marrow
+           cells less than or equal to 24 days prior to the start of protocol treatment.
+
+        -  The patient s MM will need to be assessed for SLAMF7 expression by flow cytometry or
+           immunohistochemistry performed at the NIH. The myeloma must express SLAMF7. If
+           unstained, paraffin-embedded bone marrow or plasmacytoma sections are available from
+           prior biopsies, these can be used to determine SLAMF7 expression by
+           immunohistochemistry; otherwise patients will need to come to the NIH for a bone marrow
+           biopsy or other biopsy of a plasmacytoma to determine SLAMF7 expression. The sample for
+           SLAMF7 expression can come from a biopsy obtained at any time before enrollment.
+
+      Design:
+
+        -  This is a phase I dose-escalation trial
+
+        -  Patients will undergo leukapheresis, and T cells will be modified to express the
+           IC9-anti-SLAMF7 CAR construct.
+
+        -  The chemotherapy conditioning regimen is cyclophosphamide 300 mg/m^2 daily for 3 days
+           and fludarabine 30 mg/m^2 daily for 3 days. The intent of chemotherapy is to enhance CAR
+           T-cell activity.
+
+        -  After the chemotherapy ends, the patients will have two days with no treatments and then
+           receive an infusion of CAR T cells.
+
+        -  The initial dose level will be 0.66x10^6 Anti-SLAMF7-CAR + T cells/kg of recipient
+           bodyweight.
+
+        -  The cell dose administered will be escalated for up to 4 doses until a maximum tolerated
+           dose is determined.
+
+        -  Following the T-cell infusion, there will be a mandatory 9-day minimum inpatient
+           hospitalization to monitor for toxicity.
+
+        -  Outpatient follow-up is planned for 2 weeks, and 1, 2, 3, 4, 6, 9, and 12 months after
+           the CAR T-cell infusion. Afterwards, follow-up will be every six months up to at least 3
+           years after infusion.
+    
+  

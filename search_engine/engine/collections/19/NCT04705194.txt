@@ -1,0 +1,172 @@
+
+    
+      OBJECTIVES
+
+      (1) To determine if DGE-MRI can improve predictions of post-hepatectomy liver function; (2)
+      To validate DGE-MRI based measurements of liver function against gold-standard liver function
+      tests; (3a) to determine if preoperative DGE-MRI can improve predictions of post-operative
+      PHLF; (3b) to develop a multi-parametric prediction model for 90-day post-operative outcome
+      combining MRI, clinical chemistry and patient history; (3c) To determine the relationship
+      between volumetric and functional liver growth after portal vein embolisation.
+
+      RECRUITMENT
+
+      Patients considered for major liver resection will be identified at the Hepatobiliary
+      multi-disciplinary team (MDT) meeting at St James University Hospital Leeds, and contacted by
+      phone. Patients will have at least 3 days to consider this information, and after that they
+      will be contacted by the member of their clinical care team to schedule the baseline visit.
+      Formal written consent will be obtained on the day of the visit. If they don't consent to
+      participation, then only the MRI scans will be collected and stored in their medical records.
+
+      BASELINE VISIT
+
+      An initial dataset will be captured incorporating the patient's medical history and
+      up-to-date investigations. This will be obtained through a combination of patient interview,
+      review of paper notes and review of the patient's electronic medical record. An MRI safety
+      screening form will be administered. If a contraindication to MRI is found at this point, the
+      visit will be cancelled, and the patient will be excluded from the study. An ICG safety
+      questionnaire will be used to exclude patients with contraindications to ICG use. Patients
+      excluded from ICG testing at this point will not be excluded from the study as other measures
+      of liver function will still be available for analysis of tertiary outcomes.
+
+      Patients will be cannulated and ICG will be administered intravenously as a bolus dose of 0.5
+      mg/kg through the cannula. The ICG will be reconstituted with 5 ml of water for injection for
+      every 25 mg of ICG, leading to a dilution of 5mg ICG per 1 ml. Serial percutaneous ICG
+      measurements will then be taken using an ICG clearance meter using a finger clip device
+      (LiMON; Maquet, Germany). Patients will lie in the supine position and calibration will be
+      performed before testing starts.
+
+      In order to derive absolute ICG concentrations, two separate blood samples of 2.5mL each will
+      be taken, both after ICG injection (pre-operative). The samples will be processed and stored
+      in a dedicated facility in the Leeds Institute for Cardiovascular and Metabolic Medicine
+      (LICAMM) and analyzed as a batch at the end of the study. The remaining samples will be
+      stored for a maximum of 5 years to measure metabolomics data for secondary research. After 5
+      years any remaining samples will be destroyed according to standard LICAMM procedure for
+      sample disposal.
+
+      The MRI will be performed straight after ICG measurement in the 3 T MRI by radiographers of
+      the department. The scan will last max 1.5hrs and will include the injection of a standard
+      dose of MRI contrast agent Gadoxetate (Primovist, Bayer AG). The same cannula will be used to
+      administer the MRI contrast as for the ICG test. Other scans that will be taken in the same
+      session include T1- and T2-weighted anatomical imaging, T2*-mapping, T1-mapping,
+      proton-density fat fraction.
+
+      SURGERY AND FOLLOW-UP
+
+      After the baseline visit some patients will require re-discussion in the MDT and all patients
+      will attend for a preoperative clinic appointment. A proportion of patients will not progress
+      to surgery due to clinician or patient choice; these patients will not be followed up
+      further. The data that has already been collected will be used for addressing the secondary
+      objective.
+
+      Intraoperative measurements of the resected liver segments will be taken, including weight
+      and volume (measured using fluid displacement). After surgery, data obtained as part of the
+      patient's standard intra and post-operative care will be collected from their medical
+      records. This includes any blood tests during admission, the characteristics of the
+      operation, complications and length of stay. Pathology results will be collected. The ICG
+      test with the finger-clip device will be repeated postoperatively at bedside to determine a
+      reference value for postoperative liver function. This will be performed on day 1
+      post-surgery if feasible. A PHLF score will be determined according the International Study
+      Group of Liver Surgery (ISGLS) definition.
+
+      All patients who underwent surgery will attend the hospital for a routine post-operative
+      clinic appointment after 90 days. Data from this appointment will be collected by the
+      clinical research fellow, including complications, readmissions and mortality. At the end of
+      the study patients who have requested to do so will be sent a summary of the study's findings
+      and implications.
+
+      PVE/ALPPS ARM
+
+      Patients requiring portal vein embolisation (PVE) or Associating Liver Partition and Portal
+      vein Ligation for Staged hepatectomy (ALPPS) will be recruited in the same way as
+      participants in the resection arm. They will attend the same baseline visit and the routine
+      clinic visit. Patients may decline the PVE/ALPPS at this point, or the clinician may decide
+      it is inappropriate at the clinic appointment. If this occurs and the patient proceeds to
+      surgery, they will remain in the study. If they do not proceed to surgery their data will be
+      used to address the secondary objectives.
+
+      A patient who does proceed to PVE/ALPPS will attend the hospital for a routine computed
+      tomography (CT) scan after the first stage, and a second research visit will be scheduled at
+      that point. This visit will proceed in the same manner as the baseline visit. They will be
+      re-discussed in the MDT and come for a preoperative clinic appointment. Patients may be
+      deemed ineligible for surgery, or make the decision not to proceed with surgery, in which
+      case their data already collected can feed into the secondary objectives. If they do proceed
+      to surgery, the same intra-operative and post-operative data will be taken as for the
+      resection arm.
+
+      SAMPLE SIZE
+
+      The aim is to recruit 134 participants into the study, which will include an estimated 122 in
+      the primary surgery arm and 12 in the PVE arm. Of the 134 recruited participants an estimated
+      112 will feed into the primary objective.
+
+      The power calculation assessed the impact of study size by simulating a hypothetical
+      population of 1 million patients and evaluating model robustness to estimate the model beta
+      coefficient of FLR-GC in relation to ICG clearance. Modelling was informed by pilot data in
+      29 cases. 10k samples of 122 patients are drawn with replacement, generating empirical
+      distributions of the parameters. Results demonstrated that even at the poorest precision
+      simulated, the fixed sample of 122 is sufficient to obtain reliable beta coefficients.
+
+      DATA ANALYSIS
+
+      Statistical analysis shall be performed by Professor Gilthorpe at the University of Leeds
+      using the anonymized data sheet and the RStudio software package (RStudio, Boston, USA). A
+      univariable analysis will be performed comparing FLR-GC against post-operative ICG-R15
+      (primary objective) and WL-GC against preoperative ICG-R15 (secondary objective). Second the
+      correlations will be investigated in a multivariable analysis to determine if the MRI adds
+      value to existing preoperative biomarkers, which MRI biomarkers are most predictive, and to
+      derive a model for predicting PHLF. It will then be tested whether this combined score is
+      significantly worse when DGE-MRI is removed from the prediction. In the PVE/ALPPS group,
+      changes in volume will be correlated to changes in function of the FLR between pre
+      PVE/pre-ALPPS and post-PVE/post-ALPPS.
+
+      DATA MANAGEMENT
+
+      Identifiable data will not be accessed by researchers outside of the clinical care team and
+      are only retained for quality control, backup, and to follow-up on any incidental findings.
+      Anonymised research data will be recorded using the participant's study ID. Paper forms used
+      for data capture will be stored in a secure location in St James University Hospital.
+      Electronic research data will be stored in a participant study record in a secure database in
+      St James University Hospital, and in password protected network drives set up and maintained
+      by University IT. Additional databases will be set up to retain the source data for further
+      processing, including MRI in DICOM (Digital Imaging and Communications in Medicine) format,
+      raw ICG data, and digitized histopathology slides.
+
+      MRI data will be recorded using the patient ID in the secure Picture Archiving and
+      Communication System (PACS) of the radiology department. Routine radiology reports will be
+      retrieved and included in the participant's anonymous study file. The MRI images will be
+      transferred anonymously from the scanner to the university's DICOM database, where they will
+      be analyzed by a research fellow to extract the relevant imaging biomarkers.
+
+      All excel sheets with anonymised study data will be transferred to a long-term data
+      repository where they will be maintained for a minimum of 25 years. Source data for MRI and
+      ICG will be retained indefinitely in a dedicated imaging data management system hosted by the
+      University to enable secondary research, educational use, and data sharing.
+
+      INCIDENTAL FINDINGS AND BLINDING
+
+      All data collected for the study, except calculated MRI biomarkers and ICG measurements, are
+      acquired as part of the routine workup and will therefore be available to the clinical care
+      team through the patient's medical records. All ICG liver function measurements from finger
+      clip device will be reviewed separately by the hepatology consultant. Any unusual findings
+      will be flagged up to the clinical care team as incidental findings, and dealt with according
+      to usual practices. For those patients that have an extra MRI scan as part of their
+      participation in the study, these MRI's will be reviewed by a radiologist. Any unusual
+      findings will be flagged up to the clinical care team as incidental findings, and dealt with
+      according to usual practices. Unvalidated MRI biomarkers will not be reviewed for incidental
+      findings or otherwise communicated to the clinical care team. The non-clinical research
+      fellows working on analysis of MRI and ICG data will be blinded to the clinical history of
+      the patient and other function tests.
+
+      WITHDRAWAL OF PARTICIPANTS
+
+      If a patient decides to withdraw their consent to inclusion in the study at any point then no
+      further data regarding their care will be collected. Should the patient wish, data collected
+      up until withdrawal of consent will be destroyed using the hospital's confidential waste
+      bins. Patients who lose their capacity to consent after initial inclusion in the study for
+      reasons that are not related to their surgery will be treated in the same manner as if they
+      had withdrawn consent. Previously collected data will not be destroyed. If a patient is
+      unable to complete their MRI study for any reason they will automatically be withdrawn from
+      the study. Data collected until the point of withdrawal will be retained.
+    
+  

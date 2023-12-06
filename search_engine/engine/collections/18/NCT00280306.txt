@@ -1,0 +1,45 @@
+
+    
+      White matter fiber tracking may provide a novel tool to assess the integrity of injured motor
+      tracts in the cervical spine. It provides information about fiber directions which is not
+      given by conventional MRI. White matter fiber tracking in the brain is used at several
+      institutions, including our own medical college, for presurgical planning of tumor excision.
+      We believe that the technical and clinical experience gained for the brain can be applied to
+      fiber tracking in the cervical spine as well. White matter fiber tracking in the cervical
+      spine has some important clinical applications:
+
+        -  A better understanding of the relationship between abnormal cervical spinal anatomy and
+           the impact on fiber tracts would be helpful in determining the best treatment for a
+           particular patient. It may be able to define the indication and role of surgical
+           decompression and stabilization based on quantifiable and reproducible data obtained
+           with this new imaging technology.
+
+        -  It could help the surgeon to determine what type of surgical approach to choose
+           (anterior versus posterior surgery, depending on the degree of compression / impingement
+           on nerve fibers).
+
+        -  Correlation between quantitative diffusion measures and spinal cord injury may be used
+           in monitoring the response to treatment and may therefore be an important parameter for
+           clinicians to follow.
+
+        -  White matter fiber tracking may also help to determine the pathophysiology underlying
+           cervical spondylotic myelopathy. Currently, there is a debate as to whether cervical
+           spondylitic myelopathy is caused mainly by compressive narrowing of the spinal canal,
+           which may lead to focal ischemia and tissue injury, or whether excessive motion due to
+           cervical spondylosis results in increased strain and shear of spinal axons resulting in
+           injury (Henderson et al., Neurosurgery 56(5):1101-13, 2005). If the latter is correct
+           one would expect diffusion changes along the course of white matter tracks above and
+           below the spondylotic changes.
+
+      We will first study a pool of 15 normal control subjects to refine our data acquisition and
+      postprocessing tools, and to sample quantitative diffusion based data for the normal cervical
+      spine. A second group of subjects will include 10 patients with significant cervical
+      spondylosis and upper extremity radiculopathy without myelopathy. The third group will be 10
+      patients with cervical spondylosis and signs and symptoms of myelopathy. The two patient
+      groups will allow us to define systematic differences between normal values and values in the
+      injured spine.
+
+      The DTI data will be processed using tools for artifact correction first and then tools for
+      rendering T2 weighted images, diffusion weighted images, ADC maps and FA values.
+    
+  

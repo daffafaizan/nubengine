@@ -1,0 +1,135 @@
+
+    
+      When patients arrive at the enrollment meeting, research staff will walk them through the
+      informed consent form to explain and answer questions about the study. Patients who sign the
+      consent form enroll in the study. Those who choose not to enroll are thanked for their time
+      and encouraged to use CHCI smoking cessation services, regardless.
+
+      After providing written consent to participate in the study, patients will complete a short
+      (15 minute) baseline survey assessing their smoking habits. Patients will complete the survey
+      on their own or with the assistance of a research staff member. See Appendix B for the survey
+      instrument.
+
+      Immediately following the survey, randomization will occur, corresponding to the two phases
+      of the intervention. Patients will be blinded to randomization. Randomization is done offsite
+      using Stata. The research staff will enter basic, unidentifiable information about the
+      patient into a web interface designed specifically for the purpose of this study and receive
+      a treatment assignment for that participant. In this way, the enrollment staff does not deal
+      directly with the randomization process. Patients are assigned to one of four study arms:
+      Control, Treatment 1: Rewards Only, Treatment 2: Rewards w/ pre-commitment for deposit
+      contract, Treatment 3: Rewards w/ commitment for deposit contract at 2 months.
+
+      Soon after enrollment, patients will receive an automated call verifying participation.
+
+      Phase I runs from study enrollment through the first biochemical verification of abstinence
+      from smoking ("biochemical test"), at 2 months. Study participants assigned to the treatment
+      group, but not the control, will receive rewards in the form of gift cards for engaging in
+      the smoking cessation activities ("process") and for a negative result on the biochemical
+      test ("outcome").
+
+      Process:
+
+      Five process activities will be rewarded for treatment group members:
+
+        1. One-time sign up reward for stickK.com
+
+        2. submitting a weekly self-report of smoking abstinence on stickK
+
+        3. writing a stickK journal entry
+
+        4. enlisting family and friends to register as stickK "Supporters" to track progress and
+           provide positive reinforcement,
+
+        5. utilizing CHCI group or individual counseling services provided by a nurse or behavioral
+           health provider
+
+      When possible, initial appointments with counseling services will be offered on the same day
+      as the enrollment visit using CHCI's "warm handoff" behavioral health appointments.
+      Participants will be encouraged to log their completion of these visits on stickK, and
+      research staff will verify on stickK that the patient attended and completed a valid smoking
+      cessation clinic visit.
+
+      For each completed and verified process activity, treatment group participants accrue points
+      on stickK that can be redeemed for a gift card to a retail store at Phase I end, conditional
+      on biochemical verification of smoking cessation. If the participant fails to demonstrate
+      abstinence, s/he forfeits all accrued process points.
+
+      Members of the control group will not receive information about stickK or a stickK account
+      associated with the study, though they may sign up for the online service independently. The
+      control group will receive information about and have access to CHCI's full menu of smoking
+      cessation services.
+
+      Biochemical verification:
+
+      The biochemical tests will be conducted two months after study enrollment. Research staff
+      will contact patients via phone and/or email to schedule visits to complete these tests.
+      Investigators will ask all control group members to take the test and compensate them for
+      doing so, regardless of test result ("measurement incentive"). Only treatment group members
+      who self-report not smoking during the last week, or from whom investigators were unable to
+      procure a self-report, will be asked to take the test. This group will not receive a
+      measurement incentive.
+
+      All patients will first complete a CO breathalyzer test. Those that test positive will have
+      no further testing. Those testing negative will have a urine verification test at the
+      in-house Quest Diagnostics. Test results will be sent to the EHR.
+
+      Process and outcome changes are rewarded according to the following schedule:
+
+      Phase I end: redemption of rewards or adoption of deposit contract. The majority of
+      participants will receive confirmation of their smoking status at the clinic within a few
+      minutes of taking the test. Research staff will verify the confirmatory test result on stickK
+      and assist participants as they adopt the deposit contract or redeem their rewards. The
+      deposit contract is a commitment device that allows users to voluntarily "deposit" rewards
+      that they can only recover if they succeed in achieving a predetermined goal, which, in this
+      case, is maintaining smoking abstinence over the four-month Phase II period. In other words,
+      participants who elect to use the deposit contract risk losing some or all of the rewards
+      they accrued during the "rewards phase" if they fail to test negative for smoking at Phase II
+      end.
+
+      Protocol by biochemical test result, randomized assignment, and take-up decision:
+
+        -  Test positive for smoking -> lose accrued process rewards; not eligible for deposit
+           contract
+
+        -  Test negative for smoking, and
+
+        -  No deposit contract -> redeem process and outcome rewards
+
+        -  Deposit contract-pre-commitment and pre-committed -> confirm, adjust, or opt-out of
+           commitment
+
+        -  Deposit contract-pre-commitment and did not pre-commit -> receive deposit contract offer
+           one final time
+
+        -  Deposit contract- No pre-commitment -> receive deposit contract offer for the first and
+           final time
+
+      Those who are eligible for but decline the deposit contract redeem 100% of their rewards. The
+      intervention ends after Phase I for these individuals.
+
+      Those who adopt the deposit contract redeem the percentage of their rewards that they did not
+      invest in the deposit contract. The rest is automatically rolled into the deposit contract,
+      and the contract period, i.e. Phase II of the intervention, begins immediately.
+
+      Phase II: Deposit contract, months 3 through 6. Phase II lasts 4 months, from month 3 through
+      6. The majority of study participants won't hold a deposit contract and thus won't experience
+      an active intervention during this time. Participants who do hold a deposit contract will be
+      free to engage with stickK as they like (e.g. write journal entries, share progress on social
+      media), but will not receive rewards for doing so.
+
+      At 6 months, investigators will ask all study participants to take the second confirmatory
+      test. Participants without a deposit contract will receive a measurement incentive to take
+      the test but no performance incentives contingent on the test result. For deposit contract
+      holders, recovery of the deposit will be contingent on testing negative for smoking.
+
+      Measurement of long-term smoking abstinence:
+
+      At month 12, all study participants will be asked to visit the clinic for a final
+      confirmatory test, and all will receive a measurement incentive. No incentives are contingent
+      on smoking status.
+
+      An endline survey will be administered at this time. The endline survey will be
+      self-administered by participants either via email, mailing, or in person depending on the
+      availability of participants.
+    
+  

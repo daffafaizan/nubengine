@@ -1,0 +1,70 @@
+
+    
+      A cross-sectional study was carried out, in which 40 boys, aged 11 to 18 years, were
+      evaluated. The recruitment of groups was carried out at the neuromuscular disease outpatient
+      clinic of the Federal University of São Paulo (UNIFESP). The recruited individuals were
+      divided into 4 groups, namely: DMD that used deflazacort (DMD-D) with n=11; DMD that used
+      Prednisone/Prednisolone (DMD-P), with n=9; DMD Control with no corticoid use (DMD-C), and
+      n=10 and Controls with typical development (CTD) with n=10. The protocol was applied during
+      the evaluation that was carried out at outpatient follow-up visits. Anthropometry was
+      analyzed in 4 groups and functionality was assessed in 3 groups with DMD. To assess the
+      functionality of each patient, the Vignos scales were used to characterize the sample and the
+      Motor Function Measure (MFM) for association with HRV indices.
+
+      Initially, the resting ECG was analyzed to verify the existence of sinus rhythm and to
+      exclude individuals with arrhythmias and blocks. The measurements at rest were performed
+      immediately before and after the HRV assessment, including systolic (SBP) and diastolic
+      (DBP), heart rate (HR), Respiratory Rate (RF - blood pressure) to ensure that at the
+      beginning and at the end of the collection FR remains between 9 - 24rpm, in the range of 0.15
+      - 0.40Hz) and partial oxygen saturation (SO2). Heart rate was recorded by the cardiofrequency
+      meter (RS800CX, Polar). And the partial oxygen saturation by means of a digital oximeter
+      (DX2010, Dixtal) connected to the participant's index finger or hallux, through a sensor of
+      age-appropriate size, in room air. Hemoglobin saturation by oxygen was recorded after the
+      first minute of stabilization, as the value that remains most constant during the second
+      minute.
+
+      All heart rate records were performed using a cardiofrequencymeter (V800, Polar). After
+      placing the brace and monitor, the individuals were placed in the supine position and
+      remained at rest spontaneously breathing for 25 minutes. For HRV analysis, indexes obtained
+      by linear methods, in the domain of time and frequency, and non-linear methods were used.
+
+      In the time domain, for linear analyses, each normal RR interval (sinus beats) was verified
+      during a certain time interval and, using statistical and non-linear methods, the translating
+      indexes of fluctuations in the duration of the cardiac cycles were calculated. With this, the
+      indices expressed in ms were obtained: SDNN (Standard deviation of the normal RR intervals
+      recorded in a time interval); rMSSD (square root of the mean of the square of the differences
+      between adjacent normal RR intervals in a time interval).
+
+      In the frequency domain, the spectral power density is more used, mainly when treating
+      individuals in resting conditions. This analysis divides HRV into fundamental oscillatory
+      components, which were used the main: High Frequency normalized unite (HFnu) component and
+      Low Frequency normalized unite (LFnu) component. O algoritmo utilizado para a análise
+      espectral foi a transformada rápida de Fourier - FFT (janela de 256 s com 50% de overlap).
+
+      Among the nonlinear methods used for HRV analysis, we can mention the Detrended Fluctuations
+      Analysis (DFA), Visual Recurrence Analysis (VRA) and symbolic analysis (SA), the three of
+      which were verified in this study.
+
+      DFA is used to quantify the fractal property of RR interval time series, being used to detect
+      possible abnormalities present in a subject, based on α coefficients. For this, short memory
+      parameters α1, which corresponds to a period of 4 to 11 beats, and long memory α2, which
+      corresponds to the period from 64 to 1024 beats, were used.
+
+      The VRA is used to study the time dependence of a series, that is, in the study of
+      stationarity35. The recurrence graph makes it possible to visualize the behavior of
+      trajectories in the phase space and, in addition, to show the times in which a state of a
+      dynamic system is repeated, besides these factors can be confirmed regarding the quantitative
+      analysis of this, wich presents such indices: Mean, SD, PerRec, PerDet, PerLam, TrapTim,
+      Ratio.
+
+      The evaluation of the symbolic analysis is based on the quantification of the information
+      carried in a time series, in the transformation of the previously selected iRRs into integers
+      from zero to six, from which sequences of 3 symbols (symbolic patterns) are constructed. For
+      this, all possible patterns will be grouped according to the number and type of variations
+      between the symbols, shown subsequently. The patterns were (1) patterns, without variation
+      (0V), three identical symbols; (2) patterns with a variation (1V), that is, two subsequent
+      symbols that are the same and a different one; (3) patterns with two similar variations (2LV)
+      that is, the three symbols form a ramp; (4) patterns with two different variations (2ULV),
+      that is, the three symbols form a peak or a valley.
+    
+  

@@ -1,0 +1,83 @@
+
+    
+      The aim of this investigation is to examine a new prototype of a quantitative monitoring
+      instrument that will meet these requirements. Patients undergoing surgery under general
+      anesthesia will be monitored with a new EMG device (T4-EMG) from induction of anesthesia
+      until recovery of neuromuscular blockade. Continuous data will be recorded onto an interfaced
+      computer from the T4-EMG monitor during this time period. At the same time, continuous
+      neuromuscular data will be recorded onto the computer from an AMG device (TOF-Watch, the
+      "established standard" for clinical use) which is attached to the same arm. The applicability
+      (ease of use, equipment need, etc.), repeatability (precision or internal consistency), and
+      performance (agreement with established standard, bias) of the T4-EMG compared to the AMG
+      will be determined during onset and recovery of neuromuscular blockade.
+
+      44 patients presenting for elective surgical procedures with an expected duration greater
+      than 60 minutes will be enrolled in this study. ASA I to III patients requiring neuromuscular
+      blockade in the operating room will be eligible for enrollment. Anesthetic management will be
+      standardized.
+
+      Upon arrival to the operating room, neuromuscular monitoring surface electrodes will be
+      applied. All monitoring will be conducted while the patient is under general anesthesia for
+      the surgical procedure. Surface electrodes (non-invasive EKG electrodes) will be placed on
+      the cleansed skin over the ulnar nerve of the available arm near the wrist. The electrodes
+      will be connected by leads to a peripheral nerve stimulator (TOF-Watch). When the nerve
+      stimulator is activated, the response to stimulation will be measured simultaneously by the
+      AMG (TOF-Watch-acceleration of contraction of the adductor pollicis-thumb) and the EMG
+      (T4-EMG-electrical activity of the adductor pollicis-thumb) devices. Therefore, the TOF-Watch
+      will serve as nerve stimulator for both study groups. The transducer of the AMG device will
+      be placed on the thumb of the corresponding hand. A 75-150g preload (via the Hand adapter)
+      will be applied as per standard recommendations. After induction of anesthesia, but before
+      administration of rocuronium, calibration, supramaximal stimulation, and stable baseline will
+      be achieved for the TOF-Watch as suggested by the GCRP guidelines.
+
+      The T4-EMG will be placed on the same arm as the AMG device, with sensing electrodes attached
+      to the surface of the thenar eminence (base of the thumb). A second sensing lead, used to
+      detect the delivery of an electrical stimulating pulse, will be placed over the stimulating
+      leads of the AMG device. This sensing lead will only be used to trigger data acquisition in
+      the T4-EMG, and has no direct connection to the patient, nor any electrical feedback
+      connection that alters the function of the AMG. After a satisfactory level of stimulation and
+      response has been obtained for the TOF-Watch, the T4-EMG device will be turned on, and the
+      impedance of the thenar sensing leads will be measured. The trigger sense will be engaged,
+      and further baseline stimuli will be delivered via the AMG (TOF-Watch). Data simultaneously
+      collected from the thenar sensing leads will be inspected on the T4-EMG display, and fine
+      adjustment of electrode positioning and stimulus intensity may be made to optimize the evoked
+      myoelectric response from the patient. At the conclusion of the setup procedure, all settings
+      of the AMG and the T4-EMG will be held constant for the remainder of the surgery.
+
+      After these baseline data are collected (average time 5 minutes), the neuromuscular blocking
+      agent (NMBA) will be administered. Data relating to onset (a TOF ratio decreases from 1.0 to
+      0.3 or less on the AMG device display), maintenance (the TOF ratio is less than 0.3 and
+      constant on the AMG device display), and reversal (an increase in the TOF ratio from 0.1 to
+      0.9 or above) will be recorded. Monitoring will continue until full recovery of neuromuscular
+      function is noted (a TOF ratio of at least 0.9 or greater on the AMG device display). At this
+      time, the anesthesia agents will be turned off and the patient awakened and extubated.
+      Patients' trachea may extubated before achieving a TOF ratio of 0.9 if they awaken before
+      this time, as per usual clinical routine determined by the clinician.
+
+      For the first 34 patients, the TOF-Watch is used as the nerve stimulator for both the AMG
+      (TOF-Watch) and EMG (T4-EMG) groups. The ability of the T4-EMG device to sense/measure TOF
+      ratios is the primary aim of the study (in comparison to the "clinical gold standard"
+      TOF-Watch). However, the prototype T4-EMG (as well as the commercial device to be developed)
+      will also contain a nerve stimulator (as do all qualitative and quantitative monitors). On a
+      subset of patients monitored by the TOF-Watch (10 patients), the stand-alone T4-EMG device
+      (single unit containing both the nerve stimulator and sensing/monitoring components) will be
+      connected to the same arm and operated independently of the TOF-Watch. Its stimulating
+      electrodes will be placed on the surface of the arm adjacent to the TOF-Watch electrodes;
+      sensing leads will be placed on the thenar eminence as in the protocol described above. The
+      T4-EMG will be set up independently of the TOF-Watch, with its own stimulator adjustment
+      being made according to the same protocol as the TOF-Watch adjustment. The T4-EMG will be
+      operated to stimulate and record at times selected by the anesthesiologist that do not
+      conflict with operation of the TOF-Watch or interfere with other patient care activities.
+      Evoked muscle response data will be displayed by the T4-EMG, but amplitude ratios will not be
+      computed and it will not be used for direct patient care. The purpose is to demonstrate that
+      the device elicits and records evoked muscle responses from surgical patients and to assess
+      usability: this is in contrast to the main protocol where the T4-EMG is triggered by the
+      TOF-Watch and where comparison of recorded responses is the goal.
+
+      The primary endpoint in the first 33 patients will be an analysis of the agreement between
+      the AMG (clinical "gold standard") and EMG devices during neuromuscular recovery. Data will
+      be compared between the two devices at AMG-derived TOF ratios values of 0.7, 0.8, 0.9, and
+      1.0 (if achieved) during recovery of neuromuscular function. Bias and limits of agreement
+      will be calculated at each TOF value.
+    
+  

@@ -1,0 +1,55 @@
+
+    
+      METHODS Different experiments will be performed.
+
+        1. The investigators will test six different experimental conditions in the laboratory,
+           which are a combination of exoskeleton (with vs. without Laevo®), task (static vs.
+           dynamic), and knee angle only for the dynamic task (flexed vs. extended). Within each
+           combination, the investigators will test three different working directions (front vs.
+           left vs. right), realized by changing the working posture (trunk flexion vs. left trunk
+           rotation vs. right trunk rotation). Using the single Williams design for six conditions,
+           the investigators estimated the sample size to include 36 subjects (i.e., a multiple of
+           six). Using a force plate, acceleration and postural sensors, knee compression force can
+           be estimated using 2D inverse modelling. With an electromyographic system, the muscle
+           activity of selected target muscles at different body parts (i.e., legs, trunk, and
+           shoulders) can be recorded. The heart rate will be recorded using electrocardiography.
+
+        2. The investigators will test four different conditions, which are a combination of
+           exoskeleton (with vs. without Laevo®) and knee angle (flexed vs. extended). Within each
+           combination, the investigators will test three different loads carried (0kg, 8kg, 16kg)
+           and five different trunk flexion angles (0°, 30°, 60°, 60°, 30°). Muscle activity,
+           position, heart rate and ground reaction forces will be recorded.
+
+        3. The investigators will test three different functional tests. The outcomes for this aim
+           are time recorded for performing the functional or industrial task and perceived
+           difficulty rated on an 11-point numeric rating scale.
+
+        4. The investigators will use the lumbar spine model developed by the research group
+           Biomechanics and Biorobotics of the research cluster Simulation Technology of the
+           University of Stuttgart. The model includes a detailed lumber spine with non-linear
+           discs, ligaments, and muscles. Using the measurements of the experiment, this model is
+           able to predict how internal forces in the lumbar spine change as a result of external
+           forces (i.e., wearing and using the Laevo® exoskeleton).
+
+      ANALYSES Depending on the outcome parameter, different analyses will be performed including a
+      various number of independent variables.
+
+        1. The effects of exoskeleton (with vs. without), task (static vs. dynamic), knee angle
+           (flexed vs. extended; only for the dynamic task), and working posture (trunk flexion vs.
+           left trunk rotation vs. right trunk rotation) will be assessed using a four-factor
+           repeated-measures analysis of variance (RM-ANOVA) or a generalized estimating equation
+           (GEE) which is more robust.
+
+        2. The effects of exoskeleton (with vs. without), knee angle (flexed vs. extended), load
+           carried (0kg vs. 8kg vs. 16kg), and trunk flexion angle (0° vs. 30° vs. 60°) will be
+           assessed using a RM-ANOVA or GEE.
+
+        3. The effect of exoskeleton (with vs. without) on time and perceived difficulty of each
+           functional or industrial test will be assessed using a paired T-Test. In addition, the
+           muscular load of several muscles will also be evaluated.
+
+      DATA PROTECTION All participating subjects will receive a refund of € 45 after study
+      completion. Subjects will sign an informed consent and their data will be numerically
+      pseudonymized to guarantee anonymity.
+    
+  

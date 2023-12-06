@@ -1,0 +1,51 @@
+
+    
+      Several studies have shown that changes in host gene expression may occur pre-
+      symptomatically in response to infection in any part of the body, with the continuous
+      interaction between blood and tissue allowing blood cells to act as biosensors for the
+      changes (Manger and Relman, 2000, Liew et al., 2006). Genome wide analysis reveals coordinate
+      expression that develop networks causally linked through pathways.
+
+      Earlier studies from our group investigating optimal methods for the sampling and extraction
+      of neonatal whole transcription products (RNA) demonstrated the first feasibility studies for
+      using genome wide RNA analysis as a methodological approach for identifying host biomarkers
+      of infection and vaccination in early life (Smith et al., 2007, Flanagan et al., 2013). The
+      sampling methods were further refined in 2015 with the development of a single drop
+      methodology that has been extensively tested in a wide range of settings including the
+      collection of neonatal samples in the home, at the point of Guthrie testing by mid-wives.
+      Details of these methods have been recently submitted to the Nature Protocols journal.
+      Further, we conducted early on virtual clinical trials using a super computing framework that
+      simulated several 100,000 neonatal whole blood samples for predicting infection (Khondoker et
+      al., 2010). Those investigations showed the requirement for multiple markers and ideally in
+      discrete biological pathways underpinning causality (Khondoker et al., 2010, Watterson and
+      Ghazal, 2010). Those investigations provided a strong foundation for initiating a
+      case-control of neonatal sepsis (Dickinson et al., 2015). Accordingly, we were the first
+      group to publish studies investigating the systemic immune response in neonates to sepsis by
+      measuring the activity of all known human genes (Smith et al Nature comm. 2014). These
+      computationally intensive investigations led to uncovering, for the first time, the pathway
+      biology underlying neonatal sepsis with blood samples taken at the first clinical signs of
+      suspecting an infection. A combination of machine learning, statistical and deep pathway
+      biology analyses led to the identification of a 52-gene panel of biologically connected
+      network modules. The modules comprise three central pathways, innate-immune or inflammatory,
+      adaptive-immune and unexpectedly metabolic. The expression levels of particular combinations
+      of biomarkers, and specifically those of a pathway previously unconnected to immune
+      responses, gives an unusually high diagnostic quality. Despite patient heterogeneity, the
+      52-node dual biomarker network had greater than 99% accuracy for detecting bacterial
+      infection with 100% sensitivity showing superior performance to previously characterised
+      markers. Furthermore, these specific combinations of biomarkers allowed the detection of
+      neonatal sepsis in samples which had displayed blood-culture negative results, illustrating
+      the specific diagnostic benefits of the particular combinations of biomarkers. The
+      unexpectedly high accuracy and sensitivity values could not have resulted from the
+      investigation of any of the individual biomarkers alone, nor could they have been predicted.
+      A critical part of these findings is the requirement of metabolic pathways for increasing
+      both sensitivity and specificity. A subset of the metabolic markers encompass ligands
+      (specifically small and medium chain fatty acids) that are derived from microbial metabolism,
+      in particular from commensals and which are reflected in the faecal microbiome. To date these
+      studies provide a proof of concept but need independent confirmatory studies as well as
+      investigating specificity against non-bacterial (viral and fungal) infections and sterile
+      inflammation. The urgent unmet medical question is whether predictive host pathways of
+      infection can be used to first identify whether a patient is infected at or before clinical
+      presentation and, to further discriminate between the type of infection (in particular
+      bacterial or viral) and predictability of sepsis.
+    
+  

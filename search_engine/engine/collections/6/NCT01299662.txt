@@ -1,0 +1,320 @@
+
+    
+      This protocol will take a systems biology approach to understand in humans a major new area
+      of vaccine biology: the mechanism whereby adjuvants, acting on defined pattern recognition
+      receptors [PRR], enhance T and B cell immunity. Our focus is on synthetic double stranded
+      RNA, or poly IC and its more RNase resistant form, called poly ICLC, which is available for
+      studies in humans. The PRRs are the cytosolic helicase, MDA-5, and the endosomal toll like
+      receptor, TLR3. The Steinman lab has pioneered in mice and monkeys that dsRNA is a superior
+      adjuvant for T cell mediated immunity relative to several PRR agonists (Longhi et al., 2009;
+      Stahl-Hennig et al., 2009). A major mechanism is that poly IC is a superior inducer of
+      systemic type I interferon [IFN], which in turn acts on type I IFN receptors [IFNAR] to
+      mature immune stimulatory function of dendritic cells [DCs]. An adaptive Th1 type T cell
+      response is induced, but it is independent of IL-12 and IFN-g.
+
+      Multiparameter approaches now provide the means to understand adjuvant action. We hypothesize
+      that DCs undergo changes that are adjuvant-specific and then link innate to select forms of
+      adaptive immunity. Transcriptional arrays of splenic DCs in mice show that dsRNA induces a
+      massive response with ~1000 splenic DC genes changing >2 fold in 4 hrs. These changes are
+      driven primarily via type I IFN, produced systemically via MDA-5 in non-bone marrow derived
+      cells and then acting on DC IFNAR. IFNAR mediate most changes termed "DC maturation" and
+      acquisition of immune stimulating activity, e.g., high CD86, CD40, IL-15, and mechanisms to
+      restore homeostasis. In other words, IFN rather than PRR per se, accounts for the bulk of the
+      poly IC response in DCs.
+
+      In a recently completed phase I study (protocol MAC-682), poly ICLC was found to be safe and
+      well tolerated when administered as a single dose of 1.6 mg subcutaneously (s.c.) and
+      intranasally (i.n.) to healthy volunteers. Preliminary innate immune response data shows,
+      similarly to preclinical studies in mice, marked upregulation of gene expression in whole
+      PBMCs following s.c injection of poly ICLC. At day 1 following poly ICLC injection, over
+      2,000 genes are upregulated (> 1.3 fold change of expression at day 1 versus at baseline) and
+      these responses are specific to the study drug. Importantly, gene changes are homogenous
+      among the 8 volunteers who received poly ICLC. The top upregulated genes are
+      interferon-stimulated genes as it would be predicted since poly ICLC is known to induce type
+      I interferons. In addition, genes associated with dendritric cell (DC) activation such as
+      CD40 and CD86 are also upregulated at day 1 after poly ICLC injection, as well as genes
+      involved in signaling pathways such as IRF 5, IRF 7 and STAT1. Poly ICLC induced secretion of
+      small amounts of types I and II interferons in plasma and these levels peaked at day 2 post
+      injection. Lastly, FACS analysis of PBMCs demonstrated that poly ICLC induced upregulation of
+      activation markers on different subsets of blood dendritic cells. Evaluation of later
+      timepoints are currently taking place but analyses of samples from day 7 show that genes
+      involved in the generation of T and B cell responses are upregulated and the early
+      interferon-stimulated genes are trending down to baseline levels of expression. These results
+      so far show that subcutaneous injection of poly ICLC led to systemic innate immune responses,
+      dominated by the induction of type I interferons. Assays have been performed in whole PBMCs
+      however genetic expression patterns of different subsets of blood leukocytes in response to
+      poly ICLC remain to be defined. We now propose to extend the analysis of systemic immune
+      responses after poly ICLC to the characterization of its transcriptional effects on specific
+      FACS sorted blood cell types, such as DCs, monocytes, NK cells as well as T and B cells. By
+      analyzing individual cell subsets we expect to better dissect how poly ICLC modulates innate
+      immune responses that can in turn affect adaptive immune responses when given in combination
+      with an antigen.
+
+      Significant regulation of interferon genes (both type I IFNs and IFN-gamma) was not evident
+      by gene array analysis of whole PBMC's, despite measurement of small amounts of both
+      IFN-alpha and IFN-gamma in plasma. It may be that the platform used was not sensitive enough
+      to detect regulation of IFN genes and we plan to perform RT-PCR to verify these findings.
+      However, it may be that when we restrict our analysis to peripheral blood, we miss the early
+      events that take place following poly ICLC administration. In order to understand how poly
+      ICLC activates different cell populations, it is important to characterize its
+      immunoregulatory effects both locally and systemically.
+
+      The cutaneous immune environment is particularly amenable to PRR ligand modulation as
+      evidenced by imiquimod, which acts on TLR 7. Indeed, use of imiquimod to stimulate immune
+      responses against both infectious agents (HPV) and malignancy (squamous and basal cell
+      carcinoma) has been documented. Migratory DCs, which traffic from the skin to the skin
+      draining LN, have been shown to cross prime immune reponses to self and viral antigens. As
+      such, it is possible that skin DCs may migrate into skin draining LNs or blood following poly
+      ICLC administration. However analysis of blood populations alone will likely miss the window
+      of immune alteration if these events are occuring locally in the skin. Analysis of genetic
+      expression and of cellular infiltrates at the site of poly ICLC injection, both early on (at
+      6 hours) and when skin infiltration is evident clinically (at day 1), will likely add to our
+      understanding of its adjuvant effects. Genomic expression profiles of skin samples have been
+      successfully used for disease classification and to predict response to treatment in skin
+      diseases such as psoriasis and squamous cell carcinoma (Zaba L et al., 2007; Suarez-Farinas
+      et al., 2010). Analysis of genomic expression profile in skin after poly ICLC may prove
+      useful to understand how innate immune responses are initiated by PRRs ligands and perhaps by
+      other vaccine adjuvants.
+
+      Most studies of poly ICLC in humans used the intramuscular route of administration.
+      Subcutaneous administration of poly ICLC has not been studied extensively and protocol
+      MAC-682 was the first study to use this route of administration in healthy volunteers.
+      Following poly ICLC s.c. injection, 8 out of 8 volunteers developed a well-defined area of
+      erythema, with some degree of induration and tenderness. This injection site reaction usually
+      peaks at day 2 and is completely resolved by day 7. Histologic data characterizing this
+      infiltrate is not available in humans. However, data is available in non-human primates.
+
+      A GLP-compliant toxicology study was performed in cynomolgus macaques to investigate the
+      safety of anti-DEC-205 (3G9) - HIV gag p24 (DCVax-001) in combination with the adjuvant
+      Hiltonol (poly ICLC) subcutaneously. In this study, macaques were administered a total of
+      four doses of 10 mg of anti-DEC-205-HIV gag p24 antibody in combination with 2 mg of poly
+      ICLC, 10 mg of poly ICLC alone or placebo, over 8 weeks. With regard to reactogenicity
+      (modified Draize scoring), there was evidence to indicate that poly ICLC (10 mg) induced very
+      slight and transient injection site reaction in the form of erythema; however, the reaction
+      was reduced or absent with repeated dosing, indicating that it was of minimal toxicological
+      significance. A number of gross lesions including dark area, dark discoloration or gelatinous
+      material were present in the most recent site of administration prior to euthanasia, 1 day
+      after poly ICLC injection. At least one of these findings occurred in all animals of both
+      genders receiving 10 mg poly-ICLC. Microscopically, these were associated with hemorrhage
+      and/or presence of extracellular or intracellular (within macrophages) foreign material
+      presumed to represent predominantly adjuvant/test article. The lesions were therefore
+      considered consistent with an expected local reaction to foreign material at the injection
+      sites. Upon recovery (4 weeks after injection), no macroscopic findings related to the
+      administration of poly-ICLC were noted. Despite differences between the skin of non-human
+      primates to human skin, we expect to find similar transient cellular infiltration at the site
+      of poly ICLC s.c. injection.
+
+      In addition to its role in anti tumor and viral immunity mentioned above, topical imiquimod
+      has been used as an adjuvant in combination with intradermal NY-ESO-1 protein in melanoma
+      patients. This combination induced dermal mononuclear cell infiltrates in all patients. The
+      infiltrates were composed primarily of T cells, monocytes, macrophages, myeloid DCs, NK
+      cells, and, to a lesser extent, plasmacytoid DCs (Adams et al., 2008). Poly ICLC however acts
+      on different PRRs, MDA-5 and TLR-3, and likely induces secretion of type-I IFNs locally. In
+      situ immunomodulatory effects of poly ICLC are likely to differ from the effects of
+      imiquimod. Combining immunohistochemistry evaluation of the cellular infiltrates induced by
+      poly ICLC along with gene array analysis of its transcriptional effects on whole skin from
+      the injection site may help elucidate the local events and mechanisms whereby poly ICLC
+      exerts an adjuvant effect.
+
+      By working with our collaborator, Rafick Sekaly, who has used systems biology to monitor
+      innate and adaptive responses to yellow fever vaccine and other patient cohorts (Gaucher et
+      al., 2008), we can understand adjuvant perturbation of immune function. Blood and skin
+      samples collected from the study volunteers will be sent to Dr. Sekaly's lab at the Vaccine
+      and Gene Therapy Institute, where transcriptional arrays and high order bioinformatics
+      analyses will be performed to obtain a global understanding of the innate immune responses to
+      poly ICLC.
+
+      The proposed study is an open label study to evaluate the innate immune responses induced
+      poly ICLC in healthy volunteers. The objectives of the study are to characterize the
+      transcriptional changes induced by subcutaneous administration of poly ICLC on different
+      blood cell types and to characterize the cellular infiltrates and transcriptional changes at
+      the site of poly ICLC injection.
+
+      Primary Hypothesis Administration of poly ICLC to healthy volunteers will induce distinct
+      transcriptional changes in different blood cell types, including different subsets of DCs.
+
+      Secondary Hypothesis Administration of poly ICLC to healthy volunteers will induce distinct
+      transcriptional changes, and T cell and myeloid cell infiltrate in the skin at the site of
+      injection.
+
+      Primary Aim:
+
+      To evaluate the innate immune responses to poly ICLC in different blood cell types, including
+      three subsets of dendritic cells after subcutaneous administration to healthy volunteers.
+
+      Secondary Aims:
+
+        -  To evaluate the innate immune responses to poly ICLC at the injection site.
+
+        -  To evaluate the reproducibility of innate immune responses in whole PBMCs after a second
+           dose of poly ICLC, in volunteers who participated in protocol MAC-682 and now return to
+           participate in this proposed study.
+
+      Primary Outcome(s):
+
+        -  Transcriptional arrays in whole PBMCs and in 8 subsets of blood leukocytes (naïve and
+           memory T, NK, B, monocytes and three different subsets of dendritic cells (BDCA1+,
+           BDCA3+ and BDCA2+ plasmacytoid DCs) following s.c. administration of poly ICLC.
+
+        -  Flow cytometric analysis of activation markers in different subsets of blood leukocytes.
+
+        -  Measurement of cytokines in the serum and/or plasma following s.c. administration of
+           poly ICLC.
+
+      Secondary Outcome(s):
+
+        -  Routine histology and immunohistochemistry to evaluate cellular infiltrates following
+           subcutaneous injection of poly ICLC.
+
+        -  Transcriptional analysis of skin samples from study drug injection site and from a
+           non-lesional site of skin.
+
+        -  Transcriptional analysis of whole PBMC samples at different timepoints following the
+           first dose and the second dose of poly ICLC in volunteers who participated in protocol
+           MAC-682 and are now returning to participate in this proposed study.
+
+      Methods and Procedures:
+
+      Pre-Screening Questionnaire Potential participants will first undergo pre-screening by
+      telephone to assess medical history and qualification for the study (Appendix C -
+      Pre-screening Questionnaire). Potential volunteers will have the opportunity to discuss the
+      study and ask questions of the study recruiter at this time. Those who are eligible and
+      interested in participation will attend a screening visit at the Rockefeller Hospital
+      Outpatient Clinic.
+
+      Screening Visit
+
+      During the screening visit, study personnel will answer any questions about the study.
+      Written informed consent will be obtained prior to conducting any study procedures. To ensure
+      informed consent, the principal investigator or designee will discuss the following processes
+      and explanations individually with each volunteer:
+
+        1. Pre HIV-test counseling.
+
+        2. Sexually active volunteers should use a reliable form of contraception from screening
+           until 6 weeks after drug administration.
+
+      If the volunteer consents to participate, site personnel will:
+
+        -  Perform complete medical history (including concomitant medication);
+
+        -  Perform a general physical examination including height, weight, vital signs (pulse,
+           respiratory rate, blood pressure and temperature), examination of skin, respiratory,
+           cardiovascular and abdominal systems, and an assessment of cervical and axillary lymph
+           nodes;
+
+        -  Collect blood and urine specimens for all tests as indicated in the Schedule of
+           Procedures (Appendix A);
+
+        -  Perform a pregnancy test for all female volunteers.
+
+      Screening laboratory test(s) may be repeated at the discretion of the principal investigator
+      or designee to investigate any isolated abnormalities.
+
+      If the screening visit occurs more than 45 days prior to date of drug administration, then
+      study procedures for the screening visit must be repeated. However, the complete medical
+      history may be replaced by an interim medical history and the informed consent form may be
+      reviewed without signing again.
+
+      Drug Administration Visit (Day 0)
+
+      Prior to the study drug administration, site personnel will:
+
+        -  Answer any questions about the study;
+
+        -  Review interim medical history (including concomitant medications);
+
+        -  Review safety laboratory data;
+
+        -  Review the informed consent form administered at screening visit with volunteer;
+
+        -  Perform a directed physical examination including vital signs (pulse, respiratory rate,
+           blood pressure and temperature) as well as an assessment of axillary lymph nodes and any
+           further examination indicated by history or observation;
+
+        -  Collect blood and urine specimens for all tests as indicated in the Schedule of
+           Procedures (Appendix A);
+
+        -  Perform a pregnancy test for all female volunteers (blood will be sent stat) and obtain
+           results prior to drug administration
+
+        -  Perform baseline assessment of the site of study drug and evaluate and record any
+           systemic symptoms;
+
+        -  Administer study drug (sites of injection may be upper arms, thighs or buttocks)
+
+        -  For volunteers who have agreed to undergo skin punch biopsies, two skin punch biopsies
+           will be performed: one at a skin site contralateral to the injection site and the other
+           at the injection site, 6 hours after study drug administration. The two selected skin
+           sites for biopsy will be cleaned with povidone-iodine and anesthetized by injection of
+           1-2% of xylocaine. L.M.X.4 (Lidocaine 4%) a topical anesthetic cream may also be
+           applied. Two punch biopsies of skin (6 mm) will be removed. The wounds will be sutured
+           and sterile dressing applied. This procedure leaves a small and permanent scar.
+
+        -  The volunteer will have the option to stay in the hospital overnight the night before
+           study drug or placebo administration and/or the day of study drug administration for
+           convenience ("boarders") or be scheduled as a day patient
+
+      Volunteers will be closely observed for at least 30 - 45 minutes after drug administration.
+      Vital signs (pulse, respiratory rate, blood pressure and temperature) will be monitored at 30
+      - 45 minutes after vaccination and recorded. Any local and systemic reactogenicity events, as
+      well as any other event that occurs, will be recorded at 30 - 45 minutes. Volunteers will be
+      given a diary card (Appendix B) and asked to record any reactogenicity events that occur in
+      first day after drug administration and between days 1 and 3 and between days 3 and 7. Site
+      staff will explain to the volunteer how to record reactogenicity events.
+
+      Medical photography will be done to document the injection site and changes post injection,
+      if any. The volunteer's identity will be kept confidential.
+
+      Day 1 Post-Drug Administration Visit
+
+        -  Review of interim medical history and use of concomitant medications;
+
+        -  If symptoms are present, perform a symptom-directed physical examination;
+
+        -  Assess local and systemic reactogenicity as well as any other adverse events;
+
+        -  Collect blood and urine specimens for all tests as indicated in the Schedule of
+           Procedures (Appendix A).
+
+        -  For volunteers who have agreed to undergo skin punch biopsies, one additional skin punch
+           biopsy will be performed 1 day after study drug administration, at the injection site.
+           The selected skin site for biopsy will be cleaned with povidone-iodine and anesthetized
+           by injection of 1-2% of xylocaine. L.M.X.4 (Lidocaine 4%) a topical anesthetic cream may
+           also be applied. One punch biopsy of skin (6 mm) will be removed. The wound will be
+           sutured and sterile dressing applied. This procedure leaves a small and permanent scar.
+
+      Post-Drug Administration Visits
+
+      Volunteers will be asked to return to the clinic 2, 3, and 7 days after study drug
+      administration. On those days the following will be conducted:
+
+        -  Review of interim medical history and use of concomitant medications;
+
+        -  If symptoms are present, perform a symptom-directed physical examination;
+
+        -  Assess local and systemic reactogenicity as well as any other adverse events;
+
+        -  Collect blood and urine specimens for all tests as indicated in the Schedule of
+           Procedures (Appendix A);
+
+      Follow Up Visit
+
+      At Week 2, volunteers will be asked to return to the clinic for an additional assessment of
+      safety and immunogenicity. The following will be conducted at this visit:
+
+        -  Review of interim medical history and use of concomitant medications;
+
+        -  If symptoms are present, perform a symptom-directed physical examination;
+
+        -  Assess any adverse events;
+
+        -  Collect blood and urine specimens for all tests as indicated in the Schedule of
+           Procedures (Appendix A);
+
+        -  Suture removal after optional skin biopsies, if biopsies are performed.
+
+      Samples will not be shipped to our collaborator, Dr. Rafick Sekaly until his IRB approval is
+      accepted and reviewed by Rockefeller's IRB.
+    
+  

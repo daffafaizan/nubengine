@@ -1,0 +1,163 @@
+
+    
+      DESIGN OVERVIEW: the Northern Manhattan Study of Metabolism and Mind (NOMEM) is a
+      longitudinal cohort study of middle aged Hispanics. Recruitment of the initial cohort of 600
+      participants was completed between January of 2012 and December of 2013. Our total target
+      sample size is 1000 participants. Participants are followed every 2 years. Participants are
+      self-identified Hispanic men and women aged 50 to 65 years. The sampling frame is the
+      community of Northern Manhattan in New York City.
+
+      Participants undergo phlebotomy, measurement of vital signs and anthropometric measures,
+      interviews of medical history, cognitive assessments, and interviews of social determinants
+      of health and mental and physical conditions. Assessments take between 2 and 3 hours.
+
+      VARIABLES:
+
+        -  Glycemia and diabetes status: glycemia is measured with HbA1c. Diabetes is defined by
+           clinical history or by HbA1c ≥ 6.5%, following 2010 ADA criteria. Pre-diabetes is
+           determined following ADA 2010 criteria (HbA1c 5.7 to 6.4%).
+
+        -  APOE genotyping: The 3 APOE alleles will be genotyped, ε2, ε3, and ε4.
+
+        -  Body Mass Index (BMI). Standing height is measured using a stadiometer calibrated in cm.
+           Body weight is measured using a balance beam scale calibrated in kg. With the
+           participant standing, measurements are taken to the nearest 0.1 kg of weight with a
+           balance scale and height without shoes to nearest 0.5 cm, to calculate BMI
+           (weight/height2). (use: covariate, ancillary studies).
+
+        -  Demographic variables: We collect date of birth, sex, years and education, racial group,
+           and country of origin (following the 2010 census format for Hispanics) (use:
+           covariates).
+
+        -  Depression: We measure depression and depressive symptoms using the PHQ9 and the PROMIS
+           depression scale.
+
+        -  High sensitivity CRP: Measured using ELISA (Diagnostic systems laboratories, INC,
+           Webster, Texas). The assay sensitivity is 1.6 ng/ml, the inter-assay CV is 11.7%, and
+           the intra-assay CV is 4.6%. This assay can be conducted in serum or plasma.
+
+        -  Lipids: total cholesterol (TC), HDL. TC and HDL are measured using enzymatic
+           colorimetric methods (Vitros; Johnson & Johnson, New Brunswick, NJ).
+
+        -  Medical history.This includes vascular disease, cancer, and smoking
+
+        -  Medications: We will record medications, vitamins, and over the counter products (use:
+           covariate, ancillary studies).
+
+        -  Resting blood pressure (BP): BP will be measured using an automated oscillometric
+           device; 3 measurements are obtained at 1-minute intervals in a seated position after 5
+           minutes of rest. The average of the 2nd and 3rd measurements will be recorded as the BP.
+
+        -  Waist and hip circumference: Waist circumference is measured at the level of the
+           umbilicus. Hip circumference is measured at the level of maximal protrusion of the
+           gluteal muscles. Waist-hip ratio is calculated as the ratio of waist circumference to
+           hip circumference.
+
+        -  Cognitive battery:
+
+             -  WAIS-R Similarities. This Wechsler Adult Intelligence Scale-Revised subtest has
+                good norms and is a standard portion of a dementia evaluation. The items have been
+                translated into Spanish and a scoring guide has been developed. Age-Scaled scores
+                will be used. [Max. Score=19; Time=5 min] Non-Verbal Similarities. The Identities
+                and Oddities subtest of the Mattis Dementia Rating Scale is used to assess
+                nonverbal abstract reasoning. [Max. Score=16; Time=2 min]
+
+             -  Color Trails Test Color Trails 1 is a test of sustained visual attention,
+                psychomotor speed, and simple sequencing and involves connecting circles containing
+                the numbers 1 through 25 in order as quickly as possible. Color Trails 2 also
+                involves connecting circles containing the numbers 1 through 25 in order as quickly
+                as possible, but the examinee must shift between pink and yellow colored circles.
+                Like Part 1, Color Trails 2 assesses visual attention and psychomotor speed but
+                also requires a higher level of executive functioning skills.
+
+             -  Verbal Fluency: Controlled Word Association Test. The patient is given 1 min to
+                name as many words beginning with a particular letter as s/he can. Norms and
+                frequency counts exist for this test in Spanish as well as English. Three
+                categories, Animals, Food, and Clothing are administered to assess category naming.
+                [Time=7 min]
+
+             -  The Selective Reminding Test (SRT) is a standard tool in the assessment of verbal
+                memory and dementia and has been used as a sensitive longitudinal measure of
+                changes in memory function. The SRTwas translated into Spanish using words of
+                similar frequency to those in the standard test versions. Subjects are given 6
+                trials to learn a list of 12 unrelated words. After each attempt at recalling the
+                list, the subject is reminded only of the words that were not recalled and then
+                must attempt to recall the entire list. To assess short-term memory, 2 measures are
+                used: total recall (max. score=72) and retrieval from long-term storage (max.
+                score=72). To assess long-term recall, delayed recall is assessed 15 minutes after
+                completing the SRT (max. score=12); recognition of words not recalled is then
+                tested using multiple choice arrays (max. score=12). [Time (not including 15 min.
+                delay interval, during which other tests are administered) =15 min].
+
+             -  The orientation items from the modified Mini-Mental State Examination are used to
+                assess orientation to time and place. These items are sensitive to dementing
+                changes in our normative samples. [Max. Score=10; Time to administer=2 min]
+
+        -  Social Determinants of Health:
+
+             -  Individual SES: MacArthur Network on SES and Health Measures Household
+                income/number of people supported, wealth, debt, how long one could live at current
+                lifestyle if current sources of income ceased
+
+             -  Perceived Social Status: MacArthur Ladder; Perceived relative standing in the US
+
+             -  Migration: Age at migration Years of life in US
+
+             -  Everyday Discrimination* Everyday Discrimination; 10 items; Daily discriminatory
+                hassles
+
+             -  Major Discrimination* Modified Experiences of Discrimination Scale:
+
+                12 items; Frequency measure of total lifetime occurrences; 0=Never to 5=Four or
+                More Times
+
+             -  Coping with Discrimination-Psychosocial Experiences of Discrimination Scale; 3
+                coping styles-0=Passive (accept/quiet); 1=Moderate (quiet); 2=Engaged (do
+                something/talk to others)
+
+             -  Coping with Discrimination-Health Behavior Modified Experiences of Discrimination
+                Scale 4 behaviors-Exercising, eating sweets/fatty foods, drinking alcohol, smoking
+                cigarettes 0=Never; 3=most of the time
+
+             -  Coping with Stress-Psychosocial Based on Experiences of Discrimination Scale 3
+                coping styles-0=Passive (accept/quiet); 1=Moderate (quiet); 2=Engaged (do
+                something/talk to others)
+
+             -  Coping with Stress-Health Behavior Modified Experiences of Discrimination Scale 4
+                behaviors-Exercising, eating sweets/fatty foods, drinking alcohol, smoking
+                cigarettes; 0=Never; 3=most of the time
+
+             -  Racial/Ethnic Socialization Racial/Ethnic Socialization Scale 15 items; 0=Never,
+                1=Almost Never; 2=Sometimes; 3=Often; 4=Very Often
+
+             -  Ethnic Identity Multi-Ethnic Identity Measure 12 items from Affirmation and
+                Belonging and Ethnic Identity Search subscales
+
+             -  Acculturation Bidimensional Acculturation Scale Average of 12 items in each domain
+                (Hispanic, Non-Hispanic)
+
+             -  Alcohol Use Alcohol Use Disorders Identification Test 10 items; Items scored 0-4
+
+             -  Smoking From COHD battery Cigarettes smoked daily
+
+             -  Diet Behavioral Risk Factor Surveillance System 6 items; 1=More than Once a Day;
+                5=Less than Once a Week
+
+             -  Physical Activity IPAQ Summation of the duration (in minutes) and frequency (days)
+                of walking, moderate-intensity and vigorous-intensity activities to estimate MET
+                minutes/week
+
+             -  Barriers to Exercise* Benefits and Barriers to Exercise71 9 items; 0=Never; 5=Very
+                Often
+
+             -  John Henryism John Henryism Active Coping Scale 12 items; 1=Completely True;
+                5=Completely False
+
+             -  Social Support Social Support Questionnaire Count # of people for odd items. Add
+                totals (Max=54). Divide by 6 for per item SSQ Number Score. Add total Satisfaction
+                score for 6 even numbered items
+
+             -  Neighborhood Resources Census-derived neighborhood deprivation % living or below
+                poverty line
+    
+  

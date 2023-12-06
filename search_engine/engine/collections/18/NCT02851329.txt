@@ -1,0 +1,30 @@
+
+    
+      The investigators develop a multi-CT-phenotypic-feature-based classifier to predict TKI
+      benefit and therapeutic resistance for stage IV EGFR-mutant non-small cell lung cancer
+      (NSCLC). The investigators also compared its prognostic and predictive efficacy with single
+      features and clinicopathological risk factors. An individualized nomogram integrated the
+      classifier and three clinicopathological risk factors was built for clinical use. The
+      prognostic accuracy of the proposed model was evaluated in two independent validation sets.
+
+      Nearly 500 patients will be enrolled in this clinical trial. Eligible patients were diagnosed
+      with NSCLC, and stage IV according to the TNM system classification of the American Joint
+      Committee on Cancer, presence of activating EGFR mutations, age 20 years or older, and no
+      history of systemic anticancer therapy for advanced disease. Patients who underwent
+      first-line or second-line EGFR TKIs were eligible for inclusion. All patients had to be
+      capable of undergoing contrast-enhanced CT, and pretreatment CT was strictly controlled in
+      two weeks before the EGFR TKIs starts. Patients who underwent resection for local advanced or
+      metastatic disease were withdrawn from the study.
+
+      Therapeutic resistance was measured by PFS, as the time from the initiation of EGFR TKIs
+      therapy to the date of confirmed disease progression or death. PFS was censored at the date
+      of death from other causes, or the date of the last follow-up visit for progression-free
+      patients.
+
+      The investigators will use extracted 1000 phenotypic features on the region of interest
+      manually segmented by radiologists. The Lasso Cox regression model and Nomogram will be used
+      to build a prognosis model for the therapeutic resistance prediction of EGFR TKIs for stage
+      IV EGFR-mutant NSCLC. The Harrell's concordance index(C-index) of the proposed nomogram will
+      be used to quantify the discrimination performance.
+    
+  

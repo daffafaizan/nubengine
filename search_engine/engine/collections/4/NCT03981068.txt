@@ -1,0 +1,87 @@
+
+    
+      Summary Design Phase II observational Inclusion criteria
+
+        -  Histological verified loco-regional recurrence or new primary
+
+        -  Available dose plan from primary radiotherapy course
+
+        -  Comparative dose plan with advantages for proton radiotherapy e.g. integral dose
+
+        -  Dmax dose (0.03 cm3) on the cumulated photon dose plan≥90 Gy
+
+        -  Complete Response (CR)* after initial therapy, except in the case where the recurrence
+           is considered a geometric miss (recurrence center of mass (COM) outside the 95% of
+           prescription dose.
+
+        -  Inoperable or salvage surgery with R1/R2 resection, extranodal extension (ENE) or
+           extensive soft tissue infiltration
+
+        -  Absence of distant metastasis at both
+
+             -  clinical examination AND
+
+             -  PET-CT or CT of thorax and upper abdomen
+
+        -  Life expectancy due to age and co-morbidity of >=1 year. The general condition must be
+           sufficient to tolerate persistent significant side effects, e.g. tube or cannulae
+
+        -  PS<=2 (WHO See appendix)
+
+        -  The patients should be able to read Danish in order to participate with quality of life
+           questionnaires, but can participate in the rest of the protocol without being fluent in
+           Danish, if capable of reading the patient information.
+
+           * Complete Response is defined as the situation when a trained clinician, ideally at a
+           multidisciplinary team conference, defines the patient as in complete remission, based
+           on clinical examination and available imaging. This status can of course later be
+           considered wrong as new information becomes available (sub-centimeter nodes grow etc.)
+           Exclusion criteria
+
+        -  Radical surgery (R0) and absence of adverse prognostic pathological features
+
+        -  Lymphoma or malignant melanoma
+
+        -  Inability to attend full course of radiotherapy or follow-up visits in the outpatient
+           clinic
+
+        -  As of 2019, patients with tracheal cannulas are excluded due to dose uncertainties. This
+           may change if a technical solution becomes available.
+
+      Treatment
+
+        -  60 Gy/50 fx / 10W-1 at 1.2 Gy/fx
+
+           o i.e. EQD2 tumor=56 Gy, EQD2 late=50.4 Gy at α/β= 10 and 3, respectively
+
+        -  Proton radiotherapy
+
+        -  Concomitant cisplatin for eligible patients*
+
+        -  Nimorazole recommended for SCC* *The concurrent medical treatment (weekly cisplatin and
+           nimorazole) are prescribed according to the national treatment guidelines, and are not
+           part of the experimental treatment.
+
+      Endpoints
+
+        -  Primary:
+
+           o Any new late toxicity grade >=3 according to CTC AE 5.0
+
+        -  Secondary
+
+             -  Side effects according to DAHANCA scoring system
+
+             -  Quality of life and PROM according to EORTC C30 and HN43
+
+             -  Loco-regional control (LRC)
+
+             -  Overall survival (OS)
+
+      Derived projects
+
+        -  Morbidity (NTCP) modeling for cumulative doses
+
+        -  Metrics for uncertainties regarding cumulative doses
+    
+  

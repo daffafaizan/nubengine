@@ -1,0 +1,46 @@
+
+    
+      Following the design of our pilot study, patients consenting to two sets of blood pressure
+      readings will be randomly allocated using a random number table to either automated blood
+      pressure measurement using a BpTRU device in an exam room (private area without any traffic
+      or staff) with the door closed, or BpTRU in an open (non-private area) of the clinic with
+      routine office traffic and noise levels. Patients randomized to the private area first will
+      be subsequently tested in the non-private area and those randomized to the non-private area
+      first will then be tested in the private area. A single portable BpTRU machine will be used
+      for all recordings. A research assistant will be trained on the use of the equipment with at
+      least five supervised training readings. The BpTRU device will be placed on the patient's arm
+      and readings will be recorded by the research assistant. The first reading will be done with
+      the research assistant present to ensure proper placement and recording. The patient will
+      then be left alone for the subsequent five measurements separated by one minute intervals.
+      This will be immediately followed by a second set of readings in the alternate location.
+      During both sets of readings the patient will be seated comfortably in a chair with arms and
+      will be instructed not to talk or cross their legs. The same arm will be used for both sets
+      of measurements with the blood pressure cuff at heart level. The research assistant will
+      record the average of the last five out of six blood pressure readings for each office
+      location, in accordance with the manufacturer's recommendations and previous studies.
+
+      The research assistant will record decibel levels in each location during BP readings using a
+      Reed Sound Level Meter C-322 (Reed Instruments, Ste-Anne-de-Bellevue, Quebec, Canada). The
+      sound level meter includes a data logger, and the mean decibel level per location for each
+      set of readings will be recorded. The assistant will be trained in the use of the sound meter
+      and logger and will use it during the five supervised BP training readings. The research
+      assistant will also measure and record the patient's weight in kg, height in cm, and will
+      collect information on patient's gender and self reported history of hypertension.
+
+      Planned sample size and analysis Our sample size is based on equivalence of BpTRU measurement
+      done in non private office areas as compared to measurement done in private office areas,
+      using the results of our pilot study. We consider differences of less than 5 mm Hg in
+      systolic blood pressure to be clinically equivalent. In order to demonstrate equivalence for
+      our primary outcome, and accounting for clustering effect in primary care offices, using a
+      power of 80% and a two sided alpha level of 0.05 to conclude equivalency for a difference of
+      5 mm Hg or less, we will need to recruit 350 patients. Our planned recruitment is therefore
+      fifty patients per office and seven office locations. 175 patients (25 per office location)
+      will be randomly allocated to BpTRU measurement in a private exam room first and 175 will be
+      allocated to an open area first.
+
+      Following the analytic methods used in our pilot study, we will use a random effect
+      regression model to account for repeated measures within each participant for analyzing the
+      data. Regression analysis will be undertaken to compare the measures and results will be
+      adjusted for clustering effect. All tests will be two-sided using an alpha level of 0.05.
+    
+  

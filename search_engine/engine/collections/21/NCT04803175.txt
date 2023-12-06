@@ -1,0 +1,55 @@
+
+    
+      1. Background and study purpose Heart failure (HF) is caused by structural or functional
+      abnormality of the myocardium or elevated intracardiac pressures, resulting in symptoms and
+      signs of low cardiac output or congestion, such as dyspnea, peripheral edema, elevated
+      jugular venous pressures, pulmonary congestion, and fatigue. HF with reduced left ventricular
+      ejection fraction (HFrEF) is defined as an LVEF <40% by the 2013 American College of
+      Cardiology/American Heart Association (ACC/AHA) guidelines. Recent guidelines recommend the
+      use of angiotensin-converting enzyme inhibitors (ACEI)/angiotensin II receptor blocker
+      (ARB)/angiotensin receptor neprilysin inhibitor (ARNI), beta blockers (BB), aldosterone
+      antagonists (AA), and sodium-glucose co-transporter-2 inhibitors (SGLT2i) in HFrEF patients.
+      ACEI/ARB/ARNI, collectively known as renin-angiotensin-system (RAS) blockers, are considered
+      the most important drug class in the treatment for HFrEF and recently, ARNI is increasingly
+      preferred as the first-choice drug. Unlike for initial treatment of HFrEF, continued
+      treatment for patients who experience recovery of LVEF is not as well established. In these
+      patients, called heart failure with improved ejection fraction (HFiEF), it is not clear
+      whether continued treatment with sacubitril/valsartan or valsartan is beneficial in terms of
+      relapse of heart failure or worsening of LVEF. Therefore, the investigators aim to determine
+      whether the treatment with sacubitril/valsartan versus valsartan differs in clinical outcomes
+      after 1 year in HFiEF patients by observing the change in serum N-terminal prohormone of
+      brain natriuretic peptide (NT-proBNP) and clinical relapse of HF.
+
+      2. Registry factors
+
+        1. Source data verification will be done by comparing the data to electronic medical
+           records and paper and electronic case report forms.
+
+        2. Data dictionary with detailed description of each variables are given.
+
+        3. Sample size assessment was calculated by comparing mean NT-proBNP levels at baseline and
+           after 12 months in the two groups by two-sample t-test (two-sided, effect size=0.6, type
+           I error=0.05, type II error=0.8, allocation ratio=1). With a drop-out rate of 10%, 50
+           patients in each group are needed. As the change of NT-proBNP in HFiEF with
+           sacubitril/valsartan or valsartan has rarely been reported, estimation from the TRED-HF
+           study (Lancet. 2019 Jan 5; 393(10166):61) was used as reference for effect size. This
+           reference was a small study of 25 patients in each group. Therefore, the effect size
+           used for calculation was modified to 0.6 rather than 0.8 by intuition of the
+           investigators.
+
+        4. Plan for missing data: To avoid unavailable data, clinical visits will be monitored and
+           calls will be made for missed appointments. Uninterpretable or out-of-range results will
+           be discussed by participating investigators through regular meetings.
+
+        5. Statistical analysis Based on intention-to-treat analysis, the primary outcome
+           (NT-proBNP changes) will be log-transformed and compared by paired t-tests. Baseline
+           characteristics will be presented according to initial drug assignment and compared with
+           the Mann-Whitney test for continuous variables or Fisher's exact test for categorical
+           variables. Data are presented as median and IQR or as n (%). Occurrence of the secondary
+           endpoint will be graphically displayed per group with Kaplan-Meier survival plots and
+           compared with the log-rank test. Cox proportional hazards models will be used to
+           investigate predictors of worsening NT-proBNP levels or occurrence of clinical adverse
+           events in patients of each group. A p value less than 0.05 will be considered
+           significant.
+    
+  

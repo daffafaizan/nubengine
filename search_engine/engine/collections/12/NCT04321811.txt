@@ -1,0 +1,76 @@
+
+    
+      Patients will be registered for through the study Web site. Following Web site registration,
+      patients will receive an electronic informed consent form. Informed consent is a process that
+      is initiated prior to the individual's agreeing to participate in the study and continues
+      throughout the individual's study participation. Consent forms will be Institutional Review
+      Board (IRB)-approved and the participant will read and review the document electronically.
+      Participants must sign the informed consent document prior to participating in the registry.
+      Participants will be informed that participation is voluntary and that they may withdraw from
+      the study at any time, without prejudice by emailing the study team.
+
+      As a real-world data registry, any adult men and women currently in the United States and
+      willing to provide written informed consent and:
+
+        -  who are feeling sick but have not tested positive for COVID-19, or
+
+        -  who are feeling sick and have tested positive for COVID-19, or
+
+        -  who are not feeling sick but want to participate can enroll
+
+      Patients unwilling or unable to provide informed consent will be excluded.
+
+      DATA MANAGEMENT A registry database will be maintained with identified registry data elements
+      captured into the REDCap Cloud EDC system, a commercial eClinical Platform that is 21 CFR
+      Part 11 Validated, HIPAA & FISMA compliant, and WHODrug and MedDRA certified. All access and
+      activity in the system is tracked and can easily be monitored by the Administrator. The
+      system has a login audit feature that tracks who has logged into the system, the date and
+      time of login, and the IP address of the connection. The system also tracks failed logins and
+      automatically locks a user's account after several failed attempts. The REDCap Cloud system
+      has a robust audit trail that shows all changes to any records within the system including
+      who made the change, the date and time of the change, the field that was changed, the old
+      value of the field and the new value of the field. Access can be monitored via a dashboard or
+      email alerts. Data management activities will follow standard operating procedures.
+
+      STUDY RECORDS RETENTION In the event that patient authorize the collection of additional
+      medical records, those records will be maintained in xCures' HIPAA compliant box storage
+      platform hosted on Amazon's HIPAA-compliant cloud servers. Source information, including
+      medical records will be abstracted into a study database and not made available in their
+      original format outside the study team. Study data including source records and case reports
+      forms will be maintained in electronic format indefinitely. De-identified databases derived
+      from the study records may be made available to other researchers and may be retained by
+      those organizations indefinitely based on the terms of the agreement under which the data was
+      provided.
+
+      SOURCE DOCUMENTS Source data can include clinical findings and observations, or other
+      information incorporated into the registry database to support analysis of data. Source data
+      is all information from which information in the registry database is derived in original
+      form (or certified copies of an original record). Examples of these original documents and
+      records include but are not limited to the following: electronic medical records, clinical
+      and office charts, laboratory notes, memoranda, correspondence, subjects' diaries or
+      patient-reported questionnaires, data from automated instruments, such as ECG machines,
+      photographs and other imaging (DICOM) files, slides, pharmacy records, and the reports
+      documenting medical interpretation of those files.
+
+      Data may be entered into the eCRF either manually by the study team performing data
+      abstraction from the EMR or electronically using direct entry of data into the or from an
+      electronic import of data. Patients may also enter information directly into the eCRF using a
+      patient-facing survey functionality either over the Web or using a smartphone app. Data
+      elements originating in EMR may be automatically transmitted directly into the eCRF using a
+      suitable API. Source data derived in that manner may have an intervening process, such as
+      abstraction by third-party including software including processing using machine learning
+      algorithms prior to transferring to the eCRF. xCures will retain source records in a secure
+      that will be maintained separately and securely from the eCRF. However, metadata tagging may
+      be employed to electronically map source data back from the eCRF to the source data record to
+      create an audit trail.
+
+      DISCONTINUATION OF PARTICIPATION
+
+      Participants can withdraw from the registry at any time by sending a written request to
+      xCures. Withdrawal from the study means that no additional data will be collected from the
+      patient and does not constitute revocation of the right to use the data collected prior to
+      withdrawal for the purposes described herein. xCures may discontinue the study at any time
+      for any reason. In the event the registry is discontinued enrolled participants may receive
+      an email notification and a public posting on the study Web site will be made, if possible.
+    
+  

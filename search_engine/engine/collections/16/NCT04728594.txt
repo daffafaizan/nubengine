@@ -1,0 +1,29 @@
+
+    
+      The researchers aim to evaluate the effectiveness of email reminders in promoting COVID-19
+      vaccinations among Geisinger employees. The project will compare two emails, which will vary
+      in the subject line and email content. Both emails will test different approaches that draw
+      from principles in behavioral science: social proof, reframing, and scarcity. Employees
+      receiving these emails will be compared with employees in a delayed-contact group, who will
+      not receive emails. Employees in the control group will later receive one of the emails.The
+      responses to the emails will help determine the communications later sent to the control
+      group.
+
+      All emails will ask recipients if they want to receive a COVID-19 vaccination. If they click
+      on a hyperlink indicating yes, they will be forwarded to an online registration and
+      scheduling homepage. If they click on a hyperlink indicating no, they will be forwarded to an
+      online questionnaire surveying people about their main reason for declining the vaccine at
+      this time. The questionnaire will automatically present information intended to assuage the
+      specific concern that people endorse, followed by a hyperlink to the scheduling site.
+
+      The data will be analyzed with logistic regression models with the control group as the
+      reference group, to compare the two email conditions versus the control group. This set of
+      analyses will only be conducted for scheduling a vaccination appointment as opposed to email
+      engagement outcomes (e.g., number of emails opened), which will not be applicable for the
+      control group. A second set of logistic regression models predicting scheduling a vaccination
+      appointment and email engagement will also be run, comparing the two email conditions against
+      each other. The data will be examined two days later (to help decide which email to send to
+      the delayed-control group) and four days later (when the policy for employee vaccination will
+      change, making the content of the email irrelevant).
+    
+  

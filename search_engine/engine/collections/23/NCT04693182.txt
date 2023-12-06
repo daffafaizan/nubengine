@@ -1,0 +1,147 @@
+
+    
+      Aims This is a two-arm cluster randomized controlled trial that assesses the consequences of
+      a shift work schedule without quick returns for six months, compared to a schedule that
+      include quick returns. First, we will examine any differential change in sickness absence,
+      during the six-month intervention period. Second, we will examine if there are differential
+      changes in sleep and functioning, physical and mental health, work-related accidents, and
+      turnover intention, among others. Third, we will investigate if individual characteristics
+      associated with shift work tolerance including sex, age, personality and subjectively
+      reported sleep need will moderate the negative effects of quick returns on the primary and
+      secondary outcomes. Finally, the study will investigate if individual factors like
+      satisfaction with work schedule, job satisfaction, job engagement and work-family
+      interference will moderate the negative effects of quick returns on the primary and secondary
+      outcomes.
+
+      Research design A cluster randomized controlled trial comparing a work schedule abolishing
+      quick returns (intervention) with that of a work schedule maintaining a normal amount of
+      quick returns (control) will be conducted. The clusters represent hospital units that are
+      randomly selected to receive (or not receive) the intervention. 'Normal amount of quick
+      returns' refer to that which is the common practice at the respective hospital unit in recent
+      years (i.e., when no explicit changes have been made to the work schedule), which means that
+      the total number of quick returns at the unit will vary from 329-2356 per year. The hospital
+      units were randomized to one of the two conditions in September 2020, of which the autumn of
+      2020 was spent planning the shift schedule for 2021 (i.e., removing quick returns for the
+      intervention group and leaving quick returns untouched for the control group), with the
+      intervention period commencing from February/March 2021 for most units. The intervention
+      period in this study is six calendar months. Most units in this trial start the intervention
+      period in February/March 2021, but some units will, for practical reasons, start the
+      intervention period in the second half of the rotation year, i.e. from August/September 2021.
+
+      The primary outcome is sickness absence retrieved from the local records kept by the hospital
+      (including short- and long-term sick leave). The baseline measurements will be sickness
+      absence from the year preceding the intervention, which for each individual participant will
+      be matched on duration and season to that of the intervention period. Sickness absence data
+      will be retrieved from the local records kept by the hospital.(Vedaa, Pallesen et al. 2017)
+      This record includes information about the date of any absence of the individual employee,
+      implying that it includes information about both short- and long-term sickness absence.
+      Further, these data include information on whether the absence is self-certified or whether
+      it is certified by a physician, whether the absence is due to a sick child of whom the
+      employee has caretaker responsibility of, and whether the absence is due to COVID-19 related
+      issues (e.g., quarantine). The use of register data will not require individual consent.
+      However, a consent-based part of the trial will also be conducted, in which secondary outcome
+      measures will be collected via questionnaire at baseline and six-month follow-up. All
+      employees (n ≈ 2700) at the randomized units will be asked to complete a digital
+      questionnaire made available via the hospital's internal website. Baseline assessment will
+      occur the month preceding the intervention period, and follow-up assessment will occur the
+      last month of the intervention period. A subsample (n ≈ 70) will be asked to objectively
+      record their sleep with advanced radar technomogy (Somnofy™) and subjectively with sleep
+      diaries for ≥1 week at the baseline and follow-up assessments, respectively.
+
+      Participants and procedure Recruitment This trial is carried out in close collaboration with
+      the human resources department at Haukeland University Hospital. All hospital care units that
+      have 24-hour staffing at hospital will be randomized, in which all healthcare workers working
+      shifts will be included, with the exception of physicians. Physicians will not be included
+      since they often have a different shift schedule and compensation scheme compared to the
+      other occupational groups. Hereinafter, 'all employees' refer to all healthcare workers
+      engaged in shift work at the randomised hospital units, with the exception of physicians. All
+      employees (n ≈ 2700) at the randomized hospital units will be asked to complete a
+      questionnaire prior to and at the end of the intervention period. Recruitment for this part
+      of the trial will take place via the hospital's internal website. Researchers and human
+      resources personnel at the hospital will attend staff meetings at all included units to
+      inform about the research project and encourage participation. A subsample of n ≈ 70 randomly
+      selected employees (evenly distributed from the intervention and the control units) will be
+      recruited for the sleep monitoring section of the trial.
+
+      Randomisation Eligible hospital units were randomized to one of the two conditions based on
+      stratification on unit size and total number of quick returns in the unit during the last
+      year (range: 329-2356). The randomization procedure will follow a 1:1 ratio.
+
+      Sample size The necessary sample size (assuming a power of .80 and significance level of .05)
+      was calculated to be 448 participants in each condition. This calculation was based on the
+      mean values of sickness absence days per month (0.9 days, SD=1.6), as reported in Vedaa et
+      al.(Vedaa, Pallesen et al. 2017). In the present trial, we will also examine potential
+      moderators and mediators in exploratory analyses, which will require an appreciably larger
+      sample size. For the primary outcome measure in this trial (sickness absence from register
+      data), we will have an expected sample size of ≈ 2700. This includes all employees (who work
+      >=50 percent of full time equivalent) in the randomized hospital units and is considered
+      sufficient for all conceivable purposes of this trial.
+
+      Data analysis plan All analyses will be conducted based on the intention-to-treat population,
+      unless otherwise stated. To examine the effects of a shift schedule abated of quick returns
+      on primary and secondary outcomes, the observed rates or scores will be analysed by means of
+      latent growth models (or other equivalent models such as generalized linear mixed models).
+      The observed rates or scores before and during the intervention period will be modelled by a
+      random intercept and a fixed slope. The effect of the intervention will be estimated by using
+      the group variable (intervention vs. control) as a predictor of the slope. Between-group
+      effect sizes (Cohen's d) will be calculated by dividing the mean difference in estimated
+      change in scores from baseline to the follow-up assessment by the pooled SD at baseline.
+      Robust maximum likelihood will be used as the estimator, providing unbiased estimates under
+      the assumption of data being missing at random,(Enders 2010) which might be partly met
+      through the inclusion of baseline scores to the model. The primary outcome measure in this
+      trial is sickness absence data retrieved from the register at the hospital, in which we
+      expect no missing data. However, it is reasonable to expect some missing data on the
+      secondary outcome measures, as data are collected through questionnaire or via the sleep
+      radar.
+
+      As some data for the follow-up questionnaire and sleep radar assessment will be missing not
+      at random, the robustness of the results under the missing-at-random assumption will be
+      tested by sensitivity analyses in which the missing scores at follow-up will be replaced by
+      baseline values for each respective individual. These sensitivity analyses will only be
+      performed on selected variables depending on the focus in the respective article.
+
+      The intention-to-treat analyses may be accompanied by selected per-protocol analyses in which
+      we, based on payroll data, define a group that has completely abolished or had a satisfactory
+      reduction in the number of quick returns over the intervention period.
+
+      The primary outcome of sick leave will mainly be analysed in terms of the total number of
+      sickness absence days and periods (spells) for a given period before compared to during the
+      intervention period.(Vedaa, Pallesen et al. 2017) The models of sickness absence will take
+      into account the zero inflation in this type of data. Other operationalisations of sickness
+      absence might also be considered in accordance with recommendations in the
+      literature.(Hensing, Alexanderson et al. 1998) For a further investigation of the sickness
+      absence data, we will consider the use of other models where we treat time differently. For
+      example, we will consider models where we look at the time to the first sick leave episode
+      for the two intervention groups, with a time-dependent covariate for the number of quick
+      returns (ie, a variable that increases by 1 each time the person has a quick return). Another
+      possibility is to say that participants start at "0" every time the person has a quick
+      return, and to measure time from the last quick return to the first subsequent sick leave
+      episode, while adjusting for repeated observations with e.g. robust variance estimate (the
+      non-quick return group will then only be followed from the start of the intervention, given
+      that they in fact have no quick returns). Another option is to set up a model for time from
+      sick leave to return to work.
+
+      Since the introduction of a work schedule without quick returns may entail an alternative
+      schedule with an increase in other undesirable characteristics (e.g., more consecutive
+      evening shifts), we will consider conducting analyses that adjust for such characteristics.
+
+      Mediator and moderator analyses will be performed for exploratory purposes, based on the
+      basic principle for such analyses in randomised controlled trials as described by others
+      ((e.g., Kraemer, Wilson et al. 2002)). For example, some of the data collected on
+      demographics, sleep-related personality traits (rCTI and MEQ), mental health, among others,
+      can be used to examine factors that may moderate the impact of the intervention.
+
+      References
+
+      Enders, C. K. (2010). Applied missing data analysis. New York, NY, US, Guilford Press.
+
+      Hensing, G., et al. (1998). "How to measure sickness absence? Literature review and
+      suggestion of five basic measures." Scandinavian journal of public health 26: 133-144.
+
+      Kraemer, H. C., et al. (2002). "Mediators and moderators of treatment effects in randomized
+      clinical trials." Archives of General Psychiatry 59: 877-883.
+
+      Vedaa, Ø., et al. (2017). "Short rest between shift intervals increases the risk of sick
+      leave: a prospective registry study." Occupational and Environmental Medicine 74: 496-501.
+    
+  

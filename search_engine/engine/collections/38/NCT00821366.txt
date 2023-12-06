@@ -1,0 +1,124 @@
+
+    
+      The study has three main objectives, each with a set of more specific aims:
+
+      Objective 1: Present a broader view of treatment success
+
+      In order to achieve this objective, the study aims to:
+
+        -  Investigate how access to antiretroviral treatment and to nutritional supplementation
+           impacts labour productivity and time allocation of patients and other household members
+
+        -  Investigate how access to antiretroviral treatment and to nutritional supplementation
+           impacts household welfare
+
+        -  Investigate how access to antiretroviral treatment and to nutritional supplementation
+           impacts educational and health outcomes for children in households with patients on
+           antiretroviral treatment
+
+      Objective 2: Develop a model of the determinants of treatment success
+
+      In order to achieve this objective, the study aims to:
+
+        -  Determine how various individual, household and facility-level characteristics impact
+           adherence to antiretroviral treatment, including access to a disability grant
+
+        -  Determine how access to a peer adherence supporter and nutritional supplementation
+           impacts adherence to antiretroviral treatment
+
+        -  Estimate the cost-effectiveness of these interventions in enhancement in adherence, from
+           both a fiscal and a social perspective
+
+      Objective 3: Understand the links between treatment and prevention
+
+      In order to achieve this objective, the study aims to:
+
+        -  Determine how access to antiretroviral treatment impacts on the uptake of voluntary
+           counselling and testing among members of households including patients on ARV treatment
+           and among members of households in the general community
+
+        -  Determine how access to antiretroviral treatment, to a peer adherence supporter and to
+           nutritional supplementation impacts on the sexual behaviour of patients on
+           antiretroviral treatment, their household members, and members of households in the
+           general community
+
+      The study aims to investigate effective AIDS treatment and support in settings where free ARV
+      treatment has been introduced already, with issues of scale-up and sustainability as a result
+      representing an important issue. The study therefore is being conducted in twelve phase I ARV
+      assessment sites in the Free State province, i.e. sites where ARV treatment first became
+      available when the ARV treatment programme was launched in the Free State province in
+      2004/05.
+
+        1. Type of study The study is a prospective, cohort study with a patient, household,
+           facility and provider survey component. The study has a social scientific focus, with a
+           clinical component, and comprises two behavioural interventions.
+
+        2. Description of experimental design The study is a combination of a group time-series
+           quasi-experimental design and a a variation of a double randomised consent design. The
+           study comprises four groups of households, three of which include patients on ARV
+           treatment (Figure 1). The provision of ARV treatment represents a quasi- or field
+           experiment, while the peer adherence support and nutritional interventions represent a
+           randomised-control experiment executed in accordance with a Zelen-type double randomised
+           consent design. This study design is deemed appropriate given the fact that: blinding is
+           not practicable or possible; the use of classical randomisation and informed consent
+           procedures significantly threatens internal validity; the interventions are highly
+           attractive; the control group receives standard care; the study focuses on a clinically
+           relevant objective(s) and offers important new insights (Kaptchuk, 2001; MacLehose et
+           al, 2001; Rains & Penzien, 2005).
+
+           Figure 1: Experimental study design
+
+           Group A: Households including ARV patients who receive the ARV treatment and associated
+           support provided as part of government's ARV treatment programme Sample size: n~216]
+
+           Group B: Households including ARV patients who receive the ARV treatment and associated
+           support provided as part of government's ARV treatment programme PLUS Adherence support
+           provided by a trained peer adherence supporter during twice weekly visits to the patient
+           [Sample size: n~216]
+
+           Group C: Households including ARV patients who receive the ARV treatment and associated
+           support provided as part of government's ARV treatment programme PLUS Adherence support
+           provided by a trained peer adherence supporter during twice weekly visits to the patient
+           PLUS Nutritional supplementation: weekly delivery of two 400g cans of meatballs and
+           spaghetti in tomato sauce by peer adherence supporter [Sample size: n~216]
+
+           Group D: Randomly selected households from the general community served by the selected
+           health facility, excluding households where someone is known to receive ARV treatment
+           [Sample size: n~180]
+
+           Sample size estimation:
+
+           The sample size calculation for the arms of the study is based on the method proposed by
+           Freedman (1982). The sample size estimation is based on the following assumptions:
+
+             -  The proportion of people showing an improvement in a specific outcome, are compared
+                across two arms of the study at a time.
+
+             -  Attrition in the control group of comparison households is assumed to be minimal or
+                none (since there is no ARV patient in the household), while attrition in the
+                intervention arms (where ARV treatment is considered an intervention) is assumed to
+                be much higher, given a reported mortality of 10% among ARV patients in the first
+                months of treatment (Free State Department of Health, 2006).
+
+             -  The required sample sizes for a 4-equal-arms-at-end-of-study design were calculated
+                taking into account the attrition rate of 17% in the three intervention groups and
+                a ratio of 1 for the treatment: control arms at the end of the study is expected.
+
+             -  Assuming a two-tailed test with Type I error of 5%, Type II error of 10%, and at
+                least 17% improvement in any outcome.
+
+           The affordable sample size was 801 households with 177 for the control arm and 208 for
+           each of the intervention arms. This sample is expected to yield statistically
+           significant results for the analysis of all measures contemplated. Although the
+           statistical power of the study design with this sample size can be considered good the
+           sample size was rounded up to ~828 households, with ~180 households in the control arm
+           and ~216 households in each of the intervention arms. This was done to represent
+           multiples of 12 since the study will be conducted in 12 facilities.
+
+        3. Method of randomisation From among the ~648 ARV patients recruited into the study
+           [~54/study site], individual patients will be assigned randomly to the control group
+           [Group A; n~216] and to the two experimental arms of the study [Group B & C; n~216
+           each], using the relevant random sampling selection commands in version 10 of the Stata
+           software programme.
+    
+  

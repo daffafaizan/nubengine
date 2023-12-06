@@ -1,0 +1,39 @@
+
+    
+      With the objective of using vocal biomarkers for diagnosis, risk prediction/stratification
+      and remote monitoring of various clinical outcomes and symptoms, there is a major need to
+      develop surveys where audio data and clinical, epidemiological and patient-reported outcomes
+      data are collected simultaneously.
+
+      The objectives of CoLive Voice are:
+
+        -  To launch an international anonymized survey where vocal recordings are associated with
+           large validated clinical and epidemiological data, in the context of various chronic
+           diseases or frequent health symptoms in the general population
+
+        -  To extract audio features and train supervised machine learning models to identify key
+           candidate vocal biomarkers of the aforementioned chronic conditions or related symptoms.
+
+      Participants will be recruited online and will complete the survey using a web application.
+
+      They will first answer a detailed questionnaire on their health status and then do 5
+      different voice records:
+
+        1. read a 30 sec prespecified text (from the Human Rights Declaration),
+
+        2. sustain voicing the vowel /aaaaaa/ as long and as steady as they can at a comfortable
+           loudness
+
+        3. cough 3 times
+
+        4. breath in and out deeply 3 times
+
+        5. Count from 1 to 20 at a normal speed
+
+      Vocal records will be pre-processed and converted into features, meaning the most dominating
+      and discriminating characteristics of a vocal signal. Following the selection of features,
+      machine or deep learning algorithms will be trained to automatically predict or classify the
+      clinical, medical or epidemiological outcomes of interest, from vocal features alone or in
+      combination with other health-related data.
+    
+  

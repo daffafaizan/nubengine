@@ -1,0 +1,101 @@
+
+    
+      Pneumonia is the most common serious infection in childhood. In the United States (US),
+      pneumonia accounts for 1-4% of all emergency department (ED) visits in children (3-28 per
+      1,000 US children per year) and ranks among the top 3 reasons for pediatric hospitalization
+      with >100,000 hospitalizations per year (15-22 per 100,000 US children per year)2-5.
+      Pneumonia also accounts for more days of antibiotic use in US children's hospitals than any
+      other condition.
+
+      Safely reducing inappropriate antibiotic use is critical to slow the progression of
+      antimicrobial resistance, and childhood pneumonia is a key area where substantial
+      improvements can be made. In the 2011 Pediatric Infectious Diseases Society/Infectious
+      Diseases Society of America (PIDS/IDSA) pneumonia guideline, appropriate use of antibiotics
+      was an important area of emphasis. For presumed bacterial pneumonia, recommendations
+      emphasize the use of a single, narrow-spectrum antibiotic (i.e. amoxicillin or ampicillin).
+      In children <6 years of age treated in the outpatient setting, the guideline recommended
+      considering withholding antibiotics, recognizing that pneumonia in this population is most
+      often caused by viruses. Both of these recommendations were graded as strong and supported by
+      high-quality evidence. Nonetheless, in a large database study we conducted just prior to
+      release of the 2011 guideline, use of broad-spectrum antibiotics was very common among
+      children hospitalized with pneumonia, with substantial differences in antibiotic selection
+      patterns among the various hospitals. In that study, use of narrow-spectrum ampicillin was
+      rare (<5%). High rates of broad-spectrum antibiotic use were also noted in a study of
+      children with pneumonia treated and released from US EDs, with <30% of children receiving
+      narrow-spectrum therapy.
+
+      Emergency care for childhood pneumonia, including hospitalization rates, varies widely across
+      the nation. A study examining hospital admission rates at 35 US children's hospitals from
+      2009-2012 showed marked differences in severity-adjusted pneumonia hospital admission rates
+      (median 31%; range 19-69%). Extending these findings, Florin et al. detected great
+      hospital-level variation in the use of diagnostic tests for children presenting to the ED
+      with pneumonia. It was reported that high test-utilizing hospitals had a nearly 2-fold
+      greater odds of hospitalization compared with low test-utilizing hospitals. Using the same
+      database as Florin et al., we previously reported similar institutional variation in
+      diagnostic test utilization in children hospitalized with pneumonia. The range across
+      hospitals for even the most common diagnostic tests was very wide with some hospitals
+      performing specific tests in <30% of children and others performing those same tests in >75%
+      of children. There was also an association between high test-utilizing hospitals and
+      increased average hospital length of stay.
+
+      Provider preferences and inaccurate risk perceptions contribute to differences in
+      hospitalization rates. Within the Intermountain Healthcare System in Utah, a collaborating
+      site for this study, Dean et al. exposed large differences in admission rates (range 38-79%)
+      among 18 individual emergency department providers providing care for >2,000 adults with
+      pneumonia. Differences were not explained by patient characteristics or illness severity and
+      higher rates of hospitalization did not reduce hospital re-admissions or mortality. In
+      another multi-center study of 472 adults with pneumonia at <4% risk of 30-day mortality
+      estimated using objective severity scores, providers overestimated the risk of mortality in
+      5% of outpatients (range across institutions 0-12%) and 41% of inpatients (range across
+      institutions 36-48%). These studies suggest that risk perceptions are often inaccurate, and
+      potentially lead to unnecessary or prolonged hospitalizations and intensive therapies.
+      Similar studies have not been performed in children because no valid prognostic tools exist
+      to reliably predict pediatric pneumonia severity.
+
+      Extensive variation in both antibiotic use and hospitalization decisions is evident among
+      clinicians caring for children with pneumonia, with high potential for avoidable harm. In the
+      investigator's prior study, one-third of children were hospitalized for less than 48 hours
+      and nearly 10% less than 24 hours. Some of these hospitalizations were likely unnecessary.
+      Most of these children also received broad-spectrum antibiotic therapy instead of the
+      narrow-spectrum agents recommended by the national guideline. Conversely, one-third of
+      children admitted to intensive care were initially managed on a general ward, earlier
+      transfer for more intensive therapy may have improved outcomes for some of these children.
+      New strategies to inform decision making are needed, and the combination of risk
+      stratification using objective tools and clinical decision support in the emergency
+      department setting are innovative and promising approaches to achieve this goal.
+
+      Specific Aim 1: To test the hypothesis that electronic antibiotic decision support increases
+      guideline-concordant antibiotic use compared with usual care in the emergency department.
+
+      The primary outcome is the proportion of children exclusively receiving guideline-concordant
+      first line antibiotic therapy during the first 24 hours of care. Secondary outcomes include
+      exclusive use of concordant antibiotic therapy for the entire episode, any use of concordant
+      antibiotic therapy during the first 24 hours of care and for the entire episode, and
+      emergency department revisits and hospitalizations within 72 hours and 7 days of the index
+      discharge.
+
+      Specific Aim 2: To test the hypothesis that the delivery of severity information generated by
+      a prognostic tool leads to more appropriate site of care disposition compared to usual care.
+
+      The primary outcome is appropriate site of care disposition. Surveillance for subsequent
+      emergency department visits and hospitalizations to our institutions as well as escalation to
+      higher levels of care will be captured within the electronic health record data extracted by
+      the decision support application. Secondary efficacy and safety outcomes include the overall
+      site of care disposition (emergency department discharge, ward, intensive care unit), and
+      emergency department revisits and hospitalizations within 72 hours and 7 days of the index
+      discharge.
+
+      In these studies, conducted at two experienced academic centers, the investigator will
+      implement and evaluate an electronic health record based clinical decision support
+      application to promote antibiotic use in concordance with the 2011 PIDS/IDSA guideline in a
+      pragmatic, cluster randomized crossover trial. Next, the investigator will incorporate risk
+      stratification using a previously developed prognostic tool into a second electronic health
+      record based decision support application, testing its impact on site of care disposition
+      compared to usual care in a pragmatic randomized trial. In both studies, all subjects will
+      receive standard of care. Decisions regarding management, including antibiotic selection and
+      site of care, will be at the discretion of the treating provider and will not be restricted
+      or altered in any way. Thus, this study poses no greater than minimal risks to participants.
+      Due to the nature of the research, waiver of informed consent has been provided, as it has
+      been done in similar pragmatic studies at the institutions.
+    
+  

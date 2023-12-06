@@ -1,0 +1,44 @@
+
+    
+      Data analysis: The participants' demographics, preoperative characteristics and postoperative
+      information will be summarized using descriptive statistics: expressed as mean (standard
+      deviation) or median (minimum, maximum, interquartile range) for continuous variables and
+      number (percent) for categorical variables. We will initially use restricted cubic spline
+      plots to evaluate the nature of the association of platelet inhibition (continuous variable)
+      and the risk of MACE (logit transformation). Based upon these results, we will determine if
+      percent inhibition can be treated as a continuous variable, or whether it can be categorized
+      along specific cut-offs. We will also compare these results against a
+      receiver-operating-characteristic curve analysis. Once we have determined the appropriate
+      approach for describing percent platelet inhibition, univariate analyses will be performed
+      with chi-square or Fishers' exact test for categorical data, and t-test and Mann-Whitney U
+      test for continuous data. A p < 0.05 will be considered statistically significant. Random
+      effect multivariable logistic regression will be used to assess the adjusted association of
+      platelet inhibition with MACE during the perioperative period.46 This regression model will
+      employ a random intercept for each center, so as to minimize the bias due to any confounding
+      by center.47 Regression models will be constructed to selectively include the potentially
+      confounding perioperative variables that are associated with a higher risk of MACE (as
+      identified from the literature and clinical experience).7-12 In addition to platelet
+      inhibition (preoperative value or change), four covariates will be included in the model:
+      type of stent; time between PCI and NCS; mono-, dual (aspirin or aspirin and clopidogrel) or
+      no therapy until the day of surgery; and urgent surgery. Since the recommended range of
+      platelet inhibition (20-50%)was never validated during the perioperative period we will
+      describe it as a continuous variable (0-100%).
+
+      Primary analysis will be as per protocol the secondary analysis will include patients who
+      have incomplete data i.e. discharged early or refused one or more TEG samples.
+
+      Sample Size: The sample size estimations were based on comparison of platelet inhibition
+      (measures as a continuous variable) between individuals who did or did not suffer MACE. We
+      assumed that the difference between the MACE and non-MACE groups with regard to platelet
+      inhibition would correspond to a medium Cohen's effect size (0.5 SD; i.e. difference in means
+      equaling 0.5 of the pooled standard deviation). Based on the assumption of the medium effect
+      size difference, an expected 20% rate of MACE, a 2-sided alpha of 0.05, 90 % power, and a 10%
+      dropout rate, we would need 189 patients in total. In addition, since our planned statistical
+      model involves logistic regression with a total of five covariates (platelet inhibition
+      value; stent type; emergency surgery; time between PCI and NCS; mono-, dual or no therapy
+      after PCI [aspirin vs. aspirin and clopidogrel or no medications]) the sample size estimate
+      would still have approximately 8 events per included covariate in the regression model. To
+      minimize bias in the regression model, estimates recommend the minimum number of outcomes per
+      covariate is 5-10.
+    
+  

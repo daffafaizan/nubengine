@@ -1,0 +1,25 @@
+
+    
+      The sample size is based on the primary outcome measure: the mean Activty of Daily Living
+      (ADL) motor ability 1.04 logits (SD 0.727) as measured by the Assessment of Motor and Process
+      Skills (AMPS). A significance level of 0.05 would provide 80% power to detect a between-group
+      difference of 0.3 logits requiring a sample size of N=184. An expected drop-out rate of 32%
+      at 3 months follow-up means that 272 patients with advanced cancer must be included in the
+      study from three hospitals.
+
+      Multiple imputation will be used to estimate a plausible value for missing data of
+      participants that are lost to follow-up due to other reasons than death. This does not,
+      however, apply to the primary outcome data where no estimations will be computed.
+
+      For normally distributed ratio data the intervention group will be compared with the control
+      group using multiple linear regression analysis of mean changes from baseline. Logistic
+      regression analysis will be used for ordinal data. Adjustments for hospital and for baseline
+      values will be made. A modified intention-to-treat analysis will be applied. Subgroup
+      analyses to identifiy groups that especially benefit from the intervetnion will be performed.
+
+      The cost-effectiveness analysis wil be performed with ADL motor ability as the clinical
+      parameter, and the cost-utility analysis will be based on the calculation of Quality Adjusted
+      Life Years (QALY). The Incremental Cost-effectiveness Ratio (ICER) will be calculated and the
+      results summarised in a cost-effectiveness acceptability curve (CEAC).
+    
+  

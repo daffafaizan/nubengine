@@ -1,0 +1,33 @@
+
+    
+      The fidelity coefficient, FC, is a measure of what proportion of individual patients'
+      medication that are accounted for by the most used prescriber and the most used pharmacy.
+      Each patient therefore has two values, one describing his fidelity towards his most used
+      prescriber, FCPresc, and one describing his fidelity towards his most used pharmacy, FCPharm.
+
+      The investigators intend to assess this parameter in an observational population scale
+      database study, using standard descriptive statistics, and subsequently compare the obtained
+      average FCPresc and FCPharm.
+
+      Furthermore, the investigators will analyze the two obtained FCs for dependency of a
+      predefined list of variables: age, gender, number of prescriptions, whether the most frequent
+      prescriber was a GP and whether the most used pharmacy was urban.
+
+      Finally, the investigators intend to analyze which medications (grouped using the ATC-system
+      with 4 digits, e.g. C07A) that has the highest proportion of prescriptions that were either
+      issued by a non-main prescriber or redeemed at a non-main pharmacy, which roughly translates
+      into the most 'infidel' medications. To insure relevance we intend to use a cut-off-value of
+      the medication being prescribed at least 50.000 times, which equals about 85 % of the data
+      according to preceding analyses.
+
+      The data for this study will be obtained from the Odense University Pharmacoepidemiological
+      Database (OPED). In brief, it is a research database with full coverage of all reimbursed
+      prescriptions in the Region of Southern Denmark (1.2 million inhabitants). The data included
+      in each prescription record includes the prescription holder, the prescriber, the pharmacy,
+      the date of dispensing and a full account of the dispensed product, including substance,
+      brand name, route of administration, ATC-code and Defined Daily Dose (DDD).
+
+      Some drugs are exempt from re-imbursement and thus not covered by the database, including
+      benzodiazepines, oral contraceptives, laxatives and certain antibiotics.
+    
+  

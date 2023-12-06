@@ -1,0 +1,64 @@
+
+    
+      Trial Objective: To determine whether estimating ETT insertion depth using gestational age
+      chart rather than nasal-tragus length method results in more correctly positioned ETT tips.
+
+      Setting: The neonates will be recruited from multiple tertiary-level neonatal intensive care
+      units in Saudi Arabia. A neonate can participate in more than one clinical trial, depending
+      on the interventions being given. Parallel run trials will be discussed between the chief and
+      local principal investigators whether or not joint recruitment is feasible to both parties.
+
+      Informed Consent: We will obtain written consent after the parents have been given a full
+      verbal explanation and written description. We will explain to the parents in their own
+      native language. We will use a hospital-based adult interpreter wherein required. We will
+      obtain deferred consent (after initial verbal assent) where prior consent is not feasible as
+      the study does not involve additional risk or investigations to the participants, and the
+      interventions are otherwise considered as standard practice recommendations by the NRP.
+
+      Data Safety Monitoring Board: Any unexpected serious events (death, any life-threatening
+      event, any event that will prolong the hospitalization or any event that will result in
+      disability) will be reported to the data safety monitoring committee. The trial steering
+      committee will receive recommendations from the data safety monitoring board if the trial
+      requires early termination following the interim data analyses and evidence from relevant
+      studies. The following measures were agreed to consider stopping the trial, wholly or partly
+      (subgroups), after an interim analysis, that will be done after recruiting 200 participants.
+
+        1. An absolute difference of greater than or equal to 25% in the primary outcome between
+           the study groups.
+
+        2. An absolute difference of less than 5% in the primary outcome between the study groups.
+
+        3. A rate of less than 20% in the primary outcome in either of the groups.
+
+      Sample Size: Our unpublished data showed using the nasal-tragus length method results in 35%
+      of correctly positioned ETT tips in term and preterm infants. The data is similar to the
+      randomized and non-randomized studies that showed an accuracy between 32 and 37 percent using
+      the nasal-tragus length method. With 90% power and two-sided 5% significance, to detect an
+      absolute increase in optimally positioned ETT tips of 15%, we will require 454 participants.
+      We calculated sample size using nQuery Advisor Sample Size Calculator version 8.3.0.0.
+
+      Statistical Analysis: We will analyze the data based on the intention-to-treat principle.
+      Univariate analyses will be performed to compare baseline demographic factors between the two
+      groups. A mean with standard deviation (normal data) or median with interquartile range
+      (skewed data) will be obtained for continuous variables and numbers and percentages for
+      categorical variables. Independent T-test (normal data) or Mann Whitney U test (skewed data)
+      for continuous variables and chi-square test (or Fisher's exact test as appropriate) for
+      categorical variables will be used for analyses between the groups. Statistical Analysis
+      Software version 9.4 will be used for the conduct of all analyses.
+
+      Analysis of primary outcome: Adjusted risk ratios of a successful outcome will be calculated
+      along with 95% confidence intervals. Adjusted ratios will be determined by way of
+      multivariable logistic regression analysis, including co-variates deemed biologically to have
+      an influence on the primary outcome (gestational age, small for gestational age, and center).
+      Principles of best model practices will be followed (including assessment of collinearity
+      amongst included variables) as well as the determination of the predictive ability of the
+      model using area under the curve.
+
+      Analysis of secondary outcomes: Similar analyses as above will be performed for all secondary
+      outcomes that are categorical variables. The risk ratios of secondary outcomes mortality,
+      oxygen therapy at 28 days, pneumothorax, and bronchopulmonary dysplasia will be adjusted
+      based on the following variables: gestational age, male sex, small for gestational age,
+      maternal hypertension, chorioamnionitis, antenatal steroids, and center if the P-value is
+      less than 0.25 on univariate analysis.
+    
+  

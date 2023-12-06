@@ -1,0 +1,53 @@
+
+    
+      A. Specific Aims
+
+      Aim 1: To assess the usability of successive versions of our EHR genetic display screens and
+      variant-based patient search functionality.
+
+      Formal usability studies will be conducted with each new release of the GeneInsight Clinic
+      (GIC) application in order to maximize its effectiveness and efficiency, and user
+      satisfaction. Results from these studies will be used along with functional and technical
+      requirements in designing enhancements to each successive version of the software.
+
+      Hypothesis: The usability of GeneInsight Clinic and the application's effectiveness,
+      efficiency, and user satisfaction will improve with each successive version.
+
+      Aim 2. To assess the decision-making process associated with issuing alerts relating to new
+      knowledge on germline variants.
+
+      Changes to cardiomyopathy and hearing loss variant level information will be placed in a
+      queue for evaluation. A board-certified clinical laboratory geneticist will determine which
+      changes should be released as an "alert" resulting in an update to the GIC and a notification
+      to the clinician. This decision-making process will be evaluated.
+
+      Hypothesis: Evaluation of decision-making regarding release of genetic variant update alerts
+      will identify patient and physician characteristics, and levels of significance of genetic
+      variant updates that influence alerting decisions.
+
+      Aim 3. To measure the impact on efficiency of new genetic knowledge being incorporated into
+      clinical care as a result of improved genetic IT infrastructure support.
+
+      Currently, clinicians learn of germline genetic variant updates when they choose to call the
+      genetic laboratories to check for any possible new information on genetic tests of interest.
+      With the GIC alerting system, treating clinicians will proactively receive genetic variant
+      updates relevant to their patients. For cancer genotyping tests, once an associated variant
+      is determined to have clinical significance, treating oncologists are interested in
+      identifying all their patients with this variant to evaluate whether the patient's care plan
+      should be modified. With the GIC patient search functionality, treating clinicians will be
+      able to identify all their patients with the genetic variant of interest.
+
+      Hypothesis: The availability of the GIC tool will greatly reduce the time delay associated
+      with distributing updated variant information to treating clinicians and will reduce the
+      number of calls the Laboratory of Molecular Medicine (LMM) receives requesting variant
+      updates. The efficiency of identifying all patients with clinically significant variants will
+      be improved through use of the PGE tool.
+
+      Aim 4: To evaluate the satisfaction of treating clinicians, perceived impact on clinical
+      care, and net effect on clinician workload associated with deploying genetic infrastructure.
+
+      Hypothesis: The introduction and subsequent revisions of the PGE tool will result in improved
+      satisfaction, a perceived reduction in clinician workload, and a perceived improvement in
+      clinical care.
+    
+  

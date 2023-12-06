@@ -1,0 +1,132 @@
+
+    
+      Background:
+
+        -  The administration of autologous tumor-infiltrating lymphocytes (TIL) can mediate
+           complete, durable regressions in 20-25% of participants with metastatic melanoma. Recent
+           studies have shown that these TIL predominantly recognize unique mutated neoantigens
+           expressed by the cancer not shared by other melanomas.
+
+        -  Administration of bulk autologous TIL to participants with a variety of other solid
+           cancers, including cancers of the gastrointestinal tract and genitourinary tract, have
+           little if any therapeutic impact.
+
+        -  Recent studies in the National Cancer Institute Surgery Branch, (NCI-SB), have shown
+           that TIL from non-melanoma solid cancers can also contain T-cells reactive against
+           non-shared unique mutated or oncoviral neoantigens expressed in the cancer. The
+           frequency of these T-cells is very low (often < 0.1%) and it is thus difficult to
+           isolate and grow mutation reactive T-cells to levels required for effective therapy.
+
+        -  In a single patient with chemo-refractory metastatic cholangiocarcinoma we were able to
+           grow a relatively pure population of neoantigen reactive TIL and administration of these
+           cells mediated a near-complete regression of all metastatic disease now lasting 2.5
+           years.
+
+        -  We have developed approaches to identify these rare neoantigen reactive T-cells from
+           common non-melanoma cancers, to isolate their T-cell receptors (TCR), and to genetically
+           engineer autologous peripheral blood lymphocytes (PBL) to express these TCRs with high
+           efficiency. The neoantigen TCR gene-modified cells can recognize and destroy the
+           autologous cancer in vitro.
+
+        -  In addition to reactivity to neoantigens derived from nonsynonymous mutations, T-cells
+           can recognize human papilloma virus (HPV) epitopes in participants with HPV- induced
+           cancers. The TCR from these reactive cells can be isolated and retrovirally-transduced
+           into autologous PBL with high efficiency.
+
+        -  With these techniques, we have isolated a number of TCRs selectively recognizing shared
+           mutated oncogenes (e.g., KRAS, TP53) or shared oncoviral proteins (e.g. HPV) in the
+           context of several major histocompatibility complexes (MHC-I and MHC-II).
+
+        -  This clinical protocol will treat participants with refractory solid cancers using the
+           adoptive transfer of autologous PBL transduced with genes encoding TCRs that recognize
+           unique mutated or oncoviral neoantigens expressed by the cancer.
+
+      Objectives:
+
+      -Primary objective:
+
+      --Determine the rate of objective response (using RECIST v1.1 criteria) of participants with
+      solid cancers who receive pembrolizumab plus autologous PBL (Arm 2) that have been transduced
+      with genes encoding T-cell receptors that recognize mutated or oncoviral neoantigens in the
+      autologous cancer
+
+      Eligibility:
+
+      -Participants must be/have:
+
+        -  Age greater than or equal to 18 years and less than or equal to 70 years
+
+        -  Metastatic solid cancer with at least one lesion that can be measured, that falls into
+           one of four cohorts: (1) gastrointestinal and genitourinary cancers; (2) breast,
+           ovarian, and other solid cancers; (3) non-small cell lung cancer (NSCLC); and, (4)
+           endocrine tumors including neuroendocrine tumors.
+
+        -  Evaluable solid cancer that has recurred following standard chemotherapy or standard
+           systemic therapy
+
+        -  Normal basic laboratory values.
+
+        -  No allergies or hypersensitivity to high-dose aldesleukin administration
+
+        -  No concurrent major medical illnesses or any form of immunodeficiency.
+
+      Design:
+
+        -  Participants will have already undergone resection or biopsy to obtain tumor for
+           generation of autologous TIL cultures. This will have been conducted under the NCI-SB
+           cell harvest protocol 03-C-0277 (Cell Harvest and Preparation for Surgery Branch
+           Adoptive Cell Therapy Protocols).
+
+        -  Exomic sequencing, and often RNA-Seq will be performed to identify the mutations
+           expressed in the patient s cancer. Multiple autologous TIL cultures will be grown and
+           tested for reactivity against mutations from the autologous tumor using assays we have
+           developed that involve the exposure of autologous antigen-presenting cells to long
+           peptides containing the mutation or tandem mini-genes encoding the mutation.
+
+        -  T-cell cultures with reactivity against mutations will be identified and the individual
+           T- cell receptors that recognize the mutation will be synthesized and used to create a
+           retrovirus for transduction of the TCR into the patient s autologous PBL.
+
+        -  Participants that present with tumors expressing oncoviral neoantigens will be treated
+           with autologous PBLs retrovirally transduced with TCR(s) targeting the oncoviral
+           neoantigen.
+
+        -  Participants that present with tumors expressing mutated shared oncogenes (e.g., KRAS,
+           TP53) or oncoviral proteins (e.g., HPV) that also express the appropriate restriction
+           element may be treated with autologous PBLs retrovirally transduced with TCR(s)
+           previously isolated in the Surgery Branch targeting the shared mutated antigen. These
+           participants will be administered a cell infusion product of TCRs targeting mutated
+           shared oncogenes (e.g., KRAS, TP53) or oncoviral proteins (e.g., HPV). Their cell
+           infusion product will not include PBL transduced with unique (i.e., non-shared) TCR(s).
+
+        -  Participants will be enrolled into one of four cohorts: (1) metastatic gastrointestinal
+           and genitourinary cancers; (2) metastatic breast, ovarian, and other solid cancers; (3)
+           metastatic non-small cell lung cancer (NSCLC); and, (4) metastatic endocrine tumors
+           including neuroendocrine tumors. Autologous PBL transduced with TCR(s) targeting
+           neoantigens (mutated shared oncogenes e.g., TP53, KRAS, individual non-synonymous
+           mutations , or oncoviral proteins) will then be expanded to large numbers using our
+           standard rapid expansion protocol.
+
+        -  Participants enrolled on Arm 1 and Arm 2 will receive a non-myeloablative,
+           lymphodepleting preparative regimen consisting of cyclophosphamide and fludarabine
+           followed by the infusion of autologous transduced PBL and high-dose aldesleukin. At the
+           discretion of the Principal Investigator (PI), participants enrolled in Cohort 3 (NSCLC)
+           may receive low-dose aldesleukin.
+
+        -  Participants enrolled on Arm 2 will receive pembrolizumab prior to cell administration
+           and three additional doses every three weeks following the cell infusion. Participants
+           who have experienced major organ toxicity due to previous treatment with pembrolizumab
+           (or equivalent PD-1/PD-L1 blockade) will be enrolled on Arm 1.
+
+        -  Clinical and immunologic response will be evaluated about 4-6 weeks after cell infusion
+           and periodically thereafter.
+
+        -  It is anticipated that approximately one participant per month may enroll on the trial
+           for each of the four histologic cohorts for Arm 2. There will be a limit of 15
+           participants per cohort enrolled on Arm 1 (60 participants for Arm 1), and accrual of up
+           to 4 x 50 = 200 total evaluable participants on Arm 2. It is expected that once full
+           manufacturing capability is reached, the accrual may be completed in approximately 4-5
+           years. In order to allow for a small number of inevaluable participants, the accrual
+           ceiling will be set to 270.
+    
+  

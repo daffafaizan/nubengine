@@ -1,0 +1,56 @@
+
+    
+      CT scan is overused for patients who present to the ED with suspected nephrolithiasis (acute
+      flank or abdominal pain). The investigators have developed a clinical decision support (CDS)
+      tool to identify those patients in whom ultrasound is appropriate. The CDS tool is based on
+      the Study of Ultrasonography vs. Computed Tomography for Suspected Nephrolithiasis in the
+      Emergency Department.
+
+      The goal of this study is to assess the effectiveness of a clinical decision support (CDS)
+      tool to improve advanced imaging for suspected nephrolithiasis in the ED. The investigators
+      hypothesize those randomized to receiving the CDS tool will receive CT less often (and less
+      radiation) compared to those receiving control. Also, the investigators hypothesize those
+      randomized to receiving CDS will have a similar ED length of stay and rate of unexpected ED
+      return as those receiving control.
+
+      Study design: Randomized trial of a CDS tool embedded in the electronic health record for
+      patients with suspected nephrolithiasis. The study will be conducted at UCSF Department of
+      Emergency Medicine.
+
+      Study subjects: The investigators will enroll adult patients who present to the UCSF ED who
+      present with "suspected nephrolithiasis", which is defined as those with symptoms of
+      nephrolithiasis for whom an ED provider orders a CT scan for suspected nephrolithiasis.
+      Symptoms of nephrolithiasis include acute unilateral flank and/or abdominal pain, typically
+      described as severe and colicky. The pain is accompanied by nausea, vomiting, and urinary
+      symptoms, such as hematuria. The CT imaging studies emergency physicians typically order for
+      suspected nephrolithiasis include CT scan without contrast; however a substantial minority of
+      patients receive CT scan with contrast, and CT scan with and without contrast for acute flank
+      pain, suspected nephrolithaisis.
+
+      Sampling, recruiting and retaining subjects: The investigators will enroll consecutive
+      patients who present to the ED with the selection criteria. Those with suspected
+      nephrolithiasis but have an exclusion criteria will be recorded and compared to those who
+      were enrolled. Eligible patients will be randomized to either receiving CDS recommendations
+      or no CDS recommendations. Subjects will not receive informed consent, and will not be
+      contacted by staff.
+
+      Intervention: The intervention is the CDS tool, which consists of 4 components:
+
+        1. Four questions which assess the appropriateness of ultrasound for this patient
+
+        2. A link to the evidence
+
+        3. Buttons to remove CT scan and order ultrasound
+
+        4. If the CT scan order is kept, reasons why ultrasonography is not appropriate
+
+      The CDS tool will be placed or integrated into EPIC, at the point of order entry. The tool
+      will be triggered by an order for CT to identify or rule out kidney stone.
+
+      Co-primary outcomes: Proportion of study arm who receive CT, and radiation dose. Proportion
+      of study arm who receive CT is defined as #CT scans ordered/#patients in study arm. Radiation
+      dose will be reported as median radiation dose in mSv. The secondary outcomes will include
+      proportion of patients with an unscheduled return due to missed diagnosis, cost, ED length of
+      stay.
+    
+  

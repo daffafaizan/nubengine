@@ -1,0 +1,107 @@
+
+    
+      FINOMAIN is a single-blind (assessor blinded), community-based, cluster randomized controlled
+      trial (cRCT) of a multi-component intervention with two arms. The intervention arm will
+      receive 12 months (1 hour, 2 times per week) of training on the ballroom dance modules called
+      INDAK (Improving Neurocognition through Dance and Kinesthetics), nutrition counseling, and
+      vascular risks management. The control group will receive the same nutrition counseling and
+      vascular risk management except for dance (INDAK).
+
+      Study population: In this pilot trial of FINOMAIN, the study aims to enroll at least 72 (20%
+      of total sample size of 328) community-dwelling Filipino older adult participants aged 60
+      years and above with mild cognitive impairment (MCI) based on Petersen criteria and
+      documented by cognitive symptoms and cognitive performance on the standardized cognitive test
+      (ADAS-Cog) which is ≥ 1.5 standard deviation (SD) below Filipino norms for ADAS-Cog and has a
+      Clinical Dementia Rating (CDR) of 0.5. Participants should not fulfill DSM-V criteria for
+      major neurocognitive disorders. The absence of dementia is further confirmed when there is no
+      functional impairment based on the Lawton's Instrumental Activities of Daily Living (IADL)
+      scale and no significant neuropsychiatric symptoms as detected by the Neuropsychiatric
+      Inventory - Questionnaire (NPI-Q). Exclusion to study are major sensory impairment (i.e.
+      hearing and visual impairment) that limit testing, dance participation and a pre-existing
+      illness that in the judgment of the study physician precludes engagement in moderate physical
+      activity such as INDAK.
+
+      The study duration will be 24 months, but the study intervention will last for 12 months. The
+      intervention arm will receive 12 months (1 hour, 2 times per week) of training on the dance
+      modules called INDAK, nutrition counseling and vascular risks management. The control group
+      will receive the same nutrition counseling and vascular risk management except dance (INDAK).
+
+      The intervention team consists of research nurses, nutritionists, physicians and dance
+      teachers. The dance intervention INDAK is a structured modular dance consisting of 8 types of
+      ballroom dances with increasing complexity. The INDAK intervention will be done two times a
+      week, one hour each time, for 12 months. The nurse will use a logbook to register the
+      frequency and duration of participation for each participant. From our previous experience,
+      adverse events were infrequently limited to musculoskeletal pains in the first two weeks of
+      study. However, to ensure safety, a trained nurse will always be present at each dance
+      session and liaise with local hospitals in case of unexpected events such as fall, dizziness,
+      or general exhaustion occur. The nurse records the vital signs of all participants before and
+      after the dance.
+
+      The nutrition counseling is based on "Pinggang Pinoy" or Filipino plate recommendation of the
+      Filipino Nutrition Research Institute (FNRI) and standardized vascular care for hypertension,
+      diabetes, and dyslipidemia based on Filipino standard guidelines. The nurses will monitor the
+      participants every month and use a logbook to record their compliance and advise participants
+      on a continuing basis. The community physicians and nurses will meet with the participants at
+      3, 6, and 9 months to monitor their cardiovascular and metabolic conditions and revise their
+      management plan if necessary. If the nurses detect an urgent problem during the monthly
+      monitoring, nurses must alert participants to see the community physicians on an ad-hoc
+      basis. The participants will also be provided with a diary to log their implementation of
+      risk management plans and issues that need to be discussed with the nurses and physicians.
+
+      Follow-up visits will be conducted by the assessment team (i.e. neurologists, psychologists
+      and nurses) on the 6th and 12th month of the intervention. To ensure blinding, participants
+      are asked not to discuss any intervention with anyone. At each meeting, the same clinical
+      data as from the baseline assessments and laboratory tests will be collected as mentioned
+      above. Neuroimaging will be done 12 months from baseline. After all data are collected and
+      encoded, data cleaning, processing, and analysis will be done. The following are the methods
+      for data acquisition, processing, and analysis:
+
+      MRI acquisition, processing, and analysis: Participants will be scanned in a 3T MRI scanner
+      (Philips Achieva) using an 8-channel head coil. The ADNI-3 (http://adni.loni.usc.edu/adni-3/)
+      recommended imaging protocols will be used to allow data to be comparable with the ADNI
+      centers and good potential for data sharing on open access platforms. For resting-state fMRI,
+      participants will be asked to keep their eyes open and fixate on a cross (10 minutes). The
+      fMRI task: Participants will undergo 2 runs (6 -7 minutes each) of the visual working memory
+      task. Each cycle consists of 1 block of high-load and 1 block of low-load that had 2 trials
+      each. Each block is interleaved by a 1.6 seconds interval and block duration of 20 seconds.
+      There will be 10 cycles in each run adding up to a total of 20 high-load and 20 low-load
+      trials. Each run lasts 400 seconds.
+
+      Voxel-Based Morphometry (VBM8) will be applied for overall brain volumetric analysis with the
+      high-resolution MPRAGE T1-weighted image acquisition. FMRIB Software Library (FSL) and Tract
+      Based Spatial Statistics (TBSS) will be applied for diffusion MRI to understand changes in
+      structural connectivity. The high-resolution MPRAGE scan will also be applied for automated
+      hippocampal volumetric studies using NeuroQuant. Coronal axial thin T2-weighted and FLAIR
+      will be used for detecting subcortical and deep white mater hyperintensities (WMH). The fMRI
+      data will be pre-processed and analyzed using the Statistical Parametric Mapping (SPM12)
+      software package. All structural and functional images will be re-oriented before the EPI
+      data is pre-processed using the conventional procedure in three phases.
+
+      Statistical Analysis (Neurocognitive and behavioral measures): The primary outcome which is
+      the change from baseline (ADAS-Cog, MST, and EFC which a composite of Verbal Fluency Test
+      (VFT), Number Cancellation Task (NCT), Digit Symbol Substitution Task (DSST) and Trail Making
+      Test (TMT) and the secondary outcomes (neuroimaging: MRI, GDS, EQVAS BBS) will be analyzed in
+      the intent-to-treat population as well as in the per-protocol population (complete at least
+      80% of INDAK modules and participate in at least 30 minutes of dance each time). The study
+      will employ univariate, bivariate, and multivariate statistics. For univariate, descriptive
+      statistics (mean/SD; frequencies/percentages) will be used to summarize socio-demographic and
+      other baseline characteristics. The bivariate analyses that examine underlying relationships
+      between the outcomes and other clinical characteristics are the following: t-test for
+      continuous variables and Chi-square test (or Fisher Exact Test when 20 of the cells have the
+      expected count less than five) for categorical variables to compare baseline data and outcome
+      measures at baseline between the intervention and control groups. For multivariate analyses,
+      the study would estimate the effect from baseline to follow-up at 12 months between
+      randomization groups. Since the participants will be measured 3 times (baseline, 6 months, 12
+      months), the study will be using the repeated measures analysis of covariance (RM ANCOVA) to
+      test the significance between group means but controlling for possible confounders. To
+      analyze for the secondary outcomes, the power will be calculated retrospectively to see if
+      the sample size is big enough to prove statistical significance. Assuming that enough power
+      is yielded, repeated measures ANCOVA will also be used.
+
+      The end of study analysis will be done for three months and the final report will be prepared
+      for three months to answer the aims of the study on how multicomponent intervention
+      significantly maintains or improve cognition of older adults with MCI as measured by primary
+      outcomes and how the intervention affects neural plasticity and functional connectivity as
+      measured by MRI after 12 months of the study period.
+    
+  

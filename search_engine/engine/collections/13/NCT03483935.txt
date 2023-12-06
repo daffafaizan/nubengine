@@ -1,0 +1,109 @@
+
+    
+      This study is a collaboration between the University of Dundee, NHS Tayside and Emblation
+      Ltd, funded by Innovate UK. Emblation is a Scottish based Small Medium sized Enterprise (SME)
+      and is an established global leader in the design, development and manufacture of microwave
+      medical devices.
+
+      Actinic keratoses (AK) are believed the most common pre-cancerous lesions in humans and are
+      precursors to invasive cutaneous squamous cell carcinoma (cSCC), a malignancy that has more
+      than doubled in incidence in the UK in the last decade due to ageing populations and
+      increased UV exposure (Goon 2017). The UK incidence of cSCC now exceeds 30,000 annually
+      (estimated >50,000 cases/year, Public Health England, unpublished data) with significant
+      health burden and NHS costs These skin cancers are often multiple, especially in
+      immunosuppressed high-risk populations. AK are very common "sun damage" skin lesions found on
+      sun-exposed areas of the skin, such as the backs of hands and bald scalp. Up to 70% of our
+      elderly population have AK and 65% of cSCC arise from previously identified AK. AK are
+      readily identified clinically so AK treatment offers an important opportunity for cancer
+      prevention, but our ability to treat is limited by undesirable local adverse reactions from
+      existing topical treatments which fail to balance effectiveness, side effects and cost. None
+      of the currently available treatments for AK are suitable for widespread use in the community
+      and are only partially effective. Other more effective treatments such as photodynamic
+      therapy are expensive and time consuming and need to be delivered by experts in secondary
+      care. NHS dermatologists are already overburdened and elderly patients with AK do not wish to
+      travel. AK therapy would be greatly improved by a cheap, convenient, well-tolerated and
+      efficacious therapy that can be delivered closer to home by General Practitioners (GPs) or
+      nurses.
+
+      Clinically, AK display a spectrum of severity from mild Grade 1 lesions, which are just
+      visible and just (barely) palpable, through Grade 2 red and scaly lesions (easily felt and
+      seen), to the most severe Grade 3 lesions, which are grossly hyperkeratotic and "thickened"
+      skin lesions. In practice, it is easier to grade them as 'thin' (just palpable) or 'thick'
+      (with substance to them). It is possible that the dielectric properties of Thick and Thin AK
+      will differ and therefore the measurement study will need to be carried out on both types of
+      AK such that the appropriate microwave dose can be given to these variable skin lesions
+
+      The investigator's hypothesis is that localised microwave energy therapy is a suitable
+      treatment for Actinic Keratosis (AK) skin lesions.
+
+      The use of microwave technology is well established as ablative doses for treatment of
+      malignancy e.g. hepatocellular carcinoma. There are no known studies using microwave for
+      treatment of pre-cancerous skin conditions or skin cancers. Furthermore, there is very little
+      understanding of the biological process evoked by localised microwave exposure in the skin or
+      of the clinically-relevant biological mechanisms triggered.
+
+      Emblation already have a CE-marked microwave instrument used successfully for the treatment
+      of plantar viral warts, the SWIFT device. The investigators now wish to undertake a
+      feasibility trial in 12 participants, each with multiple AK on dorsal hand skin or bald scalp
+      or both. The trial will examine the tolerability, acceptability, efficacy and long-term
+      resolution of AK following one or more treatments with microwave energy delivered using the
+      SWIFT device.
+
+      Previous studies performed by Emblation using SWIFT on plantar viral warts found it to be
+      effective and safe. Some participants experienced minor discomfort during the microwave
+      therapy but any pain stopped when treatment stopped. Some reddening of the skin at the
+      treatment site may occur but this resolved after 24 hours. Some instances of a haematoma have
+      been seen at larger doses, typically resolving within 7 days.
+
+      This will be a two-stage study, stage 1 to measure the electrical properties of AKs in
+      patients. The data from stage 1 allows derivation of the power settings to be used with SWIFT
+      for AK in stage 2, to conduct a randomised controlled trial of microwave treatment, delivered
+      using SWIFT, versus no treatment.
+
+      The SWIFT device has variable power and duration controls, the protocol suitable for plantar
+      viral warts is unlikely to be compatible with AK. Plantar warts (verrucas) are considerably
+      thicker than AK and are located on much thicker, more robust areas of normal skin. AK are
+      most common in the elderly population and are located on thinner, more delicate skin. The
+      investigators therefore anticipate that AK will require a smaller dose of microwave energy
+      than plantar warts. In order to derive the correct power and duration settings for the Swift
+      instrument and impart the correct amount of electromagnetic energy (referred to as dose) into
+      the AK, the dielectric properties of AK need to be determined to confirm how the specific
+      tissue responds to the electromagnetic energy (microwave). By measuring relative permittivity
+      (commonly abbreviated to Epsilon relative Er) the dielectric properties of the AK can be
+      determined.
+
+      The established method of measurement requires the tissue/material under test to come into
+      contact with a specially designed probe attached to an instrument that measures the response
+      to a radiated signal at the same frequency (8GHz) as that used in Emblation's product
+      "Swift". There are a number of instrument and probe manufacturers e.g. Keysight (HP/Agilent),
+      SPEAG, Anritsu. The probe can be used to test solids, liquids and biological tissues by
+      placing the probe in direct contact for a few seconds whilst remaining still during data
+      acquisition by the instrument.
+
+      The instrument (Anritsu MS46122A) providing the probe excitation conforms to the following
+      standards: CE Mark, Low voltage (2006/95/EC) and Safety (EN 61010-1:2010). The energy
+      imparted into the lesion for the measurement will not exceed 0.5mW, by way of comparison this
+      is far less than a mobile phone (up to 500mW) and a FitBit (1.6mW) thus there is no inherent
+      danger to the volunteer.
+
+      Emblation employees will operate the instruments and direct the subjects to the probe. Other
+      study team staff may work in conjunction with NHS staff at the time of recruitment and/or at
+      the time of measurement.
+
+      Microwave energy is converted to heat in the skin layers and forms the basis of the therapy.
+      The target temperature of 43-46 degrees Centigrade is crucial in eliciting the correct immune
+      response in the tissue. As the current instrument is 'tuned' with an antenna for plantar
+      warts, it may not be as efficient at imparting the energy into the AK lesions and the target
+      temperature may not be achieved with the same power and duration settings. Conversely, if the
+      AK provides a more efficient conversion of microwave to temperature, potentially too high a
+      temperature may be reached at a given power and duration combination. Stage 1 data will be
+      analysed to model the efficiency of the current antenna in computer simulations and values
+      for input power (W) and duration (s) will be derived from the modelling data, subsequently to
+      be used in the stage 2 of the trial. This will provide the correct dose of microwave energy
+      to be used in Stage 2.
+
+      Once the settings required for AK have been determined, participants will be recruited into
+      Stage 2 in order to determine efficacy, long term resolution, tolerability and potential mode
+      of action of microwave treatment for AK.
+    
+  

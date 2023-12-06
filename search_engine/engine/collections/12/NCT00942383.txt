@@ -1,0 +1,41 @@
+
+    
+      Study Procedures This is a prospective cohort study. Data will be collected from patients who
+      have signed an informed consent form and are undergoing open, laparoscopic, or percutaneous
+      RFA or MWA as their treatment for liver tumors. Their images will be assembled and correlated
+      according to their IOUS characteristics plus processed strain images. Below is the
+      description of how each aim will be accomplished.
+
+      Aim-1: Ultrasound Elasticity Imaging Acquisition. USEI data (both raw US data and B-mode
+      data) will be recorded during standard operative ultrasound imaging used to guide thermal
+      ablative therapy in the operating room. Images will be acquired before, during, and after RFA
+      or MWA therapy. Raw data acquisition will be conducted using a Siemens Antares US scanner
+      (Siemens Medical Solutions USA, Inc. Ultrasound Division, Issaquah, WA) with an ultrasound
+      research interface (URI) to access raw US data. A Siemens VF 10-5 linear array will be used
+      to acquire data using manual handling. Typically, the ultrasound probe is tracked and
+      spatially registered with the coordinate frame of the of the CT images, so the pixels of the
+      B-mode images are known in the coordinate frame of the CT volume. Thus if one localizes the
+      target anatomy in the B-mode images, then the position of the target is automatically known
+      with respect to the CT volume for validation of the performance of the elastography. The
+      tracking beams are standard B-mode pulses (6.67 MHz center frequency, F/1.5 focal
+      configuration, apodized, pulse repetition frequency (PRF) of 10.6 KHz, with a pulse length of
+      0.3μs). This US device is one of the standard machines available for clinical US.
+
+      We will track the ultrasound probe with an Electro-Magnetic (EM) tracker. The tracker has
+      small sensors that can be attached to the ultrasound probe under the sterile cover of the
+      ultrasound probe, and therefore the sensor is not exposed. Also, the tracker has a
+      'transmitter' that is flat and is placed underneath the patient below a soft cushion. The
+      sensor is attached to the ultrasound probe prior to the surgery and hencethe probe will
+      remain sterile. The transmitter is flat and will be placed under a soft cushion so that it
+      does not cause any pressure effects on patient.
+
+      In both cases (raw data and B-mode), the freehand acquisition should allow for palpation
+      (manual compression within few millimeters). Risks and discomforts are negligible:
+      Interventional ultrasound is FDA-approved, and we will use only the data resulting from
+      standard of care use of clinically certified equipment. The maximum length of a data
+      recording session will be 1-2 minutes during standard ultrasound acquisition. We will acquire
+      cine sequences for five defined periods: 1) tumor imaging before probe placement; 2)
+      immediately after probe placement; 3) near completion during ablation; 4) two minutes
+      following ablation with probe in place; and 5) after removing the ablator probe.
+    
+  

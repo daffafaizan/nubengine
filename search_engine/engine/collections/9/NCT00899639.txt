@@ -1,0 +1,35 @@
+
+    
+      OBJECTIVES:
+
+        -  To characterize differences in tumor morphology and molecular features that exist in
+           good- and poor-prognosis breast cancer as determined by Oncotype Dx assay (a reverse
+           transcriptase-PCR-based assay).
+
+        -  To develop a computer-aided design (CAD)-based system of analysis of digitized
+           histological images that would perform as well as Oncotype Dx assay in stratifying
+           estrogen receptor-positive (ER+) breast cancer into prognostic categories.
+
+        -  To identify new therapeutic targets in the PI3-kinase signaling pathway for a subset of
+           poor-prognosis ER+ breast cancers.
+
+      OUTLINE: Patients who had Oncotype Dx assay (a reverse transcriptase-PCR-based assay)
+      performed for their breast cancer are identified by review of medical records. Diagnostic H&E
+      stained tumor tissue samples are reviewed by a pathologist. Relevant pathologic features of
+      the tumor (size, stage, grade, estrogen receptor, progesterone receptor, and HER2 staining)
+      and linked Oncotype Dx score are recorded.
+
+      The H&E stained tumor tissue samples are scanned to create high-resolution digital images.
+      The images from each tissue sample are subjected to image analysis algorithms to identify
+      sets of image features that most clearly separate tumors with low recurrence scores from
+      those with high recurrence scores.
+
+      Unstained paraffin sections from each tumor tissue sample, when available, are processed
+      using IHC to analyze PI3-kinase signaling pathway (PTEN expression). Staining for other
+      components of the PI3-kinase signaling pathway, phospo-AKT, and other proteins of interest is
+      also performed. DNA is extracted from the samples and subjected to pyrosequencing analysis on
+      exons 9 and 20 of PI3KCA. Sequencing of other relevant potential oncogenes, such as AKT, is
+      also performed. Statistical analysis is performed to look for a correlation between Oncotype
+      Dx scores and the presence of PI3KCA mutations and/or loss of PTEN expression.
+    
+  

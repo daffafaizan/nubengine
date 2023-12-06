@@ -1,0 +1,75 @@
+
+    
+      It is accepted that emotional events engage more attention and are detected and identified
+      faster than neutral. The same is true for negative events compared to positive events. On the
+      cerebral level, this facilitation results in greater activation of brain regions involved in
+      visual and emotional processing. In normal aging, the preference for the negative stimuli
+      (named negativity bias) tends to disappear and, sometimes, to shifts towards a preference for
+      positive stimuli compared to both the negative and neutral stimuli (positivity bias), which
+      could be mainly related to a decrease with age in processing of negative stimuli and in
+      attention to this type of information. Only a few studies rather suggest an improvement in
+      processing of positive stimuli with age. On the cerebral level, various fMRI studies mainly
+      highlight an age effect on processing of negative stimuli in several brain regions involved
+      in emotional processing such as amygdalae and prefrontal cortex (respectively a lower and
+      higher activity in older adults compared to young adults). This age effect also induces a
+      higher level of well-being and less frequent negative emotional feelings in the elderly than
+      in younger people. Most studies have assessed the age effect on emotional processing using
+      tasks which require the identification of a personal emotional experience or the emotions of
+      others. Although many studies suggest a strong link between emotion and action, relatively
+      little is known about the age effect on emotional processing when the task requires the
+      identification of a tendency-to-action (i.e. preparation of the individual to react and
+      direction of action - example: fear prepares to avoid danger). Team's works on this research
+      question show the negativity bias with age is preserved in a tendency-to-action appraisal
+      task while it disappears with age in an emotional appraisal task, suggesting a dissociation
+      between emotion and tendency to action. In addition, a pilot fMRI study by our team in young
+      people show the tendency-to-action appraisal task compared to emotional appraisal task
+      induces higher activation in brain regions involved in visual and emotional processing. To
+      our knowledge, no study has yet investigated the evolution with aging of neural circuitry
+      involved in emotional processing during a tendency-to-action appraisal task compared to an
+      emotional apparaisal task. Studying this evolution could allow to better understand the
+      observed dissociation with increasing age between emotional and tendency-to-action tasks and
+      more generally to better understand the evolution of the interactions between emotional and
+      action processes with aging.
+
+      ACTEMOVI project aims to identify the brain bases and neural networks involved in the
+      processing of emotional visual information in normal aging when performing emotional
+      appraisal and action-oriented tasks, through a functional MRI study and using an original
+      mathematical modeling of functional connectivity based on the Graph theroy developed in the
+      team. Findings will be used to develop a first neural network mapping model involved in
+      visual perception of emotional scenes during emotional and tendency-to-action appraisals
+      during normal aging.
+
+      The experiment will be conducted in two age groups (20-35 and 60-85 years old) of 50 healthy
+      participants each (number based on currently requirements in terms of size of effects for the
+      envisaged connectivity analyzes), and carried out using a whole-body 3-T Philips scanner
+      (Philips Medical Systems, Best, NL).
+
+      Participants will perform two appraisal tasks during viewing a succession of emotional
+      scenes, one emotional based on the appraisal of personal emotional experience (pleasant,
+      unpleasant or neutral), and the other based on the appraisal of the tendency-to-action
+      (approach, avoidance or no action). Two characteristics of stimuli will be manipulated in the
+      study : valence and arousal.The age effect is modulated by these two characteristics.
+
+      For each task, stimuli will be organized into two blocks: "High" block containing pleasant
+      and unpleasant stimuli of high activation and neutral stimuli, and "Low" block including
+      unpleasant and pleasant stimuli of low activation and neutral stimuli. The tendency-to-action
+      induced by stimuli will be congruent with the valence of stimuli (i.e. pleasant/approach,
+      unpleasant/avoidance and neutral/no action). The emotional stimuli in each block will be
+      displayed according to a block fMRI paradigm.
+
+      In total, each participant will successively perform four experimental blocks. Two blocks
+      will involve an emotional task (for the high and low blocks) and the other two will involve a
+      tendency-to-action task (for the high and low blocks).The order of tasks and images within a
+      task will be counterbalanced between the participants
+
+      For fMRI analyses, the protocol will aso include an anatomical MRI, a Diffusion Tension
+      Imaging (DTI) and a resting-state measure in order to take into account the anatomical and
+      functional differences between age groups. fMRI data (MRI signal of the BOLD type - Blood
+      Oxygen Level Dependent) will be analyzed using standard neuroimaging analysis software (e.g.
+      SPM, FSL). Analysis will perform on whole-body and in regions of interest (ROIs, e.g.
+      amygdala). Regions of interest (ROIs) associated with emotional processing will be
+      functionally identified and delimited for each participant using a separate functional
+      localizer experiment adapted from Vuilleumier et al. (2003). These regions will also be used
+      for Resting-State network analysis.
+    
+  

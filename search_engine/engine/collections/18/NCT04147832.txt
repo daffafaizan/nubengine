@@ -1,0 +1,35 @@
+
+    
+      Retention in care and re-engagement in care is a primary concern in HIV treatment today and a
+      major obstacle in the US to reach the UNAIDS 90-90-90 goal [1]. The U.S. CDC supports the use
+      of HIV surveillance data to identify not-in-care (NIC) patients and re-link them to care
+      (Data-to-Care). The optimal strategy for identifying patients for Data-to-Care is unknown. It
+      has been postulated that by increasing follow up of high-risk patients not meeting the
+      retention in care measures, the number of people living with HIV being retained in care may
+      be increased by 10%.
+
+      Multiple HIV clinics within the AHF organization in the US are eligible for study
+      participation. "Primary" HIV provider will be defined as the primary physician or advanced
+      care practitioner following a patient, as recorded in their respective EHRs and identified
+      through CHORUS, a CDSS developed by Epividian. The CDSS will track patient case status as
+      active or inactive (loss to follow-up, transferred medical care, or deceased). Providers will
+      be informed of the study and sites will be contracted to participate in this collaborative
+      research study.
+
+      The CDSS will generate alerts to the providers warning of suboptimal patient attendance among
+      the population. The alerts will be generated using the following four criteria of at-risk of
+      loss to follow-up:
+
+        -  At Risk #1: No visit in the previous 4 months and no scheduled appointment in the
+           subsequent 2 months.
+
+        -  High Risk #2: Single appointment in the previous year, a missed appointment in the
+           previous month and no scheduled appointment in the next 2 months.
+
+        -  High Risk #3: Those with 2 missed sequential appointments, and no scheduled appointment
+           in the subsequent 7 days.
+
+        -  High Risk #4: Those with an attended appointment >3 months ago and their most recent
+           viral load >1000 copies/ml.
+    
+  

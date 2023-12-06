@@ -1,0 +1,47 @@
+
+    
+      Patient cohort: Two hundred patients will be recruited for this study. Patients will be
+      comprised of two groups: an inpatient group of patients from the Internal Medicine Department
+      E for which a chest CT is ordered during their hospitalization; and ambulatory patients
+      arriving for an ambulatory chest CT in the early afternoon. The treating clinician ordering
+      the chest CT for the patients from Internal Medicine E will consent the inpatients while a
+      chest radiologist from the Radiology Department will consent the outpatients arriving in the
+      early afternoon for a chest CT study. For inclusion in the study, patients will be adults,
+      older than 18 years old with the ability to follow orders and hold their breath for 8 seconds
+      as determined by the physician at time of study consent.
+
+      Imaging method: All patients consented for this study will be imaged on a dedicated scanner
+      for the study, Revolution (GE, Milwaukee, WI). Immediately following the patient's diagnostic
+      chest CT scan, an ultra low dose chest CT scan will be obtained. The routine CT scans of the
+      patients consented for this study will be performed using our routine protocol on the GE
+      Revolution which typically delivers at our institution an average effective dose of 2.9mSv
+      (range 0.95-3.01mSv) while our other Philips routine chest CT scan delivers an average
+      effective dose of 10.5mSv (range 10.29-12.95mSv). With the addition of the ultra low dose
+      technique, which delivers a radiation dose of a range of 0.5-1 mSv (calculated from a pilot
+      study we obtained on pigs), patients are expected to get an total radiation dose for both
+      scans together of about 4 mSv which is less than 10.5mSv (the normal dose for the Phillips CT
+      machine at our institution). Just as a comparison, a meticulous study looking at multiple
+      institutions showed that the average effective dose from a routine chest CT is 7mSv, range
+      4-18mSv and for a chest CT with pulmonary embolism protocol an average effective dose of
+      15mSv with a range of 13-40mSv .
+
+      Image evaluation: The diagnostic chest CT scan will be sent to the PACS as usual and
+      interpreted immediately, during the same day, as per normal inpatient clinical operations
+      protocol at our institution. The ultra low dose CT scan will be automatically sent to the
+      computational imaging lab processing station, which will denoise the image. After denoising
+      the images will be automatically forwarded to the PACS under the same accession number of the
+      routine chest CT scan. Comparison of the ultra low dose denoised images to the routine chest
+      CT images will be performed by an experienced chest radiologist at a later date, at least one
+      week after date of acquisition to prevent any memorability of the original image.
+      Radiologists' memory of findings has been shown to be poor, even when viewed immediately but
+      slightly worse when time passes [Evans]. The radiologist will document the presence of
+      nodules, consolidation, ground glass opacities, emphysema, fibrosis with abnormalities marked
+      on the images in the PACS. Following completion of the table, the routine chest CT scan will
+      be used as the gold standard for the presence of the imaging findings. The documented ultra
+      low dose CT findings will be compared to the images from the routine chest CT scans. Each
+      finding documented will be individually documented as a true finding if also seen on the
+      routine chest CT scan or false finding if not present on the routine chest CT scan.
+      Additional findings only seen on the routine chest CT scan will be documented as missed
+      findings.
+    
+  

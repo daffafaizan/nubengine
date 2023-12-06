@@ -1,0 +1,90 @@
+
+    
+      The study protocol was approved by the Institutional Medical Ethics Committee (CAPPesq
+      1081/09) and received financial support from the São Paulo State Research Foundation
+      (Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP) under no. 2010/03315-4.
+
+      At the end of data prospecting, 334 patients with severe trauma (Injury Severity Score, ISS,
+      >15), assisted by the rescue system and taken to HCFMUSP-Hospital das Clínicas da Faculdade
+      de Medicina da Universidade de São Paulo- (by land and helicopter) were included in the
+      study. This screening strategy included trauma patients with severe confirmed bleeding,
+      patients with severe traumatic brain injury (TBI) and patients facing high-energy trauma (a
+      marked characteristic of this trauma center). Patients under 18 years of age were excluded (
+      Figure 1).
+
+      In total, 78 patients were excluded because they did not fit the above criteria, leaving 256
+      patients for analysis. Of this total, 34 patients died before arriving at the emergency room,
+      and 22 were removed from the analysis due to incomplete data, not signing the informed
+      consent form or due to any situation in which the data collection could compromise victim
+      care(care Figure(Figure 1).
+
+      All patients had data recorded at the following times: 1, at the trauma scene; 2, in the
+      emergency room; 3, at 3 hours after hospital admission; and 4, at 24 hours after
+      hospitalization.
+
+      Data regarding gender, age, trauma and trauma mechanism, medical procedures performed at all
+      stages, time until arrival at the hospital and comorbidities were recorded. The clinical data
+      collected were as follows: systolic blood pressure (SBP); diastolic blood pressure (DBP);
+      heart rate (HR); respiratory rate (RR); arterial hemoglobin oxygen saturation (SAT); Glasgow
+      Coma Scale (GCS) score; and pupil pattern. The following laboratory data were collected
+      through peripheral venipuncture at the hospital stages: pH(hydrogenic potential); base excess
+      (BE); bicarbonate (BIC); partial oxygen pressure (pO2); partial carbon dioxide pressure
+      (pCO2); arterial hemoglobin oxygen saturation; lactate; sodium (Na+); potassium (K+); ionized
+      calcium (Ca2+); glucose; hemoglobin (Hb); hematocrit (Ht); serum creatine phosphokinase
+      (CPK); platelets and leukocytes. Data regarding volume expansion [crystalloids (CRYSTAL),
+      colloids (COLO)], diuresis and water balance were also collected. The use of blood products
+      [packed red blood cells (PRBC), fresh frozen plasma (FFP), platelet concentrates (PLAT),
+      cryoprecipitate concentrates (concentrates (CRYO)] was computed, and the use of vasoactive
+      drugs (VAD) was scored at the respective times. Patient follow-up was conducted at the
+      intensive care unit (ICU), and time of ICU stay (days in the ICU), days under mechanic
+      ventilation (days under MV), the presence or absence of sepsis, coagulopathy and acute renal
+      failure (ARF) were recorded.
+
+      Blood coagulation data were collected as follows: time point 1, International Normalized
+      Ratio (INR) and prothrombin time (PT); and time points 2, 3 and 4, INR, PT, activated partial
+      thromboplastin time (aPTT), the respective ratio between aPTT of patients and controls (R)
+      and thrombin time (TT).
+
+      The following severity indexes were calculated: ISS, revised trauma score (RTS); trauma and
+      injury severity score (TRISS); and simplified acute physiology score (SAPS) 3 (the latter
+      when the patient was in the ICU).
+
+      At time point 1, blood tests were performed using the i-STAT® device (Abbott, USA; PT/INR and
+      CG4+ and CG8+ kits). At the hospital stages, the analyses used the clinical analysis
+      methodology of the HCFMUSP.
+
+      Clinical follow-up was conducted for 30 days after initial trauma.
+
+      Statistical analyses The sample power analysis was conducted with a significance level of
+      0.05, power of 0.80, moderate correlation of 0.5 between time periods and assumption that the
+      variability is equal within each factor (non-sphericity). Due to the effect size between 0.1
+      and 0.5, there was no need for samples larger than 140 patients. A total of 200 patients
+      waswere defined conservatively, with a margin for possible deaths. The software G*Power 3.1.7
+      was used for sample size calculation.
+
+      The data analysis was divided into three interconnected parts. The first part refers to the
+      descriptive data analysis and tests of association with death. The second part addressed the
+      profiles of the time-dependent measures and their relationship with death through analysis of
+      nonparametric variance for repeated measures. The third part includes the set of all previous
+      analyses that resulted in a Generalized Estimating Equation (GEE).
+
+      For the first part, the analyses were performed with the overall sample (n=200) subdivided
+      into two groups: deaths (n=52) and non-deaths (n=148). For qualitative variables, the
+      two-tailed Fisher's exact test was used, and for quantitative variables, the two-tailed t
+      test or the two-tailed Mann-Whitney test was used according to the normality of the variable,
+      which was verified by the Anderson-Darling test.
+
+      In the second part, the profiles of each measure over time were analyzed for groups of
+      survivors and non-survivors. Nonparametric analyses of variance (NPar ANOVA) were conducted.
+
+      Finally, in the third part, a GEE model was developed considering the family of binomial
+      distributions (dichotomous response variable) with logit link function. Only the main effects
+      of each measure were considered. The NPar ANOVA (p>0.1) was the test used for inclusion in
+      the model. The variables for the final models were selected using the backward method, with
+      output alpha equal to 0.05. All part 3 results were interpreted by estimating odds ratios
+      (OR), their corresponding 95% confidence intervals and significance tests (p-value).
+
+      The significance level was set at 0.05, and the free software R 3.0.2 was used for performing
+      the statistical analyses.
+    
+  

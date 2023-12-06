@@ -1,0 +1,73 @@
+
+    
+      The investigators propose a multicentre observational prospective study according to the
+      clinical routine practice of coronavirus disease 2019 (COVID-19) patients. All patients will
+      be clinically evaluated at admission according to standard clinical practice. All data
+      present in the inpatient medical record will be used for the study.
+
+      The study cohort will be composed by consecutively enrolled COVID19 confirmed inpatients
+      (case group) and COVID19 negative patients hospitalized for other reasons (controls group)
+      referred to the participants centres from May 1, 2020.
+
+      Patient's follow up will start at discharge and will continue for 12 months.
+
+      Definitions Confirmed COVID19 cases The definitions of COVID19 state are according to the
+      World Health Organization (WHO) document released in March 2020.
+
+      A person with laboratory confirmation of COVID-19 infection, irrespective of clinical signs
+      and symptoms. Patients categorized as suspect or probable COVID19 cases will be excluded from
+      enrolment.
+
+      COVID19 negative patients (controls) Consecutive COVID19 negative in-patients admitted for
+      any clinical condition other than a primary gastrointestinal disease fulfilling the inclusion
+      criteria.
+
+      Visits and evaluations After enrolment, all patients will be contacted telephonically at 1
+      month after discharge for reassessment of Gastrointestinal Symptom Rating Scale (GSRS).
+      Subsequently, patients will be contacted every 6 months for a total of 12 months. At
+      telephonic evaluation at 6 and 12 months after discharge patients will undergo the GSRS
+      questionnaire, the Rome IV Diagnostic Questionnaire for Functional Gastrointestinal Disorders
+      in Adults (R4DQ) and the hospital anxiety and depression scale (HADS) and thus the onset of
+      PI-IBS will be recorded.
+
+      Data Management Data flow Data will be collected in custom electronic Case Report Forms
+      (e-CRFs) on REDCap platform. System backups for data stored and records retention for the
+      study data will be consistent with standard procedures.
+
+      Electronic Case Report Forms eCRFs are to be completed using RedCAP system. Sites will
+      receive training and a have access to a manual for appropriate eCRF completion. eCRFs will be
+      submitted electronically and should be handled in accordance with instructions. All eCRFs
+      should be completed by designated, trained site staff. eCRFs should be reviewed and
+      electronically signed and dated by the investigator or a designee.
+
+      Safety of Electronic data Data will be collected in an ad hoc electronic record storage. The
+      creation and the management of electronic record storage will be evaluated preliminarily with
+      institution information technology staff. Data will be collected in REDCap platform. Redcap
+      platform is an online platform maintained in a server that is propriety of the institution.
+      Access and data transfer from and to REDCap platform are managed under https protocol and
+      128-bit encryption wit SSL certificate (a secure connection with encrypted data transfer).
+      The access at the site is allowed only for the investigators and require a user-specific
+      password of at least 8 characters including number and special character. Redcap comes with a
+      system of user privileges, so only the account of the principal investigator has the
+      authorization to explore the entire dataset. The sub-investigators and data manager have
+      limited authorizations,and can see only data that they entered personally. REDCap provider
+      and the principal investigator guarantee that creation and management of username and
+      password are compliant with privacy law.
+
+      The access of REDCap platform is regulated by law for protection of personal data.
+      Administrative procedures on applications (e.g. user creation and suspension, study
+      configuration, query creation, data mining) are pertinence of the principal investigator and
+      his information technology support team. REDCap platform, to manage identity of people
+      involved in the study, generates a unique identification number associated at every eCRF of
+      the subject, that allow the investigators to maintain association with name and surname of
+      the subject locally.
+
+      Data collected on REDCap, even if they do not allow to associate data with a specific subject
+      or to recognize the subject, are registered in double-key SSL encryption, and maintained with
+      AES 128 encryption. As regulated by law for protection of personal data, REDCap and the
+      principal investigator guarantee the weekly backup of data in a password-protected storage.
+
+      Data will be accessed only by principal investigator and his support team (sub
+      investigators), and they will have confidentiality obligation.
+    
+  

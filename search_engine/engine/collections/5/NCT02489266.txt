@@ -1,0 +1,66 @@
+
+    
+      Background:
+
+        -  Adoptive cellular immunotherapy (ACT) using autologous tumor-infiltrating lymphocytes
+           (TIL) can mediate regression of bulky metastatic melanoma when administered with
+           high-dose aldesleukin (IL-2) following a non-myeloablative lymphodepleting chemotherapy
+           preparative regimen consisting of cyclophosphamide and fludarabine.
+
+        -  Regression of tumor in mouse models and humans strongly correlates with anti-tumor T
+           cells that exhibit features of immunologic memory and have a capacity to persist for
+           long periods after adoptive-transfer into tumor-bearing hosts.
+
+        -  In our preclinical work with TIL, we have identified a pharmacologic inhibitor of AKT
+           that promotes features of immunologic memory in TIL (as evidenced by transcriptomic,
+           proteomic, metabolomic, and functional assays described in the Background section).
+           Consistently, AKT inhibition of human TIL significantly enhances persistence after
+           adoptive-transfer into an immunodeficient mouse model.
+
+        -  We therefore aim to evaluate whether pharmacologic inhibition of AKT in TIL may enhance
+           persistence after adoptive-transfer into patients with advanced melanoma.
+
+      Objectives:
+
+        -  Primary objective:
+
+             -  To determine whether ACT using TIL cultured in a pharmacologic inhibitor of AKT
+                (during ex vivo expansion) results in enhanced in vivo persistence of TIL after
+                adoptive transfer into autologous patients with advanced melanoma.
+
+        -  Secondary objectives:
+
+             -  Determine the toxicity profile of this treatment regimen.
+
+             -  Determine whether ACT using a combination of AKTi-treated and conventional TIL can
+                mediate tumor regression by RECIST (Response Evaluation Criteria in Solid Tumors)
+                guidelines in patients with advanced melanoma.
+
+      Eligibility:
+
+        -  Age greater than or equal to 18 and less than or equal to 70 years
+
+        -  Evaluable metastatic melanoma
+
+        -  Metastatic melanoma lesion suitable for surgical resection for the preparation of TIL
+
+        -  No contraindications to high-dose aldesleukin administration
+
+        -  No concurrent major medical illnesses or any form of immunodeficiency
+
+      Design:
+
+        -  Patients with metastatic melanoma will undergo ACT in conventional manner, with the
+           exception that half of tumor fragments from which TIL are isolated will be cultured in
+           the presence of a pharmacologic AKT inhibitor. Prior to infusion of TIL, the AKT
+           inhibitor (hereafter AKTi) will be washed from the therapeutic TIL product and will not
+           be systemically administered. Each patient will receive a 1:1 mixture of conventional
+           TIL and AKTi-treated TIL. To evaluate persistence of AKTi-treated and conventional TIL
+           after adoptive co-transfer, we will perform high-throughput deep sequencing of the TCR
+           V-beta CDR3 region of TIL from the infusion-bag and from peripheral blood when
+           sufficient lymphocyte reconstitution (>200 lymphocytes/microliter) has occurred and
+           approximately 4-6 weeks after infusion.
+
+        -  Up to 20 patients may be enrolled over 20-24 months.
+    
+  

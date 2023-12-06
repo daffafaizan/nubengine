@@ -1,0 +1,56 @@
+
+    
+      Background:
+
+      Acute respiratory distress syndrome (ARDS) is characterized by a major loss of lung volume
+      due to alveolar flooding, atelectasis and consolidation. Alveolar recruitment maneuvers (ARM)
+      permit to recruit non-aerated or poorly aerated lung tissue, and thus may improve gas
+      exchange and oxygenation in patients with ARDS. However, ARM may also be harmful by
+      overdistending the previously open lung tissue and can induce hemodynamic instability. The
+      potential effectiveness and benefit of ARM depends on the patient's recruitability. A simple,
+      routinely applicable bedside method to assess recruitability has been described in 2020 and
+      is as efficient as multiple pressure-volume curves. We called it MERP for Potential for lung
+      Recruitability Evaluation Method.
+
+      The investigators therefore propose to use this new method that determine lung recruitability
+      as a diagnostic test to determine responder an non responder to ARM, and define a threshold.
+
+      Objectives:
+
+      The major aim is to determine the threshold of Vrec with the best sensitivity and specificity
+      to define patient responders to alveolar recruitment maneuvers in ARDS.
+
+      The secondary objectives are :
+
+        -  Evaluate the differences in morbi-mortality comparing responders and non responders to
+           ARM
+
+        -  Calculate the mean time of realization of the MERP+ARM maneuvers
+
+        -  Estimate the occurence of secondary effects due to ARM (hemodynamic instability,
+           arrhythmia, hypoxemia)
+
+      Methods:
+
+      This study will enroll at least 42 patients from the three Intensive Care Units at CHU Caen
+      Normandy in 18 months. In all patients a MERP will be performed to determine the recruitable
+      volume (Vrec). It consists to a brutal drop in PEEP level from 15 cmH2O to 5 cmH2O over a
+      single breath maneuver to determine the increased end expiratory volume at the next
+      respiratory cycle. The difference between this volume and the tidal volume represent the "
+      measured recruitable volume " (Vmes). We can therefore calculate the predicted change in lung
+      volume (Vcalc) by the product of respiratory system compliance at low PEEP (5 cmH20) and the
+      change in pressure (10 cmH2O). Finally, the Vrec for each patients is the difference between
+      the Vmes and the Vcalc.
+
+      An alveolar recruitment maneuver is then performed following the maximal alveolar recruitment
+      method (driving pressure of 15 cmH2O, with 3 steps of PEEP 20-25-30 cmH2O) followed by a
+      decremental PEEP procedure to determine the best PEEP. 15 minutes a posteriori, a blood gas
+      sample permits to calculate the change in PaO2/FiO2 ratio.
+
+      Data Analysis:
+
+      The primary endpoint is to determine the threshold of Vrec that permits to identify
+      responders to alveolar recruitment maneuvers defined by an improvement of the PaO2/FiO2 ratio
+      > 20% 15 minutes after ARM, through ROC curve and Youden index.
+    
+  

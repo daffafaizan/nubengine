@@ -1,0 +1,23 @@
+
+    
+      The CIME model integrates interventions for malaria, dengue, tuberculosis, childhood
+      diarrhoea and Rapid Diagnostic Test (RDT)-negative fever. It will involve the recruitment and
+      training of a volunteer to implement the CIME model in each village.
+
+      The primary outcome of the trial is blood examination rate as determined by number of RDTs
+      for malaria performed per week per village. 140 villages in 8 townships across Ayeyarwaddy,
+      Bago and Yangon Regions and Kayah State in Myanmar will be sampled at random with probability
+      proportional to size. Study populations include villages with ICMVs who will be re-trained as
+      CIME volunteers (intervention phase) and the community members in the service catchment areas
+      of those volunteers. An open stepped-wedge cluster-randomised controlled trial, randomized at
+      the volunteer level (i.e. the volunteer and the village / workplaces they service), will be
+      conducted over 6-months to evaluate the effectiveness and cost-effectiveness of the CIME
+      model intervention. The stepped-wedge design will comprises 24 weekly measurements of the
+      number of malaria blood examinations performed by each village, with villages grouped into 10
+      blocks of 14 villages and transitioned from control to intervention phases at bi-weekly
+      intervals following a universal two-week control period. Differences in the per weekly rate
+      of blood examination (primary outcome), will be estimated across intervention and control
+      phases using a generalised linear (e.g. Poisson or negative-binomial link functions) mixed
+      modelling analytical approach with maximum likelihood estimation.
+    
+  

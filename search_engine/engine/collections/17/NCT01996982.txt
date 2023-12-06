@@ -1,0 +1,109 @@
+
+    
+      Introduction:
+
+      The ability to manipulate body core temperatures quickly and effectively would impact a
+      number of fields, with truly transformative potential. By far the best way to effect a change
+      in body temperature is perfusion with cooled or warmed blood because the vasculature of the
+      human body equilibrates magnificently well with the body and especially the body core tissues
+      due to the diffuse microcirculation. This process is quite invasive, however, and noninvasive
+      techniques to date have mostly revolved around various surface heat transfer mechanisms that
+      ultimately rely on relatively inferior conduction heat transfer.
+
+      Grahn, et al., at Stanford University have identified a new technique to increase the rate of
+      heat transfer between the skin and the body core by up to a factor of ten by harnessing the
+      convective power of the circulatory system in a completely noninvasive way [1, 2]. Our system
+      is derivative of the Stanford device, but different in many significant ways.
+
+      A well-understood and thus modifiable system capable of rapid artificial heat transfer has
+      almost limitless potential applications, including treatment of acute brain trauma (where the
+      single greatest challenge to treatment is inducing immediate hypothermia), athletic
+      performance enhancement, military operations, and enhancement of industries in which workers
+      are subject to extreme thermal stress.
+
+      Description of the Technology/Device:
+
+      The technology works as a two-step process, consisting of first stimulating the blood flow to
+      the AVAs and second cooling the glabrous skin through which blood is flowing. Accordingly,
+      the device consists of two components: first a blood flow stimulation source, and second a
+      surface heat exchanger to chill the glabrous skin and thereby the blood flowing through it
+      that subsequently flows back to the body core, where it cools those tissues.
+
+      Two separate means of stimulation will be tested in the trial:
+
+        -  Transcutaneous Electrical Nerve Stimulation (TENS) - An FDA-approved TENS unit sends a
+           current via surface electrodes through the skin to stimulate the nerves that control the
+           state of AVA vasoconstriction. This stimulation will create a vasodilation effect in the
+           AVAs, allowing an increase in blood flow.
+
+        -  Mild thermal stimulation along the skin overlying the cervical spine to send a control
+           signal to vasodilate the AVAs and provide an increased blood flow to glabrous skin. An
+           FDA-approved electric heating pad is used for this purpose at a temperature of 42°C or
+           lower.
+
+      Cooling will be accomplished by applying water perfusion bladders to the hands and feet. The
+      water will recirculate through the bladders to a holding tank with an internal pump, and a
+      thermoelectric cooler regulates the water temperature. The water temperature will be at 20°C
+      or higher.
+
+      Research Incentive:
+
+      The AVA structures in glabrous (non-hairy) skin are one component of the body's natural
+      thermoregulatory system. The anatomy and morphology of AVAs have been described to a great
+      extent in the literature, e.g. Sherman [6]. Putative pre-AVA sphincters are thought to be the
+      primary controllers of perfusion through AVAs, regardless of the level of AVA vasodilation.
+      If the AVAs are completely dilated, but the sphincters closed, blood will pool in the dilated
+      AVAs, but the flow of blood, which is essential for heat exchange with the core, will be
+      minimal. In contrast to perfusion of capillaries, which is largely regulated by local
+      conditions, flow through AVAs appears to be mostly centrally mediated, controlled primarily
+      by the vasoconstrictor tone imparted by rich sympathetic innervation [7-10]. The sympathetic
+      vasoconstrictor tone, which appears to oscillate in a characteristic manner over time, is
+      controlled by the central nervous system's homeostatic centers that respond to various
+      centrally located core temperature receptors. The complete inner workings of this control
+      system and its effector mechanisms are not completely understood or quantified, and other
+      factors influence AVA blood flow to some degree, such as local skin temperatures, the
+      presence of vasoactive metabolites, level of exercise, and stimulation of various peripheral
+      thermal sites. Recent work in the Diller lab has indicated the potential inherent in the
+      latter. The lab has identified regions of the skin that may be non-energetically thermally
+      stimulated (heating over a small area so as not to warm a significant volume) to induce AVA
+      vasodilation. We hypothesize these sites contain important thermoafferent sensors that impact
+      the central component (hypothalamic) of the governing controller.
+
+      The ability to induce mild hypothermia from a normothermic state represents the application
+      of greatest interest to our research group. If optimally developed, a device capable of
+      inducing only a 2-4°C decrease in body core temperature could have a huge impact in treatment
+      of various medical disease states and/or emergencies, including cardiac arrest, severe brain
+      injury, and stroke. It is well known that tissue death due to traumatic physical injury
+      and/or ischemia can be decreased with therapeutic hypothermia because of the temperature
+      dependence of cellular metabolism and the complex, destructive biochemical processes that
+      occur in damaged tissues [12].
+
+      Therapeutic hypothermia has been shown to have a great effect in various animal models;
+      however, translation of these results to the clinical domain has been very difficult. Aside
+      from any possible interspecies physiological differences, researchers are able to produce
+      injury and cool the core of the research animals in a very controlled manner, and most
+      importantly, cooling is induced very soon after injury. From these experiments, it has been
+      suggested that a "window of opportunity" exists of about 90 minutes post injury, after which
+      little to no therapeutic effect occurs from mild hypothermia. Moreover, this 90-minute
+      threshold may itself be a stretch, and cooling within a 60-minute window may be most
+      appropriate. Clinically, cooling within the former and surely the latter windows has almost
+      never been achieved. There are a number of reasons for this: the time between injury and
+      mobilization of the patient, transportation to an emergency care facility, initial assessment
+      of the patient in the hospital setting, and most importantly for physiological science, a
+      lack of fast and effective methods to cool the body core. Due to simple size and geometry,
+      the human body is much more difficult to heat or cool than, for example, the rat model. This
+      is especially true for conductive heat transfer mechanisms (which is what most current
+      noninvasive therapeutic hypothermia implementations are based on) because of the relatively
+      small ratio of surface area to thermal mass volume [3].
+
+      We hope that the problem of rapid core temperature manipulation can be drastically improved
+      upon, specifically by utilizing convective heat transfer through AVAs of glabrous skin. In
+      these experiments, we believe an optimized combinatorial protocol utilizing large coverage of
+      glabrous regions (both palms plus soles of the feet), manipulation of mean skin temperature,
+      and especially optimized stimulation of peripheral thermoafferent sensors located in regions
+      of the body such as along the spine, can allow for mild hypothermia induction in spite of the
+      conflict with the thermoregulatory controller. We especially hope that manipulation of
+      important thermoafferents will allow us to "trick" the controller and bypass its effective
+      vasoconstrictive signal.
+    
+  

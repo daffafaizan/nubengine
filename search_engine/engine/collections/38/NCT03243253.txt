@@ -1,0 +1,30 @@
+
+    
+      the investigators used data on mortality rate (per 100,000 individuals) for CVD and stroke
+      (between 2011 and 2013, age>35years) from the publicly available Centers for disease
+      prevention and control (CDC) web site (www.cdc.gov). CVD mortality was defined as the number
+      of deaths per 100,000 person-years due to circulatory causes (International Statistical
+      Classification of Diseases, Tenth Revision, codes I00-I99). Detailed information on
+      preparation, definition, download and sorting of data on prevalence of T2D (age-adjusted),
+      poverty and ethnicity have been explained elsewhere. In brief, county level data on the
+      prevalence of T2D were downloaded from the USA CDC web site (www.cdc.gov). Data on T2D was
+      estimated using data from the CDC Behavioural Risk Factor Surveillance System (BRFSS) which
+      is a monthly state based telephone survey of a nationally representative sample of adults
+      aged >20 years old. In 2012, the year for which these data were downloaded, the survey
+      included landline telephones only and hence excluded individuals living in care homes or
+      those without a landline telephone. More than 400,000 individuals are contacted annually to
+      take part in the survey which has been running since 1984. Individuals are judged to have
+      diabetes if they respond 'yes;' to the question "Has a doctor ever told participants that you
+      have diabetes?", excluding females who indicate in a follow-up question that they only had
+      diabetes during pregnancy. Previous work indicates that self-report of a physician's prior
+      diagnosis of diabetes is highly reliable compared to medical records. This question does not
+      separate those with type 1 and T2D. In the adult population of the USA more than 96% of
+      diabetes is type 2, the investigators therefore called the estimated prevalence that of T2D.
+      Given the magnitudes of the trends described here they cannot be attributed to differences in
+      prevalence of the type 1 diabetes. Data on rate of mortality (per 100,000 individuals) from
+      CVD and stroke (between 2011 and 2013, age>35years) were also downloaded from CDC web site
+      (www.cdc.gov, National Vital Statistics System and National Centre for Health Statistics). A
+      previous variogram analysis has established that counties are an appropriate spatial level at
+      which to explore the associations of factors to T2D prevalence.
+    
+  

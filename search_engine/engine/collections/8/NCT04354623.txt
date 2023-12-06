@@ -1,0 +1,58 @@
+
+    
+      Recent advances in machine learning have disrupted the standard approach to assessing medical
+      prognosis. Our group, consisting of academic clinicians and research engineers, seeks to
+      create a database of stability measures ( accelerometers, gyroscopes and altitude sensors
+      data) in older adults monitores longitudinally. This Stability Measures (SM) database will
+      allow us to use new machine learning methods to develop and validate algorithms that predict
+      future falls, allowing to better targetting of vulnerable individuals.
+
+      Although there have been numerous attempts to quantify fall risk in older adults using
+      bedside scales 7-12, no previous group has attempted to use a combination of both
+      accelerometer and video measures to assess gait stability. Since these measures will be
+      captured in both frequently falling and infrequently falling patients, we will have SM data
+      for various windows of time (1, 2, 3 and 4-weeks) prior to at least 100 fall events, a
+      dataset that has never been captured before.
+
+      HYPOTHESES:
+
+        1. A combination of accelerometer, gyroscope, and video data can be used to predict falls
+           longitudinally, first by the use of a training dataset followed by verification on a
+           validation data set.
+
+        2. All the above sensor-based inputs can be combined as a simple, automated predcition tool
+           to predict fall risk in older adults Current Methods of Falls Risk Assessment: Current
+           methods of predicting falls in physician offices rely heavily on simple bedside
+           tests12-14. Although useful, all of these measures have quite low sensitivity and
+           specificity, with an Area Under the Curve (AUC) of approximately 0.707-12.
+
+      In fact, a recent meta-analysis "could not identify any tool which had an optimal balance
+      between sensitivity and specificity, or which was clearly better than a simple clinical
+      judgment of risk of falling"
+
+      METHODS:
+
+      a) Subjects: i) High Risk Subjects (n=50): All subjects will be recruited from falls and
+      geriatrics clinics at Vancouver General Hospital. These clinics see about 2500 patients per
+      year and are currently used for research recruitment. Each clinic patient has gait speed
+      measured, which will allow to recruit both high and low risk fallers. This test will allow us
+      to recruit 50 subjects at marked risk for falls, providing us with prospectively gathered
+      dataset of greater than 100 events, five times higher than any other sensor study.
+
+      ii) Low Risk Subjects (n=50): In addition, we will use newspaper advertisements to recruit
+      and then screen low risk subjects. All subjects will have a gait speed > 0.8 m/s and have had
+      no falls in the last year.
+
+      All study patients with come to the laboratory (Gerontology and Diabetes Research Laboratory,
+      VGH Research Pavilion) for a one hour session. Each subject will perform a 6-minute walk test
+      during which gait assessment will be obtained from the APDM system (Portland, OR). In
+      addition there will be four video cameras (on the front, back and sides) that will measure
+      raw video data for our gait analysis. The camera does not record any facial data (in fact,
+      'deepfake' software in the system deletes all facial details) and the patient's movements are
+      converted to a 'stick figure' prior to being saved in the system. In addition, a Xethru X4M03
+      kit was will be used to collect ultra-sideband radar data (UWB). The UWB radar operates in
+      5.9-10.3 GHz, providing high spatial resolution. The radar is placed 1.5 m above the floor
+      level. To collect heel-toe strike timing data, the subject will ambulate on the GAITRite
+      system (CIR Systems Inc, Franklin, NJ), with a 90 × 700-cm × 3.2-mm walkway.
+    
+  

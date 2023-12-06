@@ -1,0 +1,91 @@
+
+    
+      Randomization and Blinding:
+
+      Subjects will be randomly assigned by a 1:1 ratio to either furosemide or placebo. The
+      Biostatistics Unit will develop a randomization procedure using a permuted block design. The
+      randomization will be stratified by mode of delivery of furosemide: IV or PO. Blinding will
+      be maintained at all times throughout the study. The only unblinded study personnel will be
+      the pharmacy department who will dispense either of placebo or furosemide to each patient.
+      Blinding will be broken only in the case of allergic reaction in which case a pediatric
+      attending physician, not involved with the study (designated prior to study initiation) will
+      be notified to access the intervention of that patient. If such an event should occur, the
+      primary investigator and IRB will be notified by e-mail/phone, and an adverse event will be
+      documented.
+
+      Materials / Methods:
+
+      All patients aged 0-4 years old with primary diagnosis of bronchiolitis on assessment by the
+      Emergency Department will be evaluated for inclusion to study. The goal patient enrollment is
+      100 patients, which is required to achieve statistical significance (see below). As this
+      study focuses on moderate (admitted) to severe (requiring mechanical ventilation) patients
+      with bronchiolitis, further documentation would be completed on a data collection sheet.
+      Randomization will occur upon consent to study. In collaboration with the Biostatistics Unit,
+      patients will be randomly assigned by a 1:1 ratio to either furosemide or placebo. There will
+      be a randomization procedure using a permuted block design. The randomization will be
+      stratified by mode of delivery of intervention: IV or PO. The corresponding intervention
+      (placebo or furosemide) will then be dispensed by pharmacy for administration in a blinded
+      manner by the patient's nurse and/or physician. Either a single dose furosemide (1mg/kg or
+      10mg - whichever is less) will be administered orally PO (or intravenously [IV] if IV is
+      present), or a placebo of equal volume. Ideally, the intervention dose will be administered
+      as early as possible (immediately after decision to admit was made and consent obtained).
+      Subsequent retrieval of that data will be done by study personnel. Data recorded on the data
+      collection sheet can include: O2 Saturation/Weight (pre-intervention and, 2 and 4 hours
+      post-furosemide/control), Age, Gender, Prematurity (<32 weeks gestation), history of
+      mechanical ventilation, history of wheeze / asthma, history of furosemide use, interventions
+      prior to furosemide (racemic epinephrine, albuterol, or non-invasive ventilation), RSV /
+      Influenza status, degree of dehydration (mild / moderate / severe), onset of symptoms prior
+      to triage, +/- apnea, timing from initiation of visit until furosemide administration and/or
+      non-invasive/invasive ventilator support, and reason for admission to ICU if necessary.
+
+      Considerations for all analyses:
+
+      All analyses will be carried out under the intention to treat principle; patients will be
+      analyzed according to the groups to which they were randomized. (However, it is likely that
+      the intention to treat population will be the same as the per protocol population.)
+
+      The primary analyses will be carried out for all patients. Mode of delivery of furosemide (IV
+      vs. PO) will not be included in the analysis, as the aim of the study is to examine the
+      effects of furosemide, regardless of mode of delivery. Randomization will be stratified by
+      mode of delivery, so that the distribution of mode of delivery will be the same for the two
+      treatment groups. Secondary subgroup analyses will be performed analyzing each mode of
+      delivery (IV, PO), separately. These secondary subgroup analyses will be the same as the
+      primary analyses.
+
+      Analyses for Specific Aims:
+
+      1. The association between treatment (furosemide) and control (placebo) groups will be
+      compared using the chi-square test for the categorical outcomes (25% decrease in respiratory
+      rate, intubation, etc).
+
+      Percent change in respiratory rate will be compared using the two sample t-test. If the usual
+      assumptions required for the t-test are not met, then either a suitable transformation, or an
+      appropriate non-parametric test (the Mann-Whitney test), will be used.
+
+      Length of stay (LOS) will be compared using the Mann-Whitney test. In the event that not all
+      participants are followed until discharge from the hospital (in-hospital mortality, not
+      discharged by end of study period), survival methods will be used (LOS will be estimated
+      using the product-limit method, and the treatment groups will be compared using the log-rank
+      test).
+
+      Sample Size Justification:
+
+      Based on clinical experience, we believe that very few patients who are admitted with
+      bronchiolitis will have a response (as described in the primary outcome: a decrease in
+      respiratory rate of 25% or more, or a return to their age appropriate respiration rate), at 2
+      hours post administration of placebo. To be conservative, it is assumed that the response to
+      placebo will be no higher than 5%. It is believed that a clinically meaningful response rate
+      would be 25% of patients at 2 hours after administration of furosemide. The proposed sample
+      size of 49 subjects per group will yield 80% power to detect such a difference using a
+      chi-square test with a 0.05 significance level.
+
+      Clinical Outcomes Justification:
+
+      Given the transient nature of bronchiolitis, as symptoms typically peak treatment is sought.
+      Along with furosemide's half life of approximately 6hrs, there could be a correlation drawn
+      between those children intubated (respiratory failure) or not, as it relates to when
+      furosemide was given. Twenty-four hours is a reasonable observation period to correlate to
+      the intervention. Intubation beyond that time point may infer that similar treatments of
+      furosemide were warranted given the disease.
+    
+  

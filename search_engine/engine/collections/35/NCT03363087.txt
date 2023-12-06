@@ -1,0 +1,162 @@
+
+    
+      HD SAGA:
+
+      The study would propose to use the Rhythmia Ultra High Density (UHD) mapping system (Boston
+      Scientific) firstly to generate scar maps to determine if the results are comparable with
+      previous work using lower density systems. Scar maps would be acquired in 3 groups of
+      patients. The first group would be Redo-persistent AF ablation cases as these patients would
+      have expected LA scar (iatrogenic and non-iatrogenic) from their previous ablation procedure.
+      De novo persistent AF patients who would be expected to have non-iatrogenic scar. De novo
+      paroxysmal AF patients who would be expected to have no or minimal scar. In redo AF patients,
+      the validity of the scar maps would be further explored by undertaking re-isolation of veins
+      based on discontinuities in the pulmonary vein isolation lines. If this is proven to be
+      effective, it would demonstrate that the scar picked up by the system is genuine and may also
+      suggest a more effective use of UHD systems for redo-pulmonary vein isolation (PVI).
+
+      In the ablation phase, we would be assessing the effect of ablation on the localised ablation
+      characteristics of the tissue to assess how this is affected by ablation. From previous work,
+      using conventional, wide area impedance measurements, there is a notable plateau in the
+      impedance drop with ablation suggesting a point beyond which there is minimal efficacy gain
+      from further ablation. One would expect this would be even more apparent with localised
+      impedance.
+
+      Original Hypothesis - mapping phase An UHD mapping system can be utilised to generate
+      automated, rapid, high density atrial scar maps in AF to guide a scar-based ablation
+      strategy.
+
+      Original Hypothesis - ablation phase Localised Impedance will fall during ablation and this
+      fall will plateau, suggesting a biophysical target for ablation
+
+      There is a small body of literature addressing contact mapping of atrial scar but this has
+      mainly relied on lower density mapping approaches. UHD mapping systems offer the advantage of
+      true high-density mapping with improved signal to noise ratios that one would predict will
+      lead to the generation of more accurate maps. These advantages are also such that one would
+      predict scar maps in AF would be more accurate. Extending the scar maps to incorporate the RA
+      is also novel in this context and would give an insight into the degree to which AF is a
+      bi-atrial fibrotic cardiomyopathy. As the use of UHD mapping is novel, it is important to
+      establish how relevant criteria used in lower density, lower fidelity mapping systems are
+      when the newer system is used, especially in defining scar.
+
+      No clinical studies have been published assessing localised impedance.
+
+      Protocol Fifteen patients listed for persistent AF ablation would be recruited including
+      redo-ablation patients (aiming for 5 de novo and 10 redo patients). All these patients would
+      be in AF at the time of the procedure. A further 5 patients with paroxysmal AF would also be
+      recruited. Procedures would be performed on uninterrupted anticoagulation with a
+      pre-procedural TOE as dictated by local guidelines. Moderate sedation or general anaesthetic
+      procedures would be included. Intravenous heparin would be used to maintain the ACT at a
+      therapeutic level throughout the study. All mapping would be undertaken using the Orion high
+      density multipolar mapping catheter with the Rhythmia system. The ablation catheter used
+      would be the IntellaNav MiFi Open Irrigated Temperature Ablation Catheter.
+
+      An RA scar map would be obtained using WCT as a reference. Double transseptal access would be
+      obtained and the mapping and ablation catheters passed into the LA.
+
+      An LA scar map would be taken with the mapping catheter. For paroxysmal AF cases in sinus
+      rhythm, this would be the only LA map taken. For patients in AF, maps would be taken in AF
+      and then in sinus rhythm. In redo cases, the veins which the scar map suggests are likely to
+      be reconnected would be noted (based on discontinuities in the wide area circumferential
+      ablation (WACA) lines). The mapping catheter would then be used to confirm the presence of
+      electrical reconnection of each vein. The patient would then be cardioverted if in AF and the
+      mapping process repeated using a WCT reference. With all maps, the aim would be complete LA
+      coverage. For the sinus rhythm maps, the LA will be divided into 5 sites: roof, posterior
+      wall, inferior wall, septum, anterior wall bordering left atrial appendage. Within each of
+      these sites, the pacing threshold will be assessed at 3 locations incorporating a spread of
+      bipolar voltages.
+
+      Following the mapping phase, the case would then proceed as per the operator's standard
+      methodology. The aim would be to collect at least 30 static study ablation points as
+      discussed above. Vein re-isolation would be performed without any catheter measuring
+      electrical activity in the vein, purely based on the scar map, targeting discontinuities in
+      the WACA lines. Ablations would be static rather than drag ablations and at each point, the
+      electrogram from the MiFi electrodes would be recorded at the start and end of ablation.
+      Pacing would be performed during ablation and the impedance value at which pacing capture was
+      lost would be noted. Following this ablation, the mapping catheter would be utilised to
+      establish if the vein has been electrically disconnected based on the scar map.
+
+      At the end of the case, in sinus rhythm, scar maps of the RA would be taken. In sinus rhythm,
+      pacing would be undertaken as for the LA at the following sites: anterior wall, posterior
+      wall, septum and lateral wall.
+
+      The scar maps would be exported offline to allow quantitative analysis, as would the
+      electrogram and impedance data. The analysis would be performed using the Matlab programming
+      environment.
+
+      The scar analysis will exclude any portions of the LA distal to the WACA lines. The initial
+      step will be to give a low voltage zone percentage. The next step will be to identify
+      congruent low voltage zones and give advice regarding the ablation strategy for these -
+      whether this involved delivering lines, for instance for a large posterior wall scar, and if
+      the ablation needs to be extended to other inexcitable structures to prevent leaving a narrow
+      conducting isthmus.
+
+      Study Follow up There would be no additional follow up for this study - the participants'
+      follow up will follow the normal clinical practice at University Hospital Southampton.
+
+      HD SAGA S:
+
+      Protocol:
+
+      Twenty patients will be recruited for the HD-SAGAS cohort, all with persistent AF who will be
+      in AF at the time of the procedure. These can be de novo or redo procedure patients.
+
+      Procedures would be performed on uninterrupted anticoagulation with a pre-procedural imaging
+      as dictated by local guidelines. Moderate sedation or general anaesthetic procedures would be
+      included. Intravenous heparin would be used to maintain the ACT at a therapeutic level
+      throughout the study. All mapping would be undertaken using the Orion high density multipolar
+      mapping catheter with the Rhythmia system. The ablation catheter used would be the
+      Stablepoint catheter.
+
+      An LA scar map would be taken with the mapping catheter. The first map would be collected in
+      AF. Following this, at 5 locations in the LA, aiming for a spread of voltages and locations,
+      the contact force would be increased from 0-40g and the LI noted. The patient would then be
+      cardioverted and a map taken in sinus rhythm with right atrial pacing. With all maps, the aim
+      would be complete LA coverage. After cardioversion, at the same spots assessed in AF, the
+      contact force would again be increased from 0-40g and the LI noted once more. Pacing
+      thresholds would also be checked at these locations with a stable contact force of 10-20g to
+      ensure good contact. The pacing phase could be after the ablation phase depending on rhythm
+      stability.
+
+      Following the mapping phase, the case would then proceed as per the operator's standard
+      methodology. The operator will be allowed to use whichever powers they wish to during
+      ablation. Sites of acute reconnection would be noted.
+
+      At the end of the case, in sinus rhythm, pacing thresholds would be assessed in 5 areas in
+      the LA, aiming for a spread of areas and voltages.
+
+      HD SAGA H:
+
+      The study would use the HD Grid catheter and Precision mapping system from Abbott. The HD
+      Grid catheter has a unique arrangement of electrodes that allows for 3D electroanatomical
+      maps to be generated between bipoles of different orientations. Following this a novel
+      algorithm (HD Wave) provides the the point with largest amplitude. This abrogates the
+      directional limitations of conventional bipolar mapping. Thus smaller more accurate areas of
+      scar could be seen with the left atrium as has been generated in previous studies in the left
+      ventricle.
+
+      Hypothesis The use of HD Wave mapping and the best duplicate algorithm will lead to more
+      reliable voltage maps in AF - both throughout the LA body and in the PVI lines. The gold
+      standard to compare with here will be the sinus rhythm maps.
+
+      Primary comparison:
+
+      Sinus rhythm HD wave versus AF HD wave map Scar volume PVI gaps
+
+      Secondary comparisons:
+
+      Scar volumes and PVI gaps Sinus rhythm HD wave versus conventional AF HD wave versus
+      conventional
+
+      Protocol 20 patients listed for redo ablation of persistent AF, in AF at the time of
+      procedure. All procedures would be performed using the precision mapping system.
+
+      The operator would collect a voltage map of the left atrium using the HD Grid catheter in AF.
+      Following this, the patient would be cardioverted and another map collected with the same
+      mapping catheter during CS proximal pacing.
+
+      The procedure would then proceed as per usual care. Subsequent to the procedure, the mapping
+      functions would be applied to the data by Turbo mapping.
+
+      Sites of PV reconnection would be noted based on the ablations performed by the operator.
+    
+  

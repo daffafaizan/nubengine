@@ -1,0 +1,65 @@
+
+    
+      The study uses a retrospective observational study design.
+
+      Due to the nature of the subject of the study and its retrospective design no patient contact
+      will be necessary and all imaging reviewed will have been acquired as part of their routine
+      level of care.
+
+      Plan for the gathering of study data
+
+      A list of patients with the following surgical codes will be identified from the hospital
+      surgical performance database to create retrospective dataset of 5 years' worth of cases (to
+      December 2013). This date range may be extended to ensure an adequate sample size. :
+
+      Surgical codes (Healthcare Resource Groups (HRG) codes) to be included:
+
+      F31 Large Intestine - Complex Procedures F32 Large Intestine - Very Major Procedures F33
+      Large Intestine - Major Procedures with complications and comorbidities (w cc) F34 Large
+      Intestine - Major Procedures without complications and comorbidities (w/o cc) F36 Large
+      Intestinal Disorders >69 or w cc F37 Large Intestinal Disorders <70 w/o cc
+
+      F41 General Abdominal - Very Major or Major Procedures patients over 69 years of age (>69) or
+      w cc F42 General Abdominal - Very Major or Major Procedures patients under 70 years of age
+      (<70) w/o cc F46 General Abdominal Disorders >69 or w cc F47 General Abdominal Disorders <70
+      w/o cc
+
+      Cross-reference with Somerset Cancer Register and remove any who were not recognised as
+      having bowel cancer.
+
+      This patient list will be cross-referenced with records of peri-operative mortality (within
+      90 days)
+
+      Propensity match each deceased patient to a patient who survived beyond 90 days. Our matching
+      rules will be in descending order of importance :
+
+        -  HRG code
+
+        -  gender,
+
+        -  cancer staging
+
+        -  Age+/-5yrs.
+
+        -  American Society of Anesthesiologists (ASA) Grade
+
+      Where there are multiple potential matches then this will be resolved by consultation between
+      the research team members.
+
+      Pairs of CT scans (deceased plus matched control) will be procured from WebPACS (Web Picture
+      Archival Communication System).
+
+      Scans will be anonymised and stored on a dedicated secure radiology research server.
+
+      Abbreviated Calcium scores will be generated for all patients in the trial by a trained
+      radiologist using the calcium scoring method. Calcium burden will be recorded on a scale of
+      1-12 . The radiologist will be blinded to the group that the patient belongs to, to minimise
+      bias.
+
+      Scans (deceased patients and matched controls) will be analysed in batches of 30 pairs.
+      Radiologist (s) will be blinded to group allocation. Scans will not be "paired" at the time
+      of reading.
+
+      Interim statistical analysis (of calcium scores) will be performed after each batch of scans.
+    
+  

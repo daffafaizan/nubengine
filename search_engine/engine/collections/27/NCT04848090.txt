@@ -1,0 +1,41 @@
+
+    
+      This is an observational study to understand if the use of whole genome sequencing (WGS)
+      increases the speed to diagnosis and how clinical management is changed in an intensive care
+      population of neonates. This project utilizes approved genome sequencing methods at
+      CLIA-certified facilities.
+
+        1. Neonate subjects who are eligible and whose parents consent to the study will undergo
+           blood sample which will be sent for WGS and bioinformatics analysis, filtering first
+           with a targeted panel of 1722 genes most likely to cause genetic disorders in the first
+           year of life, and then with a whole exome filter if no obvious diagnosis is determined
+           using the 1722 gene panel filter. Testing is completed in a CLIA-certified laboratory.
+           Pathogenic, likely-pathogenic, and variants of uncertain significance in genes related
+           the child's clinical features will be returned to the care team and to the parents in
+           the setting of genetic counseling for use in clinical decision making about management.
+           A report is added to the neonates EMR. Consent will include permission to access
+           financial records of the hospitalization, to compare costs and length-of-stay to matched
+           controls.
+
+        2. Parents of identified neonates who consent to the study for the for the purpose of trio
+           analysis will have samples collected which will undergo concurrent analysis with the
+           child to assist in determining the pathogenicity of variants in genomic sequencing.
+           Pathogenic and likely-pathogenic secondary findings in the ACMG 59 later-onset medically
+           actionable genes will be reported to the parents in the setting of genetic counseling
+           ONLY if the parents opt in to learn these results AND they are identified in the child.
+
+        3. Siblings of participating neonates, if needed for interpretation of the neonate's
+           genetic studies, will have samples collected for use in the genetic analysis. Pathogenic
+           and likely-pathogenic results in childhood-onset disorders will be reported to the
+           parents in the setting of genetic counseling.
+
+        4. Historical controls will be identified and matched to study participants. Historical
+           controls will include infants in the ICU having a genetics consult ordered during their
+           initial admission over the prior 24 months. Matching between study participants and
+           matched controls will be performed using Propensity Scores. We will fit a logistical
+           regression model to the combined treatment and control groups, and will then use the
+           nearest neighbor matching to create matched pairs. The matching will help reduce bias
+           and increase power to detect true effects. These controls will only be used for the
+           fiscal and length of stay analyses; no genetic testing will be done on this cohort.
+    
+  

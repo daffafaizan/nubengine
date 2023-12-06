@@ -1,0 +1,55 @@
+
+    
+      Noninvasive neurostimulation techniques include Transcranial magnetic stimulation (TMS) and
+      Cathodal Transcranial Direct Current Stimulation (tDCS). Of these, tDCS is uniquely suited to
+      mass distribution and treatment, even at home, as it is lightweight, portable, inexpensive
+      and has a favorable safety profile. In tDCS, a low intensity (1-2 mA) unidirectional
+      electrical current is applied to the scalp to influence underlying cortical excitability.
+      Some small preliminary studies suggest that cathodal tDCS may suppress epileptic seizures.
+      However, a well-powered randomized-controlled trial demonstrating convincing proof of
+      efficacy has not been conducted. This study is intended to test whether tDCS reduces seizures
+      in patients with intractable focal neocortical epilepsy. The hypothesis is that repeated
+      daily sessions of cathodal tDCS will lead to a clinically significant decrease in seizures in
+      this population. Successful completion of this pilot study will be an essential first step
+      toward a larger placebo-controlled trial with the goal of establishing cathodal tDCS as a
+      novel, non-invasive and inexpensive treatment for drug-resistant seizures, and will provide
+      the critical data needed for an application to obtain FDA approval for the use of tDCS in the
+      treatment of drug-resistant epilepsy.
+
+      tDCS is a painless method for focal brain stimulation. tDCS is based on decades-old
+      observations that neuronal firing is modulated by low amplitude electrical direct current
+      (DC). Specifically, when applied to the cerebral cortex, cathodal DC inhibits neuronal
+      firing. The mechanisms by which cathodal DC reduces neuronal firing likely relate to
+      hyper-polarization of the soma membrane which occurs when the apical dendrites neuron are
+      oriented toward the cathode in a constant electric field. The practical application of tDCS
+      is simple: low amplitude DC is administered via scalp electrodes such that the cerebral
+      cortex is exposed to cathodal DC beneath one of the electrodes, and the return (anodal)
+      electrodes can be placed anywhere else on the body, or in more complex arrangements to
+      minimize currents at any one site. tDCS methods have also recently been adapted to rats for
+      work with disease models showing success with seizure suppression. Numerous of tDCS studies
+      have demonstrated the technique to be well tolerated and safe. Direct electrical current
+      stimulation is presently FDA-approved for extracranial use, and FDA applications for tDCS for
+      management of mood disorder and chronic pain are in progress.
+
+      tDCS units are also inexpensive and light-weight. The electrical supply can be derived from
+      conventional 9-volt batteries. The scalp electrodes can be fastened in seconds. tDCS can be
+      combined easily with other therapies, such as those that may be required for resuscitation of
+      an acutely-injured patient. tDCS is presently under investigation as a treatment for
+      epilepsy, where excess cortical excitability is a prominent feature of the disease process,
+      and where neuronal inhibition may be beneficial. Thus for epilepsy, tDCS may offer a
+      practical non-pharmacologic therapy for the large minority, approximately 35%, of patients
+      whose seizure cannot be controlled by medication.
+
+      The tDCS stimulator used in this clinical study is the STARSTIM device (Neuroelectrics, Inc).
+      STARSTIM is capable of recording EEG before, during and after tDCS stimulation, and will not
+      only allow for a detailed understanding of the tDCS-induced effect on neural activity, but
+      may eventually serve as a guidance to fine-tune the stimulation parameters and improve the
+      tDCS protocol based on the developmental, behavioral, dynamical, and disease state through
+      closed-loop systems.
+
+      Starstim device is remotely controlled using NIC software that stands for Neuroelectrics
+      Instrument Controller (NIC). This application will allow physicians to configure the study
+      protocol with all the defined parameters. The provided version of software will only enable
+      to apply tDCS protocols to the subjects in the study.
+    
+  

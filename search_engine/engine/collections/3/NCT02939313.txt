@@ -1,0 +1,73 @@
+
+    
+      Alcohol Use Disorders (AUDs) are prevalent, devastating, and difficult to treat. High relapse
+      rates are likely due to factors that affect limbic and executive circuits in the brain,
+      including vulnerability to salient cues and loss of cognitive control. Limbic drive and
+      executive control are regulated by two cortical-subcortical neural circuits -the limbic loop
+      that includes projections from the medial prefrontal cortex (mPFC) to the ventral striatum,
+      and the executive control loop that includes projections from the dorsolateral prefrontal
+      cortex (dlPFC) to the dorsal striatum. Optogenetic manipulation in animals has demonstrated a
+      causal relationship between activity in these frontal-striatal circuits and drinking
+      behavior. Consequently, an innovative and potentially fruitful new strategy in the treatment
+      of AUDs in humans would be to selectively attenuate limbic circuitry (to reduce reward
+      salience), and/or amplify executive circuitry, through targeted brain stimulation. Previous
+      studies have demonstrated that a single session of 10 Hz transcranial magnetic stimulation
+      (TMS) over the dlPFC can lead to a decrease in craving for alcohol, nicotine, and cocaine.
+      Our laboratory has demonstrated that a single session of continuous theta burst (cTBS) TMS
+      over the mPFC can also decrease craving, as well as the brain response to drug cues in
+      cocaine users (Hanlon et al, in review) and alcohol users (see Significance). The overarching
+      goal of this proposal is to determine which of these two TMS strategies - amplifying dlPFC
+      activity or inhibiting mPFC activity - is more efficacious in decreasing alcohol craving and
+      the brain response to cues. This will provide an evidence-based foundation for cortical
+      target selection in future TMS clinical trials - an innovative treatment strategy for AUD
+      patients.
+
+      As a recent FDA-approved treatment for depression, there is a growing interest in
+      investigating TMS as a treatment for drug and alcohol use disorders. By changing the
+      frequency and pattern of stimulation, it is possible to induce a long-term potentiation (LTP)
+      or long-term depression (LTD) of activity in the cortical area stimulated as well in its
+      monosynaptic targets. To date, nearly all published reports of brain stimulation as a tool
+      for decreasing craving have focused on applying LTP-like stimulation (typically 10 Hz) to the
+      dlPFC, thereby strengthening executive control circuitry. An alternative approach is to apply
+      LTD-like TMS (such as cTBS) to the mPFC, thereby weakening limbic drive circuitry (which is
+      engaged during craving). A sham TMS-controlled crossover study of 12 heavy alcohol users in
+      our lab indicated that a single dose of mPFC cTBS decreases self-reported craving and the
+      BOLD response to alcohol cues in the mPFC and striatum (limbic regions involved in craving).
+      Using MR spectroscopy, we further demonstrated that cTBS-reduced the glutamine concentration
+      in the mPFC, which may be related to the decrease in BOLD signal and functional connectivity
+      with this region. Before moving forward with large and expensive multisite clinical trials,
+      it is important to determine which cortical target (mPFC vs dlPFC) is likely to have a
+      greater effect on the brain response to alcohol cues (Aim 1), and which will have a greater
+      effect on self-reported craving (Aim 2) -a major factor contributing to relapse and sustained
+      heavy drinking among individuals with AUDs. In this three-visit crossover design, a cohort of
+      non-treatment seeking AUD individuals will receive sham, mPFC, or dlPFC TMS at each visit
+      followed by alcohol-cue induced BOLD imaging and MR Spectroscopy. We will determine whether
+      LTD-like mPFC TMS is more effective than LTP-like dlPFC TMS in:
+
+      Aim 1: Reducing alcohol cue-elicited brain activity in limbic circuitry. Participants will be
+      exposed to our well-established fMRI alcohol cue paradigm. We will measure the percent BOLD
+      signal change within a network of limbic regions typically activated by alcohol cues (e.g.
+      mPFC, ACC, striatum) (Schacht et al., 2014), as well as functional connectivity between these
+      regions (using psychophysiologic interactions). We will test the hypotheses that 1) both
+      LTD-like stimulation to the mPFC (via cTBS) and LTP-like stimulation to the dlPFC (via 10Hz
+      TMS) will significantly decrease alcohol cue-induced activation of limbic circuitry compared
+      to sham stimulation and 2) this attenuating effect will be more robust when stimulation is
+      targeted at the mPFC directly with cTBS stimulation (rather than indirectly via 10 Hz dlPFC
+      stimulation).
+
+      Aim 2: Reducing self-reported alcohol craving. Using intermittent self-reported assessments
+      of the desire to drink alcohol throughout the experimental sessions (before, during, and at
+      several time points after the TMS treatment), we will test the hypothesis that LTD-like
+      stimulation to the mPFC (via cTBS) will decrease self-reported alcohol craving more than will
+      LTP-like stimulation to the dlPFC (via 10Hz TMS).
+
+      Finally, to develop a comprehensive and evidence-based foundation for future clinical trials,
+      we will also explore the effects of these innovative brain stimulation treatment strategies
+      on neurochemistry:
+
+      Exploratory Aim 3: Regional neurochemistry. Through MR Spectroscopy, we will test the
+      hypothesis that the effects of TMS on the outcomes of Aim 1 & 2 are mediated by changes in
+      mPFC excitatory/inhibitory neurochemical balance (i.e., changes in glutamate, glutamine, GABA
+      concentrations).
+    
+  

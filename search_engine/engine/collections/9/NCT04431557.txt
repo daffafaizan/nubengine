@@ -1,0 +1,19 @@
+
+    
+      The electroencephalography (EEG) is a noninvasive medical technique for monitoring and
+      recording the electrical activity of brain. The Hilbert-Huang transform (HHT) was proposed to
+      decompose EEG signal into intrinsic mode functions (IMF) which can obtain instantaneous
+      frequency data and work well for data that is nonstationary and nonlinear.
+
+      The relationship between frontal EEG patterns and hypnotics remain poorly understood. The
+      investigators only can tell the increase in frontal EEG power and shift power to lower
+      frequencies during general anesthesia from publications. The investigators are going to
+      decompose EEG with HHT and find the energy shift during general anesthesia, compare with
+      different anesthetics.
+
+      The investigators will record 120 patients who received general anesthesia, their EEG data
+      recorded from BIS machine for EMD analysis, the investigators decomposed EEG signal to
+      different oscillations and tried to observe the differences between hypnotic medications
+      through EEG analysis.
+    
+  

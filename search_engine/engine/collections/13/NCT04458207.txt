@@ -1,0 +1,66 @@
+
+    
+      -  Dementia is a general term of several neurodegenerative diseases that jointly affects
+           approximately 7% of the general population older than 65 years, and 30% older than 80
+           years (O'Brien, 2003). Importantly, these statistics are expected to almost double every
+           20 years (Prince, 2013), making disorders of cognition a priority for healthcare
+           (O'Brien, 2014).
+
+        -  Animal and human studies have shown associations with mastication and cognitive function
+           through the medial temporal lobe (i.e., hippocampus) and its role in learning and
+           memory. (Ono, 2010. Weijenberg, 2011. Ohkubo, 2012. Teixeira, 2014. Klineberg, 2014)
+
+        -  Although tooth loss and loss of oral function is widespread in older people, it is still
+           an underexplored modifiable risk factor contributing to the development of dementia.
+
+        -  The aim of this study is to conduct an intervention study on elderly people where
+           rehabilitation of masticatory functions is performed and evaluated, with cognitive
+           measures and brain imaging, to investigate a "cause-effect" relationship between
+           mastication and cognition in humans.
+
+        -  The hypothesis is that rehabilitation of masticatory function will improve cognition
+           primarily in the performance of episodic memory and executive function tests along with
+           the corresponding neural changes mainly in hippocampus and prefrontal cortex.
+
+        -  A total of eighty (80) participants, 65-80 years of age, indicated for prosthodontic
+           rehabilitation at Eastmaninstitutet (Stockholm, Sweden) will be randomly assigned to
+           either the experimental or the control group. The difference between the groups is that
+           the participants in the experimental group will begin with the rehabilitation
+           immediately after the first measurement while the control group will do one more
+           measurement before the onset of the rehabilitation procedure. The two measurements
+           conducted before treatment in the control group are to rule out for test-retest effects.
+           Three months and one year after completed prosthodontic treatment participants will
+           conduct the last measurements, as a post-test to evaluate potential treatment effect.
+
+        -  The neuropsychological assessments will be conducted together with MRI assessments, oral
+           health-related quality of life instrument, chewing function test (two coloured chewing
+           gum) and saliva samples recorded at different time points (i.e., pre-test, post-test 1,
+           post-test 2, post-test 3) in both the groups.
+
+        -  The data from the study will be entered in a Microsoft Excel sheet and exported to
+           Statistics is a software package SPSS Inc, Statistica, StatSoft Inc (or similar advanced
+           analytics software package for analysis). The result from the cognitive testing will be
+           analysed as repeated measure Analysis of covariance (ANCOVAs) with groups (experimental
+           and control) and time (pre- and post-rehabilitation) as factors. Group-by-time
+           interaction, main effect of group, and main effect of time will be evaluated. To compare
+           the magnitude of gains, the effect size (partial eta-square) will also be calculated. By
+           using time-length between pre- and post-tests as a covariate of interest with aiming to
+           better control group differences. Models that mainly predicts cognitive test measures
+           (neuropsychological assessments) will by developed to predict the intervention outcomes.
+           Predictive ability is defined as the amount of variance in the outcome that can be
+           explained by pre-test cognitive status (slope method). Explained variance in outcome
+           will be obtained by analysing linear regressions.
+
+        -  Preprocessing and statistical analyses of MRI data will be performed with Statistical
+           Parametric Mapping (SPM) run in Matlab (MathWorks). Movement correction will be
+           performed by realign and unwarp to the first image in the series. To consider
+           group-specific anatomical brain differences, all participants will be normalized to
+           Monteral Neurological Institute (MNI) echoplanar-imaging template. Cortical thickness
+           measures will not be normalized but rather used in their raw form. For cortical
+           segmentation, a Freesurfer pipeline will be applied to the MRI images to produce
+           regional cortical thickness and volumetric measures. To investigate
+           rehabilitating-related changes repeated measures ANCOVAs will be performed with the
+           groups (experimental and control) and time (pre- and post-rehabilitation) as factors.
+           The Bonferroni-Holm method will be used to control for multiple comparisons.
+    
+  

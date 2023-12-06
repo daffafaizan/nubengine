@@ -1,0 +1,110 @@
+
+    
+      Title: An Epidemiologic Study of Hepatitis A Vaccine for Postexposure Prophylaxis Clinical
+      Phase: Investigation of an application unrelated to original approved use.
+
+      Primary Objective: To compare the clinical efficacy of vaccine and IG in the prevention of
+      confirmed hepatitis A disease when given within 14 days of exposure to a confirmed case of
+      hepatitis A disease.
+
+      Primary Hypothesis: The proportion of initially seronegative subjects who receive vaccine
+      within 14 days of exposure to an index case of hepatitis A disease and who have onset of a
+      confirmed case of hepatitis A disease within 56 days of exposure will be similar to the
+      proportion of initially seronegative subjects who receive IG within 14 days of exposure to an
+      index case and who have onset of a confirmed case of hepatitis A disease within 56 days of
+      exposure. The date of exposure is defined as the date of onset of clinical symptoms in the
+      index case.
+
+      (The statistical methods to examine this hypothesis require computing the relative risk, and
+      corresponding 90% confidence interval, of confirmed hepatitis A disease among those receiving
+      vaccine compared to those receiving IG, within 14 days of exposure. Inference of similarity
+      involves examining the upper bound of this confidence interval and translating this RR bound
+      into a lower bound of the 90% confidence interval for vaccine efficacy. Translation from
+      relative risk to efficacy depends on an assumption of the point estimate of the efficacy of
+      IG, based on historical data, the particular design of this study and assumptions regarding
+      how transmission of hepatitis A virus occurred in the study population.) Study Design and
+      Duration: Randomized, double-blinded, comparative, experimental epidemiologic study. Study
+      will be conducted among exposed contacts 2-40 years of age in the household exposure group
+      and is expected to last 18 months.
+
+      Sample Size: Enrollment will continue until 44 hepatitis A cases in randomized subjects are
+      observed. Assuming a 30% secondary attack rate in evaluable, confirmed contacts of index
+      cases and a 90% efficacy rate of IG, to observe 44 laboratory-confirmed cases of hepatitis A,
+      1468 randomized subjects will need to be evaluable (734/group). Evaluable is defined as
+      seronegative at baseline and with clinical follow-up data at Day 56. Assuming 90% of subjects
+      have follow-up data and 45% of subjects are seronegative at baseline, 4067 subjects ages 2 to
+      40 years must be randomized (2038/group). The actual enrollment may be different based on
+      validity of these assumptions.
+
+      Dosage and Route: Within an exposed group, subjects will be randomized to receive either
+      hepatitis A vaccine, VAQTA™, or immune globulin (IG) intramuscular (IM). Clinical material
+      will be administered by unblinded study personnel but subjects will not be told which
+      clinical material is being administered. The unblinded personnel will not be involved with
+      any other study procedures for that exposed group. Syringes will be masked to avoid any
+      possible chance at subject unblinding. The dose of VAQTA™ to be used will depend on the
+      subject's age. Persons 2 to 18 years of age will receive a 25-U dose of VAQTA™ administered
+      intramuscularly in the arm in a 0.5 mL volume. Persons 19 to 40 years of age and less than or
+      equal to 75 kg in weight will receive a 50-U dose of VAQTA™ administered intramuscularly in
+      the arm in a 1.0 mL volume. Persons 19 to 40 years of age and greater than 75 kg in weight
+      will receive a 50-U dose of VAQTA™ (administered as two 25-U doses) administered
+      intramuscularly with 0.5 mL in each arm. Persons 2 to 18 years of age will receive IG in one
+      arm; persons 19 to 40 years of age and less than or equal to 75 kg in weight will receive IG
+      in one arm; and persons 19 to 40 years of age and greater than 75 kg in weight will receive
+      IG with the total dose equally divided between each arm. All persons randomized to receive IG
+      will receive a dose of 0.02 mL/kg of body weight, up to a maximum of 1.5 mL for those less
+      than or equal to 75 kg in weight and 3.0 mL for those greater than 75 kg in weight. All
+      subjects less than or equal to 75 kg will receive 1 injection and only subjects 19 to 40
+      years of age and greater than 75 kg will receive 2 injections.
+
+      Efficacy Measurements: The primary measurement variable for efficacy is the proportion of
+      subjects with confirmed hepatitis A disease (hepatitis A IgM positive or serum or stool PCR
+      positive for HAV RNA and ALT twice the upper limit of normal with 1 or more of the clinical
+      signs/symptoms of hepatitis A disease).
+
+      Safety Measurements: Subjects will be evaluated for serious or unusual reactions throughout
+      the study period. The rate of serious adverse experiences in each group will be compared.
+
+      Data Analysis: In this study, efficacy comparisons will be made by estimation of the relative
+      risk of laboratory-confirmed clinical hepatitis A in the vaccine group compared to the IG
+      group. The relative risk is calculated as follows:
+
+        -  where PV and PIG are the incidence rates of secondary cases of confirmed hepatitis A
+           disease in the vaccine and immune globulin treatment groups, respectively.
+
+      The primary analysis will be performed at the one-sided =0.05 level and examine the upper
+      bound of the 90% confidence for the relative risk of vaccine versus IG. A secondary efficacy
+      analysis will adjust for the exposure group in the estimation of the relative risk.
+
+      The sample size and power are based upon a fixed number of events design assuming equal
+      incidence rates in both the IG and vaccine populations and a one-sided significance level of
+      =0.05, and were calculated under the following testing hypotheses: Ho: PV / PIG 3.0 versus
+      Ha: PV / PIG <3.0. This is equivalent to testing that the upper bound of the 90% confidence
+      interval on the observed relative risk is <3.0. For a fixed accrual of 44 evaluable secondary
+      cases of confirmed hepatitis A, the study has 95% power to rule out a relative risk of 3.0 or
+      greater. If the total number of cases observed in this study is 44 and if no more than 27
+      (i.e., 61.4%) of the cases are in the vaccine group, there will be significant evidence to
+      reject the above null hypothesis. If the total number of cases is larger than 44, the maximum
+      number of cases in the vaccine group that can be observed and still declare success will
+      increase accordingly.
+
+      An internal pilot will be performed in a blinded fashion when ~25% of the 28 cases have
+      occurred. This assessment will be done to check the assumptions pertaining to the incidence
+      rate that was used to calculate the projected enrollment. A new sample size projection based
+      upon the incidence rate (total across treatment groups) that had been observed thus far will
+      be calculated for planning/budgetary concerns.
+
+      In addition, an interim analysis is proposed for the primary endpoint for potential early
+      study termination if there is overwhelming evidence that vaccine is less efficacious than IG.
+      The Independent Data Monitoring Committee (IDMC) will be responsible for making the
+      recommendation on whether or not to continue the study based on the results of the interim
+      analysis and relevant safety data. The interim analysis will be performed when 14 (~50%) of
+      the 28 expected cases of laboratory-confirmed clinical hepatitis A have been observed. Using
+      the same assumptions that were used for the original power calculation, the probability of
+      meeting the success criteria at the end of the study conditioned on the number of cases that
+      were observed in the vaccine group for the interim analysis will be calculated. If the
+      probability is 20% or greater that vaccine will meet the assumed statistical criteria by the
+      end of the study, then the study will definitely continue. In addition, if after 12 months
+      from study start, very few cases have been observed, the IDMC will assess the need for study
+      termination.
+    
+  

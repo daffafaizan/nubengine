@@ -1,0 +1,70 @@
+
+    
+      Electronic alerts have been developed and employed at our institution and have been shown to
+      increase compliance with both clinical and administrative tasks (O'Reilly et al, 2006;
+      Kheterpal et al, 2007). The investigators have developed electronic alerts for the purpose of
+      informing the clinician of potentially insufficient anesthesia based on minimum alveolar
+      concentration (MAC). The algorithm is as follows:
+
+        -  Every 5 minutes the alerting system checks every active case in our operating rooms. It
+           takes approximately 1 second for this scan of all active cases to occur.
+
+        -  Conditions for an "active case" are:
+
+             1. data capture is possible (i.e., not a paper record)
+
+             2. data capture is active (i.e., "patient in room" has been electronically entered and
+                end-tidal [Et] CO2 is detected)
+
+             3. case has been identified as a general anesthetic
+
+             4. "anesthesia induction end" has already been documented
+
+             5. request for recovery room bed or transport to an intensive care unit has not been
+                documented
+
+             6. surgical dressing completion has not been documented
+
+        -  The alerting system checks the most recent value (within a specified time period) of:
+
+             1. Et Sevoflurane (MAC=2.0)
+
+             2. Et Isoflurane (MAC=1.2)
+
+             3. Et Desflurane (MAC=6)
+
+             4. Et Nitrous Oxide (MAC=105) and compares it to the MAC of each agent. It adds the
+                resulting MAC values together for "current total MAC."
+
+        -  The system then checks for a charted propofol infusion in mcg/kg/min and divides by 150,
+           assuming that 150 mcg/kg/min is "1.0 MAC" for propofol. The analogous concept of MAC for
+           propofol is "Cp50"- the plasma or blood concentrations at which 50% of patients do not
+           move in response to a noxious stimulus. Since the investigators do not have the
+           technology at our institution to calculate Cp50 or Cp50-awake, the investigators have
+           chosen the above propofol dose as an initial value based on clinical experience. The
+           resultant MAC equivalent is added to current total MAC.
+
+        -  The system next checks for a dexmedetomidine infusion with a rate of 0.2 mcg/kg/hour or
+           greater. If present, it multiplies the current total inhalational MAC by 2, as
+           dexmedetomidine can reduce MAC by 50%.
+
+        -  At this point, the "current total MAC" is defined as: Et Sevo /2 + Et Iso /1.2 + Et
+           Des/6 + Et Nitrous /105 + propofol rate (in mcg/kg/min)/150. If dexmedetomidine is >0.2
+           mcg/kg/hour, inhalational MAC is multiplied by 2.
+
+        -  If this total mac < 0.50, it checks to see if a bolus of propofol, midazolam, etomidate,
+           or thiopental has been given in the preceding 10 minutes.
+
+        -  It alerts the clinician signed into the case within 30-60 seconds if total age-adjusted
+           MAC < 0.50 AND no bolus has been documented in the last 10 minutes.
+
+      This will be the protocol in the MAC-guided group. In the BIS-guided group an electronic
+      alert will be sent if the BIS value is >60. If an alert is triggered, the clinician
+      electronically signed into the case receives an alphanumeric page stating "Potentially
+      insufficient anesthesia, please check vaporizers and intravenous lines."
+
+      The investigators are collaborating with Washington University, the University of Chicago,
+      and the University of Mannitoba, who will also be testing a MAC-based protocol in comparison
+      to the BIS.
+    
+  

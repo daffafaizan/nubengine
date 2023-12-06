@@ -1,0 +1,111 @@
+
+    
+      Background Several widely used imaging modalities are available today for the human lung.
+      Conventional radiology, CT, and to a lesser extent MRI, as well as nuclear medicine in some
+      indications are well established and most commonly used. Methods using acoustic signals, most
+      notably ultrasound, have not been successfully developed. This is primarily due to the fact
+      that the acoustic damping of the lung parenchyma is prohibitively high at high frequencies .
+
+      Assessment of alterations in the structure and function of thoracic organs that occur in
+      disease often gives rise to measurable changes in lung sound production and transmission.
+      Acoustic assessment with a stethoscope is a commonly used method to assess these structural
+      and functional changes. However, auscultation with a stethoscope has many limitations. It is
+      a subjective process that depends on the individual's own hearing, experience and ability to
+      differentiate between different sound patterns. In addition, quantitative measurements and
+      documentation are not easy to be produced. Moreover, the stethoscope has a frequency response
+      that attenuates frequency components of the lung sound signal above 120Hz, and the human ear
+      is not very sensitive to the lower frequency band.
+
+      Analysis of acoustic sounds by computer is more likely to be successful in clinical
+      applications when it is based on mathematical models of the underlying physical mechanisms of
+      respiratory sound production. Such models allow for the interaction of mechanical forces,
+      airflow and sound transmission within the respiratory tract to be understood and related to
+      the different disease processes.
+
+      The VRI technology, to the best of our knowledge, is the first of its kind to provide a
+      radiation free dynamic image of the lung, by using a combination of well-known technologies,
+      i.e. acoustic sensors, and a proprietary algorithm.
+
+      Since the acoustic response of a body depends on its structural properties, complex
+      structures can exhibit acoustic responses, which may vary in space, time and frequency.
+      Moreover, any structural alteration, such as a bronchial obstruction or space occupying
+      infiltration, is reflected by a corresponding modification of the acoustic response.
+
+      The VRI takes advantage of this physical principle, by means of an imaging system. By
+      attaching a two dimensional matrix of acoustic transducers to the back of the patient, a
+      dynamic image that integrates the acoustic characteristics of the underlying structure is
+      generated.
+
+      The VRI device may provide a complementary diagnostic tool for lung examination and aid the
+      physician in determining whether a chest x-ray should be performed.
+
+      Study Device The VRI system is a computerized-based, radiation free device intended for
+      non-invasive recording, audio reproduction, and dynamic image display of vibration response
+      to the airflow during respiration. (The VRI system incorporates a flow volume sensor in which
+      the patient may/may not breathe through it). The VRI system incorporates pressure sensors
+      (electronic stethoscopes) that have been specially adapted to capture and record the energy
+      created by the airflow in the lungs during the respiration process. Sensors are mounted in
+      two sensor matrices, which are attached to the patient's back by a low vacuum and/or
+      biocompatible medical stickers method. The signals are transmitted through wires from the
+      sensor matrix to the hardware board. The analog signals are then processed online on a
+      multi-channels hardware board by amplifying, sampling and A/D conversion. The digital data is
+      transmitted to the PC platform. Once on the PC platform, Deep Breeze proprietary algorithms
+      generate the dynamic lung image.
+
+      Risk Analysis Unlike X-Ray based methodologies, which expose the subject to ionization
+      radiation, the VRI is radiation free.
+
+      The VRI elements that come into contact with the subject's skin are biocompatible.
+
+      The VRI has been approved by an independent authorized laboratory to be electrically safe.
+
+      In addition, so far, no adverse events, risks of illness, injuries, or discomforts have been
+      associated with the use of the VRI in previous studies. Therefore, it is reasonable to
+      conclude that the VRI does not pose any risk to the subjects and/or operators.
+
+      Study Rationale Various reports and studies have suggested that a reduction of up to 50% of X
+      rays could be achieved without detriment to the care and treatment of patients. A
+      considerable number of the X-ray procedures carried out today produce no meaningful or useful
+      diagnostic information and it is the elimination of these examinations that would bring about
+      this reduction, as stated by the Irish Institute of Radiography.
+
+      One study investigated the use of the chest X-ray (CXR) in a typical urban practice with
+      reference to the Royal College of Radiology (RCR) guidelines. A total of 569 CXRs were
+      performed in 482 patients. Thirty per cent of the CXRs were assessed as being "not indicated"
+      and a significant percentage of requests did not come within the RCR guidelines.
+
+      According to the Royal College of Radiologists (RCR) Working Party at least 20% of the
+      radiological examinations carried out in NHS hospitals are clinically unhelpful. This
+      translates over the whole country to an annual total of 7 million unnecessary X-ray
+      examinations costing about £60 million, with the highest numbers of unnecessary X-ray
+      examinations being those of chest and the greatest financial costs arising from examinations
+      of the chest and from barium investigations. , , Unnecessary radiation exposure during
+      medical procedures should be avoided. This is particularly important when the patient is a
+      child, since children exposed to radiation are at a relatively greater risk than adults. The
+      American College of Radiology has noted, "Because they have more rapidly dividing cells than
+      adults and have longer life expectancy, the odds that children will develop cancers from
+      x-ray radiation may be significantly higher than adults." It has been estimated by the
+      National Research Council's Committee on the Biological Effects of Ionizing Radiation that
+      children less than 10 years of age are several times more sensitive to radiation than
+      middle-aged adults .
+
+      The VRI device may provide a complementary diagnostic tool for lung examination and aid the
+      physician in determining whether a chest x-ray (CXR) is necessary and thereby reduce the
+      number of negative CXR.
+
+      Summary of Clinical Experience The device has already been used for investigational purposes
+      in a number of medical centers (Israel, USA, Europe and Japan). All clinical studies were
+      performed in accordance with the ICH-GCP guidelines as well as the local laws and regulations
+      relevant to the use of new diagnostic devices.
+
+      Recorded data was collected and analyzed for more than 3000 adult subjects during a period of
+      more than three years. No related adverse events were reported during the studies.
+
+      Study Objective
+
+        -  The principal objective of the pilot study is to acquire database of pneumonia cases in
+           children.
+
+        -  The secondary objective is to correlate the clinical and CXR data with the VRI results.
+    
+  

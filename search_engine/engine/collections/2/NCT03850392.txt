@@ -1,0 +1,70 @@
+
+    
+      Patient inclusion Patients hospitalized in the rheumatology department in the Besançon
+      university hospital in France and suffering from non-septic knee arthritis (rheumatoid
+      arthritis according to the ACR-EULAR criteria, spondyloarthritis according to the ASAS
+      criteria, gout or calcium pyrophosphate deposition disease (CPDD) - diagnosed by microscopic
+      microcrystal assessment in synovial fluid) were included consecutively after signed informed
+      consent. The protocol was declared and approved by the local ethic committee -
+      clinicaltrials.gov:NCT02573298, Comité de Protection des Personnes - Est II: 12-664) and all
+      research was performed in accordance with relevant guidelines/regulations. Patients suffering
+      from septic arthritides and knee osteoarthritis were excluded. The patients had received no
+      biologic treatment nor conventional DMARD for the 6 months preceding inclusion.
+      Corticosteroids, colchicine and NSAIDs were stopped for at least 24 hours prior to inclusion.
+
+      Study design In the first phase of the study, the included patients were then randomized
+      (1:1) to receive either local ice (Thermogel®, Artsana, Grandate, Italy - 30 minutes
+      application - N=16) or hyperbaric cold CO2 at -78°C (Cryo+®, Cryonic, Salins-les-Bains,
+      France - 2 minutes-N=16). Each patient received two applications of the randomly chosen
+      technique at an 8 hour interval (9 a.m and 5 p.m). The skin temperature was monitored on the
+      treated knee using MLT409/A Skin Temperature Probe® and ML309 Thermistor Pod®
+      (ADInstruments,Dunedin, NZ). Thirty of these 32 patients were also included in another part
+      of the study,aiming at evaluating the variations of the synovial power Doppler
+      semi-quantitative score before/after 2 cold applications (ice versus cold CO2) 2. Just before
+      the first cold application, at 9 a.m., and 24 hours later (day=1 at 9 a.m), an arthrocentesis
+      was performed. Standard analyses were performed on the synovial fluid (bacteriology, cytology
+      and microcrystal microscopic assessment). Furthermore, a part of the synovial fluid was
+      centrifuged then frozen at -80°C. For the second arthrocentesis, after the synovial fluid was
+      gathered for the same analyses, an intra-joint corticosteroid injection (Triamcinolone,
+      HEXATRIONE®, Ethypharm, Saint-Cloud, France) was performed before removing the needle. These
+      synovial fluid samples were used to perform the present part of the study, which was overall
+      powered to evaluate the IL-6 level variations in the synovial fluid before/after 2 cold
+      applications. After all the patients were included, synovial fluid IL-6, IL-17A, IL-1β,
+      TNF-α, VEGF (Multiplex flow cytometry, CBA® BD Bioscience, Franklin Lakes, New Jersey, USA)
+      and PG-E2 (ELISA, KGE004B®, Bio-Techne, Minneapolis, Minnesota, USA), NF-KB-P65/NFkB- p65-P
+      (ELISA,85-86083-11®, Thermofisher, Waltham, Massachusetts, USA) levels were measured.
+
+      In the second phase of the study, we only included patients suffering from arthritides of
+      both knees and treated them with local ice only, according to the protocol described above
+      (N=15 +1 patient with knee bi-arthritis previously included in the first phase of the study
+      in the ice treated group). The same protocol was applied to contralateral non-treated knees
+      except cryotherapy treatment. Therefore, the synovial fluid was gathered and analyzed at the
+      same evaluation times compared to treated knees, so these contralateral arthritic knees were
+      used as paired controls for cytokine and enzyme assays (N=16).
+
+      Statistical analyses. The sample size was calculated in order to detect a significant
+      variation in IL-6 synovialprotein levels before/after 2 cold applications. 15.78 (N=16)
+      patients per group were necessary to detect a difference of 2325 pg/mL in IL-6 protein level
+      with a power of 95% and a p-value of 0.05, according to published results of IL-6 assays in
+      knee synovial fluid. Therefore, 2 groups of 16 patients were included in the first randomized
+      phase of the study(ice versus cold CO2), then 16 patients with knee bi-arthritis were
+      required for the second phase of the study (ice-treated versus contralateral knee, N=15+1
+      patient already enrolled in the first phase). For these reasons, a total of 47 patients were
+      included. Paired Wilcoxon Mann-Whitney tests were performed in order to compare the mean
+      cytokine and enzyme levels before/after treatment. Subgroup analyses were also planned
+      (according to the treatment modalities (ice or cold CO2) and to the type of rheumatic disease
+      (microcrystalinduced arthritides - pooled gout and CPDD patients - versus
+      non-microcrystal-induced diseases - pooled RA and SpA patients). Furthermore, an interclass
+      effect-size (weighted mean differences with 95% CI) for cytokine levels (before/after
+      treatment) was calculated between ice-treated knees and the corresponding contralateral
+      non-treated knees using R® software (rmeta® and meta® packages). Correlation tests were also
+      performed using Pearson's coefficients in order to assess the parameters associated with
+      cytokine level variations (before/after treatment). The statistical analyses were performed
+      using R® and Graphpad® softwares.
+
+      Additional informations Funding: This work was supported by GIRCI Est II ("Young scientist"
+      grant - 2014 - 21324 euros).
+
+      Competing interests: None.
+    
+  

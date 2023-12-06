@@ -1,0 +1,10 @@
+
+    
+      The source population will consist of at least 50 patients whose following modalities of
+      images of the leg are present in the database: scanner, MRI, radiography. No restrictions on
+      age or gender are required.
+
+      A dedicated algorithm adapting statistical models of appearance to the specific morphology of
+      the patient acquired through an MRI and / or scanner and radios will then be developed.
+    
+  

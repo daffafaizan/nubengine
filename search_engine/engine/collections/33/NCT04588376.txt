@@ -1,0 +1,168 @@
+
+    
+      Introduction/Background
+
+      Findings from an ongoing improvement project to improve antibiotic prescribing for children
+      and adolescents for three acute respiratory tract infections (ARTIs: upper respiratory tract
+      infection, acute bacterial sinusitis, and acute otitis media) among pediatric and family
+      medicine clinics revealed performance gaps between the two primary care specialties. An
+      improvement project was then set up to address the lower performance by family medicine
+      clinics.
+
+      Literature review revealed that, in general, quality improvement feedback was more effective
+      if provided to individual clinicians rather than to a group of clinicians, but very limited
+      data existed for antibiotic prescribing practices actually comparing individual clinician
+      feedback to group (clinic-level) feedback.
+
+      The hypothesis is that individual clinician data feedback is superior to group (clinic-level)
+      feedback in improving antibiotic prescribing for ARTIs in children and adolescents by family
+      medicine clinicians.
+
+      The aim is to determine if there are significant differences for antibiotic prescribing for
+      ARTIs and for broad spectrum antibiotic prescribing percentage between an intervention group
+      and a comparator group of family medicine clinics after the intervention starting November
+      2015 and ending December 2018.
+
+      Methods
+
+      Design
+
+      A cluster randomized trial was designed for all 98 family medicine clinics within Novant
+      Health Medical Group. In August 2015, retrospective review of data from January 1, 2014 was
+      conducted by the antimicrobial stewardship team, and the trial was developed. Clusters were a
+      subset of clinics identified as under-performing, based on not avoiding antibiotics in at
+      least 83% of patients with upper respiratory infection or common cold (URI) (2013 Healthcare
+      Effectiveness Data Information Set mean in patients 3 months-18 years of age). Among these 47
+      clinics, 6 had recorded < 20 encounters in the 6 months, January-June 2015, for an illness
+      diagnosis of URI and were excluded.
+
+      The remaining 39 clinics sites in 26 practices (1 practice had 10 clinic sites and a second
+      had 5 sites; all others were single site practices) agreed to participate and were stratified
+      by size of clinic (number of clinics or clinicians as very small, small, large, very large).
+      Clinics were then block randomized with selection of half of each stratum for two groups - an
+      intervention group and a comparator group.
+
+      The Institutional Review Board of Novant Health Presbyterian Medical Center granted a waiver
+      of written, informed consent. An email was sent to the lead physicians for the 41 remaining
+      clinics detailing the protocol, and all but two clinics agreed to participate.
+
+      Intervention
+
+      All 39 clinics received the same multifaceted intervention with one exception. This
+      intervention included:
+
+        1. A one-hour, in-person, educational session, in September-October 2015, with the lead
+           clinician, clinic administrator, and stewardship team physicians describing the project
+           and clinical guidelines for URI, ABS, and AOM.
+
+        2. A tip sheet detailing how to improve scores (appropriate codes and documentation
+           strategies).
+
+        3. An after-visit summary for clinicians to give to patients and parents discussing
+           antibiotic use and side effects.
+
+        4. A presentation of summary results for all pediatric and family medicine clinics for the
+           3 ARTI metrics to for the six-month period, January-June 2015. Clinic comparison
+           performance data were then provided monthly for all 39 clinics
+
+        5. Discussion about a new clinical pathway for acute bacterial sinusitis with a request for
+           adoption and implementation.
+
+        6. A request of each practice to:
+
+             1. Discuss the guidelines for the three metrics, the tip sheet, the AVS, and baseline
+                performance at the outset.
+
+             2. Adopt and implement the ABS clinical pathway.
+
+             3. Review monthly the performance scores for the three metrics. The exception was the
+                intervention group received monthly clinician-specific performance data for the
+                three measures, while the comparator group received only clinic-level data. All
+                family medicine clinics received composite clinic-level data for all family
+                medicine and pediatric clinics so each clinician could view, at the clinic level,
+                all other clinics' performances. Clinical decision support was not used.
+
+      Data Collection
+
+      Baseline performance data were collected retrospectively from January 1, 2014-October 31,
+      2015. The intervention period was November 1, 2015-December 31, 2017. A post-intervention
+      period was from January 1-December 31, 2018, during which time only clinic-level data were
+      provided monthly to all 39 clinics.
+
+      Visit-level data included ICD-9 codes and, starting in October 2015, ICD-10 codes associated
+      with an encounter (IE) and listed as a visit diagnosis. Antibiotic prescribing was determined
+      by medication orders' search in the record associated with the encounter or within 30 days
+      prior (if URI diagnosis) or within 60 days prior (if ABS or AOM diagnosis) and 3 days
+      subsequent to the encounter. IEs were defined as evaluation and management visits for new
+      patients (with codes 99201-99205) and for established patients (with codes 99212-99215).
+
+      Measures
+
+      Using guidelines from the American Academy of Pediatrics and the Infectious Diseases Society
+      of America, customized clinical quality measures for the 3 ARTIs were developed and validated
+      by selective, manual chart review of electronic health records. These measures represented
+      the primary outcomes at cluster level and included as numerator, appropriate care, and
+      denominator, IE, for each ARTI.
+
+      A target of ≥ 90% for URI was set using the HEDIS® 2013 90th percentile, and at 80% for ABS
+      and AOM, consistent with targets suggested by an outpatient antibiotic use target-setting
+      workgroup.
+
+      A secondary outcome was broad-spectrum antibiotic prescribing (BSAP) percentage, determined
+      monthly by enumerating all antibiotics given, stratifying by narrow and broad spectrum and
+      dividing by the total number of antibiotics prescribed for any condition, not limited to the
+      3 ARTIs. For this calculation, patients were excluded if their record showed an allergy to an
+      antibiotic listed as narrow or broad spectrum and/or one of the listed antibiotics had been
+      given 60 days prior.
+
+      To determine if code shifting occurred or total antibiotic utilization changed after the
+      intervention began, the investigators recorded the mean number of encounters per clinic for
+      the 3 ARTIs and the total of all IEs and antibiotics prescribed for all patients seen for
+      illness in the baseline and intervention periods in both groups.
+
+      Statistical Analysis
+
+      Power will be estimated based on the primary outcomes, baseline-to-intervention period change
+      in the proportion of encounters with the appropriate treatment for URI, ABS, and AOM,
+      respectively. The numbers of clusters are fixed at 22 for the intervention group and 17 for
+      the comparator group. Based on retrospective data from the baseline period, the average
+      cluster sizes, i.e., the average numbers of encounters per clinic over 22 months, for URI,
+      ABS, and AOM, respectively, are 210.0, 72.6, and 129.2 for the intervention group and 211.0,
+      65.5, and 133.6 for the comparator group. This provided > 85% power to detect a study group
+      difference in mean baseline-to-intervention period change of 0.4 standard deviations,
+      corresponding to a medium effect size, with two-sided alpha = 0.05, for intra-cluster
+      correlations (ICCs) ranging between 0.01 and 0.15. The power analysis was performed using
+      PASS 15.
+
+      The clinic is the unit of analysis for describing changes in clinical decision making. The
+      primary outcomes, i.e., the proportion of relevant encounters with appropriate treatment (for
+      URI, ABS, and AOM, respectively) will be recorded for each clinic during the baseline and
+      intervention periods.
+
+      To assess the influence of the intervention on clinical decision making, a generalized linear
+      mixed model (GLMM) will be analyzed for each outcome using PROC GLIMMIX® in SAS. The response
+      variable in the models is y/n, where y = the number of appropriate treatment occurrences and
+      n = the total number of relevant encounters, and the response distribution is specified as
+      binomial with a logit link. The independent variables are the study group (intervention,
+      comparator), time period (baseline, intervention), a study-group-by-time interaction term,
+      and clinic size (very small, small, large, and very large) (used as the stratification
+      variable in the randomization). The models include a random intercept term for clinic to
+      account for relatedness of clinical decisions made in the same clinic. The p-value for the
+      interaction term will be used to assess significance between the intervention and comparator
+      groups on the baseline-to-intervention period change.
+
+      The overall alpha level is pre-specified at 0.05. To account for multiple testing, Holm's
+      Step-Down procedure will be used to adjust p-values, where the family of inferences includes
+      those for the three primary outcomes and the secondary outcome, BSAP%. In the case of a
+      significant interaction effect, the pre-intervention and post-intervention outcome will be
+      compared for the intervention and comparator groups, respectively, using pre-specified
+      contrasts generated from the GLMM. Odds ratios, corresponding to these contrasts, will be
+      calculated, along with 95% confidence intervals that are Bonferroni-corrected (at the α/2 =
+      0.025 level) to further adjust for multiple comparisons. For each outcome variable, the ICC
+      will be calculated using the level-2 (i.e. random intercept) variance from the GLMM and a
+      level-1 variance component assumed to be π‸2/3 = 3.29 for a logistic random intercept model.
+
+      Analysis of the secondary outcome, BSAP percentage, will be conducted using the steps
+      described for the primary outcomes. All analyses will be performed using SAS.
+    
+  

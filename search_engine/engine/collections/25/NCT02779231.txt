@@ -1,0 +1,57 @@
+
+    
+      Half of the participants will be randomized to a "text-messaging" protocol, and the other
+      half will be randomized to a "standard of care" protocol.
+
+      Text messaging protocol: A trained research personnel (student, pharmacist, physician or
+      research assistant) will record the patient's cell phone number. Participants will select 7
+      morning and 7 evening times that are convenient for them to check and send blood pressure
+      measurements. (The literature recommends that 12-14 measurements should be taken over one to
+      weeks with morning and evening readings before making a diagnosis of hypertension).
+      Participants will use a home blood pressure monitor that will be provided to them after given
+      instruction of how to use it. This visit should take around 30 minutes.
+
+      After the participant leaves the clinic, at the pre-specified times and dates, an automated
+      server side script running on the investigators' server will check the application database
+      at a given time interval and at the appropriate times send the participant a text message
+      with specific, simple instructions. An example of the message is as follows: "Please remember
+      to check your blood pressure this morning at 7am! Reply to this message with your blood
+      pressure and time it was taken." The participant will return a short text with his/her blood
+      pressure measurements and the time they were taken: "150/90 and 145/88 7am". The
+      investigators' software will identify the cell phone number associated with each message and
+      will enter the blood pressure measurement, the time the blood pressure was recorded, and the
+      time the message was received into an account associated with that participant in our secure
+      database. If the participant does not complete the blood pressure homework assignment, a
+      pre-specified number of reminders will be sent to the patient until 2 weeks have elapsed.
+
+      Once the pre-specified number of measurements (seven days' worth of measurements) has been
+      received by the website, an email alert will be sent to the study personnel and a generated
+      document with blood pressure numbers will be sent to the treating physician e.g. physician's
+      clinical mailbox.
+
+      Standard of care protocol: participants who are randomized to the "Standard of Care" group
+      will be instructed to obtain 7 morning and 7 evening blood pressure measurements.
+      Participants will be asked to choose a method of communication to reply their blood pressure
+      numbers back to their physician. These include "MyChart" which is Internet-based web-portal
+      connected to the participant's electronic medical record, calling back the clinic with their
+      numbers, mailing, or faxing blood pressure log to their physician. The type of method each
+      participant chooses will be recorded. Participants will use a home blood pressure monitor
+      that will be provided to them after given instruction on how to use it.
+
+      Participants in both groups will be asked to return the blood pressure cuff to Iowa River
+      Landing Internal Medicine clinic. This can be done at any time that is convenient to them
+      after finishing the blood pressure assignment.
+
+      During the study, investigators will access the participants' medical record to obtain the
+      following information: latest blood pressure measurement, blood pressure medications, latest
+      cholesterol measurements, cholesterol medications, latest glucose measurement, other chronic
+      medical conditions, other medications, insurance, race, age, gender, marital status, height
+      and weight.
+
+      Medical records will also be accessed 3-6 months later to identify any change in medical
+      management that occurred after sending blood pressure readings. Time and type of intervention
+      will be recorded whether it is adding a new medication or increasing a current medication
+      dose. Also blood pressure readings during the next clinic visit (3-6 months after the study)
+      will be recorded.
+    
+  

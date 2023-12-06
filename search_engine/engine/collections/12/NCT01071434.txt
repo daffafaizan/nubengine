@@ -1,0 +1,30 @@
+
+    
+      Accurate dose delivery remains one of the weakest aspects of radiotherapy, especially in the
+      case of thoracic and abdominal tumors, where significant patient motion occurs during dose
+      delivery (intrafraction motion). Such motion results in geometric and dosimetric
+      uncertainties that compromise treatment quality. Effective management of intrafraction motion
+      is therefore key to realizing the full potential of modern image-guided radiation therapy
+      (IGRT). While external markers have been found to be well-correlated with internal anatomy
+      within an imaging session, there is no guarantee that these correlations will continue to
+      exist and be constant throughout the course of the therapy. In general, implanted,
+      radio-opaque seeds have been found to be more reliable than external markers. However,
+      implantation of fiducials, whether radio-opaque or electromagnetic, is necessarily invasive
+      and carries with it the risk of associated complications - an issue that becomes especially
+      important for cancer patients with weakened immune systems. Currently, MR imaging is the only
+      modality that is non-invasive and provides high quality volumetric information for the whole
+      body.
+
+      The "ideal" intrafraction motion management requires complete spatio-temporal knowledge of
+      the irradiated anatomy. However, to date, there is no clinical method of directly visualizing
+      the tumor volume during dose delivery. Most techniques rely on external or internal surrogate
+      markers which often provide (usually non-volumetric) information of limited accuracy and
+      reliability. In addition, internal markers impose significant "costs" on the patient in terms
+      of interventional complications and increased imaging dose. In this work, we investigate the
+      feasibility of using in-room, fast cine MR imaging as a non-invasive means to provide
+      real-time, soft-tissue-based, volumetric image guidance for continuous monitoring of the
+      target and surrounding anatomy. To date, there has been no systematic investigation of the
+      imaging requirements of an integrated MRI+linac for the specific task of real-time
+      radiotherapy guidance.
+    
+  

@@ -1,0 +1,97 @@
+
+    
+      Mastoidectomy is a common otologic surgical procedure in which all or part of the mastoid
+      portion of the temporal bone is removed with a surgical drill. The procedure is performed to
+      treat diseases and infections such as mastoiditis and cholesteatoma, and is also performed as
+      one step of other surgeries, such as the facial recess approach for cochlear implantation
+      (CI) or the translabyrinthine approach for acoustic neuroma removal (TANR). The investigators
+      are working on a new medical device to assist specifically with the TANR procedure. The focus
+      of this study is one component of this device, the pre-positioning frame (PPF).
+
+      TANR surgery is performed to remove benign tumors on the auditory nerve which can cause
+      severe hearing and balance problems if not removed. The current standard of care is a
+      mastoidectomy, followed by a labyrinthectomy (excision of the labyrinth of the inner ear) to
+      gain access to the skull base, specifically the internal auditory canal (IAC), where tumors
+      are located.
+
+      Several critical anatomical structures are embedded in the mastoid bone, including the facial
+      nerve, which controls motion of the face, large blood vessels such as the carotid artery and
+      intracranial continuation of the jugular vein, and the tegmen, which is the boundary between
+      the mastoid and the brain. Surgeons are specially trained to recognize and avoid these
+      structures when drilling. Drilling for TANR surgery often takes several hours due to slow
+      advancement of the drill through hard bone in the labyrinth region. After this drilling is
+      when the most delicate and critical portion of the surgery begins i.e. removal of the
+      acoustic neuroma. The investigators hypothesize that a robot, guided by pre-operative images,
+      can perform the drilling for TANR surgery while preserving safe margins around the critical
+      structures thus enabling surgeons to focus on the delicate, final stage of TANR surgery.
+
+      There are several robotic systems available for orthopedic drilling procedures such as joint
+      arthroplasty and resurfacing. These systems include the RIO System (Stryker Mako, Ft.
+      Lauderdale, FL, USA), the ROBODOC Surgical System (Think Surgical Corp., Fremont, CA, USA)
+      and the CASPAR (URS Ortho GMBH & Co. KG, Rastatt, Germany). However, these systems have not
+      been shown accurate enough to perform TANR surgery safely, and rely on expensive image
+      guidance systems to continuously track the patient's position relative to the robot, in order
+      to ensure that the robot-guided drill stays within safe margins.
+
+      The investigators previously designed a small light-weight robot that can be attached to the
+      bone of a patient's head, and provide the required accuracy for TANR surgery without an
+      expensive image guidance system.
+
+      To reach an entire mastoidectomy volume for TANR surgery, our robot must be correctly
+      positioned relative to a patient's temporal bone anatomy. The investigators hypothesize that
+      a rigid fixture, which the investigators call a pre-positioning frame (PPF), can correctly
+      position our robot to complete drilling for TANR surgery on the patient population. The goal
+      of this study is to investigate the first step in implementing this system by attaching a PPF
+      to a patient who is undergoing a standard TANR surgery in order to better understand the time
+      it takes to do this step and optimize the surgical workflow.
+
+      The PPF, attaches directly to the participants head behind the ear, using bone screws adapted
+      from cranial reconstruction hardware. These bone screws are typically used in this area of
+      the skull and placed at a similar penetration depth of 3.5 mm. The safety margin from tip of
+      the screw to the inside skull surface will be 0.25mm In a future study, the robot would then
+      attach to fiducial markers on the top surface of the PPF. Our current PPF design incorporates
+      data from ten robotic drilling experiments. Six trials were performed on excised temporal
+      bones, and four were performed on full cadaver heads. Using results from these experiments,
+      the investigators improved the shape of the PPF to optimally reach the range of planned TANR
+      mastoidectomy volumes, and also improved the legs of the PPF to facilitate rapid and secure
+      implantation of bone screws.
+
+      The surgical workflow the investigators plan for a full robotic mastoidectomy will be
+      described here for context, but to be clear, steps 7, 8, and 10 will not be performed in the
+      proposed study.
+
+        1. Prior to surgery, a surgeon manually segments a mastoidectomy volume in a preoperative
+           CT image using investigational software created for this purpose.
+
+        2. During surgery, the PPF is anchored to the temporal bone with self-drilling bone screws.
+
+        3. An intraoperative CT scan is acquired of the participants's head with the PPF attached
+           using a portable CT scanner.
+
+        4. The intraoperative CT image is registered to the preoperative CT and the pre-operative
+           segmentations are transformed to the intraoperative CT using the registration.
+
+        5. Fiducial markers on the PPF are localized in the intraoperative CT image, allowing the
+           pre-operative segmentation data to be transformed to the intraoperative CT image space.
+
+        6. Robot motion is automatically planned using investigational mastoidectomy planning
+           software.
+
+        7. (The robot is fastened to the fiducial markers on the PPF, and is activated to execute
+           the drill trajectory. The surgeon retains supervisory control over the robot and can
+           stop or alter its speed if necessary).
+
+        8. (The robot is removed from the PPF following completion of drilling).
+
+        9. The PPF is removed from the participant by loosening the bone screws.
+
+       10. (The surgeon completes the manual surgical actions that follow mastoidectomy drilling,
+           such as removal of IAC tumors.) The investigators plan to clinically validate the
+           improved PPF design by performing the steps above (excluding steps 7, 8, and 10) on ten
+           participants. Note that the PPF will be removed directly after step 5 when the CT image
+           has been registered. Using previously developed robotic mastoidectomy planning software
+           (step 6), the investigators will calculate the percentage of each TANR mastoidectomy
+           that is reachable for an attached PPF configuration. Step 6 will be done once the images
+           have been collected and will not impact the clinical procedure.
+    
+  

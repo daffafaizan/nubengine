@@ -1,0 +1,91 @@
+
+    
+      1. Rational Mechanical ventilation following tracheal intubation is a common life-support
+           procedure to treat patients with acute respiratory failure. However, even if the acute
+           event is resolved, the ICU length of stay may be prolonged by prolonged mechanical
+           ventilation. Many factors contribute to prolonging mechanical ventilation and prevent
+           progression in weaning from the ventilator: neuromuscular blocking agents, pulmonary
+           infections, pre-existing respiratory disease, etc. In case of prolonged invasive
+           ventilation, following several failures of weaning and re-intubation, these patients are
+           therefore most often tracheostomy by percutaneous or surgical way in order to optimise
+           the mechanical ventilation weaning strategy.
+
+           The weaning units, initially created in the United States and then in France in the
+           early 2000s, have improved the success rate of mechanical ventilation weaning in these
+           difficult-to-wean patients. The factors associated with the success of decannulation are
+           not well known in the literature and the decision to remove the tracheostomy is
+           primarily based on the clinical impression. The rate of tracheostomy removal failure
+           ranges from 2 to 25%, with a poor prognosis in case of failure.
+
+        2. Hypothesis The severity of the critical care patient, the factors related to mechanical
+           ventilation, the respiratory and extra-respiratory status are independent factors for
+           successful decannulation.
+
+        3. Main objective Determine the factors associated with successful tracheostomy removal in
+           difficult-to-wean patients hospitalised in respiratory weaning unit.
+
+        4. Secondary objectives
+
+           The secondary objectives are to evaluate in tracheostomy and hospitalised patients in
+           weaning unit:
+
+             -  The prevalence of successful tracheostomy removal;
+
+             -  The prevalence of successful weaning from mechanical ventilation;
+
+             -  The factors associated with successful weaning from mechanical ventilation;
+
+             -  Demographic characteristics of these patients at admission;
+
+             -  Respiratory characteristics of these patients at admission;
+
+             -  Biological characteristics of these patients at admission;
+
+        5. Method This is a prospective, single-centre, interventional cohort study with an
+           expected duration of 2 years. This study will be performed per the ethical standards of
+           the Declaration of Helsinki and will be reported according to the Strengthening the
+           Reporting of Observational Studies in Epidemiology (STROBE) statement.
+
+           All patients admitted to the respiratory weaning unit in the Forcilles' hospital, with a
+           tracheostomy and an expected duration of mechanical ventilation > 48 hours will be
+           consecutively included.
+
+           Data will be recorded using a local case report form by the investigator. Demographic
+           data, comorbidities and medical and surgical history, biological findings, the
+           ventilatory parameters and the nutritional state will be recorded at inclusion. All
+           factors potentially associated with successful tracheostomy removal will be
+           prospectively collected: severity factors related to the ICU stay, ventilatory factors,
+           respiratory and extra-respiratory factors.
+
+           On-site monitoring is planned every month.
+
+        6. Statistical plan:
+
+      Continuous variables will be expressed as the mean (± standard deviation) and compared using
+      the Student's t test if the null hypothesis is not rejected by the Shapiro-Wilk test.
+      Continuous variables will be expressed as the median (interquartile range) and compared with
+      the Mann-Whitney U or Kruskal-Wallis test if the null hypothesis is rejected by the
+      Shapiro-Wilk test. For categorical variables, the proportions of patients in each category
+      will be calculated. Then the groups will be compared using Chi squared test.
+
+      A multivariate logistic regression model will be carried out to assess the relation between
+      decannulation success and variables associated in univariate analyses. All statistically
+      significant variables will be included in the model. Variable selection will be stepwise,
+      based on Akaike Information Criterion. To check multicollinearity between independent
+      variables, the variance inflation factor will be calculated before performing multivariate
+      logistic regression. Multicollinearity will be regarded as present when the variance
+      inflation factor is > 5. Goodness of fit will be assessed by Hosmer-Lemeshow method.
+
+      For all tests, a p-value ≤ 0.05 will be considered statistically significant. All statistical
+      analysis will be made using R software (version 3.6.1, www.R-project.org).
+
+      Sample size calculation:
+
+      The investigators based the sample size calculation on the number of independent variables
+      which will be included in the logistic multivariable regression model. The investigators use
+      the criterion of one variable per 10 events for binary logistic regression analysis. The
+      investigators plan to include the 8 most relevant ultrasound measures in the model. As
+      prevalence of tracheostomy success in our unit is estimated at 0.8, the investigators plan a
+      sample size of 100 patients.
+    
+  

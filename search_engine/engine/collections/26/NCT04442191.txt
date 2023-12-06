@@ -1,0 +1,139 @@
+
+    
+      Study Design and Procedures - Comparison group (no-treatment control)
+
+        1. Subjects will be identified by reviewing a REDCap database containing the list of all
+           patients at the University of Illinois at Chicago Hospital (UIC) who were tested for
+           COVID-19. Using these data, the investigators will identify those subjects who are >40
+           years old, were admitted to the hospital during the period of the study, otherwise met
+           all of the inclusion and exclusion criteria for the infusion arm of the study but were
+           not enrolled and did not receive any medications for treatment of COVID-19 (were treated
+           with only supportive care).
+
+        2. Clinical data from the hospital admissions of these subjects will be entered into a
+           REDCap database. The same clinical information captured for subjects who underwent
+           transfusion (vital signs, oxygen status, etc.) will be entered into this database.
+
+      Study Design and Procedures - Intervention arms Screening Visit
+
+        1. Patients admitted to UIC Hospital and meeting the inclusion criteria will be enrolled
+           after documentation of informed consent.
+
+        2. Enrolled subjects will answer a symptom screen, undergo a physical exam, and have
+           clinical data extracted from their chart (including medical history, demographic
+           information, vital signs and documentation of oxygen requirement).
+
+        3. Women of childbearing age will be asked if there is a chance that they might be
+           pregnant, if they are currently breastfeeding, and if they are planning to become
+           pregnant.
+
+        4. Blood will be drawn for a Complete Blood Count (CBC) and blood type and screen, and a
+           sample of blood will be stored for research purposes.
+
+        5. Nasopharyngeal and/or oropharyngeal swabs will be collected for Reverse
+           Transcriptase-Polymerase Chain Reaction (RT-PCR) testing.
+
+        6. A study investigator will ask the patient's primary team if they are planning on
+           treating the patient with Remdesivir. If the patient qualifies for this medication, the
+           study investigator will monitor the patient's chart and work with the patient's nurse to
+           ensure that the first convalescent plasma infusion and first dose of Remdesivir are
+           given within 24 hours of each other.
+
+      Study Design and Procedures - Transfusion Visits (Study days 0 and 1) Note - the first
+      transfusion visit may be done on the same day as the screening visit if time permits,
+      otherwise it will be done the following day. Items 1 and 2 will only be performed for the
+      first transfusion visit if the visit occurs the day after the screening visit.
+
+        1. The patient's clinical status, oxygen requirement, vital signs, and physical exam will
+           be extracted from their clinical chart. Extracted information will include:
+
+             1. imaging: chest X-ray or chest CT results
+
+             2. labs: CBC with differential, C-Reactive Protein (CRP), alanine aminotransferase
+                (ALT), aspartate aminotransferase (AST), total bilirubin, creatinine.
+
+             3. Demographic and medical information: history of present infection (length of
+                symptoms prior to presentation, etc.)
+
+        2. Participants will be asked a symptom questionnaire.
+
+        3. Randomization to convalescent plasma or fresh frozen plasma will be 1:1. Randomization
+           will be conducted by a physician not involved in the study and using pre-prepared lists
+           with random permuted blocks of varying sizes. This physician will hand-deliver an order
+           sheet for either convalescent or fresh frozen plasma to the blood bank (this way no
+           orders that could potentially unblind study personnel will be in participants' charts).
+
+        4. The blood bank technical staff will select either two compatible blood-type
+           non-therapeutic units of plasma or two compatible units of convalescent plasma,
+           depending on which group the patient has been randomized to.
+
+        5. If the blood bank does not have any product of that patient's blood type, investigators
+           will not be able to have the subject complete the remainder of the study. However, the
+           investigators will keep the information about the participant's blood type in the study
+           database. Then, in the event that plasma of the appropriate blood type is obtained,
+           study investigators may contact participants to find out if they are still interested in
+           being part of the study.
+
+        6. The blood product will be delivered to the floor and the participant's nurse will infuse
+           and document plasma administration following UIC Hospital policy "TX 5.03." Study
+           subjects will receive 1 unit of plasma the first day, with the second unit being given
+           the next day.
+
+        7. Once the blood product has been hung, the patient's nurse will place it in a bag that
+           will prevent the patient or physician's taking care of the patient from seeing whether
+           the unit is regular frozen plasma or convalescent plasma. The nurse will be under
+           instructions not to convey information about which type of plasma was used to the study
+           team.
+
+        8. The nurse will be instructed to stop the transfusion while a small sample of plasma
+           remains in the bag. The bag will then be sent back to the blood bank (this is usual
+           protocol for blood products), and remaining plasma will be emptied into a storage
+           container, labeled with the patient's study identification number, and frozen for later
+           use for research purposes.
+
+        9. If a transfusion reaction occurs the transfusion will be stopped and reported to the
+           blood bank as stated in UIC Hospital policy "TX 5.03."
+
+      Study Design and Procedures - Post-infusion monitoring
+
+        1. Post-transfusion clinical data will be collected from electronic medical record daily
+           for days 2-8 following the first transfusion (or until the participant is discharged if
+           they are discharged prior to 8 days following transfusion). This information includes:
+
+             1. vital signs: temperature, blood pressure, respiratory rate, pulse
+
+             2. symptoms: cough, dyspnea, shortness of breath
+
+             3. oxygenation: oxygen saturation, supplemental oxygen requirement, supplemental
+                oxygen method (e.g., ventilator, nasal canula, prone positioning, etc.)
+
+             4. imaging: chest X-ray or chest CT results
+
+             5. labs: CBC with differential, CRP, ALT, AST, total bilirubin, creatinine (and
+                whether or not the patient has required renal support)
+
+             6. medications: antibiotics and anti-viral medications, neuromuscular blocking agents,
+                vasopressors
+
+             7. location: intensive care unit, discharged, regular hospital bed
+
+        2. The participant will have a swab sample for SARS-CoV-2 RT-PCR collected daily for days
+           2-8 following the first transfusion (or as many days as they are admitted if they are
+           discharged prior to 8 days following the first transfusion) and on day 14 following
+           plasma infusion.
+
+           Participants will also have blood drawn on days 2, 4, and 8 following the first plasma
+           infusion for measurement of antibody titers to SARS-CoV-2 (if they are discharged prior
+           to day 4 or 8 they will not undergo that day's blood draw).
+
+        3. If the patient is discharged prior to 14-days following infusion of plasma, they will be
+           asked to return to Project Wish on day 14 post- infusion of plasma for a blood draw (for
+           antibody titers), a nasopharyngeal and/or oropharyngeal swab (for RT-PCR testing) and to
+           answer a short symptom questionnaire.
+
+        4. The patient will be contacted by telephone (if discharged) at 28-days following plasma
+           infusion and will be asked a symptom questionnaire. If they remain in the hospital at
+           this time point, they will be asked this questionnaire (if capable) and will have
+           information regarding their clinical condition extracted from their chart.
+    
+  

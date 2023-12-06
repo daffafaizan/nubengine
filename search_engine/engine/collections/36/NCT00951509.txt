@@ -1,0 +1,68 @@
+
+    
+      This study has an experimental, repeated measures design with validity and reliability
+      testing. In Phase 1 of the study, we designed and developed the software needed to deliver
+      the computer-based and VR-based testing environments. In Phase 2 of the study, we improved on
+      the design iterations of Phase I, recruited a sample of 31 Electric Power wheelchair (EPW)
+      users and delivered the simulator based driving assessment using a pool of clinicians to
+      assess the reliability of system in real world and in the virtual environments.
+
+      Phase II: Research Protocol:
+
+      Experimental Set-up:
+
+      VRSIM consisted of two display options, three 6' X 8' back projected screens (field of view
+      160°) (VR screens) and a single 22" desktop monitor (field of view 90°) (PC screens), both
+      with the first-person perspective viewpoint (Fig.1). The virtual environment consisted of a
+      simulation of an indoor office space with a kitchen; a lounge area and set of hallways lined
+      by offices, and incorporated the tasks of the PMRT (Fig.2). Participants interacted with
+      VRSIM either using dual rollers that interfaced with drive wheels of the wheelchair ('Rollers
+      ON' driving mode) or using an instrumented wheelchair joystick through a custom software
+      ('Rollers OFF' driving mode). The custom software uses a proportional derivative mathematical
+      model to simulate the real-world motion of the EPW within the virtual environment. VRSIM was
+      designed with two display options and two user input modalities to assess the feasibility of
+      using such a system with different interfaces in different settings, such as in a busy
+      wheelchair clinic (using the much immersive VR screens with rollers) or in a user's home
+      (with the user's personal computer and the customized joystick).
+
+      The "actor/driver" in the VRSIM was a virtual model of a person sitting in a standard
+      commercially available EPW power wheelchair (width 0.671 m, length 0.701 m). A horizontal
+      slider bar that indicated the real time location of the virtual wheelchair with respect to
+      virtual obstacles was added to this version (Fig.1, 2). This helped display warnings when the
+      chair was too close to obstacles, especially when the obstacles were behind the driver.
+      Participants were expected to drive along the course indicated by arrows touching or passing
+      through preset milestone markers signified by semi-transparent balloons. These sequentially
+      displayed milestones defined the tasks of the virtual PMRT. Participants were instructed to
+      complete every task as quickly and accurately as possible. An equivalent PMRT driving course
+      was charted out in an office space for the real world driving evaluation.
+
+      Data collection:
+
+      After informed consent, participants performed up to 2 practice sessions within the virtual
+      driving course. Participants reported their level of comfort and sense of being in control in
+      the VRSIM during practice based on which a value between 1.0 and 4.0 was selected for the
+      linear and angular speed gains in VRSIM. In addition, participants were asked to select a
+      different pre-programmed driving profile on their wheelchairs (e.g. "indoor" profile), which
+      was similar to their everyday driving profile to obtain optimum driving speed. Optional
+      breaks for 5-10 minutes were provided between driving sessions. For both the PC and VR
+      screens, participants drove through the complete driving course: two trials with the Rollers
+      ON driving mode, one trial with the Rollers OFF driving mode, and one trial in the real-world
+      PMRT driving course constituted to a total of 5 driving conditions (Table 1). A balanced
+      randomization scheme was used to set the order of the five driving conditions.
+
+      From a group of 6 clinicians comprised of 1 occupational therapist, 3 physical therapists,
+      and 2 physicians, 2 clinicians were randomly assigned as the evaluation team for each
+      participant. The team always had 1 certified Assistive Technology Professional with more than
+      5 years of experience in power wheelchair driving evaluations. The assigned clinicians
+      independently scored every PMRT task during all the driving trials using the following
+      criteria: 4: completed independently, 3: completed hesitantly requiring several trials and
+      minor accidents, 2: commits serious accidents that may cause harm to driver or other people,
+      1: unable to complete a task. Each clinician had a separate PMRT scoring sheet for each
+      trial.
+
+      Repeat Testing:
+
+      Subjects underwent all five testing scenarios twice, returning on a second visit in no
+      earlier than 2 weeks.
+    
+  

@@ -1,0 +1,32 @@
+
+    
+      This is an explorative, prospective, monocentric open-label study qualified as interventional
+      researches at minimal risks and constraints (called in French RIPH, category 2).
+
+      This is a study of the gut microbiota and its characteristics in ScS patients, compared to
+      control subjects (without ScS or other chronic diseases), matched on age and sex.
+
+      Participants provided two stool samples: one collected the day of inclusion and a second, six
+      months later.
+
+      In parallel with the microbiota analysis, a clinical (digestive and extra digestive signs,
+      severity) and biological characterization of the ScS will be carried out by the team of
+      internists. This medical evaluation will be completed by an interview with a dietician to
+      inform about the participant's eating habits, and any changes in the 7 days preceding the
+      stool collection.
+
+      Microbial profiles will be obtained from the sequencing data using the specialized tools
+      DADA2 and Kraken.
+
+      The search of characteristic signature of ScS will be performed by comparing ScS patients and
+      healthy controls using a discriminant linear analysis (LDA) using the specialized tool LEfSe
+      Main objective is to identify, through longitudinal follow-up, significant differences in the
+      composition of the intestinal microbiota of ScS patients and healthy control subjects
+      (matched on age and sex) in order to define a microbial signature specific to the ScS.
+
+      Secondary objectives are to study the stability over time of the identified microbial
+      signatures, and to determine a correlation between the composition of the microbiota obtained
+      in the ScS patient and the severity of his symptoms (diffuse skin disease, pulmonary
+      interstitial disease, digestive disease...)
+    
+  

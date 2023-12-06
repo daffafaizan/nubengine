@@ -1,0 +1,41 @@
+
+    
+      The main objective of HEART is the development and validation of a patient-specific
+      multiscale computational model of the coronary circulation with high predictive power in
+      healthy and diseased vessels:
+
+        -  Comprehensive modeling of the anatomical and hemodynamic phenomena in the coronary
+           circulation based on input data acquired from both angiography and echocardiography;
+
+        -  Assessment of functional parameters and subsequent validation of the models;
+
+        -  High performance computing architecture for efficiently addressing the multi-scale
+           complexity, which is a critical requirement for translation into clinical decision
+           making.
+
+      Patient measurements used as input data for the multiscale models, or for validating the
+      computational results include:
+
+        -  Angiography: targeted angiographic views include LAO 30, LAO 30/20 cranial, LAO 30/20
+           caudal, RAO 30 (RCA views) and RAO 25/25 caudal, RAO 0/40 caudal, RAO 10/40 cranial, LAO
+           50/20 cranial, LAO 50/20 caudal (LCA views)
+
+        -  Echocardiography:
+
+             -  Standard apical acquisitions (2D harmonic 4-chamber, 2-chamber, 3-chamber)
+
+             -  Color flow Doppler/spectral Doppler (MR, AI, TR evaluation; CW and PW spectral
+                Doppler)
+
+             -  Three-dimensional imaging (From apical 4-chamber view one ECG-triggered real time
+                complete full volume acquisition including LV and LA - 1 acquisition at low volume
+                per second (VPS) rate and one at high VPS, real time volumetric color flow Doppler,
+                cover MV and AV).
+
+        -  Non-invasive pressure measurements: cuff-based measurements at the left and right arm,
+           before echocardiography and angiography
+
+        -  Invasive pressure measurements: rest - aortic pressure (Pa), distal pressure (Pd), Pd/Pa
+           ratio; hyperemia - aortic pressure (Pa), distal pressure (Pd), FFR (Pd/Pa)
+    
+  

@@ -1,0 +1,12 @@
+
+    
+      To develop a computer-aided diagnosis (CAD) system for full field digital mammography (FFDM)
+      using advanced computer vision techniques and to evaluate the effects of CAD on
+      interpretation of digital mammograms (DMs). This system will assist radiologists with the
+      four most important areas in mammographic interpretation: (1) detection of masses, (2)
+      classification of masses, (3) detection of microcalcifications, (4) classification of
+      microcalcifications. The proposed approach is distinctly different from previous approaches
+      in that image information from two-view and bilateral mammograms will be fused with that from
+      the single-view mammogram to improve lesion detection and characterization.
+    
+  

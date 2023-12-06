@@ -1,0 +1,108 @@
+
+    
+      Each participant will be run in a single afternoon, which includes a 90-minute nap
+      opportunity. This study will be divided into three continuous sessions. The first and third
+      sessions will be done inside the MRI scanner, whereas the middle session will be conducted
+      outside of the scanner, while recording electrophysiological data. The crucial manipulation
+      involves the careful control of temporal context, which is accomplished by preserving the
+      temporal order of trials during training and using spatial scenes as markers of context.
+
+      This is a within-subjects study. The main manipulation is the unobtrusive presentation of
+      sounds during sleep, a technique called targeted memory reactivation (TMR). All participants
+      will hear these sounds, but the specific sounds each one will hear will be different. The
+      results will then be compared within participant, not between different groups or
+      individuals. Appropriate statistical methods for such analyses include paired t-test and
+      repeated measures analysis of variance. The choice of which sounds will be presented to each
+      participant will be made based on their performance in the pre-sleep test. This will be done
+      in an attempt to balance pre-sleep scores between presented and unpresented stimuli to remove
+      statistical noise. Both the participant and the experimenter will be blind to which sounds
+      will be presented, and the selection will be automatically made by the computer. This
+      technique has been extensively used and has no known risks.
+
+      There are two main reasons that using a within-subject design reduces the required sample
+      size. First, the lack of a between-subject independent variable intuitively requires less
+      participants. Second, the level of statistical noise due to individual differences is reduced
+      (i.e., because each participant is compared with their own scores). Previous TMR studies,
+      which have found significant cuing effects, commonly used 20-25 participants. I plan to
+      include at least 30 participants in this study, after omitting participants who could not
+      complete the task and those who were not sufficiently cued during sleep. Having 30
+      participants will allow the use of more powerful statistical methods (in accordance with the
+      common rule of thumb derived from the central limit theorem, which states that means based on
+      sample sizes of more than 30 participants can be assumed to follow a normal distribution). I
+      expect the context-related TMR effect (see summary) to be smaller in magnitude relative to
+      the common effect size observed in spatial learning TMR studies (Hedge's g = 0.39 based on a
+      recent meta-analysis15). This is why I included a higher sample size. It is important to note
+      that even if this benefit will be of a smaller magnitude, as I expect, it will still be
+      indicative of the underlying neurocognitive process and therefore extremely valuable for our
+      mechanistic understanding of the role of context in sleep. Aiming at a sample size of at
+      least 30 participants and assuming an omission rate of 80%, I therefore plan to have 38
+      participants altogether.
+
+      Here is a brief summary of the procedure:
+
+      Stimuli: 12 images of spatial scenes (e.g., a beach) will each be arbitrarily associated with
+      five smaller images of objects or animals. As described later, half of the scenes will be
+      associated with a right hand motion and half with the left - and half of each of these groups
+      will be cued during sleep. Each of the 60 images will each have a unique 2D position on a
+      circular grid presented on the screen and will be accompanied by a specific, congruent sound
+      (e.g., cat - meow).
+
+      fMRI Localizer: After the participant is first put in the scanner and a basic anatomical scan
+      is complete, they will be exposed to all the different scenes while being scanned. This will
+      later be used to classify scene-specific blood-oxygen-level-dependent (BOLD) responses.
+
+      Training: First, participants will learn to associate scenes with a hand motion. They will
+      repeatedly see each scene on either the left or right side of the screen and be asked to
+      imagine touching the image on the projected screen. In this and every following training
+      block, the scenes will be presented in a participant-specific, non-randomized order. Next,
+      participant will be exposed to all 60 images' locations on the grid and asked to associate
+      the image with the scene and remember the location. The images for each scene will
+      consistently be presented in the same order within the scene, and therefore the order of the
+      60 images will be maintained throughout training. The left/right sides of the screen will be
+      used for each scene in accordance with its designated hand in the previous training stage.
+      After two rounds of exposure, participants will go through a similar positioning phase of
+      training. They will be shown the image and the scene and asked to associate them. Then, they
+      will see the circular grid without the image on it and asked to imagine touching the correct
+      location with the appropriate hand. The next screen will show the image in its correct
+      location and ask participants to signal whether or not they knew the location. The next image
+      will be presented after a short inter-trial interval. An image's location is considered
+      learned when it was marked as correct twice in a row. Blocks will be repeated in the same
+      order until all locations are learned. For the images which were already learned, the
+      repeated block will employ an alternative task to avoid over-learning while maintaining the
+      temporal order of items.
+
+      Pre-sleep test (in scanner): After training, participants will be presented with all images
+      in a pseudo-random order and asked to imagine touching their correct location on the grid
+      with the appropriate hand.
+
+      Pre-sleep test (EEG): Outside the scanner, the participant will be fitted with an EEG cap and
+      then asked to take another test. Here, images will again be randomized and participants will
+      first be asked to imagine touching the correct location and then ordered to actually touch
+      the correct position. Subsequent measures of change in spatial memory will be based on the
+      performance in this test. Throughout the task, the act of imagining the hand motion is not
+      used to decode the exact position on the screen in which the participant thinks the item
+      should be located. Instead, imagined hand motion will serve as a rough measure of hemisphere
+      specific reactivation, that will then be used to classify reactivation during sleep in the
+      EEG, as done in 64. Although this decoding will primarily be done using EEG and not fMRI, the
+      instructions to imagine hand motion are the same for all phases of the experiment in order to
+      maintain consistency throughout the task.
+
+      Sleep: During NREM (non-rapid eye movement) sleep, the sounds associated with specific images
+      will be presented unobtrusively. The scenes from which these images will be chosen will be
+      half of the right- and half of the left-handed ones. For each of these scenes, one image will
+      be cued, positioned in either the 2nd, 3rd or 4th place in that set's training sequence. The
+      choice of which sounds to present will be made in a manner that will balance pre-sleep
+      results and therefore enhance the contrast between sleep-related effects for cued and
+      non-cued images.
+
+      Post-sleep test (EEG): At least 10 minutes after the end of the nap, participants will start
+      this test, which will be identical to the Pre-sleep test (EEG).
+
+      Post-sleep test (in scanner): Identical to the Post-sleep test (in scanner). Scene-image
+      association test: Finally, participants will be shown each image in a randomized order and
+      asked to indicate which of four presented scenes is associated with it.
+
+      fMRI Localizer: Same as the first. Participants will finally be thanked, debriefed, paid and
+      dismissed.
+    
+  

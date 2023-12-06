@@ -1,0 +1,24 @@
+
+    
+      While multiple investigators have attempted to develop non-contact pulse oximeters, none of
+      these devices have achieved accuracy sufficient for clinical use, no such devices have been
+      approved by the Food and Drug Administration, and there are currently no such devices on the
+      market in the United States. While these devices are typically able to measure the heart and
+      respiratory rates with some accuracy,v the accurate calculation of oxygen saturation from the
+      arterial pulse (SpO2) using a "non-contact" reflectance oximetry probe is complicated by the
+      interference of ambient light, patient temperature changes, as well as the inherent
+      limitations of the sensing devices currently utilized. Poh et al have been somewhat
+      successful at calculating the heart rate from a video recording using independent component
+      analysis. However, Poh's method does not calculate instantaneous rates and requires a facial
+      recognition component to track the facial orientation in the image, is not capable of
+      measuring respiratory rate, and relies primarily on analysis of reflected green light (which
+      cannot be used for the calculation of oxygen saturation). Our work involves modifying a
+      commercial off the shelf (COTS) 3-channel (red, green, blue) CCD (charge coupled device) or
+      CMOS (complementary metal oxide semiconductor) camera in the form of a web cam to detect near
+      infrared and infrared spectrum radiation and applying an algorithm based fast Fourier
+      transformation (FFT) of individual red pixel intensity to detect motion and color changes.
+      Because our algorithm analyzes the first derivative of red pixel intensity, a face-tracking
+      component is unnecessary, and we are able to calculate the heart rate and the respiratory
+      rate in real time.
+    
+  

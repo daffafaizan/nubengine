@@ -1,0 +1,73 @@
+
+    
+      This study will be carried out as an explorative study in order to investigate the benefits
+      of mental imagery training of hand movements guided through Brain-Computer Interface (BCI)
+      feedback after stroke. Stroke patients will be trained to mentally imagine the opening and
+      closing of the hand (hereafter named MI, Motor Imagery). During the training, the patients
+      will receive visual feedback in real time that reflects the neural activity related to motor
+      processes. The NeuroFeedback (NF) will be projected with minimal time delay to maximize the
+      neural learning. This type of brain training with feedback is thought to have significant
+      importance to stimulate the ability of the brain to reorganize and compensate for a damaged
+      region.
+
+      Each participant will go through the following data collection procedure (total of 33
+      measurement sessions per RP):
+
+      Week 1-3:
+
+      Clinical baseline evaluations, 1 time/week MRI measurements, 1 time/week Baseline EEG
+      recordings, 1 time/week Week 4-7 MI-neurofeedback training 3 times/week Clinical intervention
+      evaluation, 1 time/week Week 8-10 Same as week 1-3
+
+      Magnetic Resonance Imaging (MRI) measurements. The MRI exam will be carried out on a Siemens
+      MAGNETOM Prisma 3T scanner (head-coil with 20 channels) at baseline and at final assessment
+      session at Stockholm University Brain Imaging Centre. The MRI protocol comprises i)
+      anatomical whole brain spin-echo T1 and T2 weighted sequences for description of lesion size
+      and location ii) acquisition of T2*-weighted gradient echo EPI-BOLD images of the whole brain
+      for assessment of resting state functional connectivity of sensorimotor networks
+      (resting-state functional MRI (fMRI)), and iii) the same sequence as the previous with rest
+      interleaved by a motor imagery paradigm further described below.
+
+      Motor Imagery (MI) paradigm. The paradigm consists of instructing RP, by the use of a
+      mirrored computer screen, to either i) rest his/her mind with eyes closed, ii) mentally
+      imagine a hand movement (MI), or ii) execute a hand movement. The hand movements that are
+      instructed are either to close the hand or to open the hand and extend the fingers. RP will
+      perform several repetitions of each hand movement (MI and execution) in order to collect a
+      statistical basis.
+
+      Baseline EEG recording. During the baseline EEG recordings, RP will be seated in front a
+      computer screen and perform the MI paradigm (described above). During these session, EEG,
+      EOG, EMG, and accelerometer-data will be collected and are further described below.
+
+      ElectroEncephaloGram (EEG), ElectroOculoGram (EOG), ElectroMyoGram (EMG) and accelerometer
+      equipment. The EEG equipment consists of a 64-electrode scalp EEG acquisition system (Brain
+      Products ActiCHamp). The 64 electrodes (active Ag/AgCl) will be distributed according to the
+      extended 10-20 reference placement system. In addition to the EEG recording, 3 electrodes
+      (passive Ag/AgCl, Brain Products) will be placed on each side of both eyes and on the earlob
+      to measure eye-movements during the experiment (EOG). EMG electrodes (passive Ag/AgCl, Brain
+      Products) will be placed over four muscles controlling the wrist and fingers according to a
+      standardized protocol. Two accelerometer-sensors (Brain Products) will be placed on the hand
+      and the index finger in order to record movement-related activity.
+
+      EEG, EOG, EMG and accelerometer data analysis. The recorded data will be further analyzed
+      offline in order to evaluate the characteristic features in the data that best describe MI of
+      hand movements. This will be performed in Matlab and Labview combining custom-made scripts
+      with already developed toolboxes (such as EEGLab, Chronux). Features to be evaluated will
+      include the evoked activity, the time-frequency spectra, phase, correlation coefficients,
+      coherency among other. When the feature that best describes MI has been identified different
+      classifier and pattern recognition methods will be evaluated in extracting the information.
+      Intelligent algorithms, Support Vector Machine (SVM), regularized linear regression, naïve
+      Bayes classifiers among others will be evaluated and compared. These are commonly used
+      methods in the field of neurotechnology and a prior comparison-study using neural data from
+      invasive recordings shows the importance of choosing a well-adapted classifier for extracting
+      information.
+
+      MI-NeuroFeedback Training (NFT). EEG, EOG, EMG and accelerometer-data will be collected as
+      described in the section "EEG, EMG and accelerometer equipment". RP will perform the MI
+      paradigm without the execution of hand movements. Real-time feedback from recorded
+      EEG-activity will be provided to RP during MI. The feedback consists of a virtual hand on a
+      computer screen whose movements reflect the brain activity of RP related to MI. The recorded
+      data will be further analyzed offline with the analytic tools that are described in previous
+      section.
+    
+  

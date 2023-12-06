@@ -1,0 +1,49 @@
+
+    
+      Playworks is a school-based program that places full-time coaches in low-income schools to
+      organize games and activities during recess. The Robert Wood Johnson Foundation (RWJF)
+      contracted with Mathematica Policy Research and its subcontractor, the John W. Gardner Center
+      for Youth and Their Communities (JGC) at Stanford University, to conduct a rigorous
+      evaluation of Playworks. Twenty-nine schools interested in implementing Playworks, across six
+      cities in the United States, were randomly assigned to treatment and control groups during
+      the 2010-2011 (cohort 1) or 2011-2012 (cohort 2) school year. Random assignment was conducted
+      within matched groups of schools within each city. In total, there were 12 blocks of matched
+      schools. For each block, one school was randomly assigned to the control group and the rest
+      to the treatment group.
+
+      During the one-year study period for each cohort, treatment schools received Playworks and
+      control schools were not eligible to implement Playworks. Data from student surveys,
+      accelerometers, and teacher surveys were collected from 4th- and 5th-grade students,
+      teachers, and school staff roughly seven months after Playworks was first implemented in
+      treatment schools.
+
+      For the student survey, students were asked to complete a 30-minute student survey in the
+      spring of their study year about their experiences at school. A team of experienced survey
+      administration staff administered the survey in the students' classrooms. In addition to the
+      student survey, teachers were asked to complete a teacher survey that asked teachers about
+      their students' experiences at school.
+
+      A subsample of students that were asked to complete the student survey also wore
+      accelerometers during one or two school days. During the accelerometer data collection
+      period, the research team arrived at participating classrooms at the beginning of the school
+      day. Team members described the function of the accelerometer and then attached one to each
+      consented student's hip, using an elastic belt. The accelerometer data was then processed
+      with the ActiLife 5 software package.
+
+      The impact of Playworks on study outcomes was estimated by comparing the average outcomes in
+      treatment and control schools using regression models customized to the unit of analysis
+      (teacher or student). The regression models used for analysis included indicators for random
+      assignment blocks to account for the blocked design and school-specific random error terms to
+      account for school-specific effects not attributable to the treatment. Covariates were also
+      included in some models to account for significant differences between treatment and control
+      groups in demographic characteristics. Models for continuous and binary outcome variables
+      were fit using least-squares estimation and logistic regression estimation, respectively.
+      Standard errors for the estimated impacts on teacher- and student-level outcomes accounted
+      for clustering at the school level using generalized estimating equations. Model-based
+      p-values and effect sizes were calculated based on the estimated impacts and corresponding
+      standard errors and multiple comparison adjustments accounted for correlations among the
+      multiple tests. Sampling weights were used when estimating impacts. The weights were
+      constructed to account for both the selection probabilities of students and teachers into the
+      sample and nonresponse.
+    
+  

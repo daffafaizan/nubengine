@@ -1,0 +1,71 @@
+
+    
+      This project file refers to Aim 2 and Aim 3 of the National Heart, Lung, and Blood Institute
+      (NHLBI) grant. Aim 1 is registered in clinical trials.gov under a separate project file
+      number, NCT03225521.
+
+      Many of the risk factors for heart disease are behavioral, such as physical inactivity,
+      smoking, and diets high in saturated and trans-fats. Prevention programs are effective at
+      helping patients make the initial lifestyle changes needed to reduce their risks, but
+      patients often struggle to maintain those changes.
+
+      In this study the investigators propose to develop a novel mHealth application for supporting
+      maintenance of physical activity. Kaiser Permanente Washington Health Research Institute
+      (KPWHRI) will conduct a prospective study to test the application among Kaiser Permanente
+      Washington (KPW) men and women with blood pressure that falls in the stage 1 hypertension
+      range. By taking advantage of the frequent interactions that individuals have with their
+      mobile phones throughout the day, the investigators will design and evaluate an adaptive,
+      personalized application that (1) keeps patients reminded of their health goals and
+      motivations; (2) provides actionable ideas for how patients can be active right now, given
+      their current context; and (3) helps patients plan and reflect on their physical activity to
+      enable creation of robust and sustainable physical-activity habits. In addition, the
+      application will adapt its functioning for each patient over time in order to minimize user
+      burden while optimizing its ability to encourage physical activity and maintain engagement
+      with the intervention.
+
+      Through three Specific Aims-intervention development, intervention optimization, and pilot
+      evaluation-this project will contribute: (1) understanding of how burden and intervention
+      engagement change over time and how they are influenced by intervention delivery and
+      patients' behavior and context; (2) generalization of learning algorithms that are used to
+      personalize web content based on users' characteristics and past behavior for use in mHealth
+      interventions for behavioral maintenance; and (3) new insights about how reflective and
+      automated self-regulatory processes interact over time to support behavioral maintenance and
+      how to optimally recruit these processes through an mHealth intervention.
+
+      Aim 2: Optimize intervention and investigate influences on participant response.
+
+      The investigators will conduct a three-month micro-randomized pilot study within-subject
+      field study with 40-50 participants with blood pressure readings that fall in the stage 1
+      hypertension range. Goals for this aim include (1) perform in-situ usability and
+      user-experience testing of the intervention; (2) finalize and tune the intervention's
+      learning algorithms; (3) develop initial decision rules for when and for whom individual
+      intervention components will be provided; and (4) begin to investigate how participants'
+      physical activity, burden, and patterns of engagement with the intervention are affected by
+      different intervention features and the context of use.
+
+      Aim 3: Pilot the personalized just-in-time adaptive mHealth intervention over 9 months The
+      investigators will conduct a 9 month-long single-arm pilot study of adaptive mHealth
+      intervention for physical-activity maintenance with 50-60 participants with blood pressure
+      readings that falls in the stage 1 hypertension range. The investigators will (1) evaluate
+      the feasibility and acceptability of the intervention for use over the course of nine months;
+      (2) assess the ability of the learning algorithms to personalize intervention delivery over
+      time; and (3) investigate how cardiac patients' responses to the intervention-physical
+      activity, burden, and engagement-change over time as functions of time-varying application
+      use and time-varying contextual factors. The study will also enable the investigators to
+      gather empirical evidence to plan a follow-up RCT to test the efficacy of the intervention.
+      Development of effective mHealth interventions requires advancements in and collaboration
+      between computer science, human-computer interaction, and behavioral and health sciences.
+      This project makes contributions to all three disciplines and deepens understanding of how to
+      design personalized, adaptive interventions that help individuals not only to adopt but also
+      sustain health-promoting behavior changes over the long-term.
+
+      Aim 2 and Aim 3 activities will take place sequentially. The recruitment and participant
+      experience will be almost identical. Differences beyond scientific objectives between the Aim
+      2 and Aim 3 groups is the time each group is enrolled in the testing trial. Slight
+      modifications are made to materials due to the difference in enrollment time.
+
+      No hypotheses will be tested. The purpose of both studies is to develop and test for
+      usability and acceptability of an mHealth application that supports maintenance of physical
+      activity of patients with high blood pressure.
+    
+  

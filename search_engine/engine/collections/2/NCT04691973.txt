@@ -1,0 +1,96 @@
+
+    
+      Considerable evidence suggest that lifestyle changes can prevent or delay the onset of type 2
+      diabetes, and self-care behaviors largely determine HbA1c. Modifiable lifestyle factors have
+      been established as key drivers of disease onset, progression, and prognosis, motivating the
+      use of "lifestyle as medicine". Despite this, a substantial number of patients with type 2
+      diabetes (T2D) have difficulties attaining adequate glycemic control.
+
+      Digital health tools are increasingly incorporated into diabetes care, and have the potential
+      to improve both behavioral and clinical outcomes on a broad basis. However, low levels of
+      uptake, reduced user engagement over time, and low acceptance among patients, raise concerns
+      about their effectiveness. Knowledge on how to design interventions aimed at inducing change
+      by promoting motivation and personal engagement, as well as a better understanding of patient
+      interaction with digital health interventions, could help overcome these challenges and
+      inform the development of a novel and effective health support.
+
+      The objective or this study is to evaluate a new web-based tool, developed at the University
+      Gothenburg, Sweden, that aims to support patient autonomy and motivation to make sustainable
+      lifestyle changes.
+
+      The investigators will test the hypothesis that individuals with type 2 diabetes in routine
+      care who have access to the tool get improved HbA1c relative to baseline as compared with
+      individuals with type 2 diabetes on usual care not exposed to the tool.
+
+      The study is an investigator-initiated single-center study conducted at Scania University
+      Hospital, Sweden, and will follow participants over three years.
+
+      Participants with type 2 diabetes will be recruited by sending letters with study information
+      to patients with type 2 diabetes in the region. If HbA1c is 52 mmol/mol or above participants
+      are included and attend study visits at Scania University Hospital every three months during
+      the first year and every sixth month during the following two years for blood sampling and
+      physical examination.
+
+      During the first 3 months, only half of the participants get access to the tool immediately
+      and the other half remain on usual care (randomized who get access or not). After 3 months,
+      all participants get access to the tool and used it during an open-label observation period
+      of up to three years.
+
+      Study visits: Every physical study visit lasts appr. 20 minutes and includes measurements of
+      length and weight, blood pressure, and estimations of fat and muscle mass by bioimpedance.
+      Fasting blood samples are taken for analysis of HbA1c and other cardiometabolic proteins.
+      Participants will not receive any counselling or lifestyle advice at the study visits.
+      Technical problems are referred to the study coordinator, who may also respond to requests to
+      clarify content in a general manner without providing personal advice. Patients are followed
+      by their ordinary physician throughout the study, i.e. the tool is provided on top of
+      ordinary anti-diabetic treatment and healthcare contacts.
+
+      The tool: The tool is web-based and used via a computer or mobile phone. It is used at each
+      individual's preferred pace but participants are recommended to login at least every other
+      week. Every round the participants choose a themes (out of appr. 80 possible covering e.g.
+      food, exercise, stress, self-reflection aspects), which takes appr. 15-30 minutes to
+      complete. Participants then reflect on the content and how it could be implemented in daily
+      life. When returning for next round participants are asked to reflect on any changes done
+      since last time. There is no interaction between individual participants.
+
+      Statistics: The study has two primary endpoints. One primary endpoint is change of HbA1c
+      between participants with and without access to the tool during the first 3-month period.
+      Patients lost to follow-up will not be included in the analysis.
+
+      The standard deviation of change of HbA1c is 6 mmol/mol over 3 months. With 80% power at
+      alpha=0.05, 142 participants are needed to each randomization arm to detect a significant
+      difference between the groups, assuming that the true treatment effect of the intervention is
+      2 mmol/mol over 3 months.
+
+      Enrollment will continue until the required number of participants are reached, accounting
+      for those lost to follow-up during the randomization period. The participants use the tool at
+      their own pace but are within the tool recommended to complete a theme at least every other
+      week to enable implementation of changes and maintain an awareness of the tool and its
+      content.
+
+      As another primary endpoint, investigators will during the open-label observation period
+      compare change of HbA1c at one year relative to baseline between patients using the tool as
+      recommended (at least every other week) and matched controls on usual care (1:2 ratio between
+      exposed and controls). The controls are matched on gender, age, BMI and HbA1c from existing
+      clinical registries in the region.
+
+      The standard deviation of DeltaHbA1c is 7 mmol/mol over one year. With 80% power at
+      alpha=0.05, 24 participants using the tool as recommended and 48 matched controls are needed
+      to detect a significant difference between the groups, assuming that the true treatment
+      effect of the intervention is 5 mmol/mol.
+
+      Subanalysis of MOD patients A data-driven cluster analysis of 9,000 diabetes patients has
+      been performed in the ANDIS registry in Sweden based on six variables measured at diagnosis:
+      GAD antibodies, age, BMI, HbA1c (reflecting long-term blood glucose), HOMA2-B (reflecting
+      insulin secretion) and HOMA2-IR (reflecting insulin resistance). Four clusters of T2D
+      patients were highlighted, each with different characteristics and risk of complications. One
+      of these cluster, MOD (Mild Obesity-related Diabetes), is characterized by high BMI and
+      insulin resistance but relatively well-preserved insulin secretion. It has been suggested
+      that patients with MOD characteristics would benefit particularly from lifestyle changes. The
+      investigators therefore hypothesize that patients with MOD characteristics would benefit
+      particularly well from the intervention. As a subanalysis the investigators will analyse the
+      interaction between MOD/non-MOD subgroup and exposure to the intervention using a linear
+      model with a term for the cluster variable, a term for the exposure to the intervention and
+      an interaction term.
+    
+  

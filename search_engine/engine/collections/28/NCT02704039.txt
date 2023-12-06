@@ -1,0 +1,27 @@
+
+    
+      To develop a biophysical model the investigators will recruit patients based on their known
+      histopathology diagnoses, from each of 6 skin-cancer categories: basal cell carcinoma,
+      squamous cell carcinoma, melanoma, atypical nevus, actinic keratosis, and benign skin.
+      Patients with non-cancer diagnosis such as psoriasis, eczema / dermatitis, lichen planus or
+      lupus will also be recruited. Recruitment will include 5 patients from each of these
+      categories, giving a total of 20 patients. Measurements for the biophysical models are
+      conducted on skin tissues that have been excised from the patients. Furthermore, these skin
+      tissues are excised tissues that under standard screening procedure will be biopsied by the
+      dermatologist. Therefore, patients are not undergoing extra & unnecessary biopsies, and will
+      not be exposed to any risk involved with the microspectroscopy measurements.
+
+      To determine the diagnostic accuracy of MMS, MMS data will be collected from six clinical
+      groups, each with a preoperative diagnosis: 1) malignant melanoma (MM), 2) basal cell
+      carcinoma (BCC), 3) squamous cell carcinoma (SCC), 4) pre-cancerous lesions (AK), 5) benign
+      or atypical nevi, or 6) other lesions or conditions (rare skin cancers such as merkel cell
+      carcinoma, and inflammatory conditions such as psoriasis). The aim is to collect MMS data
+      from a minimum of 240 patients (40 patients for each of the 6 groups), which will be split to
+      training and validation datasets. Since several biopsies are required to diagnose a single
+      skin cancer, it is anticipated that the actual number of pre-cancerous, benign and
+      inflammatory lesions sampled will be much higher than our target total of 240, to be around
+      300. We will also collect data from non-skin cancer skin conditions: 1) psoriasis, 2) eczema
+      / dermatitis, 3) lichen planus and 4) lupus. For the non-skin-cancer part of the study, we
+      will enroll 20 patients from each of the categories, with a total target of 80 patients.
+    
+  

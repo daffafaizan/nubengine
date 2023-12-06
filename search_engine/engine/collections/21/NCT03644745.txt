@@ -1,0 +1,76 @@
+
+    
+      The goal of the proposed project is to test the feasibility of deploying an economically
+      feasible, machine-assisted, home-based wellness coaching system for older adults. Our
+      approach consists of four sub-phases: (1) development, (2) usability, (3) preliminary
+      deployment, and (4) pilot evaluation and analysis. The investigators estimate that the
+      investigators will complete this project plan within 9 calendar months.
+
+      Sub-phase 1: Development [3 months and 3 weeks]. During sub-phase 1, the investigators will
+      focus on software development activities at both VM and NU. There are 2 deliverables
+      resulting from this sub-phase:
+
+      Build coaching interface. VM has an administrator interface that facilitates the design,
+      assignment to users and adherence monitoring of a cognitive exercise plan. Using NU's
+      experience and expertise, our developers will broaden the VM functionality to include a
+      physical exercise module that allows assignment of exercise plans to users, monitoring of
+      users' adherence and social interactions, as well as the delivery of tailored feedback and
+      encouragement. The reward system of VM which currently rewards engagement in a variety of
+      activities will be adapted to also reward physical activity. VM will create a new user type
+      for the coach that allows for data sharing and an ability to communicate with family and/or
+      caregivers in addition to the participant.
+
+      Integrate GymCentral into VM. Developed by researchers at the University of Trento in Italy
+      (an international member of the CTPC), the primary software developer is now a postdoctoral
+      fellow at NU and key personnel on this grant application. GymCentral is a virtual training
+      platform (virtual gym) specifically designed for older adults. The virtual gym delivers video
+      exercises in a "classroom" where trainees can see the presence of other trainees as avatars
+      and communicate with them. The virtual gym aims to boost older adults' social interaction and
+      motivate them to adhere to physical exercises. Our team of developers will integrate this
+      system with the VM platform so that GymCentral can be deployed and collect engagement data
+      within the VM system.
+
+      Sub phase 2: Usability [1 month]. In sub-phase 2, VM will connect with several of its
+      independent living community's clients that have agreed to help recruit 5 independently
+      living older adults who have and use computers for a pilot study (recruiting details
+      specified below). This group will serve as the early usability testers for the home version
+      of the VM system (VM@Home) and provide iterative feedback for our developers. Each of these 5
+      individuals will be given VM@Home to use on their home computers for one month. During this
+      month, each participant will be provided a wearable wrist accelerometer (e.g., Misfit), along
+      with training on the devices and on VM@Home, engage regularly with the platform, and be
+      contacted weekly by a health coach. The investigators plan to use an innovative remote
+      usability testing approach developed and tested by our collaborator Dr. Jimison. The
+      developer and tester team will periodically contact the participants, especially if any
+      anomalies are detected. During the remote sessions, participants will be asked to interact
+      with the VM modules (calendaring, messaging, brain games, and Web entertainment) and the new
+      physical exercise module. The iterative usability feedback will be used to adapt the design
+      of the system for deployment in Sub-phase 3.
+
+      Sub-phase 3: Pilot Test [3 months]. After usability testing has been completed and necessary
+      changes implemented, the investigators will ramp up recruitment activities through existing
+      VM clients who have agreed to participate in the study with the goal of deploying VM@Home in
+      an additional 15 homes of independently living older adults in independent-living
+      communities. The five individuals who were recruited for sub-phase 2 will be offered the
+      opportunity to continue in the study as champions of the technology, for which the
+      investigators will provide additional training and support. As champions, they will mentor
+      those of the other 15 users who will need assistance. During this sub-phase, the
+      investigators will measure system use (continuously), level of physical activity (daily from
+      wearable), level of socialization (daily from monitoring and by survey at baseline and each
+      month), and mood, self-efficacy, and user satisfaction all by self-report at baseline and
+      each month.
+
+      At the end of the three months, the investigators will also debrief with each participant
+      with a semi-structured interview to obtain overall feedback and suggestions. These debriefing
+      sessions will help investigators and developers to enhance design specifications for a
+      robust, reliable and effective integrated engagement and coaching system to provide guidance
+      for the further development and testing in a much larger population in Phase II. This will
+      include exploring best options for including reward systems for active participation.
+
+      Sub-phase 4: Analysis [1 month]. Although the investigators will be routinely analyzing the
+      monitoring data from system use and daily activity feedback from the wearable activity
+      tracker throughout the project for coaching purposes, the last month of the project will be
+      devoted to analyzing the full set of primary and secondary outcomes, as well as the
+      qualitative debriefing interviews. The results from this pilot will prepare us for a more
+      expanded and more powerful intervention in our follow-on Phase II proposal.
+    
+  

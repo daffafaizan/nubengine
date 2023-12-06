@@ -1,0 +1,19 @@
+
+    
+      This is a multi-center cluster cross-sectional study in CHINA. Heart sounds will be collected
+      by auscultation using an electronic stethoscope in children (0 ~ 18 years old) confirmed with
+      or without CHDs by echocardiography during outpatient or hospitalization in 10 pediatric
+      medical centers. Heart sounds will be visualized as phonocardiogram, and feature extraction
+      will be done after classification of normal and abnormal heart sounds and labeling the
+      characteristics of heart murmurs by pediatric cardiovascular specialists. Artificial
+      intelligence algorithm (machine learning, deep learning, etc.) will be trained to build a
+      heart sounds recognition system with the data mentioned above.We will use the receiver
+      operating characteristic (ROC) curve to compare the ability of recognition and classification
+      of abnormal heart sounds between different artificial intelligence algorithm. Taken the
+      results of echocardiography as the gold standard, we will use the evaluation indexes,such as
+      sensitivity, specificity, accuracy, positive predictive value, negative predictive value,
+      etc, to compare the diagnostic capacity of CHD screening between the AI recognition system
+      and human cardiovascular pediatricians. Our target is to use artificial intelligence
+      technology to assist heart auscultation for CHD screening.
+    
+  

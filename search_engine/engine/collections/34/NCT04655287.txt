@@ -1,0 +1,118 @@
+
+    
+      Involuntary mental health care is permitted because it is believed to make people with severe
+      mental disorders (SMD) better and prevent them from getting worse or even dying. This study
+      concerns whether low levels of coercion in an area is connected with poorer outcomes in
+      Norway. Too little involuntary care could be expected to lead to the opposite outcomes to
+      those intended by the Norwegian Mental Health Act.
+
+      The same law applies all over Norway, but the rate of involuntary care varies: there is an up
+      to five-fold difference between the catchment areas of the 69 Community Mental Health Centers
+      (CMHC).
+
+      This study will use national register data to test whether areas with low rates of
+      involuntary care shows signs of failing to achieve the patient benefits of involuntary care
+      as intended by the Norwegian Mental Health Act.
+
+      Data on involuntary care will be retieved from the Norwegian Patient Registry (NPR) and
+      combined with data on the general population and demographics from Statistics Norway, to
+      study the hypothesized negative consequences of low rates of involuntary care. All of
+      Norway's 21 Health Trusts and their 69 Community Mental Health Centers that provide
+      specialist services are required to submit to NPR on an annual basis complete data of all
+      service use from their hospitals' electronic patient administrative and clinical systems. The
+      NPR conducts extensive data-quality checks, and publishes completeness data for all
+      variables. The registry implemented a unique patient identifier in 2008, so that a patient's
+      care can be followed across time. From the NPR database, information on all specialist mental
+      health treatment activity for patients with set criteria (in our case diagnosis F20-31 and
+      legal status) during a given time period (here 2015-18) can be extracted.
+
+      Both involuntary admissions and outpatient compulsion in the form of community treatment
+      orders (CTO) are envisaged to contribute to the aims of the Mental Health Act, such as
+      protection against harm, improvement, restoration of health, and recovery or cure for the
+      patient. The variable of interest is low use of the combination of these two forms of
+      involuntary care. To our knowledge, there is no established way to calculate a combined
+      measure of inpatient and outpatient involuntary care, and it is not generally established how
+      one form of involuntary care is associated with the other. In Norway, 31% of involuntary
+      admissions continued as a CTO in 2018, and although permitted, CTOs are almost never
+      initiated when the patient lives at home. When a patient is under involuntary admissions or a
+      CTO, the care system has substantial influence and control over their treatment, and
+      medication is a particular focus. Regardless of the form of involuntary care, control over
+      treatment can be continued according to necessity criteria in the law in order to prevent
+      deterioration. For these reasons, the rate of persons affected by involuntary admission
+      and/or CTO per 100 000 capita will be used as an indicator of use of involuntary care in the
+      catchment area and hence, the main covariate.
+
+      The age span will be patients from 18 to 65, so that the increasing frequency of involuntary
+      care due to lack of capacity due to dementia towards the end of life will not impact the
+      results. The investigators will control for age and sex by indirect standardization, based on
+      Statistics Norway's tables for population in municipalities and city districts.
+
+      The investigators will test whether the living condition index and/or urbanity of the
+      municipality (perhaps merged to fewer categories than five) predict rates of involuntary
+      care. A classification of all municipalities into five degrees of urbanity from a previous
+      study will be used. Statistics Norway published an index of living conditions in Norwegian
+      municipalities and City districts in 2000 and 2008, which has not been continued after 2008.
+      This index combines the level or frequency of a variety of social benefit payments,
+      unemployment, education level and lethality, and should be sufficiently up to date. If
+      urbanity or living condition predicts rates of involuntary care, it will be controlled for by
+      estimating a suitable linear regression model. A hierarchical model adjusting for nesting of
+      municipalities within CMHCs and CMHCs within health trusts will be considered, but this
+      adjustment may be reduced based on intraclass correlations. Then the ratio between expected
+      and observed use of involuntary care will be the main covariate, and will reflect the rate of
+      involuntary care per capita, controlled for age, sex and urbanity and deprivation in each
+      catchment area. Each patient in the dataset will be assigned the value of this covariate
+      corresponding to their area of residence in 2015.
+
+      The first group of models is assess associations between the main covariate measured in the
+      index year and survival or change in outcome variables in the following 2 years for the
+      patients included.
+
+      Model 1. Are there more deaths among SMD patients from areas with low levels of involuntary
+      care?
+
+      The main covariate is rate of involuntary care in 69 areas in 2015, controlled for age, sex,
+      urbanity and deprivation. The unit of analysis is the individual patient with a care episode
+      and a registered SMD diagnosis in 2015. Outcome variable is time to death from the quarter in
+      2015 with a registered event with a SMD-diagnosis, observed through 2018. The unit of
+      analysis is the individual SMD patient. The statistical method is survival analysis with
+      adjustment for age and sex and adjustment for random effects.
+
+      Model 2. Is there increased use of inpatient care for voluntary SMD-patients from areas with
+      low levels of involuntary care?
+
+      The main covariate is rate of involuntary mental health care in 69 areas in 2015, controlled
+      for age, sex, urbanity and deprivation. The unit of analyses is the individual SMD-patient
+      with 'voluntary care only' in 2015. The outcome variable is change in mental health inpatient
+      days in the next two years for the included patients. The statistical method is a linear
+      mixed model with random effects for CMHC.
+
+      Model 3. Is there decreased time to next episode of involuntary care for voluntary
+      SMD-patients from in areas with low levels of involuntary care? The main covariate is rate of
+      involuntary mental health care in the 69 areas in 2015, controlled for age, sex, urbanity and
+      deprivation. The unit of analyses is the individual SMD-patient with 'voluntary care only' in
+      2015. Outcome variable are time to a treatment episode with involuntary care observed through
+      2016 and 2017. The statistical method is survival analysis with death as competing risk with
+      random effects for catchment area.
+
+      Model 4 and 5 are ecological models of the catchment areas.
+
+      Model 4. Are low levels of involuntary care in a catchment area followed by more SMD patients
+      in the area? The main covariate is rate of involuntary mental health care in the 69 areas in
+      2015, controlled for age, sex, urbanity and deprivation. The outcome variable is the annual
+      number of patients with SMD in 2016 and 2017. The unit of analysis is the catchment area
+      (N=69). The statistical method is linear regression model with time, main covariate and
+      interaction between the two as independent variables.
+
+      Model 5. Is low level of involuntary care in an area related to more suicides?
+
+      The main covariate is rate of involuntary care in 2015-2018 in the 69 areas, controlled for
+      age, sex, urbanity and deprivation. The outcome variable is the standardized rate of suicides
+      in the area's population regardless of patient status, from 2015 through 2019. The unit of
+      analysis is the 69 catchment areas. Due to low incidence of the outcome, merging of some
+      areas will be considered. The statistical method is correlation analysis.
+
+      Dissemination: Study results will be published study international peer-reviewed scientific
+      journals. The number of papers necessary to disseminate results depends of the complexity of
+      results and their interpretation.
+    
+  

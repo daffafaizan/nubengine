@@ -1,0 +1,136 @@
+
+    
+      Aim:
+
+        1. Study the 3-dimensional anatomy of the nasal buttresses.
+
+        2. Diagnose fracture patterns in the nasal buttresses.
+
+        3. Identify the buttress fractures associated with deviation of the external nasal
+           morphology.
+
+        4. Identify the buttress fractures associated with septal deviation.
+
+        5. Assess the airflow patterns and its associated distribution of flow velocity, pressure,
+           and wall shear stress in the nasal cavity for patient specific models with nose
+           fracture.
+
+        6. Assess the stress distribution in the nasal bone structures subject to various scenarios
+           of loading conditions.
+
+      Methodology:
+
+      67 consecutive patients admitted for facial fractures and who undergo routine CT scans of the
+      face with our protocol of axial and coronal sections taken at 0.6mm and gantry 0 are to be
+      studied. The CT scans are evaluated to assess the position, comminution and displacement of
+      the 5 said buttresses.
+
+      The buttresses are graded Grade 1 Simple fracture without displacement Grade 2 Simple
+      fracture with displacement Grade 3 Comminuted fracture without displacement Grade 4
+      Comminuted fracture with minimal displacement Grade 5 Comminuted fractured with displacement
+
+      The septum is graded from Grade 0 Septum is straight Grade 1 Septum is deviated by less than
+      1 half the distance from the midline to the nasal turbinate Grade 2 Septum is deviated by
+      more than 1 half the distance from the midline to the nasal turbinate Grade 3 Septum is
+      almost touching the nasal turbinate
+
+      Variables to be assessed included
+
+        1. Grade of Severity of Nasal and Septal fracture
+
+             1. Which is the weakest buttress that is most commonly broken?
+
+             2. Which is the least often fractured and strongest buttress?
+
+             3. Which buttress or buttresses are involved in a undisplaced septal fracture?
+
+             4. Which buttress or buttresses are involved in a displaced septal fracture?
+
+             5. Which buttresses or buttresses are involved in a undisplaced nasal fracture?
+
+             6. Which buttress or buttresses are involved in a displaced nasal fracture?
+
+             7. For a buttress to be displaced, the number of fractures in a single buttress?
+
+        2. Assessment of biomechanical stability
+
+             1. Assessment of stress distribution in the nasal buttresses for various scenarios of
+                external loadings
+
+             2. Assessment of nasal fracture patterns in different traumatic forces
+
+             3. Assessment of stress wave propagation in the nasal bones during impact.
+
+        3. Assessment of nasal air-flow via the nasal airways
+
+      Methods for data management and analysis (incl. Biostatistical check)
+
+        1. Segmentation and Reconstruction of 3D Nasal Model
+
+           Given the CT images of a patient, the nasal bones and surrounding facial bones are
+           segmented and a 3D model of the bones is reconstructed. This can be accomplished using a
+           segmentation and 3D reconstruction software. We have developed a preliminary version of
+           the software for segmenting and reconstructing 3D model of craniofacial bones based on
+           fast marching method. The software can be adapted to focus on reconstructing 3D model of
+           the nasal buttresses.
+
+        2. Nonlinear Registration with Reference Model
+
+           The 3D fractured model is registered with a normal reference model for fracture
+           analysis. A novel nonlinear registration technique is required to decouple normal
+           variations among normal people and variations due to fractures. In this way, the normal
+           reference model can be deformed in a manner consistent with normal variations to
+           register to the fractured model. After registration, the registered reference could
+           serve as a model of the patient prior to the injury. Moreover, differences between the
+           fractured model and the registered reference would indicate variations due to fractures.
+           The extent of the fractures and displacements of bones can also be measured.
+
+           To accomplish the novel nonlinear registration, a generalized form of source separation
+           method is needed. In particular, the idea of discriminates subspace analysis (Zhang and
+           Sim) developed by our colleagues for analyzing variations of facial images for face
+           recognition may be applicable. The method can decouple variations due to different
+           people and variations due to illumination and view point.
+
+           To enhance the accuracy of analysis, multiple normal reference models may be required
+           for the patients in different ethnic groups.
+
+        3. Visualization of 3D Models
+
+           Generic visualization tools do not discriminate between the nasal bones and other
+           craniofacial bones. It is difficult and inconvenient to use them to visualize only the
+           nasal structure. So, a software tool will be developed to visualize the nasal structure
+           of the fractured models. It can also be used to visualize the registration of the
+           fractured models with the normal reference and other fracture analysis results.
+
+        4. Classification of Fracture Patterns
+
+      After detecting and measuring the fractured bones, the fractured models can be classified
+      according to their fracture patterns. This can be accomplished manually with the assistance
+      of classification software.
+
+      Subsequently,
+
+        1. Refinement of Nonlinear Registration Method
+
+           Refinement of the nonlinear registration method will be performed to improve its
+           accuracy.
+
+        2. Biomechanical studies
+
+      Three dimensional finite element models of the nose, in particular the septum will be
+      constructed from the CT scans. Finite element analysis will be carried out to assess the
+      deformation, stress wave propagation and stress distribution in the nasal structures. Flow
+      simulation using computational fluid dynamics will also be carried out to assess the flow
+      pattern in the nasal cavity due to the nasal fracture.
+
+      Finally,
+
+      1. Biomechanical studies
+
+      Three dimensional finite element models of the nose with various proposed techniques for the
+      correction of nasal fracture will be carried out to assess the strength and weakness of the
+      resulting nasal structures due to the corrective surgical procedure. Computation fluid
+      dynamics will also be carried out to assess the flow pattern or nasal patency of the airway
+      after the proposed surgical corrections.
+    
+  

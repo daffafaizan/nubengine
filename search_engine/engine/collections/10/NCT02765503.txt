@@ -1,0 +1,125 @@
+
+    
+      Worldwide, head and neck squamous cell carcinomas (HNSCC) constitute approximately 7% of all
+      incident cancers, and 75% of these are seen in low- and middle-income countries. Life-style
+      factors, in particular tobacco and alcohol consumption, are major etiological factors
+      although an increasing number of HNSCC cases are associated with viral infections (Epstein
+      Barr Virus and Human Papilloma Virus). Radiation therapy (RT) alone or combined with
+      cytotoxic or molecular targeted agents is a mainstay as definitive treatment for previously
+      untreated locally advanced disease. This therapy offers organ and functional preservation in
+      many cases with an approximate 30 to 50% of cases obtaining longterm loco-regional tumor
+      control. Accelerated RT, that is increasing the weekly delivered radiation dose above the
+      conventional 10 Gy per week, has been shown in a large number of randomized controlled trials
+      to be associated with an improved efficacy to toxicity ratio relative to standard
+      fractionation provided a careful balance between total dose, dose per fraction and overall
+      treatment time is chosen. The Danish Head and Neck Cancer Group trial DAHANCA 6/7 tested a
+      schedule of accelerated normofractionated radiation therapy for HNSCC delivering 6 fractions
+      of 2.0 Gy per week to a total dose of 66-68 Gy. This schedule gave a 10% improvement in
+      loco-regional tumor control compared with the same dose delivered with 5 fractions per week.
+      The DAHANCA 6/7 schedule was tested in the IAEA ACC trial, comparing again 6 vs. 5 fractions
+      per week but allowing the total dose to range from 66 Gy to 70 Gy. The outcome of the IAEA
+      ACC trial also showed a significant 13% improvement in loco-regional control in the
+      accelerated arm. Thus, accelerating RT by delivering 6 fractions per week may reasonably be
+      considered a standard of care for definitive RT alone. Clinical evidence points in the
+      direction of a 4 week accelerated, hypofractionated schedule as being a radiobiologically
+      interesting alternative to accelerated schedules using more fractions for treatment of HNSCC.
+      A series of exploratory calculations suggested that an attractive schedule could be 55 Gy in
+      20 fractions (2.75 Gy per fraction) delivered over 4 weeks and this schedule was chosen for
+      the test arm of HYPNO. There is historical experience with this schedule in the North of UK
+      and in many countries in the British Commonwealth. The aim of this study is to test whether
+      this resource-sparing 4-week course of accelerated hypofractionated radiotherapy is
+      non-inferior to radiotherapy delivering 33 fractions over 5.5 weeks.
+
+      The study design is a stratified, balanced, and randomized study (phase III) recruiting
+      patients with Stage I to IV squamous cell carcinoma of the pharynx, larynx and oral cavity
+      with the exception of paranasal sinus, nasopharyngeal and stage I to II glottic carcinomas.
+      Patients will be assigned to the test arm or the control arm by central, randomization,
+      stratified according to the following characteristics:
+
+        -  Institution
+
+        -  Performance status, WHO 0-1 vs. 2
+
+        -  Tumor sub-site within the head and neck: pharynx, larynx, oral cavity
+
+        -  Chemotherapy (yes/no) Other important prognostic parameters are: 2D vs. 3DCRT vs. IMRT;
+           Tumor stage: T1-2 vs. T3-4; Nodal stage: N0-1 vs. N2-3. These will be randomly
+           distributed among the treatment arms as a result of the randomization.
+
+      Patients are reviewed at least once a week during treatment. Time and severity of early
+      radiation reactions in mucosa and skin are noted. These data are registered on the Treatment
+      Response Form. Patients are seen about 2 months after the end of treatment to record
+      persistent early toxicities and early tumor response, both at the primary and nodal site.
+      Afterwards, the patients are seen every 3 months for 2 years and 6 monthly for 3 years
+      bringing the total trial follow-up to just over 5 years. CRFs are designed to record all the
+      information for an individual study subject required by the study protocol. The purpose of
+      the CRF is threefold: i) to ensure data collection in accordance with the study protocol; ii)
+      to fulfill the regulatory requirements for data collection; iii) to facilitate the effective,
+      comprehensive data processing and analysis, results reporting, and to promote structured
+      collection of safety and efficacy data. The completed CRF's are submitted by email to the
+      Data Center: hypno@humonc.wisc.edu where the data will be electronically transferred to the
+      central trial database. HYPNO uses a rather novel design as a non-inferiority trial with dual
+      primary endpoints. The primary efficacy endpoint is 3 year loco-regional control (LRC) - even
+      though 5 year disease status will also be collected - and the primary toxicity endpoint is 3
+      year grade 2 or higher (moderate or severe) side effects (TOX). All times to events will be
+      measured from the date of randomization. The test arm (HYPNO -T) will be declared
+      non-inferior to the control arm if both i) LRC in the test arm is non-inferior to that of the
+      control arm AND ii) Late toxicity in the test arm is non-inferior (i.e. not worse) than in
+      the control arm. This design has been developed in collaboration with the HYPNO trial
+      statistician, Prof. Richard Chappell, Department of Biostatistics and Medical Informatics,
+      University of Wisconsin - Madison.
+
+      Statistical formulation of the non-inferiority hypotheses with dual primary endpoints:
+
+      HYPOTHESIS I:
+
+      H0: LRC in the TEST arm less than LRC in the CONTROL arm (Test arm inferior to control arm
+      with respect to LRC). HA: LRC in the TEST arm greater than or equal to LRC in the CONTROL arm
+      (Test arm non-inferior to control arm with respect to LRC).
+
+      HYPOTHESIS II:
+
+      H0: TOX in the TEST arm greater than TOX in the CONTROL arm (Experimental treatment inferior
+      to control treatment with respect to late toxicity).
+
+      HA: TOX in the TEST arm less than or equal to TOX in the CONTROL arm (Experimental treatment
+      non-inferior to control treatment with respect to late toxicity).
+
+      The required sample size in this kind of design depends heavily on the choice of the
+      inferiority margin, with decreasing values leading to a steep increase in the sample size. It
+      also depends to some extend on the baseline 3 year LRC and TOX rates. These were selected
+      based on the published results from the IAEA-ACC trial. Thus, the target sample size is 836
+      patients. The primary analysis will be performed for all randomized patients using the
+      intention-to-treat principle.
+
+      A QA committee will be formed and they will be charged with all aspects of quality assurance
+      and credentialing of centers for participation in HYPNO. Each participating center should
+      appoint a contact person for QA issues (physician or physicist).
+
+      Data exchange dummy run Before the first patient can be randomized in a center, a 'dry run'
+      of the data exchange is conducted. To this end, a HNSCC patient from the center will be
+      arbitrarily chosen by the local investigator and a set of CRFs filled in for this case and
+      submitted electronically to the Data Center.
+
+      Machine level QA An associated GCP and QA program securing compliance with the protocol will
+      be established between the IAEA, the Data Center and involved departments. Participation in
+      the IAEA TLD audit is mandatory for centers participating in the HYPNO trial. A credentialing
+      QA program will be developed for departments using IMRT.
+
+      Patient level QA Radiotherapy plans and dose-volume histogram (DVH) data for the first two
+      patients on trial from a center will be submitted for central review, if possible in
+      electronic form. During the period when a center is accruing patients for the trial, the Data
+      Center will randomly select a subset of patients (5-10%, a smaller proportion reviewed for
+      highly accruing centers) for a 'crossed' review where 3-4 centers will review cases. It is
+      expected that the total number of cases reviewed for HYPNO will not exceed 50.
+
+      An Independent Data Monitoring Committee (IDMC) will be appointed. Recommendations to stop
+      patient accrual early for safety or efficacy reasons can only be made by the IDMC.
+      Participating centers will not be informed about comparative effectiveness or toxicity in the
+      trial arms as long as the trial is open for accrual.
+
+      An associated translational research program is planned. Formally these studies will run as
+      separate research protocol and separate informed consent from patients will have to be
+      obtained according to the relevant national regulations.
+    
+  

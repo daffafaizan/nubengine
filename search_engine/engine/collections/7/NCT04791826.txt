@@ -1,0 +1,62 @@
+
+    
+      Type 2 diabetes mellitus (T2DM) is an independent risk factor for heart failure (HF) and is
+      associated with significant morbidity and mortality. Even despite adequate glycemic control,
+      individuals with T2DM face considerable risk of HF even in individuals without other
+      significant risk factors. Moreover, individuals with both atherosclerotic cardiovascular
+      disease and T2DM face up to a five-fold increased risk of HF and experience higher rates of
+      mortality compared to age-matched controls. Thankfully, recent therapeutic advances in
+      pharmacotherapies, such as sodium-glucose cotransporter-2 inhibitors (SGLT2i), have shown to
+      be beneficial in preventing HF among patients with T2DM. Current guidelines by the American
+      Diabetes Association and the joint American College of Cardiology/American Heart Association
+      (ACC/AHA) both provide class I/A recommendations in initiating SGLT2i medication in
+      individuals with T2DM and cardiovascular comorbidities for prevention of HF. Similarly, the
+      Food and Drug Administration now indicates SGLT2i as a method to reduce the risk of HF
+      hospitalization in adults with T2DM and established CV risk factors.
+
+      Unfortunately, SGLT2i are underused in patients with T2DM at risk for HF with ~5% of eligible
+      patients treated with the medication. Risk-based approaches to identify patients who are at
+      increased risk of developing adverse events is key to improve the use of evidence-based
+      therapies and for efficient and cost-effective allocation of preventive strategies. Previous
+      methods, such as the Pooled Cohort Equation, have been effective in guiding prescription of
+      statin medications to at-risk patients. Similarly, alert-based clinical decision support
+      tools have been used to help guide anticoagulation strategies in patients with atrial
+      fibrillation. However, no such risk-based approach exists for implementation of goal-directed
+      medical therapy for HF prevention in patients with T2DM.
+
+      The WATCH-DM risk score (Weight [body mass index], Age, hyperTension, Creatinine, HDL-C,
+      Diabetes control [fasting plasma glucose] and QRS Duration, MI and CABG) is one such machine
+      learning-based tool that was developed among participants of the Action to Control
+      Cardiovascular Risk in Diabetes (ACCORD) trial.
+
+      The investigators used machine-learning methods and readily available clinical
+      characteristics to derive the risk prediction model and has had excellent discrimination and
+      calibration for estimating HF risk. For each risk factor level, patients are given a specific
+      number of points. The sum of the points accounting for all risk factors included in the model
+      is associated with 5-year risk of HF. There is a graded, dose-response relationship between
+      the WATCH-DM risk score and risk of HF. For example, patients who had a WATCH-DM risk score
+      of at least 11 had a 5-year risk of incident HF ≥9.2%.
+
+      This proposed trial will test the efficacy of a computer-based electronic alert (clinical
+      decision support) notifying the provider that the patient is at an increased risk of
+      developing heart failure. There currently are no developed or implemented alert systems
+      notifying the provider that the patient is at an increased risk of heart failure. Similarly,
+      there is no risk-based approach to implementation evidence-based T2DM therapies in patients
+      at risk for HF. Currently, SGLT2i use is underutilized with ~5% of eligible patients current
+      prescribed the medication. Clinical decision support tools may inform providers about a
+      patient's risk of HF and may be useful to improve the use of SGLT2i therapies. Previous
+      implementation strategies have been useful to guide statin medications in patients at risk
+      for atherosclerotic cardiovascular events and anticoagulation strategies in patients with
+      atrial fibrillation.
+
+      The current study will determine the impact of electronic alert-based CDS on prescription of
+      SGLT2i medications in high-risk HF patients in the outpatient setting who are not being
+      prescribed SGLT2i therapies. Investigators will not mandate a specific SGLT2i agent or
+      regimen. Study investigators will provide options for SGLT2i medications to prevent HF and
+      allow the provider to make the best choice based on their clinical judgement. If there is a
+      contraindication to SGLT2i therapy, the provider can elect to omit the suggested therapy and
+      provide an explanation for doing so. Data acquired throughout the study duration will also
+      determine the impact of electronic alert-based CDS on the frequency of SGLT2i prescription
+      patterns and incident HF events.
+    
+  

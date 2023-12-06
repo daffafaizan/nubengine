@@ -1,0 +1,35 @@
+
+    
+      General objective
+
+      The long-term research objective is to be able to select rectum cancer patients who could
+      receive a less invasive treatment. If prediction of response is possible, surgery may be
+      avoided when complete response after chemoradiotherapy is expected or performed with smaller
+      incisions if stage reduction is significant. This support decision system helps to
+      individualize patient treatment and can improve the quality of life for the patient.
+
+      Aim of the study
+
+      The main aim is to validate a predictive model for pathologic complete response (ypT0N0) in
+      rectal cancer patients treated with chemoradiotherapy by multi-centric prospective data
+      collection. The second aim is to collect extra data for improvement of the accuracy of the
+      prediction models with new variables. This new model will be validated later in the model
+      development process.
+
+      Hypothesis
+
+      General hypothesis:
+
+      The validated accuracy of predictive models for pathologic complete response after
+      chemoradiotherapy in rectal cancer patients is high enough to tailor treatment
+      (surgery/non-surgery and/or administer extra radiation boosts) in clinical practice.
+
+      Specific hypotheses:
+
+        1. The performance of the developed models on the validation data is at least equal to the
+           performance achieved during the model development process.
+
+        2. The performance of a new model based on the addition of variables performs better than
+           the previous model
+    
+  

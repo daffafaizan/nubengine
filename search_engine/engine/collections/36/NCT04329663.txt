@@ -1,0 +1,73 @@
+
+    
+      This study had two phases and was designed as a mix-method study. The first step was an
+      exploratory qualitative study, and the second was a quasi-experimental study without any
+      control.
+
+        1. First Phase On the first phase, study conducted by using qualitative explorative design
+           to develop and create computer-based game with Indonesian content in order to increase
+           working memory capacity. This phase was done by focus group discussion (FGD) approach
+           which involve participation from Indonesian Game Laboratorium from Faculty of Computer
+           Science of Binus University International; and child and adolescent psychiatrist from
+           Department of Psychiatry dr Cipto Mangunkusumo General Hospital - Faculty of Medicine
+           Universitas Indonesia, Jakarta. .
+
+        2. Second Phase:
+
+      On the second phase of the study, it used ' the one group pre- and post-test' without control
+      design which aims to prove that the predeveloped game has impact to executive function of the
+      child and impact to DLPFC region of the brain. The inclusion criteria was child with ADHD age
+      5 to 12 years old that never taken medication prior to the study and willing to undergo
+      training with computer based game which developed from phase one of the study for about 20
+      sessions with approximately 30 minutes per each session for 4 weeks consecutively. The
+      training was conducted at school where the sample attended school so it would not disturb the
+      learning and teaching process at school. The training would be guided and supervised directly
+      by the researcher team.
+
+      The diagnosis of ADHD was conducted by trained child and adolescent psychiatrist guided by
+      Mini-Kids which was structured interview guide built based on ICD-X. Children which included
+      on the study were child with ADHD without any other mental disorder comorbidity and does not
+      has chronic physical illness during the interview with the parents. Child which does not
+      complete 90% of the numbers of the training that planned will not included in data analysis.
+      Number of study's subject which needed on this research was obtained by using sample size
+      table formula for clinical studies', with α = 0,05, β=0,2, 2-sided and consider that Δ
+      (effect size) = 1 resulting that 10 subjects were needed. This formula was used because to
+      date, similar study has not found or conducted ( training with game and imaging with fMRI
+      BOLD)
+
+      Operational definition which used in this study are:
+
+        1. ADHD (Attetion Deficit Hyperactivity Disorder) defines as neurodevelopmental disorder
+           which marked by hyperactivity, impulsive behaviour and difficulty in concentrate which
+           happens more often and severe compares to peer group from same age group. This disorder
+           causes impairment and distress to the child and his/her family. Diagnosis of ADHD and
+           exclusion of other mental disorder was conducted by trained child and adolescent
+           psychiatrist which established by structured interview using MINI kids.
+
+        2. Working memory deficit defines as deficit in ability to store and manipulate information
+           for a short period of time and to be able to look upon, memorize, and take action on an
+           information simultaneously. Clinical measuring of working memory deficit is done by
+           BRIEF questionnaire which have been validated into Indonesion language 2011.
+
+        3. Imaging with fMRI was conducted by special stimuli to stimulate child's executive
+           function with go and no-go modification which were images that had to be memorized in
+           accordance to specific order and truth of the image. fMRI was conducted at Radiology
+           Unit, Abdi Waluyo Hospital, using MRI scanner from GE Health care, 3 Tesla,
+           8-channel-coil. Sequence which used was Echo Plannar Imaging (EPI), with some
+           modification; TR 3 seconds, TE 30, bandwidth 250kHZ, FOV 240 x 240, slice thickness 3
+           mm, space 1 mm, matrix 84 x 84 (frequency x phase), NEX 1, total slices 36, time 312
+           seconds. The measuring would be changes in activity by imaging result of fMRI BOLD (blod
+           Oxygen-Level Dependent Contrast), which the level will increase on the more active brain
+           part and decrease on the less active brain part.
+
+      Data Analysis Qualitative data was analysed by qualitative approach and described in a form
+      of text. Data analysis for quantitative study was conducted by 't' test analytic for variable
+      dependent by SPSS version 21 for Mac.
+
+      Data from MRI result would undergo pre-processing process which are realignment, writing and
+      smoothing with FHWM 8 mm, then processed with Statistical Parametric Mapping (SPM) software
+      version 12 and CONN Toolbox version 17. Analysis method which conducted was ROI-to ROI method
+      wth the chosen ROI for this studty were lef and right Dorsolateral Prefrontal Cortex and
+      Hippocampus fucntional connectivity.
+    
+  

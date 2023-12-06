@@ -1,0 +1,67 @@
+
+    
+      The proposed study is an online experiment. Students enrolled at National University of
+      Singapore are recruited to participate in the study.
+
+      Participants will first complete a pre-experiment survey, which contains basic demographic
+      questions. Then, participants will be randomly assigned to one of two conditions: "Survey"
+      and "Prediction Market".
+
+      "SURVEY" CONDITION:
+
+      Participants in the "Survey" condition are asked 16 prediction questions in a survey format.
+      The questions are of the following format:
+
+      "What do you think will be the total cumulative number of cases in Singapore on 8th of June,
+      at 12pm?"
+
+      Each question has 5 answer options. Each answer option is a range of outcomes, e.g. "<
+      28,900", "between 28,900 and 33,899", "between 33,900 and 38,899", "between 38,900 and
+      43,899", and "> 43,899". Participants are required to enter their perceived likelihood of
+      each answer option in %.
+
+      The 16 prediction questions come from the following variations: 4 countries (Mexico,
+      Singapore, Turkey, USA) x 2 outcome measures (cases, deaths) x 2 time periods (8th of June,
+      6th of July).
+
+      Participants have 24 hours to submit their predictions.
+
+      After the 24-hour period, participants are requested to fill out a post-experiment survey,
+      which includes questions about their subjective attitudes and fears towards COVID-19.
+
+      "PREDICTION MARKET" CONDITION:
+
+      For participants in the "Prediction Market" condition, the same 16 prediction questions are
+      presented in the form of prediction markets. The prediction market is a well-established
+      method of eliciting people's predictions. The method is briefly described below.
+
+      There are 16 prediction markets, one for each question. Participants are given 100 tokens per
+      market, which can be used to buy "stocks" on possible outcomes. There are 5 possible outcomes
+      per market (identical to the 5 answer options per question in the "Survey" condition).
+
+      Each stock (i.e., possible outcome) will have a price that is dynamically determined by the
+      central marketplace, which is a function of real-time demand and supply of the option. If the
+      option is popular, its price will become higher, and vice versa.
+
+      Participants can trade at any time, and as many times as they want, during a 24-hour period.
+      Upon closure of the prediction market, participants will be rewarded proportional to the
+      number of shares that they hold on options that later turn out to be true.
+
+      The final prices of stocks correspond to the group's predictions of COVID-19.
+
+      After the 24-hour period, participants are requested to fill out a post-experiment survey,
+      which includes questions about their subjective attitudes and fears towards COVID-19.
+
+      =====
+
+      HYPOTHESES
+
+      The prediction market leads to better predictions about COVID-19. The investigators will
+      compare the survey predictions and the prediction-market predictions with the actual realized
+      outcome. The investigators hypothesize that the prediction-market predictions are more
+      accurate than the survey predictions through information aggregation.
+
+      The prediction market reduces fear. Fear is measured by participants' responses to subjective
+      attitude questions in the post-experiment survey.
+    
+  

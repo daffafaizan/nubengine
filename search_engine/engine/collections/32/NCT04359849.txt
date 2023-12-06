@@ -1,0 +1,39 @@
+
+    
+      The current Covid-19 pandemic has caused significant strain on the health care system, and an
+      unprecedented Governmental response to stem the spread of the disease through social
+      distancing and self-isolation. Covid-19 is a pneumonia-like severe acute respiratory syndrome
+      (SARS) caused by a virus, SARS-CoV-2, with similarity to the SARS virus responsible for a
+      worldwide outbreak in 2002. Due to the original SARS outbreak, a large body of genomic data
+      exists for SARS coronaviruses, allowing researchers to understand how the new virus
+      SARS-CoV-2 has evolved to be so virulent in humans.
+
+      Whilst testing kits have been designed to target specific genes in the viral RNA, whole
+      genome sequencing of the virus offers increased scope to track the epidemiology of the virus.
+      In addition, through the use of current sequencing technology available from Oxford Nanopore
+      Technologies (ONT), genome scanning can be performed in real time and allow for
+      identification of specific viral variants within patient samples. As the pandemic continues
+      to spread, understanding the evolution of the virus and its spread across the globe will help
+      researchers to begin to predict the future spread of the virus, estimate the number of
+      worldwide cases, and aid in the development of epidemiological models for estimating a
+      potential end point to the pandemic crisis. In addition, the ability to track mutations in
+      real time allows researchers access to a large body of data to explore in order to identify
+      potential targets for cures and vaccines. These data will also feed into the design of
+      RNA-based therapeutic targets and diagnostics using patented array technology.
+
+      In this project, we aim to use Nanopore-based sequencing technology to assemble viral genomes
+      from patients who have presented to Portsmouth Hospital NHS Trust (PHT) in the Wessex region
+      with symptoms of Covid-19. PHT, has containment level 3 (CL3) facilities within their
+      Microbiology Department required for inactivation of the virus and extraction of viral RNA,
+      and has recently begun testing of potential Covid-19 patients. Viral RNA samples from
+      patients who show positive results will be selected for sequencing using Nanopore sequencing
+      technology. Whole genome sequences will be compared using phylogenetic analysis to identify
+      the spread of the virus within the local area, will be analysed in the context of anonymised
+      patient level data to look for trends in the adaptation of the virus, and will be compared
+      with a global database of such sequences to help develop global maps of transmission.
+
+      As part of the COVID-19 Genomics UK Consortium (COG-UK), we will contribute sequencing data
+      to the consortium which will monitor changes in the virus on a national scale to understand
+      how the virus is mutating and spreading and whether different strains are emerging
+    
+  

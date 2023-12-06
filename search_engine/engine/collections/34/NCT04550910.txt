@@ -1,0 +1,49 @@
+
+    
+      166 patients of breast cancer patients after mastectomy ( 83 patients in each arm ) will be
+      randomize into 2 hypofractionation arms : Arm A: 40 Gy /15 fx / 3 weeks, 5 days per week .
+      Arm B: 28.5 Gy delivered in 5 once-weekly fractions of 5.7 Gy each week.
+
+      Simulation:
+
+      Patient will be simulated on CT simulator using breast wedge with angle. Serials will be
+      taken every 2 mm from upper neck down to mid abdomen.
+
+      Contouring:
+
+      CTVcw, CTVRNI will be contoured through RTOG guidelines . PTV is added as 0.5 cm all around
+      CTV. Lungs, Heart, brachial plexus, spinal cord, esophageus and thyroid will be contoured as
+      OAR. (www.rtog.org/CoreLab/ContouringAtlases/BreastCancerAtlas.aspx).
+
+      D)Dose Constraints:
+
+      Arm A:
+
+      PTV EVAL ( CW) : V90 % ≥ 90 %. - V105 % ≤ 5% - V107%≤ 3 %. Ipsilateral lung: V20 less than
+      20-25% - V 8 less than 35%- Contra lateral lung: V4 less 10 %. Heart: V16 less than 5% (Lt
+      sided). V20 less than 5% (Lt sided). V16 is 0%.(Rt sided) V20 is 0% (Rt sided). Mean heart
+      dose ≤ 320-400 cGy. Contra lateral breast : D max≤ 240 cGy. V 144 cGy less than 5 %. SCV :
+      V90 % ≥ 90 %. Thyroid : Mean dose less than 35 Gy - V30 less than 50 %.
+
+      Arm B:
+
+      PTV EVAL ( CW) : V90 %≥ 90 %. - V105 %≤ 5% - V107%≤ 2 %.
+
+      Ipsilateral lung: V30%less than 15 -20% - V15% less than 30-35% - V5 % less than 50-55%.
+
+      Contra lateral lung : V5 % less than 5%. Heart :V25 % less than 5 % - V5 % less than 30 - 35
+      %. Contra lateral breast: V3 % less than 5 %. SCV : V90 % ≥ 90 %.
+
+      Follow up:
+
+      A)Weekly follow up will be done during sessions then regular clinical exam every 3 months to
+      assess :
+
+        1. Acute and late toxicity regarding pain, pulmonary toxicity, dysphagia, skin toxicity and
+           lymphedema.Assessment will be done according to RTOG and CTCv.5.
+
+        2. Any local (chest wall) recurrence, regional (nodal) recurrence.
+
+      B)Annual Mammogram. C)Any another investigation (once indicated)
+    
+  

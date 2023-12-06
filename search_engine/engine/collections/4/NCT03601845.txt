@@ -1,0 +1,51 @@
+
+    
+      Unlike current MRE methods which require the application of cyclical mechanical excitations
+      with an external driver, MRE-IA is a recently developed MRE modality that uses the naturally
+      occurring cardiac pressure cycle to generate the displacements used for elastic property
+      reconstruction. With no external activation, MRE-IA provides a simple pathway towards in-vivo
+      elastography results that avoids the discomfort, poor coupling, and high attenuation often
+      observed in MRE extrinsic vibration drivers.
+
+      Goals: The principal goal of this project is to establish Magnetic Resonance Elastography by
+      Intrinsic Activation (MRE-IA) imaging methods at the imaging centers of the Centre de
+      recherche du centre hospitalier universitaire de Sherbrooke (CRCHUS) and the Centre de
+      recherche du centre hospitalier universitaire de Montréal (CRCHUM). Each imaging center will
+      then focus on separate sub-goals: improving liver disease assessment with MRE-IA (CRCHUM) and
+      evaluating the role of fluid conductivity and changes in elastic properties with mental tasks
+      (CRCHUS).
+
+      Hypothesis: There are two main hypotheses underlying this project: (1) that internal
+      activation provides an effective, robust displacement source for MRE image reconstruction
+      that eliminates the problems of discomfort, high attenuation, artefact sensitivity, and low
+      signal to noise associated with traditional extrinsic MRE methods; and (2) that the advanced
+      material property maps provided by MRE-IA, such as viscoelastic damping, poroelastic effects
+      and anisotropy, will lead to better classification and understanding of both diseased and
+      healthy tissue states.
+
+      Methods: The image acquisition methodology for this project will be identical at both imaging
+      centers. Intrinsic activation MRE displacement data will be obtained through the use the
+      Q-Flow angiographic sequence available on the Philips 3T systems at both the CRCHUS and
+      CRCHUM.
+
+      MRE-IA for diffuse and focal liver disease (CRCHUM): The objective of this study is to
+      demonstrate the feasibility of MRE-IA imaging in the assessment of liver disease. MRE-IA will
+      be performed in three populations (10 healthy volunteers, 25 patients with diffuse liver
+      disease and 10 patients with focal liver lesions)
+
+      Intrinsic MRE: MRE-IA images are reconstructed from phase-contrast sequences that are
+      currently available on MRI scanners at CHUM and CHUS. Post-processing of the images with
+      finite element analysis (FEA) mechanical simulations allows calculation of
+      poroviscoelasticity parameters (i.e. porosity, bulk modulus, storage modulus [G'], and loss
+      modulus [G'']). These poroviscoelasticity parameters will be correlated with
+      histopathological markers of disease severity (fibrosis, inflammation, fat) in patients with
+      chronic liver disease and with the final diagnosis (type of liver lesion).
+
+      Cerebral function imaging via MRE-IA (CRCHUS): The objective of this study is to investigate
+      the changes in mechanical properties during the performance of mental tasks and the role of
+      inherent fluid conductivity in the BOLD imaging used in fMRI methods. Multiple imaging
+      sessions will be performed to investigate changes to MRE-IA property maps to visual (V1)
+      stimulation. Imaging sessions will be include either V1 (n=6) or non-stimulus (n=3) cases.
+      Each case will include both MRE-IA and fMRI acquisitions.
+    
+  

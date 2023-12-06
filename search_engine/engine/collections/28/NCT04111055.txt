@@ -1,0 +1,27 @@
+
+    
+      Intraoperative hypotension is frequent in patients undergoing surgery and can negatively
+      impact organ perfusion.
+
+      The investigators have developed a closed-loop vasopressor (CLV) controller to more
+      efficiently correct hypotension.
+
+      The investigators tested it extensively in preclinical studies and recently demonstrated its
+      feasibility and excellent performance metrics in a short series of high-risk patients
+      undergoing major surgical procedures.
+
+      In these studies, the controller was linked to a minimally-invasive advanced hemodynamic
+      monitoring device utilizing an arterial line which then controlled a vasopressor infusion.
+      However, the vast majority of patients who undergo surgery do not require an arterial line
+      but should still benefit from rapid corrections of hypotensive episodes that are less rapidly
+      detected via an intermittent non-invasive blood pressure cuff. Fortunately, completely
+      noninvasive technology now allows us to continuously monitor blood pressure and therefore
+      extend the use of our closed-loop vasopressor system to patients in whom an arterial catheter
+      would not typically be placed. Patients undergoing renal transplant surgeries are the ideal
+      patient population.
+
+      The investigators aimed to test the feasibility of guiding our CLV controller with a
+      continuous noninvasive blood pressure monitoring device (ClearSight system, Edwards
+      Lifesciences, Irvine, CA, USA) in three patients (case series)
+    
+  

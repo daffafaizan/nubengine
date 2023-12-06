@@ -1,0 +1,36 @@
+
+    
+      Demographics, baseline and follow-up characteristics: descriptive statistics. Primary
+      analysis: Descriptive statistics for the rate of patients with high grade AEs (grade 2 and
+      more), related to the cell implantation will be computed in each arm, with its two-sided 95%
+      CIs.
+
+      Each dose arm will be compared to the control arm by computing the absolute difference and
+      the relative risk between the active dose arm and the control arm, together with their 95%
+      two-sided CIs.
+
+      The p-values for the comparisons of the difference between the observed absolute rate to 0
+      and of the relative risk to 1 will be computed, but it is not expected that the study will
+      have sufficient power to detect a significant difference on either of the two statistics
+      (absolute difference or relative risk).
+
+      Primary efficacy analysis: The primary efficacy criterion (TcPO2) will be compared between
+      each dose group versus the control group to test for a superiority of MSC over control.
+
+      The tested hypotheses are:
+
+        -  Null hypothesis: mean (MSC dose i) ≤ mean (Control)
+
+        -  Alternative hypothesis: mean (MSC dose i) > mean (Control) A mixed - model for repeated
+           measures will be used to model the evolution of TcPO2 over time. The significance of the
+           time by treatment interaction will be used to test the two hypotheses. Model adjusted
+           means (LS means) and their differences between treatment arms will be computed at each
+           timepoint.
+
+      The LS-Means for change from baseline to 180 days will be used as the primary efficacy
+      endpoint.
+
+      Other efficacy analyses: the same analysis model (mixed - model for repeated measures) will
+      be used for all the other continuous efficacy endpoints.
+    
+  

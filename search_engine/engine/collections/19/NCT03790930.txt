@@ -1,0 +1,12 @@
+
+    
+      Computer tomography (CT) is one of the most important imaging tool to assist the diagnostic
+      and treatment of spinal disease. Classification of specific targets (e.g. individuals,
+      lesions, etc.) is one of the most common mission of medical image analysis. However, it is
+      time-consuming for spine surgeons or radiologists to conduct manual classifications of spinal
+      CT, which may also be correlated with high inter-observer variance. With the development of
+      computer science, deep learning has emerged as a promising technique to classify images from
+      individual level to pixel level. The main of the study is to automatically identify and
+      classify the lesions, or segment targeted structures on spinal CT with deep learning.
+    
+  

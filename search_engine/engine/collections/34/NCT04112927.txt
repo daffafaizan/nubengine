@@ -1,0 +1,43 @@
+
+    
+      Sleep apnea, in particular obstructive sleep apnea (OSA), is one of the most common breathing
+      disorders and is associated with major comorbidities such as higher risk perioperative
+      complications. This is particularly concerning given that about 40-80% of people with
+      moderate-severe OSA remain undiagnosed. Due to the resource-intensive assessments required to
+      diagnose OSA and the significantly increased risk of car accidents and perioperative
+      complications associated with undiagnosed OSA, there is a critical need to develop a more
+      effective method to screen for OSA quickly and reliably.
+
+      The most widely used clinical OSA screening tool is the STOP-Bang questionnaire, which is a
+      quick and easy-to-implement inquiry form that has a high sensitivity to detect moderate and
+      severe OSA (>93%), but it has a very high rate of false positives (>63%). Thus, a significant
+      number of patients without OSA will continue to be referred for PSG, which contributes to a
+      strain on the healthcare system. Therefore, a quick and reliable screening tool for OSA and
+      its severity during wakefulness is very appealing but challenging, as people with OSA do not
+      show any apparent symptoms during wakefulness.
+
+      We have developed a novel screening algorithm for OSA based on the analysis of tracheal
+      breathing sounds recorded from an individual during wakefulness, called AWakeOSA. It can
+      predict OSA with a sensitivity (86%) similar to STOP-Bang, but with a much higher specificity
+      (84%) for detecting individuals without OSA. The AWakeOSA technology still needs significant
+      research and quality improvements to become a reliable home-care device for screening under
+      unsupervised conditions, which is the central purpose of this project. In addition, we are
+      interested to investigate the breathing sound changes from wakefulness to sleep in both
+      groups of healthy and apneic population. For that, we need to record PSG data and breathing
+      sounds during sleep in addition to recording breathing sounds during wakefulness.
+
+      We have also designed a specialized hardware device, called ASAD-3, capable of recording
+      breathing sounds with high quality during both wakefulness (short-period recording) and
+      during sleep (long hours recording) that uses two small microphones that are placed in
+      contact with the skin over the trachea and lung, respectively. The hardware device will be
+      utilized to optimize the AWakeOSA algorithm and work towards achieving a reliable home-care
+      device for screening under unsupervised conditions.
+
+      The proposed technology will enable a reliable and quick diagnosis of OSA that can be either
+      used in a clinician's office during wakefulness and/or used at home by people to monitor
+      their own OSA. The outcomes of this study will benefit the health care system and society
+      significantly as it will: 1) reduce the financial burden of OSA on the healthcare system by
+      reducing the need for PSG and unnecessary preoperative resources; and 2) provide a quick and
+      reliable personal OSA home-care monitoring system for better OSA treatment management.
+    
+  

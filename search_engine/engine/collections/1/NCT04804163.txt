@@ -1,0 +1,96 @@
+
+    
+      Objective： This clinical trial aims to evaluate the efficacy and safety of telesurgery for
+      patients with tumors of the urinary system using Chinese independently developed "MicroHand"
+      Surgical Robot System through 5G network.
+
+      Content： One-arm clinical trial was adopted in this study. The product was domestically
+      produced "MicroHand" surgical robot system (Shandong Weigao Co., Ltd). Before entering the
+      clinical study, the patients were fully informed and the written informed consent were
+      signed. According to the inclusion criteria and exclusion criteria, the researchers will
+      conduct a detailed screening to determine whether the patients are suitable for the clinical
+      study. Telesurgery would be conducted for patients who met the inclusion criteria using
+      "MicroHand" surgical robot system. Data between the surgeon console and the patient side cart
+      were transmitted through a 5G network. The safety and efficacy of the robotic system in
+      remote clinical diagnosis and treatment were verified according to the main judgment
+      criterion and secondary judgment criterion.
+
+      Background：With the combination of robotic and network communication technology, telesurgery
+      has become a reality. On the one hand, telesurgery can conserve and optimize medical
+      resources, providing high-quality medical services to unbalanced areas, such as rural areas,
+      stricken areas and battlefields. On the other hand, telesurgery can reduce the time spent by
+      patients waiting for treatment and thus prevent diseases from worsening.
+
+      The unbalanced distribution of medical resources has been a prominent problem in China. In
+      addition, the vast territory and relatively lower medical distribution ratio per capita make
+      it difficult for patients to receive timely and high-quality treatment, especially those in
+      remote and underdeveloped areas. Therefore, telesurgery is more significant in China. In
+      recent years, surgical robot systems and network communication technology have experienced
+      breakthroughs. The operation systems of the da Vinci robot in America, the REVO-I robot in
+      South Korea and the ALF-X robot in Italy are more flexible and intelligent, performing well
+      in surgical procedures. The "Micro Hand S" system robot, independently developed in China,
+      represets a new generation of surgical robot systems. In addition to the flexible and
+      intelligent characteristics of traditional robots, the robot has a series of advantages, such
+      as a clear interface, light weight, low cost in terms of use and maintenance, and strong
+      equipment compatibility. After preliminary experiments, the domestically produced robot has
+      been successfully applied in clinical surgery. Meanwhile, in the field of network
+      communication, the emerging 5G mobile communication technology (the 5th generation of
+      wireless systems, 5G technology for short) is the latest generation of cellular mobile
+      communication technology. 5G technology is also an extension of 4G (LTE-A or WiMax), 3G (UMTS
+      or LTE) and 2G (GSM) technology. 5G technology has a high data rate, low latency, high
+      throughput, equipment connection on a large scale, low cost and low energy consumption. The
+      emergence of 5G technology offers more opportunities for the prevalence of telesurgery.
+
+      In September 2020, our research group carried out the first 5G remote telesurgery using the
+      "Micro Hand S" system robot and a 5G network between Qingdao, Shandong Province, and Xixiu,
+      Guizhou Province, in September 2019 in China (the network communication distance was nearly
+      3000 km). Specifically, the investigators conducted radical cystectomy on a male patient. The
+      5G network (Plan A) was used throughout the operation, with an average total delay of 254ms
+      (including an average round-trip delay of 104ms and a packet loss rate of 0%). The operation
+      time was about 5 hours, the intraoperative bleeding was about 200ml, and no intraoperative
+      complications occurred. The patient recovered smoothly after the operation and was discharged
+      on the 18th day. The investigators demonstrated that ultra-remote laparoscopic telesurgery
+      can be performed safely and smoothly under the 5G network using domestically produced
+      equipment. On such basis, our research group planned to carry out this clinical trial with
+      more patients to evaluate the efficacy and safety of telesurgery for patients with tumors of
+      the urinary system using Chinese independently developed "MicroHand" Surgical Robot System
+      through 5G network.
+
+      Introduction of the "MicroHand" surgical robot： The "MicroHand" surgical robot system
+      consists of two physically separated subsystems named the "surgeon console" and "patient side
+      cart". The surgeon console includes a stereo image viewer, two master manipulators, a control
+      panel and several foot pedals. The patient side cart includes a passive arm that can slide in
+      the up-down direction and be adjusted forward and backward, a swivel head that can rotate
+      around the vertical axis, and three slave arms (one for the endoscopic camera and the other
+      two for surgical instruments). The surgeon console (based in Qingdao) takes the surgeon's
+      input and translates manipulation into a control signal. After network transmission, the
+      patient side cart (based in Anshun) translates the control signal into actual instrument
+      manipulation. The 3D images captured by the endoscopic camera were simultaneously sent back
+      to the screen of the surgeon console as visual feedback.
+
+      Steps of the procedure：
+
+      ① The surgeon console was placed in Qingdao, Shangdong Province, while the patient side cart
+      was placed in other cities in Shandong Province.
+
+      ② Connections between the surgeon console and the patient side cart were established through
+      a public 5G wireless network. Special 5G customer premise equipment (CPE) was used as a
+      signal repeater station and amplifier. Upload and download speed will be tested as network
+      bandwidth.
+
+      ③ After general anesthesia, the supine position was maintained, the surgical area was
+      disinfected, and pneumoperitoneum was established from the left side of the umbilicus by
+      using a Veress needle. Then, trocars were inserted, and slave arms were delivered. Slave arm
+      A was equipped with robotic grasp pliers, and Slave arm C was equipped with an ultrasonic
+      scalpel (bipolar pliers or electrocautery). Robot-assisted telesurgeries, including
+      adrenalectomy and nephrectomy, were performed by a surgeon from the departments of urology.
+      The surgeon in Qingdao performed the dissection and coagulation of the target organs, while
+      assistants in other cities performed exposure of structures and clip application. Trocar
+      placement and position of the patients were also adjusted in each telesurgery by the
+      assistants if necessary. After completion of the dissection, the target organs were removed
+      by the assistant bedside. Then the pneumoperitoneum was exsufflated and the incisions were
+      closed. Intraoperative network latencies and vital signs were monitored constantly. The
+      master-slave manipulation consistency was assessed subjectively. The operative time, blood
+      loss and complications were recorded.
+    
+  

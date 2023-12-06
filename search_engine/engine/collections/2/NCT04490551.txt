@@ -1,0 +1,181 @@
+
+    
+      INTRODUCTION AND RATIONALE Colorectal Cancer (CRC) is the third most frequent diagnosed
+      cancer worldwide, with 1.4 million new cases every year. Mortality of CRC is estimated at
+      around 40%. To reduce the incidence of CRC and to abate the negative consequences associated
+      with CRC, methods for early detection of (pre)malignant colorectal lesions have extensively
+      been researched and implemented. Colonoscopy is the reference standard for the detection of
+      advanced neoplasia, but it requires trained endoscopists, carries a high burden, harbours a
+      risk for complications in patients, and increases societal costs.
+
+      Most screening programs use methods to select screening participants with a high risk of
+      advanced neoplasia for colonoscopy. One such method is the detection of blood in stool with
+      faecal immunochemical tests (FITs).
+
+      Multiple nation-wide screening programs have now been implemented using FIT, including one in
+      the Netherlands. In the Dutch CRC screening program, using a FIT threshold of 47 µg Hb/g
+      faeces, the sensitivity of FIT in detecting CRC is 85.5%. The sensitivity of FIT in detecting
+      advanced neoplasia (AN) is however substantially lower: 38%.
+
+      FIT-based screening also generates a high number of false positives, leading to unnecessary
+      colonoscopies and distress for those patients. Approximately 1 in 2 FIT-positives has
+      advanced neoplasia; the first round of the Dutch CRC screening program, using a FIT threshold
+      of 47 µg Hb/g faeces, reached a positive predictive value of 54%.
+
+      Previous studies have demonstrated the existence of clinical risk factors for CRC, such as
+      male gender, age, family history of CRC, and smoking. In a ZonMW sponsored project (ZonMW
+      50-50115-96-521) our group has shown that higher age, male sex, a family history with close
+      relatives in whom CRC was diagnosed, and active smoking were all associated with the presence
+      of advanced neoplasia (Stegeman et al, Gut, 2014).
+
+      Multiple CRC risk models have been developed using these risk factors, but most show only
+      weak discriminatory power. Others have proposed risk models that additionally included
+      molecular markers, increasing performance and discriminatory power, but these markers can be
+      cumbersome to collect and can be costly in respect to the relative cheap FIT test. the
+      investigators propose to combine CRC risk factors with the quantitative FIT result. FIT is a
+      quantitative test with a variable cut-off level, and individuals with higher values of faecal
+      haemoglobin are at higher risk of having advanced neoplasia at the cost of a lower
+      specificity. Therefore, the quantitative result can be used as a weight-factor in a risk
+      model.
+
+      Based on information on these risk factors for CRC and the quantitative FIT-result, our
+      FIT-based risk model for CRC screening calculates the personal risk of having advanced
+      neoplasia at colonoscopy. Inviting screening participants with elevated risk for colonoscopy,
+      rather than those whose FIT result exceeds a pre-specified threshold, has the potential to
+      increase the effectiveness and efficiency of FIT-based CRC screening. However, this requires
+      participants to complete the questions about risk.
+
+      Our hypothesis is that integration of FIT score with known risk factors (age, gender,
+      smoking, and family history of CRC) improves the number of participants in whom advanced
+      neoplasia is detected, relative to the number of invitees. The investigators will compare a
+      risk-based approach to screening, as described above, to the conventional FIT-only screening
+      in a randomized controlled screening trial.
+
+      OBJECTIVES The study hypothesis is that risk-based CRC screening significantly outperforms
+      FIT-only CRC screening in terms of the relative number of invitees in whom advanced neoplasia
+      is detected at colonoscopy.
+
+      Primary Research Question: does risk-based CRC screening result in a higher relative number
+      of invitees in whom advanced neoplasia is detected at colonoscopy compared to FIT-only CRC
+      screening?
+
+      Secondary Research Questions:
+
+      i) Does risk-based CRC screening result in a higher standardized screening yield in whom
+      advanced neoplasia is detected at colonoscopy compared to FIT-only CRC screening? ii) Is the
+      participation rate of risk-based CRC screening non-inferior compared to FIT-only screening?
+      iii) Does risk-based CRC screening result in a higher relative number of invitees in whom
+      advanced neoplasia is detected at colonoscopy compared to FIT-only CRC screening at higher
+      FIT-positivity thresholds (from 15 µg Hb /g faeces)? iv) Does risk-based CRC screening result
+      in a higher relative number of invitees in whom proximally located advanced neoplasia is
+      detected at colonoscopy compared to FIT-only CRC screening?
+
+      METHODS The investigators will perform a randomized controlled trial in 23,000 randomly
+      selected men and women (aged 55 to 75 years) eligible for participation in the national CRC
+      screening programme. All eligible participants will be second time invitees, living within a
+      25 km radius from the colonoscopy centre Bergman Clinics Amsterdam, which is accredited for
+      the national population screening program.
+
+      Eligible individuals are randomly allocated on a 1:1 basis to an invitation for either
+      risk-based CRC screening (intervention group) or FIT-only screening (control group).
+      Randomization per household will be done before invitation. Study invitations are sent out by
+      Foundation of Population Screening Mid-West (BoMW) early November 2019 before sending the FIT
+      sample kit of the national screening program to the study cohort from January 2020 to April
+      2020. The study invitation is combined with a leaflet containing information on study
+      participation. It will also contain an informed consent form, and a one-page questionnaire
+      (if allocated to the intervention arm) with a self-addressed envelope to the research
+      facility. The informed consent form will bear a unique study identification code.
+
+      The model that the investigators will use in this study for risk-based screening is derived
+      from a model developed in a primary colonoscopy screening trial (Stegeman et al, Gut, 2014).
+      The investigators have re-evaluated our multivariable risk model for CRC, with the aim to
+      simplify it for daily practice. A number of risk factors (such as elements from diet) added
+      little to the performance of the model, whereas collecting the necessary information proved
+      rather tedious. The quantitative FIT result, age, sex, family history and smoking behaviour
+      were the most decisive factors in the model.
+
+      This simplified FIT-based risk model had a performance like that of the extended model in the
+      development dataset. In this study the investigators will calculate the risk of harbouring
+      advanced neoplasia with our simplified FIT-based risk model, based on the quantitative FIT
+      result, age, sex, family history and smoking behaviour (see below). The threshold and
+      expected positivity rate of the risk-based model will be matched to the expected positivity
+      rate of the FIT-only group.
+
+      Regression equation of the updated model:
+
+      ln(odds AN) = -4.955073942+0.9196052173*Smoking+0.3364761549* √FIT+0.370575346*family history
+      of CRC-0.006934851*FIT+0.0228752117*age+0.070972656*gender
+
+      Probability of advanced neoplasia:
+
+      P (AN)=e^((odds AN))/(1+e^((odds AN))) If invitees that are allocated to the intervention
+      group (i.e. questionnaire and FIT) only return the questionnaire, they do not qualify for a
+      colonoscopy. When consenting invitees in the intervention group prefer not to complete the
+      questionnaire, FIT tests will be analysed at a cut-off of 15 µg Hb/g faeces.
+
+      The type of FIT that will be used is the one used in the Dutch national screening programme:
+      FOB-Gold (Sentinel, Italy). FIT-analyses and sending of FIT results will be performed
+      according to the logistics as being used in the national screening. The FIT result and the
+      result of the questionnaire will be entered in a database, to calculate the participant's
+      risk. All FIT positives (≥15 µg Hb/g faeces) will be referred for consultation for
+      colonoscopy at regional endoscopic centres. For the purpose of this study, FIT-negative but
+      risk-positive participants (i.e. the combination of the results of the questionnaire and the
+      quantitative FIT result) will also be invited for consultation for colonoscopy.
+
+      Colonoscopy will be performed by endoscopists accredited for our national screening programme
+      and according to national and international quality guidelines. Quality indicators and
+      endoscopic findings will be systematically recorded in a database, according to the standards
+      of the national screening programme. Lesions will be immediately removed, if possible, and
+      otherwise biopsies will be obtained. Histopathological assessment of these tissue samples
+      will provide a definitive diagnosis. Data on location, size, macroscopic aspect, morphology
+      and polypectomy will be recorded for all colonic lesions, which will be collected and
+      evaluated by an accredited GI-pathologist according to the Vienna criteria. Advanced adenomas
+      are defined as adenomas larger than 10 mm, adenomas with high-grade dysplasia or adenomas
+      with a villous component of at least 25%. Advice regarding surveillance colonoscopy after
+      removal of adenomatous polyps, large (≥10 mm) serrated lesions or cancer will be given to the
+      clients according to the Dutch CBO consensus.
+
+      Screening invitees can leave the study at any time for any reason if they wish to do so
+      without any consequences. The investigator can decide to withdraw a screening invitee from
+      the study for urgent medical reasons.
+
+      STATISTICAL ANALYSIS
+
+      Primary outcome The difference in screening yield will be estimated and expressed as an
+      absolute difference per 1,000 invitees, with 95% confidence intervals. The investigators will
+      test the null hypothesis of no difference in yield between the intervention and control group
+      using the chi-square test.
+
+      Secondary outcome The standardized screening yield will be calculated by ranking participants
+      according to their calculated risk (in risk-based screening) and comparing the yield of
+      risk-based screening for the number of positives that matches the number of FIT-positives
+      with FIT-only screening with a chi-square test. Additionally, the investigators will use the
+      McNemar test statistic to test the null hypothesis of no gain in screening yield in the
+      intervention group only, where the investigators can compare referrals based on FIT only with
+      referrals based on FIT and calculated risk.
+
+      The participation rate will be calculated through the number of participants relative to the
+      number of invitees in each arm. Differences in participation rate will be assessed using the
+      chi square test. The difference in screening yield of proximally located advanced neoplasia
+      between both arms will be estimated and expressed as an absolute difference per 1,000
+      invitees (with 95% confidence intervals). The null hypothesis of no difference in yield will
+      be tested using the chi square test.
+
+      Statistical significance level P-values of lower than 0.05 will be considered statistically
+      significant. All analysis between both arms are based on the intention-to-screen principle,
+      unless stated otherwise. Statistical analyses will be performed using R.
+
+      Additional outcomes Model performance in comparison to the FIT will be assessed with the net
+      reclassification improvement (NRI). In addition, the yield of the FIT-based risk model and
+      the FIT will be assessed at a broad range of FIT thresholds and will be estimated and
+      expressed as the number of detected advanced neoplasia per 1,000 invitees
+      (intention-to-screen) and per 1,000 colonoscopies (per protocol). Differences in the yield
+      will be tested using a chi square test. Any missing data that was intended to be used as
+      input for the risk-model, will be classified as '0'.
+
+      ETHICAL CONSIDERATIONS The study will be conducted according to the principles of the
+      Declaration of Helsinki (Version October 2008) and the Population Screening Act (WBO).
+      Permission to conduct this study has been granted by the Dutch Health Council and the Dutch
+      Minister of Healthcare.
+    
+  

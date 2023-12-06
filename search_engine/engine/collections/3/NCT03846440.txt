@@ -1,0 +1,19 @@
+
+    
+      Detailed dietary information was obtained for each participant to estimate dietary protein
+      intake per meal (breakfast, lunch, dinner). One meal was considered with inadequate protein
+      intake if its content was <30 g or 0.4 g/kg.
+
+      Functionality was assessed with two validated questionnaires. One for instrumental activities
+      of daily living (Lawton) and another for activities of daily living (Barthel). We calculated
+      a score according to each author's scales. This score was divided into three possible groups
+      as "low", "middle", and "high" scores.
+
+      To analyze the association between inadequate protein intake per meal and functionality, we
+      used multinomial logistic regression. The outcome variable was functionality ("High" was the
+      reference group, "middle" and "low" scores were considered as impaired functionality), and
+      the predictive variables were inadequate protein intake at breakfast, lunch, and dinner. They
+      were adjusted for age, BMI categories, number of diagnosed diseases, sex, and inadequate
+      protein intake per day (<1.2 g/kg/d).
+    
+  

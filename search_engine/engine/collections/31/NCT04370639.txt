@@ -1,0 +1,102 @@
+
+    
+      Hemorrhage remains the leading cause of direct pregnancy-related death in both the developing
+      world and the developed world. Young, healthy patients compensate for hemorrhage via
+      peripheral vasoconstriction, delaying the emergence of vital sign abnormalities until 15-30%
+      of total blood volume has been lost (1-2L in a term pregnant patient). A significant drop in
+      blood pressure and marked tachycardia (>120bpm) are not seen until 30-40% of blood volume has
+      been lost. After 40% loss, however, patients may rapidly decompensate, leaving a narrow
+      window between the emergence of vital sign abnormalities and rapid clinical decompensation.
+      In facilities where obstetricians and anesthesiologists are not in-house at all times and
+      blood product availability is limited, this narrow window may prove catastrophic.
+
+      Furthermore, management of obstetrical blood loss presents many unique challenges. First,
+      during delivery, when hemorrhage is expected and occurs acutely and visibly, blood is often
+      mixed with amniotic fluid, making it difficult to establish actual blood loss. Second,
+      laboratory measurement of hemoglobin concentrations can be falsely normal during an acute
+      episode of bleeding, as the hemoglobin measured does not reflect actual hemoglobin
+      concentration until several hours after the hemorrhage event, when equilibration occurs.
+      Third, unlike other surgical patients, postpartum women are expected to experience ongoing
+      vaginal bleeding after their delivery. Bleeding which is persistently slightly heavier than
+      average can lead to significant blood loss over a period of several days, without either the
+      patient or the staff caring for her recognizing the hemorrhage until the patient becomes
+      symptomatic or vital sign instability occurs. The postpartum uterus can serve as a reservoir
+      for retained blood and clot, allowing a patient to continue bleeding into her uterus after
+      delivery without any external evidence of bleeding. In a thin patient this is frequently
+      recognized on "fundal checks" where the size of the uterus is evaluated, but in obese
+      patients the uterine fundus may be difficult to appreciate, and a significant volume of blood
+      can accumulate in the uterus before it is recognized.
+
+      Due to the high risk of mortality related to postpartum hemorrhage and the difficulties
+      providers face quantifying blood loss accurately after delivery,, it is imperative to develop
+      a tool that can detect and quantify hemorrhage before vital sign changes occur. This tool
+      should be simple to use, allowing healthcare providers at all levels to identify hemorrhage
+      early and to mobilize appropriate resources. This will facilitate earlier intervention to
+      treat blood loss before clinical decompensation. As stated, vasoconstriction is the earliest
+      physiologic responses to acute hypovolemia6 and, as such, would be an appropriate target for
+      such a tool.
+
+      The AccuFlow Sensor is a device that is based on Combined Heat-Flux and Temperature Sensor
+      (CHFT+) technology developed in the heat transfer laboratory at Virginia Tech and produced by
+      ThermanSENSE Corp (Roanoke, VA). The device, which consists of a heat flux sensor, a
+      thin-film thermocouple, and a heater element, makes direct, quantitative measurements of
+      perfusion occurring at the surface of exposed tissue in real-time. The sensor is less than
+      1mm thick, covers one square inch of skin, and adheres to the patient's skin using a piece of
+      medical-grade silicone adhesive tape. The heater applies a small amount of heat to the skin
+      surface, raising its temperature to approximately 39 degrees C. The heat flux sensor measures
+      the rate at which the heat dissipates into the tissue, and uses this to calculate perfusion
+      using the Pennes Bio-Heat Transfer Equation, which was developed to describe patterns of heat
+      distribution in the human forearm and which has been the standard tool to predict temperature
+      distributions in living human tissue since the 1950s.10 The sensor measures both surface
+      perfusion and deep perfusion (1-2cm below the skin surface).
+
+      The primary theoretical source of patient injury or discomfort from the device is thermal
+      injury from the heater element. Under typical circumstances, the device heats up to
+      approximately 39 degrees Celsius (102 Fahrenheit, the temperature of a typical hot tub), and
+      to prevent thermal injury, the device automatically shuts off should it reach a temperature
+      of 45 C (113F, just above the typical hot-shower temperature of 110F). The device has been
+      tested for comfort and tolerability on 20 healthy volunteers, who reported no discomfort
+      while wearing the device or afterwards. Prior studies have shown no evidence of thermal
+      injury in tissues exposed to a temperature of 39C for prolonged periods, and that exposure to
+      temperatures of 45C causes mild thermal injury only after 150 minutes of constant exposure.11
+      As this device only heats up while it is taking a measurement, and never higher than 45C, the
+      risk of a thermal injury while wearing the device for the duration of a cesarean section as
+      planned during this study is extremely low. However, should the sensor become uncomfortable
+      to the patient, it can easily be removed. To date, the sensor has been used to evaluate
+      viability of organs intended for transplantation, by measuring blood flow at the surface of
+      the organ.7 Currently, the sensor is being used to evaluate differences in tissue perfusion
+      between pediatric patients with sickle cell anemia and healthy controls in an ongoing
+      research study at Virginia Tech. Of note, the device meets FDA criteria for a nonsignificant
+      risk device, and has been determined to be a nonsignificant risk device by the Institutional
+      Review Board at Virginia Tech/Carilion Clinic for use in adult and pediatric patients at
+      Carilion Clinic facilities. As mentioned before, the patent-pending AccuFlow device is
+      provided by ThermaSENSE Corp. (Roanoke, VA) and a number of sensors will be contributed for
+      the purpose of this study. The device has not yet been studied for detection of obstetric
+      hemorrhage.
+
+      In order to determine whether the device is able to accurately detect obstetric hemorrhage,
+      it must be tested on a number of patients who can be identified and enrolled in a research
+      study prior to experiencing a significant volume of blood loss, and whose volume of blood
+      loss can be retrospectively calculated with some degree of accuracy and compared to the
+      device's measurements. Patients undergoing planned, scheduled cesarean delivery are an ideal
+      study population, because they undergo routine measurements of height, weight, hemoglobin,
+      and hematocrit before surgery, and a repeat hemoglobin and hematocrit the day after surgery,
+      once physiologic equilibration has occurred. From these hematocrit measurements, the
+      percentage and volume of blood loss can be calculated and compared to the measurements
+      obtained from the Non-Invasive Blood Perfusion Sensor.
+
+      The investigators propose to perform a pilot study consisting of 50 patients, with a planned
+      interim analysis after 25 patients. These patients will be asked to wear the sensor during
+      their planned cesarean delivery, and to complete a survey immediately after their surgery
+      regarding their experience wearing the device. The device will be applied preoperatively and
+      removed postoperatively, and a member of the study team will remain in the operating room to
+      monitor the device and to note any significant events which occur during surgery, as well as
+      any potential challenges with the use of the device which must be considered in planning
+      future trials. Additional information will be gathered from the patients' charts including
+      demographics, height, weight, hemoglobin and hematocrit before and after surgery. The
+      investigators will review the sensor readings and the laboratory findings to determine which
+      of a number of different methods of analyzing device readings should be used in a larger
+      trial, as well as which of the measurement sites used by the sensors provides the most
+      relevant data, in order to streamline the device design prior to a larger trial.
+    
+  

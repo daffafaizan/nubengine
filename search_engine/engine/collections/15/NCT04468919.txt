@@ -1,0 +1,116 @@
+
+    
+      For each specific aim, the development of new assistive technology BCI access methods will be
+      evaluated in one or more experiments using alternating-treatments single-case research design
+      (SCRD) with healthy controls and/or participants with SSPI. SCRD is ideal for examining
+      small, heterogenous populations such as individuals with SSPI. It allows for detailed
+      examination of performance trends and changes over time, and for participant-specific
+      modifications to the intervention as part of an iterative design process. Because each
+      participant serves as their own control, a sample size of five is sufficient to demonstrate
+      and replicate an initial effect. Please see the Statistical Design and Power section for
+      additional information about SCRD and data visualization and analysis.
+
+      A total of 60 participants will evaluate the BCI advancements; 45 individuals with SSPI and
+      15 healthy controls. Participants with SSPI who currently have a reliable means of
+      communication, either using speech and/or an AAC device, will be enrolled. All participants
+      will be within the ages of 18-75 years (NIH-defined adults), with an equal number of men and
+      women. Healthy controls will be matched for age, gender, and education level. In SCRD
+      studies, each participant serves as their own control, so participants will experience all of
+      the baseline and intervention conditions included in each individual study, as described
+      below. Condition order will be randomized in the alternating-treatments, controlled such that
+      each participant completes an equal number of sessions with each intervention, with no more
+      than two consecutive sessions with the same intervention. Blinding is not possible as each
+      subject must know their condition in an alternating treatment design.
+
+      All study visits with people with SSPI will be conducted in participants' homes by OHSU
+      staff. Study visits with healthy controls will take place at the OHSU BCI laboratory. For all
+      typing tasks, participants are seated approximately 75cm from an LCD display, set up for the
+      BCI-FIT system. Depending on the user's customized BCI-FIT configuration (procedures
+      described in SA1.1), one or more of the following control signals will be used in each typing
+      session: EEG (ERP, Code or SSVEP, SMR), EOG, eye movements (gaze position or velocity), head
+      movements, EMG, or binary switches. The experiments for SA1.4a, SA1.4b, and SA2.2 all involve
+      copy-spelling tasks, in which participants will copy five common 5-letter English words of
+      approximately equal typing difficulty (according to LM input), and correct mistakes by
+      choosing the backspace character when appropriate. Individual signal models will be
+      initialized to population models and will be personalized and refined with each acquired
+      copy-spelling task data set. The experiment for SA3.4 involves a story-retell task, described
+      below in the paragraph about that experiment.
+
+      Experiment 1.4a will test the hypothesis that a customized BCI-FIT configuration based on
+      multi-modal input and/or data from the clinical relational database will improve typing
+      accuracy on a copy-spelling task compared to a user's existing AAC access method. It will
+      include five participants with SSPI in an alternating-treatments SCRD and will concentrate on
+      typing accuracy as the primary DV. An initial baseline phase will involve weekly
+      copy-spelling sessions with each participant's existing access method. Three or more baseline
+      sessions will be conducted until stable performance is observed, then the
+      alternating-treatments phase will begin. Treatments consist of two different BCI-FIT
+      configurations: 1) a multi-modal configuration that adds a custom control signal (chosen in
+      SA1.2) to the participant's existing control signal and 2) a multi-modal configuration chosen
+      by a combination of the approaches described in SA1.1 (clinically-supported and performance
+      data-supported). In weekly data-collection visits, participants will complete copy-spelling
+      sessions with each BCI-FIT configuration, with counterbalanced session order. Participants
+      complete at least five sessions with each configuration, more if needed to achieve stable
+      performance. Finally, participants will complete five weekly copy-spelling sessions with the
+      most successful BCI-FIT configuration alone, to control for potential interaction effects on
+      performance resulting from rapidly alternating experience with both configurations.
+
+      In Experiment 1.4b, it is hypothesized that adaptive signal modeling will mitigate the
+      effects of changes in user state (e.g., fatigue or medication) on typing accuracy during a
+      copy-spelling task with BCI-FIT. This experiment will also include five participants with
+      SSPI in an alternating-treatments SCRD with typing accuracy as the primary DV. In this study,
+      no baseline is planned, as the comparison of interest is between versions of BCI-FIT with and
+      without adaptive signal modeling. Initially, each participant will complete system
+      optimization procedures described in SA1.1 and SA1.2 to identify their customized BCI-FIT
+      configuration. In the alternating-treatments phase, participants will complete two
+      data-collection visits on the same day each week, one in the morning (or whenever the
+      participant is typically most alert/attentive) and one in the late afternoon (or at a time of
+      day when the participant is typically more fatigued/inattentive). During each visit, the
+      participant will attempt two copy-spelling sessions with their customized BCI-FIT
+      configuration, once with and once without adaptive signal modeling (with counterbalanced
+      condition order). Data will be graphed and analyzed separately (following procedures in the
+      Statistical Design and Power section) to evaluate effects on performance with both system
+      versions.
+
+      The experiment in SA2.2 will test the hypothesis that either of two methods of adaptive
+      querying will improve BCI-FIT typing accuracy for users with mediocre AUC scores. It will
+      include five healthy controls and five participants with SSPI, each with an AUC score in the
+      range of 70-80%. (Based on pilot testing, adaptive querying is expected to provide the most
+      benefit to users with this level of baseline performance.) The experiment will follow an
+      alternating-treatments SCRD with a baseline phase. Initially, each participant will complete
+      the optimization procedures described in SA1.1 and SA1.2 to identify a customized BCI-FIT
+      configuration which will be used throughout the experiment, and to confirm that their AUC
+      score falls within the 70-80% range. In the baseline phase, participants will complete weekly
+      copy-spelling sessions with BCI-FIT without adaptive querying. After three or more baseline
+      sessions, when performance is stable, the alternating-treatments phase will begin, with
+      weekly visits, each including two copy-spelling sessions with BCI-FIT using either one of the
+      proposed adaptive querying techniques. Condition order will be counterbalanced such that
+      conditions occur in random order (with no more than two instances of the same condition in a
+      row) and participants will experience each condition an equal number of times (at least five
+      times each, until stable performance is achieved).
+
+      The experiment in SA3.4 will use an alternating-treatments SCRD experiment to test the
+      hypothesis that language model enhancements, including a combination of partner and
+      environmental input and word completion during typing, will improve typing performance with
+      BCI-FIT, as measured by ITR during a story-retell task. This experiment will include five
+      healthy controls and five participants with SSPI, each paired with a healthy-control partner
+      to provide partner input (total enrollment of 10 dyads). Initially, each BCI-FIT user
+      participant will complete the optimization procedures described in SA1.1 and SA1.2 to
+      identify a customized BCI-FIT configuration which will be used throughout the experiment. A
+      baseline phase is unnecessary, as two versions of BCI-FIT are being compared. In each weekly
+      data-collection visit, participants will engage in two structured story-retell activities,
+      one with and one without the enhanced language model features. Condition order will be
+      counterbalanced such that conditions occur in random order (with no more than two instances
+      of the same condition in a row) and participants will experience each condition an equal
+      number of times (at least five times each, until stable performance is achieved). The
+      story-retell activity will involve the participant watching a short video along with a
+      communication partner, then using BCI-FIT to answer questions posed by a third person. In one
+      condition, the BCI-FIT user participant will use the basic version of BCI-FIT without the
+      proposed language model enhancements, and the partner will simply be present, with no means
+      of providing language support to the user. In the other condition, the enhanced features will
+      be available: the partner will have a companion app on a Bluetooth-connected tablet8,
+      allowing them to remotely suggest words to the BCI-FIT language model, and the participant
+      will be able to choose to type or complete words suggested both by the communication partner
+      and by BCI-FIT based on automatic speech recognition of the questioner's utterances. The
+      primary DV in this experiment will be ITR.
+    
+  

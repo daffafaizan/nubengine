@@ -1,0 +1,138 @@
+
+    
+      Problem description Students are one of the most at-risk groups for mental illness and
+      suicide. Eight out of ten students experience stress frequently or daily for months at a
+      time. A four-year prospective study with college students revealed that 12% had suicidal
+      ideation sometime during the students' years at college. Students must manage family life,
+      academics, extracurricular activities, hormonal changes, relationships, identity development,
+      and much more. All these factors combined add stress to students' daily lives and can lead to
+      depression, anxiety or other mental health conditions.
+
+      While mental illness negatively affects young adults in significant ways, primary care
+      doctors identify less than one third of all depression cases and up to 40% of persons with
+      serious mental illnesses do not receive care or stop intervention programs due to negative
+      stigma. On the university side, only 30% of respondent universities in one study provided
+      mental health counseling within universities' student health services and after-hour care was
+      only available at 38% of the 129 respondents.
+
+      Study model This study uses is a mental health-focused application that utilizes artificial
+      intelligence to identify symptoms and provides targeted, tailored in-person therapy solutions
+      for its users. The application is meant to augment in-person psychotherapy utilizing online
+      journaling and daily patient assessments to provide curated content and feedback. In brief,
+      the application utilizes machine learning and artificial intelligence to select content
+      (e.g., self-help articles) and provide feedback (e.g., weekly summary score of mood and
+      anxiety) based on user input (e.g., journal entries, daily mood rating)
+
+      Study Design
+
+      The proposed study is a 5-week feasibility study to assess the usability and potential
+      short-term benefits of the app platform in a population of Johns Hopkins medical students.
+
+      Potential participants will be informed of the study using email listservs and flyers. The
+      investigators also anticipate word-of-mouth communication among students. Word-of-mouth
+      communication from students means that the investigators will tell students a broad
+      description of the study, "The investigators are testing whether a mental health mobile app
+      with personalized therapy sessions is beneficial to the maintenance of emotional and mental
+      well-being in graduate students. All written materials are submitted for approval. Interested
+      students will be directed to a secure REDcap survey, which will screen the students for
+      eligibility. Students that meet all inclusion criteria and no exclusion criteria will be
+      offered entrance into the study. Of note, no medical or academic records of the students will
+      be accessed as part of the study.
+
+      After the initial screening survey, 45 eligible students will complete the consent process.
+      The consented participants will be randomized to one of the two study arms: (1) the
+      intervention arm or (2) the waitlist control arm in a 2:1 ratio. The intervention arm is
+      described in detail below. The participants in the waitlist control arm will serve as
+      controls for the study. These participants will complete the pre-pilot assessment and the
+      post-pilot assessment. These participants will be given details on the Johns Hopkins Student
+      Assistance Program and encouraged to pursue standard of care services. During the
+      participant's time on the waitlist, participants may reach out to study personnel if
+      participants need assistance obtaining psychiatric care. The investigators aim to have 30
+      participants complete the intervention arm and in the setting of participant attrition from
+      the intervention arm, participants in the waitlist control arm will be offered entrance to
+      the intervention arm. If recruited off the waitlist, the participant will re-complete
+      consent, this time selecting "Intervention" as the study arm and will be entered into the
+      five-week intervention study.
+
+      Participants in the intervention arm will be sent an individualized redemption code to
+      download the application on to participant's personal mobile phones. The participants enter
+      individual login details. During the first week of the study, each participant will be
+      prompted by the application to complete key surveys and assessments at predetermined time
+      intervals. The platform generates a summary health metric on-demand that is a combination of
+      responses entered from the in-app assessments.
+
+      A summary health metric will be pushed in-app after the first week of use. Details for
+      scheduling the first in-person therapy session will be provided at the same time as the
+      summary health metric. Participants will be informed that the general health metrics will be
+      shared with the therapist to help the therapist better plan the sessions. The therapy session
+      will be scheduled in a private room on-campus. The session will be approximately 45 min long
+      and therapist notes will be captured and stored in REDCap at the session. The therapists will
+      offer standard-of-care psychotherapy (e.g., supportive psychotherapy, cognitive-behavioral
+      therapy). The participants use the app for a total of 5 weeks and receive weekly in-person
+      therapy for a total of 4 weeks (one week application only lead in, four weeks application
+      plus in-person psychotherapy).
+
+      Two functions of the application that will be independently examined for usage and utility
+      are its journaling function and curated insights. Participants will be asked to use the
+      journaling function daily (more details below). The curated insights are selected by the
+      application based on participant responses to the daily mood and anxiety surveys, as well as
+      a built-in sentiment analysis of the journaling.
+
+      At the end of 5 weeks, all participants in both study arms will complete the post-pilot
+      assessment using the same assessments as pre-pilot.
+
+      Participants who agree to be contacted post-pilot study will be given the option at 3, 6, and
+      12 months to take the same online assessments as at pre- and post-pilot. This evaluation will
+      be used to test potential long-term impact of the app. In addition, post-pilot focus groups
+      may be completed. There would be one focus group with therapists and separate focus groups
+      with participants. These optional assessments will be pending study results, funding, and
+      resources and would be submitted in the future as a change in research to the current
+      Institutional Review Board (IRB).
+
+      Details of Study Assessments Scales / Questionnaires Mood / Anxiety Meter: The application
+      will send timed notifications three times a day (morning, afternoon and evening) for the user
+      to pick current mood and anxiety on a Likert scale General Anxiety Disorder-7 (GAD-7) anxiety
+      scale. The app will prompt the user to fill in this assessment every 2 weeks. The GAD-7
+      parallels the 7 diagnostic symptom criteria that define DSM-IV GAD. The format and temporal
+      framework of the items also correspond to the Diagnostic and Statistical Manual of Mental
+      Disorders (DSM-IV) criteria and will facilitate the follow-up review of symptoms and
+      diagnostic process. At only 7 items, the GAD-7 is substantially shorter than most anxiety
+      screening measures. This instrument has also demonstrated acceptability among non-psychiatric
+      patients and among busy primary care providers and is a valid and reliable screening tool for
+      anxiety.
+
+      Patient Health Questionnaire-9 (PHQ-9) depression scale. The app will prompt the user to fill
+      in this assessment every 2 weeks. The PHQ-9 parallels the 9 diagnostic symptom criteria that
+      define DSM-IV. The format and temporal framework of the items also correspond to the DSM-IV
+      criteria and will facilitate the follow-up review of symptoms and diagnostic process. At only
+      9 items, the PHQ-9 is substantially shorter than most depression screening measures. This
+      instrument has also demonstrated acceptability among non-psychiatric patients and among busy
+      primary care providers and is a valid and reliable screening tool for major depression.
+
+      Positive and Negative Emotions Scale (PANAS): The app will prompt the user to fill in this
+      assessment every 2 weeks. The PANAS is a self-report questionnaire that consists of two
+      1-item scales to measure both positive and negative affect. Each item is rated on a 5-point
+      scale of 1 (not at all) to 5 (very much).
+
+      Mobile Application Rating Scale (MARS): The MARS is a well-established framework for
+      classifying and assessing the objective and subjective quality of apps, as well as the app's
+      perceived impact. It is designed to score apps on the criteria of engagement, functionality,
+      aesthetics, and information quality, as well as app subjective quality. Each MARS item used a
+      5-point scale (1-Inadequate, 2-Poor, 3-Acceptable, 4-Good, 5-Excellent). The MARS is
+      calculated as mean scores of the engagement, functionality, aesthetics, and information
+      quality objective sub-scales, and an overall mean app quality total score.
+
+      Other Online Journaling: online journaling feature allows the user to enter his/her feelings
+      and thoughts, like in the case of a diary. The user is asked daily "How has your day been?
+      (please provide at least four sentences to describe how you are doing and feeling today)".
+      Every two weeks the user is asked "How have you been the last two weeks? (please provide at
+      least four sentences describing your emotional well-being over the last two weeks)". This
+      second prompt is meant to allow comparison with the PHQ-9 and GAD-7, both of which ask about
+      a two-week time frame's neural network is built and calibrated to provide an emotional
+      context through pre-labeled datasets that tag words, phrases, and sentences to a specific
+      emotion (e.g., fear, sadness, anxiety). The neural network model then analyzes the input from
+      the journaling features and assigns it an emotion weighting. User input is then analyzed and
+      the output indicates what condition participants are likely currently experiencing based on
+      participant's entry.
+    
+  

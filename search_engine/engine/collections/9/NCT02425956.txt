@@ -1,0 +1,27 @@
+
+    
+      This study is being conducted to build a library of prospectively collected clinical data
+      from subjects with iron overload examined with commercially available MRI devices. This data
+      library is intended for use in future engineering development and other research activities,
+      including future regulatory submissions. Data from human subjects is required to develop and
+      test Magnetic resonance (MR) reconstruction techniques that can provide quantitative
+      information about tissue properties, such as volumetric fat and iron concentrations.
+      Collection of MR data and corresponding quantitative liver iron concentration (LIC) data is
+      necessary for development of MR techniques that can show both overall and regional iron
+      concentrations of in vivo tissues. These techniques may provide viable alternatives to
+      invasive and expensive conventional liver biopsy and to less accurate serum biomarker
+      testing, potentially benefiting future clinical patients with iron overload.
+
+      MR image data and corresponding quantitative data about serum and liver iron levels will be
+      collected from each subject in this study. These datasets are considered suitable for future
+      development and testing of MR reconstruction software, including MR reconstruction algorithms
+      developed by General Electric Healthcare (GEHC) to use Longitudinal relaxation rate equal to
+      the reciprocal of T2 relaxation time (1/T2) (R2) techniques to assess LIC. To achieve a
+      sufficiently diverse library for future testing, MRI data of the liver and surrounding
+      tissues will be acquired using 1.5T and 3.0T GEHC IDEAL IQ scans and commercially available
+      1.5T MRI scans conducted according to the FerriScan® Specialized Reconstruction Service
+      guidelines (Resonance Health, Claremont, AU). Quantitative hematologic (serum ferritin) based
+      on blood testing and FerriScan® Analysis Service LIC reports will be collected for each
+      subject.
+    
+  

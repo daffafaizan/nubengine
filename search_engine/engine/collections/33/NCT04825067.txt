@@ -1,0 +1,58 @@
+
+    
+      Exacerbations of chronic cardiopulmonary diseases are a major cause of morbidity and
+      mortality worldwide. There are an estimated 23 million patients with heart failure worldwide,
+      and the prevalence of heart failure in the United Sates is projected to rise over the next
+      four decades with an estimated 772,000 new heart failure cases projected in the year 2040.
+      Exacerbations of chronic respiratory disease can accelerate lung function decline and reduce
+      survival. They may also lead to significant rise to the cost of healthcare. Chronic
+      Obstructive Pulmonary Disease (COPD) exacerbations are an important cause of readmissions
+      with a 30-day readmission rate of approximately 20% and subsequent expenditure of US $15
+      Billion in annual health care spending. Cystic fibrosis (CF), a genetic disorder that affects
+      airways clearance and secretions, has a 30-day readmission rate of approximately 11%.
+
+      Due to the high cost of hospital stays and emergency department visits, and especially in the
+      setting of the COVID-19 pandemic, more cost-effective "out-of-hospital" management models
+      have become increasingly appealing. Such models not only provide cost benefits to patients,
+      payers, and hospitals, but also increase the ability to provide care to people at home.
+
+      Respiratory variables have shown to be one of the most sensitive indicators for COPD
+      exacerbation, and a significant correlation between respiratory rate and COPD symptoms has
+      been observed. When combined with pulse rate and oxygen saturation, these variables provide a
+      useful method of identifying exacerbations. Current analytical models are designed to trigger
+      alarms, which are generally based on traditional threshold-type driven analytics. Such
+      methods are not able to identify and recognize trends due to limited access to advanced
+      analytics (e.g., machine learning methods). The device proposed for use in this study will
+      measure respiratory rate, Inspiratory: Expiratory (I:E) ratio, respiratory depth, heart rate,
+      SpO2, SpO2 variability, patient movement, and the investigators will use machine learning and
+      data modeling to analyze their trends over time.
+
+      The wearable biometric platform (termed 'Respiratory Sensor') developed by Singapore
+      Bioimaging Consortium is to be worn on the chest area via a medical grade adhesive patch. The
+      Respiratory Sensor includes a non-invasive sensor combining an accelerometer and light-based
+      methods to sense chest wall expansion or breathing.
+
+      The Respiratory Sensor allows the possibility of collecting additional respiratory
+      information (respiratory rate, relative tidal depth and duty cycle) as predictors for
+      exacerbation of chronic cardiopulmonary diseases and perhaps improving advanced analytical
+      models that can provide better sensitivity and specificity compared to traditional models
+      (e.g. clinical diaries). Ultimately, this may allow early prediction of outpatient
+      exacerbations to allow early intervention and reduced re-admissions (via remote
+      interventions).
+
+      In this project, Singapore Bioimaging Consortium would like to collaborate with Massachusetts
+      General Hospital to aggregate patient data and to further develop its software algorithm
+      using machine learning (e.g. random forest models and long-short term memory models etc.) and
+      statistical models (e.g. regression models and survival analysis with univariate and
+      multivariate analysis) based on respiratory features and hemodynamics for predicting
+      exacerbations and deterioration on 60 patients with cardiopulmonary diseases. The end-points
+      of this collaboration includes the following:
+
+        1. To validate hypothesis of using respiratory-based biomarkers in models (disease agnostic
+           and disease specific) to predict exacerbations - benchmarking to be done versus
+           follow-up questionnaires and phone calls
+
+        2. To validate level of compliance, drop-out rate and if additional measures are required
+           to get patients to follow-on
+    
+  

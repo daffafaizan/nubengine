@@ -1,0 +1,83 @@
+
+    
+      This is a single-center, randomized (1:1), parallel-group, manikin trial comparing times of
+      execution and quality of life-saving procedures performed by residents while wearing PPE for
+      CBRNe events versus no PPE. The trial was deemed exempt from review by the local Ethics
+      Committee (No. 0045954/2019). The study was conducted aiming to reduce carbon footprint and
+      increase sustainability.
+
+      Study Population The trial involves Senior Emergency Medicine (EM) and Anesthesiology and
+      Critical Care (ACC) residents (PGY-4 and -5) from the residency programs of the University of
+      Padova (Padova, Italy), recruited via email by the study coordinator (GM) without selection.
+      Eligible residents are certified as proficient at the procedures described in the next
+      section by the respective residency board, being this a prerequisite to qualify as a PGY-4
+      and -5 in Italy. The subjects participating in the study don't receive any incentives.
+      Written consent is asked prior to the beginning. The study is organized at the "SIMULARTI"
+      medical simulation center of the University of Padova in Padova, Italy.
+
+      Interventions and Procedures Residents are involved in performing the following procedures on
+      the ground on high fidelity manikins: two rescuers CPR (SUSIE - Gaumard Scientific, Miami,
+      FL); tactical tourniquet application (with a Combat Application Tourniquet®, CAT Resources,
+      Rock Hill, SC; on a Trauma Hal - Gaumard Scientific, Miami, FL); tension PNX needle
+      decompression (Truman Trauma X - TruCorp, Lurgan, N. Ireland); positioning of peripheral
+      venous access, intraosseous vascular access (with EZ-IO® - Teleflex, Wayne, PA), and drug
+      preparation and administration (Code Blue III Adult - Gaumard Scientific, Miami, FL). Each
+      procedure is accomplished by the algorithms collected in an operations manual made available
+      to the researchers only, and verbally disclosed to the participants before their attempt (see
+      Online Supplement 1). The participants do not receive any feedback, neither verbal nor
+      visual, during the execution of the procedures. Subjects in the intervention group wear a
+      Tyvek pro-tech® "C" gear (Bonetti, Milano, Italy), a full visor SGE 400 mask (EN 136:98 CL3)
+      connected to an A2B2E2K2-P3 R filter (Spasciani, Milano, Italy), and well-fitting,
+      non-sterile Mapa Ultranitril 480 gloves (Mapa SAS, Colombes, France). Subjects in the control
+      group only wear well-fitting, medical examination nitrile gloves.
+
+      After the end of the procedures under investigation, participants from the control group are
+      given the possibility to perform the procedures wearing CBRNe PPE, since this is a training
+      session part of their curricular activities. Finally, an anonymous questionnaire was
+      administered to the participants to evaluate their perception of the experience (Online
+      Supplement 2). The questionnaire was composed of 10 items - 7 positive and 3 negative - that
+      participants had to rate using a 5 point Likert scale (1=totally disagree; 2=disagree;
+      3=uncertain; 4=agree; 5=totally agree). The internal consistency of the questionnaire was
+      measured using Cronbach's alfa.
+
+      Randomization For the 1:1 allocation of the residents, a computer-generated list of random
+      numbers is used. Participants are randomly assigned following variable block sizes of 2 and 4
+      to either the intervention group (in which they wore CBRNe PPEs) or to a control group (in
+      which they used only one pair of nitrile gloves) (Figure 1). Also, the participants perform
+      each procedure in a random order according to a computer-generated sequence. Randomization is
+      prepared by a researcher not directly involved with the experiments. The allocation of
+      subjects and order of the procedures are concealed by using sequentially numbered, opaque,
+      stapled envelopes, and upheld until each participant was in the simulation rooms. The
+      experiment coordinator (MP) opens the envelopes and assigns participants to group and
+      procedures. Blinding of participants and researchers involved in the experiment is
+      unfortunately not possible. Only the outcome assessor and data analyst (SS) is kept blinded
+      to the allocation.
+
+      Outcomes The primary outcome is the difference in sternum to spine chest compressions (CCs)
+      depth during CPR between the two groups. Secondary outcomes are the differences in CCs
+      average rates per minute, percentage of CCs full release, times for completion of tourniquet
+      positioning, PNX decompression, positioning of a peripheral venous catheter and intraosseous
+      access, and drug preparation and administration. As tertiary outcome, the overall
+      participants' perception of this CBRNe simulated training at the end of the session is
+      measured.
+
+      Data Collection In each scenario, a researcher collects times with a stopwatch and monitors
+      the correct execution of procedures. In case of errors, the participant is stopped and
+      granted a second attempt, but is excluded from the study. As for CPR, data are collected
+      using UNI® Unified Simulator Control Software ver 2.41.1.0 (Gaumard Scientific, Miami, FL).
+
+      Sample Size and Statistical Analysis The investigators calculated that group sample sizes of
+      18 and 18 would be required to detect a difference of 5.0 mm in CCs depth with a standard
+      deviation (SD) of 5.0 mm, at a significance level (alpha) of 0.05 and at least 80% power,
+      using a two-sided Mann-Whitney test, assuming that the actual distribution could be
+      non-normal. Qualitative data are analyzed descriptively through their distribution frequency.
+      Quantitative data are tested with a Shapiro-Wilk test for normality. Results are presented as
+      mean with SD, and differences tested with independent t-test in case of normally distributed
+      data with equal variance (tested with Levene's test; if not true: Welch test). Otherwise,
+      results are presented as median and interquartile range (IQR), and differences are tested
+      using a Mann-Whitney test. All tests are two-sided and p values <0.05 are considered
+      statistically significant. An estimated difference with 95% confidence interval (CI) is
+      reported for the difference between testing conditions. Statistical software JASP (ver
+      0.11.1; JASP Team, 2019) is used to analyze the results.
+    
+  

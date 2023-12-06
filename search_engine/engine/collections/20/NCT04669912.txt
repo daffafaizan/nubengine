@@ -1,0 +1,27 @@
+
+    
+      Continuous glucose monitoring (CGM) data will be collected from the cloud-based platform,
+      LibreView.
+
+      Data will be collected for patients from Sud-Francilien hospital (Corbeil-Essonnes, France)
+      and Kremlin-Bicêtre hospital (Kremlin-Bicêtre, France). Data related to glucose control and
+      sensor usage will be collected from the Libreview platform. Data related to patients'
+      characteristics, treatment and telemedicine visits (number of contacts with health
+      professionals) will be collected from the medical record and confirmed with
+      telephone-administered questionnaire.
+
+      The lockdown imposed by the French government occurred from March 17 to May 10, 2020.
+      Therefore, outcomes will be assessed 4 times: the month before lockdown, during the first
+      month, the second month of lockdown, and one month after lockdown ended.
+
+      Potential confounding factors will be studied: age, gender, type of insulin delivery
+      (multiple daily injections, MDI; insulin pump), contacts with health professionals (physician
+      or nurse).
+
+      Descriptive statistics will include means with standard deviations, numbers of patients and
+      percentages.
+
+      Outcomes will be analysed with a linear mixed-effects regression model. Analyses will be
+      performed with R studio version 3.5.0.
+    
+  

@@ -1,0 +1,51 @@
+
+    
+      General Approach: Single center, non-randomized, unblinded study of patients who are followed
+      at Essentia Health - St. Mary's Medical Center and who are referred for a clinically
+      indicated diagnostic EP study with or without ablation. During the procedure, events of
+      atrial fibrillation, sinus rhythm or bundle branch block that may occur during the course of
+      the case will be saved electronically and analyzed offline. These events may occur during the
+      routine, clinically indicated portion of the procedure and will be saved should they occur.
+      The stored data will be evaluated for changes in activation timing of the near- and far field
+      ventricular signals of the stored events.
+
+      Methods and Materials: Up to 50 patients will be enrolled by the primary investigator and/or
+      associate investigators. As part of a usual EP study, catheters are placed in the coronary
+      sinus and right ventricle. For studies involving catheter ablation of atrial fibrillation or
+      other complex arrhythmias, a 3-dimensional mapping system is frequently used for catheter
+      location in 3-dimensional space and is left to the clinical discretion of the operator at the
+      time of the procedure. An EP-Med WorkMate workstation will be used to record and measure
+      events as part of the usual clinical procedure.
+
+        1. Data Acquisition: During the course of the case, a catheters placed in the right
+           ventricular apex and coronary sinus will be used to record both near- and far-field
+           signal during episodes of atrial fibrillation, sinus rhythm and bundle branch conduction
+           disturbances should they occur. Near field-signal will be recorded between the distal
+           and proximal pair of the catheter located in the right ventricular apex. Far-field
+           signal will be measured between the distal electrode of the catheter in the right
+           ventricular apex and distal electrode of the coronary sinus catheter. If 3-dimensional
+           mapping is available, the spatial location of the right ventricular and coronary sinus
+           catheters will be recorded. If 3-dimensional mapping is not available, fluoroscopic maps
+           of catheter positions will be obtained. Recorded signal will be saved on the EP-Med
+           WorkMate workstation at a sampling rate of 2000 Hz and amplitude of 78 nV per unit.
+
+        2. Analysis: Patient identifiers will be purged from the saved events and printouts, and a
+           study identification number will be assigned. Those saved events will be extracted for
+           input into Matlab or Octave for analysis. Custom algorithms written by the primary
+           investigator will be used. Both the ventricular far-field and ventricular nearfield
+           electrograms will be analyzed. Initially, 3 consecutive ventricular signals during sinus
+           rhythm will be evaluated for each patient and averaged to estimate the activation timing
+           changes. A baseline template or reference activation sequence will be created for each
+           patient and will be used as the reference for all further events from that patient. The
+           signal will be rectified but no additional filtering will be applied. Using the peak
+           farfield signal as time 0, the difference between near- and far-field peak signals will
+           be measured and averaged for the three ventricular events. In turn any available atrial
+           fibrillation or bundle branch block conduction disturbance evens will be analyzed using
+           the same techniques. Differences between the reference activation sequence and other
+           events will be measured and compared. In Figure 1, the upper pane shows an episode of
+           baseline rhythm (sinus rhythm). During baseline rhythm for this event, the near-field
+           peak signal consistently comes after the far-field peak signal. During ventricular
+           tachycardia, the two peaks are nearly simultaneous, representing a change in activation
+           timing because of a change in the activation circuit in the ventricles.
+    
+  

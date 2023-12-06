@@ -1,0 +1,32 @@
+
+    
+      IDO2 utilizes high fidelity continuous and intermittent patient data to feed a Bayesian model
+      which predicts the risk of inadequate tissue oxygen delivery. This index (the IDO2) is FDA
+      510k cleared for pediatric patients 2 kg up to 12 years of age to continuously report the
+      risk for inadequate tissue oxygen delivery (defined as a mixed venous oxygen saturation less
+      than 40%). The index is continuously displayed in graphical form at the bedside. Clinical
+      decision support systems (CDSS) such as IDO2 may inform inform the clinician when it is
+      appropriate to de-escalate care on a critically ill. Appropriate de-escalation plays a role
+      in the safe, efficient utilization of resources in the CICU, and may reduce duration
+      intervals of care such as duration of support with vasoactive and inotropic drugs, mechanical
+      ventilation and length of stay. In support of this hypothesis, the investigators for this
+      proposed study have recently completed a retrospective, multi-center analysis of 2,556
+      patient encounters demonstrating that elevated IDO2 during a wean off inotropic agents is
+      associated with weaning failure. When compared to conventional markers of cardiac output,
+      6-hour average IDO2 was superior to lactate elevation, fall in base deficit, and fall in
+      urine output in discriminating inotrope weaning success from failure. Additionally, for those
+      patients who failed inotrope wean, rescue with re-starting an inotrope was associated with a
+      concomitant fall in IDO2. This analysis supports an underlying hypothesis that IDO2 reflects
+      underlying patient stability, and the rescue of deteriorating physiology leads to an improved
+      physiologic state, and hence a lower IDO2.7 Data suggest that simple CDSS which prompt
+      discussion about management decisions, such as those made during daily ICU rounds, may
+      improve outcomes. These CDSS are often in the form of checklists and apply to usual or
+      standardized practices. These simplified mechanisms may not apply to the more dynamic
+      clinical situations in which specific and intensively monitored patient populations can
+      demonstrate variable response to drugs and recovery. In these circumstances, a CDSS utilizing
+      a 6-hour rolling average value of IDO2, in which the physiologic response to decisions is
+      demonstrated continuously, may inform a more rapid more efficient and safe de-escalation of
+      vasoactive and inotropic drugs when implemented on each of the twice daily clinical work
+      rounds in the CICU.
+    
+  

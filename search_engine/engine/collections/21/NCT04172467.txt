@@ -1,0 +1,53 @@
+
+    
+      Treatment structure analysis and recruitment (phase 1):
+
+      In a first step, data on care facilities, that treat patients with CLL or MM in Germany is
+      obtained.
+
+      In phase 1 all centers in Germany that potentially treat patients with the CLL or MM are
+      contacted and data of its facility care level and its num-ber of treated patients is recorded
+      using a one-sided pen-to-paper form. In addition, the willingness of care facilities to
+      become involved in pa-tients' documentation is elicited (phase 2).
+
+      Patient documentation (phase 2)
+
+      To achieve a reliable, representative sample of patients treated in Ger-many, the
+      distribution of cases to be documented is specified in the in-dividual indications amongst
+      the facilities involved. This is done using the facilities' data on patient numbers and
+      treatment structure obtained in phase I:
+
+      The participating centers are assigned to clusters based on key distin-guishing features
+      (facility type, care level and number of patients treated). This sample is modulated
+      according to the previous treatment structure analysis. By taking this approach, the actual
+      percentages of the various care facilities in an indication area can be reflected
+      proportion-ally in the patient documentation sample.
+
+      In phase 2 a multiple-page electronic case record form (eCRF) is com-pleted in order to
+      collect the original patient and treatment data, which are relevant to the purpose of the
+      study. All data is gathered retrospec-tively and anonymously using the patient files. Patient
+      and disease re-lated variables (age, general condition according to the Eastern Cooper-ative
+      Oncology Group (ECOG), relevant comorbidity, staging and rele-vant mutations), systemic
+      antineoplastic treatment (chemotherapy, an-tibodies, kinase-inhibitors, relevant
+      co-medication etc.) are recorded. Also, data on diagnosis of Ig-levels (IgG, IgA, IgM),
+      therapy of secondary immunodeficiencies as well as the number and severity of occurred
+      in-fections and their treatment is collected. Clusters for classification of in-fections will
+      be developed (e.g. life-threatening, need for hospitalization).
+
+      In order to ensure data quality, the scientific project lead will provide training for two
+      employees of the commissioned institute on matters re-garding the content of the study. This
+      knowledge will be incorporated into the programming of the user interface and the patient
+      databases so that the program will check for completeness and, as far as possible,
+      plausibility, on the basis of defined requirements and constraints. These checks accompany
+      the process of entering data into the eCRF and allow for validating data instantly. If
+      inconsistencies, mistakes or omissions are detected, data will be validated by an integrated
+      query management system.
+
+      Physicians questionnaire (phase 3)
+
+      In an additional step and alongside the patient documentation, the at-tending physicians in
+      participating centers will be surveyed (phase 3) on their competency profile, their
+      assessment of guideline quality and their approach to avoid infections of CLL and MM
+      patients.
+    
+  

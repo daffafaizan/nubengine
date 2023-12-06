@@ -1,0 +1,80 @@
+
+    
+      Study rationale:
+
+      Colonoscopy plays a key role in all colorectal cancer (CRC) screening modalities. An
+      important limitation of colonoscopy remains that the diagnostic accuracy and therapeutic
+      safety of colonoscopy both depend on several physician and patient-related factors.
+      Significant amounts of polyps are missed during colonoscopy and severe untoward effects still
+      occur in 0.1%-0.3% of all colonoscopy procedures, even among expert examiners. Moreover, the
+      burdensome nature of the procedure and the necessity of full bowel preparation negatively
+      influences participation rates and the use of colonoscopy as a CRC screening test is limited
+      by healthcare costs and the expertise needed to perform the screening. These disadvantages of
+      colonoscopy warrant the development of a new, non-invasive, accurate CRC screening test.
+
+      An electronic nose device is an artificial olfactory system that analyses volate organic
+      compounds (VOCs) in exhaled breath. The use of electronic noses has already been assessed as
+      a potential non-invasive diagnostic biomarker test for lung cancer, breast cancer and
+      malignant melanomas. The present study aims to investigate the diagnostic accuracy of exhaled
+      breath analysis with the AeonoseTM (The eNose Company, Zutphen, the Netherlands) to
+      distinguish the breath of patients suspected for CRC (based on a positive fecal
+      immunochemical test (FIT)), who are truly diagnosed with CRC, from patients suspected for CRC
+      in whom this diagnosis is rejected after colonoscopy.
+
+      Objectives:
+
+        -  To investigate the diagnostic accuracy of exhaled breath analysis with the AeonoseTM to
+           distinguish the breath of patients suspected for CRC based on a positive FIT test, who
+           are truly diagnosed with CRC, from patients suspected for CRC in whom this diagnosis is
+           rejected after colonoscopy.
+
+        -  To investigate the diagnostic accuracy of exhaled breath analysis with the AeonoseTM for
+           other (pre-)malignant colon lesions (e.g. advanced adenomas, non-advanced adenomas, and
+           sessile serrated lesions).
+
+        -  To assess the acceptance rate of using the AeonoseTM device.
+
+      Study design: The present multicenter study will include 1950 FIT-positive patients. The
+      study will be conducted in seven hospitals in the Netherlands. First a database of breath
+      prints will be developed to detect CRC. In this study phase the AeonoseTM will be trained and
+      the database of breath prints will be verified using "leave 10% out" cross validation. After
+      the calibration phase the diagnostic accuracy of AeonoseTM will be assessed in new study
+      patients (external validation).
+
+      Study population: Patients between the ages of 55 and 75 years old with a positive FIT-test
+      referred for a colonoscopy procedure.
+
+      Main study parameters/endpoints:
+
+        -  The ability of AeonoseTM to distinguish between patients with and without CRC in a
+           FIT-positive population in terms of sensitivity and specificity.
+
+        -  The diagnostic accuracy of AeonoseTM for other (pre-)malignant colon lesions.
+
+        -  Acceptance rate of AeonoseTM
+
+      Statistical analysis:
+
+      Data on demographic and baseline characteristics will be summarized for continuous variables,
+      in case of normal distribution by mean and standard deviation, and in case of non-normal
+      distribution by median and interquartile range. For discrete variables (eg, race and sex)
+      data will be summarized by proportions (percentages). Differences in baseline characteristics
+      will be determined using independent sample t test, Fisher's exact test or Chi-square test,
+      when appropriate. A 2-sided p-value <0.05 will be considered statistically significant.
+
+      The data will be analyzed by an artificial neural network (ANN) to identify data classifiers
+      to extract differences between the patterns in patients by the presence or absence of CRC in
+      biopsies. By analyzing a group of breath prints from patients with and without CRC,
+      individual differences of diet, medications, co-morbidities, and other factors can be
+      filtered out to identify features that distinguish the compounds of patients with CRC. This
+      process continues until a selected level of discrimination is met. Data compression and ANN
+      have been integrated in a proprietary software package (Aethena) of the eNose Company
+      (Zutphen, the Netherlands).
+
+      The binary results will be presented in a scatterplot and a receiver operating
+      characteristics curve (ROC-curve). Matthews correlation coefficients will be calculated to
+      measure the quality of binary classifications. Cross-validation of the data will be performed
+      using a leave-10%-out method. A portion of the data is left out to predict the most optimal
+      model.
+    
+  

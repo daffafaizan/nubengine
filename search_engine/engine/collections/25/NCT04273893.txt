@@ -1,0 +1,31 @@
+
+    
+      Lymphopenia, a known consequence of radiation therapy to virtually every part of the body,
+      was first described in the early 20th century shortly after the discovery of X-rays.
+      Radiation therapy (RT) can induce lymphopenia in the absence of concomitant chemotherapy or
+      steroids and even when neither bone marrow nor lymphatic tissue is included in the treatment
+      field. It is highly possible that irradiation of blood rich organs such as the great vessels,
+      would reduce the lymphocyte count significantly. Given this known radiation-induced toxicity,
+      circulating blood should be considered an organ at risk during irradiation, and efforts
+      should be made to understand the toxicity from radiation to circulating blood -normal tissue
+      complication probabilities (NTCP) so that this may be included in the optimization strategy
+      during radiation treatment.
+
+      Additionally, recent data have suggested that lymphocyte subsets exhibit differential
+      sensitivity to radiation, with helper CD4+ T cells being more sensitive than cytotoxic CD8+ T
+      cells in glioblastoma (GBM) treated with RT and temozolomide, and naïve T cells more
+      sensitive than memory T cells in prostate cancer.
+
+      Based on existing data on the effects of irradiation on total lymphocyte count and the
+      effects on subsets of T cells, the investigators have created a lymphodepletion predictive
+      algorithm. In this clinical trial, the investigators will test whether optimized SBRT plans
+      lead to lower lymphocyte depletion and whether the algorithm can accurately predict
+      lymphocyte decreases following SBRT. Optimized SBRT plans will meet all standard of care
+      dose-volume objectives for SBRT and for protection of organs-at-risk (OAR), but will also
+      reduce radiation to the regional great vessels, lungs, and heart beyond what is currently
+      optimized to reduce the integral dose to circulating blood/lymphocytes. This study will allow
+      us to evaluate the performance of our predictive algorithm for post-SBRT decrease in
+      lymphocyte count and to determine whether additional steps in SBRT planning will deliver
+      lower risk of post-SBRT decreases in lymphocyte count.
+    
+  

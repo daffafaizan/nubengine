@@ -1,0 +1,98 @@
+
+    
+      Dietary patterns with high fiber content are linked to a lower risk for the development of
+      cardiovascular disease [1-3], hypertension [4], type 2 diabetes [5] and increased body weight
+      [4]. Potential biological mechanisms that may mediate these beneficial health effects include
+      a slowing of the absorption of meal carbohydrate (CHO) [6-11], reduction in blood lipids
+      [8,12] and an increase in the release of satiety hormones [10,13]. The PI has previously
+      shown that compared to low-fiber (LowFi) meals, high-fiber (HiFi) meals reduced blood glucose
+      concentrations postprandially by 11% [14]. Another potential mechanism is a postulated role
+      for microbial fiber fermentation to improve health through production of the short chain
+      fatty acids (SCFA) acetate, propionate, and butyrate [15-17]. In addition to promoting colon
+      health, butyrate production may stimulate release of the gut hormones, glucagon-like
+      peptide-1 GLP-1 and peptide YY (PYY) [18] resulting in improved appetite regulation [19].
+      Since the seminal paper of Gordon in 2004 [20], a large body of research has uncovered the
+      critical role that gut microbes play in health. Importantly, much of these data, including
+      findings supporting a beneficial role of SCFA [21-23] have been derived from animal studies.
+      Human studies are now needed to advance the translational significance of rodent studies and
+      the potential benefit of fiber on microbial metabolites and cardiometabolic health, glucose
+      regulation, appetite and satiety. The current study will determine the effects of dietary
+      fiber intake on appetite, intestinal metabolism, and the microbiome. We hypothesize that the
+      mechanisms by which dietary fiber provides metabolic benefit include direct physical effects
+      in the upper gastrointestinal (GI) tract to slow nutrient absorption and indirect effects to
+      reduce food intake mediated by SCFA-induced secretion of GI hormones resulting in increased
+      satiety. To test this hypothesis, we will conduct a randomized controlled trial of 4 weeks of
+      HiFi or LowFi diets in 44 subjects (specific aim 1, SA1) and also leverage a screening
+      colonoscopy to standardize baseline microbial populations for a 3-week, pre- and post HiFi
+      intervention study in 26 subjects (SA2) with metabolic syndrome. We will assess the effects
+      of the diets on appetite and satiety, cardiometabolic risk and intestinal metabolism at the
+      beginning and at the end of the feeding interventions. The fiber chosen is derived from peas,
+      as recent data suggest that legumes significantly improve glycemia [6,24-27], diabetes
+      [28,29], heart disease risk [30], and risk for obesity [31]. These methods will be employed
+      to accomplish two specific aims.
+
+      SA1a: Test the effect of a HiFi diet on appetite and satiety and whether SCFA production
+      mediates improved satiety in HiFi feeding. Hypothesis (H) 1a: In adult men and women, the
+      HiFi (n=22) compared to the LowFi (n=22) diet will significantly improve markers of satiety
+      (GLP-1, PYY, subjective appetite ratings) and lower activation in brain regions that control
+      food intake/reward/appetite while increasing activation in executive control regions during
+      functional magnetic resonance imaging (fMRI) visual food cues. These changes will be related
+      to higher postprandial SCFA concentrations and altered microbial populations as evidenced by
+      greater bifidobacteria levels and low Firmicutes to Bacteroidetes ratio.
+
+      SA1b: Determine whether a HiFi diet improves cardiometabolic health. H1b: A HiFi diet will
+      result in lower glycemia, blood lipids, blood pressure, and waist circumference compared to a
+      LowFi diet.
+
+      SA2: Quantitate the changes in microbial composition and colonic SCFA production rate (using
+      stable isotopic infusion techniques) on HiFi diet feeding (n=26) and whether any changes are
+      potential mediators of observed benefits on satiety and cardiometabolic risk factors. H2: A
+      significant microbial species reduction will follow colonoscopy bowel prep, and repopulation
+      after HiFi will be characterized by greater bifidobacterial and low Firmicutes/Bacteroidetes
+      ratio. An increase in SCFA flux following HiFi will be associated with improvements in
+      microbial composition and postprandial markers of satiety and blood triglycerides and glucose
+      excursions.
+
+      Sample size Based on our own published [14] and unpublished data, and that from others
+      [32-35], a power analysis revealed that a sample size of between 10 to 20 subjects/group is
+      needed to detect significant differences in key variables (alpha 0.05) and a power of 90% (15
+      to 18 subjects/group with 80% power). For specific aim 1, we will add 2 subjects/group to
+      account for a 10% subject dropout and for specific aim 2, we will add an additional 6
+      subjects to account for 30% dropout. Thus, for specific aim 1 44 subjects (22/group) and for
+      specific aim 2, 26 subjects are analyzed in a repeated-measures design. We believe any
+      dietary fiber effect smaller than past, published treatments will be balanced by the relative
+      'clean' starting point of the colon after colonoscopy (specific aim 2) and also by the fact
+      that we are providing all study meals and hence fully controlling the subject's intake
+
+      Data analysis:
+
+      Statistical analysis will be performed with SPSS software (version 25). Graphical methods are
+      used to assess the appropriateness of assuming linear relationships and histograms and
+      probability plots used to assess the normality of residuals. Transformation or non-parametric
+      methods will be, employed as needed. Fasting glucose and hormones concentrations will be,
+      obtained serially - both acutely after meals and in the fasting state before and after the
+      diets. Changes over time (treated as a nominal factor so as not to assume a linear trend) and
+      by diet in the composition of the microbiome will be assessed by grouping into the dominant
+      bacterial phyla (i.e. Actinobacteria, Bacteroidetes, Firmicutes, Proteobacteria and
+      Tenericutes) and genus. For SA1, a two-factor ANOVA will be used for each outcome, with the
+      factors being Group, Time and the Group by Time interaction. The groups are constructed via
+      matched-sample randomization, so we expect comparability at baseline. For SA2, a paired
+      sample t-test will be used to compare outcomes of interest. Results will be reported as group
+      means or medians, as most appropriate for the data along with 95% confidence intervals for
+      the summary statistics. Analyses of the fMRI data during visual stimulation are performed
+      using Statistical Parametric Mapping 12 software (www.fil.ion.ucl.ac.uk/spm). Data are
+      preprocessed, beginning with slice timing and realignment of the images to the mean image.
+      The anatomical T1-weighted image is co-registered to the mean functional image. Normalization
+      into Montreal Neurological Institute (MNI) space and Gaussian spatial smoothing is then
+      performed. For each participant (first-level analyses), a general linear model is applied for
+      the high- and low-caloric food and non-food image conditions. For each condition, a separate
+      regressor is modeled by using a canonical hemodynamic response function that includes time
+      derivatives. Movement parameters are, modeled as confounders. For second level analysis, a
+      mixed model ANOVA is used, with the within-factor, image condition (high calorie food, low
+      calorie food, non-food|) and the between-factor group (HiFi vs LowFi). A priori
+      regions-of-interest (ROIs) such as, insula, orbitofrontal cortex, amygdala, and prefrontal
+      cortex are examined for potential group-by-food image interactions (the effect of most
+      interest). Whole-brain analyses are also conducted (corrected for multiple comparisons) to
+      identify other potential ROIs.
+    
+  

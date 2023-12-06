@@ -1,0 +1,40 @@
+
+    
+      There is an unresolved difficulty in the evaluation of haemorrhagic symptoms in
+      thrombocytopenia due to the very nature of the scale, which is the international standard at
+      this time (WHO scale). This scale is based on the level of blood loss and is applicable to
+      any haemostasis disorder. We will keep it as the standard but have decided to be particularly
+      rigorous in the data collection and will perform daily haemorrhagic assessment.
+
+      Several sequences of missing data can be imputed for one patient. Each sequence of missing
+      data will be replaced if and only if the number of consecutive days missing does not exceed
+      15%* of the total length of the patient's stay. If one sequence of missing data is longer
+      than the 15%, no replacement will be done for the patient. (Example: If the total stay is 30
+      days, the maximal length of a missing data sequence accepted is 4 days). The following
+      strategies will be used to replace missing data:
+
+      • The first observation is missing: Next observation carried backwards (NOCB) assigns the
+      next known score after the missing value to the missing one.
+
+      • The last observation is missing: Last observation carried forward (LOCF) assigns the last
+      known score before the missing value to the missing one. (Suppose that the situation is
+      stable whilst the patient is leaving the hospital.)
+
+      • Sequence of one or several missing data with non-missing data before and after the
+      sequence: Last and Next1 assigns the average of the person's last known and next known
+      observation to the missing value. The score is rounded down to the nearest whole number if
+      needed. (Ex mean (1+2) =1)
+
+      * 15% rounded up to nearest whole number.
+
+      1 : Engels, J.M. 2003. Imputation of Missing Longitudinal Data : a Comparison of Methods.
+      Journal of Clinical Epidemiology 56 (2003) 968-976
+
+      Following a quality analysis of EFFIPAP study's recruitment, it was decided by the sponsor to
+      increase the number of patients. Approximatively thirty additional patients will be included
+      in order to replace non analyzable patients for the following reasons : wrongly included,
+      non-transfused patients, consent withdrawal. Those 30 additional patients will allow us to
+      reach our initial target of 810 analyzable patients in order to respond to the main objective
+      of the study
+    
+  

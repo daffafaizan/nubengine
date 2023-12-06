@@ -1,0 +1,56 @@
+
+    
+      The SEXSI trial is a pragmatic, assessor and participant blinded, randomized, controlled,
+      superiority trial, with a two-group parallel design. Patients with subacromial impingement
+      syndrome will be randomized to either usual care or a home-based intervention consisting of
+      progressive high volume resistance training in addition to usual care using a 1:1 allocation.
+      The primary end-point will be change in the Shoulder Pain and Disability Index (SPADI) 16
+      weeks after baseline.
+
+      The overall frame for the trial is a main clinical effectiveness-part and an embedded
+      mechanistic part. The clinical effectiveness-part will be reported in the main trial paper,
+      and include the following outcomes: SPADI (primary outcome), Abduction strength, External
+      rotation strength, Abduction ROM, Pain last week, QoL-index, QoL-VAS, Global impression of
+      change and PASS. Missing outcome data will be imputed using multiple imputations based on the
+      following variables: All previous scores in the relevant outcome, Age, Gender and Allocation.
+
+      A full trial protocol will be published and made publicly available. A constrained Linear
+      Mixed Model (cLMM) will be applied for all continuous outcomes with Time Frame 16 weeks
+      (including the primary outcome), to compare the change from baseline to 16 weeks in the
+      intervention group (IG) to that in the control group (CG). The outcome at 16 weeks will be
+      included as dependent variable, treatment group (IG or CG) as main effect and both baseline
+      score and any additional follow up measurements as repeated measurements. The covariance
+      structures will be selected based on the MAICE procedure. Binary outcomes will be reported as
+      proportions with corresponding 95% confidence intervals, and will be compared using
+      Chi-squared tests, and Odds Ratios computed from random effects logistic regression models.
+      All of these analyses will be conducted as intention to treat (ITT) analyses, including all
+      randomized participants, regardless of protocol adherence, meaning that all participants will
+      be analysed as randomized. In the primary trial report, all collected outcomes will be
+      listed, and it will be stated that the below-mentioned variables - belonging to the
+      mechanistic part - will be reported in secondary publications.
+
+      The mechanistic part will be reported in secondary papers with a clear reference to the
+      primary trial and trial registration, and it will hold the label "secondary analyses from a
+      pragmatic randomized controlled trial" in the title. The following outcomes will be reported:
+
+      Outcomes regarding pain sensitization (temporal summation of pain, conditioned pain
+      modulation, pain pressure threshold and pain catastrophizing) will be reported in a
+      subsequent paper where we also plan to investigate:
+
+        -  the modifying effects of pain sensitization on the effectiveness of the add-on
+           intervention
+
+        -  the dose-response relationship between objectively monitored adherence to the add-on
+           intervention and change in SPADI, shoulder abduction strength and external rotation
+           strength
+
+        -  the dose-response relationship between pain sensitization and change in SPADI, shoulder
+           abduction strength and external rotation strength, and to what degree this is mediated
+           through adherence to the intervention.
+
+      Outcomes regarding scapula dyskinesia and scapula dysfunction will be reported in another
+      subsequent paper, were we also plan to investigate the modifying effects of scapula
+      dyskinesia and scapula dysfunction on the effectiveness of the intervention on changes in
+      SPADI, abduction strength and external rotation strength.
+    
+  

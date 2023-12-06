@@ -1,0 +1,135 @@
+
+    
+      Specific Aim 1: To induce a remapping of primary motor function by pairing deficit-inducing
+      cortical stimulation with targeted physiotherapy after an initial maximal safe, but subtotal,
+      resection (i.e. standard of care).
+
+      Introduction. The objective for this aim is to demonstrate the ability to induce
+      glioma-involved hand M1 remapping with an ICS-TBT protocol using the RNS System (responsive
+      neurostimulation device) to enable an extended EoR (extent of resection) upon a second
+      surgery before the tumor has significantly grown. The working hypothesis is that the proposed
+      protocol will mobilize motor function enough to allow extended resection during a second
+      surgery without an associated permanent loss of function. My approach involves implanting the
+      RNS System in 3 patients with M1-involved gliomas after they undergo a maximal safe, but
+      subtotal, resection (i.e. current SoC (standard of care)). An outpatient ICS-TBT (inhibitory
+      cortical stimulation-targeted behavioral therapy) protocol will then be initiated based on
+      the previously demonstrated principles with our newly proposed techniques. The rationale for
+      this aim is to provide initial evidence for the ability of this technique to safely induce
+      plasticity in this anatomical location and patient population. The expected outcome will be a
+      demonstration of the remapping of hand M1 function and a corresponding extended resection
+      without permanent neurological deficit upon a second surgery.
+
+      Preliminary Evidence. It is well established that the function inherent to certain critical
+      cortical nodes, i.e. movement and speech generation, can remap to new areas after years of
+      slow tumor invasion. Recently, however, such plasticity was accelerated by delivering
+      deficit-inducing cortical stimulation (130 Hz) with implanted subdural grids. While this
+      protocol generated remapping that enabled further resection in 5 patients, it also required
+      an average inpatient stay of 33 days and unacceptable infectious morbidity, making it not a
+      widely applicable protocol. The FDA-approved NeuroPace RNS device is fully implantable and
+      can deliver similar stimulation in the outpatient. In fellowship, the investigator became
+      well trained in the implantation of this device, and wrote a review of 57 consecutive cases
+      at their institution without a single reported infection, lead migration, or hemorrhage.
+      Similar technique will be applied to the proposed study.
+
+      Research Design. This is a proof-of-concept study to be performed on 3 patients over
+      approximately 3 years.
+
+      Participants: Patients with radiographical evidence of lesions consistent with WHO grade II
+      gliomas (i.e. non-enhancing lesions) involving hand M1 will be eligible for this study. WHO
+      grade IV gliomas (glioblastomas) will not be considered due to their shorter life
+      expectancy4, and WHO grade I gliomas will also not be included because they are more likely
+      to receive a GTR (gross total resection). Patients with tumors invading or abutting primary
+      motor cortices on structural and functional MRIs such that GTR is anticipated to be unlikely
+      during initial resection as SoC will be targeted. Outside of active pregnancy, Neither sex
+      nor gender will be considered inclusionary nor exclusionary as it is not expected to affect
+      outcome and due to the small study N.
+
+      Initial Surgery: Subjects will undergo an awake craniotomy for maximal safe tumor resection
+      with DES (direct electrical simulation) motor mapping and continuous motor monitoring
+      consistent with SoC and the anatomy of their lesion. Upon completion of the resection, a
+      final DES map will be obtained, and an intraoperative MRI will be taken. If a GTR has been
+      achieved, there is evidence of tumor widespread beyond the intraoperative functional map, or
+      the final DES suggested new injury to motor pathways, the case will be concluded, consistent
+      with SoC, and the patient will exit the study. Otherwise, if there is evidence of residual
+      tumor which cannot be resected due to invasion of hand-M1 but which is small enough to be
+      covered by two four-electrode strips, these strips will be placed on the functional cortex of
+      interest and secured to the dura. The location of the leads will be registered into the
+      navigation software (either Medtronic Stealth or Brainlab). The dura will then be closed as
+      watertight as possible, and the RNS System will be incorporated into the craniotomy on
+      closure. Prior to closure, four bone screws will be placed and registered to the
+      intraoperative navigation system as internal fiducials to be retrieved for future procedures.
+      Despite the newly proposed indication, the surgical technique used to implant the device is
+      similar to those in combined subtotal resection epilepsy cases. Therefore, the device-related
+      risk profile is expected to be similar.
+
+      ICS-TBT Protocol: When the patient is clinically ready for discharge, prior to leaving the
+      hospital and removing any intravenous lines, the patient will undergo another complete
+      neurological examination and measurement of grip and pinch strength on a dynamometer. An
+      extra-operative cortical stimulation map (ECSM) will be performed through the implanted
+      electrodes using parameters similar to intraoperative mapping.
+
+      After the ECSM is obtained, ICS will begin. Initial stimulation parameters will be chosen to
+      closely approximate previously published parameters of 130 Hz and 1 ms pulse width, and they
+      will be adjusted to clinical effect (i.e. a measurable decrease in strength on the Manual
+      Motor Scale and/or dynamometer). The stimulation intensity at each electrode contact (or
+      pair) will be increased by approximately 0.5 V increments every 3 minutes until the threshold
+      for induction of weakness is discovered. Grip and pinch strength will be remeasured, and
+      stimulation will be set at this threshold so that the patient might recover the corresponding
+      disrupted function through daily intensive TBT practice. If this threshold is set without
+      incident, ICS will remain on and the patient can be discharged after 1 hour of observation.
+      Further sessions can be conducted on an outpatient basis. If stimulation induces a seizure,
+      the stimulation will be paused and the patient will be treated as clinically necessary. If a
+      seizure occurs that requires medical intervention, the stimulation will be paused and may be
+      turned back on the following day with lower settings up to three more times. If it is
+      determined that stimulation cannot be tolerated without seizure induction, no further ICS
+      attempts will be made for that patient.
+
+      Once a mild deficit is induced, a TBT regimen of movements focused on rehabilitating the
+      affected area will be established. Supervised sessions will be conducted 5 days per week for
+      1 hour per session, and patients will be encouraged to continue unsupervised practice
+      (self-applied training) at home. Such sessions will continue until an increase of 1.0 V from
+      the previous session no longer induces any measurable deficit, at which point the patient
+      will undergo another ECSM and may be considered a candidate for a second surgery. Previous
+      patients received stimulation for an average of 16 days as inpatients; a similar timeline is
+      anticipated here, with the possibility of extending up to 2 months if continued deficits are
+      seen. If no improvements change is seen at 2 months, the patient will be offered a second
+      surgery at that time to retest the DES map and explant the device.
+
+      As the RNS System is designed to deliver stimulation in response to a detection algorithm (as
+      opposed to continuous stimulation), the device will be set to its longest stimulation
+      duration of 10-seconds and the lowest possible threshold for triggering. This will
+      essentially trigger a responsive stimulation therapy constantly with a downtime of about
+      100-300ms between stimulations (i.e. 97-99% continuous stimulation). It is anticipated that
+      this is to be essentially equivalent to 100% continuous stimulation. Battery life is expected
+      to be sufficient for the proposed trial period, with the option of replacing the battery in
+      case of longer-than-expected stimulation requirements with evidence of progress.
+
+      Second Surgery: After opening the previous wound, the bone screw fiducials will be
+      re-registered to the neuro-navigation system and lead locations will be reconfirmed. The RNS
+      System will then be explanted. An intraoperative MRI with and without contrast will be
+      obtained at this point to re-assess the tumor status (note that the RNS System precludes MRIs
+      on magnets over 1.5T and with a head coil), and another intraoperative DES map will be
+      obtained. Two attending neurosurgeons will discuss the results, and, if it agreed to be safe
+      to proceed, an extended resection will be performed with continuous motor monitoring. Once
+      the extended resection is completed based on functional constraints and tumor location,
+      stable monitoring will be confirmed, and a final intraoperative MRI will be obtained. The
+      wound will then be closed in the standard fashion, repairing the skull defect from the device
+      with a titanium mesh plate. Standard post-craniotomy clinical care will be followed.
+
+      Outcome Measures, Analyses, and Expected Outcome: Hand strength will be assessed by the
+      Manual Motor Scale and dynamometer grip and pinch strength. Upper extremity function will be
+      assessed with the Nine-Hole Peg Test (NHPT) and Duruoz Hand Index survey. Formal assessments
+      will occur preoperatively, after the first surgery, before the second surgery, after the
+      second surgery, and then weekly until the results return to within baseline (i.e. within the
+      previously validated minimal clinically important difference [MCID]) or at 3 months. Extent
+      of resection will be calculated as: (preoperative tumor volume - postoperative tumor
+      volume)/preoperative tumor volume. Determination of volumes will be made by an attending
+      radiologist without knowledge of clinical outcome. Manual segmentation will be performed to
+      measure tumor volumes based on fluid-attenuated inversion recovery (FLAIR) axial slices. The
+      expected outcome is that all assessments of hand strength and function in all three patients
+      will return to within the MCID for their respective scales by 3-months postoperatively with a
+      radiographically measurable increase in EoR from the first to second surgery, thereby
+      demonstrating the first safe resections into previously unresectable hand M1 enabled by ICS
+      delivered through a fully implanted device.
+    
+  

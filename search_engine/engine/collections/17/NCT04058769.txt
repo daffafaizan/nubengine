@@ -1,0 +1,66 @@
+
+    
+      Type of study:
+
+      Monocentric, prospective cohort study
+
+      Procedure for informing and obtaining consent:
+
+      Patients who are prepared for surgery in the anesthetic outpatient department or enrolled in
+      the pre-medication list and who meet all inclusion criteria and no exclusion criteria will be
+      identified before the anesthesia consultation. The patients will be informed about the
+      purpose and the course of the study in oral and written form, after which the written consent
+      of the patient will be given before the study-relevant data and examinations are carried out.
+
+      Description of the data sources (medical records, questionnaires, etc.):
+
+      Data Sources: Patient's medical history, patient history and physical examination, data on
+      standardized Thieme Compliance anesthesia sheets, and existing findings, either external,
+      patient-brought or in-house findings from the SAP. These data are entered into the PDMS. The
+      name of the premedic anesthetist is not relevant for the evaluation and will not be
+      deposited.
+
+      Listing / description of the data to be collected:
+
+      With the PDMS, all anesthesia-relevant data is collected. These include the history of the
+      patient, current complaints, medication history, physical examination and findings from
+      supplementary equipment examinations. The data of the anonymized control group are extracted
+      exclusively from the PDMS.
+
+      Timing (appointments) for the individual study participant:
+
+      After the patient has been informed and has consented, after randomization either the
+      premedication as usual with the "old PDMS module" is performed and then a second time with
+      the new software module by another doctor or vice versa, first with the new software and then
+      in the traditional way. This type of cross-over design is done to avoid carry-over effects.
+      The conventional premedicating physician does not know about the patient's participation in
+      the study and makes the decision about the OP release as well as any necessary additional
+      examinations in the usual way and dismisses the patient with the usual pre-hospitalization
+      standard.
+
+      The premedication with the new software module is carried out by a doctor who has been
+      trained in it and does not know the result of the first premedication interview. With the
+      help of the new software, the decision on release and possible additional examinations is
+      also made here. The data from the two premedication interviews are stored in xml format in
+      the MRI Data Room and entered in a pseudonymized form in a database. This is done promptly on
+      the day of premedication. A specialist trained in the guidelines, who is blinded to the
+      premedication procedure, compares the results of both premedications. He decides whether the
+      release was correct in both of the above cases or not. If it turns out that the results of
+      both premedications differ and possibly a revision of the premedication document is
+      necessary, unblinding and, if necessary, correction of the premedication document takes
+      place.
+
+      Furthermore, the time required for the premedication interview is analyzed as well as the
+      correct arrangement of additional examinations. The secondary outcome parameters are
+      collected using the KIS (clinic information system) and PDMS.
+
+      As a comparison population with respect to the secondary endpoints, a conventionally
+      premedicated patient collective, whose anonymized data is extracted from the existing PDMS
+      database, is used in the same period. The endpoint of the comparison is the occurrence of
+      postoperative complications corresponding to a clavia-dindo score of ≥ 3. This corresponds to
+      the events of re-intervention, admission to intensive care unit or death.
+
+      Expected end of data collection With hospital discharge, the data collection for the
+      individual patient is completed.
+    
+  

@@ -1,0 +1,36 @@
+
+    
+      Developing machine learning models that have a strong prediction power for diagnosis of
+      appendicitis from physician entered free text input can improve diagnostic accuracy of
+      doctors. It also offers the possibility of using prediction algorithms to improve routine
+      clinical care. In the future, multiple machine learning models can be combined to increase
+      prediction accuracy and prediction algorithms can be extended to other diagnoses.
+
+      18,000 cases of emergency department presentations over 10 years were used as a training and
+      validation dataset. To develop the appendicitis prediction model, deep learning neural
+      networks with a customized medical ontology were used. The diagnostic accuracy of the model
+      is expressed as sensitivity (recall), specificity and F1 score (harmonic mean). The developed
+      diagnosis predictive model shows high sensitivity (86.3%), specificity (91.9%) and F1 score
+      (88.8) in diagnosing appendicitis from patients presenting with abdominal pain.
+
+      The predictive model algorithm will also highlight words in the free text (entered by the
+      attending physician) that it assigns higher probability for predicting an outcome. The
+      doctors will be instructed to provide a percentage likelihood of appendicitis based on the
+      clinical presentation and any available laboratory investigations. The doctor is then shown
+      the prediction of the algorithm as well as the highlighted words for the patient entered.
+      He/she must then provide another prediction of the likelihood of appendicitis after seeing
+      the algorithm generated prediction.
+
+      The aim is to evaluate the performance of the algorithm and to assess if usage of the
+      algorithm is able to help emergency doctors improve their diagnosis of appendicitis. The
+      prediction results will be tabulated to assess accuracy of the algorithm, doctors before
+      algorithm input and doctors after receiving algorithm input. The accuracy will be expressed
+      as sensitivity, specificity, accuracy, positive prediction value, F1 score and F0.5 score.
+
+      Approximately 100 emergency doctors will be recruited over the course of 1 year as
+      participants in the study. The doctors will be split randomly assigned to two groups - the
+      algorithm arm and the no algorithm arm. The randomization will be by time (weekly) using
+      variable block randomization of 4 and 6. The patients will be followed up for the final
+      discharge diagnoses.
+    
+  

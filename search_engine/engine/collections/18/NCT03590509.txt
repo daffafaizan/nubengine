@@ -1,0 +1,177 @@
+
+    
+      Background Children with medical complexity (CMC) have one or more chronic illnesses, require
+      treatment from multiple specialists, and often depend on medical technology for respiratory
+      and nutritional support.6 Their care is fragmented, ineffective, and inefficient,2,7 and
+      while they represent only 0.4% of all children in the US, they account for approximately 40%
+      of pediatric deaths and hospital charges.6
+
+      Optimizing their outcomes is likely to require a comprehensive approach to their care in all
+      settings: clinic, hospital, and home. The investigators have developed effective programs for
+      their clinic and hospital care and now propose to add an innovative program to improve care
+      in the home and verify its incremental cost effectiveness.
+
+      The clinic component is provided in the High-Risk Children's Clinic (HRCC), an enhanced
+      medial home for CMC staffed by a highly experienced team of nurse practitioners,
+      pediatricians, and pediatric subspecialists. The multiple features to promote prompt
+      effective care at all hours include 24/7 cell-phone access to the PCPs. As shown in the prior
+      randomized trial (funded by a CMS Health Care Innovation Award), this program reduced ED
+      visits, hospital days, and ICU days by 47-69%, and health system costs by $10,258 per
+      child-year below that with usual care. This trial was published in JAMA,2 highlighted by CMS,
+      and attracted national attention as the most rigorous evidence to date supporting medical
+      homes for patient group.8,9 The remarkable cost effectiveness of this program was found in
+      later cohort analyses to have been well maintained or enhanced when the program was expanded
+      to include all eligible CMC, including prior control children and new enrollees.3
+
+      The hospital component is an inpatient consultation service in which the HRCC staff consult
+      and follow their patients admitted to Children's Memorial Hermann Hospital (CMHH) to make
+      treatment recommendations, coordinate care, and plan their discharge. The investigators
+      randomized half of HRCC patients to receive this service in pilot testing. Results indicate a
+      major reduction in inpatient days for patients given the service vs. those not given the
+      service: 289 vs. 615 total hospital days/100 child-years with a 95% (posterior) probability
+      of reduced hospital days in Bayesian analysis (rate ratio [RR], 0.62 [0.36, 1.09]). Having
+      improved both inpatient and outpatient care, the investigators now propose to develop and
+      rigorously assess a novel integrated telemedicine-home-visitation program (THVP) to also
+      augment care for CMC in their home. The investigators will test the program in a clinical
+      trial to verify its effectiveness and cost-effectiveness in reducing total days of care
+      outside the home and to augment clinical practice and health policy.
+
+      Rationale and Evidence Base
+
+      As emphasized by Hoffman and Emanuel10:
+
+      "Clinicians need to abandon their long-established approach of caring for patients in the
+      hospital or the office…Patients spend most of their time away from the health care system and
+      the focus has to be one of managing their health literally where they live with much more
+      wireless monitoring, electronic and phone visits, at-home care, and patient engagement."
+
+      Reducing the need for care outside the home is likely to be especially beneficial for CMC;
+      >90% are Medicaid beneficiaries. Their parents have limited resources and many find it
+      difficult or costly to miss work and travel to Texas Medical Center. Moreover, any time spent
+      in a medical setting imposes a risk of acquiring serious, even life-threating infections for
+      CMC.
+
+      A systematic review by AHRQ in 201611 reported that: 1) telemedicine promotes positive
+      outcomes for chronically ill adults but has received little study for CMC, and 2) research to
+      identify cost-effective models of telehealth deserves high priority.
+
+      Home visits have been widely recommended to improve care and reduce clinic visits and
+      hospitalizations.12-15 However, systematic reviews of home visitation have emphasized the
+      need for further study, particularly for socially high-risk children.13
+
+      To maximize the potential benefits, the investigators will provide both interventions in an
+      integrated program. The investigators will randomize the CMC in the HRCC to receive either
+      the usual complex care (UCC [including comprehensive outpatient care and inpatient
+      consultation] or THVP (UCC plus this telemedicine-home-visitation program)
+
+      Study Hypotheses
+
+      Primary Hypothesis: THVP will reduce days of care outside the home (in the hospital, ED, or
+      clinic [excluding well-child checks]).
+
+      Secondary Hypotheses:
+
+        1. THVP will reduce the rate of serious illness (death, PICU admission, or prolonged
+           hospitalization >7 days);
+
+        2. THVP will reduce the total number of ER visits;
+
+        3. THVP will reduce the total number of admissions;
+
+        4. THVP will reduce the total number of PICU admission
+
+        5. THVP will reduce the total number of readmissions within 30 days of discharge;
+
+        6. THVP will reduce health system costs;
+
+        7. THVP will not reduce the total number of well-child checks;
+
+        8. THVP will increase maternal rating on pre-selected questions of The Consumer Assessment
+           of Healthcare Providers and Systems (CAHPS) Child 12-Month Survey;
+
+      Methods
+
+      Enrollment and Randomization: The UTH institutional review board has reviewed this study and
+      determined that it does not qualify as human subject research. As a result, the study was
+      registered within the UTH QI Project database. Partly because of differences in the number of
+      routine visits, all eligible CMC will be stratified by age (< 2 years or older), and by
+      estimated baseline risk (risk level 1 [mechanical ventilation], risk level 2 [equal to or
+      above the expected median risk but not ventilator-dependent], and risk level 3 [below the
+      expected median risk]), as judged by the clinic's medical director [R. Mosquera] based on
+      patient's diagnoses, prior clinical course, current medical status, and socioeconomic risk
+      factors. Patients will be randomized to either THVP or UCC using a computer-generated
+      algorithm in REDCap with variable block sizes. Randomization will occur at baseline for the
+      existing HRCC patients, before hospital discharge for newly enrolled patients with chronic
+      respiratory failure requiring mechanical ventilation at home, and during the first clinic
+      visit for any eligible new non-ventilator dependent children. Patient enrollment will occur
+      between July 2018 and June 2020.
+
+      Integrated Telemedicine-Home-Visitation Program
+
+      The program is based on: 1) published findings of telemedicine or home visits in chronically
+      ill children with diabetes, hemophilia, or leukemia;5,13-15 2) the collaboration with Drs.
+      Harting and Mary Austin in successfully using telemedicine for postoperative follow-up visits
+      for approximately 40 children in the past 14 months; 3) consultation from IT personnel at
+      both MHH (Brian Thyer, Lead Programmer Analyst), and UTH (Andrew Streckfuss, MBA, Manager of
+      IT Projects and Research) who have setup Zoom platform at UTH. In refining the program during
+      the project, the investigators expect to interact with centers advancing telemedicine use for
+      children with asthma, diabetes, hemophilia, or leukemia.4,5
+
+      Planned Telemedicine Features: The investigators will use the Zoom platform for telemedicine.
+      Because the clinic is already equipped with a smart television, web cameras, and an emergency
+      IPhone, no additional equipment will be required. With the help of HRCC staff, the families
+      randomized to THVP will download a free Zoom application to any Android or iPhone, which
+      almost all the patients already have. Telemedicine will be utilized systematically following
+      calls received by the PCPs during clinic hours from parents seeking medical advice or trying
+      to schedule same-day appointments for their sick child and only when considered likely to be
+      beneficial for phone calls to the HRCC cell phone on weeknights and weekends. It will also be
+      used for scheduled follow-up appointments as judged needed by the PCPs.
+
+      Home Visitation Features: Home visits will be conducted by a nurse home visitor when
+      considered likely to be beneficial for any of the CMC and at least once by the assigned PCP
+      shortly after discharge home from the hospital following enrollment of a ventilator-dependent
+      child. Visits will be scheduled at a time convenient for the family. When needed for clinical
+      or safety concerns, the nurse visitor or the PCP will be joined by a respiratory therapist,
+      dietician, social worker, or medical assistant. Home visits will not be conducted whenever
+      the visitor(s) feel unsafe. In these circumstances, the investigators will rely instead on
+      telemedicine.
+
+      Blinding: While the families and HRCC staff cannot be blinded, the healthcare economist and
+      the statistician will remain blinded to treatment group when performing the analyses.
+
+      Economic Evaluation and Statistical Analyses: The incremental costs of THVP vs. UCC will be
+      assessed from a health system perspective. Inpatient costs will be based on hospital charges
+      multiplied by MHH department-specific cost-to-charge ratios. The personnel time for providing
+      office visits at the HRCC will be assessed by time motion studies and will be multiplied by
+      personnel unit costs and the observed number of HRCC visits occurring in each treatment group
+      during the study. The personnel time cost devoted to providing inpatient consultation will be
+      assessed by multiplying the mean time spent on hospital consultations by the number of
+      hospital days at CMHH occurring in each treatment group and by personnel unit costs. For the
+      THVP group, the investigators will add the time spent providing telemedicine consultation by
+      tabulating data on overall Zoom usage and multiplying it by personnel unit costs. THVP costs
+      will also be augmented by the monthly fees for the Zoom licenses, and the HRCC staff time
+      spent assisting patients with Zoom App installation and use. The remaining clinic costs for
+      compressive care will be estimated based on the HRCC's total expenditures (including
+      personnel salary, benefits, and overhead costs) and will be allocated to patients based on
+      each patient length of follow-up during the study.
+
+      All economic and statistical analyses will be conducted using multilevel generalized
+      estimating equation (GEE) models. Number of days of care in a medical setting in the THVP and
+      UCC groups will be compared using a negative binomial GEE model with log link. Differences in
+      costs between treatment groups will be assessed using a GEE model with log-link and gamma
+      distribution. All the models will be adjusted for age (< 2 years or older), baseline risk
+      (risk levels 1,2, or 3), within-family correlation, length of follow-up, and any important
+      differences in treatment with inpatient consultation.
+
+      The investigators will perform Bayesian analyses to assess the effectiveness of the THVP in
+      reducing treatment days outside the home relative to UCC (primary outcome) using a neutral
+      prior probability. Given the favorable prior evidence of benefit from THVP in other
+      conditions,4,11 a skeptical prior is considered unnecessary. Based on the current number of
+      patients and enrollment rates in the HRCC, the investigators expect to randomize ~400
+      patients during the 2-year study for a total of ~800 child-years of follow-up. THVP will be
+      considered beneficial if: a) Bayesian analyses indicate it has a >70% probability of reducing
+      treatment days outside the home; and b) there is no evidence of an increase in adverse
+      secondary outcomes. If so, provision of THVP could be recommended simply to increase access
+      to care for vulnerable, disadvantaged children.
+    
+  

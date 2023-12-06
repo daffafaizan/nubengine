@@ -1,0 +1,135 @@
+
+    
+      RATIONALE:
+
+      The investigators hypothesize that decision-making in the retail sector is influenced
+      primarily by price (or profit) supplemented by individual beliefs or preferences. Information
+      from a diagnostic test, when available, plays only a minor role in the decision-making
+      landscape. In response to this, the investigators propose to test a scalable, policy-relevant
+      strategy that integrates testing and treatment subsidies and makes ACT subsidies available
+      only to customers with a positive malaria test. Differential pricing based on the results of
+      the diagnostic test will align consumer and provider incentives (price and profit) with
+      testing and appropriate ACT use. This approach will also ensure that public subsidies are
+      directed at confirmed malaria cases thereby enhancing the sustainability of such programs. By
+      allocating subsidy dollars across both testing and conditional treatment (rather than
+      universal, treatment-only subsidies), the investigators can reduce the cost of subsidizing
+      malaria treatment and improve targeting of ACTs without compromising access.
+
+      OBJECTIVES:
+
+      This goal of the proposed work is to improve antimalarial stewardship in the retail sector,
+      which has the largest market share of antimalarials in sub-Saharan Africa. In this study (Aim
+      2) the investigators will use a cluster randomized controlled trial to measure the impact of
+      two innovative interventions - a provider-directed incentive for offering malaria rapid
+      diagnostic tests to suspected malaria cases and a consumer-directed diagnosis dependent ACT
+      subsidy (conditional ACT subsidy). The investigators will test both interventions singly and
+      in combination. The unit of randomization will be the private medicine outlet (cluster).
+
+      STUDY DESIGN:
+
+      The study will be a cluster-randomized controlled trial with four arms based on a factorial
+      design. See Section 4.4 Statistical Design and Power for complete details.
+
+      STUDY POPULATION:
+
+      The study will be conducted in Kenya, a country with high malaria burden. Kenya has the
+      programmatic goal of universal access to prompt parasitological confirmation before treatment
+      and have endorsed the use of malaria RDTs in the public health sector at all levels of care.
+      However, very high rates of treatment in the retail sector undermine the explicit policy that
+      all malaria cases should be confirmed by parasitological diagnosis. In Kenya, retail outlets
+      currently do not conduct RDTs and emphasis has been placed on implementing community case
+      management for malaria through public-sector community health workers (including conducting
+      RDTs).
+
+      The specific study site will be western Kenya (Bungoma County and Trans Nzoia county).
+
+      STUDY PROCEDURES:
+
+      A complete sampling frame of eligible retail outlets will be made for the site. Outlets will
+      be eligible if they regularly carry quality-assured, subsidized ACTs. Attendants who dispense
+      medicines at each outlet will be trained to correctly and safely perform RDTs. They will
+      receive an initial small start-up stock of RDTs and will be given contact information for RDT
+      wholesalers who can provide replenishment stocks on demand. In addition, all attendants will
+      be trained to use a mobile reporting app that captures basic information about suspected
+      malaria cases. This app will not be used to assess outcomes, but will be an important
+      monitoring tool and serve as the conduit for all payments according to the arm assignment.
+
+      Following training, shops will be randomized to one of the four arms:
+
+        -  Arm 1 (control): RDTs available at study-recommended price, providers trained on mobile
+           app
+
+        -  Arm 2 (provider-directed intervention): providers receive a small reimbursement
+           (~10cents) for each RDT that they perform and report on the mobile app, RDTs available
+           at study-recommended price
+
+        -  Arm 3 (client-directed intervention): ACT subsidy to client conditional on positive RDT,
+           RDTs available at study-recommended price
+
+        -  Arm 4 (consumer-directed and provider-directed intervention): providers are reimbursed
+           for each RDT and consumers with a positive test are eligible for a subsidy on a
+           quality-assured ACT. RDTs are available at study recommended price.
+
+      Customers who come to a participating outlet in any arm with fever or suspected malaria are
+      eligible for an RDT at the study-recommended price and, in arms 3 and 4, a conditional ACT
+      subsidy when the RDT is positive. Attendants will be trained to recognize danger signs and
+      refer those individuals to a health facility for immediate care. Customers purchasing
+      medicine on someone's behalf or those who have already had a malaria test will not be
+      eligible for RDT testing or conditional subsidies.
+
+      Study outcome measures will be collected by interviewing a random sample of customers leaving
+      participating shops (exit interviews). A team of field interviewers will be trained in each
+      site and will be assigned to participating outlets on random days in a month. Both the day of
+      the month and the interviewer assigned to the specific outlet will be randomized in order to
+      balance data collection across interviewers and arms and to minimize the observer effect.
+      Each outlet will be visited thrice in a month and the interviewer will enroll eligible
+      participants in succession until they have completed 3-4 interviews. Ten customers per month
+      per outlet are needed to reach a sample size of 170 interviews per outlet in 17 months of
+      data collection. Exit interviews will capture information about customer demographics,
+      symptoms of their current illness, whether they had a malaria diagnostic test at the outlet
+      or elsewhere, how much they paid for the test, the results of the test, and the drug(s) they
+      purchased. Customers will be eligible to participate in the exit interview if s/he was
+      seeking drugs for him/herself or their minor child older than one year of age and the child
+      is physically present, s/he had a febrile illness or suspected malaria, and s/he agrees to be
+      interviewed.
+
+      Study monitoring will be continuous throughout the study period using the mobile app. Study
+      staff will regularly review reporting data captured by the mobile app. In particular,
+      pictures of RDTs will be reviewed alongside results reported by outlet attendants to ensure
+      correct use and interpretation of the RDTs. In addition, exit interviews will be summarized
+      monthly by outlet and compared to the data submitted via the app. This monitoring step will
+      allow us to identify major discrepancies between actions reported by the shop and those
+      reported by the customers such as testing rates, RDT positivity rates, dispensing of
+      qualified ACTs and prices charged for RDTs and ACTs.
+
+      SAMPLE SIZE AND POWER:
+
+      The investigators calculated power based on a cluster randomized two-sample two-tailed t-test
+      for the comparison of two proportions. The investigators calculated power for differences in
+      the primary outcome for each of the three comparisons of interest noted above. With a sample
+      of 170 exit interviews per outlet (40 outlets in Kenya), the investigators will have >90%
+      power to detect a minimum difference between Arms 1 (control) and 4 (combined interventions)
+      in the primary outcome of 23 percentage points. The investigators will also have >89% power
+      to detect a minimum difference of 16 percentage points for the secondary comparisons of
+      interest.
+
+      The sample size estimates correspond to a total of 6800 exit interviews with clients in
+      Kenya. Since not everyone interviewed will have purchased an ACT, estimates account for the
+      fact that only a subset will enter into the analysis for the primary outcome. The
+      investigators will have a team of 8 data collectors and each data collector will conduct
+      approximately 50-60 interviews per month. Exit interviews should take 15 months to complete.
+
+      See Section 4.4 Statistical Design and Power for comprehensive description of sample size,
+      power and statistical analysis.
+
+      SUBJECT CONFIDENTIALITY:
+
+      Customers leaving the shop will be approached by the field interviewer to ask if they are
+      interested in participating in a short interview. If they agree, then they will be taken to a
+      private area and the study will be explained to them. Once they provide consent, the
+      interviewer will record the details of their illness and treatment at the outlet. No
+      participant identifiers will be recorded in the electronic data collection form. This limits
+      the possibility of identifying the source of any health information (See Protection of Human
+      Subjects Section 3.3).
+    
+  

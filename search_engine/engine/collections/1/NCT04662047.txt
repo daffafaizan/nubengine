@@ -1,0 +1,189 @@
+
+    
+      The ONAIR project will consist of the two sub-studies described below:
+
+      SUBSTUDY 1
+
+      1.1 Design: A two-part time series analysis of the association between the concentration of
+      the main air pollutants (PM2.5, PM10, NO2, O3) between 2006 and 2022 and the daily
+      antimicrobial consumption by the general population.
+
+      1.2 Scope of the study and authorized sources of information: The study will be carried out
+      in the 11 cities in Catalonia with more than 100,000 inhabitants, distributed in the four
+      provinces of the region. These cities are home to 3,283,501 people. Daily data on air
+      pollution will be obtained from the Atmospheric Pollution Monitoring and Forecasting Network
+      (XVPCA). Daily consumption of antimicrobials will be estimated from the official prescription
+      data recorded by the Council of the College of Pharmacists of Catalonia (CCFC) authorized by
+      the Department of Health in Catalonia. The secondary clinical variables under study will be
+      obtained through the Agency for Quality and Health Assessment of Catalonia.
+
+      1.3 Study subjects: Adults and children living in the 11 cities under study.
+
+      1.4 Definitions: Air pollution. This is defined as the detection of any substance in the air
+      that can damage the health of humans, animals or plants, or cause material damage. Air
+      pollution comes from different sources; it varies according to its composition which, in
+      turn, varies according to the temperature and humidity of the environment. For the purposes
+      of this study, since not all air quality monitoring stations record data on all the
+      compounds, PM10, PM2.5, NO2 and 03 will be analysed. DDD (defined daily dose). This is the
+      technical unit of measurement and comparison equivalent to the mean daily maintenance dose of
+      a drug when used in its main indication via a specified route of administration in adults,
+      expressed in terms of the amount of the active principle. It is defined and updated by the
+      World Health Organization (WHO)
+      (https://www.whocc.no/ddd/definition_and_general_considera/#General). DDD/TID (defined daily
+      dose per thousand inhabitants per day). This parameter is designed to compare the consumption
+      of drugs expressed in numbers of DDD for different geographical areas and/or time periods. It
+      is calculated by multiplying the number of DDD consumed per thousand inhabitants and dividing
+      by the number of days in the period considered and by the number of inhabitants. DDD/TID
+      formula = (nºP x NºF x AF x 1000) / (DDD x nº of inhabitants x nº of days) (nºP = number of
+      packages dispensed daily. NºF = number of pharmaceutical forms (i.e., pills, capsules etc.)
+      per package. AP = amount of active principle per pharmaceutical form). Population
+      denominator: to calculate the number of inhabitants, the population (users with individual
+      health cards and assigned to a care centre) under the care of each practitioner will be used,
+      calculated from the data of the primary care information system, also including the nursing
+      home population.
+
+      1.5 Description of the variables: Main outcome variable: defined daily dose of antimicrobials
+      per 1000 inhabitants-day. Main independent variables: concentrations of PM10, PM2.5, NO2 and
+      03.
+
+      Confounding variables: Year, day of the week, temperature and relative humidity.
+
+      Secondary outcome variables: Defined daily costs of antimicrobials per 1000inhabitants-day,
+      mortality due to natural causes, mortality due to respiratory causes, hospital admissions due
+      to respiratory causes and primary care consultations due to respiratory symptoms.
+
+      1.6 Data collection: Pollution data: Data on pollution in the 11 cities under study from 2006
+      to 2020 will be obtained from the XVPCA for time series analysis. In each air quality zone,
+      distinct areas can be identified according to land use (level 1: urban, suburban or rural
+      areas) and the type of sources of emission (level 2: traffic, industrial or background).
+
+      The time series of the mean daily temperature and relative humidity from 2006 to 2020,
+      measured by the Catalan Meteorological Service, will be recorded. Daily data on pollution,
+      temperature and humidity in these areas in 2021 and 2022 will be collected prospectively. The
+      day of the week and the time series of daily influenza cases will also be considered as
+      confounding variables. The associations of concentrations of the main pollutants, the daily
+      consumption of antimicrobials (DDD/TID) and the secondary variables described will be
+      evaluated in separate analyses using a standard time series approach, a two-stage analytical
+      protocol that has been widely applied in previous time series studies in many different
+      cities. Population and antimicrobial consumption data. Data will be collected by age (> 65
+      years), sex and region.
+
+      For the calculation of the DDD/TID and dispensed cost/TID the following daily data will be
+      collected by postal code: the medication (combination of active principle + pharmaceutical
+      form + dose + number of pharmaceutical forms per package), ATC code, number of packages
+      dispensed, date of dispensing and official price of each package. The number of users with
+      individual health card and an assigned care centre will also be recorded.
+
+      1.7 Statistical analysis: In the first stage, associations between the daily dose of
+      antibiotic therapy and the air pollutants evaluated will be estimated in each city using
+      quasi-Poisson generalized linear models. As in previous studies, the following covariates
+      will be included in the main model: the year (smoothed by cubic splines) to control the trend
+      and temporal seasonality of the indicators; a variable indicating the day of the week to take
+      into account weekly short-term variations; and temperature (smoothed by splines) and relative
+      humidity (smoothed by splines) to control potential nonlinear confounding effects of weather
+      in areas in which this information is available. Since the possible effect of a pollutant on
+      the daily antibiotic dose may be projected over the following days, a range of time lags will
+      be explored in the estimated models. The same procedure will be applied to the temperature.
+      In the second stage, a random effects model will be used to meta-analyse estimates of the
+      association between the pollutant and the daily antimicrobial consumption obtained in each
+      city. Thus, it will be obtained the aggregate estimates and their 95% confidence intervals of
+      the percentage change in daily antimicrobial consumption for each increase of 10μg/m3. The I²
+      test will be used to evaluate the heterogeneity between cities. Similarly, models will be
+      estimated to assess associations between secondary outcome variables and air pollutants. The
+      statistical analysis will be carried out using the R statistical package (version 3.6.1 or
+      higher (R Foundation for Statistical Computing) using mgcv for the main models and rmeta for
+      the random effects model. Statistical significance will be considered for p <0.05.
+
+      1.8 Limitations: A possible limitation may be the difficulty in distinguishing between the
+      impact of pollution on antibiotic consumption as a direct cause-effect relationship or as a
+      confounding factor in the cause-effect relationship between air pollution and respiratory
+      exacerbations of previous pathology.
+
+      SUBSTUDY 2
+
+      2.1 Design: Descriptive observational study of the concentration of antibiotic resistance
+      genes (ARG) in the area of Barcelona during the period 2021-2023. The differences between the
+      concentration of these genes at an air quality monitoring station close to a hospital and at
+      another station elsewhere in the city, will be evaluated, as well as the interseasonal and
+      inter-monthly differences. The presence of certain resistance genes will be assessed in
+      relation to the consumption of certain groups of antimicrobials in the study population.
+
+      2.2 Scope of the study and sources of information: The study will be carried out in the city
+      of Barcelona. The air pollution samples will be obtained for analysis from three of the
+      XVPCA's air quality monitoring stations: one of them in the city centre where there is a
+      significant volume of traffic, and the other one located near a third level hospital.
+
+      2.3 Study subjects: Adults and children living in the city of Barcelona.
+
+      2.4 Definitions: ARG (antibiotic resistance gene): the fragment of the genome of a
+      microorganism that encodes antimicrobial resistance mechanisms. Microorganisms can acquire
+      ARGs either via inheritance or through horizontal transfer of genes from other
+      microorganisms. Air pollution: see the definition in subproject 1, section 1.4.
+
+      2.5 Study variables: Main outcome variable: Concentration of antibiotic resistance
+      genes/month. Main independent variable: defined daily dose of antimicrobials per 1000
+      inhabitants-day.
+
+      2.6 Collection: Sample collection: Samples from the filters used to measure PM concentrations
+      will be collected at three stations in XVPCA zone 1, corresponding to the city of Barcelona.
+      Samples will be collected at two stations representative of urban traffic-related pollution
+      (Plaça Universitat and Poble Nou) and at another station representative of a hospital area
+      (Parc de Vall D'Hebron). The sampling will take place on the first Tuesday of each month. In
+      this way, three monthly measurements will be made over a total of 30 months, so a total of 90
+      samples will be collected. If there is an episode of high contamination during the study,
+      extra sampling will be assessed. Meteorological data corresponding to each measurement day
+      will also be recorded.
+
+      Sample processing: Samples will be collected through Pallflex high volume (30m3) quartz fiber
+      filters (15cm in diameter). Before use, the filters will be sterilized at 205°C for 5 hours
+      and conditioned for 48 hours at 20°C and 50% relative humidity. Each filter will be weighed
+      three times every 24 hours in a microbalance with 1g sensitivity. After sampling, the filters
+      will be taken to the microbiology laboratory where samples of PM2.5 will be extracted, as
+      follows. First, the filter will be cut with a sterilized cutter. Then, each filter fragment
+      will be added to 2mL of sterile purified water with 0.05% Tween 20 solution in a sterile
+      centrifuge tub; then, a 20 minute sonication will be performed followed by 40 minutes of
+      vortex agitation at 2800rpm. The PM2.5 samples will be stored at -20ºC until they are
+      definitively processed. DNA extraction and shotgun sequencing of microbial DNA: From the
+      dilution obtained, 1mg/mL will be extracted. DNA extraction will be performed automatically
+      using KingFisher (ThermoFisher) equipment with the MagMaxTM Microbiome Ultra Nucleic Acid
+      Isolation (ThermoFisher) kit. The libraries will be constructed using the Illumina
+      Nextera-XT® kit.
+
+      Sequencing will be done 2x150bp on a NextSeq550® by Illumina. The quality of the sequences
+      will be analysed with the FastQC1 program and the corresponding filtering will be performed
+      with the Trimmomatic2 program. Human contamination will be eliminated by mapping the
+      sequences filtered against the human genome with the Bowtie 23 program. Metaphlan v24
+      software will be used to infer the microbial composition. To study the resistome, the
+      acquired antibiotic resistance genes and the chromosomal point mutations will be identified
+      with ResFinder 3.05. Population data and antimicrobial consumption data: These data will be
+      collected in the same way as described for subproject 1 (see section), but in the area of
+      Barcelona, and specifically in the postal codes corresponding to the areas where metagenomic
+      data are collected.
+
+      2.7 Statistical analysis: Heatmaps will be created for the relative abundance of ARG based on
+      the differences of 2-ΔCT. A network analysis will be performed based on Spearman's rank
+      correlations to visualize the coincidence of ARG subtypes in the air and in bacteria
+      communities. The ARG concentrations in different months and seasons will be compared using
+      boxplots. In addition, a Pearson correlation will be made to relate the concentration of ARG
+      to the consumption of antimicrobials in the areas under study. To assess the richness and
+      diversity of the bacterial community, Alpha diversity will be calculated using Mothur 1.30.1
+      in accordance with the literature (Schloss et al, 2009) for a confidence level of 95%. The
+      statistical analysis will be carried out using the R statistical package version 3.6.1 or
+      higher (R Foundation for Statistical Computing).
+
+      2.8 Limitations: The main limitation of this substudy is its descriptive nature. The period
+      of time under study does not allow the establishment of direct temporal relationships between
+      the degree of air pollution and the concentration of ARG in a particular day. In addition,
+      due to the complexity of the technique, only a limited number of ARG determinations can be
+      performed; therefore, the analysis of their relationship with the consumption of
+      antimicrobials by the population will have to be descriptive.
+
+      3. ETHICAL CONSIDERATIONS: This biomedical research project has been evaluated by the
+      Research Ethics Committee of the Bellvitge University Hospital. It will be carried out under
+      the precepts of the Declaration of Helsinki (Fortaleza, 2013). Aggregate clinical data from
+      the database of the Department of Health of Catalonia will be used. For this reason, the
+      informed consent requirement has been waived by the Ethics Committeee. Nonetheless, the data
+      will be treated in accordance with Spanish (Organic Law 3/2018) and European (Regulation [EU)
+      2016/679) regulations.
+    
+  

@@ -1,0 +1,20 @@
+
+    
+      Detailed dietary information was obtained for each participant to estimate dietary protein
+      intake per meal (breakfast, lunch, dinner). One meal was considered with adequate protein
+      content if it contained >30 g or >0.4 g/kg. Then, the number of meals with an adequate
+      protein content was counted and classified as Zero meals, One meal, or Two or Three meals.
+
+      Physical disability was assessed with two validated questionnaires. One for instrumental
+      activities of daily living (Lawton) and another for activities of daily living (Barthel).
+      Disability was classified for each questionnaire item according to the authors' scales. Most
+      items considered a physical disability if the participant reported any difficulty performing
+      that task.
+
+      To analyze the association between the number of meals with adequate protein content
+      (predictive variable) and physical disability (outcome variable), we used binomial logistic
+      regression for each item. For the number of meals, we set the group of Zero meals as the
+      reference. The analyses were adjusted for age, BMI categories, number of diagnosed diseases,
+      sex, and inadequate protein intake per day (<1.2 g/kg/d).
+    
+  

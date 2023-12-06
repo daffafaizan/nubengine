@@ -1,0 +1,43 @@
+
+    
+      Variables to be measured
+
+        -  Demographic data (initials, record, age, sex, race / ethnicity, weight, height, BMI).
+
+        -  Epidemiological data:
+
+             -  For kidney transplant patients: time of transplant, in years and complete months;
+                primary kidney disease; presence and time of onset of respiratory symptoms, in
+                days; presence of risk factors or comorbidities; current immunosuppression (drugs
+                and doses); serum level of calcineurin inhibitor on the day of collection; previous
+                vaccination for Influenza; previous viral infections; date of the last episode of
+                rejection treated.
+
+             -  For liver transplant patients: time of transplant, in years and complete months;
+                primary liver disease; presence and time of onset of respiratory symptoms, in days;
+                presence of risk factors or comorbidities; current immunosuppression (drugs and
+                doses); serum level of calcineurin inhibitor on the day of collection; previous
+                vaccination for Influenza; previous viral infections; date of the last episode of
+                rejection treated.
+
+             -  For oncohematological patients: time of diagnosis, in years and complete months;
+                primary oncohematological disease; treatment received for the oncohematological
+                disease; presence and time of onset of respiratory symptoms, in days; presence of
+                risk factors or comorbidities; current cancer treatment; previous vaccination for
+                Influenza; previous viral infections.
+
+        -  Clinics visit / hospitalization data: clinical picture: syndromic diagnosis / signs and
+           symptoms; initial image exam: chest X-ray and / or chest CT; Treatment performed:
+           antiviral, antibiotic, corticoid (reason / dose / time); respiratory support (oxygen
+           therapy only / Non-Invasive Ventilation / High Flow Nasal Cannula / invasive mechanical
+           pulmonary ventilation / ECMO - time of use (days); days free of oxygen therapy,
+           Non-Invasive Ventilation and invasive mechanical pulmonary ventilation.
+
+        -  Diagnosis of SARS-CoV-2 infection: rapid test for Covid-19 in the blood: IgM / IgG;
+           rapid test for COVID-19 in nasopharyngeal or tracheal secretion.
+
+        -  Outcomes: Serology for COVID-19 result; PCR for COVID-19 result; presence of symptoms of
+           COVID-19; proportion of patients with viral shedding on days 3,7,14,21 and 30 after
+           diagnosis; need for hospital admission; need for Intensive care admission; death.
+    
+  

@@ -1,0 +1,44 @@
+
+    
+      Patient population and setting. We will identify all patients undergoing their first PD
+      catheter insertion during the study period, at 20 participating centers in Canada and the USA
+      (see Appendix 1). A total of 800 cases have been captured to date during our pilot study and
+      an additional 1,520 cases will be accrued over a 30-month period, for a total sample size of
+      2,320 PD catheter insertions. We will attempt to collect information about consecutive
+      patients undergoing PD catheter attempts/insertions in order to accurately measure local
+      performance. However if a waiver of consent cannot be obtained at participating centers, then
+      non-consecutive patients will be enrolled.
+
+      Inclusion criteria: patients must be 18 years of age or older; have advanced chronic kidney
+      disease; have chosen PD as their intended treatment modality; and undergone their first PD
+      catheter placement during the study period.
+
+      Exclusion criteria: patients who intend to transfer to another PD program or who are
+      scheduled to receive a transplant within 3 months of the start of PD therapy will be
+      excluded. Data source: ISPD Catheter Registry. The ISPD Catheter Registry is a web-based data
+      collection tool that was custom-built for this project. It was developed based on a patented
+      approach (Canadian patent #2,666,569; issued 2/28/2017)
+
+      Patient-level variables for our models will include baseline demographic (age, sex),
+      comorbidity [body mass index (BMI), chronic kidney disease (dialysis-dependent vs. not),
+      diabetes mellitus, cardiovascular disease (coronary artery disease, peripheral vascular
+      disease, cerebrovascular disease), congestive heart failure, respiratory disease, liver
+      disease, abdominal scarring, history of abdominal hernias], laboratory (hemoglobin, albumin),
+      and medication variables (use of anticoagulants, antiplatelet, immunosuppressive
+      medications).
+
+      Operator variables include operator volume, advanced training in PD catheter insertion and
+      years of experience placing PD catheters.
+
+      Primary outcome: PD catheter complications. Our primary outcome will be the composite of the
+      need for interventional procedures, emergency room visits and hospitalizations, reduction in
+      time on PD, or discontinuation of PD therapy due to insertion-related PD catheter
+      complications.
+
+      Sample size of 2,000 patients will provide 80% power to detect a 25% relative reduction in
+      the risk of our primary outcome in those undergoing laparoscopic insertion of their catheter,
+      across a range of possible ICC values. In order to guard against a larger than anticipated
+      intra-class correlation coefficient(up to 0.001), we will target a sample size of 2,320
+      patients
+    
+  

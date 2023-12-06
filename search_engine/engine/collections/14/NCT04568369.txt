@@ -1,0 +1,89 @@
+
+    
+      Annually, up to 280,000 people in Canada and 42 million worldwide experience a mild traumatic
+      brain injury (mTBI). In patients with mTBI, symptoms experienced following injury usually
+      resolve within 3 months. However, up to 25% of patients will experience persistent
+      post-concussion symptoms (PPCS), which can continue up to 1 year following injury. Common
+      symptoms include headaches, dizziness, fatigue, irritability, depression, anxiety, emotional
+      lability, concentration or memory difficulties, insomnia, and reduced alcohol tolerance
+      (ICD-10 post-concussion syndrome diagnostic criteria). To date, there is no "cure" for PPCS
+      and current treatment entails trial and error with behavior management, environmental
+      modifications and medications. Consequently, there is a significant need for new approaches
+      to symptom management in order to help improve functional impairment and disease burden,
+      associated with treating PPCS. Transcranial magnetic stimulation (TMS) has a high degree of
+      safety and has been studied as an intervention for many mental health and neurological
+      conditions, including major depression and migraines, and even showing initial promise for
+      PPCS. The investigators propose to study this further in a randomized sham controlled trial
+      of TMS for PPCS.
+
+      RESEARCH QUESTIONS AND OBJECTIVES
+
+      The overall aim is to study the application of rTMS treatment to the left dorsal lateral
+      prefrontal cortex (DLPFC) in patients with PPCS to improve overall symptom burden and to
+      explore biomarkers of response, specifically functional near infrared spectroscopy (fNIRS).
+
+      Specifically the objectives are:
+
+        1. Primary Objective: To determine whether patients with PPCS have significant improvement
+           to a 20-day high frequency rTMS treatment protocol of the left DMPFC compared to
+           patients with PPCS receiving a sham rTMS protocol as measured by the Rivermead
+           post-concussion symptom questionnaire at 1, 3 and 6 months post-treatment.
+
+        2. Secondary Objective: To determine what secondary outcomes such as quality of life,
+           headaches, anxiety, and depression also improve with the TMS treatment in individuals
+           suffering with PPCS. Quality of life will be measured via the Quality of Life after
+           brain injury questionnaire (QOLIBRI), headache intensity will be measured via the
+           Headache intensity Test - 6 (HIT-6), feelings of depression will be measured via the
+           PHQ-9 and anxiety via the GADS-7 at 1, 3 and 6 months post treatment.
+
+        3. Third objective: To explore whether fNIRS would be a useful biomarker of TMS-response in
+           patients with PPCS.
+
+      METHODS
+
+      This study will be a double-blind, sham-controlled, concealed allocation, randomized, cross
+      over clinical trial.
+
+      Clinical Assessments: Demographic information will be collected two weeks prior to starting
+      the study including age, sex, education, headache history, concussion history, past medical
+      history, medication use, and family medical history. Baseline questionnaires will be
+      completed including Headache Impact Test - 6 (HIT-6), Rivermead PPCS questionnaire, British
+      Columbia post-concussion symptom inventory (BC-PSI), Montreal cognitive assessment (MoCA),
+      quality of life after brain injury questionnaire (QOLIBRI), patient health questionnaire-9
+      (PHQ-9), generalized anxiety disorder scale-7 (GADS-7), Repeatable battery for the assessment
+      of neurological status (RBANS), and the post traumatic stress disorder checklist for DSM-5
+      (PCL-5). Patients will keep a two-week baseline symptom diary before treatment, 2 weeks
+      during treatment, 2 weeks following rTMS, and for 2 weeks at the 1, 3, and 6 month follow up
+      assessments (total of 12 weeks). Patients will be reassessed at the completion of their rTMS
+      treatment, and at 1, 3, and 6 months post-treatment. The questionnaires including: Rivermead
+      PPCS questionnaire, HIT-6, BC-PSI, QOLIBRI, PHQ-9, GAD-7 and RBANS will be completed at all
+      follow up visits.
+
+      TMS Protocol: Patients will engage in a four-week treatment protocol (20 treatments). This
+      was chosen as it is the midpoint between typical depression and migraine protocol durations.
+      If available, patient MR brain scans will be loaded and processed using the Brainsight TMS
+      neuronavigation software and stereotaxic data for localization of the TMS stimulation site
+      will be determined through a co-registration method between the TMS coil position and the
+      projected site on the MR brain scan. If not available, a standardized atlas brain with
+      Montreal neurologic institute (MNI) coordinates will be used for navigation. The DLPFC will
+      be located through MNI coordinates (-48, 26, 36) vs. (-41, 21, 38). The intensity of the rTMS
+      will be 100-120% of resting motor threshold amplitude, with a frequency of 10 Hz, 10 trains
+      of 60 pulses/train (total of 600 pulses) and inter-train interval of 45s. In the sham
+      condition, a sham coil will be applied to the scalp after the resting motor threshold is
+      determined. Patients will be able to hear the sound and feel the vibration of sham coil, but
+      will not experience any effective stimulation. Previous sham studies have demonstrated
+      efficacy of the blinding method.
+
+      Imaging: Functional near infrared spectroscopy (fNIRS) scans will be recorded at baseline,
+      immediately following rTMS, and at one month post-rTMS to investigate changes in brain
+      physiology associated with rTMS treatment. fNIRS data will be recorded over the
+      frontoparietal cortex at a sampling rate of 3.91 Hz, using the NIRScout fNIRS system (NIRx
+      Medical Technologies, Berlin, Germany). Each recording will consist of a 5 min rest period,
+      followed by a finger tapping exercise, and a graded working memory task. The fNIRS data will
+      be processed and analyzed for task-evoked activation using an ordinary least squares method
+      of general linear modeling, as implemented in the NIRS Brain AnalyzIR Toolbox.
+
+      Statistical Analysis: Outcome parameters within each specific group (rTMS, sham, sex) will be
+      analyzed by a one-way repeated measures analysis of variance (RM-ANOVA).
+    
+  

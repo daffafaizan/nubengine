@@ -1,0 +1,56 @@
+
+    
+      The "hygiene hypothesis", which has been proposed to explain the observed increase of the
+      incidence of T1D, relies on experimental evidence acquired in mouse models. However,
+      epidemiological data are still lacking to validate this hypothesis in man. This is critical,
+      because -in opposition with the hygiene hypothesis- there are many reasons to believe that,
+      at contrary, certain virus can trigger the disease.
+
+      Genetic predisposition to a severe infection form (particularly primary infection) was
+      demonstrated for several infectious diseases (Casanova JL, Science 317:617-619, 2007;
+      Casanova JL, EMBO J 26:915-922, 2007). It usually corresponds to deficiencies in genes
+      involved in the host's immune response, the transmission of which being Mendelian. Genetic
+      factors affect the ability of enteroviruses and other viruses to damage beta cells and to
+      induce diabetes. Recently, Nejentsev et al have demonstrated a link between enteroviruses and
+      diabetes genes: they have indeed identified 4 rare IFIH1 polymorphisms that reduce the T1D
+      risk. However, this gene encodes an enzyme recognizing the DNA enterovirus, causing immunity
+      activation; mutations inhibit gene activation. Except one study on HIV-1, there is to our
+      knowledge no genome wide association studies (GWAS) in humans on the role of host's genetic
+      polymorphisms in the risk of infection, clinical expression, duration of viral shedding, or
+      response to therapy or to anti-viral vaccines.
+
+      We relied on our cohort of T1D children (Isis-Diab) to investigate the possible relation
+      between viral exposures, genetic polymorphisms, and subsequent T1D.
+
+      The search for viral factors responsible for the increased T1D prevalence in youth children
+      is difficult to implement. The absence or scarcity of infections is difficult to assess
+      robustly at the individual level. The analysis of digestive, ENT or blood samples in the
+      search for viruses themselves can only be done at T1D diagnosis and is therefore unlikely to
+      be positive several years after the causal infection. It is not possible to reconstitute
+      retrospectively viral events, which an individual has been exposed between birth and date of
+      diabetes diagnosis. That is why our project proposes to use a proxy of viral infections
+      crossed by a child, quantifying viral exposures to which he was submitted before the T1D
+      diagnosis. We focused on early childhood's viral infections that may interfere with early
+      forms of T1D. We combine 2 data sources:
+
+        -  The geolocation of the child's address will locate places where he lives.
+           Spatio-temporal data from Sentinel Network, collected since 1984, will provide access on
+           the following viral exposures: seasonal influenza, viral diarrhea (mostly enteroviral),
+           mumps, measles, chickenpox. If the defect of our approach is that it does not see real
+           viral infections experienced by children, but only the level of exposure to which they
+           were exposed according to their address, the advantage is an objective spatio-temporal
+           description of virus epidemics around children, making it more or less likely infection
+           of these. Only France has such Sentinel data.
+
+        -  Vaccination (including MMR) and information on infectious past of children will be
+           collected from data recorded in his book health. We will focus on the mother's pregnancy
+           and the child between birth and 2 years of age.
+
+      Environmental data from these 2 sources will be crossed with already available genetic data
+      from GWAS to identify gene-virus associations potentially determining age of T1D onset. This
+      "high dimensionality" analysis will be addressed with "machine learning" programs.
+
+      If avoidable risks are identified, it would be possible to think to design clinical trials
+      for prevention of the identified forms of T1D.
+    
+  

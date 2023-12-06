@@ -1,0 +1,67 @@
+
+    
+      Study duration :
+
+      Total study duration: 37 months Duration of recruitment: 24 months Duration of participation
+      for each patient: 13 months
+
+      Inclusion criteria:
+
+      Retrospective study: Patient who underwent HSCT, in Saint-Antoine hospital, between
+      2010-2015, treated by rituximab for high level EBV-DNAemia (above 3.3 log copies/mL).
+
+      Prospective study: Patients who underwent HSCT, in Saint-Antoine hospital and la
+      Pitié-Salpêtrière, in 2016-2017, treated by rituximab for high level EBV-DNAemia (above 10
+      000c/mL), And/or having post-transplant lymphoproliferative diseases(PTLD) Concerned
+      population Allogeneic hematopoietic stem cell transplantation (allo-HSCT) patients with a
+      high Epstein-Barr virus (EBV) viral load
+
+      Study endpoints:
+
+      Primary endpoint (linked to the primary objective) Respective percentages of latent versus
+      replicative EBV profiles, defined by the methylation level of specific sites of EBV genome,
+      in a cohort of HSCT patients with a high EBV viral load (above 3.3 log copies/ml) before the
+      initiation of treatment per rituximab. A methylation index will be calculated from the
+      respective differences of the "Cycle thresholds" of the methyl-qPCR performed on patients
+      blood samples Secondary endpoints (linked to the secondary objectives)
+
+        1. Characteristics of the patients according to the EBV q-PCR results
+
+        2. Patients' outcome according to the EBV profile defined by the methyl-qPCR :
+
+             -  Response to Rituximab infusion (EBV DNA-emia < 3.3 log copies/mL) after a maximum
+                of 4 infusions)
+
+             -  Disease-free survival (DFS) at 12 months defined as survival without relapse
+
+             -  Overall survival (OS) at 12 months
+
+             -  Relapse incidence (RI) at 12 months
+
+             -  Non-relapse mortality (NRM) at 12 months
+
+             -  Number of post-HSCT infections within 12 months
+
+      Statistical Analysis :
+
+        1. Comparison between characteristics of latent and lytic genomes will be performed using
+           parametric (Student t-test) or non-parametric (Mann Whitney test) when appropriate for
+           continuous variables, Chi-Square test for qualitative variables.
+
+           Multivariate analysis for determination of risk factors associated with "lytic EBV"
+           profiles will be performed using logistic regression.
+
+        2. Correlation between "latent versus lytic EBV" profiles" and response to rituximab
+           infusion will be performed using logistic regression including in the model all other
+           factors potentially associated to the response to rituximab. OS and DFS will be
+           estimated by using the Kaplan-Meier method. Cumulative incidences of RI and NRM will be
+           calculated from the date of inclusion to the date of relapse or death in remission,
+           respectively, with the other event being the competing risk. Death or progression will
+           be considered as a competing events for estimating the incidence of acute GVHD.
+           Multivariate analyses for survival endpoints will be performed using the Cox
+           proportional hazards model. The type I error rate is fixed at 0.05 for determination of
+           factors associated with time to event outcomes. All statistical analyses will be
+           performed with R software packages (R Foundation for Statistical Computing, Vienna,
+           Austria)
+    
+  

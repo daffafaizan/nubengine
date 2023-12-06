@@ -1,0 +1,65 @@
+
+    
+      Calcific or degenerative aortic valve disease is one of the most common valvular diseases
+      among the elderly and, with life expectancy continuing to increase, a major source of burden
+      on current healthcare. Although patients with aortic stenosis (AS) can remain asymptomatic
+      for a prolonged period, they do eventually develop symptoms, including angina, exertional
+      syncope and heart failure, which is associated with a 5-year, 3-year, and 1-year,
+      respectively, 50% mortality. The American College of Cardiology/American Heart Association
+      guidelines place symptomatic severe AS as a class I indication for aortic valve replacement.
+      Currently, surgical replacement of the aortic valve is the standard of care. However, with
+      the recently approved Edwards-Sapient TAVR device and the ongoing investigations using the
+      CoreValve TAVR device, patients ineligible or at high risk for open-heart surgery are now
+      eligible to undergo TAVR.
+
+      Currently, patients selected for TAVR undergo an EKG-gated cardiac Multislice CTA to evaluate
+      aortic valve anatomy and aortic root dimensions for device sizing. Patients also undergo
+      coronary angiography to define coronary anatomy. Both tests utilize contrast media to
+      visualize anatomy, which may result in contrast-induced nephropathy in anywhere from 7.5% to
+      more than 50% of patients depending on associated clinical risk factors. Contrast-induced
+      nephropathy can, in turn, lead to dialysis and/or increased mortality.
+
+      There is a need to consolidate this pre-operative testing whenever possible, and with
+      real-time 3-dimensional visualization of aortic valve and root anatomy using DynaCT cardiac
+      acquisition in the cath lab angiography suite during the coronary angiography, there may be a
+      benefit with reduced contrast load (20 to 35cc for DynaCT, 100cc for CTA). DynaCT conducts
+      fully automatic aortic root segmentation and overlays 3-dimensional structures onto
+      2-dimensional fluoroscopy in a few seconds (~5 seconds, 60 frames/second rotational
+      angiography). The software automatically recognizes and represents the aortic root, detects
+      and indicates coronary ostia and lowest cusp points of aortic valve (nadir points), and
+      reconstructs commissure lines of aortic valve. Due to cardiac motion, 3-dimensional images
+      without motion correction or cardiac gating will look blurred. Therefore, DynaCT
+      reconstruction motion correction software will be used. The DynaCT motion correction software
+      is a new algorithm that will correct for this motion and apply it during reconstruction-
+      allowing the user to spin without using rapid pacing. However, first, a comparison of aortic
+      valve and root measurements using CTA and DynaCT must be made to affirm the accuracy of
+      DynaCT vs the CTA gold standard.
+
+      Study Design This is a pilot study evaluating patients undergoing TAVR at the New York
+      University (NYU) Langone Medical Center. Patients will undergo the standard CTA protocol and
+      invasive coronary angiography performed as part of the pre-operative assessment for TAVR.
+      However, patients in this study will also undergo DynaCT during coronary angiography,
+      utilizing 1 acquisition sweep and 20 to 35cc more of contrast media. Measurements of the
+      major aortic annulus diameter, orthogonal minor aortic annulus diameter, aortic annulus
+      perimeter, maximum ascending aorta diameter at 40mm above the annulus, sinus of Valsalva
+      diameters, sinus of Valsalva heights, and aortic root angulation will be made using both the
+      CTA and DynaCT protocols by a radiologist blinded to patient identity after the study has
+      reached its target recruitment. Based on these measurements, a trained interventional
+      cardiologist will select the appropriate TAVR size in a similarly blinded fashion after the
+      study has reached its target recruitment (i.e. the data collected using DynaCT will not be
+      used in the clinical decision making process). Data will be compared from both modalities
+      using appropriate tests of reproducibility and correlation.
+
+      Study Technique CTA will be performed per standard methods as part of standard pre-TAVR
+      evaluation.
+
+      Coronary angiography will be performed via femoral artery access (minimum 6Fr) as per
+      standard pre-TAVR evaluation. After coronary angiography is performed, a 6Fr pigtail catheter
+      will be placed in the aorta and 40cc of 50% contrast media diluted normal saline will be
+      delivered using standard automated injection during dynaCT cardiac image acquisition.
+      Intravenous delivery of contrast was considered as alternative.
+
+      As per standard care, intravenous access will be obtained and participants will be hydrated
+      during the CTA, coronary angiography, and dynaCT procedures.
+    
+  

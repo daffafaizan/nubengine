@@ -1,0 +1,88 @@
+
+    
+      Perioperative peripheral nerve injury (PNI) is an under-recognized and under-investigated
+      complication of general anesthesia and continues to impact postoperative recovery resulting
+      in patient disability malpractice claims.(1-5) In the American Society of Anesthesiologists
+      (ASA) Closed Claims Analysis (published in 1999), PNI was the second most common cause of
+      claims other than death. (6-7) This claim pattern has remained essentially unchanged over the
+      past 3 decades and the average settlement was $123,000 US Dollar/claim (unpublished data from
+      ASA closed claims analysis). The overall incidence of PNI varies across different surgical
+      procedures, and it is significantly affected by the underlying patient comorbidities and
+      pre-existing peripheral neuropathy. Despite considerable implications of PNI to both the
+      patients and clinicians, little progress has been made in the past three decades in
+      developing a reliable intraoperative monitoring technique for its early detection and
+      prevention. SSEP monitoring has long been used in neurology as a means to diagnose peripheral
+      neuropathy and has been used for the early detection of intraoperative PNI caused by improper
+      patient positioning. A few retrospective studies have found that reversal of intraoperative
+      SSEP signal changes (e.g. correct the patient's arm position in the event of a positioning
+      related peripheral nerve compromise) prevented postoperative neuropathy, suggesting SSEP
+      could be used to detect intraoperative PNI and that prompt intervention could reverse
+      neurological injury (8-10). However, to date, there has not been a study that clearly defines
+      how the magnitudes of SSEP changes relate to the severity of peripheral nerve dysfunction.
+      Due to this lack of information, the current thresholds that are used for diagnosing PNI in a
+      variety of surgical procedures are largely based on the results of SSEP monitoring in spinal
+      cord injury. The traditional diagnostic criteria (used in spinal cord injury) might not be
+      applicable for PNI. Fundamentally, there is also a lack of a clinical study that defines
+      significant and non-significant changes for PNI. Most current available evidence regarding
+      SSEP in PNI is retrospective and mainly derived from patients being monitored for spinal cord
+      or cerebral injury during neurosurgical procedures. The lack of well-validated diagnostic
+      criteria is one of the key issues in preventing the use of SSEP for monitoring peripheral
+      nerves during surgery. As such, further studies are required to characterize the relationship
+      between SSEP changes and peripheral nerve dysfunction and re-define the threshold (or cut-off
+      values) for significant SSEP change for PNI.
+
+      This is a prospective cohort study to evaluate the relationship between the peripheral nerve
+      dysfunction, and SSEP signal changes in patients who will receive a brachial plexus block for
+      their surgical procedure. Brachial plexus block is a regional anesthesia technique routinely
+      performed by anesthesiologists where the nerves in the arm are blocked with local anesthetics
+      to prohibit movement and sensation. In LHSC, the average brachial plexus block performed is
+      around 10-15 patients/day for various upper limb surgeries. In this study, the patients with
+      brachial plexus block will be used as a model of brachial plexus injury to assess the
+      relationship between intraoperative brachial plexus injury and the SSEP changes. Brachial
+      plexus block in awake patients is an attractive model to study brachial plexus injury,
+      because it provides transient and progressive de-afferentation state of brachial plexus
+      dysfunction (mimicking brachial plexus injury), allows for real-time assessment of the
+      relationship between clinical symptoms and SSEP changes (awake patients), and overcomes
+      obvious practical limitations of investigating intraoperative PNI (small sample size of
+      patients with intraoperative brachial plexus injury). In this study, 50 consecutive patients
+      who required a brachial plexus block for their surgery, will be recruited. This study will be
+      performed in the "Block Room" of either London Health Science Centre or St Joesph Hospital,
+      London, Ontario. After obtaining informed consent, an independent assessor (hand specialist)
+      will perform a baseline assessment of the sensory and motor function of the upper limb. The
+      sensory function will be quantified by a two-point discrimination test in each dermatome. The
+      motor function will be quantified by the motor score in each myotome. The patients will be
+      attached to the automated SSEP monitor to obtain baseline upper limb SSEP signals. Median,
+      ulnar and radial nerves will be monitored. After satisfactory baseline SSEP recordings have
+      been obtained, a brachial plexus block will be performed in the usual fashion to achieve
+      complete sensory and motor blockage (approx. 30 min). This provides a unique experimental
+      condition to assess the relationship between the brachial plexus dysfunction and the SSEP
+      signal changes. An independent assessor (hand specialist) will re-assess the patients'
+      sensory and motor function every 5 minutes (up to 30 minutes during the onset of the block).
+      SSEP recording will be concomitantly obtained. A total of 300 data pairs (6 data pairs for
+      each patient) will be obtained for analysis. In this study, the Evoked Potential Assessment
+      Device (EPAD®, SafeOp Surgical, Hunt Valley, MD) SSEP machine will be used. It is a novel,
+      simplified, automated SSEP monitoring device (FDA approved), designed to detect
+      intraoperative PNI. The key features of EPAD® are that only the surface adhesive electrodes
+      (i.e. no subdermal needle electrodes) will be used, as well as there is newly artifact
+      rejection and optimization algorithm that permit SSEP recording in awake patients.
+
+      Prior to performing the brachial plexus block in the "Block room", a complete neurological
+      examination will be performed including motor score and 2-point discrimination test. Eligible
+      patients will be recruited after obtained informed consent. The baseline SSEP of the
+      participants will be recorded using the EPAD@ device. After the participants received the
+      brachial plexus block (as part of their standard of care), the participants will be
+      monitoring the progressive changes of SSEP signals while the effect of brachial plexus block
+      gradually onset (usually takes around 30 minutes). An independent assessor (hand specialist
+      blinded to the SSEP results) will concomitantly re-assess the patients' sensory and motor
+      function every 5 minutes (up to 30 minutes during the onset of the block).
+
+      The primary analysis will be on describing the relationship between the severity of the
+      neurological deficits (impaired sensory and/or motor function) and SSEP changes (amplitude
+      and/or latency changes). Secondarily, an optimal cut-off limit using Youden index and/or
+      logistic regression-derived likelihood ratio functions will be determined. A
+      Receiver-operating-curve for the new cut-off limits will be assessed. REDCapTM will be used
+      for electronic data collection and STATA (version 14) will be used for statistical analysis
+      in all the studies. These new cut-off limits in comparison with conventional criteria in our
+      subsequent clinical studies will be compared.
+    
+  

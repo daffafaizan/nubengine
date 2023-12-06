@@ -1,0 +1,53 @@
+
+    
+      This trial will include healthy people (sub-study 1) and patients with bipolar disorder or
+      recurrent unipolar depressive disorder in partial or full remission (defined as a score of
+      ≤14 on the Hamilton Depression Rating Scale 17-items and the Young Mania Rating Scale,
+      respectively (sub-study 2) with objectively-verified cognitive dysfunction. Participants will
+      be recruited from Psychiatric Centres in The Mental Health Services in the Capital Region of
+      Denmark, consultant psychiatrists in the Capital Region of Denmark, as well as through
+      advertisements on relevant websites.
+
+      The study design comprises 4 major assessments (baseline, week 3, week 13, and a 6 month
+      follow-up after treatment completion) and weekly safety monitoring and study medication
+      infusions during a 12 week treatment period. The baseline assessment is divided into 2 days,
+      1-3 days apart for practical reasons and to avoid attrition. On the first day of the baseline
+      assessment, participants will perform an fMRI scan. On the second baseline day, participants
+      complete an assessment comprising neuropsychological testing, verbal IQ assessment, and
+      filling in questionnaires concerning subjective cognitive complaints, quality of life, level
+      of functioning, and functional capacity, as well as mood symptom severity ratings. Functional
+      capacity is assessed using a clinician-rated interview and a performance-based task. After 2
+      weeks of treatment (i.e., 2 doses of EPO or saline) an fMRI scan, neuropsychological testing,
+      mood ratings, and questionnaires on subjective cognitive difficulties are repeated. After
+      treatment completion (week 13) and at the 6 month follow-up, the neuropsychological tests,
+      questionnaires concerning subjective cognitive complaints, quality of life, and functional
+      capacity (self-reported and performance-based) are repeated. Sleep quantity and quality in
+      the past three days is assessed before each of the 4 major assessment time point. Blood
+      samples are collected at baseline, week 3 and 13 for assessment of potential blood-based
+      biomarkers of pro-cognitive effects.
+
+      Pharma Consulting Group AB (www.pharmaconsultinggroup.com) has conducted block randomization
+      for each sub-study group, stratified for gender and age (sub-study 1: < or >=30 years;
+      sub-study 2: < or >=35 years). Power calculation was also carried out by Pharma Consulting
+      Group based on findings from a previous RCT in our group assessing the effect of 8 weeks of
+      EPO treatment on the same cognitive composite score. In this trial, the clinically relevant
+      differential change between EPO and saline groups following 12 weeks of treatment is assumed
+      to be at least 0.4 SD (corresponding to a moderate effect size) on the primary outcome with
+      SD of the change of 0.5. Assuming a 10% drop-out rate, we plan to recruit up to n=58 for each
+      sub-study to achieve complete data sets for n=52 participants per sub-study.
+
+      Data from the primary, secondary, and tertiary outcomes will be analyzed using Mixed Models
+      Design and Intention to Treat (ITT) analyses. Functional MRI data are pre-processed and
+      analyzed with FMRIB Expert Analysis Tool (FEAT) and the 'randomize' algorithm implemented in
+      FSL (FMRIB Software Library; www.fmrib.ox.ac.uk/fsl). Functional MRI data is analysed using
+      region of interest (ROI) analyses to assess potential differences in neural activity within
+      the dorsal prefrontal cortex and the hippocampi between EPO and placebo groups after 2 weeks
+      of treatment. Exploratory whole-brain analyses are conducted to assess treatment-related
+      activity change in other brain regions. Any differences in neural activity between treatment
+      groups are correlated with potential changes in the primary cognitive composite measure after
+      2 weeks of treatment (week 3) and after treatment completion (week 13). If this correlation
+      is significant, multiple regression analyses will be performed with adjustment for mood
+      symptoms, age, and gender to assess the potential predictive value of early neural activity
+      change for potential pro-cognitive efficacy after 12 weeks of EPO treatment.
+    
+  

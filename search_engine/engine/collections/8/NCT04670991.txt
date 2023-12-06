@@ -1,0 +1,58 @@
+
+    
+      The radiotherapy treatment preparation requires performing a dosimetric scanner (CT) of the
+      patient in the treatment position, with the compression. The repositioning of the ENT sphere
+      can be complex, especially in cases where there is irradiation of the supraclavicular lymph
+      node areas. Indeed, the height of the irradiated area can easily exceed 20cm and it is
+      necessary to ensure a good reproducibility of the repositioning of the spine relative to the
+      skull.
+
+      At the end of the dosimetric CT, the radiotherapist delineates the macroscopic tumor volume
+      (GTV) as well as the clinical tumor target volumes (CTVT) and lymph nodes (CTVN), which take
+      into account the infiltration risks of the tissue around the macroscopic tumor. Margins
+      around the VCTs then make it possible to obtain the estimated PTV target volumes (T and N),
+      defined so that the VCTs receive the prescribed dose despite the geometric uncertainties
+      associated with the treatment. Contours of organs at risk (OAR) are also carried out on the
+      dosimetric CT. Margins around the most critical OARs (eg: marrow, brainstem, chiasma and
+      optic nerves) are then added to generate predictive target volumes of organs at risk (PRV),
+      taking into account the geometric uncertainties. These uncertainties are separated into
+      errors in the treatment execution (random) and errors in the treatment preparation
+      (systematic).
+
+      Execution errors include repositioning errors, organ movements (overnight), patient
+      anatomical changes, intrafraction movements.
+
+      Errors related to treatment preparation include repositioning errors related to patient's
+      skin spotting of the treatment isocenter during the dosimetric CT (thanks to room lasers),
+      errors related to the CT acquisition that sets the CTV in a given position, the CTV
+      delineation errors.
+
+      Dosimetry is then carried out taking into account the dose criteria to be respected on the
+      PRVs and PTVs. Whatever the protocol used [Shrinking Action Level (SAL), non-action-level
+      (NAL) or e-NAL (extented NAL)], it must at least make it possible to guarantee that the
+      delivered dose complies with the planned dose. An optimization of the imaging protocol must
+      then be able to reduce the margins without compromising the treatment quality, while reducing
+      its toxicity for the patient.
+
+      On the Centre Léon Bérard accelerators equipped with both CBCT and ExacTrac®, we would like
+      to assess the possibility of replacing or reducing the frequency of CBCTs using ExacTrac®.
+      The time-consuming and irradiating characteristics of CBCT encourage to propose this study,
+      which will define the patients for whom the use of CBCT can be minimized.
+
+      In addition, if the correlation between ExacTrac® and CBCT is good, the use of ExacTrac® will
+      make it possible to control and correct intrafraction movements, and therefore reduce the
+      random uncertainties associated with carrying out the treatment.
+
+      The possibility of using ExacTrac® imaging for the repositioning of patients treated with
+      RCMI ENT would allow a reduction in treatment time and therefore less discomfort for the
+      patient, a reduction in the dose linked to repositioning imaging, follow-up and correction of
+      patient movements during the irradiation period.
+
+      Finally, this project will enable to propose new pre-treatment imaging strategies and
+      personalized margins according to the position of the lesions to be treated at the ENT level
+      in order to reduce the session time when possible, and to reduce the radiation doses. X due
+      to imaging.
+
+      The overall objective is to improve the care and quality of treatment for the patient.
+    
+  

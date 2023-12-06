@@ -1,0 +1,32 @@
+
+    
+      Title: Keratometry values such as K1, K2 and the angle between these two; Value and location
+      of the thinnest corneal point; Pachymetry progression (radial change of pachymetry); IS value
+      (i.e., ratio of average curvature in superior and inferior sections)
+
+      Description:
+
+      The primary endpoint is to obtain a database, containing at least two valid corneal biometry
+      measurements (Scheimpflug) recorded at least 5 months apart, for a predetermined number of
+      suitable keratoconus patients.
+
+      These data will be used to create a personalized three-dimensional model of the cornea at
+      each time point, which permits classifying corneas according to shape and stage, as well as
+      assessing the influence of patient age, gender, family history and ophthalmic habits (e.g.
+      eye rubbing) on keratoconus progression. Based on corneal changes over time, an estimate of
+      the underlying biomechanical changes will be made. All these data will then be combined to
+      develop software for automated keratoconus detection and progression risk assessment to help
+      ophthalmologists decide when to perform crosslinking on their patients.
+
+      The primary variables are the elevation parameters derived directly from the Scheimpflug
+      measuring device export files, along with the demographic and medical information (if
+      available).
+
+      Time frame: 5 months
+
+      Once a predictive model for keratoconus progression speed based on multiple measurements,
+      this can be improved to make predictions based on a single measurement. Furthermore, the
+      database obtained in this work will also be a valuable resource to analyse the variation in
+      keratoconus shape, which may lead to an improved classification of keratoconus types
+    
+  

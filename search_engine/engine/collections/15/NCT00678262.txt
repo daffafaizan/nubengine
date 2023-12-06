@@ -1,0 +1,126 @@
+
+    
+      Background:
+
+      Pain Assessment:
+
+      Whereas temperature, pulse, respirations, and blood pressure are all objectively measured,
+      pain is inherently subjective. Given this fundamental difficulty, it is no wonder that
+      failure to properly assess pain is a common cause of its poor control and lack of treatment
+      in patients in different settings (1). Moreover, pain is multidimensional, with
+      "sensory-discriminatory, cognitive-evaluative, and affective-motivational" components (2), or
+      in other words, it affects body, mind, and spirit, and its complexity makes it hard to
+      measure (1). Since pain has been recognized as an important modality, influencing recovery
+      and quality of life in patients, it has been termed "the fifth vital sign" and is now being
+      evaluated and registered in the patients' charts during routine checkups. Pain itself is
+      repeatedly rated by the patients and the caregivers or the medical personnel, it is followed
+      and treated.
+
+      For routine standardization, pain is charted on a scale of 0(no pain) to 10 (worst pain
+      possible). At pain intensities of 0 to 4 patients describe the interference with function as
+      mild (as reflected in daily activities and mood), at 5 to 6 it is described as moderate, and
+      at 7 to 10 as severe (2). For standard scaling, different assessment tools were developed.
+      One-dimensional pain scales, in which the patient is asked to describe the intensity of pain,
+      are the most used tool today (1). These are the VAS- Visual analog Score (e.g., the patient
+      places a mark on a 10-cm line to indicate the intensity of pain; one end of the line is
+      labeled "no pain" and the other "the worst possible pain"), the Numeric ("please rate the
+      intensity of pain on a scale of 1 to 10") and the Categorical ("please rate the pain as none,
+      mild, moderate, or severe"). These scales are reliable and valid and can be used in
+      conjunction with the World Health Organization (WHO) analgesic ladder guideline. (3)
+
+      The one-dimensional intensity scales can be modified to produce a pain relief scale, a
+      patient pain satisfaction scale, or a pain management index (4). Moreover, comprehensive
+      multidimensional pain assessment tools such as the Brief Pain Inventory were developed to
+      help pain management specialist's measure and assess the effect of pain on mood, activities,
+      and quality of life-which one-dimensional tools cannot do. (2) These tools are more difficult
+      for the patients and the medical personnel to complete and are usually not used in daily
+      practice (1).
+
+      In recent years the growing interest in pain and its treatment has generated a greater number
+      of studies for the assessment of these tools. The tools are basically regarded reliable but
+      Grossman SA et al (5) have found that the intensity of pain expressed by patients on
+      self-assessment scales correlates poorly with caregivers' assessments of pain, and the
+      greater the intensity of the pain, the poorer the correlation between patient and caregiver.
+      Moreover, patients, who can not communicate with the medical staff such as unconscious, or
+      sedated patients, young pediatric patients or psychiatric or mentally retarded patients, are
+      evaluated subjectively by the caregivers or the medical staff, this with wide variations
+      which do not always assess correctly the pain status of the suffering patient. For this
+      reason objective pain assessment tools have been suggested in recent past, for more accurate
+      and comprehensive indication of this modality in patients in different settings including
+      sedation and anesthesia.
+
+      Objective pain assessment:
+
+      Different mathematical tools, mostly the heart rate variability, the heart rate spectral
+      analysis were studied to assess the depth of anesthesia and pain (6-7). Most of the works
+      done on human patients were done on pain recognition in neonates ( ). Some works on adult
+      patients have been done too, trying to define pain using the heart rate and its analysis.
+      Since the acute effect of pain to increase heart rate is well known, it was hypothesized by
+      Storella et al. (10), in their work that there may be adaptive effects of chronic pain on the
+      autonomic regulation of the cardiovascular system that could be reversed by analgesia. They
+      examined whether the acute relief of chronic pain affects heart rate variability and
+      concluded their study, based on experimental data that acute relief of chronic pain is
+      accompanied by an analgesia-specific increase in heart rate variability in many patients. Ray
+      et al. in their work used this method for ECG signal processing and developed a new monitor
+      for pain assessment during anesthesia (11). Using the heart rate signal, the R-R intervals
+      and the spectral analysis were calculated. The output containing the information about the
+      respiratory cycles from which the RSA (respiratory sinus arrhythmia) was drawn to which they
+      assumed the level of consciousness was proportional. That study has demonstrated the
+      feasibility of this method, but their article states many drawbacks and restriction for this
+      system and clinically this method is not used today.
+
+      Methods
+
+      Signal processing:
+
+      We know that physiological signals such as the ECG and the EEG consist of mixtures of variety
+      of patterns and phenomena accruing at different patterns and different time points during
+      each recording. Some occur over very short time intervals, others last longer and some repeat
+      periodically. Another characteristic of these signals is the presence of a high leveled
+      noise, both systematic and unsystematic.
+
+      Traditional analysis methods are designed and optimized to handle signals that include a
+      single class of patterns such as pure harmonics (Fourier Representation/ dictionary) or
+      piece-wise constant functions (Wavelets Representation/ dictionary), in simplified and unreal
+      case, simple operations such as threshold calculations or filtering in the appropriate
+      representation space, can be very effective for separation of signal and noise (denoising),
+      decomposition into basic components, pattern detection and more. However, such basic
+      operations that use a single representation method usually yield mediocre results when
+      applied to real complex biological signals as mentioned above especially in the case where
+      the Signal to Noise Ratio (SNR) is very low. Recent trends in digital signal processing (DSP)
+      use the novel idea of merging several different representation methods to create a so called
+      over-complete dictionary, examples of this approach include the Matching Pursuit algorithm,
+      described by Mallat et al (12) and the Basis Pursuit algorithm, described by Donoho et. al
+      (13).
+
+      The matching pursuit and the basic pursuit can achieve near-optimal solutions for different
+      kinds of analyses of complex signals provided that the appropriate representation methods are
+      used. We intend to develop and apply this novel signal processing tools to the ECG signals
+      for the first time. We believe that such tools have the potential to provide much better
+      insight of the signal basic components and their relation to different physiological states
+      than the traditional analysis methods that are practiced today which are based on a single
+      dictionary.
+
+      In this study we intend to apply the advanced supervised learning methods, developed by Elad
+      (14) in order to adaptively generate optimal dictionaries and representation methods for ECG
+      signals and use these dictionaries to develop highly effective over complete dictionary based
+      analysis methods in order to separate the complex ECG signal into its basic components and
+      noise. We then intend to apply advanced statistical and data mining techniques in order to
+      relate the basic patterns of the ECG signals to the pain sampled in the designed groups.
+
+      Test groups:
+
+      In this study we intend to sample the ECG from two groups. The first group will comprise of
+      20 healthy young adults who voluntarily will be inflicted by thermal, pressure and neural
+      stimuli pain using the Cold pressor test, (this study is to be authorized by the Soroka
+      University Medical Center IRB Committee); these subjects will be VAS and ECG monitored
+      before, during and after the thermal pain induction. It is important to state that this
+      instrument inflicts thermal pain by an authorized protocol, which does not harm or produce
+      any tissue damage.
+
+      Hypothesis:
+
+      Our hypothesis is that pain can be detected, discriminated from noise and diagnosed by
+      routine ECG samplings using these processing techniques.
+    
+  

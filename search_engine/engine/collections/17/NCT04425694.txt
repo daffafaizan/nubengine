@@ -1,0 +1,57 @@
+
+    
+      Early Warning Score (EWS), also known as "track-and-trigger" system, is a tool designed to
+      help clinicians efficiently identify and track patients who have or develop acute illness,
+      and make timely clinical responses. An EWS is calculated based on values from a number of
+      physiological parameters (e.g. respiration rate, oxygen saturation, systolic blood pressure,
+      pulse rate, level of consciousness, and temperature) to obtain an aggregated score, which
+      indicates a patient's health status. It is mostly used by ward nurses to monitor their
+      patients; when a patient's EWS has exceeded a set threshold, the nurse should attend to the
+      patient more closely and consider for intervention e.g. call a doctor. The philosophy of EWS
+      is that it improves patient safety by enabling ward staff to detect patients' deterioration
+      early so that timely intervention can be administered within the "golden period for
+      treatment".
+
+      In the U.K., an EWS system called the National Early Warning Score (NEWS) was first released
+      in 2012 (NEWS, 2012). The NEWS was the first system to standardize the calculation and
+      charting of acute-illness severity and has been widely adopted across the National Health
+      Service (NHS). Recently, in December 2017, NEWS2 has been released and it is an updated
+      version of the NEWS (NEWS2, 2017). NEWS2 can be readily computerized and has already been
+      integrated with some NHS hospitals' electronic health record systems. The Updated Report of a
+      Working Party of NEWS2 states that "There are potential advantages of automated calculation
+      of the NEW score and automated alert systems." (p. 6). Therefore, the objective of this
+      proposed study is to implement and evaluate an electronic EWS (e-EWS) system in a selected
+      surgical ward at Tune Mun Hospital (TMH).
+
+      At TMH, the current practice of obtaining ward patients' EWS is a manual process: firstly, a
+      care giver measures a patient's specified physiological parameters by using the appropriate
+      monitoring instruments; secondly, the care giver writes down the values of the parameters on
+      a paper chart; thirdly, the paper chart is handed over to a nurse; and finally, the nurse
+      calculates the EWS. The process is performed on a designated regular time interval.
+
+      There are two main drawbacks of the manual EWS process: firstly, it is inefficient because
+      there are usually multiple patients in a ward and some physiological variables take time to
+      measure. Therefore, in a busy ward, missed physiological measures and irregular
+      measurement-taking intervals are often reported. These problems lead to staff ignoring EWS
+      calculations. Secondly, when EWS are calculated, nurses often do so for patients who already
+      show deteriorating conditions. This counters the original intent of EWS, which is to help
+      identify patients with early signs of deterioration. These drawbacks compromise clinicians'
+      ability to detect patient deterioration early, which could potentially compromise patient
+      safety.
+
+      A potential solution is to automate the manual EWS process. Some hospitals in Hong Kong, for
+      example, Tseung Kwan O Hospital has already adopted an e-EWS system in some of its wards. The
+      e-EWS system is connected to a physiological monitor, which takes various physiological
+      measurements. The system has an auto-charting module, which automatically captures patients'
+      physiological measurements in an electronic chart (e-chart) and calculates their EWS. All the
+      information in the auto-charting module is then wirelessly transferred to a central display
+      in the ward's nurses station. The central display shows patients' status in terms of EWS and
+      issues alerts when any EWS has exceeded a set threshold. The e-EWS system is not only capable
+      of auto-charting but also provides an alert mechanism to help nurses detect early
+      deterioration.
+
+      However, while the e-EWS system could potentially reduce ward staff's workload and improve
+      patient safety, its effectiveness can only be realized through good HF design that matches
+      users' expectations, requirements and work practices.
+    
+  

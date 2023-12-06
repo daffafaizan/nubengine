@@ -1,0 +1,65 @@
+
+    
+      Radiotherapy for cancer has been a forerunner of personalized medicine, developing
+      individualized treatments based on patient-specific anatomical information. Despite many
+      advances in radiotherapy over the past decade, which have effectively enhanced local or
+      loco-regional tumor control for many patients, there remains substantial room for
+      improvement. The challenges for radiotherapy to further widen the therapeutic window in the
+      era of precision medicine are mainly two-fold: (a) further improve radiation dose conformity
+      to the defined target volume, and (b) adapt novel biological strategies for personalized
+      treatment. Four-dimensional (4D) imaging and deformable image registration (DIR) are key
+      tools in modern radiotherapy, playing critical roles in many recent advances, including 4D
+      radiotherapy, adaptive radiotherapy, and treatment assessment. However, current 4D imaging
+      and DIR technologies are facing significant challenges as the requirement for precision
+      increases.
+
+      The current standard of 4D imaging in radiotherapy is 4D-CT. However, it has two major
+      limitations preventing it from precision radiotherapy applications: (a) low soft-tissue
+      contrast. 4D-CT is therefore not ideal for abdominal applications; (b) motion artifacts
+      caused by irregular breathing. 4D-CT motion artifacts have been shown to cause errors in
+      various radiotherapy applications, including motion measurement, target volume delineation,
+      dose calculation, DIR, and lung ventilation calculation. 4D-MRI is an emerging 4D imaging
+      technology for radiotherapy. It has superior soft-tissue contrast to 4D-CT and is therefore
+      superb for abdominal imaging. Despite many recent advances in 4D-MRI, current 4D-MRI
+      implementations have inadequate image quality for precision radiotherapy application due to
+      at least one of the following deficiencies: low temporal and/or spatial resolutions, long
+      image acquisition time, and suboptimal contrast in the lungs. Resulting 4D-MRI images lack
+      sufficient anatomical details for clinical applications, which can adversely affect the
+      performance of DIR. Current DIR techniques focus on morphological similarity but not on the
+      physiological plausibility of the deformation. Studies have shown that an increased
+      morphological similarity of the aligned data does not always imply increased registration
+      accuracy. Therefore, more sophisticated approaches are desirable.
+
+      The investigators will take a systematic approach to address the aforementioned limitations
+      of 4D imaging and deformable image registration (DIR) based on the development and
+      cross-fertilization of two major techniques: ultra-quality 4D-MRI and physiological-based
+      hybrid DIR. There are two parts of this research, comprising three main objectives:
+
+      Part 1. Technical development in healthy subjects: The investigators will extend their
+      existing pulse sequence strategy for ultra-quality 3D MRI to enable ultra-quality 4D-MRI.
+      Compared to 4D-CT and current 4D-MRI techniques, the proposed ultra-quality 4D-MRI technique
+      offers the following advantages: (a) high spatial resolution (1.5 mm isotropic) with rich
+      image features (e.g. vessel trees) in the whole torso; (b) high temporal pseudo-resolution
+      (>20 phases/cycle); and (c) (nearly) free of motion artifacts.
+
+      • Objective 1: Develop an MRI pulse sequence and image reconstruction pipeline that generates
+      images meeting these three design goals.
+
+      Part 2. Evaluation of 4D-MRI in a patient study: 4D-MRI will be compared with existing DIR
+      and 4D-CT methods. There will be two classes of comparisons, each formulated as a separate
+      objective:
+
+        -  Objective 2: Compare motion modelling based on 4D-MRI with deformable image registration
+           (DIR) in healthy volunteers and cancer patients. An improved motion modeling method will
+           be developed that is tailored for the ultra-quality 4D-MRI applications. The
+           investigators hypothesize that a new motion modeling method based on 4D-MRI will
+           outperform current DIR algorithms for respiratory motion estimation. This hypothesis
+           will be tested by comparing the new method to five DIR algorithms which include a mix of
+           commercial software and publicly available algorithms.
+
+        -  Objective 3: Compare 4D-MRI with 4D-CT in lung and liver cancer patients. The overall
+           hypothesis of this objective is that the ultra-quality 4D-MRI provides better image
+           quality than 4D-CT for motion management of radiotherapy in the lungs and the liver,
+           especially in patients with irregular breathing.
+    
+  

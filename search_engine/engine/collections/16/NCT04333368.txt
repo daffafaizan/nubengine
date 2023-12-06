@@ -1,0 +1,93 @@
+
+    
+      General context:
+
+      As of March 13, 2020, more than 145,000 cases of 2019-nCoV infection have been confirmed with
+      5,500 deaths worldwide. As of March 21, 14,469 cases have been confirmed in France, of which
+      562 have been fatal while 1,525 patients are currently hospitalized in intensive care units.
+      Whereas the pandemic continues to spread, the severe acute respiratory syndrome coronavirus 2
+      (SARS-CoV-2) causes Severe Acute Respiratory Distress Syndrome in 30% of patients (Murthy et
+      al., 2020) with a 30%-60% mortality rate. The main physio-pathological hallmark is an acute
+      pulmonary inflammation. Currently, there is no treatment.
+
+      The objective of this project is to treat intubated-ventilated patients presenting with a
+      SARS-CoV2-related Acute Respiratory Distress Syndrome (ARDS) of less than 96 hours by three
+      intravenous infusions of umbilical cord Wharton's jelly-derived mesenchymal stromal cells
+      (UC-MSC) one every other day (duration of the treatment: one week). The primary endpoint is
+      the PaO2/FiO2 variation from baseline at day 7. The evolution of several inflammatory
+      markers, T regulatory lymphocytes and donor-specific antibodies will also be monitored. The
+      trial will include 40 patients, of whom 20 will be randomized to cell-treatment administered
+      via intravenous route while the remaining 20 patients will be randomized to receive a placebo
+      solution in addition to the standard of care. Patients will be followed up to 12 months after
+      treatment.
+
+      State of the art:
+
+      Mesenchymal stem cells feature several attractive characteristics: ease of procurement, high
+      proliferation potential, capacity to home to inflammatory sites, anti-inflammatory,
+      anti-fibrotic and immunomodulatory properties. Their therapeutic benefits have been
+      demonstrated in > 100 animal models, including sheep. Specifically, the therapeutic effects
+      of MSC have been demonstrated in ARDS models induced by H1N1, H5N1, H9N2 influenza
+      virus-associated pneumoniae and were also shown to reduce bacterial-induced acute lung injury
+      in a human model of ex vivo perfused lung (Lee et al., 2013). In the clinics, MSC have
+      demonstrated an excellent tolerance in over 3,000 patients (Thompson et al., 2020),
+      regardless of the dosing and delivery route. Three phase I/II trials have included patients
+      with an ARDS and in one (START II), MSC significantly reduced pulmonary endothelial injury
+      (Matthay et al., 2019). If all MSC share several characteristics regardless of the tissue
+      source, the highest productions of bioactive molecules and the strongest immunomodulatory
+      properties are yielded by those from the Wharton's jelly of the umbilical cord (Romanov et
+      al., 2019) which can be scaled-up to generate banks of cryofrozen and thus readily available
+      products.
+
+      So far, UC-MSC have been used in a wide variety of diseases (reviewed in Scarfe et al., 2018)
+      and, in most cases, they have been delivered via the intravenous route which is clinically
+      attractive because of its non invasive nature and the subsequent possibility of repeated
+      administrations. Labeling techniques have shown that >80% of intravenously injected MSCs are
+      rapidly trapped in the lungs, followed by a rapid distribution of some of the injected MSCs
+      to other tissues including liver, spleen, and inflammatory or injured sites (Brooks et al.,
+      2018). Over all, these biodistribution patterns have been confirmed by human studies using
+      magnetic resonance imaging (MRI), positron emission tomography (PET) and/or single-photon
+      emission computed tomography (SPECT).2 A four-parameter model (injection rate, clearance
+      rate, rate of extravasation and rate of intravasation) predicts that transplanted MSCs are
+      only therapeutically active for a short period of time (probably less than 24 h) (Parekkadan
+      and Milwid, 2010), a timescale consistent with that of the biological responses that they
+      trigger. These assumptions are an incentive to repeated MSC administrations within a short
+      period of time to induce a sustained therapeutic effect and has rationalized our protocol of
+      injecting MSC one every other day over a one week-period, a design consistent with the
+      earlier report of the benefits of delivering MSC at relatively small doses but in a repeated
+      fashion in patients with graft-versus-host disease (Zhou et al., 2010).
+
+      Once they have homed in the lungs, MSC have been reported to first induce an inflammatory
+      response which is detectable at the tissue level and systemically (Hoogduijn et al., 2013)
+      and is likely due to their interaction with resident lung cells once they have accumulated in
+      the microvasculature. This initial response is then followed by a downstream phase of reduced
+      immune reactivity (Hoogduijn et al., 2013), the mechanisms of which have been extensively
+      investigated. Thus, 24 hours after their intravenous infusion, most of the UC-MSC that have
+      accumulated in the lungs are dead after their phagocytosis by monocytes and neutrophils which
+      then migrate through the blood stream, particularly in the liver (Leibacher et al., 2017; de
+      Witte et al., 2018). Co-culture experiments have shown that the internalization of MSC
+      fragments by monocytes triggers a phenotypic shift which translates into the upregulation of
+      PD-L1 and CD90 along with an increased expression of mRNA levels for IL-1β, IL-6, IL-8 and
+      IL-10 and a decreased expression of TNF-α. Of note, monocytes polarized towards an
+      immune-regulatory phenotype increase the expression of Foxp3+ T regulatory lymphocytes while
+      decreasing that of activated CD4+ cells (de Witte et al., 2018). That apoptosis of
+      intravenously infused MSC is a requirement for their immunosuppressive function is further
+      supported by the observation that the cytotoxic activity against MSC is predictive of
+      clinical responses in patients treated by MSC for graft-versus-host disease, i.e., the best
+      responders are those with high cytotoxicity; in this study, the postulated mechanistic link
+      is that phagocytes that have engulfed apoptotic MSC then produce indoleamine 2,3-dioxygenase
+      (IDO) and thus ultimately deliver MSC immunosuppressive activity (Galleu et al., 2017).
+
+      Given the pathophysiology of SARS-CoV2, it is thus sound to hypothesize that the intravenous
+      administration of UC-MSC during the initial phase of ARDS could control inflammation,
+      accelerate its recovery with improved oxygenation, reduced mechanical ventilation and
+      ventilation weaning time and therefore reduced length of stay in intensive care. This
+      assumption is indeed supported by the recent results of a preliminary Chinese trial in which
+      MSC (the source of which has not be specified) have been reported to improve pulmonary
+      function and symptoms in 7 patients with COVID-19 pneumonia along with a rapid clearance of
+      overactivated cytokine-secreting immune cells (CXCR3+CD4+ T cells, CXCR3+CD8+ T cells, and
+      CXCR3+ NK cells), a decrease in TNF-α circulating levels and an increase in
+      CD14+CD11c+CD11bmid regulatory DC cells and IL-10 levels, compared with a placebo group (Leng
+      et al., 2020).
+    
+  

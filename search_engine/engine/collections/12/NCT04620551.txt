@@ -1,0 +1,34 @@
+
+    
+      Although STN-DBS is routinely used to treat PD motor symptoms, several studies have reported
+      that STN-DBS also provides benefit for sleep dysregulation through normalization of sleep
+      architecture. In our previous work, using local field potentials (LFP) recorded from STN DBS
+      electrodes implanted for the treatment of PD, unique spectral patterns in STN oscillatory
+      activity were identified that correlated with distinct sleep cycles, offering insight into
+      sleep dysregulation. These findings were used to construct an Artificial Neural Network (ANN)
+      that can accurately predict sleep stage. Building on this work with the use of new DBS
+      battery technology that allows exploration of potential biomarkers and prototyping of
+      closed-loop algorithms, the investigators will test the hypothesis that STN-a highly
+      interconnected node within the basal ganglia- contributes to the regulation and disruption of
+      human sleep behavior and can be manipulated for therapeutic advantage.
+
+      This is the first part, Aim 1, of a two-part study. Investigators will enroll 20 subjects for
+      Aim 1 of this study and 20 subjects for Aim 2, with 10 subjects enrolled at each clinical
+      site for each aim (University of Nebraska Medical Center and Stanford University Medical
+      Campus). In Aim 1, subjects will undergo standard-of-care STN DBS lead implantation surgery
+      for the treatment of PD. They will return 3 weeks later to the in-patient Sleep Lab for 3
+      nights of STN LFP recordings with concurrent PSG, EMG, EOG, actigraphy, and video-EEG. The
+      first two nights of recording will be used to establish a physiological sleep baseline for
+      each patient. The third night of recording will involve sub-clinical thresholds of
+      stimulation in all subjects, in an effort to favorably alter sleep-stage duration, so that
+      NREM and REM-3 are prolonged. As a secondary outcome, subjects will be asked to complete a
+      sleep questionnaire for all three nights, sleep during which stimulation occurred will be
+      compared to the preceding two nights. Data collected during all three nights of recordings
+      will be used to predict sleep stage identity from the LFPs recorded within STN, with the
+      ground truth for each sleep stage provided by sleep-expert evaluated PSG. These data will
+      also be used to identify the optimal sub-clinical threshold current amplitude and sleep-stage
+      timing for adaptive stimulation to improve sleep. The stimulation algorithm developed in Aim
+      1 will be implemented in the second part of the study, Aim 2, to provide adaptive stimulation
+      to subjects during nighttime sleep, over the course of 3 weeks of in-home sleep.
+    
+  

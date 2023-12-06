@@ -1,0 +1,74 @@
+
+    
+      HOPE conducts a 2.5-year multicenter prospective cohort study in Germany on outcome
+      prediction in the early stages of coma caused by cerebral hypoxia-ischemia.
+
+      The main features of the project are:
+
+        -  Control for a self-fulfilling prophecy
+
+        -  Long-term follow-up (12 months) covering acute and neurorehabilitation phases
+
+        -  Use of sensitive measures of level of consciousness
+
+        -  Further in-depth and systematic examination of the predictive value of somato-sensory
+           evoked potentials (SSEP)
+
+      Using as a reference existing guidelines and previous research, we consider the following
+      factors to be predictors of a negative outcome with a high specificity of > 90% with small
+      95% confidence intervals: loss of cortical N20 SEP potentials, loss of more than one brain
+      stem reflex, non-reactive EEG, or a NSE above 33 mcg/L. We refer to the presence of any of
+      these specific unfavourable test results during the ICU treatment as a "negative predictor".
+      Therefore, our null hypothesis is that the probability of a favourable outcome, despite the
+      presence of a negative predictor, is < 10%. We will use Simon's two-stage design. The null
+      hypothesis will be tested against a one-sided alternative. In the first stage, we will accrue
+      72 patients. If there are 8 or fewer good outcomes in these 72 patients, the study will be
+      discontinued because the null hypothesis could not be rejected. Otherwise, we will recruit
+      100 additional patients to gather a total of 172. The null hypothesis will be rejected if 28
+      or more favourable outcomes are observed in these 172 patients. This design yields a type I
+      error rate of 0.05 and power of 80% if the true response rate is 25%, i.e. if indeed 25% or
+      more patients have a favourable outcome despite a negative predictor. This calculation is
+      based on the assumption that 25% of the enrolled patients have at least one negative
+      predictor.
+
+      HOPE has seven data entry points (i.e. study visits).The primary endpoints are completion of
+      the follow-up period or patient death. HOPE collects clinical and demographic data in
+      accordance to Utstein-style recommendations. The most crucial part of the study is
+      determining the current level of consciousness by means of the revised version of the Coma
+      Recovery Scale (CRS-R). The CRS-R allows a precise categorization of the current level of
+      consciousness based on a structured and systematic clinical examination of auditory, visual,
+      motor, oromotor, communication and arousal functions. Other assessment instruments employed
+      yield information about functional outcome/ADL, neuropsychological performance, and
+      health-related quality of life.
+
+      Study centers will collect data prospectively following a data acquisition timeline (e.g. t0
+      to t6). Visits t0 to t2 will take place at acute-setting ICUs; visits t3 to t5 at
+      neurorehabilitation centers; and visit t6 at the patients' location of residence 12 months
+      after day 0. A manual and data dictionary will be provided to all centres along with the case
+      report forms (CRF). All study centers will send pseudonymized data weekly by certified mail
+      to the Central Study Centre (CSC) located at the Department of Neurology of the University of
+      Munich. All study centres, including the CSC, will check the data for completeness,
+      plausibility, accuracy, consistency and outliers. Legal representatives of coma patients, who
+      decline to participate, will be asked to provide data on socio-demographic variables and
+      reason for declining. The CSC will store the data at a database and will be responsible for
+      safeguarding and analysing it. Patients/Legal representatives will be asked to remain in the
+      study for a further follow-up. After completion of the follow-up period, datasets will be
+      irreversibly anonymised.
+
+      We will analyze the positive predictive value of a dichotomous prognostic marker (favorable
+      or unfavourable SSEP). For this purpose, we will use two definitions of favorable outcome,
+      i.e. a functional and a behavioral one. If outcome is defined with respect to independence in
+      daily life, we will use a modified Rankin Scale score of 0-3 (no symptoms - moderate
+      disability, but able to walk independently) to categorize a favorable functional outcome. In
+      the context of a catastrophic event such as cardiac arrest with high likelihood of permanent
+      VS, it is our experience that some patients and families consider regaining functional
+      communications skills also a favourable outcome. In a separate analysis, we will therefore
+      use the recovery of full consciousness as measured by the CRS-R to define a favorable
+      behavioral outcome. To analyse the effect of covariates on functional and behavioral
+      outcomes, we will use mixed effects regression models, including both fixed and random
+      effects. This method of analyzing longitudinal data is highly effective to examine change
+      trajectories with several unequally spaced waves of data. Covariates will be sociodemographic
+      variables, prognostic variables and treatment factors (e.g. use of therapeutic hypothermia),
+      adjusted for age and sex.
+    
+  

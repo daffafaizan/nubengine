@@ -1,0 +1,88 @@
+
+    
+      Respiratory failure is one of the most common causes of both hospitalization and mortality in
+      patients in the pediatric intensive care unit (PICU). Recently, it is recommended to target
+      driving pressure (ΔP) in patients with ARDS to achieve better results with the administration
+      of optimal mechanical ventilation. ΔP is calculated as the difference between Plateau
+      pressure (Pplat) and positive end-expiratory pressure (PEEP) and is determined by the ratio
+      of the tidal volume to the compliance of the respiratory system (ΔP = Pplat - PEEP = VT/CRS).
+      ΔP estimates how much mechanical strain (dynamic strain) the tidal volume causes in the lung.
+      It is a non-invasive and simple method and can be easily calculated at the bedside. In many
+      studies, higher ΔP was associated with mortality in adult ARDS patients; non-ARDS patients'
+      studies showing the relationship between driving pressure and mortality are few, but
+      contradictory results have come out.
+
+      This study aimed to determine whether ΔP was associated with mortality in pediatric patients
+      diagnosed as pARDS and non-pARDS who received mechanical ventilation support due to
+      respiratory failure.
+
+      Single-center, prospective, observational study of patients admitted to pediatric intensive
+      care units (PICU) in Turkey. In our study, the ethics committee was approved by The Health
+      Sciences University Izmir Behcet Uz Child Health and Diseases education and research hospital
+      ethics committee (protocol no: 2019-344).In our study, patients who received invasive
+      mechanical ventilation support due to respiratory failure in the pediatric intensive care
+      unit over 1 month and under 18 years were included in the study between March 2018 and April
+      2020. Mechanically ventilated patients (via ETT or trachestomy) were recorded for patients
+      whose ventilation duration lasted at least 24 hours. We divided the patients into two groups
+      by calculating the oxygenation index (OI): [mean airway pressure(MAP) × fraction of inspired
+      oxygen (FiO2) ]/ partial pressure of oxygen in arterial blood (PaO2) × 100) used in the
+      classification of PALICC, including ARDS and non-ARDS. PARDS definition was also identified
+      based on the PALICC criteria. Data were prospectively recorded on day 1 including patient
+      demographics, ventilator settings (VT, VT / ideal body weight (IBW), respiratory rate (RR),
+      peak inspiratory pressure (PIP), plateau pressure (Pplat), mean airway pressure (Pmean),
+      minute volume (VE), end-expiratory pressure (PEEP), static compliance (Cstat), fraction of
+      inspired oxygen FIO2, inspiratory time ( IT), expiratory time (ET) and we calculated
+      oxygenation index (OI), cstat (VT/∆P), partial pressure of oxygen in arterial blood (PaO2)
+      /FiO2, driving pressure (ΔP), the pediatric index of mortality (PRISM) III scores and
+      pediatric sequential organ failure assessment (pSOFA) scores.
+
+      All patients were ventilated with volume control (VCV) or pressure control (PCV) mode during
+      the hospitalization. İn order to measure the driving pressure of patients, Pplat was measured
+      in the mechanical ventilator every 12 hours using an inspiratory hold maneuver. The average
+      Pplat was calculated using the mean of 2 measurements within 24 hours. Then, the total PEEP
+      was measured by expiratory hold maneuver and ΔP was calculated with the Pplat-PEEP formula.
+      Patients were followed for 30 days until hospital discharge. We used ΔP compared to other
+      mechanic ventilator parameters between survivors and non-survivors at day 30. Besides, ΔP and
+      other parameters of patients in the ARDS and non-ARDS groups were compared with their 30-day
+      mortality.
+
+      Statistical Analyses Primarily, we evaluated the relationship between ΔP and mortality in
+      patients with ARDS and non-ARDS. Our second target was to evaluate the relationship between
+      mortality and ΔP and other mechanical ventilator parameters.
+
+      Driving pressure and other lung dynamics; according to the type and distribution of the data
+      was compared with chi-square, Wilcoxon, Independent-T-test or Mann-Whitney-U test and p <0.05
+      was considered statistically significant. The strength of the association between the two
+      variables was measured using the correlation coefficient. We used Pearson correlation to
+      parametric variable and Spearman correlation to the nonparametric variable to detect
+      covariances before logistic regression analysis. We evaluated with spearman's correlation
+      analysis to detect covariances before logistic regression analysis. Parameters found
+      significant with mortality in univariate analyzes were evaluated by Logistic Regression
+      analysis. (odds ratio [OR] and 95 % confidence intervals [CI]) Model fit was assessed using
+      Hosmer-Lemeshow statistics.
+
+      For the multivariable analysis, we identified covariates that may be associated with
+      mortality. VT /IBW, PaO2, OI, FiO2, PRISM III score, Days of ventilation and pSOFA score were
+      not collinear with ΔP. We did not include Pplat, PIP, Pmean in logistic regression models
+      containing ΔP given concerns for collinearity Individual covariates included age, gender,
+      PRISM III score, PaO2, OI, FiO2, Days of ventilation and pSOFA score. We created 3 other
+      modeling analyzes for Pplat, PIP, Pmean, because of collinearity with driving pressure. We
+      evaluated this model to determine the best parameter related to mortality in whole patients
+      under mechanical ventilation support due to respiratory failure. ΔP cut off (13 cmH2O) values
+      in adult studies in the literature were categorized and mortality was estimated by a receiver
+      operating characteristic (ROC). We performed all statistical analyses using IBM SPSS
+      Statistics for Windows version 22 (Armonk, NY) for analysis.
+
+      Mechanical ventilation is one of the most common indications for admission to a pediatric
+      intensive care unit (PICU), with up to 64% of admitted children requiring mechanical
+      ventilation. Driving pressure (ΔP), which is calculated as end-inspiratory plateau pressure
+      (Pplat) minus applied positive end-expiratory pressure (PEEP) and is equivalent to the ratio
+      between the VT and compliance of the respiratory system, can reduce mortality with children
+      who received mechanical ventilator support due to respiratory failure. ΔP is a non-invasive
+      and simple method and can be easily calculated at the bedside.
+
+      Recent data in the adult ARDS population have shown that the ΔP is most related to mortality.
+      Our study, we have shown that the ΔP on day 1 was associated with hospital mortality in with
+      pARDS patients.
+    
+  

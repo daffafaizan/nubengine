@@ -1,0 +1,18 @@
+
+    
+      Total intravenous anesthesia is commonly performed with propofol and remifentanil now-a-days.
+      The combination of these two drugs can achieve the rapid loss of consciousness and
+      analgesia,as the onset and recovery time of these two drugs are very fast within one to three
+      minutes. However, the problem of intraoperative awareness necessitate the monitoring of
+      anesthetic depth, which is commonly performed with Bispectral index (BIS). BIS is a display
+      of number from zero to one hundred which quantify the degree of sedation and hypnosis by
+      anesthetics by analyzing the electroencephalogram. However, it is limited in neurosurgery in
+      which the surgical field is near the forehead where the BIS probe is attached. Furthermore,
+      it is also limited in surgery with prone position. The BIS is influenced by multiple
+      parameters, such as age,gender, body weight, height, muscle relaxants, hepatic function,
+      co-administered drugs, surgical stimulation, but is thought to be influenced mainly by
+      propofol and remifentanil infusion dose. As such, we postulate that the BIS value could be
+      predicted by the estimated effects-site concentration of propofol and remifentanil, and try
+      to establish a multiple linear regression model for predicting BIS value.
+    
+  

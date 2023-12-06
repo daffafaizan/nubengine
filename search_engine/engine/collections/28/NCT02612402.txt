@@ -1,0 +1,118 @@
+
+    
+      The aim of the study is to increase patients' physical activities by using a dedicated
+      cellular application that will encourage patients to adhere to their doctor recommendation on
+      a personal basis.
+
+      Primary outcome In diabetic patients: measuring an increase in daily physical activity In
+      cancer patients: improvement of quality of life in correlation with the level of physical
+      activity
+
+      Secondary outcomes In diabetic patients: improved glycemic control as assessed by sequential
+      blood tests for HbA1c.
+
+      The patients will fill quality of life questionnaires (SF36) at recruitment and after 6
+      months. After 6 months the patients will also fill a questionnaire about their experience of
+      using the app.
+
+      Each recruited patient will have an Android based smart phone. Each patient will provide:
+
+        1. Approval to join the experiment
+
+        2. Age, gender, height
+
+        3. Telephone number (for SMS)
+
+      Length of intervention - at least 6 months per patient. Each patient will be randomly
+      assigned into one of two groups, which will specify feedback relative to himself or to others
+      or a weekly reminder to exercise.
+
+      Number of patients:
+
+        1. Diabetes: 150 patients, of which 50 are controls.
+
+        2. Cancer: 100 patients, of which 20 are controls. All patients will receive instruction
+           about the importance of physical activity and a personal recommendation for activity
+           level, n sessions of activity per week, and time span per session (i.e., at least 2
+           hours of walking per week divided to 3 walking sessions per week) Patients in the
+           treatment arms will receive at least n (number of commended sessions) messages per week
+           of positive feedback if activity performed or negative feedback if not performed. At the
+           chosen day each week the patient will receive a summary of the exercise for all the
+           week.
+
+      Feedback Possible feedback
+
+      (NOTE - these the the actual feedback messages that the participants will receive, and are
+      therefore in the second person):
+
+        1. Negative feedback: "You need to exercise to reach your activity goals. Please remember
+           to exercise tomorrow".
+
+        2. Positive feedback:
+
+             1. Relative to self: "You're exercise level is higher than last week. Keep up the good
+                work"
+
+             2. Relative to others: "You're exercising more than the average person. Keep up the
+                good work"
+
+        3. Control arm: "Did you remember to exercise?"
+
+      Technical requirements
+
+        1. App - will collect physical activity and send it to a server. App will run in background
+           without need to restart on reboot.
+
+        2. Server - Collects physical activity
+
+      Feedback policies The experiment will have two phases of feedback. Phase 1
+
+      The investigators begin with no data, so the policy at this stage is as follows:
+
+        1. Positive feedback will be sent each day if user has surpassed 1/7th of weekly activity
+           that day.
+
+        2. Negative feedback will be sent every 3 days, if activity hasn't passed 1/7th of
+           activity.
+
+      Each day, with a probability of 0.2, a random decision on feedback will be made.
+
+      This phase will last approximately 4 weeks. Phase 2 Using a learning algorithm (see below)
+      the computer will adjust the feedback, and decide daily on the feedback (positive \ negative
+      \ none).
+
+      Policy learning The investigators will start with a simple policy learning strategy, and
+      later use more sophisticated methods that will have a state-space representation of the user.
+
+      The initial algorithm will represent each user at each day using the following attributes:
+
+        1. Demographics (age and gender)
+
+        2. Expected versus actual activity level this week (ratio of the two)
+
+        3. Last feedback given (positive \ negative)
+
+        4. Day of the week (we will use week-long cycles). The goal of the algorithm is to give
+           feedback today so as to encourage activity tomorrow.
+
+      When training the algorithm, the computer will have a feature vector comprising of the
+      attributes above, and a matrix of actions (for day t). The output to be predicted is whether
+      the activity level on the following day (t+1).
+
+      There can be two types of feedback depending on weekly and daily behaviors:
+
+      Weekly goal Not achieved Achieved Daily goal (on day (t+1)) Not achieved 1 1+alpha Achieved
+      1+alpha 1 (alpha>0) The algorithm will pay a higher penalty if, for example, on a given day
+      the message encouraged activity, but the weekly goal was not achieved compared to if it was.
+
+      For simplicity, the initial learning algorithm will be linear, until enough data is
+      collected. That is, given a matrix:
+
+      X = (demographics, expected vs. actual activity, last feedback, day of the week, actions) And
+      a vector showing the amount of activity on the following day, weighted as in the table above,
+      denoted by Y, we will learn a vector of weights w such that: X * w = Y.
+
+      In phase 2 of the project the computer will use other learning algorithms. Exploration
+      (random action at a given day) will continue throughout both phases at the same level.
+    
+  

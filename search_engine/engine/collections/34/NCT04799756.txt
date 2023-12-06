@@ -1,0 +1,37 @@
+
+    
+      Taking pulse as a disease diagnosis process has a long history in traditional Chinese
+      medicine (TCM). Ancient physicians used the common attributes of pulse conditions and
+      finger-feeling characteristics as a basis for pulse classification, which " position, rate,
+      shape and tendency " is the principle for pulse differentiation. However, it is not easy to
+      express feelings of hands in a scientific way and not easy for clinical teaching and
+      practice. The modernization of pulse diagnosis in Taiwan originated in the 1970s. By using
+      pressure waves of the radial artery, two methods were developed : time-domain analysis and
+      frequency domain analysis. Dr. Huang used time-domain analysis combined with frequency-domain
+      analysis of 6-sec pulse waves, to quantify 28 pulse patterns in TCM. Professor Wang measured
+      a single pulse wave and performed Fourier transformation to obtain the corresponding 12
+      meridian frequency spectrum, but it is very different from the clinical practice of pulse
+      diagnosis. Our team found that the frequency-domain and the tim-domain analysis can be
+      integrated if Fourier transformation integral formula is applied. Because the extracted data
+      is big, the characteristic values of time and frequency domain analysis are calculated and
+      judged by deep learning method.
+
+      The purpose of this study is to use the " Integration analysis of time-domain" method to
+      extract the characteristic values of the radial pulse, and then use deep learning for model
+      training. That is, after measuring the pulse waves at different positions and depths of the
+      bilateral radial arteries, by using the pulse diagnostic instrument, to initial signal
+      processing and to get a single pulse. Then Fourier transformation is performed to obtain the
+      magnitude and phase parameters of the 12 harmonics (24 variables in total), and then extract
+      7 time-domain characteristic parameters of a single pulse. The next step to perform Fourier
+      transformation again using the 6-second pulse waves to obtain high and low frequency spectrum
+      by using above parameters. The feature parameters obtained by the above two analysis methods
+      are simultaneously sent to the deep learning-convolution neuron network (CNN) training. Since
+      the pulse wave changes of the radial artery are related to time, CNN combined with
+      long-short-term memory work (LSTM) is also used to do the above-mentioned model training. It
+      is set to compare the differences between the pulse waves of healthy subjects and subjects
+      with the suboptimal health status. It is also proved whether the frequency-domain analysis
+      analysis method by Professor Wang and the time-domain analysis method by Dr. Huang is the
+      same through the deep learning training process. It is possible to develope a new direction
+      of pulse diagnosis in TCM by deep learning and integrative time-frequency domain analysis.
+    
+  

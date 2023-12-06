@@ -1,0 +1,81 @@
+
+    
+      2.1. Research Design The study group consisted of Ege University, Faculty of Medicine general
+      surgery residents (n:22). A five-station carousel composed of vascular patterns such as
+      classical porta-celiac, portal vein type 2, portal vein type 3, separate branches origin of
+      celiac trunk and portal vein pattern located between the right and the left hepatic artery.
+      Each station contained the CT, and life size models of the cases. As data collection tool, a
+      descriptive rating scale was used to evaluate the perceptions of each of the methods (CT and
+      3D solid model) in terms of their usefulness in knowing the variations, perceiving the
+      problem, their effectiveness in differential diagnosis and preoperative planning.
+
+      Arterial variations were classified according to previous authors. In the classical anatomy,
+      the common hepatic artery arises from the celiac trunk to form the gastroduodenal and proper
+      hepatic arteries, and the latter dividing distally into right and left branches. Separate
+      branches origin of the celiac trunk such as the artery from the abdominal aorta were modeled
+      individually in cases of variant neighborhood. Portal variations were classified as the
+      portal vein types. Type 1 is the classical appearance, in which the right portal vein and
+      left portal are present as independent trunks. In type 2, the right anterior portal vein,
+      right posterior portal vein, and left portal vein trifurcate from the main portal vein. In
+      type 3, the right posterior portal vein comes directly from the middle portal vein, and the
+      left portal vein and right anterior portal vein emerge from a common trunk.
+
+      The study was approved by the suitably constituted Ethical Committee at Researches Department
+      of Ege University (18-5/45), within which the work was undertaken, and the study conforms to
+      the Declaration of Helsinki. Clinicaltrails number is EGE18-6.134.
+
+      2.2. Selection of the samples The patients in this study were chosen among the ones who
+      consulted to Ege University Faculty of Medicine, Department of General Surgery, Hepatobiliary
+      Surgery and Transplantation Division for diagnose between September 2016 and January 2018. CT
+      archives were screened and 100 eligible people (age: 18-62) with porta-celiac vascular
+      patterns were selected. Patients whose radiological imaging results were suitable for
+      modeling and the ones with no previous operation or pathology that may cause anatomical
+      differences were included in the study.
+
+      2.3. Stations Five case carousel that could serve as an example for variational hepatic
+      vascularity was defined with the consensus of experts in medical education, anatomy,
+      radiology and liver transplantation team. The carousel included the following 5 cases.
+
+      Case 1. Portal vein with Type 3 classification pattern. Case 2. Normal classification
+      porta-celiac vascular pattern. Case 3. Vascular pattern with the separate branch origin of
+      celiac trunk. Case 4. Portal vein between the right and the left hepatic artery. Case 5.
+      Portal vein with Type 2 classification pattern. 2.4. Image post-processing and segmentation
+      DICOM data from CT and MRI sections of the patients were obtained using free 3D Slicer
+      (version 4.10.1) software. Segmentations of the portal vein, hepatic vein, splenic vein were
+      automatically generated from the venous phase, while the celiac trunk and hepatic artery were
+      manually traced from the arterial phase.
+
+      2.5. Creating life-size patient-specific porta-celiac vascular model Model CT's were measured
+      in order to verify 1:1 modelling and the printing the process was carried out with 3D
+      printers of Mass Portal Pharaoh xd 20. Model production took a total of 24 hours; 4 for
+      segmentation, 3 for editing, 15 for printing, and 1 hour for post-print processing. Arterial
+      vessels were color-coded red, and the portal vein blue by the visualization team.
+
+      2.6. Quantitative assessment of model accuracy Measurements of the anatomical structures were
+      performed and compared between the original CT images, and the CT images of the 3D model. The
+      morphometric values such as inter-arterial distances (distances between arterial origins),
+      inter-venous distances and the distance between the artery and the vein were noted.
+      Measurements were compared for original CT images, the 3D rendered files, and the 3D vascular
+      models. The repetition rate of the measurements which were done by two autonomous spectators,
+      was 3 times at every scene and the mean values were taken as ultimate output and also
+      calculated for further statistical analysis. The spectators performed with exceptional
+      correlation (r=0.99, P<0.001).
+
+      2.7. Workshop During the workshop, 30-minute lectures were given by the expert team on
+      variable vascular pattern, arterial structures relationship with venous structures and models
+      in diagnosis. For each station, a period of 5-10 minutes was given.
+
+      2.8. Survey A multi-item survey was prepared to assess fellow's perception of residency
+      training. The survey was utilized by our group, understanding of patient vascular anatomy,
+      awareness of the changes based on variations, independent decision-making, differential
+      diagnosis, plan on key surgical steps, and preparation for unexpected bleeding. The answers
+      to the questions asked for each case were analyzed to include senior (3 years and over) -
+      junior (1-2 years) residents.
+
+      2.9. Statistical analysis Data are entered into SPSS 24.0 for statistical analysis.
+      Continuous variables were presented as mean ± standard deviation. Wilcoxon Signed Ranks Test
+      was used to determine any significant differences in the measurements between the original CT
+      images, 3D rendered images, the 3D model and CT images of the 3D model. Statistical
+      significance was defined as a p value of less than 0.05.
+    
+  

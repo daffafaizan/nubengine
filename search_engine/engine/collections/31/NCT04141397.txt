@@ -1,0 +1,57 @@
+
+    
+      WGTA provides an opportunity to improve health outcomes for patients by tailoring treatments
+      to each individual's genomic profile. The BC POG Program is a single arm research study
+      integrating WGTA information into clinical decision-making for patients with advanced stage,
+      incurable cancers.The clinical effectiveness of POG's approach is unknown. This retrospective
+      quasi-experimental observational study will estimate the real-world effectiveness of WGTA for
+      guiding advanced cancer care. To identify a counterfactual for POG's single-arm approach,
+      matching methods combined with administrative healthcare data will be used. The survival
+      impacts of POG's approach compared to usual care in matched controls will then be estimated.
+
+      Specific Aims and Hypotheses
+
+      This study aims to estimate the overall survival effects of POG's approach versus usual care
+      for patients with advanced cancers.
+
+      Hypothesis (null): there is no difference in survival across POG and usual care patients
+
+      Hypothesis (alternative): POG patients who initiated WGTA live longer, on average, than usual
+      care patients
+
+      Study Design
+
+      This study will apply a retrospective cohort design. Cohorts will include patients who
+      consented to POG and underwent a biopsy for WGTA between July 2014 and December 2017 and
+      matched usual care controls. POG patients who enrolled prior to July 2014 will be excluded
+      from our study because during this feasibility period, referring clinicians employed a high
+      level of case-by-case recruitment selection. Usual care patients will be matched to POG
+      patients using supervised learning techniques. The study period will range from patient's
+      time of metastatic cancer diagnosis to December 31 2018.
+
+      Data Sources
+
+      De-identified linked population-based administrative datasets will be obtained from BC Cancer
+      for all adult patients (>18 years) diagnosed with cancers in BC prior to December 2017. POG
+      patients will be identified from the BC Cancer Outcomes and Surveillance Integration System
+      (OaSIS) POG Module Database. Eligible control patients will be identified from the BC Cancer
+      Registry, a population-based provincial cancer registry. These data will be linked with data
+      from the BC Cancer Pharmacy Database, Radiotherapy Database, and Cancer Agency Information
+      System (CAIS) using agency-specific identifiers.
+
+      Statistical Approach
+
+      The investigators will match POG patients and usual care patients based on their date of
+      metastatic disease diagnosis. They will apply 1:1 genetic algorithm-based matching (1:2 in
+      sensitivity analysis) and match patients on propensity scores and baseline covariates,
+      including patient demographics, clinical characteristics, treatment histories, and healthcare
+      utilization prior to metastatic disease diagnosis. When necessary, matching analyses will be
+      stratified to account for variation across cancer types.
+
+      To estimate overall survival in POG patients and matched controls, non-parametric and
+      parametric survival analyses will be used. These analyses will be adjusted for censoring. The
+      investigators will explore heterogeneity in clinical effectiveness across cancer subtypes
+      through subgroup analysis and use scenario analysis to determine the impact of future changes
+      in the application of WGTA on clinical effectiveness.
+    
+  

@@ -1,0 +1,28 @@
+
+    
+      The object of the investigation relates to the function named Sleep Apnea Monitoring or SAM
+      function. This function is part of the REPLY 200 DR pacemakers, whose intended use is cardiac
+      pacing. Sleep Apnea Syndrom (SAS) causes serious social and economic problems, not only
+      because of its high prevalence but also because it is associated with increased
+      cardiovascular morbidity and mortality.
+
+      Patients with Sleep Apnea often have arterial and pulmonary hypertension, a high risk of
+      coronary artery disease, and heart failure, whereas a high percentage of patients show heart
+      rhythm disturbances. In addition, these patients are at increased risk of being involved in
+      traffic accidents, as well as suffering a decline in their family, social, and professional
+      lives. Therefore, the prompt diagnosis of these patients could be of great importance. Today
+      the gold standard for the diagnosis of SAS is overnight polysomnography (PSG) in a sleep
+      laboratory. However, the shortage of sleep laboratories and the high cost of PSG render this
+      method inadequate for widespread screening. For these reasons, in recent years, there have
+      been attempts to develop alternative diagnostic with a view to simplify the diagnosis.
+
+      Thanks to the feature SAM included in the pacemaker, sequences of respiratory cycles are
+      analyzed to detect, to count and to report abnormal breathing events during the night. This
+      analysis is based on the Minute Ventilation (MV) signal. The MV signal represents the real
+      time expansion/contraction of the thorax of the patient. It is derived of the transthoracic
+      impedance periodic measurements. The device is able to provide the physician with day-by-day
+      Respiratory Disturbance Index (RDI) equal to the sum of events divided by the number of hours
+      per night. Physician will also access to the total number of events over the previous night
+      presented per hour.
+    
+  

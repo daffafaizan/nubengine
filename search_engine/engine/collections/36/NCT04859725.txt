@@ -1,0 +1,31 @@
+
+    
+      Included patients will undergo a resection of the low grade glioma as standard-of-care.
+      Before, during and after the resection, HSI data ('datacubes') will be acquired by the
+      SnapScan HSI camera on the microscope of all relevant areas of the exposed cortical surface
+      and subcortical cavity walls. The exact points of which the datacubes will be acquired are
+      defined by unequivocal single points on the neuronavigational system (Brainlab). From the
+      points from which the datacubes have been obtained a corresponding tissue sample will be
+      obtained (labeled biopsy) if tumor tissue is to be expected in that particular point, based
+      on the current standard of care assessments intraoperatively using white light illumination
+      on the microscope, intraoperative navigation and intraoperative ultrasound. As such, normally
+      looking brain in the resection cavity wall, will only be biopsied if tumor free margins
+      should be proven as part of the standard-of-care operative procedure (non-critically eloquent
+      brain regions). The objective of this all is to get an initial high quality in vivo dataset
+      to start exploring the potential of the technology.
+
+      The project will follow a 'stop and go' design: during the first 9 months, the initially
+      collected spectrally corrected datacubes will be analyzed using machine learning on coded
+      data sets. After this initial phase, an interim analysis will be made from the full list of
+      analyzed datacubes. If a reliable and robust discriminative signal can be detected in low
+      grade glioma tissue, segregating these signals from those in normal tissue (as defined
+      pathologically and/or radiologically), efficacy is demonstrated (proof of concept) and the
+      trial will go on for further collecting of samples in the following 26 months. Within the
+      expanded dataset, the different spectral data patterns will be translated into user's
+      friendly pattern codes for rapid real-time, on-site detection and interpretation through
+      development of dedicated software. If no reliable signal can be retrieved from low grade
+      glioma tissue in vivo during the surgery, further recruitment of patients will be stopped. At
+      that time, the investigators and partners will decide on whether or not relevant amendments
+      to the study will be proposed or not.
+    
+  

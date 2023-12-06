@@ -1,0 +1,115 @@
+
+    
+      The incidence of moderate to severe chronic postsurgical pain (CPSP) at 12 months after
+      surgery is circa 12% in Europe, depending in part upon the surgical procedure. Worldwide,
+      more than 230 million people undergo major surgery every year; the global annual cost of new
+      cases of CPSP is in the hundreds of billions of dollars. The response to this costly tragedy
+      has been unacceptably slow.
+
+      Perioperative protocols have historically not incorporated routine screening for patients
+      at-risk for post-surgery persistent pain or compromised function. However, early detection
+      and management of patients at high risk for CPSP may modify the postsurgical pain trajectory
+      and reduce the incidence of CPSP.
+
+      In particular, persistent pain and disability after spinal surgery poses a large problem.
+      Around 20% of the patients have persistent or recurrent pain in the back or limbs after
+      surgical interventions for spinal disease. Several risk factors for such unfavorable outcomes
+      have been identified, among which psychological factors. The most robust psychological
+      predictors of high levels of acute postsurgical pain and of persistent pain in the back or
+      limbs after spinal surgery are high levels of preoperative anxiety and pain catastrophizing.
+
+      Psychological variables are modifiable and could be target for intervention. Cognitive
+      Behavioral Therapy (CBT) is the leading psychological treatment for chronic pain. CBT aims to
+      reduce maladaptive cognitions and behaviors and replace these with more adaptive ones. CBT
+      has been shown to reduce anxiety and catastrophizing and to increase self-efficacy and
+      feelings of control beliefs and through this lowers pain-related disability and pain
+      interference (including sleep problems and depression).
+
+      This study is a prospective, randomized, controlled multicenter trial with 1:1 allocation,
+      comparing lumbar spinal fusion surgery outcome between 2 groups with high pain
+      catastrophizing, 1 that receives perioperative CBT plus usual care (experimental group) and 1
+      that receives usual care (control group). To minimize expectation bias in patients, an
+      educational intervention is added in the control group.
+
+      Patients will be enrolled in the Department of Neurosurgery at the Neurocenter of Southern
+      Switzerland, Lugano Regional Hospital and the department of Neurosurgery of Zuyderland
+      Medical Center, Heerlen, The Netherlands.
+
+      Patients with as score of ≥ 24 on the PCS will be eligible to be randomized to perioperative
+      CBT plus usual care or education plus usual care.
+
+      Data collection sessions will occur for each patient randomized, at baseline, at 8 weeks, and
+      at 6 and 12 months following surgery. A third, non-randomized group is also included,
+      consisting of low catastrophizing patients. These patients will not undergo any additional
+      intervention besides usual care, but will undergo the same data-collection as the high
+      catastrophizing randomized groups. This offers the possibility to examine whether CBT can
+      reduce the negative effects of catastrophizing on outcome to the level of improvement one
+      would expect in non-catastrophizing patients. Staff blinded to group assignment will contact
+      patients by phone at circa one week before data collection time points to remind them to fill
+      in the questionnaires.
+
+      Primary hypothesis of the investigators is that patients randomized to the CBT group show a
+      greater improvement on the Core Outcome Measures Index (COMI) at 12 months post-surgery
+      compared to patients randomized to the control group.
+
+      Secondary hypotheses are that patients randomized to the CBT group show a larger reduction in
+      disability (ODI), leg/back pain (NRS), depression and pain catastrophizing (PCS) at 12 months
+      post-surgery compared to patients randomized to the control group. Moreover, patients in the
+      CBT group report higher global impression of chance, less reliance on analgesics and better
+      employment status compared to patients in the control group. Finally, the investigators
+      hypothesize that the high catastrophizing group receiving the control intervention will have
+      worse outcomes on all measures compared to the low catastrophizing group receiving standard
+      care, whereas the high catastrophizing group receiving the CBT intervention will have
+      comparable outcomes as the low catastrophizing group.
+
+      All included patients will be assessed before surgery for the outcomes of interest. Patients
+      assigned to the CBT intervention condition will attend six individual 60-min CBT sessions (2
+      before and 4 after surgery). Patients randomized to the education condition will receive six
+      session of biomedical education and an exercise program. Non-randomized low catastrophizing
+      patients do not receive an additional intervention. All patients will receive care that they
+      would have routinely received had they not been entered in the study (i.e. standard
+      postoperative physical therapy). The three groups of patients will undergo the same data
+      collection procedures.
+
+      The primary outcome is the difference in the COMI between the study groups, 12 months after
+      surgery. A difference of two points is considered clinically meaningful [44]. With an assumed
+      SD of 2.5, the effect size of this difference, quantified as Cohen's d is 0.80. Inclusion of
+      42 patients per intervention group will yield a power of 0.95 at a type-I error rate of 0.05.
+      In addition, 42 patients with low pain catastrophizing scores will undergo the same
+      assessments, but not receive any intervention besides care as usual. Taking into account a
+      drop-out rate of 15%, 150 patients will be included in total.
+
+      Baseline patient characteristics will be stratified by group and presented as mean and
+      standard deviation (SD), median and first and third quartile, and count and percentage, as
+      appropriate. Differences in baseline characteristics between randomized groups will not be
+      statistically tested, whereas differences with the separate control cohort will be tested
+      using the independent-samples t-test for continuous variables, and Pearson's chi-square test
+      for categorical variables. In case of expected cell counts of less than 5, Fisher's Exact
+      test will be used instead.
+
+      All patients randomized (i.e. those with a PCS score > 24) will be analyzed in an
+      intention-to-treat analysis. To test for a difference between the CBT and control group in
+      the COMI at 12 months, linear regression will be used, with correction for baseline COMI and
+      center. In addition, the difference in the trajectory of COMI over time will be assessed by
+      means of linear mixed-effects regression, taking all follow-up measurements into account.
+      Adjustment for center, type of surgery, age and gender will be made and, if necessary, for
+      other prognostic variables significantly associated with the outcome (i.e., acute
+      postoperative pain intensity, preoperative depression, preoperative surgical fear, length of
+      current sick leave, pain duration). Stepwise backward elimination using the Wald test will be
+      used to select prognostic variables significantly associated with the outcome. Any control
+      variables that are incomplete will be imputed if the proportion of incomplete patients
+      exceeds 0.05. Investigators will use multiple imputation with fully conditional specification
+      with the number of imputations set to the percentage of incomplete patients. Predictive mean
+      matching will be used to draw values to be imputed. Secondary outcome variables will be
+      analyzed similar to the primary outcome. For these, logistic regression analysis adjusted for
+      center will be used to test for differences in proportions at 12 months postoperatively.
+
+      Exploratory, investigators will compare the outcomes of the patients in the two intervention
+      groups with the outcomes of patients with low pain catastrophizing scores (i.e. those with a
+      PCS score < 24) undergoing care as usual. Linear mixed-effects regression for the three
+      groups will be performed with primary and secondary outcomes at the three postoperative
+      assessment periods and controlling for preoperative values. This analysis will indicate
+      whether high catastrophizing patients follow a similar trajectory of pain and functioning
+      after spinal fusion surgery compared non-catastrophizing patients.
+    
+  

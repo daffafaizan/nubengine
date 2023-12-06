@@ -1,0 +1,87 @@
+
+    
+      Significance:
+
+      Each year 10 million people worldwide suffer from myocardial injury after non-cardiac surgery
+      (MINS). The majority of these events are undetected because they are asymptomatic and there
+      is sparse knowledge about triggering causes. Major surgery is associated with a high risk of
+      postoperative complications. These include covert stroke, myocardial injury and -infarction,
+      and are all major contributors to mortality. The 30-day post-operative mortality in patients
+      suffering from covert stroke is increased up to eight-fold compared with matched controls and
+      is 10% in patients with MINS, which makes it a substantial public health problem.
+      Approximately 33% of patients undergoing major spine surgery suffer from major postoperative
+      complications, including stroke and myocardial infarction. However, knowledge is lacking
+      regarding which perioperative factors predict myocardial injury and -infarction, covert and
+      overt stroke, and mortality in high-risk patients such as those undergoing major spine
+      surgery.
+
+      Measure of tissue oxygenation with near-infrared spectroscopy (NIRS) is non-invasive and
+      uncomplicated. Tissue desaturation is common in spine surgery patients. Previous studies
+      found that a decrease in tissue oxygenation (StO2) was associated with postoperative
+      complications such as creatinine elevation, hypotension and prolonged hospitalization.
+      However, current knowledge of how tissue oxygenation affects other clinical outcomes is
+      lacking.
+
+      Thus, to address these knowledge gaps the investigators propose a cohort study to examine the
+      association between tissue oxygenation and MINS in patients undergoing major spine surgery.
+
+      Methods This is a prospective observational cohort study. Participants are patients
+      undergoing major spine surgery. Measurements include blood samples, non-invasive tissue
+      oximetry and collection of general perioperative factors from the anesthesia machine. First
+      measurements are made on the day of surgery and further measurements are conducted on the
+      first two postoperative days. Secondary outcomes from medical records (e.g. 30-day mortality)
+      are collected retrospectively.
+
+      Patients will be screened from Operation Room Surgery Schedule at University of California,
+      San Francisco (UCSF) prior to surgery. The informed consent will be obtained at the
+      preoperative area about 30-60 min prior to surgery. Eligible patients will sign a written
+      consent form and HIPAA Authorization for study participation. If the subject is determined to
+      have diminished or lack a capacity to consent, a surrogate/legally authorized representative
+      will need to be present to authorize their participation in the study and complete the
+      applicable forms as required by UCSF and Californian law.
+
+      Data from medical records are entered by certified study personnel into REDCap (a HIPAA
+      compliant online data collection tool) to assure all data is complete and stored correctly.
+      Included in REDCap is a data dictionary with descriptions of every individual variable.
+      Standard Operating Procedures (SOP's) for patient recruitment and enrollment, data collection
+      and data extraction have been created and are available. Tissue Oximetry data is collected
+      separately with the laboratory's oximeters. After each case/study the data is uploaded to an
+      online secure box. As all data are collected case-by-case in the course of the study, all
+      missing data are registered immediately as missing in REDCap and will be treated as missing
+      data in the final data analysis.
+
+      Sample size:
+
+      The sample size assessment is based on previous studies investigation tissue oximetry and
+      clinical outcomes.
+
+      Effect size: 0.36 (SD=0.50) based on Meng et al. (Br J Anaesth. 2017 Apr 1;118(4):551-562.
+      doi: 10.1093/bja/aex008.):
+
+      Muscle tissue oxygenation (SmO2) time weighted area under the curve (AUC) (%*min*hr-1 (SD)):
+
+      <3 complications: 1.4 (0.8) >3 complications: 1.9 (1.2) p-value: 0.07 Proportion of patients
+      with >3 composite complications = 33% Alpha: 0.05 Beta: 0.2 (power=0.8) Sample size: 68. We
+      expect to include 70 patients in this study.
+
+      By convention the 5% level of alpha and 20% level of beta have been used. As this study is
+      explorative and hypothesis-testing, the investigators consider the above calculation to
+      contain sufficient information.
+
+      Statistical analysis:
+
+      Primary analysis will be multiple regression with adjustment for age, sex and pre-existing
+      conditions including cardiovascular disease, coronary heart disease, heart failure, diabetes
+      mellitus and obstructive respiratory diseases. The following pre-specified potential
+      confounders will be tested separately: age, gender, BMI, smoking status, history of coronary
+      artery disease, congestive heart failure, stroke, transient ischemic attacks, chronic
+      obstructive pulmonary disease, insulin therapy, hypertension, preoperative creatinine
+      elevation above normal, and length of surgery. Since this relationship may or may not be
+      linear, the data will first visually be assessed by plotting the estimated probability (on
+      the logit scale) of having the outcome as a function of StO2, using a univariable logistic
+      regression incorporating a smooth (thin-plate regression spline) term for StO2 (smoothing
+      parameter obtained via cross-validation). The fit of each model will be assessed by the
+      Hosmer-Lemeshow goodness-of-fit test. STATA software will be used for the statistical
+      procedures.
+    
+  

@@ -1,0 +1,34 @@
+
+    
+      This prospective, multi-center clinical study is designed to validate the performance of an
+      AI enabled software - Shenzhen SiBright AIDRScreening - in detecting referable diabetic
+      retinopathy (RDR, defined as more than mild NPDR) among study subjects primarily by
+      evaluating its sensitivity and specificity.
+
+      The subjects enrolled in this trial are patients with T1DM and T2DM. For those who qualify,
+      color fundus images of each eyes are taken and then independently graded for RDR by both the
+      device under test and a centralized reading center, which, for the purpose of this trial, is
+      the Image Reading Center at Zhongshan Ophthalmic Center, Sun Yat-sen University (ZIRC). The
+      grading from ZIRC serves as the gold standard to compare the device performance against.
+
+      The trial plans to enroll 1000 subjects. With a 95% confidence interval, the sensitivity is
+      expected to be at least 85% whereas the specificity at 90% or above.
+
+      Fundus image quality assessment is performed according to the National DR Screening Imaging
+      and Grading Guideline jointly published by Chinese Ophthalmological Society and Chinese
+      Medical Doctor Association in 2017.
+
+      The diagnosis of RDR is based on the National DR Clinical Diagnosis and Treatment Guideline
+      published by Chinese Ophthalmological Society in 2014.
+
+      A brief overview of the clinical protocol is as follows:
+
+        1. Candidate screening phase: recruiting qualified trial subjects;
+
+        2. Clinical phase: imaging and grading by AI and ZIRC;
+
+        3. Statistical analysis phase: comparing two outputs;
+
+        4. Closing phase: final report and archiving
+    
+  

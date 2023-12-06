@@ -1,0 +1,98 @@
+
+    
+      Hypotheses and research questions:
+
+      Research Question 1: What is the level of mental well-being following three months of strict
+      mitigation strategies (i.e., physical distancing) in the general adult population during the
+      COVID-19 pandemic? The mean level of mental well-being will be benchmarked against the mean
+      level of mental well-being in similar pre-pandemic samples.
+
+      Hypothesis 1: Physical activity, being employed, positive metacognitions, negative
+      metacognitions, and unhelpful coping strategies at T1 will significantly predict well-being
+      (T2). Being employed and increased reports of physical activity at T2 will predict higher
+      levels of mental well-being at the measurement period (T2) and serve as protective factors.
+      Increased positive metacognitions, negative metacognitions and unhelpful coping strategies
+      measured with CAS-1 at T2 will predict lower levels of well-being (T2). Additionally, we will
+      examine whether the obtained predictive relationships hold when depressive symptoms (PHQ-9)
+      and anxiety symptoms (GAD-7) at T2 will be controlled for.
+
+      Exploratory: Do the predictors physical activity, positive metacognitions, negative
+      metacognitions, unhelpful coping strategies, all at baseline (T1), predict mental well-being
+      at T2, beyond and above these same aforementioned predictors at T2 and age, gender, and
+      education?
+
+      In all predictive analyses, age, gender, and education will be controlled for.
+
+      Exploratory: The investigators will exploratory investigate the differences in levels of
+      mental well-being across different demographic subgroups in the sample.
+
+      Statistical analysis:
+
+      A hierarchical regression analysis will be conducted with SWEMWBS as the dependent variable.
+      In the first step stable characteristics (control variables) will be included: age, gender
+      and education. In the second step physical activity, being employed, positive metacognitions,
+      negative metacognitions, and unhelpful coping strategies at T2 will be included. Part
+      correlations will be examined for each step, presenting the effect size of the hypothesized
+      predictors on mental well-being. In the third step, anxiety and depression at T2 will be
+      included as control variables. In the final step, physical activity, being employed, positive
+      metacognitions, negative metacognitions, and unhelpful coping strategies at T1 will be
+      included.
+
+      Multicollinearity and other statistical assumptions will be checked. Multicollinearity will
+      be assessed with common guidelines (VIF < 5 and Tolerance > 0.2; Hocking, 2003; O'Brian,
+      2007).
+
+      Descriptive statistics with frequency tables including N, means, SDs and other standard
+      descriptive statistics will examine the research question concerning general levels of mental
+      well-being. Subgroup differences will be examined.
+
+      All analyses and questions addressed in the forthcoming paper that are not pre-specified in
+      this pre-registered protocol will be defined as exploratory.
+
+      Sensitivity analyses and random subsample replications of the main findings will be conducted
+      following selection of a random sample of participants that ensure a proportionate ratio
+      between the collected sample and the adult population of Norway.
+
+      Possible transformations:
+
+      All variables will be assessed in their original and validated format as is recommended
+      practice, as long as this is possible with regards to statistical assumptions underlying the
+      pre-defined analyses (i.e., hierarchical regression). However, if this is not possible with
+      regards to the statistical assumptions behind the analyses, transformation (e.g., square root
+      or log-transformations) may be needed to apply interval-based methods. The investigators will
+      examine the degree of skewness and evaluate this against the assumptions and analyses before
+      choosing the appropriate analysis. The pre-registered and planned analysis include
+      hierarchical regression as long as assumptions underlying this analysis is met.
+      Alternatively, a non-parametric test will be used.
+
+      Inference criteria Given the large sample size in this study, the investigators pre-define
+      their significance level: p < 0.01 to determine significance.
+
+      Sample size and power calculation:
+
+      The present study is part of a larger project with the first part aiming to investigate
+      predictors of mental well-being through regression analyses, and the second part aiming to
+      examine directional relations amongst specific symptoms and their centrality through complex
+      systems approaches (i.e., network analysis). Consequently, power calculations are based on
+      power required for network analyses. Following power analysis guidelines by Fried & Cramer
+      (2017), it is recommended that the number of participants are three times larger than the
+      number of estimated parameters. However, more conservative recommendations by Roscoe (1975)
+      for multivariate research, recommends sample size that is ten times larger than the number of
+      estimated parameters. Thus, following these two approaches respectively, between 1584 to 5280
+      participants are required. Data will be collected for three weeks, and participants are based
+      on a representative and random sample of Norwegian adults, randomly selected and provided
+      equal opportunity to partake in the study, providing digital consent.
+
+      Missing data:
+
+      The TSD system (Services for Sensitive Data), a platform used in Norway to store
+      person-sensitive data verifies participants officially through a kind of national ID number
+      to give them full right to withdraw their data at any time, following the European GDPR
+      (General Data Protection Regulation) laws. Accordingly, participants are allowed to withdraw
+      their own data at any time. The survey includes mandatory fields of response. Participation
+      is voluntarily, and withdrawal of provided data is possible at any moment. The investigators
+      do not expect participants to withdraw their data and thus expect no missing data. However,
+      if participants do withdraw their data, the investigators will conduct state-of-art missing
+      data analyses and investigate whether data is missing at random.
+    
+  

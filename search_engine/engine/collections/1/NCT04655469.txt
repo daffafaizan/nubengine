@@ -1,0 +1,47 @@
+
+    
+      "Big data analytics in cancer care holds immense potential to unlock valuable clinical
+      insights from an abundance of patient medical records, aided by sophisticated statistical
+      models, that will lead to improved population-based outcomes and deeper personalization of
+      cancer treatment. However, the clinical data (which includes medical images, clinical
+      examinations and laboratory results) has been locked away in disconnected "silos" within
+      every clinic. Additionally, patient information is exceedingly sensitive to privacy issues
+      and confidentiality breaches.
+
+      The investigators have pioneered the innovative Personal Health Train approach, whereby
+      support for choosing the best treatment (i.e. decision support) is accessible without any
+      patient records ever leaving the clinic of origin. This extends our current work on an
+      extensible data architecture to learn from quantitative imaging data in India and The
+      Netherlands (without images being taken out of the clinic) - NWO/DeITy BIONIC. The
+      investigators have now developed numerous models of clinical outcome after treatment,
+      including those for undesirable side-effects of treatment. The investigators continue to lead
+      big data integration work within multicenter clinical decision support projects such as
+      KWF-ProTraIT and Horizon2020-BD2DECIDE.
+
+      The overall aim of the TRAIN project is to combine big data (including images, laboratory
+      tests and clinical examinations) to improve the outcomes for head & neck cancer patients in
+      both India and The Netherlands. The investigators will do this by creating data-driven
+      Decision Support Systems to predict which treatment gives the best outcome given individual
+      patient characteristics, and local diagnostic and treatment capabilities. Cancer specialists
+      in both countries will lead the design and clinical evaluation of this decision support
+      system, which could be deployed in multiple clinics across all of the settings encountered in
+      India and The Netherlands.
+
+      Head and neck cancer is a relatively rare condition in the Netherlands, such that the data
+      volume available to learn from is much smaller than in India. Conversely, Indian patients
+      typically present at a more advanced stage of cancer compared to Dutch patients. These
+      differences in patients and treatments can be leveraged by machine learning algorithms to
+      learn better predictive models. Decision support systems are essential, since guideline
+      deviations in both countries are common due to individual patient characteristics, patient
+      preferences and uneven distribution of treatment capacity outside major urban centers.
+
+      To achieve the above, The investigators first deploy the ICT infrastructure (in collaboration
+      with Philips India) to connect local hospital information systems so that clinical, imaging
+      and outcome data on head & neck cancer patients becomes findable, accessible, interoperable
+      and reusable (FAIR) big data. The investigators then deploy learning algorithms that traverse
+      the big data repositories of each participating hospital, using the privacy-preserving
+      Personal Health Train approach, to develop a decision support system. Cancer specialists in
+      India and the Netherlands will jointly evaluate the clinical utility of the decision support
+      system by means of a prospective randomized clinical trial."
+    
+  

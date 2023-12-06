@@ -1,0 +1,66 @@
+
+    
+      Patients and Methods:
+
+      Admitted ventilated patients who are greater than 18 years old and fulfilled the Berlin's
+      diagnostic criteria of moderate to severe ARDS will be selected to enter our study. The
+      exclusion criteria include (1) patients with metallic materials in the body (including wire,
+      pin or implanted electrical devices etc.); (2) patients with cutaneous diseases which
+      prohibited the application of electrode leads to attached the body; (3) severe chronic
+      obstructive pulmonary diseases; (4) hemodynamically unstable; (5) proved barotrauma
+      (including pneumothorax or pneumomediastinum etc.); (6) pregnancy; (7) diseases characterized
+      with increased intracranial pressure; (8) patients or family who refused the informed
+      consent. All patients who fulfilled the diagnosis of ARDS will receive standard care of low
+      tidal volume ventilator therapy. The tidal volume 6 ml/Kg will be used. The investigators
+      expect to enroll at least 20 analyzable cases. Sedation and paralysis are usually used in
+      moderate to severe ARDS patients and daily interruption of sedation and paralysis is a
+      standard practice. The investigators will perform recording during daily interruption of
+      sedation and paralysis, up to 60 minutes period will be recorded during the interruption
+      period. Recording will be done at least once for registered case and could be repeated in
+      case of unsatisfactory signals.
+
+      Instrumentation In all patients, air flow will be measured using a pneumotachograph (Hamilton
+      AG, or Hans Rudolf) connected to a differential pressure transducer (MP 45, Validyne Corp.,
+      Northridge, CA). The flow sensor will be placed between the endotracheal tube and the Y-piece
+      of the ventilator. Tidal volume will be obtained by integrating the flow signal. Airway
+      pressure and esophageal pressure will be measured using differential pressure transducers
+      (P300D, Validyne Corp., Northridge, CA.). An appropriate esophageal pressure signal will be
+      confirmed according to the standard guideline[27]. All signals are sampled and digitalized at
+      200 Hz and data are stored in a data acquisition system (MP150, Acqknowledgement, Biopac,
+      Goleta, CA).
+
+      Measurements:
+
+      Electrical impedance tomography:
+
+      The investigators use a commercial EIT monitor (PulmoVista 500, Drager Medical GmbH, Lubeck,
+      Germany). An electrode belt with 16 equally spaced electrodes will be placed around the
+      patient's thorax at the 4th to 5th intercostal space. Impedance data will be acquired by
+      applying adjacent alternate current injection (50 KHz) and measuring the voltage difference
+      between the adjacent leads and a finite element method-based, linearized Newton-Raphson
+      reconstruction algorithm is used to construct the impedance data. The PulmoVista 500 monitor
+      displays functional EIT images, i.e. relative impedance changes including tidal ventilation
+      and end-expiratory lung impedance (EELI) changes. During the study phases, EIT data will be
+      registered at 20-40 Hz and low-pass filtered (35 per minute) and stored for offline analysis.
+
+      The individual impedance recording (10 minutes per segment) will be linked into a single file
+      and impedance calculation will thus be done off-line. The investigators will subdivide the
+      impedance recordings into ventral to dorsal parts. The investigators define the presence of
+      pendelluft as the presence of opposite impedance change (△Z) between dependent and
+      independent zones during a breathing effort. The breath could occur in inspiration phase,
+      expiratory phase or in transition. Estimation of volume of pendelluft will be determined by
+      the integrated volume and corresponding impedance change.
+
+      Respiratory mechanics:
+
+      The investigators will record the peak and plateau airway pressure, total PEEP, flow and the
+      esophageal pressure. Transpulmonary pressure (PL) will be calculated as the difference
+      between Paw and Pes calculate the transpulmonary pressure.
+
+      Study protocol The investigators target at moderate to severe ARDS patients who are already
+      under deep sedation with neuromuscular blockade. As daily interruption of sedatives and
+      muscle relaxant are routinely performed in our ICU, we will record the respiratory mechanics
+      and EIT data for about one hour which should include both controlled and spontaneous
+      breathing period.
+    
+  

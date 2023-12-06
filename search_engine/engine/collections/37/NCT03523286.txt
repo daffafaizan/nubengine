@@ -1,0 +1,20 @@
+
+    
+      Consecutive patients with ischemic heart disease and clinical indication of VT ablation will
+      undergo baseline clinical evaluation, echocardiography and cardiac CT imaging using a
+      contrast-enhanced cardiac-gated method with a 64-section scanner. Trans-axial CT images
+      comprising the whole heart volume will be exported in DICOM format. CT image processing will
+      be performed and will be used to delineate the LV endocardial and/or epicardial geometries.
+      These data will be imported into the RAPID-VT software and the 3D-electranatomical mapping
+      system for image integration.
+
+      During the VT ablation procedure, VT(s) induction will be performed. The VT(s) 12-lead ECG
+      will be acquired by the RAPID-VT software and will be localized to the scar margin using the
+      RAPID-VT software. Catheter ablation will be attempted at software-determined sites.
+
+      Post procedure, patient will be followed up for a minimum of 6 months. That will include
+      Remote ICD follow-up and telephone study visits. Follow-up at 6 months will include a clinic
+      visit for assessment of heart failure status, ECG, ICD interrogation and changes in
+      antiarrhythmic drug therapy.
+    
+  

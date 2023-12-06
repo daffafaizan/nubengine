@@ -1,0 +1,79 @@
+
+    
+      STUDY BACKGROUND The plethysmographic variation index (PVi) is a measure of the
+      respiratory-induced variations in the plethysmographic waveform. Interestingly, in
+      mechanically ventilated patients and under certain conditions, PVi may reflect fluid
+      responsiveness (FR) (Loupec T Crit Care Med 2011; Sandroni C Intensive Care Med 2012).
+
+      High flow nasal cannula (HFNC) has been described as a useful supportive therapy in
+      spontaneously breathing patients with respiratory failure (Roca Crit Care 2016), by
+      increasing lung volume and generating a certain level of airway positive pressure. It has
+      been shown that patients treated with HFNC may present the same hemodynamic changes, measured
+      by transthoracic echocardiography, as those patients who are mechanically ventilated (MV)
+      (Roca J Crit Care 2013). Therefore, PVi may also be useful in HFNC patients.
+
+      HYPOTHESIS AND OBJECTIVE As the hemodynamic changes associated with HFNC use are similar to
+      those observed in MV patients, the hypothesis of the present study is that PVi may predict FR
+      in HFNC patients.
+
+      The objective is to investigate whether the PVi can predict FR in patients treated with HFNC.
+
+      METHODS
+
+        1. Subjects: Patients treated with HFNC presenting with circulatory insufficiency, in whom
+           volume expansion was planned by the attending physician. Exclusion criteria included
+           spontaneous respiratory activity, cardiac arrhythmia, known intracardiac shunt, severe
+           hypoxemia (PaO2/FIO2 <60 mmHg), left ventricular ejection fraction of <50%, hemodynamic
+           instability during the procedure (defined as the variation in heart rate or blood
+           pressure of >10% over the 15-min period before starting the protocol) and those with
+           variations in arterial pulse pressure <13%.
+
+        2. Setting: Medico-surgical intensive care unit of a university hospital
+
+        3. Design: Pilot prospective, observational study
+
+        4. Procedures:
+
+      i. At baseline, all patients will be in semirecumbent position with the head at an angle of
+      45 degrees.
+
+      ii. Measurements of CO and PVI will be performed in duplicate, before and after a fluid
+      challenge (8ml/kg of colloids in 10 minutes).
+
+      iii. Cardiac output (CO) will be estimated by averaging three consecutive measures obtained
+      with transthoracic echocardiography (Porter TR. Journal of the American Society of
+      Echocardiography 2015). The PVi will be measured using Masimo SET® pulse oximetry technology.
+      The PVi is an automatic measure of the dynamic change in the perfusion index (Pi) that occurs
+      during the respiratory cycle. The perfusion index (Pi) is the ratio of nonpulsatile to
+      pulsatile blood flow through the peripheral capillary bed.
+
+      iv. The decision to administer fluid was based on the presence of at least one clinical sign
+      of inadequate tissue perfusion. Clinical signs of inadequate tissue perfusion were suspected
+      at the bedside by observing hypotension (systolic blood pressure <90 mm Hg or the need for
+      norepinephrine), oliguria (urine output <0.5 mL/kg/hr), and cool, mottled extremities.
+
+      v. Total flow delivered by HFNC and dosages of vasopressive drugs will be kept unchanged
+      during the entire procedure.
+
+      vi. The HFNC device (Optiflow™ system, MR850 heated humidified RT202 delivery tubing, and
+      RT050/051 nasal cannula; Fisher & Paykel Healthcare Ltd, Auckland, New Zealand) consists of a
+      low resistance nasal cannula that can deliver up to 60L/min of totally conditioned (37ºC and
+      100% of relative humidity) gas admixture. It is initiated with a minimum flow of 40L/min and
+      a fraction of inspired oxygen (FIO2) of 1. Then, FIO2 is set to maintain a pulse oximetry
+      (SpO2) above 92% and flow rate is set according to the physician's judgment.
+
+      e. Endpoints: Diagnostic accuracy of the PVi (AUROC) for correctly classifying HFNC patients
+      who would respond to fluid challenge (ΔCO >15%).
+
+      f. Data analysis: Changes in hemodynamic measurements induced by fluid challenge will be
+      assessed by using the nonparametric Wilcoxon's rank sum test for paired data. Patients will
+      be divided into two groups according to changes ΔCO after fluid challenge. Those presenting a
+      ΔCO >15% will be considered as responders and the others as nonresponders. Hemodynamic
+      measurements will be compared using the nonparametric Mann-Whitney test for unpaired data. To
+      assess the accuracy of the PVi for correctly classifying patients who would respond to fluid
+      challenge, receiver operating characteristic curves (ROC) will be performed and the area
+      under the curves (AUROC) will be calculated. The optimal threshold of continuous variables
+      will be chosen to maximize the sum of sensitivity and specificity. This is a pilot
+      observational study that will involve 20 patients.
+    
+  

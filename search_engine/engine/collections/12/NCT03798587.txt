@@ -1,0 +1,186 @@
+
+    
+      Background:
+
+      Osteosarcoma (OS) is the most common type of primary malignant bone tumor in children and
+      adolescents. The overall survival rate is dramatically reduced by the development of
+      metastases, often pulmonary. Solid malignant tumors, such as OS, often develop a hypoxic
+      microenvironment, which contributes to tumor growth, metastasis, treatment failure, and
+      patient mortality. Adaptation to hypoxia, as well as to other environmental conditions, is
+      often associated with modifications in the post-transcriptional regulation of key effectors.
+      Among these, SUMOylation is carried out by small ubiquitin-like modifier (SUMO) proteins and
+      is dynamically reversed (deSUMOylation) by Sentrin/SUMO-specific proteases (SENPs). SENP1,
+      the best characterized SENP, is upregulated in multiple tumors being involved in
+      tumorigenesis and tumor progression. Through deSUMOylation, SENP1 acts as a molecular hub
+      that stabilizes and activates key regulator factors, such as hypoxia-inducible factor 1α
+      (HIF1α), zinc finger E-box binding homeobox 1 (ZEB1), and Akt, responsible for tumor cells
+      adaptation to hypoxic microenvironment, induction of cell proliferation, invasion and
+      migration, and inhibition of apoptosis, thus contributing to tumor progression and
+      metastasis.
+
+      HIF1α is the master transcriptional regulator for cellular adaptation and survival under
+      hypoxic conditions, and contributes to enhance the cell metastatic potential. SENP1-mediated
+      HIF1α deSUMOylation prevents HIF1α degradation by proteasome, thus activating the HIF1α
+      signaling pathway. SENP1 is overexpressed in OS cells under hypoxic condition and
+      siRNA-mediated silencing of SENP1 decreases tumor cell viability, promotes cell apoptosis,
+      reduces invasiveness, and inhibits the epithelial-mesenchymal transition (EMT).
+
+      ZEB1 is involved in tumorigenesis, progression, invasion and metastases in several tumors
+      (e.g. glioblastoma, prostate, lung, liver, and colorectal). ZEB1 silencing in OS cells leads
+      to a reduced caspase-3 activity, NF-κB and iNOS inhibition, overall reduced cell
+      proliferation and increased apoptosis. SENP1 knockdown in hepatocellular carcinoma (HCC)
+      cells decreases ZEB1 and inhibits EMT].
+
+      Akt hyper-activation is essential for the onset and progression of tumors, including OS. In
+      astroglioma cells siRNA-mediated inhibition of SENP1 is associated to Akt hypophosphorylation
+      accompanied by the inhibition of its downstream targets Bcl-xL and cyclinD1 and p21
+      upregulation, leading to cell-cycle arrest and increased apoptosis.
+
+      Altogether, these studies suggest that SENP1 acts as a hub whose inhibition reflects on
+      multiple targets some of which, i.e. HIF1α, ZEB1, Akt, are key factors in tumor progression
+      and metastasis in both normoxia and hypoxia. While it is known the effect of SENP1 on HIF1α
+      in OS, it is reasonable to assume that SENP1 might mediate ZEB1 downregulation and Akt
+      inactivation also in OS. Thus, novel SENP1 inhibition strategies are potentially effective
+      therapeutic approaches to block OS growth and metastasis.
+
+      SENP1 inhibition can be achieved by gene silencing mediated by siRNAs. However, naked siRNAs
+      are highly unstable and liposome-based delivery systems are poorly efficient and cytotoxic
+      both in vitro and in vivo. A promising approach for inhibition of SENP1 expression is gene
+      silencing mediated by peptide nucleic acids (PNA), nucleobase oligomers with the phosphate
+      backbone replaced by a pseudopeptide backbone of repeated units of N-(2-aminoethyl) glycine.
+      Because of their unnatural backbone, PNAs are definitively resistant to both nuclease and
+      protease activities, form a more specific and stable binding with the complementary DNA or
+      RNA, allowing an efficient and persistent silencing effect. Although PNA cell permeability is
+      very poor, it can be effectively enhanced by their conjugation with cell-penetrating peptides
+      (CPP). In the last years, PNA have emerged as really promising tools for cancer diagnosis and
+      therapy, and, above all, as effective candidates for stable gene silencing in gene therapy.
+
+      Rational and preliminary study:
+
+      3 different PNA sequences targeting different SENP1 mRNA regions will be designed and tested.
+      PNAs will be conjugated to an octa-arginine (R8) CPP that efficiently mediate the
+      intracellular delivery of PNAs. The uptake will be studied with a scrambled-sequence R8- and
+      fluorescein (Fl)-conjugated PNA (scrPNA-R8-Fl).
+
+      An in vitro characterization of the ability of the designed PNA-CPP to penetrate
+      intracellular and to silence the target SENP1 will be performed in cell lines of OS.
+
+      To study the PNA-R8 uptake in OS cells, different OS cell lines (SaOS-2, MG-63, U2OS) with
+      different invasive potential and all expressing SENP1, and primary human osteoblasts (hOb) as
+      negative control for SENP1 expression, will be used. Following incubation with scrPNA-R8-Fl
+      at different concentrations the uptake will be determined at consecutive time-points by flow
+      cytometry, while the cytoplasmic localization will be confirmed by fluorescence microscopy. A
+      scrPNA-Fl not conjugated to R8 will function as a negative control, as it is not expected to
+      enter the cell. Cytotoxicity of scrPNA-R8 will be assayed by Alamar Blue Cell Viability
+      assay. The silencing effectiveness of the different anti-SENP1 PNA-R8 conjugates (senpPNA-R8)
+      will be assayed in all cell lines in both normoxia and hypoxia (1% O2, 5% CO2, and 94% N2).
+      The senpPNA-R8-mediated SENP1 silencing efficiency will be assessed by RT-qPCR and
+      western-blot (WB). scrPNA-R8 will serve as negative control, while cells transfected with
+      siRNA targeting SENP1 will serve as positive control. In this part the most efficient
+      silencing senpPNA-R8 compound will be selected.
+
+      The senpPNA-R8-mediated downregulation of HIF1α, and potentially of ZEB1 expression and Akt
+      phosphorylation inhibitions, as consequence of SENP1 inhibition in OS cells, will be assayed
+      by WB. Thus, reduced cell viability, migration and invasion, induction of apoptosis, and EMT
+      inhibition will be assayed, and compared to the effects in hOb. Cell viability will be
+      determined by Alamar Blue assay, whereas apoptosis will be assayed by flow cytometry by
+      staining of Annexin V and with propidium iodide. The residual migration and invasion ability
+      will be assessed by wound-healing assay and transwell invasion assay, respectively.
+      Downregulation of vimentin and N-cadherin and upregulation of E-cadherin, EMT markers and of
+      the downstream targets of ZEB1 (caspase-3, NF-κB) and Akt, (cyclinD1 and Bcl-xL) will be
+      determined by WB.
+
+      The in vitro characterization of the penetration and silencing ability of the designed
+      PNA-CPP in OS cell lines is the preliminary step of the study. An ex vivo analysis of the
+      ability of the PNA-CPP to penetrate into a 3D tissue and silence the target SENP in an OS
+      tissue explant from patients will follow.
+
+      Aims of the study:
+
+      The aim of this project is to test a new powerful PNA-based SENP1 inhibitor, previously
+      characterized in an in vitro model of OS cell lines.
+
+      The most effective PNA, conjugated with a cell-permeable CPP, which is able to inhibit OS
+      cells viability and invasiveness in both normoxia and hypoxia through SENP1-mediated
+      inhibition of HIF1α, ZEB1, and Akt, will be investigated for its ability to penetrate and
+      silence SENP1 expression in ex vivo human OS tissues.
+
+      Primary aim:
+
+      To determine the ability of PNA-CPP to penetrate into an ex vivo tridimensional tissue of OS,
+      derived from wasted biological material obtained during OS eradication surgery, and to exert
+      its biological function of inhibiting SENP1 within the tissue.
+
+      Study design:
+
+      For this study, wasted biological material derived from osteosarcoma eradication surgery will
+      be collected which comprise only a small proportion of the removed tumor mass other than that
+      used for histological and molecular diagnosis.
+
+      15 patients with primary OS will be recruited. The target group will comprise patients
+      hospitalized at IRCCS Istituto Ortopedico Galeazzi who will be subjected to surgical
+      eradication of primary OS.
+
+      The study will be presented to patients with age ≥18 years that can be recruited also in the
+      IRCCS Istituto Ortopedico Galeazzi BioBanca protocol (ethical committee approval n.
+      29/INT/2017) by the surgeon. These patients will sign two Informed Consents: one for the
+      BioBanca and one for the PNA-OS study.
+
+      Patients with age <18 years will be additionally recruited besides the IRCCS Istituto
+      Ortopedico Galeazzi BioBanca. These patients will be considered eligible for the study if the
+      legal tutor will sign the Informed Consents relative to the PNA-OS study.
+
+      Also samples of OS already existing in the BioBanca as frozen samples preserved in liquid
+      nitrogen at BioRep Service-Provider (BioRep S.r.l. Via Olgettina 60, 20132, Milano), will be
+      used. Every reasonable effort will be done to call these patients to sign a specific informed
+      consent relative to this study.
+
+      Since several practical issues (e.g. unsuitableness or low amount of biological material) can
+      occur, we envision the possibility to recruit additional patients until the achievement of 15
+      complete samples.
+
+      The Study will start after approval of Ethical Committee and the estimated duration is 36
+      months, divided as following:
+
+        -  Timing for enrolment: 24 month
+
+        -  Data analysis: 12 month
+
+      Experimental design:
+
+      Ex vivo analysis of the PNA-R8 silencing ability in osteosarcoma samples. We will investigate
+      whether senpPNA-R8 is able to penetrate into a tridimensional OS tissue and to exert its
+      silencing effect.
+
+      15 OS samples will be collected either in the context of the IRCCS Galeazzi BioBanca (ethical
+      committee approval n. 29/INT/2017) or from newly recruited patients, in collaboration with
+      the C.C.O.O.R.R. equip.
+
+      Only wasted biological material derived from surgery will be used without any additional harm
+      to the patients other than the surgery itself and the study does not involve any diagnostic
+      aim or genetic profiling of the samples collected.
+
+      OS samples, already existing in the BioBanca as frozen samples preserved in liquid nitrogen
+      at BioRep Service-Provider (BioRep S.r.l. Via Olgettina 60, 20132, Milano), will be used to
+      determine the initial expression levels of SENP1 in OS by RT-qPCR. For this, samples will be
+      homogenized, total RNA will be extracted and RT-qPCR will be performed assaying for SENP1
+      expression levels.
+
+      The remaining samples out of 15, freshly collected, will be preserved in physiological
+      solution until usage. The OS samples will be cut in 3 mm3 pieces, placed in a 24-multiwell
+      culture plate, and cultivated ex vivo as organotypic OS cultures in both normoxia and
+      hypoxia-induced microenvironment under orbital rotation [21-23]. Organotypic tumor tissue
+      maintain the complexity of the original tissue with tumor cells being surrounded by their
+      original microenvironment rather than artificial matrices and this system is particularly
+      advantageous for ex vivo drug screening, for studying drug uptake and molecular processes. OS
+      cultures will be treated with senpPNA-R8, and SENP1 expression in naïve and PNA-treated
+      samples will be determined by RT-qPCR and immunohistochemistry in paraffin-embedded sections.
+      The ability of the PNA-R8 to penetrate within the hypoxic core of the OS samples will be
+      assessed: after incubation with scrPNA-R8-Fl, sections will be immediately frozen (-80°C),
+      processed and analyzed by immunofluorescence.
+
+      Samples will be analyzed and stored at Laboratorio di Biochimica Sperimentale e Biologia
+      Molecolare at the Istituto Ortopedico Galeazzi for the whole duration of the study. At the
+      end of the study every residual material will be destroyed.
+    
+  

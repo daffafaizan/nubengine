@@ -1,0 +1,16 @@
+
+    
+      The patients was divided into two groups, where one received alcoholization (ethanol lock
+      therapy group) and the other not (control group). The variables evaluated were: CLABSI,
+      etiological agents, adverse events and the mechanical effects of ethanol on the catheter
+      (breakage and obstruction). To determine the association between the independent variable and
+      the dependent variables, the chi-square test of association (Pearson) and Fisher's exact test
+      were used. The Risk Ratio (RR) was calculated as a relative risk measure, with its 95%
+      confidence interval (95% CI). The significance level of 5% was adopted. The sample size
+      calculation was performed in the OpenEpi software version 2.3.1. And a long-term catheter
+      clinical trial was used to calculate the sample size, which demonstrated a 9% central venous
+      catheter infection frequency in the ethanol group and 37% in the control group, so that the
+      sample size was 80 patients (40 in each group), considering a power of 80%, an alpha error of
+      5% and 10% of post-randomization losses.
+    
+  

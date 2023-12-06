@@ -1,0 +1,104 @@
+
+    
+      BACKGROUND
+
+      Arterial conduits in liver transplantation are almost as old as the procedure itself. First
+      described by Starzl in 1984, the knowledge remains superficial. Although rarely performed,
+      there is no doubt that thousands of patients' lives were saved because of the use of arterial
+      grafts. However, arterial grafts are known to be associated with a higher rate of occlusion
+      and a lower patient and graft survival when compared to conventional end-to-end anastomosis.
+      In our recent retrospective study, the investigators showed that retransplantation procedure
+      and aspirin in patients' medication are independent risk factors for the need of an arterial
+      conduit. The investigators assume that aspirin could be a surrogate marker for vascular and
+      metabolic status. Furthermore, in a meta-analysis the investigators found a four times higher
+      occlusion rate compared to non-conduits.
+
+      Whether the site of conduit placement or certain types of material have an impact on
+      occlusion and graft survival remains unknown. In addition, several studies discuss that
+      antiaggregation or anticoagulation might be protective for occlusion of arterial conduits.
+      Currently, there is no study that investigated this problem, most probably because of low
+      case numbers.
+
+      STUDY OBJECTIVES
+
+      The primary goal of this study is to conduct a multicenter cohort analysis to define the
+      outcome of different types of conduits and to investigate whether antiplatelet /
+      anticoagulantion has an impact on patency rates.
+
+        1. Specific aim #1: To identify independent risk factors for early and late occlusion of
+           arterial conduits in liver transplantation.
+
+        2. Specific aim #2: To compare different placement sites (infrarenal, supraceliac, iliacal,
+           etc.) of arterial conduits in terms of occlusion rates and graft survival.
+
+        3. Specific aim #3: To investigate whether antiplatelet therapy is protective in terms of
+           arterial patency.
+
+      STUDY DESIGN
+
+      This will be a multicenter single cohort study including only cases of deceased donor liver
+      transplantation that required an aorto-hepatic or iliac-hepatic conduit for arterial
+      reconstruction. Primary endpoint is 30-day conduit patency. Secondary endpoints include
+      postoperative complications, death, late conduit occlusion, graft and patient survival.
+
+      SETTING
+
+      This multicenter cohort study will include several high-volume centers worldwide. Each
+      participating center requires a prospective database from that data can be extracted. All
+      consecutive cases of deceased donor liver transplantation requiring an arterial conduit from
+      1st of January 2007 until 31st of December 2016 are included allowing a minimum follow-up
+      time of 6 months. Data collection at conduit4olt.org will be prospective, structured,
+      anonymized, and encrypted.
+
+      INSTITUTIONAL REVIEW POLICY / ETHICAL POLICY
+
+      Each participating center is responsible to contact their local ethics committee and receive
+      approval for participation, if applicable. For example, this project is considered as an
+      audit in some countries and thus there is no need for formal approval in the form of a
+      protocol submission.
+
+      ELIGIBILITY CRITERIA
+
+      Inclusion criteria:
+
+        -  Liver transplantation requiring aorto-hepatic or iliac-hepatic conduits
+
+        -  Deceased donor after brain death (DBD) or deceased donor after circulatory death (DCD)
+
+        -  Whole organ as well as split allografts
+
+        -  Primary liver transplantation as well as liver retransplantation
+
+        -  Recipient age ≥18 years
+
+      Exclusion criteria:
+
+        -  Living donor liver transplantation
+
+        -  Pediatric liver transplantation (recipient age <18 years)
+
+        -  Arterial reconstruction other than aorto-hepatic or iliac-hepatic conduits
+
+        -  Multivisceral transplantations
+
+      ESTIMATED SAMPLE SIZE
+
+      Each center should provide at least 30 cases that meet the inclusion criteria to allow
+      adequate event rates for each outcome.
+
+      Statistical methods
+
+      The primary and secondary endpoints will be compared with patient and operation
+      characteristics with univariate analysis. ROC Curve analysis will be performed to dichotomize
+      continuous variables. Multivariable analysis (binary logistic and Cox regression) will be
+      performed to identify independent risk factors. Statistical analysis will be performed using
+      R Studio version 1.0.44 (RStudio, Inc. GNU Affero General Public License v3, Boston, MA,
+      2016) with the graphical user interface rBiostatistics.com beta version (rBiostatistics.com,
+      Zurich, Switzerland, 2016, GNU License).
+
+      Christian E. Oberkofler Tim Reese Dimitri A. Raptis Henrik Petrowsky
+
+      On behalf of the conduit4olt.org team Swiss HPB Center, Department of Surgery and
+      Transplantation, University Hospital Zurich, Switzerland
+    
+  

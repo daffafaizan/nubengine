@@ -1,0 +1,12 @@
+
+    
+      The study is a longitudinal, observational pilot study that will assess the utility and value
+      displaying the harmonized outcomes data to clinicians in the clinical workflow using an
+      open-source, SMART on FHIR app. The app will connect with the site EHR, aggregate EHR and PRO
+      data, calculate the outcome measure results, and return the results to the EHR so that they
+      are viewable within the clinician workflow. Baseline data on patient characteristics,
+      treatments, and symptoms will be combined with longitudinal data on outcomes during the study
+      timeframe. All data will be collected from institution electronic medical records (EMRs), PRO
+      portals, and other existing data sources, as needed.
+    
+  

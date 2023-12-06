@@ -1,0 +1,112 @@
+
+    
+      Purpose of Research: This study is a pilot study designed to assess the ability of a novel
+      automated EMG/SSEP device (EPAD® 2.0) to detect intraoperative spinal nerve roots injury in
+      patients undergoing spine procedures. The specific aims are:
+
+        1. to assess the clinical utility of using the EPAD® 2.0 automated device and its algorithm
+           in monitoring spine surgery patients.
+
+        2. to identify any practical limitation of using EPAD® 2.0 automated device in spine
+           surgery patients.
+
+      Hypothesis: the novel automated EPAD® 2.0 EMG/SSEP device is easy to use and apply in spine
+      surgery patients
+
+      BACKGROUND Surgical injuries to the spinal nerve roots or spinal cords are not infrequent in
+      spine surgery and the consequence can be devastating. Injured patients might present with
+      radiculopathy, motor weakness, spinal cord compression, and postoperative neuropathic pain.
+      In cervical spine surgery, cervical nerve roots injuries especially fifth cervical (C5) nerve
+      root are not uncommon complications, potentially resulting in upper extremity paralysis. The
+      incidence of C5 nerve root injury ranged to as high as 30%. The other spinal nerve roots
+      (C6-8) can suffer from the same surgical injuries during the procedure but with much lower
+      reported incidence than C5. Spinal nerve injuries typically occur during decompression for
+      cervical myelopathy in both anterior and posterior approaches. In lumbosacral spine surgery,
+      a recent review of the neurological injury found a pooled incidence of 5.7% (56 of 2783
+      patients; range: 0.46-24%), in which pedicle malposition accounted for one-fifth of the
+      injuries.
+
+      A multimodality monitoring such as SSEP and EMG can be used in spine surgery to allow
+      comprehensive monitoring of the spinal cord and nerve roots function and an attempt to reduce
+      the risks of surgical injuries. Although the idea of closely monitoring of spinal cord and
+      nerve roots function during high-risk cervical spine instrumentation procedure is appealing,
+      the utilization of intraoperative neurophysiological monitoring is limited. One reason is the
+      current requirements for a trained technician and for electrode placement and observation of
+      monitoring SSSEP signals, the requirement for the use of needle electrodes for SSEP
+      monitoring and specific training for a neurophysiologist in the interpretation of SSEP
+      signals.
+
+      In attempt to resolve this problem, the investigators has been involved in developing an
+      automated SSEP device (EPAD®, SafeOp Surgical, Hunt Valley, MD; FDA approved). The automated
+      EPAD1.0 SSEP device the investigators are currently utilizing is miniaturized and
+      incorporates a proprietary technology utilizing non-invasive electrode patches (rather than
+      needle electrodes) and is based on an automated algorithm derived from real-time SSEP
+      monitoring of over 100,000 surgical procedures. The investigators was the first to evaluate
+      the clinical utility of this automated SSEP device in cardiac surgical and total shoulder
+      arthroplasty patients. These pilot studies found that automated SSEP monitoring can be
+      performed readily in a busy cardiac operating room, as well as in orthopedic surgery. The raw
+      signal quality is reliable and comparable to the conventional SSEP machine. These results
+      indicate that this device can eliminate the practical challenges of performing SSEP
+      monitoring and confirmed its feasibility for routine use. The initial experience has enabled
+      further development that has incorporated software updates based on off-line
+      data-reiteration. This has also allowed progressive refinement of the automated analysis
+      algorithm based on this recently acquired intraoperative SSEP data to progressively optimize
+      the software for improved signal acquisition, enhanced artifact rejection and electrocautery
+      suppression.
+
+      METHOD Study Design This will be a prospective cohort study aiming in assessing the ability
+      of a novel automated EMG/SSEP device (EPAD® 2.0) to detect intraoperative spinal nerve root
+      injury in patients undergoing spine procedures. All protocol procedures will be undertaken;
+      however, as this is the first clinical trial of EPAD® 2.0, the initial series of up to 30
+      patients will be used for feasibility anticipating some possible minor software revisions and
+      minor equipment modifications. Additionally, data obtained from this initial series of
+      patients may be utilized to iteratively refine the data collection and analysis algorithms.
+
+      Standard Procedure After obtaining preoperative written consent, a brief neurological exam
+      will be conducted. As is conventional, anesthesia will be induced using opioid/propofol and
+      will be maintained with halogenated anesthetic agents and supplemented with an infusion of
+      remifentanil at 0.01-0.2 mcg/kg/min or sufentanil at 0.15 to 0.5g/kg/hr. Muscle relaxants
+      will only be given for intubation and no second dose will be given to enable EMG monitoring.
+      After anesthesia induction with airway and vascular access secured, the patient will be
+      positioned for the surgery. There is no change in routine (or standard) of care except the
+      investigators will attach the EPAD 2.0 device to the patients. After the surgery, the patient
+      will be extubated and transferred to PACU. In all patients, a complete neurological exam will
+      be performed in PACU.
+
+      Study Procedure:
+
+      For SSEP monitoring, surface adhesive electrodes will be used for both stimulation and
+      recording. Stimulating electrodes will be placed for stimulation of the dermatome that is at
+      risk of injury (e.g. C5), median nerve or posterior tibal nerve. Recording surface electrodes
+      will be placed on the cervical spine at the C2 level (C2), and the reference electrode was
+      placed on the forehead. The pre-set stimulation frequency in the EPAD device is 4.7 Hz with a
+      300- microsecond pulse set at 50 to 70 mA and the signal averaging set at 300 cycles. After
+      an automatic impedance check, the baseline subcortical SSEP will be established at the
+      beginning of each case, and the amplitude and latency of the waveforms will be measured. The
+      EPAD device automatically established the baselines.
+
+      For EMG monitoring, 6 Surface electrodes will be attached to the same muscle groups of the
+      conventional intraoperative neurophysiological monitoring machine. The underlying skin will
+      be prepared with 3M EKG skin abrasive tape (3M red dot 2236) to reduce the skin impedance. In
+      each case, the Compound Muscle Action Potentials (CMAPs) of each muscle group will be
+      monitored. The EMG monitoring can provide three main functions in spine surgery, which
+      includes free-run EMG for detecting mechanical irritation to nerve root, triggered EMG for
+      nerve root identification and pedicle screw placement assessment. All three EMG functions
+      will be evaluated in this study.
+
+      Short Summary of Study Protocol:
+
+        1. Written informed consent
+
+        2. Focused neurological exam preoperatively
+
+        3. Placement of surface electrodes in OR
+
+        4. Monitoring during the spine procedure to determine the agreement of EPAD® 2.0 with the
+           conventional intraoperative neurophysiological monitoring.
+
+        5. Postoperative focused neurological exam in PACU postoperatively by blinded observer
+
+        6. Data analysis/interpretation/presentation/publication
+    
+  

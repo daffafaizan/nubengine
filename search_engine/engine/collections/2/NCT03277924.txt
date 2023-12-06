@@ -1,0 +1,17 @@
+
+    
+      One arm survival design based on Lawless (Lawless, Statistical Models and Methods for
+      Lifetime Data, John Wiley and Sons, 2003). Formulas are based on the assumptions of uniform
+      accrual over time, no loss to follow-up, exponentially distributed death times.
+
+      For STS 2nd line cohort sample size has been obtained for the primary endpoint
+      progression-free survival rate (PFSR) at 6 months. Estimated accrual time: 24 months. A PFSR
+      of 5% will be considered not promising, whereas a PFSRof 15% will be considered promising in
+      this population. With a type I error α of 0.05 and a power of 0.90, 43 patients are needed in
+      this cohort.
+
+      For bone sarcoma 2nd line cohort sample size has been obtained under the same assumptions
+      than above, but with a type I error α of 0.10, therefore 32 patients are needed in this
+      cohort.
+    
+  

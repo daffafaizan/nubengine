@@ -1,0 +1,22 @@
+
+    
+      The purpose of this project is to develop a monitoring, modeling, and interactive
+      recommendation solution (for caregivers) for in-home dementia patient care that focuses on
+      caregiver-patient relationships. This includes monitoring for mood and stress and analyzing
+      the significance of monitoring those attributes to dementia patient care and subsequent
+      behavior dynamics between the patient and caregiver. In addition, novel and adaptive
+      behavioral suggestions will be provided to family caregivers via text messages on project
+      Smart phones at the right moments aimed to help improve familial interactions related to
+      caregiving, which over time should ameliorate the stressful effects of the patient's illness
+      and reduce strain on caregivers. The technical solution consists of a core set of statistical
+      learning based techniques for automated generation of specialized modules required by in-home
+      dementia patient care. There are three main technical components in the solution. - The first
+      obtains textual content and prosody from voice and uses advanced machine learning techniques
+      to create classification models. This approach not only monitors patients' behavior, but also
+      caregivers', and infers the underlying dynamics of their interactions, such as changes in
+      mood and stress. - The second is the automated creation of classifiers and inference modules
+      tailored to the particular patients and dementia conditions (such as different stages of
+      dementia). - The third is an adaptive recommendation system that closes the loop of an
+      in-home behavior monitoring system.
+    
+  

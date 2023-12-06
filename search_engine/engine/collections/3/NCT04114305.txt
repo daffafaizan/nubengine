@@ -1,0 +1,146 @@
+
+    
+      Intervention Methods
+
+      ECD Intervention. Mothers2mothers (m2m) was selected to pilot-test a parenting intervention
+      integrated within the Eswatini standard integrated antenatal care and PMTCT program developed
+      according to the World Health Organization (WHO) Option B+ recommendations. Each clinic
+      selected for the pilot test had already implemented a m2m mentor mother (MM) peer support
+      program at the facility, as well as defaulter follow-up in the community.
+
+      The parenting intervention strategy, known as "uMntfwana Wami, uMntfwana Wetfu"( "My Child,
+      Our Child") was focused on peer support for pregnant women and parents/caregivers of young
+      children to assist them in building resilience and gaining skills to support their children's
+      development.
+
+      M2m's facility-based Mentor Mothers (MMs) recruited pregnant women at the ANC/PMTCT clinics.
+      Both HIV-positive and HIV-negative women were eligible to participate in the m2m
+      intervention. Community-based ECD MMs, who received five weeks of program-specific training,
+      provided the parental training intervention.
+
+      Evaluation Methods
+
+      Evaluation Design. The independent evaluation was designed as a quasi-experimental comparison
+      between clinic sites (and their surrounding communities) implementing the intervention and
+      similar clinic sites not implementing the intervention.
+
+      Sample size calculations. A sample size of 416 participants (213 intervention arm, 203
+      comparison arm) was estimated to be sufficient to detect a clinically meaningful difference
+      of 0.5 standard deviation (SD) on an age-normed Mullen scale, after allowing for potential
+      10% child mortality and 20% loss to follow-up, and accounting for clustering at the clinic
+      level.
+
+      Enrollment of participants. At intervention arm clinics, m2m facility MMs referred ANC
+      clients in the third trimester of pregnancy, residing in the clinic catchment area, and
+      interested in participating in both intervention and study to the study team. At comparison
+      arm clinics, nurses referred interested third trimester pregnant women to the study. A study
+      research assistant based at each clinic conducted eligibility screening and obtained informed
+      consent. Although women could participate in the parental training intervention irrespective
+      of HIV status, the evaluation was designed to assess its effect only on the HIV-positive
+      subgroup of mothers. Participant inclusion criteria were: a woman, aged at least 18, with
+      confirmed HIV-positive status recorded on a clinic chart or register, visiting the PMTCT
+      clinic in the 3rd trimester of pregnancy, and verified resident within the clinic-defined
+      catchment area. Participants who planned to move outside the catchment area or switch HIV
+      care to another site, did not provide written consent to participate in the study or did not
+      complete the enrollment questionnaire were excluded.
+
+      Data collection and follow up. Study participants were interviewed at enrollment to collect
+      demographic and contact information, abstract patient-held HIV and maternal health cards, and
+      carry out baseline assessments. Follow-up interviews and abstraction of the patient-held HIV,
+      maternal health and well child care cards were targeted for two weeks after the baby's birth
+      and when the baby reached three, six, nine and 18 months of age. A home visit and observation
+      were conducted when the baby was between 12-15 months of age. If the mother was not
+      reachable, the baby's primary caregiver was interviewed.
+
+      Primary outcomes assessment.
+
+      The primary pediatric outcome of cognitive development at nine and 18 months of age was
+      assessed using the Mullen Scales of Early Learning, administered by two assessors. The items
+      were translated into siSwati as needed and adapted for and tested on emaSwati children in the
+      relevant age groups. At the 18-month time point, inter-rater reliability was assessed by
+      independently scoring a sample of 40 children.
+
+      The primary maternal outcome of psychosocial well-being was assessed using the Edinburgh
+      Postnatal Depression Scale (EPDS), categorized dichotomously as depressive symptoms present
+      (EPDS score >13) or absent (EPDS score ≤13). The cutoff was selected based on work in
+      neighboring South Africa by Tomlinson et al (2017). Parenting self-confidence was also
+      assessed, using the Maternal Self-Report Inventory (Short Form) (MSRI). These instruments
+      were administered to women at enrollment and at nine and 18 months postpartum.
+
+      Secondary outcomes assessment. Length, weight, head circumference and mid-upper arm
+      circumference were measured at the child's 9- and 18-month visits and compared to norms
+      established by the WHO Multicentre Growth Reference Study..[ref 49]. Three separate
+      anthropometric measurements were taken and the median value used. Retention in care and
+      pediatric HIV testing was assessed based on health care visits and outcomes abstracted from
+      multiple sources including: participant-held maternal health/ANC and HIV cards and child
+      health and HIV cards, postnatal care and child welfare registers at the clinics, and the
+      client management information system (CMIS) in some clinics, as well as self-report.
+      Compliance with feeding recommendations was obtained by maternal or caregiver report.
+      Mortality information was obtained by report from families.
+
+      Potential mediators. Information on routine caregiving practices and household
+      characteristics was obtained by observation using the Home Observation for Measurement of the
+      Environment (HOME) Inventory [refs2 3] during a home visit at 12-15 months of age. Households
+      were instructed to carry out everyday household activities during this observation visit.
+      Study Research Assistants (RAs) completed classroom training on this instrument and then
+      pilot-tested it in the field using non-participating households. Inter-rater reliability was
+      assessed by having multiple observers score the pilot and then discuss discrepancies in
+      scoring. Key, non-routine child stimulation practices were assessed by interview using the
+      Family Care Indicator, a series of standardized questions developed as part of the UNICEF
+      Multiple Indicator Cluster Surveys (MICS) version 3 (2006), which was administered at
+      baseline to all participating mothers who at the time had children under age five, and to all
+      mothers and caregivers at the 9-month and 18-month assessments.
+
+      Potential confounding factors. Eswatini was affected by a drought during 2016-2017 and its
+      impact was assessed at home visits (age 12-15 months), and at the 18-month interview using
+      the Household Food Insecurity Access Scale (HFIAS).
+
+      Contamination assessment. Participants in both arms were interviewed about their contact with
+      m2m at each visit and at the 18-month assessment.
+
+      Statistical methods.
+
+      Mullen scores:
+
+      Scores from each domain (Visual Reception, Fine Motor skills, Receptive Language, Expressive
+      Language and Gross Motor skills) were analyzed separately. For each domain, the within-sample
+      means and standard deviations of the raw scores by arm were calculated. To facilitate
+      understanding of the effect sizes, the Mullen scores in each domain were then transformed
+      into within-study sample standardized scores (Z-scores), for which effect sizes represent
+      unit changes in the distribution SD. Multivariable linear mixed effects regression models
+      with a random effect for enrollment site were applied to test the difference in the
+      standardized mean scores between the two study arms at each time point. Adjusters selected
+      based on the literature included the child's actual age at the assessment date, the child's
+      gender, and an indicator for stunting (length-for-age Z-score < 2) as a proxy for chronic
+      malnutrition. Additional adjusters were included in the multivariate model based on their
+      strong (p<=0.2) effects in bivariate analyses: the size of the mother's household at
+      enrollment, the length of residence of the mother at her current location at enrollment,
+      household asset-based socio-economic status of the mother at enrollment, the mother's number
+      of other living children at enrollment, her number of previous miscarriages, and her years of
+      education.
+
+      Other measures. Growth: Percentages of children with Z-scores of the WHO-standardized
+      anthropometric measurements < -2 at the 9 month and 18 month assessments were reported.
+      Maternal retention in HIV care: Time in care was calculated as days from the date of
+      enrollment in the study to the last documented visit as found in the patient-held HIV cards,
+      the chronic care file of the HIV clinic at the clinic where they enrolled, the CMIS and from
+      self-report. A log-rank test for equality of mean retention between the two arms was
+      conducted.
+
+      Socio-economic status: Principal components analysis was used to develop a composite score of
+      socio-economic status based on reported household assets, which was divided into quintiles
+      for analysis. Family Care Indicator. Performance on individual items was assessed and as well
+      as through a combined score (possible range: 0-6) of activities that someone in the household
+      was reported to have performed with the child: (1) "Read books or look at picture books" (2)
+      "Sing songs" (3) "Tell stories" (4) "Play with" (5) "Take [the child] outside the home,
+      compound, yard or enclosure" and (6) spend time naming, counting and/or drawing things."
+
+      Mediation analysis. The multivariable linear regression model used in the primary analysis of
+      the 18-month timepoint was extended into a generalized structural equation model to evaluate
+      a potential mediating effect of book-sharing with the child on the relationships between
+      study arm and expressive language scores, and between study arm and visual reception scores.
+      Robust variance estimation was used to adjust for site clustering The presence of book
+      sharing was defined as a positive response to item (1) on the Family Care Indicator at the 18
+      month timepoint.
+    
+  

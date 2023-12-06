@@ -1,0 +1,73 @@
+
+    
+      Children and adolescents with Diabetes Mellitus Type 1 (T1DM) who visited consecutively this
+      clinic were asked to participate in the study if they owned an Android smartphone and were
+      familiar with its use. Patients were included after one of their parents or their legal
+      guardian signed an informed consent. Inclusion criteria were: 1. Treatment with multiple
+      daily injections (MDI) or continuous subcutaneous insulin infusion (CSII); 2. satisfactory
+      knowledge of the concept of carbohydrates and lipids counting acquired following previous
+      training by the physicians and nutritionist of the department at initial diagnosis and
+      thereafter during follow-up visits. Exclusion criteria were: 1. Use of another medical
+      application for diabetes in the previous 3 months; 2. lack of capacity of reading greek.
+
+      80 patients met the inclusion criteria and agreed to participate in the study. Subsequently
+      they were randomized to two equally numbered groups by drawing one of two nontransparent
+      envelopes which contained one ticket inscribed with either a E (for Euglyca group) or a C
+      (for Control group). To ensure equal allocation rates within the 2 groups, block
+      randomization was employed.
+
+      At the initial visit, patients randomized to the E group were advised to download the Euglyca
+      application on their smartphones and they were asked to use the application for the
+      calculation of the bolus insulin dose they were injected. Patients randomized to the C group
+      were advised to calculate bolus insulin dose they were injected, the way they used to do.
+      Patients repeated their visit to the endocrine pediatric clinic at 3, 6 and 12 months, the
+      latter set as the terminal time-point of this study following the initial visit. At all 4
+      visits, anthropometrics (weight, height, BMI), blood pressure measurement and heart rate were
+      noted down, while a peripheral blood sample was drawn from all patients in the morning of
+      each visit after an overnight fast for measurement of glycemia and glycosylated hemoglobin
+      (HbA1c) levels. Glucose measurements between 70 and 180 mg/dl were categorized as
+      normoglycemia; any glucose measurement below 70mg/dl was categorized as hypoglycemia; glucose
+      measurements at two hours postprandial measurement found above 180mg/dl were categorized as
+      hyperglycemia. At baseline (first visit), at 6 months (third visit) and at terminal
+      time-point (12 months) all patients filled the World Health Organization-Standard DTSQ.
+      Patients' logbooks and readings from their glucose meters were reviewed by the physicians and
+      nutritionist of the department at each of the four visits and the percentage of
+      normoglycemic, hypoglycemic and hyperglycemic episodes during the preceding trimester was
+      calculated for each patient. The change of HbA1c values from baseline to the terminal
+      time-point for each group was set as primary outcome, while the percentage of normoglycemic,
+      hypoglycemic and hyperglycemic events over the total number of glucose measurements during
+      the preceding trimester of each visit was set as secondary outcome.
+
+      Glycosylated hemoglobin was determined by Siemens DCA Vantage point-of-care immunoassay
+      analyzer (Siemens Health care Diagnostics Ltd., Frimley, Camberley, UK) with intra- and
+      inter- assay coefficients of variation (CV) 5% and 8%, respectively; glycemia was determined
+      by glucose god/pap kit with intra- and inter- assay CVs 5.7% and 7.8%, respectively.
+
+      'Euglyca' is a mobile application that we developed . The application has a data base of 7000
+      foods and food products met in greek eating habits as well as the corresponding amount of
+      carbohydrates and lipids for each of them. Subsequently, the amount of carbohydrates and
+      lipids contained in a meal are calculated automatically by the application. By taking into
+      consideration the amount of carbohydrates and lipids to be consumed, the preprandial and
+      target post-prandial glycemia concentrations, the insulin correction factor for the patient,
+      the carbohydrates and lipids factors and the active insulin (in case of CSII), 'Euglyca'
+      calculates the required bolus dose of insulin.
+
+      Sample size was determined by estimating the change in HbA1c values (primary outcome) based
+      on previous studies (7, 8), assuming 0.5% reduction in HbA1c in the intervention group with
+      80% power and 5% significance level. Power calculation resulted in 14 patients per group,
+      while the target of the study had been set at recruitment of 80 patients altogether. Results
+      are reported as mean ± standard deviation (SD) for quantitative variables. The absolute
+      difference in a quantitative variable between two different time points was defined as Δ. All
+      quantitative variables (HbA1c; ΔHbA1c; percentages of normoglycemic, hypoglycemic and
+      hyperglycemic events over a total number of glucose measurements; DTSQ's scores) were
+      normally distributed and they were compared between the two studied groups of patients at the
+      different time-points by employing General Linear Models ANOVA and Bonferroni post-hoc test.
+      Repeated measures ANOVA involved one factor between patients (factor "Group" with two levels)
+      and one factor for the repeated measures within patients (factor "time" with 4 or 3 levels
+      depending on the compared variable). Qualitative variables (gender and type of therapy) were
+      compared by employing x2 (chi square) test after having computed absolute and relative
+      frequencies (percentages %), Statistical significance was set at P<0,05. An intention to
+      treat analysis was followed. IBM SPSS V23 Chicago, USA software was used for the statistical
+      analysis.
+    
+  

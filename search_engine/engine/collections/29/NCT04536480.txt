@@ -1,0 +1,166 @@
+
+    
+      The implementation steps of the proposed RCT are as follows:
+
+        1. The staff will introduce the study to all eligible participants either in person or
+           virtually and consent interested families for the study.
+
+        2. All participants and their families will receive training on the use and application of
+           the CGM. All equipment will be distributed to the participants, who will download the
+           CGM app onto their smartphone and set up an account with a pseudonym.
+
+        3. All participants will wear the CGM for a 7-day period prior to being randomized.
+
+        4. All participants and their families will receive standard nutritional counseling
+           promoting low added sugar and carbohydrate intake (Healthy Eating through Reduction of
+           Excess Sugar (HEROES) intervention R01 MD010358-A1) and will be randomized to one of two
+           meal-timing schedules at week 0: (a) Control: 12-hour eating window; (b) TLE: 8-hour
+           eating period (16 hours of daily fasting 5 days per week). Participants will be
+           randomized 1:1 via stratified, blocked randomization to ensure the groups are balanced
+           in terms of number of participants and the distribution of potential confounding
+           variables including sex, age, and ethnicity. Block size will be blinded from the PI
+           performing the study. During the eating window, participants will not be required to
+           count calories or monitor food intake in any way. Participants will choose and pay for
+           their own food during the intervention. All participants will record their eating window
+           daily and submit it to the study staff via email. All participants will receive standard
+           advice for physical activity, and screen and sleep time as per the American Academy of
+           Pediatrics age appropriate recommendations.
+
+        5. The study staff will conduct study assessments of participants at weeks -1, 0, 1, 4, 8,
+           and 12. Based on institutional research restrictions, these visits will either be
+           conducted in-person or virtually via a HIPAA compliant platform.
+
+        6. The study staff will perform weekly phone encounters with the participants to assess
+           barriers to adherence and review CGM data. The study staff will record any medication
+           changes or health encounters that have occurred in the last 7 days.
+
+        7. The PI and research team will complete and oversee data management and analysis.
+
+      Intervention Components
+
+      Dietary counseling low added sugar and carbohydrate (all participants): The dietary
+      counseling is modeled after the Healthy Eating through Reduction of Excess Sugar (HEROES)
+      intervention (NIH R01 MD010358-A1), which is currently used by Dr. Michael Goran's lab at
+      CHLA as a method to reduce added sugar intake in diets of youth with fatty liver disease. The
+      intervention consists of recommendations for low added sugars (approximately equal to 5% of
+      daily energy for a teenager and roughly equivalent to the American Heart Association and
+      World Health Organization recommendations for patients with T2D) and a moderate
+      carbohydrate-restricted (<100 grams per day) daily diet. Added sugars consumed from juices
+      are included in the recommended daily amount; however, sugars from whole fruit or sugar in
+      regular unsweetened milk and dairy are not. No specific caloric restriction will be
+      recommended, and participants will not be required to keep logs of daily consumption. They
+      will be provided with culturally appropriate, general recommendations for low sugar and low
+      carbohydrate food options to reference.
+
+      Time-Limited Eating (TLE): This intervention arm will involve TLE, in which participants are
+      instructed to only eat from 11 AM to 7 PM for 5 days per week and to consume food within
+      their habitual eating period for the remaining 2 days per week. The investigators conducted a
+      cross sectional analysis of a cohort of 100 adolescents with obesity and found that most
+      total calories, carbohydrates, and added sugars were consumed between 11 AM and 7 PM (Vidmar
+      AP, Raymond JK, Goran MI, 2020, Pediatr Obes, under review). Therefore, to align with the
+      normal developmental eating patterns seen in adolescents, the investigators will implement an
+      afternoon/evening-based TLE approach. Participants will be allowed to consume non-caloric
+      beverages (water, tea, coffee) during the fasting period. No energy restriction will be used,
+      but participants will be given the low added sugar/carbohydrate guidelines described above.
+      All participants will be asked to record their eating windows daily.
+
+      Control: The control arm will involve no mealtime restrictions. Participants will be
+      instructed to consume food over a 12-hour or more eating window. No energy restriction will
+      be used, but participants will be given the low added sugar and carbohydrate guidelines
+      described above. All participants will be asked to record their eating windows daily and
+      submit to the study staff.
+
+      Exercise: No structured exercise intervention will be included. However, regular physical
+      activity is encouraged, consistent with guidelines for T2D management in youth.71
+      Participants will complete the Physical Activity Questionnaire throughout the study period to
+      monitor physical activity.
+
+      Continuous Glucose Monitor: Participants will wear Dexcom G6 continuous glucose monitors
+      (CGM, Dexcom, San Diego, CA, USA) continuously for 13 weeks (week -1 to week 12). All
+      participants will be blinded to CGM for seven days prior to commencement of the dietary
+      intervention for baseline data collection, and then randomized to either TLE or control.
+      Participants and their family member will be educated on the use of the Dexcom G6 Mobile CGM
+      system at the first visit. Participants will receive training on the system using prepared
+      training materials. All initial sensor insertions will be performed at the clinic by
+      participants and/or family member, under the supervision of the study team, using the
+      automated sensor applicator. The sensor will be changed every 10 days. Diurnal glucose
+      profiles derived from interstitial fluid readings performed every 5 minutes over back-to-back
+      10-day cycles for 91 days will be collected using the CGM device. The CGM data will be
+      uploaded to the cloud platform, Clarity, into a research clinic group to be reviewed by the
+      research team. The Dexcom app will be downloaded to the participants and family members'
+      personal smart phone and an account will be created with a pseudonym of the subjects' choice.
+
+      Measurements: The study team will conduct all assessments at week -1, 0, 4, 8 and 12. All
+      data will be collected and stored in REDCap.
+
+      Primary Outcomes
+
+      Quantifying glycemic control: Using a CGM, the investigators will capture glucose readings
+      every 5 minutes and obtain the percent time in range (TIR: defined as glucose levels from 70
+      mg/dL to 180 mg/dL72) for the 7 days prior to the intervention period compared to the last 7
+      days of the intervention period between groups. HbA1c will be measured using a DCA 2000
+      (Bayer Corporation, Elkhart, IN) and compared pre- and post- intervention between groups.
+
+      Quantifying change in β-cell function: To improve participant burden and decrease project
+      cost, the modified MMTT will be utilized.83 Therefore, the investigators will evaluate the
+      effect of TLE on changes in C-peptide and insulin levels measured after MMTT. The MMTT will
+      be performed at weeks 0 and 12. The MMTT will occur after an overnight fast. Participants
+      will be instructed to not take their Metformin for 48 hours prior to their MMTT. Following
+      baseline sampling (0 min), a test meal (470 kcal, ∼66% carbohydrate, 18% fat, and 16%
+      protein) composed of one 8-fluid-ounce Boost nutrition supplement drink (Nestlé Health
+      Science) and one Power Bar (Nestlé Nutrition) will be administered. The meal will be consumed
+      within 10 min, with the bar consumed first and repeat sampling for C-peptide, glucose and
+      insulin levels performed at 60-, 90- and 120- minutes post-meal. Baseline plasma C-peptide
+      concentration divided by the baseline plasma glucose concentration will be calculated as a
+      pragmatic marker of β-cell function.
+
+      Secondary Outcomes
+
+      Quantification of total body fat percentage: Using a Hologic QDR 5400 densitometer (Hologic,
+      Inc., Bedford, MA) DEXA scan, the investigators will measure TBF% change at 12 weeks compared
+      to baseline. The results will be reported as fat mass (kg) and TBF%.
+
+      Quantification of liver fat fraction: Change in visceral and liver fat will be measured by
+      MRI-PDFF. Participants will undergo MRI screening examinations at baseline and 12 weeks using
+      an advanced magnitude-based spoiled-gradient-echo MRI-PDFF estimation technique previously
+      validated to measure hepatic steatosis in children.84-86
+
+      Participant's weight change: Height and weight will be assessed at all in-person visits with
+      the study team for all participants. Height will be measured using a Quick Medical
+      stadiometer, accurate to 0.1 cm (Quick Medical, Issaquah, WA). Weight will be measured on a
+      self-calibrating Mobile Stand Digital Scale, accurate to 0.1 kg. Participants will wear
+      minimal clothing during the height and weight measurements. BMI will be calculated as
+      kilograms per meter squared from which zBMI and percent over the 95th percentile (%BMIp95)
+      will be determined utilizing the CDC growth charts.
+
+      Nutrient Data System Recall (NDSR) 24 Hour Dietary Recall: Twenty-four-hour dietary recalls
+      will be conducted for all participants at 3 time points throughout the study. For the control
+      group, one weekday and one weekend day will be collected. For the TLE group, one TLE day and
+      one non-TLE day will be collected. One recall will be completed at each study visit,
+      in-person, for the day prior to the visit and the second recall will be completed over the
+      phone to ensure the recalls are capturing the 24-hour period prior to completion of the
+      recall.
+
+      Psychosocial and Behavioral Metrics of Disease: Participants will complete a battery of
+      self-reported questionnaires, described below.
+
+      Pediatric Quality of Life Scale (PedsQL): Quality of life will be measured utilizing the
+      Pediatric Quality of Life Scale (PedsQL) which is a 10-item questionnaire designed to assess
+      quality of life parameters for youth under 19 years of age. The PedsQL is a brief,
+      standardized, generic assessment instrument that systematically assesses patients' and
+      parents' perceptions of health-related quality of life (HRQOL) in pediatric patients. The
+      PedsQL is based on a modular approach to measuring HRQOL and consists of a 15-item core
+      measure of global HRQOL and eight supplemental modules assessing specific symptom or
+      treatment domains.
+
+      Patient Reported Outcomes Measurement Information System (PROMIS®): Physical Activity: The
+      Physical Activity Questionnaire component of PROMIS® will be utilized to evaluate
+      self-reported levels of physical activity in all study participants. PROMIS® pediatric
+      instruments have been developed and validated to assess domains of health in children less
+      than 18 years of age.
+
+      Binge Eating Disorder Screener (BEDS): Given that adolescents with obesity and T2D are at
+      high risk of binge-eating disorder (BED) symptoms; our goal is to screen participants at
+      baseline to ensure appropriate referrals are made in a timely manner.
+    
+  

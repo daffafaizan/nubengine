@@ -1,0 +1,29 @@
+
+    
+      DFNA9 is an autosomal dominant hereditary adult-onset and progressive sensorineural hearing
+      loss which is associated wit vestibular deterioration.
+
+      Today, artificial intelligence plays an increasing role in diagnosis of Mendelian hearing
+      losses and in fitting of cochlear implants. An application of this kind is the open source
+      program, Audiogene v4.0, which was elaborated by the Center for Bioinformatics and
+      Computational Biology, University of Iowa City, Iowa, USA. The shape of the audiogram
+      (audioprofile) is easily recognizable in many autosomal dominantly inherited hearing losses.
+      Machine learning based software tools, such as Audiogene v4.0, which was originally developed
+      for prioritizing loci for the Sanger sequencing, could help the clinicians in early diagnosis
+      of DFNA9. This tool only need subjects' age and hearing thresholds (decibel hearing loss (dB
+      HL)) at frequency range of 0.125 - 8 kHz (kiloHerz), left, right or binaural average in order
+      to predict top 3 gene loci according to the data entered in the program.
+
+      Goal: to use auditory data of a large series of genetically confirmed p.P51S variant carriers
+      causing DFNA9, which were previously collected for the genotype-phenotype correlation study
+      which terminated recently.
+
+      All individual left and right sided hearing thresholds (ranging from 0.125 to 8kHz, with the
+      exception of 1.5 kHz) as well as binaural averaged thresholds were run through Audiogene
+      v4.0.
+
+      Descriptive statistics were assessed and statistical analysis was carried out to check for
+      possible differences between age or hearing thresholds between the carrier group with
+      accurate prediction against the carrier group with inaccurate prediction.
+    
+  

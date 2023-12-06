@@ -1,0 +1,57 @@
+
+    
+      The list of the top causes of death and lost disability-adjusted life-years (DALYs) globally
+      includes many conditions that initially present in the emergency setting. These top causes
+      include lower respiratory infections, ischemic heart disease, and acute injury. The morbidity
+      and mortality that result from these causes can be minimized with emergency treatment. A key
+      element to reducing morbidity and mortality from acute illnesses is the time of patient
+      transport to a medical facility, which has been most clearly demonstrated for acute injury.
+
+      Low- and middle-income countries (LMICs) shoulder a disproportionate burden from acute
+      illnesses, yet it has also been demonstrated that reduced transport times to a hospital
+      decrease the odds of mortality in trauma patients in LMICs. A lack of equipment, poorly
+      developed infrastructure, and long distances have been reported as key barriers in the
+      provision of emergency care. Pakistan is one such LMIC that is burdened by many of these
+      challenges in prehospital care. Emergency medical systems (EMS) have only recently been
+      established in Pakistan, and prior to the last several years, patients were routinely
+      transported to healthcare facilities by relatives, bystanders, or by basic patient transport.
+      Where formal patient transport is available, transport times are often prolonged by distance,
+      traffic congestion, and a lack of public cooperation.
+
+      Geographic information systems (GIS) are an analytic method that may serve as a key tool in
+      decreasing the time of transporting acutely ill patients to life-saving medical care. GIS,
+      which links geographic information to public health data, has been used in simulations to
+      decrease ambulance response times and been shown to decrease response times in industrialized
+      countries. However, this has not been replicated in other highly developed countries and has
+      never been demonstrated in an LMIC.
+
+      The investigators hypothesize that that spatial analysis of the location data of ambulance
+      calls can improve prehospital care provided by Aman Health Care Services in Karachi, Pakistan
+      by decreasing ambulance response times for high acuity patients.
+
+      Aim 1: Develop a conceptual framework for prehospital care in LMICs. As no such framework
+      currently exists in the literature, the investigators will develop a conceptual framework to
+      anchor this project in Aims 2 and 3. The framework will be developed after a consideration of
+      other related health systems frameworks in the literature. The investigators will also
+      consult with experts in the field and with the partners in Karachi to comment on how the
+      framework can be improved.
+
+      Aim 2: Analyze the location of calls to identify geographic areas with longer calls and
+      higher severity of illness. Using GIS and spatial analysis, the investigators will analyze
+      Aman Ambulance's existing data on ambulance calls to find areas of Karachi that routinely
+      have long response times.
+
+      Aim 3: Position ambulances where there are clusters of delayed ambulance calls for high
+      acuity patients to improve response times. Over a six-month period, ambulances will be
+      repositioned in and around clusters of delays to improve response times. This period will be
+      compared with the same calendar period in the previous year using a logistic regression
+      analysis to determine if there is a decrease in delayed ambulance responses. Spatial analyses
+      will also be performed on data from the intervention period to assess for the presence of
+      clusters of delays.
+
+      This study has the potential to use a sustainable method of analyzing routinely collected
+      data on ambulance calls to shorten the time that patients with acute illnesses receive
+      appropriate medical care in Pakistan, a setting in which there are substantial infrastructure
+      and human resource challenges.
+    
+  

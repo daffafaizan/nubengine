@@ -1,0 +1,14 @@
+
+    
+      ROS-MPH's pharmacokinetic profile uses an increasing delivery of MPH over the day (ascending
+      pharmacokinetic curve). It was designed to replace IR-MPH TID treatment. The main target of
+      MPH in the brain is the dopamine transporter (DAT). We have an exquisitely sensitive
+      methodology to measure DAT occupancy using C-11 Altropane and Positron Emission Tomography
+      (PET). The time course of decay of the C-11 Altropane permits repeated imaging, thus allowing
+      documentation of the pharmacokinetics of DAT receptor occupancy.
+
+      We will test all combinations of initial administration and then delayed (repeated)
+      administration of the two formulations: IR-MPH to IR-MPH; IR-MPH to OROS-MPH; OROS-MPH to
+      IR-MPH; and OROS-MPH to OROS-MPH.
+    
+  

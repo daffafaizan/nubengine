@@ -1,0 +1,116 @@
+
+    
+      Patients admitted to the intensive care unit typically receive invasive mechanical
+      ventilatory support when they are critically ill. Whilst mechanical ventilation is a
+      life-saving intervention, it can also lead to deleterious consequences and cause lung damage
+      (known as ventilator-associated lung injury) if not implemented carefully. Hence, reducing
+      the duration of mechanical ventilation should reduce complications such as
+      ventilator-associated lung injury, ventilator-acquired pneumonia, respiratory and skeletal
+      muscle wasting, and patient discomfort, leading to decreasing mortality and economic costs
+      etc. Importantly, prolonged weaning perpetuates these complications which further increase
+      the duration of mechanical ventilation thereby creating a viscous cycle leading to greater
+      morbidity and mortality.
+
+      The availability and education of intensive care unit (ICU) staff are important
+      considerations in minimizing the duration of mechanical ventilation through weaning
+      protocols. It is common practice that the attending physician decides upon patient's therapy
+      and ventilatory management according to recommendations. This usually occurs as part of
+      medical rounds. In addition, nurses often manage the weaning of patients from mechanical
+      ventilation either by following attending physicians' instructions or local guidelines
+      protocols. Such protocol-directed, nurse-driven weaning has been shown to reduce the duration
+      of mechanical ventilation. However, it has been shown that the quantity and quality of
+      nursing are important factors if duration is to be reduced.
+
+      Several decision support systems have been developed to help select optimal mechanical
+      ventilator strategies. Those finding their way into routine clinical practice have typically
+      been based on clinical guidelines or rules rather than detailed physiological description of
+      the individual patient. A recent Cochrane review of weaning trials with these systems
+      concluded that use of these systems may reduce duration of weaning, but pointed out that many
+      of these trials are based on patients that are 'simple to wean'. Such patients are usually
+      less complex, without lung pathology, and ventilated for less than 48 hours. However, there
+      is a need to develop and validate protocolised systems that utilize a more detailed
+      physiological description of individual patients to aid in the management of complex patients
+      ventilated for longer durations.
+
+      The Beacon Caresystem is a model-based decision support system using mathematical models
+      tuned to the individual patient's physiology to advise on appropriate ventilator settings.
+      Personalised approaches using individual patient description may be particularly advantageous
+      in complex patients, including those who are difficult to mechanically ventilate and wean;
+      precisely those where previous systems have not been sufficiently evaluated. The Beacon
+      Caresystem is a commercial version of the system previously known as INVENT, which has been
+      retrospectively evaluated in post-operative cardiac patients and patients with severe lung
+      disease, and prospectively evaluated in advising on the correct level of inspiratory oxygen.
+      Furthermore, studies are near completion showing that the system provides safe and
+      appropriate advice on inspired oxygen, respiratory frequency, tidal volume, pressure
+      support/control and positive end expiratory pressure (PEEP) in a wide variety of patients
+      ranging from patients with severe respiratory failure to patients close to extubation
+      (unpublished data). However, previous and ongoing studies with the Beacon Caresystem have
+      focused on safety and efficacy of advice under limited time periods, and have not focused on
+      weaning from mechanical ventilation.
+
+      The core of the Beacon Caresystem is a set of physiological models including pulmonary gas
+      exchange, acid-base chemistry, lung mechanics, and respiratory drive. The Beacon Caresystem
+      tunes these models to the individual patient such that they describe accurately current
+      measurements. Once tuned, the models are used by the system to simulate the effects of
+      changing ventilator settings. The results of these simulations are then used to calculate the
+      clinical benefit of changing ventilator settings by balancing the competing goals of
+      mechanical ventilation. For example, an increased inspiratory volume will reduce an acidosis
+      of the blood while detrimentally increasing lung pressure. Appropriate ventilator settings
+      therefore imply a balance between the preferred value of pH weighted against the preferred
+      value of lung pressure. A number of these balances exist, and the system weighs these,
+      calculating a total score for the patient for any possible ventilation strategy. The system
+      then calculates advice as to changes in ventilator settings so to as improve this score. The
+      Beacon Caresystem functions as an "open loop" system. This means that the advice provided by
+      the system is presented to the clinician. The ventilator settings are then changed by the
+      clinician, and the patient's physiological response to these changes is automatically used by
+      the system to re-tune the models and repeat the process of generating new advice.
+
+      In calculating appropriate advice, selecting the correct level of positive end expiratory
+      pressure (PEEP) is particularly challenging. The nature of the challenge is however, very
+      different depending upon the presence or type of lung abnormality, and the function of the
+      heart. Patients with severe lung abnormalities such as acute respiratory distress syndrome
+      (ARDS), which often result in small, stiff lungs, are often in control ventilation mode with
+      little or no spontaneous breathing. For these patients, PEEP is often increased to try to
+      recruit units of the lung which are collapsed. This can be difficult, as increasing PEEP may
+      result in elevated lung pressure and hence an increased the risk of lung injury, incomplete
+      expiration and air trapping, and haemodynamic compromise, especially in those with heart
+      failure.
+
+      Patients in support ventilation modes have some degree of spontaneous breathing, and the
+      correct selection of PEEP therefore includes different criteria. It is important that these
+      patients be weaned as quickly as possible, and PEEP is reduced as part of that process. If
+      the setting of PEEP is too low, there is a risk of increased resistance to airflow with added
+      respiratory work and consequent risk of respiratory muscle fatigue. If the patient has
+      intrinsic PEEP due to dynamic hyperinflation, reducing PEEP below the level of intrinsic PEEP
+      would also cause increased inspiratory threshold load on the respiratory muscles, and
+      potential muscle fatigue. If PEEP is too high the respiratory muscle fibres may be shortened
+      reducing their pressure generating capacity and endurance thus increasing the risk of
+      respiratory muscle fatigue. Changing pressure support may help to work against an additional
+      workload, as in cases of increased resistance or autoPEEP, whilst correct PEEP may counter
+      the additional load.
+
+      The above factors are taken into account by the physiological models of the Beacon
+      Caresystem, and patient specific advice is also provided on PEEP. In addition to providing
+      advice on changing individual ventilator settings, the system also advises on when
+      measurement of arterial blood gas is necessary, when it is important to change ventilator
+      mode, and when a spontaneous breathing test is passed, and as such extubation should be
+      considered.
+
+      However, previous and ongoing studies with the Beacon Caresystem have focused on safety and
+      efficacy of advice under limited time periods, and have not focused on weaning from
+      mechanical ventilation. A current study is underway in a French hospital (Clinical Trials
+      number: NCT02842944), and at a UK hospital (IRAS 226610), to assess the benefit of the Beacon
+      Caresystem in general medical intensive care patients. However, as mechanical ventilation
+      therapy can vary with different patient populations it is important that investigation of the
+      effects of use of the Beacon system be studied in numerous different clinical situations. In
+      contrast to other studies, this study will investigate the effects of the Beacon Caresystem
+      in ICU patients with primary cardio-thoracic disease, with these patients representing a
+      substantial sub group of all ICU patients worldwide.
+
+      The purpose of this study is to compare mechanical ventilation following advice from the
+      Beacon Caresystem to that of routine care in cardio-thoracic ICU patients from the start of
+      requiring invasive mechanical ventilation until ICU discharge or death. The Beacon Caresystem
+      will be compared to routine care to investigate whether use of the system results in similar
+      care or reduced time for weaning from mechanical ventilation.
+    
+  

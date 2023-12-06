@@ -1,0 +1,46 @@
+
+    
+      An experimentally-determined value for any pre-absorptive dissociation of zinc from ZnAA is
+      necessary for the accurate compartmental modeling of zinc metabolism when provided as ZnAA
+      compared with zinc chloride, which the investigators will perform in a future study.
+
+      The current study will allow us to determine the pre-absorptive dissociation of zinc from
+      ZnAA, while serving as a pilot test of a novel technique to determine for the first time an
+      individual's zinc transport kinetics. Since zinc absorption kinetics follow a saturable
+      process, the zinc transport maximum (Tr_max) and transport rate (K_Tr) can be determined by
+      fitting Hill transport equation to measurements of absorbed zinc at 3 or more levels of zinc
+      intake (mg zinc/d):
+
+      Total Absorbed Zinc (TAZ) = (Zinc Intake * Tr_max) / (Zinc Intake + K_Tr)
+
+      Although population data have been used to estimate zinc transport kinetics (Tran, et al.
+      AJCN 2004), Tr_max and K_tr have never been determined in individual subjects. The
+      investigators plan to determine the fractional zinc absorption (FZA) from multiple levels of
+      dietary zinc in rapid succession (Chung, et al. AJCN 2004) and, therefore, estimate an
+      individual's transport maximum and rate, Tr_max and K_Tr. Once Tr_max and K_Tr are known, the
+      FZA can be used to determine an unknown zinc intake from zinc chloride and any zinc
+      dissociated from the ZnAA complex using the following equation:
+
+      Zinc Intake = (Tr_max / FZA) - K_Tr
+
+      Since zinc that dissociates from the ZnAA complex will compete for absorption with the
+      inorganic zinc stable isotopic oral tracer (70-zinc chloride), reducing the amount of that
+      tracer absorbed, the investigators can therefore determine the total zinc intake (the sum of
+      the known zinc in the controlled study diet and the unknown quantity of zinc dissociated from
+      ZnAA pre-absorption) based on the transport kinetics (FZA, Tr_max and KTr).
+
+      In other words, for the meal with added ZnAA, the zinc intake is the sum of the zinc in the
+      test meal (3.6 mg zinc and 0.4 mg 70-Zn tracer) and the zinc that dissociates from the ZnAA
+      complex pre-absorption. Since the intact ZnAA (i.e. that zinc that does not dissociate
+      pre-absorption from the ZnAA complex) is absorbed by a different transport mechanism (Sauer,
+      et al. Biometals 2017), it does not compete with the stable isotope tracer for absorption via
+      zinc cation transporters and is, therefore, not part of the "zinc intake" for the purpose of
+      these calculations.
+
+      If the hypothesized 20% dissociation is correct (i.e. 3 mg zinc dissociated from an initial
+      15 mg ZnAA), the total amount of ionic zinc will be 7 mg (the 3.6 mg base diet, 0.4 mg zinc
+      stable isotope tracer, and 3 mg dissociated zinc), and the FZA will therefore be the same as
+      that from a 7 mg test diet (the 3.6 mg base diet, 0.4 mg zinc tracer, and 3 mg zinc as zinc
+      chloride).
+    
+  

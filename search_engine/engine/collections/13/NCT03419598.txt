@@ -1,0 +1,24 @@
+
+    
+      Ethical approval was obtained to use CT scans of 30 patients with moderate to severe knee
+      arthritis (REC reference: 17/HRA/0033, Royal Devon & Exeter National Health Service [NHS],
+      UK).
+
+      The CT data will be used to generate the 3D geometry of each patient's proximal tibia. The
+      osteotomy correction angle required for each patient such that the altered mechanical axis
+      will pass through a point 62.5% of the distance from medial to lateral tibial plateau.
+      Virtual HTO surgery will be performed on each patient to alter the mechanical axis of the
+      knee by creating an opening wedge osteotomy.
+
+      After the virtual surgeries are performed, each virtual patient will be duplicated. One copy
+      will have the osteotomy stabilised using a Generic plate and the other using a Personalised
+      plate, thus forming the two arms of the trial.
+
+      For each participant in each arm finite element (FE) models will be created, and loads
+      applied simulating walking, sit to stand and squatting. Four healings stages will be
+      considered, stage 1 being immediately post-operation (this will not be modelled), stage 2
+      representing 2 weeks post-operation, stage 3 representing 6 weeks and stage 4 representing 12
+      weeks. The mechanical loads in the plates, and around the screw locations in the bone, will
+      be established by solving these finite element models.
+    
+  

@@ -1,0 +1,23 @@
+
+    
+      First, a prospectively data-base was setting up, collecting MMSE, FAB, MoCA and
+      in-depht-neuropsychologocal-battery scores, obtained from the evaluation of 500 patients with
+      parkinsonisms. Data were analyzed to compare the classification of patient cognition profile,
+      obtained with MMSE, MoC, FAB, with that one obtained from in-depht neuropsychological
+      evaluation. A very high percentage of false negative emerged, for each screening test (MMSE,
+      MoCA and FAB).
+
+      A further analyisis permitted to appreciate how, summarizing the scores, obtained in each
+      abovementioned test, it was possible significantly reduce the rate of false negative.
+
+      A new tool, namely "CoMDA" (Cognition in Movement Disorders Assessment), was composed, by
+      merging each item of Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment
+      (MoCA) and Frontal Assessment Battery (FAB). Moreover, we created a machine learning, namely
+      "Neural Net 91classification" able to classify the cognitive profile and predict patients' at
+      risk of dementia, providing a prediction of the findings resulting from a in-depht
+      neuropsychological evaluation.
+
+      CoMDA and the related Neural Net 91classification represent a reliable, time-sparing
+      screening instrument, which is much more powerful of other common, widely-adopted tools.
+    
+  

@@ -1,0 +1,97 @@
+
+    
+      Design: The study design is a Single-Site, Parallel-Group, Randomized-Controlled Trial of
+      Navigation Versus Usual Care for The Management of Delays and Racial Disparities Starting
+      Postoperative Radiation Therapy in Adults with Surgically-Managed, Locally Advanced Head and
+      Neck Squamous Cell Carcinoma
+
+      Following screening and informed consent, sociodemographic, oncologic and symptom data will
+      be prospectively gathered about participants from validated questionnaires and the electronic
+      medical record (EMR). Participants will then be randomized to 3-sessions of the navigation
+      intervention (NDURE; Navigation for Disparities and Untimely Radiation thErapy) or usual care
+      (UC) and followed until the start of postoperative radiation therapy (PORT) following surgery
+      for head and neck squamous cell carcinoma (HNSCC). Measures of PORT delay, racial disparities
+      in PORT delay, key cancer care delivery processes, and theoretical constructs underlying PORT
+      will be evaluated.
+
+      Treatment Allocation: Upon enrollment, participants will be randomized 1:1 to NDURE or UC
+      using a stratified randomization design with strata defined by race (white, African American
+      [AA]) and location of radiation facility (Medical University of South Carolina ([MUSC],
+      non-MUSC) because of the known association of these variables with PORT delay.
+
+      Delivery of intervention:
+
+      NDURE is a theory-based, multi-level PN intervention consisting of three in-person,
+      clinic-based sessions of manualized PN with multiple intervention components that target
+      system- (care coordination), interpersonal- (social support), and individual- (Health Belief
+      Model; perceived susceptibility, severity, barriers, self-efficacy) level health behavior
+      theoretical constructs to reduce barriers to care, increase HNSCC care delivery, and improve
+      clinical outcomes (timely, equitable PORT). NDURE will be delivered from surgical
+      consultation to PORT initiation (~3 months). The NDURE intervention consists of: Navigation
+      Sessions, the Navigator Manual, the Navigator Patient Guide, structured EMR documentation,
+      weekly conferences to facilitate care coordination, real-time patient tracking, and
+      multidisciplinary reporting. The three in-person NDURE navigation sessions, which are
+      expected to take 30-60 minutes each, will coincide with the presurgical consult, hospital
+      discharge, and 1st postoperative clinic visit, time points chosen to facilitate case
+      identification and coordination across key care transitions. Contact beyond the three
+      prescribed in-person sessions will occur with a frequency and modality (e.g. text message,
+      email, etc.) dictated by patient and navigator need. During the first in-person session, the
+      navigator will 1) elicit barriers and facilitators to timely PORT from the patient,
+      caregiver, and provider, 2) develop the personalized barrier reduction plan (BRP), review it
+      with the patient, caregiver, and provider, and 3) implement the BRP. At the two subsequent
+      in-person sessions, the navigator will review and update the BRP in an iterative, dynamic
+      fashion, identifying new barriers and systematically tracking resolution of prior barriers
+      until the start of PORT. The Navigator Manual provides a structured resource to guide
+      intervention delivery and enhance reproducibility. The Patient Guide is 1) literacy-level
+      appropriate, 2) personalized for each patient's care pathway and BRP, 3) updated
+      longitudinally as the patient progresses along the cancer continuum, and 4) available to
+      patients in print and/or electronically via the patient portal in the EMR.
+
+      UC consists of oncology visits with provider-led discussion about the referrals needed to
+      start PORT.
+
+      Expected Effect Size and Power Calculation: Power and sample size calculations were performed
+      using PASS version 08.0.13, "Inequality Tests for Two Independent Proportions." The primary
+      endpoint for this pilot RCT is the rate of PORT delay, defined by NCCN Guidelines as PORT
+      initiation > 6 weeks following surgery. Our primary objective is to compare PORT delay rates
+      between the NDURE and UC arms. Patients (n=150) will be randomized 1:1 to NDURE or UC using a
+      stratified randomization design with strata defined by race (white or AA) and location of
+      radiation facility (MUSC or not MUSC). Furthermore, to facilitate evaluation of PORT delay
+      rates in racial subgroups, the investigators will oversample AAs for a final sample size of
+      50 white and 25 AA patients in each arm. The investigators assume the rate of PORT delay in
+      the usual care arm will be 45% and target an absolute reduction of 20% for a PORT delay in
+      the navigation arm of 25%. This effect size is clinically significant and is a realistic goal
+      given published rates of improvement in similar (non-randomized) interventions. Seventy-five
+      patients in each arm yields 83% power to detect a 20% reduction in PORT delay (45% versus
+      25%) based on a two-sided Mantel-Haenszel test of two independent proportions assuming a
+      two-sided α = 0.1. Our choice of the Mantel-Haenszel test to compare proportions is based on
+      the trial's stratified design. Our selection of α = 0.1 and 1 - β = 0.8 is based on the
+      desire to emphasize power over type I error at this early stage of development (single
+      institution phase II trial) to ensure follow-up on promising interventions. The investigators
+      therefore consider our trial to be appropriately and rigorously designed to detect a
+      clinically meaningful reduction in PORT delay.
+
+      Statistical Methods of Analysis: Graphical displays and descriptive statistics for
+      sociodemographic, oncologic, and baseline symptom severity characteristics will be used to
+      examine patterns and summarize data for each arm. The percentage of patients who start PORT
+      within 6 weeks of surgery (the primary outcome measure) and corresponding 95% confidence
+      interval (CI) will be calculated for both arms and for white and AA subgroups within each arm
+      separately. The rate of PORT delay will be compared between arms using a Mantel-Haenszel test
+      of two proportions, with strata defined by race and location of radiation facility. The
+      investigators will analyze time to PORT as a continuous variable and estimate median time to
+      PORT for each arm and for racial subgroups within each arm using Kaplan-Meier curves with
+      Greenwood variance estimation to construct the corresponding 95% CIs. The investigators will
+      estimate the hazard ratio comparing the two arms using Cox proportional hazards regression
+      controlling for the stratification variables. The investigators will compare time to PORT
+      between intervention arms using a stratified log-rank test. For other secondary endpoints,
+      data will be summarized using frequency and percent for categorical variables and using mean,
+      median, standard deviation, IQR and range for continuous variables. The investigators will
+      also construct 95% CIs to provide a measure of uncertainty in estimated proportions and
+      means. Comparisons between trial arms of other secondary endpoints will be performed using
+      t-tests and chi-square tests, or Wilcoxon rank sum and Fisher's exact tests as appropriate.
+      Baseline and post-intervention values of variables measuring the theoretical constructs
+      underlying NDURE (i.e. care coordination, self-efficacy in cancer care, interpersonal
+      support, and knowledge) will be compared using Wilcoxon sign rank tests. Comparisons between
+      arms of the change in scores will be conducted using Wilcoxon rank sum tests.
+    
+  

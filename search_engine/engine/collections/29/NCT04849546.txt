@@ -1,0 +1,45 @@
+
+    
+      The survey was conducted between 01 th of July and 31th of August 2020 and involved all
+      workers employed in a teaching hospital in France. The total number of workers was 7299.
+
+      The Inclusion criteria were as follows: working in the hospital since more than one year,
+      adults over than 18 years, acceptance.
+
+      Questionnaire After SATIN questionnaire authors allowing, we created a specific questionnaire
+      with all original questions and some additional on workplaces and demographics' data. In
+      first question, participants must check that they met inclusion criteria and accept to be
+      included in this survey. An open question was available at the end for remarks.
+
+      86 questions in 6 parts: 1. Personnel and Professional Identification (10 questions) 2.
+      Health reports (16 questions) 3. Work strain and capacities (8 questions) 4. Working
+      environment (39 questions) 5. Work assessment (4 questions) 6. Supplementary questions for
+      occupational physician (9 questions) Each question had five possible answers and each answer
+      is linked to a specific score. Mean of scores were calculated in each part of the
+      questionnaire: health reports (physical health, psychic health, physical symptoms,
+      psycho-somatic symptoms, and stress), work strain and ability, working environment (physical
+      environment, activity, framework of activities and organizational context), self-assessed
+      work conditions in their entirety. The scores of each part were interpreted as follows: <2.5
+      poor health or negative perception, 2.5-3.5 mild health or perception, > 3.5 good health or
+      positive perception. Global health and general workplace environment self-evaluation were
+      scored in a second time with respectively health reports and working environment scores.
+
+      Demographic data were self-reported by the participants including occupation, sexe
+      (male/female), age (<34, 35-44, 45-54, >55 years), time at workplace (<5, 6-15, 16-26,>26
+      years), shift work or night work (never, rarely, regularly, often/very often).
+
+      Statistical analyses. Data analysis was performed using R software (R Foundation for
+      Statistical Computing, Vienna, Austria). The results for continuous variables were shown as
+      medians with Interquartile range (IQRs). The ranked data, which were ranked from each part of
+      the questionnaire, are presented as numbers and percentages. Participants were divided into
+      three groups according to the previously reported questionnaire cut-off (<2.5; 2.5-3.5; >
+      3.5). Doctor, nurse, medical student, nurse assistant, midwife, paramedics, physiotherapist
+      and radiographer were included in the subgroup "health care worker", other participants were
+      included in the subgroup "non healthcare worker". We also made an analysis by subgroup of
+      workers if they regularly or not worked in a COVID 19 dedicated sector. A multinomial
+      logistic regression analysis was performed and the associations between risk factors and
+      outcomes are presented as Odds Ratio (ORs) and 95% Confidence Intervals (Cis), after
+      adjustment for cofounders including, gender, age, years at workplace. The significant level
+      was set at p= 0.05.
+    
+  

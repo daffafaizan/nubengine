@@ -1,0 +1,54 @@
+
+    
+      Pancreatic cancer (PCa) is a devastating diagnosis with one of the lowest 5-year overall
+      survival rates of all malignancies. It is estimated that at least 45,000 Americans will die
+      of this disease in 2019, making it the third most common cause of oncologic death. Of the
+      patients that present without evidence of distant spread at the time of diagnosis, only a
+      minority of patients are able to proceed directly to surgical resection which remains the
+      mainstay treatment modality. Historical outcomes show that 30-40% of patients present with
+      borderline resectable (BRPC) or locally advanced (LAPC) disease due to tumor involvement of
+      local vasculature which prevents the patients from proceeding directly to surgery. In this
+      context, neoadjuvant therapy with radiation is often administered in an attempt to downstage
+      tumors prior to surgery, reduce the risk of a margin positive failure, and reduce the risk of
+      local recurrence after surgery. For patients who are truly technically or medically
+      unresectable, radiation can be offered with the intent of providing durable local control.
+      Indeed, a recent autopsy study showed that 30 % of patients who expire from PCa do so due to
+      the locally destructive spread from this disease, highlighting the imperative need for an
+      optimal local control strategy.
+
+      Delivering radiation to the pancreas is technically challenging and must be carefully
+      delivered given the risk of injury to radiosensitive organs at risk (OAR) in close proximity
+      such as the bowel and stomach. Compounding this difficulty is the variation in positioning of
+      the tumor and OARs due to respiratory induced motion and variation in bowel gas patterns. To
+      achieve daily accuracy in tumor localization, the investigators employ a comprehensive
+      strategy including strict immobilization, endoscopically placed fiducials, and daily on-board
+      cone beam CT (CBCT). Moreover, the investigators utilize active breathing control (ABC),
+      which requires patients to reproducibly perform multiple deep-inspiratory breath holds during
+      treatment. Radiation to the pancreas is delivered only when the patient is holding patient's
+      breath. During ABC, patients breathe through a snorkel-like device that records the volume of
+      air inhaled during each breath. In this apparatus is a valve that will cut off the flow of
+      air once the inhalation volume passes a certain threshold to ensure the same amount of volume
+      is taken in each time a breath hold is performed. Patients are asked to press on a button to
+      start the recording aspect of the device and then to take a deep breath hold. Once patients
+      reach the desired threshold for the inhaled volume, the valve prevents any further air from
+      being inhaled in, and the patient is asked to hold patient's breath for a duration of 20 - 30
+      seconds. The treatment team is not present in the room with the patient because of radiation
+      exposure so it requires the patient to follow a series of with the treatment team over an
+      intercom system. Patients are asked to do this without any visual biophysical feedback of
+      patient's waveforms, and to do this repeatedly for multiple times per treatment session. The
+      series of instructions can be challenging for many patients, potentially leading to prolonged
+      treatment times and additional breath holds especially in the early fractions before patients
+      become more familiar with the system. Furthermore, with only one planning session to become
+      acquainted with the ABC device and treatment instructions, patients have limited practical
+      time to gain mastery before returning for patient's actual treatment sessions. This is of
+      concern since patients who struggle with the ABC technique may have less consistent
+      reproducibility of daily tumor positioning which may lead to poorer radiation treatment
+      outcomes.
+
+      The Investigator proposes the development of an extended reality (xR) training platform for
+      patients undergoing radiation treatment for pancreatic cancer. The Investigator wants to
+      investigate the ability of this technology to provide biophysical feedback and coaching
+      during the planning and treatment sessions to help patients with the ABC technique to improve
+      motion management outcomes and reduce treatment related anxiety.
+    
+  

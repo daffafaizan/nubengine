@@ -1,0 +1,152 @@
+
+    
+      Delirium assessment and prevention has a tremendous impact on hospitalization outcomes and
+      health care costs. Delirium is a multi-component syndrome characterized by an acute reduction
+      in cognitive functioning, affecting awareness, thinking, attention, and memory. Stroke
+      survivors, representing 17% of the US population aged 65 and over (CDC, 2012), are at major
+      risk for developing delirium (up to 50% incidence in right-hemisphere stroke). Further, about
+      50% of right-hemisphere stroke patients experience spatial neglect, impairing safety and
+      recovery. This study investigates a potential neural mechanism explaining the high incidence
+      of both delirium and spatial neglect after right-hemisphere stroke. The study hypothesis is
+      that the brain networks for arousal and attention, comprised of ascending projections from
+      the mesencephalic reticular formation and integrating right-dominant dorsal and ventral
+      cortical and limbic components, may be affected in these disorders. The study assesses
+      magnetic resonance imaging (MRI) and behavioral data in right hemisphere stroke survivors. It
+      is predicted that impaired activity and structural integrity of the brain networks for
+      arousal and attention will correlate with behavioral signs of delirium and spatial neglect.
+      The study will be conducted at two sites recruiting an acute (n=45) and a subacute (n=30)
+      patient samples. The findings of this study have the potential to impact stroke care by
+      providing a critical biomarker and behavioral profile of post-stroke delirium. This may alert
+      clinicians to initiating preventive care and targeted interventions in patients who are at
+      high risk of hospital morbidity and loss of independence.
+
+      Study Hypotheses Hypothesis 1: It is hypothesized that a lesion-deficit analysis will reveal
+      that in patients with delirium and/or spatial neglect, right-brain areas within the
+      attention, orientation, and arousal networks are affected by stroke lesions.
+
+      Hypothesis 2: Because it is hypothesized that both disorders stem from a dysfunction of
+      common brain networks, it is expected that spatial neglect severity will be a predictor of
+      delirium severity, controlling for relative lesion size and stroke severity Hypothesis 3:
+      Both spatial neglect and delirium severity will be correlated with functional connectivity
+      among the brain areas within the attention, orientation, and arousal networks.
+
+      Hypothesis 4: Based on evidence from prior work in post-surgical delirium patients, neglect
+      and coma patients, it is hypothesized that the integrity of white matter connections among
+      brain regions comprising the cortical and subcortical networks for attention, orientation,
+      and arousal is inversely correlated with the severity of delirium and spatial neglect.
+
+      Planned Analyses:
+
+      Hypothesis 1:
+
+      To examine the critical network components affected in post-stroke delirium, the study will
+      examine participants' structural scans. The structural scans recorded in the study will
+      include a T1-weighted and a T2-weighted FLAIR image for 30 subacute stroke par-ticipants. In
+      addition, clinical scans will be obtained for the 45 acute stroke participants, resulting in
+      75 total brain scans. Structural lesions will be mapped using a semi-automated lesion mapping
+      in MRIcron package, where each brain voxel will be scored in a binary fashion as lesioned or
+      non-lesioned. Three-dimensional lesion masks will be fed into VLSM 2 software implemented in
+      Matlab (Voxel Lesion Symptom Mapping). For the pseudo-continuous outcomes, such as the
+      Behavioral Inattention Test (BIT) and Confusion Assessment Method-Severity (CAM-S) scores, a
+      t-score will be computed testing whether lesion in a given brain voxel predicts higher or
+      lower severity score. For the binary outcomes, such as delirium diagnosis, for each voxel a
+      Leibermeister measure will be computed testing whether a given lesioned voxel predicts
+      delirium vs. no delirium across all participants. The analysis will serially travel through
+      the brain voxels and conduct a test in each voxel. The voxels will be thresholded such that
+      only those that co-occur in at least 5 patients will be considered. In a typical lesion study
+      this will result in hundreds of voxels considered across participants. The final results are
+      corrected for multiple comparisons using False Discovery Rate of p<.05.
+
+      Hypothesis 2:
+
+      This hypothesis seeks to establish if any association exists between the presence and
+      severity of post-stroke delirium and spatial neglect. To test this hypothesis a regression
+      analysis will be conducted using the BIT score as the predictor and the CAM score as an
+      outcome. The analysis will control for NIH stroke scale score and lesion size, as well as
+      age. In both sets of analyses raw assessment scores will be converted to percent for scale
+      uniformity.
+
+      Hypothesis 3:
+
+      A seed-based functional connectivity analysis will be carried out, testing for a correlation
+      among time-courses of selected brain regions as a function of CAM-S and BIT scores. 16
+      regions of interest (ROI) will be used to conduct this analysis within the arousal and
+      attention networks. A whole brain ROI-to-voxel analysis will also be carried out to capture
+      any unexpected associations with delirium and neglect severity. This analysis and data
+      preprocessing will be done using CONN toolbox, a Matlab-based cross-platform software for the
+      computation, display, and analysis of functional connectivity in fMRI. First, realignment
+      will be performed between all successive brain volumes and the 1st volume of the series.
+      Slice-timing correction will be applied to account for the time difference in the interleaved
+      acquisition of brain slices. Structural segmentation will be performed to create masks of
+      white matter and cerebrospinal fluid (CSF). These masks will be used in estimating a nuisance
+      regressor representing physiological noise. The functional scans will be normalized (aligned)
+      to the structural scans and the atlas template. This is done for group comparisons and to
+      allow ROI definition using an anatomical atlas. Functional images will be smoothed with a
+      6mm-radius kernel. Next, the contribution of motion outliers (large movements), continuous
+      motion (roll, pitch, and yaw), and physiological noise will be regressed from the data.
+      Finally, ROI-to-ROI and ROI-to-voxel connectivity will performed within each brain scan to
+      allow for 2nd-order comparisons (i.e., contribution of delirium and neglect severity scores
+      to functional connectivity, controlling for covariates).
+
+      Hypothesis 4:
+
+      A probabilistic tractography analysis will be conduced using 16 ROI, defined a priori from
+      the literature. The analysis will be carried out on DTI data using diffusion tensor
+      tractography tools available in the FSL analysis suite (e.g.., Probtrax, FDT Toolbox). The
+      analysis is expected to identify tracts that connect regions within the attention and arousal
+      networks. It will estimate voxel-wise Fractional Anisotropy (FA) as a measure of fiber
+      integrity. FA is a scalar value between 0 and 1, measuring the principal diffusion direction
+      of water molecules. An FA of 0 indicates a perfect sphere, i.e., uniform diffusion. Places
+      where adjacent voxels have the same directional coherence of diffusion are probabilistically
+      assigned to tract locations. The values are then averaged to obtain a global FA for each
+      tract. Delirium and neglect severity scores will be regressed on FA values in an ANCOVA
+      (accounting for clinical/demographic/physiological/patient characteristics). If the ROI-based
+      approach is not successful, whole brain FA maps will be considered including areas outside
+      the brain networks of interest, for an association with delirium and neglect severity scores.
+
+      Sample Size Determination.
+
+      A pilot investigation was conducted to estimate effect size. 19 right-brain stroke patients
+      (12 females, 8 Caucasian, 8 African American, 3 Asian), aged 60 years (SD=17 years),
+      comprised of 1 chronic (> 6 months post-stroke) and 18 subacute (< 1 month post-stroke)
+      participated in the pilot study. R-squared value of .26 was obtained for the association
+      between delirium and neglect severity. This gives an effect size (Cohen's f2) of .35. With
+      this effect size, there is over 99% power to observe the effect, assuming a sample size of 75
+      patients and an alpha of .05 (Hypothesis 2)
+
+      To estimate power of our lesion deficit analysis (Hypothesis 1), data was simulated using
+      15%, 30%, and 50% as proportion of the participant sample in whom the same voxel will be
+      lesioned. Leibermeister approach was applied to compute p-values for testing the null
+      hypothesis of no association between voxel lesion status and delirium status. With 75
+      participants (Acute+Subacute Sample) there is over 80% power to detect an effect, assuming
+      that at least 30 percent of the sample have the same lesion, and the lesion is between 40-100
+      voxels, forming a tight cluster. These are reasonable assumptions given past studies.
+
+      In the pilot study, a general linear model that included as regressor delirium or neglect
+      severity score was applied to the 16X16 ROI connectivity measure matrix for each participant.
+      The resulting t-scores for the between-subjects effects were in the range of 4.61 to 7.88 for
+      the BIT measure and 7.07 to 9.31 for the CAM-S. These t-scores correspond to a large effect
+      size. Using a Cohen's f of .35 (large effect) to estimate power for linear multiple
+      regression, with 4 predictors, an alpha level of .05, and a two-tailed test, it is estimated
+      that there will be 87% power to observe this effect, given a sample of 30 participants (Acute
+      sample) (Hypothesis 3).
+
+      A previous study reported thalamus fractional anisotropy (FA) of .315 (.026) in delirious
+      compared to .333 (.023) in non-delirious patients. These values correspond to a large Cohen's
+      d effect size. Assuming that FA values in a similar range will be observed, there is
+      excellent power to detect these effects with a linear multiple regression model.
+
+      Based on average patient flow, is is estimated that up to 20 patients will be screened
+      monthly for study eligibility at each site. Based on recruitment rates of the pilot sample,
+      it is estimated that 10-20% of the screening sample will be consented. Factoring in a
+      conservative dropout estimate of 25-40%, it is more than likely that the proposed study
+      sample will be recruited. To account for patient attrition, the study will over-recruit the
+      target sample by 5 patients.
+
+      Estimated rates of delirium and neglect after right brain stroke are around 50% . Therefore,
+      around 50 of the study sample is expected to have neglect, delirium, or both. In addition to
+      using delirium/neglect status as a dichotomous variable, quasi-continuous severity scores for
+      each variable will be used, which will increase the power to detect associations between
+      these two disorders and brain lesion locations.
+    
+  

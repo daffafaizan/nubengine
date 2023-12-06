@@ -1,0 +1,186 @@
+
+    
+      Background - Ischemic Heart Disease
+
+      With a global prevalence of 126.5 million people and a yearly mortality of 8.9 million,
+      ischemic heart disease (IHD) is the leading cause of death (GBD Collaborators 2017). IHD
+      develops as a result of an ongoing atherogenesis, a process of lipid buildup into the walls
+      of the coronary arteries. Eventually, the accumulation of cholesterol and calcium form
+      deposits, i.e. plaques, that narrow down the vessel lumina. At the onset of myocardial
+      infarction (MI), such a plaque ruptures, which leads to anoxic death of the myocardium
+      relying on the blood supply of the vessel. In the short term, the heart's function is rescued
+      by the formation of a stiff scar. Over time, the pumping function typically deteriorates with
+      ensuing heart failure (HF).
+
+      Optimally, disease biomarkers are analyzed from blood and provide both insight into disease
+      progression, severity and aid the evaluation of therapy efficacy. Unfortunately, optimal
+      biomarkers for IHD have not been identified to date. The vast but uncounted number of those
+      living with undiagnosed IHD, benefitting from an early diagnosis, underscore the need for an
+      IHD biomarker.
+
+      Background - Epitranscriptomics
+
+      Epitranscriptomics, the field of the posttranscriptional modifications of RNA, analogous to
+      DNA epigenetics, has recently gained more scientific remark (Saletore 2012). This expanding
+      field is uncovering a new layer of biological regulation that controls processes ranging from
+      cell proliferation to death.
+
+      Although more than 170 RNA modifications have been identified in RNA species (Yang 2018),
+      adenosine methylation at the nitrogen-6 position (m6A) stands out as one the most common and
+      intensively studied (Liu 2020). Following the initial findings of m6A methylated mRNAs in
+      1970s (Desrosiers 1974), epitranscriptomics has only reignited during the last decade with
+      the development of reliable in vivo methods to assess m6A (Dominissini 2012). These early
+      immunoprecipitation-based methodologies (i.e. meRIP-seq) facilitated the discoveries of the
+      specific m6A punctuation patterns and the specifically denoted writers (methyltransferases;
+      METTL3/14/WTAP1 complex and METTL16), readers (binding proteins; e.g. YTH-protein family),
+      and erasers (demethylases; ALKBH5; Zaccara 2019).
+
+      Multiple readers mediating the m6A effects from the YTH domain family have been identified.
+      YTHDF1-3 promote mRNA translation, degradation or both, respectively. YTHDC1-2, eIF2, METTL3
+      and ribosomes recognize m6A as well and promote translation and cytoplasmic
+      compartmentalization (Zaccara 2019).
+
+      Changes in m6A levels have been associated with numerous pathologies, including cancers,
+      cardiovascular and neurological disorders (Frye 2016). Studies using both knockout and
+      overexpression of the m6A writers and erasers have revealed their role in driving immune
+      reactivity, cell proliferation, migration and apoptosis (Delaunay 2019).
+
+      Background - Epitranscriptomics & heart
+
+      A recently published set of studies suggest a role for both the m6A and A-to-I editing
+      (adenosine-to-inosine, another common modification diversifying the transcriptome by altering
+      base pairing) during hypertension (Jain 2018), neovascularization (Kwast 2019), myocardial
+      hypertrophy (Dorn 2019, Kmietczyk 2019), ischemia (Mathiyalagan 2019) and HF (Berulava 2020).
+      While a body of evidence indicate epitranscriptomics as a contributor in cardiac health and
+      disease, all of the initial studies have focused on the myocardium.
+
+      Rationale, objectives and significance
+
+      We hypothesize that the pathophysiology of IHD is reflected in the epitranscriptome of the
+      circulating RNA. For example, ribosomal RNA has a long half-life and its modifications in the
+      coronary circulation can respond to the state of the heart.
+
+      The objectives of the IHD-ERPITRAN project are: (1) to establish screening protocols for
+      epitranscriptomic biomarkers, (2) provide epitranscriptomic insight into the IHD
+      pathophysiology, (3) identify a set of IHD biomarker candidates and (4) open avenues for
+      therapeutic development that were previously disregarded due to lack of research and
+      methodological limitations. For example, our research group has reported a discovery of small
+      molecule ligands for RNA methyltransferases (Selberg 2019).
+
+      Since epitranscriptomics has been suggested to play a regulatory role in heart and the
+      IHD-EPITRAN is among the first to evaluate epitranscriptomic blood biomarkers in IHD, the
+      project holds keys for a scientific breakthrough with expectable global clinical benefits.
+
+      Methods
+
+      Study cohorts - 200 patients are recruited into four cohorts, counting 50 patients each.
+      First cohort consists of patients presenting to Heart Unit with an acute MI revascularized
+      with percutaneous coronary intervention (PCI), a cohort that gives valuable insight to the
+      way the acute IHD phenotype is mirrored to the blood epitranscriptomes. Second, the main
+      study cohort of the project will be formed from patients with stable IHD phenotype treated
+      with coronary artery bypass grafting (CABG) and offers critical information in respect to
+      chronic ischemia and coronary atherogenesis, both ongoing processes in the silent, i.e.
+      undiagnosed, IHD. Third, patients destined for an aortic valve replacement (AVR) therapy due
+      to stenosis with no IHD provide the positive control group with a differing cardiac
+      pathology, and, fourth, together with the healthy non-IHD patients verified with the coronary
+      computed tomography (CT), form the control cohorts of the project.
+
+      Study samples - The IHD-EPITRAN uncovers blood cellular and cell-free RNA epitranscriptomes
+      from the twice collected TEMPUS(TM) and EDTA blood samples, respectively. In addition, for MI
+      and CABG cohorts, the epitranscriptomes from the right atrial appendage tissue samples are
+      deciphered for a reference point. Finally, a set of supplementary HF and IHD biomarkers:
+      NT-proBNP, hsCRP, sST2 and TMAO (Aimo 2019, Ahmadmehrabi 2017 and Tibaut 2019) are measured.
+
+      RNA methods - The RNA isolation and fractionation with in-lab-validated methods is followed
+      by the quantitative analysis of seven base modifications utilizing an UHPLC-triple quadrupole
+      liquid chromatography-tandem mass spectrometry (LC-MS/MS) system (Selberg 2019). Following
+      the quantitative analysis, anti-m6A antibody-based RNA pre-selection rich in m6A marks in
+      tandem with sequencing, i.e. meRIP-seq, is performed. Ultimately, after the UHPLC-LC-MS/MS
+      and meRIP-seq, direct nanopore long-read sequencing enabling identification of the m6A marks
+      in their native sequences is carried out using the novel and recently developed algorithm by
+      Liu et al. (2019). The algorithm bases on the recognition of the characteristic disruptions
+      of electrical current by the m6A flowing through specific protein nanopores.
+
+      DNA sequencing - In order to identify the A-to-I RNA editing events, a whole genome next
+      generation sequencing is performed for all study participants to enable a matched DNA-to-RNA
+      base comparison (Park et al., 2012).
+
+      Bioinformatics - In order to interpret the massive datasets yielded from the sequencing,
+      bioinformatics protocols are developed in collaboration with the bioinformatics teams from
+      Folkhälsan (Karolinska Institutet, Dr. Shintaro Katayma) and Middle East Technical University
+      (professor Nurcan Tuncbag). The sequences are evaluated against known transcript libraries.
+
+      Clinical methods - The echocardiography gives insight into the functional state of the heart
+      and is performed with pre-specified parameters both during the initial hospitalization and 3
+      months after either PCI, CABG or AVR. These cardiologists' appointments include the severity
+      assessment of angina pectoris and exertional dyspnea with CCS and NYHA gradings,
+      respectively. In addition, morbidity self-assessment with the standardized Short Form 36
+      Health Survey is included. Moreover, a patient record system search including hospital
+      admissions, deaths and medication changes associable to cardiovascular health are collected 6
+      months prior and after operation.
+
+      Power analysis - The cohort sizes were determined with RNAseqPS web tool designed for
+      evaluating statistical power for RNAseq experiments (Guo et al., 2014). Parameter values used
+      (false discovery rate [FDR] <0.05, total number of genes for testing 20 000, predicted
+      prognostic genes 1500, minimum fold change threshold 2 for differential expression and
+      average read counts of 10 for prognostic genes) were derived from an applicable report
+      concerning epitranscriptomics during HF (Berulava et al., 2020). Prognostic gene dispersion
+      value of 0,215 was applied based on the article focusing on the issue by Yoon & Nam 2017,
+      which analysed dispersions from ten publicly available RNA-seq datasets, four of which
+      reflected unrelated replicates applicable for the IHD-EPITRAN with the dispersions ranging
+      between 0.15 and 0.28.
+
+      Based on the power analysis described above, n=25 per cohort provides sufficient power
+      (P≥0,95). To fluently tackle possible preanalytical errors, perform subsequent validation and
+      follow-up analyses, the cohorts were doubled.
+
+      Patient registries
+
+      Individual participant identification information data collected during the IHD-EPITRAN will
+      be mainly stored in electrical form on HUS's and Tays's network hard drives that are
+      protected by role-based access rights. Two separate registries are created for the
+      IHD-EPITRAN: (1) A Key Registry, which contains all participant identification information
+      and links between pseudonymization codes that are used in the (2) Research Registry (fully
+      pseudonymized) that contains all other collected study information from the participants.
+      Antti Vento, the director of the IHD-EPITRAN, has the accession rights to the Key Registry.
+      The registries are stored for 10 years to enable possible later follow-up projects.
+
+      Processing description documents for both registries, alongside self assessment document for
+      the risks of the study, have been created for the IHD-EPITRAN in Finnish. These documents has
+      been reviewed and approved by the Ethics Board of the Hospital District of Helsinki and
+      Uusimaa (Dnr. HUS/1211/2020).
+
+      Research group
+
+      Docent Antti Vento is the director of both the IHD-EPITRAN project and the HUS Heart and Lung
+      Center. The interdisciplinary team composed of clinicians, basic researchers and analytical
+      experts enables the IHD-EPITRAN to synergistically perform recruitment, sample collection and
+      preparation followed by the bioinformatic analyses of the epitranscriptomic landscape of
+      circulating RNA in IHD. Docents Mika Laine, Pasi Karjalainen, Helena Rajala and Satu Suihko,
+      all cardiologists from HUS heart station, will carry out the CT patients' recruitment,
+      imaging analyses, treatment of the MI patients and, thirdly, MI, CABG and AVR patients'
+      control appointments. Heart and vascular surgeon Kari Teittinen from the HUS Heart and Lung
+      Center, together with the cardiothoracic surgeon Jahangir Khan PhD and professor Jari
+      Laurikka, both from Tays Heart Hospital, carry out the recruitment of the CABG and AVR
+      patients and their operations. Research nurses Kati Oksaharju and Kati Helleharju, from HUS
+      Heart and Lung Center and Tays Heart Hospital, respectively, coordinate patient recruitment
+      and, in close collaboration with laborant Lahja Eurajoki, the sample collection, transport
+      and prompt storage after freezing. The project will be carried out in the laboratory of
+      docent Esko Kankuri and professor Eero Mervaala (University of Helsinki, CardioReg Group,
+      Department of Pharmacology). B.M. Vilbert Sikorski and MSc Daria Blokhina, will
+      collaboratively perform RNA isolation, fractionation, UHPLC-LC-MS/MS analysis and protocol
+      article formulation. Additionally, Sikorski has collaboratively planned study protocol with
+      the other IHD-EPITRAN co-authors, applied study permissions and continues to coordinate
+      information exchange between collaborators and carries out results article writing with the
+      co-authors.
+
+      Ethics
+
+      This study will be conducted in compliance with the protocol approved by the HUS Ethics Board
+      (Dnr. HUS/1211/2020). Respective regional and national boards will evaluate the protocol
+      subsequently for the multicenter sample collection. Care will be taken so that each study
+      participant has enough time to familiarize himself/herself with the study protocol.
+      Thereafter, an informed consent discussion will be held and written informed consent obtained
+      from the participant.
+    
+  

@@ -1,0 +1,64 @@
+
+    
+      Invasive fungal diseases (IFD) are rare infections that cause a life-threatening pneumonia in
+      patients with weakened immune systems usually due to cancer chemotherapy and transplantation.
+      Fungal spores are found in air, water and soil making exposure unavoidable in vulnerable
+      patients. In developed countries, molds like Aspergillus are the most challenging type of IFD
+      to diagnose and treat. These infections usually manifest as a culture-negative fungal
+      pneumonia and account for approximately 300K of the 1.9M cases of IFD globally, but estimates
+      are not accurate due to an absence of surveillance systems in hospitals where these
+      infections are managed. Hospitals spend millions on antifungal drugs but are unaware of their
+      patients affected, the effectiveness of their prevention efforts and hospital outbreaks may
+      go unnoticed because surveillance, audit and feedback of fungal infections is not occurring.
+
+      Optimising patient outcomes through timely diagnosis and appropriate prescribing of
+      antifungal drugs is the goal of antifungal stewardship programs. Antifungal stewardship is of
+      growing importance to hospitals world-wide because antifungal drugs are few in number,
+      expensive to use and are associated with significant side-effects and drug interactions.
+      Surveillance, audit and feedback are the cornerstones of antifungal stewardship programs that
+      ensure patient care is meeting high standards. However, currently hospitals do not have the
+      mechanisms to detect rare events like fungal infections because it usually presents as a
+      pneumonia buried among hundreds of imaging scans.
+
+      "fungalAi™" (fungalAi.com) is a technology based on artificial intelligence (Ai) that uses
+      existing data in hospitals to make real time surveillance of fungal infections possible and
+      assist radiologist interpretation of diagnostic imaging. fungalAi does this through:
+
+        1. Natural language processing, a computational method of understanding human language.
+
+        2. Deep learning based image analysis of diagnostic imaging and
+
+        3. An expert system that integrates clinical data.
+
+      What will be the impact?
+
+      This project will provide hospitals with the mechanisms for performing real-time surveillance
+      and audit of fungal infections in blood cancer patients through the innovative use of Ai.
+      Strengthening antifungal stewardship through real-time surveillance of fungal diseases will
+      improve patient care by revealing gaps in practice, new patient groups at risk for fungal
+      infections and reduce inappropriate prescribing of antifungal medications through timely
+      audit and feedback. The impact of this project will be:
+
+        1. Improved diagnosis and recognition of fungal infections.
+
+        2. Enhanced prevention.
+
+        3. More appropriate use of antifungal medications.
+
+      FungalAi is a scalable technology that will be validated against active manual surveillance
+      of fungal infections in a multi-centre Australian clinical trial. The inclusive approach of
+      fungalAi means that it is of value to many vulnerable patients including neglected groups
+      like children who are included in this project. FungalAi is tuned for detection of fungal
+      pneumonia caused by molds because these infections are more diagnostically challenging than
+      other types of fungal infections. As a result, fungalAi leverages chest computed tomography
+      imaging because it is a critical diagnostic test that is widely available and performed more
+      frequently than invasive tests like lung washings or biopsy. Hence fungalAi natural language
+      processing may miss very rare manifestations like brain infections. Nevertheless, automating
+      detection of fungal pneumonia and improving radiologist recognition of a rare disease using a
+      self-improving system based on neural networks is an important step towards improving the
+      supportive care of patients with cancer. Improving outcomes in cancer is not only about
+      finding a cure. Reducing the impact of infectious threats like fungal diseases is just as
+      important and this can now be achieved by integrating artificial intelligence into patient
+      care.
+    
+  

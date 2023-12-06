@@ -1,0 +1,39 @@
+
+    
+      The Swedish Intensive Care Registry (SIR) collects a comprehensive data set of patient
+      characteristics, intensive care procedures, severity of illness scores, workload and outcomes
+      using detailed guidelines.
+
+      Continuous data are collected as raw data, validated locally and transferred electronically
+      to the registry for central validation (confirmed to be within prespecified limits and
+      inconsistencies and illogical entries identified). If necessary, data are returned for
+      correction and revalidation before being accepted and added to the master database. No data
+      are changed by SIR. At SIR's homepage there are numerous open reports, updated as soon as new
+      incoming data are processed by SIR.
+
+      SIR has an annual 2-day course for all ICU's in registration techniques and problems and
+      daily telephone support possibilities concerning registration questions, problems and
+      guidance. SIR has, however not yet a systematic on-site auditing program.
+
+      Missing data regarding treatment strategy are registered and are accounted for in the study.
+      There are no missing data regarding organ donation.
+
+      The investigators calculate the proportion of treatment limitations per ICU as the number of
+      deaths with any treatment limitation divided by all deaths in the same ICU.
+
+      Continuous variables are expressed as mean (standard deviations) or median (interquartile
+      range).
+
+      Differences in proportions are analysed using the χ2-test. Changes over time are analysed
+      using the non-parametric trend test. Survival are examined using the Kaplan-Meier estimate
+      and differences in survival are analysed with the log-rank test.
+
+      Logistic regression is used to examine associations between patient and ICU characteristics
+      and DBD as dependent variable. Mixed-effects logistic regression clustered per ICU is used to
+      assess associations between treatment limitation and DBD after adjusting for patient age,
+      sex, comorbidities, the Simplified Acute Physiology Score III (SAPS3) probability of death,
+      principal diagnostic category, presence of treatment limitation and type of hospital.
+
+      Significance was assumed if P < 0.05.
+    
+  

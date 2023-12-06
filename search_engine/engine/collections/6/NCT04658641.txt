@@ -1,0 +1,53 @@
+
+    
+      Parkinson's disease and essential tremor are chronic movement disorders for which there is no
+      cure. When medication is no longer effective, deep brain stimulation (DBS) is recommended.
+      Standard DBS is a neuromodulation method that uses a simple monophasic pulse, delivered from
+      an electrode to stimulate neurons in a target brain area. This monophasic pulse spreads out
+      from the electrode creating a broad, electric field that stimulates a large neural
+      population. This can often effectively reduce motor symptoms. However, many DBS patients
+      experience side effects - caused by stimulation of non-target neurons - and suboptimal
+      symptom control - caused by inadequate stimulation of the correct neural target. The ability
+      to carefully manipulate the stimulating electric field to target specific neural
+      subpopulations could solve these problems and improve patient outcomes.
+
+      It has been shown that modifying the electrical waveform (e.g. pulse duration, pulse
+      polarity, etc.) determine the spatial selectivity in functional electrical stimulation. Also,
+      a recent clinical study examined for the first time the acute effects of anodic compared to
+      cathodic neurostimulation in 10 PD patients. They found that thresholds for anodic
+      stimulation were significantly higher than thresholds for cathodic stimulation, which is in
+      agreement with previous research in animal studies and model calculations. However, they also
+      reported a better clinical effect of anodic compared to cathodic stimulation. Furthermore, a
+      modeling study from Anderson et al. (2018) found that fiber orientations can be selectively
+      targeted depending on the stimulus waveform (i.e. cathodic or anodic). Another recent study
+      examined the effect of an active symmetric biphasic pulse in 8 PD and 3 ET patients. They
+      found that this pulse shapes produced significant clinical improvements compared to the
+      standard clinical pulse shape.
+
+      Besides the symmetric biphasic pulse shape, the asymmetric pre-pulse shows great potential
+      for the refinement of DBS therapy. If the pre-pulse is anodic, it has a hyperpolarizing
+      effect and is therefore referred to as a hyperpolarizing pre-pulse. If it is cathodic, it has
+      a depolarizing effect near the electrode and is therefore referred to as a depolarizing
+      pre-pulse. Clinical studies focused on the use of asymmetric pulse shapes to improve the
+      spatial selectivity by selectively exciting fibers in cochlear implant listeners13-16.
+      Modeling studies indicate that a hyperpolarizing pre-pulse can actually decrease the
+      threshold for axons and that the threshold is decreased more for axons close to the electrode
+      than axons further away. This indicates that a hyperpolarizing pre-pulse may help focus the
+      effects of stimulation to axons near the electrode, thus leading to an increase in the
+      therapeutic window and potentially more efficient symptom control.
+
+      Evidence suggests that temporal manipulations (i.e. the use of complex pulse shapes,
+      specifically biphasic pulses and asymmetric pre-pulses) of the stimulation field can exploit
+      biophysical differences in neurons to target specific subpopulations. Ultimately, this may
+      lead to an increase in the therapeutic window and/or more efficient symptom control. In this
+      study, we aim to understand the neural mechanism underpinning the clinical effects observed
+      by manipulating the pulse shapes, by comparing neurophysiological responses to the standard
+      clinical pulse shapes to the responses to the complex pulse shapes. This will be achieved
+      using two approaches. The first approach will study neural responses to different pulse
+      shapes using electroencephalography (EEG) recordings. The second approach will study neural
+      responses to different pulse shapes using intra-operative local field potential (LFP)
+      recordings. This study and research protocol relates only to the collection of EEG and LFP
+      recordings in DBS patients. The protocol does not cover any surgical procedures, which will
+      already take place as part of the patient's normal clinical care.
+    
+  

@@ -1,0 +1,51 @@
+
+    
+      Brain ultrasound, extracranial echo-color duplex and ocular ultrasound (IE 33, Philips
+      Medical System, the Netherlands) are performed in the first 24 hours, at 48 hours, and at
+      72-96 hours after successful resuscitation after out-hospital or in-hospital
+      cardiorespiratory arrest.
+
+      Ultrasound examinations are performed in four steps to 1) evaluate the global cerebral blood
+      volume, 2) to estimate the presence or absence of cerebral autoregulation, and 3) to
+      qualitatively evaluate the cerebral perfusion and microcirculation by enhanced microbubbles
+      contrast injection 4) to qualitatively evaluate the intracranial pressure.
+
+      Before performing brain ultrasound, echocardiography (IE 33, Philips medical System, the
+      Netherlands) is performed to evaluate the cardiac output (L/min).
+
+      First, the global cerebral blood volume (L/min) is evaluated as the sum of flow volumes of
+      the internal carotid (ICA) and vertebral arteries (VA) extracranial arteries of both
+      sides.The following measurements of flow velocities are taken in each artery: Peak systolic
+      and end-diastolic velocity, time-averaged velocity (TAV), Pulsatility Index (PI). Flow volume
+      (Q) of each artery is determined as Q = TAV x Area ((diameter of the artery /2)² x PI).
+
+      Brain ultrasound is performed via temporal windows to measure the mean flow velocities
+      (cm/sec) of the middle cerebral arteries.
+
+      Second, the presence or absence of cerebral autoregulation is tested with the Transient
+      hyperemic response by an ipsilateral common carotid compression one side and another during 5
+      seconds. Absence of cerebral autoregulation is considered if the flow velocity of the middle
+      cerebral artery do not increase more than 10% after the compression.
+
+      Third, the brain regional microcirculation is evaluated by the microbubbles contrast
+      injection of Sonovue. The brain parenchyma is insonated via the temporal bone windows at the
+      depth of 10cm with the ultrasound S5 multifrequency transducer 2-5 Megahertz (MHz) probe.
+      After optimizing the acoustic bone window, Sonovue is injected intravenously as a bolus 2.4ml
+      followed by 10ml saline flushed. The contralateral brain is evaluated 5 minutes after the
+      first injection of Sonovue to allow a complete evacuation of contrast microbubbles.
+
+      All real-time images are stored digitally on the hard disk as DICOM (Digital Image
+      Communications in Medicine) images. Offline imaging analysis using a specific quantification
+      software named QLAB10 (Philips Medical System, the Netherlands) to convert brain perfusion
+      images into time-intensity curves (TIC) corresponding to the five different regions of
+      interest (ROI) of brain parenchyma: anterior and posterior thalamus, lentiform nucleus,
+      parieto-temporal and posterior white matter. Four variables were extracted from these TIC
+      curves to qualitatively evaluate the brain microcirculation: peak intensity in dB, time to
+      peak intensity in seconds, mean transit time in seconds (MTT), and area under the curve in
+      percentage (AUC).
+
+      To qualitatively evaluate the intracranial pressure, ocular ultrasound is performed to
+      measure the change of the optic nerve sheath diameter(mm). Elevation of intracranial pressure
+      is considered if this diameter is above 0.55 mm
+    
+  

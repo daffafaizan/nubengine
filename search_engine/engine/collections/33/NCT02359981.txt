@@ -1,0 +1,24 @@
+
+    
+      A dramatic rise in self-tracking applications for smartphones has occurred recently. Rich
+      user interfaces make manual logging of users' behavior easier and more pleasant; sensors make
+      tracking effortless. To date, however, feedback technologies have been limited to providing
+      counts or attractive visualization of tracked data. Human experts (health coaches) have
+      needed to interpret the data and tailor make customized recommendations. No automated
+      recommendation systems like Pandora, Netflix or personalized search for the web have been
+      available to translate self-tracked data into actionable suggestions that promote healthier
+      lifestyle without needing to involve a human interventionist.
+
+      MyBehavior aims to fill this gap. It takes a deeper look into physical activity and dietary
+      intake data and reveal patterns of both healthy and unhealthy behavior that could be
+      leveraged for personalized feedback. Based on common patterns from a user's life, suggestions
+      are created that ask users to continue, change or avoid existing behaviors to achieve certain
+      fitness goals. Such an approach is different from existing literature in two important
+      aspects: (1) suggestions are contextualized to a user's life and are built on existing user
+      behaviors. As a result, users can act on these suggestions easily, with minimal effort and
+      interruption to daily routines; (2) unique suggestions are created for each individual. This
+      personalized approach differs from traditional one-size-fits-all or targeted intervention
+      models where identical suggestions are applied for groups of similar people or the entire
+      population.
+    
+  

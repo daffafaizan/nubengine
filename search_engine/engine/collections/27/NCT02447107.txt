@@ -1,0 +1,30 @@
+
+    
+      The goal of this pilot study is to assess the feasibility and value of using smart phone
+      applications to collect objective, quantitative functional data from patients under active
+      treatment for chronic pain.
+
+      35 subjects will be enrolled from the Weill Cornell Pain Medicine Center to ensure a total of
+      30 completed sets of surveys (15 males, 15 females). The Chronic Pain Registry (a data
+      registry utilized to assess the outcomes of chronic pain patients) will provide data
+      regarding the patients' demographics, diagnosis, and prescribed medications. The mobile
+      applications ("Mobility" and "Ohmage") will be downloaded in the office with a demonstration
+      of proper use. "Ohmage" is a data collection application, designed for use on a smart phone
+      or tablet, and allows for both passive and active capture of data via a device's internal
+      sensing mechanisms and through a user's participation in surveys. "Mobility" is a mobile
+      phone sensor application, designed for both android and iPhone devices, that allows a phone
+      to passively capture information about its user's activity. The "Mobility" application uses
+      an activity classifier algorithm to determine if the user is stationary, walking, running, or
+      driving based on how quickly the WiFi and/or GPS signals change, coupled with the strength of
+      motion detected by the phone's internal accelerometer. Ohmage aggregates the Mobility
+      application's generated data and uploads the data to a secure server for study and analysis.
+      Patients will be asked to keep a daily electronic diary via the Ohmage app. Mobility will be
+      used to track the patients' movement and level of activity. Telephone assistance will be
+      available in case of technical problems (Monday to Friday, 9AM-5PM). An audible alarm
+      reminder will be programmed to encourage compliance with use as well as timely completion of
+      the compliance diary.
+
+      Two iterative usability cycles will be conducted with assessment of the compliance diary and
+      questionnaire administration at the 1 and 2-week endpoints.
+    
+  

@@ -1,0 +1,53 @@
+
+    
+      Following on from the service evaluation of retrospective TWW cases within The Leeds Teaching
+      Hospitals Trust (between 2011-2018), the aim is to undertake a prospective analysis of a
+      cohort of patients (4000) that have been referred from primary care (via their GP) for
+      possible breast cancer diagnosis in the Leeds area. The analysis will include de-identified
+      routine clinical data and blood tests from patients on the primary care referral cancer
+      diagnosis pathway for cancer risk assessment.
+
+      This is intended as a non-interventional study, where results from this study will not
+      influence patient care.
+
+      The study includes 3 phases/workstreams:
+
+        1. Validate previously developed prototype algorithm (computer instructions)
+
+        2. Update algorithm incorporating additional blood biomarkers and other relevant clinical
+           data
+
+        3. Validate diagnostic accuracy of updated algorithm The study will include 4000 patients
+           on TWW pathways. Note: The TWW pathway constitutes part of the urgent cancer referral
+           pathway. This study aims to address a major unmet clinical need for breast cancer
+           services within the NHS by safely combining the wealth of routinely collected clinical
+           data and testing of blood samples within the NHS, with secure IT infrastructure in the
+           NHS and the University of Leeds, to efficiently develop a risk assessment tool (guide)
+           to rule-out cancer within a routine NHS environment.
+
+      Inclusion criteria are:
+
+        -  Age ≥ 18 years old
+
+        -  Male and female patient must have been referred from primary care for possible breast
+           cancer diagnosis
+
+        -  Patient consented to have blood tests The data sets will be divided into a development
+           and validation data set (50:50 split). A range of statistical approaches will be
+           performed on the training data set. The algorithm parameters will then be 'locked down'
+           and validated on the remaining test data set. Performance will be assessed via ROC
+           (Receiver Operator Characteristic) curves, sensitivity and specificity,
+           Area-Under-Curve, negative/positive predictive values and diagnostic odds ratios. The
+           algorithm generation and data analysis will be conducted at the University of Leeds,
+           specifically within a secure VRE within the Leeds Institute for Data analytics (LIDA).
+           Particular scrutiny will be given to the test set patients most likely to be false
+           negatives in this analysis (i.e. those patients with cancer whose predicted probability
+           is very low). Key to further improvements in this approach will be to characterise this
+           sub-group and identify possible ways in which they might be identified by an improved
+           analysis in a future study. Eligible participants will be observed electronically for 2
+           years post blood testing to ensure any patients with undetected cancer, who develop
+           cancer within a year, are not missed. The study will end once the consented sample and
+           data retention periods have completed therefore the expected duration of project is 5
+           years.
+    
+  

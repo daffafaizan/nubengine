@@ -1,0 +1,177 @@
+
+    
+      Background In 2016 the Danish Emergency Medical Services (EMS) introduced a nationwide
+      electronic medical reporting system. This provided new possibilities for exploring many of
+      the aspects surrounding the daily practice the EMS, including information on selective
+      subgroups of cardiac arrest patients. The Danish out-of-hospital cardiac arrests (OHCA)
+      registry is based on electronic EMS reports together with a strenuous manual validation
+      process. The product is a solid base for identification and verification of OHCA. Whenever a
+      cardiac arrest is identified, EMS medical reports can be accessed supplying information on
+      the background, observations and treatments that can be extracted systematically. The gain of
+      insight from this process, provide us with the possibility to explore several novel aspects
+      of pediatric OHCA.
+
+      OHCA is a rare event in pediatric populations with varying reports of incidence rates,
+      ranging from 3.3 to 19.7 per 100.000 person years. Most studies, however, are centered around
+      an incidence rate of about 8-9/100.000 person years. Generally, increased incidence rates are
+      reported for infants compared to older children, and discrepancies in the overall incidence
+      rates could partly be explained by different age-caps when defining the pediatric population.
+      These inconsistencies unfortunately underline a general trend in pediatric OHCA studies, with
+      different term definitions and data validation obscuring the overall overview and
+      complicating more in-depth aggregate analyses. This calls for more high-quality data sources,
+      including data validation, and a more strict adherence to standardized reporting templates
+      such as the Utstein style for pediatric advanced life support (PALS).
+
+      Unquestionably, pediatric settings of cardiac arrest embarks an inherent urge to perform
+      beyond ones supreme, but though discrepancies exist, overall survival is reported to be less
+      than 11%, with 30-day survival ranging from 8.1% to 11%, and survival until hospital
+      discharge ranging from 2% to 10.9%. This leads to a potential for improvement, which requires
+      first and foremost clarification of the most obvious causes.
+
+      The etiology of OHCA is often categorized by cardiac or non-cardiac etiology as an object of
+      prevention and post-mortem determination. However, OHCA in children are less likely to be a
+      primary cardiac event. When the focus is solely on increasing survival, reversible causes is
+      more often the focus and is labelled a key component of adult advanced resuscitation
+      algorithms. The most commonly used denomination for reversible causes to consider during
+      advanced life support is "H's" (Hypoxia, Hypovolemia, Hydrogen ion (acidosis),
+      Hypo-/hyperkalemia and Hypothermia) and "T's"(Toxins, Tamponade cardiac, Tension
+      pneumothorax, Thrombosis, pulmonary and Thrombosis coronary). Likewise, PALS operate in "H's"
+      and "T's", and more often than not, prescribe a primary focus on hypoxia as the most
+      prominent reversible cause.
+
+      The investigators speculate that the EMS medical reports provide new and central information
+      about etiology and, perhaps more central to survival, reversible causes of pediatric OHCA.
+
+      Aim The purpose of this analysis is to describe the incidence, presumed etiology and
+      survival-rates for pediatric OHCA within a four-year period in a Danish setting.
+
+      Methods The study is a registry-based follow-up, including prehospital medical record
+      registrations of pediatric EMS patients in Denmark in 2016, 2017, 2018 and 2019 with cardiac
+      arrest.
+
+      Data source:
+
+      This analysis will be based on data from the national verified Danish OHCA registry. In,
+      Denmark all cases of OHCA with resuscitative attempts are immediately followed up with
+      recording of specific data, including EMS reports, aimed at the registry. In 2016 the
+      registry became electronic, as one central database enabling an easier approach to research
+      on OHCA. The registry contains approximately 5.400 registrations of OHCA annually. These
+      composed of active entries, as well as advanced text searches of prehospital patient charts
+      maximizing the likelihood of identifying and collecting all possible cardiac arrests. In a
+      large validation process, all identified cases are read through manually by an external
+      verification team, ensuring a high standard of data quality. During this process, several
+      additional data sources is coupled with each registered OHCA, notably survival, initiation of
+      bystander CPR and actions from EMS personnel.
+
+      Identification of pediatric cardiac arrests:
+
+      The external verification team indirectly mark cases as pediatric, whenever a subject is less
+      than 16 years of age at the time of the event. This together with age derived from individual
+      personal identification numbers is used to identify all pediatric cases. All Danish citizens
+      is provided with a unique personal identification number at birth, containing the individuals
+      date-of-birth. Subjects reported as unquestionably deceased (late signs of death) at EMS
+      arrival will be excluded.
+
+      Identification of presumed causes:
+
+      Three individual raters [MGH, TWJ and NB] will independently review all cases for an
+      assessment of the suspected cause of arrest and assign a presumed reversible cause based on
+      "H's" and "T's" alongside a free-text description for justification. Disagreement will be
+      resolved by third party members [HCC, SM or FL]. If a case does not present with any obvious
+      information indicating a reversible cause or with several competing reversible causations,
+      the cases will be denoted as "NA" and "Inconclusive" respectively. If a case is obviously a
+      result of a chronic disease and no reversible causality was possible the case will be noted
+      "non-reversible".
+
+      Variables included:
+
+        -  Age: Age will be defined as the subject age at the time of the event. Subjects will be
+           stratified into four age-groups, including; infants (<1 years of age), pre-school
+           children (1-5 years of age), school children (6-12 years of age) and teenagers (>12
+           years of age).
+
+        -  Gender: Gender will be defined as either male, female or undetermined, and derived from
+           personal identification numbers. In the expected minority of cases without a number,
+           gender will, as far as possible, be defined based on EMS-charts.
+
+        -  Initial rhythm: The initial rhythm will be defined as the first rhythm observed by EMS
+           personnel, and categorized as either shockable, non-shockable (asystole), non-shockable
+           (other) and undetermined.
+
+        -  Etiology of cardiac arrest: Presumed etiology will be categorized as either reversible
+           (including a subcategorization into the 4H's and 4T's) and non-reversible. Further, the
+           investigators aim to categorize the preceding event, stratifying this into either; a
+           medical cause, trauma, drug overdose, drowning, asphyxia, sports-related or suicide.
+
+        -  Event location: This will be classified as either; private home, public space, outdoor
+           nature or other.
+
+        -  Observation of occurrence: Arrests will be classified as either unwitnessed, bystander
+           witnessed or EMS-witnessed.
+
+        -  Cardio-pulmonary-resuscitation (CPR): CPR will include bystander initiated and EMS
+           treatment with CPR.
+
+        -  Defibrillation and use automatic external defibrillators (AEDs): Defibrillation will
+           include defibrillation by bystanders and/or EMS personnel, including the use of publicly
+           available AEDs that have analyzed the rhythm without delivering shocks.
+
+        -  EMS-response time: This will include the time between a dispatcher receiving the
+           emergency call and the arrival of the first EMS-personnel.
+
+        -  Hospitalization: This will be categorized as either; transported to hospital or declared
+           dead by EMS-personnel.
+
+        -  Return-of-spontaneous-circulation (ROSC): ROSC will be defined as cases achieving ROSC
+           anytime between recognition of the event and termination (defined as either hospital
+           admission og declaration of death by EMS-personnel).
+
+        -  State at hospital admission: The investigators will define the case state on arrival at
+           the hospital as either; ROSC or ongoing CPR.
+
+        -  Survival: Survival will be defined as ROSC at the time of hospital admission, further
+           the investigators will include rates for 30-day survival derived with data from the
+           National Patient Registry.
+
+        -  Airway management: The investigators aim to describe the airway maneuvers performed on
+           each case by listing the use of nasopharyngeal airways, oropharyngeal airways,
+           endo-tracheal intubation, supraglottic airways and isolated bag-valve-mask ventilation.
+
+        -  Use of epinephrine: This will include a binary (yes/no) variable based upon the
+           potential administration of epinephrine for each case.
+
+      Analysis and presentation of data:
+
+      The primary aim of this study is to provide a descriptive analysis of the reversible causes
+      (H's and T's) in a Danish nationwide setting of pediatric OHCA. The secondary goal is to
+      provide updated annual incidence- and survival rates. Descriptive statistics will include the
+      variables listed above with a denotation of the absolute numbers with percentages and
+      stratified in the specified age-groups. Comparative analyses, addressing between age-group
+      differences, will be performed using non-parametric statistics. The data will be
+      pseudo-anonymized all analyses will be performed on an aggregated nationwide level. The
+      primary outcome is ROSC at hospital admission, in relation to reversible causes and
+      age-groups. The secondary outcome is 30-day survival in relation to reversible causes. Final
+      outcomes will be compared to a control-group of adult OHCA with an aim to quantify
+      differences in survival including influencing variables.
+
+      Pilot study:
+
+      Prior to this study, the investigators initiated a pilot project based on available data
+      (from 2016-2019) from the capital region of Denmark within the verified Danish OHCA registry.
+      The aim was to investigate the feasibility of the proposed methods. The investigators
+      identified 56 cases and were able to deduct a presumed cause in 73% of cases. Reasonably
+      amounts of information was attainable from exploration of the prehospital EMS-charts. The
+      other Danish regions will provide data with a similar setup, and hence the investigators
+      expect the presumed methods to be feasible at a nationwide level.
+
+      Perspective The descriptive part of this study will provide updated realistic numbers on
+      pediatric OHCA from a thoroughly reviewed, high-quality database. In addition, a review for
+      reversible causes will contribute to an understanding of the extent of cardiac arrests where
+      focus should be extended to involve more than hypoxia, including associated survival rates.
+
+      List of abbreviations EMS: Emergency Medical Service OHCA: Out-of-hospital cardiac arrest
+      PALS: Pediatric Advanced Life Support CPR: Cardio-pulmonary resuscitation AED: Automated
+      External Defibrillation ROSC: Return of spontaneous circulation GDRP: General Data Protection
+      Regulation
+    
+  

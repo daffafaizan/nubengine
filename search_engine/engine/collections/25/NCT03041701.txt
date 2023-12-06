@@ -1,0 +1,98 @@
+
+    
+      Background:
+
+        -  Rhabdomyosarcoma (RMS) is the most common soft tissue sarcoma of childhood. The annual
+           incidence in the United States is 4-7 cases per million children under 15 years, which
+           represents 250 new cases per year. Two major histologic subtypes exist: embryonal
+           rhabdomyosarcoma (ERMS) and alveolar rhabdomyosarcoma (ARMS), the latter of which
+           carries a particularly poor prognosis.
+
+        -  Over-expression of both the type 1 IGF receptor (IGF-1R) and its ligands has been
+           observed in multiple malignancies, including pediatric sarcomas, and abnormal activation
+           of this pathway contributes to sarcoma development and progression. Downstream signaling
+           cascades of IGF-1R further regulate tumor cell proliferation, survival, and metastasis
+           through the MAPK/ERK and PI3K/mTOR pathways. In the majority of RMS, IGF-1R is highly
+           expressed.
+
+        -  Monoclonal antibodies targeting IGF-1R interfere with ligand binding and decrease the
+           expression of the receptor on cell surfaces by internalization and degradation of the
+           receptor. A number of these have been tested in the clinical setting. Results from a
+           phase II trial using monotherapy with monoclonal antibodies against IGF-1R resulted in
+           clinically meaningful responses in about 10-15% of patients with RMS. However, the vast
+           majority of these responses were short-lived with a rapid onset of resistance.
+
+        -  YES is a member of the SRC family tyrosine kinases (SFKs), non-receptor tyrosine kinases
+           that function in a number of signaling pathways necessary for cell growth,
+           differentiation and survival. Preclinical work suggests involvement of YES in a number
+           of solid tumor types, including colon carcinoma, oral squamous cell carcinoma, glioma,
+           pancreatic cancer, mesothelioma, and RMS.
+
+        -  Recently, the Helman lab published preclinical work showing that in both embryonal and
+           alveolar RMS models, blockade of IGF-1R results in YES activation and that YES
+           activation is associated with resistance to IGF-1R blockade. In addition, combination
+           blockade of IGF-1R and YES in vitro results in downregulation of phospho-AKT in some
+           cell lines. Treatment blocking both IGF-1R and YES results in enhanced growth inhibition
+           of multiple cell lines of both embryonal and alveolar RMS in vitro and in vivo.
+
+      Objectives:
+
+        1. Phase I: To determine the safe dose of dasatinib when given with ganitumab in patients
+           with relapsed or refractory embryonal or alveolar RMS.
+
+        2. Phase II: To determine if the use of ganitumab plus dasatinib is able to be associated
+           with a modest fraction of patients who experience an objective clinical response (CR and
+           PR) as defined by RECIST criteria. In addition, a second primary objective will estimate
+           the fraction that is without progression at 4 months.
+
+      Eligibility:
+
+        -  Patients must have a diagnosis of relapsed or refractory embryonal or alveolar RMS, be
+           able to swallow tablets, have archival tissue available.
+
+        -  Patients must have adequate performance status and adequate major organ function and
+           have recovered from acute toxicity of all prior therapies.
+
+      Design:
+
+        -  This is an open label, multi-site, phase I/II study designed to determine if ganitumab
+           given in combination with dasatinib in children and adults with relapsed or refractory
+           embryonal or alveolar RMS for whom no curative options exist.
+
+        -  In the phase I portion, using a standard 3 + 3 design, limited dose escalations will be
+           performed to define the maximum tolerated dose (MTD) or the highest safe dose tested of
+           dasatinib when given in combination with ganitumab in this patient population.
+
+        -  In the phase II component, sixteen (16) evaluable patients, including up to 6 patients
+           from the phase I portion treated at the selected phase II dose, will be enrolled to rule
+           out a 5% fraction with a clinical response in favor of a 30% fraction with a clinical
+           response, using a one sided 0.10 significance level exact test for a binomial
+           proportion. In practice, the fraction of the 16 patients that have objective responses
+           will be determined and reported along with 80% and 95% confidence intervals. If there
+           are 3 objective responses in 16 evaluable patients, the lower one-sided exact 90%
+           confidence interval is 7.1%, thus ruling out 5%.
+
+        -  It is anticipated that approximately 10-15 patients per year may be accrued onto this
+           trial. Thus, 2 to 3 years is expected to completed accrual.
+
+        -  In all patients, mechanisms of response and resistance will be assessed by analyzing
+           archival tissue for expression of IGF-1R, insulin receptor, IGF-2 expression and
+           phospho-YES expression, and through genomic sequencing (on protocol 10-C-0086). Genomic
+           sequencing of tumor cells from tissue relative to non-tumor cells from whole blood will
+           be profiled to identify the genomic variances that may contribute to response or disease
+           progression and provide an understanding of molecular abnormalities. RNA sequencing will
+           be conducted to provide expression data and give relevance to DNA mutations;
+           Quantitative proteomics analysis will be conducted on all patients to determine the
+           exact amounts of specific proteins and/or to confirm expression of genes that are
+           correlative of response and disease progression. Genomic and transcriptomic analysis
+           will be conducted on patients who consent to protocol 10-C-0086, Comprehensive Omics
+           Analysis of Pediatric Solid Tumors and Establishment of a Repository for Related
+           Biological Studies.All genomic, transcriptomic, and proteomic molecular analyses will be
+           retrospective and exploratory.
+
+        -  In patients who agree to undergo biopsy of their tumor, provided the tissue is easily
+           accessible and can be biopsied safely with minimal morbidity, mechanisms of response and
+           resistance will be assessed by analyzing biopsy tissue expression of IGF- 1R, insulin
+           receptor, IGF-2 expression and phospho-YES expression, and through genomic sequencing.
+    
+  

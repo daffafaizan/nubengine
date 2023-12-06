@@ -1,0 +1,40 @@
+
+    
+      Background:
+
+      Many patients with diabetes are under sub-optimal glycemic control. Central to the
+      clinician's task in improving glycemic control is the management of hypoglycemic medication
+      therapy, including the use of drugs such as insulin and sulfonylureas. Clinical trials have
+      demonstrated that more intensive hypoglycemic medication therapy results in improved glycemic
+      control. Yet quality measures for this critical process of care have not been developed and
+      we know little about how physicians actually manage hypoglycemic medications.
+
+      Objectives:
+
+      We propose to develop a quality measure that describes the intensity of physicians'
+      hypoglycemic medication therapy. We will then provide feedback to VA physicians regarding
+      their practices and access to experts in diabetes care to determine whether this intervention
+      leads to improvements in glycemic control.
+
+      Methods:
+
+      The study was divided into two phases. During the first phase we used existing data to model
+      the decision to increase hypoglycemic medications. At each medical visit, we determined
+      whether an increase in medication therapy occurred. We then used recursive partitioning to
+      develop a model that identified patient characteristics at the visit, such as recent
+      laboratory results and diagnoses, associated with the decision to increase therapy. This
+      model assigns a predicted probability of an increase in therapy to each visit. We used these
+      predictions to define an intensity of hypoglycemic medication therapy for each physician that
+      compared the actual to predicted number of increases over all patient-visits. The second
+      phase was a randomized trial in which clinicians at experimental sites receive feedback on
+      performance and access to expert opinion while usual care is provided at control sites.
+      Feedback on performance was provided twice over 6 months. The change in intensity of
+      treatment scores and glycosylated hemoglobin levels pre- and post-intervention at these sites
+      were compared to performance of primary care physicians at control sites not receiving the
+      intervention.
+
+      Status:
+
+      Completed.
+    
+  

@@ -1,0 +1,117 @@
+
+    
+      Nearly 50% of all Americans will suffer from a mental health disorder during their lifetimes.
+      Brain stimulation treatments, including repetitive transcranial magnetic stimulation (rTMS),
+      are increasingly used to normalize dysfunctional brain circuits in these disorders.
+      Mechanistically, rTMS is thought to work by changing the synaptic strength of neurons,
+      referred to as brain plasticity. Despite the variety of disorders targeted and significant
+      between-patient heterogeneity, rTMS is currently applied in a manner that is
+      one-size-fits-all (without any individual optimization of the stimulation pattern) and
+      open-loop (fixed schedule of stimulation pattern, with no measurement or adjustment during
+      rTMS). I believe that the response rate of rTMS for depression, which is at present <50%, can
+      be improved through personalized brain stimulation that enhances target engagement and
+      maximizes plasticity. To personalize brain stimulation, one must (1) measure and monitor
+      brain changes in real-time; (2) determine the optimal stimulation patterns for inducing brain
+      changes; (3) develop adaptive treatments to drive desired changes on an individual
+      patient-specific level over time. Such personalization of brain stimulation will increase our
+      mechanistic understanding of brain plasticity to improve efficacy in non-responders to
+      standard treatments.
+
+      The primary goals of my research program are to (1) discover brain biomarkers that predict
+      progression to clinical remission, and (2) develop closed-loop treatment algorithms that
+      optimize these biomarkers and improve clinical outcomes. I will focus on depression as it is
+      the leading cause of disability worldwide and and medications are ineffective or not
+      tolerated for close to half of these patients. Leveraging my previous work, I propose three
+      stages of development of personalized brain stimulation using single pulses of TMS combined
+      with electroencephalography (TMS-EEG) to generate a causal measurement of brain state that
+      can easily be translated to the clinic. The TMS-EEG depression severity biomarker that I
+      recently discovered occurs 30 milliseconds after administering a TMS test pulse (p30) in the
+      fronto-parietal network (FPN), a region implicated in depression. The degree of suppression
+      of this p30 signal predicted clinical outcome in depressed patients following rTMS treatment.
+      Additionally, a single stimulation session was sufficient to suppress the p30 during and for
+      30 minutes after stimulation. This work indicates that p30 suppression can be monitored in
+      real-time and has the potential to support empiric treatment optimization.
+
+      Specific aims are as follows:
+
+      Aim 1: To create a platform for monitoring p30 changes (depression severity biomarker) in
+      real-time. Through this aim, I will develop tools to monitor biomarkers in real-time, a
+      necessary step for closed-loop interventions.
+
+      Aim 2: To identify the stimulation parameters that causally and maximally suppress the p30.
+      Through this aim, I will establish the causal relationship between stimulation and biomarker
+      change.
+
+      Aim 3: To test whether closed-loop rTMS more strongly suppresses the p30 compared to standard
+      rTMS. This aim will yield a closed-loop treatment based on empiric biomarkers that will more
+      effectively modulate an individual's brain circuitry.
+
+      This project tests the hypothesis that individualizing and continuously updating rTMS
+      treatment guided by the depression severity biomarker will maximally induce specific brain
+      changes. Specifically, I will develop real-time brain monitoring and test whether optimizing
+      rTMS by maximally suppressing the p30 can more effectively modulate the fronto-parietal
+      network.
+
+      I plan to recruit 54 medication-naive depressed patients and for all patients perform a
+      three-phase, cross-over, double-blind, placebo-controlled trial to 1) identify how standard
+      and optimized rTMS patterns engage the depression severity biomarker, and 2) determine the
+      dose-response of these rTMS patterns.
+
+      Single pulse TMS-evoked potential (TEP), a well-studied causal EEG measure of brain
+      excitability, will be measured before, during, and after rTMS. Primary outcome in this study
+      will be target engagement of the strength of suppression of the fronto-parietal p30 (30ms
+      positive voltage change after a TMS test pulse). This signal is chosen because the strength
+      of suppression has been shown to predict improvement in clinical symptoms after rTMS.
+
+      Participants will first complete a screening procedure to determine eligibility based on the
+      inclusion/exclusion criteria. If the participants are not eligible, no further study
+      procedures will be conducted. Eligible participants will then complete three phases of this
+      cross-over pilot study. All conditions will target the left dorso-lateral prefrontal cortex
+      using neuronavigated rTMS as this is the standard of care treatment site for rTMS. Future
+      work will use similar methods to determine the optimal stimulation site, but this study
+      focuses on identifying the optimal stimulation pattern, as this is the most commonly
+      clinically-adjusted parameter and one that has been shown from animal models to have a direct
+      impact on brain plasticity. The three phases of the study are below and detailed in the
+      Research Strategy:
+
+      Phase 1: Determine for each patient which standard open-loop rTMS protocol maximally
+      suppresses the p30 in the fronto-parietal network (target engagement of the depression
+      severity biomarker). Participants will complete one session each of clinically-utilized (1,
+      5, 10, 20Hz) rTMS and sham rTMS (Fig 8A in Research Strategy). rTMS sessions will be applied
+      in a cross-over, pseudorandomized fashion and separated by 1 week to prevent buildup of brain
+      changes. Target engagement will be measured using the strength of p30 suppression in the
+      fronto-parietal network both during and after rTMS. For each condition, rTMS will be applied
+      for two consecutive days to determine the dose response.
+
+      Phase 2: Determine for each patient the optimal open-loop rTMS to maximally suppress the p30.
+      Starting with the standard rTMS pattern that maximally suppresses the p30, participants will
+      receive one session of stimulation while varying power, duration, and frequency in an
+      event-related design (Fig 8B). From the p30 response of each stimulation pattern, an optimal
+      and individualized open-loop rTMS pattern will be generated using machine learning
+      approaches.
+
+      Phase 3: Determine if closed-loop rTMS more strongly suppresses the p30 compared to optimized
+      or standard open-loop rTMS. The goal of the third phase is to determine if there is added
+      benefit to closed-loop stimulation (adjustment of stimulation parameters during stimulation)
+      over optimizing open-loop rTMS (Phase 2). In a pseudorandomzied fashion, 3 different
+      conditions of rTMS will be administered over 3 weeks. 2 consecutive doses of each condition
+      will be performed to determine dose response. Each condition will be separated by 1 week.
+      Target engagement will be assessed with the strength of p30 suppression in the frontoparietal
+      network. rTMS conditions are as follows:
+
+        1. Open-loop standard rTMS. For each patient, the standard rTMS protocol that maximally
+           suppressed the p30 in Aim 2.1 will be administered.
+
+        2. Open-loop optimized rTMS. For each patient, the optimal rTMS pattern derived from Phase
+           2 (Aim 2.2) of this study will be applied in open-loop fashion.
+
+        3. Closed-loop rTMS. For each patient, rTMS will be administered starting with the optimal
+           open-loop solution and updated in real-time using control systems theory. Here, feature
+           inputs (brain state, stimulation frequency, duration, and power) and outputs (p30
+           suppression) will be continuously compared and feature weights in the model updated to
+           maximally suppress the p30.
+
+      Findings from this study will provide the basis for a double-blind, randomized clinical trial
+      of closed-loop rTMS against standard rTMS.
+    
+  

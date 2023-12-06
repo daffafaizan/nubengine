@@ -1,0 +1,83 @@
+
+    
+      Objectives:
+
+        1. To describe the development and initial validation of the SLEDAI-2KG using the Toronto
+           Lupus Cohort (TLC) database.
+
+        2. To conduct further validation of SLEDAI-2KG using BLISS trial data.
+
+        3. To assess concurrent construct validity of SLEDAI-2KG prospectively in the University of
+           Toronto Lupus Clinic.
+
+      Study design:
+
+        1. Objective one is a single center study aiming to derive a new index, SLEDAI-2KG, based
+           on SLEDAI-2K. Scoring of SLEDAI-2KG will be determined in this study.
+
+        2. Objective two is a retrospective analysis conducted on prospectively collected data from
+           two clinical trials, BLISS-52 and BLISS-76.
+
+        3. Objective three is a single centre prospective study.
+
+      Study Population and Sampling Methods:
+
+      Objective I patient selection: Patients with active disease, SLEDAI-2K ≥0, will be identified
+      in the TLC database. All patients must have follow up visits at 3 and 6 months.
+
+      Objective II: Data from BLISS-52 and BLISS-76 trials will be used. Objective III patient
+      selection: Patients followed at the Toronto Lupus Clinic from May 2017 to December 2017.
+      Patients will be identified based on active disease with a flare (increase in SLEDAI-2K by at
+      least 4 requiring an increase in the dose of prednisone to ≥ 15 mg/day or initiation of
+      prednisone at ≥ 15 mg/day).
+
+      Objective III patient selection: Patients followed at the Toronto Lupus Clinic from May 2017
+      to December 2017. The investigator will identify patients with active disease with a flare
+      (increase in SLEDAI-2K by at least 4 requiring an increase in the dose of prednisone to ≥ 15
+      mg/day or initiation of prednisone at ≥ 15 mg/day).
+
+      Data Sources:
+
+      The University of Toronto Lupus Cohort dataset and GSK BLISS-52 and BLISS-76 trial data The
+      Toronto Lupus Cohort (TLC) is the largest lupus cohort in Canada, and more than 1600 patients
+      have been enrolled in this cohort. Patients in the TLC are seen at regular intervals (2-6
+      months apart) and data, including laboratory and clinical parameters important to lupus, is
+      collected using a well-defined protocol.
+
+      Data Analysis Methods:
+
+      In objective I - Phase 1 will focus on the identification of scenarios of real patients to
+      derive weight scores for Glucocorticosteroid (GCS). Phase 2 will focus on the development of
+      SLEDAI-2KG (derivation of an equation to explain the link between SLEDAI-2K and GCS doses)
+      and phase 3 focused on SLEDAI-2KG validation.
+
+      The analysis of the initial validation of SLEDAI-2KG will be conducted on the selected
+      patients from the TLC. Improved patients (responders) will be identified based on SLEDAI-2K
+      definition of improvement and further will be studied by calculating the SLEDAI-2KG using the
+      above described models. The mean change of SLEDAI-2K scores and the mean change of SLEDAI-2KG
+      scores in the responders will be studied. Using the SLEDAI-2K responders as "Gold Standard",
+      it will be determined if SLEDAI-2KG responders are true responders and not false responders.
+
+      Concurrent construct validity: A clinician (external construct) who does not know the
+      patients and will evaluate each patient's record (electronic record and medical chart) and
+      assign a clinical activity score for each assessment according to the following scale:
+      improved, same, and worse, using standardized predefined definitions. The correlation between
+      the external construct and the change in SLEDAI-2K and SLEDAI-2KG scores will be studied.
+      Using the clinician scoring of disease activity-Improved as "Gold Standard", the results of
+      SLEDAI-2K and SLEDAI-2KG responders will be analyzed by constructing two 2x2 tables.
+
+      Sample Size for 3 objectives:
+
+      Sample Size 1: The sample size calculation of needed scenarios was based on the assumption of
+      reliability (Intra-class Correlation Coefficient (ICC)) ≥ 0.80 with a standard error of 0.05
+      and 3 raters. The required minimum was 46 scenarios.
+
+      Sample Size 2: For objective two all data available from the BLISS-52 and BLISS-76 trials
+      will be used.
+
+      Sample Size 3: For objective three the investigator's target sample size is 100 patients and
+      to achieve this number at least 18 months will be required and subsequently a 6 months period
+      for follow-up for each patients. Based on the COSMIN recommendations, a sample size ≥100 is
+      recommended in this step
+    
+  

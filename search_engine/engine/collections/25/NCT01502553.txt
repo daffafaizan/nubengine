@@ -1,0 +1,74 @@
+
+    
+      Hospital Information The data was collected by Zhongshan City People's Hospital Clinical
+      Investigator Team at Zhongshan City People's Hospital, No.2 Sunwen Dong Road, Zhongshan,
+      Guangdong 528403, P. R. China.
+
+      Investigator: Dr. Cao Yuedong, Leader; Li Qidong, Nurse A; Chen Wenqian, Nurse B.
+
+      Contact Dr. Cao Yuedong Tel: +86 760 88823818
+
+      Used Equipments DUT (Device Under Test): Transtek Blood Pressure Monitor, Model: LS-802. Cuff
+      size: 22-32 cm and 22-42 cm.
+
+      Reference Device: Yuyue Medical Blood Pressure Meter, YYBP-212, accuracy: ±1 mmHg and range:
+      0-300 mmHg.
+
+      Test Protocol
+
+        1. Test Purpose:
+
+           The aim of clinical test is to determine, for the purpose of design qualification, the
+           overall performance of the system meeting the following requirement: For systolic and
+           diastolic pressures, treated separately, the mean difference of the paired measurement
+           of the test system and the comparison system shall be ± 5 mmHg or less, with standard
+           deviation of 8 mmHg or less.
+
+        2. Target Subject:
+
+      1) The subject database shall contain at least 85 subjects. 2) The distribution of blood
+      pressure of the subjects required to be: At least 10 percent below 100 mmHg systolic; at
+      least 10 percent above 160 mmHg systolic; at least 10 percent below 60 mmHg diastolic; at
+      least 10 percent above 100 mmHg diastolic; with the remainder distributed between these outer
+      limits.
+
+      3. Identification and precision of equipment used According to ANSI/AAMI SP10, the maximum
+      measurement error of the non-automatic sphygmomanometers used in the comparing test shall not
+      exceed 1.0mmHg at the temperature of the test. The manometer was used to verify its accuracy
+      before test.
+
+      The clinical study was conducted according to the protocol described in the ANSI/AAMI SP10
+      with 95 subjects.
+
+      4. Test procedures (auscultatory method, same-limb sequential measurement was chosen)
+
+        1. Record the age, gender, and circumference of the left arm of the subject.
+
+        2. Let subject seated or supine calmly for two minutes before test.
+
+        3. Measure heart rate in one minute by palpation on radial artery, record it.
+
+        4. As shown in Fig. 0, two observers shall make simultaneous, blinded, blood pressure
+           determination on the subject's left arm. Each nurse will write down the reading on a
+           small piece of paper, make a tick if there is an auscultatory gap and then submit to the
+           recorder.
+
+        5. The two readings separately from two observers will be recorded, and if two observers
+           agree that they find an auscultatory gap this time, it will also be recorded. The arm
+           cuff will be take off, after 90 seconds rest, TMB-986 cuff will be taken on and tested,
+           and the readings (systolic, diastolic, mean BP and Heart rate) be recorded.
+
+        6. For each subject, repeat 3) and 5) to get 3 measurements.
+
+        7. Repeat step 1) to 6) for every subject. 5. Note:
+
+      1) No motion and speaking are allowed during the measurement. 2) DUT uses the 22-42 cm Cuff
+      when the arm circumference of patients above 32 cm and the other patients use 22-32 cm Cuff.
+
+      3) The reference device's cuff release at the rate about 3 mmHg/s so to ensure an accurate
+      reading of observer.
+
+      4) The arm of the same height and heart when measurement. 5) Test environment: Temperature:
+      20±1 ℃; Relative humidity: 40~50%.
+    
+  

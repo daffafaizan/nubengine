@@ -1,0 +1,27 @@
+
+    
+      It is known that some patients have a prolonged and difficult recovery after major surgery,
+      which impacts their long-term health and wellbeing. A major issue is that scores for
+      predicting recovery are typically generated only once in the period before surgery, but
+      subsequent events during and immediately after surgery can also alter the likelihood of a
+      prolonged and difficult recovery.
+
+      One such event appears to be low blood pressure (hypotension). Hypotension Prediction Index
+      can be calculated from routine blood pressure measurements, and is an indicator of blood
+      pressure instability. The investigators propose that Hypotension Prediction Index during and
+      immediately after surgery may be used to improve their accuracy of scores that predict
+      postoperative problems.
+
+      To explore this, the investigators will collect information about the health and care needs,
+      surgery and postoperative recovery of adult patients' requiring major surgery. This data will
+      be taken from hospital information systems, a bedside monitor, test reports, a questionnaire
+      and National Databases. The investigators will then use statistical models to determine
+      whether Hypotension Prediction Index improves the accuracy of preoperative scores for
+      predicting postoperative problems.
+
+      Ultimately, the investigators hope to create a tool for predicting how well a patient will
+      recover based on the information available at any given point in time. Healthcare
+      professionals will be able to use this tool to identify and support the needs of patients who
+      need extra help recovering from major surgery.
+    
+  

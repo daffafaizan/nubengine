@@ -1,0 +1,17 @@
+
+    
+      In-hospital cardiac arrest carries a grave prognosis, with survival to discharge in the range
+      of 15-20%. Key factors determining outcome include the presenting cardiac rhythm, aetiology,
+      and early initiation of resuscitation. Some cardiac rhythms benefit from defibrillation
+      (shockable rhythms). During resuscitation patients may switch between shockable and
+      non-shockable rhythms, and may show signs of spontaneous circulation temporarily. Depending
+      on rhythm and according to guidelines, patients receive direct current (DC) shocks
+      (defibrillator) and/or i.v. adrenaline, atropine and amiodarone, which may affect
+      state-transitions. We wish to make statistical analysis (time-series analysis, Markov
+      modelling) of these state-transitions and variations in hemodynamic variables during
+      resuscitation, related to CPR interventions and the cause of arrest. The cause of arrest will
+      be determined based on chart records, interview with staff and autopsy if appropriate. One
+      hypothesis is that differences in the patterns of state-transitions may reflect underlying
+      aetiology, which may guide in future decision-making during resuscitation.
+    
+  

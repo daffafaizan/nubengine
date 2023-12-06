@@ -1,0 +1,116 @@
+
+    
+      Hypothesis and Significance: Late clinical outcome and prognosis after CAS may be inferior to
+      that after CEA in terms of autonomic modulation, hemodynamic remodeling, and cognitive
+      function.
+
+      Specific Aim: 1) To compare the impact of CEA and CAS on long-term post-operative
+      baroreceptor function and on cognitive brain function, and analyze their influence on
+      clinical outcome. The specific goal is to assess the potential correlation between
+      post-operative autonomic and cognitive function. 2) To assess the solicitation on the carotid
+      wall due to CAS as compared to CEA through structural analysis and mechanical modeling. The
+      specific goal is to assess the potential correlation between stenting, wall damage,
+      baroceptor impairment, and late neurological sequelae. 3) To assess the post-operative
+      carotid hemodynamics combining medical image analysis, clinical data, and computer
+      simulations. The specific goal aims at correlating both local (e.g., wall stress stress) and
+      global phenomena (controlateral flow, arterial stiffening) with baroreflex function and
+      post-operative neurological outcomes.
+
+      Experimental Design Aim 1: A computerized method requiring small operator interaction will be
+      used to assess indices of autonomic sympathovagal balance directed to the sinoatrial node,
+      sympathetic vasomotor modulation, and baroreflex gain, all from spontaneous beat-by-beat
+      variations of the R-R interval and systolic arterial pressure (SAP) variability, considering
+      only sinus rhythm conditions. After electrode and sensor positioning, patients will be
+      maintained for 10 minute in resting supine position, necessary for stabilization,
+      subsequently blood pressure waveforms, electrocardiogram and respiratory activity will be
+      continuously recorded during a nominal 5-minute baseline and then for subsequent 5-minute
+      period of active standing.
+
+      Cardiovascular signals will be acquired by a 4 channel digital polygraph. The
+      electrocardiogram will be recorded with two electrodes placed on the patient's chest,
+      breathing pattern will be recorded by a piezoelectric belt and finger arterial blood pressure
+      will be continuously monitored by a CNAP 500 HD continuous noninvasive hemodynamics monitor
+      (CNSystems Medizintechnik AG, Austria). As described previously, (8) a series of indexes
+      indirectly reflecting autonomic cardiovascular modulation will be derived from the spectral
+      analysis of R-R interval and SAP variability. Postoperative cardiovascular autonomic control
+      will be correlated to clinical outcome and measures of cognitive performance. Enrolled
+      patients will be submitted to Mini-Mental State Examination for general cognitive impairment
+      screening. Cognitive P300 evoked potentials will be then recorded, before and after
+      treatment, with Ag/AgCl electrodes with a Brain Vision Recorder (Brain Products GmbH,
+      Gilching, Germany). P300 evoked potentials will be generated after a binaurally presented
+      tone discrimination paradigm (odd-ball paradigm) with frequent (80%) tones of 1000 Hz and
+      rare (20%) target tones of 2000 Hz at 75 dB HL. Filter bandpass will be 0.01 to 30 Hz. Active
+      electrodes will be placed at Cz (vertex) and Fz (frontal), respectively, and referenced to
+      linked earlobe A1/2 electrodes (10/20 international system). During the paradigm, the
+      patients will be instructed to keep a running mental count of the rare 2000-Hz target tones.
+      To verify attention, P300 recordings with a discrepancy of>10% between the actual number of
+      stimuli and the number counted by the patients will be rejected and repeated. P300 evoked
+      potential recording will result in a stable sequence of positive and negative peaks.
+      Latencies in milliseconds (ms) of the cognitive P300 peak will be assessed. To confirm
+      reproducibility, two sets of P300 measurements will be recorded for all patients.
+
+      Experimental Design Aim 2: The computer-based simulation of CAS is performed exploiting a
+      computational framework, which can be used to analyze both stent apposition and vessel wall
+      stress in a virtual manner. The framework accounts for two main parts: the vessel model and
+      stent model. Preoperative and postoperative medical images (including high resolution
+      Contrast Enhanced (CE)-MRI and Computed Tomography Angiography (CTA)) will represent the
+      input to build a patient specific carotid model. The 3D lumen profile of the vessel is
+      reconstructed through the segmentation of DICOM image stack using tools like ITK-SNAP
+      (www.itksnap.org) or VMTK (www.vmtk.org). The computational domain (the so-called mesh), used
+      to solve the equilibrium equations governing the structural stent-vessel interaction, is
+      created by an in-house developed procedure, coded in Matlab (The Mathworks Inc., Natick,MA,
+      USA). The non-linear mechanical response of the arterial tissue is reproduced adopting an
+      anisotropic hyperelastic strain-energy function, accounting for two families of fibers,
+      oriented along a preferred direction with a certain degree of dispersion. The model
+      parameters will be calibrated with respect to experimental tensile tests of the carotid
+      tissue. The arterial model is then assembled in the simulation environment with a given stent
+      model, picked from a predefined library of stent designs (the stent mesh generation is based
+      on geometrical measurements performed on high-resolution micro-CT of stent samples). The CAS
+      simulation is performed through structural finite element analysis (FEA); the commercial FEA
+      solver Abaqus (Simulia, Dassault Systemes, FR), is adopted to run the simulations. The
+      engineering outcomes of the simulations, (i.e. the nodal displacement field, stress tensor
+      and strain at each integration points of the mesh), are elaborated to assess clinically
+      relevant parameters of stenting performance (e.g. lumen gain, vessel straightening, stent
+      cell size). The output will be used as an input of the Computational Fluid Dynamics analysis
+      to evaluate the impact of the implanted design on the local haemodynamics (e.g., wall shear
+      stress, oscillatory shear index, etc). Similarly, the structural analysis of CEA will be
+      performed through the virtual pressurization of the post-operative arterial geometry.
+
+      Experimental design 3: Moving from Computational Fluid Dynamics and Fluid-Structure
+      Interaction analysis, the investigators plan to introduce a specific model to describe the
+      baroreflex function and this may be affected by the two different types of treatment (CEA and
+      CAS). This requires the set up of a so-called "geometrical multiscale" model. With this, the
+      investigators mean a numerical model coupling a local description of the hemodynamics (the
+      one developed in Aim 2) with a more systemic representation. The latter consists of two
+      components:
+
+      a) a 1D network mathematically described by a system of partial differential equations
+      representing the propagation of the pressure wave along the arterial tree; each segment of
+      the network is given by a hyperbolic system called "Euler equations" b) a compartment model
+      for representing the peripheral microcirculation and for including the feedback mechanisms
+      induced by the baroreflex function. Following, this will be represented by a system of
+      ordinary differential equations where resistances properly depend on the baroreflex function.
+
+      In this aim the investigators plan two sub-aims:
+
+        1. Set up of a computational multiscale model within the framework of the LifeV solver, a
+           finite element general purpose C++ Object Oriented library, developed by A. Veneziani
+           and his collaborators (in Milan Politecnico and Lausanne EPFL) www.lifev.org and openly
+           downloadable. At this stage, the investigators will reproduce the general model of
+           Blanco et al. In particular, the identification of the parameters for the two different
+           levels of models (1D and Lumped Parameters) will be carried out following the procedure
+           suggested. Validation of the solver will also take advantage of the benchmarks presented
+           in this paper.
+
+        2. Adoption of the solver previously developed for the test cases considered in Aim 2. This
+           means that the 3D model developed in Aim 2 will be adopted for the 3D part of the
+           geometrical multiscale model. This will allow to provide a quantitative analysis of the
+           different impact of the two treatments and ultimately to assess in a virtual scenario
+           how the changes of carotid compliance may impair the baroreflex function. All the CAS
+           and CEA cases considered in Aim 2 will be equipped of this multiscale framework. The
+           expected deliverables of this aim are therefore: a) a validated open source geometrical
+           multiscale solver including the baroreflex function to be used systematically in
+           patient-specific settings. b) extensive comparison of the performances of the different
+           options.
+    
+  

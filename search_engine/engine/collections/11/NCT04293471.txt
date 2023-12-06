@@ -1,0 +1,26 @@
+
+    
+      The project investigates patients with left bundle branch block (LBBB) which describes a
+      specific block in the electrical conduction system, where the electrical impulses must follow
+      a detour, with the result that different parts of the heart-muscle do not contract at the
+      same time. This condition is called left ventricular dyssynchrony. LBBB can be found in
+      people who are otherwise completely healthy and need not have any practical consequences. In
+      others LBBB is present in patients with different heart diseases such as after myocardial
+      infarctions or other diseases involving the heart-muscle. Patients with implanted pacemakers
+      have a similar failure in the conduction system. Both conditions can increase the risk for
+      development of heart-failure and cardiovascular death. Dyssynchrony can be treated with a
+      special pacemaker (cardiac resynchronisation therapy, CRT) in addition to regular medical
+      treatment. The therapy is well established and has shown to reduce morbidity and mortality
+      and even reverse heart-failure in some patients completely. However, the patients in need and
+      responding to CRT treatment is still not optimally defined. New echocardiographic parameters
+      based on strain imaging such as regional myocardial work are able quantify the degree of
+      dyssynchrony and give new insights into the interplay of activation delay through the LBBB
+      and loading conditions and weakness of the myocardium due to other diseases. These new and
+      complex measures can be integrated with clinical information by machine learning (ML) as a
+      promising tools for accurate patient selection for CRT. The project aims to find markers on
+      ultrasound improved by ML based selection to distinguish those patients who have problems
+      associated with the branch block from those who remain stable. This will facilitate both, an
+      optimized patient selection for CRT treatment and follow-up schedule for those who have a
+      stable condition.
+    
+  

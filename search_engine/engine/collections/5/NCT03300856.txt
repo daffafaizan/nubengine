@@ -1,0 +1,30 @@
+
+    
+      Objective- To retrospectively study the results of transcranial magnetic stimulation (TMS) in
+      various neurological disorders and create a descriptive analysis of the results.
+
+      Study population- Existing records of patients within the NINDS database who have had TMS
+      performed to measure central motor conduction time (CMCT).
+
+      Design-
+
+        -  Retrospective descriptive analysis.
+
+        -  The NINDS EMG Database will be queried using terms such as TMS, CMCT, and MEP (motor
+           evoked potentials) to identify EMG reports on patients who underwent TMS for diagnosis
+
+        -  Within these reports peripheral motor conduction time (PMCT), the cortical motor evoked
+           potential (MEP) latency and amplitude will be used to calculate CMCT, clinical patient
+           factors pertinent to estimation of CMCT as well clinically significant physical exam
+           findings will be recorded as well.
+
+        -  Clinical diagnoses and neurological exams will be extracted from medical records
+
+        -  Patient identifiers will be de-linked after compiling data from medical records
+
+      Outcome measures
+
+      - Results of CMCT using TMS in different diagnoses will be summarized for different
+      neurologic disorders and correlated to clinical exam measures documented in previous records
+    
+  

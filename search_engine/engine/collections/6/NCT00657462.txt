@@ -1,0 +1,25 @@
+
+    
+      This project will study whether reminder prompts increase Pre-Admission Medication List
+      (PAML) Builder application feature utilization. PAML Builder is an application designed and
+      maintained by Partners Information Systems that assists clinicians in medication
+      reconciliation - a process important for patient safety and quality of care. We have
+      determined that several potentially helpful features of the application are not being
+      utilized as frequently as had been expected. These features include:
+
+        1. copying the pre-admission medication list (PAML) to the clipboard
+
+        2. viewing the detailed audit trail of all changes made to the PAML
+
+        3. sorting the list of medications obtained from other electronic sources by therapeutic
+           class.
+
+      Reminder prompts (sometimes referred to as "Tip of the Day") have been employed to increase
+      user awareness of underutilized application features. However, anecdotally some users find
+      them unhelpful and potentially irritating. It is therefore important to determine whether
+      reminder prompts accomplish the stated task of increasing application feature utilization.
+      This project will compare PAML Builder application feature utilization before and after a
+      pilot rollout of reminder prompts to determine whether they should be implemented
+      permanently.
+    
+  

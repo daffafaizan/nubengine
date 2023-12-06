@@ -1,0 +1,49 @@
+
+    
+      QSPainRelief-patientCNS is one of three clinical studies that will be conducted as part of
+      the QSPainRelief project funded by the European Union's Horizon 2020 research and innovation
+      program (grant agreement 848068; http://qspainrelief.eu).
+
+      Chronic pain is a complex disease affecting about 20% of Europeans, and up to 60% of patients
+      with chronic pain do not experience adequate pain relief from currently available analgesic
+      combinational therapies and/or suffer confounding adverse effects. Of the many conceivable
+      combinations, only a few have been studied in formal clinical trials. Thus, physicians have
+      to rely on clinical experience when treating chronic pain patients. The vision of the
+      QSPainRelief project is that alternative novel drug combinations with improved analgesic and
+      reduced adverse effects can be identified and assessed by mechanism-based Quantitative
+      Systems Pharmacology (QSP) in silico modelling. The QSPainRelief consortium will setup,
+      calibrate and validate an in silico QSPainRelief platform which integrates recently developed
+      (1) physiologically based pharmacokinetic models to quantitate and adequately predict drug
+      pharmacokinetics in human CNS, (2) target-binding kinetic models; (3) cellular signaling
+      models and (4) a proprietary neural circuit model to quantitate the drug effects on the
+      activity of relevant brain neuronal networks, that also adequately predicts clinical outcome.
+
+      Calibration of the QSPainRelief platform modelling the biological processes and neuronal
+      circuits underlying the pain relief and adverse effects induced by drug combinations requires
+      patient data on how different drug combinations affect the central processing of nociceptive
+      input, the central processes underlying pain modulation, as well as the central nervous
+      system (CNS) networks underlying drug-induced adverse effects. After calibration of the
+      QSPainRelief platform, additional patient data is required to evaluate the ability of the
+      platform to actually predict CNS effects of drug combinations in patients. Finally,
+      real-world evidence is needed to relate the effects of drug combinations on CNS activity with
+      the therapeutic and adverse effects self-reported by the patients.
+
+      The aims of the QSPainRelief-patientCNS study are thus two-fold.
+
+      The first aim is to obtain data from a first set of 60 patients to calibrate the QSPainRelief
+      platform, and from a second set of 120 patients to evaluate the ability of the QSPainRelief
+      platform to predict therapeutic and adverse effects of drug combinations. It will focus on
+      pain relief and its impact on daily life activities as therapeutic effects, and on
+      drug-induced sedation, drug-induced cognitive dysfunction (memory and attention) and pain
+      medication misuse as adverse effects. These adverse effects have been chosen because (1) CNS
+      biomarkers sensitive to drug-induced sedation and drug-induced cognitive dysfunction can be
+      readily obtained using non-invasive measurements of the electroencephalogram (EEG) and (2)
+      the chosen adverse effects can be assessed in patients after a short treatment period using
+      validated patient-reported outcome measures (PROMs).
+
+      The second aim is to identify measures of drug-induced effects on CNS activity that could be
+      used as biomarkers of real-life clinical outcome, both in terms of desired treatment effects
+      (treatment-induced pain relief) but also in terms of undesired treatment effects
+      (treatment-induced sedation and treatment-induced cognitive dysfunction).
+    
+  

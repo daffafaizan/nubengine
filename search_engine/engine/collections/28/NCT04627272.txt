@@ -1,0 +1,34 @@
+
+    
+      We will obtain 60° wide single-field retinal fundus images from subjects who are diabetic
+      patients in primary care environments (i.e. non-eye care settings, such as internal medicine,
+      family medicine, and endocrinology). The fundus images will be uploaded to the RetinaVue
+      Network software using the AutoDx-DR with Over-read modality, where images are transmitted to
+      both AutoDx-DR and a remote ophthalmologist. AutoDx-DR will generate an initial Refer or Not
+      Refer recommendation and the remote ophthalmologist will provide a detailed diagnostic image
+      interpretation which will be used for patient management and referral during the course of
+      the study. AutoDx-DR can also generate a third output which is "Inadequate for
+      Interpretation". In this case, the images will still be sent to the remote ophthalmologist
+      for interpretation. If the ophthalmologist also cannot interpret the images, the patient will
+      be recommended to have an in-person comprehensive ophthalmologic exam.
+
+      Subjects participating in this study will undergo further retinal fundus imaging: four
+      mydriatic, stereoscopic 45° field of view (4W) retinal images and spectral domain optical
+      coherence tomography (SD-OCT) captured with the Reference Standard Camera (i.e. Zeiss Cirrus
+      600 photo, or other appropriate FDA-cleared imaging device with stereo fundus photography and
+      SD-OCT capability that meets the requirements of the certified fundus photography reading
+      center such as Topcon, Optovue, and Heidelberg). The 4W and SD-OCT imaging will be performed
+      by a certified technician located at or near the enrolling study site. The 4W and SD-OCT
+      images will be interpreted by a certified fundus photography reading center (FPRC) for more
+      than mild DR or any diabetic macular edema. The FPRC's Not Refer/Refer determination will be
+      used as the "gold standard" interpretation in this study.
+
+      The AutoDx-DR interpretation of the 60° wide single-field images will be compared to the FPRC
+      "gold standard" interpretation for the Not Refer/Refer recommendation. Accuracy metrics of
+      sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV),
+      positive likelihood ratio (PLR), and negative likelihood ratio (NLR), with 95% confidence
+      intervals will be calculated. All diabetic patients who are attending routine primary care or
+      endocrinology appointments and meet the enrollment criteria will be invited to participate in
+      the study. All study procedures will be performed during a single study visit.
+    
+  

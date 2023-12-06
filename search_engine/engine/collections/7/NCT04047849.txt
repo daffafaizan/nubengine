@@ -1,0 +1,153 @@
+
+    
+      Throughout this detailed description, patient and subject will be used interchangeably.
+
+      Patients presenting to either an acute care setting (Woman's Hospital Assessment Center) or
+      outpatient clinic setting with concerns for rupture of membranes will be clinically evaluated
+      by an obstetrician (including private physicians, resident faculty and resident physicians).
+      Exam findings including either/or 1) visualization of amniotic fluid passing from the
+      cervical canal and pooling in the vagina via sterile speculum examination, 2) a basic pH
+      (i.e., positive nitrazine) test of vaginal fluid, 3) arborization (ferning) of dried vaginal
+      fluid identified via microscopic examination by the examining physician, or 4) an amniotic
+      fluid index (AFI) of less than 4cm between 18 0/7 and 22 6/7 weeks gestation are to be
+      diagnostic of previable, preterm premature rupture of membranes (PPROM). Eighteen weeks
+      gestational was arbitrarily chosen as the lower limit of gestational ages included based on
+      review of currently available retrospective studies on previable PPROM. If patient meets all
+      inclusion and exclusion criteria as listed above specimens to be collected at the time of
+      diagnosis include a catheterized urinalysis with reflex urine culture if indicated, wet prep
+      (i.e., vaginitis panel), group B strep DNA recto-vaginal swab, complete blood count and PCR
+      testing for gonorrhea, chlamydia and trichomonas via endocervical swab. An ultrasound to
+      determine amniotic fluid index (AFI) should also be performed at this time (either by
+      radiology or Maternal-Fetal Medicine). These will be collected according to current standard
+      of care practices for preterm prelabor rupture of membranes. Patient will then be admitted to
+      the Woman's Hospital Labor and Delivery unit for a 24-hour observation period. Acetaminophen
+      and ibuprofen will be withheld during this 24-hour observation period in order to ensure that
+      no signs or symptoms of underlying infection or preterm labor are masked. A repeat complete
+      blood count will be performed the morning of hospital day 2, and repeat AFI on hospital day 2
+      to be performed with full obstetric ultrasound by Maternal Fetal medicine physicians.
+
+      If, during the 24-hour observation period, the subject is without signs of chorioamnionitis,
+      preterm labor, or placental abruption with vaginal bleeding as determined by the MFM staff,
+      and if patient continues to meet both inclusion and exclusion criteria, subject will then be
+      offered enrollment in the study. The consenting process will be performed by the MFM staff
+      physicians or by Felicia LeMoine, MD, or Kaitlyn Taylor, MD, the co-investigators. The
+      consenting process will be performed within the patient's private hospital room (designated
+      at the time of admission). Once the subject as agreed to voluntary participation and
+      in-formed consent has been signed, the subject will then be assigned an individual study
+      identifier that includes the study acronym OAPPPROM patient initials, and unique number
+      (randomly generated using the sample () function in R statistical software). All blood
+      samples and specimens collected prior to admission, at admission and future blood samples and
+      specimens will be available to the treating physician and reported within the patient's chart
+      as is current standard practice. The samples and specimens will also be referenced using the
+      patient's unique identifier for the sake of research data collection. The enrolled subjects
+      will then be randomized using a computer-generated sample without replacement from the
+      patient ID numbers into either the control (no antibiotics) or treatment (antibiotics) arm.
+
+      Following the 24-hour observation period and randomization, those subjects enrolled into the
+      treatment (antibiotics) arm of the study will be thoroughly counseled on the risks and
+      adverse side effects associated with the use of azithromycin and amoxicillin and which of
+      those side effects should prompt emergency evaluation at Woman's Hospital Assessment Center
+      or the nearest emergency department with obstetrical care. The subjects of the treatment arm
+      will also receive the first dose of antibiotics while in the hospital to ensure no immediate
+      adverse effects.
+
+      Both arms of the study will receive, at the time of discharge, a "Patient Information
+      Pamphlet" along with a thermometer to take home. All subjects will be instructed on proper
+      methods to measure body temperature with the thermometer. All subjects will be thoroughly
+      counseled on symptoms or findings which should prompt immediately follow-up at Woman's
+      Hospital or the nearest emergency department with obstetrical care. Such symptoms include,
+      but are not limited to, vaginal bleeding, fevers, chills, purulent vaginal discharge,
+      contractions, pelvic pain or cramping, abdominal pain or cramping, or any other concerns.
+      Subjects will be counseled on avoidance of sexual intercourse and avoidance of overt
+      exertion, yet, strict bed rest will not be advised. Subjects will be instructed to keep the
+      "Patient Information Pamphlet" with them at all times while enrolled in this study. If
+      patient either reports a lost or misplaced pamphlet at any point during the study or presents
+      to any scheduled follow up appointment in the MFM clinic without the pamphlet, the patient
+      will be provided with a new copy. The pamphlet includes a daily temperature log, an
+      adverse/side effect log, and emergency contact information for key figures involved in this
+      study. The pamphlet also includes a table in which dates and findings (i.e., EGA, maternal
+      heart rate, fetal heart rate, maternal blood pressure, maternal temperature, and AFI) from
+      follow-up MFM appointments are to be logged. The initial MFM follow-up appointment will be
+      scheduled prior to discharge from the hospital for all subjects enrolled. Documentation of
+      scheduled time and date will be noted on patient's discharge paperwork. Follow-up for both
+      arms of the study will be scheduled within the MFM outpatient clinic weekly until subjects
+      either reach 23 0/7 weeks gestation or show signs of change in clinical condition. Weekly
+      follow-up visits will consist of vital signs (maternal heart rate, maternal blood pressure,
+      temperature and weight), a physical examination of subject, an obstetric ultrasound to assess
+      fetal well-being, calculate amniotic fluid index, and determine fetal heart rate, and weekly
+      complete blood counts (lab draws). Patients will also be instructed to bring the antibiotic
+      pill bottles the initial follow up appointment. The number of pills remaining will be counted
+      to assess degree of antibiotic compliance. The results of these assessments, along with a
+      copy of the "Patient Information Pamphlet", will be made at each follow up visit and stored
+      within a data collection sheet. Each patient will be assigned an individual data collection
+      sheet which will be marked with the patient's medical record number and unique subject
+      identifier (determined as mentioned above).
+
+      All of the data collection sheets will be stored within a secure research binder. This binder
+      will be kept secure in a locked desk drawer, within a locked office (MFM office located at
+      100 Woman's Way, Baton Rouge, LA 70817), when not in use. Access to study data will only be
+      granted to Robert Clifton Moore, MD, Felicia LeMoine, MD, and Kaitlyn Taylor, MD during the
+      study period. Following completion of the study, a final Excel spreadsheet will be created
+      which will include all data previously collected, including the patient's unique identifier
+      but excluding the patient's medical record number (de-identified). The final, compiled
+      spreadsheet with de-identified data will be made available to Andrew Chapple, PhD for final
+      data analysis. Upon completion of finalized data spreadsheet, the hard copies contained
+      within the designated research binder will be disposed of in a secured, locked shred bin on
+      Woman's Hospital campus. The spreadsheet will be encrypted and stored on an
+      password-protected and encrypted laptop, property of the investigator Felicia LeMoine, MD.
+      The spreadsheet will not be stored or saved onto any of the various, available internet
+      storage services (i.e., DropBox, Google Drive, etc.)
+
+      If at any point during the study, subjects of either arm show signs of infection (fever,
+      rigors, chills, pain), labor, abruption (vaginal bleeding), or fetal distress, subjects will
+      be admitted to Woman's Hospital for induction of labor/delivery as recommended per
+      established standards of care. Delivering physician will be either the patient's primary
+      obstetrician or MFM specialist if subject received prenatal care at facility outside of
+      Woman's Hospital.
+
+      If subject and the fetus show signs of continued stability with no adverse events/side
+      effects, signs of chorioamnionitis, infection, labor, or placental abruption, from the time
+      of rupture until 23 0/7 weeks gestation, the subject will be readmitted to Woman's Hospital's
+      Labor and Delivery Unit at 23 0/7 for continued inpatient management until delivery. At the
+      time of readmission, both treatment and control arms will receive fetal neuroprotective
+      magnesium sulfate (6 gram loading dose, 6g in 100mL in-fused over 15- 20 minutes, followed by
+      maintenance dose of 2g/hour at rate of 50mls/hr of 20g/500mL for a minimum of 12 hours),
+      betamethasone course for fetal lung maturity (12mg intramuscular admin-istered every 24 hours
+      for total of two doses), and latency antibiotics (a single dose of azithromycin 1g orally
+      with 48-hour course of ampicillin 2g intravenously every 6 hours followed by amoxicillin
+      500mg orally every 9 hours for 5 days) as guided by current standard of care practices.
+      Duration of treatment with magnesium sulfate will be standardized to a total of 12 hours on
+      readmission and a plan for restart of medication if delivery is felt to imminent and at a
+      gestational age of less than 34 weeks. While subjects are receiving magnesium sulfate,
+      routine evaluations to assess for signs of magnesium toxicity will be performed as is
+      outlined in the hospital policy regarding magnesium administration in pregnancy. Briefly this
+      includes monitoring for signs and symptoms of magnesium overdose and therapy with calcium
+      gluconate as need for magnesium toxicity.
+
+      Other orders to be instituted at the time of readmission include a repeat culture of urine,
+      complete blood cell count, Maternal Fetal Medicine consultation, fetal ultrasound, regular
+      diet, IV with saline lock, bed rest with bathroom privileges and fetal non-stress testing
+      twice per day. Obstetric ultra-sounds will be repeated by the Maternal-Fetal medicine
+      specialists within 24 hours of readmission and at least once every 7 days till delivery is
+      indicated.
+
+      A rescue course of betamethasone (single dose of 12mg intramuscularly) will be administered
+      if the subject does not deliver within 14 days of completion of the initial 2-dose course of
+      betamethasone and if delivery is suspected within the next seven days.
+
+      Delivery following readmission will be at the discretion of the attending obstetrician in
+      regards to evidence of maternal or fetal infection, labor, non-reassuring fetal assessment or
+      placental abruption in addition to any other standard indication for delivery (ie.,
+      pre-eclampsia) or if patient reaches 34 0/7 weeks gestational age. Route of delivery will be
+      determined by routine obstetrical indications.
+
+      All investigational products (study drugs) will be stored under appropriate storage
+      conditions in a secure area according to local regulations. The investigator is responsible
+      for ensuring that it is dispensed only to study subjects and only from official study sites
+      by authorized personnel, as dictated by local regulations. The investigator is responsible
+      for ensuring that the investigational product is stored under the appropriate environmental
+      conditions (temperature, light, and humidity), as noted in the product labeling. Labels will
+      be prepared in accordance with Good Manufacturing Practice (GMP) and local regulatory
+      guidelines for labeling.
+    
+  

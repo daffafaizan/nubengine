@@ -1,0 +1,65 @@
+
+    
+      BACKGROUND - Abdominal aortic aneurysm (AAA) rupture is the 13th cause of death in North
+      America. The indications for a procedure to prevent rupture are based on AAA maximal
+      diameter. However, it is a dichotomic criteria leading to under or over estimation of rupture
+      risk. Biomechanics based criteria have been investigated using Finite Elements Analysis
+      (FEA). The limitation of FEA is the absence of patient specific biomechanical information.
+      Our team have previously developped a technique to map in-vivo the strain of AAAs, named
+      non-invasive vascular elastography by ultrasound (NIVE). However, it relies on 2D ultrasound
+      series, whereas new matrix- array probes allow a 3D mapping of the strain at a lower temporal
+      resolution. We propose to create a 3D mapping of AAA strain with 3D ultrasound and register
+      the strain mapping on a single phase CT.
+
+      In the project, we plan to acquire multi-modal imaging from 30 AAA patients scheduled for an
+      elective repair will be recruited. A 3D NIVE examination and multiphase CT will be performed
+      on each patient within less than one month of their surgery. A portion of the AAA wall will
+      be harvested during surgery to correlate strains with tensile tests and histology. Following
+      the implementation of NIVE processing and 3D registration, the NIVE and multiphase CT strain
+      values will be calculated and if necessary controlled for the measurement of blood pressure,
+      AAA maximal diameter, calcium load, gender and age. A FEA model developed at U of Calgary
+      will be personalized using the calculation of in-vivo strains. Comparison of strain
+      measurement between NIVE and multiphase CT, correlation of strain measurements and
+      personalized FEA with AAA growth will constitute secondary endpoints. Following the complete
+      validation of this personalized model, we anticipate this will provide predictive biomarkers
+      for AAA vulnerability.
+
+      OBJECTIVES - Primary objectives: 1. Acquire a multimodal image dataset (multiphase CT, 3D US)
+      from 30 AAA patients undergoing repair surgery (phase 1); 2. Optimize and validate in vitro
+      the NIVE acquisition protocol and the image registration algorithm between NIVE and one phase
+      of the multiphase CT (phase 1); 3. Compare the principal strain distribution assessed with 3D
+      NIVE registered on conventional CT and those imaged with multiphase CT acquisition (phase 1);
+      4. Validate both approaches with histology and tensile test on AAA samples (phase 2).
+
+      Main hypothesis: Strain maps with 3D NIVE registered on single phase CT provide an accurate
+      in-vivo estimation of AAA wall strength and yield similar accuracy to strain from multiphase
+      CT to assess AAA vulnerability.
+
+      METHODOLOGY ** Phase 1 only will be done for the moment** - Design: We plan a prospective
+      study involving 30 AAA patients scheduled for elective open repair. For the phase 1 of the
+      study, we will perform in all patients a NIVE examination and multiphase CT within less than
+      one month of their surgery. For the phase 2 of the study, patient undergoing open surgery
+      will be recruited. A portion of the AAA wall will be harvested during surgery (outside of
+      scope of the pilot study) in order to perform biaxial tensile tests and histology
+      examination. Patients will be recruited at the Centre hospitalier de l'Université de Montréal
+      (CHUM) and Glen campus McGill University.
+
+      Data analysis: Spearman correlation, accuracy evaluated by mean error and standard deviation,
+      intraclass correlation coefficient, Bland-Altmann analysis, mixed linear model to evaluate
+      the influence of sex, MaxD, pulse pressure, calcification score on strain (NIVE, multiphase
+      CT) measurements.
+
+      RATIONALE AND IMPACT - Ruptured AAA (rAAA) is a life-threatening situation which is the 13th
+      mortality cause in USA. Endovascular aneurysm repair (EVAR) is often preferred for rAAA for
+      its lower morbidity and mortality as compared with OR (1.6 versus 5%). But these data show
+      the maximal diameter/rupture relationship to be nonlinear and inaccurate to predict rupture.
+      New imaging biomarkers to predict AAA growth and rupture are therefore needed. There is also
+      a need to personalize the tissue modeling with in vivo assessment of AAA wall strain to
+      improve prediction of AAA rupture or growth. At the end of the study, we anticipate to have
+      complete validation of this non-invasive assessment of AAA wall vulnerability using US-CT
+      fusion,that will constitute the basis of a personalized assessment of AAA vulnerability. The
+      strain mapping can be used to improve patient selection or be incorporated in a FEA model.
+      Our personalized predictive model will also be useful for EVAR procedure simulation, planning
+      and guidance.
+    
+  

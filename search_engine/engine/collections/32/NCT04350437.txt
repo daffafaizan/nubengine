@@ -1,0 +1,58 @@
+
+    
+      the objective is to create a database registry documenting the induction of labor (IOL)
+      process and apply machine learning tools to create a more precise assessment score for
+      doctors as a contemporary follow-up method.
+
+      we will collect data from at least 12 centers worldwide describing the course, outcomes,
+      maternal or fetal complications, and any related data. The data will be collected after
+      ethical approval and from consenting patients in a prospective manner. during the period from
+      July 1st, 2020 to June 30th, 2021 (anticipated dates).
+
+      each center will be responsible for quality assessment, data collection, and ensuring the
+      data is accurate, complete, and representative.
+
+      Data collection includes baseline pelvic examination (cervical position, consistency,
+      dilation, effacement, fetal position, and bishop score), method of induction and their time
+      of administration in relation to index time (start of IOL), findings and time of serial
+      pelvic examinations, fetal heart tone, and maternal vital signs. The entry of data from
+      serial examinations will continue during active labor and fetal and maternal outcomes will be
+      reported. If the diagnosis of failed IOL is made and obstetric team decides delivery by
+      Cesarean section, criteria of diagnosis/indication of Cesarean delivery will be reported.
+      Length of active labor and the second stage will be documented, and maternal/perinatal
+      complications will be reported. the collectors must ensure patient confidentiality and
+      safety.
+
+      Inclusion criteria:-
+
+        -  Pregnant women admitted for IOL, aged between 18 to 40 years
+
+        -  Term or late preterm pregnancy (gestational age at 34 weeks or beyond)
+
+        -  A reassuring fetal heart tracing prior to IOL
+
+      Exclusion criteria:-
+
+        -  Fetal growth restriction with abnormal Doppler indices
+
+        -  Intrauterine fetal death
+
+        -  Suspected intra-amniotic infection prior to IOL
+
+        -  Fetal major congenital anomalies
+
+        -  Patients who decline IOL in prior or during IOL without medical indication
+
+      statistical analysis :- Data will be described using (mean, median, standard deviation,
+      range) in the final sample. Machine learning method is superior to traditional statistical
+      methods as it provides robust and automatic estimation of complex relationships between
+      different variables and clinical outcomes. Data will be utilized as xi and yi where xi
+      presents input (features) and yi presents dependent variables (outcomes). Functional
+      regression is based on support vector machine by regressing the outcomes yi on inputs xi.
+      Model Validation will be performed via bootstrap estimation to evaluate the predictive
+      ability of the functional regression models. Data will be split to training data
+      (approximately 63% of the data) to create prediction model where bootstrapping will be
+      applied, and testing data where prediction model will be validated. Machine learning models
+      will be created using python 3.8.
+    
+  

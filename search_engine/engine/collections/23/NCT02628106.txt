@@ -1,0 +1,17 @@
+
+    
+      R2* maps were calculated using the in-house software in Matlab (version 7.0, The MathWorks,
+      Inc., Cambridge, MA, USA) on a pixel-by-pixel basis by fitting㏑(signal intensity) versus echo
+      time. The R2* map was windowed from 0 to 60 s-1.
+
+      Regions of interest (ROIs) with unfixed size (7 to 53 pixels) were defined at the upper,
+      middle and lower poles of both kidneys in the medulla and cortex in the renal hilum plane
+      based on the anatomical images. Three ROIs were placed in the medulla and cortex,
+      respectively, carefully avoiding vessels, renal sinus and susceptibility artifacts, yielding
+      a total of 6 ROIs in both kidneys. The values in each ROI were averaged for the bilateral
+      cortex and medulla. To prevent significant bias from measurement variability, each sample was
+      measured independently by three professional radiologists with more than 5 years of
+      experience who were blinded to the clinical results. Thereafter, assuming the tests were
+      coincident, the results were the averaged.
+    
+  

@@ -1,0 +1,27 @@
+
+    
+      By innovatively integrating the 3D motion tracking with 3D immersive virtual reality (VR),
+      the real-time user interaction and simultaneous motion tracking and analysis in the immersive
+      VR environment were made possible. We now propose to customize this technology for
+      telerehabilitation. The ultimate goal is to build a VR-based interactive tele-rehab system
+      that is patient-centered, with augmented feedback and tele-presence of therapist to assist
+      rehabilitative exercises and recovery of motor functions in both real and virtual
+      environment. To achieve this goal, we are specifically tackling three problems.
+
+        -  1: Cross validating the precision of motion data captured in VR. We will modify our
+           current software (Unity-based) so that it can work simultaneous with two motion tracking
+           systems (Optical tracking and Magnetic tracking) to capture motion data in a 3D VR
+           environment. The recorded data in our software will be compared and correlated with
+           those data recorded by the two motion tracking systems in 3D for examination of
+           accuracy.
+
+        -  2: Building and testing the network code for remote data transmission and interaction.
+           We will write network code to enable the remote transmission of motion tracking data
+           between two sites. The latency of data transmission will be tested to determine the
+           minimum speed of internet for implementing such a tele-rehab system.
+
+        -  3: Designing and implementing a VR interaction task for remote monitoring and diagnosis.
+           A 3D interactive VR task will be built for real-time local interaction and the remote
+           monitoring, assessment and intervention.
+    
+  

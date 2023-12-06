@@ -1,0 +1,42 @@
+
+    
+      Hyperglycaemia is commonly found in critically ill patients. The stress of critical illness
+      induces glucose counterregulatory hormones and a number of alterations in carbohydrate
+      metabolism, including increased peripheral glucose demands, enhanced hepatic glucose
+      production, insulin resistance and relative insulin deficiency. Moreover, clinical
+      interventions, such as corticoids, vasopressors, and enteral or parenteral nutrition, further
+      predispose these patients to elevated blood glucose levels. In patients in intensive care as
+      well as in general hospital settings patients with hyperglycemia have higher mortality rates.
+      Recent studies demonstrated that tight blood glucose control in ICU patients results in a
+      significant better outcome for the patients.
+
+      Based on this emerging clinical evidence, there are increasing efforts world-wide to maintain
+      strict glycaemic control in critically ill patients. However, achieving this goal requires
+      extensive nursing efforts, including frequent bedside glucose monitoring and the
+      implementation of complex intensive insulin infusion protocols and such increased work
+      demands may not be readily accepted by a busy ICU nursing staff.
+
+      The development of a closed loop control system that automatically infuses insulin on the
+      basis of glucose measurements could permit strict glycaemic control and improve clinical
+      outcome without increasing workload of the ICU nursing staff. The EU founded project CLINICIP
+      (Closed Loop Infusion in Critically ill patients) aims to develop a low-risk monitoring and
+      control system which allows maintaining metabolic control in intensive care units. As a first
+      step a local bedside semi-closed system will be developed. Based on arterial spot
+      measurement, an adaptive control algorithm will generate advice and thus represent a decision
+      supporting system for the ICU nursing staff. This control algorithm was adapted for patients
+      in the ICU. The first study using this algorithm was performed at the Medical University
+      Hospital in Graz. In all six patients, who were included in this feasibility trial, blood
+      glucose levels could be normalised and maintained in the narrow target range for up to 24
+      hours without a single hypoglycaemic episode. Subsequently, the algorithm was tested in a
+      multicentric randomized controlled trial setting and showed superiority by means of a reduced
+      number of hypoglycaemic events and a higher percentage of glucose values within the target
+      range as compared to routine care glucose management protocols. In this study it was a fact
+      that the hourly sampling frequency in the algorithm group has positively influenced the
+      outcome in the algorithm group. Therefore in an enhanced version of the algorithm (eMPC) the
+      sampling interval is expanded up to 240 min.
+
+      The purpose of this study is to evaluate the feasibility of this enhanced model predictive
+      control algorithm for glycaemic control in critically ill patients compared to routine
+      treatment.
+    
+  

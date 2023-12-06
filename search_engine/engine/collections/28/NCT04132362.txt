@@ -1,0 +1,178 @@
+
+    
+      This research will adopt a mixed methods design for the study involving both quantitative and
+      qualitative data collected and analysed simultaneously, then compared or related and
+      interpreted.
+
+      Up to 10 participating care homes will be selected by Quantum Care Home Group in line with
+      the inclusion/exclusion criteria. A total of 80 participating residents living with dementia,
+      80 informal carers and 20 care home staff will be selected from the participating care homes.
+
+      This study will explore:
+
+        1. The most effective and efficient methods for creating personalised playlists, including
+           developing automated approaches, using technology (e.g. Apps and music recommendation
+           algorithms).
+
+        2. The most easy-to-implement delivery methods for delivering personalised music to
+           residents in care homes.
+
+        3. The most effective ways to assess responses to personalised music from people with
+           dementia, including trialling automated analysis of changes in facial expression in
+           video footage.
+
+        4. Initial impressions of whether factors such as timing of listening affect the observed
+           impacts of listening to personalised music or whether listening prior to difficult care
+           events appears to be beneficial (e.g. dressing, washing, toileting, sundowning, etc.).
+
+      A personalised playlist of about 100 songs will be created using responses to the music
+      preferences questionnaire provided by the resident and their informal
+      carer/Consultee/attorney (or paid carer). These questionnaires will be provided by the
+      research team to the potential participants, identified by care home staff, together with the
+      information pack and consent forms.
+
+      A music listening session will be arranged where the resident and their informal
+      carer/Consultee/attorney will be played 30 seconds excerpts of each of the tracks (in 15
+      minute blocks over a period of up to 1 hour). The resident will be asked to wear a monitor on
+      their wrist, similar to a watch, in order to monitor movement and pulse rate. The session
+      will be filmed to enable analysis of emotional responses to music using machine learning
+      analysis of changes in facial expression, as well as directly observed movements of hands,
+      feet and/ or head. Where necessary the music listening session can be split into multiple
+      shorter sessions to accommodate resident or care home requirements. Responses to the 30
+      second excerpts will be used to generate a refined personalised playlist for each
+      participant, anticipated to be between 10 and 20 tracks.
+
+      The refined personalised playlists will be played to residents in music listening sessions
+      throughout the duration of the study. How long music is played for and how frequently will,
+      for the feasibility study, be determined by the resident, care home staff and/or informal
+      carers. Different delivery methods for delivering personalised music will be tested including
+      use of wireless headphones, smart speakers or other wireless speakers and their effectiveness
+      and ease of use assessed through feedback from residents and focus groups and interviews with
+      informal carers and care home staff. Duration and frequency of music listening sessions will,
+      where possible, be logged through the listening history in the music app used and/or through
+      data recorded by care home staff or informal carers.
+
+      A short training session will be provided in each participating care home to train staff and
+      informal carers on delivering personalised music listening and collecting observational data
+      (e.g. on timing of listening and observed effects on mood and behaviour). Fidelity,
+      acceptability and appropriateness of the interventions will be assessed by the research team
+      through the observation of selected personalised music listening sessions.
+
+      Approaches to assessing responses to the music that will be used include analysis of facial
+      expression changes and movement in video footage, heart rate changes and qualitative
+      information provided in reports from a member of the research team, residents, care home
+      staff and/or informal carers. Impacts on well-being of residents over time will be assessed
+      using scores derived from inventories for behavioural and psychological symptom assessment as
+      a proxy, e.g. The Neuropsychiatric Inventory Nursing Home Version (NPI-NH), including for
+      depression/apathy and anxiety/agitation. The Health-Related Quality of Life Measure for
+      people living with dementia (DEMQOL) and DEMQOL-Proxy (administered with the informal
+      carer/Consultee) will also be completed. It is expected that these tools will be used before
+      the intervention and between 1 and 3 further times for each resident participant at
+      appropriate intervals during the period of the study.
+
+      For this study the use of qualitative and quantitative assessment tools is for the purpose of
+      developing and testing the appropriateness of personalised music listening and assessment
+      methodologies rather than to draw conclusions about efficacy or otherwise of the intervention
+      itself (which would be the subject of further studies subject to subsequent ethical
+      approval). The quantitative data generated, therefore will only be used to supplement
+      qualitative assessments to help infer/indicate factors for further investigation in
+      subsequent feasibility studies and a longer-term larger scale intervention study i.e. to
+      inform the design of those studies. Therefore, in this feasibility study, analysis of the
+      quantitative measures is not intended to produce statistically significant data (the
+      statistics involved will be mostly descriptive and, in some cases, inferential). Together
+      with subsequent feasibility studies, it is intended to inform the design of the larger scale
+      intervention study in which the sample size will be calculated to produce statistically
+      significant results.
+
+      The study will trial the use of facial expression change through automated analysis of video
+      footage. The initial pilot showed a strong correlation between the scores, indicating that,
+      after further calibration, absolute thresholds can be derived to classify a track as either
+      high or low response. Deep-learning facial expression change analysis will be developed to
+      determine the feasibility or otherwise of using automated analysis of facial expression
+      change in video footage. This will involve:
+
+        -  Acquiring videos at 30 frames per second while music is played, extracting 1 image per
+           second and generating 3 features for each.
+
+        -  Performing face detection using Microsoft Azure Cognitive Services Application
+           Programming Interface (API) and extracting an emotion score from the facial expression
+           in 8 categories: anger, contempt, disgust, fear, happiness, neutral, sadness, and
+           surprise. The research team will then form a secondary score based on a linear
+           combination of these expressions and assign it to each frame.
+
+        -  The research team will then aggregate the values of all frames acquired while a track
+           was played to form a total response score by assigning different weights to the frames
+           and deriving first-order statistics from the resulting distribution. The researchers can
+           then compare the scores to subjective observation.
+
+      The views of care home staff and informal carers/Consultees/attorneys about the intervention
+      will be sought throughout the study, via the means of focus group discussions and interviews.
+      These focus group discussions and interviews will be conducted with care home staff and
+      families in order to explore their views of how personalised playlists have an impact on
+      residents including their impressions of the effect of variables such as timing of listening
+      or the impact on difficult care situations. Direct feedback will also be sought from
+      participating residents themselves, where feasible.
+
+      Informed consent for participation will be obtained, including for participation by informal
+      carers/Consultees and care home staff, as well as residents. If anyone participating in the
+      study, in any way indicates that they do not want to take part or in any way indicates that
+      they are unhappy or distressed, then their participation will be paused (e.g. a different
+      track played or a different question asked) and if the distress persists, the session will be
+      stopped.
+
+      Informal carers/Consultees/attorneys will provide qualitative assessments of any benefits or
+      disbenefits to them arising from the impact of personalised music listening on the
+      behavioural and psychological symptoms of their relative/friend (e.g. improving relationship
+      with carers and family). These assessments will be provided through participation in
+      structured focus groups. Informal carers/Consultees/attorneys will participate in up to 3
+      focus groups, conducted by a member of the research team, experienced in qualitative
+      research, once the refined personalised playlist is completed, between 2 and 4 months later
+      and at the conclusion of their participation in the study.
+
+      Care home staff will provide qualitative assessments of any benefits or disbenefits to them
+      arising from the impact of personalised music listening on the behavioural and psychological
+      symptoms of the resident, for example:
+
+        -  improving relationship with carers and family;
+
+        -  improved quality or ease of care provision such as easing of distress caused by
+           difficult care events.; and
+
+        -  ease of incorporation of personalised music therapy into the usual working practices of
+           the care homes.
+
+      These assessments will be provided through participation in structured focus groups. Care
+      home staff will participate in up to 3 focus groups, conducted by a member of the research
+      team, experienced in qualitative research, once the refined personalised playlist is
+      completed, 2-4 months afterwards and at the conclusion of their participation in the study.
+      If the care home staff are unable to participate in a focus group, a semi-structured 1:1
+      interview will be conducted instead.
+
+      As individuals with more severe dementia may lack the capacity to communicate their music
+      preference or emotional responses to listening to music, this study will both:
+
+        -  explore using the outcome measures as an objective way of gauging their preferences and
+           responses by comparing responses measured through biomarkers and subjective assessments
+           given by individuals living with less severe stages of dementia and their carers, family
+           and/or friends; and
+
+        -  work directly with people with advanced dementia who are not able to communicate their
+           music preferences or emotional responses to listening to music, instead gathering such
+           information from their carers, family and/or friends and measuring responses through
+           biomarkers and subjective assessments given by these individuals.
+
+      The eventual larger scale study will explore issues of cost effectiveness, in addition to
+      clinical effectiveness.
+
+      Pilot sub-study: Benefits of personalised music in dementia - a pilot study to investigate
+      mechanisms of action
+
+      12 of the 80 participants (who have capacity to provide informed consent) will be further
+      invited to take part in a pilot sub-study to investigate mechanisms of action.The capacity of
+      residents to give consent will be assessed and documented by care home staff. The
+      participants will be provided with an information sheet about the sub-study, consent forms
+      and an MRI Safety Screen Questionnaire. This pilot study will help develop the mechanistic
+      rationale for a larger scale intervention study to explore the effects of personalised music
+      on behavioural and psychological symptoms in people with dementia.
+    
+  

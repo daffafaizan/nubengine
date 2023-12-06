@@ -1,0 +1,352 @@
+
+    
+      Repetitive Transcranial Magnetic Stimulation (rTMS) is an increasingly common treatment for
+      Major Depressive Disorder (MDD). rTMS applied to dorsolateral prefrontal cortex (DLPFC), the
+      most common treatment target, appears to change neuronal excitability in this region. rTMS
+      also changes function of brain circuits connected to DLPFC. This application proposes an
+      innovative approach to elucidating the mechanism of action (MOA) underlying these circuit
+      changes, using MDD as a significant translational model.
+
+      One form of rTMS, theta burst stimulation (TBS), has particularly strong effects on cortical
+      excitability: intermittent pulsing over left DLPFC (iTBS) increases excitability, while
+      continuous pulsing over right DLPFC (cTBS) reduces excitability. TBS applied to DLPFC alters
+      functional connectivity with the anterior cingulate, medial frontal, and orbitofrontal
+      cortices (ACC, MFC, and OFC); however, the MOA underlying these changes in connectivity is
+      incompletely understood. Pilot data will be obtained for a larger grant application that will
+      test the hypothesis that changes in local excitability underlie the changes in functional
+      connectivity and the therapeutic efficacy of TBS for MDD.
+
+      TBS modulation of cortical excitability may be modulated in turn by the serotonergic (5HT)
+      neurotransmitter system, which is also a key target of classical antidepressant medications.
+      The investigators will use the 5HT transport inhibitor citalopram (CIT), a widely-used
+      clinical antidepressant agent, to investigate the serotonergic modulation of functional
+      connectivity and neurophysiologic measures of excitability.
+
+      Intravenous citalopram hydrochloride has been available for prescription to patients with
+      treatment-refractory major depression and anxiety disorders in most of continental Europe for
+      more than 30 years. In the U.S., it has been used extensively as an investigational drug to
+      study human neurochemistry and in clinical trials for depressive disorders. An IND for the
+      University of Pittsburgh has utilized this compound safely as a research tool for more than
+      10 years (Smith et al., 2009).
+
+      This double-blinded study will recruit 30 subjects diagnosed with Major Depressive Disorder
+      (MDD). Subjects will be randomized to acute (single-dose) citalopram (CIT) 40 mg iv treatment
+      or placebo, counterbalanced and combined with one of two forms of unblinded Transcranial
+      Magnetic Stimulation, i.e., either intermittent Theta Burst Stimulation or continuous Theta
+      Burst Stimulation. Assessments for this study include brain scans, qEEG recordings, and
+      cognitive and mood scales. One citalopram/placebo infusion and 10 TBS treatments will be
+      administered over the course of approximately two weeks.
+
+      Thirty subjects ages 21-55 with a DSM-V diagnosis of MDD will be enrolled in a two-week
+      treatment study. After a baseline diagnostic assessment, all subjects will undergo
+      pretreatment assessment of brain functional connectivity (qEEG and fMRI) and structural
+      connectivity (DTI). They then will be randomized 1:1 to treatment with an intravenous dose of
+      CIT or placebo (PBO), followed by 1:1 randomized assignment to two weeks (10 sessions) of
+      treatment with either iTBS to left or cTBS to right DLPFC (four treatment conditions). The
+      end of Week 2 will constitute the primary endpoint.
+
+      High-density qEEG will be recorded throughout the initial CIT-TBS treatment session using
+      TMS-compatible qEEG. These recordings will be used to assess changes in excitability with
+      CIT/PBO and iTBS/cTBS treatment (i.e., TMS evoked Local Mean Field Power, or LMFP). The
+      investigators will determine whether changes in cortical excitability in DLPFC are modulated
+      by 5HT neurotransmission.
+
+      Next, changes in neuroplasticity in limbic circuits involving DLPFC will be examined, from
+      pretreatment baseline to after the first treatment, and from baseline to the primary
+      endpoint, using functional connectivity measures. qEEG will be used to measure changes in
+      signal synchronization and information flow (i.e., lagged coherence, Granger Causality), as
+      well as location and spread of current sources (LORETA source localization). fMRI will be
+      used to examine resting state network function (BOLD signal). The investigators will test
+      whether changes in excitability measured in the first treatment are correlated with changes
+      in connectivity with the first treatment, as well as over the full course of treatment.
+      Correlation would suggest that excitability may exert a metaplastic effect on functional
+      connectivity in limbic circuits involving DLPFC.
+
+      Finally, the investigators will examine symptom change at the primary endpoint, and determine
+      whether excitability and connectivity changes correlate with symptom improvement. Integrated
+      examination of changes in excitability, immediate and longer-term connectivity, and symptom
+      improvement, will elucidate the MOA of TBS and could lead to strategies to enhance treatment
+      outcomes.
+
+      Clinical diagnosis and assessment. Thirty subjects with a DSM-V diagnosis of MDD established
+      using the Mini International Neuropsychiatric Interview (MINI, version 7.0)
+      (http://www.medical-outcomes.com/index/mini7fororganizations) will be enrolled, with all
+      subjects having depressive symptoms of at least moderate severity as indicated by a 17-item
+      Hamilton Depression Rating Scale [Ham-D17] score > 17 (23 below) will be enrolled. Subjects
+      will undergo clinical assessment using methods similar to those employed in our previous
+      treatment studies using TMS (Leuchter et al., 2015). Subjects will have failed to enter
+      remission with at least two prior antidepressant medications (Sackeim et al., 1990; Vasavada
+      et al., 2016) and must have been free of any medications known to significantly affect brain
+      function for at least ten days prior to enrollment (except fluoxetine, which will require a
+      five-week washout) (Vasavada et al., 2016). Subjects will be excluded if they meet DSM-V
+      criteria for any other current primary Axis I mood, anxiety, or psychotic disorder,
+      depression secondary to a general medical condition, or substance-induced illness. Subjects
+      also will be excluded if they have current suicidal intent or plan, a history of substance
+      abuse or dependence within the past six months (except nicotine and caffeine), Bipolar
+      Disorder or psychotic disorder (lifetime), eating disorder (current or within the past year),
+      Obsessive Compulsive Disorder (lifetime), Post-Traumatic Stress Disorder (PTSD, current or
+      within the past year), medical or neurologic illness that would contraindicate administration
+      of study interventions or complicate interpretation of study results, or have an implanted
+      medical device or metal in their body that would contraindicate an MRI or TMS treatment
+      (Leuchter et al., 2015). Subjects also will be excluded if they have had prior history with
+      IV citalopram. Women who are currently pregnant, not using a medically acceptable means of
+      birth control, or are breastfeeding will be excluded. A urine drug screen will be performed,
+      and subjects with a positive screen for illicit substances will be excluded.
+
+      Mood symptoms will be examined after the first, second, and 10th treatment sessions using the
+      Clinician Global Impressions-Severity of Illness (CGI-S) and Improvement (CGI-I) (Cohen et
+      al., 2014), and the subject-rated Inventory of Depressive Symptomatology-Self Report (IDS-SR)
+      (Connolly et al., 2012), with symptoms of suicidal ideation assessed using the Columbia-
+      Suicide Severity Rating Scale (C-SSRS) (Cornwell et al., 2012). Assessments at time of entry
+      and exit from the study will include symptom ratings with the Ham-D17 and quality of life and
+      functional status ratings with the Quality of Life Inventory (QOLI) (Dandash et al., 2015).
+      Treatment response at the primary endpoint is defined as a 50% or greater improvement from
+      baseline on the Ham-D17 and remission as a final Ham-D17 score < 7.
+
+      Treatment procedures Citalopram (CIT) and placebo (PBO) infusion. CIT and saline PBO will be
+      administered intravenously using established clinical procedures. A single dose of citalopram
+      40 mg in 60 cc normal saline, or saline PBO, will be delivered intravenously under
+      double-blind conditions via pump over a 40-minute period. Blood will be drawn at the
+      conclusion of infusion to obtain a plasma sample for CIT levels. Subjects will be fasting
+      after midnight or for a minimum of 8 hours prior to undergoing infusion. Vital sign
+      monitoring will include blood pressure, pulse oximetry, and respiratory rate recording every
+      3 minutes and a continuous cardiac rhythm strip. A change of greater than 25% increase in
+      heart rate or blood pressure from baseline or absolute increase in heart rate above 120 bpm
+      or systolic blood pressure ≥ 180 mm Hg or diastolic blood pressure ≥ 105 mm Hg sustained from
+      more than 2 minutes will prompt the immediate discontinuation of double-blind infusion and
+      evaluation for intervention. Similarly, a drop of O2 saturation via pulse oximetry to less
+      than 92% will prompt evaluation of subject, initiate use of nasal cannula O2 at 2 liters/min
+      or rate necessary to return O2 saturation to baseline at room air or greater than 95%. A
+      physician investigator will administer the CIT or PBO infusion, perform subject assessment
+      and direct nursing staff. Mental status monitoring will also occur during double-blind
+      infusion to assess for any untoward behavioral or psychological effects. Subjects will be
+      instructed not to drive for up to 24 hours after infusion and will need to be driven to and
+      from UCLA for the procedure.
+
+      Theta burst transcranial magnetic stimulation (TBS). Stimulation will be performed using a
+      Magstim Rapid2 biphasic stimulator with a figure-8 coil (14 cm width) and 2 T peak field
+      strength. Stimulation percentages are expressed as a proportion of this individual unit's
+      Maximum Stimulator Output (MSO). This unit can generate the theta-burst stimulation patterns
+      at intensities of 45% MSO or below, well within range of most participant's individual motor
+      threshold (MT). To determine MT, the coil will be held mediolaterally over the region of the
+      left motor cortex with the handle pointing backwards and 45° from sagittal midline. This
+      technique induces current roughly perpendicular to the central sulcus. The right first dorsal
+      interosseus muscle (FDI) will be monitored with surface electromyography (5000 Hz). TMS
+      pulses will be delivered in a grid at suprathreshold intensities in order to identify the
+      location which produces the largest, most consistent motor evoked potential (MEP) recorded
+      from the FDI. Intensities at this hotspot will then be lowered 1% with each stimulation. The
+      lowest intensity stimulation that produces peak-to-peak MEP amplitudes >100 μV on at least 5
+      of 10 trials under conditions of gentle activation of the FDI is defined as the active motor
+      threshold (AMT). TBS intensity is then set at 120% AMT.
+
+      TBS consists of three TMS pulses given at 50 Hz, with this triplet repeated at a frequency of
+      5 Hz (every 200 ms) (Huang et al., 2005). 1800 pulses of cTBS will be delivered to the right
+      DLPFC, and an equal number to left DLPFC following the iTBS paradigm of a 2 s train of
+      repeated every 10 s. This number of pulses has been shown to have antidepressant efficacy
+      after two weeks of treatment (Li et al., 2014). Left and right DLPFC will be targeted using
+      the F3 and F4 EEG electrode locations, respectively. This method for magnet placement bears a
+      close relationship to placing the magnet over radiographically defined Broadmann areas (BAs)
+      in DLPFC (i.e., BA46) (Ahdab et al., 2010; Fitzgerald et al., 2009). This approach, widely
+      used in clinical practice, will allow us to easily relate the findings of this project to
+      clinical use. The investigators recognize that this probabilistic method for defining DLPFC
+      may result in some variability of magnet placement relative to underlying neuroanatomy. Given
+      interindividual variability in sulcal and gyral anatomy, however, it may not be possible to
+      reliably identify a specific BA in all subjects, and there is no "gold-standard" method for
+      standardizing neuroanatomic targeting across subjects. The investigators will have digitized
+      surface electrode locations from all subjects, and these locations will be fused with the
+      structural MRI images obtained from each subject at baseline and after the 10th iTBS
+      treatment. This will allow us to utilize neuroanatomic coil placement data as a post-hoc
+      covariate in data analyses (see MRI-EEG image integration below).
+
+      Neurophysiologic recording and analyses. EEG recording. Data will be recorded using the "eego
+      mylab" TMS-compatible EEG system at a sampling rate of 1000 Hz (Advanced Neuro Technology
+      [ANT]; Enschede, Netherlands). Electrodes will be applied using the 64-electrode "WaveGuard"
+      system with sintered Ag/AgCl electrodes mounted in an elastic cap and positioned according to
+      the Extended 10-20 System. The material and shape of the electrodes prevents current loops is
+      designed for minimal DC shifts and optimal stability of the incoming signal during TMS. The
+      cap utilizes active shielding of each lead to limit electric noise. Data are recorded using
+      full-band EEG DC amplifiers that return to physiologic baseline signal level within 10 ms
+      after the end of the TMS pulse. Filters will not be applied during data acquisition, and
+      recording will be performed using a common average reference with impedance kept below 5 kΩ.
+      EOG will be recorded by placing two electrodes above and below the left eye. EEG will be
+      processed off-line in BrainVisionAnalyzer2 (BVA2) (BrainProducts GmbH; Gilching, Germany)
+      with a digital band-pass filter (Butterworth zero-phase shift, 0.5-70 Hz, 12 dB/oct; plus 60
+      Hz notch) before segmenting into 2 s epochs (100 ms pre-stimulus period), detrending, and
+      baseline correction. Data initially will be processed using semi-automated artifact rejection
+      methods previously described including ±100 μV peak-to-peak voltage step gradient or
+      persistent low activity (Leuchter et al., 2012), followed by visual inspection by two
+      independent technicians to eliminate data contaminated by muscle, head, or eye movement
+      artifacts. Adaptive Mixture ICA (AMICA) also will be used to separate out non-brain source
+      processes including eye blinks and saccades, scalp muscle, electrocardiographic artifact, and
+      line noise, increasing signal-to-noise (artifact) ratio and increasing reliability of high
+      frequency (beta and gamma) frequency analyses as well as brain source localization
+      (Bigdely-Shamlo et al., 2013; Delorme et al., 2011).
+
+      Excitability measures. Excitability will be measured using the Local Mean Field Power (LMFP)
+      and Global Mean Field Power (GMFP) methods. Oscillatory voltage amplitude is the principal
+      measurement that directly reflects cortical excitability, and therefore changes in EEG field
+      power are used as the principal indicator of changes in excitability. LMFP can be used as a
+      measure of excitability at the site of TMS stimulation in any region of cortex; GMFP is a
+      measure of global excitability that has been used to study a number of non-invasive
+      neuromodulation treatments (Casarotto et al., 2013; Chung et al., 2015; Huber et al., 2008;
+      Pellicciari et al., 2013; Romero Lauro et al., 2014). After administration of a local
+      stimulus, a focal change in excitability may come to elicit a global change; as a result,
+      GMFP can be used to interpret LMFP and determine whether a local change in excitability
+      remains focal, or becomes part of a global change in excitability. For the excitability
+      determinations, single TMS pulses will delivered to left or right DLPFC (F3 or F4 electrode
+      location, coinciding with the treatment site) 10 minutes before and after treatment sessions.
+      Given the number of TBS pulses delivered in the protocol, changes in excitability can be
+      expected to remain stable for at least one hour following TBS treatment (Huang et al., 2005).
+      Pulses will be administered at a frequency of 0.25 Hz so that they are sufficiently
+      infrequent so as not affect excitability. During excitability determination, subjects will
+      wear earplugs and a masking noise will be played to reproduce the TMS "click" in time-varying
+      frequency components in order to suppress auditory evoked potentials. TEPs will be computed
+      by averaging valid artifact-free single trials, filtering between 2 and 40 Hz, and performing
+      baseline correction before and after the TMS pulse. LMFP will be calculated from the
+      amplitudes of the TEPs averaged from F3 or F4 and their respective four surrounding
+      electrodes, while GMFP will be calculated from all 64 electrodes. GMFP and LMFP will be
+      calculated in 30 ms time windows following the TMS pulse ranging from the end of the pulse to
+      400 ms (i.e., 0-30 ms, 30-60 ms, 60-90 ms, etc.) so that early and later changes in
+      excitability can be detected. Early time points (< 90 ms) will be used to assess LMFP, and
+      later time points will be used to assess GMFP and spread altered excitability to other
+      cortical regions.
+
+      Regional measures of neurophysiologic activity. Current source density (CSD) in gray matter
+      structures will be calculated using the eLORETA (exact Low Resolution Brain Electromagnetic
+      TomogrAphy) method (http://www.uzh.ch/keyinst/loreta.htm) (Lehmann et al., 2014). eLORETA
+      computes local neurophysiologic activity (Current Source Density, or CSD) as a linear
+      weighted sum of scalp electrical potentials. CSD measurements using eLORETA have been
+      validated as cortical sources of neurophysiologic activity, and obviate the the ambiguity of
+      source localization and the reference-dependence that are inherent in scalp EEG measurements
+      (Lehmann et al., 2014; Pascual-Marqui et al., 2011). The method identifies the smoothest
+      possible distribution of sources in a three-shell spherical head model, consisting of CSD at
+      each of 6239 cortical voxels (plus hippocampus and amygdala) (5 mm spatial resolution) in
+      Montreal Neurological Institute (MNI) space with electrode coordinates assigned according to
+      cross-registration between spherical and realistic head geometry (Towle et al., 1993).
+      Reported Brodmann areas utilize MNI space corrected to coincide with Talairach space (Brett
+      et al., 2002). Regions of interest (ROIs) will be created for subregions of the ACC, OFC,
+      hippocampus, insula, and other cortical ROIs in the limbic system based upon our prior work
+      and the broader literature (Arns et al., 2015; Korb et al., 2008; Korb et al., 2009; Korb et
+      al., 2011; Whitton et al., 2016).
+
+      Neurophysiologic connectivity measures. The investigators will use one primary
+      neurophysiologic measure and several complementary techniques as secondary (exploratory)
+      measures in order to examine baseline and changes in neurophysiologic connectivity. Our
+      primary connectivity measure based upon CSD data will be examined using "lagged" coherence
+      (omitting zero phase angle) based on intracortical source modeling techniques (Lehmann et
+      al., 2014; Pasi et al., 1989). The investigators will identify cortical ROIs throughout the
+      PFC, hippocampus, and amygdala based upon BAs and subcortical probabilistic atlases, and will
+      apply the eLORETA option "all nearest voxels" to assigned voxels to the ROIs. The
+      investigators will use the ROIs identified by eLORETA as showing high activity to seed the
+      connectivity analyses; The investigators anticipate that the primary ROIs of interest will be
+      those with strong connections to DLPFC in the limbic system, including OFC, MFC, ACC,
+      hippocampus, and insula. Lagged coherence represents one of the two main components of
+      neurophysiologic connectivity: instantaneous and lagged. The lagged component is mediated by
+      physiological time delays, with the instantaneous contribution to the connectivity is
+      eliminated. This method selectively retains connectivity due to physiologic processes (for
+      any non-zero, measurable time delay) that is not confounded by low resolution and volume
+      conduction effects (Lehmann et al., 2014).
+
+      Secondary measures also will examine connectivity and cross-frequency coupling in the
+      electrode space using the Source Information Flow Toolbox (SIFT) (Delorme et al., 2011). This
+      method uses time-varying (adaptive) multivariate autoregressive modeling to detect and
+      measure fluctuations in effective connectivity between sources of neural activity. this
+      method is complementary to the lagged coherence method in using advanced multivariate
+      measures of directed information flow (e.g., Granger Causality Modeling and Directed Transfer
+      Function modeling). SIFT functions will be used to examine changes in effective connectivity
+      among the different experimental conditions and between treatment groups, using
+      bootstrap/resampling techniques to correct for multiple comparisons. 'Network Projection',
+      which is an extension of Measure Projection (Bigdely-Shamlo et al., 2013) will be performed
+      using pairwise connectivity to measure input, which is computed by blurring the dipole
+      locations and loading them with connectivity measures. The brain space will then be segmented
+      into 88 pre-defined anatomical ROIs provided by automated anatomical labeling (AAL) obtained
+      from WFU Pick Atlas (which is a SPM plugin). At this point, all the subjects have 88x88
+      matrix of connectivity values, therefore every subject has 7744 (88x88=7744) possible
+      combinations of directed causal flows. Diagnostic condition differences will be computed and
+      bootstrap statistics will be performed for each condition to control for type 1 error.
+
+      MRI scanning and analyses. Structural and functional MRIs including DTI will be acquired
+      using a head-only Siemens Prisma-FIT 3 Tesla scanner at the UCLA Ahmanson-Lovelace Brain
+      Mapping Center. This scanner is the latest Siemens 3T product modeled after the custom made
+      Skyra system originally developed for the Human Connectome Project (HCP). The investigators
+      will utilize the optimized HCP protocols (http://www.humanconnectome.org/) to ensure that the
+      connectivity data are collected and processed with state-of-the-art methods that will be
+      interpretable in the context of other ongoing NIH research. Total scanning time will about
+      one hour.
+
+      Structural MRI (sMRI). A whole brain structural scan will be obtained for registration with
+      EEG data and evaluating morphology (MPRAGE, TR=2300 ms, TE=3 ms, FOV=256 mm, 208 slices, .8 x
+      .8 x .8 mm voxels). The standardized HCP sMRI protocols include both 3D T1- and T2-weighted
+      (T1w and T2w) high resolution scans. Analyzed together, these sequences improve the automated
+      extraction of brain features, though both T1 and T2 scans may also be examined separately.
+
+      Diffusion tensor MRI (DTI). The acquisition of DTI data will be used to measure the
+      structural connectivity of white matter. DTI will be acquired with two diffusion-weighted
+      gradients of b=0 and 1000 s/mm2 in 98 orthogonal directions (TE = 89.2 ms, TR = 3222 ms,
+      FOV=210mm, 92 slices, 1.5 x 1.5 x 1.5 mm voxels). The HCP also uses HARDI (High Angular
+      Resolution Diffusion Imaging) that provides greater precision for mapping the direction of
+      fibers in regions where fibers are crossing and allows for probabilistic tractography to
+      estimate fiber trajectories from ROIs defined with other imaging modalities (sMRI, fMRI, or
+      EEG). These same acquisition protocols will be used for this project.
+
+      Resting-state fMRI (fMRI). fMRI will be used to characterize resting state network function
+      in a manner complementary to EEG. The investigators will use an echo-planar sequence (72
+      axial slices per volume, 104×90 matrix [2.0×2.0×2.0mm3], FOV=208mm, TE = 33.1ms, TR = 720ms,
+      FA = 52°, 420 volumes) to gauge resting-state BOLD signals. The HCP fMRI multiband EPI
+      sequence offers excellent spatial and temporal resolution and contain anterior-posterior and
+      posterior-anterior phase encoding to correct for anatomic distortions.
+
+      MRI image processing. The investigators already have installed the HCP pipeline developed by
+      the Washington University group and have processed HCP-compliant data collected at UCLA using
+      this pipeline, achieving high quality tissue segmentation on the T1w MRI, white matter
+      tractography using HARDI, and resting brain networks based on fMRI. Each pipeline is
+      described separately below.
+
+      Structural MRI. Three HCP pipelines are applied to sMRI (T1w & T2w) data. The PreFreeSurfer
+      pipeline registers T1w and T2w images, performs bias-field correction, and normalizes these
+      images to MNI space. The FreeSurfer pipeline recreates FreeSurfer's reconall pipeline, which
+      segments tissue, reconstructs cortical surfaces, and aligns images to standard volume and
+      surface atlases.
+
+      DTI. The Diffusion Preprocessing pipeline performs standard preprocessing steps using FSL,
+      including equalizing intensity of b0s across runs, removing EPI and eddy-current distortions,
+      correcting for motion and gradient nonlinearities, and registration to T1w images. The
+      investigators perform postprocessing using BrainSuite and its BrainSuite Diffusion Pipeline
+      (BDP) (http://brainsuite.org), which enables us to compute deterministic tractography using
+      the ODF data to generate whole-brain diffusion tracts. The investigators will then compute
+      the average fractional anisotropy (FA), mean diffusivity (MD), radial diffusivity (RD), and
+      number of tracts along the white matter pathways connecting the anatomical ROIs (specific
+      circuits associated with depression, including tracts originating from the subgenual ACC and
+      DLPFC).
+
+      Resting state fMRI. Preprocessing protocols for functional data include two pipelines. The
+      first, fMRIVolume, corrects images for spatial distortions and motion, registers to T1w
+      images, corrects for subject motion, among other standard steps. The fMRISurface pipeline
+      aligns the output of fMRIVolume to cortical surfaces, including mapping onto a "grayordinate"
+      system to facilitate comparison and analyses across subjects. The investigators perform
+      resting state fMRI postprocessing using a novel method that is sensitive to spatial
+      differences between subjects. For graph theoretic analysis of brain networks, The
+      investigators will use independent components computed by ICA as well as structural ROIs
+      based on the Destrieux atlas as nodes, and the connectional relationships between each pair
+      of components will be evaluated by partial correlation analysis. The brain networks will be
+      characterized by network parameters computed from their adjacency matrixes to quantitatively
+      describe topology of networks, including 1) node degree, degree distribution and
+      assortativity; 2) clustering coefficient and motifs; 3) path length and efficiency; 4)
+      connection density or cost; 5) hubs, centrality and robustness; and 5) modularity.
+
+      MRI-EEG image integration. In order to identify the location of the F3 electrode scalp site
+      at which TBS is being delivered into the MRI space, as well as fully integrate the EEG and
+      MRI datasets, The investigators will employ the Advanced Neuro Technology Xensor 3D electrode
+      digitizer system (ANT Neuro; Enschede, Netherlands). This system uses a digitizing wand with
+      reflective markers and an infrared camera to identify the 3D locations of all 64 EEG
+      electrodes and three major fiducials (nasion, left and right preauricular points) for each
+      participant in less than 10 minutes. The 3D digitized locations then are coregistered to the
+      Montreal Neurological Institute (MNI-Colin27) template brain (Montreal Neurological
+      Institute, Montreal, Canada. URL www.bic.mni.mcgill.ca/brainweb). Electrode locations can be
+      used in the Visor 2.0 neuronavigation system (ANT Neuro; Enschede, Netherlands) to visualize
+      the stimulation target and associated scalp site that was actually used during TBS in each
+      individual. After loading each subject's raw MRI images into the Visor software, the
+      relationship of the F3 stimulation site to the DLPFC target, as well as any individual
+      electrode to underlying neuroanatomy, can be identified using the MNI coordinates.
+    
+  

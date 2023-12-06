@@ -1,0 +1,57 @@
+
+    
+      The following study is an exploratory investigation of continuous glucose monitoring based on
+      data from a completed Novo Nordisk A/S clinical trial. Please refer to ClinicalTrials.gov
+      Identifier: NCT02825251.
+
+      Continuous Glucose Monitoring (CGM) provides an interstitial glucose reading every 5 minutes
+      and is thus a powerful and important tool to identify glycaemic variability in people with
+      diabetes. CGM is valuable for people with diabetes to understand their glucose metabolism and
+      it has the potential to be used for detection and prediction of glycaemic excursions, such
+      as, the potentially fatal and inevitable events of hypoglycaemia, or even as a component in
+      the holy grail of diabetes technology; the artificial pancreas.
+
+      However, CGM has been criticised for being inaccurate and unreliable, amongst others, due to
+      the physiological and a device-related delay between plasma glucose (PG) and interstitial
+      glucose (IG). Nevertheless, CGM keeps on being popular and in February 2017 an international
+      consensus was established at the Advanced Technologies & Treatments for Diabetes (ATTD)
+      congress that even considers CGM data as a valuable and meaningful end point to be used in
+      clinical trials of new drugs and devices for diabetes treatment where accuracy is of high
+      importance.
+
+      The above mentioned use cases entail that the CGM data are accurate. Therefore, the first
+      part of this research proposal is to investigate whether the newest state-of-the-art CGM
+      devices used in Novo Nordisk trials are in fact accurate. Based on these results, it is
+      investigated to which degree glycaemic variability can be revealed.
+
+      To investigate the accuracy of CGM, mean absolute relative difference (MARD) will be
+      calculated and presented and the impact of the delay assessed by time shifting CGM
+      measurements. Furthermore, correlation analyses, between for example, PG and first derivative
+      of IG, will be performed to try to understand when CGM devices tend to measure inaccurate.
+      Lastly, machine learning and/or deep learning approaches will be utilised to reveal glycaemic
+      patterns and to detect/predict outcomes, such as, hypoglycaemia.
+
+      Different glycaemic variability investigations will be undertaken:
+
+        -  Test of PG vs IG and effect on clinical research. [analysis of differences]
+
+        -  Correlation between PG values at bedtime and nocturnal hypoglycaemic events [correlation
+           analyses]
+
+        -  Effect of main evening meal and meal-time dose on nocturnal hypoglycaemic events
+           [correlation analyses]
+
+        -  Prediction of PG-confirmed hypoglycaemic events with CGM, dose and meal data as input
+           [machine learning]
+
+        -  The optimal dose and meal distribution and least CGM variability / eHbA1c [machine
+           learning]
+
+        -  Algorithm to suggest optimal dosing in relation to glycaemic variability [machine
+           learning]
+
+      Requested data are demographic, CGM, meal, dose and hypoglycaemia data from the following
+      trial. The analyses are independent of treatment and therefore the treatment arm can be
+      blinded.
+    
+  

@@ -1,0 +1,14 @@
+
+    
+      System identification models relating forearm electromyogram (EMG) signals to phantom wrist
+      radial-ulnar deviation force, pronation-supination moment and/or hand open-close force
+      (EMG-force) are hampered by lack of supervised force/moment output signals in limb-absent
+      subjects. In able-bodied and unilateral transradial limb-absent subjects, we studied three
+      alternative supervised output sources in one degree of freedom (DoF) and 2-DoF target
+      tracking tasks: (1) bilateral tracking with force feedback from the contralateral side
+      (non-dominant for able-bodied/ sound for limb-absent subjects) with the contralateral force
+      as the output, (2) bilateral tracking with force feedback from the contralateral side with
+      the target as the output, and (3) dominant/limb-absent side unilateral target tracking
+      without feedback and the target used as the output.
+    
+  

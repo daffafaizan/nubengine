@@ -1,0 +1,45 @@
+
+    
+      Patients who meet eligibility criteria and consent to participate in the study will be
+      randomly assigned to one of two arms, either the Concussion Coach group, which will receive
+      an iPod touch® with the Concussion Coach "Explorer" version, or into the no mobile app
+      control group. Study personnel will explain the purpose of the study, complete the informed
+      consent process, obtain the random treatment assignment from a randomization sheet, and
+      introduce the participant to his/her baseline evaluator. The random assignment to
+      intervention will be accomplished in blocks within each site. While small block sizes allow
+      intervention group sizes to be very similar it may make the allocation process predictable.
+      Therefore to reduce selection bias and achieve balance across the intervention arms sequence
+      list of individual assignments by random block sizes will be generated.
+
+      Both groups will be assessed in a pre/post intervention design and will be compensated for
+      their time completing study surveys. During the 3 months that they are involved in the study,
+      the intervention group will be sent (via Concussion Coach) reminders to engage with the app
+      on a weekly basis. Their use (e.g., total time spent on each component of the app) will be
+      collected electronically. Both groups will receive care as usual (meaning their regularly
+      scheduled VA appointments and medications). At the completion of the study, both groups will
+      be encouraged to download the App for their own use, with assistance from the study team if
+      needed.
+
+      Description of Intervention & Training The Concussion Coach is designed to provide
+      psychoeducation, self-assessment, and treatment of PCS symptoms following a mild TBI. The PI
+      and three of the co-investigators were co-developers of Concussion Coach. The public-facing
+      Concussion Coach will be available for free download from a public marketplace and available
+      for use with most mobile devices. The application has the advantage of privacy and anonymity,
+      thus addressing the stigma often expressed as a barrier to seeking treatment. A mirror
+      version of the public version, called Concussion Coach "Explorer Version", will be developed
+      within three months and used for this study. Unlike the public version, it will have the
+      capacity to collect usage information, such as length of time spent on each part of the app,
+      self-report ratings of symptoms and distress, and identification of "favorites" among the
+      self-help tools. These data can be uploaded in a de-identified form to a HIPAA compliant
+      server. Other than the ability to collect data, it will be exactly like the "real" Concussion
+      Coach. The Explorer version will be developed by our collaborators, Vertical Product
+      Development, which developed Concussion Coach, PTSD Coach, and PTSD Explorer version.
+      Explorer versions are especially useful as they allow for unobtrusive, highly detailed,
+      real-time data collection without relying on patient self-report. In addition, the Concussion
+      Coach will be an 'opportunistic' exporter of data. It will upload data to the server whenever
+      it has new data and is in a WiFi zone; participants do not have to have a home wireless
+      network. If they never enter a WiFi area, the investigators will collect their data at study
+      termination when the investigators collect the iPod touch®. The investigators will utilize
+      ohmage, an existing open source technology stack, to port the app to the server.
+    
+  

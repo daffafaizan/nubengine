@@ -1,0 +1,30 @@
+
+    
+      Each patient is followed one year with visits at months 1, 3, 6 and 12.
+
+      At each visit, the following data are recorded:
+
+        -  Treatment discontinuation or not. If the treatment was discontinued, reasons for
+           discontinuation
+
+        -  Adverse effects
+
+        -  Lung function (spirometry)
+
+        -  Body mass index
+
+        -  Pulmonary exacerbations (intravenous antibiotics)
+
+        -  Sputum microbiology
+
+        -  Liver enzymes are measured at each visit
+
+      At the initial and 12 visits, a yearly CF examination is proposed to the patients:
+
+        -  Blood tests
+
+        -  Chest CT scans
+
+        -  Body plethysmography
+    
+  

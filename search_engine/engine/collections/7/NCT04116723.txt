@@ -1,0 +1,18 @@
+
+    
+      The designs of flexible brace include: an artificial hinge bone is used to stabilize the
+      corrective components. Corrective straps are attached to the artificial hinge to exert
+      corrective forces onto the scoliotic spine. Semi-rigid silicon pads with high conformability
+      to the body are used to enhance the corrective forces.
+
+      This study is a multi-disciplinary collaborative project with experts in computer science,
+      orthopaedics, materials science, garment technology, engineering and biomechanics. A
+      biomechanical computational model will be developed to recommend modifications to the
+      flexible brace design. The effectiveness of the flexible braces will be evaluated through
+      low-dose X-ray radiography at pre-, post-expert and post-ML designed treatment. A polynomial
+      scoring system will be created to assess the therapeutic similarity of the ML-designed
+      flexible brace to the expert-designed flexible brace based on an estimate of the corrective
+      forces applied through the braces. Reinforcement learning with scores based on estimated
+      pressure force will guide AI training towards superior therapeutic designs.
+    
+  

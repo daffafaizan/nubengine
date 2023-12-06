@@ -1,0 +1,67 @@
+
+    
+      The Vulvar Vestibulitis Clinical Trial (VVCT) is a randomized, placebo-controlled,
+      double-blinded clinical trial to study the clinical efficacy of four medical treatments for
+      vulvar vestibulitis: 1) topical lidocaine, 2) oral desipramine, 3) combined lidocaine and
+      desipramine, and 4) placebo cream and capsules. The duration of study drug will last 12 weeks
+      with post-intervention follow-up at 6 and 12 months. We plan to enroll 128 subjects from the
+      university-based clinical program at the University of Rochester (UR).Primary outcome
+      variable will compare the reported pain of the "Tampon Test" (mean of Weeks -2, -1, and 0),
+      prior to randomization to the reported pain of "Tampon Test" (mean of Weeks 10, 11, and 12).
+      The dependent (primary outcome) variable will be defined as the percent change of mean
+      "Tampon test" pain of Weeks (10, 11, and 12) from Weeks (-2, -1 and 0). The primary analysis
+      of this 2X2 factorial design will involve fitting an Analysis of Covariance (ANCOVA)
+      regression model to the percent change of mean "Tampon test" pain with the two treatment
+      variables as the predictors while adjusting for the covariate age. We will test if the
+      interaction between the two treatments in the ANCOVA model is significant at the .05 level.
+      If the interaction effect is not significant, it will be dropped from the model and the
+      conclusion will be drawn from the model with main effects only. If significant, the model
+      with interactions will be adopted. SAS PROC GLM will be used in the analysis.
+
+      In the case of non-significant interaction, the primary analysis will be based on the ANCOVA
+      model with main effects of treatments and adjusting for age. Since there are two treatments
+      under investigation, the primary analysis will use the Bonferroni correction, i.e. will set
+      alpha level of 0.025 (two-sided) to determine statistical significance. The significance of
+      the main effect of each treatment will be assessed by t-tests in the ANCOVA model. The aim of
+      the primary analysis is to determine whether each treatment is superior to placebo, and if
+      both hypotheses hold, the double treatment therapy will be most effective under the additive
+      effect assumption of the ANCOVA model. The ANCOVA model compares all subjects who receive
+      that treatment with all subjects who do not, irrespective of whether they receive the other
+      treatment, after adjusting for the other treatment and age of subject, and is more powerful
+      in finding individual treatment effects in the study.
+
+      If interaction between treatments is significant, the ANCOVA model with interaction will
+      estimate the treatment effects for each of the four groups. This model is able to test all 6
+      contrasts between the four combinations. A hierarchical (gatekeeping) testing strategy to
+      maintain a family-wise error rate will be adopted as the following: the first stage will
+      compare desipramine or lidocaine individually to placebo with multiplicity-adjusted p-values.
+      If a significant difference (one or both null hypotheses rejected) is found for either or
+      both individual agents, then the analysis will proceed to the second-stage of hypothesis
+      which will compare the effects of the active desipramine/active lidocaine treatment to the
+      double placebo. If a significant difference (null hypothesis rejected) is found for combined
+      therapy over placebo based on the multiplicity-adjusted p-value, then the final (tertiary)
+      stage of comparison will be performed comparing combined therapy to individual therapy. In
+      the hierarchical (gatekeeping) testing procedures, inferences in each stage depend on the
+      acceptance or rejection of null hypotheses in all previously stages, and each stage serves as
+      a gatekeeper for the stages later in the sequence. In our strategy for the model with
+      significant interaction effect, if at least one hypothesis has been rejected, then the next
+      stage of hypotheses will be tested, and the family-wise error rate is controlled at the .05
+      level.
+
+      Secondary analyses will include subset analysis, comparison of the double-active treatment
+      group against the others (placebo and the single-treatment groups) on percent change of mean
+      "Tampon test" as well as standardized pain measures such as the Brief Pain Inventory and the
+      McGill Pain Questionnaire. This is to explore if the active desipramine/active lidocaine
+      treatment has more advantages that may not be shown in the ANCOVA model. The secondary
+      analysis is to explore supportive evidence to the primary objective of this trial, and no
+      confirmatory conclusions are needed. In the secondary analysis, confidence intervals and
+      statistical tests are of exploratory nature and no claims are intended.
+
+      Primary and secondary outcome variables will be analyzed according to a modified "intention
+      to treat" with "last observation carried forward". The sample analyzed for the primary
+      outcome will include the first three or fewer pre-randomization Tampon Test measures and the
+      last three or fewer post-randomization Tampon Test measures, up to and including study Week
+      12. The subject sample analyzed for drug safety/side effects will include all subjects who
+      have taken at least one dose of study drug.
+    
+  

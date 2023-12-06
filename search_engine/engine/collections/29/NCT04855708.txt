@@ -1,0 +1,79 @@
+
+    
+      This is a two arm, randomized non-inferiority clinical trial that will take place within the
+      Minimally Invasive Gynecologic Surgery division in the Women's Health Institute of the
+      Cleveland Clinic, Cleveland, OH.
+
+      Population - The Investigators will recruit patients undergoing benign minimally invasive
+      hysterectomy (laparoscopic, robotic, and vaginal). Inclusion criteria include patients >18
+      years of age who are able to provide informed consent without assistance, speak English, and
+      who have access to a phone or device equipped for virtual visits. Patients will be excluded
+      if the staff surgeon determines they are inappropriate for virtual follow-up, if there is
+      suspicion of malignancy, if they are unable to provide consent, or if they do not have access
+      to technology that enables virtual visits.
+
+      Recruitment - Enrolled participants will be randomized to either a two-week virtual
+      postoperative visit with a certified nurse practitioner (CNP) or a two-week in-office
+      postoperative visit with a certified nurse practitioner (CNP) in a 1:1 allocation ratio.
+      Block randomizations with block size of 4 will be assigned to nurse providers independently.
+      Randomization schedules will be implemented by Redcap.
+
+      Data collection - The primary outcome of this study is patient satisfaction, as measured by
+      the Press Ganey Medical Practice Survey and Medical Practice Telemedicine Survey. These
+      questionnaires are currently sent to all patients by the Office of Patient Experience at our
+      institution four days after their postoperative appointment. The investigators will provide
+      verbal reminders about study participation and survey administration at the visit. Survey
+      data will be obtained through the Office of Patient Experience and imported into RedCap. The
+      secondary outcome is a new diagnosis of a postoperative complication requiring medical
+      treatment (e.g. calling in of a prescription), an office visit with a CNP or MIGS surgeon, or
+      an urgent care or ER visit. Complications include infection (urinary, pulmonary, wound,
+      pelvic abscess, and bloodstream); thromboembolic events; bleeding; and issues with wound
+      healing, such as dehiscence. Calvien-Dindo classification system for postoperative
+      complications will be used. The Investigators will also look at no-show rates, visit times,
+      and travel distance.
+
+      The investigators will collect basic demographic information from the EMR, including age,
+      BMI, parity, and prior surgical history. Surgical indication, procedure performed, length of
+      hospital stay, and perioperative outcomes (reoperation, readmission, unscheduled office or
+      virtual visits (i.e. earlier than the scheduled 2 week visit), ED/urgent care visits,
+      infection rates) will also be obtained. No-show rates will be obtained through the EMR. The
+      investigators will also note if a planned virtual visit is unable to be completed due to
+      technical difficulties, or is converted to a telephone visit. Travel distance from home to
+      clinic site will be calculated using average travel time with minimal traffic based on
+      participant's zip code using Google Maps.
+
+      The investigators will collect the reason for ineligibility for all patients deemed such by
+      staff surgeons. All participants will be assigned a study number to facilitate
+      de-identification of data. Data will be compiled in RedCap and securely stored on an
+      encrypted server.
+
+      Statistical analysis
+
+      Power Calculation:
+
+      The Investigators hypothesized that patient satisfaction would be non-inferior for patients
+      randomized to the postoperative virtual visit compared to those randomized to in-person
+      virtual visit. Sample size of 70 patients in each arm is needed to achieve 90% power to
+      detect a non-inferiority margin of -0.20. Allowing for a dropout rate of 20%, 88 patients
+      will be recruited in each arm.
+
+      Analysis plan:
+
+      For the primary outcome, the Farrington-Manning score test for non-inferiority will be
+      performed, for both intention-to-treat and per-protocol analyses. Approximately
+      normally-distributed continuous measures will be summarized using means and standard
+      deviations and will be compared using two-sample t-tests. Continuous measures that show
+      departure from normality and ordinal measures will be summarized using medians and quartiles
+      and will be compared using Wilcoxon rank sum tests. Categorical factors will be summarized
+      using frequencies and percentages and will be compared using Pearson's chi-square tests or
+      Fisher's exact tests.
+
+      All analyses will be done using SAS (version 9.4, The SAS Institute, Cary, NC) and a p < 0.05
+      will be considered statistically significant.
+
+      Study Timeline:
+
+      The MIGS division performs at least 20-30 hysterectomies per month. The Investigators
+      estimate to achieve our target recruitment in 7-8 months.
+    
+  

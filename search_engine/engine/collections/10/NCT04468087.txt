@@ -1,0 +1,170 @@
+
+    
+      We have planned an randomized, adaptive, placebo-controlled, double-blind study to be carried
+      out in 3 seamless stages. The first two stages are phase 2 studies with a third stage phase 3
+      to be conducted conditional to success of the first phase 2 and second phase 2 stages
+      including efficacy and safety.
+
+      In particular, there is great interest in the possibility of combining the phase II and phase
+      III stages of the development process and this is the focus here. Phase II trials can be
+      thought of as part of the learning stage where dose selection and appropriate treatment
+      groups are assessed together with initial indications of their effects. Phase III trials are
+      usually more confirmatory in nature where the treatment effects of the selected treatments
+      are assessed in a full-scale trial. Seamless phase II/III trials are concerned with combining
+      these two aspects into a single trial. There are a clearly advantages of speed in that the
+      dose selection and treatment effects are assessed within a single trial rather than
+      establishing separate trials. In addition, all data available for the selected dose are used
+      in the analysis rather than just those from the second stage with a consequent gain in power.
+      The savings in the number of patients is achieved by applying a form of screening of
+      competing treatments in the initial phase and abandoning those that are ineffective before
+      the end of the study following pre-established premises of futility. Effect estimates,
+      confidence intervals and p values need some statistical adjustments to allow for this,
+      otherwise they will be biased towards a benefit of the treatment. This study design, starting
+      with a phase II, could give us a treatment regimen composed of one or more repurposed
+      antivirals drugs that could improve the clinical outcomes of those hospitalized with COVID-19
+      reducing time to recovery and the need for respiratory support. It will be conducted in about
+      60 Brazilian hospitals.
+
+      Selection of drugs rationale
+
+        -  Atazanavir: Atazanavir is a potent inhibitor of HIV-1 protease and is not associated
+           with significant dyslipidemia, as observed with other protease inhibitors.15 It was
+           approved by the FDA on January 29, 201516,17 as a combination of atazanavir and
+           cobicistat. Atazanavir can also be combined with ritonavir18 In a protease-free cell
+           assay, atazanavir blocked the major protease activity of SARS-Cov-2 at a concentration
+           of 10 μM. In in vitro models of viral infection/replication performed on Vero cells, a
+           human pulmonary epithelial cell line and primary human monocytes, atazanavir inhibited
+           SARS-CoV-2 replication; in addition, the concentrations of interleukin 6 (IL-6) and
+           tumor necrosis factor type alpha (TNF-α) induced by the virus were reduced.10 Currently,
+           no clinical study is registered on the ClinicalTrials.com website to assess the effects
+           of atazanavir in the context of COVID-19.
+
+        -  Daclastavir: Daclatasvir is a direct-acting antiviral that inhibits HCV replication by
+           binding to the N- terminal of the NS5A protein, affecting viral RNA replication. NS5A is
+           a multifunctional protein in the HCV replicative cycle, involved in the enrollment of
+           cell lipid bodies, RNA binding and replication, protein phosphorylation, cell signaling
+           and antagonism of interferon pathways.19 In an in vitro study, daclatasvir consistently
+           inhibited the production of SARS-CoV-2 infectious particles in Vero cells, in the HuH-7
+           cell line and in Calu-3 cells, with potencies of 0.8, 0.6 and 1.1 μM, respectively.
+           Daclatasvir reached early events during the replication cycle of SARS-CoV-2 and
+           prevented the induction of IL-6 and TNF-α, inflammatory mediators associated with the
+           cytokine storm typical of SARS-CoV-2 infection.20
+
+        -  Sofosbuvir/daclastavir:
+
+      Sofosbuvir (SOVALDI®) is a nucleotide analog directed against HCV NS5B polymerase, clinically
+      approved with potent antiviral effects on the hepatitis C virus with several genotypes21. It
+      is proposed that the drug could be a potential option in the treatment of COVID-19 especially
+      at the beginning of the disease and before the invasion of the virus in the cells of the lung
+      parenchyma, based on the similarity between the replication mechanisms of HCV and
+      coronavirus22. In vitro, sofosbuvir showed EC50 values of 6.2 and 9.5 µM in HuH-7 (hepatoma)
+      and Calu-3 (type II pneumocytes) cells respectively, although inactive in Vero cells (these
+      cells are unable to make this conversion sofosbuvir in the pro-drug to active form)11.
+
+      First stage - will have 6 arms with total treatment for 10 days:
+
+      First stage Phase II - 6 arms
+
+        1. Atazanavir (ATV)
+
+        2. Daclatasvir (DCV)
+
+        3. Sofusbuvir+Daclatasvir (SFV/DCV)
+
+      6. Placebo (PbO) ATV 7. (PbO) DCV 8. (PbO) SFV/DCV
+
+      Second stage Phase II - 4 arms:
+
+        1. Best from first stage
+
+        2. Best from first stage + Second best
+
+        3. PbO Best from first stage;
+
+        4. PbO Best from first stage + Pbo Second best
+
+      Phase III - 2 arms:
+
+        1. Best from phase II second stage
+
+        2. (PbO) Best from phase 2 second stage
+
+      Main questions: The aim of the Coalition IX REVOLUTIOn evaluation is to answer the following
+      questions:
+
+        -  Are antiviral candidates (atazavir, daclatasvir/sofosbuvir) able to reduce the viral
+           load of SARS-CoV-2 compared to placebo in patients hospitalized with COVID-19 with ≤ 7
+           days of symptoms?
+
+        -  Which antiviral alone has the best effect in reducing the viral load of SARS-CoV-2 in
+           patients hospitalized with COVID-19 with ≤ 7 days of symptoms? And which is the second
+           most effective?
+
+        -  Are combined antiviral candidates able to reduce the viral load of SARS-CoV-2 compared
+           to antiviral alone and placebo in patients hospitalized with COVID-19 with ≤ 7 days of
+           symptoms?
+
+        -  Are isolated or combined antiviral candidates safe compared to placebo?
+
+        -  Does the antiviral candidate alone or in combination improve clinical outcomes (days
+           free of respiratory support in 15 days) compared with placebo in patients hospitalized
+           with COVID-19 with ≤ 7 days of symptoms?
+
+      Primary/secondary objectives Primary objectives Phase II/ 1st and 2nd stages: Assess the
+      effect of treatment with antivirals alone or combined with each other compared to placebo in
+      reducing the of viral load of SARS-CoV-2 in nasopharyngeal swab samples obtained at baseline
+      (d0) and days 3, 6 and 10; Phase III: Evaluate the effectiveness of best antivirals from
+      Phase II alone or combined compared to placebo in increasing days free of respiratory support
+      defined as the number of days without oxygen, non-invasive ventilation / high-flow nasal
+      cannula or mechanical ventilation in 15 days.
+
+      Secondary Objectives
+
+        1. Ordinal 7-stage scale for clinical outcomes on the 15th day (1. not hospitalized with
+           resumption of normal activities; 2. not hospitalized, but unable to resume normal
+           activities; 3. hospitalized, without the need for supplemental oxygen; 4. hospitalized ,
+           requiring supplemental oxygen; 5. hospitalized, requiring high-flow nasal oxygen
+           therapy, non-invasive mechanical ventilation or both; 6. hospitalized, requiring blood
+           oxygenation through the membrane system, invasive mechanical ventilation or both; 7.
+           Death);
+
+        2. Intubation in 28 days (time to event);
+
+        3. Mortality in 28 days (time to event);
+
+        4. Time to discharge, defined as the number of days from randomization to discharge, within
+           28 days.
+
+        5. Grade 2, 3 or 4 adverse events that was not present at patient's admission, defined by
+           the Division of AIDS (DAIDS) Table for Grading the Severity of Adult and Pediatric
+           Adverse Events (corrected version 2.1, July, 2017); 53
+
+      Recruitment and enrollment: The randomization list will be generated electronically using
+      appropriate software. Randomization will be performed in blocks and stratified by center. The
+      allocation concealment will be maintained through a centralized, automated, internet-based
+      randomization system, available 24 hours a day. Hospitalized patients with the inclusion
+      criteria will be allocated in an allocation ratio 3: 3: 3: 1: 1: 1 (3 for each treatment
+      group and 1 for placebo) in Phase II / 1. The parameter of interest for the efficacy decision
+      will be the comparison of the decay rates (slope) of the viral load logarithm from RT-PCR to
+      COVID-19 in 10 days between the treatment groups in comparison with the control (placebo). In
+      the 2nd stage, we will allocate patients in the ratio 2: 2: 1: 1 (2 for each active arm and 1
+      for each placebo) and the same statistic, now comparing combined treatment against the
+      treatment selected in phase II / 1 and placebo, since it is already known that the treatment
+      of phase II / 1 is effective for reducing viral load according to the pre specified criteria.
+      As long as we have success on primary outcome of Phase II/2, Phase III will proceed in a 2: 1
+      allocation ratio (2 active treatments for each placebo).
+
+      Blinding:This is a double-blind study for participants of the same active drug and
+      researchers. Both participant and investigator can know, after randomization, which
+      medication they were allocated to. However, none will know whether the capsule to be
+      administered is active or placebo, ensuring blinding within that specific group to which the
+      participant was allocated.
+
+      Sample size and analysis: 252 patients in total in phase II first stage (189 in active groups
+      and 63 in placebo) and 189 patients in total in phase II second stage (126 in active groups
+      and 63 in placebo). In case of success in Phase II, 564 additional participants will be
+      recruited in phase 3 (376 in the active group and 188 in the placebo). Thus, at the end of
+      phase III, we will have 314 patients evaluated in the Placebo group and between 439 and 502
+      patients in the treatment group.
+    
+  

@@ -1,0 +1,108 @@
+
+    
+      Population A total of 144 patients were enrolled from 6 university clinical centers (Sapienza
+      University of Rome, Department of Periodontology, Rome, Italy ; University of Rijeka, School
+      of Dental Medicine, Rijeka, Croatia; University of Zagreb, Department of Periodontology,
+      Zagreb, Croatia; Jagiellonian University, Dental Institute, Krakow, Poland; Medical
+      University of Sofia, Faculty of Dentistry, Sofia, Bulgaria; Medical University of Plovdiv,
+      Faculty of Dentistry, Plovdiv, Bulgaria). The extension in time from patient recruitment to
+      end of the protocol was January 2016 to November 2018.
+
+      The sample size was determined considering the patient level as statistical unit and probing
+      depth (PD) as the primary outcome measure. In order to detect a mean difference of 1 mm of PD
+      between groups with a standard deviation of 1 mm, maintaining a power of 85%, a significance
+      level (alpha) of 0.05 and a drop-out of 25%, 12 participants per group in each center were
+      required.
+
+      The ethical committees of each center approved the protocol of this study. The protocol
+      followed the ethical principles of Helsinki Declaration on the good conduct of clinical
+      trials. All patients were thoroughly informed on the treatment details and on the possibility
+      of being excluded from the study if missing any of the 3 months follow-up appointments or
+      showing poor compliance in general. After verbally accepting the conditions of the protocol,
+      patients signed the informed consent prior to study initiation. Figure 1 shows step by step
+      the study protocol that each patient followed.
+
+      Study design, randomization, allocation concealment and blinding This study was projected as
+      a controlled randomized multicenter triple blinded 12-month clinical trial to compare the
+      treatment of residual periodontal pockets using standard non-surgical mechanical debridement
+      with and without hyaluronic acid gel. The detailed description of the treatment and
+      evaluation is described in the following paragraphs.
+
+      The operators were trained and calibrated on treatment application and on PD measurement
+      prior to study initiation. A preliminary session of PD measurements on 3 periodontal patients
+      revealed an intra-class correlation coefficient ≥ 0.75 for each operator and among different
+      operators.
+
+      An electronic web-based online randomization system was used for this study including a
+      simulation version of the software for operator training prior to trial initiation. This
+      system had been approved by the Austrian Agency for Health and Food Safety (AGES). The system
+      parameters were set to randomization block size of 4, treatment code selection to random,
+      using 24 treatment codes per center, and using minimization method. Centers were included as
+      a factor for randomization process with assignment probability of 0,125 for each center (8
+      centers x 0,125 = 1.0) as the randomization ratio was 1:1 corresponding to treatment/ control
+      allocation ratio.
+
+      Each operator had a username and password to perform the randomization process for each
+      patient. An accurate audit trail showed each user log entry consisting of login-ID, center
+      number, investigator name, event code, date, and time of which the event occurred. The system
+      had trial specific features (role-based access control) where trial coordinators could manage
+      each user assigned specific role determining the user's access rights. For the present study,
+      the investigators role was to randomize without the ability to view the trial design or
+      randomization design. The access to full control, view randomizations, un-blind
+      randomization, was only granted to the independent trial coordinator.
+
+      Furthermore, the system provided high flexibility and security including verification for the
+      personal email for each investigator to guarantee that each investigator will perform the
+      randomization personally, setting a pre-defined randomization limit, the possibility to
+      include multiple users under each center, and an effective email notification and
+      confirmation upon each randomization performed. All transactions on the system were logged
+      and an audit trail could be analyzed at any time by the trial monitor.
+
+      The allocation concealment was done by means of independent computerized randomization
+      sequence process which can only be accessed by the independent trial coordinator. The
+      investigators were provided with online login and were instructed to perform the
+      randomization only after finishing the baseline measurements and mechanical debridement of
+      selected tooth. To ensure that, investigators were requested to write down the exact time on
+      provided case report forms upon finishing debridement. The computerized time stamp,
+      electronic logs of sent allocation served as a method for monitoring allocation concealment.
+      Furthermore, having the randomization as parallel with stratified (stratification by center)
+      permuted blocks, served as a second layer of preventing knowledge of upcoming patient's
+      assignment.
+
+      Clinical operators were kept blind until the moment of adjunctive treatment application
+      allocated by the randomizer. Patients remained blinded during the entire follow-up.
+      Microbiological evaluation and statistical interpretation of the results were made blinded on
+      the treatment performed.
+
+      Treatment procedure Each center was provided with the same amount of HA , Eppendorf tubes,
+      curettes , tooth paste , tooth brushes ** and interdental brushesǁ. Patients were instructed
+      to use the modified Bass technique for brushing twice daily with the provided toothpaste free
+      of chlorhexidine and to use the interdental brush once daily. They were instructed not to use
+      any type of mouthwash.
+
+      All patients underwent a full mouth debridement completed within 48h in two consecutive
+      visits. The debridement was performed using ultrasonic devices followed by curettes for all
+      pockets of more than 4 mm. The ultrasonic treatment was repeated to ensure all surfaces were
+      clean, followed by polishing.
+
+      At reevaluation, a tooth entering the inclusion criteria was selected. After application of
+      local anesthetic, removal of plaque and polishing of the tooth surfaces was performed
+      followed by the local administration of hyaluronic acid gel for the test group and local
+      administration of anesthetic for the control group. The tip of blunt application needle
+      mounted on the syringe containing HA was delicately inserted in the pocket until resistance
+      was felt. The injection was performed until the remnants started getting out of the pocket.
+      Patients were advised not to drink or eat for 2 hours. This adjunctive treatment was
+      performed at baseline and at the 3 months control. For both groups cleaning of supragingival
+      tooth deposits and polishing was repeated at 3, 6, 9, and 12 months.
+
+      Statistical analysis Numerical variables were reported as median (IQR) while categorical
+      variables were reported as frequency (percentage). McNemar test was used to test for
+      differences in proportions between time points within groups and Chi-squared test was used
+      for differences in proportions between groups. For numerical variables, time-points
+      differences were assessed with the Kruskal-Wallis test and pairwise comparisons were
+      performed with Mann-Whitney U test and Wilcoxon signed rank test (for unrelated and related
+      measurements respectively). Holms correction was used to adjust for multiple comparisons. A
+      significance level of 0.05 was used for all statistical tests. All the analytical tests were
+      performed using the statistical software R (version 3.6.0).
+    
+  

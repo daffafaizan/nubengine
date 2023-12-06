@@ -1,0 +1,130 @@
+
+    
+      The AIMS related to specific outcomes are:
+
+      AIM 1. Evaluate the feasibility of a group drumming intervention.
+
+      RQ 1.1 What are the rates of recruitment?
+
+      RQ 1.2 What are the potential barriers to recruitment?
+
+      RQ 1.3 Was the group drumming intervention protocol delivered as designed?
+
+      RQ 1.4 Did the attention control group follow designed protocol?
+
+      RQ 1.5 What are the differences in treatment acceptability?
+
+      AIM 2. Evaluate adherence and duration between a group drumming intervention and attention
+      control group.
+
+      RQ 2.1 What are the adherence rates for the 6-week interventions among cancer patients, and
+      were these rates similar in the two treatment arms?
+
+      RQ 2.2 What are the dropout rates for the 6-week interventions among cancer patients, and
+      were these rates similar in the two treatment arms?
+
+      RQ 2.3 Are there differential reasons for drop out based on group assignment?
+
+      AIM 3. To obtain preliminary data describing the impact of group drumming on fatigue and
+      anxiety severity levels and change patterns over time as compared to an attentional control
+      group.
+
+      Exploratory AIMs. To explore whether cancer patients, who participate in a 6-week group
+      drumming intervention, will show improvement in cognitive function, as measured by the
+      Functional Assessment of Cancer Therapy-Cognition (FACT-COG). To explore impact on group
+      drumming and positive affect as measured by Positive Affect & Well-being Scale-Short Form
+      (PAW-SF) and Core Flow States (C FSS).
+
+      Statistical Methods, Data Analysis, and Interpretation. Demographics, feasibility measures,
+      and outcome measures will be analyzed through a combination of descriptive and inferential
+      analysis. Sample characteristics will be reported as means and quartiles, counts, or
+      percentages, as appropriate, along with standard deviations or interquartile ranges to
+      describe variability. Where it is possible to construe sample values as population estimates,
+      standard errors and confidence intervals will also be provided. Comparable information will
+      be provided for the samples randomly assigned to receive either intervention or attention
+      control. Any chance imbalance will be controlled statistically by conditioning on baseline
+      values, as described in many of the statistical references. Drop out and attendance
+      percentages will be calculated within each group and evaluated as potential treatment
+      responses.
+
+      Aim 1: This AIM focuses on determining the pragmatic possibility of success in recruiting and
+      delivering a group drumming intervention. Rates of recruitment will include reporting the
+      percentage of people who expressed an interest in participating from those approached,
+      percentage of people who met inclusion criteria from those who expressed an interest,
+      percentage of people consented from those who met inclusion criteria, the percentage of
+      people consented from those who met inclusion criteria, the percentage of people who
+      completed the questionnaires. Barriers to recruitment will include reporting percentage of
+      those who were excluded from those who expressed an interest, documentation of barriers
+      people stated for not being able to participate in the study with percentages for each
+      reason. A CONSORT flowchart will be used to show how many people were screened, how many were
+      eligible or excluded, how many consented, and how many completed the study. Fidelity related
+      to following protocols for the group drumming intervention will be evaluated by using a music
+      therapy validity checklist. The music therapist facilitating the intervention will sign a
+      copy of the protocol and fidelity checklist prior to beginning the intervention and the
+      percentage of deviations will be recorded on the protocol fidelity check list by the
+      principal investigator during the first intervention group to be sure that the protocol is
+      being followed in order to ensure fidelity.
+
+      Aim 2: Adherence (compliance, persistence, "dose") between a group drumming intervention and
+      attention control group will be calculated based upon percentages of participants who missed
+      a group, percentage of participants who dropped out, percentage of people who did not
+      complete the study, and percentage of people who completed the study. Confidence intervals
+      for the percentages will be derived from exact permutational tests that require no
+      distributional assumptions and are hence more appropriate for small samples than those based
+      on normal theory. Duration will be examined using discrete time survival analysis and
+      bootstrapped confidence intervals. Reasons for missing a group will be tallied (see appendix
+      9), and grouped into "unrelated" or "possibly treatment-related" categories. Examples of
+      "presumptively unrelated" reasons would be colds or minor illness, dental or medical
+      appointments, family issues, or moved to a different area. If participants missed a group
+      session because they could not accept or tolerate the experience, this would be coded as
+      possibly treatment-related. Those who actively withdraw (letting music therapist or research
+      team member know ahead of group or after group that they don't plan to return) will be noted
+      separately as neutral reasons from those who passively withdraw (don't show up).
+
+      Similarly, the percentage of positive and negative answers to "How did the session go today?"
+      will be reported. The answers to the two questions "what made this study challenging for you
+      to attend?" and "what didn't you like about it?" will be reported and categorized into
+      percentages.
+
+      Exploratory Aim 3: This aim provides preliminary pilot data describing the impact of group
+      drumming on fatigue, anxiety, and cognitive impairment severity levels and change patterns.
+      These data will be needed to plan sample size and design features in a future definitive
+      comparative study. For this purpose, a formal statistical model is most useful, since it
+      generates parameter estimates that can be applied to power calculations for similar
+      model-based analyses to be used in the future study. Two aspects of an individual's response
+      are relevant: the degree of overall treatment impact (gain) and the mean rate-of-change
+      post-baseline (trend). Fatigue will be analyzed by looking at gain and trend of individual
+      FACIT-F scores at 3 weeks, 6 weeks, and 8 weeks after group has ended between intervention
+      and attention control groups. Anxiety will be analyzed by looking at gain and trend of
+      individual using STAI scores at 3 weeks, 6 weeks, and 8 weeks after group has ended between
+      intervention and attention control groups. Cognitive impairment will be analyzed by looking
+      at gain and trend of individual using FACT-COG scores at 3 weeks, 6 weeks, and 8 weeks after
+      group has ended between intervention and attention control groups.
+
+      Analysis model. The two primary outcomes of fatigue and anxiety will be analyzed using a
+      mixed effects linear model that assumes that individual longitudinal responses, conditional
+      on baseline values, are generated by treatment assignment, and time since baseline.
+      Specifically, the post-baseline measures at three, six, and eight weeks after the last group
+      ends will be analyzed by examining the difference in mean adjusted gains and trends. Equally
+      important in this kind of pilot study, the model yields empirical Bayes estimates of
+      individual gains and time trends. Such a clinical impact analysis model will allow the study
+      to show individual responses related to who is benefitting, how much they are benefitting so
+      that responses can be viewed based on trend and adjusted gain (or loss), and how varied these
+      responses are relative to the mean treatment impact. Details of the model are developed in
+      multiple scientific publications.
+
+      The following hypotheses will be explored under the clinical impact model: HImpact: Drumming
+      yields greater mean improvement on fatigue, anxiety and cognitive impairment than does
+      attention control. Hpersistence: The mean rate-of-change with drumming is more positive than
+      that of the control treatment, Hheterogeneity: Patients receiving either intervention vary in
+      the extent of their benefit. Data will be analyzed using SPSS Mixed and SAS Proc Mixed
+      programs under inferential options appropriate for smaller samples (Restricted Maximum
+      Likelihood with Kenward-Roger Degrees of Freedom). The hypothesis represents plausible
+      expectations, not formal statistical assumptions of population magnitudes. The purpose of the
+      analyses is to generate estimates for future planning, not to reach definitive conclusions.
+
+      I plan to recruit 26 participants (n=13 treatment, n=13 control) allowing for 20% drop out to
+      yield 10 per group will allow me to plot the distributions of the individual and mean
+      estimates in a scatterplot with adjusted gain and trend as the two axes.
+    
+  

@@ -1,0 +1,106 @@
+
+    
+      Intrathoracic pressure oscillations due to positive pressure ventilation induce cyclic
+      modifications of activity of the pulmonary vascular receptors and cardiac mechanoceptors.
+      These effects changes the autonomic nervous system modulation with modification of both
+      sympathetic and vagal activity.
+
+      Cardio-ventilatory interaction recently has been studied through the heart rate variability
+      in critically ill mechanical ventilated patients. The analysis of the power spectrum density
+      provides information about the power (the variance of beat-to-beat interval) is distributed
+      as frequencies' function. Healthy spontaneously breathing subjects show a cyclic inspiratory
+      increase and expiratory decrease of heart rate, and 'phase coupling' between heart beats and
+      respiration (causing heart beats to occur at constant phases of the respiratory cycle),
+      commonly known as cardioventilatory coupling. These phenomena originate from a complex
+      interplay of several mechanisms including central drive, feedback from arterial
+      baroreceptors, feedback from thoracic and lung stretch receptors, and non-neural mechanisms
+      intrinsic to the heart, which are not fully understood. Although the physiological importance
+      of respiratory sinus arrhythmia and cardioventilatory coupling have not been elucidated,
+      several authors suggested that they might improve ventilation/perfusion matching through a
+      redistribution of heart beats (and consequently of perfusion) within the respiratory cycle,
+      with beneficial effects on gas exchange. Furthermore, decreased respiratory sinus arrhythmia
+      amplitude has been used as an indicator of impaired autonomic control and of poor clinical
+      outcome, also during mechanical ventilation.It has been shown that during controlled
+      mechanical ventilation the respiratory sinus arrhythmia amplitude is considerably reduced and
+      the cardioventilatory coupling generally abolished. Theoretically, mechanical ventilation
+      modes that assist the respiratory pump upon triggering by the patient, such as pressure
+      support ventilation (PSV) might maintain higher respiratory sinus arrhythmia levels through
+      centrally-originated phasic vagal modulation compared to controlled mechanical ventilation.
+      In addition, mechanical ventilation with breath-by-breath variable tidal volumes, so-called
+      'variable ventilation', could better preserve respiratory sinus arrhythmia and
+      cardioventilatory coupling, and this might play a role in the improved arterial oxygenation
+      found in different models of acute lung injury, although with variable results, when
+      comparing variable and conventional mechanical ventilation. In anesthetized experimental
+      animals the cardioventilatory coupling was more preserved during pressure assisted
+      ventilation than pressure controlled ventilation. If these findings could be present in the
+      humans is yet unknown. Furthermore, it has been demonstrated that some new methodologies of
+      assisted ventilation, such as the neurally adjusted ventilatory assist (NAVA), increase the
+      breath-to-breath variability and tidal volume variability, but their effects on
+      cardioventilatory coupling are not understood.
+
+      The study aims to measure the heart rate variability, the respiratory rate variability and
+      the cardioventilatory coupling in critically ill patients during mechanical ventilation both
+      in controlled mode (pressure controlled) and in assisted mode (pressure support ventilation
+      and NAVA).
+
+      Methods enrolled patients are connected to a S/5 ICU monitor (GE, Helsinki, Finland) and are
+      mechanically ventilated with a Servo-I ventilator (Maquet, Germany) provided with
+      diaphragmatic electrical activity module (EAdi, Maquet, Germany). A nasogastric 16-Fr EAdi
+      catheter is positioned in all patients. A sequence of three consecutive study phases of
+      different mechanical ventilation modes (PCV, PSV, and NAVA) is started. The sequence of
+      ventilatory modes is randomized for every patient. After a 10 min acclimation period for each
+      study phase, electrocardiographic, arterial pressure and ventilatory waves are collected for
+      consecutive 30 min to a laptop pc via S/5 Collect (GE, Helsinki, Finland) and NAVA Tracker
+      (Maquet, Germany) software for Windows.
+
+      Heart rate variability analysis Linear analysis Sequences of 300 consecutives heart beats are
+      selected inside each experimental phase. The mean and the variance of heart period are
+      expressed in msec and msec^2 respectively. Autoregressive spectral density is factorized into
+      components each of them characterized by a central frequency. A spectral component is labeled
+      as LF if its central frequency is between 0.04 and 0.15 Hz, while it is classified as HF if
+      its central frequency is between 0.15 and 0.5 Hz. The HF power is considered to represent
+      respiration-driven vagal modulation of heart rate. To rule out the effect of changes of total
+      power spectrum densities on LF and HF components, spectral values are also expressed in
+      normalized units (NU). Normalization consisted in dividing the power of a given spectral
+      component by the total power minus the power below 0.04 Hz (Very Low Frequency [VLF] spectral
+      component), and multiplying the ratio by 100. The ratio of the LF power to the HF (LF/HF) is
+      considered an indicator of the balance between sympathetic and vagal modulation directed to
+      the heart.
+
+      Nonlinear analysis Non-linear analysis was conducted by means of symbolic analysis. The
+      symbolic analysis is conducted on the same sequences of 300 consecutive heart beats that are
+      used for the autoregressive analysis. The whole range of the R-to-R interval into each series
+      is uniformly divided in 6 slices (symbols) and pattern of 3 consecutive heart beat intervals
+      were considered. Thus each sequence of 300 heart beats had its own R-to-R range and 298
+      consecutive triplets of symbols. The Shannon entropy of the distribution of the patterns is
+      calculated to provide a quantification of the complexity of the pattern distribution. All
+      triplets of symbols are grouped into 3 possible patterns of variation: (i) no variation (0V,
+      all 3 symbols were equal), (ii) 1 variation (1V, 2 consequent symbols were equal and the
+      remaining symbol was different), (iii) patterns with 2 variations (2V, all symbols were
+      different from the previous one). Previously, the percentage of 0V patterns was found to
+      increase (and 2V decrease) in response to sympathetic stimuli, whereas 2V patterns increased
+      (and 0V decreased) in response to vagal stimuli. The percentage of the patterns 0V and 2V was
+      calculated, and the 0V/2V ratio was calculated to estimate the balance between sympathetic
+      and vagal modulation.
+
+      Cardioventilatory coupling analysis Phase synchronization method for quantification of
+      coupling between weakly coupled self-sustained oscillators (here heart and ventilator) will
+      be implemented. The idea behind is that a good ventilatory mode should produce
+      cardio-respiratory coordination indistinguishable from that observed in healthy subject
+      during spontaneous breathing at the same frequency and amplitude. Phase synchronization
+      technique is complemented with joint symbolic analysis and cross-conditional entropy
+      assessing of cardio-respiratory coupling in terms of degree of repeatability of coordination
+      schemes between heart rate signal and ventilation. These approaches have the main advantages
+      that they are less sensitive to non-stationarities and they are capable of capturing
+      nonlinear couplings over shorter data sequences.
+
+      Sample size given a heart rate variability total variance equal to 1000 msec^2, to detect a
+      difference of 300 msec^2 (with a standard deviation of 200 msec^2) between the study phases
+      with an alpha error=0.05, power=80%, effect size=0.4, 22 patients will be recruited.
+
+      The normal distribution is checked with Kolmogorov-Smirnov test. Two tails Student t test for
+      dependent or independent sample as needed, or Wilcoxon- U test in case of not normal
+      distribution are employed. Repeated measures are analyzed with one way analysis of variance
+      (ANOVA) followed by post-hoc Bonferroni's test.
+    
+  

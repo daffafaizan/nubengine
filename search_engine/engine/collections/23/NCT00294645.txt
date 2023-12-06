@@ -1,0 +1,39 @@
+
+    
+      The Clinically Actionable Events (CAE) were identified based on their relation to other
+      comorbidities that may increase the risk of a serious cardiac event. The defined events are:
+
+        1. Atrial Tachycardia/Atrial Fibrillation (AT/AF) episodes of greater than 48 hours defined
+           as two consecutive days in which the device records at least 18 hours of AT/AF per day
+
+        2. Ventricular pacing that has increased by 30 percent (relative) since the last device
+           interrogation
+
+        3. A sensed ventricular response of greater than 100 beats per minute (BPM) during atrial
+           tachyarrhythmia for at least 20 percent of the time since the previous device
+           interrogation
+
+        4. Runs of non-sustained ventricular tachycardia (NSVT) greater than 5 beats
+
+        5. New onset of AT/AF among patients with no history of AT/AF
+
+        6. Loss of atrial capture
+
+        7. Loss of ventricular capture
+
+        8. Increase in atrial pacing voltage threshold greater than 1 volt (V)
+
+        9. Increase in ventricular pacing voltage threshold greater than 1 volt (V)
+
+       10. & 11. Significant change in atrial or ventricular lead impedance, defined as any of the
+           following:
+
+             1. Less than 200 or greater than 2000 ohms (Ω)
+
+             2. Unstable lead impedance deemed to be clinically actionable
+
+             3. Greater than 50 percent change in lead impedance since last interrogation
+
+      12. Elective Replacement Indicator (ERI)/Battery End of Life (EOL) indicators
+    
+  

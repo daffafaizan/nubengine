@@ -1,0 +1,64 @@
+
+    
+      Cerebral palsy (CP) is a common cause of childhood disability with an incidence of 2.11 per
+      1000 live births. Children with CP often develop problems with their feet during growth, with
+      a reported prevalence of foot deformity of 86% in a group of 66 diplegic children.
+      Deformities may occur in the ankle joint, subtalar joint (the joint below the ankle) and/or
+      the foot itself. The European SPARCLE study reported that 54% of children with CP experienced
+      pain in the previous week, which was associated with a poorer quality of life. This rose to
+      75% in a subsequent study of adolescents. The most common place for children to experience
+      pain is in the feet, especially for the more mobile children.
+
+      Clinical experience is that deformed feet are challenging to manage with splints.
+      Biomechanical changes in the ankle and foot affect the whole leg and a sudden deterioration
+      in gait often follows, for example the development of a crouch gait pattern.
+
+      Several mechanisms are proposed for the development of foot deformity, including calf muscle
+      tightness, muscle imbalance, bony subluxation and collapse of the longitudinal arch. It is
+      difficult to separate cause and effect as phenomena occur concurrently.
+
+      Previously the research team have examined the morphology of the foot in detail using imaging
+      techniques and gait analysis. To date no one has conducted similar studies looking at the
+      subtalar joint in cerebral palsy and the orientation of the axis in this condition is
+      currently unknown.
+
+      Participants in this research (typically developing children and children with cerebral
+      palsy) will only need to attend on a single occasion. They will spend around half a day in
+      the hospital, with measurements being taken in two departments:-
+
+      MRI scans: The children will have MRI scans taken of one leg. This will be done twice,
+      firstly with the limb unloaded and then with a load applied to the foot. The child will have
+      MRI opaque markers attached to bony landmarks on the skin before the scans are taken.
+
+      Gait analysis: The children will attend the gait laboratory. Here they will be asked to wear
+      shorts and a T shirt or crop top. A simple orthopaedic examination will be carried out to
+      measure their legs and joints. They will then have retroreflective markers and
+      electromyography (EMG) sensors attached to their legs and they will be asked to walk up and
+      down the laboratory whilst their walking pattern is recorded. The record will include video
+      images, 3D tracking of the marker positions and muscle signals from the EMG.
+
+      At the end of the data collection they will be free to leave and their participation in the
+      study will end.
+
+      MRI scans will be segmented using Mimics (Materialise, Belgium) software to obtain bone
+      geometries. As demonstrated in previous studies unloaded MRI scans allow high quality
+      reconstruction of foot bone geometries, suitable for generating multi-segmental models of the
+      foot and tibia in adult and paediatric populations. Subject-specific ankle and foot
+      musculoskeletal models will be produced from the reconstructed patient's bone geometries,
+      including personalized muscle attachments, derived from the MRI scans and subject-specific
+      tibiotalar and subtalar joint axes, identified by fitting appropriate analytical shapes
+      (spheres and cylinders) to the articular surfaces.
+
+      The individual dynamic models will be validated by comparing their configuration in the
+      stance phase of walking against the loaded MRI scans. External joint moments due to the
+      action of ground reaction force will be computed using an inverse dynamics analysis
+      implemented in OpenSim, while the contribution of the calf muscles to the internal joint
+      moments will be estimated by computing the muscles' moment arms with respect to foot joint
+      axes.
+
+      This study will produce the first pilot data of static and dynamic subtalar morphology in
+      children with cerebral palsy. The research team hope to identify potential mechanisms of
+      deformity which can be used to categorise feet and inform treatment, prior to designing a
+      future interventional clinical trial.
+    
+  

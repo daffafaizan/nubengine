@@ -1,0 +1,15 @@
+
+    
+      This will be a single-center, open-label, randomized prospective study. Primary outcome will
+      be percent of time within a specific INR range. Subjects will be randomized to to control and
+      treatment groups and stratified 1:1 based on sex. The control group will have warfarin doses
+      adjusted by experts in the treatment of patients with warfarin. The treatment group will have
+      warfarin doses determined using a clinical support tool based on reinforcement learning.
+      Based on simulations of the experimental design with an expectation that the percent of INR
+      values within the target range increase by 20%, 70 subjects per group are required for
+      statistical significance. Based on an attrition rate of 15%, the investigators will enroll 80
+      subjects per group. Statistical analysis will compare the percent of patients within the
+      target INR range between groups as the primary outcome with number of adverse events between
+      groups as the safetly outcome.
+    
+  

@@ -1,0 +1,201 @@
+
+    
+      STUDY DESIGN. A cluster-randomised, multicentre blinded clinical trial will be conducted in
+      six primary care centres between June 2021 and June 2023.
+
+      SCOPE OF STUDY. Six primary care centres in the southern metropolitan area of Barcelona.
+
+      SUBJECTS OF STUDY. General practitioners of the participating centres. Paediatricians are
+      excluded. Patients older than 14 years who have a diagnosis of upper respiratory tract or
+      urinary tract infections will be prospectively follow up to assess information related to
+      secondary outcomes. Each patient could be included more than once if the GP visit is 30 days
+      or more apart from the initial medical assessment.
+
+      Eligible patients will be identified following the International Classification of Diseases
+      ICD-10 CM codes as follows:
+
+      Upper respiratory tract infection: J00, J01, J01.0, J01.1, J01.2, J01.3, J01.4, J01.8, J01.9,
+      J02, J02.0, J02.8, J01.9, B30.2, J03, J03.00, J03.01, J03.80, J03.81, J03.9, J03.91, J04,
+      J04.0, J04.1, J04.2, J05, J05.0, J05.1, J06, J06.0, J06.9.
+
+      Urinary tract infection: N10, N30.0, N30.1, N30.2, N30.3, N30.4, N30.8, N30.9, N39.0.
+
+      TIMELINE. From June to September standard-AMS will be promoted to increase understanding and
+      acceptance of AMS by general practitioners. Baseline data collection will begin on October
+      2021 and will last six months. After these six months, centres will be randomly assigned to
+      receive an advanced-AMS (intervention group) or to continue the standard-AMS (control group).
+      The intervention will be spanned 12 months (31 March 2023).
+
+      RANDOMIZATION. A centralised electronic computer system will generate a random list based on
+      permuted blocks. To ensure similar characteristics among centres permuted blocks will be
+      created with stratification on the total number of referral population and the number of
+      population older than 65 years old by centre. Investigators will be unaware of the block size
+      and the permutation procedure.
+
+      The 6 centers will be arranged into two groups: 3 on the control group and 3 in the
+      intervention group.
+
+      STUDY GROUPS. Centres will be assigned to receive an advanced-AMS (intervention group) or a
+      standard-AMS (control group). The control group will have an standard antibiotic optimization
+      program that will consist on:
+
+        1. Informative flyers addressed to patients to increase awareness about antibiotic
+           indications and potential harms of its misuse.
+
+        2. Updated local antibiotic guidelines for treating common infections according to local
+           resistance patterns.
+
+        3. Promotion of delayed antibiotic prescription.
+
+        4. Promotion of Streptococcal pyogenes antigen test (Streptotest) if bacterial tonsillitis
+           is suspected.
+
+        5. Daily microbiological report of resistant bacteria isolates to general practitioners.
+
+        6. Annual reports to prescribers of main AMS outcomes at centre-level.
+
+      The intervention group will have the same standard-AMS program enhanced with:
+
+        -  Telephone access to ID expert on working days (8:00 am to 8:00 pm).
+
+        -  Biweekly meetings among GP and infectious diseases experts to discuss clinical cases.
+
+      BLINDING. Two secondary end-points (unnecessary antibiotic therapy and adequacy of therapy),
+      will be evaluated by two independent investigators who will be blinded to centre allocation.
+      Discrepant decisions among them will be discussed with a third blinded physician to achieve
+      consensus. The degree of agreement will be recorded with the kappa statistic analysis. The
+      centre allocation will not be blinded for the participating centres and general
+      practitioners.
+
+      OUTCOMES. Outcomes will be measured in each primary center with a mensual periodicity during
+      12 consecutive months. These variables are:
+
+        -  Main objective. To assess the impact of advanced-AMS on overall antibiotic consumption
+           measured by defined daily dose of antibiotic per 1.000 inhabitats per day (DHD).
+
+        -  Secondary objectives:
+
+             -  To assess the impact of the advanced-AMS on unnecessary antibiotic prescriptions in
+                diagnosed upper respiratory and urinary tract infections.
+
+             -  To evaluate the impact of the advanced-AMS on the adequacy of antibiotic
+                prescriptions.
+
+             -  To evaluate the impact of the advanced-AMS on the total number of re-attendance to
+                general practitioners or emergency department for any reason within 30 days after
+                the initial GP evaluation.
+
+             -  To evaluate the impact of the advanced-AMS on the number of hospital admissions for
+                any reason within 30 days after the initial GP visit.
+
+      DEFINITIONS.
+
+        -  DHD are calculated by the following the World Health Organisation criteria
+           (https://www.who.int/tools/atc-ddd-toolkit/indicators).
+
+        -  Unnecessary prescription will be considered as follows:
+
+             -  An antibiotic prescribed in upper respiratory infections, which is in disagreement
+                with the local antibiotic guidelines.
+
+             -  An antibiotic is prescribed in asymptomatic bacteriuria, which is defined as having
+                a positive urine culture with ≥ 10EXP5 CFU/ml of an uropathogen in patients without
+                signs or symptoms of urinary tract infection (dysuria, urinary frequency or
+                urgency, suprapubic pain, fevers, or flank pain). Pregnant women and patients
+                undergoing urologic interventions are excluded from this definition.
+
+        -  Adequacy of antibiotic therapy will be considered when prescription fulfils the local
+           guidelines: type of antibiotic + dose, and length of therapy.
+
+      DATA COLLECTION AND MONITORING. Monthly DHD will be calculated based on the dispensing data
+      of our electronic prescribing system of the Catalan Institute of Health.
+
+      To get information regarding secondary outcomes, patients who fulfil ICD-10 CM codes on the
+      last working day of every month will be selected by a cross-sectional analysis. On these
+      selected patients, information from electronic medical records (SAP logon® and eCAP) will be
+      obtained. Investigator will obtain the following variables: demographics, Charlson score,
+      type of infection, antibiotic prescribed, doses and length of antibiotic therapy,
+      re-attendance to the general practitioner, attendance to the emergency department, and
+      hospital admission. All the included patients will be followed up 30 days after the initial
+      primary care physician visit. To ensure completeness of data, a telephone call will be
+      allowed if any crucial data is missing in the electronic medical record.
+
+      Information regarding the burden of the intervention such as the number of telephone calls
+      received by the ID expert per month and the number of participants to biweekly meetings with
+      the ID will be also collected.
+
+      All data will be recorded by the study monitor on a standardized data abstraction form by
+      using RedCap (Research Electronic Data Capture) hosted at IDIBELL, a secure web application
+      for building and managing online databases.
+
+      SAMPLE SIZE. The intervention area has a total of 20 primary care centers and a reference
+      population of 286,278 inhabitants. Six centers will be included, three in each study arm,
+      implying an approximate coverage of 35% of the referral population (100,200 inhabitants). The
+      consumption of antibiotics in 2017 was 8.94 DHD, and it's expected to reduce this consumption
+      by 10% in the intervention group. The number of 3 clusters per arm will allow rejecting the
+      null hypothesis of equal consumption with a power of 80%, assuming a moderate intra-cluster
+      correlation of 0.2, an intra-cluster variance of 4, and a mean difference of 1 DHD. Type I
+      error is set at 5%.
+
+      STATISTICAL ANALYSIS. A descriptive analysis will be performed on the monthly consumption of
+      antibiotics expressed in DHD by the study group (control and intervention), period, and
+      cluster. The monthly consumption of antibiotics evolution will be represented on a graph by
+      months, and a smoothed curve will be estimated using locally weighted smoothing (LOESS).
+
+      Antibiotic consumptions will be compared according to the study group using a time series
+      model. Where the dependent variable will be the monthly consumption of antibiotics expressed
+      in DHDs and the independent variable will be the study group. In the estimation of the model,
+      the seasonality, the trend, and the first and second-order lags of the series will be
+      analyzed. Also, the use of hierarchical models due to cluster design will be taken into
+      account.
+
+      A descriptive analysis of the demographic and clinical profile of the patients surveyed will
+      be performed. A McNemar test will be used to compare, between the study groups, the
+      percentage of patients with an unnecessary prescription for the upper respiratory and urinary
+      tract, the percentage of patients with an adequate prescription according to the guidelines,
+      the percentage of patients who revisit general practitioner or emergency room at 30 days, and
+      the percentage of patients with hospital admission at 30 days. Also, log-binomial regression
+      models will be performed, to estimate the effect of the intervention in terms of risk on the
+      above-mentioned outcomes adjusting by patients' clinical profile. To estimate models it will
+      be accounted that patients are nested in primary care clusters, so a correction of the
+      standard errors is carried out through the variance-covariance matrix.
+
+      Data management and statistical analysis will be carried out with the statistical package R
+      version 4.0.1 or higher.
+
+      LIMITATIONS. The study does not contemplate randomization by prescribing physician but by
+      conglomerates to avoid possible contamination effects at the prescribing physician and
+      patients in the same center. As it is a cluster analysis, there could be differences in the
+      degree of prescription of doctors within the same center and between the different centers.
+      In order to reduce this problem, the variability of prescribing intra-cluster and between
+      clusters has been calculated during the period 2017 in a group of primary care centers in the
+      intervention area, differences that have been taken into account for the calculation of the
+      sample. Design of the present study does not include a third group without any AMS
+      intervention due to department policies during 2019. However, to achieve the best result
+      interpretation, an historic of the antibiotic consumption in the participating centers will
+      act as a control group, and a baseline period with only an standard-AMS intervention will be
+      performed.
+
+      Comparisons between all stages of the clinical trial will be performed to obtain more robust
+      data.
+
+      ETHICAL ASPECTS. This research will be carried out under the standards of good clinical
+      practices following the principles of the Declaration of Helsinki (Fortaleza, 2013), as well
+      as the current legislation applicable to this type of study. This study has been approved by
+      the Ethics Committee of Hospital Universitari de Bellvitge and the Foundation University
+      Institute for Primary Health Care Research Jordi Gol i Gurina (IDIAPJGol) who waived the need
+      to obtain informed consent since the intervention is mainly aimed at health-care
+      professionals (general practitioners) who will be previously informed of the objective and
+      other relevant aspects of the study (REF. PR277/19 - REF. 4R20/26).
+
+      Clinical data treatment of the included patients in the research project as well as that of
+      associated professionals (primary care physicians) will be carried out following the
+      established by the Organic Law 3/2018, of December 5, and by Regulation (EU) 2016/679 of the
+      European Parliament and of the Council of April 27, 2016 on Data Protection (RGPD). Based on
+      these regulations, the sponsor will guarantee the protection of the confidentiality of the
+      participants in the program, both patients and doctors.
+
+      The data collection sheets will be identified with a code. The name of the doctor or patient
+      will not appear in any document, or any publication or communication of the study results.
+    
+  

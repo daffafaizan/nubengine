@@ -25,7 +25,7 @@ class IdMap:
 
     def __len__(self):
         """Mengembalikan banyaknya term (atau dokumen) yang disimpan di IdMap."""
-        # TODO
+
         return len(self.str_to_id)
 
     def __get_id(self, s):
@@ -34,7 +34,7 @@ class IdMap:
         Jika s tidak ada pada IdMap, lalu assign sebuah integer id baru dan kembalikan
         integer id baru tersebut.
         """
-        # TODO
+
         if s not in self.str_to_id:
             self.str_to_id[s] = len(self.str_to_id)
             self.id_to_str.append(s)
@@ -43,7 +43,7 @@ class IdMap:
 
     def __get_str(self, i):
         """Mengembalikan string yang terasosiasi dengan index i."""
-        # TODO
+
         return self.id_to_str[i]
 
     def __getitem__(self, key):
@@ -60,7 +60,7 @@ class IdMap:
         Jika key adalah integer, gunakan __get_str;
         jika key adalah string, gunakan __get_id
         """
-        # TODO
+
         if (isinstance(key, str)):
             return self.__get_id(key)
         else:
@@ -90,7 +90,6 @@ def merge_and_sort_posts_and_tfs(posts_tfs1, posts_tfs2):
     List[(Comparable, int)]
         Penggabungan yang sudah terurut
     """
-    # TODO
     result = []
     i = 0
     j = 0

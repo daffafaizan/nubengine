@@ -1,0 +1,85 @@
+
+    
+      The aim of the study is to collect a database for the development of algorithms for the
+      classification of everyday movement patterns of PD patients with the underlying sensor
+      concepts. From the recorded movement data of PD patients and healthy volunteers (reference
+      basis), characteristic features will be derived which could allow a distinction between
+      pathological and unobtrusive non-disturbed movement patterns (e.g. on/off-state
+      classification) and an assessment of the fall potential.
+
+      Study Timeline
+
+      The present study will be carried out in three, partly successive stages. The first two
+      stages are measurements with the presented system during a medical examination (or
+      afterwards) under annotation of certain motor exercises to determine the state of health of
+      the patient or test person. In order to generate a sufficient reference database of
+      comparable movement patterns, a series of measurements with subjects of a similar average age
+      is carried out in parallel with the same sensor configuration and the same motor exercises.
+      The third part of the study includes measurements in the home environment of Parkinson's
+      patients. These measurements are used to identify the previously annotated movement patterns
+      in the everyday life of the patient of the same previously included patient group. The
+      individual stages of the study comprise in detail:
+
+        1. Acquisition of patients/test persons The voluntary participants of this study will be
+           recruited during the doctor's visit. The group of study participants with PD may consist
+           of both outpatients and inpatients with Parkinson's disease (see also sub-section 4).
+           The group of healthy volunteers is recruited from relatives or acquaintances of the
+           patients or by request of uninvolved persons (in each case without motor impairments,
+           see inclusion/exclusion criteria). If a patient or subject is suitable to participate in
+           the study based on the inclusion and exclusion criteria, he or she will be informed and
+           sign the consent form so that he or she can be included in the study. Each study
+           participant receives an individual identification number, which is used to identify all
+           other patient-specific documents.
+
+        2. Annotation Measurements Parkinson Patients As soon as the patients have agreed to
+           voluntarily participate in the study, the current disease status is first determined
+           during a medical examination on the basis of a UPDRS and documented for the study
+           evaluation. Following this, typical exercises for recording motor deficits are carried
+           out. For this purpose, the patient is equipped with the intended sensor system and
+           instructed in its use. The sensor system comprises three different sensor nodes, which
+           are placed around the wrist, as a collar and in the trouser pocket. The wrist sensor is
+           fixed to the patient's wrist by a flexible strap with a Velcro fastener. The neck sensor
+           is positioned under the upper layer of clothing and hung around the neck by means of a
+           special textile collar (approx. 35g). The third sensor knot has no special fastening
+           device and is carried loosely in the trouser pocket. The attachment of the sensors is
+           illustrated in Fig. 1. The movement data are recorded parallel to the exercises and
+           extensively annotated according to the exercise characteristics. The exercises contain
+           typical everyday movement patterns, which are to be identified in the further course of
+           the study in the measurements in the domestic environment (subitem 3) and used for the
+           evaluation of the state of health. These include among others: sit-to-stand test (STS),
+           five-times-sit-to-stand test (5STS), sit-to-walk test (STW) or timed-up-and-go test
+           (TUG), normal walking, climbing stairs, and handwriting.
+
+        3. Annotation measurements reference group The volunteers participating in the study will
+           be equipped with the same measuring equipment as the group of Parkinson's patients. The
+           measurements on subjects of comparable average age serve as a reference to physiological
+           movement sequences during the same motor exercises. On the one hand, the aim is to cover
+           as broad a spectrum as possible for the classification of the various movement patterns.
+           On the other hand, the data are to be used to identify pathological features that
+           distinguish them from healthy movement patterns.
+
+        4. Movement monitoring in the domestic/clinical environment of patients The group of
+           outpatient/inpatient Parkinson's patients also take part in a long-term measurement in
+           the domestic/clinical environment. Following the first motor examination, 5 consecutive
+           measurements over a longer period of one day each are carried out in this section of the
+           study. The equipment with the required measuring electronics takes place at the
+           patient's place of residence/ in the clinic. In addition to the three previously used
+           sensor nodes, the patient is equipped with a further node for recording on an SD card,
+           which is also carried in the trouser pocket (approx. 35g). The SD card is written using
+           low-level access and an internally developed protocol. This prevents third parties from
+           accessing the transaction data. The measuring equipment is handed over on the morning of
+           the scheduled day by a co-investigator. The patient is equipped with the system and the
+           necessary handling of the sensor nodes is explained over the course of the day. As a
+           daily form dependent annotated reference, the motor exercises mentioned under 2. are
+           repeated - as far as possible in the patient's home environment / in the clinic. The
+           patient is asked to keep an event log of the day at his own discretion and ability. On
+           the evening of the same day, the measuring system is received again on site by a
+           co-investigator. Any complications or questions regarding the further study protocol
+           will be received, documented and, if necessary, reported to the study director.
+
+        5. Final motor examination After completion of the third part of the study, each
+           participant undergoes a final medical examination. This will take place following the
+           nearest routine visit. In this examination, the motor exercises are carried out again in
+           order to establish a basis for comparison with the initial situation (UPDRS Trend).
+    
+  

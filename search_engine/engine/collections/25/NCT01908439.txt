@@ -1,0 +1,73 @@
+
+    
+      Subjects Five healthy volunteers will be participated in the study.
+
+      Procedures During WBV, the subjects will be asked to stand upright on a vibration platform
+      (PowerPlate Pro5, London, United Kingdom). Their hips and knees will be in a neutral
+      position. Subjects will be barefooted, and no sponge or foam will be placed between the
+      vibration platform and their feet (Figure 1). The whole plate oscillates with a linear
+      movement upward and downward. Vibration amplitude is 2.2 mm. WBV frequencies will be varied
+      randomly to cover the following six frequencies: 25, 30, 35, 40,45 and 50 Hz. Each frequency
+      lasts for 60 seconds and there will be a 15 seconds rest in between different frequencies.
+
+      A load sensor (FC2331-0000-2000L Compression Load Sensor, France) will be fixed on the WBV
+      platform in order to be able to determine induced muscular response latency. Subjects will be
+      positioned on the WBV platform such that their right heel will be placed on the load sensor.
+
+      Recordings MMUs, surface EMG (sEMG) and force recordings will be simultaneously done using
+      the Powerlab data acquisition system (ADInstruments, Oxford, United Kingdom). A sampling
+      frequency of 40 kiloHertz (kHz) will be used. Data will be analyzed offline using the MATLAB
+      (R2012a 7.14.0.739).
+
+      In order to record sEMG, Ag/AgCl electrodes [KENDALL ® Arbo] with a disc radius of 10 mm will
+      be placed 20 mm apart on the right soleus muscle belly, on shaved skin cleaned with alcohol.
+      The ground electrode will be placed on the lateral malleolus.
+
+      To record MMU activity, a pair of Teflon® insulated silver wires (75 µm in core diameter)
+      will be used. About 3 mm of the tips of the silver wires will be stripped of their Teflon ®
+      coating in order to be able to record the activity of several motor units. The pair of wires
+      will be inserted into the right soleus muscle with a 25 G needle. Needle will be immediately
+      withdrawn leaving the fish-hooked wires in the muscle. A lip-clip electrode will be used as
+      the ground electrode.
+
+      All cables will be carefully taped to the skin to minimize mechanical artifacts.
+
+      The subjects will be instructed to relax their muscles throughout the recordings and were
+      trained using EMG feedback to this end. WBV may impair the sense of balance and muscles may
+      be activated to restore balance. To overcome this issue, the subjects will be familiarized
+      with WBV with a 15 s session of WBV, the subjects will be asked to use the handles of the WBV
+      device to secure their balance and the base of support (distance between the heels) will be
+      adjusted as wide. The distance between the heels usually will be about 25 cm.
+
+      Filtering and Rectification regimens All force sensor recordings will be 5 Hz high-pass
+      filtered. All sEMG recordings will be 80 - 500 Hz band-pass filtered (Butterworth 1st order)
+      and full-wave rectified to overcome movement artifacts. All MMU recordings will be 100-5000
+      Hz band-pass filtered (Butterworth 1st order) and full-wave rectified.
+
+      WBV - induced muscular reflex (WBV-IMR) latency
+
+      In a previous study, right soleus muscle sEMG measurement and force sensor measurement that
+      is placed under right heel during WBV were taken synchronously and it was found that
+      vibration stimulation and MUAPs would be matched 1 to 1. In this study that is based on the
+      previous observation, it is predicted that it is possible to calculate latency by using
+      averaging method.
+
+      All MMU and sEMG data will be analyzed by applying respectively filtering, rectification and
+      differentiation with MATLAB (R2012a 7.14.0.739). Data analysis will be performed in two
+      stages:
+
+        1. Detection of the moment of mechanical stimulation threshold (Force Sensor Data
+           Averaging): Force sensor data will be averaged by using Spike triggered averaging (STA)
+           method. For this, 50 seconds of constant time intervals of preset vibration frequency in
+           a WBV set will be used. All the positive peaks in both MMU and sEMG traces will be
+           marked. For all the positive peaks, the force sensor trace will be segmented covering 75
+           ms previous positive peak. After, cumulative average of these 6 vibration sets will be
+           averaged. The standard error on the cumulative averaged force records will be
+           calculated. The lowest point of standard error on force sensor averaging graphic will be
+           considered as the starting point of mechanical stimulation that triggers the muscle
+           response.
+
+        2. Determination of the MUAP onset: EMG data averaging method and manual method (vibration
+           stimulus and MUAP coupling) will be used.
+    
+  

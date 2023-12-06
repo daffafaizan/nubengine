@@ -1,0 +1,67 @@
+
+    
+      Patients: Thirty five patients (seventy eyes) with bilateral open angle glaucoma on
+      monotherapy with topical PGA medication in both eyes were recruited from the Montreal
+      Glaucoma Institute, Montreal, QC, Canada. Informed consent was acquired from all
+      participants. The research protocol of this study adhered to the tenets of the Declaration of
+      Helsinki. It was approved by the Maisonneuve-Rosemont Hospital Ethics committee (Montreal,
+      QC, Canada) and all patients signed a research consent form.
+
+      Study Procedures: Consenting patients undergoing topical PGA treatment in both eyes were
+      asked to discontinue the PGA in their best eye and to continue the administration of PGA in
+      the contralateral eye. All measurements were taken before PGA cessation (Visit 1) and
+      repeated 6 weeks after cessation (Visit 2). Patients then restarted the application of PGA to
+      the experimental eye and all measurements were repeated once more after an additional 6 weeks
+      (Visit 3).
+
+      The best eye was selected based on less glaucoma damages. It was defined by the results of
+      the Humphrey Visual Field (HFA, Carl Zeiss Meditec, Inc., Dublin, CA), Heidelberg Retinal
+      Tomograph (HRT II, Heidelberg Engineering GmbH, Heidelberg, Germany) and Optical Coherence
+      Tomography (CIRRUS HD-OCT, Carl Zeiss Meditec, Inc., Dublin, CA). The Humphrey Visual Field
+      defines early glaucoma as a mean defect (MD) of -2.00 to -6.00 db, moderate glaucoma as a MD
+      of -6.10 to -12.0 db and advanced as a MD less than -12.0 db. The Optical Coherence
+      Tomography enables the identification of the better linear Cup/Disk ratio, Rim area, RNFL
+      thickness and ganglion cells analysis between both of the patient's eyes. The lesser of the
+      maximum IOP values recorded in each of the patient's eyes also contributed to the selection
+      of the best eye.
+
+      Instruments: The Ocular Response Analyzer (ORA) (Reichert, INC, Depew, NY) was used to assess
+      the biomechanical properties of the cornea. This instrument utilizes a dynamic bi-directional
+      applanation process to measure the biomechanical properties of cornea and estimate IOP. A
+      rapid air pulse applies force to the cornea and an advanced electro-optical system monitors
+      corneal deformation. A precisely-metered collimated-air-pulse pushes the cornea inwards, past
+      a flat state and into a slight concavity. Milliseconds after applanation, the air pump shuts
+      off and the pressure gradually declines. As the pressure decreases, the cornea first passes
+      through an applanated state before resuming its original curved structure. The applanation
+      detection system monitors the corneal movement throughout the entire process. Two separate
+      pressure values are derived from the INWARD and OUTWARD applanation events. The difference
+      between these two pressure values is termed CH. This biomechanical property reflects corneal
+      absorption and dissipation of the energy from an applied force. Derived from the measurement
+      of CH is the Corneal resistance factor (CRF). CRF represents the cornea's ability to resist
+      deformation in the presence of an external force.
+
+      Goldmann applanation tonometry (Haag-Streit AG, Koeniz, Switzerland) is still recognized as
+      the gold standard for measuring IOP in glaucoma patients and it was performed in all patients
+      at all visits. The ORA takes the CH and CRF measurements into account to generate the
+      corneal-compensated intraocular pressure (IOPcc) value, which is mean to be less affected by
+      corneal biomechanical properties than the Goldmann-IOP. The IOP bias is estimated as the
+      difference between IOPcc and Goldmann-IOP (IOPcc - Goldmann IOP). A positive bias value
+      indicates that the IOPcc is larger than the Goldmann-IOP, meaning that Goldman tonometry
+      underestimated IOP in comparison to the IOPcc.
+
+      Four ORA measurements were taken per eye and the mean value was recorded for each parameter
+      (CH, CRF and IOPcc). Central corneal thickness (CCT) was measured by ultrasound pachymetry
+      (DGH Technology, INC, Exton, PA) and the average of three measurements was recorded. All
+      study measurements were performed by the same trained observer (RM), with the same equipment
+      and at the same time of day. All of the equipment needed for this research was calibrated
+      prior to each use.
+
+      Statistical Analysis: The hypothesis of no effect regarding the discontinuation of PGA on the
+      biomechanical properties was examined by a linear mixed-effect model using the nlme package
+      in R. Random-effects were defined on two levels: the patient (level-1) and the eye within
+      each patient (level-2). Those random-effects were added to the model to account for the
+      intra-individual variance due to the repeated-measure design. Age was also included in the
+      model as a covariate. Contrasts between the eyes and times were estimated using adjusted
+      p-values to control for familywise error rate using multcomp package in R.
+    
+  

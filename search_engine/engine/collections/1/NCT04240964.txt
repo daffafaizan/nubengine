@@ -1,0 +1,68 @@
+
+    
+      Diabetic foot osteomyelitis (Dd group) subjects (sample size ≥ 10 cases) and foot
+      osteomyelitis without diabetes (ND group) subjects (sample size ≥ 10 cases) were collected in
+      accordance with the inclusion criteria. Surgeons collected intra-operative bone specimens
+      from all 28 patients who required surgical intervention (debridement or amputation) for
+      management of their osteomyelitis[10]. Avoided soft tissue or sinus tract cultures, because
+      they were not sufficiently accurate in predicting bone pathogens[11]. Following surgical
+      debridement of infected or necrotic tissue, cleansed by sterile saline solution, deep bone
+      specimens were harvested using sterile instruments. We routinely obtained adequate bone
+      specimens and divided them into three parts. One for routine microbiology culture and
+      antibiotic sensitivity testing, one for the histopathology, and the other one for DNA
+      sequencing analysis. This process to obtain bone specimens could reduce chances of
+      contamination by wound tissue colonizing bacteria.
+
+      16S rRNA high-throughput sequencing Two specimens were sent to the laboratory for
+      conventional culturing and histopathological tests. The bone specimen left were placed in
+      sterile pipes without any transport medium and stored at 4℃ for 24 hours and then frozen at
+      -80C until DNA extraction. Genomic DNA was extracted using DNA extraction kit
+      (YiRui,ShenZhen,China) according to the manufacturer's instructions. Extracted DNA was
+      quantitative and quality control by agarose gel electrophoresis(JS-power 300, PeiQin,
+      ShangHai, China). Then we amplified the V3-V4 variable region of the 16S rRNA gene for
+      sequencing using a forward and a reverse fusion primer-（341F：5'-CCTAYGGGRBGCASCAG-3' and
+      806R：5'-GGACTACNNGGGTATCTAAT-3）(ABI GeneAmp 9700 PCR Instrument). PCR products were amplified
+      by removing short sequences, singleton sequences and noisy reads. The PCR reaction was
+      performed in a total volume of 60 μl, containing 6 μl of 10× Ex Tap PCR buffer, 6 μl of dNTP
+      mixture, 0.6μl of bovine serum albumin (BSA), 0.3 μl Ex Tag, 1μl DNA, 1.2μl forward and
+      reverse primers, and 43.7 μlH 2O. The PCR amplification was conducted under following
+      conditions: initial denaturing was conducted at 94°Cfor5min, which was followed by 27 cycles
+      at94°Cfor30s, 55°Cfor30s, and72°C for 45s. A final extension was performed at 72°C for 10min
+      from 28 samples (including DFO and SFO patients) were sequenced over two separate runs on
+      Illumina Miseq. To get high-quality clean reads, raw reads were filtered according to the
+      following rules: (1) remove reads containing morethan10% ofunknown nucleotides and(2)
+      removereads containing less than 80% of bases with quality (Q-value)>20. The filtered reads
+      were then assembled into tags according to overlap between paired-end reads with more than
+      10bp overlap, and less than 2% mismatch. The software Mothur (v.1.34.0) was used to remove
+      the redundant tags to get unique tags. The obtained unique tags were then used to calculate
+      the abundance.Then we clustered sequences into operational taxonomic units (OTUs) using the
+      Greengene. Taxonomy was assigned to OTUs using the BLASTto the Greengene database at 97%
+      similarity to identify microorganisms at the genera level (species level where possible). A
+      phylogenetic tree was built from aligned representative OTU sequences using figtree.The total
+      species diversity in a landscape was determined by two different parameters, the mean species
+      diversity in sites or habitats at a more local scale (alpha diversity) and the
+      differentiation among those habitats (beta diversity). Alpha diversity included both
+      community diversity and richness: community richness was represented by the ACE estimator or
+      the Chao1 estimator. Beta diversity was the calculation of differences(distance) between
+      microbiome community structure and membership based on the evolution of species. This kind of
+      distance was calculated using Weighted Unifrac and can be performanced by Principal
+      Co-ordinates Analysis diagram.
+
+      Metagenomes Analysis A metagenome DNA libraries from specimens were constructed using TruSeq
+      Nano DNA kit (FC-121-4002) according to the manufacturer's instructions, with slight
+      modifications. In brief, the length conformed DNA(350 bp) was obtained by sonication. DNA
+      fragments were end-repaired and the appropriate library size was selected, then the samples
+      were A-tailed and ligated to adapters. The NovaSeq 6000 sequencing systems（Illumina）were used
+      for sequencing and library validation Raw Data obtained by sequencing have a certain
+      proportion of low-quality dataaccording to the following rules: (1) remove reads containing
+      morethan10% ofunknown nucleotides and(2) removereads containing less than 80% of bases with
+      quality (Q-value)>20 . Megahit was used to splice the sequences（clean data） after quality
+      control, and contigs were obtained.Contigs were filtered below 1000bp. The vector and host
+      sequences were filtered by BLASTN, with an E-value cutoff of 1e-5. The remaining reads were
+      mapped to the human genome by SOAP alignment, and the matching reads were removed as being
+      contaminants from the host genome.The taxonomic classifications were performed on assembled
+      contigs and singletons using BLAST against the NCBI database. And the best BLAST hit was used
+      to refer the taxonomic rank of each sequence. All the analyses have been performed in R and p
+      values were corrected for multiple testing with the false discovery rate method.
+    
+  

@@ -1,0 +1,143 @@
+
+    
+      1-16
+
+      C.1.a: Overview of the Plan: This project will proceed in three iterative phases:
+      Development, Dissemination and Evaluation. Development of a) curriculum, b) virtual garden
+      and c) pedagogical agent will proceed in parallel, and be integrated during testing and
+      evaluation. A participatory research group comprised of key community members, teachers,
+      clinicians, education experts, 8-11 year old youth and their parents will be formed to
+      provide iterative rounds of input and evaluation throughout the development of Virtual
+      Sprouts. This participatory research group will provide input through focus groups, beta
+      testing, idea-building and advisement throughout the development of Virtual Sprouts. We have
+      successfully used this model in previous health and intervention studies. The participatory
+      research group is composed of about 20 diverse members so as not to tax individual members
+      with study needs and to ensure diverse input. Sub-groups of the larger participatory research
+      group are formed for specific tasks, depending on research needs and group interest. The
+      Virtual Sprouts Game will be developed around a virtual pedagogical agent, who will guide the
+      player through the game using cognitive and affective learning principles. The Virtual
+      Environment will be a game system developed using deep narrative and dramatic elements. Both
+      the pedagogical agent and game environment will be extensively and iteratively tested with
+      members of our participatory research group during development. The Virtual Sprouts game will
+      then be introduced into three of the USC Family of Schools Elementary schools, C.1.b:
+      Curriculum Development: During the first year of this grant, we will work on developing and
+      focus group testing the nutrition and gardening curriculum. Curriculum will be tested
+      iterative through focus groups and beta testing with members of the participatory research
+      group. The gardening and nutrition program will not only teach children about the health
+      benefits of fruits and vegetables but children will learn additional skills in math, science,
+      and history. The program will include lessons relating to culture, including growing crops
+      that have cultural significance such as nopales, beans, corn and squash (the latter three
+      crops are historically referred to as "the three sisters"). Gardening provides an ideal
+      vehicle for teaching Science, Technology, Engineering, and Mathematics (STEM) topics such as
+      how plants grow and how gardens can be managed in an environmentally sound manner (science
+      including biology, earth sciences, agriculture, and the study of weather and climate), how to
+      make good nutrition choices with the produce they harvest (nutrition sciences, health
+      behavior). Furthermore, thinking about planting, harvesting, and climate involves a great
+      deal of math and engineering. The web-based interactive nature of the Virtual Sprouts game
+      will introduce children to new uses for advanced technologies.
+
+      C.1.c: Game, Pedagogical Agent and Virtual Environment Integration: The game will contain the
+      Pedagogical Agent and Virtual Environment and will provide the interaction framework through
+      play mechanics. Rather than a serial task-driven game, we envision a persistent virtual
+      environment in which the player will explore Virtual Sprouts and be challenged and nurtured
+      by the agent in joint social play activities. Play experience will be episodic, requiring a
+      few minutes of play per day over several weeks. Certain interactions in the virtual
+      environment will be joint activities (such as watering or harvesting vegetables), and
+      challenges issued by the agent will involve the agent personally. For example, the agent may
+      challenge the learner to plant, grow, and harvest ingredients for a certain recipe, then
+      prepare it. Based on the quality of the learners work, the agent may like or dislike the
+      resulting meal. Use of this kind of intrinsic feedback blurs the line between learning and
+      gameplay, and makes the agent an integral and thus indispensable part of the experience.
+      During the first year, we will determine the breadth (variety) and depth (challenge) of the
+      game experience in relation to gardening and cooking tasks appropriate for the target
+      population through paper prototyping and iterative play testing (Fullerton T, Swain C,
+      Hoffman S., 2008).
+
+      C.1.d: Pedagogical Agent Components: The pedagogical agent will consist of several key
+      components that, when combined, provide a knowledgeable, friendly, and entertaining companion
+      for learning in the Virtual Sprouts environment through cognitive-affective approaches. These
+      components include:
+
+        1. Expert knowledge: The character will possess of cognitive model of effective gardening
+           and cooking that will allow it to support the activities of the Virtual Sprouts game.
+           This will enable the agent to explain how to create and maintain a healthy garden,
+           harvest and cook items from the garden, and provide explanations of the health benefits
+           of eating organically prepared foods. The expert model will also form the basis for
+           assessment of learner activities to give them credit when they take a correct action
+           (e.g., water at the correct time and amount) and to know when they've made a mistake
+           (e.g., planted two seeds too close to one another). These assessments will feed into the
+           pedagogical decision system.
+
+        2. Pedagogical knowledge: The provision of guidance requires a delicate balance of
+           providing timely (and wanted) support while allowing the learner to feel a sense of
+           freedom and remain stay in control to feel a sense of ownership of the garden. Care must
+           therefore be taken in decisions of how and when to provide guidance. Too little guidance
+           can lead to frustration for many users (i.e., the agent should be helpful), while too
+           much may threaten users' feelings of autonomy and freedom in the game environment (i.e.,
+           the agent should not be perceived as controlling). Thus, through a combination of
+           unsolicited guidance triggered by evidence of confusion and/or lack of domain knowledge
+           and solicited guidance, when the learner requests help, the agent will seek to be a
+           productive helper while ensuring that the learner is acquiring the needed knowledge and
+           skills to succeed at Virtual Sprouts, and in their regular lives as the relate to eating
+           and exercise.
+
+        3. Emotion/affect knowledge: In addition to supporting game play and providing explanations
+           for game events, the agent will also support the learner's affective state. Cultivating
+           and nurturing interest, motivation, and positive feelings about the domain are critical
+           in the pursuit of behavior change, and expressions of empathy from the agent can play
+           into the learner's willingness to remain engaged (McQuiggan, S.W., Rowe, J.P., & Lester,
+           J.C., 2008). These intervention techniques will be implemented in concert with the game-
+           and cognitive-focused tactics described above. For example, a user who is just beginning
+           and has completed his or her first vegetable will receive high praise, which will
+           diminish with time for that specific accomplishment. Similarly, for learners who express
+           a negative perception of gardening and vegetables, the agent will work harder to
+           motivate and entertain.
+
+        4. Animation and sound: As discussed above, the appearance of the agent will have an impact
+           on the learner's affective state, both during and after the interaction. A well-known
+           and respected character, such as one modeled after the First Lady (if possible), will
+           increase the chances of establishing familiarity and credibility from the outset. Use of
+           appealing animations and joint activity, such as watering the garden simultaneously,
+           will bolster feelings of co-presence and teamwork. The character's voice, which will be
+           delivered along with subtitles for English as a second language learners, will be chosen
+           based on the preferences of users from the target audience in early testing of the
+           system.
+
+      C.1.e: Game, Pedagogical Agent and Virtual Environment Development: The phases of development
+      are outlined below:
+
+        1. Domain knowledge and learning objective analysis: (Desurvire, H., & Wiberg, C., 2008).
+
+        2. Expert modeling and feedback:
+
+        3. Pedagogical agent design & prototyping:
+
+        4. Agent and game integration: I
+
+        5. Agent visual and content revisions:
+
+      C.1.g: Teacher Professional Development: The vehicle for training teachers to use the Virtual
+      Sprout game is a hybrid approach and includes a Summer Teacher Academy (STA) serving as a
+      kick off program with face to case and USC Distance Education Network (DEN) mediated, school
+      site follow-up professional development in elementary school classrooms using a lesson study
+      approach. Teacher academies have been recognized in the teacher education literature as a
+      powerful and impactful way of comprehensively training and supporting teachers (Crowther,
+      D.T., Vilá J.S., Fathman A.K., 2006).
+
+      The Summer Teacher Academy: A summer teacher academy (STA) will occur in August each
+      implementation year immediately after year one of the program's development phase and in
+      years 2-5. Through the STA, teachers will be trained annually. The academies will be three
+      days long at USC's campus as each of the target schools are in relative close proximity with
+      USC. Mornings in the academy will be spent learning the nutrition conceptual knowledge,
+      exploring the application and practicing using a guided experiential learning approach to
+      facilitating the game use. The content for the training will be aligned with grades 6-12
+      California health content standards focused on nutrition and related health. Lesson study,
+      beginning with observational demos and progressing to teacher created role-play will be of
+      focus of the professional development. The teacher participants will spend a portion of the
+      morning observing and practicing Virtual Sprouts game, discussing the application and use of
+      the game in their classrooms. As academic year follow-up, teacher participants will practice
+      using the Virtual Sprouts game application and engage in peer review of game facilitation
+      with fellow teachers (lesson study) in tandem with the USC teacher education experts in their
+      classrooms.
+    
+  

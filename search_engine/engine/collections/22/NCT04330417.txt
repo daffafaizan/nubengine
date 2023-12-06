@@ -1,0 +1,37 @@
+
+    
+      The investigators aim to develop a new bidirectional composite soft actuator that is capable
+      of assisting in both hand flexion and extension. This new class of actuator will comprise of
+      a flexion actuator component with its external bending patterns and dedicated pneumatic
+      channel, and an embedded extension actuator component with its dedicated air-flow inlet. When
+      pressurized air is introduced through the extension inlet, the extension actuator will
+      inflate and stiffen, thereby assisting in hand extension. Moreover, when pressurized air is
+      introduced through the flexion inlet, the flexion actuator will inflate and bend, thereby
+      assisting in hand flexion.
+
+      These bidirectional actuators will be embedded onto each finger segment of a fabric glove,
+      and air inflow into each of the bidirectional actuators can be controlled via a pump-valve
+      control system. The pump-valve control system comprises a microcontroller, onboard power
+      source, transceiver, motor pump, and flexion and extension control valves. Once the
+      microcontroller receives a command signal to adopt a specific hand posture, it will send the
+      postural command to the motor pump and the necessary flexion/extension control valves,
+      thereby actuating the corresponding bidirectional soft actuators to assist the user's hand
+      into the desired hand posture.
+
+      Aims:
+
+      Aim 1: The bidirectional myoelectric soft robotic glove may provide intuitive user-controlled
+      robot-assisted hand grasping postures to the human user for achieving functional tasks. With
+      the help of the glove system, participants may be more capable of achieving active daily
+      living tasks.
+
+      Aim 2: The bidirectional myoelectric soft robotic glove may provide intuitive user-controlled
+      robot-assisted hand grasping postures to the human user for rehabilitation purposes.
+
+      Hypothesis:
+
+      The central hypothesis is that a bidirectional myoelectric soft robotic glove will provide
+      intuitive user-controlled robot-assisted hand grasping postures to the human user for
+      achieving functional tasks more than no robot assistance.
+    
+  

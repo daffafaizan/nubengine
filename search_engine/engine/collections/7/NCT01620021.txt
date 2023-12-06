@@ -1,0 +1,42 @@
+
+    
+      This study will examine the feasibility of using wearable sensors to monitor common gait
+      parameters. A sensor system consisting of 8 wearable inertial measurement units (IMU) that
+      include accelerometers, gyroscopes and magnetometers will be examined. These sensors will be
+      programmed to work in unison to monitor gait parameters. The wearable sensor suite will have
+      the capability to collect and store gait parameter data. The size and weight of each sensor
+      should be similar to a standard metal wrist watch. The sensor suite will monitor three gait
+      parameters: gait speed, stride length, and torso motion. These gait parameters are important
+      for monitoring and detection of mild traumatic brain injury and as well as other neurological
+      and vestibular disorders.
+
+      The wearable sensor suite will have the following design parameters:
+
+        -  Devices must be able to both stream data real-time and record data onboard for later
+           transfer to a computer.
+
+        -  Data must be processed using a software analysis package such as MATLAB®
+
+        -  Device must be no heavier than the size of a metal wrist watch
+
+        -  Device must be easily put on and be easily operated by clinicians and users
+
+        -  Device must have a battery life of greater than 4 hours The wearable sensor suite will
+           then be validated using an eight camera Vicon infrared optical capture motion analysis
+           system for comparison. Ten healthy volunteers will be asked to complete four different
+           types of gait trials 5 times for each trial type while being monitored by the Vicon
+           motion analysis system and the wearable sensor system.
+
+      The types of gait trials will be the following:
+
+        -  Walk down a 20 ft path at self-selected normal stride length and cadence
+
+        -  Walk down a 20 ft path with increased stride length while decreasing gait speed
+
+        -  Walk down a 20 ft path with increased stride length while increasing gait speed
+
+        -  Walk down a 20 ft path with decreased stride length while decreasing gait speed
+
+        -  Walk down a 20 ft path with decreased stride length while increasing gait speed
+    
+  

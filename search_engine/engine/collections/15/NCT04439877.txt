@@ -1,0 +1,123 @@
+
+    
+      2.1. Study design
+
+      The present cross-sectional study was conducted after approval from the local Ethics
+      Committee (Ref. PER-ECL-PER-2017-08) and in accordance with the ethical principles outlined
+      in the Declaration of Helsinki. It is reported according the Strengthening the Reporting of
+      Observational Studies Epidemiology (STROBE) statement recommendations (von Elm et al., 2009).
+      Selected subjects were informed about the aims of the research, and written consent was
+      obtained before starting the study.
+
+      2.2. Study population
+
+      Patients visiting the Postgraduate Periodontology Clinic of the Faculty of Dentistry of the
+      Universitat Internacional de Catalunya (Barcelona, Spain) from January 2018 to December 2019
+      were consecutively enrolled in the study by one of the researchers (JV), if they met the
+      criteria addressed later on in the form.
+
+      2.3. Data collection
+
+      Data collection comprised a patient interview and clinical and radiographic assessment.
+      Initially, a previously trained examiner (MP) interviewed the patients and collected the
+      following data:
+
+        -  Age (years).
+
+        -  Gender (female/male).
+
+        -  Smoking habit: smoker, non-smoker or ex-smoker. In the case of smokers, the total amount
+           of cigarettes per day was categorized as < 10 or more than 10 cigarettes per day.
+
+        -  Systemic diseases: presence or absence.
+
+        -  Diabetes mellitus: presence or absence. In the case of diabetic patients, glycemic
+           control was assessed on the basis of a previous blood test.
+
+        -  Body mass index (BMI): recorded as weight (kg)/ height (m)2.
+
+        -  Dietary habits: assessed by the Mediterranean Diet Score (MDS) questionnaire
+           (Martínez-González et al., 2012) and classified as low adherence (score ≤ 5), medium
+           adherence (score 6-9) or high adherence (score ≥10).
+
+        -  Regular sugar consumption: yes or no. Sugar consumers were also asked about their level
+           of sugar intake (low, medium, high).
+
+        -  Nutrient or vitamin deficiencies: presence or absence.
+
+        -  Oral dryness: patient perception of dry mouth (presence or absence).
+
+        -  Educational level (EL): primary and secondary or professional and university.
+
+        -  Oral hygiene measures: frequency of teeth brushing and interproximal hygiene.
+
+        -  Supportive periodontal treatment (SPT): regular (≥ 2 times/year) or irregular (< 2
+           times/year).
+
+        -  Cause of tooth loss: caries, mobility, caries and mobility, and trauma/fracture.
+
+      Any doubts coming from the questionnaire were solved by the examiner. A previously calibrated
+      examiner (LG) conducted the intraoral examination (with a Cohen inter-agreement kappa index >
+      85%). The exploration was conducted to assess the following parameters:
+
+        -  Periodontal indexes: full mouth plaque score (FMPS) (O'Leary et al. 1972) and bleeding
+           score (FMBS) (Ainamo & Bay 1975).
+
+        -  History of periodontitis: assessed radiographically by the presence or absence of bone
+           loss.
+
+        -  Number of decayed, missing and filled teeth (DMFT) assessed by visual inspection and
+           radiographic assessment following the ICDAS (Pitts & Ekstrand, 2013). All tooth surfaces
+           were examined, but the observations were recorded per tooth.
+
+        -  Probing pocket depth (PPD) (in mm), bleeding on probing (BoP) (yes/no), suppuration
+           (SUP) (yes/no), keratinized mucosa (KM) (in mm) were all recorded at 6 sites per implant
+           using a PCP UNC 15 probe (Hu-Friedy ®).
+
+        -  Radiographic bone level (in mm) at mesial and distal to the implant site using the
+           parallel cone technique.
+
+        -  Implant position (anterior maxilla, anterior mandible, posterior maxilla, posterior
+           mandible).
+
+        -  Interproximal untreated caries or fillings adjacent to implants: yes/no. If these
+           conditions were present, their location was recorded (mesial, distal or both).
+
+      Patients presenting with caries or periodontal or peri-implant disease were referred to the
+      corresponding clinical department within the Universitat Internacional de Catalunya for
+      further evaluation and management.
+
+      2.4. Outcome measures
+
+      The main outcome measure of the study was the prevalence of dental caries and peri-implant
+      disease.
+
+      All other variables obtained from the questionnaire and clinical examination were regarded as
+      secondary outcome measures.
+
+      2.5. Sample size calculation
+
+      A logit regression model used to associate the outcome diagnosis at the patient level and
+      each exposure variable reached a statistical power of 82.5% in detecting odds ratio (OR) =
+      2.5 as being significant in the recruited sample (n= 169), assuming a confidence level of
+      95%. At the implant level, the power was 96.2% under the same previous conditions. Due to the
+      multi-level design, the power had to be corrected. In this regard, assuming a moderate
+      intra-subject correlation (ρ = 0.5), a power of 87.7% was estimated.
+
+      2.6. Statistical analysis
+
+      A descriptive analysis was carried out, with the calculation of absolute and relative
+      frequencies (categorical variables) and the mean and standard deviation (SD) (continuous
+      variables).
+
+      At patient level, simple binary logistic regression models were estimated to study the
+      association between the patient diagnosis (H versus M, and H versus PI) and each of the
+      exposure variables. At implant level, simple binary logistic regression models were estimated
+      using generalized estimating equations (GEEs). The models estimated odds ratio (OR) from the
+      Wald chi-squared statistic. The GEE approach addressed intra-subject dependency between
+      observations due to the multiplicity of implants per patient. Relevant exposure variables
+      (p<0.10) were incorporated into a multiple logistic regression model at patient and implant
+      level to obtain adjusted ORs. The SPPS version 21.0 statistical package (SPSS Inc., Chicago,
+      IL, USA) was used throughout. The level of significance was 5% (α = 0.05).
+    
+  

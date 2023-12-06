@@ -1,0 +1,119 @@
+
+    
+      Total duration of the RCT is 12 months, with the first 6 month as the intervention period and
+      the last 6 months as follow-up.
+
+      Community-dwelling individuals with type 2 diabetes are eligible for participation in the
+      trial, taking into account the in- and exclusion criteria described below, 160 participants
+      will be included, 80 in each study arm. Study measurements of all participants will take
+      place at baseline (month 1 (t = 0)), month 3 (t = 3), month 6 (t = 6, and month 12 (t = 12)
+      at the Maastricht UMC+.
+
+      Participants in the intervention group will be instructed to increase their LiPA by
+      decreasing sedentary time. Participants will follow 4 workshops in group sessions on
+      strategies to change their physical activity behaviour and will receive a feedback physical
+      activity monitor that will be worn continuously on the wrist and provide e-feedback on
+      activity behaviour.
+
+      Participants in the control group will receive 4 workshops in group sessions on healthy
+      lifestyle including information and strategies to increase LiPA and reduce sedentary time
+      similar to the intervention group, but will not receive a feedback-activity monitor.
+
+      Screening A preliminary screening will be carried out by telephone interview. If eligibility
+      criteria are met the participant will attend the baseline visit which starts with the
+      informed consent procedure. Afterwards, a standard physical examination will take place and
+      an ultrasound scan will be performed to screen for large atherosclerotic plaques of the
+      carotid arteries. If the participant is indeed eligible for inclusion, the investigational
+      baseline measurements are performed after which randomization will take place. From then on
+      participants will run through the protocol either being part of the intervention or control
+      group.
+
+      Measurements at the four investigational visits (t = 0, 3, 6 and 12)
+
+        -  sociodemographic data
+
+        -  medical history & medication use: by means of an interview
+
+        -  lifestyle factors (alcohol use and smoking behaviour), quality of life, depressive
+           symptoms - by means of questionnaires
+
+        -  Sedentary and physical activity monitoring: by means of the activPAL® activity monitor
+           for 7 days
+
+        -  venous sampling (approx. 40 ml per person per visit; 8 collecting tubes of 5 ml) for
+           fasting glucose, fasting insulin, HbA1c, lipid profile, creatinin, albumin and
+           biomarkers of endothelial dysfunction (vWF, s-VCAM-1, sE-selectin, sTM, SICAM-1),
+           low-grade inflammation(CRP, SAA, IL-6, TNF-alfa, IL-8) and immune cells. The remainder
+           of the material will be stored in a biobank for future determination of any potentially
+           interesting (bio)markers on the topic of physical activity. For any such future
+           procedures further approval will be sought from the METC/MUMC+.
+
+        -  Anthropometric data (height, weight, waist and hip circumference and bio-electrical
+           impedance measurements)
+
+        -  vascular measurement (arterial stiffness, microvascular function and blood pressure)
+
+        -  physical function measurements (grip strength and timed chair test)
+
+        -  Objective measurement of light-intensity physical activity through activPAL ® activity
+           monitor that will be worn for 7 days continuously at baseline, month 3, month 6, and
+           month 12. This device is blinded to the participant. Data from the activPAL provide
+           detailed and accurate information on the participants' sedentary, standing, and stepping
+           time for each day.
+
+      Sample size calculation In order to be able to detect a 10% difference in PWV and similarly a
+      10% difference in carotid distensibility (the primary objectives of the study) after the
+      intervention between the intervention group and the control group, both groups should consist
+      of at least 73 participants each if assuming a probability of a type 1 error at 0.05 (i.e.,
+      alfa) and an 80% (i.e., beta) ability to detect a true difference between the intervention
+      group and the control group. These estimates are conservative taking into account only PWV
+      values at entry and exit of the trial. The 10% difference is speculative and based upon a
+      mean PWV estimates from 'The Maastricht Study' data as there is currently no data available
+      on LiPA and arterial stiffness. In order to correct for potential drop out (roughly estimated
+      at 10%) 80 participants will be included in each group.
+
+      Statistical analysis The significance levels used in the statistical analyses will be 0.05.
+      The validity of the normality assumption will be check for all outcomes. Baseline
+      characteristics will be compared between the intervention and the control group. For
+      continuous variables (e.g. age, BMI) mean and standard deviations will be presented; numbers
+      and percentages will be shown for categorical variables (e.g. smoking, medication use).
+      T-tests will be used to compare differences in continuous baseline characteristics between
+      the intervention and control group and chi-square test will be used for categorical
+      variables. Assuming that the randomization was successful no differences are expected.
+      Missing data will be imputed using multiple imputations techniques.
+
+      Primary study parameter(s) The effect of the intervention on the primary outcome PWV at month
+      6 will be analysed using intention-to-treat (ITT) approach according to randomization
+      assignment. The ITT analyses will be used as primary method for our statistical analyses and
+      any outcomes in our reports will be primarily based upon these ITT analyses. In addition, a
+      per protocol analysis will be performed for those who attended the workshops. These analyses
+      will be used to gain some insights into any potential non-response / drop out. These per
+      protocol analyses will not be the primary source for reporting outcomes. General linear
+      models will be used to analyse the effect of the intervention on PWV at month 6. Due to the
+      COVID-19 crisis some month 6 measurement will take place at a later moment, depending on the
+      duration of this delay we will have to adjust for this in our statistiscal anlayes. In
+      addition, repeated measures will be taken into account, baseline, month 3, and month 6 using
+      mixed models in SPSS. The 3-month visits might be missing for some particiapants due to
+      COVID-19 crisis, we assume that the 6-month measurements for these particiaptns can take
+      place as planned In these models, subject is entered as a random effect and intervention
+      (categorical variable with 2 levels: 1: intervention; 2: control group) as a fixed effect
+      .The baseline value of PVW and sex will be used as covariates in analyses.
+
+      Secondary study parameter(s) Sedentary time, as measured by the activPAL will be analysed as
+      total sedentary minutes on an average day as well as the percentage of sedentary during wake
+      time. Similarly, time standing and stepping, also derived from the activPAL data will be
+      analysed. All metabolic health parameters and microcirculation measurements will also be
+      analysed as continuous variables. Quality of life and mental functioning are also analysed as
+      continuous variables. Finally, measures of body composition measures are also all continuous
+      outcomes variables
+
+      Similar to the primary outcome analyses, general linear mixed models will be used the
+      analyses the change the secondary outcome measures from baseline to month 6. Using mixed
+      models, the repeated measures will be taken into account similar the analyses with the
+      primary outcome.
+
+      All analyses, for the both primary and secondary outcomes will also be conducted for the
+      follow-up (month 12 data) to examine the long-term effect of the intervention, taking into
+      account all repeated measures (baseline, month 3, month 6) in a mixed model.
+    
+  

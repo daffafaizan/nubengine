@@ -1,0 +1,33 @@
+
+    
+      To monitor the well-being of a fetus or for a clinical diagnosis, a challenge is to extract a
+      fetal electrocardiogram (fECG) signal of high quality from a limited number of non-invasive
+      sensors on the maternal abdomen.
+
+      During childbirth, fetal monitoring is assessed by the fetal heart rate (FHR), classically
+      from cardiotocography (CTG). The aim is to monitor FHR variability anomalies that reflect a
+      too high fetal malaise. It is very common to have difficulties to reliably record FHR due to
+      confusion of rhythms of the mother and the fetus that can lead to unnecessary caesareans.
+      With 800000 childbirths in France per year, improving the reliability of FHR estimation by
+      fECG analysis is therefore of high clinicalinterest.
+
+      To deal with, the proposed approach aims at coupling two complementary cardiac information
+      acquired at the best-located position. Therefore, the proposed solution is (i) to combine the
+      use of electrophysiological sensors ECG and acoustic sensors of microphonic type that can
+      register phonocardiographic signals (PCG), (ii) to assist by computer the clinical expertise
+      to choose the best sensors location. Several methodological aspects will be considered: to
+      improve the robustness of the FHR estimation with degraded signals based on multimodality, to
+      overcome some practical limitations to extract the fECG waveforms by enhancing the process
+      extraction with PCG and to assist the user in the sensors choice and placement by predicting
+      their best locations and their kinds (ECG or PCG).
+
+      The SurFAO project proposes then an original approach of computer-assisted fetal monitoring
+      and thus differs from previous published works of fECG extraction solutions, only based on
+      algorithmic performances mostly in well-controlled situations. The original aspects of the
+      investigator's proposal are the innovative methodological choices based on multimodality and
+      informed recording process, the consideration of the medical uses and of the necessity to
+      help the clinical monitoring to design the algorithms, the new reference multimodal database,
+      and the academic-clinical consortium, that will guarantee the relevance of all proposed
+      parts.
+    
+  

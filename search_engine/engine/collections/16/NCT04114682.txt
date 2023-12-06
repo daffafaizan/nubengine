@@ -1,0 +1,163 @@
+
+    
+      There has been a surge in incidence of the metabolic syndrome; a cluster of conditions which
+      increase the risk of, type 2 diabetes (T2D) (90% of diabetes cases), non-alcoholic fatty
+      liver disease (NAFLD), non-alcoholic steatohepatitis (NASH), cardiovascular disease
+      (including ischaemic heart disease and heart failure), ischaemic or haemorrhagic stroke
+
+      This project concentrates on T2D, a disease whose multiple patho-physiological defects
+      include; increased renal glucose re-absorption, decreased peripheral glucose utilisation,
+      increased hepatic glucose production due to insulin resistance, increased glucagon secretion,
+      reduced insulin secretion (pancreas), and incretin secretion (gastrointestinal tract)
+
+      Estimated UK prevalence of T2D is 5.26%. This represents 3.3 million people (comparatively in
+      the US, 9.1% or 26.44 million people), which equates to £8.8bn in associated healthcare costs
+      in UK.
+
+      Type 2 diabetes is associated with a heterogeneity in its aetiology - this is observed in its
+      clinical presentation and subsequent rate of progression. Further factors associated with T2D
+      include micro-and macrovascular complications and an observed decline in multiple organs
+      (end-organ damage). End-organ damage contributes to the clinical picture of individuals with
+      T2D and is demonstrated when observing the high prevalence of co-morbidities in this patient
+      cohort. For example, the presence of NAFLD is seen in 60% of T2D patients, along with a
+      34.2-50.7% presence of chronic kidney disease (CKD) and a 32.2% presence of cardiovascular
+      disease (CVD).
+
+      Currently, T2D and its complications are monitored using circulating plasma and serum
+      biomarkers. However, these lack sufficient sensitivity or specificity. An example of this is
+      highlighted in one researcher's preliminary data that suggests that 85% of obese people with
+      T2D had NAFLD, detected by MRI. However, a vast proportion of this patient cohort have
+      recorded normal biochemical biomarkers, such as Alanine Transaminase (ALT).
+
+      Metformin is typically the initially treatment for T2D. However, due to its progressive
+      nature, metformin monotherapy proves to be inadequate in maintaining long-term glycaemic
+      control. Metformin has been used safely and effectively for decades, but newer drugs are
+      becoming available. Numerous recent studies have shown that newer drug classes, including the
+      SGLT-2 inhibitors and GLP1 receptor agonists (GLP-1RA), have substantial beneficial effects
+      beyond modulation of glycaemic levels, and can confer protection against CVD and CKD. It is
+      now recommended that use of these drugs is advocated for high risk populations with evidence
+      of CKD or CVD.
+
+      This proposal aims to develop an MRI-based method that is able to identify the individuals at
+      high risk of disease complications, looking particularly at renal, hepatic and cardiovascular
+      pathology, and further compare this to the conventional biochemical approach. This has future
+      potential in assisting in the stratification of patients to the most appropriate tailored
+      treatment for their disease. The investigators will further evaluate the additional
+      synergistic value of incorporating MRI-metrics into patient pathways.
+
+      There is a healthcare need to provide further decision-making support for clinicians in the
+      care of patients at risk or diagnosed with T2D. This would combine multi-modality approaches,
+      an incorporation of biochemical evaluation and imaging techniques. There is also a pressing
+      need for treatment stratification to identify the T2D patients who would benefit from being
+      triaged to receive the newer, more expensive drugs. This would also empower patients and aid
+      in their engagement of the lifestyle changes often required for treatment. This should have
+      the added benefit of reducing associated NHS costs by minimising the pool of patients with
+      severe disease, who would be highlighted through early detection and early medical
+      management.
+
+      To address this growing need, the investigators propose adding a complementary imaging aspect
+      to the currently used biomarkers. MRI, specifically, provides excellent soft-tissue contrast.
+      Perspectum's LiverMultiScan is a quantitative multiparametric MRI method, FDA-cleared and
+      CE-marked, that is used to detect and stage early liver disease. It is already widely used in
+      pharmaceutical trials for NAFLD therapeutics. The MRI metrics from LiverMultiScan can
+      quantify changes to liver tissue characteristics, like fibro-inflammation and fat, as a
+      result of intervention (for example, bariatric surgery). The accuracy and reproducibility of
+      LiverMultiScan has been demonstrated in studies scanning patients within different MRI
+      scanners. It continues to be further supported by data from clinical trials in liver disease
+      cohorts, from comparative studies that include healthy controls, as well as whole-population
+      studies in the UK and US.
+
+      With this proposal the investigators aim to develop a new MRI image analysis technique,
+      "ATLAS", that builds on LiverMultiScan technology. the investigators also plan to gather
+      clinical evidence that will demonstrate the potential added value to the NHS, as well as
+      support future regulatory clearance. The phenotypical information that ATLAS delivers,
+      combined with information from circulating biomarkers, will form the basis of a future
+      clinical decision support tool for T2D.
+
+      Perspectum has pilot data showing that LiverMultiScan can estimate portal hypertension
+      (spleen), detect pancreatitis, and characterise the tissue of the kidneys.
+
+      This proposal will extend LiverMultiScan to each of the other relevant organs - pancreas,
+      kidneys and spleen. The technical development of "ATLAS" will be complemented by the
+      accumulation and analysis of clinical data, circulating biomarkers and imaging. This
+      information will be obtained from three diverse UK clinical centres (Liverpool, Oxford and
+      London).
+
+      The innovation comes from combining a number of quantitative MRI metrics to achieve this:
+
+        -  volumes - for liver, spleen, kidneys, pancreas;
+
+        -  fibroinflammation: cT1 and/or T1 - for liver, spleen, kidneys, pancreas;
+
+        -  fat infiltration: PDFF - for liver, kidneys, pancreas;
+
+        -  aortic distensibility and diameter. The investigators will also incorporate kidney
+           diffusion and renal flow. There will be strong patient and clinician involvement in the
+           collection of patient-reported experience and outcome measures throughout the study
+           (PREMs and PROMs), both qualitative and quantitative, to reflect the patients'
+           experience of the clinical care pathway.
+
+      The resulting MRI diagnostic solution will enable rapid and comprehensive stratification of
+      T2D and affiliated diseases (NAFLD, CKD, CVD), allowing clinicians to facilitate personalised
+      medicine. It is anticipated that adopting a clinical approach which utilises ATLAS will
+      result in substantial cost savings for the NHS and will help improve patient experience by
+      providing access to advanced treatments to those patients most at risk.
+
+      The main objective of this study is to assess the health of multiple organs over a period of
+      9 months, using multiparametric abdominal MRI, in patients with type 2 diabetes who have been
+      prescribed glucose lowering therapy (as per their standard of care).
+
+      This will be a multi-site study adopting a prospective, observational, longitudinal, cohort
+      study design. There will be no intervention to the standard of care. Participants will be
+      required to attend a screening visit and additional study visits on up to three time points -
+      baseline (visit 1), a visit within 21 days of baseline (visit 2) and at 9-months (visit 3).
+      The second and third visit will involve having a multiparametric MRI scan. Where possible,
+      some visits (the screening visit visit 1 or visit 1 /visit 2) may be on the same day or
+      within standard of care, depending on patient and MRI scanner availability.
+
+      Patients with type 2 diabetes and prescribed with glucose lowering therapy (as per standard
+      of care) will be recruited from community settings, primary care centres and diabetes clinics
+      within secondary care settings. The investigators aim to recruit patients who have been newly
+      prescribed medication; also those patients undergoing treatment intensification (when an
+      additional treatment is being considered due to evidence of poor glycaemic control), as per
+      their standard of care HbA1c level results. Clinical outcome measurements, blood samples and
+      urine samples will be collected to assess the response to standard of care treatment. There
+      will be an optional thoracic echocardiogram (ECHO) included at visit 2. This is a
+      non-invasive way in which the investigators can capture data to enable us to assess
+      cardiovascular disease.
+
+      Study participants will be enrolled in this study for a total of 5-years. During this time,
+      consented participants will be asked to attend for up to 3 study visits: Visit 1 (baseline),
+      Visit 2 and Visit 3. Further to this, participants will be asked to give consent to the
+      review of their medical records at 3 time points - years 1, 3, and 5, following baseline
+      assessment. This review will be conducted by authorised study investigators who will obtain
+      clinical outcome measures relating to the study objectives, for example, measures of liver or
+      kidney function.
+
+      The primary endpoint of the study is to compare the MRI metrics for liver fibroinflammation
+      in those patients with type 2 diabetes at baseline vs. individuals who are healthy and
+      non-diabetic. Values for the healthy, non-diabetics will be provided from data from the UK
+      Biobank (UKBB) and will be selected based on the matching of gender, age, ethnicity to the
+      patients from this study with type 2 diabetes. Analysis will be based on a two-sample,
+      two-sided t-test. The sample size required to perform a t-test with 90% power and alpha of
+      0.05 would require n=150.
+
+      Participants will be identified from the community, primary care and secondary care
+      diabetes;appointments; specifically those patients with type 2 diabetes who are prescribed
+      glucose lowering treatment as per their standard of care. A member of the clinical care team
+      will provide potential participants with a study invitation letter and an accompanying
+      Participant Information Leaflet (PIL) in the following places: Liverpool Diabetes
+      Partnership/University Hospital Aintree, The Oxford Centre for Diabetes, Endocrinology and
+      Metabolism (OCDEM) Oxford University Hospitals NHS Foundation Trust, The Royal Free London
+      NHS Foundation Trust - Diabetes Department.
+
+      At each study centre, posters will be displayed around the hospitals, University departmental
+      buildings and GP practices so that potential participants can also self-refer into the study
+      by contacting the study team directly. The study will also be advertised on social media
+      platforms (for example, Twitter and Facebook), Perspectum Diagnostics Ltd's website and also
+      hospital websites. . Once a potential participant has been identified by any of these means,
+      and has expressed an interest in taking part in the study, they will be sent a Participant
+      Information Leaflet (PIL) to read. They will be allowed as much time as they require to
+      understand the details of the study and what's involved before signing the consent form.
+    
+  

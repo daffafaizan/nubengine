@@ -1,0 +1,107 @@
+
+    
+      Patients included in this dose-finding study will be enrolled consecutively after consent and
+      verification of the selection criteria, with a minimum of 24 hours after completion of
+      previous patient follow-up.
+
+      Prior to the administration of morphine, the following exams will be performed: clinical,
+      paraclinical and biological parameters.
+
+      NIV will be started and performed in BiPAP pressure mode with facial mask. A Tidal Volume
+      (Vt) to the maximum of 6 - 8ml/kg, an expiratory positive airway pressure (EPAP) of 5cm H2O
+      and the FiO2 set at 35%. The settings will be adapted according to the SpO2 (88%≤SpO2≤92%)
+      and the clinical tolerance.
+
+      Thereafter, the patients included will receive a single open-label injection of morphine (T0)
+      at the dose closest to that defined by the model (estimation by Bayesian method) from among
+      the following 4 doses: 0.02; 0.04; 0.07 and 0.1mg/kg.
+
+      A double check of the preparation of the dose administered will be carried out by a physician
+      and a nurse in an emergency department.
+
+      Each result is aimed to refine the gain function which will be used to estimate the optimal
+      dose for the next patient. The dose to be administered to the next patient will be determined
+      by the Clinical Investigation Centre based on the data of the previous patient. It will be
+      determined using a gain function whose objective is to represent the best compromise between
+      efficacy and safety. It assigns a value to the patient representing the benefit: in case of
+      toxicity this value will be 0; otherwise it will be equal to the decrease in PaCO2.
+
+      Constant monitoring for up to 4 hours will be done as part of this study to detect the
+      occurrence of adverse events. In particular, the following will be monitored: disturbances of
+      consciousness, vomiting or secretions requiring airway protection; hemodynamic instability;
+      restlessness and/or inability to keep the mask on. Therefore, ongoing monitoring for routine
+      patient care may be extended at the discretion of the clinical physician in charge of the
+      patient.
+
+      Follow-up of patients will be done in 15 minutes, 1 hour, 4 hours (or NIV stop) and 24 hours.
+      Clinical, paraclinical, biological parameters and the occurrence of adverse events will be
+      performed in 15 minutes, 1 and 4 hours follow-up. During 24 hours only the occurrence of
+      adverse event will be reported.
+
+      The trial shall be concluded when the maximum number of patients is reached (N=24), or when a
+      sufficiently accurate estimate of the dose maximizing the benefit-risk balance is obtained
+      while remaining within the toxicity limit set at a 30% probability of DLT. The precision of
+      this estimate will be measured by the ratio of the upper and lower bounds of the confidence
+      interval. If this ratio is less than 5, the precision is considered to be sufficient to stop
+      the study.
+
+      Four groups of data will be collected at different times: biological parameter, clinical and
+      paraclinical parameters as well adverse event.
+
+      Clinical parameter: demographic variable (gender, age), weight, height, BMI, Richmond
+      Agitation- Sedation Scale, Visual analog scale of dyspnea (Borg scale), numerical rating
+      scale for pain assessment.
+
+      Paraclinical parameter: Vital parameters: heart rate, respiratory rate, blood pressure,
+      ventilatory rate, SpO2, NIV settings, EPAP, IPAP and Tidal Volume.
+
+      Biological parameter: Blood count, arterial blood gas, chemistry panel.
+
+      outcome measure: Optimal dose is defined as the dose associated with the maximum of gain
+      function, used to determine the best compromise between efficacy and toxicity.
+
+      It combines:
+
+        1. The probability of dose - limiting toxicity (DTL), defined as the occurrence of one or
+           more of the following criteria occurring within 4 hours of morphine administration:
+
+             -  Respiratory Rate ≤ 10/min;
+
+             -  Richmond Agitation-Sedation Scale (RASS) < -2
+
+             -  Vomiting
+
+             -  Naloxone administration.
+
+        2. Efficacy and toxicity defined by:
+
+             -  PaCO2 1 hour after morphine injection, according to the hormetic dose-response
+                model ("J-curve": efficacy first increases with the dose, then reach a maximum and
+                decreases in case of excessive bradypnea).
+
+      Study design:
+
+      Estimation of enrollment: Up to 24 participants. The calculation of the sample size was
+      carried out by simulating several scenarios based on the prior to be used in the study. The
+      simulated scenarios are as follows: one with low toxicity (5% at 0.02 mg/kg and 30% at 0.1
+      mg/kg), one with high toxicity (10% at 0.02 mg/kg and 40% at 0.04 mg/kg) and one where the
+      toxicity is identical to the prior.
+
+      Simulation results showed a number of subjects required up to 24, with a median of 6 to 11,
+      according to the scenario. The investigators therefore chose to define a maximum number of
+      patients to 24, which is higher than the average of the worst-case scenario and corresponds
+      to the maximum number of patients required among the 100 simulations of the worst-case
+      scenario. However, it is very likely that the inclusions will be stopped earlier, when the
+      accuracy is satisfactory.
+
+      Analysis:
+
+      The method used will be an adaptive Bayesian dose-finding procedure for a binary response
+      (DLT), and a continuous response (PaCO2 used as a biomarker of efficacy and toxicity,
+      following a hormetic response), using a gain function which objectively represent the
+      compromise between efficiency and safety. The investigators will use a function already
+      described in the literature .
+
+      No interim analysis planned for this study.
+    
+  

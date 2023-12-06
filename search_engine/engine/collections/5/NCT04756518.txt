@@ -1,0 +1,24 @@
+
+    
+      This is an observational study which will be carried out at East Suffolk and North Essex NHS
+      Foundation Trust (ESNEFT) in collaboration with University of Suffolk (UoS). This research
+      study is being led by the Haematology Clinical team.
+
+      We aim to analyse subsets of lymphocytes in the prospective blood smear slides using machine
+      learning and AI algorithm obtained from patients with a positive qPCR test for COVID-19 who
+      have required a hospital admission. The control group will consist of archived blood smear
+      slide data from patients both with i) non-suspected viral infections, and ii) those with a
+      non-COVID-19 viral infection obtained prior to the emergence of COVID-19 infection in the
+      United Kingdom. In total, 785 blood smear slides will be analysed. The aim of our study is to
+      establish the diagnosis of COVID 19 infection based on lymphocyte morphology on patients with
+      COVID-19 infection from other patients with non COVID -19 viral infections. A high definition
+      single cell lymphocyte image from patients with COVID 19 infection and control group will be
+      analysed using open source histopathology imaging software CellProfiler against very fine
+      cytoplasmic and nuclear details of the cells through supervised and unsupervised machine
+      learning algorithm to identify recurring pattern that is unique to COVID 19 infection. The
+      study will also assess other relevant clinical, haematological and biochemical parameters in
+      conjunction with the above morphological features to develop a risk stratification tool to
+      predict the clinical outcome of patients with COVID-19 infection with high specificity and
+      sensitivity using bioinformatics pipeline.
+    
+  

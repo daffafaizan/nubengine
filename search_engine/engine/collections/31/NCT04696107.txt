@@ -1,0 +1,299 @@
+
+    
+      1. BACKGROUND AND RATIONALE
+
+           Many people with mCNCP experience stress, fear and depression. These emotions, mental
+           states and their associated behaviours often act as aggravating factors, amplifying the
+           perception of pain (1-3). As a result, the same stimulus produces more suffering and
+           begins a vicious circle. In this context, the acceptance and engagement therapy (ACT)
+           and mindfulness-based stress reduction (MBSR) can be very helpful in managing chronic
+           pain. These practices allow the patients to focus on participating in valuable
+           activities and finding personally relevant objectives, improving their coping in this
+           situation.
+
+           Based on systematic reviews the investigators can confirm that body-mind therapies,
+           especially MBSR and pain neuroscience education show benefits in a different kind of
+           noncancer chronic pain in the adult such as reducing the severity of pain and functional
+           limitation, maintaining the positive effects in the long term. On the other hand,
+           related to a growing interest in reducing the use of opioid medications, it is also
+           important to determine if one of the results of psychological approaches is the decrease
+           in drug use, and as a consequence, a decrease in health cost per patient. Although this
+           is one of the benefits assumed, studies about the association between pain management or
+           self-control interventions and dependence on painkillers are lacking. There are not
+           enough data about the behavioral intervention effects on the use of pain medication but
+           initially points to a reduction. Therefore, it is necessary to focus on the management
+           of the mCNCP integrally, incorporating non-pharmacological therapies that provide the
+           patients with skills to face the illness and, above all, empower themselves through
+           information and training the self-care.
+
+           Researchers propose this clinical trial to demonstrate the effectiveness of a
+           psychoeducational intervention focused on emotional coping in the control of symptoms,
+           QoL and consumption of analgesics and health resources in patients with mCNCP.
+
+        2. RESEARCH QUESTION
+
+           The early and integratively detection and approach of mCNCP are the main tools to
+           decrease its prevalence and negative effects on both the patient life and the Health
+           System. Scientific evidence supports body-mind therapies and patient education in pain
+           neuroscience that enable a positive adaptive response that appears to improve
+           functionality and QoL in people affected by mCNCP. That is why the research question
+           directed by this investigation is: "Can a psychoeducational intervention focused on
+           emotional coping reduce the pain perception and improve the QoL of adult patients with
+           mCNCP treated in Public Primary Health Centre of the Aljarafe-North Seville Area?"
+
+        3. OBJECTIVES:
+
+           3.1. Main objective: Know the effectiveness in pain perception through VNRS and QoL
+           through the EQ-5D scale of psychoeducational intervention focused on emotional coping
+           strategies, in participants with mCNCP in the Public Health Centers of the
+           Aljarafe-North Seville Area.
+
+           3.2. Specific objectives:
+
+             -  Identify the sociodemographic, clinical, psychological, and functional
+                characteristics of mCNCP patients based on disease type and sex.
+
+             -  Compare scores on pain perception and QoL between the workshop group and the
+                control group before the intervention and throughout follow-up.
+
+             -  Evaluate changes in analgesic pharmacological consumption in conventionally treated
+                participants versus those who also receive psychoeducational intervention focused
+                on emotional coping and self-control techniques.
+
+             -  Analyse the frequentation of health services and the number of days of work
+                disability caused by the intensification of pain in conventionally treated patients
+                compared to those receiving the psychoeducational intervention.
+
+             -  Assess the influence of global family functioning and emotional coping on the
+                experience of pain through the Family Apgar Scale and the Reduced Chronic Pain
+                Coping Questionnaire, respectively.
+
+             -  Assess the impact of the intervention on sleep quality and co-existing sleep
+                disorders.
+
+             -  Detect predictors of the effectiveness of psychoeducational intervention focused on
+                emotional coping and identify profiles of patients more sensitive to modify the
+                pain perception or quality of life through psychoeducational intervention.
+
+        4. SAMPLE SIZE
+
+           Based on a previous pilot study and accepting an alpha risk of 0.05 and a beta risk of
+           0.2 in a bilateral contrast, 72 subjects are required in the first group and 72 in the
+           second to detect a difference equal to or greater than 0.07 on 1 on the EQ-5D scale
+           between the two groups. The common standard desviation is assumed to be 0.16 and a
+           correlation coefficient between the initial and final measurement of 0.61. A loss to
+           follow-up rate of 10% has been estimated. (Total = 144).
+
+        5. RECRUITMENT
+
+           Participants will be recruited for clinical trials at Primary Care Centres of Public
+           Health System of Spain through the identification in the Chronic Non-Cancer Pain patient
+           registry (database).
+
+        6. ASSIGNMENT OF INTERVENTION. SEQUENCE GENERATION Participants will be randomly assigned
+           to a control or experimental group by permutations of two elements (the number of
+           groups) taken four by four (the size of the block): AABB, ABAB, ABBA, BAAB, BABA and
+           BBAA. Finally, the blocks are randomly ordered from one to six and the participants are
+           successively assigned to the corresponding option, completing the blocks in the order
+           established at random. In this way, with every four participants assigned the size of
+           the two groups will be equalized.
+
+        7. DATA MANAGEMENT
+
+           In this clinical trial, all data will be entered electronically except for comments made
+           by participants at the end of each workshop in the intervention group. Participant data
+           will be stored in numerical order in a secure location accessible only to professionals
+           who enter and analyze the data. Participant files will be kept for a period of 3 years
+           after completion of the study.
+
+        8. STATISTICAL ANALYSIS
+
+           First, a descriptive analysis of all the variables will be carried out. Qualitative
+           variables will be presented by absolute and relative frequencies and quantitative
+           variables by the mean and standard deviation or median and interquartile range,
+           depending on whether or not a normal distribution is followed.
+
+           In the second stage, an intention-to-treat analysis will be developed. To perform the
+           analysis between different variables or factors that could influence the results, the
+           Chi-square test or Fisher's exact test will be used for qualitative variables and the
+           Student's t-test and ANOVA or U of Mann Whitney and Kruskal Wallis for quantitative
+           variables, depending on whether a normal distribution is followed. To explore the
+           relationship between the dependent variables and the participants sociodemographic,
+           psychosocial and clinical characteristics, the appropriate tests will be used in each
+           situation (Student's T-test, ANOVA, Pearson's correlation coefficient) or the
+           non-parametric alternatives if necessary (U of Correlation of Mann Whitney, Kruskal
+           Wallis and Spearman). For the comparative analysis between the two intervention groups
+           and in the repeated samples of each patient, contrast tests will be used for independent
+           and related samples, respectively.
+
+           To control the possible confounding effect of some variables and/or the possible
+           interactions on the global score of EQ-5D and VNRS, multivariate regression models will
+           be run, taking into account the linear or non-linear relationship of the possible
+           predictors with the outcomes. The analyzes will also be carried out with relevant study
+           strata such as the patient's profile, detected from the cluster analysis, according to
+           variables associated with the characteristics of pain and its etiopathogenesis.
+
+           The level of statistical significance will be set at p less than 0.05. The statistical
+           analysis will be carried out with the SPSS package, version 19.0. and R Studio.
+
+        9. COMMITTEES
+
+           - Principal Investigators and Research Physician: Design of the protocol, registration
+           and conduct of the trial. Preparation of investigators brochure and case report forms.
+           Organization of meetings of the steering committee Publication of study reports.
+
+           - Lead Investigators: In each participating Primary Health Center, the principal
+           investigator (Doctor of Family Medicine) will be identified, which will be responsible
+           for the identification, patient information and recruitment.
+
+           - Data manager: Data entry, analysis and maintenance of the computer system used.
+
+           - Patient Security Committee: Within the team, a healthcare professional and an expert
+           patient will control the development of the clinical trial, ensuring that is safe for
+           the volunteers and that the project materializes as designed. A quarterly report will be
+           issued reflecting a degree of compliance from 0 to 5 where 0 is the total absence of
+           protocol compliance and 5 is absolute compliance. This commission will also be the
+           communication vehicle between the volunteers and the research team for the resolution of
+           doubts or attention to suggestions.
+
+           - Management Committee: (Principal Investigators, Monitor, Medical Investigator,
+           Administrator) Study planning, randomization, organization of meetings, provide annual
+           development report and ethics committee.
+
+       10. DATA MONITORING
+
+           10.1. Formal committee
+
+           Although this trial focuses on a psychoeducational intervention, investigators will
+           conduct quarterly reviews with the Patient Safety Committee and the Management Committee
+           to assess patient feedback. If the information provided by the patients or the data
+           analyzed at the time negatively affects the patients' clinic, the appropriate
+           modifications are made or, in your case, the suspension.
+
+           10.2. Intermediate analysis
+
+           An interim analysis on the primary endpoint will be performed when 50% of participants
+           have been randomized and completed the 6-month follow-up. An independent statistician,
+           blinded for treatment allocation, will perform an interim analysis. The statistician
+           will report to the Patient Safety Committee, which will decide on the continuation of
+           the trial and will report to the central Ethics Committee.
+
+           10.3. Auditing
+
+           The clinical trial will have a monitor who will make visits to give support and solve
+           problems. The monitor will:
+
+             -  discuss the protocol in detail and identify and clarify any areas of weakness
+
+             -  audit the quality and general integrity of the data
+
+             -  interview researchers and coordinators
+
+             -  confirm that the centre has complied with the protocol requirements
+
+             -  verify that all adverse events were documented in the correct format and that they
+                are consistent with the protocol definition
+
+             -  Verify documentation: protocol and informed consent, the corresponding approvals,
+                patient reports and documentation of dropouts and adverse events.
+
+           The scheduling of follow-up visits will depend on patient enrollment, site status, and
+           other commitments. Investigators must be available to meet with monitors.
+
+       11. ETHICAL ASPECTS
+
+           11.1 Approval of research ethics
+
+           The study design and subsequent development follow the recommendations for biomedical
+           research in humans reflected in the Declaration of Helsinki through the World Medical
+           Association. The patient will be informed verbally and with the delivery of a written
+           document of the characteristics of the study, objectives, benefits and possible derived
+           damages. Participation is voluntary and the patient will perform this right, contained
+           in the Principle of Patient Autonomy, by signing the informed consent. This protocol and
+           the Informed Consent have been reviewed and approved with applicable regulations in
+           research and human subjects by the corresponding Ethics Committee (Virgen del Rocío
+           University Hospital, Seville, Spain) with the code 1589-N-19 after modifying a
+           correction suggested minor (update of the date of the Official Data Protection Law).
+
+           11.2 Consent or assent
+
+           Family Medicine specialists at the Public Primary Health Center will present the trial
+           to patients and provide a background document explaining the study. Patients, after
+           receiving verbal and written information, will have the opportunity to discuss or
+           consult the information provided. The family doctor will get the signed informed consent
+           of the patients who accept to participate in the trial. Information documents and
+           consent forms are provided for all participants. The information document will be kept
+           by the patient and the informed consent with the names, surnames and ID will be kept in
+           a file with a unique password for each participating doctor. Once a week two of the
+           researchers will collect the paper documents and take them to the Research Unit of the
+           Hospital San Juan de Dios del Aljarafe, where the data will be coded and randomized once
+           the identity of the patient is known. These documents will be protected in a closed
+           filing cabinet belonging to the Head of the Investigation Unit.
+
+           As it is a psychoeducational intervention versus no intervention, the patient's
+           knowledge of the group to which has been assigned could condition the responses in the
+           evaluation. To minimize biases secondary to knowledge of the assigned therapy, two
+           information sheets have been designed. One of them describes in a general way what the
+           study will consist of. This will be delivered to all participants recruited by primary
+           care physicians. The second, in which the workshop is described in more detail, will be
+           given only to patients who have been randomly included in the intervention group. It
+           will be delivered at the beginning of the first workshop, being able to resolve any
+           doubt in this regard. At this point, the patient can drop out of the study if they
+           disagree.
+
+       12. CONFIDENTIALITY
+
+      For the safe handling of patient information:
+
+        1. The participants' medical record number will be coded and depersonalized, replacing the
+           participant's identification information with an unrelated number.
+
+        2. The data and the link code will be stored in a separate database using encrypted digital
+           files within password-protected folders and storage media to which only the statistical
+           professional of the study who only participates in the analysis of the data will have
+           access. data. The Management Committee will have access to the data to carry out audits,
+           without knowing the link code of each patient and therefore the identity.
+
+        3. The confidentiality of the data will also be preserved when the data is transmitted over
+           the Internet through the virtual private network of Hospital San Juan de Dios del
+           Aljarafe.
+
+      The treatment, communication and transfer of personal data of all participating subjects will
+      comply with the provisions of "Organic Law 3/2018, of December 5, Protection of Personal Data
+      and Guarantee of Digital Rights". Following the aforementioned legislation, the patient can
+      exercise the rights of access, modification, opposition and cancellation of the data, for
+      which they must contact the Patient Safety Committee. The data collected for the study will
+      be identified by a code and only a professional can relate this data to the patient and the
+      medical history. Personal data will be used exclusively for scientific or statistical
+      research purposes and will not be communicated or transferred to third parties, nor will they
+      be subject to automated decisions or international transfers. Personal data, once they are no
+      longer necessary, will be kept under the legally established deadlines, after which they will
+      be deleted. Therefore, the identity of the patient will not be revealed to anyone, except for
+      exceptions such as a medical emergency or a legal requirement. The processing of personal
+      data will comply with the requirements described in the RGPD (General Data Protection
+      Regulation).
+
+      If at any time the patient considers that the use of the data does not correspond to that
+      described above, he or she may exercise the affected rights, in the terms provided by the
+      regulations, as well as file a claim with the Control Authority Data Protection Agency ). In
+      this sense, patients can go to Avenida. San Juan de Dios, s / n, CP 41930 Bormujos, Sevilla
+      or contact our Data Protection Delegate through the email C15_DPO@sjd.es.
+
+      In compliance with article 12 of Law 14/2007 of July 3 on Biomedical Research, which
+      establishes as principles and guarantees in this field of action the requirement of a
+      favourable report issued by the Research Ethics Committee before the development of any
+      project of research on human beings, this project and all the related material that was
+      provided to the subject have been sent to the CEIC of the University Hospital Virgen del
+      Rocío for evaluation and after the indicated corrections, the favourable opinion dated
+      23/10/2019 and the Internal Code of the project 1589-N-19 have been given.
+
+      As it is a non-pharmacological clinical trial, with a low level of intervention and no
+      commercial purpose, according to sections 2 and 4 of article 9 of Royal Decree 1090/2015 on
+      the regulations on methodology and regulation of clinical trials in Spain, contracting
+      insurance would not be mandatory.
+
+      13. DECLARATION OF INTERESTS
+
+      The authors have no conflicts of interest to declare
+    
+  

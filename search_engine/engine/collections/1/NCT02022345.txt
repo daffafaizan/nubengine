@@ -1,0 +1,133 @@
+
+    
+      Design: The PCI California Audit Monitored Pilot with Offsite Surgery (PCI-CAMPOS) program is
+      a prospective, multi-center pilot trial allowing elective PCIs at hospitals without on-site
+      cardiovascular surgery in California. The pilot program was established by California Senate
+      Bill No. 891 (SB 891) which was enacted in January 2009 authorizing the California Department
+      of Public Health (CDPH) to set up a pilot program to allow California hospitals without
+      surgery on-site to perform elective PCIs. The PCI-CAMPOS program was designed to compare PCI
+      outcomes at the pilot hospitals with offsite cardiac surgery to PCI outcomes at established
+      California hospitals with onsite cardiac surgery.
+
+      The CDPH requested pilot hospital applications in December 2009, selected 6 hospitals out of
+      over 30 applicant hospitals in May 2010 and contracted with University of California, Davis
+      (UCD) to train, audit, and monitor the program. The CDPH appointed a 12 member Advisory
+      Oversight Committee (AOC) with 6 at-large members nominated by the California American
+      College of Cardiology (CAACC) and 6 members from the pilot hospitals (1 principal
+      investigator from each participating pilot hospital). The pilot program was funded by CDPH
+      from fee assessments of participating pilot hospitals. The study was approved by the
+      Institutional Review Board (IRB) at each pilot hospital and at the University of UCD
+      coordinating center, and each patient is asked to provide written informed consent for pilot
+      participation (unless unavailable in critically ill patients).
+
+      The National Cardiovascular Data Registry (NCDR®) CathPCI Registry (v. 4.3, 4.4) was selected
+      as the data entry format for both pilot hospitals and non-pilot hospitals. The pilot PCI data
+      is entered using the NCDR® CathPCI Registry v.4.3 and v.4.4 on an internet accessible UCD
+      Velos server (Velos eResearch v9.1.2, Velos, Inc., Fremont, CA). The non-pilot hospitals
+      enter their data using various NCDR® approved onsite software or the central NCDR® CathPCI
+      v.4.3 and v.4.4 website. The pilot hospital data is entered within 72 hours of each procedure
+      and immediately available to the PCI-CAMPOS coordinating center. The non-pilot data is
+      entered individually or obtained from quarterly data harvests submitted to NCDR®. After
+      masking patient, operator, and hospital identity, this non-pilot California NCDR® CathPCI
+      registry data is downloaded annually from the NCDR® center to the UCD PCI-CAMPOS coordinating
+      center. The UCD coordinating center performs all pilot audits and has full access to the
+      pilot information. The UCD coordinating center performs all pilot and comparative analyses.
+      Interim data summaries and analyses are presented to the full AOC for review at 6-12 month
+      intervals throughout the study.
+
+      Outcomes: The pilot hospital outcomes are compared with hospital outcomes from non-pilot
+      California hospitals performing either elective PCIs with surgery on-site or ST segment
+      elevation myocardial infarction (STEMI) only PCIs. The non-pilot clinical data is obtained
+      from the 120 California hospitals that submit their clinical data directly to the NCDR® data
+      center and is used for the analysis of the data. Both the non-pilot and pilot data sets are
+      analyzed and compared using SAS statistical software (version 9.3 for Windows, SAS Institute,
+      Cary, NC).
+
+      Study Participants Hospitals: The non-pilot hospital group consists of all 120 California
+      hospitals which submit PCI data directly to the NCDR® central database. For all elective
+      PCIs, these hospitals have on-site surgery available for any post-PCI patients who require
+      emergency coronary artery bypass graft (CABG) surgery.
+
+      The pilot hospital group consists of all 6 hospitals selected by the CDPH, which met the
+      eligible hospital criteria as required by SB891 SEC.2. Section 1256.01 (c) (09/25/2008).
+
+      Operators: Operators are approved to perform procedures under the pilot program based on the
+      operator criteria as required by SB891 SEC.2. Section 1256.01 (c) (09/25/2008). Pilot
+      operators underwent training for the assessment of the operator, and the assessment of
+      patient inclusion and exclusion requirements by UCD staff and were also were required to pass
+      a competency exam. Non-pilot operators did not receive special training and their identity
+      was masked to comply with NCDR® requirements.
+
+      Emergency (and salvage) pilot hospital PCIs are performed by any credentialed
+      interventionalists at the pilot hospitals. Non-emergent (elective, urgent) PCIs are
+      redirected to the pre-qualified pilot operators.
+
+      Coders: Data entry coders at each pilot hospital received an initial 1 day training session,
+      followed by a competency exam. On-going training, telephone, and email access to the
+      coordinating center are available throughout the program. Non-pilot coding is also performed
+      by coders at each onsite hospital participating in the NCDR® CathPCI Registry.
+
+      Patients: All pilot hospital patients who consent and meet the SB891 SEC.2. Section 1256.01
+      (A through D) (09/25/2008) selection criteria for PCI at pilot hospitals are enrolled in the
+      program. All patients with STEMI who present to the pilot hospitals are included in the STEMI
+      PCI group. STEMI-excluded patients who are low to moderate risk for complications are
+      included in the STEMI-excluded group. Patients deemed high-risk (both high lesion and patient
+      risk) for complications are excluded from the pilot program. These high-risk patients are
+      either discharged or transferred to non-pilot hospitals with onsite surgery for
+      revascularization with PCI or CABG.
+
+      Pilot Protocol After completion of each PCI, the required information is entered online into
+      the NCDR® CathPCI Registry v.4.3 and v.4.4 UCD server. All cases are then reviewed by the
+      central coordinating site for data field completion and data consistency. All cases with
+      complications [death, stoke, CABG, shock, congestive heart failure (CHF), cardiac arrest,
+      IABP (intra-aortic balloon pump), perforation, significant dissection, tamponade, and new
+      requirement for dialysis] and a randomized 10% of non-complication cases are then selected
+      for a pilot-site audit that includes a review of all medical records and angiographic images.
+      Audit reviews produce multiple queries that are transmitted to the hospital coders for
+      discussion with operators. An iterative process eventually leads to a consensus agreement in
+      most cases. In rare cases, when auditor-operator agreement is not achieved, the case is
+      referred to the angiographic committee or to the AOC for a final determination. The patient
+      and procedure data is stored on the Velos Server; the angiographic images are saved on an
+      Xcelera R3.3L1 Server (Koninklijke Philips Electronics N.V.); and the statistical analyses
+      are stored and performed on SAS software, version 9.3 for Windows (SAS Institute, Cary, NC).
+
+      Non-pilot Audits: California hospital PCI data that is submitted individually or at 3 month
+      harvests to the NCDR® central database is reviewed for completeness and data accuracy by
+      NCDR® and receives a red, yellow, or green light before acceptance. The vast majority of the
+      hospitals in California that perform PCI participate in the NCDR CathPCI registry. The NCDR®
+      in addition to employing robust data quality strategies for its participating hospitals also
+      performs a limited number of site audits to directly assess data accuracy. The complete NCDR®
+      non-pilot California data is downloaded annually to the UCD central site for comparison
+      analysis. The downloaded data is masked to protect patient, operator, and hospital identity.
+
+      Statistical analysis: A PCI risk model has been developed and risk-adjusted endpoints are
+      compared for the 6 pilot and 120 non-pilot hospital PCI procedures. To compare the
+      demographic and clinical profiles and observed outcomes between CA-NCDR® (non-pilot)and
+      PCI-CAMPOS (pilot), all continuous and categorical variables are reported as mean ± standard
+      deviation (SD) or percentages, and compared with the t test or chi-square test (two tailed),
+      respectively. The primary safety endpoint is a composite event which includes in-hospital
+      death (regardless of length of stay), stroke, and/or patients who were transferred for an
+      emergent CABG. The non-pilot data and the pilot data are merged as a single data source for
+      development of the risk adjustment models for the composite outcome. With the combined data,
+      we perform a bi-variable analysis to identify significant demographic and clinical risk
+      factors for the composite outcome and serve as candidate risk factors for the multivariable
+      logistic risk models. We developed both parsimonious and refined risk models with the
+      combined data and use only non-pilot data for model validation purpose. All models are
+      evaluated with the Hosmer-Lemeshow goodness-of-fit statistic. The c- statistic is reported as
+      a measure of predictive power. The refined model is then used for computation of provider's
+      expected and risk-adjusted composite event rates. A general linear model for analysis of
+      variance (GLM/ANOVA) is used to compare observed, expected and risk-adjusted composite event
+      rates between CA-NCDR® and PCI-CAMPOS hospitals. We further compute 95% confidence interval
+      (CI) of provider's risk-adjusted composite event rate using the Poisson exact probability
+      method for pilot and non-pilot hospitals and pilot operators. We determine provider's
+      performance rating based on a comparison of the 95%CI of provider's risk-adjusted composite
+      event rates and to the California average composite event rate that includes both CABG
+      on-site and off-site hospitals. Two performance rating analyses are conducted for hospitals
+      (or operators in pilot hospitals): (1) based on all PCIs and (2) based on PCIs with STEMI
+      excluded. We also assess the correlation between provider's total and STEMI excluded PCI
+      volume and risk-adjusted composite event rate among hospitals and operators in pilot
+      hospitals. All reported p-values are 2-sided, and p-value < 0.05 are considered to be
+      statistically significant. All statistical analyses are conducted at the UCD with the use of
+      SAS software, version 9.3 for Windows (SAS Institute, Cary, NC).
+    
+  

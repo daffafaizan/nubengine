@@ -1,0 +1,29 @@
+
+    
+      Patient's informed consent signature for adhesion at the study will be initially requested.
+      With their acceptance, parameters will be recorded anonymously in the Case Report Form,
+      identified by a numeric code, until hospital discharge.
+
+      The parameters analized will be related to:
+
+        -  essential patient data (identification number, gender, age, height weight)
+
+        -  basic diseases
+
+        -  associated diseases and risk factors
+
+        -  origin of the patient (department or home)
+
+        -  reason for positioning
+
+        -  hemorrhagic complications detected in the first 24 hours
+
+        -  hemorrhagic complications detected in the first 7 days
+
+        -  non-bleeding complications detected at 7 days (local and systemic infections, wound
+           delescence)
+
+      The data wil be transferred to an Excel worksheet, in order to conduct a descriptive analysis
+      related to every variable
+    
+  

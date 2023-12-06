@@ -1,0 +1,13 @@
+
+    
+      Colonoscopy is recommended as a routine examination for colorectal cancer screening. Complete
+      inspection of all colon segments is the basis of colonoscopy quality control, and furthermore
+      improves the detection rates of small adenomas. Recently, deep learning algorithm based on
+      central neural networks (CNN) has shown multiple potential in computer-aided detection and
+      computer-aided diagnose of gastrointestinal lesions. However, there is still a blank in
+      recognition of anatomic sites, which restricts the realization of AI-aided lesions detection
+      and disease severity scoring. This study aim to train an algorithm to recognize key colonic
+      segments, and testify the accuracy of each segments recognition as compared to endoscopic
+      physicians.
+    
+  

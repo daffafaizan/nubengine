@@ -1,0 +1,55 @@
+
+    
+      -  collection of FFPE samples: collection of primary or metastatic site
+
+        -  micro-dissection: only when the tumor contents are more than 90% are analyzed.
+
+      B. Data analysis and model development
+
+        -  Development goals - Analysis of prospective biomarker expression in FFPE, and frozen
+           tissue specimens
+
+           - Development of a high-risk prediction model for post-surgical morbidity in T1-stage
+           RCC
+
+             -  Contents and scope
+
+                  1. Expression analysis of prospective biomarkers in FFPE and frozen tissue
+                     samples of T1-stage clear cell type RCC : PBRM1, SETD2, BAP1, and KDM5C
+                     expressed as prognostic biomarkers of renal cell carcinoma in other studies
+
+                       -  The newly proposed FOXC2, CLIP4
+
+                            1. Mutational analysis (Transcriptome sequencing with variant calling)
+
+                            2. mRNA expression analysis (qRT-PCR) - only when the tumor contents
+                               are more than 90% are analyzed.
+
+                               - Analysis of tumor size and malignancy as a prognostic predictor of
+                               RCC
+
+                               - The expression of primary and metastatic lesions was analyzed by
+                               considering intratumor heterogeneity in RCC (Fisher exact test,
+                               Wilcoxon exact 2-tailed test)
+
+                                 -  Analysis of association with postoperative local recurrence or
+                                    distant metastasis, cancer-specific survival, and overall
+                                    survival (Cox proportional hazard regression analysis: Time to
+                                    recurrence and distant metastasis, overall survival, competing
+                                    risk method: cancer specific survival)
+
+                  2. Development of predictive model for high-risk molecular disease in T1-Stage
+                     RCC (survival rate) - elastic net Cox model in glmnet, version 1.7.3
+
+                     - prediction accuracy was evaluated using Harrel concordance probability
+                     (C-index), internal validation was performed using bootstrap
+
+                  3. Development of predictive model for preoperative molecular high risk in T1-
+                     Stage RCC (for Poor Pathologic Findings)
+
+                       -  multivariate logistic/linear regression model
+
+                       -  prediction accuracy was evaluated using Harrel concordance probability
+                          (C-index), internal validation was performed using bootstrap
+    
+  

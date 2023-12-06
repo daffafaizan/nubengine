@@ -1,0 +1,63 @@
+
+    
+      In hypoxic respiratory failure, placing patients in the prone position improves ventilation
+      to perfusion matching, alveolar recruitment, and alveolar to arterial oxygen gradients.
+      Specifically, in Acute Respiratory Distress Syndrome ARDS, proning intubated patients
+      improves overall mortality. With the emergence of SARS-COV-2, hospitals around the world have
+      seen a marked increase in patients with acute hypoxic respiratory failure and ARDS. This
+      surge in cases has prompted a search for more effective strategies to reduce intubation and
+      improve patient morbidity and mortality. One such strategy is that of voluntary proning, in
+      which awake patients are instructed to prone themselves (Early PP With High Flow Nasal
+      Cannula (HFNC) Versus HFNC in COVID-19 Induced Moderate to Severe ARDS) (COVID-19
+      smArtphone-based Trial of Non-ICU Admission Prone Positioning (CATNAP)).
+
+      This trial proposes a voluntary proning strategy in patients admitted to the hospital, not
+      yet requiring mechanical ventilation. Given the clear evidence that proning improves outcomes
+      in ARDS, investigators hypothesize that early, voluntary self-proning may prevent intubation
+      and improve mortality in patients with SARS-COV-2.
+
+      Methods
+
+      This is a pilot study of up to 100 participants at UCHealth facilities.
+
+      Patients will be assessed if they can self prone safely and be assessed against inclusion and
+      exclusion criteria within 12 hours of admission and randomized to either prone or supine
+      positioning. Baseline labs will be measured and all participants will be monitored
+      continuously via pulse oximetry.
+
+      The Standard Supine Control Group will utilize standard oxygen (O2) device in supine position
+      at approximately 30-60 degrees to target peripheral capillary oxygen saturation (SpO2) >90%
+      and the participant or nurse will document time in non-supine position.
+
+      The Prone Experimental Group will position patient in approximately 15-degree reverse
+      trendelenburg and prone using pillows for comfort. The participant will be asked to rotate to
+      prone positioning every 2 hours while awake and encourage to sleep prone overnight as
+      possible with a goal of 10-12 hours daily. Patient to log all time prone.
+
+      Treatment Failure may occur and termination of Intermittent Prone Positioning will occur.
+      This is defined as respiratory distress or a decrease in O2 saturations <90% for more than 2
+      minutes as determined by bedside nursing or per virtual pulse oximetry monitoring
+      notifications during the study on two consecutive occasions. The participant will be returned
+      to supine positioning and follow standard supine oxygenation. The participant can be
+      re-challenged in the prone position after the participant stabilizes for 2 hours. The
+      participant can also choose to stop proning and would be considered a treatment failures.
+
+      Statistical Analysis and Sample Size In New York City the intubation rate has been reported
+      at 1/3 of COVID-19 positive patients admitted to the hospital. The table below shows the
+      sample size needed for a binomial outcome of intubation when 50% of the sample is randomized
+      to Prone Positioning (PP):
+
+      Alpha 0.05 0.05 0.05 0.05 Beta 0.80 0.80 0.80 0.80 Probability of intubation with PP 0.05
+      0.10 0.15 0.20 Probability of intubation 0.33 0.33 0.33 0.33 Proportion receiving PP 0.50
+      0.50 0.50 0.50 Sample size 33 39 56 97
+
+      Expecting a 13% decrease in intubations with the prone position, investigators will use a
+      sample size of N = 100 (50 per group) in order to have 80% power with a two-sided alpha =
+      0.05 for logistic regression. ANCOVA will be used to evaluate continuous, secondary variables
+      in order to adjust for covariates. The study is powered for the primary outcome of intubation
+      or no intubation. No adjustments will be made for the secondary endpoints.
+
+      The investigators and statistician will validate the data and the study will be subject to
+      institutional quality assurance reviews.
+    
+  

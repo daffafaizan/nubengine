@@ -1,0 +1,47 @@
+
+    
+      Radiation simulation will be done in Shadyside Radiation Oncology department
+      Contrast-enhanced CT based simulation will be obtained prior to any adjuvant treatment (2-4
+      weeks post-op depending on healing). The target volume will be identified based on fiducial
+      marker placement at time of surgery as well as a detailed discussion and image review with
+      the operating surgeon. This are will be contoured on axial CT images obtained at 1.25 mm
+      slice thickness. These volumes will then be reconstructed into a 3-dimensional image set for
+      SBRT planning. Subjects will be simulated in the treatment position (supine with arms raised)
+      on the CT scanner table the appropriate immobilization. Optiray® contrast will be
+      administered intravenously at a flow rate of 2.5 mL/s. A helical CT scan of the abdomen will
+      be acquired with intravenous contrast starting 30 seconds prior to CT acquisition.
+
+      A 4D CT data acquisition for the same axial extent will be obtained. The images will then be
+      electronically transferred from the CT workstation via DICOM3 to the appropriate treatment
+      planning workstation in the department of radiation oncology. Based on axial CT images,
+      fiducial marker placement, review of the pathology report, and a detailed discussion with the
+      operating surgeon, contours will be drawn of the clinical target volume (CTV), which is
+      defined as the area at risk for microscopic disease. The planning target volume (PTV) will be
+      equivalent to the CTV unless motion is detected on the 4D motion study. If there is motion,
+      the amount of motion in the superior-inferior, lateral, and anterior-posterior directions
+      will be the margin given. Surrounding normal and critical structures will also be contoured
+      by the treating radiation oncologist including the kidneys, liver, small bowel, spinal cord,
+      and stomach if necessary.
+
+      Stereotactic Body Radiotherapy Planning An SBRT plan will be created by a medical physicist
+      based on the PTV contoured on the CT scan. The plan will be to deliver fractionated SBRT to
+      the isodose line best encompassing the PTV.
+
+      Careful evaluation of each plan will be conducted by the radiosurgical team to ensure that
+      normal tissues and critical structures tolerances are maintained.
+
+      The maximum dose (in Gy) within the treatment volume (MD), prescriptions dose (PD), and the
+      ratio of MD/PD (as a measure of heterogeneity within the target volume), prescription isodose
+      volume (PIV in mm3), tumor volume (TV in mm3), and the ratio of PIV/TV (as a measure of dose
+      conformity of the treatment relative to the target) will be recorded.
+
+      Evaluation during treatment The subjects will be carefully followed while on active treatment
+      and post-treatment for 24 months, or until death.
+
+      Treatment following SBRT All patients will have been seen in a multi-disciplinary pancreatic
+      cancer clinic. As such, they will be set up with a medical oncologist. Following completion
+      of SBRT as described in this protocol, the patient's medical oncologist may, at his/her
+      discretion, administer systemic therapy according to the current standard of care or the UPMC
+      pathways.
+    
+  

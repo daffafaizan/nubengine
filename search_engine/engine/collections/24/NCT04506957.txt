@@ -1,0 +1,59 @@
+
+    
+      The objective of this investigation is the comparison of CoOxHb, HCT and SaO2 values of a
+      blood gas analyzer (ABL 825, Radiometer Medical A/S) with simultaneously measured SpHb values
+      of the Radical 7 device during the procedure of major spine surgery.
+
+      The primary endpoint of the study is the reliability of SpHb to detect CoOxHb and its changes
+      during the process Secondary endpoint is the reliability of RadSpO2, RadPR, SpHCT and SpMET
+      to detect SaO2, PR, HCT and MetHb and its changes during the process.
+
+      Inclusion criteria:
+
+        1. Patients scheduled for major spine surger
+
+        2. Age 18 years and older
+
+        3. Written consent of the participation after clarification about the study
+
+      Exclusion criteria:
+
+        1. No consent to participate
+
+        2. No German comprehension
+
+        3. Black skin patients
+
+        4. Patients with COVID-19 illness All patients were monitored based on the institutional
+           routine monitoring for major spine surgery (continuous 2-channel electrocardiogram, a
+           continuous invasive arterial blood pressure monitoring via fluid-filled cather system,
+           inserted in the radial artery mainly of the non-dominant hand, SpO2, and in the case of
+           high-risk patient a triple-lumen central venous line). Then a single use finger sensor
+           (MasimoSet RD rainbow SET SpHb SpMet-Sensor) is attahed to the ring finger of the hand,
+           where the catheter is introduced in the radial artery.
+
+      During the surgery routinely, arterial blood samples are drawn before induction of
+      Anaesthesia, every 45 min and after acute blood loss during surgery. With each blood sample
+      for a blood gas analysis the SpHb, SpMet, PI, PVI and the low SQI are recorded.
+
+      No additional blood sampling is necessary to perfom this investigation
+
+      50 patients will be included and the duration of the study is 24 month's Sample size
+      calculation was performed with the StatsDirect Statistical Software Version 2.8.0 2013
+      (StatsDirect Ltd, Altrincham, UK) and revealed a sample size of 95 paired SpHb and CoOxHb
+      measurements to achieve a power of 0.9, α = 0.05 to detect a mean difference (bias) of CoOxHb
+      and SpHb of 0.50 g/dl with an estimated standard deviation (SD) of 1.0g/dl. The mean
+      difference is determined based on previous investigations. Continuous variables are tested
+      for normal distribution with the Kolmogorov-Smirnow test. Normally distributed data are
+      expressed as mean ± standard deviation (SD); median, interquartile range (IQR ; 25th to 75th
+      percentile) and [maximum] are specified when the data were not normally distributed.
+      Categorical variables are presented as number and percentage (%). For subgroup analysis
+      continuous variables are compared using the t-test or Mann-Whitney U test, when appropriate.
+      All tests are two-sided and a P-value < 0.05 was determined to be significant.
+
+      For all determinants that might have an impact on the fault detection of the SpHb stepwise
+      multiple regressions analysis was performed. Correlation is evaluated by Spearman rank test.
+      To determine agreement of the methods, the Bland Altman analysis for repeated measurements is
+      performed for SpHb and CoOcHb.
+    
+  

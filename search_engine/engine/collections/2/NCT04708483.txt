@@ -1,0 +1,553 @@
+
+    
+      Introduction Background information
+
+      Below, you will find an overview the publications on DCE-CT, in the context of the evaluation
+      of treatment effect in cancer patients:
+
+      Strauch L et al (Diagnostics 2016: 21;6(3) - doi: 10.3390/diagnostics6030028) provide an
+      overview of the literature available on DCE-CT as a tool to evaluate treatment response in
+      patients with lung cancer. In studies where patients were treated with systemic chemotherapy
+      with or without anti-angiogenic drugs, four out of the seven studies found a significant
+      decrease in permeability after treatment. Four out of five studies that measured blood flow
+      post anti-angiogenic treatments found that blood flow was significantly decreased. This
+      review concluded that DCE-CT may be a useful tool in assessing treatment response in patients
+      with lung cancer. It seemed that particularly permeability and blood flow are important
+      perfusion values for predicting treatment outcome. However, the heterogeneity in scan
+      protocols, scan parameters, and time between scans makes it difficult to compare the reviewed
+      papers.
+
+      The research group of van Elmpt W and Lambin P (Radiother Oncol 2017: 125(3):379-384)
+      identified tumor subregions with characteristic phenotypes based on pre-treatment
+      multi-parametric functional imaging and correlated these subregions to treatment outcome. The
+      subregions were created using imaging of metabolic activity (FDG- Positron Emission
+      Tomography (PET)/CT), hypoxia (HX4-PET/CT) and tumor vasculature (DCE-CT). Thirty-six
+      non-small cell lung cancer (NSCLC) patients underwent functional imaging prior to radical
+      radiotherapy. Kinetic analysis was performed on DCE-CT scans to acquire blood flow (BF) and
+      volume (BV) maps. HX4-PET/CT and DCE-CT scans were non-rigidly co-registered to the planning
+      FDG-PET/CT. Two clustering steps were performed on multi-parametric images: first to segment
+      each tumor into homogeneous subregions (i.e. supervoxels) and second to group the supervoxels
+      of all tumors into phenotypic clusters. Patients were split based on the absolute or relative
+      volume of supervoxels in each cluster; overall survival was compared using a log-rank test.
+      Unsupervised clustering of supervoxels yielded four independent clusters. One cluster (high
+      hypoxia, high FDG, intermediate BF/BV) related to a high-risk tumor type: patients assigned
+      to this cluster had significantly worse survival compared to patients not in this cluster (p
+      = 0.035). It was concluded that subregional analysis for multi-parametric imaging in NSCLC
+      has the potential as a biomarker for prognosis. This methodology allows for a comprehensive
+      data-driven analysis of multi-parametric functional images.
+
+      Qiao P et al (Clin Transl Oncol 2016: 18(1):47-57) have studied the feasibility and clinical
+      value of DCE-CT for early evaluation of targeted therapy efficacy in non-small cell lung
+      cancer (NSCLC). They measured tumor diameter, peak height (PH), time to peak (TP), tumor
+      mass-aortic peak height ratio (M/A), and blood perfusion (BP) in 20 patients with advanced
+      NSCLC using DCE-CT before and 7 days after treatment. Therapy efficacy was assessed with
+      conventional CT 4-6 weeks post-treatment. Patients were grouped into those with partial
+      response (PR), stable disease (SD), and progressive disease (PD) according to the therapy
+      efficacy assessment at 4-6 weeks post-treatment. The PR group primary tumor diameter (P =
+      0.0007) and BP (P = 0.0225) were reduced at 7 days post-treatment; the SD group DCE-CT value
+      changes were not significant. The PD group M/A (P = 0.0443) and BP (P = 0.0268) were
+      increased 7 days post-treatment. The BP decrease group had significantly longer
+      progression-free survival than the BP increase group (median, 54 vs. 6 weeks). This study
+      concluded that DCE-CT can evaluate targeted therapy efficacy at 7 days post-treatment.
+      Decreased primary tumor diameter and BP indicate tumor sensitivity to therapy; increased BP
+      with unchanged tumor diameter suggests the tumor is not sensitive to therapy. Reduced BP
+      suggests treatment effectiveness.
+
+      Hwang et al (Eur Radiol 2013: 23(6):1573-81) compared tumor enhancement patterns measured
+      using DCE-CT with tumor metabolism measured using PET-CT in patients with non-small cell lung
+      cancer (NSCLC) and stable disease after chemotherapy or chemoradiotherapy. After treatment,
+      75 NSCLC tumors in 65 patients who had stable disease on DCE-CT according to Response
+      Evaluation Criteria in Solid Tumor (RECIST) were evaluated using PET-CT. On DCE-CT, relative
+      enhancement ratios (RER) of tumor at 30, 60, 90, 120 s and 5 min after injection of contrast
+      material were measured. Metabolic responses of tumors were classified into two groups
+      according to the maximum standardized uptake value (SUVmax) by PET-CT: complete metabolic
+      response (CR) with an SUVmax of less than 2.5, and non-complete metabolic response (NR) with
+      an SUVmax of at least 2.5. Using the optimal RER₆₀ cutoff value of 43.7 % to predict NR of
+      the tumor gave 95.7 % sensitivity, 64.2 % specificity, and 82.1 % positive and 95.0 %
+      negative predictive values. After adjusting for tumor size, the odds ratio for NR in the
+      tumor with an RER60 of at least 43.7 % was 70.85 (95 % CI = 7.95-630.91; P < 0.05). Even when
+      disease was stable according to RECIST, DCE-CT predicted hypermetabolic status of residual
+      tumor in patients with NSCLC after treatment.
+
+      Rationale of the clinical investigation
+
+      For the evaluation of response to anti-tumoral therapy in thoracic tumors, merely morphologic
+      information is often not sufficient for early response evaluation as dimensions of the
+      oncologic lesions are not changing during the first weeks of treatment. To be able to measure
+      functional changes, dynamic contrast-enhanced CT (DCE-CT) seems promising as a biomarker for
+      early therapy monitoring.
+
+      Having an early biomarker for treatment monitoring will allow to increase patients' prognosis
+      if a non-responder is earlier detected, will optimize the use of expensive treatments, is
+      expected to shorten hospitalization and shorten absence at work, and to decrease side-effects
+      of (adjuvant) medication.
+
+      Objective of the study
+
+      Primary objectives The primary objective is to investigate the potential of functional
+      imaging (i.e. DCE-CT), as analyzed by the Hyperfusion analytic software, as an early
+      biomarker for the evaluation of therapy response in primary thoracic malignancy.
+
+      Secondary objectives
+
+      There are two secondary objectives:
+
+      To define internal system parameters and perfusion parameter thresholds that maximize the
+      accuracy of the outcomes and to define the correct category (PD, SD, PR, CR); and To compare
+      the predicted categorization to the assessed RECIST1.1 categorization.
+
+      Endpoints Primary Endpoint The primary endpoint is to directly compare the biomarker of the
+      HF analysis software at week 3 (+- 1 week) and week 8 (+- 3 weeks) with the eventually
+      reported Progression-Free Survival (PFS) intervals and Overall Survival (OS) in this study.
+      The prediction of the four classes (PD, SD, PR and CR) is based on "significant changes" (see
+      7.2) in HF biomarker. PFS intervals are determined by the clinician and are based on
+      RECIST1.1 and additional clinical and biochemical progression markers. The focus will be on
+      evaluating the accuracy of the prediction as well as how early the prediction was correct.
+
+      Secondary Endpoints There are two secondary endpoints corresponding to the two secondary
+      objectives.
+
+      The internal parameters for the HF biomarker, e.g. magnitude of the Ktrans decrease, and the
+      change in volume of unhealthy tissue, need to be determined to define the classification (PD,
+      SD, PR and CR) by the HF analysis software. These parameters are optimized to optimally
+      predict the classification according to PFS and OS. This will be done by splitting the data
+      into a train and test set to ensure generalization.
+
+      The classification of the HF analysis software will be compared to the purely morphological
+      classification by RECIST1.1 to identify correlation. Furthermore, some cases will be
+      investigated where the HF analysis performs noticeably better or worse than RECIST1.1 in
+      predicting PFS and OS. Finally, the difference in time to the first correct prediction is
+      compared between HF and RECIST1.1.
+
+      Study Design
+
+      This prospective, monocentric (currently, however we do foresee to collaborate with other
+      centres to include patients with colorectal liver metastases; also other types of solid
+      tumors could be included; see ) study is part of the clinical β-phase. We aim to test
+      pre-release versions of the Hyperfusion.ai software under real-world working conditions in a
+      hospital (clinical) setting. It is important to note, though, that the results of the
+      software analysis will not be used by interpreting physicians to alter clinical judgement
+      during the course of the clinical trial.
+
+      A prospective study including 100 inoperable patients in UZ Gent suffering from primary
+      thoracic malignancy (≥15mm diameter) will be conducted. For this study, in total 3 CT scan
+      examinations of the thorax will be performed (a venous CT examination of the thorax in
+      combination with a DCE-CT scan of the tumoral region).
+
+      All patients will be recruited from the pulmonology department. Oncologic patients are
+      clinically referred with certain intervals for a clinically indicated CT scan (being part of
+      standard care). In the study, two clinical CT examinations that are performed standard of
+      care (baseline CT examination and CT examination at week 8 (+- 3 weeks) after start of
+      systemic therapy) will be executed by also adding a DCE-image of the primary thoracic
+      malignancy to this examination. This DCE-image is performed during the waiting time before
+      the venous/morphologic phase. Consequently, from a clinical point-of-view, the time to scan
+      remains exactly the same. With regard to the contrast agent, an identical amount is injected
+      as is the case in standard of care, but the contrast bolus is split in two parts - see also
+      addendum with DCE protocol.
+
+      In this study there is one additional CT-examination (DCE-scan of the thoracic malignancy in
+      combination with venous CT scan of the thorax) at week 3 (± 1 week).
+
+      Population Number of subjects At least one hundred patients will be included in this study.
+      Inclusion criteria Inoperable patients suffering from primary thoracic malignancy or second
+      line patients having had a therapy pause of at least 6 weeks; at least one tumoral
+      lesion/component should be at least 15mm in diameter.
+
+      Exclusion criteria All patients less than 18-years-old. Documented allergy for iodine.
+      Neutropenia (absolute White Blood Cell count ≤ 1.5 × 109/l). Thrombopenia (absolute platelet
+      count ≤ 100 × 109/l). Renal insufficiency: serum creatinine ≥ 1.5× the upper limit of normal
+      (ULN); 24-hours creatinine clearance ≤ 50ml/min).
+
+      Serum bilirubine ≥ 1,5 x ULN, AST ≥ 2,5 x ULN, ALT ≥ 2,5x ULN. Brain metastases. Withdrawal
+      and replacement of subjects
+
+      Criteria for withdrawal
+
+      Subjects may prematurely discontinue from the clinical investigation at any time. Premature
+      discontinuation from the study is to be understood when the subject did not undergo end of
+      study examination.
+
+      Subjects can be withdrawn under the following circumstances:
+
+      at their own request; if the investigator feels it would not be in the best interest of the
+      subject to continue; if the subject violates conditions laid out in the informed consent form
+      or disregards instructions by the clinical investigation personal; in case of significant
+      study intervention non-compliance;
+
+      In all cases, the reason why subjects are withdrawn will be recorded in detail in the CRF and
+      in the subject's medical records.
+
+      A subject will be considered lost to follow-up if he or she fails to return for the scheduled
+      visits and is unable to be contacted by the study site staff. The following actions must be
+      taken if a subject fails to return to the clinic for a required study visit:
+
+      The site will attempt to contact the subject and reschedule the missed visit. Before a
+      subject is deemed lost to follow-up, the investigator or designee will make every effort to
+      regain contact with the subject (where possible, 3 telephone calls and, if necessary, a
+      certified letter to the subject's last known mailing address or local equivalent methods).
+      These contact attempts should be documented in the subject's medical record or study file.
+
+      Should the subject continue to be unreachable, he or she will be considered to have withdrawn
+      from the study with a primary reason of being lost to follow-up.
+
+      Should the clinical investigation be discontinued prematurely, all clinical investigation
+      materials will be retained and the sponsor will notify the relevant regulatory authorities
+      and ethical committees.
+
+      Replacement policy
+
+      Drop-outs will be replaced.
+
+      Restrictions and prohibitions for the subjects
+
+      All patients must refrain from any food and drinks at least 4 hours before the CT-examination
+      (standard of care).
+
+      Possible advantages and risks for the subjects
+
+      At this stage there are no advantages for the patients studied. As a result of this study, we
+      anticipate that DCE-CT and the concurring Hyperfusion.ai analysis will function as an early
+      biomarker for treatment monitoring, thereby optimizing tumor treatments. So, for future
+      patients it is hoped that this study will prolong the PFS (progression-free survival).
+
+      There are no other risks than those associated with an intravenous injection of iodine-based
+      contrast-agent (fully comparable with standard of care IV injections of iodine). In this
+      patient population, there is no risk associated with the increased x-ray dose applied.
+
+      Methodology
+
+      Medical device description
+
+      Intended use and instructions for use Intended use
+
+      Hyperfusion.ai's software as a medical device is intended to be used by physicians in order
+      to perform a post-processing analysis of DCE-imaging, with the intention of accurately
+      calculating perfusion parameters.
+
+      Hyperfusion.ai's software is a radiological computer-assisted therapy monitoring software
+      device intended to be used concurrently by interpreting physicians while analysing DCE-images
+      that stem from medical imaging types and modalities, such as compatible computed tomography
+      scanners (CT), magnetic resonance imaging scanners, and others. The system computes perfusion
+      parameters within one scanning session and calculates the relative difference between
+      different scanning sessions. These findings assist interpreting physicians in evaluating
+      tumor response rate that may be confirmed or dismissed by the interpreting physician.
+
+      Consequently, this software is perceived as Class IIb, according to (Rule 11) of the MDR
+      2017/745, in the idea that Hyperfusion's software is 'intended to provide information which
+      is used to take decisions with diagnosis or therapeutic purposes.'
+
+      Delivery of the medical device The medical device software will not be accessible at the site
+      during the course of the clinical trial. Hyperfusion's software analysis is cloud-based and
+      can currently only be accessible by personnel of the manufacturer.
+
+      During the course of the clinical trial, the site (Department of Radiology) will be asked to
+      send the DICOM-data to Hyperfusion.ai via a highly-secure DNS-server that will be provided by
+      Hyperfusion.ai.
+
+      The processing result will be made available to the physician for download at an agreed cloud
+      location.
+
+      Storage of the medical device
+
+      The output of Hyperfusion.ai software analysis, will be stored at the highly-secure cloud
+      storage servers Hyperfusion uses.
+
+      Packaging and labeling of the medical device
+
+      The results will be provided to the physician in a digital form including the perfusion
+      parameter maps and the generated PDF-report. There will be a supporting document
+      (Instructions for use) to aid physicians in accurately interpreting the report. The following
+      information will be mentioned as 'label' on the PDF report:
+
+      The Medical Device Regulation 2017/745 requires for each investigational device to be
+      specifically labelled. As this concerns a software analysis (without user interface) which
+      generates a PDF-report for the user, the first page of this (unique) report contains the
+      following information:
+
+      Identification of the investigational device Hyperfusion.ai Kleemburg 1, 9050 Gentbrugge
+      Belgium info@hyperfusion.ai
+
+      The information in this report can only be used in the context of clinical investigation. If
+      interpreting physicians intend to use this report to alter their clinical judgement,
+      Hyperfusion.ai will not be held accountable.
+
+      UDI: 'HF-61fcda38 Report identificator: 'HF-8901
+
+      Known reactions/side effects of the medical device
+
+      Since the medical device functions in the form of a pipeline of software-algorithms, no side
+      effects can occur.
+
+      Study Specific Procedures
+
+      Screening visit This step is standard of care. At time of the first referral consultation
+      within the framework of the patient's oncologic rehabilitation, the pneumonologist will
+      determine whether the patient is eligible for systemic treatment, and fits the inclusion and
+      exclusion criteria.
+
+      Informed consent will be explained to the patient at first by the study coordinator. If the
+      patient is willing to participate more detailed information is communicated by the physician.
+      Final informed consent is obtained by the physician and 3 CT examinations (baseline, week 3
+      and week 8) will be planned.
+
+      Baseline CT examination A baseline CT-examination is standard of care. Maximally 28 days
+      before the start of systemic treatment the baseline CT examination is performed. This
+      includes a standard of care CT in combination with a study specific DCE-CT scan. Detailed
+      information on how to perform the study specific DCE-CT scan can be found in addendum with
+      DCE-CT protocol. The patient receives an identical dose of intravenous iodine based contrast
+      agent as in standard of care (venous phase) CT examination (contrast agent bolus is split in
+      2 parts - see explanation earlier/above).
+
+      Follow-up visit 1 The follow-up visit 1 is standard of care. 3 weeks (+/- 1 week) after the
+      start of the systemic treatment, a study specific DCE-CT scan will be scheduled at this visit
+      in combination with a venous phase CT. Detailed information on how to perform the study
+      specific DCE scan can be found in addendum with DCE-CT protocol. The patient receives an
+      identical amount of contrast agent during this CT examination when compared to standard of
+      care (venous) CT.
+
+      Follow-up visit 2 The follow-up visit 2 is standard of care. 8 weeks (+/- 3 weeks) after the
+      start of the systemic treatment follow-up visit 2 is planned. This visit is identical as
+      follow-up visit 1.
+
+      Follow-up until PFS. After follow-up visit 2, no study specific assessments will be performed
+      anymore. Data on the morphologically (standard of care) CT examinations based RECIST 1.1 will
+      be collected until PFS (and potentially Overall Survival). All patients will be in follow-up
+      at least until PFS (even after closing the clinical trial when the last patient has been
+      included). A maximum term for follow-up is however set at 1 year after the initiation of
+      therapy in all patients.
+
+      All patients are followed-up in standard care until PFS. For this clinical trial we aim at
+      following-up the patient until PFS but a maximum term for follow-up is set at 1 year after
+      the initiation of therapy for the patient. Data on adverse events will not be collected
+      anymore during follow-up until PFS. Only 'Death' will be reported to the sponsor.
+
+      During the clinical trial, data on tumor-type, applied systemic treatment, medical history,
+      gender and age will be collected.
+
+      Flowchart
+
+      Screening Baseline (T0 -28d) start systemic treatment (T0) FU visit 1 (T0 + 3 weeks (+/- 1
+      week)) FU visit 2 (T0 +8 weeks (+/- 3 weeks)) FU until PFS (max 1 year) Informed consent x
+
+      Inclusion/exclusion criteria check x
+
+      medical history x
+
+      demographic data x
+
+      morphologic scan, including RECIST
+
+      x x x x x documentation of applied treatment
+
+      x
+
+      DCE- CT scan
+
+      x
+
+      x x
+
+      Adverse event check
+
+      x x x x
+
+      reporting of death
+
+      x x x x x FU = Follow-up End of study
+
+      The end of study intervention is reached when the last subject (inclusion of patient 100),
+      has completed follow-up visit 2.
+
+      Overall, the end of the study is reached when PFS is reached in all included patients or 1
+      year after the last patient has started treatment. Between the end of study intervention and
+      PFS, data of standard of care CT examinations based on RECIST 1.1 will be collected.
+
+      Blinding
+
+      Blinding of patients or study personnel is not applicable in this trial.
+
+      Study analysis
+
+      Sample size calculation
+
+      One hundred patients will be used as a sample size. A preliminary power analysis for
+      determining the sample size was performed. Preliminary results have shown that a Ktrans
+      reduction of 40% would be indicative for differentiating between treatment responders and
+      non-responders. A preliminary power analysis under these assumptions shows that for a
+      statistically significant difference in mean value of 0.6 results in a power of 0.8439 for
+      100 patients.
+
+      Statistical analysis
+
+      The statistical analysis would be performed in-house by Ir. Verhack, PhD
+      (ruben@hyperfusion.ai) and Ir. Van den Abeele, PhD (floris@hyperfusion.ai).
+
+      In the following, two analyses will be proposed that support the primary endpoint and the
+      second secondary endpoint. Both analyses will be performed twice, once using the HF
+      prediction at week 3 (+- 1 week) and once using the prediction of week 8 (+- 3 weeks).
+
+      Two interim analyses will be performed over the course of the clinical study. The first will
+      be after 10 patients have been followed up for 6 months, and the second will be when 50
+      patients have been followed up for a year. The final analysis will be performed at the end of
+      the year 2 follow-up.
+
+        1. Analysis of correlation between HF biomarker and PFS and OS
+
+           First, the goal is to investigate if the HF biomarker based on Ktrans is indeed a viable
+           early biomarker to indicate treatment response or not. Therefore, a to-be-defined
+           descriptive statistic of the evolution of Ktrans (i.e. HF biomarker) will be compared to
+           the binary dependent variable responder/non-responder. The dependent variable is
+           determined from PFS and, in parallel, from OS. If there has been no event (progression
+           or death) before the last follow-up, then the patient is considered to be a "responder".
+
+           Two hypotheses will be tested. The first hypothesis states that the HF biomarker does
+           not significantly decrease for the responders group. The second hypothesis states that
+           for the non-responder group, there is no significant decrease in the HF biomarker. In
+           order to assess statistical significance for testing the null hypotheses, a paired
+           t-test is used with a p-value of 0.05 is considered. Note that the above sample size
+           calculation is based on this analysis.
+
+           Second, an analysis will be performed in which the survival curves of each prediction
+           class (CR, PR, SD, PD) is compared. As such, the duration until progression is taken
+           into account as well. Alternatively, these categories can be grouped into responders
+           (CR, PR) and non-responders (SD, PD). The survival curves are estimated using
+           Kaplan-Meier estimates [Friedman2010], keeping in mind the common pitfalls in working
+           with censored data using PFS [Korn2013].
+
+        2. Analysis of the correlation between the HF classification and RECIST1.1
+
+      Both prediction strategies result in the same classification which involves ordinal data with
+      four choices (CR, PR, SD, PD). The statistical analysis will investigate the correlation
+      between the two ordinal variables. The null hypothesis is that there is no linear relation
+      between the two variables. A p-value of 0.05 will be used to determine statistical
+      significance. The two ordinal variables will be compared using cross tabulation, Pearson and
+      Spearman's correlation coefficient. Alternatively, if there are issues with this statistical
+      analysis, e.g. it might be difficult for the HF software to distinguish between SD and PD,
+      then these two categories will be merged accompanied by an explanation.
+
+      [Korn2013] Korn, R. L., & Crowley, J. J. (2013). Overview: Progression-Free Survival as an
+      Endpoint in Clinical Trials with Solid Tumors. Clinical Cancer Research, 19(10), 2607-2612.
+      https://doi.org/10.1158/1078-0432.CCR-12-2934
+
+      [Friedman2010] Friedman, L. M., Furberg, C. D., & DeMets, D. L. (2010). Fundamentals of
+      Clinical Trials. https://doi.org/10.1007/978-1-4419-1586-3
+
+      Indemnity insurance
+
+      During their participation in the clinical investigation the patients will be insured as
+      defined by legal requirements. An insurance with no fault responsibility has been foreseen by
+      the sponsor in accordance with the Belgian law concerning experiments on humans, 7 May 2004.
+
+      Final Report
+
+      Within one year after the final completion of the study, a full final report will be written
+      by the sponsor and submitted to the central ethical committee and competent authority. The
+      Sponsor will pass this report to all local Principal Investigators for submission to their
+      local EC if defined by their institution's procedure.
+
+      Publication policy
+
+      This study will be registered at Clinicaltrials.gov prior to inclusion of the first subject.
+      Results information from this study will be submitted to Clinicaltrials.gov. Furthermore, the
+      sponsor & cooperating departments aim to publish in the following journals:
+
+      The New England Journal of Medicine British Medical Journal The Lancet Oncology Journal of
+      Clinical Oncology
+
+      Data Handling Case Report Form (CRF)
+
+      The source documents are to be completed at the time of the subject's visit. The CRFs are to
+      be completed within reasonable time after the subject's visit. For this study a digital CRF,
+      Smart-Trial software will be used. The following data might be collected in the CRFs over the
+      course of the clinical trial:
+
+      Demographic info Age Gender Medical history Other relevant demographic parameters
+
+      Diagnostic info:
+
+      Clinical diagnosis files Medication Specific to tumoral pathology Chemotherapy:
+      Platinum-based doublets, carboplatin/nab-P regimen, … Targeted therapy (biologicals:
+      Pembrolizumab, anti-PD-(L1) inhibitors, Nivolumab plus ipilimumab,...) Immunotherapy General
+      medication Blood analysis Complet (red blood cells, white blood cells, platelets) Liver
+      enzymes (transaminases, bilirubin, gGT) Renal function (creatinine, ureum, Glomerular
+      Filtration Rate) Bone biochemistry (calcium, calcitonin) Tumor markers: CEA
+      PET/CT-examinations: DICOM-images of other examinations that will be performed over the
+      course of this clinical trial.
+
+      For each subject enrolled the CRF will be signed by the principal investigator or
+      co-investigator. This also applies to those subjects who fail to complete the study. If a
+      subject withdraws from the study, the reason must be noted on the CRF. CRF entries and
+      corrections will only be performed by study site staff, authorized by the investigator and in
+      accordance with ISO 14155.
+
+      Errors will be logged by the software and corrections will be initiated and dated by the
+      study member that made the correction.
+
+      Entries will be checked by trained personnel (Monitor) and any errors or inconsistencies will
+      be changed immediately.
+
+      The original completed and signed CRFs will be collected at the end of the study by the
+      sponsor.
+
+      The Principal investigator must verify that all data entries in the CRFs are accurate and
+      correct. If certain information is Not Done, Not Available or Not Applicable, "N.D." or
+      "N.AV." or "N.AP", should be entered in the appropriate space.
+
+      Data directly collected in the CRF (no source available)
+
+      The DCE-images (in DICOM-format) can be regarded as sources-files and will, consequently, be
+      collected in the CRF directly. They will be pseudonymized before being sent to the sponsor.
+
+      Pseudonymized data will be sent to the cloud where it can be downloaded by Hyperfusion.ai.
+      Hyperfusion.ai analysis will be performed in a pseudonymised way. A PDF-report will be shared
+      after each CT examination to the study coordinator.
+
+      Direct access to source data / documents
+
+      The investigator will permit trial-related monitoring, audits, IRB/IEC review, and regulatory
+      inspection(s), providing direct access to source data/documents.
+
+      Archiving
+
+      The investigator and sponsor specific essential documents will be retained for at least 20
+      years. At that moment, it will be judged whether it is necessary to retain them for a longer
+      period, according to applicable regulatory or other requirement(s).
+
+      Quality assurance and periodic monitoring
+
+      The investigator will maintain adequate and accurate records to enable the conduct of the
+      study to be fully documented and the study data to be subsequently verified. These documents
+      will be classified into two different categories: investigator's file, and subject clinical
+      source documents.
+
+      The investigator's file will contain the documents as per EUROPEAN Standard of EN ISO 14155
+      (incl. GCP) and local regulations.
+
+      Regular monitoring will be performed by Hiruz CTU according to ICH GCP and ISO 14155. Data
+      will be evaluated for compliance with the protocol and accuracy in relation to source
+      documents. Following written standard operating procedures, the monitors will verify that the
+      clinical trial is conducted and data are generated, documented and reported in compliance
+      with the protocol, ISO 14155 and the applicable regulatory requirements. To be ISO 14155
+      compliant at least 3 monitoring visits are scheduled. An initiation visit, one routine visit
+      and a final visit after the last patient had finished the study. The monitor will be working
+      according to SOPs and will provide a monitoring report after each visit for the sponsor and a
+      follow-up letter to the investigator. Depending on the quality of the data, additional
+      monitoring visits will be necessary according to the sponsor's discretion.
+
+      More detailed information regarding the monitoring can be found in the monitoring plan which
+      will be the responsibility of the HIRUZ.
+
+      14 Designation
+
+      I certify that I will conduct the study in compliance with the protocol, any amendments,
+      GCP/ISO 14155, the declaration of Helsinki, and all applicable regulatory requirements.
+
+      Principal Investigator:
+
+      Name: Professor Veerle Surmont
+
+      Title: Prof. dr.
+
+      Date: 18/07/2020
+    
+  

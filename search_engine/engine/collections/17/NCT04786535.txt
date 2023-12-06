@@ -1,0 +1,61 @@
+
+    
+      A controlled, randomized, crossover clinical trial is planned to compare the magnitude of the
+      B2-microglobulin reduction rate in three different extracorporeal therapies (ETs): HDc, HDx,
+      and HDF.
+
+      The selection of study subjects will be consecutive and for convenience
+
+      This study will be divided into six periods: three treatment periods (one for each therapy to
+      be compared) and three of "washout" periods (interspersed between the treatment periods). The
+      treatment periods will last four weeks (12 ET sessions, three per week) and will be preceded
+      by a one-week washout period (three ET sessions)
+
+      After inclusion in the protocol, patients will be randomly assigned (with the help of a table
+      of random numbers) to one of three ETs to be evaluated (HDc, HDx, or HDF). Afterwards, the
+      first washout period will begin with high-flow conventional hemodialysis (HDc). At the end of
+      the first washout period, the ET randomly assigned to one of three ETs to be evaluated (HDc,
+      HDx, or HDF), following the sequence: Washout 1 -> Period 1 (HDC, HDx, or HDF) -> Washout 2
+      -> Period 2, etc.
+
+      For each period of ET, there will be two sampling times: baseline and final
+
+      Blood samples will be obtained through the arterial port of the extracorporeal circuit, at
+      the beginning and at the end of the ET session. The "slow flow" method will be used (UF: 0
+      mL/min, Qd: 0 mL/min, and Qb: 100 mL/min, for 30 seconds, before extracting the sample from
+      the arterial port) (24). Blood samples will be collected in dry tubes (without anticoagulant)
+      and centrifuged for 10 minutes at 3,000 RPM. The supernatant will be divided into three
+      aliquots and stored at -70°C for further processing.
+
+      To calculate sample size, the formula for a noninferiority study was used (Pharmaceutical
+      statistics. 2016;15(1):80-9), which is detailed below:
+
+      n= ((r+1) (Z_(1-β)+Z_(1-α) )^2 σ^2)/(r((μ_A-μ_B )-d_NI )^2 )
+
+      The terms above, are substituted with values obtained from the publication of Kirsch et al.
+      (Nephrol Dial Transplant. 2017 Jan 1;32(1):165-172) as follows:
+
+      Objective: Non-inferiority (Ho µA - µB ≤ -dNI vs. µA - µB > -dNI) Outcome: B2-microglobulin
+      reduction rate. r: allocation ratio by group:1 beta: type II error (90% power):1.2816 alpha:
+      type I error (level of significance 5%):1.960 (variance in the population):1.33 µA - µB
+      (magnitude of the observed effect):80.6 - 78.5 = 2.1 dNI (non-inferiority limit): 3.5
+
+      n= ((1+1) (1.2816+1.960)^2 〖(1.33)〗^2)/(1((2.1)-3.5)^2 )= 19, we estimate a 20 % loss in the
+      follow-up , then we consider a sample size of n = 23 patients
+
+      The nominal variables will be presented in frequencies and proportions. Continuous numerical
+      variables will be analyzed using the Kolmogorov-Smirnov "Z" test to determine their
+      distribution. The results will be shown as the means ± standard deviation in case of normal
+      distribution and as a median with minimum and maximum limits for variables with non-normal
+      distribution.
+
+      The total serum concentration of the biochemical variables in general as well as the uremic
+      toxins will be analyzed. Additionally, the reduction rate and purification of the uremic
+      toxins will be analyzed.
+
+      The analyses of the inter- and intra-group differences will be performed using the one-way
+      multiple comparisons (ANOVA) method. Post hoc analysis using the Bonferroni method will be
+      used in cases where the groups present a normal distribution; otherwise, the Kruskal-Wallis
+      method will be used. A result with a p < 0.05 will be considered significant
+    
+  

@@ -1,0 +1,10 @@
+
+    
+      Together with the radiology and Craniomaxillofacial (CMF) department, 100 scans will be
+      selected from the database (50 males and 50 females, between 20 and 60 years old). First,
+      they will be anonymized (except the sex and age/date of birth). Afterwards, they will be
+      segmented using Materialise Mimics software. The segmented mandibles will then be used to
+      create a statistical shape model (SSM) using principal component analysis. This model will
+      afterwards be used to predict the mandibular shapes.
+    
+  

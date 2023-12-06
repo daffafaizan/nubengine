@@ -1,0 +1,21 @@
+
+    
+      Traditionally clinicians program the safety margins for the right atrial, right ventricular,
+      and left ventricular leads two-times the capture thresholds. This safety margin is necessary
+      for the right atrial and right ventricular outputs to prevent asystole during fluctuation of
+      capture thresholds. This two-times safety margin may not be necessary for the left
+      ventricular lead output and may be causing shorter device battery longevity. Newly
+      implemented LV capture threshold management algorithms may help maintain a proper balance of
+      safety margin and battery longevity. However, recent research conducted on automatic left
+      ventricular capture measurement (LVCM) shows as much as 3.5 V daily variability in capture
+      thresholds. In this same study, 18% of patients had >1.5 V LV threshold variability. A
+      possible explanation for the variability of LV thresholds is lead stability. Small movements
+      of the lead electrodes associated with movement of patient posture may account for daily
+      fluctuation of capture thresholds. As heart failure patient care and therapies improve, CRT
+      patients may survive longer than the projected longevities of their device. In order to
+      minimize patient risks associated with device change-outs, care must be taken to maximize
+      battery longevity while maintaining CRT pacing. Examining patient posture changes as a
+      possible cause of threshold variability may guide clinicians to program more appropriate LV
+      outputs with patient safety and device longevity in mind.
+    
+  

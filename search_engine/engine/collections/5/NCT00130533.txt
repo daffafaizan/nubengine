@@ -1,0 +1,32 @@
+
+    
+      Patients will be stratified as per investigational site, previous adjuvant chemotherapy
+      (anthracyclines versus anthracyclines plus taxanes), and number of affected axillary lymph
+      nodes (0, 1-3, >= 4). Node negative patients must present a tumour size > 2 cm to be
+      eligible. At least 6 lymph nodes must be analysed to confirm the number of affected nodes.
+      Patients will be randomised to receive: 8 courses of capecitabine 1000 mg/m2 by mouth, twice
+      a day (p.o. bid) for 14 days, followed by a 7 day rest versus observation.
+
+      Tissue samples must be analysed by a central laboratory, to confirm estrogen receptor (ER),
+      progesterone receptor (PgR), human epidermal growth factor receptor-2 (HER2), cytokeratins
+      (CK) 5/6 and epidermal growth factor receptor (EGFR) status.
+
+      The following data were obtained from the database of the "El Alamo" project. One thousand
+      six hundred and twenty-seven (1,627) in total were considered during the years 1990 to 1997.
+      The population is formed of patients with operable breast cancer, with surgery, positive
+      nodes, and negative hormone receptors, or negative nodes, negative hormone receptors and T2-3
+      tumors.
+
+      For these patient groups, estimated 5-year disease-free survival is 64.72%. Assuming an
+      exponential distribution, the aim is to detect an increase of 64.72% to 73.7% in 5 years
+      Disease Free survival rate corresponds to a Hazard Ratio of 0.701 and a risk reduction of
+      about 30%, with a power of 80% using a two-tailed log-rank test at 0.05 and whereas 4 years
+      of recruitment period and 3 years of follow-up period. We would need 255 events, 834 patients
+      without considering any dropouts.
+
+      Considering a drop-out rate of 5% post-randomization, the final sample size will be 876
+      patients, 438 per treatment arm.
+
+      The sample size calculation was performed by the program package "EAST" version 5.2.
+    
+  

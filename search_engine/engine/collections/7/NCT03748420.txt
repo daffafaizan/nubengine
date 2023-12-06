@@ -1,0 +1,40 @@
+
+    
+      Patients are randomly allocated 1:1 through a computer-generated program to either control or
+      intervention.
+
+      Control: All control patients will continue to receive the basic Electronic Medical Record
+      (EMR)-linked Clinical Decision Support (CDS) tool for cardiovascular (CV) risk factor
+      management. This CDS includes algorithmically derived identification of high CV risk patients
+      and prioritized treatment suggestions for lipids, Blood Pressure (BP), glycemic control,
+      weight, tobacco, and aspirin use based on distance from goal, current medications, labs,
+      allergies, and safety considerations. The basic CDS does not include any information on
+      medication adherence. Patients will receive basic CDS plus usual care.
+
+      Intervention: For intervention patients, the basic CDS system for CV risk-factor control is
+      enhanced to support a team-based care model that identifies risk of non-adherence, computes
+      adherence information and incorporates it in the CDS, creates a registry to direct proactive
+      pharmacist outreach, and coordinates action plans. To do this, the CDS Web service will
+      combine EMR-identified medications with Epic Medication Adherence score (e-PDC) data.
+      Algorithms will identify poor adherence using e-PDC scores available within the Epic EMR at
+      patient encounters. When medication adherence issues are identified, alert messages will
+      appear on the CDS tools for patients and providers. Patients with index visits will be
+      followed-up for 6 months as they continue to receive CDS at subsequent encounters. At 6
+      months, patient e-PDC as well as clinical outcomes will be reevaluated. Patients with
+      persistent adherence issues identified are added to a registry that is used by the
+      pharmacists to conduct outreach. Pharmacist outreach will be conducted primarily by phone,
+      but in-person arrangements are also an option. Pharmacists conducting outreach will identify
+      themselves to patients as part of the care team working with the primary care provider (PCP).
+      Examples of specific action plans that may be recommended includes education, recommending
+      lower cost alternative medications or combination medications, addressing side effects, using
+      pill boxes, modifying pill-taking schedules and/or using reminder systems, or referrals to
+      medication therapy management (MTM) services or health educators. Pharmacists will be guided
+      by a script template for the phone outreach that walks them through the IMB intervention and
+      data collection. The pharmacists involved will have full read/write access to the EMR in full
+      compliance with HIPAA regulations. They can make medication changes through established care
+      protocols and/or communicate with the prescriber through secure messaging or phone
+      consultation. The date of the pharmacist outreach and actions that result from the IMB
+      intervention will be documented in the EMR and incorporated into subsequent CDS tools and
+      registries to reflect the new patient state.
+    
+  

@@ -1,0 +1,85 @@
+
+    
+      Familial Hypercholesterolemia (FH) is a common cause of premature coronary artery disease
+      (CAD). The prevalence of heterozygous FH has been estimated to be 1 in 500, but recent
+      studies estimate that the prevalence might be as high as 1 in 200 or even higher. FH is an
+      autosomal-dominant genetic disorder caused by defects in the hepatic uptake and degradation
+      of LDL, primarily due to mutations in the LDL receptor gene, resulting in high levels of
+      LDL-C and total cholesterol . As a consequence, patients with heterozygous FH have an
+      increased risk of developing coronary artery disease (CAD). The risk of CAD has been
+      estimated to be at least 3-4 folded, and in some studies more than 10-folded.
+
+      FH is both underdiagnosed and undertreated, and it has been estimated that less than 1 % of
+      the patients are diagnosed in many countries. However there are a few exceptions, such as the
+      Netherlands and Norway. In these countries, national cascade screening programs have been
+      implemented and it has been estimated that 71 % of the patients in the Netherlands and 43 %
+      of the patients in Norway have a diagnosis. Early treatment with lifestyle changes and high
+      doses of statins has been shown to be effective in reducing the risk of cardiovascular
+      disease, reducing the risk of CAD with 40 - 70 % or more in treated individuals as compared
+      to not treated.
+
+      The diagnosis of FH is based on a combination of clinical signs, family history and
+      cholesterol concentrations, sometimes in combination with genetic testing. In Sweden the
+      long-term aim is to diagnose 80 % of all individuals with FH by 2025 according to the
+      "National Guidelines for Cardiac Care 2015" published by The Swedish National Board of Health
+      and Welfare.
+
+      Clinical decision support (CDS) systems have shown promising results in improving healthcare
+      performance, but results are still conflicting and some studies have not been able to find
+      any clear improvement in quality of care or patient outcomes. Computer-based CDS systems have
+      previously been implemented to aid in the identification and management of patients with FH.
+      The results from these studies are promising; however, to the best of our knowledge, no
+      randomized controlled trial has been conducted investigating the effects of a computer-based
+      CDS in FH.
+
+      Clinical decision support for Familial hypercholesterolemia (CDS-FH) is a cluster randomized
+      trial that will be conducted in the primary care setting in the county of Östergötland and
+      the county of Uppsala, Sweden. The primary care clinics participating in the study will be
+      randomized 1:1 to CDS intervention or to serve as control. Before the study is initiated all
+      of the physicians working at the participating primary care clinics will receive written
+      information regarding FH and the associated risk for cardiovascular disease. Information
+      regarding the study, FH and technical aspects of CDS-FH will be available for the
+      participating physicians throughout the entire study period. The investigators intend to
+      include all primary care clinics in the County of Östergötland (n = 43) and in the County of
+      Uppsala (n = 51). Participation is non-compulsory. The population in the County of
+      Östergötland is 460 471 inhabitants (September 2018) and the population in the County of
+      Uppsala is 374 613 (September 2018).
+
+      The CDS-FH has been developed in collaboration between Cambio Healthcare systems and Evry
+      Healthcare Systems (the suppliers of the EHR in the county of Östergötland and the county of
+      Uppsala), the Cardiology Department at Linköping University hospital, Uppsala University and
+      primary care professionals in the counties of Östergötland and Uppsala. CDS-FH is activated
+      when a physician attests a cholesterol lab result in the laboratory section of the EHR. If
+      the patient has high levels of total cholesterol or LDL-C (Total cholesterol > 8 mmol/l or
+      LDL-C > 6 mmol/l, adjusted for age, presence of premature CAD and treatment with cholesterol
+      lowering medications, in combination with other risk factors for FH (according to the Dutch
+      Lipid Clinic Network (DLCN) criteria), a screen warning will appear informing the responsible
+      physician that the patient may have FH. On the other hand, if the patient does not have
+      elevated levels of total cholesterol or LDL-C, or if any exclusion criteria are met, no
+      screen warning will appear when the cholesterol lab-result is attested.
+
+      By clicking on the warning screen that was activated due to high cholesterol levels, a window
+      will open displaying an overview of the patient's cholesterol laboratory values and prior
+      diagnoses recorded in the EHR that are consistent with premature CAD. A link to further
+      information regarding FH from the Swedish National Board of Health and Welfare is also
+      provided. The physician is thereafter urged to consider sending a referral to the local FH
+      clinic, and to prescribe or intensify treatment with cholesterol lowering medication. The
+      referral is automatically generated by the CDS application and the CDS also makes a short
+      note regarding the suspicion of FH in the EHR. The physician can chose to postpone the
+      decision or make a decision to refrain from sending the referral. In case the choice is made
+      to refrain from sending the referral the physician is asked to specify why in a mandatory
+      short text comment, in order to monitor the main reasons for not continuing the investigation
+      of suspected FH.
+
+      The FH clinic will receive all the referrals generated by the CDS-FH and all referrals
+      generated as part of the regular routine in the county. All patients diagnosed with FH at the
+      FH-clinic will be registered and assigned to either the CDS intervention group or to the
+      control group. Any relatives currently residing in the County of Östergötland or in the
+      County of Uppsala that are diagnosed with FH as a result of cascade screening will also be
+      registered at the FH-clinic and assigned to either the CDS intervention group or to the
+      control group.
+
+      The primary outcome of the study is the number of patients diagnosed with FH at twenty-four
+      months after study initiation.
+    
+  

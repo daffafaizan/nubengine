@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{% block title %} Search Engine {% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+      tailwind.config = {};
+    </script>
+
+    {% block meta %} {% endblock meta %}
+  </head>
+  {% block content %}
+  <body>
+    <div
+      class="min-h-screen min-w-screen flex flex-col items-center p-4 md:p-8 dark:bg-black light:bg-white"
+    >
+      <span
+        class="text-center mb-4 text-xl font-extrabold tracking-tight leading-none text-gray-900 md:text-2xl lg:text-4xl dark:text-white light:text-black"
+        >{{ title }}</span
+      >
+      <div class="w-full border-t border-black py-3 dark:border-white"></div>
+      <span class="dark:text-white">{{ content|safe }}</span>
+    </div>
+  </body>
+  {% endblock content %}
+</html>

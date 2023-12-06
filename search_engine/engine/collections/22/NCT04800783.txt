@@ -1,0 +1,151 @@
+
+    
+      Swallowing disorders management requires an accurate recognition of implicated anatomical
+      structures and pathways. The usual clinical assessment of swallowing disorders lack of
+      reliability and accuracy. The gold standard remains the videofluoroscopy. However, this
+      imaging technique lacks reliability and standardisation. Moreover, videofluoroscopy not
+      easily available is time and material consuming and implies ionisation. Ultrasound imaging,
+      which can be performed at the patient's bedside, is a non-invasive tool. It allows the
+      evaluation of the main structures involved in all the swallowing pathways and may be a
+      promising tool for swallowing disorders assessment.
+
+      The investigators aim to develop an ultrasound predictive model to diagnose swallowing
+      disorders, and assess its reliability and accuracy.
+
+      The investigators hope a high reliability and accuracy of the ultrasound predictive model in
+      the swallowing disorders diagnostic. As ultrasonography is easy-to-perform, rapidly
+      available, non-invasive and inexpensive, it may be a valuable alternative to videofluoroscopy
+      in swallowing disorders diagnostic.
+
+        1. Hypothesis The investigators hypothesise that a new ultrasound predictive model is valid
+           and reliable to diagnose swallowing disorder.
+
+        2. Objectives
+
+           Primary objective:
+
+           • To create a new ultrasound predictive model based on the most relevant ultrasound
+           measurements of the swallowing structures.
+
+           Secondary objectives:
+
+             -  To assess the accuracy of the ultrasound predictive model in the swallowing
+                disorders diagnostic;
+
+             -  To assess the inter- and intra-reliability of the ultrasound measurements;
+
+             -  To assess the accuracy of each ultrasound measurements.
+
+        3. Study design:
+
+           The prospective observational single-centre study will be performed per the ethical
+           standards of the Declaration of Helsinki and will be reported according to the
+           Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement.
+
+        4. Population:
+
+           One hundred outpatients at risk of swallowing disorders (neck cancer, neurological
+           diseases, previous ICU stay) will be enrolled in the Dysphagia Diagnostic Unit at the
+           Forcilles' Hospital, during a 2-year period. All consecutive patients will be screened
+           at hospital admission, and will be included if they satisfy the eligibility criteria.
+           All patients will provide oral consent to participate, in accordance with the clinical
+           research French laws. Duration of the patient's participation will take 3 hours.
+
+        5. Data collection Data will be recorded using a local case report form. Demographic data,
+           comorbidities, medical and surgical history, reason for swallowing assessment will be
+           recorded at inclusion. Clinical, videofluoroscopy and ultrasound measurements will also
+           be recorded. On-site monitoring is planned every month.
+
+           Participants will first undergo an ultrasound examination, then the clinical examination
+           and videofluoroscopy imaging.
+
+        6. Ultrasound examination:
+
+           Ultrasonography will be performed using a Sonosite E2 Expert ultrasound device (Digital
+           Color Doppler Ultrasound System; Sonoscape medical corp. China) with a 7-10 MHz linear
+           and a 3-5 MHz probes. Detailed information for ultrasound procedure is described in the
+           research protocol. Ultrasonography will be performed with the patients in near-to-supine
+           position (30°).
+
+           The hyoid bone movement, tongue kinetics and geniohyoid muscle measurement will be
+           performed in a sagittal plane with the curvilinear probe. The probe will be placed
+           between the posterior border of the symphysis and the anterior margin of the hyoid bone.
+
+           The anterior belly of digastric and geniohyoid muscles evaluation will be performed in a
+           frontal plane with the linear probe. The probe will be placed in the submandibular area,
+           behind the symphysis.
+
+           Ultrasonographer will be blinded from all patients' status and previous examination.
+           Reliability will be assessed in the first twenty participants. All ultrasound
+           measurements will be repeated twice by the first ultrasonographer to assess the
+           intra-operator reliability. A second ultrasound operator will perform all the ultrasound
+           measurement, allowing the inter-operator reliability evaluation.
+
+        7. Videofluoroscopy (VFSS):
+
+           VFSS is a radiographic procedure that provides a direct, dynamic view of oral,
+           pharyngeal, and upper oesophageal function during swallowing. The radiologist and SLP
+           work as a team to follow a standard protocol for conducting this examination.
+
+           During this procedure, the speech-language therapist presents food and fluid mixed with
+           barium. The barium is necessary to view structures via videofluoroscopy during the
+           swallow. The following procedure will be followed: 5 ml of thin fluid; 5 ml of
+           ultra-thick liquid; 5 ml of solid aliment, then 30 ml of thin fluid.
+
+           The VFSS allow the assessment of the characteristics of the swallow and the patterns of
+           bolus movement, including initiation of the swallow, nasopharyngeal reflux, pharyngeal
+           clearance, and laryngeal penetration and aspiration.
+
+           At any time, the radiologist may not initiate or stop the examination if it may be
+           harmful to the patient. The reason to stop the test will be recorded.
+
+           In case of penetration or aspiration, the speech language therapist will use the
+           'Penetration-Aspiration Scale'.
+
+        8. Statistical plan:
+
+           Continuous variables will be expressed as the mean (± standard deviation) and compared
+           using the Student's t test if the null hypothesis is not rejected by the Shapiro-Wilk
+           test. Continuous variables will be expressed as the median (interquartile range) and
+           compared with the Mann-Whitney U or Kruskal-Wallis test if the null hypothesis is
+           rejected by the Shapiro-Wilk test. For categorical variables, the proportions of
+           patients in each category will be calculated. Then the groups will be compared using Chi
+           squared test.
+
+           Continuous ultrasound variables will be dichotomised or grouped by class, depending on
+           the linear relation between the logit of the swallowing disorder diagnostic and the
+           ultrasound variable. The threshold for continuous ultrasound variables will be
+           calculated with the ROC curve analysis.
+
+           A multivariate logistic regression model will be carried out to assess the relation
+           between swallowing disorders and ultrasound measures associated in univariate analyses.
+           All statistically significant ultrasound variables will be included in the model.
+           Variable selection will be stepwise, based on Akaike Information Criterion. To check
+           multicollinearity between independent variables, the variance inflation factor will be
+           calculated before performing multivariate logistic regression. Multicollinearity will be
+           regarded as present when the variance inflation factor is > 5. Goodness of fit will be
+           assessed by Hosmer-Lemeshow method.
+
+           The outcome of each ultrasound variable from the multivariable logistic regression will
+           be used to weight it in the global ultrasound predictive model.
+
+           Intra- and inter-operator reliability will be assessed using the kappa coefficient for
+           categorical variables or intra-class coefficients for continuous variables.
+
+           For all tests, a p-value ≤ 0.05 will be considered statistically significant. All
+           statistical analysis will be made using R software (version 3.6.1, www.R-project.org).
+
+        9. Sample size calculation:
+
+      The investigators based the sample size calculation on the number of independent variables
+      which will be included in the logistic multivariable regression model. The investigators use
+      the criterion of one variable per 10 events for binary logistic regression analysis. The
+      investigators plan to include the 8 most relevant ultrasound measures in the model. As
+      prevalence of swallowing disorders in our unit is estimated at 0.8, the investigators plan a
+      sample size of 100 patients.
+
+      Reliability will be assessed on the first 20 patients. With an 80% predicted kappa, a minimal
+      value of the kappa of 50%, 2 observations, a 95% certainty and a 80% power, 20 patients will
+      be required.
+    
+  

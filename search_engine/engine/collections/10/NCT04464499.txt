@@ -1,0 +1,70 @@
+
+    
+      BPM Core is a blood-pressure monitor with an build-in single-channel electrocardiogram
+      similar to a lead I.
+
+      Primary objective:
+
+      The primary objective is to demonstrate that Withings BPM Core has acceptable sensitivity and
+      specificity in the automatic identification of AF and SR in comparison with a gold-standard
+      diagnosis from a 12-lead ECG by board certified cardiologists.
+
+      The algorithm classifies the device signals into four categories: normal sinus rhythm (RSN),
+      AF, arrhythmia other than AF, or non-interpretable. The latter category includes signals of
+      insufficient quality to be interpreted with confidence.
+
+      This classification will be compared to the diagnosis made by three independent, blinded
+      cardiologists based on a 12-lead ECG. The final diagnosis retained will be decided by
+      majority with adjudication by a consensus of 3 to 6 cardiologists. The sensitivity and
+      specificity of the device will then be estimated.
+
+      Secondary objectives:
+
+      The first secondary objective is to assess the quality of tracings of the BPM Core armband
+      thanks to a qualitative and quantitative comparison between BPM Core tracings and reference
+      ECG ones, based on clinical evaluation criteria.
+
+      Firstly, three independent cardiologists who have not performed or read the reference ECG and
+      do not know the patient's clinical files will make a diagnosis from the recordings from the
+      BPM Core. There will be a majority vote to select the diagnosis. The cases where the three
+      readers reached three different diagnosis will be reviewed by a panel of 3 to 6 board
+      certified cardiologists who will decide by consensus. Sensitivity and specificity will be
+      calculated relative to the reference ECG.
+
+      Secondly, quantitative analyses will be performed to assess the quality of ECG tracings
+      provided by Withings BPM Core and its software, as follows:
+
+        -  The visibility and polarity of the ECG waves (namely P-waves, QRS complexes and T-waves)
+           will be determined by the cardiologists for each lead I signals recorded with Withings
+           BPM Core and with the 12-channel ECG device. The assessment will be made on the 5th
+           complete beat of the recording. For each of the waves (P, QRS and T), the agreement of
+           visibility and the agreement of polarity (when both are visible) between the signals of
+           Withings BPM Core and the reference ECG device will be computed.
+
+        -  The duration of the main ECG intervals (namely QT interval, QRS width and PR interval)
+           will be determined by the cardiologists for each lead I signal recorded by Withings BPM
+           Core and the 12-channel ECG device. The measurement will be made with a caliper on the
+           5th complete beat of the recording. For each interval (QT, QRS, PR), the difference of
+           length between the signals of Withings BPM Core and the reference ECG device will be
+           computed.
+
+        -  The heart rate will be first determined by the cardiologists for each lead I signal
+           (recorded by Withings BPM Core and the 12-channel ECG device) which are diagnosed as
+           NSR. The heart rate difference between the signals of Withings BPM Core and the
+           reference ECG device will be computed. Second, the heart rate of the signals recorded
+           with the BPM Core will be computed by the Withings software. The difference between the
+           heart rate estimated by Withings software on Withings BPM Core signals and the heart
+           rate determined by the cardiologists on the lead I signal from the ECG reference device
+           will also be calculated.
+
+      The sponsor will make sure that the same cardiologist will not be asked to annotate both a
+      Withings BPM Core signal and the corresponding lead I signal from the 12-channel ECG device.
+      The sponsor will then centralize the annotations of Withings BPM Core tracings and of the ECG
+      reference lead I signals and perform agreement calculations on synchronous pairs.
+
+      The second secondary objective is to verify the safety of use of the device by analyzing
+      adverse effects.
+
+      The safety of use of the device will be assessed by the number of adverse effects.
+    
+  

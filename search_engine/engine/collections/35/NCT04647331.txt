@@ -1,0 +1,63 @@
+
+    
+      Objectives The primary objective of the study is to determine the pharmacokinetics of
+      beta-lactam antibiotics in patients with infectious endocarditis, and how the pharmacokinetic
+      profile is associated with various patient factors (e.g. age, body weight, renal function).
+      Secondary objectives are to descriptively assess potential associations between drug
+      exposure, pharmacokinetic/pharmacodynamic targets and clinical outcomes.
+
+      Inclusion of patients and sample size Patients are prospectively included at the departments
+      of infectious diseases, internal and acute medicine, cardiology and thoracic surgery at
+      Uppsala University Hospital. Potential participants are screened for using the electronic
+      medical records. Inclusion criteria are as follows: (1) admission at one of the study wards,
+      (2) a diagnosis of probable or verified infectious endocarditis, (3) treatment with a
+      beta-lactam antibiotic and (4) informed written consent to participate in the study. The
+      following exclusion criteria will be applied: (1) age less than 18 years and (2) ongoing or
+      planned hemodialysis.
+
+      Based on previous research using similar methods, 30 patients per antibiotic substance (total
+      150 patients) is considered sufficient to develop a robust mathematical model.
+
+      Collection of blood samples and patient data Following inclusion, a series of samples will be
+      taken within one week from start of treatment. Beta-lactams are normally prescribed at 6-8 h
+      dose intervals. One series of 6 blood samples will be collected at 0, 0,5, 1, 2, 4 and 6 or 8
+      h (depending on dose interval, prior to next dose) after administration of antibiotics.
+      Thereafter, samples will be collected once weekly and 0, 3 or 4 (mid-dose interval) and 6 or
+      8 h (depending on dose interval, prior to next dose).
+
+      Information on patient characteristics, including age, body weight, and gender, will be
+      obtained from the electronic medical records. Further, the results of biomarkers (e.g.
+      albumin, creatinine, CRP), collected as part of routine practice, will be noted. If not
+      collected as standard of care, patients will be subject to extra samples to ensure biomarkers
+      are monitored at least twice weekly.
+
+      Clinical outcomes Treatment failure is defined as mortality during antibiotic treatment for
+      infectious endocarditis or relapse of endocarditis within 3 months after completion of
+      therapy with isolation of the same pathogens as in the initial episode. Other indicators of
+      treatment failure include acute surgery for endocarditis, clinical deterioration resulting in
+      transfer to the ICU, thromboembolic events more than 7 days after initiation of antibiotics
+      and resistance development of the causative bacteria. The following side effects will be
+      monitored: deterioration of renal impairment, allergic reaction suspected to be caused by the
+      antibiotic treatment, Clostridioides difficile enteritis or other suspected side effects
+      resulting in a shift of therapy to another antibiotic.
+
+      Handling of samples and data Blood samples will be stored at -70 degrees Celsius at the
+      Department of infectious diseases, Uppsala University Hospital. The samples will be sent to
+      Karolinska University Hospital, Huddinge, for determination of drug concentrations using
+      in-house developed methods for total and free (non-protein-bound) substance. The samples will
+      be stored up to 10 years after the completion of the study.
+
+      Patient names and personal identification numbers will be replaced by a number, which is
+      randomly generated in Excel. Personal data will be stored at the Department of infectious
+      diseases, Uppsala University Hospital. Only the responsible researchers will have access to
+      the code key and be able to link personal information to the individual participants. All
+      information will be handled in accordance with the General Data Protection Regulation (GDPR)
+      and all analyses and presentation of data will be performed using anonymous data.
+
+      Mathematical modeling and simulations The collected drug concentrations will be analyzed by
+      non-linear mixed effects modeling using NONMEM. Associations between administered dose and
+      the measured drug concentration over time will be described (pharmacokinetics). Correlations
+      with patient characteristics and biomarkers, as well as clinical outcomes in terms of cure,
+      mortality and documented side effects (pharmacodynamics) will be explored.
+    
+  

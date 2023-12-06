@@ -1,0 +1,43 @@
+
+    
+      Primary emergency and elective general surgery procedures at St Mary's Hospital, Imperial
+      College Healthcare Trust, Chelsea and Westminster University Hospital Trusts and University
+      College London University Hospital, under the care of participating surgical teams shall be
+      considered.
+
+      The study will be set up as a sequential cohort study, comparing the performance of surgical
+      teams, before and after the introduction of GoSurgeryTM software.
+
+      We will include three Bariatric teams from St Mary's, University Hospital and Chelsea and
+      Westminster Hospitals.
+
+      In the three cohorts, videocameras and microphones will be positioned in the operating
+      theatre in order to capture all events and conversations taking place from the beginning to
+      the end of each case.
+
+      As is routine surgical practice, once the patient has been prepared for surgery, the keyhole
+      (laparoscopic) camera will be connected to the laparoscopic stack to be projected onto the
+      operating room screens. Recording will be started at the time of inserting the camera into
+      the patient's abdomen, as is protocol.
+
+      in the intervention phase, GoSurgeryTM workflows will be made available to the intervention
+      group for preparation before the cases and will be displayed within the operating theatre
+      during the operation.
+
+      They will be controlled though pedals that allow to move backwards and forwards through the
+      workflow.
+
+      When using GoSurgeryTM with visual recognition software, the keyhole video footage shall be
+      directly extracted using local transfer over a closed wired network.
+
+      This video shall be fed into the visual recognition software algorithm. The software shall
+      then recognise the specific part of the procedure being performed and display the relevant
+      information on dedicated screens showing different views for different members of the team,
+      eg surgeon view or scrub nurse view. Videos will be used to train the machine learning
+      software to recognise the different steps of different operations so that it may then replace
+      the pedal controls.
+
+      Members of the surgical team shall be asked to complete questionnaires before and/or after
+      the cases.
+    
+  

@@ -1,0 +1,158 @@
+
+    
+      Preterm birth affects a significant number of babies born every year, increasing risks of
+      death and life-long disability. Progesterone has been found to halve the odds of preterm
+      birth <34 weeks and neonatal death. Although progesterone is a proven standard medication for
+      pregnant women at risk of preterm birth based on some guidelines (e.g. recommendations by the
+      Current Society for Maternal-Fetal Health Medicine, and National Institute for Health and
+      Care Excellence), few women are receiving this effective prevention. There is an urgent need
+      to improve prevention of preterm birth with progesterone, which the investigators propose to
+      do with an innovative and cutting-edge best-practice alert in electronic medical records
+      (EMRs). Improving care may decrease the risks related to preterm birth, and improve patient
+      experiences and outcomes for women and their babies.
+
+      This study will test the feasibility of an EMR alert for progesterone, which provides the
+      opportunity for researchers and care providers to implement and advance the use of proven
+      medical practices in preventing preterm birth and decreasing associated risks of death,
+      life-long disability, family stress, health care use, and lost economic potential. The EMR
+      alert would be transferable to other institutions or regions of the province, and is
+      low-cost, sustainable, embeddable and scalable in the current system health system.
+
+      STUDY DESIGN:
+
+      The investigators propose a pilot cluster randomized control trial (RCT) with a 1:1
+      allocation of 8 clinics randomized to usage of an EMR alert (intervention) versus usual
+      prenatal care without the usage of the EMR alert (control). Individual women will not be
+      approached since this is a pilot cluster RCT. Rather, clinics (and care providers therein)
+      have been approached and have agreed to participate in this study.
+
+      Investigators have followed the SPIRIT statement (Standard Protocol Items: Recommendations
+      for Interventional Trials).
+
+      RANDOMIZATION:
+
+      The unit of randomization will be the clinic providing pregnancy care. All pregnant women
+      receiving care at a clinic randomized to the intervention will receive the intervention,
+      while all pregnant women receiving care at a clinic randomized to usual care will receive
+      usual prenatal care. Investigators used a 1:1 allocation between the intervention and the
+      control groups.
+
+      STUDY PROCESS:
+
+      This study involves a minimal risk intervention, as it is a pilot cluster RCT of the
+      implementation of an EMR alert (regarding progesterone prescription for care of pregnant
+      women at risk of preterm birth, a practice considered standard of care in many guidelines).
+      The Hamilton Integrated Research Ethics Board (HiREB) has approved for clinics to be
+      randomized and all eligible women at intervention clinics to receive the intervention (and
+      all eligible women at control clinics to receive routine prenatal care). As this is a minimal
+      risk intervention and a pilot cluster RCT, individual participant consent is not required.
+      Rather, informed, written consent of the clinics and care providers at the clinics will be
+      obtained for their participation in this study and the use of their questionnaire and
+      structured interview responses. There will be no interim analysis given the minimal-risk
+      nature of the intervention, and the pilot nature of the study, and hence investigators will
+      not have a Data Safety Monitoring Board (DSMB), but will have a Steering Committee.
+
+      DATA COLLECTION:
+
+      Data will be collected at the end of pregnancy from the:
+
+        1. 3-page Perinatal Records mandated by the Ministry of Health: baseline characteristics*,
+           process outcomes;
+
+        2. Care provider surveys and structured interviews (in intervention group): feasibility,
+           provider outcomes.
+
+             -  Baseline characteristics will include: maternal age, education level, ethnic/racial
+                background, pregnancy history (gravidity, parity), gestational age upon first visit
+                to randomized clinic, pre-pregnancy body mass index, chronic health conditions,
+                smoking/alcohol/street drug use during pregnancy, and rate of short cervix.
+
+      SAMPLE SIZE:
+
+      Investigators have provided a sample size justification, rather than a calculation, for the
+      following reasons:
+
+        1. It is recognized that 'in general, sample size calculations may not be required for some
+           pilot studies'
+
+        2. Given that this is a feasibility study, it was not designed to have statistical power to
+           detect a difference between the 2 treatment groups.
+
+        3. The size of the intraclass correlation coefficient (ICC) required for a sample size
+           calculation is currently unknown.
+
+      The sample size was based on feasibility considerations as follows: In the 8 clinics, there
+      would be approximately 2400 women over the year. Based on a chart audit, the investigators
+      estimate that 8% of these women (approximately 192 women) would be available for exposure to
+      the intervention.
+
+      STATISTICAL ANALYSES:
+
+      Analysis will be done at the patient level with the exception of care provider outcomes.
+      Baseline characteristics will be compared between women in the intervention clinics versus
+      those in the control clinics. Continuous data will be compared using t tests for means
+      (standard deviations) or Mann-Whitney for medians (interquartile range), as appropriate.
+      Proportions will be compared using Chi-squared tests.
+
+      The analysis of the primary outcome, feasibility, will be based on descriptive statistics of
+      the proportions (%) of clinics that successfully apply the alert (i.e. get it set up in their
+      EMR), and of care providers would recommend the alert to colleagues; as well as the
+      proportions (%) of approached clinics that agree to randomization, and have completeness of
+      outcome data.
+
+      Secondary outcomes (process and care provider outcomes) will be analyzed using t tests or
+      Chi-squared tests comparing the intervention group versus the control group. The
+      investigators will use intention to treat analysis: i.e. outcomes of all eligible women in
+      the intervention group, whether they received the intervention or not, will be evaluated
+      within the intervention group.
+
+      Two sensitivity analyses will be done: 1) a "per-protocol analysis", comparing women who were
+      prescribed progesterone (either in the intervention or in the control group) to those who
+      were not prescribed progesterone (either in the intervention or in the control group); 2)
+      comparing results in women with and without complete data.
+
+      The investigators will control for potential covariates which may not be evenly distributed
+      between the intervention and control groups (e.g. age, socioeconomic status, etc.). Since
+      observations within each participating clinic will be assumed more likely to be similar than
+      observations between clinics, a logistic model using a conditional (for paired data)
+      generalized estimating equation (GEE) method will be performed to account for this clustering
+      effect within clinics, incorporating both within-clinic and between-clinic variations. An
+      intracluster correlation coefficient (ICC) and variance inflation factor (VIF) will also be
+      calculated to assess the impact of the clustering effect.
+
+      Results will be considered statistically significant at two-sided alpha of 0.05. A modified
+      Bonferroni correction will be used given the multiple secondary outcomes. Analyses will be
+      performed using SAS-PC statistical software (version 9.2; SAS institute Inc., Cary, NC).
+
+      TEAM:
+
+      Principle Investigator: Sarah McDonald, MD, MSc (Clinical Epidemiology), FRCSC, is an
+      Obstetrician, Professor in the Department of Obstetrics and Gynecology at McMaster, and a
+      Tier II Canada Research Chair.
+
+      Co-Investigators:
+
+      Lehana Thabane, PhD, is a statistician/RCT expert and is the Director of the Biostatistics
+      Unit at the Centre for Evaluation Medicine at McMaster and the Associate Chair of the
+      Department of Clinical Epidemiology and Biostatistics.
+
+      Prakesh Shah, MD, MSc, is a neonatologist and Professor in Paediatrics at the University of
+      Toronto.
+
+      Karim Keshavjee, CCFP, MBA, MD, MSc, is a practicing clinical information technology
+      architect, and an Adjunct Professor with the Institute of Health Policy, Management and
+      Evaluation at the University of Toronto.
+
+      Kathryn May, JD, is an Ministry of Health and Long-Term Care Program Analyst responsible for
+      EMR-related files, eHealth Strategy and Investment Branch, and is responsible for the
+      strategy, funding and oversight of clinician eHealth.
+
+      Collaborators:
+
+      Kate Robson is our patient representative.
+
+      Care providers whose clinics would be involved have provided letters of support. Those whose
+      clinics are randomized to the intervention will give input into the 'alert', after which it
+      will be further revised. All clinicians will be involved in interpretation of the results.
+    
+  

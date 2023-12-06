@@ -1,0 +1,142 @@
+
+    
+      Phase 1: Needs assessment, retrospective cohort study and pre-experimental study
+
+      The concept of needs assessment is based on a previous approach, which aims to implement the
+      safety of patient transfers in intensive care units. This should lead to a comprehensive
+      understanding of the beneficial and inhibitory conditions as well as potentials for the
+      implementation of the intervention in the field (e.g., how different communication models
+      competencies can be integrated beyond training into clinical practice; possible options):
+      diaries, regular e-mails with tips on practical application, etc.). Observations for the
+      ethnographic analyses are recorded in a standardized observation protocol, focus groups and
+      interviews are conducted with partially standardized guidelines with at least one person from
+      each occupational group in order to gain as comprehensive an impression as possible of
+      possible resources and barriers for the implementation of the intervention. The data will
+      then be analyzed in terms of content using an inductive approach and used to develop the
+      training. Migration background will be considered exploratively in the data collection and
+      testing as well as participatory in the app development (i.e. it will be ensured that
+      patients and accompanying persons with migration background will also be included in the
+      development). Different communication models competencies and tailoring based on the Health
+      Action Process Approach (HAPA) will also be integrated into the training. A short manual for
+      practical support and written documentation of the training process will be prepared, also to
+      avoid failure of implementation. The online training will be offered in the pre-experimental
+      study to all professionals at both intervention sites. The aim is to investigate the
+      connection between training participation and preventable Adverse Events (pAEs), to observe
+      mechanisms of action and to create a basis for the implementation of phase 2. The study has a
+      one-group, pre-/post-design. The study includes all specialists (e.g. doctors, nurses,
+      midwives, obstetricians) at both locations (full utilization) with a total of N = 140
+      participants. Specialists are trained in interdisciplinary groups of 10 to 12 participants.
+      All target criteria are shown in Table 4.
+
+      Implementation phase: Research questions, methods, study population and target criteria Stage
+      Research question Method Target group/Data source Outcome A What is the prevalence of pAEs?
+      Monitoring protocols and routine data Anonymous routine data of the hospital from 2018, Mixed
+      Methods study Quality indicators: Reporting according to safe communication, pAEs,
+      retrospective cost analyses of pAEs B What are effective interventions to optimize
+      communication in everyday hospital life? Updating the status of applications Pubmed,
+      PsychInfo, Cochrane Database Overview of effective interventions and effect strengths C What
+      is the adherence for equivalent patient safety measures (e.g. hand hygiene)? Questionnaire
+      All employees at both intervention sites Adherence to patient safety measures; relationships
+      between adherence and quality indicators D What are possible resources and barriers for the
+      implementation of an intervention in order to optimize communication in everyday hospital
+      life? Ethnographic observation; guideline-based individual and focus group interviews
+      Physicians, nursing staff, training assistants, psychologists, midwives Classify resources
+      and barriers E What is an appropriate strategy to implement effective interventions to
+      optimize communication? Triangulation of results from previous phases Matching of data from
+      interviews, focus groups and questionnaires with evidence from the literature Implementation
+      strategy, regarding resources and barriers in implementing the intervention to patient safety
+      Note: pAEs = preventable adverse events
+
+      Since the aim is to achieve full utilization, no inclusion and exclusion criteria are
+      defined. Differences between the measurement times are checked using linear and general mixed
+      models, initial values of the first measurement time are taken into account as covariates.
+      Clinics are modeled as a fixed effect. For the entire analysis, corresponding confidence
+      intervals of 95 % are determined. To calculate the standardized mean difference (SMD) between
+      the two measurement points, the non-standardized regression coefficients are standardized to
+      the pooled standard deviation of the observed measured values. According to Cohen's
+      recommendations, SMDs are interpreted as follows: small effect by SMD = 0.2; medium effect by
+      SMD = 0.5; large effect by SMD = 0.8. The odds ratio of binary outcomes is subjected to a
+      logit transformation to calculate effect strengths. To check whether the intervention effect
+      on the primary target criterion is moderated by external variables, reciprocal interaction
+      terms are considered in the model estimation. Continuous moderators are standardized by
+      z-transformation. The estimated parameter of the interaction between the z-transformed
+      continuous variable and the effect estimator of the group difference thus represents the
+      additional intervention effect if the potential moderator increases by a standard deviation.
+      Participants are only included in the analysis if they participate in the corresponding
+      follow-up online survey and are analyzed according to intention to treat. Differences are
+      interpreted as significant when the p-value of a two-sided test is <0.05.
+
+      Phase 2: Quasi-experimental efficacy study
+
+      In Phase 2, the effectiveness of the communication intervention for the target group of women
+      giving birth/family members is assessed using the gold standard, i.e. randomized control
+      trial (RCT). In each institution, four employees are enabled to train patients and their
+      relatives on the short manual developed to teach different communication models competencies.
+      When a woman gives birth and her relatives are admitted, they are randomly assigned to a
+      training group (IG) or a control group (CG). The pAEs are collected on a person-specific
+      basis (anonymized) and coded in parallel. With an alpha error of 0.05 and a power of 80%, a
+      sample of N = 352 is necessary (to be analyzed IG: N = 176; CG: N = 176) in order to be able
+      to prove an effect of d = 0.3. With an assumed drop-out of 20%, N = 424 participants (to be
+      recruited IG: N = 212; CG: N = 212) would have to be recruited (recruitment sample). The
+      target criteria are evaluated statistically and clinically as in phase 1. Group differences
+      are checked by means of linear and general mixed models, initial values of the first
+      measurement point are considered as covariates. Clinics are modelled as fixed effects. For
+      the entire analysis, corresponding confidence intervals of 95 % are determined. To calculate
+      the standardized mean difference (SMD) between the two measurement points, the
+      non-standardized regression coefficients are standardized to the pooled standard deviation of
+      the observed measured values. According to Cohen's recommendations, SMDs are interpreted as
+      follows: small effect by SMD = 0.2; medium effect by SMD = 0.5; large effect by SMD = 0.8.
+      The odds ratio of binary outcomes is subjected to a logit transformation to calculate effect
+      strengths. To check whether the primary target criterion is moderated by external variables,
+      reciprocal interaction terms are considered in the model estimation. Continuous moderators
+      are standardized by z-transformation. The estimated parameter of the interaction between the
+      z-transformed continuous variable and the effect estimator of the group difference thus
+      represents the additional intervention effect if the potential moderator increases by one
+      standard deviation. Participants are only included in the analysis if they participate in the
+      corresponding follow-up online survey and are analyzed according to intention to treat.
+      Differences are interpreted as significant when the p-value of a two-sided test is <0.05.
+
+      Phase 3: Implementation of the app and case-control study
+
+      From all findings in phases 1 and 2, the digital app will be developed in a participatory and
+      theory-driven way. The aim is to determine the extent to which the app supports secure
+      communication processes among specialists and patients/relatives in their daily work and thus
+      leads to a reduction in pAEs. The app helps users (skilled workers, mothers and relatives) to
+      prepare for the interview and to cope with possible problems during the interview.
+      Subsequently, a monitoring takes place in which communication with focus on (1) the own role,
+      (2) the role of the communication partner as well as (3) the resonance (feeling of the
+      uniform understanding) is evaluated. In this way, dyadic self-reported and externally
+      reported data are collected and learning from the communication of all participants is
+      ensured. Controls form the data of the participants of both intervention arms of the
+      preceding RCT study from phase 2 (historical control groups; No-Treatment CG analysis: N =
+      176; No-Treatment CG recruited: N = 212; Treatment CG analysis: N = 176; Treatment CG
+      recruited: N = 212). This allows a first limited statement about the possible effect of a
+      process supporting digital app. With an alpha error of 0.05 and a power of 80%, a sample of N
+      = 352 (analysis sample) is required to be able to prove an effect of d = 0.3. Due to the
+      historical control group, only N = 176 participants need to be analyzed for the intervention
+      group (IG analysis). Assuming a drop-out of 20%, N = 424 participants would have to be
+      recruited (recruitment sample). Due to the historical control group only N = 212 participants
+      have to be recruited for the intervention group (IGrecruited). The target criteria (primary:
+      pAEs; Secondary: pAE costs, different communication models competencies, training-proximal
+      outcomes such as outcome expectations, behavioral intention, action and coping planning,
+      behavior, self-efficacy expectation, adherence safety culture, perceived safety culture,
+      treatment satisfaction; covariates: sociodemographic characteristics incl. migration status)
+      are evaluated statistically and clinically as in Phase 1 and 2. Group differences are checked
+      by means of linear and general mixed models, initial values of the first measurement point
+      are considered as covariates. Clinics are modeled as fixed effects. For the entire analysis,
+      corresponding confidence intervals of 95 % are determined. To calculate the standardized mean
+      difference (SMD) between the two measurement points, the non-standardized regression
+      coefficients are standardized to the pooled standard deviation of the observed measured
+      values. According to Cohen's recommendations, SMDs are interpreted as follows: small effect
+      by SMD = 0.2; medium effect by SMD = 0.5; large effect by SMD = 0.8. The odds ratio of binary
+      outcomes is subjected to a logit transformation to calculate effect strengths. To check
+      whether the primary target criterion is moderated by external variables, reciprocal
+      interaction terms are considered in the model estimation. Continuous moderators are
+      standardized by z-transformation. The estimated parameter of the interaction between the
+      z-transformed continuous variable and the effect estimator of the group difference thus
+      represents the additional intervention effect if the potential moderator increases by one
+      standard deviation. Participants are only included in the analysis if they participate in the
+      corresponding follow-up survey and are analyzed according to intention to treat. Differences
+      are interpreted as significant when the p-value of a two-sided test is <0.05.
+    
+  

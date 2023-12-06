@@ -1,0 +1,71 @@
+
+    
+      Background
+
+      Perioperative Acute Hypersensitivity (PAH) is a systemic reaction that occurs rapidly
+      following injection of a drug during anesthesia. Symptoms may include erythema, angioedema,
+      bronchoconstriction, vasodilation, and increased capillary permeability leading to severe
+      hypotension or even cardiac arrest. The rate of occurrence is estimated between 1/6,000 and
+      1/20,000 anesthesia according to literature. Despite adequate management, mortality is
+      estimated between 3 and 9%. The main substances responsible for these reactions are the
+      neuromuscular blocking agents (NMBA) and beta-lactams, more rarely the gelatin-based filling
+      solutions, contrast agents, antiseptics or other hypnotic or analgesic drugs. The main
+      mechanism is an immune response of immediate systemic hypersensitivity or anaphylaxis.
+      Anaphylactic reactions are classically described as IgE-dependent and triggered by the
+      injection of allergen which by bridging specific IgE present on the surface of mast cells,
+      induces a massive release of histamine responsible for the observed symptoms. The diagnosis
+      of this mechanism (IgE endotype) requires the determination of associated circulating
+      mediators (histamine and mast cell tryptase) as well as skin tests performed in an
+      allergology consultation. However, our previous work on patients with NMBA-triggered PAH
+      (NASA study, ClinicalTrials.gov: NCT01637220) demonstrated that classical markers of IgE
+      endotype are present in only 42% of patients. This finding has three consequences:
+
+        -  a diagnostic inaccuracy with deleterious consequences for the patient,
+
+        -  the existence of undocumented endotypes explaining the observed clinical manifestations,
+
+        -  a lack of formal identification of the culprit drug, with uncertainty about the eviction
+           recommendations leading to consequences for the safety of the patient.
+
+      Hypothesis and aims The investigators hypothesize that symptoms associated with PAH are
+      caused by several distinct endotypes involving different cellular effectors and molecular
+      mediators. These endotypes may be related to the immune system but independent of IgE, or
+      independent of the immune system.
+
+      The main objective of this study is to characterize the different endotypes of PAH reactions
+      by an exploratory clustering approach based on analysis of i) activation state of blood cells
+      and ii) concentration of secreted mediators, all measured during PAH onset.
+
+      The secondary objectives are:
+
+        -  to assess links between the different endotypes identified and the clinical and
+           biological parameters of the PAH reaction, in particular the severity and the
+           responsible drug
+
+        -  Constitute a biobank (serum, plasma, DNA) to be able to continue the exploration of the
+           different endotypes
+
+      Study design The investigators will include all patients >18 years old presenting, during a
+      general anesthesia, symptoms compatible with a PAH severe enough to for the anesthetist to
+      request biological exploration using the "anaphylaxis kit" (tryptase, histamine and specific
+      IgE measurement). The anaphylaxis kit will be modified to contain additional tubes allowing
+      to measure blood cell counts, blood cell activation (flow cytometry), proteic and lipidic
+      mediators. Clinical data about the reaction will be collected by the local investigator via
+      an electronic form.
+
+      Upon recovery, patients will sign informed consent and will be planned for allergological
+      evaluation 6-8 weeks after (standard care). During allergological evaluation, skin test
+      against all drugs received will be performed and blood will be drawn to measure tryptase and
+      specific IgE as per standard care. Additional tubes will allow to measure the same parameters
+      as at inclusion, and additionally to recover DNA and peripheral mononucleated blood cells.
+
+      Outcomes and analyses The main goal is to define sets of biological parameters corresponding
+      to distinct endotypes. The data will be submitted to principal component analysis (PCA) to
+      determine groups of patients with distinct profiles, and which parameters are the more
+      relevant for each profile. Unsupervised hierarchical clustering will also be used to define
+      groups of patients with distinct clinical and biological profiles.
+
+      To assess the link between severity and clinical/biological data, logistic regression models
+      will be used as well as severity-adjusted PCA.
+    
+  

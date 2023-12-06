@@ -1,0 +1,14 @@
+
+    
+      Study cohort will undergo PET/CT and MRI scans prior to chemotherapy and after the first
+      chemotherapy cycle. MRI scans include DCE-MRI and DWI. The following parameters will be
+      calculated using these values:
+
+        1. Metabolic parameters on FDG-PET A. SUV change ratio (SCR) = SUVpost/SUVpre B. MTV change
+           ratio (VCR) = MTVpost/pre C. TLG change ratio = SCR X VCR
+
+        2. Perfusion parameters on DCE-MRI A. Kep B. K-trans C. ve
+
+        3. Diffusion parameters on DWI A. Mean ADC B. fDM
+    
+  

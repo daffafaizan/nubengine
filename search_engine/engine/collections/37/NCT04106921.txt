@@ -1,0 +1,59 @@
+
+    
+      Community Health Workers participating in the study will be providing care through the
+      Proactive Community Case Management intervention, described in detail elsewhere. Through this
+      package of services, CHWs are required to conduct at least two hours of home visits per day,
+      six days per week, to achieve a goal of at least two home visits per household per month. All
+      CHWs receive monthly individual supervision via a 360 Supervision protocol, described in
+      detail elsewhere, as well as group supervisions weekly (at the Yirimadio site) or
+      twice-monthly (at the Tori site). At the Tori site, households served by each CHW were
+      previously registered via a population census which is updated every year by an independent
+      team of surveyors. Within the Yirimadio site, all households have been registered by the CHW
+      herself to achieve a ratio of approximately 1000 patients per CHW.
+
+      CHWs at both sites and both arms of the study will also receive monthly performance feedback
+      via a CHW Performance Dashboard, described elsewhere, which provides personalized feedback on
+      the quantity, speed, and coverage of care. CHW supervisors will be able to see their
+      supervisees' performance data and provide feedback via the monthly supervisions. CHWs at both
+      sites will receive feedback for community care management indicators, but only Yirimadio's
+      CHW supervisors will observe CHWs performance on proactive household visits.
+
+      All CHWs at both sites use a CHW App, a free and open source smartphone application developed
+      by Medic Mobile with Muso. The CHW App is a job aid that supports task management, panel
+      management, and clinical decision support functions, while providing a mechanism for data
+      collection and submission. Previously, CHWs had to manage 14 different types of paper forms
+      that their core workflow entails, and the data was entered by hand for each of these forms to
+      carry out monitoring and evaluation tasks. Now, there is no need for photocopying, carrying
+      and stocking all 14 forms, and data is automatically sent to a central database once the
+      smartphones are synchronized. Also, for CHW tracking their patients and the tasks they
+      performed meant a huge organizational challenge. The app was modeled to tackle this problem
+      using a human centered design, allowing the CHWs to easily search for and access their
+      patients registries and histories.
+
+      For the control arm, all households within the CHW's household list in the app will have the
+      same appearance. There will be no visual differentiation between households on the list to
+      indicate the frequency of home visits.
+
+      In the intervention arm, the CHW's household list will appear differently within the app in
+      the following ways:
+
+      The CHW will be able to filter and order households by the date of the most recent home
+      visit, to identify households that have been visited least frequently.
+
+      A color-coded visual icon will display the number of home visits in the past month for each
+      household.Red color for 0 home visits for a household in the past month (default at the start
+      of every month).Orange color for 1 home visit for a household in the past month.Blue color
+      for 2 or more visits for a household in the past month.
+
+      A red exclamation mark will be displayed for every household that has not reached 2 visits in
+      the past month (default at the start of every month).
+
+      Text displayed below each household showing the date of last visit will turn red if more than
+      30 days have passed since last visit. When more than 60 days have passed since the most
+      recent visit, the text displayed below each household showing the date of last visit will be
+      changed to "date of last visit is unknown" in red.
+
+      The family profile will also contain the date of last visit, and the visits they have
+      received in that month.
+    
+  

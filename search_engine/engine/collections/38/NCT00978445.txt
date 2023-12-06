@@ -1,0 +1,41 @@
+
+    
+      The creation of optimal devices for patient self-testing protocols for anticoagulation
+      management is an area of active medical research. The current pilot study represents the
+      initial step in the development of a new customized device for this purpose, the vMetrics -
+      Anticoagulation Monitoring System. The v-Metrics Anticoagulation Monitoring System (vMetrics
+      AMS) is defined by: 1. A PT/INR home monitoring unit which interfaces to FDA approved PT/INR
+      home monitors such as the Hemosense INRatio device, and 2. an anticoagulation clinic patient
+      management application which manages patient communications, database of prior test results,
+      testing schedules, and communication to an EMR.
+
+      The INR home-monitoring system to be tested in this study will address several of the
+      limitations of currently available technologies and practices for standard and home INR
+      self-testing. The proposed project will develop a self-testing device that maximizes safety
+      and efficiency for both the patient and the health care provider. The monitoring device
+      (vMetrics) allows the wireless transmission of the INR result from an approved home INR
+      measuring monitoring device (ex:HemoSense - INRatio) to a secure database in a health care
+      provider staffed anticoagulation clinic. The device will also collect yes/no responses to a
+      set of standard questions from the subject to assure patient safety and determine optimal
+      Coumadin dosing. Upon receipt of the patient data, the Coumadin provider can review the INR
+      result and responses to the questions and use standard Coumadin dosing protocols and clinical
+      judgment to transmit dosing instructions back to the patient through the device. A calendar
+      schedule of dosing until the next scheduled INR check will be transmitted to the patient. In
+      certain instances (i.e., high INR > 5), the device will transmit instructions to call the
+      Coumadin clinic. The subject will confirm receipt of the Coumadin dose sent to him/her by
+      pressing a button on the device (which transmits the confirmation back to the database). This
+      process may reduce inconvenience to the subject, the INR value is reported directly from the
+      device reducing the possibility of error, two-way communication is wireless and will reduce
+      the need for telephone contact, thus potentially saving health care provider and patient
+      time. In addition, the data from the encounter will be available in a form that can be
+      entered into the patient's electronic medical record. The patient will enter data into the
+      device using a 4-digit passcode that will allow for security of data.
+
+      In addition to coordinating INR transmission through the home INR device, a customized
+      database will provide a platform for the anticoagulation clinic patient management
+      application (Wireless Home Coumadin clinic). This platform which will organize the workflow
+      of the Coumadin provider to more easily determine which patients are due (or overdue) for
+      monitoring, and which patients have transmitted an INR value and questionnaire and are
+      awaiting a response.
+    
+  

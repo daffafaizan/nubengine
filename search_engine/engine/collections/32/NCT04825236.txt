@@ -1,0 +1,62 @@
+
+    
+      This study seeks to test a decision aid created to address the disease-specific reproductive
+      health concerns of women with cystic fibrosis. The decision aid was built out of research
+      done by studies previously approved by the University of Pittsburgh IRB. These studies
+      determined the information and decision support needs of women with cystic fibrosis
+      concerning their sexual and reproductive health care.
+
+      The purpose of this study is to pilot the decision aid prototype to evaluate its feasibility,
+      appropriateness, and acceptability.
+
+      Screening for eligibility will be conducted prior to a potential participant's visit with
+      their CF care team. Eligible patients will be contacted via phone. Interested patients will
+      be consented and asked to schedule a time to complete the web-based decision aid in its
+      entirety and complete a follow up qualitative interview.
+
+      The investigators will also ask participants if they are interested in two optional
+      activities: having their screen activity on MyVoice:CF recorded for analysis and having their
+      next appointment with their CF team recorded for conversation analyses. The RC will explain
+      these recordings will be de-identified prior to analysis and that no one outside of the study
+      team will see the screen capture data, listen to the recording, or read the full transcript.
+
+      Data collection: After giving consent to participate, participants will be given the link for
+      the baseline survey, hosted on REDCap, by the RC/RA. They will also schedule a time to 1)
+      complete the web-based decision aid and 2) complete an exit survey about the aid.
+
+      Immediately following their next visit with the CF care team, they will complete a survey to
+      assess the tool's impact on their interaction with the team and their receipt of reproductive
+      health care and complete a qualitative interview on the tool and its impact on their team
+      interaction.
+
+      The subsequent 3-month and 6-month surveys will also be completed via REDCap, and
+      participants will be given the link via email, with phone calls as necessary to prompt
+      completion. Six months after the last recruited patient has completed their run through of
+      the tool, the adult CF care team (n=11) will be asked to complete an anonymous survey about
+      their experiences with patients who have used the tool. Following this, a focus group will be
+      conducted with the care team to discuss the perceived feasibility, appropriateness, and
+      acceptability of the tool from the provider perspective.
+
+      Data Analysis:
+
+      Descriptive statistics will summarize feasibility and acceptability data. The System
+      Usability Scale will be assessed via the accepted scoring scale. The investigators aim for
+      >80% use of the tool (REACH), implementation integrity (IMPLEMENTATION), and satisfaction
+      with MyVoice:CF (MAINTENANCE). Effectiveness will be assessed by fitting generalized linear
+      mixed models with fixed effects for "period" and random effects for cluster. For outcomes
+      assessed longitudinally, there will be an additional random effect for subject. Assuming a
+      conservative ICC of 0.05, 5% type I error, and 15% attrition, our anticipated sample size
+      would yield 80% power to detect mean differences of 0.41 for any of our continuous outcomes.
+      Reproductive health outcomes and care-seeking variables will be compared to estimates from
+      recent survey data as well as the National Survey for Family Growth (NSFG) as a U.S. general
+      population estimate. NSFG comparisons will be adjusted for demographic differences. Survey
+      data will be analyzed using SAS v9.4.
+
+      Thematic analysis of interview transcripts will be conducted by research study staff and
+      decision aid developers to identify key themes produced by the pilot testing process. Themes
+      will be evaluated and used to refine the existing prototype and develop a finalized version
+      of the decision making tool. Data collected from the decision aid will not be collected for
+      research purposes and will not be analyzed; it will be used to test that the data collection
+      system is functioning correctly.
+    
+  

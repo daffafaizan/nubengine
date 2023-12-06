@@ -1,0 +1,35 @@
+
+    
+      The subjects will be recruited from adult patients who undergo elective laparoscopic
+      abdominal surgery at UC Christus Clinical Hospital (Santiago, de Chile). Patients will be
+      randomly divided into four groups according to the dose of intravenous methadone to be
+      administered during anaesthetic induction.
+
+      BIS-guided and standard general anaesthesia will be administered with routine monitoring.
+      Methadone will be administered once the patient is intubated and has hemodynamic stability.
+      The only opioids that patients will receive will be remifentanil and methadone.
+
+      Upon admission to the Post-anesthesia care unit, the patient is given a Patient-Control
+      Analgesia pump for intravenous administration of morphine. Clinic evaluations will be carried
+      out periodically and blood samples for measurement of plasma methadone will be taken at
+      different times. Samples will be analyzed using high-performance liquid chromatography
+      spectrofluorometric method. The data obtained will be collected in a form within the REDCAP
+      application, to subsequently generate an encrypted database. Groups will be compared
+      regarding pain score, drugs used, opioid consumption, side effects, time of recovery, and
+      patient satisfaction.
+
+      One, two and three-compartment linear models will be used to fit the plasma methadone
+      concentration data over time. Models are parameterized in terms of elimination clearance,
+      compartment distribution clearance, central volume and peripheral volume of distribution, as
+      appropriate. The use of rescue morphine in the Post-anesthesia care unit will be used as a
+      measure to relate the methadone dose (mg/kg) with the analgesic efficacy using an EMAX model.
+      The data will be modelled using NONMEM VII. A proportional term will be used for variability
+      between subjects. Additive and proportional terms will be used to characterize the unknown
+      residual variability.
+
+      Sample size calculations were estimated using a simulation-based approach and previous work
+      with a similar methodology. To achieve an adequate representation of all age groups 60
+      patients will be required, distributed among 20 patients between 18 and 40 years, 20 patients
+      between 41 and 65 years, and 20 patients> 65 years.
+    
+  

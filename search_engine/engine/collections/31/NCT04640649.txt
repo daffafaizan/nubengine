@@ -1,0 +1,22 @@
+
+    
+      More than 90% of patients with advanced AMD have severe vision loss. Predicting AMD
+      progression from an early or intermediate stage is crucial, since prompt intervention after a
+      choroidal neovascularization (CNV) event and geographic atrophy (GA) monitoring can greatly
+      improve visual outcomes. Patients at higher risk of progression should have more frequent
+      follow-up visits, since progression often occurs before any visual changes are noticed by the
+      patient. Previous work has determined the risk factors for AMD progression based on drusen
+      features in fundus photos, Optical Coherence Tomography (OCT) and from genetic factors.
+      However, current models are limited by their ability to make predictions over short
+      intervals, which limits their utility in guiding screening intervals.
+
+      In this study we will recruit patients with early and intermediate AMD in at least one eye
+      who are at risk of converting to wet AMD or GA expansion. We will perform a randomized trial
+      where we will randomly assign them to a control or test group (personalized follow-up care
+      starting at 3 months based on their predicted risk from algorithm results), and collect
+      baseline genetic, demographic, imaging, and clinical data and first follow-up data at the 3
+      month and 6 month follow-up time points. Outcomes will be measured to determine if an
+      algorithm predicting early follow-up for high-risk patients (3 month) is advantageous over
+      the standard 6 month follow-up time point.
+    
+  

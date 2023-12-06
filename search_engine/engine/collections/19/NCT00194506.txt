@@ -1,0 +1,36 @@
+
+    
+      We will conduct a randomized controlled trial to determine whether a fully computerized,
+      diabetes mellitus (DM) disease-management module (known as Cyber-DM) can improve the quality
+      of adult diabetes care. The module will be Web-based, include a graphical HTML "front end"
+      user interface, and will be incorporated into each patient's existing Web-based electronic
+      medical record --the Medical Information Networked Database (MIND) repository at the
+      University of Washington Academic Medical Centers. This Web site will include five components
+      that will enable patients to interact asynchronously from their homes with their clinic-based
+      providers:
+
+        1. An integrated view of their actual medical record as it relates to diabetes care that
+           can generate customized patient education materials.
+
+        2. Real-time clinical reminders of the need to obtain preventive services such as HbA1c,
+           urine-protein and cholesterol determinations, and retinal examinations.
+
+        3. An electronic version of the SDMTM diabetes-care algorithms indicating where on the
+           "road-map" to adequate control they currently stand treatment-wise.
+
+        4. The ability to download glucometer readings and medication-use information from home
+           directly into the MIND repository.
+
+        5. Secure email communication between patients, their primary care physicians, and clinic
+           staff.
+
+      A total of 80-85 diabetic patients who are regular utilizers of the UW's General Internal
+      Medicine Clinic and who have home Internet access will be randomized to the experimental and
+      control arms of the trial. Control subjects will receive usual care. We hypothesize that use
+      of Cyber-DM will increase compliance with guideline-indicated care processes, improve
+      glycemic control, and reduce utilization costs. A trial this size would have the statistical
+      power to detect a change in HbA1c of 0.50%. Secure Socket Layer technology, session specific
+      "cookie" files, and a custom database application that manages logins/passwords and audits
+      all accesses to the system will provide security for this information tool.
+    
+  

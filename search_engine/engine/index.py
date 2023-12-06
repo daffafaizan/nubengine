@@ -155,7 +155,7 @@ class InvertedIndexReader(InvertedIndex):
         byte tertentu pada file (index file) dimana postings list (dan juga
         list of TF) dari term disimpan.
         """
-        # TODO
+        
         start_position, _, postings_length, tf_list_length = self.postings_dict[term]
         self.index_file.seek(start_position)
         encoded_postings_list = self.index_file.read(postings_length)
@@ -211,7 +211,7 @@ class InvertedIndexWriter(InvertedIndex):
         tf_list: List[Int]
             List of term frequencies
         """
-        # TODO
+        
         encoded_postings_list = self.postings_encoding.encode(postings_list)
         encoded_tf_list = self.postings_encoding.encode_tf(tf_list)
 

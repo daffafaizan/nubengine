@@ -1,0 +1,159 @@
+
+    
+      Adult, male and female HIV-1 infected subjects, who started an antiretroviral regimen of
+      RALTEGRAVIR plus ABACAVIR and LAMIVUDINE after a different antiretroviral regimen.
+
+      Subject Selection: Inclusion Criteria
+
+      All consecutive patients fulfilling the following inclusion criteria will be considered:
+
+        -  HIV-1 infected patients,
+
+        -  age > 18 years,
+
+        -  Human leukocyte antigen (HLA) B5701-negative
+
+        -  treatment-experienced patients with viral suppression (HIV-RNA <50 copies/mL), who
+           switched from any antiretroviral drug to raltegravir plus abacavir and lamivudine
+           because of toxicity, convenience or other reasons
+
+        -  switch from Protease Inhibitor to Raltegravir in patients on Abacavir and lamivudine,
+           switch from any Nucleoside analog reverse-transcriptase inhibitors (NRTI) combination to
+           abacavir and lamivudine in patients on raltegravir, switch to raltegravir plus abacavir
+           and lamivudine from any other combination will all allow the inclusion in the study
+
+        -  At least one viral load assessed before and at least once after starting the study
+           regimen.
+
+      Subject Selection: Exclusion Criteria
+
+        -  Documented drug-resistance or virological failure to integrase inhibitors, abacavir or
+           lamivudine before starting the study regimen.
+
+        -  Pregnancy at the start of the study regimen.
+
+        -  HBsAg positive.
+
+      Definitions
+
+      Treatment Failure will be defined as the occurrence of Virological Failure or change in any
+      component of the study regimen for any reason or treatment discontinuation at any time after
+      the start of the considered treatment.
+
+      Virological failure will be defined by the occurrence of two consecutive (confirmed ) viral
+      loads >50 copies/mL at any time during follow-up.
+
+      Variables/Information
+
+      The following information will be extracted from the Hospital database of the Department:
+
+        -  demographics (age, sex, race)
+
+        -  smoking
+
+        -  risk factors for HIV infection
+
+        -  time from HIV-1 diagnosis (years)
+
+        -  history of AIDS diagnosis
+
+        -  hepatitis C virus (HCV) co-infection
+
+        -  hepatitis B virus (HBV) co-infection
+
+        -  presence of co-morbidities (including diabetes, hypertension, Cardio Vascular Diseases,
+           Chronic kidney disease, cancer, etc)
+
+        -  reasons for switching to raltegravir + abacavir/lamivudine
+
+        -  time with HIV-1 RNA < 50 copies/mL before switch
+
+        -  BMI
+
+        -  Hematology (Hb, PLT)
+
+        -  Creatinine
+
+        -  eGFR epidermal growth factor receptor (Chronic kidney disease -EPI formula)
+
+        -  Phosphorus
+
+        -  Calcium
+
+        -  Aspartate aminotransferase (AST)
+
+        -  ALT
+
+        -  FIB-4 (liver index)
+
+        -  alkaline phosphatase
+
+        -  total, direct, indirect bilirubin
+
+        -  proteinuria
+
+        -  hemoglobinuria
+
+        -  total, HDL-, LDL-cholesterol
+
+        -  triglycerides
+
+        -  glycemia
+
+        -  HIV-RNA
+
+        -  lymphocytes (CD4+, CD8+, CD4/CD8 ratio) since the start of raltegravir
+
+        -  previous antiretroviral regimen and number of previous antiretroviral agents.
+
+      Data Sources
+
+      The data source is the Infectious Diseases Database of San Raffaele Hospital (IDD-OSR),
+      collecting all the data of patients followed in the outpatient clinic.
+
+      Data are collected during routine clinical activity. Adverse Events that occurred after the
+      initiation of the study treatment will be recorded and classified as drug-related or not and
+      according to severity.
+
+      Power/Sample Size:
+
+      100 patients fulfilling the specified inclusion criteria will be available for this analysis.
+
+      When the estimated treatment efficacy proportion is 80%, a sample size of 100 subjects
+      produces a two-sided 95% confidence interval with a precision equal to 8%.
+
+      Data Analysis Baseline characteristics of enrolled patients will be described by median and
+      interquartile range or frequency (%), according to the variable type.
+
+      Follow-up will count from the date of starting with Raltegravir plus Abacavir and lamivudine
+      to Treatment Failure or last available visit, whichever will first occur.
+
+      Primary analysis Kaplan-Meier curves and proportional hazards regression models will be used
+      in reference to the primary endpoint.
+
+      Secondary analyses Trend over time of continuous variables (height, weight, BMI, Hb, PLT,
+      creatinine, eGFR, phosphorus, calcium, AST, ALT, FIB-4, alkaline phosphatase, total, direct,
+      indirect bilirubin, total, HDL-, LDL-cholesterol, triglycerides, glycaemia, HIV-RNA, CD4+
+      cell count) will be assessed by the ANOVA for repeated measures or univariate mixed linear
+      models (depending on the data structure); chi-square test for trend will be applied on
+      categorical variables (proteinuria, hemoglobinuria).
+
+      The non-parametric Wilcoxon signed rank test will be applied to assess significant changes of
+      continuous variables since baseline and the last available visit; to test for changes in
+      proportions between baseline and the last available visit, the McNemar test will be
+      calculated.
+
+      Relationships among continuous variables (height ,weight, BMI, Hb, PLT, creatinine, eGFR,
+      phosphorus, calcium, AST, ALT, FIB-4, alkaline phosphatase, total, direct, indirect
+      bilirubin, total, HDL-, LDL-cholesterol, triglycerides, glycaemia, HIV-RNA, CD4+ cell count)
+      will be tested calculating the correlation coefficients (Spearman rho, as appropriate).
+
+      Safety data analysis will be descriptive only. Adverse Events, Serious Adverse Events will be
+      tabulated, also according to their severity, for a descriptive purpose only.
+
+      A two-sided alpha level of 0.05 will be taken as reference to detect statistical
+      significance.
+
+      All analyses will be performed with Statistical Analysis Software, release 9.2.
+    
+  

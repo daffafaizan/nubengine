@@ -1,0 +1,41 @@
+
+    
+      We propose to constitute a prospective cohort of subjects carrying chronic disease. The
+      objective is to explore all the different components of mobility (balance, muscle force, body
+      composition, walking ability, metabolism, etc.), to assess their impact on the functional
+      capacity of individuals and to identify their potential interactions. Processing this data
+      could ultimately allow the development of a model to determine a composite standard profile
+      of "dysmobility" in patients with chronic disease.
+
+      In the present protocol, parameters will be measured on five occasions (at inclusion, at 6
+      months from the inclusion day, at 1,2 and 5 year(s) from the inclusion day). All tests will
+      be performed on the same day. New assessments will be done on the same principle as the
+      initial evaluation.
+
+      Statistical analyses will be carried out using Stata software (version 13, StataCorp, College
+      Station, USA). Data will be described by frequencies and percentages for categorical
+      variables and by means and standard deviation (or median and interquartile range if data are
+      not normally distributed) for continuous variables. The normality of continuous data will be
+      assessed graphically and using the Shapiro-Wilk test. The main analysis will consist in
+      determining patient profiles regarding their mobility. Clustering-type approaches (supervised
+      or not) will be proposed: k-means, vector machine support, machine learning, factor analysis.
+      For example, factor analyses on mixed data will allow the main components of mobility to be
+      characterized. They can be followed by an ascending hierarchical classification in order to
+      determine homogeneous groups of patients.
+
+      These groups will be described and compared on the main criteria evaluated using standard
+      statistical tests: chi2 test (or Fisher's exact test if applicable) for the categorical
+      criteria and using an analysis of variance (or Kruskal-Wallis if data are not normally
+      distributed) for continuous criteria. The main analysis will be broken down more specifically
+      for each of the pathologies considered. In addition, the sensitivity to change will be
+      assessed in each pathology and for each assessment criterion. The search for factors related
+      to the evolution of the different criteria will be carried out using usual tests and mixed
+      multivariate models (logistics for categorical / linear criteria for continuous criteria)
+      considering the subject as a random effect, and adjusting on the time criteria (inclusion /
+      follow-up) and the criteria highlighted in the univariate analyses and in light of the
+      elements reported in the literature. A sensitivity analysis will be proposed in order to
+      study the statistical nature of the missing data and to propose, if necessary, the most
+      suitable method of imputing the data: multiple imputation, maximum bias or LOCF in the case
+      of longitudinal data.
+    
+  

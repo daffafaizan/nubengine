@@ -1,0 +1,65 @@
+
+    
+      Use of regional anaesthesia (RA) and peripheral nerve block (PNB) is growing, although
+      general anaesthesia (GA) is still more common in general surgical practice. Around 65% of all
+      procedures amenable to a regional technique currently use GA, and current UK National
+      Institute of Health and Clinical Excellence (NICE) guidance is that all regional anaesthesia
+      should be performed using ultrasound guidance. However, further increases in regional
+      anaesthesia are expected, as there are significant patient and economic benefits. In
+      particular, the per-procedure costs of regional anaesthesia are considerably less than for
+      general anaesthesia.
+
+      Although growing, ultrasound-guided regional anaesthesia is difficult to learn and difficult
+      to perform. There are significant hand-eye-coordination issues as the clinician must
+      simultaneously manipulate both the needle and the ultrasound probe in order to guide the
+      needle to the target. In addition, both the needle and target anatomy can be very difficult
+      to see on the ultrasound image.
+
+      The investigators believe that a computer-aided system that highlights key anatomical
+      features on the ultrasound image would make this procedure safer for the patients and simpler
+      for the clinician.
+
+      Currently, the leading method for automatic image segmentation uses deep learning, for which
+      many thousands of training images are required. There have been several successes in applying
+      these techniques to medical images, including ultrasound. However, it appears that relatively
+      little attention has been given to automatic segmentation of ultrasound images for regional
+      anaesthesia.
+
+      The closest reference to our proposed research describe a method to locate the median nerve
+      in ultrasound images of the forearm. There has also been a Kaggle challenge to segment the
+      brachial plexus nerves in the neck. Multiple anatomical regions can also be segmented at the
+      same time. However, none of these studies are directly applicable to clinical use as they
+      deal only with images captured from healthy volunteers. Neither do they consider how these
+      techniques could be used to aid anaesthetists performing regional anaesthesia in the clinic.
+
+      The rationale for this study is to determine whether real-time automatic highlighting of key
+      anatomical features can help clinicians perform ultrasound-guided regional anaesthesia.
+
+      Medaphor's proposed system for automatic highlighting uses deep learning and requires many
+      thousands of images for the system to learn from. However, machine learning algorithms such
+      as deep-learning are highly dependent on the images used to construct them. In particular,
+      care must be taken to ensure these algorithms are trained using images representative of
+      those the algorithm will encounter when in use.
+
+      A key part of regional anaesthesia involves injecting anaesthetic into the space near the
+      relevant nerve. Once introduced, both the needle and anaesthetic can be seen on the
+      ultrasound image. Models trained using non-invasive images recorded from healthy volunteers
+      will not be sufficient. Although non-invasive images from volunteers may contain the key
+      anatomical features, they will not show the needle and anaesthetic.
+
+      The simplest option to capture representative images is to select patients who will be having
+      regional anaesthesia and record the image data directly from the ultrasound machine as the
+      procedure is performed. This method of recording is transparent to both clinician and
+      patient, and does not affect the patient's treatment in any way.
+
+      In addition, the ultrasound machines used for regional anaesthesia are not connected to PACS
+      and no patient identifiable information is entered into the ultrasound machine. Since the
+      ultrasound image only is recorded, the videos are completely anonymous and cannot be traced
+      back to any individual.
+
+      This study is part of a larger research programme and will build and validate a system
+      capable of highlighting the key anatomical features. Once the system is complete, a further
+      study will be conducted to test it in the clinic to determine potential benefits to patients
+      and clinicians.
+    
+  

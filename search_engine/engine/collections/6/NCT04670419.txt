@@ -1,0 +1,152 @@
+
+    
+      1. Study objectives
+
+           1.1. Primary objectives:
+
+           To examine viral factors, such as gt, subtype and viral load, associated with the
+           morbidity and mortality of HEV infections in Belgium.
+
+           1.2. Secondary objectives:
+
+             -  To describe host factors associated with the morbidity and mortality of HEV
+                infections in Belgium.
+
+             -  To find independent host and/or viral factors that are associated with the
+                morbidity and mortality of HEV infections in Belgium.
+
+        2. Investigational plan
+
+           2.1. General study design
+
+           Retrospective cohort study.
+
+           2.2. Study duration, enrollment and number of sites
+
+           Subjects for which a serum sample is sent to the Belgian National Reference Center for
+           Viral Hepatitis Sciensano to diagnose a HEV infection between January 2010 and June
+           2018.
+
+           2.3. Study population
+
+           All patients with a confirmed or possible HEV infection at Sciensano between January
+           2010 up to and included June 2018.
+
+           2.3.1. Inclusion criteria:
+
+             -  HEV RNA positive AND/OR HEV immunoglobulin (Ig)M positive
+
+             -  Lab confirmation of the HEV infection performed at Sciensano
+
+             -  All ages will be included
+
+             -  Referring hospital in Belgium
+
+           2.3.2. Exclusion criteria:
+
+             -  No confirmation of HEV serology AND/OR polymerase chain reaction (PCR) performed at
+                Sciensano
+
+             -  Cases not diagnosed in Belgium
+
+             -  Cases without clinical outcome data
+
+        3. Study procedures
+
+           Review of records. Re-evaluation of available liver biopsies by an expert liver
+           pathologist (Prof. Tania Roskams, UZ Leuven).
+
+           3.1. Data sources
+
+           In Belgium, Sciensano acts as a National Reference Center (NRC) for viral hepatitis.
+           Most of the documented HEV infections in Belgium are confirmed in Sciensano and samples
+           on which HEV serology (IgM and IgG), PCR and genotyping have been performed are
+           biobanked.
+
+           3.2. Data collection
+
+           A questionnaire will be sent to all treating physicians of patients with HEV infections
+           in Belgium. If no response is received, a reminder will be sent by regular mail and
+           later by e-mail. Different options will be offered to the treating physicians: to fill
+           in the questionnaire, to complete the questionnaire by telephone with an investigator
+           from Sciensano, to let the data to be collected at the center site by an investigator of
+           Sciensano. Available liver biopsies from confirmed HEV cases will be retrieved from the
+           pathology department of each center and re-evaluated by an expert liver pathologist.
+
+           3.3. Variables collected
+
+           Demographic data:
+
+           Age and geographical origin. Date of symptom onset, date of diagnosis, date of loss to
+           follow-up / death. Pregnancy at the time of diagnosis. Diabetes mellitus at the time of
+           diagnosis. Immunocompromised status at the time of diagnosis. Known cirrhosis (fibroscan
+           / biopsy / …), hematological or oncological disease. Other comorbidities. Blood
+           transfusion history. Solid organ or stem cell transplantation preceding the HEV
+           infection, type of organ and date. Renal function or renal replacement therapy.
+           Infection in other family members. Use of alcohol and number of units per week. Use of
+           illicit drugs. Travel abroad preceding the HEV infection and name of the country
+           visited. Consumption of pork meat.
+
+           Treatment data:
+
+           Treatment with ribavirin. Treatment with other known/putative antiviral therapy.
+           Reduction of immunosuppressive medication because of the HEV infection. Stop of
+           immunosuppressive therapy because of HEV infection.
+
+           Disease course and outcomes data:
+
+           Acute hepatitis with complete recovery. Liver failure. Hospitalisation. Duration of
+           hospitalisation in days. Admission to the intensive care unit. Duration of
+           hospitalisation at the intensive care unit in days. Variceal bleeding. Bacterial
+           peritonitis. Hepatic encephalopathy. Extrahepatic manifestations and type. Neurologic
+           disease and type. Chronic HEV infection (as defined by HEV RNA positive for 3 months or
+           more). Progression to cirrhosis as a consequence of HEV infection. Liver transplantation
+           as a consequence of HEV infection and date of transplantation. Death and date of death.
+           Death as a consequence of HEV infection. Total duration of symptoms in weeks.
+
+           Biochemical data:
+
+           HEV IgM, HEV IgG, HEV (quantitative) PCR, HEV genotype and subtype. HEV genotyping was
+           performed by Sanger sequencing of a 348 base pair (between 2010 and 2016) or a 493 base
+           pair (from 2017) region of ORF2. The obtained sequences were aligned against HEV
+           reference genomes and submitted to HEVnet for genotype assignment (13). Presenting ALT,
+           peak ALT, presenting AP, peak AP, presenting bilirubin, peak bilirubin, presenting INR,
+           peak INR, presenting albumin, lowest albumin, presenting eGFR (CKD-EPI), lowest eGFR
+           (CKD-EPI).
+
+           Liver biopsy scoring:
+
+           Histological grading and staging on H&E stained liver biopsy slides will be applied in a
+           blinded manner. One expert liver pathologist, who is unaware of the infection status of
+           the patient, will score the liver biopsies. The following parameters will be scored from
+           0-4 in a semi-quantitative manner: general architecture, lobular and portal
+           inflammation, presence of immune cells and necrotic cells, presence of interfaces. Per
+           patient, a global score will be assigned taken into account the spread, mean and mode of
+           the different scored parameters.
+
+        4. Statistical analysis plan
+
+      The characteristics of patients will be analysed with the chi-square test for categorical
+      variables and student t-test (Welch test if unequal variances or Wilcoxon Rank sum test when
+      normality is not met) for the continuous variables. Numerical data are presented as the mean
+      and standard deviation or 95% confidence interval, while categorical are expressed as counts
+      and percentages.
+
+      The following independent viral variables are defined: HEV gt 3 clade type (abchijklm, efg
+      and ra), viral load.
+
+      The following independent host variables are defined, given their known association with
+      disease outcome or severity: alcohol consumption, diabetes, gender, age, cirrhosis and
+      immunosuppression.
+
+      Differences between demographic factors, disease severity (expressed by laboratory data and
+      histology) and disease outcomes (as defined by hospitalization status and duration, ICU stay,
+      chronic infection, extrahepatic manifestations and death) will be analysed for the
+      independent viral variables with an univariate analysis. Multivariable linear or logistic
+      regression analysis will be performed with dependent variables that were found to be
+      significantly associated with the independent variables in univariate analysis. Given the
+      retrospective nature of the analysis, an upfront power calculation for the number of included
+      patients for the investigated outcome is not possible. Statistical analyses are performed at
+      a significance level of 5% using the statistical software R or SAS.
+    
+  

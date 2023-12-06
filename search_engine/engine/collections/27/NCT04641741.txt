@@ -1,0 +1,531 @@
+
+    
+      Hypotheses
+
+      Hº1. The levels of certain surface molecules on eosinophils or the presence or absence of
+      certain proteins in the proteome of this leukocyte subset prior mepolizumab treatment can be
+      used as predictive/prognostic markers of response to this biological.
+
+      Hº2. Mepolizumab alters the abundance of several surface or intracellular proteins in
+      eosinophils as an outcome related to changes in their activation status, migratory ability,
+      regulatory/effector function, or subset composition.
+
+      Hº3. Late-onset severe eosinophilic asthmatics have elevations in the serum concentration of
+      different members of the IGF family (IGF-1, IGF-BP3, IGF-ALS) and mepolizumab treatment
+      reduces these levels and behaves as a response-biomarker along with the number of eosinophils
+      and clinical exacerbations.
+
+      Objectives or research questions
+
+      OB (Aspirational objective): Discovery of predictive/prognostic biomarkers of response to
+      mepolizumab using flow cytometry, transcriptomic, and proteomic technologies.
+
+        -  OB1.- To identify changes in surface markers of eosinophils and eosinophil
+           subpopulations in response to treatment with mepolizumab using flow cytometry
+           techniques. This objective is distributed in the following deliverables (DE):
+
+             -  DE1.1: Selection of 15 healthy controls
+
+             -  DE1.2: Diagnosis of late-onset severe eosinophilic asthma patients and selection of
+                15 patients who meet criteria, are scheduled to receive mepolizumab, and sign the
+                informed consent.
+
+             -  DE1.3: Generation of the initial database for healthy controls and asthma patients
+                with demographic, clinical, haematologic, and biochemical information.
+
+             -  DE1.4: Collection and processing of serum (1 SST tube) and whole blood samples (1-2
+                tubes) from healthy donors (T0) and mepolizumab-treated patients (T0, T4, T16,
+                T32).
+
+             -  DE1.5: Flow cytometry assays with multimarker panels 1 (regulatory), 2
+                (activation), and 3 (eosinophil subsets) (see below).
+
+             -  DE1.6: Complete the database with clinical, hematological, biochemical and flow
+                cytometry data generated at times T4, T16 and T32. Final uni- and multivariant
+                statistical analysis.
+
+             -  DE1.7: Publication of results.
+
+        -  OB2.- Transcriptomic analysis to identify mRNAs within the eosinophil transcriptome
+           displaying enhanced or reduced levels in response to treatment with mepolizumab. This
+           objective is distributed in the following deliverables (DE):
+
+             -  DE2.1: Set up an eosinophil isolation protocol and check cell purity by flow
+                cytometry.
+
+             -  DE2.2: Purification of eosinophils from 15 healthy donors (T0) and 15 patients (T0,
+                T4, T16, T32).
+
+             -  DE2.3: Total RNA extraction from eosinophil lysates, assay of quality and quantity
+                of RNA, and storage at -80ºC.
+
+             -  DE2.4: Discovery-based/hypothesis-generating approach. Evaluation of the levels of
+                770 human protein-coding mRNAs linked to the recruitment, activation, and effector
+                functions of myeloid cells by means of a direct multiplexed molecular measurement
+                platform named nCounter® NanoString) in combination with a pre-made "nCounter®
+                Human Myeloid Innate Immunity Panel (v2)"
+                (www.nanostring.com/products/gene-expression-panels/gene-expression-panels-overview
+                /ncounter-myeloid-innate-immunity-panel ). Due to the high economic cost, this part
+                of the study will only be performed with eosinophil samples from healthy donors (T
+                = 0) and two time points in patients (T = 0 and T = 16).
+
+             -  DE2.5: Processing of the obtained data and initial statistical analysis.
+
+             -  DE2.6: Validation of nCounter® data and hypothesis-driven approach with an
+                established quantitative technique. Perform retrotranscription and qPCR analyses of
+                those mRNAs in eosinophils displaying the greatest abundance changes in response to
+                mepolizumab treatment according to the nCounter® study. In addition, some
+                additional mRNAs not included in the "nanoString Myeloid Innate Immunity" panel,
+                such as FOXP3 (regulatory function), CRLF2, ST2, or IL-7R (cytokine receptors;
+                activation), will be analysed. HPRT1 gene will be used as a house-keeping gene in
+                this set of RTqPCR experiments.
+
+             -  DE2.7: Uni- and multivariant statistical analyses.
+
+             -  DE2.8: Publication of transcriptomic results.
+
+        -  OB3.- Proteomic profiling to identify proteins with differential abundance within the
+           eosinophils in response to treatment with mepolizumab. This objective is distributed in
+           the following deliverables (DE):
+
+             -  DE3.1: Lysis of eosinophils, insoluble material removal by centrifugation, protein
+                quantification (BCA), and cell supernatants storage at -80°C.
+
+             -  DE3.2: Develop a total proteome analysis protocol with a Data Dependent Acquisition
+                (DDA) method using a LC-MS / MS technology (Triple TOF 6600)
+
+             -  DE3.3: Check the biological variability (biological replications) and technique
+                (technical replicas) to check the reproducibility of the tests.
+
+             -  DE3.4: Maintaining the standardized conditions of LC-MS / MS (TripleTOF), create a
+                library for SWATH (sequential window acquisition of all theoretical mass spectra)
+                with as many eosinophil proteins as possible.
+
+             -  DE3.5: Perform SWATH-MS analysis in samples from 15 healthy donors and 15 patients
+                (T0, T4, T16, T32) ("information-dependent acquisition" method or IDA; "Targeted
+                label-free proteomics").
+
+             -  DE3.6: Processing of the obtained data and initial statistical analysis.
+
+             -  DE3.7: Checking the panel of biomarkers obtained with a different technology (e.g.,
+                SRM, ELISA).
+
+             -  DE3.8: Final uni- and multivariant statistical analysis. Identify proteins with
+                significant differences between groups (P < 0.05) and at least a fold change ≥ 1.5.
+
+             -  DE3.9: Publication of proteomic results
+
+        -  OB4. Check whether late-onset severe eosinophilic asthmatics display elevated levels of
+           IGF-1, IGF-BP3, IGF-ALS in serum samples, if the response of mepolizumab depends on the
+           levels of this markers, and if treatment with this biological reduces the concentration
+           in serum of these IGF-family members. This objective is distributed in the following
+           deliverables (DE):
+
+             -  DE4.1: Analysis of IGF-1, IGF-BP3 and IGF-ALS by ELISA
+
+             -  DE4.2: Uni- and multivariant statistical analysis of experimental data
+
+             -  DE4.3: Publication of results
+
+      Publication of results:
+
+      We will endeavour to present a communication during the first year of the study in a Spanish
+      Respiratory Congress (SEPAR) as well as in the European Respiratory Congress (ERS) resulting
+      from the study of the clinical data of patients before and after the administration of
+      mepolizumab. In addition, we expect to publish 3 publications in Q1 journals as well as other
+      2 or 3 congress communications resulting from experimental studies.
+
+      Study population The study population will include healthy controls (i.e., subjects without
+      asthma, allergy, systemic diseases or scheduled for minor surgeries) and late-onset severe
+      eosinophilic asthma patients, who will be recruited from different areas of Galicia (Santiago
+      de Compostela, A Coruña, Lugo, Vigo, and Ourense), Spain. Diagnosis of severe eosinophilic
+      asthma patients at screening will be based on several inclusion criteria and exclusion
+      criteria that we describe below [12].
+
+      Inclusion criteria:
+
+        -  Diagnosis of severe uncontrolled asthma according to ERS/ATS criteria [52].
+
+        -  Persistent eosinophilia in blood (>300 cells/μL) on ≥ two occasions (more than 4 weeks
+           between each measurement).
+
+        -  Frequent exacerbations (≥ two per year), defined as a period for ≥ 3 days of lack of
+           asthma control requiring treatment with systemic corticosteroids and/or an emergency
+           department (ED) visit and/or hospitalization.
+
+        -  Signature of informed consent and agree to comply with all the visits of the study and
+           all the procedures that this entails.
+
+      Exclusion criteria:
+
+        -  Smoking history: Current smokers or former smokers with a smoking history of ≥10
+           pack-years (number of pack years = (number of cigarettes per day/20) x number of years
+           smoked). A former smoker is defined as a participant who quit smoking at least 6 months
+           prior to Visit 1.
+
+        -  Clinically important pulmonary disease other than asthma (e.g. active lung infection,
+           COPD, bronchiectasis, pulmonary fibrosis, cystic fibrosis, hypoventilation syndrome
+           associated with obesity, lung cancer, alpha 1 anti-trypsin deficiency, and primary
+           ciliary dyskinesia) or ever been diagnosed with pulmonary or systemic disease, other
+           than asthma, that are associated with elevated peripheral eosinophil counts (e.g.
+           allergic bronchopulmonary aspergillosis/mycosis, Churg- Strauss syndrome,
+           hypereosinophilic syndrome).
+
+        -  Any disorder, including, but not limited to, cardiovascular, gastrointestinal, hepatic,
+           renal, neurological, musculoskeletal, infectious, endocrine, metabolic, haematological,
+           psychiatric, or major physical impairment that is not stable in the opinion of the
+           Investigator.
+
+        -  Malignancy: A current malignancy or previous history of cancer in remission.
+
+        -  Acute upper or lower respiratory infections requiring antibiotics or antiviral
+           medication within 30 days prior to the Visit 1.
+
+        -  Xolair: Participants who have received omalizumab (Xolair) or another monoclonal
+           antibody previously.
+
+        -  Participants who have received systemic corticosteroids within 30 days before Visit 1
+           [53].
+
+        -  Pregnancy: Participants who are pregnant or breastfeeding.
+
+        -  Obesity class 2 or higher (BMI≥ 35 kg/m2)
+           (https://www.who.int/dietphysicalactivity/childhood_what/en/).
+
+      Sample size
+
+        -  Cohort of healthy controls (n=15) only for analysis at T = 0.
+
+        -  Cohort of n=15 subjects with severe eosinophilic asthma that start with mepolizumab
+           therapy with no modification to their currently prescribed medications. Follow-up study
+           visits at 4 (T4), 16 (T16) and 32 (T32) weeks after the original study visit (T=0).
+
+             -  The rationale for sample size is explained in the statistical section.
+
+      Anticipated rate of enrolment Since this will be a multicentre study, we expect to reach a
+      rate of enrolment of at least 2 severe eosinophilic asthmatics beginning with mepolizumab
+      therapy per month (4 weeks) in each hospital (Total = 8 per month). This means that the 15
+      subjects should be scheduled to receive mepolizumab along the first 36 weeks of this study,
+      having enough time to complete the study in 72 weeks (1.5 years). We also expect that at
+      least 90% subjects complete this study.
+
+      Estimated study start date: December 2020 Estimated study completion date: 1.5 years (72
+      weeks)
+
+      Study design and methods
+
+      Figure 2. Study design. This figure represents in a schematic way both the clinical and the
+      experimental parts of the study.
+
+      This is an observational, longitudinal, prospective, and multicentre study to evaluate both
+      the early response (4 weeks) and late-response (16 and 32 weeks) to mepolizumab therapy in
+      severe eosinophilic asthmatics. The study will be headed by Dr. Francisco Javier González
+      Barcala (Pneumology Service at CHUS). Dr. Barcala was national coordinator in one clinical
+      trial as well as principal investigator and sub-investigator in 41 and 19 clinical trials,
+      respectively. In addition, Dr. Barcala has been principal investigator of 7 research
+      projects, collaborator in other 7 projects, and published more than 120 relevant publications
+      (peer-reviewed and JCR-indexed) in the field of respiratory diseases, mainly asthma.
+
+      The study also involves other members of the Multidisciplinary Asthma Unit (Dr. Francisco
+      Javier Salgado Castro, Dr. Juan José Nieto Fontarigo). In particular, the Project Manager Dr.
+      Salgado has been involved in 11 research projects, has 28 research papers in high impact
+      journals belonging to fields of Immunology, Biochemistry, Proteomics and Respiratory
+      Diseases. In addition, the other participants in this project have a broad experience in
+      their respective fields, both basic and translational research. They are Dra. Marina Blanco
+      Aparicio, responsible for the Asthma Unit at the University Hospital Complex of A Coruña
+      (CHUAC), Dr. Uxío Calvo, at the University Hospital Complex of Ferrol (CHUF), and Coral
+      González at the University Hospital Complex of Ourense (CHUO), Mar Mosteiro at Hospital
+      Alvaro Cunqueiro of Vigo; Dolores Corbacho at Hospital Povisa-Vigo . It will be necessary to
+      hire a researcher in the predoctoral phase for 12 months to carry out sample preparation in
+      transcriptomic and proteomic studies as well as the RTqPCR, flow cytometry and ELISA assays.
+      This researcher will be under the supervision of Dr. Francisco Javier Salgado Castro and Dr.
+      Juan José Nieto-Fontarigo (Multidisciplinary Asthma Unit, CHUS). Proteomics experiments will
+      be carried out by Dra. Susana Belén Bravo López and María García Vence, who work at the
+      Proteomic Platform at Sanitary Research Foundation of Santiago de Compostela (FIDIS). The
+      nCounter® analysis will be carried out through a service offered by the GENVIP group (Group
+      of Genetics, Vaccines and Infections in Pediatrics; https://nanostringenvip.com/), FIDIS.
+
+      The research project will be minimally invasive (e.g., no bronchoscopic examinations) but the
+      protocol needs to be reviewed and approved by the Ethics Committee of Clinical Research of
+      Galicia, Spain. Only fifteen patients who meet the late-onset severe asthma diagnosis
+      criteria, are scheduled to receive mepolizumab, and sign the informed consent will be
+      enrolled in this study. The same protocol will be followed by the different clinical teams.
+      Demographic, as well as clinical, haematological, and biochemical variables will be included
+      in a database. Skin prick test to common allergens and the presence of allergen-specific IgE
+      (ImmunoCAP, Thermo Fisher) will be used to check for allergic sensitization. Lung function
+      parameters (forced expiratory volume in the 1st second (FEV1), forced vital capacity (FVC),
+      and FEV1/FVC ratio) also will be analysed. Spirometry will be performed before and after use
+      of a bronchodilator. The Asthma Control Test (ACT) and the Asthma Quality of Life
+      Questionnaire (AQLQ) questionnaire will be performed. Asthmatics must be in a stable phase of
+      the disease (i.e. absence of exacerbations for at least 4 weeks before sample collection).
+      Exacerbations will be managed in accordance with standard clinical guidelines. Patients
+      (n=15) will receive 100 mg subcutaneous injection of mepolizumab at 4 weeks intervals, and
+      blood and serum samples (2-3 EDTA tubes; 1 SST tube) will be withdrawn at T=0, 4, 16 and 32
+      weeks, in order to evaluate both early-response (4 weeks) and late-response (16 and 32 weeks)
+      to treatment.
+
+      Methods
+
+        -  Tubes: EDTA (complete blood) and SST (serum)
+
+        -  Eosinophils purification
+
+             -  Eosinophils can be isolated from whole blood (heparin tubes) using the Miltenyi
+                Human Eosinophil Isolation Kit (Catalog #130-104-466) or the EasySep™ Human
+                Eosinophil Isolation Kit (Catalog #17956), both negative selection procedures that
+                yield untouched subsets of these leukocytes. We expect around at least 1.0-4.0 x
+                106 cells from ∼20 ml blood, but also high viability and purity (>95%).
+
+        -  ELISA studies.
+
+             -  Serum sample collection: Measurement of IGF-ALS (GENOIT4078 Immunotag Human IGFALS
+                96 well), IGF-1 (Human IGF-I/IGF-1 DuoSet ELISA, R&D Systems, catalog #DY291), and
+                IGF-BP3 (Human IGFBP-3 DuoSet ELISA, R&D Systems, catalog #DY675) by means of
+                ELISA.
+
+        -  Total RNA purification from eosinophils and nCounter nanoString analysis
+           (Discovery-based/hypothesis-generating approach):
+
+             -  Purified eosinophils from healthy controls (T=0) and patients (T=0, 4, 16 and 32
+                weeks) will be stored at -80ºC in RNAlater solution (Ambion, Paisley, UK). Total
+                RNA will be isolated by means of a RNeasy Mini kit (Qiagen) and stored at -80ºC
+                after checking RNA quality and concentration (Nanodrop).
+
+             -  The nCounter® platform (nanoString;
+                https://www.nanostring.com/scientific-content/technology-overview/ncounter-technolo
+                gy) is a multiplex methodology that allows the quantification of up to 800 RNA,
+                DNA, or protein targets. Regarding mRNA molecules, this technology is based on the
+                in-solution hybridization of every mRNA to two complementary oligonucleotides: a
+                biotinylated mRNA-specific probe and a mRNA-specific oligonucleotide containing a
+                sequential combination of six fluorochromes (four different colours) that create a
+                fluorescent barcode that identifies the specific mRNA being detected. Once the
+                excess of both probes is removed, the hybridised complexes are captured through a
+                biotin-streptavidin interaction and aligned on cartridge in order to the nCounter
+                instrument can read those "barcodes". To carry out these steps, the nCounter
+                platform consists of two instruments the Prep Station, which performs the
+                purification of the hybridized complexes and their immobilization onto the surface
+                of a cartridge, and the Digital Analyzer (DA), a scanner that identifies and counts
+                the barcodes captured for each sample. This quantitative analysis Therefore, each
+                miRNA can be quantified individually (absolute quantification; counts) from
+                difficult samples (e.g., eosinophils) with no need for other requirements such as
+                mRNA-cDNA conversion (RT) or DNA-amplification (qPCR), leading to less data
+                variability
+                (https://www.nanostring.com/scientific-content/technology-overview/challenges-of-rt
+                ). In addition, the amount of input material is low (25 ng-300 ng mRNA) and can be
+                derived from FFPE-derived RNA, total RNA, fragmented RNA, cell lysates, and sorted
+                cells. Afterwards, nCounter data will be normalized, background noise subtracted,
+                and further correction performed to account for the efficiency of the extraction
+                (calculated based on the expression of spike-in miRNAs that will be added to the
+                sample in a defined amount before the miRNA extraction). Normalizations will be
+                done using the R NanoStringNorm package. After normalization, a log2 transformation
+                of the data will be made and subsequently analysed by means of the LIMMA
+                Bioconductor package to identify those mRNAs displaying a differential abundance
+                upon mepolizumab treatment. This analysis will take no longer than 24 hours.
+
+        -  RTqPCR studies (Hypothesis-driven approach):
+
+             -  To analyse the levels of mRNAs encoding proteins related with alarmin-mediated
+                activation of eosinophils (CRLF2, ST2, IL-7Rα/CD127) and with the regulatory
+                function of eosinophils (FOXP3) from patients treated with mepolizumab, total RNA
+                will be transcribed into cDNA (QuantiTect Rev. Transcription Kit; Qiagen) and
+                stored at -80ºC. qPCR (QuantiTect SYBR Green PCR Kit; Qiagen) will be performed in
+                a LightCycler® 96 Instrument (Roche Life Science) and used to analyse the
+                expression of FOXP3, CRLF2, ST2, IL-7R and the HPRT1 gene (endogenous control).
+
+        -  Flow cytometry studies (Hypothesis-driven approach):
+
+             -  EDTA-treated peripheral blood samples from healthy controls (n=15; T0) and
+                mepolizumab-treated patients (n=15; T0, T4, T16, T32).
+
+             -  Label 100 μL/tube of whole peripheral blood (EDTA) with both specific and
+                isotype-matched control antibodies (BD). Red cells lysis with FACSlyse (BD).
+                Analysis with a FACSCalibur flow cytometer (BD). Use FSC/SSC to select
+                granulocytes; then SSC vs CCR3 (FITC) to separate eosinophils from neutrophils.
+                Gate eosinophils:
+
+                  -  Multimarker panel 1 (Regulatory proteins in eosinophils): Measurement of CD16
+                     and galectins-1/10 [41-44].
+
+                  -  Multimarker panel 2 (Activation receptors in eosinophils): Measurement of CD48
+                     (reduced in total eosinophils with moderated-severe asthma compared to HC [our
+                     studies, 54]), CD44, and CD11b.
+
+                  -  Multimarker panel 3 (Eosinophils subsets): Analysis of subsets based on the
+                     expression of Siglec-8, CD62L(L-selectin), and IL-5Rα [40].
+
+        -  Analysis of eosinophil proteome (Discovery-based/hypothesis-generating approach):
+
+             -  As much as 50 x 103 cells will be necessary to perform proteomic assays. We expect
+                around 50-400 x 103 cells from ∼1 mL of blood.
+
+             -  Isolated eosinophils (50 x 103 cells) will be collected by centrifugation, washed,
+                and resuspended in lysis buffer with proteinase inhibitors. After that, insoluble
+                material will be removed by centrifugation and cell supernatants stored at -80°C.
+
+             -  For eosinophils total proteome characterization will be made after trypsin
+                digestion using a DDA method in a LC-MSMS system. For this approach we will use
+                samples from 15 healthy donors and 15 patients (T0, T4, T16, T32). The proteins
+                selected will be only those that reported a 1% Global false discovery rate (FDR) or
+                better [55, 56].
+
+             -  Protein "pools" from the 5 groups of study (healthy donors and patients at time T0,
+                T4, T16, and T32 after treatment) will be used, dividing them (1-DE) in 5-6 bands,
+                extracting the proteins from each band, generating the corresponding peptides and
+                analysing them by MS / MS to produce a library for SWATH with a high number of
+                proteins, on which then the quantification will be carried out. Once the library
+                was made and maintaining the standardized conditions of LC-MS / MS (TripleTOF), we
+                will perform a SWATH-MS analysis ("information-dependent acquisition" method or
+                IDA; "Targeted label-free proteomics") in samples from 15 healthy donors and 15
+                patients (T0, T4, T16, T32). This assay will let us identify proteins with
+                significant differences between the groups of study. The proteins selected will be
+                only those with a P<0.05 and a fold change ≥1.5 [56-59].
+
+      Study endpoints:
+
+      Demographic data for all individuals enrolled in the study will be obtained at basal. In
+      addition, several data will be collected, including asthma history, lung function parameters,
+      skin prick test, allergen-specific IgE, AQLQ score, ACT score, the number of exacerbations,
+      and consumption of prednisone. During the following visits to the Pneumology service at T0,
+      4, 16, and 32, patients treated with mepolizumab will be followed up. This includes
+      measurements of lung function (FEV1, FEV1/FVC), biochemical and haematological parameters.
+
+      Peripheral blood and serum samples will be collected, and eosinophils will be magnetically
+      purified, at T0, T4, T16, and T32, and flow cytometry, RTqPCR, and proteomic analyses, as
+      well as immunoassays, will be performed. All the experimental variables (e.g., the abundance
+      of eosinophil proteins in proteomic assays, eosinophil activation markers, …) will be
+      correlated with clinical parameters (e.g., lung function, asthma control, number of
+      exacerbations) in order to assess the association of these variables with the response to
+      treatment. We will consider a favourable response to mepolizumab if one of the following
+      criteria is met:
+
+        -  To obtain adequate asthma control ACT ≥20 [60], or/ a change of ≥3 points representing a
+           minimally important difference.
+
+        -  To achieve a reduction in the annual rate of exacerbations of 48%. Exacerbation is
+           defined as the increase in symptoms requiring treatment with systemic corticosteroids
+           for ≥3, or an unscheduled medical consultation, similar to that reflected in clinical
+           trials with mepolizumab [20, 61].
+
+        -  Get a 50% reduction in the annual rate of hospital admissions due to asthma
+           exacerbation, similar to that reflected in clinical trials [62].
+
+        -  To achieve a reduction in the median annual dose of systemic corticosteroids of 50%
+           [63].
+
+        -  Study primary endpoints:
+
+             -  IGF-1, IGF-BP3 and IGF-ALS levels in serum
+
+             -  Transcriptomic (nanoString)/mRNA expression data: FOXP3, CRLF2, ST2, IL-7R
+
+             -  Proteomic data
+
+             -  Flow cytometry data: Expression of CD16, galectins-1/10, CD48, CD44, CD11b,
+                Siglec-8, CD62L, and IL-5Rα
+
+        -  Study secondary endpoints:
+
+             -  Lung function parameters (FEV1, FEV1/FVC)
+
+             -  Haematological parameters (e.g., eosinophils number).
+
+             -  Other clinical and biochemical variables (e.g., IgE or other immunoglobulins).
+
+             -  Number of exacerbations, prednisone consumption, ACT score, AQLQ score.
+
+      Statistical plan or data analysis:
+
+      Graph Pad Prism will be used to create graphics. IBM SPSS, Statistics 22.0, or R. will be
+      used for the statistical study. During the analyses, we will be assisted by the USC
+      Statistics and Operational Research area (Dr. Rosa María Crujeiras Casais).
+
+      Sample size The calculation of sample size (N) has been carried out by using G*Power 3.1.9.4
+      [64]. During these analyses we calculate N necessary get statistical significance in a F test
+      (ANOVA: Repeated measures, within factors), given α (0.05), power (1-β, 0.95), the number of
+      measurements (T0, T4, T16 and T32), and the effect size (f = 0.4; large effect size, which
+      gives as a more clinically relevant results). The output N was 15, with a critical F=
+      2.82705.
+
+      For clinical, flow cytometry and transcriptomic data. Cross-sectional comparisons between HC
+      and patients in T0 (before treatment) following a normal distribution and having homogeneity
+      of variances will be made by using t-test. For non-normal distributed variables, we will use
+      Mann-Whitney U test. Changes in the different study variables in response to treatment with
+      mepolizumab (longitudinal study; T0, T4, T16, and T32) will be tested using RM-ANOVA.
+      Multivariate analysis (e.g., PCA, unsupervised clustering) as well as functional enrichment
+      analysis will be performed with flow cytometry, and above all, transcriptomic data.
+
+      For total proteome characterization and quantitative SWATH analysis We will use
+      ProteinPilotTM 5.0.1 software from ABSciex which have the algorithm ParagonTM for database
+      search and ProgroupTM for data grouping. Data will be searched using a Human specific Uniprot
+      database. False discovery rate will be performed using a non-lineal fitting method displaying
+      only those results that reported a 1% Global false discovery rate or better [65].
+
+      Functional analysis will be performed by different open-access software. FunRich (Functional
+      Enrichment analysis tool) for functional enrichment and interaction network analysis
+      (http://funrich.org/index.html). For statistics, FunRich uses hypergeometric test, BH and
+      Bonferroni [66, 67]. We will use DAVID (https://david.ncifcrf.gov/tools.jsp) or GO
+      (http://geneontology.org/page/go-enrichment-analysis) for gene ontology enrichment and for
+      protein-protein interaction, network construction and clustering, we will use String
+      (https://string-db.org/) or Cytoscape 3.7 (https://cytoscape.org/ ) [68].
+
+      For SWATH data, MarkerView software will give us a multivariate statistical analysis using
+      principal component analysis (PCA) to compare the data across the samples. The average MS
+      peak area of each protein will be derived from the replicates of the SWATH-MS of each sample
+      followed by Student's t-test analysis using the MarkerView software for comparison among the
+      samples based on the averaged area sums of all the transitions derived for each protein. The
+      t-test will indicate how well each variable distinguishes the two groups, reported as a
+      P-value. For the library, its set of differentially abundant proteins (p-value <0.05) with a
+      1.5 up-regulated or down-regulated proteins will be selected.
+
+      Limitations
+
+        -  As previously commented, 15 subjects will be scheduled to receive mepolizumab during the
+           first half of the study (36 weeks). We expect that at least 90% subjects complete this
+           study. However, patient dropouts and non-adherence (or non-compliance) are common events
+           in clinical studies. In such a case, sample size will be proportionally inflated.
+
+        -  The present project has been proposed as a study of the discovery of molecular
+           biomarkers in response to mepolizumab. This kind of studies can be boarded through
+           Targeted/hypothesis-driven or broader/untargeted ("-omics" technologies) approaches. We
+           are aware that it might be challenging to find predictive markers in this small and
+           prospective/proof of concept study. In the present project we propose a double approach
+           to minimize this risk. On the one hand, modern and untargeted methodologies to work and
+           highly sensitive to detect low-abundant proteins (SWATH MS) or simplified protocols to
+           work with difficult samples (generation of good quality RNA from eosinophils is always
+           challenging due to the presence of abundant proteins like EDN, a member of the RNase
+           family) and reduce technical variance (e.g., nCounter nanoString) in order to shorten
+           sample sizes. On the other hand, hypothesis-driven approaches (e.g., flow cytometry,
+           RT-qPCR, ELISA), with the advantages of a greater credence, less risk of type I (i.e.,
+           false discovery) and II errors, and easy to future replication of results. These
+           targeted-methodologies will be also used to confirm only clinically relevant (high
+           effect-size) and significant (p-value < 0.05) differences obtained with untargeted
+           transcriptomic/proteomic approaches.
+
+        -  Another potential limitation is the number of eosinophils, which could be potentially
+           low in some patient after treatment with mepolizumab (50 x 103 or lower). Therefore, it
+           could be necessary to purify more than 1 or 2 mL of blood in those patients in order to
+           achieve enough cells to perform the proteomic and transcriptomic experiments. We have
+           considered this issue in the study protocol and in the budget of the project.
+
+        -  Finally, the TripleTOF is highly sensitive mass spectrometer designed to dig deeper into
+           complex samples like the eosinophil proteome. The high sensitivity of current mass
+           spectrometers combined with bidimensional schemes of nanoLC allows the detection higher
+           numbers of proteins (>1000) and analytes at concentrations in the attomolar range
+           (10-18), enough to detect low abundant intracellular proteins like chemokines or
+           cytokines. Thus, TGFα, TGFβ1, CCL5, CCL23, CSF1, CCL18, CCL24, CXCL12, and IL-18 have
+           been detected by nanoLC-MS/MS (Q-TOF), but not others like IL-5 or IL-13 [69]. This
+           expected limitation is due to the presence of peptides from highly abundant proteins
+           (e.g., eosinophil granule proteins) that suppress the ionization of peptides from lo w
+           abundant proteins in LC-MS/MS applications. This leads to the overrepresentation in the
+           list of detected proteins of abundant species such as the Charcot-Leyden crystal protein
+           (CLC, galectin-10), which is still interesting for the present project since identifies
+           eosinophils with regulatory capacities. However, in order to reduce sample complexity
+           and improve the detection of low-abundance proteins, there are different depletion
+           (e.g., ACN-depletion, ultrafiltration, 1-DE) and enrichment methods (e.g., CPLLs) that
+           we could use to gain detection sensitivity. Optionally, targeted approaches such as
+           high-multiplex immunoassays (e.g., the Olink Immune Response, Olink Inflammation, or
+           Olink Immuno-Oncology panels; https://www.olink.com/) have the advantage of a high
+           detection sensitivity with low volume of biological samples (e.g., cell lysates), even
+           though only allows the measurement of 92 protein biomarkers at once.
+    
+  

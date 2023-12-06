@@ -1,0 +1,20 @@
+
+    
+      The routinely used diagnostic scheme of cancers follows the process of
+      signal-to-image-to-diagnosis. It is essential to reconstruct the visible images from the
+      signal of medical device so that the human doctor can perform diagnosis. However, the huge
+      amount of information inside the signal is not optimally mined, which causes the current
+      unsatisfactory performance of image based diagnosis.
+
+      In this clinical trial, we will develop an AI based diagnostic scheme for lung nodules
+      directly from the signal (raw data) to diagnosis, skipping the reconstruction step. In this
+      trial, we will focus on the discrimination of malignant from benign lung nodules. We will
+      collect a dataset of patients who are screened out lung nodules. All patients undergo
+      preoperative CT scan (raw data and CT images available) and have pathologically confirmed
+      result of the nodules. We will build a model using only raw data for diagnosis of the lung
+      nodules. Moreover, another model from CT image will be built for comparison.
+
+      Furthermore, we will perform follow-up on these patients and build a model based on CT raw
+      data for prognosis analysis of lung cancer.
+    
+  

@@ -1,0 +1,27 @@
+
+    
+      The BOUM protocol is designed to provide a better understanding of the current burnout
+      prevalence among French general practitioners, as well as its risk and protective factors.
+
+      In order to fulfil those objectives, the methodologist estimated a 1536 individuals sample
+      size, using an expected prevalence of severe burnout ranged between 10% and 20% (from the the
+      EGPRN study - Soler, J.K., et al., Burnout in European family doctors: the EGPRN study.
+      Family Practice, 2008. 25(4): p. 245-265), thus allowing the investigators to retrieve
+      results with a 95% confidence level and a 2% error margin.
+
+      All analyses will be performed in a bilateral formulation for a 5% alpha error under the
+      Stata® software (version 13, StataCorp, College Station, US). A difference will be considered
+      statistically significant for p<0.05. The population will be described as frequency and
+      percentage for the categorical variables, and as mean ± standard deviation or median
+      [interquartile range] for the quantitative variables, according to their statistical
+      distribution (normality studied by the Shapiro-Wilk test). Confidence intervals for
+      population prevalence will be characterised with a binomial test. Comparisons between groups
+      of burnout will be performed using Chi2 or Fisher's exact test for the categorical variables
+      (followed by a Marascuillo post-hoc tests if needed), and by an ANOVA or Kruskal-Wallis test
+      if normality and homoscedasticity not respected (Bartlett test) for the quantitative
+      variables (followed by Tukey-Kramer or Dunn tests when necessary). Finally, considering the
+      variables clinically relevant and those with a pertinent univariate analysis results, a
+      multivariate analyse of ordinal polynomial regression type will be proposed; its results will
+      be expressed as relative risk with 95% confidence intervals and presented as a Forest-plot.
+    
+  

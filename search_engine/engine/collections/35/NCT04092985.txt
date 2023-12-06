@@ -1,0 +1,47 @@
+
+    
+      This diagnostic accuracy study is an investigator-initiated trial to evaluate the value of a
+      smart watch-based iECG for detection of cardiac arrhythmias.
+
+      iECG tracings will be recorded simultaneously, starting and ending at the same time as the
+      standard 12-lead ECG, using the built-in sensors of a smart watch (Apple Watch Series 4) with
+      the market version of the ECG application (Apple Inc., California). Participants will be
+      advised to lie down in a supine position and breathe spontaneously. All recording will be
+      done by trained study personnel.
+
+      All iECG and 12-lead ECG recordings will be presented in PDF format as our references. Saved
+      formats will be transferred to our Telemonitoring Center for further analysis and processing.
+
+      Results from a 12-lead ECG will be considered as the gold standard for the measurement of
+      heart rhythms and the arrhythmia diagnosis. All 12-lead ECGs recordings will be analyzed by 2
+      blinded cardiologists and will be categorized as "Sinus rhythm", "High or low heart rate",
+      "Atrial fibrillation", or "Inconclusive". Besides, cardiologists will report ECG wave's
+      characteristics as well as any other possible diagnosis including "Superior ventricular
+      tachycardia", "Ventricular tachycardia", "Atrial flutter", and "other types: other possible
+      arrhythmias". In the case of uncertainties, a third cardiologist will be consulted, blinded
+      for initial diagnoses.
+
+      The iECG recordings (test index) will be interpreted and reported in two different ways:
+
+        1. By using HealthKit Framework (Apple Watch and Apple iPhone applications): After a
+           successful iECG recording with the Apple watch, iECGs will be transmitted by the ECG
+           application to the iPhone. The Health App (Apple Inc., California) will receive, process
+           and store the iECGs on the iPhone and will present one of the following results on the
+           iPhone screen automatically: "Sinus rhythm", "High or low heart rate", "Atrial
+           fibrillation", or "Inconclusive". Besides, the mean heart rate will be recorded, which
+           will be automatically calculated by the Health App.
+
+        2. By cardiologist: All iECGs will be analyzed by 2 blinded cardiologists. They will report
+           their findings in the following categorize: "Sinus rhythm", "High or low heart rate",
+           "Atrial fibrillation", or "Inconclusive". Besides, they will report ECG wave's
+           characteristics as well as any other possible diagnosis including "Superior ventricular
+           tachycardia", "Ventricular tachycardia", "Atrial flutter", and "other types: other
+           possible arrhythmias". In the case of uncertainties, a third cardiologist will be
+           consulted, blinded for initial diagnoses.
+
+      ECG wave's characteristics: The following variables will be measured as the iECG and 12-lead
+      ECG waves' characteristics. Three randomly chosen heartbeats will be considered to measure
+      each wave or interval, and the mean of these 3 measurements will be used for statistical
+      analysis.
+    
+  

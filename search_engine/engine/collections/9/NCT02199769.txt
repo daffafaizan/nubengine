@@ -1,0 +1,41 @@
+
+    
+      The growing epidemic of type 2 diabetes affects over 8.3% of the US population and presents a
+      major challenge to healthcare systems and public health. An additional 7 million people have
+      undiagnosed diabetes and over 79 million have pre-diabetes, which if unrecognized and
+      untreated can progress to full-blown diabetes. Although screening and diagnostic tests are
+      routinely available, health systems struggle to diagnose patients with diabetes in a timely
+      manner. In fact, clinical diagnosis lags 8-12 years behind the onset of glucose
+      dysregulation, resulting in diagnostic delays and the presence of diabetes complications at
+      the time of diagnosis. Among patients engaged in clinical care without a known diagnosis of
+      diabetes, nearly all patients have random plasma glucose (RPG) data available which
+      potentially provides valuable, early warning safety signals regarding the need for further
+      diabetes testing. However, elevated glucose values are commonly unrecognized and over 60% of
+      abnormal values are not followed-up with diabetes testing in a timely fashion. Opportunities
+      exist to leverage existing data within electronic medical records (EMR) to identify patients
+      in need of further diabetes testing and develop systems-based solutions to reduce: 1)
+      failures in following-up abnormal glucose tests, 2) delays in diagnosing diabetes, and 3)
+      frequency of missed diagnoses of diabetes.
+
+      This proposal will leverage the Epic EMR at the University of Texas Southwestern Medical
+      Center (UTSW) to improve the detection and follow-up testing rates of abnormal glucose values
+      in real-world practice.
+
+      The investigators will conduct a cluster randomized, pragmatic trial comparing the
+      effectiveness of a clinical decision support strategy versus usual care to reduce failures in
+      timely follow-up of abnormal RPGs.
+
+      The investigators will focus on the cohort of 20,000 established patients cared for by 31
+      attending physicians in three outpatient, adult primary care practices at UTSW (two general
+      internal medicine one family medicine and one geriatric practice). Primary care providers
+      (PCPs) will be randomized to either the clinical decision support intervention or usual care.
+      Providers in the clinical decision support/intervention arm will receive clinical decision
+      support that identifies abnormal random glucose values and prompts providers to conduct
+      diabetes screening. Outcomes will be tracked at the patient level and all subjects will be
+      followed for 12 months to assess rates of follow-up diabetes testing, time to testing, rates
+      of subsequent diabetes diagnosis, and time to diagnosis. Data on study eligibility, patient
+      clinical risk factors and sociodemographics, provider and visit characteristics, and outcomes
+      will be ascertained using the comprehensive Epic EMR. The investigators hypothesize that the
+      visit-based provider decision support will be superior to usual care.
+    
+  

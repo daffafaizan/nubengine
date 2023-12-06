@@ -1,0 +1,100 @@
+
+    
+      1. Study design & sample recruitment:
+
+           This was a quasi-experimental study which adopted the multi-site non-randomized control
+           group pre- and post-test design. By adopting the multi-site design, better
+           representation of the population could be obtained. This intervention study involved two
+           groups of participant, the experimental and control groups, whereas no randomization
+           would be taken place.
+
+           The study was carried out in District Elderly Community Centers (DECCs) in Hong Kong.
+           The DECC has been implemented since 2001 under the support from the Social Warfare
+           Department (SWD) to provide community support services at district level to enable older
+           people to remain in the community and to lead a healthy, respectful and dignified
+           life.The service users are community-dwelling older citizens aged 60 or above living in
+           the locality. Invitation letters were sent to various DECCs for joining the study.
+           Finally, there were four elderly centers willing to participate in the study. The
+           participants were recruited from the four DECCs using convenience sampling.
+
+           To avoid the possible diffusion effect that might interfere the research result, all
+           eligible participants in a community center were allocated to either experimental group
+           or control group, who were treated with single intervention, so there would be no
+           discussion among participants who have received different treatment regimes.
+
+           The present study had employed a control group to enhance methodological rigor and
+           included a pre-test to assess the equivalence between two groups, so the problem on
+           selection biases could be alleviated.
+
+        2. Sample size estimation A medium effect size of 0.5 was set for the study, based on
+           previous research on the effect of Tai Chi on cognitive function. Based on the use of a
+           sample size calculator (https://www2.ccrb.cuhk.edu.hk/stat/Other.htm), a sample of 64
+           per group was expected to provide 80% power to detect a medium effect size of 0.5, at a
+           significance level of 0.05. Allowing for an attrition rate of 20% in the Tai Chi groups,
+           80 participants were recruited for each group.
+
+        3. Intervention The intervention group received a 16-week Tai Chi program, of 32 sessions
+           (two sessions per week) each one hour long.The capacity was around 20 people per class.
+           A certified Tai Chi master taught the Yang-style simple form of Tai Chi to the
+           participants allocated to the experimental group.There were four sets of movements
+           included in the simplified form; this required less time for the older practitioners,
+           who usually had less exercise endurance, to complete the whole set of movements.
+           Moreover, it was an appropriate form of Tai Chi for older people with MCI because it
+           involved only a few postures, hence it was easier for them to learn and remember. The
+           Tai Chi classes were conducted in the open hall of the community center or a public
+           playground with sufficient space, a flat floor and good lighting.To promote safety,
+           measures include appropriate footwear, appropriate warm-up and cool-down, correct
+           exercise technique and gradual increases in exercise dose will be emphasized in Tai Chi
+           class. Incident report will be done to record and analyses causes for any adverse effect
+           on Tai Chi training.To ensure adherence, the participants were required to sign
+           attendance records. Telephone follow-up was arranged to provide emotional support and
+           reinforce compliance if they were absent from two consecutive lessons. As well, the
+           participants were advised to do daily practice at home to foster better mastery of the
+           Tai Chi movements and build up a regular exercise habit. A guide book was issued to each
+           participant, providing guidance to reinforce correct postures.
+
+           For participants in the control group, they were considered as usual care group which
+           could attend for different kinds of recreational activities provided by the community
+           center. However, they were advised not to practice Tai Chi and not to join any
+           structured physical training program during the study period to avoid possible aerobic
+           capacity changes with exercise practices causing interferon on experimental outcomes.
+
+        4. Data collection The outcome variables of the study comprised of general cognitive
+           status, instrumental ADLs, and HRQOL of older participants. The outcome assessments were
+           conducted at baseline, and at 4-month (at the end of study) for all participants.The
+           Chinese version of the Mini-Mental State Examination (CMMSE) was used for global
+           cognitive assessment. The Hong Kong Chinese version of Lawton's Instrumental Activities
+           of Daily Living (IADL-CV) was used to assess the participants' IADLs levels and the
+           Chinese version of the Short Form-12 Health Survey-Standard 1 (SF-12) was employed to
+           assess the participants' perceived health status.
+
+        5. Data analysis The IBM SPSS Version 24.0 (IBM Crop. Armonk, N.Y.) was used for data entry
+           and analysis. All statistical tests involved were 2-tailed and the level of significance
+           was set at 5%. Descriptive statistics, including mean, standard deviation, frequency,
+           and percentage, were used to summarize and present the sample characteristics and
+           outcome measures.
+
+           Chi-square, Fisher's exact, and independent t- tests were used, as appropriate, to
+           compare the characteristics of intervention and control group at the baseline. If there
+           were significant differences between two groups of these characteristics, they were
+           adjusted in the subsequent outcome analysis.
+
+           Generalized Estimating Equations (GEE) was applied for comparing each of the repeated
+           measures study outcomes (i.e. CMMSE score, IADL-CV score, physical and mental components
+           of SF-12 as well as subscales of SF-12) between the two groups with adjustment for those
+           demographic characteristics showing statistical incomparability between groups. Two
+           dummy variables, Group and Time, were included in each GEE model to represent the
+           baseline group difference (Intervention - Control) and the time effect on the control
+           group (Post 16 weeks - Baseline), respectively. Furthermore, the interaction term, Group
+           by Time (Group*Time) was also included to assess the differential change in each outcome
+           between the two groups. GEE model could account for intra-correlated repeated measures
+           outcome and produce unbiased effect estimated under the data missingness mechanism of
+           missing completely at random (MCAR).
+
+        6. Ethical consideration Approval for conducting the study was obtained from the Joint
+           CUHK-NTEC Clinical Research Ethics Committee of the Chinese University of Hong Kong and
+           the selected community elderly centers.The participants were required to sign a consent
+           form. Information and the purpose of the study were explained. They could withdraw from
+           the study at any time of their own will.
+    
+  

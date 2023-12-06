@@ -1,0 +1,12 @@
+
+    
+      This is a superiority trial aiming to increase the 3 month complete response rate. The sample
+      size is calculated on the hypothesis that the experimental treatment will increase the 3
+      months response rate up to 21% (by 3 folds, based on the 7% reported in Scheinberg et al
+      [17]). Under these assumptions, the sample size to reject the null hypothesis is n=96
+      patients for each treatment arm, increased by 4% for possibly not evaluable patients (total
+      number of 200 patients, 100 each treatment arm). Statistical design for sample size
+      calculation: increase from 7% (control arm) to 21% (investigational arm) in 3 month complete
+      response rate (two-sided binomial test); alpha-error 0.05; power 0.8.
+    
+  

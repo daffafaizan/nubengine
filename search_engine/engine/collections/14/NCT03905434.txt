@@ -1,0 +1,71 @@
+
+    
+      Patients aged >18 years presenting to the Emergency Department at the Ohio State University
+      (OSU) Wexner Medical Center with acute ischemic stroke will be screened. The investigators
+      will include patients with anterior circulation acute ischemic stroke secondary to sudden
+      acute large vessel occlusion (LVO). Healthy subjects will be used as controls to assess
+      miRNAs specific to stroke population. Since hemodynamically significant preexisting stenosis
+      may result in alteration of miRNA expression, the investigators will exclude patients with
+      >50% stenosis of internal carotid artery (ICA), >50% stenosis of bilateral vertebral arteries
+      as well as patients with moderate to severe intracranial atherosclerotic disease as seen in
+      CT Angiogram (CTA) of the head and neck. To minimize confounders, patients with known
+      moderate to severe peripheral vascular disease or symptomatic coronary artery disease with
+      history of stent or coronary artery bypass graft will also be excluded. Prisoners and
+      Pregnant women will be excluded from this study as well.Differential expression of exosomal
+      microRNAs in patients with acute LVO compared to healthy controls will be evaluated. In
+      addition, a Neuroradiologist will grade the cerebral collateral circulation as (i) good or
+      (ii) poor, after carefully reviewing CTA and CT perfusion (CTP) studies in each patient using
+      validated collateral scoring method. Thirty patients with large vessel occlusion will be
+      enrolled in this study in addition to 15 healthy controls (n=45). Blood samples will be drawn
+      at 4 different time points from symptom onset for each patient: (i) 0-6 hours, (ii) 6-12
+      hours, (iii) 12-24 hours and (iv) 5-7 days. Differential MiRNA expression will also be
+      evaluated between the patients with varying collateral grades
+
+      As the process of collateral maturation likely begins shortly after hemodynamic changes
+      induced by LVO, the investigators plan to collect the first sample within 0-6 hours. Three
+      blood samples will be collected during the first 24 hours to increase the chances of
+      capturing the miRNA expression profile at the beginning of the collateral remodeling process.
+      miRNA profiles of these patients will then be analyzed and compared to healthy volunteers. In
+      addition, comparison will be done between patients with good and poor cerebral collateral
+      grade.We will analyze the miRNA profiles of these patients using methods described below.
+
+      Exosome Isolation and Characterization: Quantification of exosome number and size will be
+      carried out using a NanoSight NS300 (Nanosight, UK) at the OSU CCC Analytical Cytometry Core
+      as previously described. Briefly, exosomes will be isolated from cell-free plasma using Total
+      Exosome Isolation Kit (Invitrogen) according to the manufacturer's instructions. Exosomes
+      will be suspended in PBS buffer and stored at 4° C for up to 7 days. The exosome suspension
+      will then be diluted to achieve a working concentration between 2 x 108 - 8 x 108 for use in
+      the NanoSight NS300, after which exosomes will be counted and sized11.
+
+      Total RNA Isolation: Total RNA will be isolated from exosomes suspended in PBS using the
+      Circulating Nucleic Acid Extraction Kit (Qiagen) as previously described12. DNA contamination
+      will be mitigated through use of Qiagen's RNase-free DNase set. RNA will be concentrated and
+      purified using the RNeasy MinElute Cleanup Kit (Qiagen) as described.
+
+      NanoString Assay: The multiplexed nanoString nCounter miRNA system (nanoString Technologies)
+      at The Ohio State University CCC Genomics Shared Resource will be used for miRNA expression
+      profiling as described12. Total RNA (100ng) isolated from exosomes will be used as input
+      material. Small RNA samples will be prepared by ligating a specific DNA tag onto the 3'-end
+      of mature miRNAs according to manufacturer's instructions (nanoString Technologies). These
+      tags will normalize the melting temperatures of the miRNAs and provide identification for
+      each miRNA species in the sample. Excess tags will be washed away, and the resulting material
+      hybridized with miRNA:tag-specific nCounter reporter probes. Hybridized probes will then be
+      purified and immobilized on a streptavidin-coated cartridge using the nCounter Prep Station
+      (nanoString Technologies). The nCounter Digital Analyzer will be used to count individual
+      fluorescent barcodes and quantify miRNA molecules present in each sample.
+
+      miRNA Expression Profile Normalization and Analyses: Quality control, normalization, and data
+      analyses will be performed using nSolver 2.0 Analysis Software (nanoString Technologies) as
+      previously described. Hierarchical clustering of miRNAs identified through the nanoString
+      query will be conducted using dChip (v 1.3) software. Differentially expressed miRNAs in
+      patients with good or poor collateral scores (as described above) will be defined by a
+      greater than or less than 2-fold change using one-way analysis of variance (ANOVA) assay with
+      a significance level of p<0.05 and with correction for false discover rate.
+
+      RT-PCR Validation of Exosomal miRNAs: Select miRNAs isolated from exosomes will be reverse
+      transcribed using the miRCURY LNA Universal cDNA synthesis kit (Exiqon) according to the
+      manufacturer's protocol as described previously. miRNAs will be quantified by real-time PCR
+      using ExiLENT SYBR Green (Exiqon) on a Mx3000P qPCR platform, with expression normalized to a
+      housekeeping reference (i.e. SNORD44).
+    
+  

@@ -1,0 +1,17 @@
+
+    
+      Small fiber neuropathy, including cardiovascular diabetic neuropathy, affects millions of
+      peoples worldwide. The neuropathy is causing disabling burning pain and dysautonomia such as
+      dizziness with standing, brain fog, fatigue, constipation, urinary problems and cold or hot
+      intolerance. Early and accurate diagnosis of neuropathy is essential for correct treatment.
+      Available diagnostic methods are either invasive such as skin biopsy or available only in few
+      specialized centers. This project addresses the limited availability of small fiber
+      neuropathy detection.
+
+      The project utilizes utilize specialized image processing of skin pictures for the purpose to
+      extract the statistical features that are related to loss of small fibers. The accuracy of
+      the diagnosis verified using skin biopsies.
+
+      This approach can improve the availability of diagnosis of small fiber neuropathy.
+    
+  

@@ -1,0 +1,171 @@
+
+    
+      Primary outcome measure:
+
+      Recurrent trichiasis, defined as one or more eyelashes touching the globe or evidence of
+      epilation (lash stubs) on examination, or a history of repeat trichiasis surgery since the
+      baseline surgery, at one year.
+
+      Justification of primary outcome:
+
+      The aim of surgery is a permanent solution for trichiasis. If a patient has eyelashes
+      touching the eyeball or there is clinical evidence that they are epilating to prevent this or
+      they have required repeat trichiasis surgery, surgery can be deemed a failure.
+
+      Analysis of primary outcome measure
+
+      Intention to treat analysis of risk factors for recurrence.
+
+      Primary analysis of primary outcome:
+
+      It is expected that the important baseline characteristics (those that are known to affect
+      the risk of recurrence) will be balanced between the two arms by stratified (for operating
+      surgeon) randomisation. If this is found to be the case, the outcome of the surgery in the
+      two arms will be compared in an unadjusted logistic regression model for recurrent trichiasis
+      at one year. If the arms are found to be substantially imbalanced with respect to,
+      pre-operative severity, gender or age, an appropriately adjusted logistic regression model
+      will be used.
+
+      Individuals will be considered to be recurrent trichiasis cases if they have developed
+      recurrent trichiasis at anytime during the one year follow-up period.
+
+      Secondary analysis of primary outcome:
+
+        1. Effect modification We will assess effect modification of the intervention on recurrence
+           at one year with the following factors by including an interaction term with treatment
+           arm in the logistic regression model.
+
+             1. Operating surgeon
+
+             2. Pre-operative severity
+
+             3. Sex
+
+             4. Age group
+
+             5. Conjunctival (papillary) inflammation
+
+             6. Surgical complications
+
+        2. Analysis of risk factors for recurrence:
+
+           A multivariate logistic regression model will be used to identify potential explanatory
+           factors for recurrent trichiasis at one year, in addition to the randomised suture type
+           allocation. Other factors which will be examined in a model of recurrent trichiasis will
+           include
+
+             1. pre-operative disease severity
+
+                  -  trichiasis
+
+                  -  entropion
+
+                  -  corneal opacity
+
+             2. surgeon
+
+             3. infection status at baseline and follow up timepoints
+
+             4. inflammation status at baseline and follow up timepoints
+
+             5. whether epilation is being practised
+
+             6. sex
+
+             7. age
+
+             8. geographic location of patient's home
+
+             9. literacy
+
+            10. body mass index
+
+            11. eye dryness
+
+                  -  symptoms
+
+                  -  signs
+
+        3. Impact of intervention on time-to-first-recurrence. Kaplan-Meier analysis will be used
+           to plot the survival curves for both treatment arms up to the final visit at 2 years.
+           Cox regression will be used to assess the impact of the intervention on time to first
+           recurrence. The hazard ratio will be estimated with Cox regression, adjusting for
+           substantial baseline imbalances if appropriate.
+
+        4. Recurrence at two years Intention-to-treat analysis will be used to assess the impact of
+           the intervention on failure at 2 years. Failure will be defined as one or more eyelashes
+           touching the globe or evidence of epilation (lash stubs) on examination, or a history of
+           repeat trichiasis surgery since the baseline surgery, at either one year and/or two year
+           follow-up visits.
+
+      Secondary outcome measures
+
+        1. Lashes touching the eyeball The effect of the intervention on the number of lashes
+           touching at one, and two years, respectively, will be analysed using zero inflated
+           Poisson regression (i.e. treating number of lashes as a continuous variable)
+
+        2. Entropion grade The effect of the intervention on the degree of entropion will be
+           analysed by ordered logistic regression
+
+        3. Conjunctivilisation of the lid margin grade The effect of the intervention on the degree
+           of conjunctivilisation will be analysed by ordered logistic regression
+
+        4. Clinical evidence of epilation The effect of the intervention on clinical evidence of
+           epilation will be assessed at one and two years respectively with logistic regression.
+           In addition, Cox regression will be used to analyse time-to-first evidence of epilation.
+
+        5. Repeat surgery The effect of the intervention on the proportion with repeat surgery will
+           be assessed at one and two years respectively with logistic regression. In addition, Cox
+           regression will be used to analyse time-to-first evidence of first repeat surgery.
+
+        6. Recurrence (lashes touching the eyeball, clinical evidence of epilation, repeat surgery)
+           + history of epilation A secondary definition of recurrence will incorporate
+           self-reported history of epilation. The primary analyses will be repeated with this
+           definition of recurrence.
+
+        7. Corneal opacification (CO) (categorical variable)
+
+             1. Descriptive measures of the baseline severity of CO
+
+             2. Description of the change in CO between baseline and one and two year follow up
+                time-points.
+
+             3. Ordered logistic regression analysis for factors associated with change in CO at
+                one year and two years, respectively, including to identify factors associated with
+                it, such as suture type and inflammation.
+
+        8. Visual acuity (VA) (categorical variable) The effect of the intervention on the visual
+           acuity (logMAR score) at 12 and 24 months will be analysed by linear regression.
+
+        9. Surgical complications
+
+           Surgical complications other than recurrence, such as granuloma, incomplete lid closure,
+           inflammation (secondary to either of the two sutures materials) and infection can occur.
+           Descriptive statistics, with significance testing will be used to compare the rates of
+           occurrence of all complications and individual complications at any time during the
+           study period between the two arms of the study.
+
+       10. Patient satisfaction
+
+      Patients are asked the following questions on the follow up questionnaires that indicate
+      their satisfaction with the procedure:
+
+        1. Do you think your vision is worse, the same or better than before your surgery?
+
+        2. Do you have eye pain?
+
+        3. If you have eye pain is it worse, the same or better than before the operation?
+
+        4. Do your eyes water?
+
+        5. Did you find the surgery painful?
+
+        6. If the eyelashes have returned or will return would you seek further surgery?
+
+      The proportion answering 'yes' to each of these questions will be compared between the two
+      arms of the trial.
+
+      Additionally the answers to questions (b) and (d) will be compared between baseline
+      (pre-operative) and the answer given at each time point within each arm.
+    
+  

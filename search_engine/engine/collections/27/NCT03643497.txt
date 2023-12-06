@@ -1,0 +1,31 @@
+
+    
+      1.Establish population pharmacokinetic (PPK) models of meropenem and linezolid in severe
+      infectious children by nonlinear mixed effect modeling (NONMEM).
+
+        1. At different time point after meropenem or linezolid administration, plasma and/or
+           cerebrospinal fluid samples of 100 children will be collected from pediatric intensive
+           care unit (PICU) for each drug. The clinical information includes demography,
+           medication, concentration data, blood biochemical parameters and so on.
+
+        2. Plasma and cerebrospinal fluid samples will be tested by high performance liquid
+           chromatography (HPLC).
+
+        3. PPK models of meropenem and linezolid will be established by NONMEM program.
+
+        4. The reliability and stability of the PPK model will be evaluated by 1000 times of
+           Bootstrap procedure and normalized predictive distribution error(NPDE).
+
+      2. Evaluation of the clinical feasibility and safety of individualized dosing.
+
+        1. According the results of PPK models, the investigators will use dosages recommended in
+           models to cure severe infectious children in prospective studies. For antibiotic drug,
+           50 children will be collected.
+
+        2. The investigators will compare the therapeutic effects and safety between children with
+           conventional therapies and children with individualized therapies in severe infectious
+           diseases, including proportions of children with effective drug concentration,
+           improvement speed of children, liver and kidney functions of children, adverse reactions
+           of drugs and so on
+    
+  

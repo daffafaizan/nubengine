@@ -1,0 +1,25 @@
+
+    
+      We have developed software packages for pedigree analysis (FAST, CASPAR, PedHunter, IIC) and
+      cancer genetics (oncotrees, METREX). The purpose of this protocol is to allow us to work on
+      software problems reports that may contain human subjects data in them. The data should be
+      coded, by which we mean that if there are any links between identifiers and names, we do not
+      possess the links to decode the names. Occasionally our assistance leads to a more formal
+      research collaboration. This protocol seeks to clarify the guidelines under which we can
+      provide assistance to users of our human genetics software and to establish a formal
+      procedure under which we can seek IRB approval for the serendipitous collaborations that
+      arise from providing that assistance. We cannot predict the sizes of samples or the diseases
+      studied in the data sets sent to us, so most of the medical aspects of this protocol are
+      necessarily general. We rely on the data being coded and the collectors of the data having
+      their own institutional approvals to protect against most risks. The scientific aspects of
+      investigating problem reports cannot be hypothesis driven because we cannot guess what
+      problems will arise. On the engineering side, the basic hypotheses are that: 1) our software
+      is likely to contain some bugs or other weaknesses, which cannot be easily found except by
+      having others use the software and 2) a good way to improve the functionality of the software
+      is to encourage users to submit problem reports and other suggestions.
+
+      This protocol has been in effect since early 2002. The only amendments during that time were
+      to set up three collaborations, as described in Sections 4.6 and 4.7 and 4.8. The protocol
+      has been quite useful and no changes are proposed in procedures.
+    
+  

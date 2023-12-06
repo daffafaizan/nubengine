@@ -1,0 +1,119 @@
+
+    
+      The key objectives for this registry are to 1) identify magnitudes of clinical improvements
+      with this specific specialized rehabilitation program in its various formats (in-clinic vs
+      online), in individuals with or without spine pain for comparison to literature-based
+      standard of care values for other conservative care protocols, 2) to identify average value
+      of this treatment approach based on cost assessment, 3) to identify which patients (based on
+      patient-specific predictors) are most likely to succeed with this specialized program and 4)
+      to identify targets for improvement and optimization of patient care any necessary
+      modifications to the industry's standard for care protocol. The goal of this project is to
+      assess the impact of a standardized program based on core strengthening using technologic
+      monitoring in a multidisciplinary format.
+
+      This registry of data will not contain individual identifiers.
+
+      The study population is comprised of skeletally mature patients, both male and female, from a
+      wide variety of ethnicities representative of the typical population presenting with spinal
+      conditions, pain, or seeking prevention of future injury. There are no child participants, as
+      they are not candidates for the type of programs under investigation.
+
+      All data relating to the patient's physical therapy, diagnosis, co-morbidies, medical
+      history, medications etc., will be used for analysis.
+
+      STUDY METHODS:
+
+        1. Describe how the data will be identified:
+
+           Approved SpineZone staff will extract relevant outcomes data from the Electronic Medical
+           Records system housed on a secure server. Identifiers will be stripped from the data,
+           and claims will be indexed using Coding processes. Investigators will not have access to
+           the pre-coded identifiers. Age, but not date of birth will be used, but no patients over
+           the age of 89 will be included, thus it will not be an identifier. All systems used to
+           store and view the data will be secure, with password protections and login access
+           required. Once initial data extraction and de-identification is complete, the
+           de-identified data will be stored on secure servers in a HIPAA compliant environment,
+           and only transferred for biostatistics analytics through encrypted and password
+           protected email to approved individuals (i.e. research biostatisticians) following a
+           data use agreement.
+
+        2. Data that will be used:
+
+      Outcome variables: Validated questionnaire-based outcomes including but not limited to: VAS
+      (visual analogue scale), ODI (oswestry disability index) for Low Back Pain, NDI (neck
+      disability index) for neck pain, PSFS (patient specific functional scale), SBST (STarT Back
+      Screening Tool), medication usage (type, frequency), number of visits, progression to surgery
+      (yes, no), dropout rates and reasons, Online compliance matrix(including access to
+      educational material, log in rates, and self-reporting of compliance with workout regimen);
+      physical examination measurements: strength and ROM measurements, and cost (based on
+      procedural codes).
+
+      Predictor variables: Demographic, medical history, and treatment-specific variables including
+      but not limited to: age, gender, ethnicity, diagnosis code (ICD-9/10), SpineZone
+      rehabilitation diagnosis, treatment type, treatment history, radiologic diagnosis, duration
+      of symptoms, postural factors, questionnaire-based pre-treatment disability, psychosocial
+      status, and pain scores.
+
+      d) Who will identify data to be reviewed:
+
+      SpineZone clinical staff and Principal Investigator
+
+      CONFIDENTIALITY OF DATA:
+
+      Data that is identified by the primary investigator for review will be additionally checked
+      for any identifiers and stripped prior to analysis by biostatisticians. This data will be
+      stored in two places. Initially, the de-identified data will be stored in the
+      biostatistician's system for analysis. Once initial analysis is complete, the data will be
+      loaded into a secure server with physical 24-hour security preventing unauthorized access to
+      the hardware, with access to data only allowed through HTTPS login or through a direct and
+      secure tunnel. Only investigators will have access to the login information.
+
+      Within two months of completion of the study, biostatisticians copy of the data will be
+      destroyed. The data will be maintained in the secure hosted environment indefinitely.
+
+      Data will be transmitted with either password protection or PGP encryption on biostatistician
+      computers. These computers and associated hardware are maintained in a secured facility with
+      no public access. Computers are password protected and after 30 minutes of inactivity require
+      the user to login again. Data and programs are backed up on a daily basis during the active
+      phase of any project. Internet access is firewall protected. Anti-virus software is
+      maintained (McAfee) with all incoming and outgoing documents scanned for viruses.
+      Additionally, a scan of all files is performed daily.
+
+      Data storage will be on secure servers at a 24-hour guard facility, on windows server systems
+      with updated enterprise virus protection software from Symantec. The database will only be
+      accessible through an HTTPS log-in, with user-based access levels that ensure only personnel
+      authorized by the principal investigator can gain access to the system. Any access will be
+      tracked through a log of historical events that will track what user viewed or manipulated
+      what data at any time.
+
+      Systems, security policies, and access logs will all be available for audit and review by the
+      Principal Investigator at any time.
+
+      CONSENT:
+
+      Consent will be obtained in clinic, or through a form on an online portal for patients
+      participating in the online treatment arm.
+
+      RISKS AND BENEFITS:
+
+      Risks: A confidentiality breach is a risk associated with data review research, however every
+      measure will be instituted to ensure that patient information is kept confidential. Data
+      analysis worksheets will be kept separate from EMR records. No subject PHI will be collected
+      or shared.
+
+      Benefits: The participants are not likely to receive any benefit from the proposed research;
+      however, society and investigators will benefit from the knowledge gained.
+
+      STATISTICAL CONSIDERATIONS:
+
+      As this is intended to be a data registry, no current statistical analyses are being
+      proposed. Independent sub-studies utilizing data from this registry will be required to
+      provide power analyses and proposed sample sizes necessary to carry out the objectives of the
+      individual research question.
+
+      Data will be analyzed for individual sub-studies by biostatisticians located at the
+      University of California, San Diego. All individuals participating in data analysis will be
+      trained in research compliance, ethics, and will follow regulations according to the approved
+      data use agreements in place.
+    
+  

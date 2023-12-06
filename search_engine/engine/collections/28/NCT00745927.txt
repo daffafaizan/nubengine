@@ -1,0 +1,45 @@
+
+    
+      -  Setting: Screening colonoscopy or secondary colonoscopy after positive FOBT performed in
+           endoscopic unit of a single university hospital
+
+        -  Study design: Single blinded randomized trial
+
+        -  Randomization process: sealed envelope
+
+        -  Study subjects:
+
+      Inclusion criteria: Subjects who receive Screening colonoscopy or secondary colonoscopy
+      Exclusion criteria: subjects who have COPD or cardiovascular diseases
+
+        -  Study duration: June 2008 to November 2012
+
+        -  Post-colonoscopy discomfort will be measured and obtained from the screenee at several
+           time points using visual analogue pain scoring system:
+
+             -  Immediately after colonoscopy for non-sedated patients, immediately after awaken
+                from sedation for sedated patients
+
+             -  2 hrs after colonoscopy
+
+             -  8-12 hours after colonoscopy
+
+        -  Statistical analysis:
+
+             -  Sample size estimation: according to our previous unpublished data using air
+                insufflations at colonoscopy, mean pain score was 3 and standard deviation was
+                2.38. Assuming 15% difference of discomfort, sample size up to 171 are required for
+                each group (CO2 vs. air, sedated and non-sedated) in this study. (2 sided test,
+                α=0.05, power=80%)
+
+             -  Student t-test for pain score comparison
+
+             -  Ancillary analysis: pCO2, sedation drug dosage, and procedural time in both groups.
+                For TCCO2 comparison, ANOVA for repeated measurement will be used. For variables
+                not normally distributed, Wilcoxon rank sum test wall be used as a supplementary
+                analysis.
+
+             -  SAS statistical program, version 9.0 (SAS institute Inc., Cary, NC) will be used
+                for all statistical analysis
+    
+  

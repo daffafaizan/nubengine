@@ -1,0 +1,18 @@
+
+    
+      The neuropeptide oxytocin (OXT) has been shown to modulate several aspects of human social
+      cognition. Although the exact mechanisms behind these effects remain unclear, recent research
+      suggests that OXT modulates the perception of cues that are important for interpersonal
+      processing, particularly emotional facial expressions. Using a backward masking procedure and
+      functional magnetic resonance imaging, we investigated the modulatory effects of intranasal
+      OXT on the processing of sub-liminally presented emotional faces. In a double-blind
+      placebo-controlled between-subject pharmaco-fMRI experiment healthy volunteers received
+      either 24IU of intranasal oxytocin or placebo 45mins before they were presented emotional
+      (happy, angry, fearful, sad, disgusting) faces and mirror-reversed neutral faces masked by
+      neutral faces of the same individual. To ensure attentional processing of the faces subjects
+      were required to perform a simple gender decision task in the scanner and a recognition
+      memory task afterwards. All subjects were additionally assessed for their state and trait
+      anxiety and depression as well as empathy. For the analysis, we will use matlab, SPM and SPSS
+      to conduct structural ROI analysis and two Sample t test.
+    
+  

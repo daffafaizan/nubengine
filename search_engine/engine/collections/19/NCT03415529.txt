@@ -1,0 +1,55 @@
+
+    
+      This study will address a number of specific concerns, including:
+
+        1. the incidence of hypocapnia and hypercapnia;
+
+        2. the factors (e.g. ventilatory mode) contributing to hypocapnia and hypercapnia;
+
+        3. the impact of hypocapnia and hypercapnia on progression of ARDS, duration of
+           ventilation, ICU stay, hospital stay and patient outcome;
+
+        4. the impact of pH (respiratory versus metabolic cause) on outcome variables.
+
+      LUNG SAFE was a prospective observational study. There was not patient intervention. The
+      current analysis is a secondary analysis of this existing database.
+
+      Data will be abstracted form the database on all patients meeting the inclusion criteria for
+      ARDS (during the first 2 days from AHRF onset) for the following variables: Patient's
+      demographic characteristics (age, sex) and chronic comorbidities, Arterial PCO2, pH in first
+      48 hours, Data on P/F ratio over course of illness, Duration of ventilation, ICU stay,
+      hospital survival in patients identified as being exposed to hypocapnia (pCO2 < or = to
+      30mmHg) and hypercapnia (PCO2 > or = to 45mmHg); Main ventilatory variables: mode of
+      ventilation, tidal volume, respiratory.
+
+      Descriptive statistics will include proportions for categorical and mean (standard deviation)
+      or median (interquartile range) for continuous variables, according the data distribution.
+      The amount of missing data in the LUNG SAFE database is low so no assumptions will be made
+      for missing data.
+
+      In order to investigate the relationship between PaCO2 and management factors, the
+      investigators will stratify study population according the presence or absence of hypercapnia
+      and will evaluate differences in management factors, using appropriate statistical tests. In
+      detail, proportions will be compared using chi-squared or Fisher exact tests and mean values
+      were compared using T-test or Wilcoxon rank sum test, as appropriate. Shapiro-Wilks test will
+      be used to assess normality in data distribution. Moreover, they will perform univariate and
+      multivariable logistic regression models using hypercapnia as dependent variable. Stepwise
+      regression approach with significance alpha levels of 0.05 (both for entry and retention)
+      will be used to establish a set of independent predictors. Odds ratios (ORs) and 95%
+      confidence intervals (CIs) will be reported as measure of association.
+
+      They will assess the association of hypercapnia with different outcomes (ARDS progression,
+      duration of mechanical ventilation, ICU and hospital stay and mortality) using generalized
+      linear regression models (Poisson or Logistic regression models, according outcome
+      distribution) and adjusting the relationship with all possible confounders identified with
+      stepwise approach. Results will be reported as ORs, incidence rate ratios and corresponding
+      95% CI.
+
+      Particular attention will be given to the relationship and interaction between pH and PaCO2.
+
+      Survival analysis (Kaplan-Meier approach) will be used to estimate the time of liberation
+      from invasive mechanical ventilation, of ICU and hospital discharge, and of hospital
+      mortality within 28 days of AHRF onset in patients with and without hypercapnia. Differences
+      in survival time will be assess by Log-Rank test.
+    
+  

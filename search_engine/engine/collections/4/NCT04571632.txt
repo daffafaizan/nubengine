@@ -1,0 +1,91 @@
+
+    
+      Cancer cells can be recognized by the patient's own immune system, a process that is referred
+      to as the "cancer immunity cycle" (Chen & Mellman 2013; Mellman 2013; Chen & Mellman 2017).
+
+      Remarkable anti-tumor activity has been achieved by blocking the inhibitory T-cell receptor
+      CTLA-4 and/or the PD-1/-L1 axis. Immune checkpoint inhibition by monoclonal antibody (mAb)
+      therapy has become a standard of care in patients with advanced melanoma, renal cell
+      carcinoma, non-small cell lung carcinoma, Hodgkin's lymphoma and bladder cancer. Indications
+      are continuously expanding. Activity of PD-1/-L1 and CTLA-4 inhibition has been correlated
+      with hallmarks of pre-existing anti-tumor T-cell response (presence of activated cytotoxic T
+      lymphocytes (CTL) in the tumor microenvironment (TME) as evident from transcription profiles)
+      and PD-L1 expression by tumor cells (in response to T-cell secreted IFN-). Mutational load of
+      the cancer cells and presence of highly immunogenic neo-epitopes in the cancer cell genome
+      underlies the capacity for cancer cells to elicit an immune response (Tumeh, Harview et al.
+      2014). Responsiveness to treatment with CTLA-4 has been correlated with the expression of HLA
+      class I molecules by the cancer cells (Tumeh, Harview et al. 2014).
+
+      In immune-evasive tumors a pivotal role has been attributed to the elimination of myeloid
+      dendritic cells (myDC) from the TME. myDC play a pivotal role in the initiation and
+      coordination of the activity of anti-tumor CTL activity within the TME (Rodig, Gusenleitner
+      et al. 2017). In animal models, myDC have been demonstrated to play an essential role in
+      "licensing" anti-tumor CTLs to eradicate tumor cells. Activation of oncogenic signaling
+      pathways such as the WNT/Catenin pathway can lead to the exclusion of myeloid DC from the TME
+      (Broz et al. 2014; Spranger & Gajewski 2016). Absence of myDCs at the invasive margin and
+      within metastases has been correlated with defective CTL activation allowing the metastasis
+      to escape the anti-tumor immune response (Salmon, Idoyaga et al. 2016). These myDC also
+      migrate to tumor-draining lymph nodes and present tumor antigens to T-cells in these
+      secondary lymphoid organs (Salmon, Idoyaga et al. 2016). In mouse models, tumor-residing
+      Batf3 dendritic cells were shown to be required for effector T Cell trafficking and success
+      of adoptive T-cell therapy (Roberts et al. 2016). Presence of myeloid DC's was more strongly
+      correlated with a "T-cell inflamed TME signature" as compared to neo-antigen load in 266
+      melanomas from The Cancer Genome Atlas (Spranger, Luke et al. 2016).
+
+      Two important human myDCs subsets exist that are differentiated by expression of either the
+      BDCA-1 or BDCA-3 surface marker. The CD1c (BDCA-1)+ antigen is specifically expressed on
+      human dendritic cells, which are CD11chighCD123low and represent the major subset of myDCs in
+      human blood (about 0.6 % of all peripheral blood mononuclear cells (PBMCs)). CD1c (BDCA-1)+
+      myDC have a monocytoid morphology and express myeloid markers such as CD13 and CD33 as well
+      as Fc receptors such as CD32, CD64, and FceRI. Furthermore, myDC are determined to be CD4+,
+      Lin (CD3, CD16, CD19, CD20, CD56)-, CD2+, CD45RO+, CD141 (BDCA-3)-, CD303 (BDCA-2)-, and
+      CD304 (BDCA-4/Neuropilin-1)-.
+
+      A proportion of CD1c (BDCA-1)+ myDC co-expresses CD14 and CD11b. These dual positive cells
+      for CD14 and CD1c (BDCA-1) have immunosuppressive capacity and inhibit T-cell proliferation
+      in vitro. Depletion of this cell type is preferred prior to using CD1c (BDCA-1)+ cells for
+      immune-stimulatory purposes (Bakdash, Buschow et al. 2016).
+
+      CD1c (BDCA-1)+ myDC play an important role in the cross-presentation of tumor antigens
+      following immunogenic cell death (Di Blasio, Wortel et al. 2016). Under conditions of tumor
+      growth, myDC will be poorly recruited to the tumor microenvironment, do not get activated and
+      thereby fail to efficiently coordinate anti-tumor immunity within the tumor micro-environment
+      and present tumor associated antigens within tumor-draining lymph nodes. When activated
+      appropriately, human CD1c (BDCA-1)+ dendritic cells secrete high levels of IL-12 and potently
+      prime CTL responses (Di Blasio, Wortel et al. 2016). In vitro, IL-12 production by CD1c
+      (BDCA-1)+ myDC can be boosted by exogenous IFN-(Nizzoli, Krietsch et al. 2013) CD1c (BDCA-1)+
+      myDC spontaneously "partially mature" within 12 hours following their isolation. Optimal
+      maturation with secretion of IFN- as well as the orientation of stimulated T-lymphocytes
+      towards a Th1 phenotype is only achieved following Toll-like receptor stimulation (Nizzoli,
+      Krietsch et al. 2013).
+
+      Animal models have established the safety and efficacy of intra-tumoral administration of
+      ipilimumab. An intratumoral dose of CTLA-4 blocking mAb administered at a ratio of [1:100]
+      compared to intravenous dosing was found to result in equivalent anti-tumor effect and was
+      associated with less systemic toxicity (Skold, van Beek et al. 2015) (Marabelle, Kohrt et al.
+      2013). In an ongoing clinical trial for patients with advanced melanoma, conducted by our
+      research group, intratumoral injection of CD1c (BDCA-1)+ myDC together with the CTLA-4
+      blocking mAb ipilimumab plus intravenous administration of the PD-1 blocking mAb nivolumab
+      have been proven feasible and safe. Intratumoral administration of an anti-PD-L1 IgG1 mAb may
+      increase the potential for antibody dependent cellular cytotoxicity (ADCC) and complement
+      dependent cytotoxicity (CDC).
+
+      Additionally, the investigators have previously investigated the utility of SBRT to primary
+      tumor and metastatic locations in oligometastatic non-small cell lung carcinoma (NSCLC)
+      patients and found that this treatment was feasible, safe and resulted in an overall
+      metabolic response rate in 60% of the treated population, with 30% of patients achieving a
+      complete metabolic remission (Collen, Christian et al. 2014). Radiation therapy (RT) has been
+      recognized as potentially synergistic with immune checkpoint blockade. Tumor cell killing by
+      radiation results in release of tumor antigens, reduces the immunosuppression within the TME
+      and can reinvigorate the cancer-immunity cycle by upregulation of immunogenic cell surface
+      markers and inducing immunogenic cell death (Dewan, Galloway et al. 2009; Kulzer, Rubner et
+      al. 2014; Frey, Ruckert et al. 2017). Moreover, it has been shown that RT-induced immunogenic
+      cell death can trigger DC maturation and activation in vitro (Kulzer et al. 2014), providing
+      a clear rationale for combining DC-therapy together with RT.
+
+      In this randomized phase II clinical trial, the investigators propose to conduct
+      hypofractionated SBRT in combination with systemic PD-1 immune checkpoint blockade
+      (pembrolizumab) with or without intratumoral PD-L1/CTLA-4 inhibition plus intratumoral
+      administration of CD1c (BDCA-1)+ / CD141 (BDCA-3)+ myDC.
+    
+  

@@ -1,0 +1,10 @@
+
+    
+      This study is designed in two parts: one part for dose escalation, one part for dose
+      expansion.The dose escalation part will be followed by expansion part at the MTD(s)/RP2D(s)
+
+      This study will utilize an adaptative Bayesian Logistic Regression model to guide dose
+      escalation and estimate the MTD(s) based on the Dose Limiting Toxicity (DLT) relationship(s)
+      for S65487 in the indications.
+    
+  

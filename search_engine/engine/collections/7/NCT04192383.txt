@@ -1,0 +1,49 @@
+
+    
+      Spinal tumors may be metastases or primary tumors; the former are more common. About 40% of
+      cancer patients will have spinal metastasis. Primary spinal tumor is relatively rare,
+      accounting for only about 8% of spinal tumors. For both metastasis and primary tumor, the aim
+      of treatment is to reduce pain, maintain or improve neurological function, and maintain or
+      restore spinal stability.
+
+      In patients who cannot undergo surgery or need additional treatment after surgery, radiation
+      therapy can relieve pain, prolong survival, improve the success rate of surgery, and reduce
+      risk of metastasis and recurrence. However, the complex anatomy of the spine, and the
+      numerous important organs around it, makes radiation treatment challenging. High-dose
+      radiation therapy is necessary for long-term control of the tumor and for prevention of
+      spinal column instability; however, this is impossible with traditional radiotherapy due to
+      the presence of the radiosensitive spinal cord. Outcomes therefore tend to be poor for large
+      and complex lesions. The CyberKnife-a stereotactic body radiation therapy (SBRT) platform
+      that combines a lightweight linear accelerator, a robotic arm, an imaging system, and a
+      respiratory tracking system-offers a feasible approach. It can achieve submillimeter
+      level-precision treatment under imaging guidance.
+
+      Currently, the effectiveness of CyberKnife radiosurgery for spinal tumors is decided by
+      assessing imaging changes, relief of clinical symptoms, and needle biopsy, but all of these
+      methods have limitations. On imaging, for example, change in lesion volume is used to assess
+      tumor regression, but the size of a spinal tumor is not easy to measure and, moreover,
+      decrease in tumor volume after treatment may take time . Post-treatment signal intensity
+      changes in conventional magnetic resonance imaging (MRI) T1-weighted and T2-weighted
+      sequences are difficult to interpret, and their relationship with treatment efficacy is also
+      not clear.
+
+      Generally speaking, alterations in microscopic structure and biological activity of the tumor
+      occur much earlier than changes in gross morphology . Functional magnetic resonance imaging
+      (fMRI) can therefore be more useful than conventional MRI for assessing treatment response.
+      In fMRI, sequences such as diffusion-weighted imaging (DWI), dynamic contrast-enhanced MRI
+      (DCE-MRI), and diffusion kurtosis imaging (DKI) reflect functional information of tissues
+      from different perspectives.
+
+      Application of artificial intelligence technology for analysis of medical imaging data is now
+      an area of intense research. This new method, which is called radiomics, can help in solving
+      many difficult clinical problems. By extracting a large number of highly representative
+      quantitative imaging features from high-throughput medical image data, radiomics can help in
+      evaluating treatment efficacy and predicting prognosis of spinal tumors.
+
+      Investigators intend to explore the use of the combination of fMRI and radiomics for
+      evaluating the effectiveness of CyberKnife radiosurgery for spinal tumors. The method will be
+      able to evaluate both volume and functional changes in the tumor, and thus provide important
+      information for planning of individualized therapeutic schedules for patients with spinal
+      tumors.
+    
+  

@@ -1,0 +1,170 @@
+
+    
+      Aim To test the hypothesis that the addition of 75mg aspirin once daily to usual care reduces
+      the risk of major vascular events in patients with chronic kidney disease (CKD) who do not
+      have pre-existing cardiovascular disease (CVD)
+
+      Design Open label, multi-centre randomised controlled trial
+
+      Setting UK general practices
+
+      Sample size 25,210 patients (12,605 per arm). A total of 1,827 major vascular events overall
+      are required.
+
+      Eligibility Inclusion Criteria
+
+        1. Males and females aged 18 years and over at the date of screening
+
+        2. Subjects with diagnosed CKD:
+
+             -  decreased estimated glomerular filtration rate [eGFR] for at least 90 days (defined
+                as eGFR <60mL/min/1.73m2), and/or
+
+             -  albuminuria or proteinuria for at least 90 days (defined as urine
+                albumin:creatinine ratio [ACR] ≥3mg/mmol, and/or urine protein:creatinine ratio
+                [PCR] ≥15mg/mmol , and/or +protein or greater on reagent strip [and in all cases
+                where the most recent qualifying result is ACR ≥3mg/mmol])
+
+        3. Subjects who are willing to give permission for their paper and electronic medical
+           records to be accessed by trial investigators
+
+        4. Subjects who are willing to be contacted and interviewed by trial investigators
+
+        5. Subjects who can communicate well with the investigator or designee, understand the
+           requirements of the study and understand and sign the written informed consent
+
+      Exclusion Criteria
+
+        1. Subjects with CKD eGFR category 5
+
+        2. Subjects with pre-existing cardiovascular disease (angina, myocardial infarction,
+           stroke, transient ischaemic attack (TIA), significant peripheral vascular disease,
+           coronary or peripheral revascularisation for atherosclerotic disease)
+
+        3. Subjects with a current pre-existing condition associated with increased risk of
+           bleeding other than CKD
+
+        4. Subjects currently prescribed anticoagulants or antiplatelet agent, or taking over the
+           counter (OTC) aspirin continuously
+
+        5. Subjects who are currently and regularly taking other drugs with a potentially serious
+           interaction with aspirin
+
+        6. Subjects with a known allergy to aspirin or definite previous clinically important
+           adverse reaction
+
+        7. Subjects with poorly controlled hypertension (systolic blood pressure [BP] ≥180 mmHg
+           and/or diastolic BP ≥105 mmHg)
+
+        8. Subjects with anaemia: haemoglobin (Hb) <90g/L; or Hb <100g/L with mean cell volume
+           (MCV) ≤75 femtoliters/cell (fL)
+
+        9. Subjects who are pregnant or likely to become pregnant during the study period
+
+       10. Subjects with malignancy that is life-threatening or likely to limit prognosis, other
+           life-threatening co-morbidity, or terminal illness
+
+       11. Subjects whose behaviour or lifestyle would render them less likely to comply with study
+           medication
+
+       12. Subjects in prison
+
+       13. Subjects currently participating in another interventional clinical trial or who have
+           taken part in a trial in the last 3 months
+
+      Interventions Suitable participants will be randomised to receive: 75mg non-enteric coated
+      aspirin once daily in addition to their usual medication; or no additional treatment and
+      avoidance of aspirin.
+
+      Duration The trial will continue until 1,827 major vascular events have occurred: this is
+      anticipated 6 years after the recruitment start date, or 2.5 years following the recruitment
+      end date.
+
+      Randomisation and blinding Eligible participants, based on results of blood and urine tests
+      taken at screening, will be randomised (open label randomisation) 1:1 to general practitioner
+      (GP) prescription of aspirin vs. no prescription, stratified by age, diabetes and CKD
+      severity.
+
+      Follow-up Data on potential CVD and bleeding outcomes will be collected electronically from
+      GP records and national hospitalisation and mortality records. Adjudication panels (for CVD
+      and for bleeding) will asses the information blind to allocation.
+
+      Patients will complete an annual quality of life questionnaire (EQ5D).
+
+      Outcomes. Primary outcome measure
+
+      Time to first major vascular event from the date of randomisation. A major vascular event is
+      defined as a primary composite outcome of non-fatal myocardial infarction (MI), non-fatal
+      stroke and cardiovascular death (excluding confirmed intracranial haemorrhage).
+
+      Secondary outcome measures (all time to event except quality of life)
+
+      Efficacy
+
+        1. Death from any cause
+
+        2. Composite outcome of major vascular event or revascularisation (coronary and
+           non-coronary)
+
+        3. Individual components of the primary composite endpoint
+
+        4. Health-related quality of life
+
+      Safety
+
+        1. Composite outcome of intracranial haemorrhage (fatal and non-fatal), fatal extracranial
+           haemorrhage and non-fatal major extracranial haemorrhage (adjudicated)
+
+        2. Fatal and non-fatal (reported individually and as a composite) intracranial haemorrhage
+           comprising: i) primary haemorrhagic stroke (to distinguish from haemorrhagic
+           transformation of ischaemic stroke); ii) other intracranial haemorrhage (adjudicated)
+
+        3. Fatal and non-fatal (reported individually and as a composite) major extracranial
+           haemorrhage: i) vascular-procedural; ii) vascular-non-procedural; iii) gastrointestinal;
+           iv) genitourinary; v) respiratory; vi) pericardial; vii) ocular; viii) other; ix)
+           undetermined (adjudicated)
+
+        4. Clinically relevant non-major bleeding
+
+      Tertiary (exploratory) outcome measures (all time to event except hospitalisation)
+
+        1. Transient ischaemic attack
+
+        2. Unplanned hospitalisation
+
+        3. New diagnosis of cancer (colorectal/other)
+
+        4. CKD progression
+
+        5. New diagnosis of dementia
+
+      Statistical methods The primary outcome measure of time to first major vascular event will be
+      analysed for the intention-to-treat (ITT) population. Deaths from other causes (including
+      fatal bleeding) will be treated as competing events. Patients who do not experience a major
+      vascular event will be censored at the date of last follow-up.
+
+      All primary, secondary and tertiary time to event outcomes will be described using
+      Kaplan-Meier curves or Cumulative Hazard plots for time to event outcomes involving competing
+      risks for the ITT population. Analyses of time to event outcomes will be performed using Cox
+      proportional hazards models or Competing Risk regression models, both unadjusted and adjusted
+      for stratification factors: age, diabetes and CKD severity.
+
+      The adjusted Competing Risk regression model for time to first major vascular event, with
+      deaths from other causes (including fatal bleeding) treated as competing events, and patients
+      who do not experience a major vascular event censored, will form the primary endpoint
+      analysis model.
+
+      Other secondary and tertiary endpoints will be assessed by arm using summary statistics (e.g.
+      Pearson's χ² tests) in the ITT population.
+
+      The amount of missing data and reasons for the incompleteness will be explored and presented
+      overall i.e. not by group. If the amount of missing data is deemed too high and if
+      appropriate (i.e. assuming the missing data is either missing at random [MAR] or missing
+      completely at random [MCAR] and censoring assumed to be non-informative), multiple imputation
+      will be performed accordingly, for which all covariates included in the multivariable model,
+      together with the censoring/event indicator and the cumulative baseline hazard will be
+      included in the multiple imputation model.
+
+      Health economic analysis will also be undertaken.
+    
+  

@@ -1,0 +1,133 @@
+
+    
+      A) Purpose:
+
+      The similarity of functional impairments in the two target hemiplegic populations, teenagers
+      with hemiparetic cerebral palsy CP or acquired brain injury (post-acute phase) and
+      hemiparetic stroke survivors, leads us to pursue a unified rehabilitation strategy. Although
+      age-dependency is clearly a factor in rate of motor learning, intensive therapies have shown
+      similar returns of function with similar intensities and length of treatment across different
+      populations [1]. By involving both adults and children in the same study, the investigators
+      can directly compare the effects of identical interventions using the innovative hardware and
+      software solutions that are developed.
+
+      The team of investigators have developed a system that includes a camera (PS3 Eye), 2
+      modified PS3 Move controllers, and a computer [2]. A software is designed to search through
+      the camera feed to find the glowing balls attached to the two PS3 Move controllers, and
+      changes the position of the computer's mouse cursor based on the position of the two glowing
+      balls. This allows the participants to play simple 2D Facebook games that involve
+      point-and-click by holding on to the Move controllers and moving their arms in space in order
+      to control the cursor and play games.
+
+      B) Hypothesis:
+
+      The investigators hypothesize that the following strategies will deliver effective, long-term
+      therapy: (1) use a bimanual approach, based on recent research that shows the powerful
+      integrative value of involving both limbs and both cerebral hemispheres in recovery of
+      function post-stroke [3]; (2) target hand-function, following the proven efficacy of this
+      approach (CIMT and GRASP) over exercising arm motions only; (3) directly target patient
+      motivation by embedding the therapy in a social construct of multi-user online gaming such as
+      Facebook Games [4, 5].
+
+      C) Justification:
+
+      The quality of life of Canadians with stroke declined from 1998 to 2005, a disturbing finding
+      that is directly related to impaired arm function [6]. Traditional (standard) physical
+      therapy includes a range of interventions aimed at improving posture, joint range of motion,
+      muscle tone, muscle strength and motor control. However, no single approach has been proven
+      to have superior effectiveness over any other in upper or lower limb recovery. These are
+      sobering data that illustrate a critical need for novel interventions that will improve
+      function and lead to better quality of life for persons living with hemiplegia.
+
+      Motor rehabilitation programs based on low-cost exercise devices such as the Nintendo Wii,
+      Nike Fit and Microsoft Kinect have proven efficacy [5], but participants are required to be
+      in the same room at the same time. Online games such as Farmville on Facebook support
+      cooperative tasks, but there are no appropriate devices to support bimanual input. Our
+      approach will fill this gap by supporting collaborative, bilateral motor-learning that
+      involves force and movement therapy and social media effectively.
+
+      D) Objectives:
+
+      Our objective is to demonstrate that motivation in adherence to a therapy regimen can be
+      enhanced by the use of online games in conjunction with motion capture devices that require
+      the user to interact bimanually with the game. Our project has 4 phases, each with its own
+      milestones:
+
+        1. Start-up: In-clinic focus group meetings with rehabilitation professionals and follow-on
+           focus groups with therapy clients; design of hardware and software based on the outcomes
+           of these focus group meetings (months M1-M9). This phase is finished.
+
+        2. Pilot study: Hardware and software development (M10-12), followed by in-clinic usability
+           studies with adult stroke survivors and children with hemiplegia; development of final
+           hardware and software based on the outcomes of the usability studies; integrative
+           Knowledge Transition activities (months M7-M24). This phase is finished.
+
+        3. Home-based studies: Two parallel 6-month studies, one with adults and one with teenagers
+           (months M25-M30). The investigators have finished planning of this phase and have
+           received the ethics approval to start recruiting.
+
+        4. Knowledge translation: Data analysis, reporting and dissemination (months M30-M36)
+
+      E) Research Method (Only Phase 3 is included): The study will have a randomized cross-over
+      design with an early and a late intervention group. A maximum of 20 stroke survivors will be
+      divided into a late intervention and an early intervention group (10 in each group, randomly
+      assigned), and a maximum of 20 teens with hemiplegia will be divided into a late intervention
+      and an early intervention group (10 in each group, randomly assigned). The procedures for
+      late intervention groups are the same. Similarly, the procedures for the early intervention
+      groups are the same. Note that this study is asking the same research question for two
+      different clinical populations.
+
+      Each intervention group will be involved in the study for 6 months. Both groups will start
+      with a baseline assessment of outcome measures in week 1. The early intervention group will
+      receive the FEATHERS intervention in weeks 1-8. There will be another round of outcome
+      measure assessments at the end of week 8 (assessing motor recovery). There will be a period
+      of no intervention between weeks 9-16, followed by another round of outcome measure
+      assessments (assessing retention). Finally, weeks 17-24 will also be a no intervention
+      period, followed by another round of outcome measure assessments (assessing variation of the
+      outcomes even without a therapy intervention). The late intervention group will receive 2
+      months of no intervention followed by a round of outcome measure assessments (assessing
+      variation of the outcomes even without a therapy intervention). Then they will receive the
+      FEATHERS intervention in weeks 9-16. There will be another round of outcome measure
+      assessments at the end of week 16 (assessing motor recovery). Weeks 17-24 will be another
+      period of no intervention followed by another round of outcome measure assessments (assessing
+      retention).
+
+      Primary Outcome (functional outcomes) and secondary outcomes (participation outcomes) of this
+      study are as follows:
+
+      i.Primary Outcome: Wolf Motor Function Test WMFT (this is the test for which the
+      investigators conducted the a priori power calculation; it is expected to have ~80% chance of
+      detecting an effect with given this sample size).
+
+      ii.Secondary Outcomes:
+
+        1. Body Structure/Function: Motricity index; grip/pinch strength; NIH stroke scale;
+           modified rankin test; reach performance scale.
+
+        2. Activity/Participation: Canadian occupational performance measure; confidence scale;
+           paediatric motivation scale, usability of the system.
+
+      More details on the measures are provided under "Outcome Measures".
+
+      F) Statistical Analysis:
+
+      Phase 3: Based on previous research, the investigators estimate a standardized effect size of
+      0.60 to 0.80 improvement (Cohen's d) from baseline to terminal assessment on the WMFT. By
+      recruiting 20 stroke subjects and 20 CP subjects, it is expected to have a statistical power
+      (1-β error probability) of approximately 80% for the within-subject change. Our principal
+      statistical test is thus the within-subject t-test comparing pre-intervention WMFT scores to
+      terminal WMFT test scores, combining data from both the early and the late intervention
+      group. In addition to this a priori comparison, WMFT test scores will be analyzed in a Group
+      (early versus delayed intervention) by Time (Weeks 0-8, 9-16, and 17-24) mixed-factorial
+      ANOVA. Secondary outcomes will include motion log files, scoring from the games themselves,
+      functional outcome measures, discussions with participants and exit surveys. Secondary
+      outcomes of function/structure and activity/participation will be analyzed using the same
+      Group by Time mixed-factorial ANOVA. Exploratory comparisons can also be undertaken. For
+      instance, the investigators data analysis will allow us to compare the motor learning between
+      younger and older persons with hemiplegia and the effect of the social media framework on
+      motivation using both quantitative and qualitative metrics (between-subjects t-tests on the
+      functional outcomes and motivation surveys). The investigators will be investigating whether
+      there is a statistical correlation between subjective measures of motivation and the observed
+      changes in functional outcomes.
+    
+  

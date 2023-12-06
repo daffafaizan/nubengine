@@ -1,0 +1,45 @@
+
+    
+      This study is a substudy to the larger CLASSIC-trial that aims to investigate restrictive and
+      standard fluid therapy in treating septic shock. Adult patients with septic shock according
+      to the Sepsis-3 criteria who have received at least 1 L of IV fluid in the 24 hours before
+      screening will be screened. Patients who have had septic shock for more than 12 hours at the
+      time of screening, who have life-threatening bleeding, or acute burn injury >10% of the body
+      surface area, who are pregnant and those in whom consent cannot be obtained will be excluded.
+      Blood samples will be drawn at T0 (during the first hour after enrolment), T1 (the first
+      morning after inclusion) and T2 (the second morning) and T3 (at ICU discharge (within 24
+      hours before discharge)). The samples will be analyzed for high-sensitivity troponin T
+      (hsTnT), pro-BNP, proAdrenomedulin (MR-proADM), Co-Peptin (AVP), endothelin-1 (ET-1),
+      neuregulin-1 (NRG-1), growth differentiation factor-15 (GDF-15), metalloproteinases (MMPs),
+      hyaluronan, syndecan-1, heparan sulfate, IL-6, TNFR and Ang-2.
+
+      Systolic and diastolic function parameters for the left and right heart will be collected at
+      study enrolment (within 24 hours from inclusion) and at 2-3 and day 7-10 or at discharge
+      using transthoracic or transesophageal echocardiography.
+
+      Baseline clinical and demographic data will be analyzed using chi-square or Fisher's exact
+      test for categorical data, and the Wilcoxon rank-sum test for continuous data. The baseline
+      and first follow-up measure of the concentration of a biomarker will be modelled using a
+      mixed effect linear model with a person specific random effect and an interaction between
+      time of follow-up measure (interval since first measurement) and treatment group, the
+      stratification variables for the randomization: hematological or metastatic cancer (Y/N) and
+      trial site as fixed effects. A mixed model will be used to analyze the pattern of biomarkers
+      over time. Differences between intervention groups will be tested by the interaction of time
+      and group in the same mixed model analyses. Additional covariates will be added to adjust for
+      treating center, illness severity (SMS-score), cumulative fluid balance and comorbidities.
+
+      The investigators have based sample size calculations on both primary outcomes, hsTnT and
+      hyaluronan concentrations, and estimated predicted differences and standard deviations found
+      in previous comparable studies. The Jakobsen-Lange will be used to adjust for two outcomes
+      where αi for each outcome is αi=0.05/((n+1)/2) = 0,033 which is an adjustment halfway between
+      no adjustment and full Bonferroni adjustment with n being the number of co-primary outcomes
+      and secondary outcomes respectively. For sample size calculations a power of 80 % will be
+      used. Using a standard deviation of 40 ng/l of hsTnT this reveals a sample size of n=120 to
+      detect a group difference of 22 ng/l. To account for drop-out and loss-to-follow-up an extra
+      10% will be added, 132 patients will be included equally distributed between the two groups.
+      Using a standard deviation of 29 ng/ml of hyaluronan concentration reveals a sample size of
+      n=225 to detect a group difference of 11,5 ng/ml. To account for drop-out and
+      loss-of-follow-up an extra 10% will be added, 248 patients will be included equally
+      distributed between the two groups.
+    
+  

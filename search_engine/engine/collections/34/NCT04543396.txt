@@ -1,0 +1,185 @@
+
+    
+      All accrued subjects will be assigned study ID numbers to de-identify subject data and keep
+      research team members blinded to group assignments. The CRC will maintain a master keyfile of
+      subject Group randomization that will be revealed to the research team after between-group
+      statistical analyses have been performed.
+
+      For all subjects: The active study period for this investigation will be 8 weeks in duration.
+      Passive monitoring will then continue for 12 months after the initial 8 week period. All
+      subjects will continue to receive standard of care treatments from their preferred clinical
+      practitioner (physical therapist, chiropractor, none). All subjects will complete three
+      progress assessments over the duration of the 8-week intervention period. These progress
+      assessments will occur at baseline, week 4, and week 8 and will include the following
+      elements:
+
+        1. Clinical Questionnaires - Clinical questionnaires will be digitally completed by each
+           participant. There will be four (4) clinical questionnaires (Visual Analog Pain Scale,
+           Tampa Scale for Kinesiophobia, PROMIS Physical Function, and PROMIS Pain Interference).
+
+           PROMIS Physical Function Questionnaire: Developed by the NIH, this question bank is used
+           to assess patient function. Patients rate each question on a nominal scale from 1-5
+           related to their ability to complete activities of daily living and exercise. We will
+           use the version 2.0 question bank.
+
+           PROMIS Pain Interference: Developed by the NIH, this question band is used to assess the
+           degree to which pain interferes with quality of life and how much pain restricts the
+           patient from activities of daily living and exercise. We will use the version 1.1
+           question bank.
+
+           Tampa Scale for Kinesiophobia: Developed in 1990, this is a clinical questionnaire used
+           to evaluate fear of movement relative to lower back pain. This is a 17 item form with
+           each item being subjectively indicated by the subject on a 4 point scale. The overall
+           form is then evaluated by a standardized scoring format.
+
+           Visual Analog Scale: A one question clinical questionnaire that asks subjects to
+           subjectively rate their pain on a scale from 1-10. A green-to-red color gradient may
+           also be used and converted to a 10 point scale as this has shown to produce greater
+           reliability.
+
+           Patient Satisfaction: Subjects will be asked 2 questions related to satisfaction with
+           their outcomes. Both questions will be scored on 5 point scales. Question 1 will be in
+           reference to overall satisfaction "How would you rate your current satisfaction as
+           related to your lower back pain?" Answer options will include 1) "very satisfied", 2)
+           "somewhat satisfied", 3) "satisfied", 4) "somewhat dissatisfied", 5) "very
+           dissatisfied". Question 2 comes from the North American Spine Society lumbar spine
+           outcome assessment and will read "Rate your satisfaction of the treatment received for
+           your lower back pain." Answer selections will include: 1) "The treatment met my
+           expectations", 2) "I did not improve as much as I had hoped, but I would undergo the
+           same treatment for the same outcome", 3) "I did not improve as much as I had hoped, and
+           I would not undergo the same treatment for the same outcome", and 4) "I am the same or
+           worse than before treatment".
+
+        2. Tonal Subject Satisfaction - Subjective questions pertaining to progress perceived by
+           the subject will be integrated into the Tonal software platform and answers will be
+           recorded digitally. The Tonal satisfaction question will be presented in the following
+           format:
+
+           Question for trial participants: "How was your workout?" Responses: 1, 2, 3, 4 or 5
+           stars
+
+           If 1 star, the secondary question is: "Let's fix it. What can we improve?" If 2 - 4
+           stars, the secondary question is: "Thanks for your feedback. What can we improve?" If 5
+           stars, the secondary question is: "Thanks for your feedback. What did you love?"
+
+           Selections:
+
+             -  Ease of use
+
+             -  Movements
+
+             -  Weight suggestions
+
+             -  Pacing
+
+             -  Results
+
+             -  Other (allows text to be entered freely)
+
+        3. Core Training Program - for intervention groups, a training program designed to enhance
+           core strength, stability, and function will be performed on the Tonal device.
+           Performance of this program will be supervised by a designated and clinically trained
+           research team member who will not conduct the statistical analysis and subsequently not
+           be blinded to Group assignment. Group 5 will also complete the prescribed training
+           program in the comfort of their own home/Tonal gym. The program will last approximately
+           20 minutes in length and incorporate progressive exercises.
+
+           Each training session will be preceded by a dynamic warm-up and finished with a dynamic
+           cooldown to fit within the approximate time frame of 30 minutes. If at any point a
+           prescribed exercise appears to cause difficulty or discomfort to a subject, the
+           supervising trainer will have authority to use his/her discretion to modify the exercise
+           to make it easier for the subject, or skip the exercise altogether. Throughout the
+           training program, the Tonal device will record continuous data on range of motion, power
+           generated, weight resistance, total weight displacement, time under tension, and
+           strength score. This data is automatically saved on the Tonal servers and will be
+           transferred to the research team on a weekly basis.
+
+           At each evaluation session, subjects will perform the artificial intelligence learning
+           program used by the Tonal to establish baseline resistance levels for new users.
+           Subjects will be asked to perform five separate activities (neutral grip deadlift, bench
+           press, overhead press, and lateral pull down), each for multiple repetitions. During the
+           each repetition, the artificial intelligence program on the Tonal will adjust user
+           resistance based on performance of the previous repetition until an optimal resistance
+           weight is identified for the subject. Once the Tonal has established resistance levels,
+           the subject will repeat each activity for 10 repetitions with weight activated. A
+           weight-activated bicep curl will also be performed for 10 repetitions. The standard
+           tonal data sheet will be collected. This sheet includes the following variables:
+           activity, time, repetitions, range of motion, power, duration, target repetitions,
+           target time, target duration, base weight, suggested weight, additional
+           eccentric/concentric weight, assisted weight, total duration, total activities, total
+           sets, total volume, and percent completion. Identifiable information, which is typically
+           included in Tonal reports will be replaced with assigned Subject IDs prior to any data
+           transfer so that all data remains de-identified. In addition to this standard Tonal
+           report, continuous data will be collected for range of motion (calculated from cable
+           distance traveled) and speed of motion relative to time.
+
+           For each training session subjects will follow the specified exercise protocol, which
+           will be supervised by the athletic trainer. The standard Tonal report will be generated
+           as indicated for the evaluation sessions. This report will again be de-identified.
+
+        4. Sorenson's Back Endurance Test - a research team member will perform a Sorenson's Back
+           Endurance Test on each subject. To perform this test, subject will lie prone on a
+           clinical exam table with the superior edge of the iliac crest at the edge of the table
+           and arms crossed over the chest. The lower limbs will be stabilized to the table with
+           straps. The subject will be asked to maintain their upper body in a horizontal position
+           for as long as possible while a research team member times them. If the subject
+           maintains this posture for 240 seconds, the test will end. The total time for which a
+           horizontal upper body posture is maintained will be recorded.
+
+        5. Shearwave Elastography (SWE) - SWE ultrasound images will be captured on the erector
+           spinae muscles with a Aixplorer MACH 30 (Hologic Supersonic Imagine, France). This
+           non-invasive, non-radiation imagery allows for assessment of stiffness properties in
+           muscle tissue. A research team member will take SWE images with the subject laying prone
+           on a horizontal surface in a relaxed position and with the ultrasound transducer aligned
+           with the muscle fibers. A minimum of 3 images will be captured and averaged to determine
+           the mean resting tissue stiffness. These ultrasound images are research procedures that
+           will be completed by research staff using research equipment. The research team members
+           have been trained in the collection of shearwave images directly by the ultrasound
+           vendor company. The indicated activities will be completed supplemental to your standard
+           clinical care as part of this study and will not be considered part of your medical
+           treatment nor will they be included as part of your medical record.
+
+        6. Isokinetic Lumbar Strength - a research team member will assess flexion/extension torque
+           of the lumbar spine will be assessed via a Humac Norm Dynamometer (CSMI Solutions,
+           Stoughton, MA, USA). Isokinetic torque will be recorded across a subject-specified range
+           of motion at a rotation speed of 60°/sec. A subject will be permitted four (4) warm-up
+           trials to familiarize themselves with the isokinetic device and lumbar exercise. The
+           subject will then be asked to perform five (5) recorded trials at their maximal effort.
+
+        7. Isometric Proprioceptive Measurement - a research team member will assess the ability of
+           each subject to use their proprioception to match a target strength magnitude for
+           isometric back flexion/extension contractions. This test will be performed using the
+           lumbar accessory for the Humac Norm Dynamometer. A target force of will be selected.
+           This test will be performed after the Isokinetic Lumbar Strength test and subjects will
+           only qualify if their maximal isokinetic strength exceeds the specified target force.
+           Subjects will be secured at a predetermined flexion angle within each subject's range of
+           motion for lumbar flexion. Subjects will be asked to increase the strength of their back
+           contraction in a trapezoidal form (3 seconds ramp-up, 10 seconds hold steady, 3 seconds
+           ramp-down). The first trial will be performed with visual stimulus to define the target
+           force. The second trial will be performed without visual stimulus and will rely on the
+           subject's proprioception to identify the target force and maintain steadiness. These
+           tests will be repeated three times.
+
+      For Standard of Care Subjects: Subjects will continue their preferred clinical care, but
+      complete no additional Tonal training outside of the three progress evaluation sessions
+      specified above.
+
+      For Intervention Subjects: Subjects will continue their preferred clinical care and
+      additionally be asked to perform the above specified Core Training Program two (2) times per
+      week for a period of eight (8) weeks. This program will be performed on a Tonal device
+      installed at Mayo Clinic. For every training session, the Tonal Subject Satisfaction and
+      Visual Analog Scale questions indicated above will be answered relative to the workout.
+      Intervention subjects will complete a total of 16 training sessions on the Tonal device, with
+      full progress evaluations occurring on sessions 1, 8, and 16.
+
+      Longitudinal Tracking: After the completion of the 8 week intervention period, all subjects
+      from all Groups will be tracked by the CRC or research team members for up to one (1) year.
+      The CRC or research team members will follow-up once per quarter with all subjects from all
+      Groups. These follow-ups will be completed remotely via phone and/or email and will consist
+      of quarterly interactions during which subjects will be asked to complete the same Clinical
+      Questionnaires described above in the progress evaluations. Subjects will also indicate
+      whether they have sought additional treatment for LBP. For Groups 1-4, those subjects that
+      have had positive LBP recurrence will have their medical records evaluated for severity and
+      outcome of LBP.
+    
+  

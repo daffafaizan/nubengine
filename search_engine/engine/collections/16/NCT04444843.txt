@@ -1,0 +1,49 @@
+
+    
+      Medical history and Kidney transplantation This will include age at transplantation, gender,
+      race, weight, height of both recipient and donor; Recipients: previous history ,BMI ,primary
+      kidney disease including biopsy proven diagnosis (if present), historic dialysis，pregnancy
+      history (female). Donor: the catalogue (DCD,DBD,DBCD), ECD or not，the cause of death,
+      received CPR or not; zero biopsy results if done, ABO blood type match, HLA-MM, cold and warm
+      ischemic time.
+
+      Clinical data at baseline and 12months follow up period:
+
+      Clinical assessments, laboratory, comorbidity, immunosuppressive therapy, and selected
+      concomitant therapy (anti-hypertension anti-hyperlipidemics, anti-diabetics and drugs known
+      to affect renal function) will be collected at transplant day（Day 0, visit 0）and 8 subsequent
+      visits scheduled Day 3, Week1, Week2, Week 4，Week 12，Week 26，Week 40，Week 52 post
+      transplantation. MPA-AUC, acute rejection episodes and graft loss will be collected at visits
+      scheduled Day 3, Week 1，Week 2, Week 4，Week 12， Week 26(6 month)，Week 40，Week 52 (12 month)
+      post transplantation. On day 3, MPA-AUC will be tested by full time sample
+      (0h,0.5h,1h,2h,3h,4h,6h,8h,10h,12h post receiving MMF). LSS (0h, 0.5h, 2h post receiving MMF)
+      will be used for testing MPA-AUC on other visits. PRA will be tested on week 4, week 12, week
+      26, week 52. If PRA is positive, DSA will be tested following once. All the PRA and DSA MFI
+      and phenotype will be collected（including the clinical-drive test）.
+
+      Statistical analysis:
+
+      The primary endpoint in this study is the incidence of DSA formation in 12-months
+      post-transplantation in Chinese kidney transplant recipients with MMF-based IS regimen. The
+      proportion and its 95% CI will be provided.
+
+      The influential factors of DSA formation will be estimated using logistic regression
+      including relevant influential factors, where the influential factors are defined as {age,
+      gender of donor / recipients recipient: BMI, blood transfusion, previous AR （before DSA
+      appears）, ECD , cold ischemia time, HLA-MM, Tac trough concentration, MPA-AUC, DGF,
+      introduction therapy (including use or not and the drugs )}. .
+
+      The full MPA-AUC0-12h will be calculated using the trapezoidal rule. The calculated formula
+      with Limited Sample Strategy (LSS) will be established to predict the MPA-AUC0-12h in the
+      Chinese patients. Correlation coefficients will be calculated and multiple stepwise
+      regression analysis will be used to determine the time points and best equation for
+      evaluating MPA-AUC0-12h.
+
+      Estimates for the time-to-event variable(s), such as Overall Survival(OS), will be obtained
+      by using the Kaplan-Meier (KM) approach together with associated 95% CI.
+
+      The other secondary endpoints will be summarized descriptively depended on the variable type.
+      The comparison between patients with and without DSA-positive will be performed according to
+      the variable type.
+    
+  

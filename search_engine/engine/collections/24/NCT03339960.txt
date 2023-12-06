@@ -1,0 +1,123 @@
+
+    
+      Objective:
+
+      It is our hypothesis that the ergonomics of the surgeon and his/her assistant will be
+      improved with the aid of the AutoLap than without the aid of a robotic camera holder.
+      Maintaining the same posture for a long period of time can lead to discomfort and fatigue of
+      the surgeon and his/her assistant. Also, the space at the OR table is limited. Therefore,
+      their body postures are sometimes awkward, unnatural and out of neutral position. With the
+      aid of a robotic camera holder, we expect to minify this problem and improve ergonomics
+      during laparoscopic operations.
+
+      The Autolap system is CE mark approved and is used frequently during laparoscopic operations.
+      No patient characteristics and data will be recorded. The ethics committee MEC-U in
+      Nieuwegein assessed this study and concluded that it does not fall under the scope of the
+      WMO. Therefore this is non-WMO research.
+
+      The system shall be used in accordance with its cleared indication according to the clinical
+      plan by clinical staff that has appropriate qualifications and training.
+
+      Predefined steps of the procedures:
+
+      The defined steps for a hiatal hernia repair / fundoplication are as follows:
+
+        -  Opening of pars flaccida
+
+        -  Deperitonialisation of the crura
+
+        -  Resection of the hernia sac
+
+        -  Suturing of the crura
+
+        -  Dissection of the vasa brevia (if applicable)
+
+        -  Creation of the fundoplication
+
+      The defined steps for a right hemicolectomy are as follows:
+
+        -  Mobilisation of the coecum
+
+        -  Dissection Toldt's line (lateral mobilization)
+
+        -  Making the Subcolic tunnel
+
+        -  Dissection of the ileo-colic artery
+
+        -  Dissection of gastrocolic ligament
+
+        -  Mobilization of the transverse colon
+
+        -  Making the anastomosis (if performed laparoscopically)
+
+      The defined steps for a sigmoid resection are as follows:
+
+        -  Dissection Toldt's line (lateral mobilization)
+
+        -  Exposing the ureter
+
+        -  Colon descendens mobilisation
+
+        -  Mobilisation of flexura lienalis
+
+        -  Dissecting the mesocolon
+
+        -  Making the anastomosis (if performed laparoscopically)
+
+      The defined steps for a rectopexy are as follows:
+
+        -  Incision of peritoneum over the promotorium
+
+        -  Posterior resection behind the rectum
+
+        -  Dissection towards pelvic floor
+
+        -  Anterior resection of peritoneum
+
+        -  Fixation of the mesh
+
+        -  Removal of excess mesh
+
+        -  Closing the peritoneum
+
+      The defined steps for a splenectomy are as follows:
+
+        -  Opening of lesser peritoneal sac
+
+        -  Division of gastrosplenic ligament
+
+        -  Division of splenocolic ligament
+
+        -  Division of pancreaticosplenic ligament
+
+        -  Division of the hilum (vein and artery)
+
+        -  Posterior and lateral dissection
+
+      The defined steps for a low anterior resection are as follows:
+
+        -  Mobilisation of the sigmoid
+
+        -  Dissection of the inferior mesenteric vena and arteria
+
+        -  Dissection of the posterior wall of the mesorectum
+
+        -  Lateral dissection of the sigmoid / rectum (freeing left colonic gutter)
+
+        -  Dissection of the anterior wall of the rectum
+
+        -  Dissection of Waldeyer's fascia
+
+        -  Division of the distal rectum
+
+      Position and angles of the posture will be measured with MATLAB software. The posture of the
+      surgeon and assistant will be photographed during the operation in two directions; from the
+      side and from behind. These photographs will be used to calculate the RULA score. The RULA
+      score is only measured during laparoscopic parts of the operation; if a part of the operation
+      is performed open (not laparoscopically) RULA score will NOT be measured during the open
+      part. No patient data or measurements will be acquired during this study. The positioning of
+      the surgeon and operating assistant, operating table and OR monitors will be standardized for
+      each type of procedure. Also, the placement of the monitors will be taken into account in
+      such a way that a good ergonomic posture of the surgeon and assistant is ensured.
+    
+  

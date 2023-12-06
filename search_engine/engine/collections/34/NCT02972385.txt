@@ -1,0 +1,26 @@
+
+    
+      If the patient is willing to hear about the study, during routine clinical care, one of the
+      patient's providers will approach patients meeting the study criteria about participation in
+      the study. Study personnel will not approach potential participants unless permission is
+      given to the patient's provider. If the patient would like to participate in the study, study
+      personnel will discuss details of the study in person during the patient's routine clinical
+      care visit. There will also be a flyers available for posting and for distribution to
+      potential participants.
+
+      Participants consenting to the study will be asked to provide a cheek swab or mouthwash
+      sample to provide buccal cells for DNA extraction. If the patient is receiving a blood draw
+      during their regular clinical appointment, participants will be asked for a blood sample of
+      15 milliliters. Genomic DNA will be isolated for genotyping and patient plasma samples will
+      also be stored.
+
+      Linear regression will be used to test association of SNPs with therapeutic warfarin dose
+      using the algorithms derived by the International Warfarin Pharmacogenomics Consortium. The
+      primary phenotype (weekly stable warfarin dose) will be transformed by square root. SNPs and
+      other variables associated with warfarin dose will be assessed in univariate analyses and
+      entered into stepwise linear regression to determine the adjusted association with dose
+      requirements using R2. Quality control procedures will include deviation from Hardy-Weinberg
+      Equilibrium, and SNP and sample exclusions based on call rates. Ancestry-informative marker
+      (AIM) analysis will be performed to estimate ancestry in each individual.
+    
+  

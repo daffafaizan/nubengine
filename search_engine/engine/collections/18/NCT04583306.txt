@@ -1,0 +1,43 @@
+
+    
+      SAMPLE COLLECTION: Saliva collection will be performed using Salivette (SARSTEDT, Germany)
+      and following the manufacturer's instructions. Briefly, the cotton swab will be inserted in
+      the subject mouth and chewed for 60 seconds. The saliva collection will be achieved through
+      centrifugation of the swab (1000 g x 2 minutes), recording all the related parameters
+      (storage temperature and the time between collection and analysis). All the collection
+      procedures will be performed at least two hours after the last meal and teeth brushing.
+
+      SAMPLE PROCESSING AND PREPARATION: Before the analysis, a drop of saliva (3 ul) will be
+      deposited on a commercially available aluminum foil and dried overnight. The aluminum foil is
+      fundamental to achieve the Surface Enhanced Raman Scattering, increasing in this way the
+      saliva Raman signal.
+
+      DATA COLLECTION: Raman spectra will be acquired using an Aramis Raman microscope (Horiba
+      Jobin-Yvon, France) equipped with a laser light source operating at 785 nm with 100% (512mW)
+      laser power. Acquisition time will be set at 30 seconds with double acquisition and 2 seconds
+      delay time to prevent the formation of artifact spectra. Before each analysis, the instrument
+      will be calibrated using the reference band of silicon. All the signals will be acquired in
+      the region between 400 and 1600 cm-1 with a resolution of 0.8cm-1, acquiring at least 25
+      spectra following a square-map. The software package LabSpec 6 (Horiba Jobin-Yvon, France)
+      will be used for map design and the acquisition of spectra.
+
+      DATA PROCESSING AND STATISTICAL ANALYSIS: All the data will be fit using a fourth-degree
+      polynomial curve to set the baseline and consecutively normalized using unit vector. The
+      contribution of aluminum will be removed from each spectrum. The statistical analysis will be
+      performed using the multivariate approach. Briefly, principal component analysis and linear
+      discriminant analysis will be applied to extract the principal components and the canonical
+      variables. These features will be used for the leave one out cross-validation (LOOCV), subset
+      validation and correlation with the clinical parameters. Mann-Whitney will be performed on
+      PCs scores to verify the differences statistically relevant between the analysed groups. The
+      analysis will be performed using Origin software (OriginLab, USA)
+
+      CORRELATION: Partial correlation with Pearson's and Spearman's coefficients will be performed
+      on the variables extracted and the clinical parameters, using as control covariates the age
+      and sex of the subjects. Only values with p < 0.001 will be considered as statistically
+      relevant.
+
+      TRANSLATION: The data and the classification model will be applied with a portable Raman
+      equipped with a laser emitting at 785 nm and with a spectral resolution comparable with the
+      one used for the previous analysis
+    
+  

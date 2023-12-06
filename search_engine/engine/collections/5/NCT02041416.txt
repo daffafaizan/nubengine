@@ -1,0 +1,48 @@
+
+    
+      Sixty percent of all cancer diagnoses and 70% of all cancer mortality occurs in patients age
+      65 and older. Patients older than age 65 years have an 11-fold increased cancer incidence and
+      a 16-fold increase in cancer mortality in comparison to those younger than 65 years. The
+      population at risk is growing rapidly: the number of adults age 65 years and older is
+      expected to double in the next 30 years. In order to adequately care for this growing
+      population of older adults, oncologists need an assessment tool that provides information
+      regarding an older individual's "functional age" rather than just "chronological age." The
+      Geriatric Assessment Tool developed by Hurria and colleagues has been found to help identify
+      those older adults who are more vulnerable to complications from cancer treatment.
+
+      The Geriatric Assessment Tool takes into account well validated measures of functional
+      status, co-morbid medical conditions, cognitive function, psychological state, nutritional
+      status, social activity, and social support. Pilot data demonstrates the feasibility of this
+      assessment which can be completed in less than 30 minutes; however, this assessment is
+      completed by pencil and paper, and therefore requires an interviewer to deliver, score, and
+      summarize the assessment results. The development of a computer based Geriatric Assessment
+      Tool would have practical importance for both research and clinical practice. It could
+      potentially allow more efficient data collection and analysis in the research setting. In
+      turn it would potentially influence clinical decision making by medical oncologists given its
+      ability to predict chemotherapy related toxicity among geriatric oncology patients across all
+      tumor types.
+
+      Two electronic platforms have been developed for the Geriatric Assessment Tool:
+
+        1. Research Electronic Data Capture (REDCap) is a secure website designed by Vanderbilt
+           University that is used by 48 countries, and 511 institutions around the world including
+           research centers that comprise the Cancer and Aging Research Group. REDCap is a
+           web-based application that allows researchers to build and manage online surveys and
+           databases. It also provides a central web-based forum where data can be processed
+           uniformly and efficiently. Administering the Geriatric Assessment Tool through REDCap
+           would potentially improve data collection and analysis for elderly cancer patients
+           across multiple research centers.
+
+        2. Support Screen is a program developed by researchers and information technology
+           specialists at City of Hope utilizing touchscreen technology to deliver patient surveys.
+           The touchscreen platform has been used in previous studies as a means of assessing the
+           needs of cancer patients. Support Screen is an attractive technology given it is user
+           friendly for patients and has the unique capability of transferring information from the
+           touchscreen device directly into the City of Hope medical record system in a secure,
+           HIPPA-compliant manner, thereby providing clinicians and researchers real time access to
+           survey information. A pilot study looking at the feasibility of delivering the Geriatric
+           Assessment to elderly cancer patients using Support Screen has been performed at City of
+           Hope with promising results, but the reliability and validity of this modality have yet
+           to be studied.
+    
+  

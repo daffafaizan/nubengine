@@ -1,0 +1,151 @@
+
+    
+      Patients were considered to be very asymmetric (VAE-NT) if the diagnosis of ectasia was
+      confirmed in one eye based on the previously described criteria and the fellow eye had a
+      normal front surface curvature (topometric) map. Objective criteria for considering normal
+      topography was applied for defining the cases of VAE-NT, including objective front surface
+      curvature metrics derived from Pentacam. Normal topography was rigorously considered based on
+      objective criteria of a maximum curvature Kmax (Steepest Front Keratometry) <47.2 diopters, a
+      paracentral inferior-superior (I-S value) asymmetry value at 6 mm (3-mm radii) < 1.45, and
+      keratoconus percentage index (KISA%) score < 60. The cutoff point used to discriminate normal
+      corneas and VAE-NT from KC corneas was the maximal posterior elevation (< 29 micron. This
+      cutoff point had been determined in a previous study, using the same instrument and the same
+      setting (30). The posterior elevation map was displayed with a 5-mm color-coded scale, and
+      maximal posterior elevation was measured manually using the cursor in the central 5 mm.
+
+      The study included 148 eyes with KC, 351 with healthy corneas, and 88 eyes with suspected KC.
+      The patients were divided into three groups:
+
+        -  Control group - Normal eyes (CG): 351 eyes without KC of 351 patients who underwent
+           LASIK or photorefractive keratectomy (PRK), stable after at least 18 months of
+           follow-up, without any changes in the posterior elevation at the 18-month Pentacam in
+           relation to the preoperative exam (surgeries performed in 2012-2018). The inclusion
+           criteria for being a normal case was to have normal corneas on the general eye
+           examination in both eyes, including normal slit lamp biomicroscopy, corrected distance
+           visual acuity of 20/20 or better, overall subjective normal topography and tomography
+           examinations.. Our objective topographic criteria were: both eyes with a KISA% index of
+           less than 60%, Kmax of 47.2 D or less, and I-S difference of less than 1.45 D. Because
+           no truly established tomographic parameter(s)/cut-off(s) for differentiating normal from
+           keratoconus suspect eyes exist, we adapted our classification for normal eyes to the
+           recent publication by Ambrósio et al.(31) by adding the criterion of "overall subjective
+           normal topography and tomography examinations" based on the evaluation of experienced
+           refractive surgeon (GCAJ). Only one eye was randomly selected for further statistical
+           analysis. The CG included one eye randomly selected from 323 patients with normal
+           cornea; one eye was randomly included per patient to avoid selection bias related to the
+           use of both eyes from the same patient
+
+        -  Very assimetric ectasia with normal topography group (VAE-NT G): 88 eyes of 88 patients
+           with very asymmetric ectasia with normal topography (VAE-NT) in one eye and frank
+           ectasia (VAE-E) in the fellow eye. The inclusion criteria followed previous studies (28,
+           32, 33) Eyes in this group with insufficient topographic findings to meet diagnostic
+           criteria for keratoconus, and following features normal-appearing cornea on slit-lamp
+           biomicroscopy, keratometry, retinoscopy. These cases were the less affected eye (fellow
+           eye) of a keratoconic patient was included if the following criteria were met: KISA%
+           index of less than 60%, I-S difference of less than 1.45 D, and Kmax of 47.2 D or less
+           (ie, same topographic criteria as in normal eyes, except than in normal eyes, both eyes
+           of the patient met the criteria). These patients can be considered with corneas highly
+           susceptible to ectasia.
+
+        -  Very asymmetric eyes with ectasia (VAE-E): The fellow eyes of the VAE-NT displaying a
+           KISA% index of greater than 100% and at least one of the following biomicroscopic signs:
+           Vogt striae, Fleischer ring, or focal stromal thinning. Oculus implemented their own
+           staging system into the Pentacam software, which should mimic the Amsler/Krumeich
+           systems: the Topographic Keratoconus Classification (TKC) (34). TKC classifies KC into
+           four stages (plus four intermediate stages) and identifies other corneal pathologies,
+           such as corneal refractive surgery or pellucid marginal degenerative (PMD). TKC
+           classification of Pentacam tomographic index showing algum grau de KC variando de 1-4.
+
+        -  Keratoconus group (KCG): 148 patients (one eye each) with bilateral clinical KC. The KCG
+           included one eye randomly selected from 148 patients with keratoconus; one eye was
+           randomly included per patient to avoid selection bias related to the use of both eyes
+           from the same patient. The inclusion criteria were the same as for VAE-E, except that
+           both eyes of the patient met the ectasia criteria.
+
+      All subjects underwent complete eye examination as well as refraction assessment,
+      biomicroscopy, retinoscopy, fundoscopy, topography, and tomography assessment. All patients
+      were assessed at the Visum Eye Center between January 2012 and January 2018.
+
+      This study adhered to the tenets of the Declaration of Helsinki and was approved by the
+      Research Ethics Committee of the Sao Jose do Rio Preto Faculty of Medicine. All patients were
+      informed about the objectives of the study, and they signed written informed consent forms
+      before being enrolled.
+
+      External validation was conducted with 140 patients, whose data were not included in building
+      the algorithm. They met the same inclusion criteria as the others, with a total of 82 eyes of
+      82 patients with healthy corneas, 19 eyes of 19 patients with VAE-NT, and 39 eyes of 39
+      patients with KC.
+
+      PENTACAM TOMOGRAPHY: All eyes were examined by rotating Scheimpflug corneal and anterior
+      segment tomography (Pentacam HR; Oculus GmbH, Wetzlar, Germany). Image quality was checked so
+      that only cases with acceptable-quality images were included in the study. An experienced
+      fellowship-trained corneal specialist (GCAJ) reviewed all the cases so that they were
+      correctly classified in the KC and VAE-NT groups. The raw data (u12 files) were obtained from
+      all cases; therefore, the same customized software (version 1.20r118) was used to process all
+      the export files, and all Scheimpflug variables were directly downloaded from the Pentacam
+      software using the "call-all" function.
+
+      MATHEMATICAL ALGORITHM: To build the equation extracted from SVM, 58 variables were used,
+      some of them were extracted from the spreadsheet.. After the construction of these 58 feature
+      vectors (FV), an SVM-derived index was created, which was called the corneal tomography
+      multivariate index derived from a support vector machine (CTMVI). Considering that each
+      patient represents a point on a cartesian plane with 58 dimensions (each coordinate
+      representing one of the 58 FV), the role of SVM is to find the hyperplane that best separates
+      the CG, KCG, and VAE-NT G subjects. A hyperplane is algebraically described by a linear
+      equation; in this case, there are 59 coefficients, 58 of which are related to the FV and one
+      independent coefficient representing the bias (which is a possible parallel dislocation of a
+      given hyperplane). The analyzed FV were:
+
+      ARC (3 mm Zone): Anterior radius of curvature in the 3.0 mm zone centered on the thinnest
+      location of the cornea; ARTmax: Ambrosio relational thickness maximum; ARTmin: Ambrosio
+      relational thickness minimum; BAD D: Belin/Ambrosio enhanced ectasia total deviation value
+      ;BAD Daa: Deviation of the ART average; BAD Dam: Deviation of the ART max; BAD Db: Deviation
+      of back elevation difference map; BAD De: Deviation from the posterior elevation at the
+      thinnest considering BFS 8 mm; BAD Df: Deviation of front elevation difference map; BAD Df:
+      Deviation of minimum thickness; BAD Dk: Deviation from Kmax; BAD Dp: Deviation of average
+      pachymetric progression;BAD Dr: Deviation from the more negative value on the relative
+      thickness map; BAD Dy: Deviation from the vertical displacement of the thinnest point from
+      the apex; C.Vol D 3mm: corneal volume of 3 mm diameter area; C.Vol D 5mm: corneal volume of 5
+      mm diameter area; C.Vol D 7mm: corneal volume of 7 mm diameter area; C.Vol D 10mm: corneal
+      volume of 10 mm diameter area; D2 mm / Pachy Min: The quotient of D2 mm / Pachy Min; D2 mm:
+      Average corneal thickness of 2 mm circle centered on the thinnest location; D4 mm / Pachy
+      Min: The quotient of D4 mm / Pachy Min; D4 mm: Average corneal thickness of 4 mm circle
+      centered on the thinnest location; D6 mm / Pachy Min: The quotient of D6mm / Pachy Min; D6
+      mm: Average corneal thickness of 6 mm circle centered on the thinnest location; D8 mm / Pachy
+      Min: The quotient of D8 mm / Pachy Min; D8 mm: Average corneal thickness of 8 mm circle
+      centered on the thinnest location; Ele B BFS 8 mm Max. 4 mm Zone: Elevation parameter derived
+      from the back surface centered at the point with highest value within the 4 mm (diameter)
+      using the 8 mm best-fit sphere; Ele B BFS 8mm Apex: Elevation parameter derived from the back
+      surface centered at the apex calculated using the 8 mm best-fit sphere; Ele B BFS 8mm
+      Thinnest: Elevation parameter derived from the back surface centered at the thinnest point
+      using the 8 mm best-fit sphere; Ele B BFTE 8 mm Max. 4 mm Zone: Elevation parameter derived
+      from the back surface centered at the point with highest value within the 4 mm (diameter)
+      using the 8 mm best-fit toric ellipsoid; Ele B BFTE 8mm Apex: Elevation parameter derived
+      from the back surface centered at the apex calculated using the 8 mm best-fit toric
+      ellipsoid; Ele B BFTE 8mm Thinnest: Elevation parameter derived from the back surface
+      centered at the thinnest point using the 8 mm best-fit toric ellipsoid; Ele F BFS 8 mm Max. 4
+      mm Zone: Elevation parameter derived from the front surface centered at the point with
+      highest value within the 4 mm (diameter) using the 8 mm best-fit sphere; Ele F BFS 8mm Apex:
+      Elevation parameter derived from the front surface centered at the apex calculated using the
+      8 mm best-fit sphere; Ele F BFS 8mm Thinnest: Elevation parameter derived from the front
+      surface centered at the thinnest point using the 8 mm best-fit sphere; Ele F BFTE 8 mm Max. 4
+      mm Zone: Elevation parameter derived from the front surface centered at the point with
+      highest value within the 4 mm (diameter) using the 8 mm best-fit toric ellipsoid; Ele F BFTE
+      8mm Apex: Elevation parameter derived from the front surface centered at the apex calculated
+      using the 8 mm best-fit toric ellipsoid; Ele F BFTE 8mm Thinnest: Elevation parameter derived
+      from the front surface centered at the thinnest point using the 8 mm best-fit toric
+      ellipsoid; IHA: Index highest asymmetry; IHD: Index highest decentration; ISV: Index of
+      surface variance; IVA: Index of vertical asymmetry; KI: Keratoconus index; Pachy Min: Corneal
+      thickness at the thinnest point; Pachy Min Y: Position of minimum corneal thickness in
+      relation of Y axis centered on cornea apex; PRC (3mm Zone): Posterior radius of curvature in
+      the 3.0 mm zone centered on the thinnest location of the cornea; Rel Pachy Min: Relative
+      corneal thickness at the thinnest point; RMS HOA (CB): root mean square of high order
+      aberration of cornea back; RMS HOA (CF): root mean square of high order aberration of cornea
+      front; RMS HOA (Cornea): root mean square of high order aberration of total cornea; RPIavg:
+      Average pachymetric progression index; RPImax: Maximum pachymetric progression index; RPImin:
+      Minimum pachymetric progression index; Z 3 -1 (CB): 3rd order vertical coma aberration cornea
+      back; Z 3 -1 (CF): 3rd order vertical coma aberration of cornea front; Z 3 -1 (Cornea): 3rd
+      order vertical coma aberration total cornea; Z 5 -1 (CB): 5th order vertical coma aberration
+      of cornea back; Z 5 -1 (CF): 5th order vertical coma aberration of cornea front. All Zernike
+      measurements were made for a corneal diameter of 6 mm.
+    
+  

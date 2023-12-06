@@ -1,0 +1,27 @@
+
+    
+      Challenges in wayfinding and orientation are early symptoms of MCI and dementia. These
+      deficits decrease mobility which again leads to further cognitive decline. In a field study,
+      we developed a pattern recognition model of disorientated behaviour based on accelerometric
+      data. However, it is questionable if phases of disorientation also affect gait parameters.
+      Furthermore, there is growing evidence that impaired cognitive functioning is associated with
+      changes in gait performance, e.g. gait variability, measured in dual-task walking conditions.
+      Increases in heart rate and skin conductance have also been reported during instances of
+      disorientation.
+
+      Hence, We implemented a 3D environment of a familiar city centre in the GRAIL, which combines
+      a fully instrumented treadmill with a synchronized VR environment. We record gait parameters
+      through the motion capture system, and accelerometric and physiological data using wearable
+      sensors (movisens), for comparability with the SiNDeM field study. Young and old healthy
+      adults will participate in the first phase of the study, while Mild dementia or MCI patients
+      will participate in the later phases. Phases of disorientation will be induced by changing
+      the virtual environment.We aim to assess gait, accelerometric and physiological parameters
+      during instances of disorientation, using the GRAIL (Gait Real-Time Analysis Interactive Lab,
+      Motekforce Link).
+
+      The results will further enable the automatic detection of disorientation based on gait
+      parameters, physiological and accelerometric data. This is necessary for the development of a
+      situation-aware assistive system which supports persons with dementia in autonomous outdoor
+      mobility.
+    
+  

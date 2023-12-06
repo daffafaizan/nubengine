@@ -1,0 +1,113 @@
+
+    
+      Hepatocellular carcinoma (HCC) is one of the malignant tumors that seriously threaten the
+      health of our people. Its morbidity and mortality rank third and second among various
+      malignant tumors in China, respectively. Liver transplantation, surgical resection, and local
+      ablation are the main curative treatments for early liver cancer. Our team first reported
+      (Ann Surg, 2006) a prospective randomized controlled clinical trial of radiofrequency
+      ablation (RFA) versus surgical resection for small HCC. The results showed that the long-term
+      efficacy of RFA in the treatment of small HCC is similar to surgical resection. Subsequently,
+      Feng et al (J Hepatol, 2012) and Lv et al reported obtained similar research conclusions. At
+      present, local ablation therapy represented by RFA has been recommended as a first-line
+      treatment for small HCC by many international guidelines, especially for small HCC located in
+      central segments.
+
+      With the development of radiotherapy equipment and the precision imaging technology,
+      especially the emergence of stereotactic radiotherapy (SBRT), the status of radiotherapy in
+      the treatment of HCC is increasing. SBRT is defined as the use of external irradiation
+      technology, which is divided into several fractions, and the high dose of radiotherapy is
+      accurately delivered into the tumor. As a result, tumor is subjected to high dose and the
+      normal tissue around the tumor is exposed to relatively low dose. Compared with conventional
+      fractionated radiotherapy (CRT), SBRT possessed fewer segmentation times (1 to 6 F), higher
+      fractional doses (5 to 20 Gy), and steeper gradients at the edge of the target region, so it
+      has stronger biological effect. Meanwhile, SBRT can also protect the normal organs better,
+      especially for the radiotherapy of smaller tumors. Multiple clinical studies and
+      meta-analyses have shown that SBRT is superior to traditional CRT in the treatment of HCC,
+      and the side effects are lower in the acute phase. SBRT has become a mainstream technology
+      for HCC, and has been recommended as a routine local treatment for HCC by NCCN guidelines and
+      NCI radiotherapy guidelines.
+
+      This project is to conduct a phase III, prospective, randomized, open, parallel controlled
+      clinical study of RFA versus SBRT for small hepatocellular carcinoma (solitary tumor≤ 5.0 cm;
+      initially treated). The primary end point is 3-year overall survival rate. As for secondary
+      end points, we aim to compare 5-year overall survival rate, 1-, 2-, and 3- year
+      progression-free survival (PFS), local control rate, and rate of complications.Stratified
+      analysis will be performed according to tumor size (≤2.0 cm; 2.1-5.0 cm).
+
+      Patients enrolled in this clinical trail received either SBRT or RFA depending on the
+      randomization allocation.
+
+      As for SBRT group, the treatment follows the protocol below.Immobilization: Patients are
+      immobilized with vacuum bags or styrofoam in the supine position, with the arms raised above
+      the head. 4DCT scanning: Simple breathing training is conducted before simulation, so that
+      the patient can keep breathing quietly and evenly. A plastic box with reflective marker is
+      placed on the patient's anterior abdominal surface where the respiratory amplitude is
+      relatively large, approximately midway between the xiphoid and the umbilicus. The movement of
+      the marker is recorded by an infrared camera, which is converted into breathing curve by
+      computer software. After the breathing curve becomes stable, the CT data of different
+      respiratory phases is collected by 4DCT in axial cine mode. CT scanning region: From 3-4 cm
+      above the diaphragm to the 4th lumbar vertebra. The intravenous contrast is administered
+      during CT scanning and the slice thickness is 3.0 mm. After 4DCT scanning, images are sorted
+      into 10 phases by the software. Each respiratory cycle is divided into 10 respiratory phases,
+      named as CT0% (end-inhalation), CT10%, CT20% (mid-exhalation), CT30%, CT40%, CT50%
+      (end-exhalation), CT60%, CT70% (mid-inhalation), CT80%, CT90%, respectively. Delineation of
+      the target volumes and organs at risk: Gross tumor volume (GTV) and organs at risk (OARs) are
+      contoured on the 20% CT image (mid-exhalation). Then the GTV is registered to the other
+      respiratory phases of 4DCT scan by a physicist using Atlas-based Auto-segmentation (ABAS,
+      Elekta CMS), and the target volumes are modified and confirmed by a radiation oncologist
+      using the standard window/level settings. GTV is defined as the intrahepatic lesion on
+      images. Internal target volume (ITV) is defined as the combined volume of GTVs on 10
+      respiratory phases. Planning target volume (PTV) is generated by adding a 6-mm margin to the
+      ITV. OARs include liver, kidney, stomach, small intestine, and spinal cord. Normal liver
+      volume is defined as the entire liver minus GTV. Treatment planning: The plan of volumetric
+      modulated arc therapy (VMAT) is designed on the 20% CT image using Monaco TPS (CMS, Elekta)
+      with an optimization algorithm based on a combination of radiobiological and physical cost
+      functions. Monte Carlo algorithm (MC) is performed in the optimization process and a single
+      arc is conducted using FFF mode. Dosimetric evaluation: For PTV, V95% ≥95%, Dmax < 110%, Dmin
+      >90%. For OARs, mean dose to normal liver (MDTNL) < 13 Gy, V15Gy of liver < 35%; Dmean of
+      kidneys <6 Gy, D0.5cc of esophagus < 21 Gy; D0.5cc of stomach < 21 Gy; D0.5cc of small
+      intestine < 21Gy; D0.5cc of colon < 24Gy; D0.5cc of heart < 30 Gy; D0.5cc of ribs < 39 Gy;
+      Dmax of spinal cord < 18 Gy. The planning is evaluated according to the dose volume histogram
+      (DVH) and the dose distribution of each layer. Elekta linear accelerator (Versa HDTM, MLCi2
+      80 leaves, 0.5 cm MLC) with 6-MV photons are used for treatment. The isocenter of the
+      irradiation field is defined as the geometric center of the PTV, and the prescribed dose is
+      defined as the average dose of PTV. The prescribed dose is maximized while meeting the
+      dosimetric goals. The prescribed dose is 36-54 Gy in 3 fractions administered within 1 week.
+      Plan Validation and Implementation: Dosimetric verification of plan is performed on a Versa
+      HDTM linear accelerator using the three-dimensional semiconductor detection matrix Delta4
+      (ScandiDos, Uppsala, Sweden) before treatment for each patient. The gamma evaluation criteria
+      were ±3% of 3 Gy and 3 mm of the distance criterion. After the patient's positioning, a 360°
+      scanning is performed using 4D-CBCT prior to each fraction. The automatic bone registration
+      and manual fine-tuning method are used to register the 20% CT image of 4D-CBCT with the
+      planning CT. Then the positioning error data of 6-degree-of-freedom is obtained for online
+      calibration. If the positioning error after calibration is less than 3 mm, the treatment will
+      be delivered.
+
+      As for RFA group, contrast-enhanced ultrasonography (CEUS) was carried out for all patients
+      before RFA. RFA was performed with the use of conscious analgesic sedation (intravenous
+      administration of 0.1 mg of fentanyl, 5 mg of droperidol and 0.1 mg of tramadol
+      hydrochloride) and local anesthesia (5 mL of 1% lidocaine) by an anesthesiologist. All
+      procedures were performed percutaneously by one of three ablation experts with 6 to 15 years
+      of experience under real-time ultrasound guidance. The ZW-II RFA system (Dalong South
+      Technical Co., Ltd., Shenzhen, China) was used for ablation. After the single-needle
+      electrode with an exposed tip was deployed to the residual tumor bottom under ultrasound
+      guidance while avoiding critical structures during temporary suspension of respiration. The
+      radiofrequency generator was activated and initiated with 30 W of power. The power was
+      increased by 10 W per minute to 60 W. Tissue impedance was continuously monitored during the
+      ablation, and generator output was adjusted to generator maximum power or until 8 minutes had
+      elapsed. Then, the lesion was rescanned to determine whether the ablative region had covered
+      the whole tumor or a second ablation was required to achieve a satisfactory ablative area. At
+      the end of the procedure, the needle tract was ablated to prevent bleeding and needle track
+      seeding.
+
+      This study is expected to complete enrollment in 3 years and to follow up for 3 years.The
+      primary analysis is performed in the intention-to-treat population. Kaplan-Meier curves will
+      be used to describe the patient's recurrence-free survival, and the corresponding statistical
+      data are calculated, such as median progression-free survival (PFS) and bilateral 95% CI. The
+      secondary analysis used a hypothesis test and a two-sided 95% confidence interval(CI) for the
+      first time of the primary recurrence.Kaplan-Meier curves will also be used to describe the
+      patient's disease progression, and calculated the corresponding statistical data, such as the
+      median overall survival(OS) and bilateral 95% CI.Safety assessments will be also performed by
+      comparing adverse events in the two groups of patients.
+    
+  

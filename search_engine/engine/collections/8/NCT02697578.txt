@@ -1,0 +1,24 @@
+
+    
+      In hemodialysis patients, deviations of serum concentration of calcium, phosphate or
+      parathyroid hormone from the values recommended by KDIGO are associated to a negative
+      outcome. The regulation of calcium, phosphate and parathyroid hormone is complex and each
+      parameter is not independently regulated. In hemodialysis patient's simultaneous modification
+      in these three parameters are the result of abnormal mineral metabolism and the treatment
+      used to correct these abnormalities that usually produce changes in more than one parameter.
+      The specific objective of this work is an accurate and exhaustive analysis and description of
+      the complex relationships between clinically relevant parameters in chronic kidney disease
+      metabolism bone disease. In order to achieve these objectives we have used a machine learning
+      approach Random Forest able to extract useful knowledge from a large database. The analysis
+      of the complex interactions between the different parameters needs an advance mathematical
+      approach such as Random Forest . The second aim of this study is to determine whether
+      calcium, phosphate and parathyroid hormone, Fibroblast growth factor 23 and calcitriol are
+      long-term associated with demographic features, mortality, co-morbidity and the therapy
+      prescribed. Compare the predictions obtained with conventional statistical analysis versus
+      the new model analysis based on artificial intelligence. Our preliminary results suggest that
+      there are interactions between some parameters that are strong enough to question whether the
+      evaluation of a given therapy can be based in the measurement of one single parameter.
+      Subsequently, we will analyze in a prospective study on incident patients, whether the use of
+      this new model may predict the cardiovascular risk and reduce the therapy cost.
+    
+  

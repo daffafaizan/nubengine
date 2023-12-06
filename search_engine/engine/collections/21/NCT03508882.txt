@@ -1,0 +1,35 @@
+
+    
+      The study design is a prospective, randomized, triple-blinded placebo controlled crossover
+      trial. A computer-generated list of random numbers will be used for allocation of patients.
+      The patients, treating physicians, and outcome assessors will be masked to the contents of
+      the Botulinum Toxin Type A (BtA) and placebo syringe injections. The placebo will consist of
+      vehicle only, which is the same sterile normal 0.9% saline used in reconstitution of the BtA.
+      At month 6, each group will crossover and receive the alternative intervention. The primary
+      outcome measure (JRS severity) will be the change as measured 1 month after the second cycle
+      of each intervention. Secondary outcome measures include the TWSTRS (clinical response),
+      Blepharospasm Disability Index (BSDI), CDQ-24 (quality of life), VAS (pain), and GAS (global)
+      scores and incidence of side effects. The investigators plan to compare the outcome measures
+      between groups with linear mixed models allowing for the crossover design.
+
+      Data will be collected at each of the injection visits and at both of the clinical activity
+      visits. The data will be processed by the research assistant and analysed by the project
+      biostatistician. The investigators plan to compare the primary (JRS) and secondary outcome
+      measures (TWSTRS, BSDI, CDQ-24, VAS, and GAS scores) between the Preseptal-pretarsal (Group
+      1) and the Pretarsal-preseptal (Group 2) allowing for the crossover design. Specifically, the
+      investigators will use a 2-sample t-test to compare all values of the JRS in group 1 with all
+      the values of the JRS in group 2. This will allow the investigators to determine whether
+      carryover effects are present, and the investigators have specified a 3-month washout period
+      between the first and second round of injections to minimise the chance of carryover effects.
+      If carryover effects are present, the investigators will allow for these in further analysis.
+      The investigators will then use linear mixed models to estimate the difference between the
+      two interventions, allowing for the repeated measures, and if necessary for carryover
+      effects. In secondary analyses, the investigators will evaluate the proportion of patients
+      with relief of spasm, improvement in quality of life, and incidence of side effects,
+      including eyelid ptosis measurements between the two interventions, using logistic
+      regression. P values of 0.05 or less will be considered statistically significant. All
+      analyses will be conducted under the principle of Intention to Treat, using multiple
+      imputation to account for any missing data and to include all randomized patients in
+      analysis.
+    
+  

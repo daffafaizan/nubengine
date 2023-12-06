@@ -1,0 +1,28 @@
+
+    
+      1. Establish a clinical data base for the lung cancer patients treated with radiotherapy in
+      Tongji Hospital.
+
+        1. Data including age, gender, smoking state, KPS, pulmonary function, disease history,
+           histology, stage, surgery, chemotherapy, dosimetric parameters of radiotherapy were
+           collected.
+
+        2. Peripheral blood was collected from all patients enrolled.
+
+        3. All patients enrolled in this study are examined during and one month after
+           radiotherapy. Then, the patients are followed every three months for the first year and
+           every six months thereafter. At each follow-up visits, all patients are asked to undergo
+           a chest X-ray or CT and clinical information, including symptoms, is collected. RP is
+           graded by two radiation oncologists according to the Common Terminology Criteria for
+           Adverse Events 4.0.
+
+      2. Select candidate genes and pathways which may be associated with radiation pneumonitis and
+      identify their tagSNPs by Haploview.
+
+      3. Use Kaplan-Meier and Cox model to analyze the association of all the factors collected
+      with radiation pneumonitis.
+
+      4. Establish a biological prediction models for radiation pneumonitis based on the statistics
+      analysis.
+    
+  

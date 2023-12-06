@@ -1,0 +1,55 @@
+
+    
+      Background COVID-19 can lead to a bilateral pneumonia overwhelming the lungs causing dyspnea
+      and respiratory distress. Up to 20% of the infected population is hospitalized and 5% is
+      submitted to the intensive care unit (ICU). Up to 31% of patients in ICU develop sepsis and
+      61% develop ARDS with a deadly outcome at ICU of 38%. While sepsis typically causes diffuse
+      vasodilation, the pulmonary vasculature resistance in ARDS is high. Although heart failure is
+      per definition not the cause of ARDS, the resulting elevated pressures in the pulmonary
+      circulation affect right and left heart function. Early detection in alterations of cardiac
+      and pulmonary hemodynamics might prompt to actions to prevent ARDS.
+
+      Primary objective To evaluate cardiac and pulmonary hemodynamic changes over time as
+      predictor of disease progression and outcome in COVID-19 patients admitted to ICU.
+
+      Secondary objective
+
+        -  Analysis of prognostic factors based on the data at initial presentation
+
+        -  Performing a trajectory analysis of the time course during ICU stay to determine what
+           leads to optimal outcome - gain insight in the pathophysiology of the cardio-pulmonary
+           evolution of COVID-19 pts
+
+        -  Feasibility study for the creation of an individualized expected data-trajectory for new
+           cases and continuously updating its visualization in relation to the expected trajectory
+           related to an improved outcome
+
+        -  Evaluate how Machine Learning, based on manifold learning for quantifying information
+           similarity and its temporal evolution, is able to predict outcome using rich data in a
+           limited number of patients Primary Endpoint
+
+      Occurrence of a major event predefined as either:
+
+        -  Death (all-cause mortality)
+
+        -  Discharge from ICU (limit of 4 months) Secondary Endpoint
+
+        -  Decrease of left ventricular (LV) function defined by LV global longitudinal strain
+           (GLS) > 5% (absolute value) and LV S' as compared to the initial evaluation
+
+        -  Evolution of LV diastolic function related to prognosis - Doppler Data and ML
+           interpretation
+
+        -  Decrease of right ventricular (RV) function by RV GLS > 5% (absolute values) or decrease
+           of RV S' to an absolute value <9.5 cm/s
+
+        -  Dynamic RV response to PEEP maneuver to differentiate intrinsic RV dysfunction from
+           excessive PEEP.
+
+        -  Changes in pulmonary arterial compliance from RVOT-VTI and PASP Methods Uni-center
+           cohort study (Prospective Observational) Duration of the study Duration of the inclusion
+           period: 2 months Duration of participation for each patient: average 4 weeks until death
+           or discharge from ICU Duration of data processing and reports: 4 months Total duration
+           of the study: 6 months
+    
+  

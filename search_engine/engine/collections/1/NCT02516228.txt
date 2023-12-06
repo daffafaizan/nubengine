@@ -1,0 +1,32 @@
+
+    
+      One third of patients with epilepsy continue to have seizures despite receiving antiepileptic
+      medication. The application of low frequency repetitive transcranial magnetic stimulation
+      (rTMS) has shown promise for decreasing the frequency of epileptic seizures in drug
+      refractory patients. The mechanism of action appears to be induction of long term depression
+      (LTD) in the targeted cortex by the low frequency (0.5 Hz or 1 every 2 sec) pulses.
+      Unfortunately, the electrical stimulation induced by available TMS coils is limited to the
+      most superficial (gyral) regions of cortex, whereas epileptic foci may occur in sulci, and in
+      deep as well as superficial cortex. The investigators have developed the ability to target
+      currents to specific regions of cortex by aligning source and sink electrodes with flexible
+      subsets of a 256 channel geodesic electrode array. A first step is accurate localization of
+      the likely epileptic focus with 256 channel EEG. Detailed computational models of the
+      electrical properties of head tissues allow optimization studies to select the best pattern
+      of source-sink electrodes for that individual's head tissues and epileptic focus. The goal of
+      the safety and feasibility trial is to test whether one week (5 days) of GTEN treatment can
+      achieve a similar depression of the target cortical region as low frequency rTMS, with the
+      decrease in excitability measured by suppression of epileptic spikes. This safety and
+      feasibility trial has received an Investigational Device Exemption from the FDA for treating
+      20 patients with focal neocortical epilepsy. Pulsed (emulating rTMS) current sequences will
+      be evaluated. The GTEN system implements a number of advanced technologies that provide
+      improved targeting compared to conventional rTMS or tDCS, including electronics for both
+      pulsed and sustained delivery of current with 256 electrodes; double fault safety circuits;
+      computational modeling of the electromagnetic properties of the patient's head tissue for
+      GTEN targeting with medical grade software; a lidocaine electrolyte that minimizes pain of
+      the pulsed or sustained current with up to 200 µA per electrode (2 mA total); and online
+      safety monitoring for adverse EEG changes with the 256 dEEG array. Based on FDA feedback to
+      date, success with these trials will allow us to progress to a pivotal clinical efficacy
+      trial (with separate funding) to support a de novo 510k approval for GTEN treatment for the
+      temporary suppression of seizures in patients with drug-resistant epilepsy.
+    
+  

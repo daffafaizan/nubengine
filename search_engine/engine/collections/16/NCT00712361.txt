@@ -1,0 +1,24 @@
+
+    
+      Description of the Method:
+
+        1. The method of measuring non-invasive peripheral physiological parameters such as Pulse,
+           Blood Pressure, Blood pH, SpO2, CO2, Hemoglobin, Blood Glucose, Hematocrit and
+           additional physiological parameters is based on the color distribution of a human
+           tissue. SoftTouch is a finger-mounted device incorporated a dedicated light source and a
+           color image sensor similar to a digital camera. The light transverses and is reflected
+           from the tissue under consideration. Analyzing the tissue color distribution of the
+           sampled real-time video in the frequency color space time domain may provide certain
+           information about the biomarkers and vital-signs under consideration. The current
+           study's goal is to find out if the results accuracy are satisfactory compared with
+           regulatory cleared devices by the FDA and other notified bodies.
+
+        2. The Patient signals shall be recorded as is for algorithm improvement, future research
+           of additional bio parameters and calibration.
+
+        3. the device is declared calibrated if executed successfully on the entire recorded data.
+
+        4. for non invasive blood glucose the device shall be provided to selected diabetic
+           patients for the own use at home.
+    
+  

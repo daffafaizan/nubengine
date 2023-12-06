@@ -1,0 +1,128 @@
+
+    
+      Introduction:
+
+      External ventricular drains (EVD) are essential tools in neuro-critical care to treat acute
+      hydrocephalus following traumatic or spontaneous cerebral hemorrhage. While essential, EVDs
+      are associated with feared infections (EVDIs) that may result in long term sequelae and
+      affect long term outcome. It is therefore important to promptly identify and treat EVDIs.
+      EVDI diagnostics are based on cerebrospinal fluid (CSF) analyses and CSF bacterial cultures.
+      Causal agents are commonly pathogens colonizing the skin, which makes suspected infection and
+      true infection difficult to distinguish based on the cultured bacteria alone. Additionally,
+      bacterial cultures may take days to finalize and seldom contribute to early decision making
+      or guiding of antibiotic treatment. Diagnostics are thus mainly based on CSF analyses of
+      cells, protein, lactate, and glucose. CSF cellularity, in particular, is frequently
+      confounded in this patient group as a result of intraventricular hemorrhage (IVH), which
+      introduces both erythrocytes and leukocytes into the CSF. To account for IVH, the ratio of
+      erythrocytes and leukocytes (LE ratio) is used and is a central metric in the diagnostics of
+      EVDIs. The LE ratio is based on the assumption that as bacteria is introduced into the CSF,
+      leukocytes will increase in relationship to erythrocytes as a part of the immune response.
+      The LE ratio further assumes that blood is homogeneously distributed in the CSF. However, it
+      is clear from computed tomography (CT) imaging that blood is congregated to the bottom of the
+      ventricles as a result of gravity sedimentation, indicating a heterogeneous sample space.
+      Additionally, leukocytes and erythrocytes exhibit different properties in terms of density
+      which causes a separation during gravity sedimentation. Leukocytes, and granulocytes in
+      particular, may also exhibit upwards floatation due to density changes as they become
+      activated as part of the inflammatory response. Thus, not only is an intraventricular
+      separation of blood and CSF probable, but also a separation of individual cell types. As CSF
+      is sampled from the EVD, a heterogeneous sample space may affect the constitution of sampled
+      CSF depending on the location of the EVD in the ventricles and the location and distribution
+      of intraventricular blood.
+
+      Hypothesis:
+
+      We hypothesized that blood is heterogeneously distributed in the CSF, and as a result, may
+      introduce CSF parameter variability as the intraventricular distribution of blood and CSF may
+      vary between samples. Furthermore, we believe that routine patient care, such as
+      repositioning of the patient may be enough to cause such a variability.
+
+      Study protocol:
+
+      Paired CSF samples are collected from patients included in the study, instead of the routine
+      single sample, bi-weekly or during workup for suspected infection. The resulting extra
+      collected CSF from paired samples will amount to approximately 1-2 mL per session. Patients
+      will be allocated to the collection of paired CSF samples around a routine patient
+      repositioning, or a 10 minute wait time between paired CSF samples as identified as the
+      average time between samples when a repositioning was performed during the burn a period.
+      Patients in a lateral side position 2-3 hours prior to CSF sampling will be sampled on either
+      side of a clinical repositioning. Open drains will be closed five minutes prior to the first
+      sample as per clinical routine. 1,5 mL of CSF is drawn and discarded prior to each individual
+      sample.
+
+      The following information should be documented for each sample session:
+
+      Patient ID:
+
+      Study sample nr for this patient:
+
+      Date:
+
+      Time in a lateral side position prior to sample 1:
+
+      Time of sample 1:
+
+      Time of repositioning (if repositioned):
+
+      Time of sample 2:
+
+      GCS:
+
+      GCS motor score:
+
+      Antibiotic treatment, yes/no:
+
+      If suspected/confirmed EVDI, date of diagnosis:
+
+      For sample 1 and sample 2:
+
+      CSF-Leukocytes:
+
+      CSF-Monocytes:
+
+      CSF-Granulocytes:
+
+      CSF-Erythrocytes:
+
+      CSF-Albumin:
+
+      CSF: Lactate:
+
+      CSF: Glucose:
+
+      Additional information is collected for each patient at study inclusion:
+
+      Name and social identification number:
+
+      Sex:
+
+      Main admission diagnosis:
+
+      Date of admission:
+
+      Date of study inclusion:
+
+      Based on the first CT scan after EVD insertion:
+
+      Intraventricular hemorrhage score 1-23:
+
+      Measured intraventricular blood volume:
+
+      Depth of intraventricular sediment in the dorsal horns of the lateral ventricles:
+
+      Two dimensional length from the tip of the EVD catheter to blood or sediment:
+
+      Patient inclusion:
+
+      Over18 years of age in treated in the NICU with inserted EVDs. Patient inclusion was based on
+      written informed consent from nearest of kin.
+
+      Statistical analyses:
+
+      One-way tests such as the Wilcoxon signed rank test and the Fligner-Killen test of variance
+      will be used to evaluate pair-wise differences and differences between sample groups. Mixed
+      effects regression analyses will be used to evaluate independent predictors of CSF parameter
+      change and to evaluate the correlation between change and demographic variables, such as CT
+      derived variables. Patient ID will be included as a random effect to eliminate
+      inter-individual differences.
+    
+  

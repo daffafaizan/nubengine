@@ -1,0 +1,48 @@
+
+    
+      Non-interventional monocentric study on the evaluation of the reliability and validity of a
+      diagnostic test based on a biological collection of M. tuberculosis MDR strains received at
+      the NRC-MyRMA. The study will apply to all strains and samples of multidrug-resistant M.
+      tuberculosis detected in France. These strains are all sent to NRC-MyRMA (National Reference
+      Center for Mycobacteria and resistance to anti-tuberculosis drugs) for Drug Susceptibility
+      testing (DST) to first and second line anti-tuberculosis drugs in accordance with the
+      national guidelines.
+
+      Currently, a genotypic and phenotypic diagnosis of antibiotic resistance is carried out upon
+      receipt of a strain of M. tuberculosis MDR at CNR-MyRMA, respectively by PCR-sequence
+      techniques and commercial kits and by phenotypic antibiogram by the method of reference
+      called proportions. In the case of a sample, only the genotypic diagnosis is immediately
+      feasible, the realization of the phenotypic diagnosis can only be carried out from a strain,
+      so the investigators must wait for a positive culture to be obtained.
+
+      In addition to this current strategy, two innovative strategies based on the sequencing of
+      the complete genome of the strains (WGS and Deeplex-MycTB) will be implemented. These
+      analyzes will not require an additional patient's samples.
+
+      The sensitivities and specificities and the area under the ROC curve of the different tests,
+      with respect to each resistance, will be calculated and their confidence interval will be
+      estimated by bootstrap. The comparison of the sensitivities, specificities and areas under
+      the curve between the different techniques will be carried out by a Gaussian test based on a
+      bootstrap. The agreement between the different tests will be measured by calculating a Cohen
+      kappa. A Kappa confidence interval will be estimated by bootstrap. The Kappa between each
+      genotypic method and the phenotypic method will be compared by a Gaussian test based on a
+      bootstrap.
+
+      The comparison of the results reporting times will be done by a comparison test of the
+      symmetry of the rows with respect to the median value (Mann Whithney Wilcoxon test.
+
+      In general, the quantitative variables will be described by the classic position measurements
+      (mean, median, 1st and 3rd quartile, minimum and maximum) and dispersion measures (standard
+      deviation). Qualitative variables will be described in terms of absolute value and
+      percentage.
+
+      Degree of statistical significance:
+
+      The significance level for the tests will be set for an alpha of 0.05.
+
+      Software:
+
+      All analyzes will be done at the URC on SAS software or R software in their latest version
+      available at the time they are performed.
+    
+  

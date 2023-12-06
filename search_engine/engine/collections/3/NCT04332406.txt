@@ -1,0 +1,8 @@
+
+    
+      Patients with normal VQ SPECT-CT will be analysed. After a image proccesing workflow
+      including rigid registration, non rigid registration and normalization, a voxelized mean and
+      standard deviation map will be created. Those maps will be analyzed in regards of physiology
+      and litterature.
+    
+  

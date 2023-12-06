@@ -1,0 +1,121 @@
+
+    
+      Asthma, a chronic respiratory disease, belongs to the most prevalent chronic conditions. In
+      Switzerland, 7-15% of all children and 6-7% of all adults suffer from it. Common symptoms are
+      breathlessness, coughing and wheezing. The symptoms often get worse at night and often cause
+      awakenings. Cough is a particularly important symptom in asthma because it predicts asthma
+      severity, indicates a worse prognosis and is perceived to be a troublesome symptom.
+      Additionally, asthma is the leading cause for chronic cough, responsible for 24-29% of cases.
+
+      However, little is known about the utility of cough tracking for self-monitoring purposes in
+      asthmatics. A first cross-sectional study has indicated that the cough rate during both day
+      and night might be a valid marker for asthma control, rendering it a potentially useful
+      parameter for self-monitoring. Unfortunately, due to considerable variance of cough rates
+      within each category of asthma control (i.e. uncontrolled, partially controlled and
+      controlled asthma), the statistically significant relationship between cough rate and asthma
+      control might not be clinically meaningful. Additionally, due to the cross-sectional design
+      of existing studies, it remains unclear whether the cough rate might have any prognostic
+      value for predicting future asthma control.
+
+      Therefore, the purpose of this study is to explore the value which cough rate might provide
+      for asthma self-management in more detail. In This study, the focus will be put specifically
+      on nocturnal cough rate due to the technical reasons. In general, the plan of this study is
+      as follows: With a longitudinal study design, it is possible to investigate to which extent
+      trends in the nocturnal cough rates might have meaningful implications for future asthma
+      control and asthma exacerbations of patients. However, in order to analyze the predictive
+      value of trends in nocturnal cough rate, the symptom has to persist over multiple nights.
+      There is no research available on the prevalence of nocturnal cough in asthmatics over
+      multiple nights. Therefore, the incidence of nocturnal cough in asthmatics will be described
+      and visualized over the course of one month in the first stage of our study. Additionally,
+      the aim will be to identify and model trends in nocturnal cough rates.
+
+      Measuring cough is very time-consuming. Currently, there are no cough frequency monitors
+      available, which measure cough rates in a fully automated and unobtrusive way. Consequently,
+      manual labeling of cough based on video or sound recordings is still considered to be the
+      gold standard for measuring cough rates by medical guidelines. Nevertheless, a machine
+      learning algorithm has been successfully designed to automatically detect cough in a proof of
+      concept study. Despite using only very limited data for algorithm development (80 coughs from
+      5 healthy subjects), the accuracy reached 83%. However, the data were gathered in a
+      laboratory setting, which limits the generalizability of the results and thus applicability
+      in practice. Therefore, the aim is to develop a machine learning algorithm which is also
+      capable to provide robust results in the field. This study will focus on cough during the
+      night time due to the limited interfering noise, which greatly facilitates manual labeling
+      and enables a more reliable detection rate of the machine learning algorithm. It is important
+      to point out that the analysis of nocturnal cough prevalence described above will not be
+      based on cough detected by an algorithm, but on the manually labeled coughs in the audio
+      track recorded during the night by a study smartphone, which will be provided to subjects for
+      the course of the study.
+
+      Apart from developing a machine learning algorithm for cough detection, data will be gathered
+      for an algorithm assessing patient's sleep quality. For this purpose, sleep quality will be
+      predicted based on data obtained from the smartphone's sensors.
+
+      After concluding the first study stage, the prevalence of nocturnal cough in the study will
+      determine whether further analyses of the recorded data will be needed and thereby initiate
+      the second stage of the study. If nocturnal cough does not occur more frequently than could
+      be explained by chance alone, no additional analysis will be conducted implying that the
+      conclusion of the first stage and the end of the project. However, given a sufficient
+      prevalence of nocturnal cough in the first stage (i.e. nocturnal cough prevalence differs
+      from zero with statistical significance); the second stage of the study will focus on the
+      value of nocturnal cough as a prognostic marker for asthma control. The considerable variance
+      within categories of asthma control shown in suggests that the relationship between nocturnal
+      cough rate and asthma control might be moderated by other variables. Prior research has
+      demonstrated that sleep quality is associated with asthma control and quality of life: Even
+      if accounted for concomitant diseases (e.g. gastroesophageal reflux disease and obstructive
+      sleep apnea), poorer sleep quality is associated with worse asthma control and quality of
+      life. One reason for the association between sleep quality and asthma control might be that
+      nocturnal asthma symptoms frequently cause awakenings. Considering the importance of sleep
+      quality for asthma control, the (predictive) value of the nocturnal cough rate and its
+      influence on sleep quality will be explored.
+
+      In summary, the following asthma-related research question will be explored within each stage
+      of this study: (1) what is the prevalence of nocturnal cough in asthmatics over the course of
+      one month? (2) Is nocturnal cough, accounted for sleep quality, a valid prognostic marker for
+      asthma control? Additionally, the study addresses two technical objectives: gather data to
+      develop two machine learning algorithms, which are able to detect nocturnal cough and sleep
+      quality fully automated by means of a smartphone in real-life conditions.
+
+      Answering these research questions results in multiple contributions: in terms of
+      asthma-related questions, the hope will be to provide context on the symptom of nocturnal
+      cough in order to increase interpretability of cough rates and to successfully replicate and
+      expand the findings of, which would support the validity of nocturnal cough as a (prognostic)
+      marker for asthma control. In terms of technical objectives, the hope will be to provide a
+      proof of concept that smartphones are suitable devices for sensing asthma symptoms in an
+      automated fashion under real-life conditions.
+
+      The expected results could enable a novel therapeutic option, namely fully automated
+      tele-monitoring of asthmatics. Using the smartphone of a patient, an unobtrusive early
+      warning system for asthma worsening/exacerbations could be envisioned. Such an system could
+      lower the burden of asthma for both the individual patient (e.g. higher quality of life and
+      asthma control by identifying windows of opportunity, in which patients can change their
+      medication according to their asthma action plan to prevent asthma worsening and
+      exacerbations) as well as the healthcare system (i.e. cost savings due to reduced
+      hospitalizations and emergency room visits). Considering the wide spread availability of
+      smartphones, such a novel therapeutic option might enable large scale and cost-efficient
+      asthma tele-monitoring. Prior research has indicated the need for such a novel therapeutic
+      option: the majority of asthmatics suffers from uncontrolled asthma. Half of asthmatics are
+      not able to assess their symptom severity properly and would thus benefit from an early
+      warning system. Additionally, automated systems seem to have a higher long term engagement
+      compared to traditional interventions, making them particularly suitable for early warning
+      systems in chronic diseases. Furthermore, tele-monitoring of symptoms could provide
+      physicians with valuable insights regarding a patient's asthma symptoms between visits. In
+      summary, an automated early warning system might help patients register asthma worsening
+      earlier and inform their physicians in time, so that adverse health consequences can be
+      prevented.
+
+      The planned study falls into the risk category of health related personal data collection
+      with only minimal risk and burdens. It is a prospective observational study, no intervention
+      will be administered. Only a slight and temporary impact on the participant's health can be
+      expected, if at all.
+
+      Throughout the study, a patient's asthma symptoms will be monitored unobtrusively using the
+      smartphone; thus, minimal risk and burdens are ensured. Between both doctoral visits at the
+      beginning and end of the study, all control questions and questionnaires will be administered
+      via smartphones that we will provide for this study. Thus, the burden should be minimal for
+      patients as their daily routine will not be disrupted.
+
+      No invasive procedure will be conducted in the two doctoral visits. The medical examination
+      follows the standard protocol for asthma. Additionally, patients will be reimbursed for any
+      inconveniences encountered during the study.
+    
+  

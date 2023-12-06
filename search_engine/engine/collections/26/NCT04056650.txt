@@ -1,0 +1,57 @@
+
+    
+      The growing burden of chronic disease in the U.S. and the economics of accountable care are
+      driving a shift toward proactive approaches to disease prevention and health maintenance. At
+      the same time, precision medicine studies continue to reveal substantial heterogeneity in the
+      manifestations of even the most common chronic diseases. The bulk of morbidity and mortality
+      in the U.S. arises from conditions with a significant lifestyle component (e.g. type II
+      diabetes), and responsibility for monitoring and maintaining health largely falls on
+      individuals.
+
+      Recent advances in molecular biology, sensors, and digital health technology underlie rapidly
+      growing market availability of products and devices for measuring and monitoring individual
+      health. A vast array of wearable devices, smart home monitors, and health tracking apps
+      provide an unprecedented view of individuals "in the wild" and provide customers with health
+      information once accessible only to researchers. The growing digital health market is
+      generating unprecedented volumes of information to support decision making around individual
+      health, and current trends suggest the demand for personalized health information, tools, and
+      services will continue to grow in the next decade.
+
+      What is missing from this technological and scientific growth is a reliable, individualized
+      way to translate data into action. If society wants to prevent diabetes, heart disease, and
+      other chronic illnesses that kill millions of Americans each year, individuals must be
+      empowered to address precursor conditions like obesity, hypertension, and depression.
+      Dialogue around consumer health often fails to address the profound disconnect between
+      measurements and outcomes/goals; e.g. monitoring one's weight is not the same as losing
+      weight, and counting steps is not the same as lowering blood pressure. Data are only useful
+      if they can help individuals identify interventions that work for them. The combination of
+      diet, exercise, drugs/supplements, activities, and lifestyle changes that targets an
+      individual's particular set of health problems is unique to him or her, and it is dependent
+      on a complex web of factors including genetics, environment, and personal lifestyle. If
+      individuals are to benefit from data, they must be able to relate changes in their personal
+      data to targeted adjustments in actions and outcomes. This effectively necessitates
+      conducting a robust trial at the level of the individual to determine the most promising
+      recipe of personal lifestyle adjustments to effect change.
+
+      To address these challenges, the researchers have developed a unified statistical framework
+      for producing consistent, interpretable study results from diverse n-of-1 study designs. The
+      analysis framework is the backbone of the initial software platform, which includes modules
+      for study design, e-consent, data ingestion, data analysis, and visualization of results.
+
+      To test this platform, the researchers plan to deploy a prototype study that allows
+      individuals to test the cognitive effects of two commonly consumed substances: caffeine and
+      caffeine in combination with a safe, prevalent compound, L-theanine. Each enrolled individual
+      will participate in his/her own n-of-1 trial. After a baseline period where neither treatment
+      is taken, participants will alternate between the two treatments ("caffeine alone" and
+      "caffeine + L-theanine") according to a predefined schedule. Participants will complete a
+      daily cognitive assessment composed of 3 validated cognitive tests administered via the N1
+      app. The platform will analyze the cognitive assessment data and determine whether there is a
+      statistically meaningful treatment effect for either treatment compared to baseline for any
+      of the 3 cognitive tests for each individual that completes the study.
+
+      It is important to state explicitly that the research objectives for this protocol are not
+      related to the efficacy of L-theanine and caffeine. This specific study is designed to allow
+      the researchers to efficiently recruit and enroll subjects so that the underlying statistical
+      methods and software platform for executing n-of-1 trials may be evaluated.
+    
+  

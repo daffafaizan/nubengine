@@ -1,0 +1,64 @@
+
+    
+      Methods Objectives To assess the diagnostic accuracy and yield of pre-TAVI CTA to detect
+      coronary lesions (≥50% DS and ≥70% DS) in the proximal coronary segments on a per-patient and
+      a per-segment level. The secondary objective was to perform a subgroup analysis of the
+      individual included studies and to assess the influence of atrial fibrillation and heart rate
+      on the diagnostic accuracy.
+
+      Literature search and study selection Studies were selected from our previous systematic
+      review and meta-analysis on the diagnostic accuracy of CTA for the detection of significant
+      CAD in TAVI work-up [4]. These studies were supplemented with studies that were retrieved by
+      an updated literature search in OVID MEDLINE (including Epub Ahead of Print, In-Process &
+      Other Non-Indexed Citations) and OVID EMBASE from January 1, 1946 to October 01, 2019.
+      Studies were excluded if they were not reporting original data of patients who received both
+      pre-procedural multi-detector computed tomography (MDCT) and CAG for the evaluation of CAD in
+      the work-up of TAVI. The authors of 8 studies were approached to jointly perform a
+      meta-analysis of individual patient data. The authors of 4 studies could accommodate the data
+      for a per segment analysis [5-8]. The methodological quality of the included studies was
+      assessed using the modified Quality Assessment of Studies of Diagnostic Accuracy Included in
+      Systematic Reviews-2 criteria (QUADAS-2) [9].
+
+      Data collection The data sets included patient characteristics regarding age, sex, body mass
+      index (BMI) and the heart rate during CT-scan. Information about co-morbidities included the
+      presence of diabetes mellitus, atrial fibrillation, hypercholesterolemia, peripheral atrial
+      disease, hypertension, a history of smoking, presence of CAD and a history of PCI or coronary
+      artery bypass grafting. Technical CT scanner information included scanner type, number of
+      detector rows, number of slices, detector width, CT scanner rotation time, scan protocol and
+      settings (tube voltage and tube current), contrast agent type and volume, dose length
+      product, and nitroglycerine use.
+
+      The coronary segments were categorized in three categories: lesions <50% DS, lesion ≥50-70%
+      DS or lesions ≥70% DS), according to the 18-segment coronary model of the Society of
+      Cardiovascular Computed Tomography or the American Heart Association modified 15-segment
+      model [10,11]. All studies used a cut-off of ≥50% diameter stenosis to determine the presence
+      of obstructive CAD. Three out of four studies also used a cut-off value of ≥70% DS [5,7,8],
+      which were used for an additional analysis of the diagnostic accuracy to detect ≥70% DS
+      proximal obstructive coronary lesions. If a segment had poor image quality or severe motion
+      artefacts, it was labelled as non-diagnostic.
+
+      Statistical analysis Data analysis was performed using the statistical software R version
+      3.5.1 (R Foundation for Statistical Computing, Vienna, Austria). Continuous variables were
+      presented as means with standard deviations (SD). The distribution of continuous variables
+      was tested with the Shapiro-Wilk test. Categorical variables were presented as frequencies
+      and percentages. The prevalence of proximal lesions of ≥50% DS and of ≥70% DS was computed
+      from the measurements with invasive CAG, because revascularization with PCI is only
+      considered in case of a proximal ≥70% DS lesion.(ref ESC guideline) Diagnostic accuracy of
+      pre-TAVI CTA, as compared to pre-TAVI CAG, was defined as the sensitivity, specificity,
+      positive - (PPV) and negative predictive value (NPV) and was derived from the number of true
+      positives (TP), true negatives (TN), false positives (TP) and false negatives (FN). The
+      analysis of the primary endpoint was performed on a per-patient and per-segment level.
+      Diagnostic accuracy was computed for CTA to detect obstructive proximal coronary lesions of
+      more than 50% DS and also of ≥70% DS lesions in a subgroup of patients were the data was
+      available. All non-diagnostic segments were considered as abnormal tests and were labelled as
+      if there was a lesion. For the per-patient analysis of diagnostic accuracy, patients were
+      regarded as having proximal obstructive lesions if there was a minimum of one non-diagnostic
+      segment. Diagnostic yield was defined as the number of patients that would not need an
+      invasive CAG if pre-TAVI CTA was used as a gatekeeper to rule out obstructive proximal
+      lesions and was derived from the sum of the negatives (TN + FN). For the subgroup analysis,
+      we analysed the diagnostic accuracy in the individual included studies and assessed the
+      diagnostic accuracy in the subgroups with atrial fibrillation and a heart rate <70 and ≥70
+      b/min. The diagnostic accuracy in the individual studies and the subgroups was assessed on a
+      per-patient level for lesions ≥50% DS.
+    
+  

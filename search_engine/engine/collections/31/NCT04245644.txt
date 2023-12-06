@@ -1,0 +1,37 @@
+
+    
+      Sample size and Population
+
+      This study is designed as a monocentric observational prospective study. In a recent study
+      [9] authors found that the use of low-dose aspirin before and after a diagnosis of pancreatic
+      cancer reduces of 32% the risk of recurrence (Hazard ratio HR=0.68, p<0.01). On the basis of
+      this study and considering that the effect of other drugs as chemopreventive agentsw will be
+      studies, the estimate required sample size to achieve 90% power to detect at least 28%
+      reduction in a hazard of the "drug users" group, by using a two-sided 0.05-level log-rank
+      test, is 400. Therefore, from February 2019 to February 2022, 400 patients with a diagnosis
+      of pancreatic ductal adenocarcinoma at any stage meeting the following inclusion criteria are
+      expected to be enrolled. Median follow-up is estimated to be 24 months after the first
+      disease diagnosis.
+
+      Data collection methods
+
+      Anamnestic, clinical and pathological data, included data on the aspirin, statins, metformin,
+      angiotensin converting enzyme (ACE)-inhibitors and beta-blocking agents assumption will be
+      collected during the first visit with the surgeon. A database managed by a dedicated data
+      manager will be created to collect and analyse data. The PI will be responsible of the data
+      security.
+
+      Statistical analysis
+
+      Association between variables will be assessed using the Chi Squared test (or Fisher's exact
+      text where appropriate) for categorical variables and the Spearman's correlation for scale
+      variables. DFS and OS will be estimated using Kaplan-Mayer method and Log Rank tests will be
+      used to evaluate the difference between survival curves. The impact of aspirin, statins,
+      metformin, angiotensin converting enzyme (ACE)-inhibitors and beta-blocking agents on the
+      risk of recurrence will be estimated using Cox regression models. Variables resulting
+      significant (p value <0.05) at univariate analysis or variables which are known
+      prognostic/risk factors will be included in the multivariable regression models. A p value of
+      <0.05 will be considered statistically significant. Statistical analysis will be conducted
+      using SPSS v23 (IBM, Armonk, New York, USA) and R v3.3.0 (https://cran.r-project.org).
+    
+  

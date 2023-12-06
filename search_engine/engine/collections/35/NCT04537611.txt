@@ -1,0 +1,53 @@
+
+    
+      Cerebral tissue perfusion can be examined by tracking a tracer through the cerebral
+      vasculature. Currently, This requires an infusion of the contrast agent. However,
+      advancements have been made in developing non-invasive imaging techniques to evaluate tissue
+      perfusion. Magnetic resonance imaging (MRI) is a highly attractive imaging approach as it
+      does not rely on ionizing radiation and has high spatial resolution. The common contrast
+      agent used to study cerebral tissue perfusion in MRI is gadolinium-based contrast agents.
+      However, these contrast agents tend to have several disadvantages including invasiveness,
+      renal toxicity, tissue accumulation, and allergic reactions. As they are injected
+      intravenously, they become highly dispersed in the arteries, requiring a complex computation
+      of the arterial input function. In addition, although they remain predominantly
+      intravascular, they tend to diffuse extravascular in neurovascular conditions which have a
+      breakdown of the blood brain barrier leading to measurement inaccuracies.
+
+      Recently we have determined a way to generate an abrupt change in deoxyhemoglobin
+      concentration [dHb] as the blood passes the lungs, resulting in a precise and rapid targeted
+      change of [dHb] in the arterial blood. We hypothesize that such changes in [dHb] may be used
+      as a suitable MRI contrast agent for the measurement of cerebral blood flow, cerebral blood
+      volume, and mean transit time (CBF, CBV and MTT respecrively) in comparison to that with
+      gadolinium. If suitable, dOHb would provide a non-invasive, inexpensive, and safe alternative
+      to perfusion imaging.
+
+      A total of 25 patients with neurovascular disease who are clinically referred to the TWH
+      Joint Department of Medical Imaging for gadolinium perfusion imaging will be recruited. Prior
+      to the imaging study each subject will be familiarized with the respiratory gas control
+      experimental setup. A plastic face mask and breathing circuit will be applied to the
+      subject's face and fitted to form an airtight seal with medical adhesive tape. Gas supply to
+      the mask and breathing circuit will be supplied by a programmable computer-controlled gas
+      delivery system (RespirAct™ RA-MR System, Thornhill Research Inc., Toronto, Canada). The
+      sequence of gas delivery and changes in PCO2 and PO2 will be applied to familiarize the
+      subject with the sensations related to changes in the gases. Subjects will then be placed
+      supine in the MRI scanner. In addition to their prescribed clinical scans, two additional
+      scans will be obtained. The additional MRI scans will include: 1) a structural (anatomical)
+      sequence (4.30 minutes), followed by 2) a BOLD-EPI sequence while inducing changes of PO2.
+      PO2 will be held at a baseline of 45-50 mmHg (hemoglobin O2 saturation, SaO2 ~75%) for 60s.
+      For 10 s, the lung PO2 will be transiently raised to peak PO2 of 90-120 mmHg (normoxia)
+      within 2 s transition, reaching a SaO2 of ~100%, and then returned to baseline.
+      Alternatively, the baseline may be at normoxia and the gas challenges will target PO2 of
+      45-50 mmHg. A total of 4 such ventilatory challenges will be applied over 6 min while
+      maintaining normocapnia.
+
+      During each PO2 stimulus, the BOLD signal will change in synchrony and inverse proportion to
+      [dOHb]. An arterial input function will be measured by separating arterial, tissue, and
+      venous voxels based on differences in [dOHb] bolus arrival times, amplitude of change, and
+      correlation to changes in [dOHb] measured from [Hb] and calculation of SaO2 from end-tidal
+      PO2. Arterial voxels, the first in the sequence of structures to receive the bolus, will be
+      averaged to yield an arterial input function that will be deconvolved with the tissue signal.
+      Whole brain maps of relative CBF, CBV, and MTT will be generated. Whole brain segmented gray
+      matter and white matter average values for these metrics will be calculated and compared
+      against the same metric values obtained using gadolinium perfusion imaging.
+    
+  

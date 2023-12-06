@@ -1,0 +1,93 @@
+
+    
+      Primary objective:
+
+      To assess the efficacy of community-based deployments of Wolbachia-infected Aedes aegypti
+      mosquitoes in reducing the incidence of symptomatic, virologically-confirmed dengue cases of
+      any severity in Yogyakarta residents aged 3-45 years in release areas, relative to
+      non-release areas.
+
+      Secondary objectives:
+
+        -  To measure the efficacy of the Wolbachia method against each of the four DENV serotypes.
+
+        -  To measure the efficacy of the Wolbachia method in reducing the incidence of symptomatic
+           virologically confirmed Zika virus and chikungunya virus infection in release areas,
+           relative to non-release areas
+
+        -  To quantify the level of human mobility within Yogyakarta City, and estimate the
+           proportion of residents' exposure time that they spend outside the treatment arm to
+           which they were randomised
+
+        -  To determine whether community-based deployment of Wolbachia-infected Ae. aegypti
+           mosquitoes reduces the abundance of wild-type Ae. aegypti adults, or alternatively,
+           alters the abundance of adults from Aedes species other than Ae. aegypti (e.g. Ae.
+           albopictus)
+
+      Study setting:
+
+      The study will be conducted in Yogyakarta City and Bantul District, both located in the
+      province of Yogyakarta Special Region, Indonesia.The study site is 26 km2 in size, including
+      24 km2 within Yogyakarta City, and 2km2 in the adjacent Bantul District. The total population
+      of the study area is approximately 350,000.
+
+      Study design:
+
+      A cluster randomised trial with a test-negative design will be conducted. The study site will
+      be divided into 24 clusters. The intervention will be allocated using constrained block
+      randomisation with a parallel 1:1 assignment of intervention and control.
+
+      The intervention is the deployment of Wolbachia-infected Aedes aegypti mosquitoes. Wolbachia
+      deployments will be conducted in intervention clusters with the aim of achieving Wolbachia
+      establishment (>80% mean Wolbachia prevalence in trapped mosquitoes) throughout intervention
+      areas within one year.
+
+      The impact of Wolbachia deployments on dengue incidence will be assessed by comparing the
+      exposure distribution (probability of living in a Wolbachia-treated area) among
+      virologically-confirmed dengue cases presenting to a network of public primary clinics
+      (Puskesmas), against the exposure distribution among patients with febrile illness of
+      non-arboviral aetiology presenting to the same network of clinics in the same temporal
+      windows. Dengue cases and arbovirus-negative controls will be sampled concurrently from
+      within the population of patients presenting with febrile illness to the study clinic
+      network, with case or control status classified retrospectively based on the results of
+      laboratory diagnostic testing.
+
+      A re-estimation of sample size requirements was conducted in January 2019 after one year of
+      recruitment. The initial power calculation used 1000 dengue cases and 4000 non-dengue
+      controls allocated to each cluster based on historical proportions of dengue cases and other
+      febrile illnesses, assuming no variation in the proportion of cases by cluster. This method
+      was found to overestimate power for small samples by not taking into account randomness in
+      the sampling. The sample size re-estimation included power estimates for 200, 400, 600, 800
+      and 1000 dengue cases with 4 times as many controls allocated to each cluster by sampling
+      from a multinomial distribution, which incorporated added randomness by allowing the
+      proportion of cases allocated to each cluster to vary across simulations. The re-estimation
+      found that 400 dengue cases plus four times as many controls would be sufficient to detect a
+      50% reduction in dengue incidence with 80% power.
+
+      Participant selection:
+
+      Participants will be enrolled from within the population of patients presenting with
+      undifferentiated fever of 1-4 days duration, to one of the participating local health clinics
+      (Puskesmas).
+
+      All patients meeting the inclusion criteria will be invited to participate in the study. From
+      baseline historical data we expect approximately 5000 participants per annum to be enrolled.
+
+      Enrolment will continue for up to 36 months.
+
+      Analysis plan:
+
+      Permutation tests and standard regression models will be used to estimate the relative risk
+      of dengue in Wolbachia-treated versus untreated clusters, accounting for the non-independence
+      of study participants resident in the same intervention cluster, and temporal matching of
+      dengue cases and test-negative controls.
+
+      The intention-to-treat analysis will consider Wolbachia exposure as binary depending on the
+      allocation of the cluster of residence.
+
+      The per-protocol analysis will consider Wolbachia exposure as a continuous weighted index
+      based on Wolbachia prevalence in trapped mosquitoes in the cluster of residence, either with
+      or without weighting for time spent in other clusters visited during the ten days prior to
+      illness onset.
+    
+  

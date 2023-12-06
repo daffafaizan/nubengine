@@ -1,0 +1,34 @@
+
+    
+      The dynamic interaction between surgery and anesthesia is closely monitored by the
+      anesthesiologist using various monitoring instruments in the operating room. However, it
+      requires the recording and collecting the data for further analysis to answer the question
+      that what is the exact effects of the surgical procedure to human body. In particular, the
+      measurement performance of transient bradycardia calculated from electrocardiography and the
+      monitoring indices such as Surgical Plethysmography Index, Analgesia Nociception Index should
+      be compared side-by-side using data from the same subject.
+
+      In this prospective observational study, the investigators will enroll 40 patients undergoing
+      elective laparoscopic surgery. Anesthetic management and surgery will be performed as usual
+      clinical practice.
+
+      The investigators will record the digital data exported from monitoring instruments,
+      including cardiovascular system information (electrocardiography, photo-plethysmography ,
+      blood pressure and any additional monitoring items clinically required), neurological system
+      information (Bispectral index, Entropy, Surgical Plethysmography Index ) and the respiratory
+      gas monitoring (gas analyzer, respiratory waveform). All above data are provided by standard
+      patient monitor (CARESCAPE Monitor B850, GE Healthcare). Analgesia Nociception Index are
+      provides by Analgesia Nociception Index monitoring instruments (Mdoloris Medical Systems).
+
+      The detailed surgical steps will be noted with precise time stamps to pinpoint the surgical
+      effects afterwards. Registered events including anesthetic induction, intubation,
+      disinfection, skin incision, dissecting muscle layer, fixing rupture site, suture to close
+      tear site and wound closure. The recording is ended before the end of monitoring in the
+      operating room. All physiological data and demographic data will be stored in digital media
+      after being de-linked from personal identification.
+
+      Data analysis and Statistics will be particularly performed to explore the temporal effect
+      and relationship. Methods including modeling, windowing and non-parametric spectral
+      estimation will be used.
+    
+  

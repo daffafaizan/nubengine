@@ -1,0 +1,13 @@
+
+    
+      The objective of this study is to develop a method for identifying sepsis patients from
+      electronic health records (EHR) based on Sepsis-2 criteria. Sepsis patients will be
+      identified using a Sepsis Definition which includes meeting SIRS score of ≥2 within 12 hours
+      of ED presentation and any microbial testing ordered within 24 hours of ED presentation. The
+      patient will be enrolled if it meets the Sepsis Definition and additional EMR data elements
+      will be extracted to complete case report form. Furthermore, objectives include to confirm
+      the clinical validity and performance of MDW in a control population of sepsis patients where
+      MDW is measured but not reported to physicians. This study is an observational study which
+      will simulate the decision impact of MDW on sepsis identification and patient management.
+    
+  

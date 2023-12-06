@@ -1,0 +1,23 @@
+
+    
+      The primary outcome is the mortality rate 30 days after the ICU-based mechanical ventilation
+      initiation.Based on current data available, the mortality rate for ventilated patients is
+      assumed to be 80% in the current design. An interim futility analysis will be conducted after
+      16 evaluable patients have received the ultralow dose-whole lung radiation therapy
+      (ULD-WLRT). If at least 3 patients survive for at least 30 days, we will enroll additional 8
+      patients (total of 24 patients). Otherwise, the trial will stop for further evaluation. Due
+      to the limited data currently available in local institutions about a 30 day mortality rate ,
+      we will retrospectively evaluate the mortality rate of the ventilated patients without the
+      ULD-WLRT in our institution when data is available.
+
+      Time to event secondary objectives (e.g. overall survival, time to discharge) analyses will
+      be performed using Kaplan-Meier survival analysis, with a competing risk model (leaving the
+      study because of death), including effects for demographic/clinical characteristics in the
+      model. Proportional endpoints (such as % patients off ventilator) will be calculated along
+      with the 95% Clopper-Pearson exact confidence interval. Pre/post measurements will be
+      evaluated using linear mixed models for repeated measures (with proper data transformation as
+      needed). Association between demographic/clinical characteristics and other secondary
+      objectives (size of ground glass opacities (GGO)/opacification, for example) will be
+      accomplished with generalized linear models.
+    
+  

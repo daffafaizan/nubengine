@@ -1,0 +1,27 @@
+
+    
+      Intra-procedural DSA series are transferred to a research workstation to generate the
+      color-coded images and make quantitative measurements. Region of interest (ROI) measurements
+      are performed equivalently in the endoleak and the aorta after the image generation. There
+      are three kinds of ROIs including a small circle area with the shortest time to peak, a
+      circle area with peak contrast intensity and the whole endoleak area. The ROI and a reference
+      at the same latitude within the aorta are selected to undergo measurement which reflected the
+      endoleak hemodynamics of the endoleak to the utmost extent.
+
+      The following parameters will be acquired through the CQDSA for analysis.
+
+        1. Time-versus-ROI contrast intensity graph. The graph contains one endoleak ROI flow curve
+           and one reference aortic flow curve (Ref). The x-axis shows time from 0 second to the
+           maximum frame time of the image. The y-axis shows the sum of pixel intensities, namely
+           total contrast, representing the contrast concentration within the ROI.
+
+        2. ROI Peak/Ref Peak. It is the ratio of intensity peak between the endoleak and the
+           reference in the aorta.
+
+        3. ROI TTP (Time to peak). Peak time of ROI in the vicinity of endoleak entry.
+
+        4. ROI AUC/Ref AUC. Area under curve (AUC) is calculated through Time-versus-ROI contrast
+           intensity graph. The parameter here is the ratio of ROI AUC in endoleak to the
+           reference.
+    
+  

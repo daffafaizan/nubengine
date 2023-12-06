@@ -1,0 +1,95 @@
+
+    
+      In the first study, we propose 20 subjects who have sustained their first ever haemorrhagic
+      or ischaemic subcortical stroke with lower limb impairment more than 9 months prior to study
+      enrollment. Subjects will be recruited from the existing patients on the study physician's
+      cohort of patients and from referrals from attending physicians. During the initial screening
+      visit, it will be ascertained that subject fulfills criteria for participation and informed
+      consent will be obtained by study staff. Subjects will be fully briefed in detail regarding
+      the experimental procedure, risk and benefits involved and their responsibilities during the
+      study.
+
+      Once consent is provided, subjects will undergo a MI-BCI usability session, they will be
+      seated comfortably in front of a computer screen. An EEG cap will be comfortably worn over
+      the head of the subject to record EEG traces of any activated cortical areas. Subjects will
+      then be instructed to perform a mental imagery task whereby they will imagine themselves
+      walking properly with their affected leg. The accuracies in classifying correct motor imagery
+      from the idle condition from EEG will be recorded for each subject. Subjects who obtain an
+      accuracy of more than 57.5% are considered eligible for the MI-BCI training program. Subjects
+      eligible for the MI-BCI training will then undergo a series of functional assessments,
+      including (1) functional clinical measures (10 meter walk test and Up-to-Go test), (2) gait
+      analysis , (3) cortical activity assessment using TMS, and (4) MRI and DTI scan. (5)
+      Psychological tests including Beck Depression Inventory, fatigue severity scale, digital span
+      test. Before the start of MI-BCI training, subjects will undergo one more MI-BCI session of
+      calibration, which will be performed totally the same with BCI usability session to gather
+      more valuable data for analyzing. After finishing all 5 assessments and MI-BCI calibration
+      session, the MI-BCI training can be started at the frequency of 3 times a week lasting for 4
+      weeks. The procedure of MI-BCI training is identical to the one in BCI usability session
+      except that a cartoon character in the computer screen will be activated to walk forward if
+      subjects successfully perform an accurate mental imagery. Subjects undergoing MI-BCI training
+      will be required to perform 160 trials of MI altogether with assigned rest periods (5 mins)
+      every 40 trials. Each session will last approximate 45 minutes excluding set-up time. The
+      number of times subjects can successfully perform the MI task and the ease in which they are
+      able to perform the task will be recorded. Distinct brain signals such as event-related
+      desynchronization or synchronization (ERD/ERS) are detectable on EEG for both real and
+      imagined motor movements in healthy subjects. Using this technique, MI-BCI, which translates
+      the imagination of movements into online commands, provides a promising neural communication
+      system for stroke patients who suffer from motor disabilities. We have previously
+      collaborated with I2R-A*STAR BCI to design a custom-built BCI software to sync with an EEG
+      amplifier. We have demonstrated the efficacy of this custom-built MI-BCI device on upper limb
+      stroke impairments, therefore, the procedure and equipment used will be kept identical except
+      for the software interface, which shows a cartoon character on the screen. Subjects will
+      undergo the same five assessments again at the end of the 4-week's MI-BCI training and 4-6
+      weeks after the last session of MI-BCI training, respectively, including (1) functional
+      clinical outcome measures (10 meter walk test and Up-to-Go test), (2) gait analysis, (3)
+      cortical activity assessment using TMS, and (4) MRI and DTI. (5) Psychological tests
+      including Beck Depression Inventory, fatigue severity scale, digital span test.
+
+      The timed up-and-go test is a measurement of mobility. It includes a number of tasks such as
+      standing from a seating position, walking, turning, stopping, and sitting down. For the test,
+      the person is asked to stand up from a standard chair and walk a distance of approximately 3
+      meters, turn around and walk back to the chair and sit down again. The 10 meter walk test is
+      a test of walking speed. Timed up-to-go test and 10 meter walk test will be assessed by
+      certified physical therapist or trained research staff, and will take approximate 30 minutes
+      including set-up time.
+
+      Gait analysis is the systematic study of locomotion. It will be performed in NUH, by a
+      certified medical technician or a trained research staff. Subjects will be required to wear
+      shorts and the whole trial process might be video-recorded for future analyzing the quality
+      of subjects' movement (face will not be captured and consent will be obtained in advance).
+      Markers might be worn at various points of reference of the body such as iliac spines of the
+      pelvis, ankle malleolus, and the condyles of the knee. Electromyography (EMG) sensors might
+      be worn at the area of quadriceps femoris,hamstring, gastrocnemius and tibialis anterior
+      muscles for both legs. Gait parameters of temporal and spatial measures and joint kinematics
+      will be recorded while the subject is walking along the walkway with a force platform,
+      according to the instruction of the medical technician or the trained research staff. Each
+      session will last approximate 1 hour including set-up time.
+
+      TMS will be performed to investigate the mechanisms of this training on cortical plasticity
+      as indexed by cortical excitability changes. For the MEP study, we will initially adjust TMS
+      intensity to achieve a baseline MEP in the tibialis anterior muscle of the leg to about 1 mV
+      peak-to-peak amplitude before intervention. Stimulation intensity will be kept constant for
+      each subject throughout the study. The MEPs will be recorded in a computer for off-line
+      analysis. We will record 10 MEPs for each time and average their peak-to-peak amplitude. For
+      the paired pulse stimulation, a first subthreshold conditioning stimulus will be applied,
+      followed at a variable interstimulus interval (ISI), by a second suprathreshold stimulus. We
+      will use the following ISIs - 2, 3, 4, 6, 9, 10, 12, 15 ms. The percentage of change for each
+      ISI before and after treatment will be calculated from the MEPs and will therefore important
+      to measure changes in intracortical facilitation and inhibition. Each session will last
+      approximate 1 hour including set-up time.
+
+      MRI/DTI scan will be performed at CIRC, NUS. Prior to the scan, all patients will be briefed
+      of the test procedure and safety aspects. A medically-trained physician will be on standby
+      throughout the procedure. All participants will be scanned on a 3-T GE scanner using a
+      standard radiofrequency head coil. Head motion was minimized by foam padding and
+      forehead-restraining straps. A T1-weighted high-resolution scan and a set of axial fluid
+      attenuated inversion recovery images will be acquired. T1-weighted and fluid attenuated
+      inversion recovery images will be realigned and spatially normalized into images of isotropic
+      voxel size implemented in Matlab. Each session will last approximate 1 hour including set-up
+      time.
+
+      A research staff will administer Beck Depression Inventory (BDI), Fatigue Severity Scale
+      (FSS), forward and backward digit span for controlling for confounding effect of cognitive
+      improvement in this study.
+    
+  

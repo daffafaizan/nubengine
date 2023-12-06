@@ -1,0 +1,96 @@
+
+    
+      Participants After sample size calculation (see statistical analysis session), 40
+      hypertensives and 40 normotensive sedentaries will be recruited to this study. All volunteers
+      (both sexes) will be adults without osteoarticular disabilities and they will need a medical
+      authorization to physical exercise practice. Participants will be recruited from an exercise
+      program project linked to the university that offered stretching and functional exercises
+      sessions to the external community. The study follow the Declaration of Helsinki and the
+      Institutional Ethics Committee approved all experimental procedures and protocols. Each
+      participant will be fully informed of all potential risks and experimental procedures, after
+      which, informed written consent will be signed. Table 1 shows the basics characteristics of
+      the participants.
+
+      Study design A double-blind crossover randomized clinical trial will be conducted. After the
+      minimum interval (48 hours), the subjects will be randomly (using a random number table -
+      https://www.random.org/) submitted to four experimental situations (exercise/L-citrulline,
+      exercise/L-arginine, exercise/placebo, exercise/L-citrulline + L-arginine). The participants
+      will ingested a sachet, which contained L-citrulline malate (6 grams) or L-arginine (8 grams)
+      or placebo (6 grams of corn starch) dissolved in water.
+
+      The substances will be ingested 120 minutes before the experimental or control session.
+      Anthropometric measures will be taken before the rest period. The exercise session consisted
+      of 5 min to warm up (50% of 65% HRreserve) and 40 minutes of run/walk at 60-70% HRreserve (or
+      12-14 ratings of perceived exertion [RPE](1) if take some beta-blocker medicines) in a
+      treadmill. This will be followed by a progressive cooldown (5 minutes). In the control
+      session, the participants will be remained seated in a quiet room for 40 min.
+
+      After the exercise/control sessions, the blood pressure will be measured every 10 minutes
+      over the course of 60 minutes and the heart rate variability will be recorded continuously
+      for 60 minutes (laboratorial phase). Then, 15 minutes will be given to the participants to
+      take a shower and change the clothes before the ambulatory blood pressure device be attached
+      on their arm. The ambulatory blood pressure will be recorded over 24 hours. In the next day,
+      the participants will be asked to return to the laboratory to remove the device.
+
+      Anthropometry The weight will be measured by the digital anthropometric scale (Urano, OS
+      180A, Canoas, Brasil), with accuracy of 0.1kg and height will be measured by stadiometer with
+      accuracy of 0.1cm, in accordance with the procedures described by Gordon et al (2). The body
+      mass index (BMI) will be defined as the body mass (kg) divided by the square of the body
+      height.
+
+      Office Blood Pressure (laboratorial phase) The office blood pressure measurements will be
+      taken with oscillometric device (Omron MX3 Plus, Bannockburn, EUA) previously validated for
+      clinic measures in adults (3). Firstly, the participants remained seated (rest period) in
+      calm, quiet and thermoneutral (22°-24°C) environment for 20 min. The blood pressure will be
+      measured three times during the rest period (at 10 min, 15 min and 20 min). The rest blood
+      pressure value will be considered as the average of these three measurements. Immediately
+      following the sessions (exercise or control), the blood pressure will be measured in a quiet
+      environment during 60 minutes. The blood pressure measurements will be taken according to the
+      American Heart Association recommendations (4).
+
+      Heart rate variability measures The heart rate variability will be monitored during the rest
+      period using a cardiac monitor (Polar RS800CX, Kempele, Finlândia) previously validated (5).
+      The recorded R-R intervals will be transferred to a computer using a specific software (Polar
+      Pro-Trainer software, Kempele, Finlândia). The Fast Fourier Transformation will be applied to
+      quantify the low and high frequencies in to normalized units, in accordance with Task Force
+      of the European Society of Cardiology and the North American Society of Pacing and
+      Electrophysiology (6). The participants will be taking beta-blockers will be excluded of this
+      analysis.
+
+      The time domain analisys will be obtained by SDNN (standard deviation of the NN interval),
+      RMSSD (the square root of the mean of the sum of the squares of differences between adjacent
+      NN intervals), pNN50 (NN50 count divided by the total number of all NN intervals), indexes.
+      The range interval analysis will be 5 min (rest, previous exercise) and 30 min (post-exercise
+      - laboratorial phase) using the Kubios HRV, version 2.2 (Kuopio, Finlândia).
+
+      Ambulatorial blood pressure measures (ambulatorial phase) The ambulatorial blood pressure
+      measurements will be taken with oscillometric device (Dyna-MAPA - São Paulo, Brazil) attached
+      on the left arm, always by the same investigator, in accordance with procedures described by
+      American Heart Association (4). The participants will be instructioned to keep the arm stand
+      during the measures. The device will be calibrated by direct comparison with mercury
+      sphygmomanometer, by trained technical person, in agreement with recommendations (4).
+
+      The monitor will be setting to register the systolic and diastolic blood pressure and heart
+      rate every 20 minutes during "daytime" (08:00am to 11:00pm) and every 30 minutes during
+      "night-time" (11:00pm to 08:00am) to reduce sleep disturbs. The device screen will be
+      electronically blinded to avoid feedback. All participants will be instructed to register and
+      reported their sleep time in a diary on the day after.
+
+      The data will be recorded in the device memory, then they will be send to a computer using
+      specific software (Aplicação Dyna Mapa - Version 5.0.382.12) for analysis. The average of the
+      valid readings will be above 90% for all participants.
+
+      Statistical analysis Assuming a standard deviation of 5 mmHg(7) for the systolic blood
+      pressure, an alpha of 5% and a desired statistical power of 80% for detecting a minimum
+      difference of 7 mmHg (7) required 10 subjects in each group.
+
+      The datas will be presented in the text as mean and standard error. The sphericity Mauchly´s
+      test will be applied. Greenhouse-Geisser correction will be used if necessary. Then, these
+      datas will be compared with a one-factor repeated measures general linear model (GLM). Fisher
+      multiple comparisons will be employed to examine differences between pairs of trials.
+
+      The ambulatory blood pressure will be analysed as awake, sleep and 24 hours of monitoring.
+      Statistical significance will be defined as P<0.05. The statistical analysis will be
+      generated using SPSS, version 20, system for windows.
+    
+  

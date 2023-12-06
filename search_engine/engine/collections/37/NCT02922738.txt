@@ -1,0 +1,66 @@
+
+    
+      The research design is a cluster randomized controlled trial of a computerized dermatology
+      information source. This is a two-level design in which primary care providers (PCPs) who see
+      patients for skin problems are the subjects of randomization. Their patients are the subjects
+      of the data collection and analysis. The cluster design examines how much variation in the
+      outcomes is attributable to the providers, how much to patients within the clusters, and how
+      much to the intervention information source itself.
+
+      Provider Level:
+
+      After completing a baseline questionnaire, providers are randomized to intervention or
+      control groups. Intervention group providers have an orientation to the study protocol that
+      includes how to access and use VisualDx. Control providers receive the protocol overview, but
+      no orientation to the intervention.
+
+      Intervention providers agree to refer to VisualDx content when they have a patient with a
+      skin complaint. Control group providers agree not use VisualDx as a reference but may use
+      another medical information source or none.
+
+      Patient Level:
+
+      To identify eligible patients, authorized investigators reviewed information from the patient
+      record sufficient to send a letter to them over the provider's signature to notify them about
+      the study. The letter gives the option to refuse any contact.
+
+      At 30 days after the primary care visit, a study team investigator phones each eligible
+      patients, explains the study, and obtains verbal consent. The investigators are blinded to
+      the randomized group status of the patients.
+
+      The investigator proceeds with the interview questionnaire on consent. Age, sex is collected.
+      Patients are asked whether the skin problem is resolved ("Is it all better?"). For every
+      resolved problem, we ask when (date or days since visit) it was resolved. We also ask how
+      many return visits the patient has had with any provider for that problem.
+
+      If not resolved, the patient is called again at 60 days and asked the same questions. If not
+      resolved then, we call the patient again at 90 days. The last call to any patient is at 90
+      days from the index visit for the problem.
+
+      Data Analysis and Statistical Measures
+
+      The primary predictor variable for both aims is the use of the VisualDx information source by
+      the primary care provider.
+
+      For the "days to resolution" outcome variable, the time unit (days) and the status of the
+      problem after 90 days (resolved or not resolved) will be evaluated for each group with
+      Kaplan-Meier survival analysis and the non-parametric log rank test of significance.
+
+      For the "number of follow-up visits" outcome variable, the binary predictor (intervention
+      group) and discrete outcome variable (number of visits) will be evaluated with Wilcoxon-rank
+      sum test for non-normal data. The first visit of a patient to a participating provider for a
+      skin problem is considered the index visit and that provider considered the index provider
+      regardless of the provider seen on any subsequent appointment. Analysis will adhere to the
+      intention-to-treat principle with group assignment determined by randomization regardless of
+      whether VisualDx was deployed for care or not. Problems unresolved at the last contact will
+      be censored as unresolved for the Kaplan-Meier analysis.
+
+      For aim 1, the estimated sample size to detect an average difference of 8 days in time to
+      resolution with a standard deviation of 20 and an intra-cluster correlation (ICC) of 0.025.
+      With alpha .05 and beta .80, the study would need a minimum 26 providers enrolled with an
+      average 10 patient participants in each provider's cluster for a total of 286 participants
+      completing the study. We planned to enroll at least 30 providers and up to 500 patients to
+      insure against loss to follow-up of, increased standard deviation, or larger than anticipated
+      Intra-Cluster Correlation.
+    
+  

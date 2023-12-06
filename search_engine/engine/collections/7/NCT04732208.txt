@@ -1,0 +1,41 @@
+
+    
+      Study will enroll diabetic patients (new and established) meeting the inclusion criteria and
+      who would provide an informed consent to participate in the study. This would include
+      subjects who visit the endocrinology clinic and had either their retina evaluated by a
+      teleophthalmology consult or visited the ophthalmology clinic for an indirect ophthalmoscopic
+      fundus evaluation in the past 3 months. Subjects whose fundus has been recently evaluated in
+      the past 3 months will also be re-called to the endocrinology clinic to get a fundus image
+      captured on the Remidio NM FOP-10 device. Images will be captured by an operator who will be
+      provided training in using the device prior to the study.
+
+      Non-mydriatic fundus images are captured using a pre-defined imaging protocol. One disc
+      centered and one macula centred 45 deg image is taken for each eye. The images are then
+      submitted to an AI system for analysis that runs locally on the Remidio FOP. An initial image
+      quality assessment is performed by the AI. If the image is of sufficient quality then the AI
+      will give an output of either 'signs of DR detected' (that would include moderate NPDR,
+      severe NPDR, PDR and/or DME present) or no signs of diabetic retinopathy detected (that would
+      include no DR, mild DR, absence of DME). If the image is of insufficient quality, then the
+      operator makes 2 more attempts using the same imaging protocol. The images that are output as
+      insufficient quality will be noted. All subjects who have provided consent for dilation are
+      then instilled with a single drop of 1% tropicamide solution. After 20 mins, mydriatic 2
+      field (one disc centered and one macula centered) fundus images are captured and submitted to
+      the AI for analysis along the same lines of non-mydriatic imaging. If the image is of
+      insufficient quality then the operator makes 2 more attempts using the same imaging protocol.
+      The images that are output as insufficient quality will be noted.
+
+      De-identified patient data including age, gender, ethnicity and lens status (Cataract grade,
+      pseudophakia, aphakia) along with the final diagnosis made by a certified
+      grader/ophthalmologist during clinical examination/teleophthalmology are retrieved from the
+      NHS database. This DR diagnosis will act as a reference standard against which the AI output
+      will be compared.
+
+      Data entry of subjects will be performed by approved trained Site Personnel. The
+      de-identified data is stored onto an electronic data capture system (EDC). Approved Site
+      Personnel will have a user specific log-in name and password to access the electronic data
+      capture (EDC) system in order to enter study data. The principal investigator will ensure
+      that all aspects of the study are complied with. The study will be conducted in accordance
+      with applicable regulatory requirements and established rules for Good Clinical Practice
+      (GCP).
+    
+  

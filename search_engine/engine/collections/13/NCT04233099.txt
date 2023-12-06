@@ -1,0 +1,44 @@
+
+    
+      SAMPLE COLLECTION: Saliva collection from all the selected subjects will be performed
+      following the Salivette (SARSTEDT) manufacturer's instructions. To limit variability in
+      salivary content not related to ALS, saliva will be obtained from all subjects at a fixed
+      time, after an appropriate lag time from feeding and teeth brushing. Pre-analytical
+      parameters (i.e. storage temperature and time between collection and processing), dietary and
+      smoking habit will be properly recorded. Briefly, the swab will be removed, placed in the
+      mouth and chewed for 60 seconds to stimulate salivation. Then the swab will be centrifuged
+      for 2 minutes at 1,000 g to remove cells fragments and food debris. Collected samples will be
+      stored at -80° C.
+
+      SAMPLE PROCESSING: Before the Raman acquisition, saliva samples will be filtered with
+      different cut-off ranges (3, 10 and 30 kDa), collecting and analysing by RS the eluted sample
+      and discarding the concentrated counterpart. For the Raman analysis, a drop of each sample
+      will be casted on an aluminium foil in order to achieve the Surface Enhanced Raman Scattering
+      (SERS).
+
+      DATA COLLECTION: Raman and SERS spectra will be acquired using an Aramis Raman microscope
+      (Horiba Jobin-Yvon, France) equipped with a laser light source operating at 785 nm with laser
+      power ranging from 25-100% (Max power 512 mW). Acquisition time between 10-30 seconds will be
+      used. The instrument will be calibrated before each analysis using the reference band of
+      silicon at 520.7 cm-1. Raman spectra will be collected from 15 points following a line-map
+      from the edge to the centre of the drop. Spectra will be acquired in the region between 400
+      and 1800 cm-1 using a 50x objective (Olympus, Japan). Spectra resolution is about 1.2 cm-1.
+      The software package LabSpec 6 (Horiba Jobin-Yvon, France) will be used for map design and
+      the acquisition of spectra.
+
+      DATA PROCESSING: All the acquired spectra will be fit with a fifth-degree polynomial baseline
+      and normalized by unit vector using the dedicated software LabSpec 6. The contribution of the
+      substrate will be removed from each spectra. The statistical analysis to validate the method,
+      will be performed using a multivariate analysis approach. Principal Component analysis (PCA)
+      will be performed in order to reduce data dimensions and to evidence major trends. The first
+      20 resultant Principal Components (PCs) will be used in a classification model, Linear
+      Discriminant Analysis (LDA), to discriminate the data maximizing the variance between the
+      selected groups. The smallest number of PCs will be selected to prevent data overfitting.
+      Leave-one-out cross-validation and confusion matrix test will be used to evaluate the method
+      sensitivity, precision and accuracy of the LDA model. Mann-Whitney will be performed on PCs
+      scores to verify the differences statistically relevant between the analysed groups.
+      Correlation and partial correlation analysis will be performed using the Spearman's test,
+      assuming as valid correlation only the coefficients with a p-value lower than 0.05. The
+      statistical analysis will be performed using Origin2018 (OriginLab, USA).
+    
+  

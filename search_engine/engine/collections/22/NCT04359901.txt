@@ -1,0 +1,149 @@
+
+    
+      1. Aims/Objectives
+
+           The effectiveness of blockade of IL-6R in treating patients with COVID-19 disease of
+           moderate severity will be tested in a pragmatic and adaptive randomized trial. The
+           primary outcome is intubation or death within 14 days of enrollment OR administration of
+           a rescue dose of IL-6 inhibition if the patient is do-not-resuscitate
+           (DNR)/do-not-intubate (DNI) and the primary team determines it is appropriate based on
+           clinical deterioration. Secondary outcomes include time to hospital discharge if alive,
+           time to clinical recovery as was defined in a recent study, ICU length of stay, time to
+           return to normal or baseline oxygen saturation, and changes in laboratory biomarkers.
+
+        2. Background Information
+
+           SARS-COV-2 is a novel human pathogen that emerged at the end of 2019 and rapidly spread
+           worldwide. Clinical disease caused by this novel infection has a high mortality rate,
+           particularly in older adults and in patients with underlying cardiopulmonary disease,
+           populations that are highly prevalent within the VA healthcare system. This creates an
+           urgent need for the VA to quickly and efficiently identify effective therapies to reduce
+           mortality and spread of the disease. Based on in vitro and in vivo data, potential
+           treatment options include anti-viral drugs (such as antimalarials or medications
+           originally developed to treat HIV infection (e.g., lopinavir/ritonavir, remdesivir)),
+           anti-inflammatory drugs, including IL-6 inhibition, and innovations in supportive care,
+           such as placing patients in prone positioning while awake and not intubated.
+           Importantly, in the context of the global pandemic and exponential spread of the
+           disease, clinical trials must be designed in a manner that 1) optimizes outcomes for
+           Veterans, and 2) produces rapid answers, so that effective treatments can be deployed
+           quickly to reduce unnecessary deaths. Based on a review of 384 ongoing clinical trials
+           by the Centre for Evidence-Based Medicine, and a daily search of open clinical trials,
+           many conventional controlled clinical trials of antiviral drugs and cytokine-blocking
+           drugs are in progress and are likely to be completed within a few months; however, it is
+           possible that these trials, which may take months to implement and report results, will
+           not yield any information about how to treat patients until after the peak of the
+           pandemic is over. A secondary challenge is that it is important to identify what works
+           and what does not work quickly, so that manufacturers can understand what medications
+           need to be produced so that supply chains are adequate for treating all patients who
+           might benefit from an intervention. Thus, innovative clinical trial methodologies are
+           needed in order to produce answers in a highly compressed time frame to inform medical
+           decision-making and supply chain management.
+
+           This novel and innovative proposal concerns use and comparison an existing drug
+           (sarilumab) that blocks the receptor for the inflammatory cytokine IL-6. Most studies of
+           IL-6 pathway blockade are using IV medications and include restrictive eligibility
+           criteria and are directed towards patients with severe disease. The investigators
+           hypothesize that patients earlier in the disease course - prior to severe respiratory
+           decompensation - might benefit the most from IL-6 inhibition, and thus are the
+           population included in this pragmatic trial. This study will expand our knowledge and
+           understanding about how IL-6 inhibition can be used to prevent disease progression in
+           patients with moderate disease. It will use a more readily available subcutaneous,
+           longer-acting formulation directed towards patients with moderate disease, of whom
+           25-35% can progress to severe disease, often rapidly. Eligibility criteria allow for a
+           broad range of underlying choices of other medications, including antiviral medications
+           such as remdesivir and hydroxychloroquine, among others, baseline laboratory values, and
+           comorbidities, reflecting likely real-world clinical use. Thus, this pragmatic project
+           would fill a major gap in research about the clinical care of patients with COVID-19.
+
+           Release of preliminary results to the popular press already necessitated revision of
+           this protocol after only 9 subjects had been enrolled. Interim analysis of a study of
+           sarilumab by its manufacturer has led to revision of the study population and treatment
+           arms. Originally, two doses (200 mg and 400 mg) were tested, and patients with either
+           severe (oxygen requirement and other poor prognostic features) or critical (mechanical
+           ventilation) disease were included. Interim analysis indicated benefit only with 400 mg
+           in critical disease, so that will be the design of the remainder of that trial. In
+           contrast, a study of of a relatively high dose of tocilizumab (8 mg/kg) was reported to
+           be beneficial in a controlled trial of patients varying in severity from critical
+           illness to merely requiring supplementary oxygen. In response, the current study has
+           been modified to allow routine escalation of dosing among a broad range of "moderate"
+           severity short of critical illness. For patients who are critically ill, it is expected
+           that off-label use of a wide range of "heroic" therapies will be tried, including but
+           not limited to cytokine blocking therapies, so exclusion of such patients from this
+           trial does not limit the therapeutic options for such patients, and from a research
+           perspective, such patients have become the focus of the largest ongoing study of
+           sarilumab.
+
+        3. Rationale and Purpose
+
+           Severe COVID-19 disease is characterized by a severe acute respiratory distress syndrome
+           (ARDS) followed by a severe cardiomyopathy in many cases. Based on currently available
+           data, it is unclear how much of the respiratory damage in COVID-19 is due to direct
+           effects of SARS-COV-2, or if the primary driver of severe disease is the inflammatory
+           response generated in response to the virus. The key role of inflammation in the
+           progression of the disease is highlighted by recent studies, which demonstrate that
+           patients who progress to requiring ICU-level care no longer have detectable virus
+           present in their respiratory tract. Thus, identifying drugs that could dampen the
+           inflammatory response prior to severe clinical decompensation without adversely
+           affecting clearance of virus would be clinically useful and lead to improved outcomes.
+           Elevated biomarkers of severe inflammation (such as IL-6, CRP, ferritin, and
+           lymphopenia) have been strongly associated with severe disease and increased mortality
+           in patients with COVID-19, and early development of a strong IgG response may
+           paradoxically be a poor prognostic sign during the acute phase of the disease. In
+           contrast, viral load in upper respiratory secretions at baseline is only modestly
+           associated with clinical outcomes, and viral load declines in most patients after
+           presentation, independent of the clinical course of the disease. Severe disease
+           typically arises more than 2 weeks after symptom onset, a time at which virus is usually
+           no longer detectable. These findings suggest that progression to severe disease may be
+           driven more by the inflammatory response to the disease than a direct viral effect, and
+           point to anti-inflammatory drugs as potentially critical therapeutic options.
+           Importantly, high dose glucocorticoids have been found to be ineffective in severe
+           COVID-19 and are associated with somewhat worse outcomes, so other more targeted
+           anti-inflammatory options are urgently needed.
+
+           Blockade of IL-6 signaling is a particularly attractive approach. Sarilumab and
+           tocilizumab are antibodies to the IL-6 receptor (IL-6R), FDA-approved for long-term
+           treatment of rheumatoid arthritis. Tocilizumab has been used open-label with enough
+           anecdotal success in enough patients in China that the manufacturers of sarilumab and
+           tocilizumab have rapidly opened clinical trials in multiple countries at assess efficacy
+           in patients with severe COVID-19 disease. Tocilizumab has also demonstrated efficacy in
+           reducing mortality associated with the cytokine release syndrome in patients receiving
+           CAR-T treatment for cancer, in which the pathogenic pathway is widespread T-cell
+           activation, which leads to production of pleiotropic inflammatory cytokines such as IL-6
+           by monocytes. Although trials attempting to rescue patients with severe COVID-19 with
+           ARDS and/or cardiomyopathy are essential and are in progress, the ideal population for
+           clinical use may be patients who are not yet critically ill but are at high risk of
+           clinical deterioration due to secondary inflammation.
+
+        4. Relevance to Veterans Health
+
+           COVID-19 has a high mortality rate of 2-3% among symptomatic patients. It is expected to
+           have a particularly high mortality in Veterans, because age >60, underlying
+           cardiovascular or lung disease, and obesity are significant risk factors for mortality
+           and clinical deterioration. Thus, advances in care of patients sick enough to be
+           hospitalized yet prior to intubation are expected to have particular benefit for
+           Veterans.
+
+        5. Study Design
+
+      Design. Prospective, randomized, unblinded interventional clinical trial.
+
+      Two arms: standard care, based on established practices within the medical center, or
+      standard care plus subcutaneous sarilumab.
+
+      Assignment Strategy: Randomized play-the-winner design, such that randomization becomes
+      weighted toward the arm that was more effective in previous enrolled subjects. The
+      probability of randomization to a specific arm (standard of care or standard of care plus
+      intervention) will be updated based on outcomes in blocks of 10-20 subjects (see Planned
+      Statistical Analyses). The protocol does not include administration of sarilumab or
+      tocilizumab as a "rescue" medication if a patient randomized to standard of care alone
+      deteriorates to the point that the primary outcome (intubation) is met, or if the patient is
+      DNR/DNI and the patient's primary clinical team determines intubation would be performed if
+      the patient's goals of care included intubation. Such patients may receive any treatment per
+      the judgment of their treating physician, and such treatment might include sarilumab or
+      tocilizumab. Use of sarilumab or tocilizumab in this setting will simply be regarded as a
+      treatment failure and not as a protocol deviation.
+
+      Data will be extracted remotely from the EHR. No data will be generated specifically for
+      study purposes.
+    
+  

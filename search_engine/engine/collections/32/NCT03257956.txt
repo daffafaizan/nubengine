@@ -1,0 +1,26 @@
+
+    
+      The testing will be conducted in three periods. In the Accuracy Tests (periods 1 and 2), one
+      of the contact-free devices will be used to monitor the HR and RR, while being compared with
+      the Patient Monitor. The RHEA investigational device and reference device will be used to
+      monitor the same subject at different times, as the sensors of the two devices are placed at
+      a similar location of the bed. HR and RR will be recorded for all three devices.
+
+      The primary hypotheses for HR, are as follows:
+
+      Adults HO: μ = 3.25 vs. HA: μ < 3.25, Children HO: μ = 3.5 vs. HA: μ < 3.5,
+
+      The primary hypotheses for RR, are as follows:
+
+      Adults HO: μ = 2.25 vs. HA: μ < 2.25, Children HO: μ = 2.5 vs. HA: μ < 2.5, where μ
+      represents the population mean HR or RR. If the upper bound of the confidence interval is
+      less than the hypothesized value, the corresponding null hypothesis will be rejected.
+      Comparison of the performance of the two contact-free devices will be performed on the
+      recorded results via statistical analysis.
+
+      The hypothesis here is that the two devices have equivalent performance. The third test will
+      assess the ability of the RHEA device to accurately detect motion on or exit from the bed, as
+      compared to the manual observation. Motion and no motion accuracy will each be calculated
+      along with their respective two-sided 95% confidence intervals.
+    
+  

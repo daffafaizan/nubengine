@@ -1,0 +1,86 @@
+
+    
+      Background
+
+      For individuals with type 1 diabetes (T1D) the current gold standard to evaluate the
+      carbohydrate (CHO) amount of a meal is by carefully weighing its different components and
+      calculating the CHO content using reference nutritional tables. The resulting CHO amount is
+      then used to define the insulin dose needed to avoid an abnormal postprandial glucose
+      profile. Since this is a cumbersome procedure in real life, diabetic individuals often
+      estimate the CHO amount based on their personal experience. Especially for food served on a
+      plate CHO estimates are often significantly over or underestimated leading to high variation
+      in postprandial blood glucose. Besides the immediate risk of hypoglycaemia, there is emerging
+      evidence that suboptimal control of postprandial glucose is affiliated with increased risk
+      for long-term complications (e.g. diabetic micro- and macro-vascular diseases).
+
+      The effect of CHO counting in T1D control has been increasingly recognized and investigated.
+      A meta-analysis including five studies on individuals with T1D has shown, that improved CHO
+      counting accuracy reduces the HbA1c significantly (0.64% reduction in HbA1c compared to a
+      control group). Teaching adult individuals with T1D to count CHO reduces HbA1c significantly
+      and also leads to an improvement in quality of life. Similar findings are reported in
+      children, in whom higher CHO counting accuracy is associated with a lower HbA1c. Even a short
+      educational intervention of 4 weeks can still result in a significant and sustained effect on
+      HbA1c reduction 9 months after without having an increase in hypoglycaemia. Lower CHO
+      counting accuracy is a significant predictor of prolonged time in hyperglycaemic state. In
+      one study with adults only 31% of the participants estimated the CHO content with an error of
+      less than 20 grams per day and accurate CHO estimation were correlated with the lowest HbA1c
+      values. In line with these findings another study has shown that individuals on intensive
+      insulin therapy count CHO content of meals with an average error in the order of 16 grams or
+      21%. In general there is overestimation of small meals and a substantial underestimation of
+      large meals. While breakfast (+8.5%) and snacks (-5%) were estimated fairly accurately, lunch
+      (-28%) and dinner (-23%) are more prone to errors leading to an underestimation in the order
+      of 30 grams. In children, an inaccuracy of ±10grams does not deteriorate the postprandial
+      glycaemic control, whereas a ±20 grams variation significantly impacts the postprandial
+      glycaemia.
+
+      The debate how to optimally estimate CHO intake is on-going and controversial. Fact is that
+      even well trained diabetic individuals find it difficult to estimate CHO precisely and that
+      especially meals served on a plate are prone to false estimations underlining an emergent
+      need for novel approaches to CHO estimation. The investigators hypothesize that computer
+      vision supported CHO estimation can have a beneficial impact on postprandial glucose control,
+      ultimately leading to reduced episodes of hypoglycaemia and reduction in long term
+      complications.
+
+      The recent advances in smartphone technologies and computer vision permitted the development
+      of applications for the automatic dietary assessment through meal image analysis. The
+      applications are using either a number of images or a short video of the upcoming meal, as
+      captured by the user's smartphone. Although several systems have been proposed in the past
+      decade, none of them is designed for individuals with diabetes, while they rely on strong
+      assumptions, which often do not hold in real life, or require too much user input. The GoCARB
+      system provides CHO estimations to individuals with T1D, by using only two meal images. The
+      current version GoCARB has been designed to deal with
+
+        -  elliptical plates with a flat base;
+
+        -  single-dish images;
+
+        -  fully visible food items. The system works without assumptions on the food shape, while
+           it supports the following food classes: Pasta, green salad, meat, breaded food, beans,
+           carrots, mashed potato, rice, potatoes, bread, cheese, egg, couscous, mushrooms and
+           spätzli.
+
+      Objective
+
+      The purpose of this study is to investigate the effect of GoCARB-supported CHO estimation in
+      the postprandial glucose control of individuals with T1D on sensor augmented insulin pump
+      therapy.
+
+      In a typical scenario, the user places a credit card-sized reference object next to the meal
+      and acquires two images using her/his smartphone. A graphical user interface guides the user
+      in choosing the optimal angles for image acquisition based on the smartphone's built-in
+      sensors. The images are then transmitted to a dedicated server via Wi-Fi or the mobile
+      network. Then, the following computer vision algorithms are activated: the plate is detected
+      and the different food items on the plate are automatically segmented and recognized, while
+      their 3D shape is reconstructed. On the basis of the shape, the segmentation results and the
+      reference card, the volume and CHO content of each item is then calculated by combining the
+      food types with its volumes. Finally, the results are displayed to the user.
+
+      Methods
+
+      This study's overall objective is to perform a prospective randomized controlled clinical
+      pilot study comparing postprandial glucose control assisted by the GoCARB system against the
+      usual care approach by the participants. Scope of the study will be to investigate whether
+      the postprandial glucose profile is improved by using the GoCARB prototype for CHO
+      estimation. Postprandial glycaemia is evaluated using continuous glucose monitoring.
+    
+  

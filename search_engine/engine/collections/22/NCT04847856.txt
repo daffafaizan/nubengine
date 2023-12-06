@@ -1,0 +1,90 @@
+
+    
+      Background: Diabetes self-management education (DSME) is a formal term used to describe the
+      ongoing process of facilitating the knowledge, skill, and ability necessary for diabetes
+      self-care. It has shown a positive effect on the clinical, psychological, and behavioral
+      aspects of diabetics. Participants will be randomly assigned to either the intervention or
+      the control group.
+
+      Methods: A pragmatic Trial is a modern approach for testing research hypotheses in real life
+      to draw inspiration from the implemented intervention to inform decision making and change in
+      health policy at the level of primary health care and the community.
+
+      The trial outcomes could be used in making new policy that directly contributes to the model
+      of care, health economics, and population health management program. It is a 6-12 months
+      pragmatic randomized trial that will recruit type II diabetic patients attending primary
+      health care centers in Tabuk city.
+
+      Conclusion:
+
+      Upon successful completion of the trial, the primary and secondary outcomes of the trial like
+      reduction in the blood glucose level, Body Mass Index (BMI), waist circumference, HbA1c,
+      serum cholesterol level, and blood pressure are expected. Besides, the development of new
+      recommendations for diabetes self-care policy, model of care, and on-the-job training at
+      primary health care.
+
+      Sample size calculation:
+
+      A sample of 250 participants for the two trial arms with an average cluster sample (m) of
+      about 35 participants per cluster is calculated using STATA clustersampsi command. This is by
+      specifying the total number of clusters (k) = 6, the mean for sample1 as (mu1) = 0.6, the
+      mean for sample2 (mu2) = 0.31, the intra-class correlation coefficient (rho) = 0.01, at the
+      power beta (0.8), and significant alpha level of (0.05).
+
+      Data analysis:
+
+      The collected baseline data and end-line data will be initially analyzed by carrying out both
+      univariate and bivariate analyses. The univariate analysis will summarize data as means,
+      standard deviations while multivariate analysis will yield correlations between the measured
+      variables. Standard statistical tests such as the Student t-test, ANOVA, and F statistic will
+      be used to test for the effects of interventions and to facilitate comparisons between
+      intervention and control groups. Then the data will be further analyzed using multilevel
+      models/hierarchical linear modelling as it allows adjustment of the effect of an intervention
+      for (imbalance on) individual-level and cluster-level baseline predictors of outcomes. The
+      collected data will be analyzed based on the intention to treat evaluate the primary outcomes
+      among both the intervention and control groups i.e. the participants will remain in the group
+      to which they were randomized. Linear regression models will be used for comparing the
+      continuous variables. The BMI as a primary outcome will be analyzed using a linear regression
+      model to find out the effects of the intervention among the intervention groups as well as
+      among the control groups. The secondary outcomes include reduction in blood glucose level,
+      serum cholesterol level, blood pressure, and waist circumference will be analyzed using
+      linear regression models. Statistical significance will be set at 5%.
+
+      Missing data will be managed by applying appropriate multiple imputation STAT commands. As
+      the variables are continuous; Markov Chain Monte Carlo (MCMC) method will manage the missing
+      data; it is planned to use SOLA software for managing data (available at
+      http://www.solasmissingdata.com/software.
+
+      Generalizability:
+
+      This trial is expected to draw some more convenient findings that match the context in Saudi
+      Arabia and other gulf regions. Given the great similarities in sociodemographic, and cultural
+      aspect in addition to the similarities in a health care setting in the whole Kingdom. It is
+      expected that a successful result could fairly be generalized to other health care settings
+      in Saudi Arabia and even to other gulf regions.
+
+      Expected limitation:
+
+      The quality of data collection is expected to be not to the expected level. This is because
+      the same health provider who will conduct the trial intervention is supposed to carry the
+      data collection task. After all, the physical environment in the health care setting doesn't
+      permit bringing additional staff to complete the task.
+
+      Ethical considerations:
+
+      Ethical approval will be obtained from the Institutional Review Board in the Faculty of
+      medicine at the University of Tabuk and the Research Ethics Committee at the Ministry of
+      health in Tabuk.
+
+      Informed consent: The investigator will make sure that written informed consent is obtained
+      from each participant before randomization and before the participant has undergone any study
+      intervention or data collection procedures. The informed consent will be obtained by the
+      primary health care physician in a special room at the health center. The primary health care
+      physician will provide the information about the trial and as well ensure that the
+      participant has understood the information. This can be achieved through answering adequately
+      the questions raised by participants; hence, the participants are encouraged to ask questions
+      about the trial and will be given adequate time to decide, voluntarily, either to participate
+      in the trial or not. If a participant needs more to decide, then the primary health care
+      physician should give another appointment for the participants
+    
+  

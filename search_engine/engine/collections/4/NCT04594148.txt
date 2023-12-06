@@ -1,0 +1,57 @@
+
+    
+      For this study, 40 healthy older adults will be included. A previous fNIRS study done by the
+      investigators (unpublished) revealed that our primary outcome, weight-shifting speed,
+      improved from 0,0668 ± 0,0255 m/s to 0,0916 ± 0,0350 m/s. Based on Caljouw et al. (2016), the
+      investigators expect a training effect size of 20%, resulting in a weight-shifting speed of
+      0.1094 ± 0,0418 m/s. Applying a power of 80% and alpha of 0.05 for a repeated measures ANOVA
+      with a within-between interaction design (within: pre vs post; between: training vs control)
+      the investigators calculated a total sample size of 40 participants (20 per group).
+      Considering possible data exclusion due to fNIRS measurements, the collected fNIRS data will
+      be monitored during recruitment, and more participants will be recruited if necessary.
+
+      Prior to training on day 1, participants will be screened for inclusion based on the Montreal
+      Cognitive Assessment (MoCA). Other cognitive assessments include the Flanker (inhibition),
+      Set-Shifting (shifting attention), and Benton Judgement of Line Orientation (visuospatial
+      ability) test, which will be administered on day 2. The Falls Efficacy Scale International
+      (FES-I), a sarcopenia questionnaire (SARC-F), and the Pittsburgh Sleep Quality Index (PSQI)
+      will also be administered on day 2 to assess fear of falling, sarcopenia, and the quality of
+      sleep of the night between day 1 and day 2 of the experiment, respectively.
+
+      For both weight-shifting assessment and training, the VR-based Wasp Game will be used. Before
+      starting the Wasp Game, functional limits of stability (fLOS) will be assessed by asking the
+      participant to move the Centre of Mass (CoM) as far as possible over its base of support in
+      eight different directions by pushing a virtual bar away from the center position. Maximum
+      CoM shifts will be calculated and used for personalized scaling of the Wasp Game. The Wasp
+      Game was developed and piloted to meet the requirements for balance training for older people
+      and can capture weight-shifting speed and accuracy as learning outcomes. In the Wasp Game,
+      the player is in the middle of an area infested by wasps. By moving the CoM towards a
+      pre-defined 80% of the fLOS, a water stream will come on to hit the wasp. The Wasp Game
+      single-task (WASP-ST) involves hitting wasps in the mediolateral (ML) direction only. During
+      the Wasp Game dual-task (WASP-DT), a serial subtraction task is added as the secondary task,
+      whereby the red ball (representing the CoM) will change color from red to white and white to
+      red within a random interval between 2-5 seconds. A starting number will appear on the screen
+      for 1.5 seconds at the beginning of each trial. Every time the ball changes its color,
+      subtractions have to be made in threes. Subjects will indicate the correct number afterward,
+      so as not to disturb the fNIRS recording.
+
+      During training on day 1, participants will perform 10 blocks of 2.5 min weight-shifting
+      within the WASP-ST. Before, after, and 24h after training, balance performance will be
+      assessed with the Mini Balance Evaluation Systems Test (MiniBEST), and weight-shifting
+      ability with the fLOS, the WASP-ST, and WASP-DT. During the WASP-ST and WASP-DT, oxygenated
+      (HbO2) and deoxygenated hemoglobin (HHb) will be assessed simultaneously by means of
+      functional Near-Infrared Spectroscopy (fNIRS). To be able to compare HbO2 and HHb levels
+      relative to a baseline, both the WASP-ST and WASP-DT will be offered in a block design of 20
+      sec standing still and looking at a screen capture of the Wasp Game and 20 sec of
+      weight-shifting within the Wasp Game, alternating in 10 trials. In addition, weight-shifting
+      speed will be standardized by implementing a white ball that participants have to track in
+      the ML direction, to be able to compare fNIRS data on similar behavioral performance. The
+      same block design will be implemented for this task. Cortical regions assessed with fNIRS
+      include the prefrontal cortex (PFC), frontal eye fields (FEF), premotor cortex (PMC),
+      supplementary motor area (SMA), and supplementary sensory cortex (SSC). To ensure similar
+      fNIRS recording on all test moments, only the optodes will be removed between pre and
+      post-testing while the cap stays in place. Between post and retention testing, certain spots
+      on the head (i.e. Cz) will be marked to guide cap placement on day 2. In a recent study,
+      fNIRS was found to have adequate test-retest reliability.
+    
+  

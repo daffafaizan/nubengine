@@ -1,0 +1,42 @@
+
+    
+      WYZ is a modular, adaptive, and personalized intervention delivered via a mobile phone. It is
+      grounded in the Information-Motivation-Behavioral Skills (IMB) model which has been valuable
+      for understanding and guiding the development of interventions for complex health behaviors.
+      WYZ was created in collaboration with 18-29 year-old YLWH using a Human-Centered Design (HCD)
+      approach that emphasizes understanding the perspective of the users of the technology. WYZ is
+      intended to improve engagement in HIV care by 1) enhancing medication adherence
+      self-efficacy, 2) increasing awareness and use of community resources, 3) reducing barriers
+      to communication between youth and their healthcare team, and 4) providing a secure platform
+      for the formation of a supportive closed online community of YLWH.
+
+      The investigators will complete development of WYZ (1.0), field test the initial release with
+      a cohort of 10 potential users over a period of three months to identify and address
+      technical challenges, and develop a fully functioning version (WYZ 2.0) that can be used in a
+      pilot investigation. The investigators will then conduct a six-month single-arm pilot study
+      to examine WYZ feasibility and acceptability among (N = 76) YLWH (18-29 years old) who live
+      and/or receive care in the San Francisco Bay Area. The objectives of this forthcoming phase
+      are to refine the design so as to improve satisfaction and engagement with the intervention
+      among YLWH and their healthcare providers.
+
+      The main outcomes of the pilot trial include feasibility and acceptability as indicated by
+      meeting or exceeding proposed benchmarks. Feasibility will be assessed via user metrics by
+      examining the participant's interactions with WYZ via a mobile analytics service called
+      Flurry and backend (Salesforce) reporting tools. Acceptability will be examined during
+      regular phone check-ins, a system usability scale (SUS), a satisfaction survey, and an exit
+      qualitative interview.
+
+      In addition to feasibility measures, the investigators will calculate an engagement index
+      (EI) for each participant. The EI has been detailed and used successfully in other mHealth
+      interventions. The EI includes the following sub-indices: (1) click depth (number of pages a
+      user views per session), (2) loyalty (measures how frequently users access the application
+      during the study period), (3) recency (the time difference between each session the user
+      accessed the application), (4) interaction (number of push notifications opened from those
+      sent through the application), and (5) feedback (subjective measure of participants'
+      satisfaction with the application).
+
+      Based on the data from participants in this pilot study, the investigators will develop a
+      refined version of WYZ (3.0), which will be used in a future investigation to examine the
+      efficacy of the intervention with a much larger sample.
+    
+  

@@ -1,0 +1,114 @@
+
+    
+      Study Objective: This study was designed to evaluate the feasibility of use of a Standardized
+      Home Spirometry(SHS) Method using a Home Spirometry Monitoring Kit consisting of FDA-approved
+      Blue-tooth Spirometry unit, Blue-tooth pulse oximeter and an Android-based Tablet with an
+      embedded investigational home spirometry mobile medical software application for data and
+      symptom survey collection and transmission over secure WiFi or cellular data transmission
+      portal in HIPAA compliant fashion to an associated investigational IT dashboard application
+      at the Central Monitoring Institute (CMI) Server at Washington University in St. Louis, to
+      develop normal range values, to detect a variance (i.e., a value outside of that normal
+      range), to evaluate a variance with a questionnaire, and to download all data to the CMI in a
+      small pilot of healthy volunteers prior to evaluation and use on a larger scale for lung
+      transplant recipients.
+
+      The investigational IT application will monitor lung function but do nothing more than
+      collect data. It will adjust monitoring frequency and trigger physician review of home
+      spirometry results at a more frequent interval but will not be directly involved in decisions
+      regarding diagnosis or treatment.
+
+      Study Type: Non-randomized, single-arm, prospective cohort study
+
+      Intervention:
+
+        -  The Home Spirometry Monitoring System will consist of:
+
+             -  FDA approved Blue tooth Spirometry unit
+
+             -  FDA approved pulse oximeter
+
+             -  An Android-based tablet with embedded investigational mobile medical software
+                application for symptom survey/data collection and data processing and transmission
+
+        -  WiFi or cellular connectivity to be used for data transmission and communication between
+           an Android Pad and an associated Investigational server dashboard application at the
+           Central Monitoring Institute
+
+        -  Normal Volunteer Monitoring Data is sent in a HIPAA compliant fashion (data with
+           date/time stamp and device ID only) to a Central Monitoring Institute (CMI) server
+           maintained at Washington University in St. Louis
+
+        -  Participants will undergo training to activate and use the Home Spirometry Monitoring
+           System.
+
+        -  Data evaluation by a pulmonologist within CMI:
+
+             -  Trend analysis on a monthly basis and
+
+             -  When a variance is detected with or without potentially associated symptoms.
+
+             -  A monthly summary report
+
+        -  Participants may undergo one Laboratory-based Spirometry Test (if practicable) and
+           perform a test session using the standardized home spirometry method system at baseline.
+
+        -  Participation may last up to one year.
+
+      Standardized Home Spirometry testing interval at least weekly with an initial testing period
+      of greater frequency to enable normal range calibration. Volunteers will require initial in
+      center or remote training with the Standardized home spirometry method & performance of
+      baseline home spirometry method testing and a (baseline) laboratory-based spirometry test (if
+      practicable).
+
+      Pre-Surveillance Phase: Daily home spirometry method measurements for 4 to 10 weeks to enable
+      normal range calibration. Volunteers who have either a statistically significant (p-value
+      <0.01) rate of change in FEV1 or a change in FEV1 rate of decline that exceeds an absolute
+      value (+/-) of 30 mL/month using home spirometry based FEV1 values obtained during the normal
+      range development period are not eligible to advance to the Surveillance Phase and may be
+      discontinued from the study.
+
+      Surveillance Phase: At least weekly home spirometry method measurements for two to ten months
+      of participation. An FEV-1 (Forced Expiratory Volume in one second) variance is defined as an
+      FEV-1 value that is outside the 95% CI (Confidence Interval) of the participant's normal
+      FEV-1 reference range that was determined immediately after enrollment.
+
+      If an FEV-1 variance is detected by the Android Pad, the IT application automatically
+      requests that the participant complete a symptom survey. This information when used in
+      combination with other data will result in initiation of the following actions:
+
+      If an FEV-1 variance is categorized as being suspicious for acute medical illness by the CMI
+      (i.e., with clinical symptoms consistent with upper or lower respiratory infection/CHF), the
+      spirometry data and participant survey responses will trigger overview by the CMI laboratory
+      staff and if deemed suspicious for acute medical illness results will be made accessible to
+      the participant's designated health professionals. If critical values or clinical symptoms
+      are obtained consistent with urgent compromise (e.g., evidence of hypoxemia or respiratory
+      distress), the CMI (PFT (Pulmonary Function Testing) Laboratory staff pulmonologist) will
+      make timely attempts to reach the participant or participant's health professionals. In this
+      study, this is expected to be an exceedingly rare occurrence, and most likely would not occur
+      at all. If acute medical illness has been ruled in, participant spirometry surveillance will
+      be reinitiated after an appropriate period of treatment, which will be determined by the
+      participant's managing physician who will notify CMI when the participant has recovered from
+      their acute illness.
+
+      Variance not suspicious for acute medical illness with no apparent clinical symptoms
+      consistent with infection/CHF: if supplemental questionnaire or clinical data is not
+      consistent with an acute medical illness, the following actions will be taken:
+
+      Persistence Evaluation: Participants will be directed to obtain daily spirometric
+      measurements along with repeated completion of the questionnaire for a total of 4 consecutive
+      days CMI Pulmonology Review: Consistently low Spirometry values (persistence) will prompt
+      early review of these values along with previous Spirometry history by CMI pulmonology staff.
+
+      Random Symptom Surveys may also generate (in the absence of a variance) however only Symptom
+      Surveys prompted by Variances will result in further action as described above.
+
+      During the first two months (approximately) of Surveillance, Volunteers will be directed to
+      intentionally induce variances, symptoms, incomplete connections/testing/survey, etc., in
+      order to fully test and assess the functionality of the Mobile Medical Software neural
+      pathways (IT app and Dashboard server) as directed by the study team. Volunteers will
+      document test on a test log.
+
+      The FDA issued a non-significant risk (NSR) device study letter on 12/3/2018 for the Home
+      Spirometry Mobile Medical Software.
+    
+  

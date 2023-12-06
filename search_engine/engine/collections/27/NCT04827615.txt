@@ -1,0 +1,41 @@
+
+    
+      Evaluation visits will be conducted at the participant's home. At baseline, the ACF field
+      team will first administer a screening CRF to all adults in the household to confirm
+      eligibility. For those adults who meet all eligibility criteria, trained enumerators will (1)
+      complete two brief surveys, (2) measure their waist circumference and body weight, and (3)
+      measure their blood pressure using an automatic digital blood pressure machine. The surveys
+      will cover demographics, family history of disease, tobacco and alcohol use, physical
+      activity, and standard clinical symptoms. The field team will then schedule a follow-up visit
+      within the next week to measure fasting blood glucose using a point-of-care device. For those
+      adults who meet criteria for being high-risk for diabetes and hypertension (criteria defined
+      further in the next section), trained enumerators will also administer an additional survey
+      on this second day that covers dietary intake and clinical history including medication use.
+
+      For high-risk adults, after the baseline visit, three additional follow-up visits will be
+      completed every 6 months for a total duration of 18 months. Each follow-up visit will
+      include: two brief surveys covering the same content summarized above for baseline, as well
+      as measurements of waist circumference, body weight, blood pressure, and fasting blood
+      glucose. We will schedule these visits such that participants are fasting on the day of the
+      visit, thus allowing all visit activities to be completed in 1 day.
+
+      All surveys will be completed via interviews by trained field enumerators who will enter
+      participant responses into password-protected tablets (Qualtrics offline mobile app).
+
+      The total population of these 12 villages is 60,701 according to the 2011 Census. We will
+      enroll all adults ≥30 years old meeting eligibility criteria, which we estimate will be ~40%
+      of the total population or ~24,280 people. Based on ACF's current programming in 2 other
+      villages in this district, we expect that 40% of those screened (Group 1 participants) will
+      be high-risk (Group 2 participants) or ~9,720 people (~810 per village).
+
+      For fasting blood glucose, a sample of 12 clusters in a complete stepped-wedge
+      cluster-randomized design with 4 time periods (including the baseline), 3 steps, 4 clusters
+      switching from control to treatment at each step, and an average of 500 participants per
+      cluster with an average of 125 participants per cluster per time period (for a total sample
+      size of 6000 subjects) achieves 90% power to detect a difference between means of 0.32 mmol/L
+      (4% of anticipated mean baseline level). The test statistic used is the two-sided Wald
+      Z-Test. The ICC is 0.010, and the significance level of the test is 0.050. Given that we
+      expect to enroll near to 9000 subjects, we are exceptionally well powered to detect
+      significant effects in this evaluation even if there is loss to follow up.
+    
+  

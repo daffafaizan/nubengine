@@ -1,0 +1,44 @@
+
+    
+      Surgery is the mainstay treatment for abdominal cancer, resulting in over 50,000 surgeries
+      annually in the UK, with 10% of those being for renal cancer. Preoperative surgery planning
+      decisions are made by radiologists and surgeons upon viewing CT and MRI scans. The challenge
+      is to mentally reconstruct the patient's 3D anatomy from these 2D image slices, including
+      tumour location and its relationship to nearby structures such as critical vessels. This
+      process is time consuming and difficult, often resulting in human error and suboptimal
+      decision-making. It is even more important to have a good surgical plan when the operation is
+      to be performed in a minimally-invasive fashion, as it is more challenging setting to rectify
+      an unplanned complication than during open surgery. Therefore, better surgical planning tools
+      are essential if one is to improve patient outcome and reduce the cost of surgical
+      misadventure.
+
+      To overcome the limitations of current surgery planning in a soft-tissue oncology setting,
+      dedicated software packages and service providers have provided the capability of classifying
+      the scan voxels into their anatomical components in a process known as image segmentation
+      (see Section 6.1 for more information). Once segmented, stereolithography files are generated
+      which can be used to visualise the anatomy and have the components 3D printed. It has
+      previously been shown that such 3D printed models influence surgical decision-making.
+      However, the relevance of a physical model to plan for a minimally invasive surgical approach
+      is debatable, and the financial and administrative costs of obtaining accurate 3D printed
+      models for routine surgery planning has been speculated to be holding back 3D printed models
+      from breaking into regular clinical usage.
+
+      As a necessary precursor to 3D printed models, computational 3D surface-rendered virtual
+      models could be used by the urologist to assist with clinical decision-making. In the
+      literature, such models are referred to by a variety of names such as '3D-rendered images',
+      '3D reconstructions', or 'virtual 3D models'. In this protocol, the investigators will use
+      the latter nomenclature. Virtual 3D models provide many of the advantages of their physical
+      3D printed counterpart without the challenge of the printing process, they can be easily
+      viewed on standard digital devices such as laptops or smartphones and can be simultaneously
+      viewed and interacted with from anywhere in the world, which could help with collaborative
+      surgery planning between centres. Note that this study's use of virtual 3D models is not to
+      be confused with Virtual-Reality visualisation, which is an immersive environment and
+      currently requires specialist equipment. In support of this study, previous pioneering
+      studies have already shown that surgeons benefit from computational 3D models in the theatre.
+      However, in addition to the available 2D medical images (CT, MRI, volume-rendered images), it
+      has not been shown that virtual 3D models, constructed from the same existing medical scan
+      data, would influence the surgical decision-making process or alter surgeon confidence in
+      their decisions. Crucially, it also remains to be shown that such 3D models can be built
+      reliably and at scale to facilitate their widespread adoption.
+    
+  

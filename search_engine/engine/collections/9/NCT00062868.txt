@@ -1,0 +1,103 @@
+
+    
+      ALASCER (Part 1 of 2)
+
+      We will generate autologous (or syngeneic) or allogeneic LMP2A-specific cytotoxic T-cells and
+      adoptively transfer them to patients with relapsed EBV-positive Hodgkin's or non-Hodgkins
+      Lymphoma or Lymphoepithelioma.
+
+      To initiate the LMP-specific CTL line, PBMC will be transduced with an adenovirus vector
+      (Ad5f35-pp65) expressing the LMP2 antigen, at a viral particle (vp) to cell ratio of
+      30,000:1. For blood samples from normal donors, the monocyte fraction of PBMC may be
+      transduced and will express and present LMP2 peptide epitopes to the LMP2-specific T cell
+      fraction of the PBMC. This step will require 20 to 40 x 106 PBMC from about 40 mL of blood.
+
+      When a stronger stimulus is required to reactivate LMP2-specific T cell precursors (i.e. from
+      patients PBMC), then we will make dendritic cell APCs by culture of PBMC-derived monocytes
+      with cytokines (GM-CSF, IL-4) followed by transduction with Ad5f35-LMP2 (vp:cell ratio of
+      30000:1) and maturation with TNF-a and PGE1. These mature, transduced dendritic cells will be
+      used to stimulate PBMC-derived T cells. In this case, dendritic cells will be prepared from
+      about 40 mL of blood and the T cells will be derived from 20 to 40 mL of blood
+
+      To expand the LMP2-specific T cells we will use EBV-transformed B lymphoblastoid cell lines
+      (EBV-LCLs) transduced with Ad5f35-LMP2 (vp:LCL ratio of 100,000:1). This transduction allows
+      the EBV-LCLs to present LMP2 peptides to the T cells. EBV-LCLs are derived from PBMC-B
+      lymphocytes by infection with a clinical grade, laboratory strain of Epstein-Barr virus
+      (EBV). About 5 x 106 PBMC, or 5 to 10 mLs of blood is required to generate the EBV-LCL
+
+      At the end of the CTL culture period, the frequency of LMP2 specific CTL will be determined
+      using tetramer reagents if available.
+
+      Transduction with the Neomycin Resistance Gene (optional - based on patient preference and
+      availability of the vector). Established CTLs will be transduced with the retroviral vectors
+      of the LN series.
+
+      Patients will be evaluated in the clinic and 2-4 doses of CTL will be administered each two
+      weeks apart. Patients will be monitored for clinical toxicity by the NCI Common Toxicity
+      Criteria Scale (Version 2.0 located at http://ctep.cancer.gov). In addition, we will
+      determine the kinetics of CTL survival by monitoring the presence of the marker gene in
+      peripheral blood in patients who receive marked cells. We will also analyze immunological
+      parameters including phenotype and CTL frequencies by tetramer studies in patients who have
+      HLA types where such reagents are available. Functional analyses will be done by cytotoxicity
+      or ELISPOT/ELISA assays. The levels of EBV DNA in peripheral blood before and following
+      infusion will be compared. A time period of 8 weeks will constitute the time for clinical
+      safety monitoring. If patients have had a partial response or have stable disease they will
+      be eligible to receive up to 6 further doses of CTLs, each of which will consist of the same
+      number as their second injection.
+
+      ALCI (Part 2 of 2)
+
+      This is the 2nd part of the ALASCER study. ALCI reflected modification in the manufacturing
+      process to enrich the CTL product for cells recognizing the LMP1 as well as the LMP2 antigen.
+      The change in manufacturing required to enrich for both LMP2a and LMP1 is solely to
+      substitute ALCI's Ad5f35LMP1/2 vector for the previously used Ad5f35LMP2 vector used to
+      transduce the antigen presenting cells used ex vivo to stimulate the T cells during the
+      manufacturing process in our GMP laboratories.
+
+      We initially used the AD5f35LMP2 vector and now use the Ad5f35LMP1/2 vector to generate
+      LMP-specific CTL. Our preliminary data indicates that these two vectors are identical and
+      produce similar enrichment of LMP2 specific CTL. By using the Ad5f35LMP1/2 vector instead of
+      the Ad5f35 vector encoding LMP2 alone, we should better enrich T cell clones recognizing both
+      of the LMP antigens expressed by the malignant cells in Hodgkin's disease and non-Hodgkin's
+      Lymphoma. Our analysis strategies include plans to perform comparisons between these vector
+      types.
+
+      Like the ALASCER product, the ALCI product continued to be a CTL line specific for EBV
+      antigens but enriched for T cells recognizing LMP1 as well as LMP2. The ALASCER product
+      already contains some LMP1 specific T cells along with T cell specific for other EBV antigens
+      and the only change was enrich for these cells. Therefore the ALCI Ad5f35 LMP1/2 adenoviral
+      vector is an ancillary reagent in the manufacturing process used only to transduce antigen
+      presenting cells used as stimulator cells and is not infused in the final product. This
+      vector completed testing and was approved for use under ALASCER IND (#6387).
+
+      Additionally, the ALASCER protocol design was amended to allow for the addition of a separate
+      arm to the study depending on the vector used for the manufacturing process and the data is
+      analyzed separately
+
+      In both ALASCER & ALCI, the cells will then be thawed and injected into the patient over 10
+      minutes. Initially, two doses of T cells will be given two weeks apart. If after the second
+      infusion there is a reduction in the size of the lymphoma on CT or MRI scan as assessed by a
+      radiologist, the patient can receive up to six additional doses of the T cells if the patient
+      wishes. This is a dose escalation study which means that for some patients the second dose
+      may be larger than the first. All of the treatments will be given by the Center for Cell and
+      Gene Therapy at Texas Children's Hospital or the Methodist Hospital.
+
+      The patient will be followed after the injections. They will either be seen in the clinic or
+      will be contacted by a research nurse yearly for 5 years. To learn more about the way the T
+      cells are working in the patient's body, an extra 20-40 mL (4-8 teaspoons) of blood will be
+      taken before each infusion, and then 4 hours after each infusion (optional) and 3-4 days
+      after each infusion (optional) and then weekly for 2 weeks after each infusion (total of 9
+      times). Two weeks after the last infusion, blood will then be taken again and then every 3
+      months for 1 year, then once a year for 5 years. Investigators will use this blood to see how
+      long the T cells last and to look at the immune response to the patient's cancer.
+
+      ALCI (Expansion cohort)
+
+      Once the dose escalation safety phase of the study is completed (i.e. once at least 3
+      patients have been treated at dose level 3 and no treatment-related DLT has occurred), we
+      plan to treat additional patients at dose level 1 to evaluate the immunological response in
+      patients who receive CTL that have been generated using DC matured with the additional
+      maturation cytokines (IL-1b and IL-6) in the presence of IL-15. We will treat an additional
+      30, 16, and 16 patients on Groups A, B and C, respectively.
+    
+  

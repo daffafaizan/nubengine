@@ -1,0 +1,115 @@
+
+    
+      1. Purpose - A feasibility study to determine the accuracy of using skin markings as a
+           surrogate for the underlying surgical cavity (SC) in accelerated partial breast
+           irradiation.
+
+        2. Hypothesis - Markings placed on the skin are an accurate representation of the
+           underlying surgical cavity and are adequate to use for patient setup for accelerated
+           partial breast irradiation.
+
+        3. Justification Breast conserving surgery with the use of whole breast radiation after
+           partial mastectomy is the preferred treatment for most women with early stage breast
+           cancer. Conventional radiotherapy in this setting delivers radiation to the entire
+           breast, with the consequence that the radiotherapy has to be given over a period of 3 -
+           6 weeks. However, the majority (70 - 80%) of local recurrences after breast conserving
+           surgery develop in the vicinity of the primary tumor. Partial breast irradiation with
+           the radiation target volume limited to the surgical cavity (SC) in selected patients is
+           therefore potentially feasible if it results in similar local control rates compared to
+           whole breast irradiation. In addition to limiting the radiation to breast tissue most
+           likely to harbor microscopic disease and thereby sparing the normal breast tissue, local
+           breast irradiation offers the distinct advantage of shortening the duration of
+           radiotherapy, thereby minimizing the impact radiotherapy has on the quality of life of
+           breast cancer patients.
+
+           The current technique for accelerated partial breast irradiation assumes that the
+           cutaneous markers correctly reflect the position of the underlying SC without strong
+           evidence that the relationship between the two does not change. Our study will provide
+           the crucial missing link. Phase II of our study (not included in this REB application)
+           will go further in exploring the use of new imaging modalities in reducing the PTV
+           margins thereby enabling oncologists to better spare normal tissues.
+
+        4. The primary objective is to determine whether skin markings truly reflect the surgical
+           cavity location during daily treatment by quantifying any change in relationship between
+           the skin markings & the surgical cavity.
+
+           The secondary objective is to investigate the dosimetric consequences of the change in
+           size, shape, and location of the surgical cavity volume (SCV) during the treatment
+           duration.
+
+        5. Methods (for details see the attached protocol) To determine whether skin markings truly
+           reflect the surgical cavity location during daily APBI.
+
+      Briefly, for Stage 1 of the study, 20 breast cancer patients undergoing adjuvant radiotherapy
+      after breast conserving surgery with a visible SC (cavity visualization score 3 - 5) will be
+      recruited. Skin markers will be placed on the skin around the SC during CT simulation in the
+      manner specified in the RAPID trial. During the first week of their treatment, patients will
+      return to the CT scanner on days 1 and 5 to undergo repeat planning CT. The patients will be
+      set up simulating the actual treatment set up at the linear accelerator. These repeat scans
+      will be compared with the original scan to identify any change in the relationship between
+      the skin markings and the SC. Five oncologists trained in SC identification will then contour
+      the SC on the original as well as the repeat CT scans. These images will be fused for each CT
+      scan to form a representative SC volume (RSCV). The RSCV in planning and subsequent CTs will
+      be related to skin marks to evaluate the reliability of patient positioning. Using these skin
+      marks the beams will be placed on the patient in the CT simulation software package.
+
+      The centre of mass (COM) from RSCV will be determined from the contours and variations in
+      x,y, and z coordinates will be averaged. This will allow a comparison between what was
+      planned originally and what has changed over time. Coordinates of previously placed skin
+      markers on the breast surface will be calculated relative to the COM as well as medial and
+      lateral tattoos. This will enable us to verify if setup to external skin marks track the
+      RSCV.
+
+      The dosimetric consequences of SCV changes in shape/size/location will be quantified as
+      follows:
+
+        1. Repeat CTs with drawn RSCVs will be exported to the planning system and planning fields
+           will be applied to calculate dose distributions in target volumes and organs at risk.
+
+        2. Dose-volume histograms (DVH) for CTV, PTV and organs at risk, as defined from CT will be
+           evaluated for meeting planning criteria.
+
+        3. The procedure will be repeated with simulated patient realignment using CT data sets.
+
+        4. Appropriate PTV margins to achieve desired CTV coverage will be calculated for both the
+           situations, with and without simulated realignment.
+
+      6. Statistical Analysis Sample Size: For Stage I, 20 patients can be successfully accrued in
+      6 months at the Fraser Valley Cancer Centre.
+
+      Comparison between skin marks and surgical cavity
+
+      The centre of mass (COM) from RSCV will be determined and the mean variations in x,y, and z
+      coordinates will be calculated. In addition, the mean and standard deviation of the change in
+      volume of the RSCV will be calculated. The movement of the COM coordinates will be calculated
+      in reference to both the tattoos and the point guards separately. A paired t-test will be
+      used to assess whether there is a statistically significant difference in mean COM movement
+      in reference to the tattoos and centre spots. This will allow us to verify if setup to
+      external skin marks (tattoos and point guards respectively) track the RSCV.
+
+      DVH comparison
+
+      The dosimetric consequences of changes in shape, size, and location of the RSCV will be
+      quantified through analysis of DVHs (see section 7.5.). Descriptive statistics will be used
+      to present the change in DVH for target volumes (CTV, PTV, and DEV) and OAR that occurred
+      between the initial simulated plan and the 5 additional simulated plans (see sections 7.2
+      through 7.5). Furthermore, this will be repeated for the plans that have undergone simulated
+      realignment. A paired t-test will be used to assess whether there is a statistically
+      significant difference in mean change in DVH (for target volumes and OAR) before and after
+      simulated realignment.
+
+      Potential decrease in CTV to PTV margin
+
+      The margin required on the CTV to create a PTV which ensures it is adequately covered, will
+      be obtained using the DVH criteria in Table 2. Subsequently, this will be repeated for the
+      plans that have undergone simulated realignment. A paired t-test will be used to assess
+      whether there is a statistically significant difference in mean change in the CTV margin
+      needed before and after simulated realignment.
+
+      Simulated patient realignment compensates for a portion of the CTV to PTV margin (the size,
+      shape and position of the RSCV) while still leaving some uncertainty (e.g., patient
+      respiration, daily setup). Therefore it is hypothesized that we can decrease the PTV needed
+      with simulated realignment. We will consider a decrease in the PTV margin by ≥ 3 mm with
+      simulated patient realignment justification for progression to Stage II of this study.
+    
+  

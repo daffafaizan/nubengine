@@ -1,0 +1,157 @@
+
+    
+      BACKGROUND AND RATIONALE
+
+      6-[18F]fluoro-dihydroxyphenylalanine (18F-DOPA) is a large neutral amino acid that resembles
+      natural L-3.4-dihydroxyphenylalanine (L-DOPA) biochemically. L-DOPA is a precursor for
+      dopamine, epinephrine (adrenaline), and norepinephrine (noradrenaline), collectively known as
+      catecholamines. 18F-DOPA enters the biochemical pathway of L-DOPA both in the brain and
+      peripherally, and can be imaged with a positron emission tomography / computed tomography
+      (PET/CT) scanner. 18F-DOPA can therefore allow imaging of the L-DOPA metabolic pathway with a
+      high target-to-background ratio providing valuable information for a number of diseases.
+
+      While 18F-DOPA is an established diagnostic tracer at a number of different institutions
+      globally, given the short half-life of 18F (110 minutes) this tracer cannot be imported for
+      local use. The Edmonton PET Centre has recently developed a production method for this tracer
+      allowing local access. An initial study at the University of Alberta (Pro00055342) has
+      demonstrated this tracer to have an acceptable safety profile, an expected biodistribution
+      (both physiologic and disease-related), and has established clinical efficacy of the tracer.
+
+      In March, 2020 the University of Alberta Hospital (UAH) installed a new PET/CT scanner (GE
+      Discovery MI) with a digital detector system and new iterative image reconstruction
+      algorithms that represent a substantial technological improvement compared to the previously
+      installed scanner. It is expected that this new system will reduce artifact and will increase
+      the sensitivity for the detection of smaller lesions.
+
+      Our initial study demonstrated rapid urinary excretion with intense collection of activity
+      within the urinary bladder. While this physiology was expected, it did result in diminished
+      image quality in the evaluation of the pelvis in some patients. Improved image reconstruction
+      algorithms available on the new GE Discovery MI PET/CT system may improve imaged quality
+      related to this problem. Based on our experience with 18F-fluorodeoxyglucose (FDG) PET/CT
+      scans, the administration of intravenous furosemide prior to imaging can also substantially
+      improve the image quality in the pelvis. These potential improvements have not yet been
+      established with 18F-DOPA.
+
+      A second observation from our initial study was that many participants demonstrated intense
+      early activity at the gallbladder fundus. While biliary and gallbladder activity are
+      described in the normal biodistribution of 18F-DOPA, the observed distribution suggests that
+      the gallbladder fundus activity reflects primary uptake rather than reflux of activity within
+      bile into the gallbladder.
+
+      The rationale for this study is to explore the efficacy of these optimization parameters (new
+      digital PET/CT camera system and use of intravenous furosemide) in the context of 18F-DOPA
+      PET/CT imaging for patients with clinical indications for the scan. Imaging data from this
+      study will be compared with data from the prior study (Pro00055342) to determine if the new
+      digital detector PET/CT technology and preparatory furosemide administration improves image
+      quality for these patients.
+
+      A subgroup will also be scanned dynamically at the abdomen to better assess the pattern of
+      gallbladder activity over time. This will include a mixture of clinical indications listed
+      within the inclusion criteria. All patients will be screened for a history of previous
+      gallbladder disease at the time of the scan by questionnaire. The intention of this sub-study
+      is to better determine 18F-DOPA activity patterns associated with the gallbladder and to
+      explore if there is a correlation between dopaminergic degeneration in the brain and the
+      gallbladder.
+
+      PURPOSE AND STUDY OBJECTIVE:
+
+      Trial Type: Phase III non-randomized, non-blinded prospective cohort clinical trial of
+      patients with a clinical indication for 18F-DOPA PET/CT imaging.
+
+      The primary purpose of this study is to assess optimization parameters for 18F-DOPA PET CT
+      imaging at UAH including the impact of new digital detector PET/CT technology as well as the
+      impact of preparatory intravenous furosemide administration on image quality within the
+      pelvis. A secondary purpose of this study is to better delineate the pattern of 18F-DOPA
+      activity associated with the gallbladder and to explore if there is a relationship between
+      dopaminergic denervation in the gallbladder and the brain.
+
+      Only patient populations for which there are established clinical indications for the use of
+      18F-DOPA will be included in this study. Participation in this study will allow access to
+      this tracer for patients in Alberta as there is no Health Canada approved similar tracer
+      currently available. 18F-DOPA is an established clinical tracer at multiple institutions
+      globally and has been approved for clinical use at multiple European centres for many (10+)
+      years. Established clinical indications in the literature include:
+
+        1. Pediatric patients (less than 18 years old) with congenital hyperinsulinism. The
+           18F-DOPA scan is used to plan required surgical intervention for these patients.
+
+        2. Pediatric patients (less than 18 years old) with neuroblastoma. The 18F-DOPA scan is
+           indicated for pre-operative assessment of a mass suspected to be a neuroblastoma,
+           staging, re-staging, and assessment of recurrence in this patient group.
+
+        3. Pediatric (less than 18 years old) or Adult patients (18 or older) with known or
+           clinically suspected neuroendocrine tumor. These include patients with carcinoid tumor,
+           pheochromocytoma, paraganglioma, and medullary thyroid cancer. 18F-DOPA is indicated for
+           metabolic assessment of a mass suspected to represent one of these tumor-types, for
+           staging of a known tumor, for re-staging, and for assessment of recurrence in this
+           patient group.
+
+        4. Adult patients (18 or older) with a clinical suspicion of Parkinson's disease or Lewy
+           body dementia. 18F-DOPA is indicated to differentiate benign essential tremor from
+           Parkinson's disease in this patient group [22-26]. 18F-DOPA may also be used to
+           differentiate Lewy body dementia from other dementia types.
+
+        5. Pediatric (less than 18 years old) or Adult patients (18 or older) with brain tumors
+           (primary or metastatic). 18F-DOPA is indicated for biopsy planning, radiation therapy
+           planning, and post-therapy assessment to differentiate residual viable tumor from
+           post-therapy necrosis in this patient population.
+
+      When requested for patients falling into one of these diagnostic groups, an 18F-DOPA PET/CT
+      scan will be performed and interpreted clinically with the results conveyed to the referring
+      physician.
+
+      Image optimization (the primary study objective) will be evaluated based on the following:
+
+        -  For patients with abnormal activity, the smallest 3 lesions will be recorded in terms of
+           size (mm) and activity (SUVmax). For PET-avid lesions, the size measurement will be
+           based on measuring the maximum dimension of the corresponding lesion on the CT scan
+           component if possible. If not possible, a size measurement based on the PET images will
+           be used. The minimum lesion size and average (3 smallest lesions) will be compared with
+           a cohort of scans acquired on the previous non-digital PET/CT scanner (retrospective
+           cohort of 50 positive patients, Pro00055342).
+
+        -  The SUVmax, SUVmean, and SUV standard deviation of urinary bladder activity will be
+           measured and compared to a retrospective cohort of 50 patients from a previous study
+           (Pro00055342)
+
+        -  A subjective score will be applied to the pelvis with respect to image artifact related
+           to bladder activity (0 = no artifact, 1 = mild artifact, 2 = severe artifact). This will
+           be compared to scoring of the previous study (retrospective cohort of 50 patients,
+           Pro00055342) retrospectively.
+
+      Gallbladder activity pattern (the secondary objective) will be evaluated based on the
+      following:
+
+        -  SUVmax measurements of the gallbladder fundus, gallbladder neck, common bile duct, right
+           and left main intrahepatic ducts, and liver parenchyma (right and left lobes, 3 cm
+           diameter VOI) will be measured at 5 minute increments. These will be analyzed in total,
+           and subgroups will be compared (32 PD vs. 32 non-PD participants).
+
+        -  All participants will be screened by questionnaire at the time of the scan as to whether
+           there is a history of previous gallbladder disease. The positive response rate will be
+           compared between three groups: non-PD patients, PD patients with objective evidence of
+           dopaminergic denervation (positive FDOPA scan), PD patients without objective evidence
+           of dopaminergic denervation (negative FDOPA scan).
+
+      PATIENT POPULATION:
+
+      A total of 800 patients who meet the inclusion criteria will be identified based on referrals
+      from physicians who deem the imaging studies potentially useful for clinical care. It is
+      anticipated that complete enrollment will take 5 years (approximately 160 scans per year).
+
+      Sample size calculation is based on the following. There will typically be 5 participants
+      total scanned per day. Dynamic imaging will be restricted to one patient per scanning day due
+      to time constraints related to the scanner, as this requires the participant to lie quietly
+      in the PET/CT scanner for up to one hour. Allowing for this restriction, it is estimated that
+      the overall participation rate for dynamic scanning will be 10%. Based on a minimum total
+      sample size of 64 participants for the secondary objective analysis, a total minimum study
+      population of 640 is required. Allowing for some potential buffer for recruitment, a total of
+      800 participants is planned.
+
+      The minimum sample size of 64 participants is based on the following estimations: gallbladder
+      fundus SUVmax mean 10.9, SUVmax DS 4.6 (measured from cohort of 10 patients from the previous
+      study), α = 0.05, and power = 0.80. Two groups of 32 participants (64 total) should allow for
+      detection of a minimum 30% difference in SUVmax involving the gallbladder fundus between the
+      two groups.
+    
+  

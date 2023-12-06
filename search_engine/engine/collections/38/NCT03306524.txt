@@ -1,0 +1,105 @@
+
+    
+      - Background of the project
+
+      About 1.5% of newborns require mechanical ventilation. Although mechanical ventilation can be
+      life-saving for neonates with respiratory failure, it may cause lung injury due to excess
+      airway pressure (barotrauma), delivery of high tidal volumes (volutrauma) and repetitive
+      closing/re-opening of lung units (atelectotrauma)1. Very preterm neonates are especially
+      vulnerable to ventilator induced lung injury. Ventilator associated lung injury is one of
+      several factors contributing to the burden of chronic lung disease of infancy, also called
+      bronchopulmonary dysplasia (BPD).
+
+      Ventilators have several different modes. The most frequently used mode is, time-cycled,
+      pressure limited, where the doctor sets inspired oxygen level, the peak inflation pressure
+      (PIP), rate, and inflation time of the ventilator. In this mode the inflations are usually
+      synchronised with the baby's breathing. This is either Synchronised Intermittent Positive
+      Pressure Ventilation (SIPPV), where the ventilator synchronises inflations with all the
+      baby's breaths, or Synchronised Intermittent Mandatory Ventilation (SIMV), where the
+      ventilator only synchronises with a set number of breaths. These can be delivered with or
+      without targeting the tidal volume delivered to a set value by adjusting the peak inflating
+      pressure. This mode is called volume guarantee (VG). A similar mode of ventilation is
+      flow-cycled or Pressure Support Ventilation (PSV) and can be combined with tidal volume
+      targeting 2. In this mode the inflation is terminated as soon as the flow rate falls to 15%
+      of the maximum flow during inflation.
+
+      These modes have continuous gas flow through the ventilation circuit. Inflation starts and
+      pressure rises when the expiratory valve is closed. The rate of circuit flow alters the
+      ventilation waveforms. With time-cycled ventilation the higher the circuit flow the faster
+      the pressure rises, the lung is distended and potentially injured, and the earlier the set
+      PIP is achieved. A high flow, with a relatively long inflation time will result in a
+      "pressure plateau", that is the PIP is sustained after the flow, into the baby, has stopped
+      because the lung volume is maximal at the PIP used (Figure 1). In PSV inflation stops when
+      the flow has decreased to ~15% of the peak inflation flow and so the inflation time is
+      shorter. Increasing the device flow shortens the inflation time and thereby reduces the mean
+      airway pressure.
+
+      Despite the effects on ventilation patterns and the speed of lung distension and injury,
+      consideration has rarely been given to the circuit flow. By protocol, it is usually set at
+      7-10 L/min when the ventilator is turned on and it is not changed.
+
+      This is relatively high, and usually produces a "square" pressure waveform with a rapid
+      distention of the lungs and a sustained pressure plateau. (see A in figure 1) With PSV a high
+      flow results in a relatively short inflation time (~0.2 sec; it needs to be at least 0.3 sec
+      for adequate lung aeration). There is no evidence these high flows are best for optimum
+      ventilation and minimum lung damage. In a preterm lamb model there were no adverse effects on
+      gas exchange or cardiovascular parameters until the flow was reduced to 3 l/min 3. In animal
+      studies ventilation with high flow resulted in histologic and molecular changes of lung
+      injury 4. The effect of lowering the ventilator circuit flow rate has never been investigated
+      in clinical studies.
+
+      The Dräger Babylog VN500 ventilator has an alternative to setting a gas flow: the user can
+      set the slope time instead, that is time required to reach the set pressure. In Cambridge it
+      is invariably set to 0.08 sec which results in a flow ~7 L/min. As we use an inflation time
+      between 0.33 - 0.45 sec, there is a pressure plateau lasting at least 0.25 sec and sustained
+      inflation with little or no flow.
+
+      The investigators are the first to develop a unique system for downloading and analysing data
+      from the Dräger VN500 neonatal ventilator. Using DataGrabber software obtained from Dräger
+      Medical, the investigators can retrieve ventilator parameters at 100Hz frequency over long
+      periods (hours and even days). To analyse and visualise the large datasets the investigators
+      developed a data analysis workflow using the Python programing language and its add-on
+      packages (Figure 2). With this tool the investigators can now study details of each inflation
+      and spontaneous breath. The Investigators have recorded detailed data from 30 babies and
+      shown it is feasible, accurate, and the investigators have the expertise (Belteki et al,
+      submitted).
+
+      In this application the investigators propose to investigate the effect of different slope
+      times (and therefore different levels of circuit flow) on ventilation parameters and gas
+      exchange in preterm infants. The investigators hypothesise that a longer slope time (= lower
+      circuit flow) will distend the lungs more gently yet maintain ventilation and gas exchange.
+
+        -  Intervention:
+
+      The study is a within patient crossover design comparing short periods of ventilation with
+      different slope times both in SIPPV-VG and PSV-VG modes with the following interventions:
+
+      A ventilator download tool and transcutaneous and expired CO2 monitors is attached to the
+      ventilator and data download commences while the baby is ventilated with the parameters used
+      by the clinical team. An arterial blood gas is performed. The ventilated parameters are
+      changed as shown below. The order of these epochs is randomised. Another arterial blood gas
+      is performed. Ventilator is changed back to the original parameters (or different as
+      appropriate by the blood gas). Ventilator data and CO2 recording will be continued for
+      another 30 minutes.
+
+      Interventions
+
+      Duration Ventilator More Slope time Inspiratory time[max] 15 min SIPPV-VG 0.08 0.40 15 min
+      PSV-VG 0.08 [0.60] 15 min PSV-VG 0.16 [0.60] 15 min SIPPV-VG 0.16 0.40 15 min SIPPV-VG 0.24
+      0.40 15 min PSV-VG 0.24 [0.60] 15 min PSV-VG 0.32 [0.60] 15 min SIPPV-VG 0.32 0.40 15 min
+      SIPPV-VG 0.40 0.40 115 min PSV-VG 0.40 [0.60]
+
+      Total study duration is 220 minutes. A researcher will be present continuously. FiO2 will be
+      adjusted if needed to maintain saturations between 90-95%. If the FiO2 rises >15% or the
+      end-tidal CO2 rises >1.5kPa over the pre-study level, that intervention will be abandoned.
+
+      Comparison:
+
+      At each slope time, the following parameters will be determined and compared with those
+      recorded at 0.08 sec slope time: (1) peak inflating pressure, (2) inflation duration, (3)
+      duration of inflation plateau, (4) duration of no gas flow, (5) expired tidal and minute
+      volumes (mandatory/spontaneous, inspiratory/expiratory, (6) ventilator rate, (7) FiO2, (8)
+      transcutaneous and/or end-tidal CO2 and, (9) interaction between ventilator inflations and
+      baby's breaths. Values for SIPPV and PSV will also be compared.
+    
+  

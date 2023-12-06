@@ -1,0 +1,37 @@
+
+    
+      Chronic kidney disease (CKD) is a major public health concern. Progression of CKD leads to
+      end-stage renal disease (ESRD), a total and permanent failure of kidney function requiring
+      kidney transplant or maintenance hemodialysis. Among the numerous risk factors of mortality,
+      severe malnutrition, now defined as protein energy wasting (PEW), which is manifested by low
+      serum levels of albumin or pre-albumin, sarcopenia and weight loss, is one of the strongest
+      predictors of mortality, morbidity and infection-related hospitalizations in hemodialysis
+      (HD) patients. When PEW is present or the patient is at high risk, oral intradialytic or
+      daily supplements, aiming at increasing energy and protein intake, while in selected cases
+      intra-dialytic parenteral nutrition may be used for the clinician. Previous reports showed
+      that providing patients with intradialytic food, liquid supplements, or parenteral nutrition
+      has been shown to compensate for this loss. In patients with ESRD, it is important to prevent
+      PEW through a regular nutritional status evaluation and nutritional counseling by a renal
+      dietitian. Intradialytic administration of oral or parenteral supplementation of nutrients is
+      safe and should be encouraged in selected patients. Although the problem of malnutrition
+      became more and more serious due to the increasingly aging and Diabetes Mellitus (DM)
+      proportion in HD population, there are still no universally accepted methods to early detect
+      or predict this problem. Thus, the intention for early intervention to suitable patients
+      faces difficulty. In Taiwan Prediction Model Project Plan (TPMPP), the investigators try to
+      develop a model using common available clinical data with the utilization of current machine
+      learning methods to early detect the patients with high risks for malnutrition and the
+      investigators wish through the routine application of this model, the investigators can do
+      nutrition intervention in much earlier stage and improve the patients' outcome. In the first
+      stage of TPMPP, the investigators have developed some prediction models through an abundant
+      retrospective database collected in Fresenius Database (NephroWeb) from 2011-2018. Before
+      real implementation of these models in clinical practice, the investigators need to validate
+      these models with prospective design with proper intervention, this is the main purpose of
+      this study. The Body Composition Monitor with the principle of Bioimpedance Spectroscopy
+      (BCMBIS, Fresenius Medical Care) is a simple and accurate tool for the assessment of body
+      composition. Recently, the lean and fat mass indexes (LTI, FTI), derived from BCM, have
+      become good predictors of mortality in HD individuals, which have been more sensitive to
+      malnutrition, and altogether anthropometric indicators may result in an early detection of
+      mortality risk in this population. Thus, the investigators also try to apply these parameters
+      in this study as important nutrition outcomes for follow-up.
+    
+  

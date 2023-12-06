@@ -1,0 +1,65 @@
+
+    
+      The project will aim to create the infrastructure to collect clinical data and participants
+      reported biometric measures (ePReBMs) from wearable devices in a database, and to run a pilot
+      phase with a limited number of participants. During this phase, the feasibility of a
+      long-term (6 months) home monitoring of respiratory parameters with the wearable device
+      ADAMM-RSM (Health Care Originals, Rochester, NY, USA) will be tested, in parallel with the
+      standard of care, in a limited number of participants with progressive fibrosing interstitial
+      disease (PF-ILD) including idiopathic pulmonary fibrosis (IPF), lung transplant, cystic
+      fibrosis (CF) and bronchiectasis, and tuberculosis (TB). The study design will test the
+      possibility to collect data from ADAMM-RSM: ideally, the participants should wear the
+      ADAMM-RSM every day, for at least 8 hours. For the purpose of this study, the investigators
+      will aim to collect data from the device for every participant at least 3 days per week, at
+      least 8 hours per day, for a period of 6 months.
+
+      The duration of this study is estimated in 2 years, including the data analysis. The
+      participants will be provided the due information about the study and they will sign a
+      written consent before enrolment (a copy is attached to the application to the Research
+      Ethics Office of the University of Alberta).
+
+      Every participant enrolled in the study will be asked to wear the ADAMM-RSM (Health Care
+      Originals, Rochester, NY, USA) device every day for 6 months.
+
+      The wearable device includes a non-invasive biosensor and processor that is attached to the
+      surface of the skin using an adhesive sticker. It is designed to measure physical activity,
+      heart rate, respiration, skin temperature, and cough metrics using embedded audio
+      transducers, thermistor, accelerometer, gyroscope, and magnetometer. It can be applied
+      anywhere on the chest, with a single-use, changeable sticker. As such, the device is able to
+      collect heart and respiratory rate, temperature and cough, and to correlate these parameters
+      to rest, activity and intensity of activity for the duration of the battery (18 hours). After
+      signing the informed consent, the participants will be instructed on how to apply and to
+      remove the device on/from the chest, to use the device during the day, and to recharge it at
+      night using its dedicated charger.
+
+      Every device is supplied with a unique anonymous identifier, and will transmit the data via
+      Wi-Fi to a cloud secured database provided by Health Care Originals (Health Care Originals,
+      Rochester, NY, USA). This database will be physically located in a server within the Canadian
+      borders. The database will be moved to a secured server at the University of Alberta at the
+      end of the study.
+
+      Potential registrations of speech during cough episodes are prevented by an integrated
+      algorithm in the device, cleaning automatically any sound other than cough before
+      transferring the data to the cloud server.
+
+      Local research coordinators will use a web-based portal to check the usage of the devices and
+      that the devices are working properly. This portal does not include personal data of the
+      participants but only the device identifier so matching back of actual patient to data stream
+      will not occur on any of Healthcare Originals infrastructure.
+
+      A unique progressive study ID will be assigned to every participant entering the study. This
+      ID will be coupled to the ADAMM-RSM identifier and it will be used in a separate database to
+      collect clinical and follow-up data. The ID will be coupled to participants identifiers only
+      in a third excel file, encrypted and protected with a password that will be accessible only
+      to the study investigators.
+
+      The participants will be requested to fill 3 quality of life questionnaires (the King's Brief
+      Interstitial Lung Disease questionnaire for PF-ILD or Saint George Respiratory Questionnaire
+      for the other diagnoses, the Leicester Cough Questionnaire and the MRC dyspnea questionnaire
+      for all the enrolled patients) at the time of enrolment, and after 3 and 6 months. The
+      questionnaires will be used to compare responses at 3 and 6 months to the data generated from
+      the device. Participants will be asked to return the device to the study site at the 6-month
+      timepoint. Clinical data will be collected from the participant's chart if available at the
+      baseline, 3, and 6 month timepoints as per the CRF's.
+    
+  

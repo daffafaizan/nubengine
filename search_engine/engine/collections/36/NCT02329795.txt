@@ -1,0 +1,13 @@
+
+    
+      Generally, response prediction models seeks to predict time to an event, e.g.
+      time-to-progression and/or overall survival. The aim of this study is to explore the
+      feasibility of establishing an individualized response model, that, based on several
+      morphologic, physiologic and metabolic parameters extracted from computed tomography (CT),
+      positron emission tomography (PET) and magnetic resonance imaging (MRI), is able to predict
+      the tumor response at the level of an imaging voxel, using machine learning techniques.
+
+      Imaging modalities include MRI, PET/CT with 18F-fluroethyltyrosine (18F-FET), and PET/MRI
+      with 64Cu-diacetyl-bis(N4-methylthiosemicarbazone) (64Cu-ATSM).
+    
+  

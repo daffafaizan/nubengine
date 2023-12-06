@@ -1,0 +1,13 @@
+
+    
+      We aim to experiment and implement various deep learning architectures in order to achieve
+      human-level accuracy in Computer-aided diagnosis (CAD) systems. In particular, we are
+      interested in detecting renal tumors from CT urography scans in this project. We would like
+      to classify renal tumor to cancer, non cancer, renal cyst I, renal cyst II, renal cyst III
+      and renal cyst VI, with high sensitivity and low false positive rate using various types of
+      convolutional neural networks (CNN). This task can be considered as the first step in
+      building CAD systems for renal cancer diagnosis. Moreover, by automating this task, we can
+      significantly reduce the time for the radiologists to create large-scale labeled datasets of
+      CT-urography scans.
+    
+  

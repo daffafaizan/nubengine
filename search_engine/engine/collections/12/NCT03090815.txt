@@ -1,0 +1,98 @@
+
+    
+      Although EGFR- and ALK-TKIs can achieve a response rate as high as 70%, all patients treated
+      with TKIs invariably develop resistance to the therapy. The median progression-free survival
+      is 10-16 months. The most common mechanism of acquired resistance to TKIs is the
+      therapy-induced clonal selection of a minor subpopulation of resistant cancer cells that were
+      present in the original tumor. Emergence of the EGFR mutation T790M occurs in about 50-70% of
+      patients with acquired resistance to EGFR-TKIs. Other EGFR mutations and mutations in
+      phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) and B-Raf
+      Proto-Oncogene (BRAF) are also associated with EGFR-TKI resistance, but they occur at low
+      frequencies. Resistance to ALK-TKI is more complex and involves various resistant mutations.
+
+      TKI resistance remains a major problem in clinical management of NSCLC. Patients with
+      acquired resistance can be treated with second generation TKIs, though none are FDA approved
+      yet, or by combination therapy strategies. Therefore, molecular characterization of tumor
+      throughout the course of disease is helpful to match new drugs to the tumor's evolving
+      genomic profile and guide effective personalized therapies. However, serial tissue sampling
+      to monitor molecular signatures of tumor is invasive, impractical, and not a routine clinical
+      practice. Obtaining sufficient tissue materials for genotyping is also a major hurdle in
+      tissue sampling. There is a need to develop a technology that permits non-invasive serial
+      analysis of the tumor genomic profiles.
+
+      Cell-free circulating DNA is fragmented DNA found in circulation that is not associated with
+      cells or cell fragments. When tumor cells die, they release tumor DNA into the bloodstream.
+      The cell-free circulating DNA derived from tumors, known as circulating tumor DNA (ctDNA),
+      carries mutations present in the tumor and hence can be distinguished from cell-free
+      circulating DNA derived from normal cells. It has been shown that the detection of ctDNA and
+      its concentration correlate with tumor stage and cancer survival. Moreover, ctDNA in plasma
+      can be used to detect genomic alterations in solid cancers, and that there is a high
+      concordance in detected mutations between paired formalin-fixed paraffin-embedded (FFPE) and
+      plasma DNA samples.
+
+      In a study of acquired resistance to EGFR blockade in colorectal cancer patients, repeated
+      serum samples were collected at 4-week intervals until disease progression. Using
+      mathematical modeling, this study had the following important findings: resistant mutations
+      were present in a clonal subpopulation within the tumors prior to the initiation of
+      treatment, it took a fairly consistent period of time (about 5-6 months) for the subclone to
+      expand and repopulate the lesion, and circulating resistant mutations could be detected
+      several months before radiographic evidence of disease progression. This seminal study
+      demonstrated the potential of using a ctDNA test to track genomic evolution and selection in
+      tumors in a non-invasive manner in order to facilitate individualized therapies and hence to
+      prolong remission.
+
+      The investigators have demonstrated plasma detection of EGFR mutations in patients with
+      advanced stage lung adenocarcinoma bearing EGFR mutations, correlating with prognosis of
+      subjects on EGFR-TKI. One prospective study had used real-time polymerase chain reaction
+      (RT-PCR) to detect EGFR mutations in ctDNA from patients with advanced NSCLC. Among patients
+      who were EGFR mutation + at baseline (pre-treatment), those who lost the EGFR mutation at
+      cycle 3 of treatment (chemotherapy +/- erlotinib) had better progression free survival;
+      median survivals were 7.2 vs. 12.0 months in patients who were EGFR mutation (+,+) and (+,-)
+      at baseline and cycle 3, respectively.
+
+      Other studies have also demonstrated the feasibility of other oncogenic mutations especially
+      KRAS mutation.
+
+      Although these studies demonstrated the feasibility of detecting tumor mutations in ctDNA,
+      they were limited to examining a single gene (e.g., EGFR or KRAS).
+
+      Other studies had applied next generation sequencing in patients with NSCLC. Max Diehn's lab
+      at Stanford University has developed a method to quantify ctDNA by deep sequencing of >130
+      genes. In 17 patients with paired plasma DNA and tumor tissue samples, they were able to
+      detect all mutations previously identified in tissue plus many additional somatic variants.
+      They also found levels of ctDNA to be highly correlated with tumor volume. Their study
+      examined multiple genes, but did not have a prospective component to track ctDNA mutations
+      and correlate specific mutations with treatment outcome.
+
+      Testing of ctDNA in patients who receive chemotherapy has never been done. Genomic profiling
+      can identify mutations associated with resistance and response to chemotherapy.
+
+      The investigators therefore propose a longitudinal study in patients with advanced NSCLC
+      treated with first-line TKI or chemotherapy to collect serial blood samples prospectively
+      and, using next-generation sequencing of ctDNA, to examine the evolutionary genomic profiles.
+      This study aims to evaluate utilities of the ctDNA test in identifying genomic markers to
+      predict treatment response and survival in patients with advanced NSCLC.
+
+      This proposed study will examine the utilities of ctDNA in identifying genomic markers for
+      NSCLC prognosis in patients treated with first-line TKI or chemotherapy. After diagnosis,
+      patients will be followed at 3-month intervals. At each study visit, plasma samples will be
+      collected and, whenever clinically indicated, tissue samples will also be obtained. Genomic
+      profiling of tumors will be done in the FFPE tissue sample and in ctDNA extracted from the
+      prospectively collected plasma samples. The aims are:
+
+        1. To determine concordance and discordance of somatic mutations found in ctDNA and tumor
+           tissue DNA.
+
+        2. To identify mutations in ctDNA that are associated with prognosis (treatment response
+           and progression-free survival) in patients who receive (a) EGFR-TKI treatment, (b)
+           ALK-TKI treatment, or (c) chemotherapy.
+
+        3. To track the molecular time course in terms of (a) variation of total ctDNA
+           concentration over time, (b) when the mutations associated with resistance/recurrence
+           are first detectable in plasma, and (c) how the mutation fractions of the
+           resistance-associated mutations vary over time.
+
+        4. To combine information from Aims 2 and 3 to develop prediction models for prognosis in
+           patients who receive (a) EGFR-TKI treatment, (b) ALK-TKI treatment, or (c) chemotherapy.
+    
+  

@@ -1,0 +1,61 @@
+
+    
+      Several conventional and advanced mapping techniques are frequently utilized to accomplish a
+      successful catheter ablation. Many of these mapping techniques (activation mapping,
+      entrainment mapping) are hampered by either hemodynamic instability of some tachycardias or
+      non-sustainability of others. Pacemapping is a commonly used tool for mapping non-sustained
+      or hemodynamically unstable VT, which is based upon the principle that activation of the
+      heart from a given site will yield a reproducible body surface electrocardiogram (ECG)
+      morphology and that pacing from a site very close to the site at which VT activates the heart
+      will result in a matching ECG morphology. This technique, however, is limited by imperfect
+      accuracy and spatial resolution, subjectivity of interpretation leading to marked
+      inter-observer variability in the perceived quality of a morphologic match, and by the need
+      for an intuitive interpretation of the ECG to direct catheter manipulation. We hypothesize
+      that one can improve the accuracy with which the origin of VT is localized by applying body
+      surface potential mapping (BSPM), using data derived from 120 simultaneously acquired ECGs.
+
+      Objectives:
+
+        1. To quantify the similarity between BSPM waveforms during induced VT and during
+           pacemapping or between two different pacing sites using two waveform comparison metrics,
+           the correlation coefficient (CORR) and the root mean square error (RMSE) and to test the
+           validity of these metrics as markers of proximity of the pacing site to the site of
+           earliest ventricular activation.
+
+        2. To compare the accuracy with which the origin of ventricular tachycardia is localized
+           via pacemapping by applying (BSPM), which uses data derived from 120 simultaneously
+           acquired ECGs, to the accuracy of localization with different ECG subsets e.g. 12-lead
+           ECG and X, Y and Z leads.
+
+      Patient and methods:
+
+      We anticipate that our patients will fall in one of the flowing 4 groups:
+
+      Group A:Patients with focal VT in structurally normal heart. Group B:Patients with scar
+      related VT in which the exit site can be identified. Group C:Patients with scar related VT in
+      which the exit site cannot be identified.Group D:Patients presenting with SVT.
+
+      For all groups, data for body-surface potential mapping (BSPM) will be recorded during
+      induced VT (Group A& B), pacing from virtual VT exit sites which are several points selected
+      around the scar margin to represent the VT exit site (group C) or index pacing site which is
+      a pacing site selected as a reference in the RV of patients presented with SVT (group D) and
+      from different pacemapping sites including successful and unsuccessful ablation sites if
+      applicable. All data will be imported into customized software.
+
+      The improvement in the arithmetic value of the two comparison metrics will be tested as the
+      site of pacing approaches the site of earliest ventricular activation (Groups A&B) or virtual
+      VT exit sites in group C or the index pacing site (in group D). The best CORR and RMSE
+      between the BSPM obtained during VT (in group A and B)/virtual VT exit sites (in group C) or
+      index pacing site (group D) and different pacing sites (including successful and unsuccessful
+      ablation sites) will be recorded. A simple linear regression will be used to compare the CORR
+      and RMSE difference at each pacing site to distance between this pacing site and the
+      successful ablation site as a surrogate of the best pace-match (in group A and B) or the
+      corresponding virtual VT exit site (in group C) or index pacing site (group D). P value <0.05
+      will be considered significant. The mean sensitivity, specificity, and positive- and
+      negative-predictive accuracies of the arithmetic metrics in determining the VT origin/exit
+      site will be determined. We will repeat the previous protocol using different ECG subsets
+      including 12 lead ECGs and X, Y and Z leads. The predictive accuracies for different subsets
+      of electrodes will be measured and compared to those derived from using the whole BSPM
+      obtained from the 120 ECG leads.
+    
+  

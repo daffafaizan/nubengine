@@ -1,0 +1,86 @@
+
+    
+      Background: Sugars especially in form or sugar-sweetened beverages (SSBs) have been singled
+      out as one of the prime culprits in the dual epidemics of obesity and diabetes. Artificially
+      sweetened beverages (ASBs) provide a potentially important means for displacing excess
+      calories from free sugars in the diet. There is, however, a concern that the use of ASBs may
+      themselves contribute to an increased risk of obesity and diabetes. This concern led the 2015
+      Dietary Guidelines for American Committee (DGAC) to recommend that sugars in the diet not be
+      replaced with ASBs but rather with "healthy options" such as water. Whether ASBs as a
+      replacement strategy for SSBs have the intended benefits and whether these benefits are
+      similar to those of the preferred replacement strategy water remains unclear.
+
+      Objective: To inform the update of the European Association of the Study (EASD) clinical
+      practice guidelines for nutrition therapy, the investigators will conduct a series of
+      systematic reviews and network meta-analyses to asses the effect of the substitution of ASBs
+      for SSBs, water for SSBs, and ASBs for water on measures of adiposity and cardiometabolic
+      risk factors.
+
+      Design: Each systematic review and meta-analysis will be conducted according to the Cochrane
+      Handbook for Systematic Reviews of Interventions and reported according to the Preferred
+      Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA).
+
+      Data sources: MEDLINE, EMBASE, and The Cochrane Central Register of Controlled Trials
+      (Clinical Trials; CENTRAL) will be searched using appropriate search terms supplemented by
+      hand searches of references of included studies. Abstracts will be included and no language
+      restrictions will be used.
+
+      Study selection: The investigators will include randomized controlled trials (RCTs) that are
+      >=7 days duration and assess the effect of water versus ASBs on incident overweight/obesity
+      or cardiometabolic risk factors.
+
+      Data extraction: Two or more investigators will independently extract relevant data and
+      assess risk of bias using the Cochrane Risk of Bias Tool. All disagreements will be resolved
+      by consensus. Standard computations and imputations will be used to derive missing variance
+      data.
+
+      Outcomes: There will be 9 outcome clusters. The primary outcome will be body weight.
+      Secondary outcomes will be other markers of adiposity (BMI, body fat, waist circumference);
+      glycemic control (glycated blood proteins [HbA1c, fasting blood glucose, postprandial blood
+      glucose, fasting blood insulin, homeostasis model assessment of insulin resistance
+      [HOMA-IR]); established therapeutic lipid targets (LDL-cholesterol, non-HDL-cholesterol,
+      apolipoprotein B [apo B], HDL-cholesterol, triglycerides, total cholesterol, ); blood
+      pressure (systolic blood pressure and diastolic blood pressure); markers of NAFLD
+      (intrahepatocellular lipids [IHCL], alanine aminotransferase [ALT], aspartate
+      aminotransferase [AST]); and uric acid.
+
+      Data synthesis: Risk ratios (incident overweight/obesity) and mean differences (all other
+      outcomes) will be pooled for direct comparisons (ASBs versus water) and indirect comparisons
+      (ASBs versus SSBs and water versus SSBs using SSBs as the common comparator). We will perform
+      Bayesian Network-Meta Analysis (NMA). We will present the pooled estimates as posterior means
+      and 95% credible intervals. We will also use NMA for sensitivity analysis to validate our
+      findings from the conventional generic inverse variance random-effects models. The NMA will
+      be conducted using Markov Chain Monte Carlo (MCMC) approach simulation using GeMTC-R package.
+      Paired analyses will be applied for crossover trials. Heterogeneity will be assessed by the
+      Cochran Q statistic and quantified by the I2 statistic. To explore sources of heterogeneity,
+      the investigators will conduct sensitivity analyses, in which each study is systematically
+      removed. If there are >=10 studies, then the investigators will also explore sources of
+      heterogeneity by a priori subgroup analyses by health status (metabolic syndrome/diabetes,
+      overweight, normal weight), dose (<=median intake, >median intake), baseline measurements
+      (global and abdominal adiposity), randomization, study design (parallel, crossover), energy
+      balance (positive, neutral, negative), follow-up (<=8 weeks, >8 weeks), risk of bias, and
+      individual domains of risk of bias using meta-regression analyses. Meta-regression analyses
+      will assess the significance of categorical and continuous subgroup analyses. When >=10
+      studies are available, publication bias will be investigated by inspection of funnel plots
+      and formal testing using the Egger test and the Begg test. If publication bias is suspected,
+      then the investigators will attempt to adjust for funnel plot asymmetry by imputing the
+      missing study data using the Duval and Tweedie trim and fill method.
+
+      Evidence Assessment: The certainty of the evidence for each outcome will be assessed using
+      the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach.
+
+      Knowledge translation plan: The results will be disseminated through interactive
+      presentations at local, national, and international scientific meetings and publication in
+      high impact factor journals. Target audiences will include the public health and scientific
+      communities with interest in nutrition, diabetes, obesity and cardiovascular disease.
+      Feedback will be incorporated and used to improve the public health message and key areas for
+      future research will be defined. Applicant/Co-applicant decision makers will network among
+      opinion leaders to increase awareness and participate directly as committee members in the
+      development of future guidelines.
+
+      Significance: The proposed project will aid in knowledge translation related to the role of
+      ASBs in the development of overweight and obesity, strengthening the evidence-base for
+      guidelines and improving health outcomes by educating healthcare providers and patients,
+      stimulating industry innovation, and guiding future research design.
+    
+  

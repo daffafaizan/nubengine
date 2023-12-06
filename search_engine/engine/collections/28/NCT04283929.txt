@@ -1,0 +1,232 @@
+
+    
+      Motivation of the study A previous cross sectional analysis of the national HIV program in
+      Rwanda, described the HIV care continuum as a "multitrajectory pathway" with many
+      opportunities for patients to exit and return to care between diagnosis and viral
+      suppression. The authors concluded that the weakest point in the continuum is the transition
+      from diagnosis to linkage to care where only half of newly diagnosed patients link to care
+      within 6 months of receiving their diagnosis.
+
+      This study also estimated that 82.2 percent of patients on ART achieve viral suppression.
+      Overall, half of the HIV-positive population in Rwanda in 2013 was assumed to be virally
+      suppressed. This estimate of viral suppression is based on an analysis of EMR data for a
+      subset of 21,995 patients. Correspondence with one of the study authors clarified that 9,680
+      of these patients were eligible for viral load testing, and 3,066 of eligible patients had
+      recorded viral load data. This suggests that two-thirds of patients eligible for viral load
+      testing do not have viral load results recorded in the EMR. The study do not estimate any
+      type of treatment failure (virologic, immunologic, clinical), and investigators are not aware
+      of any such estimates for Rwanda.
+
+      Studies in Botswana, Malawi, Uganda, South Africa, and Cameroon found that 15 to 25 percent
+      of patients had recorded plasma HIV RNA concentrations in excess of 400 copies per mL within
+      3 years of starting first-line ART. More recently, kenyan study found that among a large
+      cohort of Kenyan patients on ART, 11.6 percent had evidence of immunological treatment
+      failure during the 12-month study period.
+
+      In the Kenya study, investigators randomised 7 of 13 clinics using EMRs to an intervention
+      group that received alerts and reminders about immunological treatment failure. The rate of
+      appropriate clinical action in response to treatment failure increased from 30 percent in the
+      control group to 54 percent in the intervention group. The authors also reported a 72 percent
+      relative reduction in the time from the detection of treatment failure to appropriate
+      clinical action. Investigators did not estimate the impact of the CDSS on treatment outcomes
+      such as viral suppression and survival.
+
+      With the proposed study in Rwanda, investigators see an opportunity to use low-cost decision
+      support tools to increase the rate of linkage to care from diagnosis, improve data quality
+      and completeness for laboratory data such as viral load, demonstrate the efficacy of these
+      decision support tools for prompting timely clinical intervention following treatment
+      failure, and demonstrate that early intervention can lead to positive clinical outcomes for
+      patients.
+
+      Intended/potential use of study findings The study findings will inform the Rwandan
+      government on the performance, clinical impact and costs of the systems they have been
+      implementing, and should help them decide on future eHealth investments for a variety of
+      locations. The results will also help to inform such investments in a wide range of other low
+      and middle income countries managing HIV and other diseases.
+
+      Design/locations Investigators will conduct a cluster-randomized trial to estimate the
+      treatment effect of the enhanced EMR packages on structural, process, and clinical outcomes
+      related to HIV care in Rwanda.
+
+      Research questions and outcomes
+
+      Investigators will ask four primary research questions about the effect of the decision
+      support intervention on process, structural, and clinical outcomes:
+
+        1. Do alerts and reminders improve the linkage from HIV testing to care?
+
+           Outcomes:
+
+           a. Rate of linkage to care among HIV-positive patients within 3 months after diagnosis
+           b. Time from HIV+ test result to linkage to care
+
+        2. Do alerts and reminders improve the quality and completeness of routine lab results in
+           the EMR?
+
+           Outcomes:
+
+             1. Percent of patients on ART completing their 6th month of treatment who have viral
+                load results recorded in the EMR within 2 months of this initial milestone.
+
+             2. Percent of patients on ART who get an annual VL test and have the results recorded
+                in the EMR within 2 months of this annual milestone.
+
+        3. Do alerts and reminders following treatment failure detected by CD4 or viral load
+           improve clinical action?
+
+      Outcomes:
+
+        1. Percent of ART patients who have a recorded clinical action within 1 month of detected
+           treatment failure
+
+        2. Time from treatment failure to recorded clinical action
+
+           4. Do alerts and reminders following treatment failure detected by CD4 or viral load
+           improve therapeutic outcomes such as viral suppression?
+
+           Outcome:
+
+           Percent of patients who experience treatment failure who are fully suppressed 4 months
+           after the point of failure
+
+           Hypotheses With the proposed study in Rwanda, investigators hypothesise that low-cost
+           decision support tools can increase the rate of linkage to care from diagnosis, improve
+           data quality and completeness for laboratory data such as viral load and CD4, and timely
+           clinical intervention following treatment failure.
+
+           Investigators will implement several levels of randomisation to answer different
+           research questions mentioned above.
+
+           I. Do alerts and reminders improve the linkage from HIV testing to care? Randomize
+           included facilities to two arms: Intervention 1 (Int1) and Control (Ctrl1). Facilities
+           assigned to the Ctrl1 will not receive any additional equipment, software tools,
+           training or other forms of support. Facilities assigned to the enhanced package for Int1
+           will receive alerts and reminders to promote linkage from diagnosis to care.
+
+           II. Do alerts and reminders improve the quality and completeness of lab results in the
+           EMR? Randomize the Intervention 1 group into two additional arms: Intervention 2 (Int2)
+           and Control (Ctrl2). Facilities assigned to Int2 will also receive alerts and reminders
+           to improve lab reporting as part of their enhanced package.
+
+           III. Do alerts and reminders following treatment failure detected by CD4 or viral load
+           improve clinical action? Randomize the Intervention 2 group into two additional arms:
+           Intervention 3 (Int3) or Control (Ctrl3). Facilities assigned to Int3 will also receive
+           alerts and reminders to improve clinical response to the detection of treatment failure
+           as part of their enhanced package.
+
+           IV. Do alerts and reminders following treatment failure detected by CD4 or viral load
+           improve clinical outcomes such as viral suppression? (no additional randomisation)
+
+           Investigators believe that this cascading randomisation is needed because interventions
+           designed to improve services at the beginning of the HIV care continuum could have
+           downstream effects that might make it challenging to estimate the effect of each
+           additional intervention in isolation. For instance, providing facilities with tools to
+           improve the linkage from HIV testing to care (Int1) could improve a facility's data
+           capture more generally and potentially improve ordering and recording of lab results
+           (Int2), which would bias the results. Therefore, investigators propose to randomise to
+           Int2 from within the subset of facilities assigned to Int1.
+
+           For 90% power with alpha of 0.05, an ICC of 0.15, equal allocation to the final study
+           arms, and 10 patients per cluster who experience treatment failure during the study,
+           investigators could detect a shift in the percentage of patients who achieve viral
+           suppression following treatment failure of 30 percentage points from 30% to 60%. These
+           numbers are minimum targets and the investigators plan to enrol more sites if feasible
+           to increase the power of the study.
+
+           Definition of Primary Outcomes and Patient Cohorts
+
+           1a. Rate of linkage to care among HIV-positive patients Cohort: Every new adult patient
+           (18 or older) who tests positive for HIV from the start of the trial through month 9.
+           Outcomes for last "enrolled" patients measured in study month 12.
+
+           Baseline situation: a study in Rwanda reported that 50% of diagnosed cases were linked
+           to care within 3 months.
+
+           Impact: Shift proportion from 50% to 75%
+
+             1. b. Time from HIV+ test result to linkage to care
+
+                Cohort: All adults with HIV positive test results recorded in the EMR at a study
+                facility. Same timeline as 1a.
+
+                Endpoint: Linked to care at a study facility within 3 months (N3 N4) Baseline
+                situation: No data Impact: 50% decrease
+
+             2. a. percentage of ART patients have viral load results in EMR (initial)
+
+           Cohort: Every existing ART patient who completes their 6th month of treatment from the
+           start of the trial until study month 10. Outcomes for last "enrolled" patients measured
+           in study month 12.
+
+           Baseline situation: Based on data presented in one study done in Rwanda and
+           correspondence with one of the study authors, investigators estimate that approximately
+           two-thirds of patients eligible for viral load testing do not have viral load results
+           recorded in the EMR.
+
+           Impact: 30% increase
+
+           2b. Percentage of ART patients have viral load results in EMR (annual)
+
+           Cohort: Every existing ART patient who completes 12 months of treatment (annual) from
+           the start of the trial until study month 10. Outcomes for last "enrolled" patients
+           measured in study month 12.
+
+           Baseline situation: Same as 2a Impact: 30% increase
+
+           3a. Percentage of ART patients with treatment failure experience clinical action Cohort:
+           Every existing ART patient who has been on ART for at least 12 months and experiences
+           treatment failure between the start of the sub-trial and study month 11. Outcomes for
+           last "enrolled" patients measured in study month 12.
+
+           Baseline situation: No data Impact: 50% increase
+
+           3b. Time from detection of treatment failure to clinical action
+
+           Cohort: Every existing ART patient who has been on ART for at least 18 months and
+           experiences treatment failure between the start of the trial and study month 11.
+
+           Endpoint: Time in days from treatment failure (N6e) to recorded clinical action.
+
+           Baseline situation: No data Impact: 50% decrease in time from treatment failure to
+           clinical action
+
+           4. Percentage of patients who experience treatment failure who are fully suppressed 4
+           months after the point of failure Cohort: Every existing ART patient who has been on ART
+           for at least 12 months and experiences treatment failure between the start of the
+           sub-trial and study month 8. Outcomes for last "enrolled" patients measured in study
+           month 12.
+
+           Baseline situation: Assumed to be 30% in power calculation Impact: 30 percentage points
+           from 30% to 60%
+
+           Analysis
+
+           Investigators will analyse the data using individual-level and cluster-level approaches:
+
+           Individual-level
+
+           Investigators will estimate intent-to-treat (ITT) treatment effects via logistic
+           regression of the primary outcomes on cluster assignment to treatment (see contrasts in
+           Table 1) blocking strata, and a vector of facility-level and patient-level baseline
+           covariates. Standard errors will be clustered at the facility-level. Investigators will
+           run sensitivity analyses with multilevel modelling approaches. Investigators will also
+           use Kaplan-Meier methods to calculate time-to-event; to test the null hypothesis that
+           there is no difference between the survival curves, investigators will use the log rank
+           test.
+
+           Cluster-level Investigators will estimate the ITT treatment effects via ordinary least
+           squares regression of the primary outcomes on cluster assignment to treatment (see
+           contrasts in Table 1) blocking strata, and a vector of facility-level covariates.
+
+           All research questions, hypotheses and study endpoints recorded here have been approved
+           by the IRBs in Rwanda and at CDC prior to 1/1/2018.
+
+           Data Management
+
+           All study facilities will have EMR systems by design. Therefore, most data will be
+           collected by facility staff via routine care procedures. To gain access to this data,
+           investigators will create automated scripts that create a study ID for each patient and
+           extract de-identified data from the EMR. MOH EMR specialists will review the scripts to
+           ensure that data are properly de-identified.
+    
+  

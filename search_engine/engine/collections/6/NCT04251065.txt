@@ -1,0 +1,127 @@
+
+    
+      This is an open-label, multicenter, single arm, single-stage phase II trial. After the
+      patient signs the written informed consent the patient will enter the screening phase
+      planning baseline assessments and a concomitant upfront confirmation of diagnosis of
+      Peripheral T-Cell Lymphoma Not Otherwise Specified (PTCL-NOS), Angioimmunoblastic T-cell
+      lymphoma (AITL) or Nodal Lymphoma of T Follicular Helper cells (TFH cells) origin and a
+      central evaluation of immunohistochemical positivity of CD38 (cluster of differentiation 38)
+      on bioptic material used to perform local diagnosis of relapsed disease, or that used for the
+      more recent biopsy in the case of refractory patients. A core needle biopsy is considered
+      sufficient for review and CD38 evaluation. Evaluation at central laboratory can be performed
+      in bone marrow sections in those patients with only bone marrow lymphoma infiltration.
+
+      Only patients with confirmed eligible diagnosis and a percentage of CD38 positive tumor cells
+      ≥ 5% will be considered eligible for study treatment.
+
+      The treatment consists of an induction phase and a maintenance phase.
+
+      Induction phase:
+
+      4-6 courses (according to response after cycle 4 and to patient compliance) of D-GDP
+      (Daratumumab in combination with Gemcitabine, Cisplatin, Dexamethasone) every 21 days
+      pursuant to the following schedule:
+
+        -  Daratumumab cycle 1: 8 mg/kg i.v. on day 2 and on day 9; cycle 2-6: 16 mg/kg i.v. on day
+           2 and day 9)
+
+        -  Gemcitabine 1000 mg/sm i.v. day 1 and day 8 (gemcitabine on day 8 to be skipped in case
+           of grade 3-4 toxicity)
+
+        -  Cisplatin 75 mg/sm i.v. day 1
+
+        -  Dexamethasone 40 mg i.v. or po days 1-2-3-4-9
+
+        -  Granulocyte-colony stimulating factor (G-CSF) from day 3 to 6, and from day 10 to 13 (to
+           be prolonged if necessary) After 4 courses of D-GDP (Daratumumab in combination with
+           Gemcitabine, Cisplatin, Dexamethasone), patients in Complete Remission/Partial Remission
+           (CR/PR) and eligible for allogeneic stem cell transplantation (allo-SCT) will be
+           addressed to allo-SCT consolidation.
+
+      Otherwise, patients in Complete Remission (CR) will enter the maintenance phase at this point
+      of the study.
+
+      Patients in Partial Remission (PR) (not eligible for allogeneic stem cell transplantation) or
+      in Stable Disease (SD) after D-GDP x 4 cycles can receive 2 additional courses of D-GDP
+      before maintenance or can move directly to maintenance, according to center choice (based on
+      patient condition, performance status and quality of response).
+
+      Patients who respond (Complete Remission/Partial Remission) after 6 courses of induction
+      phase (end of induction, EOI) and eligible to allogeneic stem cell transplantation (allo-SCT)
+      will be addressed to allo-SCT consolidation.
+
+      Patients who respond to the induction phase (Complete Remission/Partial Remission) and are
+      not eligible for allogeneic stem cell transplantation (allo-SCT) and patients in stable
+      disease (SD) at the End Of Induction (EOI), will move to the maintenance phase.
+
+      Patients in Progressive disease (PD) at any time will discontinue treatment, as well as
+      patients experiencing at any time unacceptable toxicity.
+
+      Maintenance phase:
+
+      starting 28 days after the beginning of cycle 4 or 6 (or, in case of toxicity grade > 1,
+      after toxicity is resolved) and up to 24 cycles from start of D-GDP (Daratumumab in
+      combination with Gemcitabine, Cisplatin, Dexamethasone) according to the following schedule:
+
+      • Daratumumab 16 mg/kg single administration every 28 days
+
+      Treatment with D-GDP (Daratumumab in combination with Gemcitabine, Cisplatin, Dexamethasone)
+      or daratumumab single agent will be discontinued before completion of 24 cycles in case of:
+
+        -  decision of the investigator to consolidate D-GDP (Daratumumab in combination with
+           Gemcitabine, Cisplatin, Dexamethasone) response with allogeneic stem cell transplant
+
+        -  disease progression
+
+        -  unacceptable toxicity
+
+        -  withdrawal of consent
+
+        -  investigator determines that further therapy is not in the patient's best interest
+           (e.g., due to non-compliance, toxicity, etc.) Adverse events ("Common Terminology
+           Criteria for Adverse Events", CTCAE v. 5.0) will be monitored from the first
+           study-related procedure, throughout treatment, maintenance and for 30 days after the end
+           of treatment with the study drug.
+
+      Safety monitoring and stopping rules:
+
+      In order to monitor the safety and the activity of the treatment in small cohorts of
+      patients, the Bayesian approach of Thall et al. (1995), as extended by Thall and Sung (1998)
+      will be used.
+
+      Monitoring of relevant toxicity after 4 cycles of D-GDP (Daratumumab in combination with
+      Gemcitabine, Cisplatin, Dexamethasone) will be done to ensure that it is not higher than an
+      acceptable toxicity of 30% (as defined in the safety endpoints) and the monitoring of
+      activity after 4 cycles of D-GDP (Daratumumab in combination with Gemcitabine, Cisplatin,
+      Dexamethasone) will be done to ensure that Complete Remission (CR) proportion is not lower
+      than 40%.
+
+      The prior probability of toxicity and activity are modeled by beta distributions [Beta
+      (0.6,1.4) and Beta (0.8,1.2), respectively].
+
+      The enrolment will be stopped if the posterior probability of the treatment being more toxic
+      or less active than expected is greater than 95%.
+
+      The primary efficacy analysis will be performed after enrolment of 35 patients. The primary
+      efficacy analysis will consist of an estimate of Complete Remission Rate (CRR) on the
+      efficacy population after 4 cycles of D-GDP (Daratumumab in combination with Gemcitabine,
+      Cisplatin, Dexamethasone) therapy, with 90% confidence intervals (according to 1-sided alpha
+      error of 0.05). To conclude that the new treatment is promising, the minimum number of
+      patients with a Complete Remission (CR) is 12/35.
+
+      The time-to-event functions (Overall Survival (OS) and Progression Free Survival (PFS)) will
+      be estimated by the Kaplan-Meier product-limit method.
+
+      Subgroup analyses on primary efficacy parameter (Complete Remission Rate (CRR)) will be
+      performed to assess the role of daratumumab maintenance and to explore potential prognostic
+      role of CD38 expression. A logistic regression model will be used and the effect (Complete
+      Remission Rate (CRR)) and its 95% Interval of Confidence (CI) will be presented.
+
+      For safety analysis, both at patient level and at therapy cycle level, summaries of incidence
+      rates (frequencies and percentages) and intensity of individual adverse events by CTCAE
+      (Common Terminology Criteria for Adverse Events (CTCAE)) v. 5.0 will be reported.
+
+      The results of this study will support the rationale of a phase III randomized trial if both
+      efficacy and safety endpoints will be considered promising.
+    
+  

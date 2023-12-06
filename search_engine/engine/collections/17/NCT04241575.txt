@@ -1,0 +1,33 @@
+
+    
+      This will be a parallel group, randomized controlled trial. Patients fulfilling the inclusion
+      and exclusion criteria above will be randomized 1:1 to two groups. Randomization will be
+      carried out through the use of computer-generated list of random numbers in variable blocks
+      of 4 to 10. Concealment of group allocation will be achieved through putting the group
+      allocation cards in consecutively-numbered and sealed envelopes. The patients and physicians
+      will know that the patients are in the intervention group if they see the reminder messages.
+      When they do not see a reminder message, there will not be a specific indicator of whether
+      the patient is in the control group or in the intervention group but having low fibrosis
+      scores. Furthermore, the outcome assessors will be blinded to the group assignment.
+
+      For patients in the intervention group, we will calculate the fibrosis scores. For patients
+      with increased fibrosis scores, we will type the following pop-up message in our electronic
+      clinical management system:
+
+      "This patient has high Fibrosis-4 index (and/or AST-to-platelet ratio index) of xxx
+      suggestive of significant liver fibrosis. Please consider referring the patient to the
+      hepatology clinic or arranging further test such as FibroScan."
+
+      The reminder message will pop up when physicians see the patient at the clinic and use the
+      electronic clinical management system. The message will remain active for one year. Although
+      the message is entered manually at this stage, the arrangement mimics an automated computer
+      system. If the study results are positive, the next step is to modify the system to automate
+      the process.
+
+      Patients in the control group will undergo the same assessments as patients in the
+      intervention group. Although physicians will have access to the raw liver biochemistry
+      results and platelet count, the fibrosis score results will not be specifically shown, and
+      there will be no electronic reminder messages regardless of the fibrosis scores. This is to
+      mimic usual care when there is no dedicated care model for case identification.
+    
+  

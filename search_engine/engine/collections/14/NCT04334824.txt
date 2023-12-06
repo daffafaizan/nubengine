@@ -1,0 +1,54 @@
+
+    
+      The study objective is to determine whether the use of hydrochlorothiazide is associated with
+      an increased risk of skin cancer compared with the use of angiotensin-converting enzyme (ACE)
+      inhibitors. More specifically, the investigators will assess whether hydrochlorothiazide is
+      associated with the risk of non-melanoma and melanoma skin cancer.
+
+      A common-protocol approach will be used to conduct retrospective cohort studies using
+      administrative health data from seven Canadian provinces (Alberta, British Columbia,
+      Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan) and the United States (US)
+      MarketScan database. Briefly, the Canadian databases include population-level data on
+      physician billing, diagnoses and procedures from hospital discharge abstracts, and
+      dispensations for prescription drugs. Prescription drug data are limited to those aged 65
+      years old and older in Alberta, Nova Scotia, and Ontario. The US MarketScan database includes
+      individuals and their dependents covered by large US employer health insurance plans, and
+      government and public organizations.
+
+      A standardized mortality ratio weighted cohort analysis will be conducted. In each
+      jurisdiction, the investigators will assemble a study cohort that includes all patients aged
+      40 years or older (or 66 years or older in Alberta, Nova Scotia, and Ontario) newly-treated
+      with hydrochlorothiazide or an ACE inhibitor between April 1, 1995 and March 31, 2018 (or the
+      latest date of data availability at each site). The date of study cohort entry will be
+      defined by the dispensation date of the newly prescribed hydrochlorothiazide or ACE
+      inhibitor. Patients will be followed starting 366 days after study cohort entry until an
+      incident diagnosis of non-melanoma or melanoma, or censored upon switching to a study drug,
+      death, end of coverage or end of the study period (March 31, 2018), whichever occurs first.
+
+      Exposure will be defined as a prescription for hydrochlorothiazide or an ACE inhibitor on the
+      date of cohort entry. The exposures will be lagged by one year in order to consider a minimum
+      cancer latency period between treatment initiation and the diagnosis of skin cancer. Analyses
+      will be conducted using a modified intention-to-treat approach. The outcomes of interest will
+      be non-melanoma and melanoma skin cancer.
+
+      Weighted Cox proportional hazards models with calendar year as a strata will be used to
+      estimate site-specific adjusted hazard ratios (HR) and corresponding 95% confidence intervals
+      (CI) for each outcome of interest among hydrochlorothiazide users compared to ACE inhibitor
+      users. In order to reflect the Canadian context, the primary analysis will be restricted to
+      Canadian data and the US MarketScan data will be used only in a secondary analysis. Secondary
+      analyses will be conducted for each outcome of interest. These will include the following: 1)
+      as-treated, 2) cumulative duration of use, 3) dose-response relation, 4) effect modification
+      by age (≤65, 66-74, and ≥75 years), sex and immunosuppressive status, and 5) time since
+      initiation of treatment (<3, 3-5, and >5 years). For non-melanoma, events will be further
+      classified into basal cell carcinoma or squamous cell carcinoma sub-types in jurisdictions
+      where data is available. Four sensitivity analyses will be performed to assess the robustness
+      of study results and address some of the study limitations. Site-specific results from the
+      Canadian sites will be combined by random-effects meta-analysis to provide an overall
+      assessment of the risk of non-melanoma and melanoma skin cancer in hydrochlorothiazide users
+      compared to ACE inhibitor users. Four additional analyses at the meta-analysis level will be
+      conducted. These will include the following: 1) using fixed-effects model, 2) pooling results
+      only from jurisdictions where non-melanoma sub-type differentiation is available, 3) pooling
+      results from all sites including the US MarketScan data, and 4) pooling results by
+      jurisdictions with and without cancer registry data.
+    
+  

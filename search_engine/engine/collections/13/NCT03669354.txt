@@ -1,0 +1,57 @@
+
+    
+      Research Design
+
+      This description applies to project specific aim 2.
+
+      Overview of Design and Methods: FFS Medicare beneficiaries will be surveyed and compared by
+      cohort for differences in response. Subjects will be randomly sampled from each of the four
+      cohorts (A, B, A2B & B2A) identified in SA1.
+
+      Survey Instrument and Question Formulation: A validated survey instrument will be used to
+      collect subjective patient data. The survey will include questionnaires intended to evaluate
+      1) self-reported QOL, 2) satisfaction with care, and 3) beliefs regarding back pain and its
+      treatment. For assessment of self-reported QOL a version of the SF12 (Ware '96) will be used
+      and modified to account for time lapse between treatment for LBP and administration of the
+      survey, and to elicit treatment-specific responses The SF -12 has been previously validated
+      for measuring QOL among elderly patients, (Jakobsson '07) and patients using prescription
+      drugs. (Naveiro-Rilo '14) For assessment of satisfaction with care a 0-10 numeric scale will
+      be used. For assessment of beliefs a modified version of the validated LBP Treatment Beliefs
+      Questionnaire will be used. (Dima '15). A pre- test of all the survey instruments will be
+      conducted by distributing a prototype to a sample of 100 Medicare beneficiaries seen for LBP
+      at the SCU Health Center in Whittier, CA. Responses to the survey pre-test will inform any
+      need to edit the questionnaire for comprehensibility and ease of use, thus helping to ensure
+      instrument face validity. For ease of comprehension by older subjects, the survey questions
+      will be printed in large font and will be carefully worded to be brief, unambiguous, and free
+      of bias.
+
+      Survey Methods: ResDAC will initiate contact with random samples of beneficiaries who meet
+      criteria for inclusion in the cohorts identified in SA1. The Beneficiary Contact Service has
+      reviewed the survey plan with the PIs and provided an official cost estimate for this
+      service, which is routinely provided by the BCS with strict attention to patient protection.
+      Initial contact will be in the form of a Beneficiary Notification Letter, signed by the CMS
+      Privacy Officer. The letter will alert beneficiaries to the opportunity to voluntarily
+      participate in a healthcare survey. Recipients will be informed that they may decline
+      participation via enclosed reply forms, and will be given phone numbers to call CMS personnel
+      for additional information. After three weeks, the Beneficiary Contact Service will supply
+      the investigators with contact information for eligible beneficiaries (those who did not
+      decline to participate). The survey will be commenced by mailing the printed survey, cover
+      letter with informed consent form based on NCCIH guidelines, and a postage-paid return
+      envelope with detailed information about the survey. Participants can contact study personnel
+      if they have any questions. Follow up by phone after every two weeks or as needed will be
+      used to increase the rate of response.
+
+      Outcomes Measurement and Statistical Analysis: Testing will be done for between-cohort
+      differences in self-reported QOL, satisfaction with care, and beliefs about treatments for
+      LBP. Survey responses between the four groups will be compared using Pearson chi-square tests
+      and ANOVA. Demographic characteristics [e.g. sex as a biological variable, and age - because
+      age-related cognitive decline can affect survey responses (Wolinsky '15)] will be controlled
+      using linear regression for continuous survey items, proportional odds logistic regression
+      for ordinal items and multinomial regression for categorical items. In the multivariable
+      regression models equivalence between the four groups will be evaluated using likelihood
+      ratio or Wald tests. Given the multiplicity of testing (e.g. multiple groups for multiple
+      items), type I error inflation will be considered through used of Bonferonni corrections or
+      approaches for false discovery rates. Parametric tests of numeric data can be used to yield
+      unbiased answers when analyzing Likert scale responses. (Norman '10)
+    
+  

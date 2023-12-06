@@ -1,0 +1,158 @@
+
+    
+      Methods & Procedures
+
+      Screening spirometry will be performed with patient sitting in his/her personal wheelchair
+      using BreezeSuite System. Forced Vital Capacity (FVC) & Forced Expiratory Volume in 1 second
+      (FEV1) will be obtained & expressed as the percent of the predicted value for each subject
+      based on a database of neurologically intact individuals with no known pulmonary complaints
+      that was derived based on gender, age, & height. Three acceptable spirograms will be obtained
+      & the result of their best attempt will be used.
+
+      Screening Orthostatic Stress Test will be conducted in patient placed on the cardiac chair
+      (Chair Hydraulics). The left hand will be placed in an arm sling & kept at the level of the
+      heart throughout the study. Continuous beat-to beat arterial blood pressure will be acquired
+      from a finger cuff placed around the left middle or index finger (Portapres-2) in supine
+      position & when the participants is moved into the upright seated position. Supine positions
+      will be maintained for 15 min. & upright position will be maintained for 5 min. Baseline
+      values in supine position will be recorded during the last 5-min period just before changing
+      to the upright position. This test will be aborted if subjects become lightheaded or
+      symptomatic of syncope.
+
+      Spirometry & Respiratory Muscle Strength Tests: Standard spirometry will be performed in
+      sitting position by using BreezeSuite System (MedGraphics). FVC & FEV1 will be obtained.
+      MP45-36-871-350 Differential Pressure Transducer with UPC 2100 PC card & software (Validyne
+      Engineering) will be used to measure the maximum inspiratory pressure (PImax) & the maximum
+      expiratory pressure (PEmax) in sitting position. The PImax will be measured during maximal
+      inspiratory effort beginning at near residual volume & PEmax will be measured during maximal
+      expiratory effort starting from near total lung capacity. Subjects will be asked to use a
+      three-way valve system with rubber tube as mouthpiece. The pressure meter incorporates a 1.5
+      mm diameter leak to prevent glottic closure & to reduce buccal muscle contribution during
+      measurements. The assessment will require a sharp, forceful effort be maintained for a
+      minimum of 2 seconds. The maximum pressure will be taken as the highest value that sustained
+      for one second. The maximum value from three maneuvers that varied by less than 20% will be
+      averaged. Participants will be given specific instructions prior to the test & will be
+      verbally coached throughout the spirometry & respiratory muscle strength maneuvers.
+
+      Orthostatic Stress Test:
+
+      Each participant will be tested in the morning in a quiet, temperature-controlled (~22o C)
+      cardiovascular laboratory. Their diet will be restricted to exclude caffeine, alcohol & foods
+      that are high in fat on the evening prior to & the morning of the study. Participants will be
+      asked to empty their bladder before beginning the study. Continuous arterial BP will be
+      acquired from a finger cuff placed around the left middle or index finger or thumb
+      (Portapres-2;). The left hand will be placed in an arm sling & kept at the level of the heart
+      throughout the study. Manual arterial BP measurements will be taken at the beginning of the
+      supine control period & at the end of the recovery period with a digital blood pressure
+      measurement device. A 3-lead ECG will be placed for ECG monitoring. Rib cage & abdomen
+      kinematics (respiratory kinematics) will be acquired using an inductive plethysmograph.
+      Baseline recording for 15 min. will begin after a 5-minute rest period that will follow
+      subject preparation. At the end of 15-minute recording in the supine position, participants
+      will be passively moved into the upright seated position. This position will be maintained
+      for 15 min. This test will be aborted if subjects become lightheaded or symptomatic of
+      syncope. Hemodynamic variables will be acquired at 1000 Hz using ML880 PowerLab System. ECG,
+      SBP & DBP will be computed from continuous recording, & all variables will be then
+      down-sampled to 5Hz. Beat-to-beat SBP, DBP, RR-interval & HR will be also calculated from
+      acquired continuous BP & ECG. All analyses will be done using Matlab. The Blood flow in the
+      heart will be measured by Cardiac Ultrasound using standard equipment by placing a sensor
+      above the heart.
+
+      Blood Catecholamines:
+
+      A butterfly catheter will be inserted into an antecubital vein during instrumentation to
+      allow the collection of blood without additional stress to the participant. Eight milliliters
+      of venous blood will be drawn from an antecubital vein at the end of 15-minute supine to
+      assess baseline epinephrine & norepinephrine levels. Blood draw will be repeated at 3 & at
+      the end of 15 min. of upright position to assess quick & steady-state catecholamines
+      responses to orthostatic stress.
+
+      Baroreflex evaluation: The last 5 min. of data acquired from each position will be used for
+      further analysis. The beat-to-beat time series of SBP & RR intervals will be scanned for
+      three or more consecutive beats that independently contain increasing & decreasing pressure
+      (SBP+, SBP-) & RR interval (RR+, RR-) with minimum 1 mmHg SBP, & 4 ms RR interval thresholds.
+      If an identified SBP sequence is followed by an identified RR sequence with delay of zero,
+      one, or two beats, those SBP & RR sequences will be assigned as coupled. Only coupled
+      sequences with regression coefficient r>0.90 will be accepted as a baroreflex sequences
+      (BRsq). The mean slope of all BRsq will be calculated & taken as an estimation of baroreflex
+      sensitivity (BRS, ms/mmHg). The numbers of beats involved in SBP ramps & BRsq will be
+      determined at each tilt position. The baroreflex effectiveness index (BEI) will be calculated
+      as the ratio between the total number of BRsq & the total number of SBP ramps.
+
+      sEMG protocol: Electrical impulses originate in regulatory neurons, carried via motor nerves,
+      transmit through neuromuscular junction & propagate throughout muscle membranes can be
+      recorded by surface electromyography (sEMG).This physiological test is often relied upon
+      during clinical pulmonary function testing & in research, has been shown to be an accurate
+      reflection of the contractile strength of the respiratory muscles.We will use a multi-muscle
+      sEMG-based measure of motor output from the central nervous system recorded during voluntary
+      motor tasks attempted in the supine position under strictly controlled conditions that was
+      based on Brain Motor Control Assessment (BMCA) principles. The protocol consists of the
+      following voluntary maneuvers followed by 5 min. of quiet breathing: deep breath, PImax task
+      & PEmax task. Each maneuver will be cued by an audible tone & repeated three times. PImax &
+      PEmax during these tasks will be maintained for a minimum of 5 seconds. Airway pressure will
+      be recorded simultaneously with sEMG using a three-way valve system with a pressure
+      transducer as described above. Surface EMG recordings will be accomplished with pairs of
+      recessed, FE9 silver-silver chloride cap surface electrodes (Grass Instruments, W Warwick,
+      RI) centered over the muscle & placed 3 cm apart for each muscle recorded. Skin will be
+      prepared to reduce intra-electrode impedance. Right & left upper portion of pectoralis (PEC),
+      6th intercostals (IC6), rectus abdominus (RA), & obliquus abdominus (OBL) muscles will be
+      recorded. The ground electrode will be placed over the acromion process. sEMG will be
+      recorded using an Eclipse Neurological Workstation (Axon Systems Inc.). The incoming sEMG
+      signals will be amplified with a gain of 500, filtered at 30-1000 Hz & sampled at 2000 Hz.
+
+      Ultrasonic cardiac echography: Standard left ventricular echocardiograms in supine resting
+      state will be obtained measuring end-diastolic diameter (Dd) & the end-systolic diameter
+      (Ds). Ten consecutive beats will be analyzed & the mean will be used for cardiac output (Q)
+      calculations: Q= (Dd)3- (DS)3x HR 35.
+
+      Respiratory Muscle Training:
+
+      During the training session, subjects will be seated in their personal wheelchair with an
+      approximately 45° head-up tilt. A threshold Positive Expiratory Pressure Device & a threshold
+      Inspiratory Muscle Trainer with flanged mouthpiece will be used for a range of 20 to 41 cm
+      H2O. These devices will be assembled together using a T-shaped connector (Airlife 001504).
+      The participants will be instructed to perform maximal inspiratory & expiratory efforts
+      against a pressure load. During inhalation, the subjects will be instructed to initiate each
+      breath from residual volume (RV) & to sustain the effort until their lungs feel full. During
+      exhalation, the subjects will be instructed to breathe from total lung capacity & sustain
+      their effort until their lungs feel empty. Participants will be asked to train 45 min. per
+      day, 5 days per week, for 4 weeks. The training will be initiated with a load equal to 20% of
+      their individual PImax & PEmax with progressive increases as tolerated up to 40% of their
+      baseline PImax or PEmax. The goal will be to have all patients training at 40% of PImax &
+      PEmax during the last week of the training. An interval training protocol will be used with
+      patients performing six work sets, 5 min. in duration, separated by rest intervals lasting
+      1-3 min.. A research team member will monitor all training sessions.
+
+      Preliminary results showed that RMT will increase FVC, FEV1, PImax & PEmax in experimental
+      subjects compared to pre-training values. The biggest effect is expected for expiratory
+      values (FEV1, & PEmax). One reason for this might be the fact that expiratory function, the
+      most limited after SCI, has bigger window for change. Our results showed that average
+      increase of 8-9% with a sample size of 24-26 patients could reveal a significant difference
+      with a power of 80-86% in all spirometrical values.
+
+      Aim 2. Improvement in the BP & mechanisms associated with blood pressure changes were
+      assessed using the low-frequency component of power spectral density of systolic (SBP) &
+      diastolic (DBP) blood pressure values & amount of catecholamines measured in blood levels.
+      Based on preliminary findings small changes are expected in the resting BP values after
+      training. However, after training, the increase in SBP when position is changed to sit-up is
+      expected to be strong with low variability. The calculations showed that even with n=20, the
+      power will be 84% & when n=24, it will be increased to 94%. Changes in DBP are expected to be
+      lower with power of 80% for n=24. Similar values were obtained when low frequency modulations
+      of SBP & DBP were analyzed.
+
+      According to this analysis, number of subjects from 20 to 24 will result in significant
+      increase with 87% power. The effectiveness & sensitivity of the baroreflex both improved
+      after training in the preliminary study. After training, in response to the orthostatic
+      stress, a substantial increase in baroreflex responsiveness was obtained & a power of 83%
+      will result with a sample size of 24. The baroreflex sensitivity exhibited much higher
+      variability. If variability remains high in the proposed study, the power of achieving a
+      significant difference from pre-to post-training is 83% with a sample size of 28 patients.
+
+      However, a decrease in variability is very likely with a larger sample size & the power
+      increases to 86% with a sample of 24 patients with a 32% decrease in variability.
+
+      Based on the results of test-re-test recordings in 10 SCI subjects, the matched number of
+      untrained subjects (n=12) will be enough to form a control group. The deviations from the
+      means were found to be so low, that it would be impossible to reach significance with a
+      reasonable sample size for this group.
+    
+  

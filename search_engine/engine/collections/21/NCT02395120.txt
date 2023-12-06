@@ -1,0 +1,161 @@
+
+    
+      Purpose:
+
+      The purpose of this study is to evaluate the effectiveness of new referral approaches to
+      increase receipt of dental care among inner-city urban and rural elementary school children
+      who were screened at school and have restorative treatment needs. The primary outcome is the
+      assessment of dental care receipt through dental exams. The secondary outcomes are change in
+      caregiver illness perception, measured through the IPQ-RD, and behavioral intention measured
+      through items in the caregiver questionnaire.
+
+      Study Design:
+
+      The study will utilize a multi-site, double-blind, parallel arm, community-based randomized
+      trial design. The experimental intervention will be based upon the Common Sense Model of
+      Self-Regulation (CSM) to address parent/caregiver illness perception and navigation of
+      resources to increase receipt of dental care during a 7-month follow-up period for children
+      with restorative dental needs. In this five arm study the new CSM theory-driven referral
+      letter alone, the new CSM referral letter and Dental Information Guide (DIG), the new CSM
+      theory-driven reduced referral letter alone, and the new CSM theory-driven reduced referral
+      letter and reduced Dental Information Guide (DIG) will each be compared to a standard
+      referral letter to increase receipt of dental care among inner-city urban African American,
+      and rural Hispanic and White elementary school children.
+
+      Participants:
+
+      Subjects will be parents/caregivers and their children in grades K-4 in one of four school
+      districts; East Cleveland City School District (OH), Cowlitz County School Districts (WA),
+      Lewis County School Districts (WA), and Bedford (OH). The study will be offered to all
+      caregivers and their children including those children with special health care needs. At the
+      Ohio site, only English-speaking caregivers and their children will be enrolled while both
+      English- and Spanish-speaking caregivers and their children will be included at the
+      Washington site. At the beginning of the school year dental screening, primary caregivers
+      will be randomized if their child has a tooth with an International Caries Detection and
+      Assessment System (ICDAS) active lesion score of 2 or greater. Caregivers with multiple
+      children in K-4 will receive the same intervention assignment. The second year of recruitment
+      included Bedford School District in Ohio and East Cleveland School District KG and other
+      grade families if they did not enroll in the first year.
+
+      Procedures:
+
+      Caregivers will be recruited at the beginning of the school year and complete baseline forms
+      (consent form, Illness Perception Questionnaire-Revised for Dental (IPQ-RD) questionnaire,
+      and caregiver questionnaire) prior to dental screening and randomization. Children in K-4
+      whose parents have consented will receive a screening exam in early October 2015 (October
+      2016 for the second year of recruitment). After screening exams, eligible caregivers of
+      children with restorative referrals will be randomized into one of five study arms. Different
+      referral letter with/without Dental Information Guide according to study arms will be sent
+      home with the child on the day of screening and mailed to the caregiver address within 24
+      hours.
+
+      Caregivers will be followed at 2 time points: 2 weeks after the receipt of the intervention
+      letter and 2 weeks prior to the final (exit) study visit examinations in May 2016 (May 2017
+      for the second year of recruitment)-approximately 7 months after the initial dental exam. At
+      both time points caregivers will complete the IPQ-RD and the caregiver questionnaire. A small
+      sub-sample of 60 caregivers will be randomly sampled from three arms (standard letter,
+      intervention letter, and intervention letter+DIG) to complete the IPQ-RD 1 month after
+      enrollment for fidelity purposes. All questionnaires will be mailed to the home address and
+      asked to be returned to the class-room teacher or the outreach staff. Further, outreach staff
+      will ensure that the caregivers received and returned the materials through follow-up calls.
+      Children will have a follow-up dental exam in May 2016 (May 2017 for the second year of
+      recruitment).
+
+      Analysis Plan:
+
+      Primary Statistical Analysis: Descriptive statistics will include frequencies (categorical
+      variables) and means (continuous variables) of baseline covariates among the five
+      intervention groups. Chi-square tests (for categorical variables) and t-tests (for continuous
+      variables) will be performed to test for group differences (by site and overall). In our
+      primary analysis, we will fit multivariate generalized linear (specifically, logistic
+      regression) models with dental care receipt as the (binary) outcome and the child as the unit
+      of analysis (as receipt of dental care will be determined for each child). A generalized
+      estimating equations (GEE) approach (with an exchangeable working correlation structure) will
+      be used to allow for correlations among multiple children for a given caregiver. Secondarily,
+      we will fit a model with a site by intervention group interaction, and the latter will be
+      tested to formally assess possible intervention effect heterogeneity over sites.
+
+      We will also consider working correlation structures (e.g., alternating logistic regressions)
+      that allow for second-level clusters, namely schools (within which the first-level cluster,
+      caregiver, is nested). We will determine final models based on the quasi-likelihood
+      information criterion (QIC). Intervention (and other covariate) effects will be tested using
+      generalized score statistics.
+
+      Analysis of Secondary Outcomes (Questionnaire data): Summary statistics (including means and
+      standard errors) for questionnaire responses for both the IPQ-RD and behavioral intention
+      items within the caregiver questionnaire will be calculated by site and intervention group.
+      This will be done for the overall questionnaire (IPQ-RD and behavioral intention), for each
+      of the five IPQ-RD cognitive constructs, and the two behavioral intention questions. Analyses
+      will be done by site and overall (controlling for site). A summary measure approach, based on
+      the mean questionnaire response, will be used to compare questionnaire outcomes across
+      intervention groups, for the overall questionnaire and by construct. Specifically, for each
+      construct (or overall) a linear regression model will be used with the mean response as the
+      dependent variable, and intervention group indicators and selected baseline (control)
+      covariates as independent variables. Inferences (that is, p-values and confidence intervals)
+      will be performed assuming summary measures are normally distributed. This assumption will be
+      tested using the Shapiro-Wilk statistic and if violated a suitable transformation of the
+      summary measure used or a nonparametric approach (e.g., using ranks of the summary measures)
+      conducted.
+
+      Missing Data:
+
+      In the event of missing questionnaire responses, we will first assess whether the data are
+      missing completely at random (MCAR), that is, whether missingness for a given item is
+      dependent only on participant baseline characteristics and not further on any other item
+      responses. This will be done using a generalized estimating equations (GEE) approach, that
+      is, by fitting a multivariate generalized linear (e.g., logistic regression) model to missing
+      data indicators for each item, including as explanatory variables selected baseline
+      covariates and other item responses, and testing for an effect of the latter.
+
+      If the MCAR assumption is deemed reasonable (no significant effect found), we will conduct
+      the above regression analyses with mean outcomes based on available data. A weighted analysis
+      (that is, regression with the use of the weighted least squares criterion) will be conducted
+      to adjust for differential missingness (thus, non-homogeneous summary measure variances)
+      among participants. If the MCAR assumption is found to be violated we will use a multiple
+      imputation approach (in conjunction with the summary measure approach) using a suitable
+      imputation model (i.e., using other item responses). For each construct (or overall) we will
+      perform an F-test for a difference in the mean summary measure among the three intervention
+      groups, and obtain nominal 95% confidence intervals for pairwise mean differences. If
+      necessary, we will include a random effect for school.
+
+      Data Management:
+
+      Data for this study are captured using examinations, forms, questionnaires, and audio
+      recordings. Study data will be collected and stored using the REDCap platform. REDCap is a
+      secure, web-based application designed to support remote data capture for research studies,
+      providing: 1) an intuitive interface for validated data entry, 2) audit trails for tracking
+      data manipulation and export procedures, 3) automated export procedures for seamless data
+      downloads to common statistical packages, and 4) procedures for importing data from external
+      sources.
+
+      Study forms will be completed by study personnel on paper, and subsequently entered into
+      REDCap by study staff. Because randomization is contingent upon the computer, no paper
+      randomization forms will be completed. Paper forms will be securely stored in a locked file
+      cabinet at both sites when they are not in use. Completed paper forms will be transferred
+      between sites via courier or other secure document service. Similarly, questionnaires used in
+      the study (IPQ-RD, Caregiver Questionnaire) will be completed by subjects on paper sheets and
+      returned to Outreach Workers in each school. Study staff will enter the information into the
+      database. All data forms, questionnaires will be entered into database stored in a secure
+      password protected computer. Recorded audios will be stored in secured/locked cabinets in one
+      of the Project Coordinators' offices.
+
+      Dental examination and study questionnaire data will be reviewed for accuracy and
+      completeness after each study visit. The Outreach Workers will review the questionnaires
+      after the participants have completed them, and the Project Coordinators and the Data and
+      Statistics Team will do a final review after the documents have been transmitted. An annual
+      report (or as requested by the DSMB or NIDCR Program Official) will also be generated for
+      sharing progress of the study.
+
+      The Data & Statistics Team will generate regular reports showing enrollment and potential
+      data anomalies, which will be sent to PIs, Project Coordinators, and other relevant study
+      staff. The Data Manager will work with the PIs at each site to resolve any data anomalies
+      that arise during recruitment. The Data & Statistics Team will also respond to data queries
+      generated by the PIs, Project Coordinators, or other study staff.
+
+      Statistical analyses and summary reports will be generated by the study Biostatistician
+      during the course of the study. At the end of the study, the study Biostatistician will
+      conduct analyses of the data and assist in preparation of study publications and
+      presentations. The Data Manager will provide technical and data support for the
+      Biostatistician throughout the study.
+    
+  

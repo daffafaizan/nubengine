@@ -1,0 +1,55 @@
+
+    
+      In December 2019, the Wuhan Municipal Health Committee identified an outbreak of viral
+      pneumonia cases of unknown cause. Coronavirus RNA was quickly identified in these patients.
+      This novel coronavirus has been designated SARS-CoV-2, and the disease caused by this virus
+      has been designated COVID-19 and has infected hundreds of thousands of confirmed individuals
+      in more than 200 countries. Currently there are no approved therapeutic agents available for
+      coronaviruses. There is an urgent need for an effective treatment to treat symptomatic
+      patients but also to decrease the duration of virus transmission in the community. Among
+      candidate drugs to treat COVID-19, repurposing of FDA-approved drugs for use as antiviral
+      treatments is proposed because knowledge on safety profile, side effects, and drug
+      interactions are well known.
+
+      In silico screening of FDA licensed compound libraries against the SARS CoV 2 protease Plpro
+      catalytic site was performed using solved crystal structures of the protein. Plpro
+      (Papain-like protease) is an early acting protease responsible for initial processing of the
+      SARS CoV2 polyprotein into active subunits. Plpro also has ubiquitinase activity, and is
+      implicated in early infection phase inhibition of innate (interferon) immune responses which
+      otherwise would suppress viral replication. A ranked list of licensed compounds with
+      predicted binding activity in the Plpro catalytic site was computationally generated, and the
+      Plpro catalytic site binding pose of each of the top compounds was examined and ranked by a
+      team of pharmaceutical chemists. Package inserts or product monographs for the licensed
+      compounds which generated high computational binding scores and passed inspection were then
+      reviewed and used to rank compounds based on adverse events, warnings, drug interactions
+      on-target mechanisms, pharmacokinetic and absorption, metabolism, excretion and toxicity
+      (ADMET), protein binding and available therapeutic window considerations. Famotidine
+      (Pepcid), a histamine H2 antagonist widely available over-the-counter, was repeatedly
+      computationally scored among the highest of the compounds tested, and was associated with the
+      most favorable pharmacokinetic and safety profile. A series of analogs of famotidine were
+      generated using PubChem, and many of these scored even higher as potential candidates. This
+      control compound set further confirmed the predicted binding of the molecular backbone
+      chemotype at the Plpro protease/ubiquitinase site. Currently available as oral and IV
+      products, famotidine has a very attractive proven safety, drug interaction, and therapeutic
+      window profile. Samples of famotidine have been submitted at Southern Research and IITRI for
+      in vitro testing in COVID-19 cultures. Unpublished anecdotal case studies suggest clinical
+      benefits associated with administration of famotidine 40 mg PO TID in mild COVID-19
+      infection.
+
+      On 29 April 2020, the National Institute of Allergy and Infectious Diseases (NIAID) announced
+      that Remdesivir was better than placebo in reducing time to recovery for people hospitalized
+      with advanced COVID-19 and lung involvement. In an earlier study of adult patients admitted
+      to a hospital for severe COVID-19, Remdesivir was not associated with statistically
+      significant clinical benefits. In that study, Remdesivir was not associated with a difference
+      in time to clinical improvement. Although not statistically significant, patients receiving
+      Remdesivir had a numerically faster time to clinical improvement than those receiving placebo
+      among patients with symptom duration of 10 days or less. Remdesivir was stopped early because
+      of higher numbers of adverse events compared to placebo. Because of these studies the FDA
+      stated on 1 May 2020, that it is "reasonable to believe" that known and potential benefits of
+      Remdesivir outweigh its known and potential risks, in some specific populations hospitalized
+      with severe COVID-19.
+
+      Given the refinement of standard of care to include Remdesivir and no longer
+      hydroxychloroquine, we have edited the study protocol to reflect this new standard of care.
+    
+  

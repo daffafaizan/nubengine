@@ -1,0 +1,59 @@
+
+    
+      In the past decade, massive scale-up of long-lasting insecticide-treated nets (LLINs) and
+      indoor residual spraying (IRS) in Africa have led to significant reductions in malaria
+      mortality and mobility. However, current first-line interventions are not sufficient to
+      eliminate malaria in most countries. The widespread use of pyrethroid insecticides has
+      resulted in resistant vector populations, and high coverage of LLINs and IRS has led to
+      increased outdoor human feeding behavior and resting behavior. These changes in vector
+      ecology and behaviors have significantly limited the effectiveness of current first-line
+      interventions that target indoor biting and resting mosquitoes. Furthermore, as a result of
+      ecological changes and intervention measures, malaria risk in a locality is dynamic, and the
+      utility of malaria intervention tools may vary as new tools are being approved and introduced
+      and the cost of each tool differs among locations and over time. Such variations in malaria
+      risk, vector ecology, and utility of intervention tools exemplify the need to develop optimal
+      adaptive interventions tailored to local malaria risks, vector ecology and supply chains. The
+      central objective of this application is to design optimal adaptive combinations of vector
+      control interventions to maximize reductions in malaria burden based on local malaria
+      transmission risks, changing vector ecology, and available mix of interventions approved by
+      the Ministry of Health in each target country. The central hypothesis is that an adaptive
+      approach based on local malaria risk and changing vector ecology will lead to significant
+      reductions in malaria incidence and transmission risk. To accomplish this objective, we
+      propose the following three specific aims:
+
+        1. Measure malaria incidence and predict risk using environmental, biological, social, and
+           climatic features with machine learning approaches. Hypothesis: Malaria risk prediction
+           can be improved through the use of machine learning techniques that include
+           environmental, biological, socio-economic, and climatic features. Approach: Each site
+           will measure malaria incidence, prevalence and social economic factors through community
+           surveys. Classification-based and regression-based approaches will be used to develop
+           malaria risk predictive models, and model performance will be validated. Outcome: This
+           Aim will establish improved malaria risk prediction models and lay an important
+           foundation for developing intervention strategies adaptive to local vector ecology and
+           future malaria risks using reinforced machine learning approaches.
+
+        2. Use a cluster-randomized sequential, multiple assignment randomized trial (SMART) design
+           to develop an optimal adaptive intervention strategy. Hypothesis: Malaria control
+           interventions that are adapted to local malaria risk and vector ecology and are cost
+           effective can be identified using a cluster-randomized SMART design. Approach:
+           Cluster-randomized SMART design will be used in two high transmission areas in Kenya and
+           Ethiopia to evaluate the impact of adaptive interventions that involve sequential and
+           combinational use of next-generation nets, indoor spraying of non-pyrethroid
+           insecticides, and larval source management for malaria control.
+
+        3. Evaluate the cost-effectiveness and impact of an adaptive intervention approach on
+           secondary endpoints related to malaria risk and transmission. Hypothesis: Intervention
+           strategies adapted to local malaria risk and vector ecology will be more cost-effective
+           in reducing malaria incidence and transmission risk than the currently-used LLIN
+           intervention. Approach: The economic costs of individual interventions or combinations
+           thereof will be assessed from both a provider and societal perspective using standard
+           economic evaluation methodologies. Cost-effectiveness will be measured in terms of cost
+           per person protected. The study will examine changes in drug and insecticide resistance
+           and infection prevalence attributable to the adaptive interventions.
+
+      Malaria interventions adapted to rapidly changing malaria risk and vector ecologies are
+      critically needed to improve the effectiveness of malaria control measures. This study will
+      use new techniques, including machine learning and a novel cluster-randomized SMART design,
+      to develop optimal adaptive malaria intervention strategies.
+    
+  

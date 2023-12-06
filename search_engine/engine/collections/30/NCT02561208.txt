@@ -1,0 +1,220 @@
+
+    
+      Description of the problem and study rationale
+
+      Cervical cancer remains a serious health problem, particularly in developing countries. In
+      Argentina, every year 5,000 women are diagnosed with cervical cancer and more than 1,800 die
+      from the disease 1. In several Latin American countries, it is the leading cause of cancer
+      death among women and mainly affects women of low socioeconomic status. This is due in part
+      to the difficulties of health policies to promote women's participation in prevention
+      programs, namely accessing screening, follow-up and treatment of precancerous lesions.
+
+      Proof of the causal link between HPV and cervical cancer has allowed for the recent
+      development of HPV-based screening tests, which detect HPV types considered high-risk. These
+      tests have important advantages over the Pap as a screening test: high sensitivity (over
+      90%)2 and high negative predictive value3, allowing for a reduction in screening frequency as
+      well as for the identification of HPV positive women who, even without presenting a
+      precancerous lesion, constitute a high-risk group that requires special follow-up within the
+      health system. Very importantly, through self-collection, HPV-testing can reduce barriers to
+      screening and increase coverage.4 The method is highly accurate5,6, and is acceptable for
+      women in different countries.7-10
+
+      Argentina has become a pioneer in the introduction of new technologies for HPV-based cervical
+      cancer prevention. The National Ministry of Health has approved the incorporation of the test
+      as a nation-wide screening method. In this context the PI conducted the Jujuy Demonstration
+      Project (JDP) to introduce HPV-testing for primary screening.11 This project was part of a
+      national strategy to strengthen cervical cancer screening re-launched in 2008,12 which also
+      included introduction of HPV vaccination in 2011.13 The JDP is a four-year implementation
+      project (2011-2014) to develop, implement and evaluate the programmatic components of an
+      HPV-based screening strategy11.
+
+      In addition, in 2012 the PI conducted a population-based cluster randomized trial
+      (Self-collection Modality Trial, initials EMA in Spanish). The study was the first carried
+      out in a programmatic, real-world context of a low-resource region with the main objective to
+      assess the effect on women´s screening uptake of HPV self-collection offered by CHWs during
+      home visits and to assess the self-test acceptability by women and CHWs. Our intervention
+      resulted in a four-fold increase in screening uptake (85.9% vs 20.2%), showing that offering
+      HPV self-collection at home visits through CHWs is an effective strategy to improve cervical
+      screening coverage10.
+
+      However, in screening programs, high coverage will not result in a decrease of disease burden
+      if women are not diagnosed/treated. Several triage methods are available including cytology,
+      visual inspection methods, and colposcopy. In Argentina, cytology is used as triage method;
+      therefore, all HPV-positive women who have performed self-collection at home need to attend
+      health centers to undergo cytology. However, the proportion of women who have completed
+      triage is low; therefore new innovative strategies are needed to increase attendance to
+      cytology of these women.
+
+      The aim of the study is to evaluate the effectiveness of a mHealth intervention versus usual
+      care to increase adherence to cytological triage in women with HPV-positive self-collected
+      test.
+
+      Setting of the study
+
+      The province of Jujuy was selected to develop this study due to the fact that screening based
+      on HPV testing as primary test was introduced in 2011. The province of Jujuy has a high
+      mortality rate (11.8 x 100.000 women over the 2008-2011 three-year period) and it is one of
+      the provinces set as a priority in the National Program of Cervical Cancer Prevention. Since
+      2011, HPV-testing is the primary screening test, available for all women aged ≥30 attending
+      public health centers and since 2014 HPV- self-collection has been introduced as programmatic
+      strategy for screening under-users. The Primary Health Care System (PHC) integrates
+      approximately 700 paid full-time CHWs who twice yearly visit approximately 110.000 households
+      for health-related tasks as immunization and promotion of maternal/child health. CHW
+      performance is evaluated annually and scored as good or sub-optimal by PHC supervisors
+      according to achievement of established goals (e.g. number of home visits).10 One hundred
+      percent of screening, follow up and treatment in public health system are registered in
+      SITAM. SITAM is the national online information system that registers
+      screening/diagnosis/treatment events from women attending the public health system.14
+
+      Goals of the study
+
+      A cluster randomized trial will be conducted; it will include a total number of 240 Community
+      Health Workers (CHWs) and 7200 women.
+
+      The aim of this study is:
+
+        1. To evaluate the effectiveness of a mhealth intervention versus usual care to increase
+           adherence to cytological triage among women with HPV-positive self-collected tests.
+
+        2. To assess the intervention acceptability by women and CHWs.
+
+      Cluster randomized trial
+
+      An overall number of 240 CHWs from the Primary Health Care System (PHCS) of the Province of
+      Jujuy will be randomized into two groups that will be named mHealth-Intervention Group (MH)
+      and Usual Care Group (UC)
+
+      1. mHealth Intervention Group: Women with HPV self-collected tests will receive a mixed
+      intervention which includes counseling through an interactive Apps specifically devised to
+      increase adherence to triage which will be run on a tablet, and SMS text messages (SMS
+      message) to remind them to attend triage. In addition, Heads of CHWs, chiefs of gynecology
+      services and CHWs will receive reminders via e-mails to contact women if after 60 days from
+      the HPV-results HPV+ they have not performed triage.
+
+      2. Usual Care Group: Women with HPV self-collected tests receive usual care.
+
+        1. Procedures to carry out in each group:
+
+           • mHealth intervention Group:
+
+           During the home visits that CHWs carry during health rounds, selected CHWs will visit
+           every household they are in charge of and will contact women aged 30+ to offer them HPV
+           self-collection according to programmatic guidelines. Those women who accept
+           self-collection will be invited to participate in the study, providing them the
+           necessary information about the goals and activities involved. Eligible women willing to
+           participate in the study will be invited to sign an informed consent. The CHW will
+           update the F883 template, the standard primary health care form used by CHWs to collect
+           socio-demographic and health data of the household and its members. CHWs will use a
+           specific questionnaire to collect basic data about inclusion/exclusion criteria.
+
+           Then CHWs will use an APPs specifically designed for the project, run on a tablet, to
+           provide women with information about the meaning of the test results, next steps to be
+           followed both for positive and negative results, and the importance of adherence to
+           triage and diagnostic/treatment procedures if needed.
+
+           An automated system to delivery SMS messages will be developed and linked to SITAM. Once
+           the test sample is processed at the HPV laboratory and results registered in SITAM,
+           women will receive a SMS message asking them to send a confirmatory reply by text
+           messaging which should include its national ID number. Once this confirmatory reply is
+           received by the system, women will receive a second SMS message informing them that the
+           results are available at the health center, and dates and times to receive them.
+
+           Seven days after the first text message, HPV+ women will receive a reminder to collect
+           the test results at the health center. The message will ask women to disregard the
+           message in case they have already gone to the health center to get results.
+
+           Sixty-days after the first SMS message, Heads of CHWs, chiefs of gynecology services and
+           CHWs will receive an e-mail and SMS message informing them about HPV+ women who have not
+           been triaged with cytology, asking them to contact those specific women, with
+           information about their name and addresses.
+
+           • Usual care group:
+
+           During the home visits that CHWs carry during health rounds, selected CHWs will visit
+           every household they are in charge of and will contact women aged 30+ to offer them HPV
+           self-collection according to programmatic guidelines. Those women who accept
+           self-collection will be invited to participate in the study, providing them the
+           necessary information about the goals and activities involved. Eligible women willing to
+           participate in the study will be invited to sign an informed consent. The CHW will
+           update the F883 template, the standard primary health care form used by CHWs to collect
+           socio-demographic and health data of the household and its members. CHWs will use a
+           specific questionnaire to collect basic data about inclusion/exclusion criteria.
+
+           HPV-positive women will receive the visit of the CHW to inform them that they should go
+           to the health center to receive results, following standard practices in the provincial
+           protocols and guidelines.
+
+        2. Training for CHWs:
+
+      All the CHWs of the province of Jujuy will be informed about the study and a special training
+      will be provided for all those who were selected to participate in the study. During the
+      training sessions, the goals of the study, the main activities to be carried out and the
+      specific tasks that each one of them will have to perform will be explained.
+
+        1. Sample selection and size
+
+           A total of 240 CHWs, who work in the province, will be stratified in four groups
+           according to gender and urban/rural setting. A stratified sample of 240 CHWs was
+           randomly selected with proportional allocation to strata. Within strata, CHWs were
+           randomly assigned (1:1) to study groups. All selected CHWs were informed about the study
+           by the PHC heads. We will produce computer-generated random number lists for the CHW
+           random selection and the intervention allocation. Blinding of intervention and outcome
+           assessments was not feasible.
+
+           The study is designed to have power of more than 0·9 to detect a 20·0% increase in
+           triage for the intervention group compared with a 30·0% triage in the control group
+           (two-sided alpha=0·05). Based on PHC records13 we estimated that CHWs would enroll an
+           average of 30 women in six months, of which 4 will be positive . Correlation induced by
+           CHWs is included in sample size calculations assuming an intra-class correlation
+           coefficient of 0·10, resulting in a sample of 120 CHWs per arm, and a total of
+           approximately 7200 women enrolled.
+
+        2. Database:
+
+           A database built specifically for the study will be used; it will include data about
+           randomization Group, agreement to participate in the study and socio-demographic data.
+           Data on HPV-testing and triage will be uploaded importing the data from SITAM, using the
+           Unique Identification Number (DNI).
+
+           Data entry will be done through specific software that will include range and inter-item
+           consistency checks. Entries out of the expected range will not be allowed. Data entry
+           will be done by 3 data enters, with re-entry of 20% of questionnaires for quality
+           control. Data will be stored in files (TXT, DBF, SQL) compatible with their analysis
+           with statistical packages (Stata).
+
+           The data cleaning process will actively search for errors in a planned way. Data
+           screening will include searching for four types of oddities: outliers (including
+           inconsistencies), strange patterns in distributions, and unexpected analysis results.
+           Screening methods will include browsing of data tables after sorting, printouts of
+           variables not passing consistency checks, graphical exploration of distribution,
+           frequency distributions and cross-tabulations and summary statistics. Once errors have
+           been identified, we will go to previous stages of the data flow to see whether the value
+           is consistently the same. If no error is found in the data entry phase, we will question
+           the interviewer about what may have happened. If possible, we will contact the
+           interviewee for repeated measurement.
+
+           Accuracy of previous HPV test reported by the woman will be crossed with information
+           from the laboratory database (SITAM). Those women having reported not having a previous
+           HPV test, but with a test in the SITAM data base will be excluded from the study.
+
+           Plan for missing data
+
+           Data are exhaustive and complete for all samples arriving to the HPV laboratory. Because
+           we define the outcomes as number of Pap smear effectively recorded in the laboratory
+           database (SITAM)/ number of women in the study arm, we do not expect to have missing
+           data in the main outcome.
+
+        3. Data analysis:
+
+      Data analysis will be done through specific commercial softwares (STATA 10.0 or SPSS 15.0).
+
+      Effectiveness to enhance women adherence to cytological triage
+
+      Adherence to triage will be considered for each CHW. This will be defined as the number of
+      women with triage smears within 30, 60 and 90 days. There will be a comparison of the
+      percentage of HPV-positive women that did the Pap test within those time intervals in the
+      mHealth intervention group and the Usual Care group. The effect of the mHealth intervention
+      against usual care will be estimated using a means difference test or a non-parametric test
+      for independent samples.
+    
+  

@@ -1,0 +1,92 @@
+
+    
+      The COVID-19 pandemic is spreading rapidly worldwide. Latin America, the region with the
+      highest income inequality, remains as one of the worst-hit areas worldwide. Despite
+      accounting for 8.4% of the global population, Latin America has witnessed 20.3% of the total
+      SARS-COV-2 cases and 30.2% of the COVID-19 deaths to date. Several countries in the region
+      are among the worst-hit worldwide. Brazil has had more than 11 million SARS-COV-2 cases and
+      Mexico, Argentina and Colombia have exceeded the 2 million cases each. Similarly, the five
+      most populated countries in the region (Brazil, Argentina, Mexico, Colombia and Peru) exceed
+      600,000 SARS-COV-2-related deaths. The pandemic reached Latin America later than other
+      continents, and the first case of COVID-19 in the region was reported in Brazil on February
+      26, followed by a case in Mexico on February 28, 2020 and subsequently spreading throughout
+      the region during March 2020.
+
+      Policy responses to COVID-19 in Latin America have sought to reduce viral spread, increase
+      the capacity of the health system response, mitigate negative consequences, and strengthen
+      governance. Effectiveness studies of social distancing policies in China, India, European
+      countries, the United States and worldwide have shown that these appear to be effective to
+      reduce viral transmission.
+
+      Despite the heavy burden of the COVID-19 in Latin American countries, there have been few
+      studies examining the effectiveness of COVID-19 policies. Likewise, few studies have explored
+      variation at the local level in the effectiveness of COVID-19 policies. Inequalities in
+      policy effectiveness can arise due to within-country differences at the local level due to
+      their geographical, sociodemographic, mobility patterns, and governance differences. In Latin
+      America, high levels of poverty, urban density, household crowding, lack of safety nets,
+      unemployment and precarious work cluster geographically and coexist with structural
+      inequities in governance and built environments, thus creating barriers for effective
+      compliance with preventive recommendations and for the implementation of well-functioning
+      contact tracing and isolation mechanisms. Understanding the effectiveness of policies at the
+      local level and exploring potential explanations for effect heterogeneity is essential to
+      reduce the burden of the ongoing COVID-19 pandemic and inform the preparedness for future
+      pandemics.
+
+      In this study, the investigators aim, first, to estimate the effectiveness of
+      nonpharmaceutical interventions on SARS-COV2 transmission and COVID-19 mortality in Latin
+      America; second, to examine the effect heterogeneity of transmission and mortality at the
+      local level. Third, assuming there is evidence of moderate to substantial heterogeneity at
+      the local level, the investigators aim to explore potential explanations for this
+      heterogeneity. The study will use an interrupted time series method to estimate their effects
+      in each local government, and random effects meta-analysis and meta-regression to obtain
+      pooled effects, heterogeneity estimates and potential explanations.
+
+      Methods Design and setting: Natural experiment exploiting the variation in the temporal and
+      spatial implementation of policy interventions, aimed to reduce the spread and mortality of
+      COVID-19 in Latin America. The unit of analysis are local governments, i.e. third-tier
+      administrative levels such as municipalities, districts or cantons.
+
+      Eligibility criteria: See below. To date, eligible countries are Argentina, Brazil, Chile,
+      Colombia, Costa Rica, Guatemala, Mexico, Paraguay, and Peru. These countries represent 80.9%
+      of the population in Latin America, and the vast majority of SARS-CoV-2 cases and COVID-19
+      deaths.
+
+      Interventions: Interventions include (i) policies aimed at reducing viral transmission, (ii)
+      policies aimed at increasing the capacity of the health system's response, and (iii) policies
+      aimed at mitigating the negative consequences of the epidemic and potential adverse effects
+      of interventions. We will use the PoliMap taxonomy to categorise the examined policies.
+
+      Comparator: Counterfactual outcome defined as the projection of the pre-intervention trend to
+      simulate what would have happened if the policy had not occurred.
+
+      Data sources: COVID-19 cases and deaths data, as well as the covariates, from official
+      government sources, such as the Ministry of Health and Ministry of Science and Technology.
+      The intervention information will come from legal documents, official statements, and
+      quantitative accounts from trustable sources.
+
+      Covariates: First model at the local level does not include covariates (see below). Second
+      model (i.e. the meta-analysis), we will examine the change in heterogeneity after adjusting
+      for several covariates at the local level. Local level covariates include projected
+      population size in 2020, demographic density, age-structure of the population, household
+      density and socioeconomic status. We will use data from official sources of information,
+      primarily the latest national population census in each included country.
+
+      Statistical analysis: See the Statistical Analysis Plan for details on the modelling
+      assumptions. The study will use an interrupted time series design, where each local
+      government acts as its own control. The main strength of this design is its capacity to
+      distinguish the effect of the intervention from secular change. The study will use a Poisson
+      regression to model the count data (for both outcomes) and accounting for overdispersion and
+      secular trends. A full discussion on potential biases and violations of assumptions can be
+      found in the Statistical Analysis Plan.
+
+      In a second stage, the investigators will use random effects meta analysis to pool the effect
+      estimates for each intervention or combination of interventions. This analysis informs
+      whether any implemented intervention was effective to reduce COVID-19 cases and deaths and
+      the degree of heterogeneity between the effects at the local level. If there is evidence of
+      moderate to high levels of heterogeneity (defined as higher than 50%), the investigators will
+      also use standard meta-regression techniques to assess whether local level determinants (see
+      Covariates) can explain the observed heterogeneity. The investigators will build the models
+      and test the analytical strategy using publicly available data on COVID-19 cases and deaths
+      from Finland and Sweden from January 1 to March 31.
+    
+  

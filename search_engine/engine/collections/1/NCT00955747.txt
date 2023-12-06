@@ -1,0 +1,189 @@
+
+    
+      This was a Phase 3, prospective, randomized, double-blind, placebo-controlled, multicenter
+      clinical trial to evaluate the efficacy, safety, and tolerability of D-tagatose (as compared
+      to placebo). Prior to the start of treatment, subjects participated in an 8-week run-in
+      period during which diabetes education was provided and diet and exercise treatment
+      stabilized. Efficacy analyses were conducted on data from 4 and 6 months.
+
+      Screening Visit
+
+      Based on the inclusion and exclusion criteria, eligible subjects underwent a basic physical
+      examination, pregnancy test for females, and hematology, clinical chemistry, and urinalysis
+      tests. Basic physical examination included physical measurements, general examination by
+      observation, palpation, percussion, auscultation, blood pressure measure, and heart rate
+      check. The clinical laboratory tests included: 1) hematology (hematocrit, hemoglobin, MCH,
+      MCHC, MCV, total white blood cells, platelets, and differential); 2) clinical chemistry
+      (sodium, chloride, potassium, CO2, BUN, uric acid, albumin, creatinine clearance, SGOT, SGPT,
+      bilirubin (total and direct), phosphorus, calcium, alkaline phosphatase, total protein, and
+      glucose (fasting); 3) HbA1c; 4) serum lipid profile including total cholesterol, HDL, LDL,
+      and triglycerides; 5) urinalysis (appearance, volume, specific gravity, pH, glucose, protein,
+      and microscopic evaluation of urinary sediment).
+
+      Run-in Period
+
+      Subjects deemed potentially eligible on the basis of their medical records were to continue
+      on their previously established diet and exercise treatment program under physician's
+      recommendation for 8 weeks. Patients were to record their food intake and exercise in
+      nutrition diaries.
+
+      Treatment Period
+
+      The treatment period consisted of 12 monthly visits, the first of which was used to gather
+      the baseline data for the efficacy and safety parameters and also included the first
+      distribution of test and placebo treatments. Subjects who received study drug for more than 6
+      months were evaluated for safety and efficacy the first 6 months and then for safety only
+      thereafter.
+
+      Baseline and Distribution of Test and Placebo Treatments
+
+      Approximately 550 enrolled subjects were to be randomized into the study. Subjects were
+      randomized to one of the two treatments in a 1:1 ratio. Each eligible subject was randomized
+      to a group assignment on the basis of a randomly generated number. Randomization was
+      stratified by the screening HbA1c values (<7.5% and ≥7.5%) to ensure an even distribution of
+      subjects between the two treatments. Randomization was to take place through an Integrated
+      Web-based Randomization System (IWRS) which sites accessed in order to make randomized
+      treatment assignments.
+
+      After the 8 weeks run-in period, subjects returned (Visit 2) to the study sites and underwent
+      medical history review, and the same examination and clinical laboratory tests as those
+      performed during the screening visit. In addition, subjects received their randomized study
+      treatment and detailed instructions about its use.
+
+      There were two treatment groups in this trial: 1. Drug (D-tagatose), and 2. Placebo
+      (Splenda). The dose of tagatose was 15 g in solution in a final volume of approximately 4
+      ounces of water (~250 mL) taken 3 times daily (tid); the dose of placebo (Splenda) was to be
+      1.5 g.
+
+      Treatments were dispensed by an unblinded staff member who had no other role in the trial;
+      all other clinical center staff were blinded to treatment. If the patient was outside the +/-
+      7 day window, the investigator/site staff would document the information in the subject chart
+      and provided the Sponsor with a note to file.
+
+      Procedures Visits
+
+      Every other month after Visit 2 subjects returned to the study site and underwent the same
+      comprehensive testing that they underwent at Visit 2. Drug and dietary compliance was to be
+      verified by sachet counts at each visit and by nutritional diaries.
+
+      DATA QUALITY ASSURANCE
+
+      A study initiation meeting was held at each investigative site before enrollment of the first
+      subject to review study design, study procedures, data collection, and investigator
+      responsibilities. During interim field monitoring visits, the monitor verified CRF entries
+      against available source documents and ensured that appropriate data were collected and
+      documented. Independent GCP audits of selected study sites were performed. Prior to data
+      entry, CRFs were checked for completeness and consistency by a monitor and verified against
+      source documentation that was maintained at each study site. Data from CRF were reviewed and
+      queries to the study sites were generated by the clinical and data management staff of the
+      CRO. Discrepancies were reconciled with the study site and the respective laboratory.
+
+      Prior to data lock a final audit report and memo was generated summarizing the audit findings
+      and given to the Data Manager Data analyses were performed primarily with Statistical
+      Analysis System (SAS®) software, version 9.2. SAS analysis datasets were crosschecked against
+      the locked database and/or CRF. Data summary tables were crosschecked against SAS analysis
+      datasets. All identified inconsistencies were reported to the lead statistician and resolved
+      prior to production of this report. This clinical study report was checked for accuracy and
+      consistency before sign-off.
+
+      Statistical and Analytical Plans Amarex LLC, Germantown, MD prepared a statistical analysis
+      plan (SAP) for the efficacy and safety data before database lock.
+
+      Analysis Populations
+
+      Intent-to-Treat Population
+
+      The intent-to-treat (ITT) population was defined as all randomized subjects who received at
+      least one dose of double-blind study medication and had a least one post-treatment visit
+      evaluating efficacy. The ITT population was used for the main efficacy evaluation.
+
+      Per Protocol Population
+
+      The per protocol (PP) population was defined as all subjects in the ITT population who had
+      80% compliance with medication for 75% of the dosing time points and who had no major
+      protocol violations or eligibility violations.
+
+      Safety Population
+
+      The safety population consisted of all randomized subjects who received at least one dose of
+      double-blind study medication and had at least one post treatment visit evaluating safety.
+      This population was used for all of the safety analyses.
+
+      Handling of Duplicate, Missing and Outlier Data
+
+      For data that were identified by the Sponsor's Medical Monitor as clinical outliers, two
+      separate analyses were conducted, one including the outlier and one from which the outlier
+      was excluded. The impact of all possible combinations of the outliers was to be treated in
+      the context of the parameter. For the ITT population, missing data (including missing values
+      at intermediate visits) were imputed from scheduled visits using the
+      last-observation-carried-forward (LOCF) method. A blind review of the data was conducted
+      prior to statistical analysis to determine data accuracy. Safety data were compiled on all
+      subjects without exclusion, and in the case of AEs, the relationship to study product was
+      made. The determination that a subject was to be excluded from an analysis population was
+      jointly made by the sponsor and the investigator in the blind review meeting.
+
+      Covariates, Stratification Factors, and Subgroups
+
+      To improve the precision of the analysis, covariate analyses were conducted. The respective
+      baseline values were used as covariates in the analysis models for all the continuous
+      variables; along with the pre-specified stratification factor, screening HbA1c values (<7.5%
+      and ≥7.5%). The adjusted least squared (LS) means at each time point were reported. Other
+      clinically meaningful baseline covariates and stratification factors were examined; if
+      statistically significant, these factors were included in the analysis models.
+
+      Interim Analyses
+
+      Two blinded interim analyses (IAs) were planned, one when approximately 40% of subjects had
+      been randomized and completed through month 6, and the other when over 60% of the subjects
+      had been randomized and completed through month 6. The ITT population was used for the
+      analyses conducted in each IA. The IA was directed and conducted by an independent
+      statistician, who was not involved in the trial conduct other than this IA. The main purpose
+      of the IAs was to assess the assumption made concerning the standard deviation in the sample
+      size calculation for the primary end-point (mean change in HbA1c). Two such IAs were planned
+      because the trial started earlier in the USA than in India, so the first IA was more likely
+      to reflect the results from the USA population, while the second IA was more likely to
+      reflect the results from the India population. For each IA, the independent statistician used
+      the blinded data, the observed pooled standard deviation, and the other original assumptions
+      noted in the sample size determination (e.g. Power, Type I error rate) to recalculate the
+      sample size. Based on the documented sample size re-calculation and the observed dropout
+      rate, the intent was that the independent statistician could recommend a new, larger sample
+      size to the sponsor; however, in neither IA was this necessary.
+
+      Statistical Methods Subject Characteristics
+
+      The subject population enrolled in this trial was characterized according to
+
+        -  the disposition of subjects within the trial;
+
+        -  the demographics, baseline clinical laboratory assessments, and previous and concomitant
+           medical history;
+
+        -  concomitant medications; and
+
+        -  treatment duration and compliance characteristics.
+
+      Demographic and baseline characteristics were summarized and also provided as data listings.
+      Continuous data variables were summarized according to the number of observations, mean,
+      standard deviation, median, and minimum and maximum values, while categorical data variables
+      were summarized according to frequency counts and percentages.
+
+      Treatment duration and compliance characteristics were summarized by treatment group and
+      analysis population with the duration of dosing (days) being calculated as date of last dose
+      minus date of first dose plus 1. Percent compliance was calculated as [(total units of drug
+      returned minus the total units of drug dispensed) divided by the total dispensed] times 100%.
+
+      Efficacy Analyses
+
+      Statistical tests for the efficacy analyses were to be two-sided, with no p-value adjustment,
+      and were to focus on the responses of the ITT population with the PP population being used in
+      supportive analyses. To assess the primary end-point of change in HbA1c level from baseline,
+      the general linear model (analysis of covariance) adjusted for baseline and important
+      stratification factors, e.g., baseline HbA1c and site, was used. In this analysis, in order
+      to protect the statistical degrees of freedom, sites were pooled according to location and
+      other factors. The closed test procedure was to be used for the secondary end-points in order
+      protect the Type I Error rate of α = 0.05. For this procedure, the secondary end-points were
+      to be analyzed in the following order: 1. Body Mass Index 2. Triglycerides 3. LDL 4. Total
+      cholesterol 5. Fasting blood glucose 6. Proportion of subjects achieving HbA1c <7% and/or
+      ≤6.5% 7. Insulin 8. HDL
+    
+  

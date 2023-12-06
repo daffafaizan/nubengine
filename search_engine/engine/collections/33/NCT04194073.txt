@@ -1,0 +1,38 @@
+
+    
+      1. Trial objectives The main objective of this trial is to calibrate the parameters of a
+           software module that computes SpO2 from the digitized raw red and infrared PPG traces of
+           the NightOwl sensor placed at the fingertip. A CO-oximeter subsequently analyses the
+           blood samples to derive "Gold-standard" SaO2 values to which the SpO2 samples can be
+           compared. To obtain a spectrum of SpO2 levels between 100 and 73 % of healthy subjects,
+           FiO2 will be progressively decreased in a hypoxia chamber under the guidance of an
+           anaesthesiologist.
+
+        2. Endpoints Computation of Arms, the performance metric proposed by ISO 80601-2-61:2011
+           Annex CC: Determination of accuracy. This metric captures the bias and precision of the
+           computed SpO2 values compared to the gold standard blood gas analysis method. The
+           software modules' SpO2 computation accuracy (defined as Arms) will first be compared
+           using the temporally paired oxygen saturation (SaO2) readings of the CO-oximeter
+           benchmark.
+
+        3. Trial Design The trial is designed as open blind, non-randomized trial for clinical data
+           acquisition. Approximately 10 healthy subjects will be included in the study.
+
+      Groups of up to 3 subjects will enter a hypoxia chamber. These subjects will have six
+      NightOwl sensors attached, one placed on the index, middle, and ring finger of each hand. For
+      each patient, one Nonin pulse oximeter with a real time SpO2 display will be placed on the
+      pinkie, such that the SpO2 values can be monitored in real time. The NightOwl will transfer
+      data to a smartphone, which serves as a data acquisition hub during the study. Once all
+      sensors have been attached and data acquisition has started, FiO2 (percentage of oxygen in
+      the space being measured) of the hypoxia chamber will gradually and be lowered over a course
+      of approximately 2 hours, under the guidance of an anaesthesiologist. The investigators will
+      attempt to create 5 stable plateaus of FiO2 values to allow for arterial blood sample drawing
+      of a stable SaO2 value. As soon as SpO2 measured by a Nonin device of any subject drops below
+      73% for one minute, this particular subject will leave the hypoxia chamber immediately. As
+      soon as all subjects have left the chamber, FiO2 will be returned to the oxygen level of the
+      environment. The above is repeated for the next group of subjects until the warranted number
+      of subjects is reached. During the procedure, for each subject, approximately 25 arterial
+      blood samples will be drawn from an arterial catheter, of which the exact time of extraction
+      will be noted.
+    
+  

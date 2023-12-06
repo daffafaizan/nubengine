@@ -1,0 +1,26 @@
+
+    
+      Our research team retrospectively analyzes biomarkers that distinguish accommodation and
+      acute antibody-mediated rejection through transcriptomic analysis of peripheral blood in
+      patients with ABO blood type incompatibility kidney transplantation at Seoul National
+      University Hospital. Through this, a classification model was developed to distinguish
+      accommodation and antibody-mediated rejection using peripheral blood marker at the time of
+      the protocol biopsy on the 10th day after renal transplantation, and recently reported as a
+      new peripheral blood marker-based molecular diagnostic method. On the 10th day after surgery,
+      transcriptomic analysis through RNA-seq was performed using samples of peripheral blood from
+      18 patients with accommodation and 10 patients with antibody-mediated rejection confirmed by
+      protocol biopsy. The candidate genes were validated in the discovery set and another
+      independent training set through quantitative real-time polymerase chain reaction (PCR).
+      Finally, a 5-gene classification model including COX7A2L, CD69, CD14, CFD, and FOXJ3 was
+      developed through logistic regression analysis.
+
+      To evaluate the diagnostic effectiveness (sensitivity, specificity) for the peripheral blood
+      marker-based molecular diagnostic method by prospectively recruiting patients with ABO blood
+      type incompatible kidney transplantation is needed. And, it is necessary to evaluate the
+      effectiveness of whether the peripheral blood marker-based molecular diagnostic method can
+      predict antibody-mediated rejection or accommodation as a result of protocol biopsy that will
+      be performed on the 10th day after transplantation - peripheral blood samples collected
+      earlier than the 10th day (day 5 and day 7) after ABO blood type incompatible kidney
+      transplantation.
+    
+  

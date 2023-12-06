@@ -1,0 +1,201 @@
+
+    
+      STUDY RATIONALE The obstructive sleep apnea syndrome (OSAS) affects approximately 2% of
+      children and results in significant morbidity. Continuous positive airway pressure (CPAP) is
+      the standard therapy for children who fail tonsillectomy and adenoidectomy, or for those in
+      whom surgery is not indicated. However, CPAP is uncomfortable and is often not tolerated by
+      children. Thus, a more comfortable technology that would enhance adherence would be highly
+      desirable. This proposal aims to compare a new technology, Bi-Flex, to standard CPAP therapy.
+
+      Bilevel positive airway pressure (BiPAP): Whereas conventional CPAP therapy delivers a
+      constant, steady pressure during inspiration and expiration, BiPAP therapy is intended to
+      respond to both inspiration and expiration by the patient and to deliver a set amount of
+      pressure when the patient begins spontaneous inhalation, and decreasing pressure when
+      exhalation begins. Exhaling against lower pressure is thought to be more comfortable for most
+      patients than the continuous pressure delivered by conventional CPAP therapy, although it has
+      not been shown objectively to improve adherence. The BiPAP waveform is fixed in that it
+      provides for set inspiratory and expiratory pressures. For example, the patient's clinically
+      prescribed BiPAP pressures may be set at an Inspiratory Positive Airway Pressure (IPAP) =12
+      cm water (H2O), and Expiratory Positive Airway Pressure (EPAP) = 8 cm H2O.
+
+      The Bi-Flex® feature provides a variation of conventional BiPAP that provides a reduction in
+      the inspiratory positive airway pressure (IPAP) provided toward the end of the inspiratory
+      portion of the breathing cycle when the patient's inspiratory airflow normally diminishes,
+      compared with the level of pressure provided during the majority of inspiration, and also
+      allows reduction in the expiratory positive airway pressure (EPAP) during the initial portion
+      of exhalation compared with that provided during the latter portion of expiration. The
+      purpose of this modification is to provide pressure relief for the patient to smooth the
+      transition period between the end of IPAP and the beginning of EPAP to allow for a more
+      comfortable delivery of PAP therapy. Because Bi-Flex provides both a lower expiratory
+      pressure and pressure relief, it has the potential to be the most comfortable mode of
+      positive pressure therapy delivery available, and therefore to improve adherence. However,
+      there have been no studies of adherence to therapy using Bi-Flex in either children or
+      adults.
+
+      STUDY OBJECTIVES
+
+        1. To determine whether BiPAP with Bi-Flex as compared to CPAP results in improvement in
+           adherence of > 30 minutes a night averaged over 3 months of home use.
+
+        2. To determine whether BiPAP with Bi-Flex as compared to CPAP results in a lower study
+           dropout rate.
+
+        3. To determine whether Bi-Flex has similar therapeutic efficacy compared to CPAP, as
+           determined by polysomnographic measurements of OSAS.
+
+        4. To determine whether Bi-Flex, compared to CPAP, results in improved subjective comfort
+           and improved quality of life.
+
+        5. To determine whether objective parameters (including demographic and polysomnographic
+           variables) or subjective parameters predict adherence.
+
+      STUDY DESIGN This will be a 3-month, double-blinded, randomized trial of BiPAP with Bi-Flex
+      vs CPAP in children with OSAS in whom CPAP is medically indicated Subjects will undergo a
+      baseline diagnostic sleep study as part of their routine clinical care, prior to study
+      enrollment. Those who agree to participate will then be consented and assented to participate
+      in this study. They will be randomized to either a Bi-Flex or CPAP treatment arm, in a three
+      to one fashion. In each arm, each subject will undergo a clinical Bi-Flex or CPAP titration
+      sleep study.
+
+      Following these studies, the subjects in both arms will be asked to use their respective
+      machines, in either the BiPAP with Bi-Flex or CPAP mode, at home for 3 months. During that
+      time, they will have monthly visits to assess adherence as well as subjective measures of
+      comfort and quality of life. A repeat sleep study will be performed at the end of 3 months on
+      the mode assigned (Bi-Flex or CPAP). Subjects will complete standardized questionnaires
+      regarding symptoms and quality of life throughout the study.
+
+      EFFICACY EVALUATIONS Adherence will be assessed by the mean nightly usage as determined by
+      the equipment compliance recording. Drop-out will be assessed by determining which subjects
+      are using the device < 2 hours a night. Efficacy of treatment will be assessed using
+      polysomnographic parameters such as the apnea hypopnea index.
+
+      SAFETY EVALUATIONS Polysomnographic parameters such as the apnea hypopnea index, arterial
+      oxygen saturation and end-tidal PCO2 will be monitored.
+
+      STATISTICAL AND ANALYTIC PLAN The primary effectiveness endpoint is the hours of device use
+      per night over a three month period, as determined from the equipment software.
+
+      Analysis Populations
+
+      Two analysis populations will be evaluated. An intent-to-treat (ITT) analysis will include
+      all patients in the trial by their assigned treatment and will be used for effectiveness and
+      safety. For patients with missing data, values will be imputed as described below. A second
+      analysis will be done on evaluable patients, i.e., those who have complete data and these
+      patients will be evaluated for effectiveness.
+
+      Primary Safety Analysis
+
+      The rate of adverse events will be compared between the two groups by assessing the
+      proportion of subjects who experience at least one adverse event by Fisher's exact test. If
+      the test is statistically significant, then this univariate analysis will be followed by a
+      multivariate logistic regression analysis.
+
+      Screening of possible covariates will be done by a method similar to that described in Hosmer
+      and Lemeshow 25 for logistic regression models. A complete list of clinically relevant
+      variables to be screened will be provided in a detailed statistical analysis plan formulated
+      prior to database lock but will include age, gender, height, weight, and others. The
+      variables on this list will be augmented with variables found to be out of balance between
+      the treatment groups from the comparability analysis described above. Models will be fit for
+      each possible covariate to include treatment, the covariate, and the interaction between the
+      covariate and treatment will be used. Any covariate or interaction significant at a P-value
+      of 0.15 or lower from the screening analysis will allow the variable to enter the backward
+      elimination procedure for the final model. If the interaction is significant, then both the
+      covariate and its interaction need to be included in the model.
+
+      The backward elimination will be done manually starting with the interaction with the highest
+      P-value. Interaction terms will be removed from the model first and then non-significant main
+      effects. Variables will be retained in the model if the P-value for the variable or its
+      interaction is 0.05 or less. This analysis is intended to demonstrate that the treatment
+      affect adjusted for possible covariates is still statistically significant.
+
+      Secondary Safety Analyses The secondary safety analysis will include a descriptive
+      presentation of individual adverse events each tested with Fisher's exact test. Serious
+      adverse events will be presented separately with narratives of the events.
+
+      Primary Effectiveness Analysis
+
+      The primary effectiveness variable is the hours of use per night over three months. This
+      variable will be summarized with mean, median, standard deviation, minimum and maximum. The
+      one-sided lower 95% confidence interval will be computed for the Bi-Flex treated subjects and
+      the upper one-sided 95% confidence interval will be computed for the CPAP treated subjects.
+      These two intervals will be visually compared to determine if either interval excludes the
+      mean of the other treatment. Such exclusion will provide suggestive evidence that the Bi-Flex
+      treatment leads to higher compliance than the CPAP treatment.
+
+      Further, a mixed models analysis of hours of use will be done through three months. This
+      multivariate analysis incorporating clinically important covariates will screen variables for
+      inclusion in a manner similar to that described above. Screening of possible covariates will
+      be done by a method similar to that described in Hosmer and Lemeshow 25 for logistic
+      regression models as discussed above. The same set of potential covariates as described in
+      the safety analysis above will be screened. Models will be fit for each possible covariate to
+      include treatment, the covariate, and the interaction between the covariate and treatment
+      will be used. Any covariate or interaction significant at a P-value of 0.15 or lower from the
+      screening analysis will allow the variable to enter the backward elimination procedure for
+      the final model. If the interaction is significant, then both the covariate and its
+      interaction need to be included in the model.
+
+      The backward elimination will be done manually starting with the interaction with the highest
+      P-value. Interaction terms will be removed from the model first and then non-significant main
+      effects. Variables will be retained in the model if the P-value for the variable or its
+      interaction is 0.05 or less. This analysis is intended to demonstrate that the treatment
+      affect adjusted for possible covariates is still statistically significant.
+
+      Secondary Effectiveness Analyses The drop out rate will be compared between the two groups
+      will be estimated. The rate for each group will be tabulated and computed with 95% exact
+      binomial confidence intervals.
+
+      The objective sleep parameters of Apnea Hypopnea Index (AHI), arterial oxygen saturation
+      nadir, time with elevated end-tidal partial pressure of Carbon Dioxide (PCO2) and the arousal
+      index will be presented descriptively by treatment group. The tables will include the mean,
+      standard deviation, median, minimum and maximum.
+
+      The subjective sleep measures of OSA 18 score, modified Epworth Sleepiness Scale, the NOSE,
+      and pediatric quality of life index (PedQL) will be presented descriptively by treatment
+      group. The tables will include the mean, standard deviation, median, minimum and maximum.
+
+      Additional Analysis Exploratory analyses of the relationships of study variables to outcomes
+      will be done to determine if there is the treatment difference is particularly strong is
+      specific sub-groups.
+
+      Patient Accountability and Missing Data The number and proportion of patients eligible for
+      and compliant with each follow-up examination will be presented. Patients who withdraw from
+      the study will be tabulated with the reasons for the withdrawal. If the proportion of
+      patients withdrawn is larger than the 15% from either arm, an analysis of the demographic and
+      prognostic characteristics will be made between patients who withdraw and those who remain in
+      the study. For continuous variables, parametric or non-parametric analysis of variance will
+      be used. For categorical variables, Chi-square or Fisher's exact test will be applied.
+
+      The evaluation of withdrawn patients presents a special concern. All clinical studies analyze
+      the results based on the evaluable patients, i.e., those who complete the study. Because
+      withdrawn patients do not have final data, they present a problem. The statistical community
+      26-29 recommends that multiple sensitivity analyses be conducted to determine the robustness
+      of the result in patients who complete the study. The intention of these analyses is to
+      demonstrate that the results obtained from the evaluable patients are not biased.
+
+      As a result, sensitivity analyses using multiple imputation analyses will be conducted to
+      evaluate the robustness of the study result accounting for missing observations. The
+      imputation will be a non-parametric multiple imputation in which patients withdrawn from the
+      study will be randomly assigned outcomes by grouping on demographic and prognostic
+      characteristics including treatment assignment maintaining masking, matching the
+      characteristics to the withdrawn patients, and randomly selecting the result for the missed
+      observation from the results for patients with similar characteristics by method such as "hot
+      deck" imputation or imputation by regression 30. All imputations will be stochastic
+      imputations to preserve the variability of the imputed value. Also, imputations will be done
+      in a manner that is consistent with the assumptions of multiple imputation theory including
+      missing at random to the extent possible. If the missing at random assumption is clearly
+      violated by the data, other procedures including selection modeling and pattern mixture
+      modeling will be considered.
+
+      Detailed Analysis Plan Prior to database lock a detailed statistical analysis plan will be
+      written to provide a detailed description of the statistical analysis to be used in the final
+      analysis. This plan will incorporate lists of relevant clinical variables to be tested as
+      possible covariates and will incorporate any protocol changes that would affect the analysis.
+
+      Statistical Software
+
+      The statistical analyses will be done using SAS version 9.1 or later, statistical software
+      (StatXact Version 7 or later, and Systat 10 or later). Each of these software packages
+      provides special features that will be exploited to provide a comprehensive analysis with
+      excellent graphics support.
+    
+  

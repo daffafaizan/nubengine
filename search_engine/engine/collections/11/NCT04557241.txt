@@ -1,0 +1,31 @@
+
+    
+      The investigators propose a single-stage, randomized, superiority trial with 2 parallel
+      groups allocated with a 1:1 ratio. The comparator in this study will be a control ("placebo")
+      infographic that is completely unrelated to science (e.g., about cats), but that is developed
+      using the same communication and graphical style.
+
+      Subjects will be recruited using the Prolific data collection platform, which is one of two
+      primary online crowdsourced research platforms (the other is Amazon's Mechanical Turk, or
+      mTurk).
+
+      To be included, participants must be identified by Prolific as part of a
+      nationally-representative sample. Participants will also be required to be age 18 or older,
+      and to reside in the United States. Individuals who decline to digitally sign the informed
+      consent document will be excluded and replaced. Per recent best practice recommendations for
+      crowdsourced digital research, attention checks and screens for "bots" and international
+      users with virtual private networks to mimic US IP addresses will be embedded within the
+      instruments, and failure of more than one attention check, or any bot/location check will
+      result in subject exclusion and replacement. Replacements will be drawn in such a way as to
+      preserve the representativeness of the sample.
+
+      Missing data will be addressed using either full information maximum likelihood or Markov
+      Chain Monte Carlo multiple imputation strategies. When there is a violation of missing at
+      random (which is unlikely) in preliminary analyses, the investigators will incorporate
+      strategies representing the missingness. The researchers will further explore data quality in
+      terms of outliers, measurement error, non-normality, and variance heterogeneity. Robust
+      methods of analysis (e.g., Huber-White robust standard errors) will be used, as appropriate.
+      For all multi-item measures, reliability will be evaluated prior to computation of the
+      variable.
+    
+  

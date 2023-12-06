@@ -1,0 +1,76 @@
+
+    
+      Main objective: blood pressure target to maintain cerebral perfusion is related to patient's
+      characteristics or comorbidities, it remains uncertain which threshold of blood pressure is
+      to use during general anesthesia in each specific case. Thus, it seems necessary to monitor
+      the cerebral perfusion during anesthesia and to determine the individual dynamic targets of
+      blood pressure. The measure of middle cerebral artery blood flow velocity by transcranial
+      doppler (TCD) is a clinical method to assess cerebral perfusion during general anesthesia and
+      several studies have reported the hemodynamic impact on cerebral blood flow during induction.
+
+      Cerebral perfusion can also be approached by near infrared spectroscopy (NIRS) which measures
+      continuously cerebral oxygen saturation. Bispectral index (BIS), which allows a simplified
+      form of continuous electroencephalogram monitoring to assess depth of anesthesia, could also
+      provide the cerebral hypoperfusion assessment quantified by the count of burst suppression
+      ratio (SR). Potentially, those tools need to be combined to assess cerebral perfusion
+      properly.
+
+      The goal of this study is to evaluate cerebral perfusion change in adult participants with or
+      without cardiovascular risk factors during a standardized propofol-remifentanil anesthesia
+      induction. Cerebral perfusion will be evaluated and compared using simultaneously the TCD,
+      NIRS and BIS measurements. Those measurements will be also repeated during and after
+      treatment of arterial hypotension episodes in both groups.
+
+      Population concerned : the study involves major patients who benefit from intraoperative
+      hemodynamic optimization with norepinephrine (as noradrenaline tartrate) for maintaining
+      blood pressure under general anesthesia during an interventional neuroradiology procedure or
+      orthopedic surgery.
+
+      Research Proceedings: all monitoring (TCD, BIS, NIRS) will be collected from the healthy
+      side, contralateral to the interventional side. BIS, NIRS and continuous non-invasive blood
+      pressure measurement will be all connected to the main monitor. For all participants, the
+      data from TCD, NIRS, BIS and the hemodynamic data will be collected over three distinct
+      periods of the interventional procedure : (1) baseline or during preoxygenation at FiO2 of
+      21% (fraction of inspired oxygen) in awake patients, (2) before Orotracheal Intubation and
+      (3) just after mechanical ventilation.
+
+      In patients presenting a hypotensive episode at any time of the procedure, all parameters
+      will be collected before and at the peak effect after a 10μg bolus injection of
+      norepinephrine.
+
+      Patients will be assigned to one of two groups according to the presence of cardiovascular
+      risk factors. Major risk factor is age > 50 years old. Minor risk factors include history of
+      congestive heart failure, history of cardiovascular event, current smoking, diabetes
+      mellitus, dyslipidemia, arterial hypertension. Patients will be classified into the high-risk
+      group (Hi-risk) if they have at least one major cardiovascular risk factor or two minor
+      factors, or into the low risk group (Lo-risk) if they present one minor or no risk factors.
+
+      During their interventional neuroradiology procedure or orthopedic surgery, all patients'
+      routine monitoring will consist in collecting the following parameters: electrocardiogram,
+      pulsated oxygen saturation, endtidal CO2, respiratory rate, tidal volume and neuromuscular
+      function.
+
+      For all patients whatever the comorbidities, anesthesia induction will be performed using a
+      target-controlled infusion (Orchestra® Base Primea - Fresenius Kabi France). According to our
+      standard of care, intra-operative episodes of hypotension (mean arterial pressure (MAP) < 65
+      mmHg or < 80% baseline) will be treated by Norepinephrine bolus of 10 μg.
+
+      Statistics: Changes in parameters across the time, during induction and/or during
+      vasopressors boluses will be tested by using a paired Student-t test after testing the
+      normality of the distribution. Correlation between the change in MAP and Vm during induction
+      will be done using Spearman test. Complete analysis will also be performed to compare the
+      Low-risk and High-risk patients. The analysis of vasopressor boluses will be performed
+      depending on the time of administration: boluses which are given immediately after induction
+      of anesthesia (early) and boluses given after a 30 minutes period of constant intravenous
+      calculated concentrations of anesthesia (late). All statistical analyses will be performed
+      using R statistical software (The 'R' Foundation for Statistical Computing, Vienna, Austria).
+      Results will be expressed as means (± SD). A two sided p value of 0.05 will be considered
+      significant.
+
+      The sample size calculation is based on the following assumptions: incidence of Hi-risk
+      patients of 50%, as previously reported; incidence of burst suppression during induction in
+      low risk patients of 20%; difference of incidence of burst suppression between low- and
+      high-risk patients of 30%; power at 80% and type I error at 5%. Accordingly, the calculated
+      sample size is 101 patients for the entire population.
+    
+  

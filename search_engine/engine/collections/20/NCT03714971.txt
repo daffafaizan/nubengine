@@ -1,0 +1,87 @@
+
+    
+      Trial design
+
+      The study was designed as a RCT including two parallel arms: an intervention group receiving
+      messages through WhatsApp Messenger operating on smart phones and a control group not
+      receiving these messages. Both groups received the standard outpatient care of the clinic
+      including aproximately 45 minutes face-to-face individual counseling at first contact ending
+      with the decision of treatment and quit date, and a support booklet on quitting and
+      subsequent follow-ups by the same clinician at 1st, 2nd, 4th weeks and 3rd month after quit
+      date, either face-to-face at the clinic or by telephone if the patient does not come to the
+      clinic for follow-up. The study was carried out in the smoking cessation clinic of Ege
+      University Medical School's Public Health Department.
+
+      Sample size
+
+      An a priori power analysis was conducted with OpenEpi, Version 3 by selecting a two-sided
+      test to compare 30% success in the control group at 1st month versus 60% success rate in the
+      intervention group with an error margin of 5%, a power of 80% and an allocation ratio of 1:2
+      which yielded a minimum sample size of 36 in the intervention and 72 in the control groups.
+      For possible loss to follow-up, the sample sizes were increased by 20% to 43 and 86,
+      respectively.
+
+      Randomization
+
+      Among the 132 participants included in the study, 44 were randomly allocated to the
+      intervention arm and 88 were randomly allocated to the control group. Among the intervention
+      group , there were no losses to follow-up at 1st and 3rd months, but two participants have
+      requested the cessation of the intervention after their 1st month follow-up.
+
+      Blinding
+
+      The study was single-blind as blinding of the helthcare providers to intervention assignment
+      was achieved and the physicians conducted usual care for smoking cessation counseling.The
+      physicians were blind throughout the follow ups as well. However, participants and the
+      researcher who sent the messages were not blind.
+
+      Variables
+
+      Primary outcome variables: Quitting success rates at the end of the 1st, 3rd and 6th month of
+      follow-up in the intervention and control groups. Quitting success rate at 1st month was
+      calculated with point prevalence. History of cessation was based on self report and those who
+      declared not smoked even a single puff on a cigarette at all in the past two weeks were
+      considered as "successful" in the quitting attempt. The success rate at 3rd month was
+      calculated with point prevalence. In this point, not smoking at all in total in the past ten
+      weeks was considered "successful" in the quitting attempt. The success rate at 6th month was
+      calculated with point prevalence. In this point, not smoking at all in total in the past 24
+      weeks was considered "successful" in the quitting attempt.
+
+      Secondary outcome variables: The total number of follow-ups in the 1st, 3rd and 6th month.
+      Contacts were divided into two categories: face-to face contacts and telephone calls. The
+      total number of routine follow-ups was classified as adequate when 3 or more in the 1st month
+      and a total of 4 follow-ups was considered as adequate at 3rd month. At 1st month, at least
+      one of these follow-ups was required to be face-to-face for adequacy. The continuity to
+      drug/NRT therapy was categorized as <1 month or ≥1 month. Any change in weight was
+      categorized as; has weight gain, no weight gain
+
+      Data collection Data collection was conducted at the Smoking Cessation Clinic of the Public
+      Health Department at Ege University Medical School Hospital between March 2017-March 2018.
+      The intended number of participants was achieved in 4.5 months and with the completion of the
+      last follow-up, the study was finalized.
+
+      Analysis
+
+      The analyses were conducted according to the Intention-To-Treat (ITT) principle. The
+      participants lost to follow-up were considered unsuccessful in quitting, as non-response
+      could be expected in relapsing individuals, thus Last Observation Carried Forward (LOCF) was
+      not used.
+
+      Smoking cessation successes in the groups were compared with the incidences and relative
+      efficacy of the intervention. Chi-square test, Student's t test in independent groups, single
+      and multivariate logistic regression (enter method) were used for analyses. The multivariate
+      analysis of factors associated with smoking cessation success was performed by using logistic
+      regression analysis with two models. In the first model the investigators controlled for age
+      and gender, in the second model controlling was for age, gender and all the other associated
+      variables in univariate analyses. Analyses were made separately for the 1st, 3rd and 6th
+      month. Statistical significance was set at p<0.05.
+
+      Ethical issues
+
+      The study was approved by Ege University Medical School's institutional review board
+      (decision no.16-12.1/11 on January 6, 2017). Written informed consent of every participant to
+      enroll and receive WhatsApp messages were also obtained with confidentiality for name and
+      address. With the blinding procedures described above, the delivery of routine service for
+      all participants regardless of the allocation to intervention or control group was ensured.
+    
+  

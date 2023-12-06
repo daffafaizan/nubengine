@@ -1,0 +1,117 @@
+
+    
+      PROJECT OBJECTIVES AND DESIGN 1.1 Hypothesis Primary hypothesis: The percentage of mucosa
+      visualized during the withdrawal of a colonoscopy with reference to the position in the colon
+      by means of the scope-guide is an appropriate parameter for assessment of the quality of
+      colonoscopy and correlates with the probability of the detection of adenomas.
+
+      Secondary hypothesis:
+
+      The investigators hypothesize that the percentage of visualized mucosa differs according
+      patient specific parameters (e.g. gender, age, BMI, bowel preparation), procedure specific
+      parameters (e.g. patient position, device, buscopan, fentanyl, withdrawal time) and
+      investigator specific parameters (professional experience as resident and consultant).
+
+      STUDY DESIGN AND PROCEDURES 2.1 Study Design: The investigators will perform a
+      non-interventional, single center exploratory study. Only total colonoscopies will be
+      included. All of the examinations will be performed by board-certified specialists or fellows
+      in training, supervised by the former. The investigators will enroll only participants who
+      will have an explicit indication, in other words who will get a colonoscopy anyway.
+      Therefore, colonoscopies will be conducted for a wide variety of indications including, but
+      not limited, to CRC screening, CRC/ adenoma surveillance, abdominal symptoms such as pain,
+      irregular defecation (diarrhea or constipation), gastrointestinal occult or overt bleeding,
+      family history of polyps or CRC, prior colonic resection, hereditary polyposis syndromes and
+      inflammatory bowel diseases (IBD). Since the study does not pose any additional risk to the
+      participants (the only thing which changes for the patient is that the endoscopic images from
+      colonoscopy and scope guide will be filmed), the enrollment can be done during consultation
+      hour, at the ward or shortly before a colonoscopy.
+
+      2.2 Recruitment, screening and informed consent procedure: Patients will be recruited by the
+      project team in the Department of Visceral Surgery and Medicine at the Inselspital. The
+      patient will be provided with information regarding the study. If the patient shows interest,
+      the investigator will explain the study protocol, answer questions and check inclusion and
+      exclusion criteria. For this study, no compensatory fee will be paid.
+
+      2.3 Study procedures: If the patient agrees to participate in the study and has signed the
+      informed consent the colonoscopy will be performed in the usual setting and using general
+      safety measures. The endoscopist will start filming all the phases of the colonoscopy and the
+      position of the scope-guide simultaneously. Both films will be uploaded to the local server
+      and then cut and analyzed with the help of iMovie. The only study procedure specific for the
+      study is the filming and no other study specific measures will be taken.
+
+      Basic parameters of patient history and colonoscopy procedure will be recorded (compare CRF).
+      As always, any findings of the colonoscopy will be reported to the participant/ patient after
+      the procedure.
+
+      2.4 Withdrawal and discontinuation: If an individual withdraws informed consent after the
+      colonoscopy or during the analysis of the data, he/she will be withdrawn from the project.
+      All videos will be anonymized. In case of withdrawal, patient data and videos will not be
+      considered for study purposes and will be deleted completely.
+
+      STATISTICS AND METHODOLOGY 3.1 Evaluation of Videos: All videos will be anonymized. Then the
+      percentage of visible mucosa and lumen during withdrawal will be determined in each video.
+      The scope-guide will allow to correlate the images with the position of the colonoscope
+      within the colon. The investigators will record the amount of time spend in colon segments
+      such as the cecum, ascending colon, right flexure, right transverse colon, left transverse
+      colon, left flexure, descending colon, sigma and rectum. For each of these segments, the
+      investigators will record the amount of time with good mucosa visibility and poor mucosa
+      visibility.
+
+      In addition to manual analysis, computer-aided analysis and artificial intelligence methods
+      will be developed to assist the evaluation of the videos. The development of computer-aided
+      methods consists of two phases. In the first phase, frames in the video will be extracted as
+      individual images. Experienced physicians will be assigned to annotate the images. The
+      position of the scope-guide will be extracted for the annotation. Then a classifier based on
+      deep neural network will be trained on these annotated images. The percentage of visible
+      mucosa and lumen during withdrawal will be determined in each video based on the
+      classification results of each individual frame. The classification according to the
+      scope-guide will allow to correlate the images with the position of the colonoscope within
+      the colon. The amount of time spending in colon segments such as the cecum, ascending colon,
+      right flexure, right transverse colon, left transverse colon, left flexure, descending colon,
+      sigma and rectum will be determined based on deep learning prediction results. Each frame
+      will be classified to good mucosa visibility and poor mucosa visibility and the amount of
+      time with good mucosa visibility and poor mucosa visibility of each of the segments will be
+      determined accordingly. In the second phase, videos will be analysed directly with deep
+      learning methods and the consistency between the frames will be explored during the analysis
+      to improve the accuracy.
+
+      The investigators will also analyse advancements of the endoscope from the anus to the cecum.
+      To this end, the time until each of the segments is reached will be recorded as well as all
+      loops which have formed within the colon.
+
+      3.2 Statistical analysis plan 3.2.1. Statistical evaluation of the primary endpoint For
+      evaluation of the primary endpoint (adenoma detection rate as a function of mucosa
+      visibility) the investigators will rank all investigations regarding mucosa visibility and
+      will divide the study population in 50% individuals with the best mucosa visibility and
+      compare this number to the 50% of individuals with the worst mucosa visibility. They will
+      compare the fraction of individuals with at least 1 detected adenoma to individuals without a
+      detected adenoma (Fisher exact test). They will subsequently use multivariate logistic
+      regression to correct for confounders (age, gender, family history of CRC, personal history
+      of adenomas, advanced adenomas, carcinomas, BMI and bowel preparation).
+
+      3.2.2. Power analysis Our study is exploratory and no proper power analysis is possible. To
+      provide an estimation the investigators assume that the effect of poor vs. good mucosa
+      visibility will be as good as the effect of one of a number of technical devices recently
+      tested in clinical studies to improve adenoma detection during colonoscopy. Such new
+      technical devices (NTDs) include mucosa caps attached to the tips of the endoscope which
+      flatten and stretch the mucosa or lenses to improve the field and angle of view. In a recent
+      meta-analysis, NTDs increased the odds of adenoma detection by 35% (odds ratio 1.35) 25. In a
+      screening colonoscopy, an adenoma detection rate of at least 20% would be expected 26 (i.e.
+      50 individuals with at least one adenoma among 250 individuals). In individuals with optimal
+      mucosa visibility, this number would be 35% higher (i.e. 68 in 250 individuals). According to
+      the power analysis using G* Power 3.1 27, 419 individuals would be needed to detect such a
+      difference (i.e. 20% vs. 27% adenoma detection) with a power of 80% at an alpha level of 5%.
+      The Investigators are aiming to include 500 individuals to account for an estimated 15% of
+      investigations which could not be evaluated due to incomplete examinations or technical
+      problems.
+
+      3.2.3 Statistical analysis of the secondary endpoints For the secondary outcomes, observed
+      effects and interactions will be statistically substantiated by parametric and non-parametric
+      tests and/ or multivariate analyses considering confounders as appropriate. A p-value <0.05
+      will be considered significant.
+
+      3.3 Handling of missing data: The nature of this exploratory study allows for some tolerance
+      regarding missing data. Patients with incomplete or missing data/videos due to technical
+      problems will be excluded from the study.
+    
+  

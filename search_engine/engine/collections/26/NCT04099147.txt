@@ -1,0 +1,65 @@
+
+    
+      The objectives of this observational study are the following:
+
+        1. To design a predictive model of significant liver disease due to NAFLD, based on
+           clustering or clustering algorithms (AI)
+
+        2. To apply and validate this model to classify patients according to the severity of the
+           disease in such a manner as to provide more effective management of these patients from
+           Primary Care to Hospital Care through process and resource optimization
+
+        3. To develop a Deep Learning System based on convolutional neuronal networks for automatic
+           recognition of images in a cohort of subjects with digitized liver biopsies, and to
+           undertake pairwise analysis that allows for correct and exact classification of biopsies
+           from subjects with NASH.
+
+      Design:
+
+      An observational study of the determination and validation of diagnostic predictive models of
+      NAFLD.
+
+      The study has four phases:
+
+      Phases I and II refer to both unsupervised and supervised artificial intelligence learning to
+      identify clusters and build diagnostic algorithms. They will be carried out on data generated
+      from the ETHON cohort (see below).
+
+      Phase III will consist on applying deep learning system technology as a support strategy to
+      stratify liver biopsies in NALFD patients according to their grade of necro-inflammation and
+      stage of fibrosis. Liver biopsies collected in the Spanish registry of NAFLD up to the
+      beginning of the study will be used.
+
+      Finally, a phase IV of validation will be performed with data from patients that are going to
+      be registered in the Spanish registry of NAFLD.
+
+      Population:
+
+        1. - Study cohort (Phases I-III):
+
+           A. Subjects from the general population identified in the ETHON (Epidemiological Study
+           of Hepatic Infections) cohort* that has already been created (12,246 subjects between
+           19-74 years of age) and B. Subjects belonging to the Spanish registry of NAFLD (HEPAmet)
+           (1,800 subjects already collected at the beginning of the study)
+
+           *The ETHON cohort was recruited between 2015 and 2017 to study the hepatitis C
+           prevalence in the Spanish general population aged 19-74 years old. Lavin AC, Llerena S,
+           Gomez M, Escudero MD, Rodriguez L, Estebanez LA, Gamez B, Puchades L, Cabezas J, Serra
+           MA, Calleja JL, Crespo J. Prevalence of hepatitis C in the spanish population. The
+           PREVHEP study (ETHON cohort). J Hepatol. 2017;66:S272.
+
+        2. - Validation cohort (Phase IV):
+
+      Patients diagnosed with NAFLD by hepatic biopsy recruited in the Spanish and European
+      registers from the beginning of the study.
+
+      -Inclusion and exclusion criteria:
+
+      Inclusion criteria: subjects aged 19-74 belonging to the ETHON cohort or registered in the
+      Hepamet Spanish registry of NAFLD or the European NAFLD registry
+
+      Exclusion criteria: subjects that not fulfill the inclusion criteria and those who did not
+      sign informed consent to participate in the ETHON cohort or to be registered in the mentioned
+      registers.
+    
+  

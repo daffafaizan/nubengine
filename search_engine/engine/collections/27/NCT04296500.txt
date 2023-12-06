@@ -1,0 +1,18 @@
+
+    
+      Herbal prescriptions are one of the most sought complementary and alternative medicine
+      treatment strategies for inflammatory bowel disease patients. However, variability in pattern
+      identification of Traditional Chinese Medicine (TCM)/Traditional East Asian Medicine (TEAM)
+      has been criticised. Using data of patients who achieved and maintained clinical remission
+      after TCM/TEAM herbal medicine prescription, the investigators aimed to develop treatment
+      algorithms refined by identified pattern and key symptoms which practitioners can easily
+      discriminate.
+
+      Based on herbal prescriptions which induced clinical remission, IBD patients were divided
+      into 5 patterns, i.e., Large intestine type, Water-dampness type, Respiratory type, Upper
+      gastrointestinal (GI) tract type, and Coldness type. By term frequency-inverse document
+      frequency (TF-IDF) method, the association between 22 symptoms that were described as
+      indications of the herbal medicine prescriptions and 5 patterns were analysed. Decision tree
+      modeling was used for prediction of relevant patterns from symptoms.
+    
+  

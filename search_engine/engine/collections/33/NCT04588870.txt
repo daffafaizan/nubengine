@@ -1,0 +1,57 @@
+
+    
+      Hypothesis: Patients undergoing pre-operative CI simulation will have improved outcomes as
+      measured by SL, MD and audiological outcomes.
+
+      The goal of this aim is to demonstrate clinical feasibility and to collect preliminary
+      efficacy data for using the pre-operative simulation with active feedback for CI patients.
+      This will be achieved by prospectively using the CI simulation system and evaluating both
+      technical and clinical audiological outcomes.
+
+      C.4.1 Pre-operative Simulation: Prior to surgery, a simulation with visualization of cochlear
+      microstructures will be created for each patient, and the surgeon will conduct iterative
+      virtual surgery with active feedback to determine the optimal surgical approach and cochlear
+      implant electrode position. Based on the feedback from the simulation platform, the surgeon
+      will determine the optimal CI electrode and surgical technique using the virtual simulation
+      to plan the actual surgery. Post-implant feedback will be displayed to the surgeon. Once
+      parameters (SL, MD, AID) are optimized, a surgical plan will be recorded and used during the
+      actual surgical procedure. A surgical plan will consist of the implant type, cochleostomy
+      site, and insertion techniques used for optimal placement. This will be added to the patient
+      electronic medical record to be referenced immediately prior to surgery. Additionally, the
+      simulator will save all performances with the optimized performance being made available for
+      review on the simulator at any time (3-dimensional playback).
+
+      C.4.2 Clinical Outcomes: Aided speech perception testing in the CI ear will be administered
+      at 6- and 12-months post activation using monosyllabic words (CNC Word test) presented at 60
+      dB SPL (A-weighted) as well as sentences (AzBio) in quiet and at +10 signal-to-noise ratio.
+      Percent correct will be calculated for each test and will serve as the primary clinical
+      outcomes.
+
+      C.4.3 User Evaluation: Simulator evaluation (user interface, usefulness, potential usage in
+      future, and overall satisfactory) and feedback/comments from the surgeon about the simulation
+      platform will continued to be collected pre and post-operatively to provide insight into
+      continued future improvement of the simulation platform.
+
+      C.4.5 Reproducibility and Rigor:
+
+      Statistical Analysis: Demographic information as well as post-op CI location parameters (SL,
+      MD, AID), pre/post-op CNC and AzBio scores will be summarized with descriptive statistics:
+      mean/SD, median/IQR for continuous variables and count/percentage for categorical data.
+      Changes of the CNC /AzBio scores overtime will be analyzed using linear mixed models to
+      account for the association of measures from the same patient at different time points, and
+      to deal with missing data assuming missing data will occur randomly. Exploratory analysis
+      will be conducted to (1) evaluate the association of the CI location parameters with the
+      post-op CNC scores; (2) compare the post-op CI location parameters with the CI patients
+      without pre-op simulations that are reported in the literature and/or those who have
+      undergone CI insertion in this institution (historical controls at OSU).
+
+      Sample Size: For this pilot study, a sample size of 30 patients is proposed to evaluate
+      selected feasibility issues, assess the adequacy of instrumentation, and collect preliminary
+      efficacy data (along with historical data) for the design of a larger prospective, randomized
+      trial. For the improvement of the clinical outcome (CNC) after CI, a sample size of 30
+      patients produces a one-sided 90% upper confidence limit of variance <1.5 when the sample
+      variance of the improvement of CNC is 1.0. Up to 36 patients will be enrolled to account for
+      potential attrition due to various unexpected reasons during the period from the enrollment
+      to implant surgery, to 6-month follow-up.
+    
+  

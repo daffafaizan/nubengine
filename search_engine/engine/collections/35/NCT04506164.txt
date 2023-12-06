@@ -1,0 +1,375 @@
+
+    
+      This study will evaluate the effectiveness and implementation of an electronic screening
+      program called eScreening compared to standard of care paper and/or verbal screening methods
+      in VHA Transition Care Management (TCM) programs. This is a mixed methods hybrid 2,
+      effectiveness-implementation, stepped-wedge (SW) trial of eScreening in eight sites. The
+      following eight sites are implementation sites where no research-related activities will be
+      conducted: Oklahoma City VA Health Care System, Chillicothe VA Medical Center, Orlando VA
+      Medical Center, VA Western Colorado Health Care System, VA Puget Sound Health Care System,
+      Roseburg VA Health Care System, VA Salt Lake City Health Care System, West Palm Beach VA
+      Medical Center. These sites will implement screening as part of routine clinical care. They
+      will not collect data and will not obtain independent IRB approval.
+
+      Study investigators will collect the following data:
+
+      EMR data: EMR data will extracted from the Corporate Data Warehouse (CDW) database. EMR data
+      will consist of 1) the number of Veterans that enrolled in the healthcare system and the date
+      and time they enrolled (144 Veterans average per month across sites), 2) the date and time
+      that they received PC-PTSD-5+I9, PHQ-2 +I9, AUDIT-C, CSSR-S, and the disposition
+      (positive/negative screen), 3) date and time they received comprehensive suicide risk
+      evaluation (CSRE), and 4) mental health care referrals. These data will be used to calculate
+      the overall rate of screening completion and referral to mental health care and the average
+      length of time to screening completion. The investigators will also collect age, sex, race,
+      and ethnicity data to include as covariates in the models.
+
+      eScreening system: the investigators will use the eScreening reports functionality to pull
+      eScreening usage data for the sites.
+
+      Staff participants: approximately 4-8 Transition Care Management staff (primarily social
+      workers, but could include Medical Support Assistants or other professionals) at each of the
+      8 VHA sites who have direct or indirect involvement with implementation of eScreening will be
+      asked to take part in this research. Participation will involve one 30-minute individual
+      telephone survey/interview, two 60-minute individual telephone interviews, and one 20-minute
+      online survey. The interviews and surveys will focus on assessing the feasibility and
+      acceptability of the eScreening implementation strategy; factors affecting adoption,
+      implementation, and sustained use of eScreening; and post implementation outcomes. All data
+      from staff will be collected virtually.
+
+      The following is a detailed description of the study procedures, timeline, data, and
+      analyses.
+
+      After a 6-month start up period involving planning and site randomization, the stepped-wedge
+      trial will begin. This stepped-wedge trial relies on sequential roll-out to participating
+      sites over time, while using other sites as controls until they begin implementation and
+      facilitation. The eight participating sites will be stratified by size (a combination of
+      number of TCM staff and average number of post-9/11 Veterans enrolled per month) and block
+      randomized to four step/crossover cohorts of two sites each. All step/crossover cohorts will
+      go through a 3-month pre-implementation (Pre-Imp) phase, followed by a 9-month active
+      implementation using the eScreening MCIS. The eScreening MCIS will begin with a 3-month
+      period that will include eScreening software provision, training, RPIW, and blended
+      facilitation followed by 6 months of ongoing blended facilitation (9 months total). After the
+      active implementation, all sites will have a 9-month sustainment period. Multiple types of
+      data will be collected, including electronic medical record data, staff measures and
+      interviews, field notes, and time motion tracking (described below). Data collection will
+      begin at pre-implementation for each site and continue through sustainment.
+
+      Study Start up (0 to 6 months):
+
+      Randomization and internal facilitators. Sites will be stratified by size, block randomized
+      into four step/crossover cohorts, and engaged in selecting the internal facilitators, who
+      will be serving as site eScreening implementation champions during the study. During site
+      selection, the investigators identified champions who support the use of eScreening and who
+      have established relationships with the TCM team.
+
+      Finalize Materials. The qualitative lead co-investigator along with the PI and the
+      implementation science expert will guide the development and pilot testing of the study
+      questionnaires, time and adaptation trackers, and interview guides using PRISM.
+
+      Lean/Six Sigma RPIW training. The investigators' team has over 7 years of experience
+      implementing eScreening in diverse clinical settings, using the RPIW approach. To prepare for
+      formal RPIW facilitation, two external facilitators will be trained to facilitate eScreening
+      RPIWs, including the primary facilitator (master's level) and a backup (the PI) by a
+      blackbelt level Lean/Six Sigma expert in the Systems Redesign program at San Diego Healthcare
+      System. As part of the training, the external facilitators will facilitate two formal
+      eScreening RPIWs with implementation sites not participating in the study.
+
+      Finalize training materials. The investigators' team has developed an eScreening VA Pulse
+      Site to make accessing technical information and training materials easy for staff. The site
+      includes frequently asked questions, tutorial videos, a technical manual and user guide, a
+      large amount of training information, and the eScreening playbook. In collaboration with the
+      eScreening OIT team, the investigators will update these materials to include the most recent
+      information on eScreening and to support the training protocol.
+
+      Stakeholder Meeting: Building upon several preliminary meetings with national and facility
+      stakeholders, the investigators will host a formal teleconference start-up meeting with
+      National TCM leadership, site internal facilitators, VA OIT eScreening Program Manager, VA
+      Innovations staff, and the PI and co-investigators and research staff. The aim of this
+      meeting is to orient everyone to the goals of the study, communicate the national stakeholder
+      preferences for the content and frequency of interactions, and identify and address possible
+      logistical barriers and facilitators. The 2-hour meeting will use a storyboard format to
+      describe procedures and generate discussion through a structured focus group format employed
+      in prior work. These meetings will occur every six months during the study. An external VHA
+      advisory group, which includes Veterans, will review the research materials and plan.
+
+      Stepped-Wedge Trial (7 to 45 months):
+
+      Based on preliminary work, the investigators anticipate a sample of 45 TCM and related staff
+      will be enrolled in this study. Patient level data will be collected from EMR (for which the
+      investigators will apply for a HIPPA waiver), and no Veterans will directly participate.
+      Recruitment procedures will be reviewed, and adjusted, if needed, in the startup period, but
+      the proposed procedure will be as follows: 1) Internal facilitators, TCM staff and eScreening
+      implementation-related stakeholder staff at each site will be invited to participate in the
+      study; 2) An informational session about the study's leadership and purpose, selection of
+      participants, and use of data will be conducted. Potential staff participants will be
+      informed that their participation is entirely voluntary and their decision about
+      participation will not affect their employment, merit, or promotion. Following this
+      informational session, research staff consent interested participants. After consent has been
+      signed, enrolled staff members will receive a link to an online survey and will be scheduled
+      for a preliminary interview by the evaluation lead. If staff turnover occurs, the
+      investigators will attempt to assess the staff member prior to leaving and replace and train
+      another participant with similar functions within the clinic. Each of the four step/crossover
+      cohorts will go through the following phases sequentially during the study.
+
+      Pre-implementation (Pre-Imp) phase. This phase will last 3 months during which the research
+      team will work with the internal facilitators to: 1) gather pre-implementation information
+      including detailed information on the processes in place for TCM screening upon enrollment ;
+      2) identify points of contact for iPads and other logistical needs; 3) establish
+      communication with TCM staff and others working with the TCM staff; 4) recruit staff
+      participants for the study; and 5) begin ongoing tracking of process data from field notes
+      and time motion tracking. TCM staff names, clinic names, note titles, scheduling the RPIW,
+      and clinical reminders completed by program staff will be gathered and used for subsequent
+      development of user accounts and content customization during the implementation phase. The
+      implementation team will also provide psychoeducation to the staff on the importance of
+      screening. This phase will serve as an attention control condition to which the baseline
+      control and intervention conditions will be compared.
+
+      During pre-implementation, TCM teams will continue usual screening procedures. These involve
+      interview or self-report, paper-based collection of post-9/11 screening measures, including
+      the system-wide standardized assessments of depression, PTSD and alcohol use (PHQ-2 +I9,
+      PCPTSD +I9, and Audit-C, respectively). Patients who score positive on the PHQ-2 +I9, PCPTSD
+      +I9 are then administered the Columbia Suicide Severity Rating Scale (C-SSRS), which collects
+      more information regarding risk of suicide. Veterans who are positive on C-SSRS then receive
+      a Comprehensive Suicide Risk Evaluation and are referred for appropriate follow-up. A
+      detailed description and flow map of the current screening process at each site will be
+      developed by the external facilitator (research team) and internal facilitator (site staff)
+      with information from the TCM staff prior to the implementation phase.
+
+      Active Implementation (MCIS): The eScreening MCIS was developed over the past seven years and
+      consists of: 1) eScreening software provision, 2) training, 3) RPIW, and 4) ongoing blended
+      facilitation. The investigators developed the MCIS to address specific eScreening
+      implementation barriers found in prior research. In order to address system level barriers
+      related to OIT support, the investigators developed a technical support infrastructure for
+      eScreening using existing VA IT resources (see LOS) as part of eScreening provision. The
+      training component addresses educational barriers regarding eScreening use and the research
+      available. Blended facilitation also addressed educational barriers as well as, technology
+      related and other unforeseen challenges. The RPIW process will address, leadership support,
+      staff buy-in, resources needed and by engaging all stakeholders in the process and developing
+      a site-specific and clear plan for implementation. The RPIW specifically includes a section
+      where the team generates possible barriers and solutions in day 2.
+
+      eScreening. eScreening is a VHA program that allows Veterans to answer self-report screening
+      questions via an iPad connected to the VHA secure Wi-Fi. eScreening reads from and writes to
+      the VHA EMR. The highlighted features of eScreening include: 1) the ability for Veterans to
+      enter screening information directly without the involvement of a clinician; 2) immediate
+      scoring of measures; 3) an editable note generated in the EMR; and 4) clinician alerts for
+      positive mental health screens that require follow-up for suicide risk.
+
+      Training. eScreening training will be virtual and asynchronous and include a 1-hour
+      instructional PowerPoint that will be presented by the external facilitator. The PowerPoint
+      is followed by an hour of tutorial videos showing all steps of (creating assessments, adding
+      Veterans, saving to VistA, searching for assessments, creating scheduled appointment
+      assessments, accessing reports). Hands-on training for users will be available in group
+      format or individually by the training staff as requested by the TCM site staff. Additional
+      training materials can be accessed via the eScreening Pulse site which include a series of
+      quick guides to address eScreening customization, assessment set-up and dashboard use.
+      Frequently asked questions will also be available on the Pulse site.
+
+      RPIW. The 3-day RPIW will facilitated virtually by the external facilitator with assistance
+      from the onsite internal facilitator and will include the TCM team, related staff (i.e.,
+      medical support staff, clerks), and other site stakeholders. The first day of the process
+      will train participants in the RPIW principles and will introduce a summary of the
+      information gathered in the Pre-Implementation Phase, including a graphic of the current
+      state process map which will then be refined and finalized. The second day consists of
+      collective efforts to map a targeted future state, conduct a gap analysis, and identifying
+      relevant factors and barriers unique to the site. The third day is dedicated to the
+      repetition of action planning, execution, and reevaluation to finalize the targeted state and
+      identify clinically meaningful goals for improvement. Using a Plan-Do-Study-Act (PDSA)
+      framework, the plans to achieve the target state are enacted with a detailed plan that
+      includes who, what, when for each step in the plan. Due to the flexibility of eScreening and
+      the implementation strategy, each TCM program may choose to integrate eScreening into their
+      workflow based on the specific needs of their program, available resources, and other
+      factors.
+
+      Blended facilitation. Blended facilitation will include a primary external facilitator from
+      the eScreening team who will work with the site internal facilitator to schedule meetings,
+      training sessions, and phone calls. The external facilitator will be the main point of
+      contact for implementation-related questions. The internal facilitator, selected during the
+      startup period, will work with the external facilitator to navigate internal site systems
+      (i.e., local leadership, OIT, logistics) and serve as a champion for the eScreening project
+      at each site.
+
+      Overview of Data Sources & Timing for Data Collection:
+
+      The study will use a mixed-methods design and will collect a combination of quantitative and
+      qualitative data from multiple stakeholders and at multiple time points. A general overview
+      of the data sources and data collection time points are provided in this section. More
+      specific data collection and analysis considerations are provided under each aim.
+
+      Quantitative data sources and timing for data collection. Quantitative data collection
+      includes data from the EMR, the eScreening system, and surveys that will be completed by
+      staff participants. The investigators will extract EMR data at the beginning and end of
+      Pre-Imp, at the end of the MCIS period, and at 9 months post-MCIS. The investigators will use
+      the eScreening reports functionality to pull eScreening usage data for each cohort after the
+      MCIS period and 9 months post-MCIS. The investigators will conduct a Pre-Imp individual
+      telephone survey/interview using the feasibility and acceptability scales developed by Weiner
+      et al (2017). The investigators will also use a secure online survey system (i.e., Qualtrics
+      or RedCap) to collect survey elements based on the PRISM and its RE-AIM outcomes after the
+      active implementation phase.
+
+      Qualitative data sources and timing for data collection. Qualitative data will be collected
+      using field notes and interviews. The investigators will take field notes using a structured
+      template during telephone meetings/calls throughout the pre-implementation and implementation
+      stages including initial contact, during the RPIW, and the facilitation contact sessions.
+      Research staff will take extensive field notes to describe the clinical environment, work
+      flows, patient population, and relational atmosphere. Individual telephone interviews will be
+      conducted with purposefully selected site staff during pre-implementation,
+      post-implementation, and the sustainment phase. Interviews will focus on factors affecting
+      adoption, implementation, and sustained use of eScreening. Both mindset and practical issues
+      will be explored to illustrate implementation issues, challenges, and underpinnings of
+      success. A specific set of probes will outline, and diagram tasks involved step-by-step to
+      document barriers and facilitators and when communication and coordination were needed.
+
+      Aim 1 Data collection and analyses:
+
+      Aim 1: Evaluate eScreening, compared to paper and verbal screening, guided by the RE-AIM
+      outcomes of PRISM in 8 TCM programs, using a cluster randomized, stepped wedge design.
+      Hypothesis 1 (Reach): Compared to paper and verbal screening, eScreening will yield a
+      significantly higher rate of screening. Hypothesis 2 (Effectiveness): 2a: Compared to paper
+      and verbal screening, eScreening will result in significantly less time for mental health and
+      suicide screening. 2b: Compared to paper and verbal screening, eScreening will result in
+      significantly higher rate of referral to needed care.
+
+      Data collection. The investigators will obtain a HIPAA waiver to collect the following data:
+      1) the number of Veterans that enrolled in the healthcare system and the date and time they
+      enrolled (144 Veterans average per month across sites), 2) the date and time that they
+      received PC-PTSD-5+I9, PHQ-2 +I9, AUDIT-C, CSSR-S, and the disposition (positive/negative
+      screen), 3) date and time they received comprehensive suicide risk evaluation (CSRE), and 4)
+      mental health care referrals. These data will be used to calculate the overall rate of
+      screening completion and referral to mental health care during the baseline control period
+      and the average length of time to screening completion. The same data will be collected for
+      the previous nine months post- implementation and sustainment. Based on the average
+      enrollment data for the investigators' sites over the past year, approximately 27,600
+      Veterans will enroll in VA healthcare during the 27-month baseline control, Pre-Imp, post
+      MCIS, and Sustainment data time-periods.
+
+      Sample size and power calculation: the investigators powered the study for the intervention
+      effect of the effectiveness outcomes in Aim 1. The investigators assumed a common
+      intervention effect across all cohorts/steps and Hierarchical Linear Modeling (HLM) to
+      account for clustering, including a fixed effect for cohort/step of crossover to account for
+      secular trends and an indicator of intervention phase change (e.g., control vs. intervention)
+      to provide intervention effects. Power was calculated based on established methods for SW
+      trials. The investigators set type I error rate alpha = 0.05, Cohen's d (or h for binary
+      outcomes) effect size = 0.1, power = 0.8, and assumed an intraclass correlation (ICC) = 0.20,
+      which is a conservative estimate based similar studies. Under these assumptions, the
+      estimated sample size needed for the proposed study is approximately N = 5,000 participants.
+      Data from the investigators' pilot study show effect sizes that are all above this detectable
+      effect sizes. Given that 144 new post-9/11 Veterans are enrolled on average across
+      implementation sites each month and the investigators will collect data at each site over a
+      24-month period, the study is sufficiently powered to detect effect sizes observed in similar
+      studies.
+
+      Statistical analysis and hypothesis testing. Data analyses will proceed in stages and will
+      follow the recommendations of the Prevention Science and Methodology Group for randomized
+      field trials. Preliminary data screening and cleaning will require examination of the data
+      distributions for normality and missing data patterns at both the univariate and multivariate
+      level. Missing data are expected to be limited and are readily incorporated in HLM if the
+      data can be assumed to be missing at random using Maximum Likelihood estimation. If the data
+      are determined not to be missing at random, missing data mechanisms will be built into the
+      target statistical models. HLM will be used as the primary statistical model due to the
+      nested (or clustered) structure of the data (veterans [level 1] nested within TCM clinics
+      [level 2] nested within implementation site [level 3]), with random assignment occurring at
+      the implementation site level. HLM is a flexible modeling strategy that allows for the
+      integration of fixed and random effects in nested/clustered data structures with normal and
+      non-normal response variables. Demographic information about participants during the MCIS and
+      control phases will be statistically compared within and between sites to ensure
+      comparability. Any characteristics that differ between the intervention and control groups
+      will be included as covariates in subsequent models to minimize bias. Fixed effects will be
+      included in each model to account for study phase (i.e., baseline control, Pre-Imp/attention
+      control, MCIS, and sustainment) and step/crossover cohort, to account for secular trends. The
+      investigators will also be able to test interactions between study phase and step to
+      determine whether intervention effects differed by cohort and whether intervention effects
+      varied between TCM clinics within implementations sites. Separate models will be tested to
+      determine whether a greater proportion of Veterans were screened for mental health and
+      suicide risk (Reach) and referred to care (Effectiveness) during the MCIS and/or sustainment
+      phases relative to the baseline and/or attention control phases. Additional models will test
+      whether the mean number of days between enrollment and screening were lower (Effectiveness)
+      during the MCIS and/or sustainment phases relative to the baseline and attention control
+      phases. In all analyses, the investigators will set statistical significance at =0.05 and use
+      Holm-Bonferroni adjustments for 5 tests and false discovery rate methods for >6 tests. When
+      multiple correlated outcomes (dependent outcomes) are analyzed with each hypothesis,
+      corrections will be calculated based on the effective number of independent tests when
+      applying the multiple comparison procedures
+
+      Aim 2 Data collection and analyses:
+
+      Aim 2: Evaluate the feasibility, acceptability, and potential impact of the MCIS, guided by
+      the RE-AIM outcomes of PRISM, adoption, implementation, and maintenance using mixed methods.
+
+      Data collection. The investigators will use a mixed methods approach and collect both
+      quantitative and qualitative data guided by the RE-AIM outcomes of PRISM. For the replication
+      cost, the investigators will use the a time tracker previously used for VA implementation
+      efforts. The tool will be customized for this study and used to incrementally capture all
+      facilitation activity by the external facilitator. Activities will then be quantified and
+      used to develop a replication cost estimate by site.
+
+      Quantitative data analysis. The investigators will use descriptive statistics to summarize
+      quantitative measures for each PRISM outcome using 50% as a benchmark. Adoption will be
+      calculated as the overall number and proportion of TCM clinics that are willing to initiate
+      eScreening, relative to the total number of TCM clinics across implementation sites and
+      within each implementation site, as well as the overall number and proportion of providers
+      who are willing to adopt eScreening relative to the total number of providers across
+      implementation sites, across TCM clinics at each implementation site, and within each TCM
+      clinic. Implementation will be calculated as the proportion of TCM clinics and providers
+      within clinics who implement eScreening. The investigators will also calculate mean ratings
+      of the acceptability and feasibility of the MCIS across providers within TCM clinics and
+      across implementation sites. Time tracker data will be analyzed using the VA general ledger,
+      which includes all labor costs including employee benefits and employer contributions to
+      taxes. Indirect costs should be incurred in proportion to direct costs and will be estimated
+      based on VA Health Economics Resource Center (HERC) guidance. Maintenance will be calculated
+      as the proportion of TCM clinics and providers within clinics who implement eScreening during
+      the sustainment phase (i.e., the 9-month period following initial implementation).
+
+      Qualitative data analysis. Study investigators or an experienced, trained member of the study
+      team will conduct semi-structured interviews. Interviews will be audio recorded, transcribed
+      by the VA CTSP, and entered into the qualitative software program, ATLAS.ti. A key aspect to
+      this analysis is to answer these questions: What influences adoption of eScreening by
+      providers? What factors influenced the implementation of eScreening? What factors promote
+      maintenance? The analysis will also answer the bigger question of why providers do or do not
+      implement eScreening, including understanding any practical clinic work flow reasons for use
+      or non-use, or key underlying characteristics of eScreening program or provider. The analysis
+      will consider emergent themes using an editing approach. Two project team members will
+      independently code the semi-structured interview data collected. A third team member will
+      assess coding quality and resolve conflicts.
+
+      Convergent analysis. Using a mixed-methods convergent design, the qualitative research core
+      team will analyze the data concurrently with the quantitative data to explain and
+      support/refute the quantitative data and add to insights regarding future implementation
+      research and dissemination efforts.
+
+      Aim 3 Data collection and analyses:
+
+      Aim 3: Describe and compare high and low eScreening reach sites guided by contextual
+      constructs of PRISM using qualitative comparative analysis to explore factors influencing the
+      reach of eScreening and the use of the eScreening MCIS. In Aim 3, qualitative data from
+      contextual elements of PRISM will be used to construct comparative analysis between high and
+      low eScreening reach sites. Questions and measures assessing the PRISM contextual dimensions
+      will be included in the proposed interviews and field notes (qualitative data) and will also
+      be informed by the proposed surveys and EMR data (quantitative data).
+
+      Data analysis. Qualitative data will be analyzed as described for aim 2, but the
+      investigators will use a template approach for the analysis using constructs from contextual
+      factors. The investigators will use codes identified and created based on the PRISM
+      constructs and other emergent themes to tag the relevant transcript quotations. Quotation
+      reports will list the associated quotations verbatim by site. Sites will be divided by high
+      vs. low reach using a cutoff score of 30% (from Aim 1), based on prior work. Qualitative
+      comparative analysis (QCA) will allow us compare high and low eScreening reach sites to
+      identify factors influencing the implementation of eScreening and the impact of the MCIS
+      using systematic cross-case comparison to better understand causal complexity. The
+      investigators will list and count different combinations of variables in the data set, and
+      then apply logical inference rules to evaluate whether alternative inferences are supported
+      by the data. Using the investigators' outcome of interest (i.e. high reach) and a list of
+      conditions (i.e. contextual factors) that may be associated with that outcome the
+      investigators will develop calibration metrics using a crisp dichotomous set. Calibration
+      involves considering how each site is related to the pre-defined PRISM concept using specific
+      decision rules. The investigators will establish a codebook detailing the conditions and
+      decision rules. Third, the investigators will calibrate the data. Specifically, using coded
+      data, each site will be calibrated dichotomously as either "having" (1.0) or "not having"
+      (0.0) each condition. After the investigators' sites are calibrated, the investigators will
+      construct a truth table, using Stata, to analyze logical combinations of conditions to
+      determine if specific combinations share the outcome. Using Boolean logic, the investigators
+      will minimize the truth table to arrive at pathways to the outcome. The pathways will then be
+      assessed using the consistency and coverage parameters of fit. A thematic analysis of site
+      interview data will be used to supplement QCA findings.
+    
+  

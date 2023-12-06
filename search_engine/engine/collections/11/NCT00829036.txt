@@ -1,0 +1,59 @@
+
+    
+      The greatest mobility problems for people with severe visual impairment are caused by gaps in
+      available information about the environment -- environmental cues needed for orienting to
+      salient landmarks in the surrounding environment and for wayfinding. Such informational cues
+      are of great import because persons with severe visual impairment can become hopelessly lost
+      if they cannot keep track of where they are at any given moment as they move along.
+
+      A newly developed long-range Radio Frequency Identification (RFID) tag reader might
+      completely solve this problem. Previously, passive (i.e., not battery powered) RFID tags
+      could only be read from a distance of 16 inches or less. This new tag reader can read
+      multiple tags up to 18 feet away, and indicate the direction and range of each tag. At a cost
+      of under 10 each, 250 RFID tags would have to be placed around an environment to equal the
+      cost of 1 Braille sign ($25), yet the value-added in terms of available information at a
+      distance is incredible: every object (landmark, door, water fountain, exit sign, chair,
+      table, etc.) within a range of 18 feet would be able to "announce" its presence.
+
+      Visible signage equivalency could be achieved overnight. Further, Interface, Inc., a
+      commercial floor manufacturer is now adhering RFID tags to the protected underside their
+      50X50 cm floor tiles. Using such flooring and the new long-range readers, a very elegant and
+      affordable indoor GPS-like guidance system can be realized through triangulation of these
+      RFID floor tiles. In the long run, as this RFID flooring infrastructure fills in, the most
+      ideal solution could result, as it would enable the development of easily-managed building
+      databases containing everything users would need to know to orient to new buildings and find
+      their way around with ease. Users would never be lost, as they would always know their
+      current location and heading. In addition, such a building database would be much easier to
+      maintain, as opposed to updating individual RFID tags, when building tenants move or
+      renovations take place. Interface is very interested in supporting our research, and is
+      donating 2500 square feet of their RFID flooring to the VA for this purpose.
+
+      The Research Questions to be answered by the herein proposed research are:
+
+        1. How should environmental information be organized and parsed according to actual needs
+           so that persons can be provided with needed information without inundating them with
+           useless and/or distracting information in the process?
+
+        2. How should a user interface be structured to offer needed information in an easily
+           controlled and useable fashion?
+
+      To address these Questions, the following Research Objectives have been established:
+
+        1. Determine what kinds of information are needed according to (a) a characterization of
+           individual needs, O&M abilities, and degree of useful residual vision;
+
+        2. Develop a structured database of information parsed and organized according to
+           information associated with specific participant characterization clusters as associated
+           with individual needs, residual vision, etc.;
+
+        3. Develop an optimal user interface for the control and delivery of needed information
+           adaptable to the individual needs of the participants;
+
+        4. Develop an RFID reader antenna that can triangulate RFID tags in flooring to determine
+           the user's current location and heading, as well as identify the information and
+           location of other tags of interest on objects in the surround; and
+
+        5. Construct and Evaluate a Wayfinding Prototype as specified by the results of the above
+           objectives.
+    
+  

@@ -1,0 +1,131 @@
+
+    
+      Routine immunization (RI) is an important tool to achieve the UN Millennium Development Goal
+      (MDG) 4 of reducing child mortality by ensuring childhood protection from infectious disease.
+      Recent 2013 estimates found that of approximately 6.3 million children died before their
+      fifth birthday, with 51.8% (3.3 million) of these deaths attributed to infectious diseases
+      (Liu et al., 2014). In regards to vaccine preventable diseases (VPDs), pneumonia (935,000
+      deaths) and diarrhea (578,000 deaths) were responsible for the most deaths. Measles,
+      pertussis, tetanus, and meningitis, four other vaccine preventable diseases, were responsible
+      for 362,000 deaths in children under five years old. (Liu et al., 2014)
+
+      Vaccination is one of the most cost-effective interventions for increasing childhood
+      survival. (WHO, 2009). Global estimates find that current immunization programs save over 2.5
+      million lives a year (WHO, 2009). Despite the lifesaving potential of vaccines, in 2012
+      approximately 17% of children, or about 23 million infants, did not receive all the scheduled
+      vaccines (CDC, 2013) and if they were immunized, they often received the vaccinations late
+      (Clark & Sanderson, 2009).
+
+      In 1985, the Government of India launched the Universal Immunization Programme (UIP) to
+      protect all infants (0-12 months) against six preventable diseases: tuberculosis, diphtheria,
+      pertussis, tetanus, poliomyelitis, and measles. The goal of UIP was to ensure 100% coverage
+      of all eligible children with one dose of BCG, three doses of DTP and OPV, and one dose of
+      the measles vaccine. According to the Coverage Evaluation Survey (CES) 2009, a nationwide
+      survey covering all States and Union Territories of India conducted during November 2009 to
+      January 2010 by UNICEF, the national fully immunized coverage (FIC) against the six vaccines
+      included in UIP in the age-group of 12-23 month old children was just 61% (CES, 2009).
+      Coverage with third dose of diphtheria, tetanus and pertussis vaccine (DTP3) is a widely
+      accepted global indicator for RI program performance (Lim SS, et al. 2008). India national
+      estimates found DTP3 coverage was 72% (WHO India 2011), against a global target of 90%. The
+      District Level Health Survey 3 (DLHS 3) findings suggest that the retention rate of childhood
+      immunization was in maximum decline between the second round of DT and polio - 70 % and the
+      third round - 56 % (Shekhar & Yadav, 2013).
+
+      The proposed study site, the Udaipur district of Rajasthan, has traditionally had lower
+      immunization estimates than national levels while also performing poorly in other key
+      developmental indicators: infant mortality rate (IMR) is 47 per 1000 live births (SRS
+      Bulletin, 2014, GoI) and maternal mortality rate (MMR) is 244 per 100,000 women of
+      reproductive age (MMR Bulletin, 2013).
+
+      To counter the long-standing deficiencies in immunization coverage and other health outcomes,
+      a non-governmental organization (NGO) named Seva Mandir began operations in the area starting
+      in 2004. Seva Mandir, has had a long standing relationship with over 700 villages in
+      Rajasthan, with 105 villages participating in their immunization program. Immunization camps
+      take place at regular, expected intervals throughout the month so caregivers are aware of
+      when the scheduled camps will take place. This study area and its partners have conducted a
+      seminal randomized controlled trial on non-monetary incentives to improve immunization
+      coverage (Banerjee A, et al., 2010).
+
+      Although there has been a renewed global focus on improving immunization coverage levels
+      (Alonso PL, et al., 2013; Berkley S, et al., 2013), Rajasthan district still performs poorly
+      in routine immunization delivery and reporting. In efforts to improve the delivery and
+      reporting of immunizations, with subsequent gains in proportions of infants fully vaccinated,
+      we will conduct a cluster RCT that employs novel mHealth technologies to improve the
+      reporting of immunization records and to increase the demand for immunizations through the
+      use of voice message reminders.
+
+      One of these novel mHealth technologies is the use of a wearable electronic immunization
+      record. This technology couples a mobile application (app) for health workers with a wearable
+      digital pendant (necklace) for individuals that store their updated medical history. The
+      pendant contains a read/writable NFC chip which allows health workers to digitally update a
+      participant's vaccination records with the tap of a phone, and without the need to be
+      connected to a central database. This technology can also be placed into a sticker that could
+      be attached to an immunization booklet which would simplify record keeping. Importantly, this
+      technology can be distinguished from other mHealth solutions as it does not require a
+      centralized database of patients to look up patient specific records. Rather, the solution is
+      decentralized allowing patients to wear their vaccine history on a necklace that can be
+      accessed digitally in the last mile at the point of care. This work extends the use NFC
+      trackers to simply identify patients and count disease occurrence (Marcus, et al., 2009) to
+      medical record storage at the point of care. The potential for the necklace to play a
+      symbolic role for the promotion of health benefits is an additional reason for the chosen
+      form factor.
+
+      The pendant with NFC technology was developed by students at Yale as part of a class project
+      and is called "Khushi Baby" (KB). Yale investigators visited the proposed study site to
+      informally solicit local opinions on the proposed pendant and to receive feedback from Seva
+      Mandir immunization teams to make the KB app user friendly. Importantly, this pendant is
+      contextually relevant as many children in this study area wear similar talismans with the
+      local thought being that they promote good health and can prevent coughs
+
+      Others have found that the color and shape of insecticide bed nets was a relevant factor in
+      influencing people's willingness-to-buy the ITNs and thereby adopt the intervention in
+      Southern Ethiopia (Gebresilassie & Mariam, 2011). The KB necklace, a unique feature of the
+      system, also merits a deeper investigation into the characteristics that influence its
+      adoption and whether it can generate a peer effect throughout the community which impacts
+      vaccination adherence rates.
+
+      In addition to potentially being able to increase demand for vaccination, the NFC chip
+      pendant could potentially improve the quantity and quality of immunization services available
+      through a more efficient monitoring and outreach system. The current paper system is prone to
+      loss of records due to wear and tear over the 9 to 12 month process to complete
+      immunizations. Paper systems also have the disadvantages of being difficult to query, not
+      individually specific as data is aggregated and transferred, and out-dated due to the time
+      lag in data entry. The system to digitize vaccine records makes individually specific data
+      available to remote monitors in real time so that they can better manage: vaccine stock,
+      resource mobilization for camps, and camp reminder messages via automated voice reminders to
+      child's household mobile phones. It also holds promise in improving workflow in the field.
+      Simply scanning the chip quickly brings a child's records and their due vaccines for the
+      visit without guesswork based on otherwise incomplete records. Finally, new information such
+      as events of vaccine denial and reasons for vaccine denials can be automatically recorded to
+      reveal greater insights on the true vaccine demand for a given village.
+
+      Data do not only have the potential to inform the service delivery NGO, but in this system,
+      to also connect back with the community being served via voice call reminders. Many mHealth
+      pilots on "push" based reminders systems have shown promise in improving health outcomes in
+      developing countries (e.g. MedicMobile, M-Power, Frontline SMS, Mobile Alliance for Maternal
+      Action); however further evidence must be collected to determine whether personalized voice
+      calls can specifically reduce immunization drop out. An automated backend allows our push
+      system to reach mothers/primary caregivers in villages before their baby is due for his/her
+      next vaccine.
+
+      Our approach stands to be successful for several reasons:
+
+        -  mHealth solutions have been successfully used to improve the quality and efficiency of
+           data collection across a range of health outcomes, even in developing world settings.
+
+        -  SMS reminders have shown some success to improve immunization coverage and timeliness in
+           other developing areas (Bangure et al., 2015); we look to seek enhancement of this
+           effect through personalized voice reminders in local language.
+
+        -  Mobile phone ownership and access levels are at an all-time global high. Globally, the
+           number of people owning mobile phones grew from 1 billion in 2000 to 6 billion in 2012
+           (World Bank, 2012). Reaching the last mile may be facilitated through remote reminder
+           systems that alleviate the burden of local workers hired to go door-to-door, walking
+           tens of miles the day before an immunization camp
+
+        -  Monthly immunization camps are the predominant avenue for infants to be vaccinated. This
+           immunization delivery system benefits the proposed study as study staff will not have to
+           travel to many different clinics and/or households to track enrolled infant's
+           immunization status.
+    
+  

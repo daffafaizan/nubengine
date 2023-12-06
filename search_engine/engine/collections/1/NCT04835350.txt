@@ -1,0 +1,133 @@
+
+    
+      1. Screening - day 0
+
+        2. Hospitalization (Day 1-10) Day 1 - Deployment of study equipment, patient education Day
+           2 - Start of study, activation of Pancreas4ALL closed loop in mode - hybrid closed loop
+           (2.7.1) Day 4 - Randomization of patients to Group A and to Group B Group A - Activation
+           of Pancreas4ALL closed loop in closed loop mode - "food announcement" (2.7.2) Group B -
+           Activation of Pancreas4ALL closed loop in mode - full closed loop mode (2.7.3) Day 7 -
+           Crossover - Group exchange Day 10 - Return to the initial treatment modality.
+
+        3. Termination of the study
+
+      Detailed description of the clinical trial - study control plan:
+
+      Outpatient check:
+
+        1. Signing of informed consents to the study and GDPR consent to the processing of personal
+           data by the legal representative and the entity that will be included in the study
+
+        2. Urine pregnancy test for women and girls after menarche
+
+        3. Blood collection for the determination of HbA1c, TSH and creatinine
+
+        4. Evaluation of entry criteria (inclusion criteria); if all criteria are met, the subject
+           will be included in the study.
+
+      Day 1:
+
+        1. Hospitalization in the inpatient part of the University Hospital and the 2nd Medical
+           Faculty of Charles University, Department of Endocrinology and Diabetology.
+
+        2. Download data from an existing pump / sensor for the last 3 months to Carelink or
+           Diasend
+
+        3. Creating a DexCom Clarity and Diasend / Tidepool account (certified patient data store)
+
+        4. Training of the patient in the use of the DANA RS Diabcare pump and the DexCom G6 CGM
+
+        5. Training of Samsung S10e mobile phone with active version of Pancreas4ALL application
+           connected to Dana RS Diabcare and Dexcom G6 IP - mode open loop
+
+        6. Application of DANA RS Diabcare insulin pump and CGM Dexcom G6 to the patients
+
+        7. Optimization of basal dose and bolus calculator settings using Pancreas4ALL advisor
+           (calculation based on patient's age, weight and CDD)
+
+        8. Education about the necessary inputs (data entered by the patient) into the Pancreas4ALL
+           application.
+
+        9. Activation of the Pancreas4ALL application - open loop. Preprandial bolus calculated by
+           the patient using a bolus calculator, part of the Pancreas4ALL application.
+
+       10. Completion of the Quality of Life (QoL) Questionnaire PedsQl
+
+      Defined Pancreas4ALL settings for all subjects.
+
+        -  Target glycemia 5.5 mmol / mol
+
+        -  Active insulin time 6 hours
+
+        -  Setting automatic functions: In case of hypoglycemia (glycemia below 3.9 mmol / l), a
+           temporary blood glucose target of 8 mmol / l is automatically set for 30 minutes after
+           the hypoglycemia has occurred.
+
+      Another activities:
+
+        -  In case of physical activity, it is recommended that the patient temporarily increase
+           the target glycemia to 8 mmol / l, switch to a temporary profile of 70-80% depending on
+           the intensity of physical activity (automatic recalculation of basal dose, insulin
+           sensitivity, insulin carbohydrate ratio to 70-80%)
+
+        -  In case of illness accompanied by an increase in glycaemia, the patient is recommended
+           to switch to a temporary profile of 120-150% (automatic recalculation of the basal dose,
+           insulin sensitivity, insulin carbohydrate ratio at the set 120-150%)
+
+      Day 2:
+
+      1) Initiation - activation of the "closed loop" Pancreas4All in the hybrid closed loop mode
+      (2.7.1)
+
+        1. The patient will enter the number of carbohydrates eaten into the application, using the
+           bolus calculator to calculate the preprandial bolus.
+
+        2. Meal blood glucose will be corrected using the Pancreas4All automated system.
+
+        3. In case of glycemia above 13 mmol / l 30 min after a meal, the correction bolus will be
+           calculated using a bolus calculator. Hyperglycemia management see appendix.
+
+        4. In case of hypoglycaemia (glycaemia <3.9 mmol /), the subject will be given dextrose in
+           the form of tablets or a sweet drink (the amount of dextrose will be calculated
+           according to the patient's weight, current level and glycemic trend) See Appendix.
+
+      Day 4:
+
+        1. Randomization to group A and group B
+
+        2. Randomization will be performed using an IT application according to age, gender, weight
+           and input glycated hemoglobin.
+
+        3. Randomization:
+
+             1. Group A: Activation of Pancreas4ALL in closed loop mode in "meal announcement"
+                (version 2.7.2). The patient will only enter a notification in the application that
+                he is going to eat.
+
+             2. Group B: Activation of the Pancreas4ALL application in mode full closed loop mode
+                (version 2.7.3). The subject will not enter any notification or notification into
+                the application that it is going to eat.
+
+        4. Other settings + glycemic control remain as in the previous phase.
+
+      Day 7 - Cross-over - change of settings for groups A and B:
+
+        1. The basic settings remain unchanged
+
+        2. Change the setting mode in groups A and B
+
+        3. Blood glucose control see above.
+
+      Day 10 - Visit 2 - End of study:
+
+        1. Download data from pump to DexCom clarity and Diasend / Tidepool, check data storage
+           from IP and sensor
+
+        2. Evaluation of glycemic control for the last week
+
+        3. Completion of the PedsQl Quality of Life (QoL) Questionnaire + System Satisfaction
+           Questionnaire.
+
+        4. Termination of the study - return to the standard treatment modality of the patients
+    
+  

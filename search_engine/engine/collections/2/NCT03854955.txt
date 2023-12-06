@@ -1,0 +1,12 @@
+
+    
+      This project involves the implementation of a device-based scribe service (iScribes) for
+      patient encounters. Device based scribing services record the patient-physician encounter and
+      securely transmit data to an off-site facility where trained professionals transcribe the
+      dictations. The information is then sent back to the physician and stored in the providing
+      institutions electronic medical records. The objective of the proposed study is to track and
+      compare the allocation of physician time and associated quality metrics with and without the
+      use of iScribes. We anticipate that the use of iScribes will reduce the amount of physician
+      time spent away from the patient (e.g., charting, dictating).
+    
+  

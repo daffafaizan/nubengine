@@ -1,0 +1,39 @@
+
+    
+      This first step of this project is a 'discovery experiment' to describe the expression
+      profiles of 8 PDAC tissue samples compared to controls; with subsequent validation of
+      candidate circRNAs:
+
+      8 paired samples of PDAC tumour tissue and associated normal pancreatic tissue will be
+      collected at the time of surgery (after the pancreatic tumour is resected). The expression
+      levels of circRNAs will be profiled and the most significantly dysregulated candidate
+      circRNAs will be chosen (also considering other datasets and the current literature in this
+      decision).
+
+      The second step of this project is a prospective non-interventional observational cohort
+      study to investigate these candidate circRNAs further:
+
+      The expression of these candidate circRNAs expression levels will be measured longitudinally
+      throughout the clinical timeline of patients with PDAC in blood samples; and in bile, tissue
+      and biopsy samples (when this is safely available after clinical sampling and without
+      additional investigations). This will be compared against control patients with benign
+      biliary disease and other biliary tract cancers. These controls would only be available for
+      blood tests and, if undergoing cholecystectomy, bile. Blood tests will be taken alongside
+      clinical bloods or after anaesthesia for surgical procedures, bile will be taken after
+      removal of the gallbladder for gallstone disease when this is in excess to clinical
+      requirements.
+
+      The ability of each circRNAs as a diagnostic, prognostic and predictive biomarkers will be
+      described and compared to CA 19-9 (the only biomarker that is currently widely accepted in
+      PDAC). This will first be considered in blood samples and then other patient biomaterials.
+
+      The final part of the project will be to undertake both computer and laboratory evaluation of
+      candidate circRNAs in order to propose a its molecular relationships and how this may explain
+      and associations described.
+
+      A Bioinformatical review will give the ability to computationally determine the miRNA-binding
+      capabilities of candidate circRNAs, and the downstream mRNAs regulated. Gene-ontology and
+      KEGG pathway enrichment-analyses of the differentially expressed genes will allow a
+      global-view of the transcriptome under circRNA regulation in PDAC.
+    
+  

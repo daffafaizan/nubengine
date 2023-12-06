@@ -1,0 +1,79 @@
+
+    
+      PURPOSE: The purpose of this study is to describe a multimodal impairment-based clinical
+      model for the treatment of low back pain utilizing the concept of Regional Interdependence
+      (Wainner et al 2007) and to determine the relative effectiveness of this model versus
+      classification-based therapy using the Treatment-Based Classification System for acute and
+      subacute low back pain (Delitto et al 1995, Fritz et al 2006, Fritz et al 2007) in terms of
+      improvements in pain and disability at 4 weeks and 6 months.
+
+      BACKGROUND: Recent studies have shown that subclassifying patients with low back pain into
+      treatment groups results in better outcomes than treating all patients with low back pain as
+      homogenous groups. (Fritz et al 2003) However, no studies have directly compared the efficacy
+      of impairment-based versus classification-based physical therapy for patients with acute and
+      subacute low back pain.
+
+      HYPOTHESIS: We suspect that both methods of treatment will be effective, but we are uncertain
+      if one will be more effective than the other. Therefore, our null hypothesis will be that
+      both methods will be equally effective.
+
+      METHODS:
+
+        1. Patients referred to physical therapy at Hendricks Regional Health in Plainfield, IN
+           will be screened for eligibility. Eligible participants will be offered the opportunity
+           to voluntarily participate in the research study. Those patients who are both eligible
+           and interested will receive an informed consent form approved by the Hendricks Regional
+           Health Institutional Review Board.
+
+        2. All subjects will complete a standard intake form and self-report measures. The
+           principal investigator will obtain a subjective history from the patient and perform a
+           standardized baseline physical examination.
+
+        3. After the baseline examination, subjects will be randomized in blocks of 4, 6, or 8
+           using a concealed, computer-generated randomization sequence accessed electronically
+           through a Microsoft Excel spreadsheet using the VLOOKUP function to return the group
+           assignment when the subject number is entered.
+
+        4. All subjects in both groups will be treated by the principal investigator two times per
+           week for two weeks followed by once per week for two weeks (total of 6 visits)
+           regardless of treatment group assignment. All subjects will receive standardized
+           education as well as additional individualized education as deemed appropriate by the
+           treating clinician. Subjects will be given a home exercise program consisting of the
+           same exercises they performed in physical therapy and asked to perform their exercises
+           twice per day.
+
+        5. Patients in the impairment-based group will be treated using a multi-modal treatment
+           approach utilizing manual therapy of the thoracolumbosacral spine and hip as well as
+           motor control exercises. Patients in the classification-based group will be categorized
+           into subgroups according to the previously described Treatment-Based Classification
+           (TBC) Algorithm and treated accordingly.
+
+        6. After completion of the 6 visits, we intend to discharge most patients to a home
+           exercise program. However, patients who require more or fewer visits than this will
+           still be included in the intention-to-treat analysis. Patients will be encouraged to
+           perform their home exercises at least 3 times per week until the 6 month follow up.
+
+        7. Primary and secondary outcome measures will be collected at 4 weeks and 6 months from
+           baseline.
+
+      DATA ANALYSIS:
+
+      Study data will be analyzed using SPSS Statistical Software (IBM, Armonk, NY).
+
+        1. Baseline characteristics will be examined for between group differences.
+
+        2. Primary outcomes will be analyzed using a repeated measures analysis of co-variance
+           (ANCOVA) to examine a group x time interaction for pain and disability at baseline, 4
+           weeks, and 6 months controlling for baseline covariates of Fear Avoidance Behavior
+           Questionnaire physical activity subscale score (FABQpa), duration of symptoms, and prior
+           history of low back pain. Median and range values will be calculated for Global Rating
+           of Change at 4 weeks and 6 month. Primary outcome measures will also be dichotomized and
+           combined in order to determine overall treatment success for the 4 week and 6 month
+           follow ups.
+
+        3. Intention-to-treat analysis using multiple imputation to account for missing values will
+           be used in all analyses. A secondary per-protocol analysis will be performed for
+           patients who completed exactly 6 visits, performed their home exercise program at least
+           6 times per week, and completed all outcomes at all time points.
+    
+  

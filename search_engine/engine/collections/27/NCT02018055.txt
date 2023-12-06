@@ -1,0 +1,254 @@
+
+    
+      1. Study design Pospective, multi-center, randomized, open trial
+
+        2. Study Objective To investigate the efficacy and safety of switching from ticagrelor to
+           clopidogrel in stabilized patients with AMI with no adverse events during the first
+           month after an index PCI
+
+        3. Study Drug Test drug: Clopidogrel Control drug: Ticagrelor
+
+        4. Study Disease Acute myocardial infarction: ST-segment elevation MI (STEMI) and
+           non-ST-segment elevation MI (NSTEMI)
+
+        5. Study Population 2590 (loss to follow-up: 10 %) -Test group: 1295 -Control group: 1295
+
+        6. SAMPLE SIZE CALCULATIONS
+
+           The present study is designed to show non-inferiority for the treatment group with
+           aspirin plus clopidogrel versus the control group with aspirin plus ticagrelor. The
+           sample size is based on the combined occurrence rate of ischaemic and bleeding events
+           between 1 and 12 months after AMI. According to the PLATO investigators, the event rate
+           of the primary efficacy endpoint including CV death, MI or stroke was 5.28% in the
+           ticagrelor group and 6.60% in the clopidogrel group between 1 and 12 months after the
+           index event1. There were no reported data on the bleeding event rate associated with
+           ticagrelor from 1 to 12 months after AMI, especially the BARC bleeding rate at the time
+           of the present study design. Therefore, we assumed the event rate of BARC 2, 3 or 5
+           bleeding from the event rates of non-coronary artery bypass graft (CABG)-related PLATO
+           major or minor bleeding because the content of BARC 2, 3 or 5 bleeding was conceptually
+           quite similar with non-CABG-related PLATO major or minor bleeding. With regard to the
+           assumption of the bleeding rate from 1 to 12 months after the index PCI, we calculated
+           the expected bleeding rate using a proportional equation under the assumption that the
+           occurrence ratio of non-CABG-related major bleeding of the first 30 days to that of
+           after 30 days and the ratio of non- CABG-related major or minor bleeding of the first 30
+           days to that of after 30 days could be equal. Thus, for the event rate of BARC 2, 3 or 5
+           bleeding associated with ticagrelor from 1 to 12 months after AMI, the event rate was
+           assumed from the event rates of non-CABG-related PLATO major or minor bleeding during a
+           year of ticagrelor therapy (8.7%) and non-CABG-related major bleeding of the first 30
+           days (2.47%) and after 30 days (2.17%) in the PLATO trial. For the event rate of BARC 2,
+           3 or 5 bleeding associated with clopidogrel from 1 to 12 months after AMI, the event
+           rate was assumed from the event rates of non- CABG-related PLATO major or minor bleeding
+           during a year of clopidogrel therapy (7.0%) and non-CABG-related major bleeding of the
+           first 30 days (2.21%) and after 30 days (1.65%) in the clopidogrel group of the PLATO
+           trial7. After applying a proportional equation, we estimated that the BARC 2, 3 or 5
+           bleeding would be 4.07% in the ticagrelor group and 2.99% in the clopidogrel group.
+           Thus, the expected event rate of the primary endpoint from 1 to 12 months after the
+           index PCI was 9.35% (ischaemic event of 5.28% + bleeding event of 4.07%) in the
+           ticagrelor group and 9.59% (ischaemic event of 6.6% + bleeding event of 2.99%) in the
+           clopidogrel group. We chose the non-inferiority margin in accordance with clinical
+           judgement and other relevant studies with a non-inferiority design for the present study
+           design. The non-inferiority margin of two contemporary trials of antiplatelet treatment
+           after PCI that were available up to that time was equivalent to a 40% increase in the
+           expected event rate16,17. The steering committee decided that the non-inferiority margin
+           in our study should be less than a 40% increase compared to the expected event rate of
+           the control group. After considering clinically acceptable relevance and the feasibility
+           of study recruitment, we finally selected the non-inferiority margin of 3.0%, which was
+           equivalent to a 32% increase in the expected event rate. Sample size calculations (PASS
+           13; NCSS, LLC, Kaysville, UT, USA) were initially performed based on a one-sided α of
+           0.025 and a power of 80%. To achieve these goals, a total of 2,230 patients was needed.
+           After considering a follow-up loss rate of 10%, there should be at least 1,644 per group
+           and a total of 3,288 patients. However, while the study was actively underway, the
+           government policy on investigator-initiated trials (ITTs) changed: it was decided not to
+           allow national health insurance to charge for the medical care costs of participating
+           patients in ITTs. Soon after, the government was forced to permit the application of
+           national health insurance to ITTs on the condition that researchers should obtain
+           approval for their studies by the head of the Health Insurance Review and Assessment
+           service. However, during this turmoil, researchers' willingness to register patients had
+           been compromised, and they could not register patients as planned within the period.
+           Thus, the steering committee held an emergency meeting with data and safety monitoring
+           board (DSMB) members and independent statisticians and decided to recalculate the sample
+           size for the timely completion of the trial. In recalculating the sample size, we
+           adopted a one-sided α of 0.05 instead of 0.025. According to the CONSORT statement of
+           non-inferiority and equivalence in trials18, a one-sided α of 0.05 was acceptable for
+           the non-inferiority clinical trials. Moreover, in the large-scale TROPICAL-ACS (Testing
+           Responsiveness to Platelet Inhibition Chronic Antiplatelet Treatment for ACS) trial (one
+           of the famous CV drug trials similar to the TALOS-AMI trial), the researchers adopted a
+           one-sided α of 0.05 for the sample size calculation4. Furthermore, of 110 CV
+           non-inferiority trials published in JAMA, The Lancet or the New England Journal of
+           Medicine from 1990 to 2016, a one-sided α was 0.05 in 66 trials19. Based on this
+           external harsh environment and a review of the sample size calculation in previous
+           large-scale randomised trials published in high-impact journals, we recalculated the
+           sample size by using a one-sided α of 0.05, a power of 80% and a follow-up loss rate of
+           10%. As such, the sample size was reduced from 3,288 to 2,590 (1,295 patients in each
+           group)
+
+        7. Study Design
+
+      1) Screening period
+
+      To conduct screening AMI patients based on the inclusion/exclusion criteria who (1) have been
+      treated with ticagrelor+aspirin for at least 30±7 days after an index PCI, (2) received full
+      explanation of the study details, (3) given informed consent To randomize eligible subjects
+      within 30±7 days after AMI undergoing PCI with newer generation DES, and receiving aspirin
+      and ticagrelor to the treatment and control groups in a 1:1 ratio.
+
+      2)Treatment period
+
+      Enrolled patients receive clopidogrel 75mg + aspirin 100 mg (treatment group) or ticagrelor
+      90mg bid +aspirin 100mg treatment (control group) for 11 months (post-AMI 1 month to 12
+      months) and evaluation safety and efficacy by conducting physical examination, checking vital
+      sign, and collecting adverse events at post-PCI 3M, 6M, 12M visits.
+
+      Labboratory and imaging tests, which undergo according to the medical judgment of each
+      investigator during the study period, are collected by reviewing medical records or EMR.
+
+      8. Randomization
+
+        1. Subject Assignment and Randomization
+
+           Randomization will be performed to ensure the scientific validity of the clinical test.
+           This will maximize the comparability of the test and control group and eliminate the
+           subjectivity of the researchers in subject group assignment. Before PCI, a 250-325mg
+           loading dose of aspirin is given to patients who are naïve to treatment and all patients
+           receive a loading dose of ticagrelor 180mg. Discharge medication consists of aspirin
+           100mg once and ticagrelor 90mg twice per day. All patients receive treatment with
+           aspirin plus ticagrelor for 1 month after the index PCI (screening period). At 30 ±
+           7days after index PCI, eligible patients were randomly assigned either to the 1) aspirin
+           100 mg plus clopidogrel 75mg daily (treatment group) or 2) aspirin 100 mg plus
+           ticagrelor 90mg twice daily (control group) in a 1:1 ratio. Randomization will occur
+           centrally. To randomize a patient, the investigative site will enter the subject into
+           the designated electronic system and obtain the treatment assignment (clopidogrel +
+           aspirin or ticagrelor + aspirin) in a 1:1 ratio. At 1 month visit after AMI, eligible
+           subjects were assigned to each treatment group following an access to the interactive
+           web-based response system (IWRS, Medical Excellence Inc., Seoul, Korea) by the
+           investigator or designee. Randomization sequence was created by an independent
+           statistician using SAS 9.3 (SAS Institute Inc. Cary, NC, USA) statistical software and
+           was stratified by study center and type of AMI (STEMI or NSTEMI) and with a 1:1
+           allocation using hidden random block size.
+
+        2. Dosage and Method Test (Clopidogrel): 75mg oral administration, once a day Control
+           (Ticagrelor): 1 tablet (90mg) oral administration, twice a day
+
+        3. Switching protocol (ticagrelor to clopidogrel) In the control treatment group, when
+           switching from ticagrelor to clopidogrel, patients take a 75mg clopidogrel without
+           loading dose at the time of the next scheduled dose after the final dose of ticagrelor
+           (eg, ≈12 hours from last dose of ticagrelor). The steering committee decided this
+           switching strategy of no loading dose based on the concept that our study population
+           would be at stable status at the time point of randomization (30 days after index PCI).
+           The data safety and monitoring board (DSMB) approved this switching strategy on the
+           condition that initial 100 enrolled patients in the treatment group should be monitored
+           daily during first 7days for the occurrence of adverse clinical events by telephone
+           interviews. Thereafter, DSMB reviewed the clinical data of the initial 100 patients in
+           the treatment group and recommended continuation of the study according to the original
+           protocol. After randomization, patients continue the same medication for 11 months
+           according to their group allocation (treatment period, Figure 1). Patients are evaluated
+           at 3 (2 months after randomization), 6 (5 months after randomization), and 12 (11months
+           after randomization) months after index PCI and monitored for the occurrence of the
+           clinical events.
+
+      9. Statistical Analysis
+
+      1. Efficacy Test Variable Analysis
+
+        1. Primary endpoint analysis Efficacy Test The non-inferiority test between 1 and 12 months
+           after AMI will be based on the Kaplan-Meier estimates. A 95% two-sided confidence
+           interval will be computed for the difference event rate (clopidogrel + aspirin) - event
+           rate (ticagrelor + aspirin). The clopidogrel group will be judged as non-inferior to the
+           ticagrelor if the upper confidence limit is less than the predetermined non-inferiority
+           margin of 3% (absolute risk difference).
+
+           The hypothesis of non-inferiority test will be based on the difference of proportions.
+           Let rT denote the true event proportion in the test arm (clopidogrel + aspirin) between
+           1 and 12 months, and rC denote the true event proportion in the control arm (ticagrelor
+           + aspirin) between 1 and 12 months. The hypotheses are H0: rT - rC≥Δ HA: rT - rC<Δ
+           TheΔis the non-inferiority margin, and is taken to be 0.03. The test will be performed
+           as a one-sided test at alpha=0.05.
+
+           The null hypothesis shall be rejected at alpha=0.05 if the one-sided p-value is less
+           than 0.05. When this occurs, the upper limit of the two-sided 95% confidence interval
+           will be less than 3%.
+
+           If the non-inferiority analysis passed the acceptance criterion, a superiority analysis
+           will be performed. Statistical superiority is achieved when the upper limit of the
+           two-sided 95% confidence interval of the risk difference is less than 0%. The type I
+           error for this analysis is protected by the non-inferiority analysis, and no alpha
+           adjustment would be appropriate
+
+           Subgroup analyses will be performed by the primary endpoint categorized by type of AMI
+           (STEMI vs NSTEMI), Subgroup analyses will be performed by the primary endpoint
+           categorized by Type of AMI (STEMI vs NTEMI), Gender, Age (>=75 vs <75), Diabetes, LVEF
+           (>=40% vs <40%), eGFR (>=60 vs <60), type of implanted stents (Xience vs Resolute vs
+           Synergy stents), Bleeding risk according to the ARC criteria (high vs low bleeding
+           risk), CYP2C19 loss-of-function carrier status (carrier vs non-carrier).
+
+           The primary analysis population for primary and secondary endpoints will be the
+           Intention-to-Treat (ITT) population. The primary endpoint analysis will also be
+           performed on the Per Protocol (PP) population as subsequent analysis.
+
+           A primary endpoint analysis stratified by the institutions as a sensitivity analysis.
+           Strata will be divided by the accrual number of institution based on quartiles.
+
+           Implement noninferiority validation based on the tolerance limit after collecting
+           cumulative occurrence rate of MACCE (CV death, MI, stroke) + BARC bleeding (type 2, 3,
+           or 5) post 1M-1Y PCI and checking 95% confidence interval of [Ticagrelor occurrence rate
+           - Clopidogrel occurrence rate]. If the upper value of the 95% confidence interval is
+           less than 3% of the noninferiority tolerance limit, Clopidogrel is perceived noninferior
+           to Tricagrelor. Present the cumulative limit method, Kaplan-Meier curve and conduct
+           log-rank test to check the difference between two groups.
+
+        2. Main Secondary Endpoint Analyses
+
+      The secondary endpoints will be composed of two families. The first family consists of the
+      composite endpoint of MACCE (CV death, MI, stroke) plus BARC bleeding (type 2, 3, or 5). The
+      second family will consist of MACCE plus BARC bleeding (type3, or 5), MACCE, and BARC
+      bleeding (type 2, 3, or 5). The endpoints from the second family will be tested
+      hierarchically, thereby maintaining the study-wise alpha level. These secondary endpoints
+      will only be tested if both the primary composite endpoint and BARC bleeding are significant
+      at non-inferiority analysis, and superiority analysis. Composite endpoint of MACCE plus BARC
+      bleeding (type 3, or 5) will be tested first, and only if this is significant, the composite
+      endpoint of MACCE only will be tested afterwards. BARC bleeding (type 2, 3, or 5) will be
+      tested only if both of the above endpoints are tested significant.
+
+      10. Analysis Population
+
+        1. The Intent to Treat (ITT) Population
+
+           The ITT population is defined as all randomized patients at 1 month after AMI,
+           regardless of their adherence with the entry criteria, regardless of treatment they
+           actually received, and regardless of subsequent withdrawal from treatment or deviation
+           from the protocol19. Only some specific reasons that might cause an exclusion of a
+           patient from the ITT population:
+
+           No treatment was applied at all No data are available after randomization
+
+        2. The Per Protocol (PP) Population
+
+           The PP population is the subset of ITT population consisting of all patients who receive
+           and retain the treatment during 12 months after PCI19. Some specific reasons that might
+           cause an exclusion of a patient from the PP population:
+
+           Violation of entry criteria including inclusion and exclusion criteria Withdrawal of
+           consent Concomitant treatment of oral anticoagulant agent (vitamin-K antagonists or
+           novel oral anticoagulants such as dabigatran, rivaroxaban, apixaban, or edoxaban) during
+           the study period Poor compliance -Conversion from ticagrelor + aspirin to clopidogrel +
+           aspirin during RCT procedure and vice versa
+
+             -  Discontinuation of test or control drugs for 7 days or longer
+
+        3. * In the cases of withdrawal of consent, concomitant treatment of oral anticoagulation
+           agent and poor compliance, their data will be used for statistical analyses until such
+           events occur.
+
+      11. Final enrollment number
+
+      The initially planned enrollment number of patients was 2,590, however, the actual number of
+      registered patient was larger than this, which was 2,697. The randomization of the current
+      trial was performed using interactive web-based response system and patients were
+      competitively enrolled in 32 institutions. Despite the competitive registration among
+      participating institutions, the random system did not have a lock on it, resulting in a
+      registration of 107 more patients than initially planned number. When DSMB closely monitored
+      the status of additionally registered subjects, its members agreed that there were no safety
+      issues to them and they got an approval of IRB for using the data of additionally registered
+      patients for the statistical analyses.
+    
+  

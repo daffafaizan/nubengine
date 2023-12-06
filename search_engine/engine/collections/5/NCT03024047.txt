@@ -1,0 +1,119 @@
+
+    
+      Method:
+
+      The following covariates will be reported.
+
+      Date of diagnosis of AV-block:
+
+      The date of diagnosis is defined as the day the physician diagnoses the AV-block. E.g. if the
+      patient has a Holter monitoring performed, the date of diagnosis is the dag the monitoring is
+      reviewed.
+
+      Reported as: Day-month-year
+
+      Comorbidity at day of first pacemaker implant:
+
+      Registered as one or more of the following:
+
+        1. Diabetes
+
+        2. Hypertension
+
+        3. Hypercholesterolemia
+
+        4. Heart failure
+
+        5. Atrial fibrillation or flutter
+
+        6. Ischemic heart disease
+
+        7. Sarcoidosis
+
+        8. Connecting tissue disorder
+
+        9. Other
+
+      Smoking status at day of first pacemaker implant:
+
+      Registered as: Current, former, never
+
+      Device selected at first pacemaker implant:
+
+      Registered as: DDD, CTR, etcetera
+
+      Genetic investigation:
+
+      Is there performed genetic investigation due to the finding of AV-block? Investigation must
+      be initiated maximum 4 weeks after day of first pacemaker implant.
+
+      Registered as: y/n.
+
+      Date of first pacemaker implant:
+
+      Registered as: Day-month-year
+
+      Implant sight
+
+      ECG 12 description:
+
+      ECG 12 must be taken maximum one week before day of first pacemaker implant Registered as:
+      Bpm., RBBB y/n, LBBB y/n, PR in msec, QRS in msec, QT in msec, QTc in msec (Frederica)
+
+      Implant indication:
+
+      Registered as one of following:
+
+        1. First-degree atrioventricular block with symptoms
+
+        2. Mobitz type 1 with symptoms
+
+        3. Mobitz type 2
+
+        4. Advanced second-degree atrioventricular block
+
+        5. Third-degree atrioventricular block
+
+        6. Unknown The most malignant is chosen and it is reported if it is intermittent or
+           persistent.
+
+      Symptoms:
+
+      Registered as one or more of following:
+
+        1. Dyspnoea
+
+        2. Fatigue
+
+        3. Malaise
+
+        4. Dizziness
+
+        5. Syncope
+
+        6. Angina
+
+        7. Cardiac arrest
+
+        8. No symptoms
+
+      Echocardiography:
+
+      Performed maximum two weeks before day of first pacemaker implant The reported values are
+      what the echocardiographer describes.
+
+      Registered as:
+
+      LVEF in % (values over 60% is reported as >60 %) Hypertrophy of LV y/n Dilatation of LV y/n
+      Dilatation of LA y/n Valvular disease/artificial valve y/n
+
+      Coronary angiography:
+
+      At day of first pacemaker implant +/- 4 weeks
+
+      Registered as:
+
+      Normal y/n Significantly disease on LAD y/n Significantly disease on RCA y/n Significantly
+      disease on CX y/n Significantly disease = leading to CABG, PCI or antithrombotic treatment
+    
+  

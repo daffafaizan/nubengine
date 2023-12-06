@@ -1,0 +1,87 @@
+
+    
+      Background: The British Columbia (BC) Farmers' Market Nutrition Coupon Program (FMNCP) is a
+      healthy eating initiative funded by the BC Ministry of Health. The program provides
+      low-income households with $21/week in coupons to purchase healthy foods at farmers' markets
+      and supportive nutrition skill-building activities. It is not clear if the BC FMNCP is
+      achieving its aims of improving the diet quality, well-being and health of low-income adults,
+      as its outcomes have not been investigated, and studies of similar programs are limited by
+      weak designs that cannot demonstrate causality. This randomized controlled trial will assess
+      the impact of the FMNCP on the overall diet quality (primary outcome), diet quality
+      subscores, mental well-being, sense of community, experiences of food insecurity, risk of
+      malnutrition (secondary outcomes) and subjective social status (exploratory outcome) of
+      low-income adults immediately post-intervention and 16 weeks post-intervention. A qualitative
+      investigation will also explore mechanisms of action and strategies to maximize positive
+      program impacts.
+
+      Methods: Low-income adults (≥ 18 years) from up to 15 rural and urban communities will be
+      randomized to a FMNCP intervention (n=132) or a no-intervention control group (n=132), with a
+      1:1 allocation ratio. An independent researcher from the Clinical Research Unit at the
+      University of Calgary will generate a blocked randomization sequence that stratifies
+      participants into blocks according to sex (male, female), geographic location (rural, urban),
+      pregnancy (yes, no) and breastfeeding (yes, no). In the existing BC FMNCP, community partners
+      distribute one to two sheets of coupons per week (each sheet contains $21 in coupons) to
+      program participants for a total of 16 sheets. Coupons can be used over 16-20 weeks to
+      purchase fruits, vegetables, dairy, meat/poultry/fish, eggs, nuts, and cut herbs at
+      participating BC farmers' markets. However, to allow sufficient time to recruit participants
+      for this study, community partners will distribute 16 coupon sheets to the FMNCP group over
+      10-15 weeks (households with 5-8 individuals will receive 32 coupon sheets). To ensure
+      participants receive all 16 coupon sheets, community partners will provide two coupon sheets
+      per household during the first 1-6 weeks of the intervention. Participants in the FMNCP group
+      will also be invited to participate in nutrition skill-building activities (e.g., cooking
+      classes). At baseline (0 weeks), immediately post-intervention (10-15 weeks) and 16 weeks
+      post-intervention (26-31 weeks), participants will access a pilot-tested web-based platform
+      to report sociodemographics, health-related variables, mental well-being, sense of community,
+      experiences of food insecurity, risk of malnutrition and subjective social status. Dietary
+      intake will be assessed via two 24-hour dietary recalls at each time point using the
+      Automated Self-Administered Dietary Assessment Tool for Canada (ASA24-Canada-2018). Diet
+      quality scores will be calculated using the Healthy Eating Index-2015. In addition,
+      immediately post-intervention only, participants will report whether they received FMNCP
+      coupons and attended nutrition skill-building activities (to assess contamination of the
+      control group), how often and how much of their own money was spent at farmers' markets
+      during the intervention period and the types of foods purchased.
+
+      Data analysis: Descriptive analyses will be conducted to examine participant characteristics
+      by group at each time point. Characteristics of study completers (i.e., provided data
+      16-weeks post-intervention) and non-completers will also be compared.
+
+      Analyses will be intention-to-treat, in which participants will be analysed within the groups
+      to which they were randomized regardless of adherence (e.g., failure to redeem coupons) or
+      dropout. The analyses will include all participants who provided data at baseline. Repeated
+      measures mixed-effect regression will assess differences in changes in mean HEI-2015 scores,
+      HEI-2015 subscores, mental well-being, sense of community, and subjective social status
+      between the FMNCP and control groups immediately post-intervention and 16-weeks
+      post-intervention. Multinomial logistic regression will be used to assess differences in the
+      odds of experiencing household food insecurity and risk of malnutrition for the FMNCP group
+      compared to the control group immediately post-intervention and 16-weeks post-intervention.
+      Statistical models will include intervention group (FMNCP vs control), time from baseline,
+      intervention-by-time interaction, blocking variables (i.e., sex, rural/urban, pregnancy,
+      breastfeeding), baseline values of the outcome, questionnaire/dietary recall mode (online,
+      phone), household size, and place of data collection (community partner, other) as fixed
+      effects covariates. Participant-specific (i.e., repeated measures) and rural/urban variations
+      in outcomes will be modeled using random effects. Models will also include covariates
+      specific to each outcome to increase the precision of estimates (86). For the primary outcome
+      of overall diet quality, models will include the following: children living in the home (yes,
+      no), sex, age, BMI, marital status, race/ethnicity, perceived health, smoking, day of data
+      collection, and dietary recall number (i.e., dietary recall 1 or 2). Models that are and are
+      not adjusted for an indicator of energy intake misreporting (the ratio of reported energy
+      intake to total estimated energy expenditure) will be presented. Adjusted group differences
+      (i.e., FMNCP group vs control group) in outcomes will be estimated using 95% confidence
+      intervals and corresponding p-values.
+
+      Subgroup analyses will examine whether the impact of the intervention on primary and
+      secondary outcomes differs according to age group or sex. Dose-response analyses will examine
+      whether the impact of the BC FMNCP on overall diet quality depends on the number of coupons
+      redeemed and the number of nutrition skill-building activities attended. Interactions will be
+      retained in statistical models if p<0.10. Analyses will be conducted in Stata (v15.1, Stata
+      Corp, TX, USA), with p<0.05 indicating statistically significant differences between groups.
+      Data interpretation will jointly consider effect sizes, confidence intervals and statistical
+      significance.
+
+      Expected outcomes: Findings will show whether and how a scalable population-level policy that
+      links the agricultural and health sectors influences diet quality, psychosocial well-being
+      and other outcomes among low-income adults. Study findings will inform program adjustments to
+      improve participant outcomes. Other jurisdictions can use these data to determine whether and
+      how to initiate similar programs.
+    
+  

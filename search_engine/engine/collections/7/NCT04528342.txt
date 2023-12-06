@@ -1,0 +1,29 @@
+
+    
+      Aim:
+
+      Develop an artificial intelligence based algorithm for unsupervised diagnostic and
+      classification of childhood asthma exacerbation.
+
+      Methodology: A Longitudinal prospective monocentric observational study will be performed in
+      the Pediatric Emergency Division (PED) and the Pediatric Respiratory Unit (PRU) of the Geneva
+      University Hospitals (HUG) during 24 months. This clinical study will include patients aged
+      from 2 to16 years with acute asthma exacerbations. The intervention consists in recording
+      auscultation of asthmatic patients at rest, during acute exacerbation and after treatment by
+      bronchodilatators (β-2 agonists) inhalation in the PED, with a Digital Stethoscope (DS).
+      Auscultation will be recorded during hospitalization every day, at home 7 days after the
+      acute episode, combining intdoor and outdoor measures, and evaluating the exposome. A last
+      record will be done at 6 to 8 weeks after the acute episode, with a lung function test if the
+      patient is up to 7 years. A validation and training audio database will be constituted for
+      the development of Artificial Intelligence (AI) algorithms, allowing analysis of respiratory
+      rate, inspiratory/expiratory time ratio, PRAM score, wheezing variation of intensity and
+      unsupervised diagnosis.
+
+      Expected results:
+
+      Creation of a performant AI algorithm for unsupervised acute asthma exacerbation diagnosis,
+      with > 70 % of Sensitivity and > 70% of Specificity compared to the expert. Response to
+      treatment will improve patient empowerment and personalized medicine in childhood asthma
+      management.
+    
+  

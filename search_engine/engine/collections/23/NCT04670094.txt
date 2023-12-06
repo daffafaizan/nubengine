@@ -1,0 +1,89 @@
+
+    
+      Background
+
+      A virus causing clusters of severe pneumonia was first detected in the city of Wuhan, China,
+      in December 2019.
+
+      This pathogen was designated as SARS-CoV-2. Although of probable zoonotic origin,
+      human-to-human transmission has rapidly fuelled the spread of SARS-CoV-2 infection globally.
+
+      On February 20th, the first case of locally acquired SARS-CoV-2 infection was diagnosed in
+      Northern Italy in a critically ill, hospitalized young man with no travel history to known
+      areas of viral circulation or link to a probable or confirmed coronavirus infectious disease
+      2019 (COVID-19) case. Prior to this date, only three cases of COVID-19 had been reported in
+      Central Italy, all with a travel history to Wuhan. Following this unexpected finding, case
+      counts, and death tolls has increased rapidly in the country with a total of 192,994
+      confirmed cases and 25,969 deaths as of 24 April 2020.
+
+      Study rationale
+
+      Multiple variables have been described as possible risk factors for SARS-CoV-2
+      susceptibility, severity and prognosis, among which age, sex and comorbidities play an
+      important role.
+
+      Centers for Disease Control and Prevention (CDC) listed the underlying medical conditions
+      that have shown to increase the risk of severe illness from SARS-CoV-2. While some
+      comorbidities, such as serious heart conditions and chronic kidney disease have a consistent
+      and strong evidence as bad prognostic factors in SARS-CoV-2 infection, others as HIV have a
+      limited evidence and heterogeneous results.
+
+      Further, despite it is well-known that the burden of co-existing diseases may be additive or
+      even multiplicative, the effect of specific disease cluster on COVID-19 adverse outcomes has
+      never been evaluated. Finally, the proposed models and risk scores currently available to
+      predict disease severity and mortality are poorly reported and at high risk of bias, raising
+      concern that their predictions could be unreliable when applied in daily practice. A reliable
+      risk/prognostic score developed by a multidimensional and cross-validated approach will pave
+      the way for future research on frail sectors of the population and on the use of health
+      system resources. At the clinical level, a prognostic score will allow to predict severity
+      and mortality risk in patients requiring hospitalization and to stratify patients according
+      to clinical severity helping clinicians in their therapeutic decision-making.
+
+      Objectives
+
+      The primary objective of the study is to evaluate the role of patient's comorbidities on
+      clinical outcome in patients hospitalized for SARS-CoV-2. The investigators will confirm risk
+      predictors already known and provide evidence for the uncertain ones. The investigators will
+      also develop a prognostic score able to predict negative clinical outcomes (primarily
+      short-term mortality), that will be useful to stratify patients at hospital admission
+      according to their different risk profiles, and therefore to "tailor" the individuals' level
+      of care.
+
+      A secondary objective could be that to extend this approach at the susceptible population
+      level, especially the elders, to stratify according to the higher risk of being infected by
+      SARS-CoV-2, hospitalized and to have a dismal outcome (not developed here but related to a
+      possible amendment).
+
+      Sample size
+
+      The investigators expect the total number of patients with complete data to be approximately
+      2500, based on the expected recruitment of each center.
+
+      Analysis Plan
+
+      Data will be summarized by counts and percentage and quartiles for categorical and continuous
+      variables, respectively. Multi-state models will be used to describe patient's hospital
+      mortality and discharge. In-hospital mortality will be estimate accounting for discharge as
+      competing event. Kaplan-Meier estimator will be used to estimate mortality up to 3-months
+      from admission. The role of patient's comorbidities on clinical outcome will be evaluated by
+      the Cox model adjusting for relevant confounders. A clinically-based prognostic score will be
+      developed including comorbidities and other risk factors. The score will be constructed by a
+      multidimensional approach and Lasso approach will be used to select relevant risk factors.
+      The Area Under the Receiving Operating Characteristics curve (AUC) and Brier score will be
+      used to evaluate model performance and the final score will be cross-validated. A sensitivity
+      analysis will be performed using a training and test validation approach. The use of
+      regression trees for a practical definition of risk subgroups and latent variable models will
+      also be considered.
+
+      Multiple imputation will be performed if missing would exceed 10%.
+
+      Data collection
+
+      Consecutive patients hospitalized for SARS-CoV-2 up to October 2020 will be included. Given
+      the difficulty in systematically obtaining written informed consent and given the great
+      public interest of the project, the research will be conducted in the context of the
+      authorizations guaranteed by Article 89 of the General Data Protection Regulation (GDPR) EU
+      Regulation 2016/679, which guarantees processing for purposes of public interest, for
+      scientific or historical research or for statistical purposes of health data.
+    
+  

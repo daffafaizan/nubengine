@@ -116,7 +116,7 @@ class VBEPostings:
         Encodes a number using Variable-Byte Encoding
         Lihat buku teks kita!
         """
-        # TODO
+        
         if number == 0:
             return [128] 
         
@@ -137,7 +137,7 @@ class VBEPostings:
         Melakukan encoding (tentunya dengan compression) terhadap
         list of numbers, dengan Variable-Byte Encoding
         """
-        # TODO
+        
         encoded_numbers = bytearray()
 
         for n in list_of_numbers:
@@ -162,7 +162,7 @@ class VBEPostings:
         bytes
             bytearray yang merepresentasikan urutan integer di postings_list
         """
-        # TODO
+        
         gap_list = [postings_list[0]]
 
         for i in range(len(postings_list) - 1):
@@ -225,7 +225,7 @@ class VBEPostings:
         List[int]
             list of docIDs yang merupakan hasil decoding dari encoded_postings_list
         """
-        # TODO
+        
         decoded_gap_list = VBEPostings.vb_decode(encoded_postings_list)
 
         for i in range(1, len(decoded_gap_list)):

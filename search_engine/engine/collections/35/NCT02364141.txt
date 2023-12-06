@@ -1,0 +1,87 @@
+
+    
+      Twenty stroke subjects were recruited from the Physiotherapy and Occupational Therapy
+      Outpatient Unit of the University Hospital at Campinas - UNICAMP and all of them signed
+      informed consent forms previously approved by the Research Ethics Committee of the University
+      (#110/2004). Ten healthy subjects were also selected to obtain normal reference parameters of
+      kinematic assessment. Patients had sustained a single and chronic (>6 months post-event)
+      unilateral stroke of non-traumatic origin, with hemiparetic sequel in the upper limb, could
+      understand simple instructions, perform community gait, and had a good sitting balance. Those
+      with shoulder pain or other neurological and orthopedic conditions affecting the reaching
+      movement ability or trunk, hemispatial neglect or apraxia were excluded. The patients who met
+      the inclusion criteria were stratified to one of two groups. A sealed opaque envelope
+      containing a single cheat of paper marked with numbers 1 (group 1) or 2 (group 2), was used
+      to allocate the patient. This procedure was made by an external assessor. The patients were
+      not informed about the different treatment groups and therefore, they were blind for the type
+      of intervention applied.
+
+      The muscle tone (shoulder and elbow flexors) was evaluated using the Modified Ashworth Scale
+      (MAS)9; motor impairment was evaluated using the upper limb section of Fugl-Meyer Assessment
+      Scale (FM) and activities of daily living was assessed by the Barthel Index (BI). Kinematic
+      data were recorded by an infrared system of motion analysis (Qualisys Motion Capture System -
+      2.57 Sweden) with sample frequency of 240 Hz, during 8 seconds. The coordinated data was
+      low-pass filtered using a 6 Hz, finite impulse response filter with order 26 using the Matlab
+      software. Five infrared reflexive markers were used. For the kinematic capture, the subjects
+      were seated in a chair and invited to fit a cone in a target placed within arm's length
+      (measured on the non-affected arm from the medial border of axilla to the distal wrist
+      crease). The target was placed so that only the arm movement was required to reach the
+      target. The initial hand position of the affected arm was on the lateral trunk, with the
+      shoulder in neutral position and the elbow close to the side of the body (90°). Three trials
+      of 6 to 8 seconds' time were recorded and a media was used to calculate the evaluated
+      data.From the collected dates, values concerning to sagittal (YZ), horizontal (XY) and
+      3-dimensional (XYZ) planes were computed.
+
+      Trunk displacement was verified in millimeters as sagittal movement of marker 3.
+
+      Index of curvature was measured from marker 5. This index shows the straightness of the wrist
+      trajectory from the initial position to the goal, resulting in a ratio of actual end point
+      path to a straight line (index = 1, whereas a semicircle has an index of 1.57).
+
+      Shoulder angles were calculated using 2 vectors formed from marker 1 to marker 2, and from
+      marker 2 to marker 4; with flexion/extension movements in sagittal plane and
+      adduction/abduction movement in horizontal plane. Full horizontal abduction and the
+      anatomical position were considered at 0°. Flexion/extension elbow angles were measured using
+      2 vectors formed from marker 2 to 4 and from marker 4 to 5, using the sagittal and horizontal
+      planes. The elbow full extension was considered at 180°.
+
+      Movement time was defined as differences between movement onsets and offsets which tangential
+      velocity rose above and fell below at 5% of its peak value.
+
+      The maximum tangential velocity of the arm was computed from the velocity vector expressed by
+      a numerical differentiation from wrist and sternum markers in the 3-dimensional plane.
+      Numbers of peaks and the percentage of movement time at the maximum peak velocity (rate - %)
+      were extracted from tangential velocity traces.
+
+      The evaluations were performed by a blind researcher, in admission time (PRE), after the end
+      of the twenty treatment sessions (POST) and three months after the training was completed
+      (retention test - RET).
+
+      The selected patients were randomized individually into two training groups:
+
+      Trunk restraint group - TRG (n = 10): reaching training with trunk restraint by a harness
+      that limited the trunk movements.
+
+      Trunk free group - TFG (n = 10): unrestraint reaching training, only with verbal feedback to
+      maintain the trunk right position.
+
+      Forty-five training minutes, twice a week, totaling twenty sessions, were performed (The
+      participants will be trained for 10 weeks, and with 3 months of follow-up).
+
+      The training was based in the motor learning concepts including repetitive and task-specific
+      practice. The training task consisted of grasping a cone (3.5 cm diameter base, 13 cm high)
+      and fitting random targets as requested by the therapist in a training platform (54 cm
+      length, 64 cm extent, 1.5 cm high) with 9 targets (6.5 cm diameter) placed 10-13 cm apart,
+      along 3 lines. The targets that were ordered in a way that stimulated the complete range of
+      motion of shoulder and elbow, had pictures, colors, letters and numbers on them yielding
+      variability and feedback to the performing tasks.
+
+      Chi-squared, or Fisher's tests, was used to compare the categorical variables (i.e. gender)
+      between the three groups (HS, TRG, TFG). Mann-Whitney (for two groups) and Kruskal-Wallis
+      (for three groups) tests were used to compare the ratio dates (i.e. age, years since stroke)
+      measured at a single instant. Repeated-measure analysis of variance (ANOVA) and appropriate
+      post-hoc tests (Bonferroni) were applied to compare the numerical variables (i.e. kinematics
+      dates) between groups and instants. The normality of the kinematic variables was detected by
+      Shapiro-Francia test and for variables that were not normal was proposed Box-Cox
+      transformation. The significance level adopted for the statistical tests was 5% (p< 0.05).
+    
+  

@@ -1,0 +1,98 @@
+
+    
+      Preoperative decision support:
+
+      Based on the patient's past medical history and comorbidities providers received one of two
+      messages in the preoperative section of the chart. If the patient had a past medical history
+      of renal insufficiency, congestive heart failure, or ischemic heart disease the provider
+      received a message that the patient was at a high risk of developing sequale of hypotension.
+      If the patient had more than 15 minutes of hypotension (defined as a mean arterial pressure
+      (MAP)<65mmHg) during a previous anesthetic, then the provider received a message that the
+      patient was at high risk of developing intraoperative hypotension. Based on the past medical
+      history of the patient, providers will receive zero, one or both messages.
+
+      Intraoperative decision support:
+
+      In the vitals signs section of the intraoperative record a line denoting the mean arterial
+      pressure (MAP) was added. If the patient had more than 10 cumulative minutes of hypotension
+      (defined as a MAP<65 mmHg) then a yellow alert was displayed in the lower right section of
+      the screen. If the patient had more than 20 minutes of hypotension, then the alert was
+      changed to red.
+
+      Data Analysis:
+
+      All study data were acquired via our previously published Department of Anesthesiology and
+      Perioperative Medicine at University of California, Los Angeles (UCLA) perioperative data
+      ware- house (PDW). The PDW is a structured reporting schema that contains all the relevant
+      clinical data entered into the electronic medical record (EMR) via the use of Clarity, the
+      relational database created by EPIC for data analytics and reporting. While Clarity contains
+      raw clinical data, the PDW was designed to organize, filter, and improve data so that it can
+      be used reliably for creating these types of metrics. Last, the PDW servers interfaced with
+      other health system resources to allow for automated emailed reports and the generation of
+      web-based graphical dashboards.
+
+      Analysis of Hypotension:
+
+      For each case, hypotension was defined as the total number of minutes the patient spent with
+      a blood pressure below predefined MAP mmHG thresholds (as previously reported Salmasi paper):
+      60-65, 55-60, 50-55, and <50. In order to determine the effect of the pathway roll out on the
+      incidence of intraoperative hypotension the investigators plan to carry out several analyses.
+
+        1. For each month from 12 months before pathway go-live until 12 months after go-live the
+           percentage of case that experienced hypotension as defined above in the ranges of 0-10
+           minutes, 11-20 minutes, and >20 minutes (the cut-points used in the decision support
+           system) will be computed.
+
+        2. In essence patients were assigned to one of four pathways in the CDS program based on
+           their risk of hypotension or sequalae of hypotension. The investigators will carry out
+           sub-group analysis on each of the four pathways (hypotension message, high risk of
+           complications message, both messages, no message) to see if the response of providers
+           differed based on the message they received.
+
+      Analysis of the effect of decision support on postoperative AKI:
+
+      In order to determine the effect of the pathway to decrease postoperative AKI (defined by the
+      KDIGO criteria as a binary instance 0 vs stage 1,2,3) the investigators carried out the
+      following analysis
+
+      Patient characteristics (age, sex, ASA, etc…) and study variables (including hypotension,
+      AKI) will be summarized using means (SD) and frequencies (%) stratified by pre/post
+      intervention. The investigators will then create a risk score for postoperative AKI based
+      upon the risk factors identified by Sun et al. For each patient in the post implementation
+      group the investigators will identify a patient in the pre-implementation group who has a
+      similar risk of AKI using propensity score matching in R V3.5.1 (Vienna, AU www.r-project.org
+      ). The investigators will assess the performance of the matching algorithm by exploring
+      standardized mean difference (SMD) plots before and after matching. If the matching is deemed
+      to be inadequate (SMD > 0.1 for any matching variable) the investigators will try more
+      complex models including squared terms, interactions, or widening the caliper width for what
+      the investigators consider an adequate match (from the standard starting width of 0.2*SD of
+      the logit of the propensity score). Once the matching has been deemed successful, the
+      investigators will then assess the effect of the intervention by analyzing the incidence of
+      hypotension in each month from the 12 months prior to roll until until the 12 months after
+      roll out after allowing for a 2 month washout period using an interrupted time series
+      approach as described by Wagner et. Al.
+
+      Since the effect of the intervention will likely have a negligible effect on low risk
+      patients, the investigators will carry out a subgroup analysis on those patients at high risk
+      of AKI and use methodology similar to those described above.
+
+      Finally, if the investigators observe a significant reduction in AKI according to the process
+      outlined above, the investigators hypothesize that this reduction would be mediated through
+      hypotension and test this using Baron and Kenny's steps for mediation:
+
+        1. First, on the risk matched cohort, the investigators will show that the rate of AKI went
+           down after implementation (a significant path C)
+
+        2. Next, the investigators will show that the intervention is associated with a reduction
+           in time spent in at least one hypotension category (60-65, 55-60, 50-55, <50) in a
+           similar manner as above (significant path A)
+
+        3. Finally, the investigators will show that the association between the intervention and
+           AKI goes away (or is reduced) after including hypotension information in the model and
+           use Sobel's test to obtain a p-value to test for a significant reduction in the
+           intervention coefficient.
+
+      If any of these steps above fail (a,b,c) then the investigators cannot conclude that the
+      reduction in AKI was mediated exclusively through hypotension.
+    
+  

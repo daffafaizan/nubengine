@@ -1,0 +1,25 @@
+
+    
+      The study will enroll up to 70 adults who are referred to the Stanford Sleep Medicine Center
+      by their physician for an overnight polysomnographic sleep study due to suspicion of
+      sleep-disordered breathing, with the aim of collecting 60 usable data sets (i.e., eligible
+      subjects with high-quality PSG and Dreem recordings). Upon arrival to the clinic, patients
+      provide informed consent, are interviewed to determine eligibility, and complete a detailed
+      demographic, medical, health, sleep, and lifestyle questionnaire (Alliance Sleep
+      Questionnaire; ASQ). After the ASQ, participants are fitted with the PSG and the Dreem
+      headband by the sleep technologist. During the PSG sleep study, the Dreem headband records
+      EEG, pulse, oxygen saturation (SO2), movement, and respiratory rate. Many participants may
+      undergo a split-night study with a continuous positive airway pressure (CPAP) device during
+      their participation, as deemed necessary by the clinical staff pursuant to the sleep study.
+
+      The PSG data from the first 30 eligible participants will be manually scored by 5 sleep
+      technologists. These manually-scored PSG data files (referred to as the training dataset)
+      will be synchronized with Dreem data files from the same night and the synchronized files
+      will be used to train Dreem's deep learning algorithms. Following training, the algorithms
+      will be deployed to automatically score the final 30 participants' Dreem datasets (testing
+      dataset). Finally, PSG records for the second 30 participants will be provided to the sponsor
+      and manually scored by 5 sleep technologists. The manual scoring results will be compared to
+      the Dreem automatic analysis to determine the accuracy of Dreem's apnea-hypopnea index (AHI)
+      severity detection and sleep staging algorithms.
+    
+  

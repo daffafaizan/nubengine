@@ -1,0 +1,82 @@
+
+    
+      Sepsis represents a significant burden to the healthcare system. National predictions
+      estimate 751,000 cases of severe sepsis per annum which will increase at a rate of 1.5%.
+      Sepsis accounts for >$23 billion in aggregate hospital costs across all payers and represents
+      nearly 4% of all hospital stays. Six percent of all deaths in the US can be attributed to
+      sepsis. Protocol driven care bundles improve clinical outcomes but require early and accurate
+      detection of sepsis. Unfortunately, identifying sepsis early remains elusive even for
+      experienced clinicians leading to diagnostic uncertainty.
+
+      To improve diagnostic consensus, a task force in 2016 agreed upon a new sepsis definition.
+      The task force also included a new risk stratification tool to improve early identification,
+      the quick Sepsis-related Organ Failure Assessment (qSOFA) model, which was more accurate than
+      the older Systemic Inflammatory Response Syndrome (SIRS) in predicting adverse clinical
+      outcomes. However, due to the reliance of end organ dysfunction, the new definition has been
+      criticized for its detection of sepsis late in the clinical course. Clinical decision support
+      tools based on predictive analytics can provide actionable information and improve diagnostic
+      accuracy particularly in sepsis.
+
+      Several early warning tools have been described in the published literature based upon
+      predictive analytics and large datasets. One example is the National Early Warning Score
+      (NEWS), which was developed to discriminate patients at risk of cardiac arrest, unplanned
+      intensive care admission, or death. Scores such as NEWS are typically broad in scope and not
+      designed to specifically target sepsis. They are also conceptually simple, as they use only a
+      small number of variables and compare them to normal ranges to generate a composite score. In
+      assigning independent scores to each variable and using only the most recent value, they both
+      ignore complex relationships between the variables and their evolution in time.
+
+      In previous work, our group developed a framework to model multivariate time series using
+      multitask Gaussian processes, accounting for the high uncertainty, frequent missing values,
+      and irregular sampling rates typically associated with real clinical data can be read in our
+      prior work. Our machine learning approach is superior to other sepsis detection models that
+      use traditional analytics and machine learning techniques. A custom web application, Sepsis
+      Watch, presents the risk score along with relevant patient information and prompts the user
+      to further evaluate the patient and begin treatment, if appropriate. The Sepsis Watch system
+      is now being implemented by clinical operations at Duke University Hospital.
+
+      Our study employs a sequential roll-out study design in the Emergency Department at Duke
+      University Hospital. Our study will involve pods A, B, C, and the Resuscitation Bay. The
+      operational project is not being implemented on the psychiatry wing, fast track, triage or
+      any inpatient encounters. The operational project and thus our study period is based upon a
+      two-phase roll out:
+
+        -  1st phase: The predictive model notifies the rapid response team through a dashboard.
+           Nurse notifies team of the risk for sepsis and provides treatment recommendation to
+           primary team and primary team will place orders. Rapid response team nurse documents
+           assessment and actions taken in electronic health record.
+
+        -  2nd phase: Improvement and optimization of the workflow integrated in phase 1. One
+           workflow improvement includes the development of an ordering protocol and process
+           whereby the rapid response team can place orders for patients who are deemed appropriate
+           for sepsis treatment. A second workflow improvement includes the development of a
+           clinician feedback and auditing report that would be sent to front-line staff with
+           sepsis bundle compliance performance measures.
+
+      In addition to observing patient outcome measures, we propose an additional mixed-methods
+      study component to obtain richer information about the effects of the early warning system on
+      clinicians' situational awareness, decision-making, and workflow. This part of our research
+      will involve (1) gathering data from clinicians through a series of semi-structured
+      interviews, surveys, and observations (2) analysis of this data and identification of
+      relevant patterns and insights. Relevant clinicians include include rapid response team
+      nurses, emergency department (ED) nurses, and ED physicians. These interviews will be
+      conducted in three rounds over the implementation period: before the 1st arm, after the 1st
+      arm, and after the 2nd arm. Electronic surveys will be administered at the end of the 1st arm
+      and the 2nd arm to clinicians. The observations will take place during the 1st and 2nd arms.
+
+      The goal of the interviews, surveys, and observations will be to (1) evaluate the effect of
+      the early warning system on the clinicians' situational awareness and decision-making, (2)
+      understand how the early warning system fits into clinician workflow, and, (3) identify
+      opportunities to improve the implementation of the early warning system for future scale-up.
+
+      We will be structuring interviews according to the situational awareness model which
+      differentiates between 3 levels of situational awareness: 1) perception of relevant
+      information, 2) comprehension of that information, and 3) anticipation of future events based
+      on that information. Through the interviews, observations, and surveys, we also hope to learn
+      more about clinicians' perceptions of and interactions with the early warning system, and its
+      change on the existing Emergency Department workflow for sepsis diagnosis and management.
+      Data analysis will be conducted with the help of trained qualitative researchers from Data &
+      Society, a research institute in New York City that is focused on the social and cultural
+      issues arising from data-centric technological development.
+    
+  

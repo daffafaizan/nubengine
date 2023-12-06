@@ -1,0 +1,26 @@
+
+    
+      Data collection After participants were enrolled, they completed a baseline PDQ while waiting
+      for their appointment. Participants continued to see the intervention group, PCP, and other
+      medical providers as determined by their health providers independent of this study's
+      protocol. Another PDQ was collected at an intended 6 - 12 months later. Demographic
+      information was collected by manual chart review in the electronic medical record NextGen
+      (NextGen EHR, Nextgen Healthcare, Inc. Irvine, CA, USA).
+
+      Variables collected included age, sex, race, BMI, insurance type, preferred language,
+      presence of another pain diagnosis (e.g. knee pain), active mental health diagnosis
+      (including substance abuse), diagnosis of hypertension or diabetes, and morphine equivalent
+      dose (MED); one post-hoc variable was recorded: timing of follow-up survey in relation to the
+      2019 coronavirus (COVID-19) pandemic, defined as before/after March 1, 2020. Intervention
+      type was analyzed as an independent variable since the study was not designed as a comparison
+      of interventions. All data was stored in an encrypted Excel database on a password-protected
+      laptop. Consent forms were stored in a locked cabinet accessible only to the PI.
+
+      Stata 16.0 (StataCorp, LLC, College Station, TX, USA) was used for statistical analysis. PDQ
+      scores at baseline and follow-up were tested for statistical significance using paired
+      t-tests. Univariate analysis was performed on individual categorical variables and change in
+      PDQ using two-sample t-tests. Multivariate linear regression was used to determine
+      associations of these factors to the outcome. Variables were excluded from regression models
+      if there was a subgroup size of six or less.
+    
+  

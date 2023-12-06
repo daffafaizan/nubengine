@@ -1,0 +1,26 @@
+
+    
+      The investigators will look at how the task performance and motor performance of individuals
+      in dyadic physical interactions are affected by 1) different behavioral interaction
+      conditions (i.e., solo task, collaboration task, competition task, or cooperation task); 2)
+      the haptic impedance or stiffness of the virtual connection between dyadic peers (i.e., hard
+      connection, medium connection, or soft connection); and 3) the skill level of the other
+      partner (i.e., novice or expert). The investigators will be using both an ankle robot (M1
+      device) and a bilateral lower limb exoskeleton (H3/X2 device).
+
+      For Experiment A , the investigators will recruit healthy volunteers (n = 180) to work in
+      dyadic pairs. With the collected data, the investigators will model how humans adapt force
+      and impedance and share roles/specialize during various dyadic interaction behaviors, and use
+      this knowledge to develop robot controllers that mimic movement error and force adaptation
+      for enhanced motor performance.
+
+      For Experiment B , the investigators will recruit healthy volunteers (n = 180), participants
+      post-stroke (n = 72) and participants post-SCI (n = 72) to work in dyadic pairs within each
+      population. The investigators will test the robot controllers following the models for
+      mechanical adaptation and role sharing strategies between peers based on Experiment A. The
+      investigators will also monitor single-joint and multi-joint movement error and force
+      adaptation in regards to enhanced motor performance. The investigators will assess if the
+      robot controllers can pass a "haptic Turing Test", rendering them indistinguishable with
+      respect to human peers.
+    
+  

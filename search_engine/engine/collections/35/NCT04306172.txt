@@ -1,0 +1,32 @@
+
+    
+      Introduction: Readmissions after an acute care hospitalization are relatively common, costly
+      to the health care system and are associated with significant burden for patients. As one way
+      to reduce costs and simultaneously improve quality of care, hospital readmissions receive
+      increasing interest from policy makers. It is only relatively recently that strategies were
+      developed with the specific aim of reducing unplanned readmissions by applying prediction
+      models. EPIC's Readmission Risk model, developed in 2015 for the U.S. acute care hospital
+      setting, promises superior calibration and discriminatory abilities. However, its routine
+      application in the Swiss hospital setting requires external validation first. Therefore, the
+      primary objective of this study is to externally validate the EPIC's Readmission Risk model
+      and to compare it with the LACE+ index (Length of stay, Acuity, Comorbidities, Emergency Room
+      visits index) and the SQLape (Striving for Quality Level and analysing of patient
+      expenditures) Readmission model.
+
+      Methods: For this reason, a monocentric, retrospective, diagnostic cohort study will be
+      conducted. The study will include all inpatients, who were hospitalized between the 1st
+      January 2018 and the 31st of January 2019 in the Lucerne Cantonal hospital in Switzerland.
+      Cases will be inpatients that experienced an unplanned (all-cause) readmission within 18 or
+      30 days after the index discharge. The control group will consist of individuals who had no
+      unscheduled readmission.
+
+      For external validation, discrimination of the scores under investigation will be assessed by
+      calculating the area under the receiver operating characteristics curves (AUC). For
+      calibration, the Hosmer-Lemeshow goodness-of-fit test will be graphically illustrated by
+      plotting the predicted outcomes by decile against the observations. Other performance
+      measures to be estimated will include the Brier Score, Net Reclassification Improvement (NRI)
+      and the Net Benefit (NB).
+
+      All patient data will be retrieved from clinical data warehouses.
+    
+  
