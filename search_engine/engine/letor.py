@@ -50,7 +50,7 @@ class Letor:
     def load_train_data(self):
         # English
 
-        for doc in self.clinical_dataset.docs_iter()[:1/5]:
+        for doc in self.clinical_dataset.docs_iter()[:1/4]:
             self.documents[doc.doc_id] = self.preprocess(doc.summary)
 
         for query in self.clinical_dataset.queries_iter():

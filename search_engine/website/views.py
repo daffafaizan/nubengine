@@ -21,7 +21,7 @@ def show_home(request):
             results = []
 
             query_results = []
-            tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=100)
+            tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=200)
             tf_idf_result = letor.rerank(queries, [t[1] for t in tf_idf_result])
             for (score, doc) in tf_idf_result:
                 did = (re.split(r'[\\/\.]', doc)[-2])
