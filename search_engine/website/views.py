@@ -8,11 +8,11 @@ from engine.letor import Letor
 
 def show_home(request):
     context = {}
-    BSBI_instance = BSBIIndex(data_dir='../engine/collections',
+    BSBI_instance = BSBIIndex(data_dir='engine/collections',
                             postings_encoding=VBEPostings,
-                            output_dir='../engine/index')
+                            output_dir='engine/index')
     BSBI_instance.load()
-    letor = Letor()
+    #letor = Letor()
 
     if request.method == 'POST':
         queries = request.POST.get('queries')
@@ -22,7 +22,7 @@ def show_home(request):
 
             query_results = []
             tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=200)
-            tf_idf_result = letor.rerank(queries, [t[1] for t in tf_idf_result])
+            #tf_idf_result = letor.rerank(queries, [t[1] for t in tf_idf_result])
             for (score, doc) in tf_idf_result:
                 did = (re.split(r'[\\/\.]', doc)[-2])
                 bid = (re.split(r'[\\/\.]', doc)[-3])
