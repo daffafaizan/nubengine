@@ -137,3 +137,4 @@ GitHub.sublime-settings
 .history
 
 # CUSTOM
+__pycache__*
