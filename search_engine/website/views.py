@@ -3,7 +3,7 @@ import re
 
 from django.shortcuts import render, redirect
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
-
+from concurrent.futures import ThreadPoolExecutor
 from engine.bsbi import BSBIIndex
 from engine.compression import VBEPostings
 from engine.letor import Letor
@@ -56,7 +56,6 @@ def show_page(request, queries):
     tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=200)
     page_num = request.GET.get('page', 1)
     paginator = Paginator(tf_idf_result, 25)
-    print(page_num)
 
     try:
         page_obj = paginator.page(page_num)
@@ -65,61 +64,11 @@ def show_page(request, queries):
     except EmptyPage:
         page_obj = paginator.page(paginator.num_pages)
     
-    for (score, doc) in page_obj:
-        did = (re.split(r'[\\/\.]', doc)[-2])
-        bid = (re.split(r'[\\/\.]', doc)[-3])
+    with ThreadPoolExecutor() as executor:
+        results = list(executor.map(process_page, [(score, doc, queries) for score, doc in page_obj]))
 
-        summary_path = os.path.abspath('./engine/collections/' + f'{bid}/{did}.txt')
-
-        with open(summary_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-            content = ''.join(content)
-            content = content.lower()
-
-            summary = ""
-            summary_id = content.find(queries)
-
-            if summary_id == -1:
-                idx = -1
-                for i in range(len(queries.split())):
-                    idx = content.find(queries.split()[i].lower())
-                    if idx != -1:
-                        break
-                
-                if idx == -1:
-                    summary = content[ : 60]
-                    last = summary.rfind(" ")
-                    summary = summary[:last]
-                    
-                else:
-                    i = idx
-                    if i- 60 < 0:
-                        summary = content[: i + len(queries) + 60]
-                        last = summary.rfind(" ")
-                        summary = summary[:last]
-                    else:
-                        summary = content[ i-60 : i + len(queries) + 60]
-                        begin = summary.find(" ")
-                        last = summary.rfind(" ")
-                        summary = summary[begin: last]
-
-            else:
-                if summary_id - 60 < 0:
-                    summary = content[ :summary_id + len(queries) + 60]
-                    last = summary.rfind(" ")
-                    summary = summary[:last]
-                else:
-                    summary = content[summary_id - 60:summary_id + len(queries) + 60]
-                    begin = summary.find(" ")
-                    last = summary.rfind(" ")
-                    summary = summary[begin: last]
-
-        title_path = os.path.abspath('./engine/generation/title/' + f'{did}.txt')
-
-        with open(title_path, 'r', encoding='utf-8') as file:
-            title = file.read()
-
-        query_results.append({'doc': did, 'block': bid, 'score': score, 'summary': summary, 'title': title})
+    query_results = [{'doc': result['doc'], 'block': result['block'], 'score': result['score'],
+                      'summary': result['summary'], 'title': result['title']} for result in results]
 
     results.append({'results': query_results})
 
@@ -128,3 +77,62 @@ def show_page(request, queries):
     context['page'] = page_obj
 
     return render(request, 'page.html', context)
+
+def process_page(score_doc_queries):
+
+    score, doc, queries = score_doc_queries
+
+    did = (re.split(r'[\\/\.]', doc)[-2])
+    bid = (re.split(r'[\\/\.]', doc)[-3])
+
+    summary_path = os.path.abspath('./engine/collections/' + f'{bid}/{did}.txt')
+
+    with open(summary_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+        content = ''.join(content)
+        content = content.lower()
+
+        summary = ""
+        summary_id = content.find(queries)
+
+        if summary_id == -1:
+            idx = -1
+            for i in range(len(queries.split())):
+                idx = content.find(queries.split()[i].lower())
+                if idx != -1:
+                    break
+            
+            if idx == -1:
+                summary = content[ : 60]
+                last = summary.rfind(" ")
+                summary = summary[:last]
+                
+            else:
+                i = idx
+                if i- 60 < 0:
+                    summary = content[: i + len(queries) + 60]
+                    last = summary.rfind(" ")
+                    summary = summary[:last]
+                else:
+                    summary = content[ i-60 : i + len(queries) + 60]
+                    begin = summary.find(" ")
+                    last = summary.rfind(" ")
+                    summary = summary[begin: last]
+
+        else:
+            if summary_id - 60 < 0:
+                summary = content[ :summary_id + len(queries) + 60]
+                last = summary.rfind(" ")
+                summary = summary[:last]
+            else:
+                summary = content[summary_id - 60:summary_id + len(queries) + 60]
+                begin = summary.find(" ")
+                last = summary.rfind(" ")
+                summary = summary[begin: last]
+
+    title_path = os.path.abspath('./engine/generation/title/' + f'{did}.txt')
+
+    with open(title_path, 'r', encoding='utf-8') as file:
+        title = file.read()
+
+    return {'doc': did, 'block': bid, 'score': score, 'summary': summary, 'title': title}
