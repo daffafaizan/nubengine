@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <title>Nub Engine</title>
   <head>
     <meta charset="UTF-8" />
     <title>{% block title %} Search Engine {% endblock %}</title>
@@ -78,11 +79,10 @@
         {% if queries %}
         <div class="py-2 dark:text-white text-lg">
           <span>Results for: </span>
-          {% for query in queries %}
-          <span>{{query}}</span>
-          {% endfor %}
+          <span>{{ queries }}</span>
         </div>
-        {% endif %} {% for result in query_results %}
+        {% endif %} 
+        {% for result in query_results %}
         <ul>
           {% for item in result.results %}
           <div class="dark:text-white mt-4">
@@ -91,7 +91,7 @@
           <div class="pb-4">
             <a href="/result/{{ item.block }}/{{ item.doc }}">
               <h5
-                class="mb-2 text-2xl font-semibold tracking-tight dark:text-white text-blue-700 hover:underline"
+                class="mb-2 text-2xl font-semibold tracking-tight text-blue-700 hover:underline"
               >
                 {{ item.title }}
               </h5>
@@ -102,6 +102,19 @@
           {% endfor %}
         </ul>
         {% endfor %}
+
+        <div class="flex justify-center items-center space-x-4 mt-8">
+          {% if page.has_previous %}
+              <a href="?page=1" class="text-blue-700 dark:text-blue-500 hover:underline">First</a>
+              <a href="?page={{ page.previous_page_number }}" class="text-blue-700 dark:text-blue-500 hover:underline">Previous</a>
+          {% endif %}
+          <span class="text-gray-700 dark:text-gray-500">{{ page.number }} of {{ page.paginator.num_pages }}</span>
+          {% if page.has_next %}
+              <a href="?page={{ page.next_page_number }}" class="text-blue-700 dark:text-blue-500 hover:underline">Next</a>
+              <a href="?page={{ page.paginator.num_pages }}" class="text-blue-700 dark:text-blue-500 hover:underline">Last</a>
+          {% endif %}
+        </div>
+
       </div>
     </div>
 
