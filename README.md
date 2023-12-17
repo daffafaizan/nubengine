@@ -20,6 +20,6 @@ Highlighting of matched keywords: Easily identify relevant terms within retrieve
 3. Configure database settings in settings.py
 4. Run database migrations: ```python manage.py migrate```
 5. Run the development server: ```python manage.py runserver```
-Visit ```http://localhost:8000``` in your browser and start searching!
+Visit ```http://127.0.0.1:8000``` in your browser and start searching!
 ## Contributing
 We welcome contributions to improve and expand the features of this project. Feel free to fork the repository, make changes, and create pull requests!
