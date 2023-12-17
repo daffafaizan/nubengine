@@ -15,7 +15,7 @@ Highlighting of matched keywords: Easily identify relevant terms within retrieve
 - Indexing: TF-IDF
 - Dataset: clinicaltrials/2021/trec-ct-2021 (376,000 medical documents)
 ## Getting Started
-1. Clone the repository: ```git clone https://github.com/your_username/medical-document-search```
+1. Clone the repository: ```git clone https://github.com/daffafaizan/nubengine.git```
 2. Set up a virtual environment and install dependencies: ```python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt```
 3. Configure database settings in settings.py
 4. Run database migrations: ```python manage.py migrate```
