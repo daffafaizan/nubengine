@@ -53,7 +53,6 @@ def show_page(request, queries):
     BSBI_instance.load()
 
     tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=200)
-    tf_idf_result = letor.rerank(queries, [t[1] for t in tf_idf_result])
     page_num = request.GET.get('page', 1)
     paginator = Paginator(tf_idf_result, 25)
 
