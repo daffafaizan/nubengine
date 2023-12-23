@@ -31,9 +31,8 @@ class BSBIIndex:
     def __init__(self, data_dir, output_dir, postings_encoding, index_name="main_index"):
         self.term_id_map = IdMap()
         self.doc_id_map = IdMap()
-        self.base_dir = os.path.dirname(os.path.abspath(__file__))
-        self.data_dir = (data_dir)
-        self.output_dir = (output_dir)
+        self.data_dir = data_dir
+        self.output_dir = output_dir
         self.index_name = index_name
         self.postings_encoding = postings_encoding
         nltk.download('stopwords')
@@ -355,11 +354,10 @@ class BSBIIndex:
 
 
 if __name__ == "__main__":
-    base_dir = os.path.dirname(os.path.abspath(__file__))
 
     BSBI_instance = BSBIIndex(
-        data_dir=os.path.join(base_dir, 'collections'),
+        data_dir=os.path.join('engine/collections'),
         postings_encoding=VBEPostings,
-        output_dir=os.path.join(base_dir, 'index')
+        output_dir=os.path.join('engine/index')
     )
     BSBI_instance.do_indexing()  # memulai indexing!
