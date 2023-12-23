@@ -6,7 +6,6 @@ from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from concurrent.futures import ThreadPoolExecutor
 from engine.bsbi import BSBIIndex
 from engine.compression import VBEPostings
-from engine.letor import Letor
 
 def show_home(request):
 
@@ -52,7 +51,6 @@ def show_page(request, queries):
                             postings_encoding=VBEPostings,
                             output_dir='engine/index')
     BSBI_instance.load()
-    letor = Letor()
 
     tf_idf_result = BSBI_instance.retrieve_tfidf(queries, k=200)
     tf_idf_result = letor.rerank(queries, [t[1] for t in tf_idf_result])
